@@ -1,6 +1,8 @@
 # data process
 
 ## 数据污染
+### json_valid: to validate json files
+### json_pollute: to generate test_json_dataset
 ## 以 str 字符为单位进行污染
 
 > 如果要符合手敲的习惯，还需要考虑键盘中挨得比较近的键作替换。或者其他研究成果给出的容易被替换的字符对。
