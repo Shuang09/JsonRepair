@@ -1,0 +1,24 @@
+{
+  "name": "composer-emoji",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "nylas": "*"
+  },
+
+  "isOptional": true,
+
+  "title": "Emoji Picker",
+  "icon": "./assets/icon.png",
+  "description": "Insert emoji into messages by typing a colon (:) and the emoji name or choosing one from the composer toolbar!",
+  "windowTypes": {
+    "default": true,
+    "composer": true,
+    "thread-popout": true
+  },
+  "license": "GPL-3.0"
+}

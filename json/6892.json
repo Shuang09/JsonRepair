@@ -1,0 +1,15 @@
+{
+  "name": "message-list",
+  "version": "0.1.0",
+  "main": "./lib/main",
+  "description": "View messages for a thread",
+  "license": "GPL-3.0",
+  "private": true,
+  "engines": {
+    "nylas": "*"
+  },
+  "windowTypes": {
+    "default": true,
+    "thread-popout": true
+  }
+}

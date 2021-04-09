@@ -97,7 +97,6 @@ class JsonPollute():
             data = func(data)
         return json_check(data)
 
-        print(data)
 
 
 
