@@ -1,0 +1,29 @@
+{
+  "name": "The Ember API",
+  "description": "The Ember API: a framework for building ambitious web applications",
+  "url": "https://emberjs.com/",
+  "options": {
+    "extension": ".js,.ts",
+    "paths": [
+      "packages/ember/lib",
+      "packages/ember-utils/lib",
+      "packages/ember-console/lib",
+      "packages/ember-debug/lib",
+      "packages/ember-metal/lib",
+      "packages/ember-runtime/lib",
+      "packages/ember-views/lib",
+      "packages/ember-glimmer/lib",
+      "packages/ember-routing/lib",
+      "packages/ember-routing-views/lib",
+      "packages/ember-application/lib",
+      "packages/ember-testing/lib",
+      "packages/ember-extension-support/lib",
+      "packages/container/lib",
+      "node_modules/rsvp/lib",
+      "node_modules/router_js/lib/router"
+    ],
+    "exclude": "vendor,node_modules/router_js/lib/router/handler-info,node_modules/router_js/lib/router/transition-intent,node_modules/router_js/lib/router/router_js,node_modules/router_js/lib/router/transition-intent.js,node_modules/router_js/lib/router/transition-state.js,node_modules/router_js/lib/router/unrecognized-url-error.js,node_modules/router_js/lib/router/utils.js",
+    "outdir":   "docs",
+    "preprocessor": "bin/feature-flag-yuidoc-filter"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "client-sync",
+  "version": "0.0.1",
+  "description": "The local sync engine for Nylas Mail",
+  "main": "./main",
+  "author": "Nylas",
+  "license": "proprietary",
+  "engines": {
+    "nylas": "*"
+  },
+  "windowTypes": {
+    "work": true
+  }
+}

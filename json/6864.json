@@ -1,0 +1,29 @@
+{
+  "*": {
+    "env": "production",
+    "core": {
+      "themes": [
+        "ui-light"
+      ],
+      "disabledPackages": [
+        "message-view-on-github",
+        "personal-level-indicators",
+        "phishing-detection",
+        "nylas-private-salesforce",
+        "github-contact-card",
+        "keybase",
+        "thread-sharing",
+        "composer-markdown",
+        "composer-scheduler",
+        "composer-mail-merge",
+        "send-and-archive",
+        "main-calendar",
+        "open-tracking",
+        "link-tracking",
+        "send-later",
+        "thread-snooze",
+        "activity-list"
+      ]
+    }
+  }
+}
