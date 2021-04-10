@@ -6,8 +6,7 @@
 - 污染后的文件可以用str读出来
 - target_input: 格式正确的json文件 ->污染 -> input_json
 - json_valid: 格式正确的json文件 ->污染 -> json_pollute
-### json_valid: to validate json files
-### json_pollute: to generate test_json_dataset
+
 
 ##文件读取代码：
 - 假设读取json-valid 文件
