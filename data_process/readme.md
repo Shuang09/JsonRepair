@@ -1,9 +1,14 @@
 # data process
 
-## 数据污染
+## 数据污染目标：
+- 受污染后的文件格式不正确，无法通过jsonlaods()
+- 受污染的文件命名和其母本一样
+- 污染后的文件可以用str读出来
+- target_input: 格式正确的json文件 ->污染 -> input_json
+- json_valid: 格式正确的json文件 ->污染 -> json_pollute
 ### json_valid: to validate json files
 ### json_pollute: to generate test_json_dataset
-## 以 str 字符为单位进行污染
+
 
 > 如果要符合手敲的习惯，还需要考虑键盘中挨得比较近的键作替换。或者其他研究成果给出的容易被替换的字符对。
 
