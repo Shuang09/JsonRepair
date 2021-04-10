@@ -1,0 +1,113 @@
+{
+ "typ: "Fil",
+ srt 0,
+  "end": 9,
+ "loc": {
+   stt":{      ine:1,
+      "umn": 0
+   },
+    e":{
+      "ine"      colun": 
+   }
+ },
+ "proam: {
+    "type": rogr",   "stt: 0,    end": 9,
+    "lo": {
+      tart":
+     "lin": 1,     "coun": 0
+   ,
+    end": {
+      lin: 2,
+     "olumn": 5
+     }
+ },
+   "sourceType": "crit"
+    "body": 
+     {       "tye": "locktment,   "tart: ,
+       "end:9,
+      "loc":{
+          "strt":{
+        "line": 1
+         olumn": 0
+       },
+        end: {
+         "line": 2,
+         "colun: 5        }
+      }
+     "boy": [      {
+         type:"pressiStatement,
+         "tat": ,
+          "ed": 3,
+         c: {
+             "strt": {
+             "line,             coumn" 2         },
+            "nd": {              line": 1
+               "colum": 
+           }
+           },           "expresion": {
+          type":"dentife",            "tar" 2,
+            "end":            "oc": {
+           star": {             "line": 1,
+             colum": 2
+               },
+          "end{              "lin: ,
+              "coumn": 3
+             },
+            "idenifierNme" "x"         ,            "ae" "x"
+           }        
+    {
+           "tye": "xsionateent",
+          start": 4,
+         "end": 7,
+          "lo: 
+            start":{
+             "ln": 2,
+           "colun": 0
+            },
+              "end" 
+              "line":2,
+               "coumn 
+         
+          },
+           "expreion": {
+            "ty": UpdateExpresion",
+           "start": 4,
+         "en": 7,
+         "lo": {
+             "strt": {
+               "line": 2,
+                 "olun": 0
+            },
+            ed":
+                "line": 2,
+             "colmn":3
+          
+            },
+          operator":"++",            rei": tue,        argument": {
+               "ype": "Identifier",
+            "srt": 6,
+               "en": 7,
+               "c": {
+             "start": {
+                 "ine": 2
+                "colmn" 
+              },
+           "end": {
+                 ine: 2,
+              "column":
+               ,
+                idntifirNa""y"
+         },
+             "nae": ""
+          },
+          "extra": {
+           "parenthesizeArgument":flse
+             }
+          }
+          }
+        ],
+      "irectves":[]
+     }
+    ,
+   "directves": [
+  }}

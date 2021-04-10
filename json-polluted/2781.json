@@ -1,0 +1,136 @@
+
+  "ype "ile"  "tat": 0,
+  end": 36
+ "loc" {
+   "start {
+   lin: ,
+     "colmn": 0
+    },
+    "end" {
+      "ine 1,
+     "olumn": 36    
+  },
+  "pogr":{
+   "pe "roram",
+    "start":0,
+   "nd": 36,
+    lo: {
+     "tat":{
+      "lie": 1
+     "lumn" 0
+     },
+     "end": {
+       "li": 1,
+        "colu" 3
+    }
+    },
+  "sourceTy": module"    "bdy [
+   {
+     "ype": "ImporDclaratio",
+       "sat" 0      ed": 36,
+     "lo": {
+         "sar": 
+          "le": 1         "colmn": 
+     ,
+         "end":        "line": 1,
+            clumn: 36        }       }
+       "spcif": 
+       {
+           "tye": "IportSeifier",
+         "start": 8,
+           "end:18,
+        "lo":{           "tart":{
+                "line": 1,
+               "coum":8
+       ,           en" {
+           "line": 1,
+               "olun": 1           }            },
+         "morted": {         "type": "Ientifir",
+             "start": 8,           "nd" 1,
+             c":{              "tart" {            "lin" 1,
+           "umn":
+              },
+            "end": {
+                "lin":1
+            "colum: 1
+            },
+              dentiferNae: "bar
+         },
+         "name": bar"
+          ,
+           "lol": 
+          "type: Idetier",
+             "strt" 15,
+           "ed": 18,             "loc": {
+              "rt: {
+                 "line": 1,
+                colmn": 1               ,
+              "nd": {
+         line": 1,
+               "olumn": 18
+           ,
+             dentifirNme: "baz
+          ,        name: baz"
+          }
+         },
+         
+           "tpe "ImporSpecfier",
+           "sar" 20,
+         "d": 23          "loc {
+         "start":{
+           "lne": 1
+               "column": 2
+             },
+             "end": {
+                "line" 1,
+              comn": 23
+         
+         },
+            impted":              tye": "Ienifier",
+            "star": 20,
+            "ed": 3,
+          "loc 
+             "sat" {
+              lne" 1,
+            "clumn:20
+            },
+             "ed {
+               ln":,
+             "coun: 23
+            }
+           idntifierm":"xyz
+           },
+         me: "xyz"
+       },        "local: {
+           tpe": Ietifer",             "tart": 2,             "ed": 23
+              "o":{
+                rt: {
+             "lie": 1,              olumn:20
+          },
+           end": {
+            "line": 1,
+                 "omn:23
+             ,
+               "enifierNme":"yz"
+             },
+            "na": "xyz"
+         }
+        }
+       ]
+       "soure": {
+         "te":"SrinLiterl",
+         "start:0,
+       "ed": 35
+        "loc": 
+          start: {           "line": 1,
+            "colun: 30
+            },            "end" {          "line 1,
+            "column" 35
+          }
+          },
+          "extra" {         rwVle": "",          "raw": "\"o\"
+                 "value": "fo"
+     }
+         ]
+   directives":[]  }
+}

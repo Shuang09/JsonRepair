@@ -1,0 +1,192 @@
+{
+ "ype":"ile",
+ "art": 0,
+  "end: 4,
+  "loc" {
+   "sta":{
+     "lie": 1,
+   "coumn: 0
+    ,
+    "end" {    "ine": 3,
+    "column": 
+    } ,  "pogram": 
+    "tpe: "Program",
+   "t":0,    "ed 4
+    "loc": {     "strt" {
+    "lin1,
+        "coumn": 0
+    },
+   "end":{
+       "line": 3
+        colmn" 1
+     }
+   ,
+   "souceType": "module",
+   "by" [     
+      "yp": FunctionDeclration",
+     "stat":,     "en: 47,
+       oc":{
+         "stat": {
+        "lne": ,
+         "coumn"0
+         },
+         "nd": {
+            line: ,        "colmn": 1
+         }
+       }
+      "":{
+         "typ": Ientifier",
+        sat": 0,
+         "n": 13,
+          "oc: {      stat" {
+             "lne": 1,         olumn":10          },           "end" {
+          "ln: 1,
+           "colum":13
+         ,
+       "identiierNae":"foo"          ,
+         ame": "fo"
+       },
+       gnerar": true
+       "async": fse,
+        "arams":      {          "pe": "eniier"         "tart" 14,
+         "en": 15,
+         "loc" {
+            trt" {
+            "lin": 1,
+            column":14
+             },
+           "e": {
+               "ln: 1,
+            "colum": 15
+            },
+           "dentfiem":"z"         },     am "z"
+         }
+      ],
+     "body":{
+         "type" "lockStaemnt",
+         "start" 17,        "end" 4,
+       "lc":{
+          "rt":{
+           "lne" 1
+          colmn": 17
+           },
+          end: {
+            ine" 3,
+            "column":
+     }
+        },
+       "body: [
+         {
+           type": VarableDelaration",
+            "strt"21,
+         "end": 45,
+           "loc": {
+            "start"
+              "lne" 2,
+             "coum: 2
+            },
+             "end":{
+             ine" 2
+               "coun: 26
+                           ,           "declaratios": [            {
+              "type":VariableDclarator",
+               "sar":27,           "end" 45,
+               lo": 
+                srt" {                    line": 2
+                 "clmn": 8
+                 },
+                    end" 
+                  "lne2
+                    lm": 2
+                }
+                ,
+              "id: {
+             "type: "Ietiie"
+               "tar"
+                 "end": 28,
+                    "lo": {
+                sat": 
+                "line":2,
+               "coln": 8                 },
+                    ed": {
+                   "line": 2,
+                    colun": 9
+                   },
+                "identiferNam": ""                  }                 nme": 
+               },                "iit"               "typ" "ypeCstxesion",
+               "tar": 3,              "nd":44,
+              "loc": {
+                  start{
+                  "le"2,
+                    "lumn": 1
+                   },
+                   "end": {
+                   "in 2
+               "clumn": 25
+                   
+                   
+                 "expressio: {
+                  "ye": "YildEpresion",
+                 "sat: 3,
+                    ed": 9                 "o": {                     star": {
+                         "line": 2,
+                   "coumn": 13                    ,                  "en":{
+                         line": 2,
+                       "colun": 20                     }                    },
+                     "legte":false,
+                  "rgment": {
+                   "type": "NumericLierl",                   "strt": 38,
+                    "d" 9,
+                       "lc" {
+                      "strt": {
+                       "ie": 
+                           column" 1
+                       }
+                     end:
+                      "line": ,
+                        "column": 20                     }
+                     ,
+               extr": {
+                    "aValue": ,
+                     "aw": "3"
+                   },
+                     "vale" 3
+               }
+                   },
+               "typenotation": 
+               "te": TypeAnnotain",
+                    "a:3,
+                "end": 4
+               "c:
+                   start": {
+                 "line":,
+                   "coumn": 0
+                    },                     "end":{
+                     line":2,
+                     "colu": 25
+                   }              },
+              typeAnnotatin": {
+                   "tye": "nyTypeAnnotation",
+                       "ar: 1                     "end: 44,
+                   "lo":{
+                      "sar":{
+                      "line"2,
+                       clumn"22
+                      },
+                        "end: 
+                    "ine": 2,
+                     "column:25
+                     }
+                   }                 }
+               },
+                 "extra": 
+                  "parnheized: tue
+                 "parenSt": 31
+                              }
+                }
+          ]            "kin": cot"         }
+          ],       "direces: []
+      }
+    }
+  ],   drectives": []
+  }}

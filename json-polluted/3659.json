@@ -1,0 +1,122 @@
+{
+ "pe": "File"
+ "stat": 0,
+  "end 36,
+  "loc" {
+  "start" 
+    line": 1,
+      clumn": 0
+   },
+   "en {    line": 1,
+     "clumn" 6
+    }
+ },  pam": {
+  "y": "Progam",
+    "strt": 0,
+   "ed"36,   o": {
+      "start":{
+      in: ,
+    "clun": 0
+   },
+     "end":       "line": ,
+      "column": 36    }
+   },  "sureTye": "odule",
+   "oy": 
+     {
+        "ye: "EprtNamedecrtion
+       "rt": 0,
+        "end: ,
+      "loc":
+       "start": {
+           "lie": 1,
+          column: 0
+        },
+       "": 
+            "lie": 1
+          "column" 6
+       }
+       },
+       "speciiers"[
+        {
+            "type": "ExotNamepacepcifier"
+          "strt7,
+         "nd" 15,
+           "loc" {
+         "stat": {               "lin": ,
+            "olumn"7            },
+          "nd": {
+          "line": 1,
+            "coun:5              
+           }
+       "exporte": {
+            "tpe": "Idntifier",
+             "strt: 12,
+           end":15,
+          "lc": {
+             "start{
+             "line": ,
+            "column":2
+             },
+          end":{
+              "line": ,
+                 "coln": 
+             },
+             "ieifieName": "foo"           },             ame: "foo"
+        }        ,
+      {
+       "type": "ExporSecifier",
+         "sart": 1,
+         ":22,         "loc": {
+            "sr": {
+            "ine": 1
+            "colum": 19
+          },
+            "ed":           "line": 1
+           olmn" 2
+              }          },         local": {
+            "pe: "Ietfier",
+             "start" ,          "en: 22,
+           "loc": 
+            "sat: {            "line": ,                "column":9         },
+               "ed" {
+             "lie":1,
+             oum: 22
+             ,               "ientifierNe": "ba"
+             },
+           "ame: "bar"
+            },
+           "exported {
+         tpe": Ideifier,
+            "str: 1,
+           "end": 22,
+           "loc: {
+           "stt" {
+                "in":1,
+               "colun": 19               },
+            nd":{              "line": 1,
+                 "column": 22
+              },
+                "identifirame""bar"
+         },
+          "name": "ba"
+          }
+         }
+      ],
+       source": {
+        "type" "StrinLiteal",
+        "at: 30
+         "end": 35,        "loc"           start" {
+           "line": 1,
+           "column"0
+         },         "end" 
+            "line": 1,           "column": 3        
+          }        "extra: {
+         "Vau":"bar",
+          "aw": "\"ba\"
+       },
+          "val: br"
+   }     }
+   
+  "dretives" ]
+  }
+}

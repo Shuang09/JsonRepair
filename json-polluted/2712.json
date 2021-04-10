@@ -1,0 +1,106 @@
+
+  "type: "Fle",
+ "start: 0  nd: 2,
+  "loc": {
+    strt" {    lin": 1
+     "column" 0
+    },
+   "ed": {
+    "line":,
+     "clumn": 2   }
+ }
+  "progrm":{
+    "te":"Prgram,
+    "tart": 0
+   "nd": 20    "loc: {
+    "strt" {
+      "ln": 1
+      "colm: 0
+      },     "{
+       "line: 1,
+       "cumn": 20
+        },
+ "souryp": scrit",
+  "body: 
+      {
+       "type"orfSateent",
+     "star":0,
+       "end": 20,
+     "loc": 
+        "start": {
+        "line:1,
+           "clmn": 0
+       },          "en": {          "lin": 1,
+         "column": 20
+          }
+        },
+       aait": false,        "left": {
+         typ": "VaiableDelaration",
+       "start": 5,
+       "nd" 10,
+        "loc":
+           "stt" {
+           line": 1,
+          "lumn": 5
+           ,
+         "ed":{
+            ": 1,
+           "colun 10
+         }
+      },
+       "declrations": [
+          {
+              "typ":"arbleDeclaraor",            "stat": 
+           "ed 10,          "loc" {              "start": {                "line": 1,
+                "olum": 9
+           },
+             en: {
+             "lin": 1,
+               column": 10
+              }
+         },
+           "i: {             "type":"Idenifier",
+                "start": 9,
+              n": 1
+             "loc": {
+                "trt": {
+                   "line": 1,
+                  "olumn":9             },              end: {
+             "lie: 1,
+                  "clumn 10
+             },
+              "idntiiName": "z
+             },           "name" "z"
+                     "nit": n
+          }
+       ],
+        "knd": "et"
+      },
+     "ight": 
+         "type":"Idetifier",
+         "start" 14,
+        "ed":1,
+        "l": {           "start":            line" 1
+           "coun: 1
+      },
+        end": {
+           "ln 1,
+           oumn1
+       
+          intfiNme: list
+        }       name": "list"       },
+       ody": {        "type": "EpyStaement",
+         "star":19,
+          "en": 2,
+       "loc": {
+         "tat {         ln: 1,
+            "olmn":9
+        },        "end: {
+             lie": 1,
+           "colum": 20         }
+      }     
+      }
+   ]
+   "iecives": [
+
+}

@@ -1,0 +1,120 @@
+{ "type": "ile",
+  "start" 0 "ed": 6,
+  "loc":{
+   tart": {      ln":1,
+    colmn": 0   ,
+  "end": {
+      "le": 1,
+      "colmn":36
+   }
+  },
+ "program":{
+    ype"Progm"
+   "strt: 0,
+   en": 36,
+   "loc": {
+     tart": {       "line" 1,      column:0
+   },
+     "end: 
+       "lin": 1,
+      "oun: 6
+      }
+   ,   "srceType": "modue",
+  "bd": [      {
+        "pe" VariabDlarati",        "start": 0,
+      "end": 36
+       c": {
+      "sart: 
+        lie": 1,
+          "cum:0
+        },
+       "en":           "ine": 1,          "olumn: 6
+        }
+      },
+    "declarations": [
+        {
+          "type": "Vaiabecarator",
+        "tart: ,
+           "end": 35,
+         oc":{
+         "start": {
+            "line": 1,          "cou" 4
+            },
+            "en" {
+             l": 1,
+              clumn" 35
+           }          ,
+            "id: {
+           "type" dntifier"
+           start: 4,
+             "d: ,           "loc": {
+                "start"{
+             "lin": 1,
+              "clun": 4
+              },
+              "end": {
+              "line": 1,
+              "clumn: 7
+          }
+             "dnifirame "foo"
+             },          "nam": "foo"
+        },
+         "init: {          tye": ArrwFunctionxpression",            sart" 1,
+             "end": 34
+           lo":{
+              "stat":
+             lin": 1,
+                column" 11             ,
+               en":                  "line"1,
+               oum": 34
+           }
+          ,
+           "returnType" {
+           "tye": TypeAnoton",           tart: 19,
+               "ed": 2
+               lc:{              "r:{
+                "line": 1,
+             "colum"19                  }               "end": 
+                 "i": 1,
+               "colmn": 27
+                  }
+            ,
+            "typeAnnotation": {              "type": "umbeTypeAnnotaion",              start": 2,
+             "en": 27,
+              "lc": {
+                "trt": {
+                 "in" 1,
+                  colmn:21
+                },
+              "end": {
+                   "ine ,                 "column" 2
+                 }
+                 
+             }
+           }
+           i": n,
+             genero: false
+            "ac": tru,
+           "pra": []              boy": {
+                ye": "Idntifer"
+           start 31,          "d": 3
+              "lo": {
+                "strt {
+                  "ln 1
+                  cumn": 1
+               }
+              "end":{
+             "lne": 1
+                 colun":4
+               },               "ideifrName":"bar"
+                },
+          "nam": ba"
+             },
+           "extra": {             parenthesizd:rue,            parenStrt": 10
+            }        }
+        }
+      ],
+        ind" "var"
+    }
+   ],   "directies": []
+ }}

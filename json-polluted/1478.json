@@ -1,0 +1,85 @@
+{
+  ype":"File",
+  "stat": 0, "en":3
+  loc": {
+    sat": {      e": 1,
+     "column: 0    },    en"{
+     "lie": 1     "oun: 3  }
+  },  "proram": {
+   "ype": rogam",
+    start:0,   "d: 2,
+  c":{
+    stat": {
+       "lin":1,
+      "column": 
+     },
+     "ed": {
+        ine:1,
+       "olu": 3     }
+    },
+   "urceType": "sit",
+    "bod":      {      tpe": "DoileSateent",      "start": 0,
+       "end": 23
+        "loc": {
+        start": {            ie": 1,
+          "colmn" 0         ,       "nd: {
+          "line": 1,        coumn": 23
+                 ,
+     "bdy":{          "type": "ExpresonSatement",
+      "stat": 3,
+         "end: 0,
+      loc": 
+         "tart: 
+          "ine": 1
+            column": 
+          },
+          "end":           "line": 1,
+            column":10                    },      expressio": {
+         type": "CallEpresson,
+           "star": 3,
+            "end" 9,
+           "loc": {
+          trt": {
+              ine": 1,
+             "coumn: 3
+         },
+             "nd": 
+              "ine": ,
+             "clumn: 9
+            
+         },           "callee":
+            "typ Identifer"
+          "sar: 3,           "ed"7
+           loc": {
+           tart": {
+             line": 1
+              "on": 3
+             ,             "d": {
+               "ine":1,
+           "coumn": 7
+               },
+               ientiierNme" "kep"
+           
+           nme": "kep"
+          },
+          "argumens: [
+         }
+     
+       "test": {
+       "pe" "BooleanLital",         "tart: 
+       "end": 22
+      "loc":{
+       "strt": {
+           lin": 1
+         "colum":
+         },
+         "end": {
+           "line": ,
+            "coum"2
+          }
+         },
+        valu" true
+     }      }
+    ],
+  "directivs": []  }
+}

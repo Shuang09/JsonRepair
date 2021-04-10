@@ -1,0 +1,153 @@
+{ "type": "Fie",
+  "start: 0,
+ end": 24
+  "loc" {
+    "tat": {
+    "lie": 1,
+     "colmn:0
+   ,
+    "end":{
+      "lne": 2,
+      "column": 12
+  
+  }
+  "progra": {
+   "tp: "Pogram",
+   sat": 0,
+   "end": 24,
+    "lo": {
+    "star": {
+      "ine: 1,
+     "colmn: 0      }
+    end":{
+       "lie": 2,
+      "olun":12     }
+   ,
+    "sourceTpe": "scipt",    body":[
+    {      "tye" "Epessionatement",
+      "stat": ,
+      "e":1,
+     "oc":         "start": {
+           "line": ,         "coumn": 0
+          },
+        "end: {
+          "line: 1,
+         "clumn 11       }
+      ,
+      "expresin": {
+         "typ": AssignmntExpresion",         "tar": 0,
+         "en": 1,
+         "lo"
+       "start" {
+          "lne: 1,
+            "column": 0
+           },
+         "d:{
+             ln":,
+             "con"10       }
+      },
+      "erator": =",
+       "et": {
+         ype": dentfr",
+       "srt": 0,
+          "end: 1,
+         "lc": {
+            "sart": {
+              "lin":,
+               umn": 0
+           },
+        "en": 
+             li": 1,
+           "column:1
+            }          "identiierNam "x"
+         ,
+       "name":x"
+         ,
+         righ": {           "tye": "Biayxreson",
+         "sart: 4
+          "nd"1,
+         "loc": {
+          "start": 
+               "line 1,
+              "column": 4
+        }            "end"{
+             "ne": 1,
+              "colun": 10
+           }
+        },
+         "et": {
+            "type": "UtExprsson",
+            "sa:4,
+          "ed": 7,
+           "lc" 
+             "strt: {
+                lne": 1,                "olum: 4              ,
+             "ed":{
+              "lin" 1,
+               "olu":7
+           }
+            },            "operatr": "--"
+           "pix":false,
+             "arument"{          "type": "Identifer",
+             "start: ,
+             "end":5,
+              "l" {
+             stat": {
+                "line": 1,              "clumn:4
+               ,              "end": {
+                "line":,
+                  "colum": 5
+              }              "idenierme": "y"
+           }
+              name": "y"
+         }
+         },
+         "optor" ">",
+           "rgt": {             "typ": "NrLierl"
+        "tart" 8,
+         "end": 10,
+           "lc" {              "tar{
+              line" 1,
+               "cum":              },
+             "end": {               "line": 1,
+            "column": 0
+              }
+              },             extr": {
+              "rawVlue: 10
+          "raw":"10"
+           }          "lue": 10
+                 }
+        },
+      trilngComments": [
+         
+           "typ": "mmntin",          "valu": " nothing"
+       star": 13,
+          "end" 24,           "loc": {
+         "sar":            "in": 2,
+          "coun 1
+           }
+             "end: {               "ine": 2,
+             "comn": 12
+           }
+        
+          
+        ]
+     }
+   ]
+   "diecive" []
+  ,
+  "commets: [
+   {
+     "type": ommentLn"
+    "value":" nothin",
+     "art": 13,
+    n": 4,
+    "lo:{
+       "start":{
+         line:           "colmn":        },
+      end:        "line 2,
+       column": 12
+       }
+     }
+    }
+ ]

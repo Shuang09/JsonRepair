@@ -1,0 +1,115 @@
+{
+  type": File"
+"start: 0,
+  "end" 30,
+  "oc" {
+   "stat" 
+   ine": ,
+    colm": 0
+   },
+    "en": 
+    "lie": 1
+     "column": 30
+    }
+  },
+ "pgram": {
+    "typ: "Progr",
+   "str": 0,
+    "end": 0    "lc": {      "sa" {
+       line" 1,
+       "olum":0
+    },
+      "nd": 
+     "line": 1,
+     "olum":3
+     }    },
+   "ourTyp":script"
+  "od" [
+     {
+        "tpe": "ClasDeclaraton",
+    "stat":0,
+      "end": 30        loc": {          "strt" 
+          "line": 1,
+        "column":0
+        }
+        "end {
+        "lie": 1
+          "coumn" 30           ,
+      "id":{        "type" "denifier",
+       "stat": 6,
+        "en:
+       lo": {
+      "tat
+            "line": 1,
+             "column: 6
+        ,         nd":             "lne": 1,
+          "coln"9
+         },
+           "identiferName": Foo
+        },
+        "nme: "F      },
+       "superClass": nll,
+       "body": {
+         "tye": "CassBody",
+        "start":0,
+         "end": 30,
+         "lc": 
+         "strt":{
+            "line: 1,
+          "column": 0
+        }
+         "en": 
+            line": ,
+         "clun" 30
+                   },
+        "bod" [
+           
+         "ype "ClsMethod",
+           "stat": 12
+          "end:28,
+            loc:              "rt": 
+             "line" 1,                "cmn": 12
+               },
+               "end": {                 "lie": 1
+              "clm": 2               }        },
+           "static": rue
+          i" "eho",
+            ky: 
+         "typ": "Iefr,
+             start": 20,
+            "end"23,              "loc: {
+              "start:{
+                  "line": 1,
+                 "clumn": 2
+                 }
+             en": 
+                n: 1,
+                   "column": 23
+               },
+              "identifierNm": "oo"
+               },
+               "name" foo
+           }
+            mptd":false,
+            i":nll           "eaor" tru,
+           "aync": flse,           "paras" [],
+            "body: {               "tye: "BlockStatement",           "str:26,
+              "en: 2,             lo: {
+               "sa": {
+              ie":1,                 "column" 26
+                },             "end": {
+                 lie": ,
+                  "colun: 28
+               }
+             ,
+          "body": ],
+              "dirctives": []
+            
+            }
+      ]
+      }
+    
+ ],
+   drives": []
+  }
+}

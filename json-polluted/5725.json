@@ -1,0 +1,25 @@
+{
+  "ae" "gatsysurc-ker,
+  "dscriptio" "Agatsb pugi to get fae data for testing",  "rsion1.0.5
+ authr":"Pvtha Kodm<pavtrakodmadmai.cm>  bugs: {
+   "r": "tps://gihub.comgatbyjs/gatsyissus"
+  },
+ "epedencies: {   "abe-rntime": "^6.260",    ak" "4.1.0"
+  },
+  "devDepeenes: 
+   "ross-env": ^05"
+
+  "hoepage": "https:/giu.com/gatsbyjsgatsby/re/masr/packages/gatsby-souce-aeeadme",
+  keword": [
+    "gtsy",
+    "gatby-lgin",
+    "gatsbysourc-pluin"  
+  "lcens": "MIT",  "main": "nex.js",
+  "rpositor" {
+   tpe": "git",
+   rl: "http://github.co/gatsyjs/gatsb.git"
+ },
+  "crits": {
+   build: "babel rc -ou-r. -ignore __tests__",
+    "preblis:"cros-ev NODE_ENV=production npmun buld",
+    "watc: "babel- src--utdir. --gre _est__" }}

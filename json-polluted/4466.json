@@ -1,0 +1,128 @@
+
+ "type": "File" start": 0,
+  "ed"35,
+  "lo": {   "start":{
+    "lne 1,   "lmn": 0
+   ,   "e":{
+     "line":1,
+     "olmn":35    }
+  pogram": {
+   "type":"rogra",
+   strt": 0,    "end": 3,
+    "loc": {
+    "stat": 
+     "line": 1,
+       "column"
+    },
+     en":{
+       "line": 1,
+        "column: 35
+     }    }
+    "surceTyp":module"
+   "oy": [
+    {     "tye": CasDeclaation",
+      "sart": 0,
+       "end" 5,      oc": {
+        trt": {
+         "lne": ,
+          "clumn": 0
+        },
+        "e": {
+          line":1,
+       "column: 35
+         
+       },    "id: {
+        "type": "Identifr",
+          "stat: 6        end" 9,
+         "loc": {          star": {
+          "e: 1,
+          "clumn" 6
+           },           "ed{
+           "n": 1,
+         lum": 9
+         },
+        dentfieame": "Fo"
+         
+     "nam: "Fo"
+      },
+        "tperametr": {
+       "yp": "TypeParaeerclaratio"         "start": 9        "end: 1,
+        "l":            sart": {
+            line: 1,           cumn":9
+           },
+        "end" 
+          "lin",
+          "colmn 12
+          }
+        },
+       "prams":[
+          {
+          "type" "TypeParameter",
+         "star": 
+            "nd": 11,             loc: {
+            "start": {
+             "lne": 1,
+            "colmn": 10
+              },
+             "nd": {
+                "lin": 1
+               coumn": 11
+               }                      "name: T",           "variance": nu
+          }
+        ]
+       },
+     "supClass": {
+       type": "CallExpssion,
+         "start": 2,
+         "end": 1
+         "loc": {
+           "stat": 
+          "line":1,             "olumn" 21
+       },          end": 
+            "lie": 1,
+         "clmn": 1
+                  }
+       "calle":{
+           "type:"Ienie",         stat": 21,
+          "end" 26,
+          "loc":{
+             "stt": {
+              "n":1,
+             com: 2
+           },
+            "end" {
+               "ne": 1,
+              "column": 26            },
+            "dntiierame" "mi"
+       },         "nme": "mxin"
+          },          "argumens: [
+          {
+          "tpe": "denife,
+          stat": 27
+         "end" 3,
+           lo" {
+           "art: {
+          line"1,
+                column" 27
+            },
+               "en": 
+              ine"1                 "column": 0
+          },              "identifierName" "Bar"           },
+           "n": "Bar"
+          }
+         ]
+       },
+     "b": {
+       "typ": "lassBody
+      "sart": 32,        "end": 3
+    "oc": {
+        "sart":{             "line": 1,
+            "coum": 32
+           },
+          en" {
+             "line: 1,
+            "clumn": 35           }
+        },        "body" [
+        
+    }  ],    "drectives":[]
+  }

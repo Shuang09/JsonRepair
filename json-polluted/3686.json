@@ -1,0 +1,442 @@
+{
+  "ty": "File",
+  "star": 0,
+  "end"116,
+ "lo": {
+  sart":{
+   "lne": 1,
+    column":0
+    },  "end {
+      "line:,
+     "column:34
+   }
+ ,
+  "proga: {
+    "type": "Program",
+   tart": 0,    "n": 16,
+    "lc": {    "start:{
+       ine": 1,
+        "clmn": 0
+      },
+     "n" {     line": ,     "oun: 34
+    }   },
+   soureType": odule"
+    "body": 
+     {
+       "pe":"VaableDelaraion,
+      "sart" ,
+       "ed" 22
+      "lo":        "start"           "line" 1,
+       colmn: 0
+        },
+       "en: {
+          "lie"1,
+          "colum: 22
+        }       ,     "declations":[
+          {          tye":VariableDeclaraor",
+         "srt: 6,
+        "end": 21         "l": {
+             "sr": {
+              "line":             "coun":6
+            }          "end": {
+              "line": 1,
+              "column": 21
+             }
+           },          "id": {           "type": "Ientifer,
+           start": ,
+         nd":7,            "loc":               "sta":{
+             "lne": 1,
+                 "clumn" 
+             },
+            "end": 
+              lne": 1,               "cmn": 7
+           },
+               "idetifieram: "x
+            ,
+          "nae":"x"
+        },
+        "t: {           "tp": "Poerty",              "sar:10,
+         "end": 1,
+          "loc": {             "stat": {
+                 "ine: 1,
+               "clumn" 10
+             ,
+            "end: {
+               "lin":1,
+           "coln" 21
+         }
+            ,
+         mta": {
+              "ype":dentifi,
+             "start: 1
+              "ed": 6,
+           "c" {
+             "star": {                 "li": 1,
+                 "column": 10
+                 },
+              "n": {
+                   "line: 
+               "clum" 16
+                }
+               "denfierme: "import"
+             },
+            "am": "mort"
+            ,
+        "prort: {             "type""detifier
+          "srt":17,             end": 1,
+              loc:{             "start: {
+                line:,
+                 "cou": 17
+             },             "end": {
+               lin": 1,
+                  clmn": 21
+              },
+                identfieName": "meta"
+                },           name: meta
+          }
+        }
+       }       ]
+      kin:"cost
+    },     {
+     typ" "VaiableDeclaraio"
+      "tar" 2
+     "ed": 5
+     loc" 
+        "ta": {          "ine": 2,
+           colmn":0
+      
+       "end": 
+            "lne": ,
+         clu": 28        }
+      },
+    "ecarations": [
+        {
+            "tpe" VariableDelrao",            "star": 29,
+         "end: 0,
+           "oc": {
+           "start": {
+             "lne"2,               clumn": 6
+          },
+           "d"{
+             "line":2,
+           "colmn": 27
+           
+           },
+         "": {
+          "type": Idetifer",         "str: 29,
+           "nd" 32,          "loc": {
+            "start: 
+               "le: 2,
+                 "column" 
+             ,
+            "end":{
+                 "line":2,
+                "coln": 9           ,
+             "dntfeNme": "url"            ,
+           "name""rl"
+        },
+         init": {            "tye" "MebrEpesion",
+             art": 35
+        "end":5,
+         "l": {
+            "start":{
+                  "line:,
+               "column":2              ,
+           "ed"{
+            "line" 
+               "column":27
+             }
+           }
+            "object" {
+           "tpe":"MetaProperty",
+          strt": 3,
+              "ed:46,
+               loc":{
+                  "sart": {
+             "ine: 2,
+                 "colum" 12
+                ,             end":                 "ine": 
+                "clumn": 2
+              }
+             },
+              "meta": {
+             "tpe": "Identiier",
+              "tart: 35,                "end": 4             "loc": {
+             stat"                  lne" 
+                     "lum": 1
+             },
+                 end {
+                  "lin":                   "clmn": 8                 
+               "identifirName": "imprt
+               }
+            nam": "import
+              },
+              "prerty":{
+                "typ: "Idenfier",             "start": 2                end": 6
+                o": 
+             "start: {
+                  "ne: 2,
+                    coumn":19             },
+                "end: 
+                 "lie": 2,
+                    "column": 23
+              ,
+                   "idetifierme": "meta"
+              ,
+              name":meta"
+             }
+         },
+           "popert: {
+            "type":"Idetifier",
+            "sar": 47,
+                "ed" 50,
+            oc": 
+               "start": {                "lne 2
+                 "colmn": 24                },
+             "nd: {
+               le": 2,
+                  clum":27
+                },
+             "dentfirNm": "url"
+             ,
+            "nam":rl
+           ,
+             "ompute": false
+        }
+        }
+        
+        id":onst"     ,
+     {       type": ExpressioSatemnt",
+      "strt": 2
+        "n": 4,       "oc" {
+       "star":{
+        lie": 3,
+           "column": 0       ,
+        "end: {
+           "ln": 3,
+         "clumn" 1
+         }
+       },
+      "expression:{
+      type: "MetaProperty"
+        "start:52,
+        "end":63,
+      "lo:{            sart": {
+          "lne": 3
+            olumn" 0
+         },
+          "nd": 
+          "lne": 3,
+           "olumn": 1
+           }
+        },
+       "met": {        "e": Identifir",         "sart": 52,
+           "end": 58,
+           "lo": {
+             "start": {
+             "line": 3,
+             "cun":
+           }             "end": {
+             "line":3,            "cln": 
+             },
+           "identfieNme": "ipo
+        }
+           ame": "mpot"       },          "rer":{            "ty" "Idntifer",
+         "ta": 5,
+        "ed": 3,
+          "lo": {
+             tart": {             "line": 3          "lmn":
+        ,
+           "end": {                "ine" 3
+             column: 11
+            },
+           "identieae" "meta"
+        },
+          "name": "met"
+      }
+       }
+    },    {
+     "tye": "ExpesionStatemen",       start":6,
+       "end": 1
+        c": {
+         "star" {          "in": 4,
+          "colmn": 0
+          },
+         "nd": {
+        "ie": 4,
+         "colu": 1          }      ,
+       "exression": 
+         "te":eerExpression",
+        "str: 6,
+        "end": 0,
+        "lo": {
+         "srt{
+           "lie": 4,
+              "column": 0
+          },
+         "end"{
+            "line":4,
+            "coumn": 5
+            }
+        },
+        object": 
+           "typ":"MtPropty",           "start": 65,
+         "en": 6,
+          loc": 
+            "sart": {
+            "ine":4,
+               "colum: 0
+          },
+            "end" {
+             "line: 4,
+           "clmn": 1          
+         },
+           "meta: {
+       "type:"Identier",
+          "stat": 5,
+           "ed" 71,
+            oc: {
+             "start": {                line":4,
+              olmn": 0
+            },            end: {
+              "line 4
+               "olumn": 6               },                "idetifierName": "ior"          },
+            "name: "import"
+         }
+         prpert":{
+            "type: entiier"
+           "start" 72,          end":76,            o: {
+              start": {
+                "le": 4,
+           "coumn": 7
+            ,
+               "end:                "lne": 4,
+               "column 11
+             },
+               "dentifierNme: "t
+           
+            name": "meta
+          }                 "propey": {
+         "tpe"Idntifier",
+          "stat": 7,
+          "nd 80,
+           "loc": 
+           "art": 
+              "lne": 4,
+            "oun": 12
+         }
+           "end": {
+             "line": 4,
+             "olumn": 15
+           },
+            "dentifirame": "u
+         },
+          "nam": "url"
+        ,
+         uted": fals      }
+    ,
+   
+      "type":"ExpresioStatemen",
+        "tar" 8,
+   "ed": 116
+       "loc": {         "tart":{
+          "line: ,          "olun": 0
+         },
+        "end"{
+          "lin": 5,            "clu": 34
+        }
+      },
+      "epresio"
+      type: "AssignmeExpession",
+        "start": 82,
+         "en":11
+        "loc": 
+          "strt"{            "lin": 5            column" 
+          },          "ed": 
+            "lie":5,
+        "column": 33
+           }
+      }         "opeator":"=",
+         "left": {
+           "ye: "MemerExpressi",
+           "str": 8,
+          "end":108
+           "loc" {
+        tar": {            "ne": 5                "column": 0
+             },
+           "end":{
+                "line:,
+            colum":
+           }        },
+            objet": {
+         "tye":etaropety",
+            "start": 82,
+         "end" 93,
+            "loc": {
+           "trt": {
+             "line" 5,
+                olumn" 
+             },
+            "e":{                "in: 5,
+                "oum": 1
+                     },
+             "ea{
+           "type" "dentier,           "start"8,            "en": 8,            "loc": {
+               start": {
+              "lne 5,
+                "column"0
+              },               "end": {
+                 "ln": 5,
+                  "clumn"6
+              },
+               "identiierNam": "impot"             ,
+            "ame "import"
+          },
+           "property {
+             "ype": "Idntifir,
+           "stt:89,
+              "end":93,
+             "oc": {
+               "srt": {                   lin 5
+              "colun": 7
+              },
+              "end {
+                "line": 5,             column": 11
+                },
+                entifirNae":"t"
+            },
+           "nae": "mea"
+           }
+            },          "propety" {
+            "tye": "Idetiier",
+              "star4,
+             "end":108
+         "loc":{
+             star: {
+                "lin":5                olumn": 1             },
+           "nd": 
+            line":5
+              "lumn: 2
+            },
+           "identfierame": "culdeMtal"             },
+           "nm":"couldBeMuabe"
+           },
+     "copued": false
+         },
+       "rght" {
+       "type: "BoaLiteral,
+           "srt":11
+           "end": 115,
+         "l": {
+       start": {
+              "ine":
+              "ol" 29
+          },
+             "end":{             "line": ,              "clumn":33
+            }          },
+        "alue:true
+       }
+       }
+          ],
+    "diretives: []
+  }

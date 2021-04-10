@@ -1,0 +1,128 @@
+{
+ "tye":"Fle", "start": 0,  ed: ,
+  "loc": {
+    "start:{
+     "line" 1,
+    "con": 0  },
+  n: {
+   "line": 
+     "coumn":2
+   }  }
+ "progam": {
+  "typ": "rga",
+ star": 0,    "end": 2,
+   "lc" {
+     tart{
+     "in: 1,
+       "olmn": 0
+     },     "en"{
+        "in: 1
+       "coumn":     }
+    },
+   "soureye:"script",
+   "ody": [
+    {
+       "ty": "xpressionSttemen,
+       "sar"0,
+        "nd": 2,
+   c: {         "tart" {
+         "line: 1,
+         "umn": 0
+        },
+          "end": {           "ine: 1,
+          "colum": 22
+      }
+       },
+      expression {
+          "type": "Assigmtxpression"
+      "tart: 0,
+       "end": 22,        "loc": {
+           art" {           "ln": ,
+          lmn":0
+          }
+           "nd": {
+           ne": 1,           "column":22
+          
+        },
+       "operator": "=",
+        "left" {
+          "type: "Ientifier,           "art": 
+      "end": 1
+           "loc": {             "start": {
+              line: 1
+             "comn": 0
+        ,           "en" {
+           "lne: 1,
+             "olum":1
+            ,
+            "idntfierm"""
+          },
+          "name": "x"
+       }
+         right": {
+           "type":"ObjectExpressio"
+         start": 4,
+          "": 22
+        "l": {
+           "stat": {
+           lin: 1,             "olumn: 4
+            },
+           "end":{
+            "lin": 1           "column" 22
+         }
+           },
+          proertis": [            {          p":"Obecetod",
+              "stat":,
+             "end": 20,
+              "loc" {             "start {
+                "in": 1,                coumn":6
+               },
+               end":{
+                "line": 
+                  clumn":0
+                 }
+            ,             "method" true,
+                "key": {
+              "type":"StringLtral",
+              "sta: 6,
+                 "ed:4,
+                "loc": {
+                 "sat": {
+                     "lin: ,
+                  "column" 6
+                 },
+               "end"                   line": 1,
+                     "clmn": 14
+               
+           }
+             "extra" {
+                 "rwaue": "metho",                "ra": "method'"
+            },
+                 "vaue": mto"
+              },
+              computed":fale
+              "kind: "ethod",
+              "id": nll
+           "geator": fas,
+          "async":fase,
+            "arams: [,
+            "body":{
+             "type:"BlokSaten"
+               "start": 17,                "end": 20,
+            loc" 
+                "stat: 
+                   "lne":1,
+                 oumn"7
+               },
+                 "ed":{
+                   "lne": 1              column": 0               }              ,
+               "body": [
+               directives: []            
+            }
+         ]
+       
+        }
+     
+    ],   "directives"[]
+ 
+}

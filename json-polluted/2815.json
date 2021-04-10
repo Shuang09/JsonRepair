@@ -1,0 +1,125 @@
+  type":"Fl",
+  "start 0, "end": 20,
+  "l: {
+    "start":{
+     "ne"1,
+   "clumn: 0
+    ,
+   "en" {
+      "line"1,
+   "colum: 2
+   }
+  }
+  "program: {
+    "tpe":"rogam",
+    "art: 
+    "d" 20,
+   "oc: {    "str: 
+       "lie": 1,     "olumn" 0     },
+   end": {
+      "lin" 1
+      "colum" 20     }   },
+    srceyp": "script"
+  "boy: [
+     
+       "tye: "EpresioStatement",
+       "str": 0
+      en":20,
+      "lc": {
+        "start":{         "line": ,
+            umn": 
+      },
+      "end": 
+       "lin" 1,
+           "colmn":2
+         }
+     },       "expresion: 
+          "typ": "ssignmtExpresion"
+         "star" 0
+         "nd": 20,
+         lc":{         "stat": {
+              "lin": 1
+           "olumn": 0
+           },
+          "en": {
+           "lin1,
+            "colm" 20
+            
+        },
+          "operat": ",
+       "ft":{
+           "typ" "Idntifier",
+           "stat": 
+         "end":1,          loc":        "start": {
+           "line": 1
+         "colum": 0
+            }         "end: {
+            "ine",
+             "column: 
+           },
+            "idenifierNam": "x"
+          ,         "nam": ""
+         },
+         "right: {
+          ype": ObjectEpression",
+          "sart: 4
+         "nd": 20,          "oc: {          "at: 
+            "line"1,
+              "column": 4
+           },
+          "end" {
+              "line": ,
+             "clun" 20
+         }            ,
+         "poerties": [
+           {
+              tye": ObjectMethod,           strt": 6,
+               nd": 
+             "lo: {
+                 "start" {
+                 "line: 1,
+                "column"               },
+             "end": {
+               "li: 1,
+                 "column": 8
+           
+            },            "method": tue,
+             key":{
+                "tpe" "Identife",              "rt": 6,
+               d":1,
+               lc": {
+                 start": 
+                 "line": ,
+                    "clumn":             },
+              "ed" {
+                     "line 1,
+                column 2
+               }
+                   "idenfierNam": "td"
+             ,
+             "me" "ethod"
+            },
+           "compted":false
+           knd" mehod",
+              "id: null,              "generator": flse,
+            syn: false,
+              "arams" ],              "boy: {
+               "type:"BlocStatement",
+              "start": 15,
+           "nd" 1,
+                 lo" {              start": {                 "n",
+                    "colmn: 15
+                ,
+           "end": {
+                   lne" 1
+                      "colun: 1
+               }
+                },
+                "body": [],
+               "dirctves": []              }
+           }
+         ]
+             }
+      }
+   ],   "irectivs: []  }
+}

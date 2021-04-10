@@ -1,0 +1,132 @@
+{
+  t":"il"
+ "start": 0,
+  "end": 2
+  "loc"{
+   "ar":
+   "ine:,
+   "column:0
+    },
+   "end": {
+      "ine" 1
+    "colun": 22   }
+ },
+  "rogrm": {
+   "ype": Program",   start": 0
+    "en": 22,
+  "oc": 
+      "tt": {       le":1,       colmn": 0
+    },
+    "end": {
+       "in":1,
+    "colum:22
+      
+  ,
+    "surcType": cipt
+    "body": [
+      {
+       "type": "ExressioStatemnt",
+       start": 0
+       "end": 2,
+      "oc":{
+     "start: {
+           "line": 1,           "column"0
+       },
+    en: 
+          "line: 1
+          "column": 22
+         }      },
+     "epession:{
+       tye": AssinetExpresion",
+          "str": 0
+         "n": 22,
+         "loc: {         "tat {
+           "in": 1,
+          "colun: 0
+        },
+          end" {              lne": 1,
+        colun": 2
+           }
+         }
+    "oprato" "=",       "e": {        "type:"Identifir",           star" ,
+         "nd" 1,
+        "lc": {
+      sart": {
+          "line": 1,
+             "colum":0
+           ,
+          ed:{
+             "lne":1,
+               "column: 1
+           },
+            "idenifirame": "x"
+          },          nme: "x"         ,
+         "riht: 
+          "type "FnctionExprssio"
+            "str" 4,          "end 22,           "loc": {           "start": {
+            line":1
+            "column" 
+          },
+            "end": 
+              "ine": 1,
+               "column":22
+           }         },
+        d: ul
+        "nrator" false,
+            "async": false      "paams": [
+         {
+           "typ" "AssignmetPaern"
+               star": 1,
+              "en": 18,
+           "loc": {                "stat" {
+              "lne":1,
+                "column:1
+             },
+              "en" {
+              "ine"
+               "column": 8                }
+            },
+              "lf: {
+                "pe": Identfier",              "start: 13,
+               d": 14,
+                 loc":{
+               tt": {                    "line" 1,
+               "clum": 13                 },
+                 "end: {
+                 "lie": 1,
+                   "column": 1
+                  },                "idetifierName": ""                 },           "nme": y"
+            },
+           "right": {
+              ty: "NumerLitral",               "stat":17,
+               "ed": 18,
+                "oc": 
+               "star": {
+                    "lin": 
+                  colun" 17                },
+               end" {
+                   "line: 1
+                   "column": 18             }                 },
+               extra": {               "rawVal": 1,
+                "rw": "1"
+             },
+            "value":1              }         }           ],
+           "body":{            "tye: "lckStaement",
+          "start: 20,
+             "en":22,          "loc 
+               "tart": 
+              "line": 1
+           "colmn": 20
+            ,
+             "en": {
+               "line:1
+             "coumn"2
+             }
+              ,
+         "body"[],
+             "directies": []
+      }
+        }
+        
+      }    ],
+   "directis": [] }

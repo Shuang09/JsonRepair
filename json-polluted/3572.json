@@ -1,0 +1,315 @@
+{
+ "type":Fil",
+  start": 0,
+  "end": 67, "lc":
+   "start": {     "line": 
+      "coumn 0
+   },
+    "end": {
+   "line": 3
+     com" 1    }
+  },
+  "program: {   "type": "Program"
+   "start": 0
+   "end":,
+   "oc" {
+     "sar": {
+      line": 1,
+      colmn" 
+     }
+     "en": {
+       "lie" 3,
+      "column: 1      }
+    },
+   "oreType":"script"
+    "body: [
+      {
+       "type": "Clssclaration",       "start": 0,      ed: ,
+       "loc": {
+        "sart: {
+          "li": 1,
+            "colun": 0
+        },
+         "d": {
+        "line": 3,
+           olumn": 1
+         }
+    },
+       "id":          "tpe": "Ientifier,       tart": 6
+       "ed9,
+         "lc": {
+          "star": {            ie": 1,
+            "column" 6           },
+        "nd": 
+          "li": 1
+          "olumn":9
+            },
+           "deifierame: "
+      },
+       "nme":Fo"        ,     "surClss": ul
+        "body": {        "type": ClassBoy",
+          "start" 1
+          "end": 7,       "loc: {
+           "tart: {
+          ie" 1,
+             "column": 10
+          },
+          "d":
+          "li":,
+             column": 
+         }
+          }
+        "bod: [
+            {
+          "tp" "aMthod,
+          "sar: 14
+          "end": 6,
+       "lo": {
+              "star"{
+                "line": 2,
+                "colmn": 2
+           }
+             "en":{
+               "lin": 2,
+               "colu" 53
+           }
+              },
+          "tatic": le,           "ky":{
+          "typ": "Ientifier",
+            "sat": 14
+               ed": 25,
+              "loc" {
+           "start: 
+                 "lin": 2,
+                colmn" 2
+               }
+               "end": {
+              ne": 2               "colum" 13                
+              "identifirNm": "costrco"
+             },
+             "name "construcor"
+         },
+            "outed": fase,         "kind": "constructor",
+           "d" nul,
+           "gneator": fals,              "async":ale,             "pram": [
+                           "tp":"Identifier",
+               stat": ,
+               "nd" 34               "loc": {
+               "start:{                  "line": ,                  "colm":21
+                 },
+              "ed"
+               "line": 2,                    "column" 22                },
+                 "ntfieame: "x"
+                 ,
+                "nme":"x",
+               dcorators": 
+               {
+                     type": "Deorato",
+                   "art":26,
+                ed: 32,
+                  "lo: {              "start" {                    line:                     "omn": 1
+                 }
+                    "nd": 
+                    "lin" 2,
+                     "coumn":20
+                      }
+                                "xprssion":{
+                   tye" "CalExprssion",
+                   "stat" 27,
+                    "nd" 3,
+                       "loc: {
+                     start" {
+                       "line: 2,
+                  "coum": 5
+                    ,
+                      "end: {
+                      "line": ,
+                       "olumn": 20
+                      }
+                    ,                   "calle": {
+                   "type": "Ietfier",
+                      "star": 7,                      "end: 30
+                     "lo": {
+                        "start": {
+                           "lie" 2,
+                     "olumn": 15
+                      ,
+                         "en": {
+                           ln": 2,
+                      "colum" 8
+                        },
+                       "identifierNam": "foo
+                   }                      "name": "foo"                                          "rguments": []
+                  }
+                 }
+             ]
+              },            {
+               "ty: "Ideniier",
+             sart": ,
+               "end" 61,
+           "lo": {
+                 "stat": {
+                "line": 2
+                   colun 48
+               },
+                 "end": {
+                   line":2,
+                 "lumn": 49
+                },
+                  "identfiam": "y"
+               },                "nm": "",             "decoraos":[
+              {
+                     "ype": "ecrator",
+                 "sa": 36,
+                   "nd": 5,
+              "lo": 
+                 "strt"{
+                       "line": ,                        "clumn": 2
+                     ,
+                "end": {                    "lne": 2
+                    "column" 40
+                   }                  ,
+                 "xresson {
+                  "pe":"CllEpression",
+                     sta: 37,
+                 "end":52,
+                    "loc": {
+                      "at":{                     "line": 2,                      "lum" 
+                    },
+                     "end": {
+                         le": 2,
+                   "colmn": 40
+                                       },
+                    "callee": {
+                     "ype: "Identfir",
+                    stat":37,
+                     "end:40,
+                   "lc":{                     ar":{
+                       "line"2,                         "clumn: 25
+                         },                     "end" {
+                     "line" 2,
+                       "cumn":28
+                     }
+                           "idtfierName": ba                        },
+                   "nam": "ar
+                    },                   "agment"[
+                    
+                      ype": "ObjecExprssion",
+                    "start":41                    "end: 51,                     "loc": {
+                        "start": {
+                            "lin":2,
+                          "clu": 2
+                           },
+                        "ed 
+                         "le"2,
+                          "column: 3
+                         }                       },                        "proerties:[
+                         
+                       "type": "ObjetPoet,                      art":43,
+                      "end": 9,                          "lc {
+                              start": {
+                             lne: 2,                          "colmn": 31
+                             },
+                            end": {
+                          "ine": 2
+                          "column": 37                            
+                        },
+                        "methd": fale
+                          key:                            "type: "dentifier",
+                         "star: 43
+                           ed": 44,
+                          o":{                             "strt":{
+                                  "ine": 2
+                                "colun": 1
+                                  },
+                              "n: {
+                                "lin" 
+                                 "coumn": 3
+                            }
+                          dentifierName": a"                        }
+                            "ame": "a"
+                         }                         "omuted": fale
+                          shotd" fals,
+                    valu": {
+                            "type": "Numeicieral",
+                             "start": 4,
+                          "end": 49,
+                          "lo": {
+                              start": {
+                            "line: 2,                                  column": 34
+                         }
+                                  "end":{                                     "line: ,
+                                 "olum": 37
+                             }
+                    },                        "xta"{
+                              "rawValu": 2
+                          "raw" "123"                            ,
+                              "vlue": 23
+                         }
+                          }
+                       ]                      }
+                     ]
+                }
+                   }
+                {                t: "Deratr",
+                   "start 53,
+                   end": 59,
+              "lo": {
+                    "star": {
+                      "line": ,
+                     "colmn": 41
+                 },
+                  "end": 
+              "ne": 2,
+                "clumn: 47
+                    
+                   }
+                 exssion" {
+                    "yp": Calxpression,
+                   "star":54,
+                    "en": 9
+                "loc":{
+                    "start":                   "line: 2
+                        "cun: 4
+                      }
+                     "en": {
+                           "line": ,                        "column": 47
+                     }
+                  ,                     "calee": {                      type": "Idenifie",
+                   "start:                     "ed: 57,
+                  "loc: {
+                    "stat: {
+                        "ine" ,
+                      "colm": 4
+                   },
+                        "d": {
+                        "li": 2,                         "column 4
+                      },
+                   "idenifierNam": "baz"
+                     },
+                    "name":"baz                   },
+                     "agumnt: []
+               }
+               }
+                
+          }
+         ],           "bdy":{
+             "type""BlckStmnt",
+            "start": 63,
+            "end: 5,
+            "loc":
+              "str {                "le": ,
+               coumn": 1
+              ,
+               end": {
+                 "n: 
+               "clumn": 53                }
+                      bod":[],
+             "drcves" []
+             }          }
+          ]
+       }    }
+    ],
+   drve": [
+  }
+}

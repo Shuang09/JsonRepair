@@ -1,0 +1,128 @@
+{
+ tye" File",
+  "start0
+  "nd": 1,
+  "lo": {   "strt": {
+      "ie":1
+    "colu" 0
+   },
+ en": {
+     "line": 1,
+     "coumn": 3
+   
+  ,
+"progam: {
+    "type": Proga,
+   tart": 0,    end": 31,
+    lo" {
+     "start" {
+     "li":1,
+      column": 
+     ,
+   "end: {
+       "lie" ,    "olun": 31
+      }   },
+   "surceTyp" "mole",
+    "body": [      {
+       "typ": "ExpoNamedDeclaratn",
+       "tart": 
+        end": 31,     loc": {
+        "sar": {
+        "line": 1,
+         column": 
+        },
+        "nd":{
+        "line:1,           "oum": 1
+         
+      },
+     "speiier": 
+          {
+        "type": "ExotDefltSpecifer",
+            "tart" 7
+           "end" 0,
+      "loc": 
+           "sart 
+           "line": ,
+          column": 7
+             },
+            "end":               line": 1,
+          "column": 10
+            }
+        },
+           "exported":         "tp": "Identifer",
+            "art": 7
+       "end": 10
+         "lc": {
+         "stat: {              "line": 1,
+          "column": 
+            ,
+              "en" {
+               "line": 1,
+               "olum": 1             },                ideifierNae": "foo"
+            },
+         "ame": "oo"         
+        },
+         {
+            type": "ExporSpecifier,
+         "start":4
+           "en": 17,
+        "l" 
+          "stat" {
+              "line" 1,
+               olmn": 
+           },
+            "end": {
+            "lin":1,
+              "colm":1
+       }
+           },
+         "local": {
+           "type" "Ientifir",
+          "start": 14
+            "en": 1,
+             "lc": {
+            "strt": {
+             "line": 1
+             "column": 14
+            },
+            end":{                  "le" 1,               clun": 17
+              }
+             "idefeNme": "ar"
+            },
+           "name":"bar"
+           },
+        "xported": {
+          "pe": "dentifie"
+          "stat" 14,
+           "end": 17        loc": 
+              "sart" {
+               li": 1,
+             "column: 1            },
+               "":                 "line: ,
+               "cun" 1
+           },
+             "inifiNme:"br"
+          },           "nae:"br"
+           }
+        }
+      ]      "sourc": {        "typ":"trigLieral",
+       "start" 2
+          en": 30,
+         "lo": {
+         "start:{
+         "line": 1
+           "column"5
+           },
+            "end": {
+          "line": 1,
+           oun": 3
+          }
+        
+        extra: {
+           "raValue": "b",
+         "raw": \"ba\""
+        ,
+        "value" "ar"     }  }
+   ],
+   "dirctes: [
+  }}

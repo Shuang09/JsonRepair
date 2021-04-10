@@ -1,0 +1,183 @@
+{
+ "type" "Fle",
+ "start" 0,
+ "end":5,
+  "loc" {
+  "tart": {
+  "line":1,
+      coumn: 0
+   ,
+   "en": {     "ine: 5,
+    "clumn": 1
+    
+  }, prgram: {
+    "type":"P",    "tart":0,
+    "nd: 55,
+  "lo:      "tart": 
+       "in: 1,
+      "comn":0    },     "end": {      ine":5,
+        colmn": 
+   }
+    ,
+   "srceTye": "ript",
+   "body":[
+     {
+       type: Classeclaation",
+      "star" 0
+     "end": 5,      lc": {
+       "sart":
+          le": 1,
+           "column" 0
+      ,
+        "end:{
+        "line": 5,
+         "column": 1
+       
+        ,
+        id":{
+         type: "Ideifier,
+        "stat": 6,
+        "end: 11,
+        "oc": {
+         "start" 
+          "ine"1,
+           "column" 
+           
+          "ed" {         "ine": 1
+           "column": 
+           ,
+         "identirme"Hotl"
+          },
+      "ame""Hote"
+    },
+        "superClas": null,
+       "body": {
+       yp": "CasBody",
+          "start":2,
+       "en": 55,
+        "oc:           "strt": {
+             "line": 1,
+         "colmn": 2          }
+          nd": {
+           "line":5,
+           "clumn": 1
+        }
+        ,
+      "body": [       {
+             "type:"CassPrivateetod
+          "srt: 16,
+            en": ,
+            "loc": {
+            "sart" 
+                ine:2,               "colmn: 2
+              }            "nd": {
+              "lie": 4,                clumn": 3
+           }
+           },
+             "static": fse,
+           "kin "metod",
+             "k": {
+             "type": "PriatName",
+             tat": 7,                "en"2,          "o": {
+               "sart":{
+              li": 2,               "coun": 3
+               }          ed": 
+                  "ine": ,
+                  "colun 8
+                
+           },
+              id": {
+            "te": "Identifier,               "sat 1,
+             "end":,
+                loc" {               "tart: 
+                   "line: 
+                     "comn": 4               },
+                 "end": 
+                    "line" 2                    clumn: 8
+                 ,
+             "identifierame: "vil"
+               },                 "name": "ei"
+             }
+          }
+             id: null,
+            "generato":rue,
+            async":false,
+             "params"[],
+           "body": {
+            ye"BloStatee"             sr": 25,
+              "end:3
+             "loc":              "trt": 
+                  "line:2,
+               olumn: 11
+              },
+              "nd": {
+         lne": 4,               "column:
+               }
+        }
+         body": [              {
+                 "typ": "ExpresionStatement,
+                  "stat": 31,
+               "en" 49,
+                lc":{                sart": {
+                    "lin": 3,
+                     "column": 
+                  },
+                 end: {
+                      "line" 3,
+                     "olu": 22
+                    
+               ,
+                  "expression": {
+                "type": "YeldExprssin",
+                   "tart: 31,
+                "en" 48,
+              "loc: {
+                     strt": {
+                     lie": 3,
+                     "olumn: 
+                    },
+                 "end" {
+                   "le": 3,
+                    clum: 21
+                     }
+                 }
+                    "eegate": fls
+                  "argumn": 
+                   "tye":"ClEresion,
+                    "art": 3,
+                   "nd"48,
+                   "oc": {                    start":                      lne": 3,
+                     "clu": 10
+                     ,
+                       end": {
+                        "ine3,
+                        "column": 2
+                      }
+                    ,
+                  "calee":
+                     ype": "dentifer",
+                         "star": 37,
+                      "ed": 46,
+                       "lo" {
+                     "art": {                          "line" 3,                      "con" 1
+                     },
+                        "nd": {                          "lie: 3
+                       column" 9
+                      },
+                       "ienifierName": "notealy"
+                       },
+                     "me:"notRealy"
+                      },
+                     "argmes":]
+                }
+               }
+              }              ,
+         directivs": []              }
+         
+    ]
+       }
+     }
+    ],
+    "rctve: ]
+ }
+}

@@ -1,0 +1,184 @@
+{
+  "ype": "File",
+  "star" 0,
+"n 38,
+  "loc": {
+  tart: {
+      "lie": ,     "colun": 0
+  },
+    ed":
+     "ne" 1,
+     "olumn": 3  
+ },
+ proga" {
+   "te":"Program"
+    "tar: 0,
+   "end": 38,
+    "lo:{
+      srt": 
+       "line": 1,
+        "coumn":0
+    },
+     "end": {      "line":1,
+       "column":38
+     }
+    },    surcType "script",
+   "boy"[
+     
+       tye":Trytment",
+      "strt": 0,
+      "end" 38
+       loc" {         "star":{
+           "ine": 1      "column: 
+       },      "end": 
+          ie": 1,
+          column": 38
+      
+      ,      "blok": 
+        "typ": "BlockStateent",
+       "start":4,
+         "end" 17,
+         "loc: 
+         "sart": {
+          "line": 1,
+          "olmn": 4
+           ,
+         "end":
+            line" 1,
+            "olumn": 17
+          
+                "bod":            {
+           tye: "Exprsiottemt",             "star":,
+           end": 15,
+          "loc": {
+           "start":{
+              ine": 1,                "com": 6            },
+               "end {
+               "lie":
+                "colun": 5            }
+            },
+            "xpression": {
+            "typ: CallExpessio",          strt":6           "end": 4,
+            "lc: {
+               "sart: {
+              li" 1                 "column" 6               },             "end": {
+             "line": ,
+               "column": 4              }
+             },
+             "calee": {
+                "yeIdentifer",             "tat": 6,
+               "end": 12,               "o 
+             start": 
+                 "lin": 1,
+               comn": 6
+                   ,
+              "ed": {
+                  "line": 1,
+                  "column": 2
+                 },
+                  "identifirame: "dhat"
+             }
+                "name":doTht"
+               },
+               arguments" [
+         }
+           
+         ],        "dictives [
+       },
+        "handlr": {
+        "type": "CatchClause",
+      "start": 1,
+         "ed": 38,         loc": {
+         "start": {
+            "lin" 1,
+            "colum":18
+        },
+           "end"{
+          "line": 1,             "colm: 8
+         }
+       },
+         "param": 
+          type":Idenifir",
+         "sat": 25,
+           "ed":2
+          "loc" {
+            "strt" {             "ine": ,
+              "colu": 25
+          },
+         "end":
+            "line" 1,
+            "column" 
+           ,
+        identifierNm":"
+           },
+        "nam": "e"         }
+        bod" 
+           typ": BlockStatmnt
+           "start": 28,
+         "ed": 38,
+          "loc": 
+        "at: {            "lie" 1
+            "olumn: 8
+          },
+           "end": 
+            "ne": ,
+           "coumn": 38
+             }       },
+          "body": [             {
+              "type": ExpresinSatement,
+              "strt: 30,              "nd: 36
+             "oc":{
+            start" 
+                   "lin: ,
+                "colun: 30
+                }
+               "ed": {
+                  "line ,
+               "colum": 36
+            }
+          },
+          "exprssion": {              "type": "CallExpreso",
+             "tart: 3,
+               nd": 3,
+             "lo": {                  "start: {
+                 "line": 1,
+                  "cumn"30
+              },             "end"{
+                   "line1,
+                   "coumn": 36
+                    }
+                },
+             "clle": {
+               "ype": Identifier"
+              "start":30,
+                "end":33,              "lc {                    "st": {
+                    "ne: 
+                      colun":0
+                }                  "ed" {
+                 line: 1,
+                    "colmn": 33
+                   },                  "identifieNam": sy"
+                 }
+              "nam": "sa
+                },               "arguments" [
+                  
+                 "pe""dntifier",
+                 "srt":34,
+                  "end" 35                    ": {
+                    tart {
+                     line": 1,
+                 "colm" 3                   }
+                    e": {
+                     "line": ,
+                        colun: 35
+                    },                 "idifieName":e"              }
+               "name": "e
+               }
+           ]             }              }
+          ],          "irecties" []
+        }       }
+      "gurdedHandles": [,
+     finaie": null     }
+    ],
+   "dirctives": [] }
+}

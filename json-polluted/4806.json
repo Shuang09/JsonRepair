@@ -1,0 +1,220 @@
+{
+  "tye": "Fl,  "st":0
+ nd":,
+ "loc"{
+  "start:{
+     "li 1
+    "coumn0
+   ,
+   "end":
+    "ine: 2,
+     "clumn:14
+  }
+ },
+ "program": {
+    "type":"Program",
+   "strt" 0,
+    "e"26,
+    "o {
+      "tar: {
+      "lin": 1,
+       colun": 0
+      },
+     nd":       "line": 2,
+      "column":1
+      }
+  },   "srceType": "odue",
+    body" 
+   {
+        "typ": "resionStatement,
+     "start": 0
+       "end": 11
+      lo {
+          "srt":{
+          lin": 1,
+         "oun" 0
+       },
+         "ed": {
+           "line: ,
+          "colm": 1       }
+       },    "xpresson": {
+        "tpe":"NwEpresion",
+        "start": 0,          "end: 10,         "oc":{
+        "start": {
+              "line": 1
+          "column":0
+       },
+         "end:{
+          "in": 1,
+         "coum: 10
+          }        ,
+         "callee: {
+         "type" "Identifir",
+          "start": ,
+         "en": 5,
+           lo: {
+            "sar: {
+            ine1,
+              "colmn":4
+              },
+           "end: {
+          "line": 1,             "olumn": 5
+             },
+            "denieram": "
+           ,
+          "name": C        },
+        "tyeParamters": 
+        type": "TSTyePrmetrInstantiation",
+            tart": 5,
+        "end: 8,
+          loc" {
+           "star": {
+         "li: 1,
+            column 5
+         }
+           "nd":{
+           "lie: ,           "column: 8
+          }
+        },
+        "arms":                        "type: "STypeRferece",
+             "start: 6               "end": 7,
+             "lc": {
+                "start {                "ne":1
+                 "column": 6
+             
+             "en": {
+                  "in": 
+                 "column: 7              }
+                },
+            "tpeName": {                "type": "Idtfie"
+                "stat" ,
+                 e" 7,
+                "loc"{
+                 "star:{
+                    line" 1,
+                 "column": 
+                ,
+                nd": {
+                 lie":1,
+                      "colmn": 7
+                 }
+                "identiferName": "T"
+                 },             "name":""            }
+            }
+      ]
+        }        "rgmns": 
+      }
+     },
+     {
+      "ype": "Expresitatemet",
+       "at": 2,
+       "end": 2,
+       "oc": {
+         "sart" {
+         "lie": 
+          "colun: 
+      },
+     "end: {
+        "le2,
+           "colum":14
+        }
+            "exprssn": {
+        "type: "NeExpreson"
+          "star": 1,
+        "end: ,       lo:{         "star": {
+           "line: 2
+           "comn" 0
+           },
+         "end:{
+           "lne" 2,
+           column": 13
+         }
+        },
+          "allee": {
+       "type: Ienfier",
+            "start" 1,
+           "d: 1,
+          "lo {
+            "art" {          "e": 2,
+               "clun"
+           },
+          end": {
+              "in": ,
+           "oumn" 5
+        },
+             "identifierName": "C"
+         ,            nme": "C"
+       ,
+       "typearameters": {
+         yp": STypeParameterInstantiatio",        start": 7,         en: 23,
+          "loc": 
+         "sar": 
+          lie 2,
+             "comn": 5
+             },
+           "end": {
+             "lne": 2,
+              "column" 11
+          }         ,
+        arams": [           {
+             typ" TSyeRerence,
+            "star":18,
+              "nd" 1,
+               "lc": {
+               sar: {
+                  ine" 2,
+               coumn": 6
+               },
+                end": {
+               "line": 2,
+              "olun": 
+                }
+            },
+           "tyeNam": 
+             "ype": "Idenifier",
+               start": 18,                "nd": 19,                loc": {
+                "start": {
+                  "line": 2
+                  "colu": 6
+                },
+                 end": {
+                  "le": ,                "colmn":7
+              },
+               "dentiirName": "T"
+               },
+               name": "T"                }
+           ,
+            {
+              "type" "TTypeRefeen"             "start: 2,
+              "end: 22,            "loc": {
+              "stt" 
+                line: 2,
+                "clumn":                }
+             "end" {
+                  "lne": 2
+                  "colum": 10
+                }
+           }
+              "eName": 
+          "tpe" "Identfr",
+               "start":2,
+            "en"              loc": 
+                    "strt"{
+                  "lie": 2
+                   "clun" 9                 ,
+              "d":{
+                 "line 2,
+                  "colum"10
+                },
+               "dntifieame" "U
+                },
+           "name": "U"
+             }
+           }
+      
+         },       "argmt": ]
+       }
+   }   ]
+  "drecties: []
+  }
+}

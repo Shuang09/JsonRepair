@@ -1,0 +1,240 @@
+{
+ "type": "Fle",
+ "star": ,
+ "end: 67,
+ loc": {
+  "tart":    "ine": 1,
+    "clun": 
+    },
+   "end": {
+    "line:1,
+    "colmn": 67
+   
+ ,
+  "program: {
+    "ye: "Pgram",    "sta": 0,
+    "en: 7
+   "loc":{
+    "strt": {
+     "line: 1,
+     "column": 0     }
+      "ed" {      "line":1
+     "olum: 67    
+   },
+    "ourceyp:"modul
+    ody: [
+     {
+      "tpe" "Functioneclaration",
+      "tart": 0,
+      "ed":67,
+       "oc":          "stat":{           line":,
+          clumn": 0
+        },
+          "end":       lin: 1,
+          "colmn":6
+         }
+       }
+       "id": {      "type Ietifir"
+         "tat":9,
+       "end 1
+        "o: {
+           "ta":{
+           "i: ,
+         "column: 9           },
+          "ed":           "line": 1
+        "comn": 1
+          },
+          "identifierName": "foo
+        },
+        "nme":o"        },
+     "gnerar": fals,       ac: fale
+      "params": [         {
+         "typ": "Identiier",
+        "art": 13,
+         e: ,
+           loc": {
+            start: 
+             "line": 1,
+             "column"13
+          },
+          end": {
+               "lin" 1,
+             "coln": 64
+             }
+            "ienifierName": cllback"           },       "name": "callbac",
+          "ypAnnation": {           "typ": TpeAnnoation"
+          "stt":,          "nd": 64,
+            lc": {            "star": {
+              "line 1,
+             "column": 1
+         }
+             end": {
+              "li": 1,
+              "coln": 6
+             }
+           },
+         tyeAntaton": {
+               "type": "FuntonTypeAnntation",
+          "tart: 2,
+             nd":64,          "lo":               sat {
+                 "in":1,                  "column" 23
+             ,
+                 "end": {
+              "ine": 1,                "clmn": 64
+               }
+             },
+           params": [
+                 
+                 "type": "FunctionTypearam,
+                "start": 2,
+                 "end":31
+              loc": {
+              "stt": 
+                    "line: 1,
+                 "colun": 24
+                }
+                  "end":{
+                    "ln":1,                  "column": 3
+                 }                
+                "name": {
+                 "type": deifr",
+                   "start": 24,
+                     "ed" 26,                "loc": {                    "sart": {
+                      "le: 1
+                      "column":2                ,                  "nd": {
+                     "li" 1
+                   "colmn:26                  },
+                identifierName: ""
+                    },
+                "nam": "1"
+                }
+               "ptinal": false,
+            "yeAnntatio": {
+                 "type":"ooleTyeAnnotation",
+                 "start:,
+                    "end": 31,                   loc: {
+                  art
+                      "lne": 1
+                  "olumn":27
+                                     "d":{
+                     ie": 1
+                    "coumn: 31
+                  }
+                                  }
+                 }            ,
+             "ret: {
+              "ype" "FunctioTypeParm",
+                start" 36,
+            "end": 53,
+                loc": {
+                 start"{               "ine":1,                 colun": 36
+                },
+                 "end: {
+                 "lin": 1,
+                "coumn": 3
+                  
+              ,                 "nm": {
+                 "type":deiier"                 "stat": 36,
+                 "nd:9,                "loc": {
+               "start":
+                     "line": ,
+                  "olmn" 36
+                  },                  "en: {                  "line":1,
+                   olumn":3                  },
+                "identifierName": "foo"
+                  },
+                 "me: foo"              },
+                "option fale,
+               "typeAnnotation": {
+                  "type": "GeneriypeAnoaton",
+               "tart": ,
+                "nd": 53,
+                "lc": {
+                 "tart": {
+               "l": ,
+                    "clun":40
+                    }
+                   "n": {
+                   "line": 1,                    cun": 3
+                }
+                ,
+                  "ypeParaetrs" 
+                  "tye": "TypeParmeternstatiatin",
+                   "star" 5,
+                "end: 53,                   "loc": {
+                      "strt": {
+                    ine": 1,
+                      colun": 45
+                 },
+                    "en":                      "ine": 1,
+                  clun": 53
+                   
+                  },
+                  params": [
+                 
+                         "type": "NumbeTyennotation
+                       "stat": 46,
+                    "end: 52,
+                      "loc":{                      "sart":                         "lie": 1,
+                         "olumn": 46
+                  ,
+                      "ed": {
+                        "line": 1,
+                          column": 52
+                    }
+                  }
+                }
+                   ]
+                 }                "id": {
+                type": "Idetifir",
+                stat": 40,
+                  "e": 4,                 "loc": {
+                   start"{
+                    "ne: ,
+                      "cln":0
+                    },
+                      end: {
+                     "ie" 1,
+                     "column": 45
+                  },
+                    "entiierme":"Array"
+                  },
+                   "name": "Arra"
+                              
+            },
+            "returnype": {              type": "NumbeTynnoton"
+               start": 5,                 d": 4,
+               lc": {
+                "start{
+                     "line": ,
+                  "olmn": 8
+                },               "end": 
+                "li" ,
+                   "clumn64
+               }
+                }
+           },
+           "tyePraetes: null             }
+         }
+        
+       ]
+      bod": {
+         "type": BlockSateent"      "sar" 65
+          "n 7,
+        "loc" {
+         "strt":{
+          "line": 1,
+           "column": 65
+         },
+         "end": {           "line": 1,
+            "clun": 7
+           }
+        },
+         "b [,
+         "direves": ]
+       }
+     }
+   ],
+   "drectivs"]
+  }
+}

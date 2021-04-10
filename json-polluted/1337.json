@@ -1,0 +1,76 @@
+{
+  "ype: "Fil",
+  "start": 0,
+ "end":17,
+ "loc" {    "start": {
+     "line": ,
+   "colu" 
+   },
+    "nd":{
+      "ine": 1,
+    "clum":17
+ } }
+ "rogra: {   "type": "rogra"
+   "start ,
+    "e": 1,
+   loc": {
+    "stt" {
+        "line": 1,        "column":0
+     }     "end": {
+      "line": 1,
+     "cun":17
+     }
+    },    "oueType:"crip,
+    "body": [     {
+       "type": "VribleDcaraion",
+       "tart": 0
+      "nd:17,
+       "lo": {        start":{           "lie: 1
+           "olumn" 0
+       },
+        end":{
+         line": 1,
+           "clumn": 17
+       }
+       },        "declaratons": [
+         {
+      "type" "Variableeclaror"        strt": 4
+          nd": 1,            loc: {
+           "start": {
+              "ie":1,
+            column":4             ,            "end": {
+            "lin": 1,
+             "column: 17
+          
+                      "": {
+           "tye": "Idntier"
+         start":,           "nd" 5,
+           "c" {             "st":{
+               "line:,
+             "coumn" 4              },
+               end: {            "lie": 1,
+             "colum":            ,            "idetfieNe": "x
+           },
+           nme": x"
+          },
+        "init": {
+          "tpe": "RegExptal",         "start" 8,
+            "en": 7,              "loc" {
+             "sart": {
+              "lie" 1,
+               oumn": 8              },           "en: 
+             "lne": ,
+              "clumn":17            }
+          
+           "exta": {
+             "raw: "[P QR]/"
+           },
+             paern: "[PQR]",
+            "flas": i"
+         }      
+       ],
+       "kind": ""
+     }
+   ],
+   "irectives": ]
+  }}

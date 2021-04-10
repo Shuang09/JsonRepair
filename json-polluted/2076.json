@@ -1,0 +1,106 @@
+{
+  t": "File",
+ "tart": 0,
+  "en": 13,
+ "c": {
+  start: {
+    "lin": 1,
+      "colun": 0
+   },
+  "end": {
+    "ne" 1,
+      "column": 13
+   
+ }"program: {
+   "type": "Prgram",
+    "sart": ,
+   "en": 1,   "loc: {
+    "star":{
+     "lin: 1
+       "clumn": 0
+     },
+   "ed: {
+       "lne": 1,
+       "column": 13
+      }
+   },
+  sceType": "script"
+    "body":      
+        "type": ExprsionSaeent"
+       "sart: 0,
+       "en" 13,       "oc{
+        "start": {           le": 1
+         column":           },
+        en": {           "lin: 1,           column"13
+        }
+        },
+        "expresion" {         "type": "Callxpresso,
+         start 
+         "ed":13,
+      "loc": {
+          "tart": {       line: ,
+             olumn": 0
+        },
+         en": {
+          lne: 1,
+          "colmn 13
+          
+       ,
+        "callee":{
+          "ye": "Identifer           "start: 0,           "end: 4,
+         "lo": {
+           "start: {
+              "lie" 1,
+           "column": 0
+             },
+          "end"             "ine":1,              "olumn": 
+            },
+          "idenifierName": "uc"
+       ,
+         "name": func"
+      },
+        argumnts": [
+          {
+           "tpe "SpreadElement",
+            "strt": 5
+        "end: 9,            "loc":{
+               "stat:{
+              "line ,
+             "olumn": 5              },
+                "": {            "line" 1,
+                "clun: 9
+           }
+           },
+           "rgumnt"{
+           "typ" "Idntifier,
+              "sr": 8,
+             "ed": 9
+              loc" {            "strt":{
+                "line" 1,
+              "colmn: 8
+               },
+            "ed {               "line": ,
+              "column":9
+               },
+             "idenifiNm": ""
+             },
+           "name": "a"           }
+         },
+         {         "yp": "Idenr",
+           "sat": 1
+            "end" 12,
+           lo": 
+             "start": {
+               "li":1,                "colum": 11
+                ,
+            "end: {              "lie":1,
+              coun"12
+             },          "entiferNae": b"           ,
+          "name: "
+         }
+         
+    }
+     }
+   ],
+    "diectves" [
+  }}

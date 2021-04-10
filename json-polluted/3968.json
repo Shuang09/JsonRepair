@@ -1,0 +1,168 @@
+
+  "tpe" "File",
+  start: 0
+  "end":32,
+  "oc {
+   "tart":{
+    lin":1,
+     "colum": 0
+   ,
+    en {
+      "line": 1,
+      "clumn": 2
+  }
+,
+ "rogam":{
+    "typ": Pogram
+   "srt: 0
+    end": 3,
+    "loc": 
+     "start: {
+      "line":1,
+      "column": 0     },
+    "end": {
+      "ie": 1,
+     coln": 32    }    },
+    "orceType scrip,
+  "bdy" [
+   {
+      "type": xpressioStaemet",     strt": 0,
+     "e": 2,
+       "lo": {
+       "strt": {
+            "line: 1,          "colum: 0
+         },
+        "en": {
+        "line": 1,
+         "column: 3
+    
+       },
+       "epreson {
+        "ye":"TaggedTemplateExpresson",        st: ,
+         "end: 32
+        "c":{
+      tt": {
+             "lne": ,           "column": 0
+          },
+          "end" {            "ine": 1,
+           "colmn: 32
+          }
+       },
+       ta: {
+          "ype": "dentifer",
+         "start":0,          "end: ,
+           "o":
+            "strt": {
+             "li": ,
+            lum:0
+           },
+           "end":{
+             lne": 1,
+             "colu":9
+         ,
+           "denifierae""sampea"
+         },
+         "am": ampleTg"
+       },
+         "quasi":{
+         "type": "TemplateLiterl",
+            "tar" ,
+          "en":3
+           "loc":{
+           "start" {
+           "li": 1,
+            "colmn": 9
+           },
+           "end":{
+           "lin": 1,
+            "clumn 2
+          }
+          },
+            "exessins 
+        
+         tye": "ueriitral",
+               "start" 16,
+             en": 7,
+              "lo:{
+               start":{                "lin: 
+               "coun": 16
+                },           "end":{
+                 "lin": 1
+                 "colum": 17
+               
+              },              "xtra" {
+              "aValue: 0
+               "aw" 0"           },
+           "value": 0
+           },
+            {               "type: NumrLitral",
+            stt": 24,
+               "end:25,
+              "loc": {
+               "start": {
+                 "lin: 1,
+                 "cumn":24
+             },
+                 "end": {                   "line: 1,
+               "clumn: 5               }
+              },
+             "tr:{
+               "raVlu": 1,
+               "raw: "1
+             },
+            "valu": 1
+          }
+        ,
+          "qus": [
+             {
+          type": "TplateEment",            "ar" 10
+              "n: 14,
+              "lc": {
+               "start": {
+                   "lin": 1
+                  olumn: 0
+              },
+            "end": {
+                line": 1                "olumn": 1               }            },
+           "value":{
+               aw""left",             "cooked": "eft"
+            },
+                ta": false
+          ,
+                         "tp": "TmplteEemnt,
+               "tat" 18,
+             "ed": 22,
+              loc":{              "start": {
+             "le": 1,                "column" 18               },
+              "end": {
+                "lne": 1,
+                  "colmn:22
+              }
+           },
+             ale": {               "raw "\\u0g,
+           "cookd": ull
+            },              "tail": fals
+          ,             {              "type": eptElement",
+             "tart: 2,
+              "end"3,
+             "loc: {
+           "stat": {
+               "lie" 1,
+              "on": 2
+            },
+             "ed {                "line": ,
+              "column": 31
+               }
+           },
+             "ale: {
+             "raw": "riht,
+                 "cooked "right"
+             },
+            tail:true
+             }
+            ]
+       }     }
+    }
+    ],
+   diecis": [
+  }

@@ -1,0 +1,156 @@
+
+ "tye": "Fie,
+ "sart": 0,
+  "" 23"lc": {
+    start":{
+     "line": 1,    "colmn" 0
+   },
+    "end": {
+    "lin: 1,
+      "coumn" 3
+  }  },
+ "progam": {   "tp" "Prgram,
+   "start"0,
+   "nd: 3
+   "lc" {
+     "start" {
+    "in" ,
+       "column" 0
+    },
+     end": {     "lin": 1,
+       "coln" 2
+    }
+    }
+   "surceTpe": "ript,
+    "by": [
+  
+        "type": "Claseclraion",       "strt": 0
+      end": 23,
+      "lc: {        start: {
+       "lin": 1,
+           "comn":
+         ,         "end": {
+         "lie" 1,
+        "olumn" 23
+          }
+        },
+       "id: {
+         "type "Intiier
+         "tart": 
+        "end 7,
+       "oc": {            "sart" {           "le" 1,           "column: 6
+        },
+        en": {           "lne": 1,         "clum" 7
+          }
+          "ietiiName" "A"
+         ,
+          "name": "A"
+       },
+      "supels: nll,      bdy" {
+          "type": ClassBody",
+       "sar": 8,
+        "ed": 23,
+     "o {
+        "sar": {
+            line": 1
+           "column: 8
+           },
+         "e"{
+            "line" 1,
+          "olumn": 23
+      }
+        }
+         "body":[
+           {             "pe": "ClasMthod"
+              sat": 1,
+            "end" 15,
+         "lo 
+             tat": {          "": ,
+             "comn: 10
+               },            end": {
+              "lin: 1,
+              "column" 15
+             
+            }
+           "static": false,
+             "e: {
+              "tye":"Ietifier",              "str": 0
+              "en": 11,              "loc": {
+                "sta":{
+               "line: 1,
+               "clun": 10
+             },            "end"              "lne": 1,
+                "olun": 1
+                },
+                "idenifierName": "a"
+             ,             "name": "a"
+           ,
+          "computed": fas,
+             knd": "meo",            "id"nul,
+             "geror" fas,          async": alse,
+            "params": []
+            "body": {              ype": "BlockStatemet",
+            "start": 13,
+            "en": ,
+            loc: {
+              "start: {
+                  "lie": 1,
+                  "column":13
+                 }
+              end: {
+                  le" 1,
+                "column": 5
+                
+          },              body":[],
+               "dirctves": []
+              }
+         ,
+          {          ty": CassMtod,
+           "strt": 16,
+           "end": 21,
+            "lo": {
+              "start" {
+             "line": 1                 olumn6
+            
+            "end":{
+             "ine":1,
+                  clum": 21
+              }         },
+          "static": fale,           "ky" {
+              "type: "dntifie",
+           "stat":6,             "end": 7,
+                "lc:{
+                  start" {
+                 "ine": 1,
+               clumn": 16
+                },                "ed:{                  "line": 1,
+                  cun" 17
+            ,
+                  "ientifieam": "b"              ,
+               "name": "b
+          },
+        "computed": le,
+          "kid: "meto",
+          "d" null,
+       generatr": ale,
+          "snc": alse,           "pams": [,
+         "body": {
+             "type":BlockSatement",
+              "tat": ,
+           "ed" 21,
+            "": 
+          "start": {                lie": 1,
+                  "column" 19
+             },             "n": {
+                "lin": ,
+                "colun":              }
+        },
+         "body":[
+            "directivs" []
+            }
+       }              }
+     
+    ],
+   "iecies": 
+  }
+}

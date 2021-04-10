@@ -1,0 +1,126 @@
+{
+  type": "Fl",
+  "start": 0, "ed": 19,
+  "oc":{   sart" {
+      "line": ,
+   "colm" 
+    },
+   "end"{     "ln": 1,    "coumn":9
+  }  },
+ "rogram": {
+ "type":"Progr,
+   sar": 0,
+   "end": 19,
+    "loc": {
+      "stt": {       "ine" ,
+      "colum: 0
+   ,
+    en": {
+      "li" 1,       "colm": 19
+     
+   },
+   "ore: "scrt,
+   body":[
+    {
+       "type":"ExresionSatent,
+       "start"0,
+       "ed": 19,
+      "loc": {
+         "start": 
+         "li":1
+         colmn": 0
+         },
+        end": {
+           "ne": 1,        "colun":19
+         }
+       },
+      "expesion": {
+         "type": "AsignmentExpession"
+        "st": ,
+    "nd": 1
+          lc":{
+           strt" {
+           "lne": 1,           "coumn"0
+         },
+          "n": {          "line: 1,
+             coumn": 19
+         }
+        },
+         "opraor":"=
+        left" {
+         "typ":Identiier,
+          "star" 0,
+         "end" 1,
+          "lo": {
+           "start": {
+              "line: 1,         clmn": 0         },
+          "ed" {
+             "line" 1,
+               "column": 1
+            },
+          "identferName": x"
+            },
+          "name":"x"
+        }
+     "rit":{
+           "type": ObjectExpres",
+        start": 4
+          "en": 9,
+            "lc": {
+             "tart": 
+              "ine": 1,
+           "colun": 4
+         },
+           "nd": 
+               "le":1,              "col: 19
+             }           ,
+           "properties: 
+          {
+             "ype": "bjectMethod"
+           "start:6,
+             "nd": 7,
+            "lc":{
+            tar":{
+             "lne": 1                "column:6
+                  }             end": {
+                   "line":,
+          "coum: 17
+                }
+               ,              "mthod" fls             key": {
+                "tye":"Identifir",
+                  "art": 0,            "nd": 12,
+          "lo" {
+                  tar" {
+                    "line" 1,
+              "column:10
+                  ,
+              nd": {               "line: 
+                "clu": 12
+                 ,
+              "idntfierNam": "i                 ,
+              "name": "if"
+          },            computd": false,
+             "kind": get"
+             i":null,
+              "generator":fse,
+               "async: false,
+           "params: ],
+             body": 
+              ype" Bloktement",
+             "strt: 1,
+              end": 1,
+               "oc": {                   "sta": {
+                   "l" 1
+                   "column": 15
+                 },                  "end: 
+                 ine":1                 "colmn": 17
+                }
+                ,                "body": [],
+              direcive": ]
+        }          }        ]        }
+     }
+   }
+    ]
+    "diecis": []
+  }
+}

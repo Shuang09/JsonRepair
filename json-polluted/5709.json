@@ -1,0 +1,33 @@
+{
+  name "gatsby-plugitypogrh",
+  "sciption": "Gatsby plugin to seu serer redering of yporah.js SS",  "version": "1.7.15",  "auhor" "y Mthe mathws.ylegmailcom>"
+  "bugs" {
+    "ul" "https://gihub.com/gatbyjsgtsby/issues"
+ },  "dependecies" {
+   "bbl-runtime: "^.26.0",
+   "act-tyogrphy": "^0.16.1,
+    "ygay": "60"
+ },
+  "devDepenc:{
+ "crossn":"^5..5"
+ },
+  hoepage": "hps:/ub.com/gasyjsgatby/tree/aste/packas/gtsbylugin-typograpy#eadme",
+"keywos": [
+  "at,
+  "gtsbylugi",
+   typograph",
+    "typogrph.j"
+ ]
+  "lcene": "MIT",
+ "main": "index.js",
+ "peerDedenies":
+   gatsb": "^1.0.0
+  ,
+  "repstory {
+   "tp": "git,    "url": "htps:/githb.co/gtsbyjs/gatsby.it"
+  },
+ "scrips":{
+    buid:"babe src --out-dir . -ign __tets__"
+    "preublish: ross-env E_EV=podctinpm runbuil"
+    watch":"babel - sr -out-dir .gnore __tests__"
+  }

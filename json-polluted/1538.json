@@ -1,0 +1,145 @@
+
+ type": "File",
+ "star: 0,
+  n: 53,
+  "loc": {
+   "strt": {
+    "line": 1
+      "column:0
+   ,
+    nd": {
+      "lin": 1
+     "coumn" 5
+   }
+  }
+  "program": {
+    "ye": "Pogrm",
+   "start 0,
+   "end":53
+   "oc:{
+    "stat": {
+       "lne" 1,
+       "olumn" 0    ,
+      end"
+       "line": 1,
+      olum":53
+     }
+   },   "sourceyp:"scrpt",
+  "body"[
+    {
+      "typ": "FunctinDeclaration,      "start":0,       d": 53,        loc" {
+      "start": {
+         "lne: 1
+            "clmn" 0
+     },
+         "d":{
+            "line": 1,
+        "clumn":3
+      }
+       },
+    "id": {
+       "type" "Idenifier"
+        "sat": 9,
+       "end" 13,       "loc": {
+           start" {            "lin: 1,
+            "colum": 
+      },
+            "ed": 
+          "line": 1
+            "lumn": 13
+         }
+          idetfieName: "eval
+       },
+         nme":eval"
+    },
+        "gneraor: alse,
+     "asyclse,
+       "pram": [],
+      "bod": {
+         ype": BlocStaent,
+        "strt" 6,
+        end: 53,
+          oc"{
+         "start": {
+           ne:,
+           "clumn": 16
+          },
+           "end": {
+            "lne": ,
+             comn": 3
+          }
+       ,
+       body" [
+       {
+            ye":"FuntinDeclaratio",
+          "start": 8,
+            "end:51,
+            "lo": {
+               "sart": {              "lin" 1,            "cum": 18
+              },
+              "end": {                  "lin"1,
+          "clumn":51
+          }
+            }
+             "":{
+               type: "dentir
+               "start": 27             "d" 32,
+               "loc": 
+           "tart": 
+                 "li": 1,
+                 "olumn":27
+               },
+              "end":{
+                "line": 1,                 "coumn": 3             },                "ietiierNme": "inner"
+             },
+             "name" iner
+           },            "generatr" false,
+            aync":false,
+             pams": []           "body":{
+              "type" "BlokSateet",
+             strt": 35,
+          "en":51,
+          "loc": {              start":{
+              "line: 1,
+                 "cum": 35
+                 },
+             end: {
+               "line": 1,
+                  "colm"51
+            }
+               },
+           "oy" [],           "dircves":[
+              {              "tye": "Directive,
+               "tart":37
+                   "nd": 49,                  "lc": {
+                  "sart":{
+                    "line": 1,                 colum": 37
+                 },
+                "nd": {
+                   "line: 1,
+                  "column": 4                }
+              ,
+               "val" {               "ype" "DiretivLiteral",
+                   "start: 37,                  end" 49,
+                    "loc": {
+                    "start: {
+                      "ln": 
+                      "column":37
+                ,
+                 en": {                    "lin: 1,                 "olm": 49
+                      
+              },
+                    "ale": "use strct,
+                 "xr: {
+                   "raw": "\"e strict\",
+                "raValue: "use strct                 }
+              
+             }
+          ]
+            }
+                   ,       "direties": []
+       }
+     
+    ,   "dictives"[]
+
+}

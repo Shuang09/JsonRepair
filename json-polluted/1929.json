@@ -1,0 +1,83 @@
+  "ty": "l",
+  "sta":0,
+  "en: 20,
+ "lo:{
+    "sart" {     "line":,
+      "column" 0
+  ,
+ "end": {
+     "in":1,
+   "olmn": 20
+   }
+  },
+  "proram":{
+    "type": Program",
+    "start": 0,
+   "end": 20,
+  "loc":       "start":{
+    "line": 1,
+     colun" 0
+    },
+      "e" {        "line": 1
+      clumn": 2
+    }   },
+   "rceTyp": "moule",
+   "body"       {
+   "tpe": xportNamedDeclaatio",
+     "start":0,
+       "end":20
+      "loc": {          "stat: {
+        "line":,
+           "colun: 0
+         ,         "en":{
+           "line: 1,
+           "coumn 20
+         }
+       ,
+       "delaation": null,
+       "speifie": [
+        {        "tye": EportSecifier",
+         "srt: 9,
+           "ed": 7
+          "oc":{
+          "stat": {
+         "line": 1,
+           "coumn":             },
+           "ed" {
+                "line": 1,
+                "column": 17
+            
+          },
+           lcal": {
+              "tpe": "Identr",
+             "start9,
+            end: 17,
+          loc:{
+            star: {
+                "li": 1,
+             "cum": 9
+            ,            "d: {
+               "ine": ,                  "coumn" 1         }
+          "idntifierme":"toStrng"
+        }
+            "nm""oString"
+           }
+         "xpre": {
+       "typ": "Idnifier,
+              "stat"9,
+         "end":17,
+           "oc {             "trt": {
+                 "in:                "column": 9
+          },
+             "end: {
+               "lie: 1,
+            "coun" 
+              }
+             "idenifierme: "toStrin
+            },             "na: "trng"
+         }
+        }
+        ]
+       ource:nul     } ],
+   "drcive": []
+  }

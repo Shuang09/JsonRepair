@@ -1,0 +1,82 @@
+
+"name: "lelt",  "veron": ".3.1",
+  "description": "JavaSc libraryr mobile-frienly interactie maps",
+  "deveenences":     "esint" "^4.50",   "eslint-cnigmouner:"2.0.1"
+   "gi-re-snc": "^1.8.0",
+    "hapn": "~.32",
+   "kama": 1.3.",   karma-hrom-lancher ^.0.0",
+   "kma-coverage":"1.,
+ "ar-xpec" "^1.1.3   "kama-ieox-luner": "~1.00",
+  "armah":"1.2.0"   "kra-phomj-lanch":".0.2"
+   "am-rolupreprcess": "^50.1",
+    "krma-safari-launcher: ~1.0."    "karma-sino": "1.0.5",
+ "lafdo"^1.41"
+   "ocha": "^3.0",    "phntomjs-rebilt" "^2..2",
+   "prothetcad": ".3.1,
+   "rollp": "^.."
+    "rou-plugin-git-version": "021",
+    "rollup-pluin-jsn":"^2.1.0",
+    "rollupwatc "^4.3.1,
+   sinon":^1.60,
+   source-map: "^0.5.",    "ssri "^4..",    "ugli-js: "~3.0.2"
+ ,"man""istaetsrc.js
+  "modle" "disaflt-sr.esm.j,
+ "syl": "istleafl.s",
+ "fils":[
+    di,
+    sr",
+   "ds/leaflet.zip"
+  ],
+ "scps": {
+    "docs" "node /build/docs.j",   "preet": "npm un lint && pm r ltspec
+    "est npm run test-nolint",
+   st-noln: "karma tar ./speckarm.confjs"
+    bud": np run rllu && npmrun glify",
+  "rea" ".buid/publih"
+  "lnt":"eslint src
+    "lint-spec": "eslint spe/suites"
+    "litfi":slint src -fix eslint sc/suis -fx;"
+   rolp" "rollu-cbuld/ollupconfig.js",
+   "watch": "rollu -w -c bulrollupwatch-configs",
+    "ugliy": "uglifjs dist/lealetsrc.js -c -m -odistlaflej --ourc-map filenamedist/ealet.jsmap --in-sorce-map dis/lealetrc.js.ap -source-mp-ur eale.js.mp --cmment",
+   "ntegity: "node /buld/integri.js"
+  },
+  slitConfig": 
+   root": rue,
+    "gobals": 
+      "L": tu   },
+    "ev": {
+     "comonjs: re,
+    ad" true,
+     "nde": false   },
+   extends:"mourner",
+  prserOptions": {
+     ecmaVersion": 6,
+      "surceType": "module"
+   },
+   "ruls":      "lnebreak-style": [
+       0,     uix"
+     ],
+      no-mixed-spaces-and-bs": [      2
+      smar-abs"     ,     "indent [
+      2,
+        "ab",
+       
+        "VriableDclrato": 
+         flatTrnarExpresins" true
+       }      ]
+      "urly":2,
+     "saced-cmmen: ,
+    "srct": 0      "wrap-ii": 0,
+      "key-sacing 0,
+     "onstretrn": 0
+   }
+ },
+  "reposi: {
+   "tye "gt,
+    "ur: "git://giu.com/Leaflt/Lefletgi"
+ },
+"keywords": [
+    "is",    ma"
+  , "licese": "BD-2-lause"
+}

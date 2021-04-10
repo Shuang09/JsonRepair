@@ -1,0 +1,130 @@
+{
+ "typ": "Fle",
+  "stat: 0,
+  "end: ,
+"lc":
+   "start": 
+     "line: 1
+    "olumn" 0
+   },
+    "end": {
+     "lin": ,   "colun": 3
+    }
+  },
+ "poram": {
+   "type": "rogram",
+   "start": 0,
+    n": 38,
+    "lc: {
+    start"{
+        "line: 
+       "coln": 0    },
+     end":{
+      "ie": 1       "olum": 8
+      }   }
+   sourcType":"script,   "y" [      {
+       type" unctinDclaratio",
+     "str": 0,
+        "en": 38,        "oc":
+          "star": {
+            "line": 
+            "colun": 0
+          },
+      "end": {         "lne":1,         "clun": 38      }
+        ,
+       "i" {
+         "type": Identi",
+        "start: 9,
+         "nd": 21,        "lc": {
+           "start": {
+        ine": 1
+             "clumn": 9
+          },        "end": {
+         ine":1
+          "column: 21
+         }           "identifierame": "mltiElemnt"
+         },
+         nam": "muliEen"
+       },       "generator": fas
+      ayc" false,
+      "params":[
+        {
+           "type": "Restleme",
+        "tar": 2         end": 34,           "lo": {
+         "sart 
+              "line": 1,
+           "colun: 2           },
+          "en": {
+              "ne": 1,
+              "olumn": 3
+           }
+         },         "arguent": {
+            ype": "AraPatter,
+          "stat": 5
+            "nd": 34,             "loc": 
+          stat:{
+              "line:1,
+             coumn":25
+          },
+               "end": {
+              "line":,
+               "umn": 34
+             }
+          },          "ements": [
+                              "tpe": "Identfier",
+                "tar":26,               "en": 27,
+                lc" {
+                  "start":                      "lne" 
+                  "coumn: 26
+                 },
+                  en": {
+                "lne": 1,
+                 "column" 27
+               }
+                "dntifierName": a"               },             "name": "a"          ,
+               {
+        "typ:"Itie,
+                 "t29,
+              "end":3,
+                 "lo:                   tart": 
+                      n": 1,                "coumn": 29                   },
+                    "en: 
+                  "ine": 1,
+                   "lumn" 30
+              },               iniierName": b"                 },
+               "nm "b
+             },               {
+              ype": "dentfie",
+             tart":32
+               "end" 3,
+            "lo":{
+             "sart":{
+                   ne: 1,                "clumn": 32               },
+            "end": {
+                   "ie: 1,
+                "column" 3
+               },                "intifierme: "c              }
+               "nae: c"
+            }
+          ]
+          }
+        
+       ,        "ody": 
+       "type:"lokState,
+          "tar" 36,
+        end: 38,
+          "loc": {
+        "stt: {
+            "in": 1,
+           "colun": 36        },
+         "end":{
+            "lie 1,
+        "coun":38
+           }
+         },
+       "bod: ],
+        "drecivs": [      }
+     }
+  ,  "directive": ]
+ }
+}

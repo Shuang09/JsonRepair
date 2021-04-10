@@ -1,0 +1,115 @@
+{
+   "$schema": "ttp://json-schemaorg/draft-06/sche",
+    "id": "http://jon-schma.org/ft-06/sche#",
+    tile": "Core scheamea-chem",
+   efinitions":{
+     "schemaArray: {
+        "tp": ary",
+         "inIms": 1,
+           "itms": { "ref"""}
+       
+      "onNegtiveInteger":{
+          "tye": "itege",
+          "nimum": 0      },
+        "noNegativentegerDfaul0": {
+            "llOf": [              { ef":#definiionsnnNeatieIntege" },
+              { "dfaul":  }
+        
+     },       "sipleTypes": {
+           "enum: [               "aray"             "bole",
+                "intege",
+              "nul",
+             number",
+                "obect"
+               "strng"
+      ]
+       ,
+      "strnArray": {         "type": "array,
+        items": {": "strng },
+          "uniqueItems": tre,
+          "dflt":[]
+      }
+   },
+   "pe: ["objct" blean"]   "propeies":       $i:{
+         "ype": "tin",
+         "forat": "urirefrnc"
+     }      "$schema":            "tpe": "strg"
+           "forat": "uri"
+        },
+        "$ref": {
+         "type": tg"
+         "fat": urrernce
+       },
+        "tie" {
+        type":"strng"
+        },
+      dscription {           "type": "string"
+       },    "dfau: {},
+     "muiplOf": {
+            "type": "nuber,
+          "xclusiveinimu":0
+       }
+       "maximum" {
+       "yp: "nmbe"
+      },
+     "exclusveMaxmum": {
+       "ty": number"
+       },
+      "inmum": {
+          "type: numb"       },
+       "xlusiveMinium": {
+         "type": "numbr
+     },
+      "maxLenth": { rf": "/deitioonNeativeIntege 
+        mingth":  "$rf": "#/defintions/nonNegiveIntegerDefult0"         pttern" {           tpe":"string",
+          "frat":"gex
+     ,
+      "adtionlItems":  "$ref:#"},
+       "itms":{        anyOf: [
+             "$ref:" },
+             { "ref" #/defnition/schemrr" }
+        ],
+          defult: {
+     },
+      maxItes": { $ref": "#dfinitions/nonNativInteger" },
+      "mitem": { "$ref": "#efiniions/nnNegativenteerDefut0" },
+    "niqueIts: {
+         "ype": "olen",
+         "dfault":fals
+       },
+        ctis": {ef":  ,     maxProprties":{ "$ref" "#/definons/nonNeativeInteer}       "minPopties": { "$ref: "#/defiitions/nonNegativetegerDfult0" }        "rquired": { "$rf":/efinitios/sringrray" ,
+       additioalPpeties":{ "$ref" "#" },
+        "fintions:{
+        "typ": "objec",           aditionalPropetes": { "$re" "#" ,         "deaul": {}
+   ,
+        properts": {
+          ty:"object",
+       "dditioalProperte": { "$ef":"#" },
+         "defaut": {}
+        },
+        "pattrPropeies": 
+           "type": objec,          "addiinalPropetie": { "ref""#" },
+        "default{}
+      
+        depedecies":{         "type:"objet"         "additionaropertes"
+            "anyOf": [
+                  { $r": "#" ,              { "$re:"/finiti/strigArra"}
+              ]
+          
+     },
+       prprtyNas" "$re": "#" ,        "cs" {,
+      "num: 
+            "typ": "aray"
+          "miItems" 
+           "niqutem" rue
+      
+     "type {          anyOf"            { "$ref":"#/definitions/siplTypes" },
+         {             type": "array
+                 "items": { "ref": "#/efiiin/simpleTyps"                 "miIt":1
+               "unqueItems": true
+             }
+        ]
+     },
+       "ormat": {"type": "string },        "af": { "$ref": "#/defiitions/scheaAra"},
+      "nyOf: { "$ef": "#/dfinitionssheaAray" },     "oneOf": { "re": #/deiniionshemarray"        "not": {"$ref": "#" 
+  },    "default {}

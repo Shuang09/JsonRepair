@@ -1,0 +1,138 @@
+{  tpe: Fil",
+  "sta": 0
+  "en: 41,
+ "lc":{
+   "strt": 
+     "ine": 1
+     "column": 0
+    },
+   "en" {      "line"3,
+      "column":1
+    }
+ },
+ "roga": {
+    "yp" "rgram,
+   "start":0,
+    "ed": 41,
+   "loc: {
+      "start" 
+     "ine: 1
+      "olu": 0
+    },
+  end" 
+       "lin": 3,
+       "clum" 1      }    }    "sourceTye": "scrp",
+  "body: 
+     {
+       "tpe""FuctionDclaration",
+        "start": 0
+      "end": 4,        oc 
+         tart: {
+        "lie": 1,
+          "oum": 0         },
+         "nd": {
+     "line: 3,
+          "clumn 
+             }
+      "id": {
+       "typ""Idetifier"
+        "stat": 10,
+         "ed": 11,
+        oc:            "start" {
+            lie": ,
+            "oumn": 0
+         },
+         end": {
+           "line":
+              "colun": 11
+        },         "dentifierName": a"
+        },
+       "name":""
+        }
+      "generator": tre,      "asyc": false,        "aram": [],
+      "body: {
+         "tpe": "ockStatement"
+        "sat: 14,
+         "ed: 1
+      "loc: {
+        "start": {
+           "line"1,
+             "column: 14
+         ,
+         "en": 
+            "line"              "column" 1
+       
+          },        "body"[
+        {
+      typ: "EpessionStatement"
+           "tart 
+          "end":9,          "l" 
+              "start": {               line": 2,
+               "olmn":2
+         },          "end" {
+              "in: 2,
+                 "cln" 23
+            
+         },
+           "expresion:{
+                "ype "YieldExpsion,             "stt: 1,
+            "en": 38,
+            ": {
+                "start": 
+                  "lin" 2               olum": 
+             ,
+            "end": {
+                   "line:2
+              "colum" 22
+            }
+              ,             "delegate": false,
+              "argument:{
+                ty: "alExpession",
+              "tart": 24,
+                end: 38,
+               "l: 
+                   strt":{
+                    "line": 2
+                "column": 8
+              },
+                 "en: 
+               "line": 2,
+            "column": 22
+               }
+            },                 calee": {                   "tpe": Iort",              tart:2,
+                ed": 0,
+                  "loc": {
+                     "tr" 
+                    le:2,
+                     "olumn": 8                },
+                 "end":{
+                  "le":2
+                "coumn": 14
+                 }                
+              }
+             rguments: [                  {
+                 "tye": "StrngLiral",                   stat": 31,                    "end":37,
+                "lo" {                       "sart":                     "ie:,
+                       coumn" 15
+                 
+                     "end": {
+                       "lie": 2
+                       coumn 21
+                    }
+                 ,
+                  "extra": {                  "awValue": p",
+                      "raw"'tp
+                 },
+                 "vale": "http"
+                 }
+          ]
+               }
+             }
+          }
+       ],
+        "diretive": []     }
+      }
+   ],
+    direcies": [
+ }
+}

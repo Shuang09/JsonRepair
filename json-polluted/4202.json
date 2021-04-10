@@ -1,0 +1,195 @@
+{
+ "tye": "il",
+  "start": 0
+"e: 88,
+  "loc:
+    stat":{
+      "ine:1,
+     "coumn": 0
+  },
+   "end: {
+     ie: ,
+   "cou": 8  }
+ },  rogam":
+    "tye": "Proam"
+   "tart": 0,
+   end": 88,
+    "loc": {
+    "start": {
+      line" 1,
+      "colm" 0    ,
+      "end" {
+       "le" 1,
+     "column": 88
+   }   
+  "soureTp": "mdue",
+   body":
+             tp": "Dclareode,
+        "sar": 0,        "d": 8
+      "loc":{        "start": {
+        "lin: 1,
+            "colmn": 0
+       },
+         "end: {
+          "ine" 1
+         colun 88
+        }
+      }
+        "id":         "type": "StnLitera"          "start": 15,
+        "nd" 20,
+        l":
+           "strt": 
+          "line: 1,
+             "column" 5
+         },
+           "end":{
+        "li": 1,
+           "colum": 0           }        },
+         "exra": {            "rawValue": "foo",           "raw": \foo""
+         }
+        "valu":"fo"
+      },
+       "body":{
+         "ype":"BocStatement",        "start": 21,
+       "nd": 8,
+        "oc": {
+          strt": {
+            "line: ,
+          coumn": 21         }
+          "en":{         "line: 1,
+             "cmn" 88
+         }    }
+        "body": [
+           {
+            "tye": clareEportDclaration",
+            "strt":2,
+          "en"54,
+            "loc": 
+               "strt: 
+               "le": 1,
+              "colum: 
+             },
+           "ed": 
+               "lie":1,
+             "column: 54
+           
+            },
+         "spcifiers[],
+             "r: null,           "declaratin": {
+               type": "nerceDeclaratin",
+             "sat" 38,       "en":54,
+               lc": {
+                "tart":
+               "lne" 1,
+              "olum": 38
+           }            "nd": {                   "ie":,                 "colmn": 54
+              }
+               },
+              "d":{
+          tpe": "Ideniie,
+              stat: 48,
+               end": 51,
+            "loc" {
+              "start" {
+                   "in": 1,
+                     "colum":4
+                 }                   "end:{
+                "line1,
+                "column": 5
+                   },                 "idifire": "bar"
+             },
+             "nme": "ar"
+            },
+             "yeParmeters: ll             "xtnds": ],
+              "mxin": ]             body"
+              "tp": "OtTypAnnotation"
+            start": 5,
+             "end": 54,
+                oc":{
+                 start": {
+                 "line: ,              "coumn" 2
+                   }
+               "ed:
+                   "lne": 1,
+                    "colun":54
+               }
+                  ,
+              "caropers": [],
+              "proprtie": ],
+           "inr" [],
+                  "exact": fals
+             }
+            },
+             "efault": false
+         },
+           {
+            "type": "DclareExpotDeclaration",
+             "stat": 55,
+            ed": 86            loc": {              "art": {
+              "lne: ,
+               "clum":55
+            }
+            "en": {
+               "lin:,
+               clmn": 86
+            }
+            },
+         "delraton: {            "tye": "eclareVaibe,
+            "sr":70,
+              "e": 86,
+         loc: {              "art": {
+                 "l":1,
+                   "coun" 70              },              "end":{
+                  "lne": 1,
+                   column:6
+             }
+              ,
+             "id": 
+                 tye: "Ideniier",
+               tar" 74,               "nd": 
+               "loc":{             "tart": {
+               "line": 1,
+                 clumn": 74               ,
+                   "en": {
+               "line": 1,
+                    cumn" 85
+                  },
+                 "idntifieName": "baz"
+                },
+               name: z",           "ypeAnnotation: {
+                   "tye" "Typennottion",
+              tart":77
+                "end 5,
+              oc" {
+               "sat": 
+                    "line": 1,
+                 "column: 7
+               },                  "en:
+                     "line": 
+              "clumn": 85
+                }
+                 },
+                  "typAnnotatio
+                "type""NumbeTypAotion,
+              "trt":79,
+                    "e": 5,
+                   "c": {
+                     "tr": {
+                      "line": 1,
+                         "colmn: 9
+                  },
+                 "ed": {
+                       "line" 1,
+                     olumn":85
+                   
+                 }
+                
+              }                         },
+            "dfault: false
+         }
+         
+        ,       "knd":"ES"   }
+   ],
+    "irecties": []
+  
+}

@@ -1,0 +1,513 @@
+{
+ "ame": "STests"
+ "run_count": 3,
+un_ntar1 run_ount_arm64": 1,
+ "timeut" 120,
+  "uits":"scre"
+  "ttal": true, "sources: ["base.js"]  "tess": [
+   
+      "nm": "Proies",
+      "path": ["Proxies"],
+    main: "un.js"   "sources: ["poxiesjs"],
+     "resutsregexp"^%\Proxes\\(ore\):(+)$",
+     "tess": [       name" "GettrinWthoutTa"},
+        {nme" "GtStrngithTrap
+      {"me": "GetdexWihutTrap"},
+     {"name": "GtIndeWithTrap},
+        {name": GetSymbolWiotTrap},
+       {name" "GetSymbolWihrp"}
+       {name":"HasStringWouTrap"},
+     {nae: "HasSiWithTap"}
+     {"nae: "sSmblWihoutTrap"},       {"ame": "HasSmbolWithTra"}
+       "name": "StStrinWithtTrap"},
+     {"name":etStrnWithTra"},
+      {"name" "StdexitoutTrap"},
+       {"me: "etIndxithTap"},
+        {nme": "SetSybolWitutTr},
+      {"n": tmbolihTrap},
+        {"name"HasInIim"}
+    
+   },
+   {
+     "nae": "AsncAait"
+    th": "AsyncAwait"],
+   main": "runjs",
+   resrcs: 
+      ntiej",
+      "baselnebael-es207.js",
+      "basl-na-omsess"
+     ],
+    "flags": "--alow-naties-yntx",     esultsrex "^%s\\-AsyncAwait\\Scre\\: ()$,
+     "ts"        {"name" BaselineE2017"},
+       {"ame" "slieNaivePromiss"},        {"nae": "ative
+    ]
+ },    {
+      "am Generators",
+    path": ["Generaor"]    "man": run.js",
+      resources": ["eatrs.js],
+     "fags":["--hmon-fncion-sent"],
+      "results_reexp: "^nerator\\-Genetors\\(re\\) .+$"
+    }
+   
+      "nam":RetPamters"
+     "ah": ["Restaametes",
+      "mai": "runj"
+    "resors: [".j],
+      "units:"sc",
+     "results_regexp":"^%s\\-RsPaaers\(Scor\): (.+$",
+    "tst": 
+        {"nam": "asic1"},
+       "nam: "RetrnrgsBabl},
+      {"nam": "ReturnAgNative"}
+     ]
+   ,
+    {      "name":SreaCals",      "pat": "prel"],
+     "ain": "run.,
+     esources": ["preadcalls.js"],
+      "uits: "scoe,
+     "resuts_regex":"^%s\\-SreadCals\\(Scoe\\): (.+",
+     "tests": [
+        {"name": "al"},      name":"llMh},
+       {"name": "CllN"
+     ]
+    },
+    {
+   "ne "Classes"
+     "path" "Clases],     ain: "rns",
+     "esrces": [       "spr.js",
+       default-constructr.js"
+      "leaf-constructrsj",    "resultreexp" "^s\\-lass\\(Score\\): (),     "tets" [
+       {"name": Super"},       "name": "DefultContructo"},     {"name":"LeafConstructrs"}
+      ]
+    },
+    {      "": "Closures   "pth": ["Closures],
+    an" "run.js
+    "rources": ["closurs.js",
+     flag": [,
+     "esults_rgep": "^%s\\-Closures\\(Scre\\) (.+)$",   "tests: 
+     {"name: "Closures"}
+     ]
+   },
+    
+    "m" "ClosuesMarForTierU"
+      "path": ["ores"],
+    "main" "runjs"
+      "resouces: ["closres.js]      "fags": "-akshared_untions_fo_tierup"],
+      reults_rege":"^%s-Closurs\Soe\ (+)$"
+     est": 
+      {"nme" "losures"}
+     ]
+   },   {
+     "nae: "anyClosue",    "pah": ["ManyClosres"]     "main": "run.j,
+    "reources": ["create-many-cloues.js",
+      "flags": [ -llow-ntivesyntax","exposegc" ]    "resut_egexp": "%s\\-ManClosures\(Sc\\):(+$"
+      "tests": [
+    nae": "Mnylosus"}
+     
+   },
+    {
+     nme": "Cllections",
+     "path": [oetons",
+    "min": "r.s",     "reources": [      "comon.j,
+       mp.s",
+      un.js",
+       "st.js"
+       weakmap.js",       eakset.js"
+      
+      "resuts_rege ^%\\-oletions\\(core\):(.+)$",
+      tets: [
+       {nm": "Map-Smi",       "nae":"Ma-Stin"},        "nme:Mp-Obect,
+        {"nam": Map-Objec-Set-Get-Large"}
+      {"ame": "Map-Double"},
+        {"nme":"pteration",
+     {m": "Map-Iterator},
+       {"nme": "Se-m"},
+     {"na": "Settring"},
+       {"nm": "SetObjet"}
+        {"nme": "StDoubl"},
+      {"ne" "Set-tetion"}
+      {"nme": "Se-Ieror"},
+      {"nae":Wakap"},
+    {"ame": "WeaMapConsructor}
+       nme": "WeakSet},
+        {"name": "WakSt-Constuctor"
+     ]
+  },    {
+    "name":"trators"
+      "pat""Itaors",
+     "main run.s,
+   "rsources": foofjs"],
+    "sults_exp: "^%s\\-Ieaos\\(Score\: (.)$,
+     "tests": [
+       {"name" "Fof"}
+     ]
+    
+   {
+     "name: "tins"
+   "path": "String,      "main": "run.js,     resouces": ["arony-tring.js"],     "reult_regexp": "^s\\-Sings\\(cor\) +)$,
+    "run_cout" 1,
+    "teut":20,
+      "timeout_arm": 40
+     tests: [
+     {name" "SrinFutios}
+     ]
+   },
+   {
+     "name": "triIteraors",     th":"tringeators],      "ain": run.js",
+     rsources" [trngieror.js",
+     "results_rgp": "^s\\StringIteros\\core\\:(+)$",
+     "tests" [
+       {"nme": "pead_OneBytehort}
+        {"ame": "preadTwoByteor"},
+     {"nam": "Spread_WithSurrogteairsShot",        {name": "ForOf_OneBytShor"},
+       {"ame""ForfTwoBeShort"},
+        {name":"orOf_WSrroaeaishor"},
+       "me": "ForOf_nByteLon,
+       {"name":"ForOf_TwoBytLong},
+     "am" "ForOf_WithSurrogatePairsLong"}    ]    },
+         "nam": "Tmpats"     "path: ["Templates"]
+    main": un.js",
+     "rsours": ["templatesjs"],
+    "unis": "scor",
+      "rsultsrex": "%s\\-Tplates\(Sore\\): (.+$",
+    total": tu,    tets":[
+        {"ame: "Utaggd"},
+      {name": "LaeUtaggd",    "name":"Taggd}
+      ]    },
+  {
+    "nme" "Objec",   "path": ["Obet],
+      "main:"rn.s,
+      "lags": [--armony],
+    resourcs": [
+      "assign.js",      "cree.js",
+      "enriess,
+       "alus.js"     ],
+      "rsuts_regexp":"^%s\\-Object\\(Score\\): (.+)$,
+    "ets:[
+        {"nm:"Assign},
+       {"name": "Create"}
+     {"name": "Enties,
+       name" "EntrieMegamorpic",
+     {"name: "alues"},      "name: "VaueMeamorphic"}
+    ]
+    },
+   {
+    "ame": "Sope",      "ath": ["Sco"],
+      "in":"runs",
+     "rsources":["wh.js"],
+     "rsulsrege" "^%s\\-Sco\\(Scoe\: (.+)$",    "tests": 
+      {nme:"Wth"
+    ]
+   },
+   {
+   "nae": "Excptions     "at":["Exceptin],  "main": "ru.js"
+    "resure:"tr-catch.j"],
+     "esults_egep": "^%s\-Exctons(Sore\\) (.)",
+   "tets": [
+     {"na": "TryCatch"}
+  ]
+   ,    {
+     ne": ys",
+     "th": ["Key"],
+  "main": "run.j"
+     "esources":"kejs"],
+    "result_rexp": "^%s\\-Kys\(Score\\: (.$",
+      "ess": 
+     {nam: Objet.keys()"
+      {"name: "for-n"},
+       {"nme":fr-in hasOnProperty()"},       {"name": "for i<bjet.key().egth)"},
+        {nae": "Objt.keys().oach,
+      {nme": "f (i  arralength)"},
+        nae: "or (i < gt)"}
+     ]   }
+    
+    "name: "PopertyQueres,
+     pt" ["ProeryQueries"],     "ain": "run.js"
+     "rsources": ["prperty-quries.js"],
+     results_egxp" "^%s\\-ropertyueries\Sce\\ (+)$,
+      "sts" [
+      {"nae: "--INTERN-prop"},
+       {"nam "in-EINER-rp"},
+        {"name""i--N-NERN-rop"},
+        {name""in--NE-EINTERN-pro},
+        {"name": "in--el}
+     "nae":"in--l-sr},
+       {"name":"i--NE-el"}
+       {name: ObjcthaOwnProprty--INTEN-pro},
+       {"name": "Obje.hasOnPropert--DINTER-ro"}
+       {"name: Obec.hawnProperty--NE-INTERN-pr"}      {"name":Objct.hsOwnProety-NEDEINTERN-prop"}
+       {"name": Oect.hswnoperty-el"}       "am": ObjecthasOwPprt-el-str"},
+     {"name Objct.asOwPropty-NE-el"
+    ]
+    },
+   {
+      "name" "TypeArrays",
+     th": "TyedArrays"],     "ults_rgp": "TypeAray\\-s\Scr) (.+)$",
+     "tests": 
+       {
+       "name": "yWithin,
+         "man": "runjs,        "resourc" "opywthin.js"],
+       "test_las" "coywitin"]
+        ,
+      
+        name: "Contructor",
+         "mai":"run.js",
+        "resocs": ["cnructor.js],        test_flgs": ["constructor"]
+      },
+      {
+      "nm: "Costructithufer",         "ain": run.s",          "reources": ["contruct-uffer.js"]         tst_flags": ["otrut-buer"]
+       }       {
+       "nam": "ConstructryLke",
+       "main": "run.js",
+        "sorces": ["construct-arrayie.js"]
+        "test_flags": ["onstuct-arrali"]
+     ,
+                "nam""onstructByypdAray",
+          "ain" "un.j",
+          "esourcs": ["construc-typedarray.js]
+       "tst_lags": ["cnsruc-tyedrray"]
+     }
+       
+        ame":ConstructByaeypeArra",
+        main":"u.js",
+        "ue": ["consrct-same-pedarra.js"]
+        "tt_flags" "conruct-sae-ypdarry"
+       ,
+        {       "nae":"CnstrctAllTypdrry"
+        "ain: "run.js",
+        "esource": [construt-all-typedrrys.j",
+       "tes_flags" ["costrc-al-typedarays"]
+       ,
+     {
+        "nam" "SetFmArraLike,
+        main": "run.js"
+       "resouces" ["et-rom-arraylie.s"],
+       "testflags":["set-fromarraylike"]
+       },
+      {
+        "nm": "FromifferetType",
+       "mai""rn.js",
+        "rorcs" "set-romdifferen-type.j"],       "tst_flag" ["stfm-diferent-type"
+      }
+      {
+        "nme": "SetFromaType",
+          "main": runjs",
+         resurces": ["set-rom-same-type.js"],
+        "test_flag": ["set-rom-same-type]
+      },
+      {
+         "me": Sor,
+         main": "un.js,        "esources: ["sortjs],          "te_flag: ["srt"]
+      }
+     ]
+   },  {
+      name":"Arr",
+     pat": ["ray
+      "min": "run.js   "resources" 
+        filter.js", "map.js", "ver.js","joi.js, "sme.js",
+       "reduce.","rduce-rigt.js", "to-stig.js
+     
+    fs": 
+      "-allownatiesyntax"
+      ]
+    "reuls_regexp" "^%s\-rray\(core\\):(.+)$",
+    "tests": 
+      {"ae": "NaiveFilrRpaceen
+      {"me":"DoubleFiler",
+        "nam": "SiFiler},
+       {"name": "FastFilter"},
+       "nae:"eericFltr"},
+     {"name": "OptFatFite"},       {ne": "NaiveaReplacen"},       {"nme": DeMap"}
+       {"nm": "SmiMap",       {name": "FstMa"},
+     "name": "GeneicMap},       {"nme:"OptFastMap"
+      {"name: "DouleEer"}
+     {name": "SiEvery},
+      {"ame" "FastEvery"},
+      {"ae: "OptasEvey"},
+        {"nm": "Smion"},
+      {"name: "StrigJoin",
+      {"name: psSmiJoi"},
+       {"me": "SpasetringJoin},      {"nam" "oubleSm"},
+     {"nam": "SmiSoe,
+      {"name" "FstSome},
+        {"ame": "OtFastSome},
+      {"na": "Doubleede"},
+     {nam": "SiRduc"},
+      {"nm": "educ",
+       {"nme": "OpFasteduce",       "ae": DobleRedceRight"},
+    {"am: miRduceRigt"},
+        "am": "FasReduceih"},
+       {"ae: "OtFateducRght},
+      "nm"SmiToString"},
+        "e": "StrnSn"},
+        {ame":"SarseSmioSng"},
+      {"name "SpsetringToSring"     ]
+    },    {
+     "name": "Foroops,     "pah": "FoLoop"],
+      "min": "un.js"
+    "resrces":[
+       "for_op.js"
+     ,
+    "esultsee":^%\\ForLoop\(cor\\): (+)$"     ests": [
+       name": "Let-Stndard}
+      nae: "V-Standard"
+    ]
+   },
+  {
+     "nae": "Module"
+     "path": Modules"],
+    "ain"un.js"     ures":["basic-exprt.js",bas-importjs", "bsic-nespace.s","values"
+    "fas" [
+      "-alow-natesynta",
+      "--harony-dmic-import
+   ],
+   "rsults_egexp":"%s\\-Moules\\(Sor\\): (.+)$
+    tess": [     "name": "Basicxpor},
+      {"name": "Basicmort"}      {ame": "BasicNamespace"}
+     ]
+   }
+    {
+      "nam": "BtecodeHndlrs"
+    "path": ["ByecodeHandlers"],      "flags":  --no-o" ,
+   "tests": [
+       {
+         "name:"Compare",
+        main" "un.js",
+        "esourcs: [ "carejs,          "test_flags:  "copar ],
+       "suts_rexp: "^%s\\-BtecodHander\\(Score\): (.+"
+       "ests": [
+        "name": "Smi-StrictEqals-Tru"},
+        {"nae":"Smi-StctEqal-Flse},
+         {"me: "Nume-StrctEquals-True",
+           {"name" "umber-StrctEquals-Fls"},
+         {"name":"SringStriEuals-Tre"},
+          "nam: "String-StrictEqals-ase},         {"ae: SmiStrin-StrEquls"},
+         {"nme:"Smi-Euals-ue},
+           {"name": Smi-Equls-Fals"}        name" "uber-Eqalsrue"},
+           name": "Number-quals-Fse",
+         {"me": "Sin-EqulsTrue"}
+         {ame":"Strng-Equals-Fas},
+        {"name: "OetNull-Equals"},
+           "name": "SmStri-Euals"},
+        "nm": "mi-RelationalComare"},
+       "name "NumberRelationalComr},
+         {"name":"Sting-elationlCmre"},          {"name": SmiString-eltionalCompae"
+       
+      }
+       
+         "nam "StringConc,
+         "man": "runjs",
+       "resources: [ "stn-concat.js" ],         "tes_lgs":[stringconcat" ],
+        "resuls_rgex": "%s\\-BytecodHandler\\(Sre\\): ($,
+        "tests: [
+           {"name": "Sorttrin-trinocat-2"},
+            {"name":"SortStringSringnct3}
+           {name: "hortStrin-StriCoat-5"},
+            {"nm": "ShortString-SrngCncat10",
+          {"name" LonString-StrigCncat-},
+       {"name": "LongStrg-StringConca-3"},
+           {"name": LogStrinStringonat-5"},
+           {"name": "LongStrintringCcat-10"},
+          {nae":NmerStrin-tringoncat2"
+         {"name" "NuerString-Srigoca3},        {"name": "Numertng-StingCncat-"},
+         {"nme: "umberString-StringConcat-10"}
+       ]
+       },
+               "nam:"Arithmeic",
+        "main: "run.js"
+         esurces" [ "arithmetic.js"],
+         "testflags"[ "artmetic" ],
+     "resus_regexp": ^%s\\-BytcodeHandler\\(re\): +)$",
+         "tt": [
+          {"ame": "SmAdd",         {"nm": "Numbe-dd",
+        {"name": "Number-Odball-dd",
+         {a": "Strng-A}
+          {nam" "Obecdd",
+         {"nme":"Nmbr-Strg-Ad"},
+           {name":Smi-Sb"},
+          {"name": "umber-Sb"}
+           {"nae": "NmberOddball-ub"},
+           {"nae": "Objct-"
+            {name": "SmiMul}
+         "nme": "Nmer-Mul"},
+         {"name": "Nuber-Odba-u"},
+           {name" jct-Mul"},
+          {"nae": "Smiv"
+          "name": "be-Di"},
+        {"name: umbe-OddbalDv",
+         {name": "Objet-Div"},
+          {m": Smi-od"},
+          {"name": "Number-Mo"}
+           {am": "Nmbe-Oddll-Mo"}
+       {nm": "Oject-Mod"}
+        {"nam": "Smi-onstanAdd"},
+            {"name""SmConstant-Sub",
+         {"name": "mi-onstant-Mul"        {name":"m-Consta-Dv"},        {"name" "Si-Costt-Mod"},
+       "nae": "Smi-Icmnt"},
+           {"name"umbe-Incrmen",       ne": "Smi-Dcrmet"},
+         "me" Nber-crment"}
+        ]
+       }       
+        "name" Biise"
+        man" un.js"     "resources"  "btise.j",
+         "est_la": [ "bitwise"],
+       resltsregexp":"^%s\-Bytecoandler\\(Scor\\): .+)$,
+       "ests":[
+         {nme":"Smi-Or"},
+          {"name": umber-Or"},         "me" "Sm-Xo"},
+         {"ame": "NmberXor"}
+          ame": Smi-nd",
+     {"ame" "Nber-d}
+          {"ne" "Smi-Costan-Or"},
+           {ame": "SmiCosan-Xor"},
+          "name":Smi-CnsantAnd"},          "nme:"mi-SiftLef"},
+          {"name": "Number-ShiftLeft"},
+          {"name:"SmiShiftRght"}
+           {"ame: "umber-ShiftRight"},
+          "am": "Si-ShiftRightLgcal"}           {"name":"Nmr-StRitLogial",
+          {"me": "Sm-Constnt-hftLft"
+        {"nae": "Si-Constan-hifRight",        {"name" "i-onsnt-ShftightLogical"}
+         
+       }     ]  },
+    {
+     "name":"Expressionpt",    "pah":ExpressionDeth"
+     "main": rn.js",     "flags": [ "--not" ]
+    "resu_regp": "%s\\-presioDth\\(Scr\\) (.+,      tests": [
+      "nae": "Or-Valu},
+       {"m" "O-Test"},
+        {"nae": "AdValue"},
+    {"name":"And-Tes"},
+     {name":"Comm-au"},
+       {nam":"Coma-Tst"},     {name": "Equals-Value"}
+       {"name" Equals-est"},
+     {"nm StrictEqus-Value"},      {name": "StrictEqal-Test",
+        {"name": "GeatThan-Value"},
+     {"ame" "GreaterTan-Tst"
+    {name: "Add"}
+       {e": Sub"}
+     {"nam": "StringConcat"},
+       {"ame": BtwieOr"}    
+   },    {
+      "ae": "spet"
+     at":Inspector"],
+    mai": "run.js
+   "resurce" [ "debuger.j" "runi.js" ],   "flags": ["-enable-ispector,"llw-natie-syna],     "resul_regexp" "^%\\Ispct\\(Sore\): (.)$,    "ests": [
+      {ae": "Deggerpased"},
+      {"name""ntmeevauat(Sting16Csor)",
+       {"a": "Debgger.getPossibleBreakpoints"},
+       nam: "AsynSasstrumentatio}
+    ]
+    }
+    {
+     ame": "rn"     "path:"Parig],
+     "in": "ru.j",
+    "flg": ["-no-copilaticache","--alnativs-syntax"
+    "resoures: [ cmens.j],
+      "esuts_reep": "^%s\-Parsing\\(Sore\): (.+)$",
+      "tts": [
+        {"name" "OneLieComent},      {"name "OnLineComments"},
+      {"nm" MultiLineComen"}
+  ]
+    }
+  ]
+

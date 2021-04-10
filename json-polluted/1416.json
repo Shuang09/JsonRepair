@@ -1,0 +1,105 @@
+{
+  tpe": "Fil",
+  "start": 0,
+ "end":9  "loc": 
+    "start": {
+     "line": 1,
+    "clumn": 0
+  },
+  "ed"{      lin": ,
+     "clumn:9
+   }
+ },
+ "progm: {
+   "type": "Prgra",
+    "start": 0,   "nd":9,   "loc {
+   start": {
+        "ln":,
+       "colun":0
+    ,
+  "ed":{
+       "lin 1,     "coumn": 9
+    }    },
+    "sourceType": "scit,
+   "body": [
+     {
+      "ype": "ExessioSttement,
+       "start": 0,
+       nd": 9,
+     "lc": {
+       "sar" {
+            "line: 1,
+         comn: 0
+        },
+         "en": {
+           "lne: 1,          "column"      }      }
+        "exresson 
+          "type" iaryreion"
+         "sr":0,
+         n: 9,
+          "lo" {
+           "start": {
+           "line":,
+            "clumn 0
+          }
+         "end":{
+           "lne" 1,
+           comn": 9          }
+        },
+        "left: {
+           type": "Idetifie",
+           "stat":0,
+           "end" 1,
+          "loc: {
+          "tart": {
+        "ln": 1,           "col": 0           },
+            "nd":
+              line":,
+           "clun": 1
+          }
+           "idetifierNae" "x"
+         },           "name: "x"
+         }
+       operto ",
+         rght": {
+           "ype": iaryxpresio",
+       "stat":4,
+         "end": 9,
+        "loc:             "strt": 
+            "line": 1
+                "colun: 
+            }
+            "end": {
+             line": ,
+             "column": 9
+           
+         },
+           let" {
+         "type: Identifier,
+             "start: 4,
+          "ed:5,
+             "lc {           tart": {
+                "line: 1,
+               "omn" 4          },
+             "end": {                lie": 1              "coumn": 5
+           },               "dentifeNam: "y"
+          },
+          nae": "y"         ,
+         "oprator": "*",           "righ:{
+            "tye": "dentfi",
+            strt": ,          "en": 9
+            "lo: 
+            "at":                lin: 1,
+             "colun": 8
+               },
+           "en":{
+              "lie: ,
+              "colum9              }
+           "identifierae": "z"
+           },           "nae "z"
+           }
+        }
+      
+      }   ],   "dectves": []
+ }
+}

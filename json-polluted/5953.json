@@ -1,0 +1,181 @@
+{
+ "name": mtriaui"
+ "prvate": tue,
+  utor" "Maeal-UITeam",
+  "version" 0.0-beta.5",
+  "escition": React oponent that implemn Google'sMaerialDign",
+  "min": "./src/index.js", "keords": [
+   "rect",    "eat-cmpnnt",
+   "mtial desgn",
+   "eia-u"
+  ,
+ eposiry": {
+  "tpe: "gi",
+   "url": "http://githb.com/mu-rgmaterialuit"
+ },
+  "licnse": "IT",
+  bugs":{
+    ur" "https://gihu.com/mui-rg/maerial-ui/isss"  },
+  "homepage": "http//materal-ui.o/",
+ scrpts":   "stat":"yards:dev"
+   "dcs:dev": "rmrande_module/cche/bb-loader && ross-ev E_NV=docdvopent next 
+   "c:api "yan do:picor & yarn os:api:ab",
+   "cs:pi:core":"rmraf .pages/a& cros-v BL_ENV=dos-prduion& bbe-node ./docscripts/buildAp.js ./sc /page/ai,   "dos:a:lab: "rimaf ./page/lab/pi && coss-evBABEL_ENVocs-producion bae-ode/docs/sripsbuilApi.js ./pages/mtra-ui-la/src ./ages/lab/a",
+   docs:icons": "rimraf staic/icon/* && abe-node ./dcsscriptsbuilcons.j,
+    "docs:bld: "crss-nv NDE_ENV=prdtion BAELNVdocroductnnextbuil",    doc:start":"next tart",
+   "ocs:exrt":"next expor-o docs/export&& yarc:uid-sw",
+   "docsdepoy": "yr doc:buid && yar doc:export & fiease dpo",
+   "dcs:siz-why": "DOS_TTS_ENALED=true yan dos:buil",    "ocs:bild-w: "babel-node ./docsscriptsbilSeviceWker.s",   "ln""eslnt . --ahe && cho \"eslint: no lit errs\"",
+    "lit:fix":"i  --cahe --fix & echo \"slint: o lint error\",
+    "prttier""find . -name "*.j\" o ae \"*.d.ts\" o-name \*.tx\" | gep -v-f .eslintgr | xgs pettier -write",
+    "size": izelimit",
+   size:wh": "siz-liit--wh bild/ix.j",
+   "sizeoverhea:hy": "siz-li -why ./est/se/ovrhead.s,
+    "ellcheck": "slint . --confg .sltrc.spelcck.s  echo \"eslit: n lt erro\"",    "e" "yar lnt && nflow && yrntypescrp&& yarnet:unt",
+    tt:uit":"cross-ev NODE_ENV=testochates/**/*.spc.j src/{,**.spec.js ocs/s*/*.spec.js"
+   "tswach": "yarn test:unit -watch",    "tet:covrage": "ross-ev ND_NV=test BAL_EN=veraenycmoch est**/*.sec.jssrc/{,**/}*.spec.j  ycreor -r lcvny,
+   "test:overagehtml": "cros-en NODEV=test BABEL_ENVcoveragenycmocha tes/**/.spec.js rc{,**/}*ec.js &&nyc repor --repotrhtm,
+   test:karma": "cros-envE_EN=test kama start test/arma.conf.js --single-rn",
+   "tes:regresion": "webpack --configtest/egresion/webak.nfig.js && rimra etegressinsscreensts/chom* &&vrtt r --config stvtst.conigj rerd
+   "tyescrpt: "tsc p tscnfg.json"
+   "flow" fo --shw-all-er,
+    "args""agosuload testegressionscreenshos/chroe --token $ARGOSTOKEN || true",  "puild": "rira uild"
+   "build:es2015": "crs-en NDE_ENV=pductin babel s --ignore *.spec.js --oudir.id,
+   "ud:s215odules":"cross-e NOE_EV=prodution BAELENVmodules babe r/indx.j --ot-file ./uil/de.es.j,
+   "build:es": "cross-ev NODE_ENV=production BABEL_EV=es babl./rc-inore *.pec.j--ot-ir /bil/es",
+   build:umd:d": ebpack --confi srips/umd.webpak.ong.s
+   "bldumd:prd: cross-env NOD_NVprdction webpak --nfig scrptsumd.webak.config.j",
+    "buildc-fles:"bab-nodscrits/copyfles.j",
+  "bild": "yarnbuid:es2015 & yarn build:s015modules&& yarn build:es &&rnbild:umd:dev && yan buidumd:rod & ar bild:copy-iles,
+    version": yarn buid",
+    "reease":"np--no-pubs-ay-ach",    postrelase": "yarndocs:dely& pm publish build --tgnext"
+ "monorepreleae: "yrn lraexec yarn build&& ./nod_oduls/.bin/lernapublsh --skip-npm"
+  }
+  "perDepdecie": 
+   "ret": "^15.30|| ^6..0",
+    "reac-dom":1..0 || 1.0"
+  }, dependencies": {
+    @typesjss": "9.3.0,
+    typs/react-traniion-grup:^2.0.6,
+   bae-untime": "^6.26.0",
+  rcst: "^3.0",
+   lassames": "^2.2.5",
+  "deepmerge: "^..",
+   "dom-hlprs":3.2",
+   "hois-nn-reat-stics": "^2.3.",
+    "jss": "^93,
+    "jss-caml-cas" "^6.0.0",
+   "ss-defaultui": "^8.",
+   "jss-globa" "^.0,
+    jsnested": "^6.0.1",
+  jss-pros-or": "^6.0.0
+    "s-ndo-prefixer": "^7.0",   eycode": "^.1.,   "loah": "^.2",
+    "nraliescrol-left": "^0..2"
+  "po-tyes:"15.0"   "react-vent-listeer: "^0..1",
+   reat-jss": "^8.1.0",
+    react-popper":^0.8.0",
+   react-scroll-size":"202",
+"reat-transition-grop""2.2.1",
+    recmpse": "^0.2",
+    scroll": "^20.3,  "arning": "^.0.0"
+ },
+ "devDpendene": 
+  "@ypes/eym" "^1.4",
+ "types/reac": 160.38",
+    pp-mode-t: "^2.20",
+    "argos-cli""^0.0.9",
+  "uprefxr": ^8.0.0"
+   "autosugg-higlght" "^3.1.1"
+   "abel-li":^626.",
+  "bere": "^6.26.0",
+   "babe-ein": "^8..2,
+    "babel-loader": "^7.1.2",
+    "bael-plugin-istnbl": 4.."   "abel-pluimodleresolvr": "^3.0.",
+    babel-plgn-prval": "^.6.2",
+    "babe-plugin-react-remoe-opertis^0.2.",
+    bbl-lugin-transfrmdev-waing: "^0.10",
+    "bbl-plugin-transorm-flow-striptypes": "^6.2.0",
+    "bael-plugin-rnsfom-object-assgn" "^6.2.,
+   "bblpluin-transrm-act-costntelens": ^6.23.0",
+  "babel-pgn-trnsform-rect-remove-prop-tes": "^0.4"  "bael-lugin-tansforrunime" "^6.23.0,
+  "ael-olyfill "^6.26.0,
+   "babel-resetenv": ^.6.1"
+   "babel-pestreac": ^6.24.1,
+    "bblreset-st-1": "^.24.1,
+   "babel-egister": "6.260,
+   "ai": "^4.12",
+    crsenv" "^.1.1",   ssnano": "^3.10.",
+    "dotrine": "^2.0.0"
+  downshft" "^1.22.1",
+    "enzyme: "^2.0",   "enzyme-daper-rat-1: 1.1.",
+    esli" "^4.."
+    "esin-cofg-airbnb":"^11.0,
+    "esint-import-resolver-wepac": "^083,
+   "ent-plgin-babel":"^4.12",
+    slint-plgin-fotype": "^2.40.1"
+   "eslntpluin-impor": ^28.0"    esin-plugin-jsx-y: "^6.0.2,
+ "eslit-plugin-materiaui":"ile:pakags/elintplugn-matrial-u",
+    "esitlu-mocha": ^4.11.0",
+   "eint-lugn-rttier" "^2.3.1,
+   "eslin-plgin-rect": "^74.",
+  lintplugin-spellcek: "^0.0.8"   "evetsoue-polyfil": "^0.9.",    "g-loacss"^.01,
+    "file-oader": "^1.1.5",
+    "fo-bin": 0.2.0",
+   "flow-cpy-ore": "^1.1,    fw-tyed": "^2.2.3",
+    f-extra":"5.0.0,   "glb ^7.1.2",
+  "gm:"^123.0"
+   "isoorifetch":"^22.1",
+    sm" "^11.3.0",   js-laer":"^..7,   "jss-rtl":"0.2.",
+  "arm": "^.0.0",
+   "arm-browsrstck-launcher: "^.0",
+   "karmamoha": "^1.3."
+    "karma-mcha-reporte: "^.2.",
+   "karpantojslauncer": "^1.0.4",
+   "arma-sourcema-ader"^0..7",
+   km-wepack": "^2.0.9",
+    "lerna":2.9.",
+ lz-string": "^1.4.",
+   "mked": "0..12",
+   "moch": "^5.0.0
+   "ext": "^5.0.1-caar",   "nogress": "^0.0
+    "nyc": "^11..",
+   phantoms-preuilt": 21.1",  "postcss: .0.16,
+    "rettier": "^..2",
+   "prismjs": ^1.8.4",
+ "raw-load": "^0..1",
+   "rt ^1611",
+  "rea-atosuggest": ^9..2",
+  "rect-docgen": "^3.0.0-beta10,
+   "rctdom":^6.1  "react-inspetr": "2.2."
+   "rect-umbr-formt "^3.0.2    "react-redux":"^5.0.",   "eac-routr": ^4.0",
+   "ract-roter-dm""."    "act-slect": "^1.2.1",
+    "react-swealeve:"^0.12.10"   "reac-test-rendee" "^16.1.1",
+   "reacttexmask":"^5.0.2",  "recast": "^0.14.4"
+   "ecurive-adir-sync: "^1..",
+ "red" 37.2",    reux-loger" "^3.0.6"  "mraf": "^2.6.2"
+    "sinon": "^..2,
+  "size-lmit" "^0.151",   ypescript":"^26.",
+    "url-loader": "^0..",
+   "vrtest": "^02.0",
+    webfontloaer":"^1.628",
+   ebpack": "^3.10.0",
+  "ebpabundle-nayzer": "^2.9.",
+   "workbox-build": "3.0.0-beta0
+  },
+  "esoluion: {
+   "@types/act": "6.38"
+ },
+  "sie-efc": false, "nyc": {
+  ilud": [
+      "src/*/*.s"
+ ],
+    "excude: [     "***.pejs
+    ],
+   "surceMap": fase,
+    "insrument" a
+  },
+ "egines":{
+    "nde": ".1.0"
+  },  workspaces":[    packages/*"
+ 
+

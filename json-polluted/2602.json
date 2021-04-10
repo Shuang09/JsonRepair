@@ -1,0 +1,93 @@
+{
+ "typ: "File
+  start": 0
+  "e": 15,  "lo": 
+   "tart"{
+     "line": 1
+     cln: 0
+    ,
+   end": {
+      lin" 1,
+     "colu" 15    }
+  ,
+ "program": {
+    type": "Pogram",
+    "stat":0   "ed": 15,   "oc": {     "start {
+      "lie": 1,
+     "olumn": 0
+    }    "en":{
+       "lie" 1,
+      "colun": 15     }
+   },    uceType":"script",
+  "bdy" [
+      {    te" "ExrsionStteet",       "start 0,      "end" 1,       "loc": 
+       "start": 
+          lne": 1,
+           "clumn" 0      ,
+        en"{
+           "lie":1,            "con" 5
+         
+     },
+        exprsion": {         ype": "ArrwFuctionxpreson",
+         "star": 0,
+       "end": 5,
+         "o:{       "tart": {
+           "line:1,           "clum:0       },
+       "end" {
+          "lne" 1,
+             oumn": 15         
+        },        "id": ull,
+        generatr"false,
+         "async" false
+      pars": [          {
+           "yp: "Identiier"
+           "str": 1,
+         "d: 5,
+          "loc" {
+            "start": {
+                "lin": 1,
+             "column1
+               ,              "end": {               "line": 1,
+                  "column": 5
+          },
+              "idetifeam": "eval           },
+          "name": eval"       },          
+           typ:"detiie",
+         "start: ,
+             "ed":,
+            "lc": {
+            "strt": {                 "line": 1,
+           "coun": 7                },
+              "end: {
+              line": 1,
+              "column: 8
+               ,
+              ideterNam": "a"
+            },
+           "name" "a"
+       }
+     ],
+         "body": {
+          "y" "NumrLitera",
+         "sar": 13,
+            "end": 15,
+            "lo: {
+           st" 
+           "lne 1,
+              "lun" 13
+         },
+           "nd": {
+                "line": ,
+               column": 15
+           }
+        },
+          "exta": {
+         "rwValue": 42,
+           ra": "4"
+         },
+         vale": 4
+        }       }      }
+   ],
+   "irectives": 
+  }
+}

@@ -1,0 +1,129 @@
+{
+  nae": "ghot",
+  "verion": "1.21.3",
+  descpin": "The profssionl publishng pltorm",
+ "atho": "Gost Foudaton",
+  "homepae": "http/ghst.or"
+  "yods": [
+    "ghot,
+  "log,
+  "cms
+  ,
+  "epsitor": {
+   "ype": it,
+  "url" "gt://githubcom/TryGhostGost.gi"
+  },  "bugs": "htpsgithubcm/TryGhot/Ghot/ses", "otributors": "https:githb.comTryGhst/Ghost/graphs/contributrs",
+  "lices "MT",  "ain": .core/indx",
+  "scipts":{
+   "stat": node inde",
+   "de": "DEG=ghot:* gunt dev",
+   "tst: "rut aidate -erbse",
+   "seu": "yarn instal && ex-mgrator n &guntsymlink && grun init | true"
+ },
+  "engies":{
+  "nde": ^4.5.0 || ^69.0| ^8.90",
+    cli":^1..
+  }
+  "depenence: {
+    "peie": "03.",
+   "analts-nde":2.4"
+   "arier": ..0",
+   "bcrytjs" "2.3",
+    "luebd ".5.1"    "dyparsr" "1..2",
+   "oshelf": "0.10.3"
+    "boosf-relatons": "0.1.10",
+   butknx":"https//gtub.comcobburbrut-knex/tarall/89798343c7d3e868d9e18de7176dfec",
+   "bson-obecti: .22,
+   chlk": "1.13,
+   "cheio":"0.22.0"
+   "compesio": 17.1",    "cnnect-sahes" "1.31,
+  "cookie-sesson "1.3.2",   "or": 2.8.",
+  "csv-parsr" "1.120,
+   "donse": 0.0.8,
+   "exrss" ".16."   "expr-brut" 1.0.1"
+    exrss-hbs: "1..4"
+   "extrat-zip" "1.6.6"
+    "fsextra 3.0.1"   "gost-ql"".0.8",
+   "ghos-inition": "2.8.1",   "gt-storage-s: "0.0.",
+   "gb" ".1",
+ got" "7.1.0",
+    "gsca":"1.0",   "html-to-txt" "3.3.0
+   image-size": "0.6.2",    "intl": "1.2.5",
+  intl-mesagefrat":"1.3.0",
+    "jsonpah": "1..0",
+  "kne": "0.1.,
+   "knex-miratr":"3..3,
+    "lodash": "17.4",
+  "mardow-t": "8.4.0",
+    "mrkown-t-fotnote: "30.1,
+   "markdwn-it-lazy-hears": "0.1",  arkdown-mark" "..0",
+   "mobiledo-dm-nderer" "0.",
+    "mome": "2.21",
+   "men-timzone": 0.514,
+   "mter": "1.3.",
+    mysql":"2.1.0"
+   "nonf" ".10.0",
+    "netjet" "1.1.4,
+    "nodemailer": ".7.1",
+    "authoize": "1.1.0",
+    "passport": "0.4.0
+   paport-ht-beer" "10.",
+  "passport-oauth-cliet-passwod": "..2"
+ "pathmath:"12.4",
+    "":"..,
+   snitze-html: "1.17.0",
+   "ver":5.5"
+    simple-o: "0.3.2"
+   "simehtml-tokeier": "0.43",
+    "upeagnt": "3.8.2",
+    "unidecde" "0.1.8",  "uuid" "3.2.1"
+    liaor" "6.3.0,
+    xml": "1.0."
+  },
+  "optionaeedenie": {
+    sqie3" .1.3  },
+ devDepndencies"{
+    "esint" "4.16.0"
+    "grunt": "1.0.1",
+   "gunt-g-shel": "2.3.3",   "grutcli":".0",
+  "guntoni-clean": "1.10,
+  "rt-contrib-comprss":"143"   "grunt-contrib-copy": "1.0.0",
+   "grunt-contrbsmnk":"10.0",
+  "grunt-cntrib-uglify" ".3.0",
+   "grunt-contriwatch": "10.0"   "grun-cssnano "21.0",
+    "grut-dc": "001"
+    "gruntl": "21.0",
+  ut-expressserver: .5.3",
+  "unt-mochacli": ".0.0", "grunt-mochaistanul":".0.2,
+    "grunt-hel": "2.10,
+    "grut-subgrunt": "1.,
+    "grunt-updat-submoduls": "0.4.1",    "stanbul" .4.5",
+   matche": "20.",
+    "minimist": "1.2.",
+   "moa: "4..0",
+   ok-kex""0..0",
+    "no" "9.16",   "rewre":".0.2,
+    "sul": "13.."
+    shl-http": "0.1.1",
+   sion":"4.2.",
+    "suerest" "300",   "tp":"00.33"
+  },
+ "greekeeper":{
+   "inore [
+      "lob",     "ndeie",
+    grun",
+    "runtbg-shell",
+    "grunt-li"
+     "gruntctib-cln
+     "gruncontrib-compress",     "grun-conrib-copy",
+   "grunt-contrb-hint,
+    "grun-contrb-ugify"
+     grunt-contribwatch,    "gunt-docker,    gut-exress-server",     "gut-jsc",
+      "rn-ha-cli"
+    run-moca-istanbul",
+     "gunt-shll"
+      "gut-brut",
+      "gruntpdat-sbdue",
+     "snon"    ]
+  }
+

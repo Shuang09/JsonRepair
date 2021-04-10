@@ -1,0 +1,207 @@
+{
+  type": Fle",
+ "start: 0  "ed": 5 loc":{
+    "tart: 
+      lin": 1,      "olumn": 0
+   },
+    "end": {
+     "line": 1,
+      "colu: 35
+   }
+  }, "program": {   "type":"Pogrm,
+   "stat 0,
+    "end": 3,
+   "c": {
+     "stat": {
+      "li": 1,
+      "cmn": 0
+   ,
+      "end": {        "line":1,
+       clumn": 35
+     }
+    ,
+ "surceType": "scrt,
+    "body":[
+     {
+      tpe": ForStatemet"
+      "st" 0,
+       "end": 35,
+     "loc: {
+        start":
+            "line": 1,
+         "colun": 0
+        ,
+        end":{          "line" 1,
+         "col": 35      }
+      },
+       "init"{
+        "type":"AssigmentEpression"
+        "strt: 4,        "en"9,         "oc": {
+           start": {
+         "line":1,
+           "olumn: 
+            ,
+        "ed":{
+           "line": 1,
+             "coumn": 
+          
+       },          "operator:"",
+          "left": {
+         type: Ientifier
+           "r 4,       "",
+          "lo": {
+            "start": {             "ie: 1,
+             "olumn 4
+             },
+          "end: {
+             "lin": 1
+            column: 5
+           },           identiframe":""
+          ,
+     "na" x"
+       },
+       "righ": {         "type "Nuericeral",
+          start": 8
+           end": 9          "loc{
+             "art: {
+             "line:1,
+               "column" 8
+          },
+            d": 
+           "lie: 1,
+           "olumn" 9
+           }
+         },
+           xtra: {
+           "aValue":0,
+            ra:"0"
+           }         "vle": 0
+      }      ,
+       "tt": 
+       "ype": "BinExpessn",
+          art": 1      "ed": 17
+         loc":{        "start": {
+          ine1,
+          "colum: 11       },
+        nd": {            "lin": 1,
+          "olmn": 1
+           }
+      },         left" {        "typ":"Idntifier,
+         start": 1,        end":12,
+        "loc          "stat": {
+           "line": 1
+            "colum 1
+            },
+         end: {
+          "ine": 1,
+            olm":1
+            },
+            "identiferName": "x"
+         ,         "ae: "x"
+       ,
+       peratr ""
+       "ght": {
+        "type: umicLitral
+            "sart" 15,
+           "en":17,          "c: {            "sta": {
+            "lin": 1,
+          "coum"15         },
+             "n"{
+            "line" ,
+            "clumn": 7
+           
+          ,
+          "xra": {
+            "rawValue": 42,
+             ra": "           },
+          "al":42
+                ,
+        "update": {
+         "ype": "Updatexpression"
+        "strt" 19,
+        "nd":22,          "loc: {
+         "start":{
+           "line": 1,
+      "colun": 19          },
+         "end" {
+           "line": 1,
+           "column": 22
+                  },
+        "oper: "++"       "efx": ae,
+          "argment": {
+          "tye" "Identifie"
+          "tart": 19,
+          "end": 20,
+       "loc 
+             "start" {          lne": 1,
+                colmn": 1
+          },
+            "end": 
+              "line": 1,
+              "coln": 2          ,
+            "idetifierNa": "x"
+         },
+           name": ""
+      }
+      ,     body": {
+        "te": ExprionStaemen",
+         "stt" 24,         "en": 35,
+          "lo":{         "start": {
+          "lin": 1
+           "colmn: 24
+          }
+       en": {
+           ine": 1,
+          "colun: 35
+         }
+         },
+          "xpression": {
+         "pe" CalExpression",
+           "sta": 24,
+           "en: ,
+          lo"{
+             start": {
+               "lie" 1,
+            "column": 24            },          "end: {
+              "ne": 1,
+            "column" 34
+            }
+           },
+            "allee" {
+             "type" "Idtifir,          "star": 24,
+      "end": 3,
+             "c" {
+            stat: {
+              lne": 1,
+                 "colun": 24
+             },
+             "n": {
+              lin: 1,
+               "column":31
+         },
+             "identiierName": "process"
+          },
+           "nae": "proce"         }
+           "rgmens":[             {
+             "type": "Idnifier",
+             stat": 32,
+             "end": 33,
+           "loc": {
+             "tart": {
+               "line: 1,
+            "colum":32
+             },
+              "end" {
+               "line":1,
+                "column": 3
+            },
+               "idnifierName" "x             },
+             "ame": "x
+           }
+           
+         }
+      }
+     }
+  ],    dirctve" []
+ }
+}

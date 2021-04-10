@@ -1,0 +1,137 @@
+{  "tp: "File",
+ "start": 0 "n": ,
+  "loc"{
+   start" {
+     "lin": 1,
+      column": 0
+    },
+  end": {
+    "lne": 1,
+    "coum": 24
+   }  ,
+ "pogram" {
+   "tpe": "Program", "start: 0
+   "en":4,   "loc" {     "tart":{
+      "lie"1
+      clumn": 0
+      
+      "en": {
+        "ine": ,
+      colmn":4
+      }
+    },
+    "soueType": "scri"
+   body":       
+        typ"ExpessionSaement",       "tart": 0,
+       ed": 4       "loc": {
+         sat": {
+          "line":,           "column":          },
+        "end": {
+           "line":1,        "coln": 2
+        }
+      },
+    "expression":{
+       "tye": "AsinmntEpressin",
+         "start":0,
+       nd" 24,
+      "oc": {         strt": {
+             "line": 1,
+          "olun: 
+          },
+          "ed": {
+          ne": 1,
+           lumn": 24
+            }         },
+         "oprator: 
+        left: {
+           "typ" "denifer"
+          "rt",
+           "end":1,
+          "loc {
+            "start": {
+               "line:1,
+              "colum": 0
+            },           "nd": {
+          "lin: 1,
+               umn":1           },
+           "dentifierName: "x"
+           },
+          "nam""x"         },
+         "ight": {
+        "ype": ObjExpresso",
+          "start: 4,
+            "end: 24         "lo": {
+            "start": {
+              "line: 1,
+           "column": 4
+             },
+          "en": {            "in:1,
+            clun" 24          }
+            ,
+         "proprtis" 
+            {
+              "type: ObjectMethod,
+             "start: 6,
+            "nd": 22,
+       "lc": {
+                "rt": {
+               "line": ,
+               "colm"
+               ,
+             "end": {
+                lin":,
+               "lumn" 2
+               }
+                ,
+             "method":tr,
+               "key": {
+               "tpe": "Identifie"
+            art" 6,
+             "end" 1,
+                "loc": {
+                 "start"{
+                 line:,                  "colum" 6
+                                "end"{
+                 "ine": 1,
+                 coum":12
+                ,
+                 "ientifierNe": "ehod
+                },
+                "name":"mtd              ,
+               "coputed: false,
+             "id: "mthd"
+              "i":nul,            "genertor": fse,
+             "an": fls,
+             prams: [
+               
+              "typ: "Idenfir"                "start":13,
+                "en": 17,              "loc":{
+                 "srt":{                  "lne": ,
+                    "colmn": 13
+               },
+                  ed"                 lne": 1,
+                "olumn": 17
+                  }              "idetifirNae: "test"
+                  }
+                "name""test
+         }              ],
+             "by": {
+            "type":"BlockStateent",
+                 "start" 19,
+                "end": 2,
+               "lo"{
+                  "start": {
+                 line":1,
+                    "olumn:19             },
+                end: {
+                    lin:1,
+                "oum" 2
+             }
+                }
+          boy": [],               "drectves":[]             
+            }
+        ]
+         }       }      }
+   ]
+   "directes" []
+  

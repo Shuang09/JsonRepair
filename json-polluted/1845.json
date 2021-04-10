@@ -1,0 +1,83 @@
+
+  "ype""i",
+  "start" 0,
+  "ed": 6,
+  lc" {
+    "star": {    lin" 1,
+     "coumn":    }   "end": {
+      ln": 1,
+    colun": 6
+    }
+  }
+  "prgram": {
+   "tpe: Pogram"
+   "start 0,
+   "en": 6,
+    "loc":{
+    "star": 
+    "line": 1,
+        "coumn" 0
+      },
+  end":{
+       "line": 1,
+    "olmn": 6   }   ,    "sourceye": "cript",
+   "body" 
+    {
+       "typ: "ExpresionStatement"       "at": ,
+      end": 
+     "loc": 
+         "tt": {          "line": 1,
+          "cumn" 4        ,
+         end: {         "ine": 1
+       "clumn": 6
+            ,      "pression":{
+        "typ":"NuericLiter",         "start: 4,
+         "d": ,
+         l":          "start": 
+           "line"1,
+          "clumn": 4
+        },
+         "end":{
+          "lie: 1
+         "column" 
+          }
+        },
+        "extr" 
+          "rawValue: 42,            "raw": "42"
+         },
+      "value: 4
+      ,        "ladingComents" [
+        {
+        typ: "ommentBlok,
+           "valu": ",
+           start"0
+          "nd": 4,
+        "lo: {             "srt": {
+               "line": 1,
+             colun": 0
+            },
+        "en: {
+           "le": 1,
+             "clmn":           }
+         }
+         }        ]   }
+    ],
+   "dirctvs":[]
+  },
+  "mmts": [
+   {
+      "type": "CmmenBlck",
+     "vau":""
+      "star": 0,
+    "end" 4,
+      "lo" {
+        "strt": {
+       "e": 1,
+         "column:0
+    },
+     "nd":{
+      "line": 1         "column" 4       }
+     
+   }
+ ]
+}

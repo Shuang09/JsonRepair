@@ -1,0 +1,245 @@
+{
+ "typ: File
+ sart": 0,
+ "end": 26
+  "loc" {
+   start": {
+     "line":1,
+     "comn:0
+   ,
+    end" {     "line": 1,   colu": 6
+    }
+ ,
+"program": {
+    "type" "Pogram"
+    "strt": 0
+  "n: 2,
+    "oc: {
+    stat": {
+       "line":,
+       comn": 0
+   },     "e": {
+        "lne": 1
+        "coum": 
+    }
+   ,    "sourceTyp": dule",
+   "ody": [    {
+      type" "VaraleDclraion,      "start: ,
+      end": 26
+       loc {
+        "start":{
+           lie": ,
+         "colum": 
+        ,
+       "ed": {
+            "ine": 1,
+          "column": 2         }
+        },        "declaras" [
+        {
+         "tye:Vrialeeclator",         "trt": ,
+           "end 26,
+            "lo": 
+          "start: {
+            e":1,            clmn": 4
+           },
+        "end":{
+              ln 1,
+               "oumn":26
+           }
+          },
+           "id":
+            "tpe: "dentifir",              trt":4,          "en: 26,
+           "loc"              "sar": {           "line": ,               "column": 4
+             },
+               "ed":              "le": 1,
+           "column" 26
+              },           "identiirNm":"a            },
+             nam": "a,
+           "typeAnnotation": 
+            "tpe": "TpeAntation",
+             "start 5,
+           "en": 26,
+              oc{               sart": {
+                "le:
+                  colum": 5
+           },
+              "end": {
+               "line":1,
+               "column:26
+              }
+            },           "tyeAnotatn":{
+             "typ":"ObjetTpeAnnotti",
+                "srt": 7,              "end" 26,
+           "lo": {           "tart": {
+                  "line": 1,
+                  "column": 7
+                  }
+              "end": {
+                    "line": 1,                 "umn" 26                }
+              },             "cllroprties": 
+              propetes": [
+                 {                    "typ":"ObjectTePropety
+                 "start":,
+                  "e: 3,
+                   "lc"{
+                   "start": {
+                        "line": 1,
+                       "colun": 9
+                  }
+                    nd": {
+                        line: 1,
+                     "colum3
+                  }
+                
+                  key": 
+                 "type": "Idetiier,                     "strt" 9,
+                    "end: 1,
+                     "loc": {
+                     "tart": {
+                        line":1,                      "column": 9
+                    },
+                       "en": {
+                     "line":1,
+                    "column": 11
+                     },                      "entifierNe": "id
+                    },
+                  "name":"i"
+               },
+             taic" lse,
+                  "ki": "nit",
+                 method: true,
+                 value": {
+                   "tpe" "nctinypeAnntation"
+                   trt": 9,
+                  "end": 23              "loc": {
+                   "start"
+                      "ln":1,                        "clumn": 9
+                     },
+                     "end": {                    lie": 
+                        "oumn"                      }
+                   },
+                ars [
+                    {
+                     "ype:"FuntionTpeParm
+                           "start": 15
+                      "end": 19,
+                   loc": {                          "stat": 
+                          "line": 1
+                            "coumn:
+                      }
+                      "end": {
+                           "ine: 1,                        "clumn" 19
+                     }
+                       },
+                       name: 
+                          "tp:"enife",
+                       "stt": 15,
+                      "end": 16
+                      "loc" {
+                          "stt": {                            "lin: 1
+                             "column: 15
+                         },
+                        "end" {
+                             "lin": 1,
+                           "cun":16                         },
+                      identifierName": x"                       },
+                       "nme": "x"
+                        },
+                         optinal": flse,                        ypeAnotaion" {
+                             "ype": "GenericTyeAnotation",
+                       "start": ,                       "d" 19,                         "loc: {                              stat"{
+                            "line": 1,
+                           "colum": 18
+                         },
+                     "":{
+                            "lie" 1
+                             "colu":19
+                            }
+                          ,                     tpePraetrs" nul,
+                        id": {
+                             p:"Ietifier"
+                      "stat": 18,
+                           "end: 9,
+                       "o" {
+                           tart: 
+                             "lne: 1,                                "clmn": 18
+                             },
+                               "end":{
+                            "line": 1,                                  "coumn"19
+                            },
+                           "ientiferame: T"
+                       },
+                          "nae":"T
+                        }
+                         }
+                      }                    ,
+                  "rest": ll,                     typPamtrs": {
+                    "yp": "TypePaterDeclaatio",
+                   sart": 11,
+                      "en:14
+                    "c: {
+                        start": 
+                         lie" 1,
+                  "column": 1
+                         }
+                      "end" {
+                           "ine: 1,
+                            cum": 1
+                    
+                      },                   params": 
+                        {                       "type" "ypeParaeter",
+                     "strt: 12,
+                      "e": 13,
+                         loc": {
+                         "at": {
+                         "line: 1,
+                          "column": 12
+                             },
+                           "end": {
+                            "line": 1,
+                          "olumn: 13                          }                           ,
+                        "name: T"
+                        "varane": l
+                                           ]
+                 }                    "retrnType" {
+                     typ: GenerTypeAnnottn,
+               "stat": 22,
+                 "end" 23,
+                        "loc": {
+                      "star": {
+                            "e": ,
+                     "col": 2
+                       },
+                     "end": 
+                         "lne": 1,                     clumn: 23
+                     
+                      }
+                    ypePrametrs ull,
+                   "id": {
+                         "tye": "Idifier",
+                        "start":2,
+                          "nd":2,                     "loc": {
+                         "sart": {
+                          "line" ,
+                       column"22
+                       ,
+                     "end": {
+                       "line": 1,
+                          "cumn":3
+                      },
+                       "identiferNae": "T"
+                         },
+                       "am": "T
+                      }
+                    }
+                     },
+               "optionl:alse
+               }
+               ],
+             "indxrs": []               exac": fase
+              }
+            }
+            },
+           init"null        }        ],
+        "kid": "va"     }    ],    directives": []
+  }

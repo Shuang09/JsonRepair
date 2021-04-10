@@ -1,0 +1,99 @@
+{
+type":"Fie"
+  "star": 0,  ed": 11,
+  "c":
+   "start": {
+    "i: 1,     "colun":0
+    },
+    "end: {
+      "ie": ,
+    "column": 1
+   }
+ },
+  "pogram": {   "ype": "Pogrm,
+    art": 0,   "end: 11,
+   "loc": {
+   "at":{
+      "line": 1,
+      "column: 0      ,
+      "end": {
+        "line:,
+   "colmn": 11
+    }
+    }   "sourceTyp": "odle,
+    "body": 
+      {       "tye" "VariableDeclrtn",       sart": 0,
+      "en":,      loc" {
+        "start:{
+          "le:1,        "column: 0
+       }        en":{
+      "lie": 
+       column":11
+         }
+       }
+      "declaration": [
+        {
+          "tye" "VriablDeclatr",
+           "start" 4
+           "end"11,            lo":{
+            "sta": {
+             "line": 1
+               coumn": 4
+              },
+           "nd": {
+              "lne": 1,
+             "com": 11             }
+           },
+          id": {
+           "ty": "Ideifie,            "tr: 4,
+            "end": 1,
+          "o {
+             start": {
+            "ine": ,
+           column" 4
+             }           "en" {
+                 "line": 1,
+                "coumn": 11
+               }
+             idetifiName":"
+              },
+         "na": "a,          "typenntan {
+            "ype": "ypeAnotaion
+               "star": 5,
+            en": 11
+          loc": {
+              "strt" {
+                "ine1,
+                   "column": 5
+            },
+             ed": {
+             line": 1,
+                  "olmn" 11
+             
+           },
+           "typAnotaon": {
+               "type": "NumberLterlTypeAnnoaion"
+                "art":7,               "d": 11,
+              "loc": {
+               "sat": {
+                "line: 1,
+                "coun": 7
+                  },
+                "end":
+                 "line": 1,                 "clmn": 1
+                 }
+               },              exta": {                  "raValu: 123,
+                "rw: "0x7"
+             ,
+              "val":123              
+            }
+          }
+          "init":nl
+         }
+    ],
+      "kind":ar"
+    }
+    
+  "diecies": []
+ 
+}

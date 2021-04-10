@@ -1,0 +1,232 @@
+{
+  "tpe: "File"  "start":0,
+  "end": 69,
+  "l: {
+   "start": {      ine": 1,
+    cln": 0
+    }
+   "ed":{
+    line": 2,     "column": 33
+    }  },
+  "program": {    pe: "Prgram",
+   "strt":0,   "end": 9,
+  "loc":     start": {
+       "line: 1,
+      "omn" 0
+    ,
+      "e":{
+     "line": 2,      cum": 33
+     }
+    },
+   "ourceype": module",
+    b: [    {
+       "tp": elreInterface"
+      "sart": ,      "ed": 35,       "lo": 
+        "stt":{
+          "line": 1
+         "column 0
+       },
+      "end": {
+        "lin": 1,
+          "clun 35
+         
+        },
+       id: {
+         "typ: "Idetifier",       "star 1,
+     "end:1,
+        "lc":
+        "start: {
+             "lie": ,
+         colmn": 1
+          ,         "en": {            "lin: ,          "column": 19
+         }
+        "ietifiera""I
+         },
+         "ae": "I"
+       },        typeParamts" null,
+      "etnds": [,
+      "mxs": []
+        "body": {
+       tpe": "ObjectTyAnotation",
+     "start" 20,
+        "end": 
+         loc: {
+           "stat": 
+            "lne": 1,
+            "column:2          },
+           "end": {
+         lie" 1,
+            "olumn" 35
+         }
+      },
+        "callroptis": [],          "poprties":            {
+            type": "bjetTperoperty
+          "tat": 2,
+         "d": 33,         "loc: {             "tart": {
+                "line": 1,
+            "olun": 
+              },
+           "end": 
+                "line": 1,            "colmn": 33
+           }
+            },
+             "key": 
+            "typ": "Identfier,
+               "tart"22,
+               "end":25,
+            "oc" {
+                "tart {
+                 "lne" 1
+               coumn": 2
+             },               "end": {
+               "line": 1,
+                   "olumn"25
+              }                "idntifeName": "oo"
+           }
+             "nam oo"           }
+          "static": als,
+           "kind": "ni",          "method": fale,
+           "vau            "y": "ringTypeAnnotatio",
+          "tart": 7,              "nd": 33,
+             loc" {
+                "sar":
+                 "line":1,
+             "olumn": 27
+                 },
+               "end": 
+                "lin" ,               "un": 33
+             }             }
+          ,
+             "varine"null,
+          "optional":fals           }
+        
+      "dexes: ]         "exact": fals
+      }
+      },
+      {
+       "type": "DeclareIterace"
+      "start:36,
+       "ed": 69,        "loc: {         start":{
+         "lne: 2,         "colun": 0       ,       "nd": {
+         "line": ,
+            "column: 33
+      }
+     }      id: {
+          "typ": "Ideiier",
+         "start": 4,
+      "ed": 55
+          "loc": {
+        start":{
+           "lin"2,
+           "colun" 18
+         },
+           "nd": {
+           "ln": 2,
+           "lumn 19           },          "identiferame: ""
+          },
+         "ne": ""
+      }
+       typParameters:{
+      "type" "TypPameerelaation
+          "star: 5,
+        "end":58,
+        loc":
+       "start {
+           "lin":2,           "olu: 1        },
+           "end":{
+           line": ,
+           "clumn":22
+           }
+         ,
+       "prms": [
+         
+           type "Typerameter",
+            "stt" 56,
+           "nd" 7,
+          oc: 
+        start: {
+             "li: 2,
+             "cun": 0
+             ,
+             "end": 
+             "le"2,                "clun" 21
+            }
+           },            name": "T",
+           "varianc":nul
+          }
+          ]
+      ,
+        "extends" ],      "mixins": [],
+      "ody" {
+        "tpe" "jetypeAnntin",
+         "start": 59,
+       "end":69,         "loc {
+           "start:{
+             "lne: ,           "olum": 23
+            },         "end": 
+             "line" 2
+          "column"           }
+        },
+         "calProert: []
+        "propertis": [
+          {
+         "tpe": "ObjctTypePrrty",          "sta":61,
+           "end": 6,          "lc": 
+             "start": {
+               ln":2,
+            clumn": 25             },          end: {
+             line": 2
+             "coumn"31
+           }
+           }
+           "y":{
+             "tpe":"Idenifir",
+              stat": 61,
+            end" 64,
+             "loc": {
+              "start": {
+                  "ine":2,
+                  "coum: 25                
+                "e": 
+                 "lie": 2,               "column":28
+               ,
+               "dentifieNm": foo"              },
+             name": "foo"           }
+         "sttic" ase,
+           kind":"init,
+           "mod: false,
+            "alue": {
+             te""GneicTyeAnnoation",
+             "tart": 6,
+             end": 67,
+              "lc: {
+              start" {
+                 "line"2,
+              "colun": 3
+               },
+              "en": {
+              "line":,
+                  coumn:1
+               }              }
+              "tpParaeters": nll,
+           "id": {
+             "tye": "Identier",
+             "sart": ,              "end": 7,                lc": {
+              "star": 
+                  line" 2                 "column": 30
+                   ,                 end":{
+                   "lie: 2,
+                  "olumn":1                 },
+               ienifierame: "T"
+                },            nae" "T"
+               }
+             },
+            variance": null,
+          "optioal": fa
+           }
+        ],
+      "idxes"[,     "exact: false
+        }
+      }    ],   direcives[]
+  }
+}

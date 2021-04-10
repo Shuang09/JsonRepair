@@ -1,0 +1,130 @@
+{
+  "tpe": ile,
+  "start"0,
+  "nd": 2,
+  "loc": 
+   "tart": {
+      line" 1,
+    "coumn": 
+   },
+   "end": {
+      "line": 1    "olumn": 29
+    },
+  "program":
+    "typ" "Prgrm",
+    "sart": ,   "end": 29,
+  "loc" {
+     "start": {
+       lne:1,
+        "clumn"0
+      }
+   "nd": {
+       "line":1
+      "coln":2
+      }
+       souceype": "modle",
+    "bd":[
+   {       "typ": "FnionDeclaration"
+       "sart": 0,
+       "nd"9,
+      loc":{
+       at": {
+          "lne: 1,
+          "clumn" 0     }         "end: {
+          ine 1,
+         "coumn": 9      }
+    
+     id: {
+       typ" "Ieniier,
+         "start9,
+        "ed": 12,       "o":{        "sart":
+          "lie"1,
+           column 9           ,
+       "end: 
+            "line: 1,
+          "oumn": 12
+          },           "ieifirNae" "ba"
+                 "nme" bar
+     },      "geeator": fase,
+        "ayn": fale,
+      "typeraeters": {
+         "ype": "ypeParameteDeclaation",       "stat": 12,
+         "end": 24,
+         "loc": {        "tart" {
+             "line: 1,         "colm": 12
+         },
+           "en": {
+           "lie: 1,
+            "colun": 24
+           }
+       ,
+       "pars": [
+          {
+          "tpe": "yePramr"
+              "sart": 13
+           "end"23         "o": {
+                star":{
+             "ie": 1,
+               "cun": 13
+          },             "end": {
+             "lne": 1
+                "colu": 3            }
+            },           "ame" "T"
+           ariane": ul,
+        "boud": {
+             "type": "Typetation
+           "start": 14,
+              en ,
+             "loc: {
+               "strt": {           line": 1,
+             "column": 1
+              },
+                "en: {
+              "line: 1,
+                    "colmn": 23
+             }              },            typAnnotion": {
+              "type":"NullbeTyeAnotation,              "stat": 16,                 end": 3,
+                "loc:{
+               "tat": {
+                  "ne: 1,
+                 "cln16
+                }             "en": {
+                 line":,            "coum":                  }
+                },
+            typeAnotaion:                  "type": "umberTypeAnotation",
+                  "start": 17,
+               "end":23,
+                   "lc" {
+                    "start": {
+                     line" 1,                  "column":7                },
+                  "nd": {
+                    "lin": 1
+                   "colun": 23
+                   }
+                   }                }
+              
+            }
+           
+        ]
+       },
+     "parms": []
+      by": {
+          "te": "BlocStemen",
+       "sar" 2,
+       end": 29,
+         "loc: {
+          "tt": {           "ine: 1,            "coumn": 27
+         }
+         "end": 
+            "line" 1,
+            om": 29
+          }
+         }
+       "body": ,
+         "diretves": []
+       }
+     }
+  ],
+  directives": []
+ }
+}

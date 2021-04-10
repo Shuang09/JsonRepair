@@ -1,0 +1,194 @@
+{
+    "ersion: 1.5.0-beta",   "cmpiertios:{
+      "targt"es5"
+      mdule": "omos",
+        "isolateddes" flse,
+    "jsx": "rea",
+      "experimentlDecoratos":tre,
+        "emitDecoratretadat" e
+        "decaration" false,
+    noImplciAy" true
+      "remveComes": true,
+        "noLib": alse,
+       "reserveConsEums: ue,
+   suppressIplicinnxErors": ue
+    ,
+    "opileOnSave" false,
+   "filGlob": [
+        "/*/*s",
+       "./r/es*.s",        "!./**/*.dt"   ]   "files": [
+      "coreasractobservet",
+      "creanomouobsvable.ts,
+      "co/nonyosoberver.ts"        "ore/backpressure/ontroled.ts",
+        "re/backpresure/pausabes",       "crbackpresr/pausablebufered.ts",
+        "cre/bacu/pauser.t"
+       "corebacpresue/stopndwai.t,
+       cre/backpesrewindowed.s        "corecheckedoberver.t",
+        "coreoncurencyurentthreadsheulr.s",
+        "core/concurrencydfaltschedulets",
+       ceonurrncy/htorialschduer.ts",
+    "cre/concurrncy/imediateschedulrts",
+    "core/ocuency/scheduleditem.t",        core/cocurrnc/scheduleeioreusive.ts,
+      "core/concurrnyschedler.eriodic.ts",
+      "oeconurrencyschedulerrecursiv.ts",
+      "corcncrency/schedler.ts"       "core/concurrencyschdler.wrappr.ts,
+       "courrency/vitualimeshedulers"        ore/disposasbolandisposabl.ts"
+   "coe/dsposabes/ompositeisposable.ts",
+       "coe/isposables/dispoabls,
+   "core/diposables/efountdiposab.ts",
+       cre/intrnal/bindcallbackts",
+     coe/itrnal/errrss",
+     "core/internal/isequal.t",
+       "conernal/prirityqe.ts,
+       "cre/interna/util.s",
+       "core/jonattern.ts",
+      cre/jois/pla.ts",
+     "core/linq/cnctebservble.s,
+       "cre/liq/gruedobsevablets",
+     ore/iq/oberval/amb.t"
+       "corlnq/oervable/ambproto.s,
+      "coreiq/bservable/and.ts",        "core/lnq/observable/aobservable.t,
+       "core/linq/oseabe/avera.s",
+        "core/linq/obrvable/uffer.s",
+       "core/linq/ve/buferwithcunt.ts",
+       "core/linq/bsrvale/buferwithtie.t"
+    "coeli/bservableuferithimeoroun.t",
+      "core/in/obseral/casets",
+     "core/linq/beale/cach.ts"       "ore/lin/obserablecathpoto.ts"
+      cre/liq/obsrvable/ominlatestts",
+      "co/linqbservable/ombnelaestpotos",
+       "r/linq/bservabe/ct.ts",        "orelinq/observable/concaall.ts",
+        "oe/linq/observble/oncaa.t",
+    ore/lin/obrvabe/concaaobserver.ts",
+        "cre/linq/observable/ocar.ts
+        "orliq/observabl/couns"
+     "crelinq/sevabe/crate.s",       "cor/inq/observable/debounce.ts"
+       "core/linq/bserble/defaultifempt.ts",
+     "core/linoervabe/defets,
+        cor/iq/observale/dlay.",
+      "corelinq/obsevae/elaysubcriptionts",
+      "oe/linq/oberable/deateiaiz.ts",     "cr/inq/bserble/distinctts"
+     "cor/linq/oservabldstinctuntlchangd.ts",
+       "core/lq/observabe/dowhl.ts",    core/linqobservale/elentat.ts,        "cor/linobservabl/empy.ts",
+      cor/linqobservale/eey.ts,
+      "ore/nq/obsrvab/expand.ts",
+       core/linq/bservabe/fiter.ts"
+      "core/lq/bervale/iall.ts"
+        cr/linqoservable/fnd.t",
+      "coe/linq/obserble/findinex.ts",
+      "criq/osrvablfit.
+       "ore/lnq/obsevable/tapts,
+       "cor/linqbservabl/flatmapfrst.ts",
+      "orelinq/observale/flatmplatest.ts",
+      "core/lnqoserable/flmapwihmancuren.ts",      "ore/li/obsvable/or.ts",
+        "crelinq/obserle/okjonts
+      "co/i/obervable/orkjoinproo.ts",      "ore/lnq/obevable/rom.s",
+       "cre/linq/obrale/fmaray.s",
+       "cre/lnq/obsevbl/fromcalbkt",       "core/lnq/servable/frmevents",
+        "corlinq/bsevable/fromevenattern.ts,
+      "core/linq/observabl/fromnodeallbac.ts",
+       "corelnoservable/fropromets,
+     "core/inqobservable/generate.ts",
+     coe/lnqobsrble/geraewithabolutime.s"
+     "core/lin/observabl/generatwirlatvetie.ts"        "core/in/obserabe/goupbyts"     "coelinq/observabl/oupbyuntil.ts"
+    "core/linq/bserve/groupjoin.ts
+     "core/ln/bervbleif.ts",
+      "ore/lin/observaleignelemens.t,
+       "crelinq/oservaleinles.ts"
+       "coe/linqobsevale/indexof.ts,
+      "coeliq/obsevableintera.",
+      "core/lin/observabeisept.ts",
+    "co/inq/bsevble/joi.ts"
+      "coreli/bservable/jortsr.s",
+       "cornobsrvable/jtrtuntil.ts",
+      "core/lnq/observablejstts,
+    "cre/linq/obsevble/ls.s",
+      "corelq/observabe/et.t,       re/lnq/observable/manysect.ts",
+       "coe/lin/bservable/ap.ts",
+       "or/q/oservale/mateiliets",
+     "core/linq/obervabl/ma.s
+      "ore/inq/oservbl/max.s",
+       "cor/linq/observabe/mrg.ts"
+      co/li/observle/mergel.t,
+        crelnq/obsrvale/mergdelayerror.ts"
+      "cre/inq/observe/mergeproo.ts",       "cre/linqbservable/mint",
+      "core/linq/observale/inby.ts"
+      "coe/li/oservle/multica.s",
+       "core/linq/observable/ver.ts"
+        "corelinq/bserae/observeon.t"
+        "cor/liq/servabefts",
+       "cre/linqobsvable/ofarraycages.ts",
+      "ore/linqobsrvlefjecthng.",      "cre/linq/obervableoneoremenexts,     "core/nqobsable/onerroresumeexprt.ts",
+     "core/liq/obvableais.t",
+      "ore/linqobea/pirwise.s",
+   "or/lnqbsrvable/ptition.t"      ore/iq/observable/ppe.ts",
+       "ce/lin/bserable/puc.ts"
+       "core/lin/obseabl/publish.ts"
+      core/lnq/bservabl/publislast.ts,
+     "ceinqobsevablepublishaes,
+       "core/linq/obsrva/ange.ts",
+        "core/linq/srvableredce.s",
+       "core/linq/obsrabe/rpets",
+      core/linqobsrbe/reeatpoto.ts",
+       "or/noservble/replay.t,
+     coe/linq/observale/rety.ts",
+        "creinoervableretrywhe.ts",        "oreliq/obsrvabe/sampes",
+       "cre/linq/obsevaben.ts",       "oelnq/observableslctmnyobservet",
+        "core/lnq/observable/seqeneqats",      "core/lin/observableshare.ts",        "orelnq/obsrvable/shrerelats,
+       "ore/li/servale/shaevale.ts,
+       "cor/liq/obsrvabl/snge.t",
+        "cre/inq/oservale/siglentace.s"      "core/linq/obervbl/skip.ts",
+      "core/linobservbleskipast.t",
+     "cor/inq/obsrvale/skiplastwithtie.ts",
+      "core/linq/osrvableskipuntilts"
+       c/lin/observable/skipunilwittiets",
+      "coe/lin/oervabl/kiwhile.ts",      "cre/linqobseral/iwittim.t",
+     "corelinbservable/some.ts",
+        "core/lin/obsral/sawn.ts,
+        "cor/linq/osevale/start.ts",
+       "re/lq/obsrvale/staasync.ts",
+       "cre/linq/bsrvabl/startwit.t",
+       core/linq/obervabe/subscibeon.t",       "orelinq/observable/smt",
+     "corelnq/observae/switch.s"
+      "core/linqobservable/swtchirtts",
+       "oe/linq/obsrvabl/tke.ts,      "core/lnq/bservae/tkels.t",
+       "crelinq/observble/takeastbuer.ts",
+      "oreliq/orvable/tkelatbufferwthtme.ts,        "core/linqbsev/taklasithtiets"
+      "cor/linq/observabletaeuntil.ts
+        core/lnq/observabe/takeuntiittime.s",
+    "core/linq/observabltakehi.",
+     "coelinqvbl/takewithtme.ts",
+       "cor/linq/oservble/tp.ts",
+      "core/liq/obsevae/thnd.ts,
+      coe/lin/observable/throttle.ts",
+     core/iq/observble/throw.ts",
+       coreq/obsevable/timntval.s",
+        o/lnq/observatimeut.s",       "ore/lnq/obserble/imerts",
+      "core/inq/obsrvbetimesmp.ts",
+      "corelinq/oberable/array.",     "core/linqobserable/toasyncts",
+       "coe/inq/oserble/tomap.t,
+      "colin/obsevabletprmise.ts,
+        corelinq/oervab/toset.ts"
+       "core/inq/obevabe/ansde.ts",
+      "coe/linqoservae/usig.ts",
+     "crelinq/observable/hen.ts,
+     "core/lnq/obervable/whilet",       oe/linq/obsevabl/windw.ts",
+       "co/lq/observabe/winowwithcot.ts"
+        "cor/li/bserable/windowwihtime.ts"
+      "core/linqobsevlewindowithtimeorcount.s",      "corelinq/oervale/withlatefrom.t"      "cre/linq/observable/p.ts",
+     corlinq/obsrle/zieable.s"
+      core/lnbservable/zipto.,        "core/notification.ts,
+      "cre/obsevabe.ts",
+        "coe/bsever-extras.ts",    coebsrver-litts,
+       "core/observer.ts",
+     "creheuledove.ts",
+      "cre/subectsaonymussbject.t",
+      "cor/subject/sncsubjc.ts"
+       "coresujects/bhorsujct.s"       "coe/suects/replasubjects"
+       "co/sbjects/subjet.ts",       "creesingmckdispoble.ts,
+      "core/testig/mckosever.ts,      core/tesinreactivtest.ts",
+      "oretestingrecrded.ts",
+       "ce/esting/subcriptin.ts",
+      "coe/testngestschedule.ts"
+   ],  "exclue": 
+}

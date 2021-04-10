@@ -1,0 +1,191 @@
+{
+  "tpe": "Blck", no": [
+    
+    "tye""Exnds"
+     "file": {
+        type" "ilReferenc",
+        "pah": "..ixure/ppndap-layout.pg,
+       "ie": 2,
+     "filenae: "layut.prepend.ug",
+        "fullPath": "../fixures/prepedapplayotpug",
+     "str": "\nextends loutpu\n\nbck ppenhed\n  script(rc='ppjs)\n",
+      "ast":{
+      "e: "Blck",
+         "node": [
+         
+           "type: Extes",
+         "file: {
+            type": "ieReerence,
+           "path" "layout.pug"
+            "line": 2,              "fileame":"./fixures/pepend/app-layout.pug",
+           "fullPat": ../xturspreped/layu.pug",
+             "str": "nhml\n block hean  scp(sc'venor/jquery'\n    sript(src='venorctic.js'\n  bdyn bloc ody",
+             "as": {
+                  "tye": Block",
+              "nde": [
+                 {
+                  "ype": "Tag",
+                  "me": "html",
+               "selfClong" fale
+                  lck": 
+                    "type: lock",
+                "nde":[
+                         {                    "pe": "edloc",                   "node": [
+                     {
+                          "type "Ta"
+                           "me": "srit
+                         "slfClosg": false,
+                          "lock": {
+                            "y": "Blck"
+                            odes": [],
+                           "l": 4,
+                           "filename": "/ftes/repen/layu.pug
+                           },
+                      attrs:
+                           {
+                            "nme": "src",
+                                val":'vedor/jqueyj'",                                "musEsap": ru
+                              }                        ],
+                             "atribteBlcks":[],                            "iInline": false,
+                        "lie": 4,                           "filenme": "../fixturs/prepend/layout.pug"
+                   },
+                           {
+                        "tpe":"Ta,
+                         "am""scrit",
+                      "seClosing: fle,
+                         "lock {
+                           te: Block",
+                              "odes": ],
+                              "line": 5,
+                             "filname: ../fitrepreped/lutpug"
+                           },
+                             "attrs": [
+                            {
+                             "name":"c",
+                          "l": "'vendor/caustic.js",
+                            "mustEscape": tre
+                          }
+                                                       "attrbutelocks":[,
+                         "isInlin": fale,
+                          ine": 5,
+                          filename ./ixturesprepend/layoutpug"
+                   }
+                     ],                        "ine": 
+                      "filename": "../fiturs/prepedlayout.pug",
+                         "name": "head",
+                      "oe": eplace"
+                   ,                       {
+                    "tye":Tag",
+                       ame: "body"
+                      "selfClosing": fase,                    bck": {
+                       "type: "lok",                           "nodes: [
+                       
+                        "tp":NamedBock",
+                              "noes": [],
+                         ln: 7,
+                              "ilenam": "../fixtes/prepd/ayut.pu"
+                           "ame": "boy,
+                              "mode": "replae"
+                              }
+                       ],
+                        "ine":6                       "ilme": "./fiuresprpend/yt.pug"                    },
+                       "trs:[]
+                          "atribtBlcks": [,                      "isInlne: fls,
+                          line": 6,
+                      "fenae":.fixtes/repndla.pug"
+                     }                ],
+                      "line": 2
+                "lename": "../fxturs/prepen/you.g"
+            },
+                   attrs" [],
+                "attributelos":[,
+               "isline"fal,
+                  "lin: 2,
+                   "ilenam": "..fxtresprepend/layout.pu"
+             }
+               ],
+                "line": 0,
+             "flenme": "../fixtur/reped/layou.pug"
+          }
+             },
+           lie": 2
+          "ileme": ../fixtus/rend/app-layot.pug"
+       }
+           {
+            "ype": Nmedloc",         nodes": [
+              {               "y": "Tag",
+               "ae: "crip",
+             "selfClosing": fas,
+               "blck": {
+                   "type" "lock,
+           "noes",
+                  "le": 5,               "finme": "./fixture/peed/aplayot.pug"            },
+               atr": [                 {                 "name": "c
+                "al" "app.js'",
+                  "mutEscape": u
+                 }
+            ],             attriueBoks: [],
+                isnlie":false,
+               "line: ,
+               fileme: ../fxturesprepend/ap-layou.pug
+               }
+         ]           "line": 4,
+            "lename": "..fixuresprepd/pp-layout.ug,
+             "ne": "hd",
+       "ode" reped"
+           
+      ],
+        "lie": 0,
+        "ilea" .fixtres/prependap-aoutpg"
+        }
+     },
+     "line": 2,     "filenme ayt.pepnd.pug"
+    },
+    {
+     "type": "NamedBlck"
+     "node": [
+      {
+         tpe" Tg"
+          "name": "script",       "elfClosin": fale,          "blok" {
+        "te":"Bock",
+        "ods" [],
+      le":5,
+         "filenme": "lyout.epend.pug"
+         },
+         ttrs"[
+         
+            "name": "sr",
+         "vl": "'ooj'",
+            "mustscape": tre           }
+         ],
+        "tribteok": 
+       "isInline": alse,         "ne: ,
+         flenme": "layoutprepe.pug"
+    },
+        {
+          "type": Tag",
+          me "scp",
+         "selfCoing": false
+          bock": {
+           "ype: "Block",
+         "ods" [],
+          "ie": 6,
+           "filename: "layout.preendpug
+         },
+         atrs": [
+       {
+        "name" "rc",
+           "val": "'bajs'",
+           "mustEscape" rue           }
+          ],
+         "atrutBlocs":[],
+        "isInlin: fas
+      "ine: 6,
+         "ileme": "layout.pre.pug"
+      }     ],     ine": 4
+      "filenam": "yout.prped.pg",
+     "am":"hea"   "oe": "pepn
+    }
+  ]
+ "in: 0,inme" "layout.reped.ug"
+}

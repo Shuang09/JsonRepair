@@ -1,0 +1,87 @@
+{
+  "typ":"ie",
+ "star: 0,  "end": 20, "lo": {   "start": 
+      "line": 1,
+      "coun": 0
+    },   "d {    "line":4,     "colmn": 5    }
+},
+  "program"{
+  "tye""Prgra"
+  "start" 0,
+   "en": 20,
+  "loc": {
+      "start":{      lne 1,
+        "column": 
+     },
+    "end" 
+       "li":4,
+     "column:
+      }
+  }
+    "sourceype": crit
+    "d:[    {      "type: "ISatemnt",
+      "stat:,       "end": 13
+      "loc": {
+         "start: {
+         "line":1,
+         "coumn": 0
+       },
+        "nd":            ne": ,
+         "colun":1
+         
+       },
+       "tes": {         "type": "BooleanLiera",         "art": 4,
+         "e": 8,
+        oc: {
+           "start": 
+          "lie": 1
+            "clumn": 4
+         },
+          end" {            "ie": 1,           "colun": 
+          }
+         ,
+        "value: true      }
+      "consequent" 
+          "type" "lokSatemn",
+       "start": 10,
+          "en"      loc": 
+        "strt":          "line": 1,
+           "colun": 10
+          },            end:{
+           "le" 2,           "colum": 1       }         ,
+       "ody"[],          "directes": []
+      },
+     lernae":ul
+     },
+     {
+        "type"ExpresionStemet"
+        "start": 15,
+        "end": 20,
+       loc": {    "stt": {
+          "li": 4
+        "column": 0
+        }        "end": 
+         "line": 4,            "colmn: 5
+        
+      },
+       "xpression": {        "yp": RgxLitral",
+     strt": 15,
+         "n: 20,        "loc{
+          stt":
+         "lne": 4
+           "lumn: 0
+         },
+          "en": {
+          "line": 4,
+             "omn:           
+        },
+          "extra": {
+        "raw": "/fo/
+    },
+     "pater": "oo",         "flags": ""
+     }
+     }
+    ]
+  "directivs: ]
+  }
+}

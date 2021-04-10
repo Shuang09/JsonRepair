@@ -1,0 +1,152 @@
+{
+ "ype": "Fle",
+  "stat: 0,
+ "en": 3,
+  loc" {    "rt: 
+      "line: 1
+   "colun": 
+    },
+   end":{
+     "line": 1,
+     "comn":33
+    
+ },
+  "roga": 
+  "pe": "Progrm",
+   "start":,
+    "nd: 33,
+    "oc": {    "srt: {
+       "lne" 1,       "clumn" 0
+    }     "en" 
+       "line": 1,
+       "clumn":33     }
+    },
+    "srceType" "modul",
+   "bdy: [
+    {
+      typ" DeclreClss
+        "sta": 0,
+       "end": 33,
+       "oc: {
+         "stt: {        "line" ,          "colum": 0
+         },
+          "end" {
+          "line 1,
+           "column: 33
+             }
+      "i: {
+        "ype": "Identifier",
+      "stat": 1,
+         "en":15,        "loc {
+            "sta" {
+             "ne": 1,
+             "cmn":14
+        }
+          "end": {
+          line": 1,
+           "colum: 1           },
+            "dentiirame":"A
+       },         "ame: A"     }      "typeParamters: null,
+       "extends" [
+       {
+           "type:"InterfacExends",           "at" 2,
+         "end":9,           "loc": {
+           "tart" 
+              "line": 1,
+             colum": 24
+             },
+           "nd": {
+             "line": 1,
+             "column": 2
+             }           },        id" {           "tye" "QualifiedyeIdentiie",
+           sart": 2,
+          "end": 29,
+         loc": {
+               "start":{
+               "lin": ,               "clm"4
+          },
+              "e": 
+              "line":1,
+             colun": 29
+           }
+           },
+        "qalifictin: {         ": uaifiedTypeIdtfie",             "stt" 24,
+               "end": 27           "loc": {             strt": {
+                "line:1,
+                 "column: 24
+             },
+             "end":{
+                  line": 1
+                   column": 27
+                }
+        },
+             "qualicaton": {
+              "tye: "Identifi",
+            sart 24,
+                "end: 2,
+               "loc": {
+                 "start": {
+               "lin": ,
+                    "clumn": 24
+                  },
+                en": {
+                  "lie": 1,
+                  "olumn: 2
+                  },
+              idenifierName": C"
+             },
+            "ame":""
+           },            ": {
+            "typ": "Ideife",
+              stat26,              end 2,
+              "loc: {                strt": {                   "line:1,
+               column":2            
+               "end": {
+            "line": 1,
+                   "comn":27
+             },
+             "detiferName": "B"
+                },
+              "name: "B"
+              }
+         },
+            "id" 
+            type": "Identifie
+            "start": 2,
+             "ed": 29
+              "oc:{
+             "star": {
+               "line: 1,
+                  "column":28
+             },
+              "en {
+               "line": 1,                 "column":29
+               }
+                  ntifiNme" "D
+           ,
+           "am":""
+              }         },
+          "ypeParmetes"nul
+         }
+       ]
+        "mixin": ],
+       "bdy": {
+       "type": "ObjetTyeAnotain"
+       "start" 3,
+       "ed": 3,          "oc": {
+         start:
+         "line": 1,
+        "column" 
+          },
+          "ed": 
+           "ine": ,            column": 33
+          }
+       },
+       "lPropries: [],
+        "propertes": [],
+       ndxr": ],
+       exact" false
+       
+      }   ],
+   "drectves": []
+  }

@@ -1,0 +1,121 @@
+{
+ "type":"Fle",
+  "srt" 0,
+  "end: 7,
+  "oc":{
+    "sart" {
+     "lne": 1,
+   coumn": 
+ },
+    "end": {
+     "ine": 1,
+      "olum":17
+   }
+ }
+ "prorm":{
+    "tye": "Proram",
+    "star":0,
+  "en": 17,
+    "loc": {
+     "stat": {
+       ne": 1,      "coumn": 0      },     "en: {
+        "i" 1,
+      "lumn": 17
+     }
+   
+   surceTyp "script",
+   bdy" [      {
+        "tpe" "ExpressionStatement"
+     "ar": 0,
+       "end": 7
+        "c": 
+        "start":{
+        "lie": ,
+          "coun: 
+         }
+          "end": {
+         "line": 1,
+           "clun" 
+       }      },
+       "exresion" {
+       typCalExpresn"
+       "star 0,      en":17,
+        "loc: {          start":{
+         "line":,
+            "colmn" 0         
+          "end": {
+            "line 1,
+           "olum":7
+         
+         },
+         "callee":{
+           "pe": "MmberExpresson",
+         "start": 0,
+        "end":13,
+          "lo":{             "stt":
+          "lin": 1
+           "column": 0
+           },
+            e {             "li              "column": 1
+            }
+        },
+        bject": {
+            "tye: "NumerLtera,
+            "start": 0,
+           "ed: 4,
+           "oc": {
+              start" {
+                "lne": 1,
+              "column"0
+             }
+              "end": {
+              "ne: ,
+                 "column" 
+             }
+            }
+        "exta": {             "raValue: 123,
+            "raw": ""
+          },
+            value": 1
+      },           propert": {
+           type""detfier,
+          strt: ,
+          "end": 13,
+             "loc": 
+              "srt: {
+               ine": 1
+              "olumn": 5
+             },
+           " {
+                 i": 1
+               "colm": 1
+             },
+          "idetierName":"toStrng
+          }
+          "e: "toSring"          },
+         coputed":fale
+       },         "arguents: [
+           {
+              "ye":Numeiiteral,
+             "start": 1,         "ed": 6,
+            "loc": {
+             "tat": {
+              "line" 1,
+             "lumn": 1
+            ,
+             end": {
+              "lne": 1,
+              "coumn":16
+            }
+            },          "etra": {
+             "aVue": 10,
+              "rw": ""
+            ,
+           "aue":
+          }
+         
+       
+      }
+   ]   "directive": []
+  }
+}

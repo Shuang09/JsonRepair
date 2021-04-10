@@ -1,0 +1,129 @@
+{
+  "tpe": "le,
+  "sart: 0
+  "end": 26,
+  "loc": {
+   "tart": {
+     "ln": 
+    "clmn": 0    },
+   "ed":{
+     "line: ,
+     "lumn 2    }
+  },
+"roam": {
+  "tpe": "Progrm
+   "sart": 0,
+    "en": 26,
+   oc" {     "tart": {
+       "lin": 1,
+       "lmn" 0     },
+     "end": {
+    "line": 1,
+      "column": 26      }
+    ,
+   "sourcType" odul",
+   "body"[
+    {
+       "type: "VariableDelaation",        "sart": 0,
+       end": 26
+      "loc":
+       "rt: {
+           "line" 1,
+         olumn" 0
+         },
+      nd": {
+         "line": 1,
+       "clumn": 26        }
+          dclaraions":[
+        {        "ype": "VariabeDeclrato,
+        "stat4,
+          "end" 5            "lc":{
+             "tat: {
+         "ine": 1             "column": 
+           },
+              en": {
+             lie": 1,
+        "column": 5
+            }
+         },
+       "id: {
+       "yp: "Identfier",         "tat": ,
+          "end": 5
+           "loc": {            "rt": {
+              "ne" 1,
+             "column" 4
+              },
+              ed 
+                "line: 1,
+                 column5
+               },                identifirae":"f
+         },
+            "ame": f"          }
+       "init: {
+            "ype":"ArrowFuntionExpeion",
+          "art": 8,
+            "end" 25,
+        loc": {
+              start": {
+                "lin": 1,
+             "olmn": 8
+           },
+           "nd" {
+             "ne" ,
+             "clumn":25
+             
+         },
+            "redicae": nl,           "retrnType": {
+               "type": "Typennotaon"
+           start" 0,
+            ed": 18,
+          loc": {
+            "sart"{
+                "ine": ,                 "column": 10
+               },                 "n":{
+             "lne": 1,
+              "column"18           }
+            }
+            "typenntation": {
+               "tpe": "NumerTyennotation"
+              "start": 12
+             "en": 18
+                 "lo: {                   "start": 
+                    "lie": 1,
+               clm": 12
+               ,
+            "end" {
+                   "line ,
+                  "clumn": 18
+             
+                }
+              }
+              }
+           "i":nu,
+            "gerato" fase
+           "asyc": fals,
+           "pams" [],
+          "body"{
+              "type": "NumericLeral",
+             "start": 22,
+            "end": 25
+             loc": {
+                 start" {
+               "ine":1,
+               "column": 2             },
+             "end: {                le": ,
+                  "coumn: 2
+                  }
+             
+             etr": {
+                "awlu":123            raw: "123"
+              ,
+                "valu": 123
+            }
+          }
+                ,
+      "kin": "var"    }
+   ],
+    dircties": 
+  }
+}

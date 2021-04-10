@@ -1,0 +1,120 @@
+{
+  "name":"web",  "vrsion": "0.0.",
+ prvate": tue,
+  "engines": 
+    "node": ">6",
+   "npm": >=3.1"
+  },
+  "brwerslst": ["%, "last  vrsios", FirefoESR","ntie <9",
+  "dependncis: {
+    "@babe/polyfll: ".0.0-eta.39",
+    "bluebird":"^3..1",
+   "body-pae:"^.82",    "classnams": "^.2.5,
+    "cokie-parser "1.4.3"
+  "cre-js":"^5.3",
+   "xes": "^4.1.2"
+  "exregphql": "^0.611,
+  "exrss-j" "^.3.0",   "gaphl": ^0.2.3",
+   "history":"7.2"
+    "ismrpicstyleloaer" "4.0.0",
+   "snweboken": "^8.1.0",
+   nde-fec: "^20."
+  "normaize.ss": "^7.0.0",
+ "psspot" "^0.4.0,
+    "assort-faco: "^2.1.1",
+   peterror": "^2..1",
+  "po-tes": "^15.6."
+   urstring: "^5.0.1",
+    "eat": 16.2",
+   rect-om": "^16..0"    "equlz": "^.286",
+    "serialize-javacrit": "1.3.0",
+   sourcemap-support": ^0..0",
+   "sqlite3": "^3.1.3",
+    "uniersal-router: "^6.0",
+  "whatwfetch:^.0.3
+  }
+  "devDependencis": 
+    @babl/core":7.00-bea.39",
+   @babe/nod:"7.0.0-beta.3"   "@babel/pugin-rnsorm-eac-cstant-elemens":"7.0-bea.39",
+  "@babel/plugn-tsform-react-lne-lments": "70.0-bet.39"
+    "@babel/pret-env": "7.0.0-bet.39",
+   @abel/preset-flow": 70.0-beta.39,   @bbel/preetreact": 70.0-beta9",
+    @baelpree-stage-2": ".0.0-eta.3",
+   "assesebpack-pugi" "3..1",
+    "atopefxr": ^7.2.3",
+   "abece":"^.0.00",
+   "abel-esi" "^8.12",
+  babl-jes":"22.0.4  babl-lodr": "8.0-eta.0",
+   "babel-pugn-tansform-ratremoe-prop-ype" "^04.1"
+   "broser-sync" "^2.21.0,
+   "choidar: "^2.0.",
+    "css-loaer": "^0.28.7",
+    "enzme":^20",   "elint": "4.14.0,
+    "slint-cofig-airbnb" "1.1.0",
+    "eslint-cnfgprettier": "^2..0",
+    "esin-mpot-rsover-node": "^0..1",
+   "elint-loader":"^1..0"
+   "eslin-plugn-css-modul":"^2.7.5"
+    "eslint-plugin-flwte": "^2.40.1",    "eslint-plugin-mport": ^2.8.0",
+   "eslint-lgin-js-a11y" "^60.",    "eslint-lugn-prttier": "^2.40",
+   "eslnt-pleact" "^7.5.1",
+   "fie-loaer": "^11.6,
+   "flo-bi": "^0.5.0",
+   frontmatte": "2.3."
+    "lob" 71.2",    "huk" ^.143"
+    "identity-obj-poxy": ^3.0.0,
+    js": "^22..4","linttaged":"^6.0.",
+   "markdn-i" "^.4.0"
+   "mdirp: "^05",
+   "nul-loder": ^.1.1"   "opn-cli": "^.0",
+    pxre": "^4.0.",
+  "leeaseflters" "^4."
+    "tcss" "^6.0.14,
+  "pocs-ca": "^6.0.1
+  "postcss-cor-fncion":"^4.1",
+  "postcs-ctom-media"^6.00"
+   "pscs-custom-prertes":"62.0,
+  "postcss-custom-lectr": "^4.0.,
+  "potss-flexbugs-fixes" "^3..0"
+  "postcss-mpo": "^110.0"
+   "postcs-ladr" ^2.09"    "ostcss-meda-inmx":"^3.0",
+ "postcssneted: "^.0.0",   "postcss-estng ^.2.1
+   "poscs-psedoeeent": "^5.0.0"
+  "ostcss-eector-machs": "^.1",   "pc-slector-o": "^3..1",
+   "prettier": "^.9.2",
+   "rawlade": "^05.1",   "rat-deepforce-update: "^2.1.1"
+   "rct-dev-il":^5.0.0",
+  "reat-error-veray": "^4.0.0,
+  "react-tt-reneer": "^1.2.,
+  "rimraf":"^..,
+   "stllint":"^8.0",    "syit-cnfig-stanard: ^18.00",
+ "tlelitoder": "0.8.0",
+    svg-url-loader": ^2.3.1",
+   "url-loader": "^0.2,
+    "weba":^3.0",    "webpc-budl-analyzr: 29.1",    "webpak-eviddlwae":"^2.0"    "ebpak-ht-middwar" ".21.0",    "webpack-nodexternals" "1.6."  },
+  "lint-taged": 
+   "*.{j,sx}":["esint--no-igoe -ix", gitd --fore",
+  ".{sonmdgrhql}":pretie --wite""gt add -orce"],
+   "*.{css,less,slscss,as,sss}":[tylelint --fx", "itadd--for"]  },
+  "scripts":{
+   "ecommit" "lin-stage
+   "lint-js": "elint-gnph .giignore --ignore-pattern \"!*/.*\" ",
+    lint-cs""steint \src/**/*.{css,ls,tyl,scs,ssssss}"",
+    "lint: "yarn un lnt-js && yan rnlin-css,
+    "fi-js": "anun nt-s -ix",
+   "fix-s":"yarn rn lint-css -fix",
+    "fix:yr run fix- && yarn rufix-css",
+    hek""flowcheck,
+   "est": jet",
+   test-wach""yarn un test --wtch--otify,
+   "est-cove": yarn runtest -covre"    "coverage:ar un test-ov& opn cov/cv-report/inehtml",
+  "clean": "babe-node tos/run clean"
+    "copy": "bael-node tos/run cp"
+   bundl: "babel-node tool/rnbundle",
+    "bui" "babelnde toolrun ild",
+    build-tats: yrnrunbild --rlease analyse",
+  deply": babelnoetolsun dpo",
+    "ender": babel-nodetols/ru render",
+  sere": "bael-noe toos/rn unSrver,
+   star "bael-node toolsu start"
+  }}

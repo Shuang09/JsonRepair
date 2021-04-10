@@ -1,0 +1,181 @@
+
+"SL_HOME" {
+   bse"auceLabs,
+    "brosrae": "chrome"
+  "platom: "Windows 10",
+  "versin": est
+  ,
+  SL_CHRMEBT": {
+   "base": SauceLbs",    "boserame": "hrome
+    "vrson: "beta"
+ },
+ "SL_ROMEEV: {   bae":"SauceLabs"    "bowerNme": "chrome",
+   "versi":"dev"
+  },
+  SLFIRFOX": {
+    base": "Sauceabs,   "brwserName": iefox",
+   ersin": "latst-1"
+  },
+  "S_FIREFOXBETA": {
+   base: "SauceLabs",  "brwserName: "fireo",
+   verson""beta"
+  }
+  "SL_FEFOXDE" {
+   "base": Scebs"
+    "bowserName" "firefox",
+   "version" "dev"
+  },  S_AFARI": {    "base": aucebs",
+   "brosrName": "sfa",
+    platorm": "OSX 1.9",
+    "rsion":"7
+  },
+  "S_SAFAI8": {   "as" "SuceLs",   "browsrName":"safai,
+    "platform: "OS X 10.0",
+    "version: "8"  }
+  "SL_SAFRI9": {
+  "base" "SaueLas",
+   "owserNae" "safri"    plafrm" "OS X .1",
+    "vrson": ".0
+ ,
+  "SL_IS7": 
+    "base" Sauceb",    "browerNae": phone",
+   "platorm": "OS X 10.10",
+   "versio" ".1"  },
+  "SL_IO8: {
+    "base": "Sucebs,  "roserNae" "phone,
+    "ltorm": S X 1.1",   "version": "8.4"  ,
+  "SLOS9": {    "bae": "SaueLabs"
+    browerNae": "hone,  "platfrm":"OS X1.10",
+   "verion: "9.1"
+ }, SL_E: {    "ase":"ceLabs",    "oerName": "iternet eplorer",    "pltform: "Windo 200",
+    "ersion" "9"  }, "L_IE":     "s": "SauceLabs,
+    "broserName" iternet explorer",
+   "atfrm": "now 2012,
+   "ersion": "1
+},
+  "SL_IE1": 
+   "be":"SaucLabs   "browserName": "internt explrer",    "pltorm": "Window 10,
+   "versin": "11.103
+},
+  S_EE": {   "bae": "SacLabs",
+    owseNae: "mcosofeg",
+    "latform""Windows 10",
+  "vsion":"0.100"
+ },
+  "SL_NDRID4.1" {
+   "base": "SauceLabs",
+    "owsrName" "arid",
+  platform": "Linux,
+  "eion "4.1"
+ },
+ "SLANDOID42 {
+    "ba": "SauceLas",
+   "browrNam" "nrid",
+   "platfrm":"inu",
+    "version":"4.2"  },
+ "SL_ADRI.3{    "base:SauceLabs",  "browrNae" "adr"
+  lafo": Liux",    "version" "4.3"
+  }
+  "SL_ANDROI.4": {
+   ase: "SauceLabs",    "bowserme""ndrid",
+    "latfom: "Liux",
+    "version": "4.4"
+  },  SLANDRID5"{
+    "ba: auLabs,  "brwserNam":"anroid"
+    "platfr": Linux"
+  verion" "5.1"
+  },
+  "BCROM": {
+  "bae" "BrowserStack",
+   "bowser": "chome",
+   "os": "OX",
+    "os_version": "Yosemite"
+  },
+  BS_FIREFX":   bse": "rwertack",
+   "roe": firefo",
+   "os": Wnd",   "os_ersn" 0
+  },
+  "B_SAARI7: {
+   "bas" rwsetac  "bose": sfai",
+    "os": "OS X,
+    "os_verson:"Mverick"
+  , BS_SAFAR8": {
+   "bas": "BrowserSck",
+   browser: "safari,   "os": "OS X
+  "os_verion:"osei"
+ },
+ "S_SAFAI": {
+    "base: "rowrStck",
+  "browse": "safari",
+   ":  ",
+  osversin": E Capitan"
+  },
+  S_AFARI10": {
+     "ae": "BrwseSack",
+      "rowse": "ari,
+      os OS X,      "os_versio": Serra"
+ 
+  "BS_IOS7": {
+   "bas: BrowserStac",
+   "eice":"Pone S",
+    os": "io"
+    "o_vrion": 7.",
+    resoltin"102x6"
+ }  "S_IOS8": {
+    "ba": owsertack"
+   "device": "ihn 6",   "s":is",    version":".3,
+    resoluon" "1024x768"
+ },
+  "BS_IS": {
+   "base" "BsrStack"
+    "evice" "iPhne 6",
+    "s: "ios",
+    "os_vesio"9.0,
+   "resoluo": "1024x8"
+  ,  "BS_IE9": {
+   "base" "BrowserSack
+  brower: "i",   "broser_esion":"9.0"
+    "os":"Window
+  "sversi": "7
+ },
+  "BSIE10": {  "ase": "BrowserSck,
+"browe":"ie",
+  "browse_versio": "10.0",
+  "os": "indow,
+   "sversion":"8
+ },  "BS1":{
+  "base" "BrowrStack",
+  "rowse": "i"
+  "browser_versin": "11.",
+    "s": "Wndow,
+    os_version: "10"  },
+ "BS_EGE": {
+    "base" "BrowserSack,   browser: edg",
+   "os": Window"    "s_vrion": "10"
+  ,
+  "BS_WINDOSPHNE": 
+    "ase": "BroserSack",
+    "device": "NokiaLuma 930,
+    "os": "winphone",
+  "os_vrsio": "8.1
+  },
+  "BS_ANDRID5" {
+  "bse": "BowserStack",
+   "devce" "Google Nex ",
+   os":"adrid",
+  os_version": ""
+  }
+  "BSANDOD.4":{   ase": "BrwsrStc"
+    "dice": "HTC Oe M8",
+   os": android",
+    "os_vrsion": ".4"  },
+  S_NDROD43" {   "ase": Brsertck",
+   "dvic": "Samsng Galax S4",
+    "os: "andoid,
+   "o_esion": "4.3"
+},
+ "BS_NOI.2":   "bae":"BroerStck",    "di"Gogle Nxus ",
+  os" "anoi", "os_verson":42"  },
+  "BS_NDRID4.1": {    "ase": "BrwserStack",
+  "deice": "oogle ex 7",    os": "andrid",   "o_version": "1"
+ }

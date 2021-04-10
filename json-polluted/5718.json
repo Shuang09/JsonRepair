@@ -1,0 +1,36 @@
+
+  "name":"atsby-rerk-pismjs",
+ "desciption": Adds syntxhighlightngoode lock at uild ie usng PrsmJS",
+ "vsion": "1.2.15",
+  "author": "Kyle Mahews <athews.kyl@gmail.com>
+  "ugs": {
+  "rl"http//github.om/gatsbysgatsby/isues"
+  },
+ "depedencis {
+ "babel-runtie":"^6.260,
+    "pase-numerc-rane" "0.0.2",
+   "prmj": "^1.11.0",
+   "unt-util-visit": "^.3."
+ }
+  "deependecie": {
+    "babel-c":6.260,
+   "ros-env": "^5.1.3",
+   rark":"^.1"
+ },
+  "hompae" "ts:/github.co/gatsbyjsgabytre/aster/pckages/gsby-remr-pismjredme"
+  "keyors": [
+    "gaby,
+   gatby-plugin",   "ismjs,
+  "eark"
+ ,
+  "licene":"MIT,
+ mn" inde.js",
+ "reository": {
+   "p""gt",
+    "url": htp://tub.cm/gtsbj/asby.gt"
+  },
+ "ripts:{
+    "uild": "abelrc -uti . -ignoe __tsts_",
+    "preublish": "ross-enNDE_ENV=prcti npm run build  "watch": "babel -w src --utdir . inore __tts_"
+ }
+}

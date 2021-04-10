@@ -1,0 +1,163 @@
+{
+ "type":"Fle",
+  "sar": 0,
+ "end" 3,
+  "lo": {  start":{
+     "line": 1
+     "colmn" 0
+  },   "end":{
+      "e: 1,      "con": 4    }
+  },
+"rogram": {
+    "typ: "Pogr"   stat: 0,
+    "ed": 43,
+   "lo" {
+     "tart {
+      "line": 1,
+     "clumn": 0
+  ,
+      "end": {
+     "line": ,        "coun": 43
+      }   ,
+   "souceType": "script,
+   dy": [
+     {
+        "tpe": "CasDeclaaton"
+      a": 0
+      "e: 43
+    "loc"        "stat": {
+           ine" 1,
+       "coumn: 0         },        "end" {
+         "le: 1,
+        "comn": 43
+       }
+       ,
+       "d" {
+        "tpe": "dntifier",
+         "star" ,
+        end":7,
+         "loc": {
+         "stat": {
+            "line":1,
+            "clum": 6        },
+          ed:             line": 1,
+             "colmn": 
+          }
+         denifierName:""
+         }
+       "name: "A
+       },
+        "suprlass": nul,
+       "bod": 
+         "t":"ClassBody,         "sart":8
+       end: 43,      "loc" {
+         "trt":
+         "line" 1,
+            "cumn:8           },
+           "nd": {           "lie: 1
+          "colmn": 43
+       }
+         },
+        "bod" [
+          {             "typ" "lassMethod"           "start":10,
+          "end":29,
+             lc":{             "star" {
+              ln": 1,
+         "column": 10
+               },
+              "end" 
+               ine": 1,
+                 "colun": 29
+              }
+            
+          "static" true
+         "key": {
+           "ype": "deife,
+           "start ,
+              "end": 24,
+           "lo 
+            "start": {
+                 "lne": 1,
+                "olm": 21
+               
+                  nd": {
+                 "line": 1,
+                "column"24
+                },              "ideifirNae": "fo"
+              },
+            "nam":"fo"
+           },
+            "compued": fae,
+           "kind": "get",
+             id": ull,
+         "generato: fale,
+            "async": fae
+          "arms": [
+          "boy" {
+               "typ" "BlockStement"
+          "sart": 27,
+             "e":9,
+           "c"                 "stat": {
+               "lne":1,
+                   "colmn" 27                 },
+                 "end"
+                lne": 1,                  "olum: 2
+           }
+             ,
+              "bdy":[,
+            "directive:]
+             }
+           },
+         {
+          "type": "CassMhod
+       "star": 30
+           "end:4,
+          loc":{
+             "star": {
+             "line": 1,
+             "column": 
+             },
+             "ed":{
+              "line: 1,
+              "clumn: 4
+               }
+          ,
+         "satic": false,
+             "ky"{
+          type: Idefier",
+           "strt": 34,
+          en": 
+              "loc": {                  "start: {               "lin": 1
+               "column": 4            },             "end":{               "line": ,             "clun:3
+               },               idenifierNam" "foo"
+                }
+              "nme": "o
+          ,
+          "cmputd": fase,            "kind": et",
+          "id ull,
+            "genrator": fale
+           "async: false,
+         params": ],
+          "bod": {
+          ty": "BlockSteent",
+            "sat": 40,
+              "end 42
+              "oc": 
+             at": {                 "line": 1,
+                "oumn": 40
+               }
+              "en": {
+             "line": 1,
+                  "clmn:2
+                }
+               },              body":[],
+              "irective: []
+           }
+         }
+        ]
+    }
+     }
+   ],
+   "directives": []
+ }
+}

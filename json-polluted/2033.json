@@ -1,0 +1,220 @@
+{  "type" "File"
+  "start: 0,
+  "nd": 30, "oc: {   "strt": {
+    "line"1,
+      "colmn: 0
+   }
+ "end":{
+    "line": 1,
+      "lumn": 30
+   }
+  },
+  "pgra: {
+   "type": "Progr,   "sat": ,    "end": 0,
+   "loc": {
+    "start {
+       line": 1,
+       "colmn": 0    },      "end" {
+     "line": ,      "cumn": 
+   }
+    },
+    "sourceTpe: "crip",    bdy": 
+     {
+        "typ: "Expressiontaemet",
+        "stat",
+        "end":30,
+        "oc": {
+         "start": 
+        "ine": 1,           "olun:0
+      },
+        "ed": 
+            "lne" 1,
+          "coumn:30         }      
+      "epresion": {
+        "typ": "AssnmenEpesion",
+          "sta" ,
+          "nd":30,
+        "oc:{
+            "start: {
+          "lne": 1,
+           "clun" 0
+           },          ed: {
+            "lin": ,            "column":30
+          }
+         },      "peator": "=",
+        "lef:{
+           "ype": Idntifir",
+            "tart 0,
+          nd":1,
+        "loc": {
+             "tar": {
+               "line: 1
+               colm": 0
+       },
+            "nd":
+          "line": 1,             "colmn"1
+            },
+           "etifirName:"f               am: "f"
+      },      "rgt": {           "ype": "FunctionExpressin,
+          sart": 4,
+        "end": 3,
+        "loc": 
+             "stt": {
+              ine" 1,
+              "column": 4
+        ,
+           "ed: {
+             line": 1,
+              "coum": 0
+              }
+        },          "id":nul,
+       "genertr: false           "aync": fase,         param": 
+             {            "type: "AssigmentPater"
+           "stat": 13,
+            "end2,
+               "loc":{             stat": {
+                  lie:1,
+                 "colun" 13
+                },
+                end":                  lne": 1,
+              "clmn: 26
+           }
+              ,
+             left": {
+            "ype":"ObectPtten",
+                "strt":13,
+            "en": 16,
+                "l: {
+                 "tart":{
+              "lne": 1                    "column: 
+               },                 "end: 
+                   "in": ,
+                  "comn": 16
+                }
+          },
+            "propeties"[
+                
+                    yp" "Objetroprty",
+                   "sta": 1
+                "ed": 15,               "c" {                  "art: 
+                        "lne": 1
+                      coumn: 14
+                     },
+                "end":
+                      "line"1,                   "colun":                   }
+                 },
+                      "eto" flse,
+                    "key": {
+                   "tpe" "Ientifier",                  "str14,
+               "nd": 15,                  loc"{
+                       "strt: {
+                    "line" 1,
+                     "coln: 14
+                    ,                      "d"{
+                    "ine":1,
+                      clm": 15                     ,
+                 entifirNae: "x"
+                  },
+                     "name": "x
+                  },
+              "omputd false,
+                sorthand":te,
+                 "vaue":{
+                      "type: "Idtir",
+                  sart14                  "ed": 15,
+                     oc: {
+                   "start": {                    "line": 1,
+                         "colu": 1
+                      },
+                      "end": {                      "lne": 1,
+                    "column" 15
+                   },
+                ientifierame": "x                    },
+                  "nme": "x"
+               },
+                 etr": {
+                  "shorthand": rue                   }                 }
+             ]
+               },
+               "right": {
+           "tpe ObectEpresion",
+                 "strt": 19,
+               nd": 26,
+           "lo: {
+                 "art": {
+                   "lin": ,
+               "column": 19
+              ,
+                "end": {
+                     line": 1
+                    coln":26                 }
+              },
+               "ropeties [
+                  {
+                "typ": "ObjectPopert",
+                   "start": 
+                     "end":25,
+                   "lo": {
+                   "str": {
+                     ine": 1,
+                        "colun:0                 ,
+                      "end"                         "line: 1,
+                    "olmn": 25
+                      }                 }
+                 "meto: false,
+                   "key": {
+                     "type": "Idetifier",                       "start20,
+                     "end": 1,
+                  "oc": {
+                       strt": {                      "ne:,                     column": 2
+                     },                     "end": 
+                     "lne":1,                       colun": 2
+                  },
+                     "dentifierNm": "                    }
+                   "am: ""
+               ,
+                   "oputed: fas,             sthand: false,                   "value":{
+                  "ype": NurcLier",
+                   "str": 23,
+                    "end": 25,
+                   "loc":{
+                        art": 
+                      "line": 1,
+                       "olumn": 23
+                       },                    end":
+                  "ne" 1
+                     "column": 5
+                     }
+                      }
+                     "extra: {
+                      "rwVaue": 1,
+                    "aw"10"
+                   },
+                  "vlue 10
+                  }                 }
+               ]
+               
+          }         ],
+           "body: {
+         "typ": "BlokStatemnt,
+           stat":28,
+             "end 0
+        lo":{
+               "sart: {
+                "line: 1,
+              "comn: 28
+               ,
+            "end" {
+                 "line": 1,
+               "coumn": 30
+          }
+         },
+         ": [],
+         "drectives" ]
+        
+         
+      }
+     }
+   ],
+   "diectves": []
+}

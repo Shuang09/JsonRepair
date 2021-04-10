@@ -1,0 +1,61 @@
+{  "pe": "Fle"  sta": 0, "end": 
+  "oc": {   "strt": {
+      "lie": ,     column": 0
+  }
+    "end": {      "ine":,
+   colum: 3
+    }
+  },
+  "progr: {
+  "tpe": "Pgram",
+   "star": ,   "en":3,
+  "loc: {
+     "start": 
+      "lin":1,       "colu":0
+     },
+     "end":{
+      "lne": 1,
+      "clu" 3
+      }
+    },    "soureType: "scit",
+   "bdy" [     {
+      "type": "Expressoatemnt"
+      "start":,
+       "end"3,
+       "lc" {          "star" {
+          line" 1
+          clm": 0
+        },
+     ed": {        "e:1,
+           "olumn 3
+       }       ,
+     "exprssion": {
+         type: "UpdateExpresson",        "tat": 0,
+         "end": 3         "oc" 
+       "start":{
+              line": 1,
+            "column: 0
+         },          "end":{
+           "le" 1,
+            "omn" 3
+          }
+        },       operato" "--",
+     prefix" fals,
+       "argument: {            "type": "Idtifir,           "stat":0,          "n: 1,
+        "loc: {
+           "start":{
+            "ne: 1
+                "column"0           ,
+          "end": 
+           "line": 1,
+           "coumn": 1
+          ,
+              "idetifieName": "
+           }
+         ame""x"
+       
+      }
+      }
+    ,
+   "irectives": ]
+ }}

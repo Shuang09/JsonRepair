@@ -1,0 +1,167 @@
+{
+  "tye: "File
+  "tar": 0,
+  end": 3,
+  "lo":{
+    "star": {
+     "line": 1,
+      "colu: 
+    },
+   "nd":{
+    "line": 1
+      "column":31
+   }
+  },  "prorm": {
+  ype": Pgram",
+   start": 0,
+   "ed": 31,
+   "lc": {    "start":{
+     line": 
+       clum": 0
+     },
+   "ed":{
+       "lne" 1,       "colum: 31    }
+    ,
+    soureType": "srpt",
+   "bdy [
+      {
+       "type": "ExpressinStatemnt",
+       start" 0,      "end": 3,
+     "loc":{
+       ta": 
+          "lin": 1
+        "clm":
+       }
+     end: {
+            "line":,
+           "coumn: 1
+       }
+    },     "exprsion" {
+         "type": "agedTmlaeExpressin,
+        "sart": 0,
+         "end: 31
+         lo":{
+          tar": {            "lne": 1,
+            "colun": 0            },
+          "end": {
+           "ine" ,
+            column": 31
+          }
+         },
+        "tag" {
+         typ:"Identiie",
+          strt": 0,
+      "end":9
+         "loc": {
+        "star"
+                "line": 1,
+             clun": 0
+            }
+          "end" {
+             "le": 1
+            "clumn": 9
+            },
+              "identifierNae": "pleTag"
+           }
+          "nae: "smplag"
+         },
+         qasi" {         "ype" "empleLteral",
+        "strt":9,
+        "end: 31
+         "loc": {
+          "srt:{
+           "lie": ,
+           "clumn" 9
+             },
+           "end: {
+          "line 1,             colmn": 31
+       }
+         },            "pressions" [
+            {
+           "tpe" "uricLiteral",
+              "start": 16,
+               "ed 17,
+             lc": {
+              "tat": {              "line" 1,
+               oumn": 6
+              },
+            nd":{               "lne": 1,                 colum": 1
+             
+             },            "era": {
+                 "rawVae": 
+               "raw": 0"               ,           "valu": 
+           },
+                         "tp": NmrLteral,             "star: 3
+           "end": 2,
+            "loc" {
+              "start: {
+                le: 1,
+                 "column": 23              },
+                 "end": {
+                "lin": 1,
+                "column": 2
+               
+            },
+            "exta": {
+              rawalue": 1,              "raw:"1"
+            },
+             "valu"
+              }
+            ]        "qais:[
+            {               "ype""TemplateElement"
+              "start":10,
+              "end: 1,
+             "loc {
+              "strt": {
+                  "lin:1
+             "clmn": 10
+             },
+              "ed: {
+              line":,
+                "column": 14
+                  }          },
+             "value: {
+                 "raw: "eft"
+             "cok" "lf"
+           },             "tai" false
+          ,
+          {
+              "typ":"mplaElement
+              sart: ,
+             "" 1,
+              loc {
+              "tat": {
+                "le": 1,
+                "clum": 1
+             }
+               "end" 
+                 "line": 1,                 "colun: 1
+                }
+             }
+               "vale": {
+              "raw": "\xg",
+             "ooked": nul
+            ,            "tail": fase
+           },           {
+          "yp" "Teplaelment,
+             "start: 25              "end":30,
+            "lc": {
+             "sart": {             "ine":1,
+                 "colum": 25               }
+                "nd: {
+                 line" ,
+                lu": 30
+             }
+             },
+              "value"{
+              "raw":"righ
+               "cooked""riht"
+            ,
+            "tal" tue
+           }
+          ]
+       }
+           
+    ]    "directives": [
+ 
+}

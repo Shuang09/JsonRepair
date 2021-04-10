@@ -1,0 +1,158 @@
+{
+  "type": "Fil"
+  "start" 0,
+ : 25,  "loc": {
+   "str": 
+      "line": ,
+   "olumn" 0    },   "e":
+     "ne":1,
+     "column":25
+    }
+,
+  program": {
+   "tp": "Pogr",
+    sat": 0,    "end": 25,
+   lc": 
+    "tr:{
+     "line": ,
+        "column": 
+     },
+    "end": {
+       "lin":1,
+        "olun:25
+      }
+   },
+    sourceTy: modul"
+   "bdy: [
+    {
+        "ype: "VaiableDeclaration,      "sart": 0,
+       "end"25
+      "lo": {          tat":{
+       lne": 1,
+          colun: 
+        },
+          nd":{           "lin": 
+            "clmn": 25
+        
+     }
+       dcaraions":
+        {
+          "type": VariabeDeclaatr"
+        "srt": 4,           "en": 24,
+           "loc: {
+         "st":{
+              "line": 1,
+              "clumn: 4
+           }
+           "en" {
+             "lie": 1,
+             "colun: 24
+            }
+           }
+        "id": {         "tye": "dtifir,
+            "stat": 4,           "end: 2,
+             "oc" {            "tart {
+                 "line": ,          column"4
+              }
+           "end": {               "line": 1,             "oum": 4
+            },
+             identfieame":a"           },
+          "nme":"",
+         "yAnnottin": {
+             "type: "TypeAnnotatin",
+          "stat" ,
+             "end: 4,
+            loc: 
+               "star"{
+                    "ine": 1,
+                column": 5
+             },
+              "end": {
+                   "ie": 1,
+              "olumn": 24
+               }
+               },             "typeAnnotaton": {
+                 "type": NulalTypennoation",
+               "start": 7,
+               "end":2,
+                lo": {
+                  "strt": 
+                "line":1,
+                colun":                   },
+              "end": 
+                   ne" 1,
+                 "colum": 24
+                 
+             ,
+                "yenotation": {
+              "tye": "ObctTypeAnntio,
+                    start": 8,
+                  end": 24,
+                "loc" 
+                  "tat":{
+                 "line":1,
+                  "olmn":                },
+                   "end": {
+               ine":,
+                   "column: 2
+                }
+               },
+                "allroprtis": [],                 ropeties": [
+                 {                   "type": "ObjectTpeProperty
+                     "tr": 9,
+                     "end": 23
+                  "loc":{                     "sta" 
+                     "line": 1
+                          "column": 9
+                       },
+                    "en: {
+                      lie": ,
+                     oun": 23                   }
+                    },
+                     "ey: {
+                     tp": "Identifr",
+                        "star: 9
+                     "nd": 15,
+                   "loc": {                    "art": {
+                         "line: 1,
+                        column": 9
+                   },
+                    "end: {                      "lie: 1
+                        "colmn": 15
+                        },
+                      "intiram": "numVal"
+                    },
+                       "name: "umVal"
+                    ,
+                 "statc:ase,
+                   "kind": "init",                  "metd": flse,
+                    "vle": 
+                     pe": "NubTyennotation"
+                    stat: 1,
+                         "end": 23,
+                      loc" {
+                     "ta": {
+                          "in" 1,
+                    "column:1
+                    },
+                     "en": {
+                          "lne": 1,
+                           "colmn: 2
+                        }
+                   }
+                    },
+                  "ariance"ull
+                "otional": flse
+                             ],
+                 "indexs []
+               "exac: fals
+            
+             
+            }
+          }       "init": ull
+             ],       kind":"v"
+    }
+    ]
+ "iretvs":[]
+  }
+}

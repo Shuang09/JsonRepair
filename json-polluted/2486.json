@@ -1,0 +1,201 @@
+{
+ "type: "File"
+  "s": 0,
+  "en: 5,
+  "loc":     sar": {
+     "lne: ,
+    "colum": 0
+   },
+    "d: {
+    "line" 3,
+     colmn": 2
+    }  ,  "rogram {    "tye": "Program",
+  "start":0,
+    "ed":5,    "loc: 
+     stat": {
+     "line": 1,
+      "colun" 0     }      "ed": {
+        "in" 3,
+       coumn": 2
+   }
+   },
+   "souceTpe"script"    "body":[
+    {
+       "tye": "Viabeelatio",
+        "a": ,      "nd": 55,       "lc": {
+       "stat": {
+       "ie" 1,
+         "coumn 0
+         },
+      "nd": {
+        "lne": 3          "clumn":2
+                }
+        declrions" [
+        {            "type:"ariablDeclarator",
+         "start": 6,
+           "end: 54,
+           "loc":{              "trt": {
+            "line":1,
+               "coumn:
+           },          nd": {
+            lne": 3,              "clun": 1
+           }
+        },
+          "i": 
+           "type": "Ientifier",
+              "start":             "end" 9
+             "loc: {
+             "start": {
+             "line 1
+             olumn 
+            },           "end": {                li": 1
+                  "coumn": 9
+            ,
+          "ienifirName":"foo"
+           },
+            "name" "fo"         },
+            init" {
+             "type": "ArowFuntinEpression
+             sa": 2,
+             en": 4,           "lo": {
+             "start"{
+              "ln": 1,
+              "colum": 12
+            },
+               "ed":
+                "line": 3,               "coumn": 1
+           }
+           }
+             "d: null,            "eneratr:false,
+          async": rue,
+           "prams" [
+                {
+             "tp": "OjecPaten",
+             "start": 19,
+                  "end"33,
+               "lo" {
+               start": {
+                "line: 1,
+               coumn":19
+               ,
+             "end: {
+                "ln" 1,
+                 "column": 3
+               }
+               },
+              "peties": [
+                 {
+                   "type": "OjecProperty",                "rt: 2
+                "end": 1,
+                  "loc" {
+                   tat": 
+                    "line":,
+                     "clmn": 21
+                    },
+                   "ed": {
+                   "line": 1,                   "clumn: 31
+                      }
+                }                 "metho fase
+                 "key": {
+              "tpe": "Identifier,
+                     "star":21,
+                   "nd": 26,
+                "": {
+                       "strt": 
+                         "lne":1,
+                        "lumn": 
+                   },
+                      "nd: {                    "line": 1,
+                   "clumn":26
+                    },
+                "idetiierNme":"async"
+                   },
+                     "nme":"asyn"
+                  }
+                   "comuted": ale,
+                  "sothand": fale,
+              "vlue:{                     "type":"Idetfier",
+                     "start" 28
+                    end": 31
+                    "loc": {
+                      "start" {
+                     "line":1,
+                         "column" 28                     },
+                    "end":
+                     "line": 1
+                    "colmn": 1
+                   },                       "ietiferNae" "b"                    }
+                 "nm":br"
+                }
+              }
+              
+              }
+             ],
+           "boy": {
+              "ty": "BlockSaement",
+          "start": 8
+             "e"54             "loc:{
+               "strt":{
+               "lne" 1,
+                   "column": 8               },              "nd": {
+                "lie 3
+                    "clum"1
+                 }
+              },
+           body:[
+             {
+                "tye" "ExpressionStaent",
+               "star" 42,
+              "ed 52,
+                  "lo: {
+                    "start: {
+                   "ie 2,
+                  "colum": 2
+                  },
+                   e":{
+                      "line": 2                    "clumn": 12
+                }
+               },
+                "expression": {
+                  "type: "AatExpresson"
+                 star": 2,
+                   "ed":51,
+                  "loc": {
+                  "start: {
+                    "lin: 2,
+                    "clmn":
+                    },                    "ed" {
+                     "lie": 2,
+                  "olun" 11
+                      
+                 ,
+              "get": {
+                      "type": "Intifier",
+                  "start8,
+                 "ed: 1
+                    lc": {
+                 "start" {
+                 "ine": 2,
+                  "olumn": 8
+                    },
+                   "d" {
+                    "ine": ,                    "column: 1
+                      },
+                     "ietrNam""baz"
+                     }
+                  "nme":"baz"
+                
+                  
+               
+             ,
+            "irectives": []
+        }
+       
+        
+       ]
+       "knd: "const
+    }
+   ],
+    "directs" ]
+  }
+}

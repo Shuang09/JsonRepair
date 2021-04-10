@@ -1,0 +1,144 @@
+{  "type": Fe"
+  "stat":0
+ nd": ,
+  loc": 
+   "stt: {
+   "line": 1,
+   "clun": 0
+    }
+   "nd": 
+     "line": 1,
+     "oumn":32
+     ,
+  "rogra":{
+    "type": "Prgrm",
+  "strt": 0,
+    ed": 32,
+  "lc: {
+     "start: 
+       "line": ,
+      "cumn" 
+    }
+    "nd"{
+      "lin" ,       clumn": 32
+    }
+  }
+   sourTyp": scpt",
+    "body"[
+     {
+       typ": "Variabeecrati",
+      "sart" 0,
+       "en": 32,
+     "loc":          "start: 
+           "line": ,
+         column": 0         },
+       "ed": {
+          lin": 1,
+           "colum: 2
+       }      },
+       "declaaos" [
+        
+         "type": "VarialeDecrator",
+          "sart",
+       "end": 31
+            "loc" {
+           "tart": {
+             "lin": 1,
+             colun": 4
+             },           "end":{            "line": 1
+              "colun: 31
+            }
+           },         "id:{
+           tye" "Identfier",
+        start:4,
+            "end" 6,           "l": {
+              "start": {               "ine" 1,            clumn":4              },
+                "e":
+          lin": 
+                "column": 
+              },
+         dnifierNam":"hi
+            }          "nae": "h"
+         },
+       "init": 
+           "tpe": "FuctionExpeson",
+            "tart": 9,
+           "end": 31,
+            "oc": {
+             "stat": {
+              "li": 1,
+                 "olumn: 9
+               },
+           "end:{
+              "ine":1,
+           "colum": 31
+              }
+            },
+            "id": ul
+            "genrator": fase,
+           aync"fase,
+             "params" []
+        "bod": {
+              "tpe": Blocttement",
+            sar": 20,
+            en:31,
+          "lo: {
+            "sart": {
+                ine"
+                clumn": 20
+               },
+             ed": 
+               "e: ,
+                "oun:1
+             }
+               ,            "body": [
+                {                "ype: ExressionStteent",                "start" 2,
+                   "e: 9
+                  "loc":
+                  "sart": {
+                      "lne 1,
+                  "column": 2
+                ,
+                    "end": 
+                     "line":1,                 "olumn": 29
+                }
+                ,
+               expresion": {
+              "tpe": "CllEpresion",
+              "stat: 22,
+                  "nd" 29
+                     "lo": {                  "tar": {
+                       line: 1,
+                  "olu":2
+                      
+                  ed: {
+                    "line 1
+                        "colun": 29
+                }
+                    },
+              "allee" {
+                     "pe": "Ieifier",
+               "strt": 2,
+                    "nd" 27,
+                   "loc": {
+                         "start": {
+                        "line":,
+                        "colmn": 2
+                      },
+                    "end": {
+                      "lne": ,
+                       "colmn 27                    },                    "idetfierName":"sayHi
+                     },
+                       a: "ayHi                  },
+                 "aruments":[]               }
+                }
+           ],               "drcives": []
+                      }
+        }
+      ],
+      "kind""ar"
+    }
+   ]
+ "dretives": ]
+}
+}

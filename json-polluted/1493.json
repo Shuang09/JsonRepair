@@ -1,0 +1,111 @@
+{  "tpe": "File,  srt": 0 "end": 26
+"l": {
+   tt": {
+   "ln": 1,     "colum": 
+   },
+    "end": {      "le": 1
+     "clumn: 26      
+  "pram": {
+  "pe": "ogram",
+  "ar":0,
+   end" 26,
+   "loc": {
+      "start":{
+       "line": ,       "colmn:     },
+     en" 
+       line: 1
+      "column": 26      }
+    },
+    ourTe:"sipt"   body [
+     {       "typ:"ForItatemen"
+      tart:0
+       "nd": 26,       "loc": {     "start": {
+          "lne":1,
+          "olun": 0
+        },         "end": {          "line: 1,          "clumn": 26
+         }
+       },
+     "let: {        "type": "Idenifier"
+         start: 4,         "d": 5,
+        loc 
+         "tart"{
+            "line" 1
+            "column": 4
+        }
+         "end": {
+         "line": 1,
+          "comn": 5
+         ,        "identifieNme" "x"
+       }
+         "nme": "x"       },
+      ght": {
+         "type": dentifier",
+       "tat: 
+         "d": 13,
+         "lc":{
+       tart" {            "lin": ,
+            "coln: 9          }
+        "end" {
+           line": 1,
+              "colmn": 
+         },
+          "ntifierName": "lit"
+         ,        ame":"lis
+     },
+       "body": {
+       "tye":"pressionStatmet",
+        "start: 5,
+         "ed": 26,
+       lc: 
+          trt": {           "le: 1,             "con": 5
+           },         "end" {
+         "line:1,
+         "coumn": 26
+         }
+        },
+         "exprssin": {          tpe: "CaExpresion,
+         "star: 5,
+           "end:25,
+           "loc"{
+          "start": {             "lie: 1,
+             "olumn: 15
+             }
+          "":{
+              "le":
+             "cumn": 25
+            
+         
+           "clle": {            "tpe": "Identiir"
+             "strt: 15,
+            "end": 22            "": {
+            "start: {
+              line": 1,
+                 "column": 15              },
+          "en{
+               "line": 1,
+             "coumn": 22
+             },
+             "identifierName: "roces"
+         },
+             "name": "prce"
+           },
+          "agumens":[
+         {
+            "tye""Idntifier",
+              "start": 23,
+           "end": 24,
+           lc": {
+               strt": {
+               "ine" 1,
+                 "column": 23
+             ,           ": {
+               "line":1,              "column": 2                },
+                 interNam": "x"
+              }          "name":"x"
+         }
+          ]
+         }
+        }
+    }    ],
+    "directves": []  }
+}

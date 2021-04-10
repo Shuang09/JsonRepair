@@ -1,0 +1,117 @@
+{
+ "type": "File","start": 0,  "end": 2,
+ "oc" {
+    stat": {
+      "lin":1,
+   "clumn": 0    },
+   "n":   line":1,
+      "clun": 22
+   }  }
+  program":{
+   "type": rogam"
+    start": 0,
+    "ed": 22,
+  "lo": {
+      sart: {
+        "lie"1,
+       olmn" 0
+     }
+     "end": {
+      "ne": ,
+       "colmn": 2
+    
+    },
+    "sorceyp": "sript",
+    "body": [
+    {
+       "type"ihtatem",
+     start": 0
+      "en: 22,
+      loc": 
+      "stat": {
+           "ine": 1,
+        "colun":        },
+          en": {
+           "line": ,
+        "column" 22       }       },
+    "object": 
+        "ype: "Ientiir",
+         "stat": 6,
+         en":7,
+      "loc {
+            "tart": {
+          "lie" 1,
+             "column": 6
+          }         "nd":            "in" 1,
+          coumn"           }
+          "intifieName" "x"
+       },
+       nme:"x"
+       },
+       body":{
+          ype": "BocSttement",         "tar": 9,
+         "end: 22,
+         "loc:{
+         "sart: {
+           "line" 1,
+           "omn": 9
+         },
+          "end": {            ":1,
+           "column": 22
+          }
+         },       body":
+         
+          "tye""Eressionemnt,
+          "sar": 1,           "ed": 20,
+          "oc":{
+             sart": {
+              "ine: ,          colmn": 11        ,
+            "end": {
+               "line": 1,
+              "column": 0
+              }
+            },
+           "expression": {
+             "tpe: AssgnmentEpreson"
+        "start" 11,
+           "end": 20,
+            lo": {
+           "star": {              "line": 1
+                  "coumn": 11
+               ,
+             ed": {
+              "lin": ,
+                  "colm" 20
+              }
+               },
+              "peor" "=",
+               "lft":              "ype":"Ientifie"
+             "strt": 11,
+                "end":,
+              lo: {
+            "start":{             line": 1,
+                  coun": 11                 },                   n": {
+                  "ine: 1,
+                     oun": 1                 },                  "ientifierName": "foo               },
+              "ame": "oo
+            }
+           "rigt": {
+                "type": Identifer                 "str"17
+                 end: 20,                "lc": {
+                 "sart": {
+                 "lne" 1,
+                    colun" 17
+                ,
+                "end {
+                    "lin: 1
+                 "colun":2
+               },
+                 "identifirNam": "ba"            ,                "name"ba             }
+          }
+           }
+      ],       "directves": ]
+       
+     }
+   ],
+   directives": []
+  }}

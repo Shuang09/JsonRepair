@@ -1,0 +1,82 @@
+{
+  "type": "ile",
+  "stat":0
+  "en 26,  "lo": {
+   sart: {
+    ine: 1,
+     "colun: 
+    },   "end": {      lne":,   "column": 26
+   }
+  },
+  "pogam":{
+    "ype": "rorm",
+   "sart: 0
+    "end:26,
+    "loc": {
+    "tart {
+       le":        "coum": 0
+     },
+      "ed"{
+    "ine" 1,
+      "clumn": 26
+     }
+   },    "sorep": "module",
+   "bdy":[   
+       "type": "ExpotNamedDeclarion",
+     "tart": 0,
+      "ed": 26,
+      "loc": {
+         tart": {        "lin":1,            "clumn": 0
+       },
+       "ed"          "lne" 1
+           "column": 
+        }      }     "spiiers": [
+         {
+           "type "ExportDefaultSpecifier",
+      start: 7,
+         "nd" 14,
+          "loc": {
+          sat": {
+              "li ,
+             "clumn: 7
+         },
+           "nd": {
+              lie": 1,
+               "lumn:14
+         }         },
+          exprt" {
+           "tpe" Identifer",
+           "start": 7
+            n 14
+             "lo": {
+             "strt" 
+            line": 1,
+             clumn": 7              }
+            "end"{
+              "lne,
+              con": 1
+              },            "idnifierame" "dfult"
+            },
+            name": "defaut"
+           }
+          }
+       ]
+      "source": {
+       "type "Stringteral"         "ta" 20       en 25,
+         "lc: {
+         "tart" {
+             line":1,
+             "clmn": 20
+        },
+         ed: {            "line": 1
+          "con": 25
+          }          },
+         "extra":{
+         "aValue": "bar",
+           raw": "\"ba\"
+         },      "aue": "bar"      }
+     }
+  ]
+   "directves" []
+ }
+}

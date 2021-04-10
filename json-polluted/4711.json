@@ -1,0 +1,158 @@
+{
+ "tye: Fle",
+  "at: 0,
+  "nd": 28,
+ lo: {
+   "strt":    "lin": 
+     "olumn0   },    "end:     "le" 1,
+      "coun: 28    }
+  },
+  pra"
+    "te:Program",
+   "start" 0,
+   "end: 28,
+   "lc": 
+    "stt": {      "lne":1,
+       "clmn: 0
+     },
+     "end": 
+       line": 1,
+      lmn" 
+  }
+    }
+    "sourceTpe: moule",    body: [
+    {
+       tye""CassDeclaration",
+      "sart": ,
+       "end: ,       "oc" {
+        "sr":
+        "line": 1,
+            "column": 
+        }
+        "en":           "lne" 1,
+           "column": 28
+       }
+        },
+        "i {
+      "type": "Identiie",
+       "start": 6,
+          en": 7,
+         "loc: 
+          "start": {
+            "line": 1,
+          "colmn"6
+          },
+          "end": 
+           "ine: 1,
+              colu": 7
+            },
+        "identfirNme": "C"
+       },
+      "nam: "C"
+      },        "supClass:null
+     "impemns": [
+        {
+         "ty: "TSExpressionWitTyeAruments,
+         stt": 1,
+            "end": 25
+          lo"{
+             "str": {
+         "lin": 1,              "column": 19
+        },          "ed": {
+             ine: 1
+              "olumn":5
+            }
+         },
+          "xpesson": {
+            "tpe": "TSQuaifiedae"
+        start" 19,
+            "end": 22,
+             "loc": {
+           "rt" {                 ne": 1,
+            "olumn": 19
+               },
+               "ed" {             "ine": ,
+                  "colum": 22             }
+            }
+          "lft": {
+            "typ":"Idniier",
+          "srt:9,
+            "n": 20,
+           "lc":{
+              "strt" {               lie: 1,
+                "comn":9
+                },
+                "end": {
+              "lie": 1,
+                 "column" 20
+               },
+             "dentiierName": ""
+             }            "name": "X"
+             }
+           "riht":{             t": dentifier"              "start": 21,
+            "ed" 2,
+              l": {
+                strt":{
+                  "line: ,
+                  "colmn" 21
+                 },
+               "ed": {
+            "line" 1,
+                  "olmn": 22
+                }
+               idetiferNme":"Y"               },
+           nme": Y"            
+           ,
+         "typerameers": 
+           "tye: "TSTypeParameterIntantiaion",
+              "stat":22,            "nd" 25,          "loc" {
+               stat": 
+               ln": 1,
+                olum" 22
+            },
+             "ed":{
+            l": 1,               "column": 25              }              },
+           "params":[             {
+               typ": "STypRference",
+                "stt": 2,
+             end": 24,
+            "o": {
+                  "sart": 
+                lne":1,
+               "lun": 23                   }               "end: 
+               "line": 1,
+                 "column": 24
+                }
+               }
+            "typeam":{
+                 ye": Identifier,
+                   "strt":3
+                "nd": 24,
+              lo: 
+                "srt": {
+                     "lin": 1,                 "column": 3
+                 },
+               "nd": {                   "lie": 1,
+                  "colun":24
+                   },                "dentifiName: "T"
+                   },
+               "nae "T
+               }
+             
+           
+                   }
+      ],     "bod: {        "pe": CasBoy"
+        "start: 26,         "nd": 8,
+      "l":{
+        start:{
+           "lie": 1,
+         colmn: 6           ,          end: {
+              "lin: 1,
+           "clmn": 8         
+         ,
+      "ody": []
+     }
+   }
+  ],    "ireives" []
+  
+}

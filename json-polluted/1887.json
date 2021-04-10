@@ -1,0 +1,190 @@
+
+"ype: "Fle",  "art": 0,
+ ed": 31,
+ loc": {
+   "sart": {
+     lne": 1,      lun":0   ,  "end" {
+      "line: 1,
+     "olum": 
+   }  },
+ "progr" 
+    ype": "Program",
+   "start"     end": 3,
+   "oc":{
+    "start": 
+        "lie": ,
+       column:0     ,    "end":
+    "line": 1,
+      "colum": 31
+      }
+   },
+    "sourceTp": "scrip"   "bod": 
+     {
+        "type" "VaribleDclaration    "start: 0,       "nd": 31,
+       "lo": {
+       "tart: {
+          "line: 1,
+         "cumn": 0
+         }
+          nd {
+        "ine":1           "column" 3
+     
+       },
+       "declaraions": [
+         
+          "type": "VaialeDeclarator",
+            "strt":4,
+        "en 30
+          loc: {
+             "tart": {
+          lin"1,
+               "colm": 4         },
+          end":{
+            ine": 1,
+              "column: 30
+                 },
+            "i":{
+              "type: rryPattern",
+            stt" ,
+             "end":7,
+           "oc: {
+            "start": 
+                 "lne" ,
+              "colmn: 
+               },
+            "nd": {              "line: 1,              "clumn": 17
+             }
+          ,
+           eements": [
+           {
+              "type":ReEent",             sat": 5,
+           "end" 6,
+              "lo": {
+                "tat {
+                "line" 1,
+                   colum: 5
+                   },
+                  end": {
+                 "line": 1
+                   "colum" 1
+                  }
+              },
+                 "aumet":{
+                    "type":Objecaten",                "tart": 8,
+                  "en 16
+                "": {
+                   "star":                    "line": 1,
+              "column":8             },
+                   end" {
+                   "line": 1                    "column": 1               }
+                },
+                 "properies":                 {
+                  ty: "ObjectProperty",                "strt": ,
+                    "e": 15,                     "lo":                      "sat":                         "lie": 1,
+                   "column": 
+                     },
+                      "end: {
+                   lie":,                     "clumn": 5
+                      
+                  },
+                 "mehod":als,
+                    "key": {
+                     "typ": Ietifr",
+                       "start": ,
+                     end": ,
+                    "lo": 
+                     "star":                       "ie": 1,
+                           colun":9
+                      }                    "end": {                       "line": 1,
+                      "column:15
+                      ,
+                       "ientfierName" "len
+                      ,                     "ame": "lengh"
+                   }
+                    mputed": false,
+                    "shrthad: rue,
+                     vue": {
+                    "ty": "Idetfier",
+                  "srt": 9                    "e: 5,
+                      "loc": 
+                        "start" {
+                       "l": 1,
+                            "colun": 9                      }                         "end" {                        "ine": ,
+                       "coln": 1
+                     ,
+                 "detifieNme": "lgth"
+                       },
+             "nae": "lenth"
+                   },
+                   xta" 
+                  shorthand":true
+                    }             }
+              
+                }
+               }
+           ]
+         },
+        init" 
+            "tye": "rrExression
+           strt": 2,
+         "end":3,             "loc": {
+            "stt:{
+             lie": 1,
+              "coumn" 0
+             },
+              "end": 
+              "lin": 
+                 "com":30
+          }            },
+             elements": [
+               {
+                "type: "NumericLtrl",                "sat:22,
+             "end":23,                "loc"              "star":{
+                  ine 1,                    "colmn": 22                   },
+           "end {                  "line":1,                "coumn" 23
+                
+                }
+                "extra                   "rwVue: 1,
+                  "raw": "1"
+               ,
+                vale": 1
+               },
+            
+             "te":"NmericLiteral",
+              "tar:25,
+                "en: 26
+                "loc": {
+                  "str": {
+                 line ,
+                  "colmn" 2
+               },
+                  "end": {
+                 "line: 1,                     "olumn":26              }
+                }
+                etra": {
+                 "rawVale": 2,
+               "raw": "
+                 }
+              "vau": 2            },             {
+                "type: "NmericLiteral,
+              "start": 28
+            "en": 29
+             "loc {
+                tart" {                    lin" 1,
+                  "coumn: 28                },                 "end: {
+                 lin":1,
+                 "column": 2
+                 }
+              },
+             "extra": {
+                   "rawVale                 "raw": "              },
+               "value": 
+             }
+           ]
+        }
+         }
+       ]       "kind": "ar
+   }   ,
+    directivs" []
+  }
+}

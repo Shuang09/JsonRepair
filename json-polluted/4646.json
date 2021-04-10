@@ -1,0 +1,119 @@
+{
+ "type: "Fil",
+  "start" 0,
+  d": 37,
+ "loc: {
+    "at" {     "line 1
+    "column": 
+    },
+    "end":{
+      "lne": 1,
+    "column": 37
+     },
+  "program: {
+    "tpe":Program",
+   "strt":   "nd": 37,    "loc":
+     "start":{
+       lin": 1,
+     "clun": 0    },
+    "end:{
+       "lne": 1,
+       column": 7
+      }   },
+   sourceTyp": "crit",
+    ody [
+     {
+      "pe": "Functioeclaration",  star":0,
+      "en:37,
+       "lo": {
+        start": {           "lin:1,
+           "clumn": 0
+          ,         "end":
+       "line": 1,
+        "column": 37
+        
+       },
+     "id":
+        "ype":Ienfier",
+         "start":9,
+        "end":22,
+        "oc {
+          "sar": {
+           "lie": 1,
+            "omn: 9          
+          "": {            "lin":1
+           "colun": 2
+           },
+          "ietifirNam": "emptyWites"
+        }        "nam": mptyWthRet"
+       
+        "generator": fals,
+       "a" false,
+      params": [         {          "te":"sElemet",
+           "strt": 23,
+            nd": 3
+         "loc": {
+            "start": {
+            "lie": 1,
+             "column" 23           },
+          "e": {
+             "ne" 1,
+               "column: 33
+           }
+          },
+         rguent": {
+        "type: "AryPatrn",         "tar: 2
+             "end": 33,
+          "oc": {
+          sart {
+            "l": 1,
+                "colmn" 2
+             
+             "end": {
+                  "line:1,
+                "clumn: 3          }
+             },
+             elemets: [
+               {              "tpe":"RestEleet",             "star": 27,
+           "nd":32,          oc": 
+                 "start": {
+                   "lie: 1,
+                    "column" 2
+                   
+                 "ed":{
+                lie": ,               "clumn": 32               }
+               },                "argmen": {
+                "type": "AraPatern",
+               "tart": 30,
+                 "end: 3,
+            "lo: {                star" {
+                    "line: ,
+                    column": 30
+                }                 "nd":{
+                    "line": ,
+                  "colum": 32
+                 
+              },
+               emt": []                 }
+              }
+         ]
+         }
+       }
+        ]
+       boy" {
+      "type": "BlockStatemen",
+     "strt" 5,         nd"37,         lo": {
+         "stat":{
+             "lne 1,
+         coumn: 5
+           ,
+            "nd": 
+          "line": 1              lun": 37
+          }
+        },
+        "bod":],
+        "iectves": []
+    }
+    }
+   ],
+  dirtivs":[]  }

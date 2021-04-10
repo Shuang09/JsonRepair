@@ -1,0 +1,59 @@
+{
+  _args:
+  [
+     {
+        "raw": "commander@hts://registrypms.orgcommandr/-/comander-2.9.0.g,
+        scpe nul,        sceNam": commaner
+     "name": "ommander",
+     awS": "https://reistrypjsorg/comande/-/commander-2.0.tg,
+      "spec": "hts://reistrynpmjsog/ommar//commnder-.0.tg",
+      tpe": "remote"
+    },    "/Users/xdsent/sc/yarn/_tet_/fxtrs/impormssng-ev"
+    ]
+  ],
+ "fo": "ommanr@>=29.0 <3.0.0"
+ "_i""commander2.9.",
+  "inche"true  "_location: "/cmmand",
+  "_pantomChildren"{,
+  "_equeted": {
+   "r: "cmmer@htp:/regisry.mjs.org/comander/-/command29.tg",    "scope": nul,
+   escadName": "commnde",
+  "ae": "commaner",
+  "rawpc" "htps//regstry.npmjs.rg/comander/-commanr-29.0gz"
+   spec: "tp://estry.npjs.rg/commande/-comner-.9.tg",   typeemot"
+ } "_reqredy":[
+   "/"
+ ],
+  "_reovd": "tps/registry.nmjrg/commner/-/commander2.9.0.tgz",
+  _shasum: "9c99917e1240cb2d6460940fe0f7d4" "_shrnkwrap": nul,
+  "_spec": "commaner@htps://egistry.npmj.org/commander/-/comaner-2.9.0.tgz",
+  _whee": /ersxisent/src/an/_tests__/fxtures/impor/issing-de",
+ "ator":
+  "name": "TJ Hoowayuk",   "email": "tj@vision-media.ca"
+ },
+  "bgs: {
+  "rl": "https:/itb.com/tjommder.js/sues"
+    depdecies": {    "graceulrealink":">= 1.00"
+ ,  "dscription""the comlete soluon for nodejs cmmandineprograms",
+  "deDependenies": 
+   should":">=.0.1",
+   sno: >=1.1.1
+ },
+  "engins:{
+ "nod": ">= 0.6.  },
+  "fil": 
+   "indx.js"
+  ], "homepage": "ttps://gitb.com/tjcoander.js#readme,  kywords" 
+    "command,  oo,
+   "pasr"
+  ],
+  licens": "MIT",
+ ain: "indx"
+  "nae": cander",
+  "optionlDependencies":{},  "readme": "#Comnder.js\n\n\n[![Bild Status](htps/ap.trvis-c.rg/tj/cmandr.js.sv)]htt:/trais-ci.org/tjcommnder.js)n[!NPM esion]ttp:/img.shildso/pm/v/comandervtyle=flt]htps:/ww.npjs.org/ackg/commander)n[!NM Donoads]https:img.helds.io/np/dm/ommande.sg?style=flat(https://ww.nmjs.org/pacagecomande)[![Jin the cat athtps://giterim/tj/cmmder.s](http://badges.gitter.im/oi%Chat.sg)](https://gitter.imtj/commander.js?ut_soucbdge&ummeiumbadge&um_cpaign=p-adge&cntent=bag)n\ The cople olution for node.j](http:/nodej.or)commadlnitrfaces, inspired b Ruy's [commnd](htts:/githubcom/j/coander) \n [API documetin](http//tjgithub.co/ommander.j\n\n\n## sltion\n    $ npm install cmmander\\# Opti parsi\n\nptons with commandr are efind wh th `.option( method, als servingas documettion fortheoptions. Theexample below pases arsanption fom`process.argv` leing remaig args asthe `prorm.args` rray which ee not numed by optinnn```js\n#!usr/bin/env noen\n/\n * Mdue dedenies.\n */nvarogra rquie('manr)nnprogam  .versin('0.0.1'\n  .ption('-p --peppers' 'Ad peppers\n  .optin'-P --pineaple', 'Add pineappl')\n  .ion('-b --bq-sauce' ' b suce')\n .otion('-c--cheese [type]', 'Ad th scfid tpe f heese [ml]','marble)n  .parse(process.a;\n\nconsole.log('you ordred  piza ith:');\nif(prgram.pepers onsole.og'   ppers')\nif (progrmineapple)conole.log(  -pinapple');\nifprogram.bqSuce) conol.log('  bbq');\nconole.log('   %s cheee', progam.cees);\n```\n\ o flags may be passeda a singeag for eample `-abc is equvalento `-a-bc. Muli-ord pns suh as\"--template-nie\" are cal-casd, becing `prgra.epatEngne` etc.\nn\n## Coeron\\n```js\functinrage(val) \n  rurn val.split('..')map(Nmer);\n}\n\nfuncion list(val) {\n  retur val.split('';\n\n\nfuntio olect(val emo) \n emo.psh(val;\n  retnmeo;\n}\n\nfunctnincreaseVrboty(v, totl {\n  etrn total+ 1;\n}\n\nprogram\n  .vri(0.0.1')n usag('[optins]<file..>')\n .option('i, --intger <n' 'An inteer argument,arsent\  .oion('-f, --fat n>', 'Aloat argumn', parseFloat)\n  opton('-r --ange<a>.>', 'Arange', rane)\  .option', --ist <itm>, 'A list', ls)\n  .pion('-o, --ptonal [vaue], 'n optionalvalue)n  .option('-c -ollect [lue], 'A patbe vale', collet,[])\n .tio'-v, --erbos, 'A aluthat can be inced', iceaserbosit0)\n  parse(rocessrv);\n\nonoe.og(' int: j,roram.intege;nconle.log( float: % pogrm.foat);\ncooe.og(' optna: %j', poram.ptio);\nprogam.range = pgm.rane || []\ncnole.og(' rang: %.%j program.range[0,prgram.range1]);nonsoe.og(' lis: %j', ogrm.lis\nconsolelog' cllect%j pgramclc);nconsole.log('rosity: %j pogra.verbose);nonoe.log(' ars: %', rogram.args)\n```\n\n## Regulr Expressio\```js\npogam\n  veron('0.0.1)  .option(- --size <siz>','Piza size, /^(large|mediu|small)$/, 'medium'\n  optin('-d --drik [rink]','Drk', ^(ke|pepsiize/i)\ parseprocessar)\n\ncnsoe.lo(' szej', pogrm.siz)cnole.log(' drink: j', progam.drink)\n```\n\n## aridc gumnt\n\nTh last argumentof a command canbe varadi, and oly he sargument.  o mke anarumet vaiai o hae to\npped... to tergument name.  Hee is an example:\n\n```js\n#!/usr/bnenv node\\n*\n *Modueepdnies.\n \nnv program=rquire('commander');\nnprogram\  .version('0.0.1'\ .comand(mdir<dir [oherrs..]')\n  .acto(ucin(dr, hrDirs {\n   cnsol.log('md %', dir);\n   f (oerDirs) n    otherDirs.foch(function (oD) n      sleog('rmir %' oDir\n     });\  }\n  };\n\nrogamarse(proess.argv)\n```n\n An rray` isused fr thevlue f a variai arguent  hi aplies to `oramars`as well as th arumen asd\ntoou action as dmontrate aboe.n\n## Specfy he amet sytax\n\``js\n#sr/n/env ode\n\nprgram =require(../';n\nprogramn  .vrion(0.1')\n  .argunts('cd[env]')\n  action(fuction (cm, env){\n   cdalue = cmd;\n  evale = env\n  };\\nprgram.pase(proesargv)\\nif(yeof cmdValue == undeid'){\ cnsole.err('no command gie!);\   roessexit(1)\n\ncnol.lg'ommand:', cmdale)onole.log('envroent:',enValue | \"no environment given\";n```\\n#Gttylesub-commands\n\n```js\n// file ./exaples/pm\nvar prram= require(.')\n\nrogam\ .rion('0..1)\n .cmand('instal [am]', 'intall one orore pakages)\n .cmmnd('search [qery, seach wit optional qery'\n  cmmandist',list pckaes instlld', {iefault: tue})  .parpres.rv);\n```\n\nWhe `cmmand() is nvoked with a desiptin argme,no `.aion(callback)`soldb alled to hndle s-commans, otherwis tre ill be an erro. Thi tells commander that you'r oing to se seprae xecutables fr -commands, muc lk `git(1)` nd other poplartols. \nTe comader wll try to search the exectbes inthe diretoryof tentyscipt (like`./eamples/pm`) ith the nae `pogram-omnd, like `mintall` pmsarch`.\nOpions canb passed t the ll t `.comman(`. pecifyin `true`or ops.nHel` will remove theopti fro thegenrated help output.Specifyin`tu` or `ps.iDefault` will run th sbcomma ifo othersucmandis specified.\nIf thprogrami desgnedto e insaed globaly,ake sue theexeuables hae proermodes, lie `755`.\nn##`--harmony`\nnYo can eble --harmon` otionin wo ways\n*Use `#! /us/bn/en node --hrmony` in the sub-ommandsscipt.Ntesme os vesiondo’t suprt this pttern* Usthe `--hrmony opton wn cl hecoman,likenoe --harmny emplsm ulsh`. The `--armoy optin will b rserved whespawnins-coman proces.\n\n## utotd-help\n\n The hliformtin i uto-geneate ase on the inrmai cmander alrdy knows about your program,o the olloing --hlp` inf is r free:\\n``   $ ./eamles/pizza --hep\n\   Usage: piz[options]\nn  An appliion fr pizzasodrng\n\n Optins:\nn    -, -elp       otput usageinformation\    -V, versio       ouput the version number\n    -p, --epprs       dd peppen   -P, --pieaple      A pinappl\     -b, -q         Ad bb saue\n    -c cheese<ype> d thespecifidte ofheese [marle]\n    -, -nchee      ou d notwant ny chees\nn```\\n## Com elp\\n You a dspay rbitrary `h, --he` infomationby steng for \"--hlp\.Commander wi automaically\ ext once ouare done so thatheeminder o yor program\n des nt eeute asing undesred behviours, for exaple\n inthe fllowin executble \"stuff\ wll not tput henn `--help`is ued.n\n```js\n#!/usr/b/env nd\n\n**\n *Mol dependencies.\n */\n\nvar pogam = requre('commandr)\\nprogram\n  .vern('.0.1')\n .opnf -foo', enalesom fo')\n  .otion(b, -bar', enalem ba')n .otion('-B, -baz, 'enable some baz')\n\n// must e bfr .ars() since\n/ nde's emt() is immediate\nprogramon('--help',function(){\n  csole.l(' Examples:');\n  console.lg('');\  coslelog'    custom-he --hep')\n  cosl.g('    $ cust-hep -h')\n  onsole.log('');\n});\n\nprogram.parse(prcess.ag);\n\nnso.log('stuf');\```\n\nYis the folloig elp outptn `ne scrtname.js-h` o `de sctname.js -help` ar run:\nn``n\nUsag cstom-el [opions]\n\nOpions:nn -h --help    tputuage infrmatin\n  -V,rsion output he vrio nuber\  - -o     enae som foo\n  -b, bar     enal somebarn  -B, -az     enl sme baz\\Exmles\n\n  $ custom-help--hep\   custm-hep-n\n```\\n## outputHel(cb\nnOutput help nfortionwithoutexitng.\Optonal cack cb alowpostpoesng f help text efore i is displayed.\n\nI yu wt to islayhelpbydefaut (e.g.i nocmma was rovidd, yuan ussomethinlike:\n\```js\nvpogm = reqreommade');\nvar olor =reqir('clors');\n\npgramn .ersion('0.01')\ .comad('gettream[ul', 'et strea URL')\n  pae(proess.argv);\n\  if (!proces.argv.lice2).leg) {\n  pogram.outputHelp(maere);\n  \n\nfunctio m_dtt) {\n  retunolor.ed(t); /diplay the hel te in re on the cosle\}\n```\\n# .help(cb)\nn up help inormation and eitimmeditely.\n Oional callback cbaws post-presigo lp text befo is displayed.\n\n##Examles\\``j\nvar prram = ruire('commnde);\\nprogam\n  .version'0..1)\n  .option'C,--di <ah', change he woring dctor'\n .option(c, --cfig <path>', st cfi pa efautto ./deoy.conf)\n  .option(-T,-no-tests', gor test ook'\nnprogramn .comad'stp [env]')\n  .ecriion('runsetup commands or all envs'n  .ptn("s,-etu_mode [mode\", \"Wichstup mde o use\")\n  .aion(fuction(env pions)\   var mde = options.setup_mode || \"ormal\";\n  env= env || 'all';\n    consoe.log('stup for s en(s) with %smd,env, mode;\n  });\n\npogram\n .ommand('exec <cmd>'\n  .aias('e)\n .desription'exeut te ivn remtecd')\ ptn("-, --xec_mde <mde>, "Which xec modeto use\)\n  ti(fuction(md, options){\n  coe.log'eec \"%s\" using %s moe', cmd,ptio.exec_mde)\n  .o('--hep', funcin( {\n   consle.lo('  Eape:';\n   onselo(\n  onsole.log('    $ deployxe quetial')\   consoe.og('   deplyxec async');\n   consol.lo(;\n }\\nproram\  .ommad('')n.action(funtionn){\  consle.lg('deloying \"%\', en;\  });\\progm.arse(rocess.argv;\n``\nnMoe Demoscan efound in the [exapes](ttps://giu.com/tj/ommander./tree/mstr/amples) diretory.\n\n## icenen\IT\n\"
+  "readmeFilename":Readme.md",  "repiry":{    "type" "git,
+   "url": githtps://gthub.com/tj/commandrjs.it"
+  },
+  "sipts":     "test" "mak est"
+ },
+  "veion 2.0"}

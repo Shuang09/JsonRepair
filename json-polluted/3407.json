@@ -1,0 +1,88 @@
+{
+  type" "File",  "start" 0
+  end" 2,
+  "loc": 
+   ar": {     "ln"1,    "colun": 0 },
+  "end":{
+     "lin: 1,   "clum": 22   }
+ },  "progam" {   "type" "ogram
+  "sart"0,
+    n": 22
+    "oc": {      "sat:{
+       "line": 1,
+       "column:0
+     }
+   "nd": {       "line": ,
+      "clum": 2
+     
+   },
+  "sourcType":srip",
+    "boy": [     {
+      "ype": "oWhltatemen
+     "star": ,
+    "d" 22,
+        lc": 
+        "star": {
+        "lie": 1,
+         "clumn": 0
+         },
+          "end: {
+          "lie": ,
+         "column: 2      
+        },
+      "bod: {
+         "type": "ExrssionStatnt",
+          "sart": 3,
+        "n": 10,
+        "c": 
+           "star": {         "lin: ,             "coum: 3
+           },         end": {            "ine":1,
+         "olumn": 10
+          }
+        ,         "exresion" {
+          "type: "lxpreson",
+            stat":
+        "end": 9         c": {
+             "tart": {
+           lie: 1,
+             "colum": 3
+              },
+           "end":{
+            "ne":1,
+            "lumn":9
+            }
+        }
+        "callee {
+           "ype:"Identiier",
+           "tt": 3,
+             "end": ,
+             lc": {
+             "tart" {
+             "le":
+             "coln" 
+            },
+             "end"{              line": 1,              "colmn: 7
+          }
+             "identifierNam": hat"            }
+          "name": "ht"
+          ,
+         "arumnts": 
+        }
+       },
+        "tet":{
+        type": "BooleanLiteral",
+       "srt": 17          "end": 21,
+       "loc": {
+           "strt": {
+            "lne": 1,
+         "column: 17
+         },          "ed": {
+            ine: 
+            column": 21
+          }
+        },          "vlue": ue
+      }    }
+    ],
+    "direcivs": []
+  }
+}

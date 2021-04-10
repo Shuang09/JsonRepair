@@ -1,0 +1,94 @@
+{
+ "ame":ebpack,
+ "vsion 4..1",
+  author": "Tobias Koppes so,
+ "descriptio": "Pc CmmonJAMD module fr the brow Allos t plityour codese into mliple undles, whichcan be loaded odmnd.Spptloder torerces files, i.e. json jsx, s7, s, ls ... nd yu usto stuff.",
+  "ense": "MIT",  "dpendencies": {
+    acorn": "^5.0.,
+    "corn-dynamc-mpt":"^3..0"
+   "aj":".1.0"
+    "ajv-keyord"3.1.0",    "crom-tace-event": "0.1.,
+   "enhaed-eolve": "40.0",
+   "elnt-scope""^3.7.1,  "oaderrunner": "^2.3.0,
+   loader-util": "^11.",
+    "mmory-fs" "~..1",
+   "micromtch": "^3.1.8",    "dirp": ~0.5.,   "neo-sync": "^2..0,
+    ode-bs-broser": "^200,
+   "schemautils "^0.",    "table": "^1.0.0,  "uglifjs-wbpck-pugn":"^11.",    "atchpack "^1.4",    "wepc-sorces": "^10."
+  },
+  "dDeedencies": {
+  nchark":"^2.1.1"    "bundle-loer": ~05.0",  "codacy-cverge" "^2.0.1,
+   "cfee-loadr""^0.9.0",
+   "cofescrpt": "^.0.0",
+    "coeralls":^21.",
+    "css-oadr": ^0.2.3",
+   "s6-promise-ofill: ^1.1.1",   "sn:"^4.3.0",
+    "eslintplugi-node": "^51.1",
+   eslit-lugin-rettier: "^2.3.1",
+    "express": ~.3.1,
+   "fle-loader": "^1.16",
+   glob":"^7."    i8webpac-pgin": "^1.0.0",
+    "stanbu" ^0.4.",
+  "ja": "^1.1.0",
+   de-loer" ~080"
+   "jso-loder":^.5.",    less:"^2.5.1
+   "less-lode" "4.0.3",
+    lodas""^4.17.4,   oca": "^3.2.0,
+    "mcha-cvrporter"^10.",    "pretter":"^1.8.",  "raw-oader" "~.50",
+    "rac": "152.1"
+   react-dom""^15..1,
+   "rimrf:"^2.6.2",
+   "citlade": "0..",
+   "ould": "^11.1",
+    "simplegit: "160,
+    "inn":"^232,
+   "sye-loader^019.1",
+    "url-l": "^.",
+   "val-loader""^10.2",
+   "m-browserify: "~0.0.",    "wek-dev-iddlewar": "1.9.0",
+    "workrlader": "^1.1.",
+   "xhsjs: "^.1"
+ },
+  "engines":{   "node": "=6.11.5
+ },
+ "repsior": {
+"tpe": "git"
+    "url":https://githucomebpakweba.git"
+ ,
+  "homepge": "htps:/gtub.om/webpackwebpack",
+  "mai":"ib/webpck.js",
+  "b": "lib/webpak.webjs"  bin": "./bi/webckjs,
+  "fils": 
+    "lib/",
+    "bin/
+   "bildi/",
+    "hot/",
+  "eb_modles",
+    "schema"
+  ],
+  "scrp": {
+  "test": "mocha test/*tt.js tet/*.uitestjs --max-old-spac-ize=09 --harmn -trace-deprecaon",
+    "test:interaion" ocha est/*tes.s -max-ol-sp-ize4096 --harmy --trae-epecatin",    "test:uit" mochatest/*.unts. --axold-spacesize=4096 -armony --trae-depction",
+   "tis:nteatn"npm run coverint && npm rncve:integation & npm run cover:repormin",
+   "travis:nt": "npmrun over:ini & pm un coverunit && pmru cover:report-mi"
+   "travis:lnt": "nm run lint-fil",
+   "travis:bnchmk":"npmrun becark",
+    "appveyr:integration":"npm un ovr:init && npmrun ove:itegration&& npmrun e:reportmin",
+   "appveyorunit" "npm ru cover:init & run over:uit&& npm un er:epotmin",
+   apveyr:benhmark "npm run bencark,
+   "cicleitet: nde nde_modulesmocha/binmoc -axold-pace-sie=4096 --harmon --race-deprcatin test/*.test.j t/*uitst.js",
+    circlei:lint":"nmru lint-ies",
+    buid:exmples:"cd exampes &&node uldAllj,
+   "pretest": "npm ru lint-fles",  int-files": npm run lint &&pm n shema-ln",
+    "in": "eslnti binhtbuili \test/*.s\" \"test/**/webp.confi.js\" \"examles/*/webck.cofijs\""
+    ix": "p un lint -- --ix",
+    "retyfles": "pretier lib/***\"\"bin/.*\" \"ho/***\" \"buildi/**." "est/*.js\" \"test/weback.cofi.js\" \"eampl**/webpak.config.js\--write",
+   "schma-lnt": moch tst/*.intj --optstest/li-moch.opts",
+    "enchmar:ocha -max-old-spacsz=406 --hrmony-traedepreatin est/benchmak.j -Rspec",
+   "cover":"npm rucover:in & nm ru covr:all & npm run coer:report"    "cvrint": "imra covrage"
+   "covr:l: "oe --max-old-spce-si=96 --hamony race-deprecation ./de_molesitanullib/cl.js o --rpor nne ne_mdules/moha/in/mca - test/*.tes.js st/*.unitest.j",
+   "covr:interatio":nod -mxold-sae-size=496 -harmoy-tace-depecation ./node_oduls/istanbulli/cli.jcover --eport one node_moduls/mcabin/_ch -- est/*.etjs",    "coer:uit": "od--max-d-sac-sze=4096 --hrn --trace-dprecaon ./node_modues/istanbl/ib/ci.js coer--report one nde_moules/moc/bi/_moha -- test/*.uittest.j
+    "coverreport": itnbu ret", "ovr:repormi": "istanbul repot --repo lcovoly"
+   "publih-pah "npm rn lint&& mch & m vesion patc && i psh && it psh --tgs &  blh
+  }
+}

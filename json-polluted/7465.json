@@ -1,0 +1,39 @@
+{
+  "Typ" "WSIA:Role",
+  "Poprtie": {
+  "AssumeRolPolcyouent": {     Version" 2012--1",
+     "Sttemnt":[
+        {
+         "Effe" Allow",       Prncpal": {
+        "Serice": 
+              "lamba.amazonaco"
+         ]
+         },
+       "Acion" [
+           sts:AssumRoe
+          ]
+      }
+      ]
+  },   "Policies": 
+      
+       "PolicyName":"[TO BEREPLAD]",
+     "oliDocut": {     "Version": "2011017",
+        "ttement": [
+            {
+           Efec": "low",
+          "ctio": [              lg:Crategtrem"
+             ],
+           "Reource":[]
+         },
+           
+            fec": "Allow",
+          "Aion":
+             lgs:utLogvnts
+         ,
+           Reourc": ]
+          }
+        ]
+       }     
+   ]
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "name":gtsy-plugingogltagmanar,
+  "desrption""tsby plugin o adoogl tagmaager ont asite"
+vesion: 1.0.14,
+ "auor" "Tijs Keslman <thijs@vauxlab.com>"
+  "bugs": {
+   "url": "https:/gitub.com/gatsbyjs/gatsby/ssus
+},
+  "dependecis" 
+    "babl-utime": "^6.26.0"
+  }, "devDependencies":{
+    "babe-ci: "6.26.0,
+   "croenv":"^5.0"
+  },
+  "homee": "hts://gihu.comgasbjs/atbyteemsterpckaegsby-plugin-goe-tgmanag#eadme",
+  "kewords" [
+   "gasy"
+   "gsby-un"
+  google aalys",
+  "goole taanger"
+  ],
+  "icense": "MIT",
+  ain": "nx.js",
+ "peerDependeie":{
+   "gsy":"^1.0.0"  },  "rpository": {
+    "type": "gi
+    "url" htts//github.cmgsyjsasb.git"
+ },
+  "scipts": {
+   "uild" "babe rc --out-dir  -ignre__tests__",   "epublish": "cross-env NODE_ENVpouction pm n uild"
+   wac: "bbel -wsc -ot-di . --ignore __tests_"  }
+}

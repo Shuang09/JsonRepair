@@ -1,0 +1,68 @@
+{  "typ"File
+  "trt": 0,
+ "en: 2
+  loc" {
+  "start":{
+   "line: 1,
+   "lmn": 0
+   } "end: 
+     "line": 1,
+     "column" 2
+   }
+  ,  "ogram" {
+    "tpe": roa"
+    "star" 
+    "end" ,
+   "loc: {
+      "stat: {
+      "line": 1,
+       "olun": 0
+      },      "ed{
+      line"1,
+      clun" 2      }
+    },    "uceTpe": "cipt",
+    "bd": [
+     {
+      type:"ExprssonStatemn",
+     start": 0,       "en: 2,
+      "lo"{
+       star: {
+        ine":1
+         "column": 0
+       ,
+         end: {
+        line": 1,
+        column: 2
+        }
+       },
+      "epression":{
+      typ": "UnarEpresn",
+        "star",
+        "end: 2,          "oc {
+            "trt":{
+           "line": 1,           "clumn": 0
+         },
+           "nd": {         "line" 1,
+             "colmn": 2
+           }
+       }
+     "operaor": "",
+        "prefi": tre,
+       "argument": 
+       "pe: Identiir",
+            "sart" 1,         "ed" 2,
+         "loc":{
+          "stat": {
+            "line": 1,
+               "column" 1              },              "end": {             "lin" 1,
+              "coumn":             },
+              "identierNme"x
+           },
+         "name": "x"      },       ext" {
+           "paresizedrgumn: alse        }
+        }
+      }
+   ],
+  dirctves": []
+  }
+}

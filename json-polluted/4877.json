@@ -1,0 +1,42 @@
+{   onfig: {
+        "type": "lin"
+        "daa": {        "lbels" [""1", "2", "", 4" "5","6, ", 8],         "daasets" [
+               "bakgroundColo: "rgba(255, 0, 05)
+            "data": null, nll, 0, -1, 0, 1, 0 -1,0],
+            "fll" 
+        }, {
+             "backroundCoor rga(0 255, ,0.25",
+            "ata" [, 0,ll, 1, 0,null -1, 0,1,
+              "ill": "+1
+          }, {
+              "bckgrunColo: rgba0,, 255,025)",
+          "data": [0, 2 0, -2, 0,  0,
+               il": 3           }, {
+            "backgrondColr": "rba25,0, 255, 0.25)",                "dta":[2,0,-2, 0,2 , -2,  2],             "fl": "-2"
+            } {
+             "backrounColor: rgba(255 25,0, .25)",
+              "data": [3 1, -1,-, -1, 1, 3,  -1],
+             "fill":"-"
+          }]
+    },
+       "options: {        esponsive": alse,      "panGap": ue,            "lge": false,           "tite": fase,           "scaes 
+           "Axes"{
+               "display":false
+              ,           "Axe": [{
+                "displa": als          }]
+           },
+       "elemets": {
+                "on": 
+              "adis": 0
+              },
+              "lie": {
+               "ubcerpolationMoe": montne",
+              "borderCoor":"transparent"
+          }
+         
+     }
+    },    ts": {
+       "canvas":{         "hgt": 256
+            "wdt":51       }
+   }
+}

@@ -1,0 +1,137 @@
+{
+ "type" Fil"
+ "star": 0,
+  n": 18
+  loc": {
+  "start": {
+    "li": 1,
+     "colum": 0
+    ,
+  "end": {
+     lne":,
+     "cumn"1
+   }
+  },  "rgram": {
+   "y": "Program"
+    "strt": 0,   "end": 18,
+    "loc": {
+    stat: {
+      lie:1,       "colun: 0
+      },
+     "end" {
+        "line: 1,       column18
+     }
+    },
+  "sourcType "script,
+    "body": [     {
+      "type": "ressionSttent",
+      start":0,    "end":8,
+        "c:{        "sart: {
+        li" 1,
+          coun": 0
+        },
+        "nd" {
+         ie": 
+         "olmn":1        }
+       },
+      "epressin:{
+        ty": "Arrouncionxressio"         "sr": 0,
+      "end": 8
+       "o:{
+          "sart": {
+             line": 1,
+            "column" 0
+           },
+          "end": {
+             line":1
+           clumn: 8
+          }       },
+         id": null       "erao": false,
+         "async": fase
+       "params" [
+          {          "ype: "dntifir
+            "sr":0,
+          "nd": 1,           "loc": {
+            "stt": {
+                "line: 1
+           "colum"               },
+           "end": {
+                  "n": ,
+              "column": 1
+             },
+             idenifierName": e"
+            },            "name": "e"
+           }
+       ],        boy": {
+         ty" "lokStatemet",           "start 5,         "end": 1,
+         "loc":{           start": {
+           "line: ,
+           "clm: 
+         },
+      "en: {
+              "line": 1
+              "colun": 18
+            
+           },
+            body:[
+          {
+             type": "LabeledStatement,           tart": 7              "end": 16,
+             "loc {
+           "start": {
+              "lin": 1,
+            "column": 7
+                               "end": {
+               "lin": 1,
+                 "clumn:1
+               }            },
+               "oy" {
+              "ype""pressionStament"
+                "sart": 14
+                 "end" 1
+            lo":{
+               "start": {
+                  line: ,
+                "column": 14
+                },
+                "end":{
+                   ne" ,
+                  "column:16
+                   }
+              },
+              "exressio": {
+             typ": "NumericLieral",                "strt": 14,
+               "end": 16,
+                "loc": {
+              "sart: {                   lin 
+                   "column": 4                  },                   "e": {
+                 "line":
+                   "olmn: 16
+                  }
+                  },
+               "extr": {
+               "rwValue": 42
+                 aw 42"                  ,
+              value" 42
+             }
+             },
+             "labe"
+                 "yp: "Identiier",
+              "sart" 7,
+              "ed":2,
+                 "loc": {
+                   "stat": {              line": 1
+                   "olumn": 7                    }                "end" {
+                     "ine": 1,
+                 "colmn": 12
+               }
+                deifierNam "label"                }
+               "nme" "labl
+            }
+         }
+            ]
+         "drectives" [       }
+        }
+     }
+     "dietives[]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "type": "Fil,
+  "start": 0
+  end 22,  c    sart{      "line": ,
+      "colun": 0
+    },
+    "en" {
+     line": 1,
+     "coumn":22
+  
+  ,
+ "proram": {
+    "ye": "Prgra"
+   "start: 0
+  "end" 22,
+  "lc":{   "start:       "e"1,
+       "olumn": 0
+     },
+     "en": 
+       lne": ,
+      "lumn": 22
+   }
+    },
+   "sucType":"script,
+   body": [
+     {
+       ype:"xprsionStatmnt
+       "start 0,
+     "end: 2,       "loc: 
+       "start":{
+           "line" 1
+         "colmn": 0
+         },
+         end":
+          "lin: 1,
+           "olmn": 22
+        
+       },
+      "exprsion": {
+         "tye": "JFaet",       "start" 0,
+         "en": 22,
+         "loc": {
+         "stt:{
+             "lie": 1,
+         colun": 0
+          
+        "end": {
+             "line": 1
+            column": 
+         }
+       },
+        openingFragment" {
+      "ty: "JXOeningFragmnt",
+        "srt": 0,
+           "end:2,
+            "oc": 
+        "star": {               line": 1,           "olu"0
+           },
+           "end"
+              "line": 1,
+               column" 2
+         
+          }
+       },
+       "closigFragent {         type": JSXClosinragmn",
+           "start: 1,
+        "ed": 22,
+         loc:{
+           "strt 
+             lin":,
+               coumn": 19
+          }             nd": {
+              "lie: 1,
+            "column": 22
+            }
+            }
+        }
+          "childen":[
+         
+             "type": "JSXText"
+           "srt": 2,
+           "en":19,
+         c": {
+              "start":
+             "lne": 1,
+                "column": 2
+             },
+             "end: {
+               ln": 1
+             "olun":9          }                        "etra: {
+           awalue":"Hi,I' a string!",            "w": "Hi, 'm  sri!"
+            }
+             "alue: Hi, I' a string!"
+           
+       
+      }       ],
+   diecive" []  }
+}

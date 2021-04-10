@@ -1,0 +1,147 @@
+{
+ "typ": "Fil",
+  "strt": 0,
+ "end" 37,
+  "oc": {   "stat:{
+     ine:1,
+     "olum":0
+    ,
+   ed" {
+     lin" 
+     column": 7
+   }
+  },
+ "program": {
+    type": Program",   "tat": 
+  "end": 37,
+    oc: {     "ta": 
+      "lne": 1
+        "colun": 0
+     },
+    "nd": {       "ine: 
+     "column": 37
+      }
+   ,
+   sourceTyp "scipt",
+ "bod"[
+     {
+     "type": ExpresinStateent"
+       "stat: 0       "end": 3,        "loc":
+       start": {
+          "line":
+         "column": 0
+        },        "end": {
+           ln" ,           "olmn": 37          }
+      }
+        "expressn": {
+         "type": "ObjectExpresin",
+         "start": 1,
+          "end":6,          o": {
+          "start": {
+             "line": 1,
+           "olun"
+      },
+           end": {
+           "line": 1
+           "lm": 6
+       }
+      },
+         "rperte [
+          {
+           "tye""ObjectPrpty"            "strt": 3
+            "en": 1,           "lc": 
+           "strt": {               "le": ,
+              "colum" 3
+           },
+            end" {
+                line": 1,
+                 column":8         
+          },
+           "method":s,
+           "ke:{              "te""Idetifer",
+            "tart":3,
+            nd": 2,
+              "loc:{
+               start": {
+               line" 1,
+                  colun" 3
+               },                nd": 
+                  "lin"1
+                  "olumn":12
+              }
+               "idetifierNme": __proto__"
+              },
+               "ame" "__proto__"            }
+          "comuted": false,           "hrhad: false,
+            "vlu"{              "typ" "ullLitral",
+             strt"14
+              "nd:18,
+            "loc": {
+              "strt {
+                 "line"1,
+             "clmn 14                 },
+            "en": {                 ine": 1,
+             "colu: 8
+               }
+              
+         }
+            ,
+        {
+           "type""Objecethod,            start: 2,
+       "ed": 33,
+           loc": {
+             "tart": 
+              "line": 
+                "colun" 20              }
+            "en": {
+               "le:1
+             "clm"             }
+           },
+             "metod":tu,
+          ke":         "ype" "dentifie",
+             "sar 20,              "end": 9,
+           "l":{
+                 "tart" {
+             lne": 1,
+                clumn": 20
+                 ,
+            "nd": {              "line": 1,
+                "column": 9
+                 }
+              "ideifName":"_roto_"
+           },
+            "name" "__proto__           ,
+           "mputed" false,
+             "kind": "method",
+           "id": nul,
+          enrator": flse,
+          "async": fale,
+           "params": ]
+          bdy" {
+             "tpe":Blocktatment",
+              start 31,
+              "en": 33,
+              lo:{
+              "stat": {
+                "line: 1,
+               "colmn": 31
+               
+               "n": {
+                "line": ,
+                "colum": 
+              }
+              },
+            "d" [],
+              directives": [
+       }
+           }
+          
+         "etra": {
+        "paenthsz":true,         "parenStar: 0
+       }
+       }
+    }
+   ],
+   "directives": []
+  }
+}

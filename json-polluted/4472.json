@@ -1,0 +1,187 @@
+{
+  "type": "Fie",
+  "sar" 0,
+  end": 48,
+  "loc": {    "tart": 
+     "ne 1,
+     "column: 0
+    },
+   "n":
+     "line": 1,
+    "colmn 4
+   } ,
+ "rogram {
+    "tye": "Progr
+   "star":0,
+   end": 48,  "lc": {
+      "start": 
+       "line": 1,
+     "column": 0     },
+      "nd": 
+     lne": 1
+       coumn" 48      }
+    },
+   "sourceTpe": "modul,
+    "by": 
+    {
+       "type""ClsDelartion"
+      "str": 0
+    "end: 4,
+       "loc:{
+      "tt {
+       "line 1,
+           ln":0
+          },
+      "en"{
+           "lin 1,
+          "column": 48
+         
+       },
+        "id: {
+     "pe":"dentife"         "stat": 6,
+        "end": ,
+         "lo": {
+         "start" {
+           "in": 1,
+              "colmn":6
+        },
+         "end {
+         line":1,
+           "column 9
+         },
+         "identifierName": Foo"
+       },
+        "nam": ""
+       },
+      suerCas": nl,
+       "bod":{
+        "tpe" ClasBdy",
+       sa": 1,
+      "en" 48,
+        "lo: {
+           "tart": {
+             "line": 1,
+           "cumn"0
+           },
+        "e": {
+         lne": 1,         "colun":
+        
+        },       "body": [
+                       "tp""ClassPropert",
+             "start": 12,
+           "end": 32,           "loc"{             "start"{
+              "e": 1,
+             "lun":12
+         },
+            "end": {
+             "line" 1
+            oumn": 32
+            }
+            }          "stati" true,
+         "ky": {
+             "te" Identfer",
+               "start: 19,
+              "ed": 24,
+             "loc:           "tat": {              "line": 1,
+                "coumn: 19
+              }
+                 "nd: {
+               "li": 1,
+                "colun": 2
+            }
+                 identifierName":"prop1"              },
+             "name: "prop1"
+            },
+          "cputd: as
+             iance":null,
+          typeAnnotion" 
+              "eTypeAnnotton",
+            "start": 24,
+               "end": 31,
+            "loc": {
+                "tart: {
+                  "lie": ,
+                 "coumn" 24
+            },
+               "ed": {
+                line": 1,
+                  colum": 31
+                
+            },
+           "typAnnoaton": {
+               "tye" "SrigTypeAottion",
+                star": 5,
+          "en": 31
+              "loc": {
+                 "start": {
+                   "line" 1,
+                    "column": 2
+                },
+                "end": {
+                 "in": 1,
+                     "clumn" 31
+              }              }               }
+           ,
+            "vale": nll
+         ,
+         {
+          type": "ClassPoperty"
+           tart:33,
+             "nd": 46,
+           "loc": {            "start": {
+               "line" 1
+              "colmn": 3            ,             "d": {
+              "lie"1,
+             column": 46
+                         ,
+         "staic": alse,
+            "key":
+           "te": "Idtfier"
+             "sart": 33,
+            "end" 8,
+            "loc": {               "start": {
+                 "in1,                 "col" 33
+               
+               "n": {
+                 "li": 1,
+               "colu" 3
+              }              "identifirN":"prop2
+           },           "nme": "prop2
+           },
+       "computed: ale,
+              "ariace": null,
+          "tpAnnotaion":{
+             "pe": "TyeAnotion",
+             tart": 38,
+               "en":45,
+             "lo": {
+              "strt": {
+                  lin": 1
+               "con" 3
+             ,
+             "ed": {
+              line":1,
+                 "un": 45
+             }
+              },
+           "typAnntaion" {
+               type"NumeTyeAnottion",
+            "str": ,
+              end": 5,
+               "lo": {
+               "start": 
+              "lin: ,                    "clumn": 39
+               },
+                 "end: {
+                   "line": 1,
+                  "column": 5
+               }                  
+             
+         },
+           "valu" null
+        }
+        ]
+     }
+     }
+   ,   "directives []
+  }

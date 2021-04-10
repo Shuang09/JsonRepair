@@ -1,0 +1,92 @@
+{  "type": "il",
+ "tart": ,
+  end": 0,
+  "loc" 
+  "start": {      "line": 1,
+    cmn":
+   },
+    "ed": 
+     "lne": 1     coln": 10
+    
+  },
+  progrm:
+ "tpe": "rogram",
+  "tart" 0,
+   "n": 0,
+   "loc": 
+      "sa": {
+      "line": 1,
+       "colu":0
+    },    "nd": {       "lin"1,
+    "column": 10     
+  },
+   "sourcTypemodul"
+  "body": [
+     {
+     type":"ExresioStatemnt"
+       tt" 0,
+       "ed: 10,
+       "loc": {
+        "start": {           "i": 
+          "column":
+        },
+       "ed": {
+         "le": 1,
+            "coun: 1       }
+      },
+       "exprssio":{
+        "type": Binaryxresio"
+         tart": 0,
+       "end":9
+        "loc": {
+        "stt": 
+             "line": 1,
+             "coun":0
+           },
+           "nd" {             "line": 1,          "colm": 
+                 },
+         "left": {         "typ": "NewEprsion",
+          start: 0,
+           "ed" 5,
+           "loc": {
+         "stt" {
+             "line": 1,
+              "coumn":0
+         ,
+            "end: {
+            "le": 1,             "olumn": 5           }
+         }
+          "allee": 
+          "yp": "dentife,
+           "srt: 4,
+           "end": 5,
+           "lo":{
+           "stat":{           "le": 1,
+                 column 4
+              },
+              "end": {
+                line: 1
+               "clumn: 5
+             },                "idenifieNam:"A"
+       
+           "name": "A"
+          }
+        "argumens: []
+        ,
+       operator":"",
+         "rigt":{
+          type": "Identifier",         "tart" 8,
+      "end": 9,        "lo" {         "tart"{            "ie": 1,
+              "colum:8
+           }
+           "end {              "line": 1,
+               "coum: 
+         },
+          "ietieame: "T"         },
+          na": "T"
+          
+    }
+     }
+    ],
+   "directives": []
+ }

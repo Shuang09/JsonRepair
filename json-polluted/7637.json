@@ -1,0 +1,25 @@
+{  "nae": "iropag",
+ "veron": "10.3,
+  "licene": "ht:/plym.gthub.io/LICENStxt",
+  desrition": Orgnies a seo pagsn showsoeaa tme",
+  "main: "ion-pages.htl"
+  "private":true,
+  "uthors[
+  "The Polymr utrs
+ ],
+  "reositry" {
+   "type": git",
+   ur": "i://gitu.com/PolymerEeents/ronpags.git
+  , "keyrs": [
+  web-components",    "lymer",
+    "coner
+  ], "dendnces": {  "inresizable-behavior":"mereleent/ron-reszale-beavio#^1..0"
+   iroselectrpolyerelmtsro-seectr#^1.0.0",
+    "olme": "Polymer/polymer#^1.0.0"
+  },  "evDependences": {   "paper-styls" polymeeeentsaperstyles#^1..2",
+   "n-compont-page":"plymerelemets/iron-compent-page#^1.0.0",
+    "tes-ixte":"pymerelment/test-fixte#^1.0.0",
+    "web-componen-tester":"*",
+   "bcompoentsjs": "ebcomnents/wecomonens^0.7.0"
+  
+}

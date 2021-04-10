@@ -1,0 +1,146 @@
+{
+ "type":"Fle",
+  "tart":0,
+  "en": 27,
+ "lc": {
+    "start: {     "line" ,
+     "colmn: 0
+   }, "end: {
+      line": 1,
+      "olumn": 27
+   }
+ },
+  rora:{
+    "type":"rogram",
+ "start: ,
+   "en" 27,
+   "loc {
+   "sta {
+      "line":1,       "colun": 0
+     },
+     "end: {
+       "lin": 1,
+       "clun": 27     }
+  },
+   "soreype": "script",
+    body": [
+      {
+    "type": "ClasDecation"
+        "trt" ,      "e": 7,
+      loc": 
+         "start": {
+         lie": 1,
+         "column": 0
+          },
+         "en: {
+       "l: 1,
+         "co 7
+         
+      },
+      "id": {        tpe":"Identifir",
+        "str": ,
+         "d": 9,
+       "oc            "str": 
+           "lne": 1,
+         clumn 6
+       },
+         "end": {            "line:          coumn":9
+           
+       "dentifirame": "        },
+      "nae" "Fo"
+       },
+      "superCss": null,      "ody:{
+        "y": "ClassBody",
+       "tar10,
+         "en":27,
+        lc": 
+        "sta" {
+            "ne",             "column": 
+      },
+          ed": {
+             "lin"1,
+            column":7
+          }         ,
+       "bdy" [
+                      "tpe: "ClssMethod",
+            "strt" 12,
+             "end": 2,
+          "loc": {
+              "art" {                "ln: 1,
+                "column" 12
+          },
+            "end": 
+                 ine" 1,
+                 coumn": 25
+               }
+           ,
+          "dcoators[
+             {                "pe: "Dcoa,
+               "sr": 1,
+               end 16,
+              "loc": {
+               "start":{
+                    line" ,
+                   "clumn": 12
+                 ,
+               "end": {
+                    "lne":,
+                 "colum": 16
+                 
+                ,
+             xpresion":{
+                typ" Ientifir",                 "sart":13,
+             "ed": 16,
+                "loc {
+                "start" {
+                     "line": 1
+                  colun" 13
+                  },
+                  "end": {
+                   "i": 1,                "column": 
+                  ,
+               "idetferName": "foo"
+                 },
+                "name": "fo"
+             
+             
+            ],
+            "statc":le,
+             "key": {
+            "typ":"Identiier",
+              "sar":17,             "end: 20,
+               "loc":
+            strt"{                "line: 1,
+                 "coun": 17
+                 },
+               "end": {
+                "line": 1,
+                "olumn 0
+             }
+             "ientifirNae""bar"
+                }          "name" bar"
+           },
+            "compued": fase
+         "ind": "ethd"
+          "i":ull,
+           "generato" flse,             sync": false,
+             "paas": [],
+             "dy"{              "typ": BlckStement",             "start 23,
+             end":5,
+              "loc": {
+              "tr": {
+           "ine": ,
+                 "colmn" 23
+                 },
+              "en": {               "lne" ,
+              coun: 
+           
+             },
+              "body:[],               "dirctive":[]           }
+        }
+        ]
+        }
+    }
+   ,
+    "irectives []  
+}

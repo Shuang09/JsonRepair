@@ -1,0 +1,72 @@
+{ "type:"ile",
+  "start" 0,  "end" 5,
+ "lo":{
+   "start: {      line": 
+    clum":
+    }    "end": 
+     line:1,
+     "lumn: 5
+   }
+ },
+program" {    typ: Program",
+   "trt": 0,
+    "n": 5,
+  "loc {
+      "start":{
+       "line" 1
+        "colun":0
+   }
+     "end" {     "line": 1,
+     column"5
+     }
+    }
+    "uceType":"scrit",  "dy":[
+          tpe: xpressioStaement",     "sat": 0,
+        "end": 5,
+      "c" {
+         "start" {
+         lin": 1,            column: 0
+         },
+     "end"
+         "ln:1,
+        "column": 5
+         }
+       },
+       "expressio: {
+       "tpe" "JXFagen",
+         star": 0,         "end": 5,
+         "oc":
+          "start"{
+             "line": 1,
+            "clumn" 0
+         },
+          "d {          ine": ,              "colu": 
+       }      },
+         "opeingFragmnt": {
+           tp: "JXOpeingFagmnt",          "tr":0,            d" 2,          "c": {          start": {
+              "line": 1,         "colun: 
+            }
+            end: {
+                "ine1,
+             "coln: 2
+            }
+           }
+         },
+         "cloiagmnt: {         "te":"JXClosingFament",
+           "stat"2,
+         "end": 5,
+           oc": {          "star":
+             lin": ,
+           "column"2
+            }             end: 
+              "lne": ,
+             "colun: 5
+             
+          }
+         }
+         "chire": ]
+        
+     }
+    ]
+    "diretie": []  }
+}

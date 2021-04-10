@@ -1,0 +1,104 @@
+{
+  "type": "Fi",
+ "strt" 0
+  end": 25
+ loc: 
+   "str": {
+      "line":1,
+     "column:0
+   },
+   "end{
+     "line: 1,
+      "column"25
+    
+  
+  poram" {
+   ype" "ogram"
+   "strt": 0,
+    "ed": 5,
+   "loc: {    "start: {
+       "lie" 1
+      "cumn: 0
+    },
+     "end" {
+        "lne": ,
+     column: 25
+     }
+       "urcTye": "script",  "oy" [
+      {       type": "untnDecation",
+      "tat": 0,
+       end": 25,    loc" {
+        "star": {
+         "n" 1,            "omn" 0
+      },
+      "end": {           "lin: 1,
+         colun": 25
+         }      }
+        i": {
+        "ype": "Ietfir",
+        "strt": 9,
+        end":11        "loc": {
+          start" {
+            "lne": 1,
+            "column": 9
+            },
+        "end":             "ne":1,
+             clumn": 11           ,
+           "identifieName": "fn
+        },
+        "nam: n"
+       },
+      "genertor: flse,
+      "async": false,
+       "parms":[
+       {
+        "tp: "AssinmentPatter",
+        "rt": 1,
+            "end"21
+          loc" {
+             "srt: 
+              "lne": 1,             "column"12
+            }
+            "nd": {
+           "line" 1,
+          column": 21
+          
+      ,
+         "let": {
+             "typ""denfir",
+           tar": 12,
+             "end:13,
+         "loc" {
+              start: {          "lie: 1,
+                 clm": 1
+            },
+            "nd": {
+               lie": ,               "coum": 1
+          },           "enierName": ""
+            ,
+             "nam" "x
+           },
+           rih": {
+           "type "Identifir",           sa": 16,
+          end":2,
+           "lo: {
+              "start:{
+           "le": ,
+                "cmn":1             },               "end": {
+               lin": 1                 "colmn": 21
+               },               "idetfierName" "yield"
+           }
+           name": "yield"          
+         }     ],     "ody":{         "ye": "BockStatement",      "sat 23,
+          "ed"2,
+        "l": {
+           start" {
+          "lne": 1,
+            "column: 23        },          "en": {           "lie: 1
+           coumn": 25        }         },
+      "body": [],
+        direives: [
+      }    }    ]
+    "diectivs": []
+  }
+}

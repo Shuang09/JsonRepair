@@ -1,0 +1,163 @@
+{
+ "type" "File"
+ "start"0,
+  "ed": 38,
+  "loc" 
+    sart":{
+     "lie": 1,
+   "colun: 0
+   },  n: {      "line": 1,    colum": 38
+   }
+ }  "prrm:     "yp": "Program"
+    start:0,
+  "en": 38,
+    l": {    "start": {
+       "ine": 1,
+       "coumn: 0
+    },
+    "end":{
+      ne": 1,
+     "olumn": 38    }
+  }
+    soureType: "modul",
+   bod": [
+      {
+     "tpe": "pressinSateme",
+       sar": ,
+     "d" 38,      "loc" 
+       "sar": {
+           "ln": 1,
+        "olumn": 0        },
+        nd": {
+           "lne 
+          colmn: 38
+        }
+        }
+       "xpresio":{
+         "type": "FntionEpresio",
+        "start": 1,
+         "end": 7,
+       "oc": 
+         "start": {
+           lin: ,
+           "coun 1          },          "nd": {
+              "line": 1
+            "olun: 7         
+        },
+        "id: null,
+       "gerator" alse,
+       "sync":fals,
+        "rams" [
+            {
+            "tp: "RstElement",
+         "trt 11
+         "nd": 3,
+          "lo":{
+               "start" {
+                "line" 1,
+             "column: 11           },
+              "end: {
+               "lne" 1             "colm": 3
+           }
+           }
+         argumet": {
+           type": "detifie",            "str": 14,
+                "end": 18,
+              "loc":{
+              start":{
+                "in" 1
+                 column": 14
+               }               "end": 
+                 "line": 1,             "olmn": 18
+                },                itiferName": rst"               },
+             "name": "rest"
+             ,        "typAnnotatio":{
+              "ype: "TyeAnotatio",
+              "tart":1,
+               "end:3,
+             "loc": {                 "sart": {
+                "lne": 
+               clumn 18            ,
+                 "en": {
+             "ne":,
+                 column": 3
+            }
+             },
+              "tpeAnotation": {
+                  "type":"GenericTyenntation,
+            "start": 0,           "" 33,
+               "oc": {
+                 "art": {
+                "line:1,
+                 "column": 20
+                                 "ed": 
+                   "lin": 1,
+              lumn": 33
+                }
+             ,
+            "tpearates:{
+                "type":"TypePaameterInstantation",               "trt"5
+               "nd": 33,
+                 "lo": {
+               start": {
+                "line": 1,
+                    "column": 25
+                },
+             "end": {
+                    "ln": 1
+                   "olumn 33               }
+                },
+                  "para":
+                {                   "typ": NumbeTypeAnotaion",
+                     "start": 2,
+                    "en": 32
+                    "loc": {
+                     sat": {
+                       "e": 1,
+                     "colun"26
+                    ,
+                    "end":{
+                       "ine":1,
+                     olun": 32
+                      }
+                    
+                }           ]
+             },              "id: {              "tye": "Identfier",
+                 "tart:2,
+                "end": 25,
+             "loc" {              "stat"                       "lne": 1,                       com": 2
+                     ,
+                    "end": {
+               "line" 1,                column":2
+                },
+                "intierNae": "Arra"                  },
+             nae: "Array
+             }
+                
+              
+            }
+         ],
+        "body": {
+           "type" "Blcktteent"
+          "sart: 3
+        "end: 37,        "loc": {
+            strt" {
+              "ln"1,
+          colmn": 35
+          ,
+           "en: {              "lin" 1,
+              "column": 37
+           }
+           ,
+            "body:[],
+           drctves": []
+         },
+         "xtr": 
+          "parntesized": true
+          "parenStart: 0
+        }
+     }
+    }
+    ],    "directives": []
+ }
+}

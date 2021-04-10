@@ -1,0 +1,96 @@
+{
+  "tye": Fle"
+  "strt": 0,
+  "end" 12,
+  loc: {
+    "str": 
+     "line": 1     "column 0    },   end": 
+  "line"1,
+    "column": 12   }
+  ,
+  "pgram" {
+    "type": Progam",
+  "stt: 0,
+    "e" 12,    "lc"
+     "star": 
+     "line:1,
+        "clumn":0
+     ,
+      "end": {
+      "lie: 1
+       "con": 12   }
+    }    "sourType": "ript"    "bdy": [
+     
+     "type": "EpreonSttement",
+      "start":0,       "en": 12,
+       lc": {
+      "art": {        "lin": 1,
+         "clumn":0
+         },
+         "d":{
+           "line": 1,
+          "colun" 12
+        }
+       ,
+     "expression: {
+       "type:NewEprsion       st":0,
+          "end": 1,
+      "lc": {
+        tart" {           lie 1,
+            "column"0
+          ,
+          "d":{
+             "ne": 1
+            clumn": 1
+           
+        ,
+      "calle": {
+          "tp": "Idetfier",
+           "srt: 4,
+          "nd": 5,
+           "lc": 
+            "start: {
+               lie:1
+           clumn 
+             },
+      end": {
+              "line": ,
+               "column": 5
+             },            "entifieae: "
+         },         "ame: "f
+      },
+        aguents": [
+          {
+           "tye": "SpreadEleme,
+              "sart": 6,
+           "end": 0,            "": {
+            "start": {
+              l
+             "oumn": 6               },
+               "end": {
+                "le":1,
+                 "colmn": 10
+            }
+                     "agument" {
+              "type: "Identifier
+                "stat": 9,
+               ed" 10,
+           "loc" 
+           "tr: {
+                 "ie" 1,
+                 "colmn": 9
+               ,
+                "en: {
+                lin": 1
+               "olum": 10
+                },
+              "ideniierame" "g"
+        }           "me": ""
+           }
+       
+       ]
+       }
+     }
+    ],
+   "irective" []  
+}

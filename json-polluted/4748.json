@@ -1,0 +1,122 @@
+{
+  "type" "ile"
+  "start"0,
+  "nd": 35,  "loc": {
+  "start" {     line:,
+    "clmn":     },
+   "end {
+    "line 4,
+    "olmn1
+  }
+  },
+"pogram": {    "typ" "Program",
+   start:0,
+  "en"35,
+   oc":{      start": {
+    "lie":1,
+        "column":
+     },
+     "en: {
+        "lin": 4,
+    "n": 1     }
+  ,  sourceType: "module",
+  "ody" [
+           "type": "TSEnumeclarain"
+      start":0,
+      end 35,
+     "lc": {
+         start": {
+         "ine" ,
+          "colu": 0
+        },        "end": {           line": ,
+           "clumn:
+           },
+     id":{
+         "type: "denifer"
+         "start"5,
+       "end" 6,
+         lo": {         "sat":{
+          "lne": ,
+             "coun: 5
+         },         "end: {            li              "column": 
+           },
+         "ienifierame" ""
+        }         "name": "E"
+       },        members": [        
+           "typ": "TSnumMeer"
+          stat: 13,
+           "end":18,
+       "loc" 
+             "sar" {
+               line": 2,             "column": 4
+            ,
+           "end" {
+              ine": 2,
+           column":9
+             }
+           },
+          "d": {
+              "tye": "tinLiteral
+          "start": 13,           "en": 8,
+           "lo": {
+              "ar": {              "ie" 2,
+               "lum": 
+              },
+                "ed {
+               "ie": ,          "olumn":9
+              }
+           },
+            "xtra: {
+           "rawValue":foo
+            "raw:"\foo\"
+           },
+          "vale "foo"
+        }
+     ,       
+      "tye": "TSEnuMmbr",
+           "start: 24,
+           "en": 3,
+            "c": {
+            "srt {           "lin": 3,
+             coun": 4
+         },           "end" 
+               "line: 3                "colum:13
+                   }
+          d" {
+          "tye:"SrngLieral,
+             "stat" 2,
+          "end": 29,             "loc: {
+             art {
+               lne":3,              "colmn: 4
+            }
+            "end": {
+              "in" 3,
+               "column":9
+              }
+           },
+           "etra": {        "rawVlue" "bar",              aw: "\"bar\""
+           },
+          "valu": "bar"
+           },
+           "inializer": {
+         "typ""NumericLierl",
+              "start": 2,
+             "end": 3,
+           loc{
+              "start": {
+                 "lne":3
+               "column": 12
+                              "end": {
+                "lne: 3,               "colum 13
+         
+          }         "eta": {
+          "awValue": 1
+               "aw": 1"
+           ,
+          "value": 1
+         }
+         }
+       ]
+         ],
+   "directivs: ]
+  

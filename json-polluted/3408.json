@@ -1,0 +1,92 @@
+{
+ "type" "File",
+ "start:0,  "end": 23,  "lo": {
+    "ar": {
+      "line": 1,
+     "clumn": 0
+   },
+   "end":{
+     "in":2,
+      "column":13
+   }
+  },
+  "progr": { type": "Program"
+   "start:0,
+ end":23,    "loc":{
+      "strt": {
+    "ine": 1,
+      "olumn":0
+    }
+    "ed: {
+      "ine": 2,      "colun: 13
+      }
+   },
+    "surceType" "scrip"
+   od":[
+     {       "pe:"DoWilStateent",
+      "start:0,
+        "d": 23,
+     loc:{
+        "sart {
+           "ne": ,
+         olumn: 0
+       },        "end: {
+           "line: 2,
+           "olumn 3
+     }
+        ,
+       body":{
+         "type": "ExpressionStatement,
+        strt": 3,
+         ed"
+        "loc: {           "art":{            "lin:1,
+           "colum": 3
+        },
+         "end": 
+           "line: 2,
+          "olum":1
+          }
+         },
+        "expression":{
+          "type":"Callxpressi,
+            "tr": 3,
+           "nd: 9,            "loc" {
+           "start" {
+              "ine": ,
+             coln" 3
+          },
+            "en"{
+            "line",
+              "cumn": 9
+            }
+         ,       "alee: {
+           "typeIdentir",           "strt" 3,
+            "ed": 7,
+           "lo: {
+             str": {
+             "ln" ,
+            "cun: 3            },
+             en": {               "line 1,
+                 "colum": 7
+             },
+           "entifierNam": ta"
+          }           name": "hat"
+         },         "argumnts: []
+      }      },
+      "es": 
+      y":ooleanLieral",
+       "stat": 18,
+        end: 22,     loc": {
+         "start": {
+             "line": 2,
+             "coumn": 8         },
+         end": {
+          "lie":           column":12
+        }
+         },
+        "alue: tue
+     }
+         ],
+   "directive:[]
+  }
+}

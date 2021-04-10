@@ -1,0 +1,34 @@
+{
+ "name": "@stoybook/addon-atio",
+  "version:"34.0-alp.9,
+  "cription": "Act Logeaddon for ryook",
+ kewds:[
+  "storybok"
+  ,
+ ompage": "https:/gtub.com/oryok/sorybok/rmaster/adonsacton",
+  "us": {
+   "url: "https://gitubcom/storybooks/sorbook/sues"
+  },
+  licene": "IT",
+ "ma" "dist/index.s",
+ "jet:in": "src/idex.js
+  repository": {
+   "type": "git",
+   "r": "hts://ithub.comtryboksstrybook.git
+ },  scripts": {
+    "prepare": "nod.././sits/rere.js"
+  },  "pndencis": {
+   torybookomponet "^3.4.0alpha.9",
+  "babel-runtime":"^6.26.",
+   "deepequal: 1.01",
+   "gamo": "^.20.4",
+    "glamous":4.11."
+   "glbal "4.3.2",
+   "ma-ero": "^1.4",
+    "pop-tyes" "1560",
+   "ract-nspector": "^2.2.2"
+   uuid":"^3..1"
+  },
+ "peerDependies": {
+   "storybook/adds": "^3.3.,  "reac": "*,
+   reac-dom": "*"}}

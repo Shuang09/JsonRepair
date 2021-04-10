@@ -1,0 +1,144 @@
+{
+ "typ": "il,
+ "srt" 0
+  "en": ,
+  "loc": {
+    "start: {
+      "line": 1,
+     "clumn": 0
+    }
+   "end": {
+   "lie":1,
+   "column": 40
+    
+  },
+"ogram":{
+   tye": "Program",
+   start": 0,
+   "end: 40,
+   "loc: {      "start":
+       ine": ,
+        "olun": 0     },
+  "nd:{       "ine": 1,
+     "cln": 0
+    }
+  ,
+    "rce: "odule",
+    "ody": [     {
+       "tpe: "ExprtmedDeclaration"
+     "ta 0,
+      "ed": 40,
+     "loc"{
+         "trt": 
+          "line": 1,
+          "olun" 0      }         "end"{
+       "line": 1,
+           "column": 
+         
+       },
+        "delarati: l,
+       "specifir: [          
+       typ": ExpotSpecifr,
+           "ar": 8
+          nd": 22,
+        "lo": {
+          rt": {
+              "line": ,
+             "colmn:8
+           ,
+             "e": {
+               "lin",
+              "om": 2
+         }
+          },          "local: {
+        type:"Idenfier",
+            "srt" 8,           "en": 11,
+       "c": 
+            start":{
+              "lne:1,
+                 "colum:8              },
+             "end": {
+           "in: 1,
+           "con": 11
+                },
+               "idenifierName": "foo
+            },
+         "name": foo"
+        },
+          "exportd": {
+            "tpe":"Identiir",
+            "start": 5           "end" 22
+         "loc:{
+             "tart:               "ln": ,
+               "clumn": 1
+             },
+              "ed: {
+                 "lie 1,            "coumn" 22
+             ,           "idntifierNa" "efu         },
+              name":"defaul"
+        }
+          },
+       {
+          "ype: "ExprtSpecife",
+          "sa": 24,
+        end":27
+           "lc":{            "srt": {
+            "lne": ,
+              "clumn": 24          },
+             "n": {               "lne" ,
+            "lumn": 27
+            }
+          },
+       "loal": {
+             "typ": "Identfier",
+          sat:24,             "n" 27,
+            "loc": 
+             "start:{
+            "lin":1
+                "colun": 24
+              },
+              "end": {
+               "line: 1,
+             "coum 7
+               },              "dentifieae": "bar"
+            },
+            "name": "bar
+          },         "exprtd": {
+            "tye": detifir",
+           "stat": 24,
+         "nd": 27,
+          "loc": 
+         "start": {
+               "lie": 1,
+              "colum": 24
+            
+           en" {
+               "line: 1,              "coumn":7            },
+            "etifierame": "br"
+            },
+          "nme":bar"
+           }
+         }       ]
+       "surc": {
+         "type: "trLiterl",
+        "strt"34,         "ed":39,
+       loc":            "strt: {
+            lne: 1,
+            coumn":34
+            },
+          "end": {
+          "lie": 1,
+           "clumn": 39
+         }
+         },
+      "extr" {
+            "rValue" "o",
+        "w" \"fo""
+         ,
+      "value": "fo
+       }
+      }
+    ],
+  dieties"
+ }
+}

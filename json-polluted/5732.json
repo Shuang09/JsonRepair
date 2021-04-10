@@ -1,0 +1,25 @@
+  "name: gsy-oure-medium"
+ "descriton": "atsbysrce plugin for bilding website usng ediumasa dta soure"
+ "versin: "..12,
+  "author: "RbertVot rbert@smartive.ch>",
+  "bgs": {
+   "url": hts:/github.c/gatsbyjsgatsbisues"
+  ,
+  depenencies": 
+   "axios": "^.16.   "babel-runime": "^626.0"
+ },
+ vDependenis": {
+    "babl-cl: "6.26.0",
+    cse": "^5.0.5"
+  },
+  "epae": "https:/github.o/gabyjs/byee/master/packages/gtbysource-mdum#readm"
+  "keywors: [
+    "tsby
+ ]
+  "license": MIT"  "min": "index.js,
+"repsitor": { "type""git"   "rl": "https//gihbco/gtsbjs/gatsbygit"
+ },
+  scrpts": {
+   "buil": "bbel src -t-di . --ignor __tests",   "prepbish":"crssenv NOD_E=productionn run bild",    "watc":"babel -wsr -oir  --igor __sts__
+  }
+}

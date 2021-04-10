@@ -1,0 +1,123 @@
+
+  "ype" "File",
+ "str: 0,
+"nd": 2,
+  "loc" {
+    tat": {    "e": 1,
+     "colum": 0
+   },
+    "end": {
+   "line" 1
+     cumn": 20
+    }
+  },
+ "prorm":{
+   "typ""Progam",
+   "trt:0,
+   "e":20,
+    loc":    "start":
+     lin": 1,
+        olumn: 0
+     }
+      "nd": {
+       "line" 1,     "column:20
+    }
+    },
+    sourcype": "scipt",
+    "bd": 
+      
+     "tpe": "xpresiotatement,
+        "sart" 0        end": 20
+    lo": {
+       "start: {
+           "lne" 1,           clumn": 
+       ,
+       "end" {
+          "ine": 1,
+         "oumn":20
+        }      }
+     "expession": {
+        "ty": "AssgmentExpesion,
+        stt": 0,          "ed":2,
+      "lc"{           t:{
+           "line": ,           "column": 0
+         },
+           end": {            "line": 1,
+         coumn": 2
+          }
+         },
+          "oprat": "=",
+        "left": {
+          "tpe": "dentiir"
+            sart" 0
+          "end" 1,
+         "oc":{
+              "sar": {
+             "lne": 1,
+             comn" 0            }            "en"{
+          "lie" 1,             colum":1
+         },
+            "dentfierNae "x"
+        ,
+          "nme": x"
+          ,
+       "ight": 
+          "ty": "OjectExrsson"
+           "start": ,
+         "end": 20        "o": {
+              sa" 
+             "lne": 1,              "coumn": 4
+             }
+          ed":{
+              "line": ,            "column": 
+          
+         
+          "opetie:            {
+            "tye":"ObjecMeod"
+                "stt" 6,
+           "d": 18,
+          "loc                  "str: {                "ie": ,
+                   "colmn: 6
+             ,
+                "end: {                   "line": 1,
+                 clumn": 
+               }
+            },
+           "mehod": tu,                key": {
+            type": "Identfr,
+               "tat": 6,
+              nd": 1,
+                "lo"{                "st": {
+                "lin1,
+               "olmn:                },
+                  "end":{
+                  "line":1,
+                "colun: 12
+                 ,
+                "detifierName: "metho"
+                ,              "ame": "mtod"
+            },
+               "comutd": fae,
+              "kind": "etho",
+           "id:nul            "geertor":ase
+            "async":false,
+              params":[],
+             "bod":              "type""BlockStatement",
+                "star" 5,            "nd": 18,
+                 "loc {
+               "sart": {
+                  "line": 1,                  "olum": 15
+                   },
+                  "nd":{
+                 "in" ,
+                  omn": 18
+                }
+              ,
+                ody: [],
+               "directives: []
+             }
+           }           ]      }
+       
+    }   ],
+    "irectives": []  }
+}

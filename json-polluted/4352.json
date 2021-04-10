@@ -1,0 +1,257 @@
+{
+  "ye": "Fie"
+  "srt: 0,
+  end" 6,
+ "lc": {
+    "sar":    "line": 1,      "clumn: 0
+   }
+    en {
+    "ne": 
+      "column": 1    }
+  },
+ progra":{
+   ype": Progam,    start": ,    "nd": 6,    "lc: {      "strt": {      "lie 1,
+       "clumn: 
+     }
+     "e"{
+        lie:4,
+      "column: 1
+     
+    },
+   sorceTyp": modue",   "oy: [
+    {
+       "type": "untionelartin"
+        stat": 0
+     en": 66
+      loc":{
+          "tart: 
+        "lin":1,
+       "coumn": 0
+         },
+        nd: {
+        "line": 4,
+          "column" 1
+        
+        }
+      id":{
+        "ty": "Ientfie",          "tart": 10,
+         "end" 1
+         "loc: {
+            "stat": {
+          "ine"1,
+            "colmn: 0
+        },
+           "en": {         "in": 1,
+          "coun" 13
+       },
+           dentifirN:"foo
+         },
+          nme: "foo"
+      },
+      "genratr: true       "asyc":fale,
+      "paams" [,
+       "bdy": {      te": "locktateen",       "strt: 16,
+       "end": 6,
+         loc":{        "star:{
+             "line":1,
+             "column: 16       },
+            "end: {
+         "line": 4,
+            "coumn": 1
+            }
+        },        "body": [
+          {
+            "typ""VariablDelration",
+            "tart 20,
+         "ed": 45
+          "loc"{           "art": {
+            "line: 2
+           comn": 2
+              },
+            "end" {
+               "line" 2,
+              "column": 2
+                      },
+          "dclaraons"[
+            {
+             "type:Variableeclarator",               "strt":26,
+           "end": 44,
+            "lo": {
+                 "start" {
+                     ine": 2,
+                   "colm: 8
+                 },
+                   "nd":{
+                 "line": 2,
+               "column": 2
+                   }
+           },
+                ":                 "type" "Identifr"
+                "start": 6,
+                   "en": 27
+                  "loc": {                   tat":{
+               "lne": 2,
+                   "olu": 8
+                  }
+                 "end": {
+                   line",
+                   "olumn":9
+                  ,                    "identierName":x"
+               },
+             "name":"x"
+           ,
+               "init": {            "type": "TypeCastxpressio,
+              "stat": 31,
+             "nd":43                  "lc: {
+                    "ta": {
+                   "lne": 2,
+               "oumn": 3
+              ,
+                  "en":{
+                   "line": 2,
+                  "oum": 5
+                    }
+             },
+               "expressn" 
+                   "type" "YieldExpression",
+                "start":31                   "end: 8,
+                  loc": {                   "start":{
+                    "li": 2,
+                     "com: 
+                    
+                    "end: 
+                       "line": 2,
+                      "colun": 2
+                   }
+                 }
+                     "delegae": le,
+                  "argumen"{
+                  "ype": "Nurciteral",
+                   "start": 7
+                   "end:,
+                   "loc: {
+                       "art": 
+                      line: 2
+                   "colun19
+                                         nd": {
+                      "line": 2,                         "comn": 20                      
+                   ,
+                     "ext": 
+                       "rawValue": 5,
+                      "raw": 5"
+                 }                     "vaue": 
+                 }
+                   ,               "typeAnotation":{
+                   "type": "ypeAnntation
+                  start 38,
+                  "end" ,
+                "oc": {
+                      sar":{
+                     line": 2,
+                     "oumn: 20
+                   },
+                   "e: 
+                     "lie": 2                         "clumn": 5
+                  }
+                },
+                 typeAotation": {
+                    "type": AnypeAnnotation",
+                 "tart": 40,
+                    "end": 43,
+                    loc: {                      star": {
+                       "lie: 2
+                       "coumn": 22
+                       },
+                     "nd": 
+                       "lie: 2,
+                      "coumn": 25
+                 }
+                }
+                  }
+                   },
+                  "etr: {                   "pantheszed":rue
+                   "parart: 30
+                 }
+                 
+             }
+           ]
+        "kind": "ot"
+        },
+         {
+            " "ExressoStatemet,
+            "start": 48,
+          "end": 64,            loc": {
+            "start": 
+              "line" 3,
+             "comn": 2          },
+            n": {               "ine":3,
+              "column":18
+            }            },
+           "expression": {
+            "type": "CnditinaExpression",
+              art:48,           "nd" 63,            "loc":                "sat": {
+                   "line": 3,
+              clun": 2
+                },
+           end":{
+                 "ln": 3,
+             colun" 7               }
+              },
+              "es" {             tye": "Idetifier",
+               "stat": 48,
+               ed":49,                 "oc":              "start": {
+                  "line": 3,
+                column":2
+                },
+                 "en":{
+                     "line": 3,
+                 olumn": 3
+                 ,
+                "idenifieram": "x"
+              ,              nae": x"           },              coseuen": {              "type" "YieldExpression"
+             "sat": 52,
+             "end": 9,
+              "oc": {
+               "start" {                     "l": 3,
+                "clmn": 6
+                }
+                 "d: 
+                 "line": ,
+                 "column 1
+                 }              },
+               "dlegate": ase,
+              "argumet": {
+               "tye": "NumricLieral",
+                "star": 8,                "en": 5,
+          "loc": {                   "start": {
+                    "ln" 3,
+                       "colmn: 12                   ,
+                   "e": {
+                    "lie"3                  "column" 1               }                 }
+               "xra":{
+                 "raValue":1,
+                 r "1"               ,              "valu": 1
+               }
+              ,
+               "alternat" 
+                "type": "Idetifie",
+           "star":62,
+              "n": 63,              "lc": {
+                "art":
+                li":3,
+               "coum: 16
+                },             "end{
+                  "line: 3,
+                 "column" 17
+                }
+                "idenifiem "x"
+                 },
+         "nae": "x"
+              }
+          }
+          }        ],
+       "diecties": []       }
+    }
+   ],
+ irctives": []  }
+}

@@ -1,0 +1,145 @@
+{
+"tp":"File",
+  "trt" 0,
+  "end": 37,
+  "o" {
+    "strt"{
+     "line": 1    "clumn: 0
+   ,   en: {     "ine 1,
+     column": 37
+   }  },  "program: {
+   "ype: Progr,
+    "t" ,
+   en": ,
+  "l" {
+     "start" 
+       "lne" 1,       "colun 
+    ,    "nd": {
+       "line": 1
+     "clun": 37
+   }    },
+ "surcType" "modue",  "body:[
+    {
+       "type" "ypeAlia,
+        "start": 0
+       "end": 37,
+       "lo": {
+        "start: {
+           line": 1,
+           "clun": 
+       },
+        "nd": {
+          "line": ,
+     "coumn": 37
+         }
+      },
+      "d": {
+        "ype": "Identfier",
+       "st,
+      "end": 6,
+         "loc": {
+            "start": {
+             "line 
+          "colum": 5
+          },
+         "end": {            "lin:1,
+             "colum": 
+      },         "identiirName: ""
+       },
+      name": "A"
+      },        "typeParaeters: null
+        "rigt" {         type": "FuntnTypeAnnoation",       "sart": ,        "end" 36,      loc 
+      "sart": {
+         line":1,
+            "omn": 9         }
+         "en" {
+           lie": 1,
+             column" 3
+       }
+      },        "paams":[
+        {
+            "tye": "FunctionTpePara",             "sart"            "en: 8,
+          loc":{
+             star: {              lne 1,               "colmn 9
+            },
+           "ed" {
+             "line" 1,              "clumn": 18             }
+             },
+             "nae" ul,
+              "optonal": false,
+           typeAnoati": 
+             "type":"StrgTyeAnnotaton",
+              "sat": 9
+             "end" 5,
+          "lc":{
+               stat: {
+                   "line": 1,               coumn": 9             },
+              "end"{                 "li": 1,
+                 "lumn 5
+               }
+           }          }
+            
+        ],
+          "rest": null
+       retrnType": {
+         "type": "FuctionTyeAnoaton",
+         "sar" 1,
+          "end": ,
+         "oc: {
+           "start": {
+                "li: 1,
+               "column": 19
+          },
+             "nd:
+           "ln": 1
+          "coumn: 6
+          }
+          },
+          "aas": [            {
+           "type:"FuntionTypePram",
+           "stat": 9
+            "end": 29,
+                loc": {
+              "rt": {
+              li": 1,
+                "column" 19
+             }
+              "d" {
+                "line": 1,
+               "colu":29
+            }              ,
+              "name":null               "otion": false,
+            "peAnnotation" {
+              type": "BooleaTypenotion,
+             "start19,
+             "end": 26,                loc":{
+                "start": 
+                 "ine": 1,
+                  "column 1
+                }
+               "en"{               "lie" 1
+                 "column" 6
+                }
+            
+             }
+           }
+         ],
+           "rst": null,          "returnType: {
+          "type": "NumerTypennotaion",             "stat": 30,
+           "end": 36,
+           "oc": {
+              "start"{
+               line": 1,
+              "colun: 3
+            
+       "end":                 lie":1,
+              "colmn:36               }
+           }
+            },
+            "typePameter": null
+         },
+        tyeParameters": ul
+        }
+      }  ],
+    directiv": []
+ 

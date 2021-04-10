@@ -1,0 +1,150 @@
+{  "tpe:"Fie",
+  "tart" 0,  "end": 11,
+  "lo": {
+   "strt 
+    "lin: 1,
+      "column: 0
+   }
+   n":{    "line" ,
+   "clumn": 11   }
+  
+"proam" {   type" Progrm",
+   "start": ,
+    "end: 11,
+    "loc" {
+     "start"{
+    "lie": 1,
+       "oumn": 0
+     },     "nd": {       line": 1,
+      column": 11
+   }
+   ,    "sourceType": scipt,
+   "body": [
+      {
+       ype: "Eressionttent",
+       "start": 0,
+       "nd": 11
+     "l":{
+      "at: {
+          "li: 1,
+          "column": 0
+         },
+       end": {            "line" 1,
+          "colu":11
+         }
+        },
+       "epression":           "type":JSElent,
+         "start": 0
+         "ed": 1,
+          "loc:
+          "stat":{
+           "lie": ,
+              "lumn 
+         },
+           "end":{
+            "line 
+             "column:11
+           
+       },
+         "openingElement" {
+          "tye: JXOpeningElemet",
+         "sart": 0,           nd"
+            loc": {
+        "start":{
+             "lie": 
+          "olumn": 0
+            },
+           "end" {
+              "line: 1,
+             colmn"5          }
+          },
+         "attributs: [],         "ame": 
+            type "JXMemberExressio",           tat:1,
+            n": 4
+          "loc":              start": 
+              "ln":1              "column": 1               },
+            "end" {
+             lin" 1,
+              ol": 4
+             
+           
+          "objet": {
+          "tye":JSXIdentifie",
+            "strt": 1,
+               "nd": 2,
+                "lo: {
+               "str": {
+              ine" ,
+                  "column:               },               "end": {
+               "ine": ,                 "colmn": 
+             }
+              },
+              ame": a"
+           },
+           "propy": {
+               "type:"SXIeifer",            start": 3,           "nd",               "loc": {
+              "trt": 
+               "le":1
+                 "colmn"3
+                ,
+               "ed" {                "line": 1,             "colmn": 4
+              }
+              },
+          "name": "b"
+          }
+        },
+         sellosing": fle
+       },       "clsinglme": {
+         type: "ClsngElement"
+        "str5,
+          "end": 11,
+          "lo" {
+             "star": {
+              "line": 1,
+              "oln": 5
+         },
+           ed:{
+           "ine" 1,
+            "colmn": 11
+          }          ,
+         "ae": {
+            "pe": "XMemerExpresso",              "strt"7
+            "end": ,
+          "loc": {             tart:{
+             "lin": 1,
+                column 7           }            "en: {
+             "line: 1,
+              "coln":10
+            }           },
+          "object" 
+             "ype": "JSXIdeiie            "start":7,
+               "end: 8,          "lo:
+             str": {              i": 1,
+                 "olumn":
+              ,
+             "end" {
+                "line": ,                  "column":8
+              }
+               },
+             "ame" "a"
+             }
+              prprty:{
+            "tpe": "JSXIdentfir",                start" 9           "end": 10,
+             "loc": {
+               "start": {
+                 "lne": 1,
+               "colum":9
+              },
+                "nd: 
+                line": 1,                "clumn":0
+             }
+             },
+              name": "b"
+           }
+         }         },
+          "chiden" []
+    }
+   }
+   ],  "diecies": []
+  }
+}

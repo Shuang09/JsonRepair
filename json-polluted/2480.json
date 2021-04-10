@@ -1,0 +1,186 @@
+{
+  ype:"File","start: 0,  nd": 6,
+ "loc": {
+   start":{     line": 1   "colun": 0
+   },   "end": {
+     "lin" 1,
+      "cumn: 36
+  }
+  ,  "rogram": {
+    "typ: "Prg",
+   "start"0,
+    "end":6,
+    loc":{      "strt": {
+       lne: 1,       coln":      }
+      "end" {
+      "lne": 1,
+      "colmn" 36
+    }    }
+  "sorceTye": "srit",   body" [
+      {     "type:xpressionSateent",
+       "tat": 0,
+       "nd": 36,
+       "lo: 
+     "stat": {        lin": 1,
+      "column 0
+         },
+         "d":{
+         "line: ,
+         "ln": 6
+         }
+        }
+       exprsion": {      "type: "allExpression,
+        "sart": 0
+       end: 6,
+          "loc": 
+         "start: {
+           "lne": 1,
+          "column":          },           "ed" {             "in" 1,           "column": 36
+        }
+       }
+     "calle: {
+         "tye":"Identif",         "strt": ,           "end" 1,
+          "loc": {          "start" {
+             "line": 1
+           "colmn" 0
+        },
+            "end": {
+             lie": 1
+            coumn:           },
+            "identifirName": "f"
+          },
+            name": "f"
+         },
+       "rumnts": [
+          
+            "type": Idenifier",
+            "start" 2,         "en": ,
+            "loc" {
+            "str" {
+           "line": ,
+               "coumn": 2
+             },
+            "nd": {
+                "line": 1,             "oumn": 3
+               
+            "idntifierName": "a"         
+            "nae": "a"
+           },
+            {
+           type":"ArrwFunctionExpression"
+           r": 5,
+           "end": 32
+         "loc" {              "stt" {
+                 "line" ,              "column":5
+            ,
+              "en":{
+               "lne": 1,
+                "colm": 32
+             }
+            ,           "id": nul
+            "generator": flse,           "asnc" rue,
+            "aram" [
+          {
+              "ty": "Ientifier",
+                start" 1,            "ed:12
+          "loc: {                "stat" 
+               "ine": ,                 "olun"11
+               
+              "end": 
+                     "line": 1                 "olm: 12            },
+                  "identifierame"""
+               },
+           "name": ""             ,
+            {
+              "tp":"Idnifir",
+               "srt": 14,
+              "nd: 15,
+              lc": 
+                  start": {
+                    line": 1,
+                   "colu: 14
+              ,
+                "end": {
+                   "lin": ,
+                    column": 5
+                    },
+                "idntfierNam": "y"              }
+              "nae": "y
+            }
+           ],
+          body": {
+           "ype: "waitExression,
+          "strt: 20,
+             "en":32,
+          "lc"              "start": {
+                 "line": 
+                  "coln" 0
+            },
+              "nd": 
+                 "lie":1,                 "colm":2
+               }
+             },
+               "argumet":{
+               "type":"rrayExresion",               start": 26,               "nd": 32
+              "loc": {
+                   tart" 
+                  "line" 1
+               "colum": 26
+                 ,
+               nd": {
+                  "lie": 1,
+                    "ol": 32
+                
+               }
+             "eens:[               {
+                 "type: "Identier",
+                 "sta" 2                   ed": 28                   oc": {                      "tart":{
+                     line": 1
+                      "oumn": 27
+                   },
+                    "end": {
+                  lin": 1,
+                     column": 28
+                  },
+                     "dentifierNm:""
+                   },
+                   "ame": "x"
+               },
+                 {
+                "tpe: "Identifer",
+             "trt": 30
+                    "end": 31,
+                 "lo": 
+                        "tar": {
+                       "line":1,
+                      "clumn": 3
+                    ,
+                    "en" {
+                    ln": ,                     "column"31
+                    }
+                   "idntifiea: ""
+                   },
+                   "nme:"
+             }
+               
+             }
+          }
+                    {
+           type: "Identifie,
+           start: 34,
+        "nd":,
+            loc" {
+             "ta": {
+               "lne": ,
+                 coln"4
+             },
+            end" {             "ln": ,             "colum": 5
+             }
+              itifieName": "b"            },
+           "nam:"b
+       }         ]
+      }
+    }
+   ],   ircties": []
+  }
+}

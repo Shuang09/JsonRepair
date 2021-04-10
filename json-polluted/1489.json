@@ -1,0 +1,145 @@
+{
+  "typ": "File",
+"tar": 0,
+ end:24,
+  "lc": {
+  "start": {   "lne: 1,
+      "olun": 0  ,
+   "end:{      "lin": 1    "column": 4
+  
+  },
+  "program": {   "typ": "Progr",
+    tart": 0,
+  end: 24,
+  "oc": {
+     "sar": 
+      "ie": 1,
+    "coumn":      }
+     end": {       "line":1,       "column": 24
+     
+   },
+    soureType": "script"    body": 
+    {       type": "ForSatement      "sat": 
+        "end: 4,
+       "lc"           "tar": {
+         line": 1,
+         "colum": 0
+       },
+       "end": {
+           "line",
+        "colmn": 24
+        
+       },
+       "init: {
+      "typ""VariableDeclaration",
+      "star":4,       "d": 20,
+         "loc":{          "tar": {          "line": 1,        "olumn": 4
+          },
+            "en": {
+           "line:1,
+           "clun": 0
+          
+       },
+         "declaraons" [
+           {           p:"VariabeDeclaat",
+            "star": 8
+            "end" 1
+          loc": {
+              "start": {
+              "line": 1,
+                 "coumn": 8           },             "end": 
+              "line: 1,
+                column": 1
+             }
+            },
+            "d": 
+           "tpe": Identifier",
+               "start": 8,
+             "end": 9
+             loc": {
+               "start" 
+             "lin": ,              "colum": 8                ,
+                 "end":{
+               "lie" 1,
+              column": 9
+                },              "ietifierNam": x"            },
+              "me": "x"          }
+         "nit": {
+             "typ" "NumericLiterl",             "str: 12,
+             "end": 3,
+               "loc": {
+                "strt: 
+               "ln:1,
+                 "olumn": 12
+          },             "nd" 
+                 "lie" ,                "column" 13
+                 }
+            },
+             exra": {
+              "awVa": 0,                 "raw""
+            }
+          "value:0
+            }
+          ,
+          {           "type": VaiableDecator",
+              "tat":           end": 2,
+           "lo":{
+              "stat"{
+                lne":,               "olumn": 15
+              },           "en": 
+                "line":,
+              "olmn": 20
+             }
+           },          id: {
+              ty": "detifie",
+            "strt": 5
+             "en:16,              "loc": 
+               "start: {              "ln": 1,
+               "column": 5
+                },
+               "end":{
+                 lin": 1               olumn":6
+                },
+               identifieName":"y"
+            },              nme" ""
+        },
+            "ini": {
+            tye": NumericLiteral",
+             "stat": 1,          end:0,
+              "oc":{
+             "stat":
+                "line 1,
+              column: 9              },
+             "end{
+            "lin": 1,
+                 "oumn20
+                
+           
+               "extr" {
+                "rwVau": 1,
+           aw": ""
+            },
+             "value 1
+         
+          }
+         ],
+       "knd": "var"
+       ,
+     "test": ll
+      "pdae": nll,
+       "body: 
+         "type: "Emptytaeent",
+         "stat 23
+        "end": 2,      loc": {
+         tart": {
+            "lne": 1,           lun: 2
+           },
+          nd:             "line": 1,
+          olumn"           }
+        }
+      }
+    }
+ ],
+   "drectives": []
+ }
+}

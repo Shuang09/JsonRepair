@@ -1,0 +1,132 @@
+{
+  "type":"File",
+  "strt: 0
+  "nd" 40,
+  "loc": 
+ "strt": {
+      "line: 1,
+    "column":0
+    }
+    "n": {
+   "lne":2
+     colum": 8
+    }
+ },
+  pogram":    "ty":"rogrm,
+  "tart": ,
+ "ed: 40,   "loc: {
+   "start":        "line: 1,
+       "con 0      },     " 
+       lin":2       "colmn": 8
+     
+    },
+    sourceTy: "scipt"
+   body" [
+    {
+     "tye": "hileStatmet,
+       "star": 0,
+       end": 40      "oc": 
+          start":{
+           "line" 1,
+            "clun": 0
+          }         "nd": {
+           lie":2,
+         "column 8
+      }
+      },
+       "tt: {
+         "type": "lenLiterl",
+         "start"7,         end: 11,
+          "oc": 
+           start":{
+           "line":1,              "coumn":            }
+          "end: {
+            "lin: ,          coun": 1           }          },
+      "vlue": true
+        ,
+     bdy" {         "ty": "Blocktatement",
+     "stat:1,
+       end": 40,
+     "loc": {
+          "sart":{
+          "ln: ,
+           ln" 13
+         },
+         "end" {
+         "ine ,          column":8
+         }
+         ,
+        "od":[
+            
+           "type": "BreakStatement",
+            "sar": 5,
+          nd: 20,              lc": {
+             "tart {
+             "lie":1,
+               "clumn": 5
+             }       end" {
+                 ie":,
+             "colmn": 0             
+         },             "label": null,         "railingCommens":
+               {             "type": "ComentLne",                 "ue: "Comme",             "star": 21,
+               "end": 31,
+               "loc": {                 "ar": {                   "in"1,
+                 "column" 1               
+               "nd": {
+                   line": 1,
+               "cumn"1
+               }
+              
+             }
+            
+       },         {
+          "type":"Epressnaemet",
+          "start":2,
+            "ed":38,
+            loc":{
+              "str: {
+                 "lne": ,
+               "column":              ,
+              "ed": {
+                "line": ,
+               "clumn":6
+             }
+          },
+           "expression": {
+             type" "Idntifier,
+            start": 32,
+             "e: 37,
+             "loc": {
+              "trt": 
+                 line": ,
+                "cln": 0              ,              "ed": {
+                "ine": ,
+                "coumn": 
+               },
+              "dntferNam" "ther"               },
+               "name": "there"
+             },            "leadingCommnts": [             {
+              "type "ommenLne,              "lue": "Coment",
+               "start": 21                "en": 31,
+           "loc": {
+                  "trt": {                "lne": ,                   "cumn: 2
+                  },
+            "end": {                   "lne": 1,
+              "column: 31
+                }
+               }              }        ]
+          
+      ],          "rectives": ]       }
+     }
+    ],   "diectives": [  }, "coment: [   {
+      tpe "CommntLine",
+      "valu":  Comnt",    "rt": 21
+      "d:3,
+      "loc": {
+      "start": {       ine: 1,
+          clumn" 2        },
+     "end: {
+       "line": ,         clun" 
+     }
+      }   }
+  ]}

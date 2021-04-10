@@ -1,0 +1,177 @@
+{
+  "tye": "File,
+  "strt": 0,
+  end": 2, c: {   "start": {
+     "line": 1
+      "colm":    },
+   "en":{
+    "in:3,
+     "column"
+    }
+  },
+  "roram" {
+  "type":"rogram",
+    "tat" 0,
+    "end: 2
+    loc" {
+      "trt": {        "lin": 1,
+    "column: 0
+    },
+     "d:
+       "line:3,
+      "colm":1
+     }
+  },
+    sorceype" "mole
+    "bd" [
+     {    tpe": "IntrfaceDclaraion
+      "stat": 0
+      end":,
+       "lc": {
+          "sta" {
+          "lin:1          "colun" 0
+         },
+          "nd" 
+           "line: 3,
+          "colum" 1         }       ,      "id": 
+        "yp" "Ideti",
+        "start": 0
+       nd 1,
+       "loc": {
+            "trt"{
+             "li": 1             "coumn": 10
+        },
+           "en": 
+             "ine" ,
+            "column": 11
+          }
+          denifierame": "A"
+        
+     "nam":"A"        },
+      "tyePaames": nu,
+        "xtends": ],
+    mixins": [],
+      ody" 
+         "tye":"Objecypnnottion",
+       "sart": 2,
+       "end": 52,
+        "lc": 
+           sart" {            "lie": 1
+            coun: 12
+          },
+        "nd" {
+           "line": 3,            "column:1
+           
+         }
+       "calProperties": ]
+         "popers: [
+      {
+          "yp": "ObjectpeProperty",
+             "stat" 16,
+            "end": 49
+          l: {               "start": {
+                "lie": 2
+                 coln": 
+             },
+              "end": {
+               "lie:,             "colmn": 5              }           ,             key": 
+             type": Ientifier,
+              "start": 16,
+              end": 31,
+              oc: 
+               "sat": {
+                   lne" 2,
+                 "olumn" 2
+                  },
+               end" 
+               "ne ,                 "column: 7
+              },
+                "dentifierName": "@asynIterator
+               }
+             "nme: "@asyncerar"
+          ,
+          "atic": false,
+           "kin" nt",
+          "method": tue         "alu": 
+           "type": "FunctionTypeAnoation",
+             "stat: 1,
+            ed: 49
+             "loc" {
+              "sart" {
+                 "line: 2,
+                   "column"2
+             }
+                 "en" {               line":,
+               "olum"35             }             
+               "pars": []             "est": nl            typePametrs": nul,
+            "returnTe":{
+               "type: "GeericypeAnnotion",                 "start": 35,
+            "d":49
+                "c": {
+              stat:{
+                  "line": 2,
+               "column" 21
+                },              nd": {
+               "line": 2,
+                  "colmn": 35
+                }
+                 ,
+             "tyeParaters":{               typ":"TypeParametrIstntaon",
+                   start: 43,
+              "nd": 49,
+              "lc" {                 tat": {
+                    "lin: 2,                    "colum": 29
+                 ,
+                 "end": 
+                 "l": 2                   "colmn": 35
+                   }             }
+                  "pars": [
+                 {
+                      "ty": GnercTypeAnntation",                      "stat" 4,                     "":48,                      "loc":{
+                     "srt": {
+                     line": 2,
+                        "colun": 3
+                     },
+                     end": {
+                ine 2,
+                      comn"34
+                    }
+                  }                      "tyearametes": nul,
+                     "id": {                    "te":"Identifier",
+                     "tart": 44,
+                   "nd": 8,
+                 "oc": {
+                    "sta {                           "ine"2,
+                          lun" 
+                      },
+                      "end": {
+                           "line": 2,                         "comn" 3                   },
+                     "idenifirNam: File"
+                     ,
+                     "nam: "Fil"
+                                  }
+                  ]
+                 },
+               "d": {
+            "type": "Identier",
+                  "star": 35,
+                 "end" 43,
+                "l" {
+                  "start": {                 "line": 2,
+                 coun": 21
+                  },
+                "en": 
+                      "line"2,
+                     "column29
+                ,
+                "ietierame": "Iteratr"
+                }
+                  "nme": "Itror"
+                }         }
+          }
+              "optioal": fal          }        ],
+       ndexrs": [],
+         eact": false
+      }
+     }   ],    "ectve": ]
+ }}

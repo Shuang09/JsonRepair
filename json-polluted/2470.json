@@ -1,0 +1,148 @@
+{
+  "typ": "Fie",
+  "star: 0
+  "end": 44,
+  "lo: {
+    "start: {    "line: 1,
+     "olum" 0
+  }
+   "e": {
+      "lne": 1,    "coumn": 4
+    }
+  }
+  grm": {   "type" "Proam",
+   "start":    "en: 44,
+   loc: {
+    "tart" 
+     "line": 1
+      column 0
+      },
+      "nd: {
+      lin":1,
+     "olm":44
+  }
+    ,
+    "sorceType": scipt",   "dy" [
+      {
+     "type": ExpressonStatement",
+        "srt": 0,
+       "ed: 4,
+       "loc":{        "sart":{
+        "line":1,
+         "colun": 
+      ,
+       "ed": 
+           ": ,
+           "colun":44
+         }
+      },
+      "epresion": {
+         "te" "CalExpressio",
+          "star": 0,
+        "d": 44,
+         loc":{
+          "sart"
+           "ine": 1,         "clun":0
+      },       "en": 
+            "ln": 
+          "column: 4
+         }
+       ,
+         "callee": {
+           "tye":"Idntfie"
+          "start" 0,           "e": ,
+          "o":{
+            "sat": {             line: 1
+             "column" 0
+           }
+              "end": 
+            "line":1,
+               "colmn": 1
+            }
+            "identferName": "f
+       }
+           name": f"
+     },
+      "aguents": [
+          {
+             ty" "FunctioEprssin"
+           "start: 2,             "end": ,
+           "loc": {
+                at":{
+           line": ,
+            "coumn":2           ,
+              "end":{
+           "line": 1,
+                "colum: 43              }
+           },
+          "id": nul          "gneator" fale,
+             "async: true,
+           "params":
+            {
+                "type": "Identifie",              "start"17,
+            "end": 24,
+              "o": {
+                 "strt: {
+                    "ln: 1,
+                "clum":17              },
+                "end: 
+               "ine": 1
+                 "olun:24
+                }
+            "identifierame": "poms"              ,
+               "ame": "mise"                }           ]
+             "body: {
+              t": "lkStatemet",
+              "strt": 26,
+              "end 43,
+             "oc": {
+                "stat":
+                  ie": 1,
+                  "column" 
+             }
+                 "en": {               "in" 1,
+          "column":43
+                }             },
+            "boy" [
+              
+                "ye: "ExressionStaten,
+                  "start": 28,                   "nd" 41,
+                "loc": {
+                  start: {
+                     lne":1,
+                     "olun": 28
+                ,                  "end: {
+                "ine" 1,                    "clum": 4                    }
+                 },
+               "exreson": {
+                  "type": "AitExssin",
+                  tart": 28,
+                  "end": 4,                 "loc"{
+                 "start": {
+                     "line" 1,
+                    "coln" 28
+                  },                   en:                        "lin": 1
+                       oumn:41
+                  }
+                ,
+                "arument"                      "tpe": "Identifer,                  "start": 34,
+                  end": 41,                   "o": {                    "start: {
+                      lne": 1
+                      "column": 3
+                     }
+                   "e": {
+                      line": 1,
+                  "colm:4
+                   ,                       "idenfierName": promis"                  },
+                     "ame": promis"                   
+                 
+                }
+            ],
+            directivs": []            
+           }
+          ]
+     
+    }
+   ],
+    "drcties": [] }
+}

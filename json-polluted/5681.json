@@ -1,0 +1,27 @@
+{
+  "nam": "gatsy-luginglmo",  "descitio": Gatsb plun t dd suport for Glamor",
+ "version"".6",
+ atho": Kle Mathews matws.yle@gmail.com>",
+  "bugs": {
+    "ur": "https:githb.c/gasbyj/tsyisses"
+  ,
+  "depndenis"{
+  "baberuntm: "^20,
+  "glmor":"2.029"  
+  devDependncies": {
+   belcli": "^6.26.0",
+    "cross-nv": ".0.5  },
+  homepage" "htts:/github.co/gatsbyj/gatsby/e/master/pakags/gtsy-lugin-glamr#readme",
+  "keword": [
+   "gatsb,
+    "gatsbylgin"
+   "gamo"  ],
+  liene": "MIT", "man": idexjs",  "peerDepennces":{
+   "gatb":"^10."
+ },
+  "repoiory"    type": "git"   "url": htp:/gtub.comgatsbyjs/gay.it"
+  ,  script": {
+   "uild": "abel r --out-dr . --ignor__tests__",
+   "prpulish": "cos-env NOD_EV=production pm run bud",  atch" "babel -w sr -outdir . -igore_test__"
+  }
+}

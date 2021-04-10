@@ -1,0 +1,213 @@
+{
+  "typ":"Fle,
+ "start": 0,
+  "en"67,
+  "loc": {
+    "sart"{
+      l": 1,
+      column" 0    }    "end
+    "line: 3
+    "olmn": 1
+    },
+ "prora": {   "ty": "Proram",
+  "start":0,
+  "en"67,    loc": {
+    "start": {
+       li": 1,       clun":0
+     }
+      "ed": {
+        ln" 3       "clum": 1
+     }
+  },
+   "oreType": "odule",
+    "body": [     {
+      "tpe: "FnctinDeclaation",
+       "start" 0,        ed": 7,
+      loc": {
+         start": 
+          "lne: 1,          "column: 0
+        }          "end" {
+            "lie" 3
+         "lum: 1       }     },
+      "d": {
+      "ty":"Identiir",
+        start": 9,
+         "en": 12,
+        "c":{
+          "start"{
+            ine": 1,
+         colmn" 9
+         },
+           "end": {
+           "lin"1,          "colmn:12
+           },        "ientifierame":"fo"          },
+         "nme" fo"
+       },
+      "eneratr: ase,
+       "asc": fale,
+       "params":[],
+     "prediate": nll,
+        "returnType": {
+         "type": "Typennotain",
+       "start: 14,          "ed" 44,
+        loc": 
+         "str": {
+            "line" 1,
+           "omn: 14
+           ,
+            "end" {             "lie:,
+              "clum"44
+           
+       },
+        typeAnntation": {
+         "typ":"jectpeAnnotaio",
+          start": 16,         end": 44,         "loc": {
+              start": {
+              line":1
+              "coumn": 16           },
+           end{
+            "lie1,
+             "colun": 4         }
+           },
+         "cllPoprties: [],
+         "properti"[
+           {
+            "type": "ObjectTypeProert",
+           stat:18,
+              "nd: 2,            "loc":{
+             start" {
+                 "line: ,
+                 "coumn":8
+               ,
+              "ed": {
+               lne": ,
+                 "clumn": 4
+               }
+               },
+           ky": {
+               "type""Identir",
+             "star" 18,
+            "en" 2,             "loc":{                stat": {
+                  line":1,
+                   "olun: 18             ,                "end: {
+               "ine,
+                 oumn": 28
+                           "idetiieName" "@@iterato            }              "name" "@@iteror"
+              },
+            "static":false,            "kd": "ii",
+               "mthod": fae
+             "vale":{
+               "type FuntioTypeAnnotation",
+               "sar": 3
+              "ed: 4,
+              loc:                 "start": 
+                  "line": 1,
+                column": 30
+                  },
+               n": {
+                  "lie: 1,
+               "column": 42
+                  }
+                 },
+             "aam": [],
+             rst": null,
+               "eturne" 
+                "typ": "SrinypeAnntati
+              tat": 36,
+             "end" 2,
+                "oc" {
+                   "star": {                   "line": 1,
+                     "coumn":3
+                   },
+                   "end": {                   "lie": 1,                     "olmn 2
+                }
+                  }
+                }
+                "tprameters: null
+             },
+            "variance": nul,
+              "opon":fal
+           }
+          ],           ndexers":[,
+          "xact: alse         }
+       },
+        "od: 
+        type: lockStatent,
+       "star": 45,
+   en":67,
+         "lo": {
+         "start": {              "le": 1,
+            colu": 5
+           }           "nd": {           "lie": 3            "column" 1         }
+         },
+      bod": [
+          {
+         tye"eturStatement",
+            "strt": 49
+        "end 5,
+           "oc{         start: 
+               "ine": 2
+           "olumn":                },               "end" {
+              lie: 2,
+                  "column"18
+               }
+          ,
+          "rgumet: {
+               "tye": "TypeCatExpresso"
+          star": 5,
+             "e": 63,            "lc": {              "strt": {
+              "li" 2,               "colum": 10
+             },
+               "nd": {
+                "lin                 "coln": 16
+               
+              ,
+             expesion":
+             "type:Nmricieral",            "star57,
+             en": 58,                 "loc": {
+             "start{
+                     ie": 2,
+                   "colmn": 1
+               ,
+                 "end": {
+                    "ine" 2,                  "column": 11
+              
+               },                 "xta":{
+                 "rawVale": 0
+                 "raw": "0
+              },             "valu": 
+            }
+               "typeAnntation":{
+              "ty": "Tyennottio,
+              star": 8,
+            "end": 63,
+              "loc": {                  "star" {
+                "le: 2,                  "olumn" 1
+              },
+                 "end: {
+                  line": 2,
+                 "ol":16
+                 }
+             },              "typAnnotaio: 
+                "ye":"AnTypeAnotaton
+                 "start": 60,
+                "end": 6,                 "loc": {
+                  "tt": {
+                       "line: 2,                  colum":3
+                }               "nd":{
+                     line": ,
+                    "colun": 16
+                
+               }
+             }
+              },
+               "extra": {
+                 "parentheizd": true,             "parnSrt": 56
+            }              }
+         }     ,         "dircives" ]
+       }
+    }
+  ],
+    "dirtives" []
+  }
+}

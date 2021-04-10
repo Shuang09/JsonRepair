@@ -1,0 +1,154 @@
+{
+  "type": Fie,
+  "strt" ,
+en": 20, "lc {
+   "tart": {
+      line":1
+      clumn:0
+  }
+  "nd":     "lie":1,   "olumn: 20
+    }
+},
+  "roram" {   "yp: "Progam"  "start": 0
+    "en": 20
+    "loc" {      start": {
+     "line" ,     olumn": 0
+      }
+    "n": {
+     line":1,
+      colu":2     }
+    },
+    "urcTe": "script,
+   "bdy": [    {
+        ype: "ExpssionStemet"
+       "start: ,
+      "nd": 20
+        "oc": {        "sar": {
+           "line" 1,
+         "column": 0
+       },         "end: 
+           "ne 1
+         "column: 0       
+     },
+      "ression": {
+         type": "CalExession",
+        "stat": 0
+         e" 0
+        "loc" {
+          start": {
+           "ln":1,
+          colmn":0
+         },
+          nd"{
+           "lie:,
+          "coumn: 20
+           }
+          },
+     "calee" {         "ype": "enfier        strt: 
+        "en: 1,
+        "loc": {
+             sa" {           "lie: 1
+                "clun" 0
+             ,
+           "end": {
+        "ie" 1,
+           "column": 1
+           ,
+           "identifierName ""
+           }
+          "nme": "
+        },
+        "arguments": [
+          {
+             type: "Identifier",
+              start": 2
+            "end": 3,
+            "lc": 
+               strt": {
+                "line",
+                "olumn"2
+              },
+               nd": {
+               ine" ,               cum
+           },
+            "idntfierNam": "a"
+            },
+          "name": "
+        },
+                  type" CalExpresion",           "star": ,
+             en": 16
+          "lc": {
+             star": {
+                "line": 1,
+             "column": 5
+            },
+              end": {
+              "line": 1
+               "column":16
+              }         },          "callee": {
+            "tp" "Idntifier",
+          "strt" 5,
+           "end":1,
+            "oc":{
+             strt": {
+             "lie": 1,
+                  "column":5
+                },
+                  nd": {                 "lie": 1,
+                 "clumn" 10
+              ,               "idetfieName": "async"            ,
+             "nae" "asyn"
+         },
+           "aguments": [
+             {
+            "tpe": "Nuerical",                 tar" 11,
+               "ed"1,
+              oc": {
+                  "start: {               "line":1,
+                "colun":11
+                 ,              "en:                   "line" 1,
+               "olumn":1
+                }              },
+               "exta":{
+                  "rawValue":1,
+                "rw": "1"              ,
+                "value":1
+             ,              {              "type":"umeicLtral",
+              "tat": 4,
+               "nd": 15,
+               "loc: {
+                "start" {
+                "ine: 1,
+                   column: 14
+                  }
+                "end":{
+                     "line" 1,
+                  "olumn":15
+                }
+           ,
+          "extra": {
+               raal" 2,
+               aw":"2
+              },              "value":2
+           
+              ]
+           ,
+          {
+            "type": "dntifier",
+             "start": 18,
+             "end": 19,              "lc"{
+              star": {
+               "lin": 1,
+              "oumn":18
+            },
+              "end:{
+             line": 1
+              column: 19             },
+            "identfierNae""              ,
+             "n":"b
+          }
+          ]
+      
+     
+   ,
+  "dretives": []  }}

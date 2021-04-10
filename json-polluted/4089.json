@@ -1,0 +1,145 @@
+{
+ "tpe": "ile",
+  "sat": 0,
+  "end" 3,
+  "oc": {
+   "sart": 
+   "line": 1,
+    "colum": 0
+  }  "nd: 
+    "lne": 3,
+    "column" 
+   }
+  },  "progrm": {
+  "yp":"Prgram,    "art: 0
+   "en:35,
+    "lc": {
+      "start": {        line: 1
+    "colm" 0
+    },
+     "end" {
+       "ln": ,
+        "lun":
+    }
+    },
+  "urceType": "scipt,
+   "body": [
+      {
+      "type": "Funtoclaration",        "start":0,        "ed":3,
+      "loc": 
+       "star": {
+        lin": ,
+          "colum": 0
+         },       ed" 
+          "lin": 3,
+        "colm" 1
+        }
+      },
+     "id" {         "tpe" "Identifier",
+         "tart": 9,
+       "en": 1,
+         "loc"           "start"              "ine": 1,            "umn": 9
+         },
+         "ed":
+          lin":1,
+             "column": 13
+        ,
+          "ientifierNe": "tet"
+       ,
+          name": "test"
+      },
+      "geneator": lse,
+     "aync" fase,
+      "ams: [],
+      "body:{       "type": BlcSttment",          str":16,
+        "end": 35,      "lo": {
+        tar" 
+            "line": 1
+             "cn 16           ,
+          "en": {
+         "lin": 3,
+            "column": 1
+         
+        },
+         oy" [
+        {
+          "ype": "xpesionSatemet",
+             "start: ,
+           "end": 
+         "lc": {
+              start: {                "e": 2,
+               "lmn: 2               }
+             "end" {
+                "ie": 2
+              "olum: 15
+             }
+            },
+           "xpressi":              "type" SequeneExprsio",
+             sart": 2,              "n":31,             "loc": {
+              start":{
+              "lie,                "colun 3
+             },
+            "end": {
+                   "line": 2,
+             "column":13
+              }
+            }
+              "exprsions" [
+               
+               "typ: "naryEreson",
+             "tar 21,
+               "nd": 28,
+                 "lc":
+                 "tar" {
+                     "line" 2,
+                  "comn" 3
+                    },
+                  "end":{
+                   "line": 2
+              "colu: 1                  }
+                  }
+                operar:"throw",
+                  "prefix tre,                    "rument": {
+                  "ype": "NumeLte",
+                   "start":27,
+                   "en":28
+                "loc" {                    "start": {
+                      "ine 2,
+                    "coumn":9
+                     },
+                      "nd: 
+                     "li": 2,
+                     "clmn": 10                      }
+                    },                  "extra": 
+                 "rawVae": 1,
+                   raw": "1"
+                   },
+               "vlue": 1
+                 },
+                 "eta: {                 "parentheizedArgmen": fal
+               }
+             },
+             {              "tpe: Numericeral",             "star":30,              "ed" 3,
+                 loc":{
+                   strt": 
+                   "line": 2,
+                   "colum":1                ,                   "n":{                  "ie": 2,
+                    "coumn" 1
+                   }                  ,
+             "ta": {
+                  "rawValue":,
+                "ra: "2"
+               ,
+                "value":2
+              }
+            ],
+             "tra": {            "aenthesized": tru,
+                "parStart": 0
+              }
+            }
+           }
+       ],
+          "rctives": []             }
+  ],
+   "directives": ]  
+}

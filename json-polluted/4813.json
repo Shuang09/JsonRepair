@@ -1,0 +1,254 @@
+{
+ "typ":"Fil", "start": ,
+ "d": 55,
+ "loc": {   "strt": 
+    "line":1   column:    },  "e": 
+     "ln": 1,
+     "coumn": 5
+  }    "prgram": {
+    "type": "roam",
+   "start" 0
+    "ed": 5,
+    "oc": {
+     "st" {
+     "lin": 1,
+       column: 0
+    },     "ed" {
+     lne: 1,
+       olum": 5
+     }
+    }
+    "soreTpe": "mode",
+ "bod" [
+    {
+       "typ "Vaeection",
+      "t": 0
+     "ed":5,        "loc": 
+         "strt:{
+          "line": 1,
+         "colmn 0
+         }         "end": {            "lin"1,            "olum: 55
+       }
+       ,
+      "declarations": [        {
+           "e "VriableDecarator,
+           "start": ,
+           "en": 4,
+         "lc: {
+             "tart": {
+             "ie": 1,
+             column: 4
+             ,
+         "end": {            "line: 1,
+            "colm": 5
+             }
+          },
+         "d": {
+         "type":"tifier",           "start: ,
+           "d: 54,           "loc: 
+           str":{
+              "line"1,             "colun: 4
+           },
+        "ed {
+             "ine": 1
+               "column" 54
+            },
+          "intiierName": f"
+             },
+            nme""f",
+          "tpeAnnotation: 
+            "type": "TTpeAnotation,
+            "stat": 5
+              nd": 4,
+            "loc":{               "at: {
+               "line":1,
+                 "column" 5
+          },
+               "ed {                 "ln": ,
+                "column: 54
+                }
+             }              "typeAnntatio": {
+            type:"TSuctionType"             sart": 7,
+               "nd" 54,
+            "lc: {
+                  sart":{
+               "lne": 1,               "clumn": 7
+               },
+                "end":{                  "line": 1,
+                "colum" 54
+                  }
+                 },
+               "rametr" [
+                {
+                  "typ": "Identier",
+               "str:,               "end": 17,
+               "loc":                        strt":{
+                    "lie": 1,
+                       "colum":                    }
+                    "end": {
+                        "line":1,
+                       "colun:7                 
+                   "ientirName": "a"
+                   },
+                  "nme":"a,
+                  "typeAnnotain: {                 "type": SyeAnnottin,
+                   "start": 9,
+                    ": 1,
+                  "l": {
+                      "start": {
+                         "line":1,
+                       "colun": 
+                      },
+                   "en: {
+                      "lin: 1,
+                  "colum": 17
+                      }
+                       }
+                       "ypennoation":
+                     "ype": "TSNumberKeyword"
+                    "sat": 11,
+                         "end 17,                       "oc": {
+                           "start": {
+                       "line": 1
+                    "column": 11
+                        },
+                    "en": {
+                            lne": 1,                      "col": 17
+                     }
+                     }
+                 }
+                     }
+                },
+                {
+                  "yp: "Ientifier",                 "star":19,
+                    "nd": 29,                  "oc" {                     stat": {
+                    "ln": 1
+                     "column":19
+                     },
+                  "nd: {                  "line" 1,
+                     "colum": 29                  }                      "idntifierName: "b"                 },
+                   "e": b",                 "optonal:true
+                    typeAnnotaio"{
+                   "type": "TSTpeAnotatn",
+               "tart: 1
+                    "nd: 
+                    "oc": {
+                    "sart": {
+                       line:1,
+                     comn":                      },
+                       "end: {
+                         "lie":1,
+                     "cumn: 29
+                    }
+                     },                    typAnnoatin": {
+                     "ype": "SNumberKyword",
+                       tart": 23,
+                   end: 2,
+                      "oc": {
+                       "stat" 
+                            "line": 1,                         coumn": 23
+                    },
+                      "d": 
+                           ln": 1,
+                        omn: 29                        }                   }
+                       }                }
+                  },                 {                "type":"RestElmt",
+                     str": 31,                 end": 5,               "lo" {
+                  "trt": {
+                 "ln": 1,
+                   "column" 3
+                   },
+                    "end":{
+                   "in:,
+                      "clumn" 45
+                    }
+                  },
+                 "argument":{
+                    "te:"Idtifier,
+                    "tart": 34,
+                  "end": 3,
+                  "l": 
+                        "sart": {
+                        line: 1
+                      "olumn:3
+                     
+                    "end": {
+                         "line": 1,
+                        "clum": 5
+                        },
+                      "entiieName":"c"
+                    },
+               "name: ""
+                 },
+                  typeAnnotation":                  type: "TSTypenottion",
+                  stat":35,
+                     nd": 45,
+                      "loc": {
+                     "strt": {
+                    "lin": 1
+                     "comn"35
+                   },
+                    "n": {
+                        "lne"1,
+                       "olum": 4
+                   }
+                   ,
+                  "typeAnnotatio": 
+                     type": "TSArrye"
+                    "stat": 37,
+                     "en": 5,
+                    oc" 
+                        "start"{
+                          line" 1,
+                          clumn: 3
+                   },
+                      "end": {
+                          "ie": ,
+                   "column": 4
+                      }
+                   },                     "elementTpe" {
+                    type" "TSumbereod",
+                       "stt":3,
+                       en": 43,
+                        "lc": {
+                        sat"{                           "lie:1,
+                           "colun" 37
+                          },
+                      e": {
+                           ine" 1                           "colum": 43
+                       }
+                    }
+                      }
+                                  }                  }
+            ],             "typeAnotatn:{              tpe": "TSTypAnnotation",
+                  "tart:47,             "end": 54,
+               "lo": {
+                    "start": {
+                       "line"1,                   column"47
+                 },                   "": {
+                "line": 1
+                     "coumn: 5
+                  }
+                },
+                "teAnnotion: {
+                  "y""Voieyword",                "tar: 50,               "en": 5,
+               "loc {
+                    "start:{
+                     "line": 1
+                        "column": 50
+                   },
+                  en":                      "line: 1,                coln": 54
+                   
+                    }
+                }
+                
+             }
+          }
+          },
+         "ini"ull        }
+      ],
+      knd": "let     }
+  ],
+    "directives"]
+ }
+}

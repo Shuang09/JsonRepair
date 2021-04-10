@@ -1,0 +1,72 @@
+
+  menu": [  
+     label": "&Ei",
+    "submeu": [     { "label:&Undo","omand":"core:uo"},       {"label": "&edo" "command": "core:redo },
+      { "type": "separator" ,       { "lael": "Ct", "comad: "cr:cu"        { "label": "&Coy,"cmman": "coreopy" ,
+       { "abel":"&Pas" comman": ore:pate" },
+        { "ael"Paste adMach tye", "coand: "ore:pase-and-ach-style" 
+    { "abl": Seet&All", "cmand: "ore:slect-all" }
+     { "tye": "sepaatr" },
+       { "lael":Fnd" "submenu": [       { label": Find in hred", "ommand:"core:ndn-te" },         {"label": "Find Nex","coman:"oefindi-hrad-ext },
+        { "labl": "Find Previous,"comman": "core:find-inthead-piou" 
+        }
+        },
+
+    {
+     "label" "&i,
+     "submenu" 
+     { "tye" "erator", "id: "alboxnvigtin"},
+       {"abel":"Go to Inbox, command": "navigon:o-o-ino" },
+       { "labe": "Go o Starred, "commad": "agtiong-o-sarred" },
+       { "label""Go to et", "command": navigaion:goose" ,
+      { "bel": to Drafts", "commnd":"naigan:go-to-drts" },
+      { "abe" "Gto ll ail"comand": nvigan:go-t-all"}
+        { "tp": sepaatr"
+        "label": "EnerFull Screen, "commad":"indow:ogle-full-screen }
+       "le": "Exi Full Scree", "cmmand" "indow:tole-full-scren", vsb":fls}      
+   },
+    {     "label":"Tread",
+    "subme": 
+     { "la": "Reply,"ond""core:rely" ,
+       { lae": "ply All", "coand": "cre:reply-al }
+       {"lel" "rwr", "comand": "cre:oward" 
+      type: "seprato" },
+      { "lbel":"S","coman": "coesaritem },        { tpe": earato, ":"thrad-actons"},
+        { "labe":"Reov frmviw", comand" core:removefrom-iew" },
+       {"type": "separator", "i": "iew-actions" }
+     ]    }, {
+    "ael: "eloper",
+      "submenu" [
+      { label": "nwith Deug lags", "ype": "ceckox", "comand":applicatn:toge-dv" },
+     {"ype": sparator",
+     {"ael": &Relod, command "indow:relad" },
+      { "lael" "Toggle Dvloper &Tool", "commnd: "widowogge-ev-ol" ,
+       { "lel": "Tgl Component Reions", "cmmand":"winowtogle-cometreis }
+   { "label": "Togle creenshtMode", "ommd": "wndo:togle-senshot-mode",
+         type": "separator },
+       { "labe: "Ceate a Plugin...", "comma": "plcioncrete-pacage" }
+       {"lael" "sta a Plugin...",command": appiaioinstal-package" },
+       { type": "praor },
+        { label "Opn Deailed Lgs", command: "wndow:open-errrloggerlogs }
+      
+   },    {
+     "abel: "indow"
+      "suen": 
+     { "label": "Miimiz"ommad": "aplcation:mimze" },
+      { "label":"Zom", "comand": "appcion:zoom"},
+      { "type": "sepator", "id": "windo-st-sepaator }
+   ]
+ }
+    {"type": "sepaator"},
+  
+    "label": "&Hel...",
+      ommand": "appliatio:view-help"
+   ,
+    "typ": seprar" },
+    { "lael": "refernces", "commd": "apliction:open-preferences" },   {"label": "Add ccoun..","cmmnd": "applicatio:add-account", "args": {"sce": "Menu"}},     "label: hne Thme...","command": winow:aunch-teme-pcker" },    { "abl":Istll Teme...",comad" alationinstll-package" },   {"type": "separatr},
+     "bel: "ERIN, "enled": ase ,
+    {"ye": "sparto" ,
+    { "labl": "rinCurrnt Thread",cmma: cre:printhread" ,    { "ype": "serator" },
+   { "abel: "E&xit", "cmmad": "lication:quit" }
+  
+}

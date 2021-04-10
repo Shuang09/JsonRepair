@@ -1,0 +1,177 @@
+{
+  tpe": "Fl", tar" 0,
+  "en" 53,
+  lc: {
+    "start": 
+      "line: 1,
+      clumn": 
+    
+    "d" {
+      "lie": 
+     "cumn": 53
+    }  },
+  "progrm":{
+    "type rogra",
+  tat":0,
+  "end: 3
+   "lc"{
+     "start": {
+      "lne": 1,
+       "coumn":0
+     }
+    "en": {      "line":1,
+      "column 53
+     }
+  ,
+    "sourceTpe": "module",
+    "bod" [
+    {
+      "te: "Variableeclaratio",
+       "stat": 0,
+      "d": 53,      "o: {        "start" {
+       "line": 1,         "colun" 0       },
+      "end" {
+          "ne": ,
+         "column": 5
+             }
+        "ecaratons": [         {          ype": "VaiabDeclarator",
+        "start":4,           "end": 2,
+        "lo": 
+           "star": {
+             "li" 1,
+           "column": 4
+            ,
+           "end: {            "lie":1,
+          "clumn" 52
+            }
+        }
+         "id": {
+             typ":entiir"
+            "tat",
+             "end": 5,          "c: {              "start": {
+               line": 1,                 "column" 4               },            "end":
+              "ine": 1,
+                "colum: 5              }
+               "dentifierame": "f         },             "name": "f"
+          ,          "nt": {
+            tpe "ArrowFnctonExpesso",
+              start": 8,
+            "ed": 5,
+         lo": {
+              "start": 
+               "lne" ,
+               "column": 8
+           },             "end"{
+              "lne": 1,
+                "co": 52
+             }
+             }           "predict": {
+               "tye": nerrdPedicate",
+           "sta":20,
+            "end": 27,
+             "oc: {
+               "start" 
+                   "line": 1,                 "olumn2
+             }
+               "end":{
+                 "li": 1,                "coln" 2              }
+           }
+            },              returnTye": ull,
+            "id": null,           "genertor": false,
+          anc": fase,
+            "aam":[             {
+                 "p""Identifier"
+            "star": 9,
+               "end" 17
+              "loc" {
+                 "start: {
+               "lne" ,
+                   "coun": 
+                  }
+                 "ed":{
+                "line": 
+                 "coumn:17
+               }
+                dtifierName": 
+                 },
+                "name": "",               tpAnnottion":{
+            "yp":"TypAnnoaton,
+                 "sta": 10,                 "ed 17,                 "o":{
+                   "start" {
+                     "line: 1,
+                      "column" 10                   },
+                   "end: {                  "line" 1
+               clumn": 1
+                 
+               },
+               "typeAnnotatio": {                 "type" xedpeAnottin",
+                     strt": 2
+                  "en": 17,
+                  "loc:{
+                       "trt" 
+                        "lin": ,
+                       "colum": 12
+                    ,
+                    "ed"{                   "line": 1                   column": 17
+                 }
+                   }                   }              }
+               }          ]           "body": 
+            "ty": "BinryExressin",             start": 31,         "en":52,
+           "oc": {              "strt": {
+                 "lin": ,
+            colum": 31
+             },
+               "end" {
+                  "lin" ,
+               "colmn52
+             }             },
+              "eft": {
+           type: "UnaryEression",
+             "stat": 31,
+             "nd": ,
+               "lc: {
+               "tart: {
+                     "i": 1,
+                 colum": 3
+                ,                 "nd: {
+                "line": 1,
+                  "oumn": 39
+                  }             },
+           oerator":tpeof",
+                "peix: true,
+               "argme": {
+                "type": "deifier"                "sta": 38
+             "nd": 39,
+                 o": {
+                  "stat": {
+                 line": ,                  "coumn" 38
+               },
+                  "nd"{                    "line":1,
+                    "ou":39               }
+                 "idetifieame" ""
+                  },
+                "am": "x"                 ,
+               extr": {
+                "parethesizedArgument": false         
+               },             opeato": ===",
+           "right": {
+             "typ": tringLiterl",
+          "trt": 4,              "ed":2
+           "lc": {                 "stat": {                  line" 1,
+               "clumn": 44
+                },
+                "end: {                 "line: 1,
+                 clum:                   }
+              },               "exa": {
+              "raValu": srng",                "aw": "\"strin\""
+              ,               "vlu" "sting"
+            }
+            }
+          }       }
+       ],
+      "kid": "ar"
+      }
+   ],
+   "dietive": 
+  
+}

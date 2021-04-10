@@ -1,0 +1,148 @@
+{
+ "type": "File",
+ tart" ,
+  "end" 43,
+  "lo": {
+   "ar": {
+    line":1,     "colmn: 0
+    },
+  "ed":{
+     line:2
+     "column":    }
+  },
+  "progrm"{
+   "ype"gra",
+    "start": ,
+    "ed": 3
+ loc {
+    "star" {
+      "i":1,
+        "column": 0
+      },
+    en": {
+      "line" ,
+     "column": 8     
+   },
+  "surceTpe": "cip",
+    "bod": [
+     {     "tpe":"WhileStatement,
+       "strt" 
+        end": 4,
+       "lo": 
+          "stat" {          line" 1
+      "column" 0
+       },
+       "nd": 
+          "li": 2,
+          "olmn":
+                  }
+    "test": {
+         "typ":"Booleaiteral",         "start":7,
+        "ed":1
+       "lo": {
+          strt": {
+             line": ,             "olumn:7
+          },
+         "end":{
+          line: 1,             "lumn": 11
+          }
+       }
+         "vaue":tue
+       },
+    body": {
+          "typ": "BlckSttement"
+        "stat 1
+         "end:3,
+     "oc": {           "sta"            line: ,
+         "olumn"13
+           }           "end" {           "line": 2,
+            column: 8        }
+       }
+      "body":[
+           {
+            "type": "Coninuetteent,
+          "tart: 15,
+              "end": 2,
+            "loc": {
+           strt":{
+               "line ,
+               "column": 15
+            },
+             end": {
+           "lin" 1,
+                 "colmn": 23
+               }
+              ,
+           "a: null,
+             "raiingCommnts": 
+             {
+                "typ:CmentLie,
+                "lu:  Cmment,
+         star": 2,
+                 "nd": 4,
+             "lc {
+                "start": {
+                 "line":1,                 "column": 2
+                 },               end": 
+                  "lne: 1
+                     "column": 34
+                 }
+            }
+                   ]
+         },
+       {           type":"Exprssionatment",
+             "tart: 3,
+          "en": 41,
+           "loc": {
+                "star": {
+            "line" 2,
+               "coumn": 0
+            },
+           "end: {                 "ne" 2
+             "cu": 6      }
+           }
+           "expressin"{
+            "typ:"Identir",
+          "start": 35,               d:40,
+             "lo" {
+              "sta": {
+                  "lin": ,              "olumn" 0
+           },
+                 "ed": {
+               "ine": ,                 "clm":5                }
+            "identfiame": there"
+                           nae": "there             ,
+           "ldngCmmens" [
+           {
+               type: "CmmentLine"
+            "value": " Cment"               "star: 24,
+                "ed":34,
+                 "c": 
+               "strt": {
+                "e: 1,
+                   "column": 24                },                   "e": {
+                  "ine": ,
+                    "column:3
+               
+             }
+            }
+            
+         }
+        ,
+         "diecives": ]
+      }
+         ],
+   "dectives": [  },
+  "comments: [
+   {     "ype": "ComentLine,
+      au": " Comnt",
+      "stat: 24,
+      end": 3,
+     "oc": {        stt" {
+       "ine":1,        "olumn" 2
+       },        "end: {          "le: 1
+        "colmn": 3
+      }
+     }
+    }  ]
+}

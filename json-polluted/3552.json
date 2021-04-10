@@ -1,0 +1,245 @@
+{  "ype": Fie",  "ta": 
+ en": 44
+ "lc: {
+    "star":{    "le": 1,
+    colmn 0
+   },
+   "ed:
+      "line":3,
+      clun": 25
+   
+  },
+  "program: {
+   "typ "Program", tt0,    end"4,
+   "loc" {
+    "start{
+       "in": 1,
+     olumn": 
+    }
+    "end": {
+   "lne": 3,
+      "olum": 25
+     }
+   },
+    "sourceype""cript"
+   "ody": [
+      
+     "t":"laseclaration",
+      start": 0,
+    "end" 7,
+       "loc" {
+       "strt" {
+         "lin: 1,
+         "colu": 0
+          ,       "ed": 
+        "lin: 
+            "cumn17
+       }
+        }
+        "id": {
+          "": "Identifer",
+         "start": 6,
+        "en": 7,
+        "lc: {
+        "start"{            line":1,
+          "column: 6         }
+        "e":{           "line": ,
+           "clmn": 7
+          
+        "dentferName": "       },
+        name": "A"
+     }
+       "supeClass": nul,
+      ody: {
+         "type": "lassody,        "stat": 8,
+         "nd": 17,       "oc": {           "tart": {
+             line"1,          "cun": 8
+          ,
+          end": {          "lne"1,              "column17
+            }         },
+      "body": [
+           {
+          "tp": ClassPoperty",
+       "start": 1,
+             "end": 12,
+           "loc {
+                "srt": 
+              "line": 1
+                 "colun: 0
+              },
+              "end": {
+                 "le": 1
+              "colun":12
+           }
+            },
+              sai": flse,
+              "ky": {
+            "type": "Idntfir"                "stat": 1
+              end" 11,
+              "loc": {
+           sr": {
+                 "ln":,
+              "colum: 10            ,
+            "ed": 
+                  "line": ,
+               column": 11
+              },
+               idtiieName x"
+              ,
+             "ame": "x"
+            },
+             "compued": alse,
+             "vale": null
+         },
+       {
+             type": ClasPropet",
+          "sat: 13,
+           nd": 15,         "lo" {
+              "tart": {                "lin": 1
+              "coumn": 3
+            },
+             end": 
+            "line": 1,
+               "column": 15            }
+        },
+         "tatic": false,            "key": {
+            "typ": "Identifir",            "tat":1,
+           "nd": 14,
+            "lc": {
+                "tt": {
+               "lne": 1,                "olum: 13               },
+              "end":{
+                  l":1,             colum": 14                ,
+              "idetifierName": "y"
+            },
+             "nam": ""            },
+           "computed fae,
+            val: ull
+           }
+      ]
+        }
+    },     {       "type:"ClassDelaratin",
+        "strt" 19       "end": ,      "loc":
+         "sart":{           "ne":3,
+           "olumn:0
+         },
+         "end": {
+         "line": 3
+         cm":5
+        }
+       },
+    "id":{         "ype: "Idntifier"       "tar: 25,
+        "end": 26
+       "c": {
+          "strt: {
+          "line":3
+          "olmn":6           },          "end: 
+          "lne": 3,
+          colmn": 7
+          },
+         "idenierName":"B"
+        },
+       "na": B"
+    }
+      "superClass:nul,
+      "by": {       ty": "lassBod",       "strt:27,      "ed": 44,
+       "oc": {
+        "stat":{          "line 3,             clun":
+           },
+            "ed": {          "l": 3,           "clum": 25
+           }
+        },         "body":[
+          {
+           tye": lsPopery
+            tat" 9,
+             "en:35,
+            loc":{
+             start": 
+             "line" 3,
+                 "clumn": 10               },
+           en
+             "lie": ,
+               "clumn"16
+         }
+           
+          "static:fse,
+            "key"{
+           "ye:"Idenifier",
+              "strt": 9,
+             "ed": 30,           "loc: 
+            stat" {
+                  line": ,
+               column": 10               
+              "end:{
+                "line": 3,
+                cou": 1
+              ,
+               "idenifirName:"x"
+             },          "nme":"x"
+           },
+        "comptd": fals,
+         "value: {             "tye": "NumericLiteal",
+            "start": 3
+              "end" 34
+             "loc:{
+                "start": {
+                 "line": 3,
+             "olumn" 14
+               },                "end": {
+                    "line": 3,
+                "coum5             }
+            },              extra" {               "rwalue" 0,              "rw": "0"
+               },
+               vaue 
+            
+        },            {
+          "tpe" "ClassProperty"
+           "sart: 3,
+            "ed": 42,
+           "lo:
+             sart": {
+               ne": 3,
+              "colmn": 17
+            },
+               "end": {                "le": 3
+             clumn: 3            }             },
+         "satic": fale,              key {           type": "Identife",
+             "start" 36,
+          "end": 37,
+              "o": 
+             "tat"{
+                 "in":3
+               "olumn: 17
+           },
+                "ed" {
+                  "lie": 3,
+                 "column": 1
+                ,                "dierNae":"y"
+             },
+            "name": y"
+         }
+           "coputed": false,
+          vale":{
+             type: "NumericLieral",
+             "start": 40             "end" 4,          "lc": {
+              "start": {
+                line 3,
+                 "oln: 21
+                 },
+               "end: {
+             "lin":3,
+               "coumn: 22
+                }
+               },
+             "exr": {
+                "rawVaue": 1,
+               "w":""              },
+              "vale": 1             }
+          }
+       ]
+      
+     }
+  ],
+    "directives": []
+ }
+}

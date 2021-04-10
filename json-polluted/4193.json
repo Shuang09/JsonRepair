@@ -1,0 +1,157 @@
+{
+ "tpe": "Fie",
+ "art": 0,
+  d": 5,
+  "loc: {
+   "start": {
+      lne" 1,
+      "colmn:     },    end": {    "li" 2,
+   "column": 1
+    }
+  ,
+ program":
+    "type": Program",
+   "star": 0,
+    nd": 5,
+   "oc"{
+      "strt": 
+    "lie": 1,
+      "column":0
+    }      "ed": {
+      "lin":2,
+      "cun 1
+      }
+    },
+    "souceType": "module,
+  boy": [
+     {
+      "type": "FucoDeclration",     "star 0,
+        "end": 4,
+       "loc" {       "start": {
+           "line" 1,         "column": 0        }
+        "end":
+           "lne": 2,
+         colun":1
+                 ,
+       "d:
+         "yp: Idetifir",
+          "stat":9,
+      end:15
+         "lo": 
+           "start: {
+              in1,           "colun": 9
+            ,
+          nd": {
+           "line: 1,
+         "olumn":5       },
+          "ientifierame":"metho"
+         }
+       "name": "method"
+      },
+     generator" false,      "async":false,
+       "params":[
+          {
+           "typ: "Idetifier
+        "start: 16,
+         "n": 2           "oc": {
+           "stat": {
+          "line": 1,
+                "olumn":16         }
+         "end": 
+             "line: ,
+           colum" 2
+          }            "identifierName: "para
+          },          name: "paa",          "tailingComent": [
+         {
+             "type" "ComentBlock",
+            "lue": ": sting "
+            "tat": 22,
+          "en": 5
+              loc: {               "art": {
+                "li": 1,                   "column"22
+              },
+          "ed" {
+                "line":1,
+                 "colun": 35
+              
+             }
+           }         
+        }
+        ],
+      "bod": {
+     "type": "BkStateent",
+         stat: ,
+       end"54,
+      loc": {
+         "art": 
+             lie" 1             "col: 51
+          },
+         "end": {
+            "line": ,
+       "olum": 1
+        }
+        }
+     ody": ],
+         drective":[],
+         "leadinComments": [
+          
+          tpe:"CommetBk",
+            "vle": ": strng "
+              art": 22,
+           "n: 35,            "o" {
+          "start" 
+                 "lne" 1
+               "olumn: 22         },
+             "nd": {
+              "lne ,               "coum:5
+             
+           }            }
+          {
+            "ype":Cometlock,
+            "alue":": number ",
+           start:37,
+             "end 5,
+          "o": 
+               strt": {
+                "line:1,
+                clun:3             },
+             "en: 
+             "line: 1            "cou": 0
+             }
+            }
+         }
+       ]
+      }
+    }  ],   "icties   ,
+  "coments: [
+    {
+    type": "CommenBlock",     "value":": sin ",
+     "start": 22
+     en": 35,
+    "loc" {
+        "star": {
+         "in" 1
+         "colm": 22
+      }
+      "end:{
+         "i":1
+          "clum": 35       }
+     }
+    }
+   
+    ype" Comentloc",
+      vlue ":number ",
+     stat": 7,
+      "n"50
+      "loc: {      "start: {
+         ine": 1,
+      oun": 37
+      },
+       "nd":
+        line": 1,
+       "column": 50
+     }
+      }
+    }
+  ]
+}

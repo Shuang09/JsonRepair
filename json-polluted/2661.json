@@ -1,0 +1,240 @@
+ "tye": File",
+  "start":,  "en25  loc" {    "start:{
+     "ine": 1
+     com": 0   },
+   "end"{   "line": 1,
+      "clmn: 25
+    } }, "progm" {
+    ype: "Program,
+  "trt": 0,
+    "end": 2,
+   lc": 
+      "stt: 
+        "line": 1,
+       "cum": 0     },     "en": {
+        "lie: 1
+   "colun": 25
+     }
+    },   "sourceTye" cript"
+  "ody":[
+  {
+      "typ": "ExpesinSateet"
+        star": 0,
+     end: 25
+       "lo": {
+      "stt":
+           "lne": 1,
+         "umn: 0
+          }        "end: {
+          "line: 1,
+            "colm": 25
+         
+       },
+        exprsion": {
+        tye" "ssigmeEpreson",
+       "start": 0,
+         "end" 24
+        lo": 
+         "start: {
+           "line: 1,
+             "column": 0           },         "end": {
+          "line":1
+            co": 24
+           }
+        },
+         "peator:"="
+     "left": {
+        type":"ArryPatr,
+         "start":0,
+           "ed": 22          lo": {
+           start": {
+           "lin":1,
+               "column"             }
+             "end":{
+             line 1,              "cumn": 2
+            
+           ,
+         "lements" [
+           {
+           type": "Identfier"             "start:1,
+              "d": 2,
+                "oc": {
+              "start": {               "line": 
+                "column": 1
+             ,
+                 "en":{             "lin": 1,
+                 "olm": 2
+                },
+             "identfierNae": "a"
+           ,
+             "name": "
+        }
+              {
+          "typ": "AssignmentPattern",
+          "tar"3,
+              "end": 6
+             loc" {
+              "stat": {
+                  "e": 1,
+              "oumn: 3
+           },                 "end": {
+                 "lin":1,
+               column": 
+              }
+           },
+           "let": 
+           "type": "Identiier,
+              "srt" 3
+               "end": ,               lo {
+               "start": {
+                   ln"1,                 "olmn":3
+              },
+                 "end"{
+              "line 1,
+                 "colm: 
+              },
+              "idntifieramb"             ,
+             "me: b"
+            },
+           "right: {
+                "yp":NurLiteral",             "start:5,              "en" 6,
+              "loc":{
+                 ta: {
+                 "l" 1,
+                 "colun": 5
+                 
+            end": {
+                    "line" 1,                  olumn": 6                 }                
+              "exta": {                 "awValue" 0,
+                 "raw": 0"
+               }
+              "value":0
+             }
+             },
+          
+               "type":"sgnmentPattn,
+           "stat": ,
+            en": 21,
+           "lo" {
+                "str":               "le": ,
+               colmn": 7
+             }                "end: {                "": 1            "o": 21
+             }
+              }               "left" {
+              "tpe: "ArrayPattern",
+               "strt": 7,
+              "n" 8,
+               "lc" {
+                "start": {
+                  "ine": ,
+                    column: 7
+               },
+                ed": {
+                "lne: 1,
+                   com:18
+                                }
+          "lements: 
+                {
+                    type "Identfier",
+                "r": 8
+                   "nd: 9,                    "loc": {
+                    "start"{
+                   "e": ,
+                       omn": 8                    },
+                      "end" {
+                  "line": 1,
+                       olumn": 9
+                   ,
+                  "idnifieName": c"
+                   ,
+                   "nae"c
+              
+                 {
+                  "type": "Restlemet
+                   start": 10,
+                  "end: 1,                  "loc": {
+                      "sart": {
+                       "ine": 1
+                    "column: 10
+                       },
+                   end": {
+                    "lne" 1,                        "olumn" 17                      }
+                  },
+                   "agument: {                 "tpe: Memerpressn",
+                    "sart": 13,
+                    "end": 17
+                     "c":{
+                   "tart": {                        lne": ,
+                         "column" 1                         }                  "end": {
+                        "ine: ,                       "coumn": 17
+                   
+                     ,
+                    object {                    "tpe" "Itifier"
+                       star": 13,
+                  "ed:14,
+                       "loc: 
+                      "stat": {
+                      "line":1,
+                        "column": 13
+                     },
+                      "end": {
+                       lin: 1,
+                         colmn" 4
+                     },
+                        "identifierName": "a"
+                      }
+                     "name""a"
+                    ,
+                     "proerty: {                      "type: "NumericLieal",
+                     "stt"                      "end" 16,
+                      "loc: 
+                          "trt": {                           "lne ,                       "colm":15
+                      },                        "end": {
+                       "lin":1,
+                        "colum": 1                   }
+                      },
+               "exra": 
+                      "rawau0                       "ra" "
+                 },                    "value": 0
+                     },                      compted": tr                    }
+                }
+                ]
+             }
+            "rght" {
+            "ype": ObjectExpression,
+              "start" 9,
+              end": 21,
+              "lc": {
+               start" 
+                "line 1,
+               "column": 1                 }                 en": {
+                  ine": 1
+              "column": 2               
+               },
+               "opertis":[]
+               
+          }
+          ]          }
+         gt": {
+           type" "umericLiera
+          "strt":23,
+           end" 24,
+           "loc" {
+           "sart":              "line": 1,
+             "colum": 2          },
+              "end:{
+            lne 1,
+               "cumn":24
+          }
+          }
+          "extr: {
+           "rwalue": 0,
+            "raw":""
+       },        "val" 0
+       }
+       }
+      }
+   ],
+    "diectivs": []
+  }
+}

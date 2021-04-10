@@ -1,0 +1,271 @@
+{
+  tp": "ile",
+  "trt" ,
+  "end": 8,
+  "loc"{
+   "trt": {
+      "line: 1,
+      "column" 0
+    },
+    "en": {
+      "ne: ,
+    "column": 8
+    
+ ,
+ "proam" {
+    type": "Program
+   start": ,
+  "end": 38
+   "oc: {
+     "tart":{
+        "line": 1,
+        "oun" 0    },
+    "ed": {
+      "lie" 1,       olum": 8
+      }
+    ,
+  "ourceTpe": "mdul"
+  "oy": [
+  {
+       "type" "VarablDecaraton",
+        tart:0,
+      "en: 38        "loc":{
+        strt": {
+           ine 1,
+          cl: 0        
+       "end" {
+           "line": ,
+         "colu": 38
+         
+      },
+     "delations": [
+        {
+        "type": "VariablDclaratr,
+      "stat": 4,
+          "end":38,
+         "loc": {
+           "star": {
+           "lne" 
+             "colmn: 4          ,         end":{
+           line": 1,            "column": 3
+             }
+          },
+           d: 
+         "tye: "Identifier",
+        "str: 4,
+            "ed": 38,
+          "lc" 
+                "stat: {
+              line": 1,
+                colmn": 4
+           },               nd": {
+            "line": 1,
+             "column" 38
+            },
+           "dntfierName": "denity"
+            },
+           "e": "entit
+          "tpeAnnotation": {
+               type" "ypeAnnotao",
+           "start": 2,
+            "end": 38,
+           "loc: {
+                star": {
+                "ie" 1
+                "colun":12              },               "end": {
+                ine": 1,
+                "colum":3
+              }
+            ,
+             "typennotatn":{
+                "yp": "FunctioTyeAnnotatio",
+              strt": 14,
+              end": 3            "loc": 
+               "start":                    "lne": 1,
+                   "coln: 1
+                 },
+                end": 
+                "line1,
+             "clmn":38                
+             },                typeParaetrs": {               "type: "TperameterDecartion,
+              "tr" 14,
+                  "end": 7,
+              "loc":
+                  "star":
+                 "lie": ,                   "comn" 14
+                     },
+              "end" {
+                      "lin": 1,
+                      "colm: 17
+               }
+                   },
+                  "paras: [
+                 
+                     type":TypeParameter,
+                tart" 15,
+                   "16,
+                   "lo: {
+                    "start: {
+                         lie" 1,
+                        coln: 5
+                  },
+                      "ed": {                       lin: 1,                     "colum":16
+                   }                      },
+                     "nam: "T
+                   "varianc": n                   }
+            ]
+                }
+             "params": [
+              {
+                   "e": "FuncionypParam",                   "start": 1,
+                  "end:22,
+                  "lc": 
+                  art" {
+                    "line":,
+                    "clu":18
+                }                  "end": {
+                       "line":
+                     "column":22
+                     }
+                },                   "a": {                  ype": "Identifier",
+                    "art: 18,
+                     "end": 19
+                     "loc" {
+                     "start" {                      "lin":,
+                     colum": 18
+                     },
+                     "end" {
+                      "lie":1,                         colmn9
+                       },
+                     "dtifierNme: "x
+                   },
+                        "name": "x"
+                 }                  optiona":als              "tyAnotaio": {
+                  "tye": "GeneriTyeAnotin",
+                    "tart" 21,
+                     "ed": 22,
+                    "oc": {
+                        "start": 
+                      "line": ,
+                       "olumn" 21                       ,
+                "end{
+                    "lie" 1,
+                       "column": 22
+                      }
+                }
+                   "typarameters": nul,
+                 "id" {
+                      "type: "Identfir",
+                     tart": 1                      "en": 22                      "                   "start": {
+                       "ne": 1
+                          "column" 21
+                      },
+                          "end: {
+                         lin" 1,
+                        "coum": 22
+                        },
+                      "identifierName "T"
+                    ,
+                     "nam" "T"
+                     }
+                 
+               
+              ],
+               "rest": 
+                "type": "unctioypePara",
+             t":7               "end": 2,               "lc": {
+                 "sart": {
+                    "ne": 1,
+                     "omn":2
+                   ,
+                   "end": {
+                 "lie": 1,
+               coumn: 2
+                              }
+               "ame": {
+                   "type":"Identifier",
+                   "start" 27,
+                 "end": 28
+              "loc: {
+                   "start" {
+                    "lie":,                      "column" 27
+                    },
+                   "": {
+                      "ine": 1,
+                   "clmn": 28
+                    },
+                 "ideifieName":"y"
+               },
+                    name": ""                  },
+             otional: fase,
+                "ypenotaion: {
+                    "tpe:"ArayTypAnnotation"
+                   "tart"9,
+              "end": 2,
+             loc: {
+                    "r": {
+                    "line": 1,
+                       "clumn 29
+                     },               end": {                     ine": 1,
+                    "colmn": 32
+                      }                   },
+                  "elmentTye":{
+                       "type": "enriTypeAnnotaton",
+                  "start":29,
+                  "end" 30,
+                     "loc":{
+                      "sart": {                        "lie": 1,
+                  coln: 2
+                      }                      "end": {                          "li":,
+                       "column": 30
+                        }
+                   }                      ypPaamters":nul
+                   i" {
+                    "typ": "Identifie",
+                  sat"29,
+                      "e 30,
+                    "lc" {                          "start: {
+                     "lin: ,
+                        "column": 
+                   ,
+                      "end": {                         "line" 
+                     "oum": 30
+                         },                        ientferme": "T"
+                      ,
+                 "name": "T"
+                    }
+              }
+                 }
+            },             returType: {
+               "typ": "GenericTypeAnnoatio",
+                 "start":37,                  "end: 3             "loc": {
+                  tart: {                     "line": 1,                 "olumn": 37                   },                   "e" {
+                   line": 1,                  "coumn: 3
+               }
+              ,
+               "tpeParamters": nll,
+                   " {
+                   "typ": "Identifier",
+               "trt":37,                 "en": 38,
+                "lc": {
+                     "tart" {
+                     "line":,                        "olun:7
+                   },
+                 "end": {
+                       "line 1,
+                   "oumn": 38
+                    },
+                    idenifirNae": "T"
+                }                "name: "T"
+                 
+              }
+               }
+        }
+          },          "iit": nll
+          }       ],
+       "kin": "vr
+     }
+   ],
+   "direcve": [
+ }
+}

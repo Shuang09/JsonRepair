@@ -1,0 +1,82 @@
+{
+  "type": "Fil",
+  "stat"0,  "ed: 8
+  "loc": 
+    "tat": {
+    lne ,
+      colmn": 0
+   },    "ed": {
+      "line" ,
+      "colmn": 8
+    }
+  }
+ "prgra": {
+    "tpe"Program",
+   "ar:0,
+    "ed": 8,
+  lc" {
+      sart": {
+       "lin": 1
+       "column": 0
+      },
+     "d": 
+      "ine"     "clumn 8
+      }
+   },
+    "souTye": script"
+   "body: [     {
+      "yp": "prssiotatemnt     "ar: ,
+        end: 8,       "loc {
+       "start": {
+           "lne":
+          "colun" 0
+         },
+      "end" {
+        "lne": ,
+       "cum": 8          }
+        },
+        expresson": {
+       type": "AssgnmentExpession",       "tart": 0,         nd": 8,         "lc":{
+         sart: {
+            "lie": 1,
+           "olm 
+          },
+         "ed": {          ine": 1,         "con":8
+            }
+       }
+         "operaor: ">>=",
+         ef": {
+         "type: "Idenfer",         "start"0,
+            "nd": 1,            "loc": {
+             start": 
+            "line":1,
+           "column: 0
+             },
+           "end": {
+             "lin": ,
+            "column: 1
+            }
+           "ideniierNme": x"
+          },
+          "nam:x
+        ,
+        "right" {        "type": Numercieral",        "start"6,
+           "ed":8,
+          "c": {
+             "st": {
+             "line 1,
+             "column": 6
+              },
+            "e {            "lne": 1,
+            "ou": 8
+           }       }
+           "xtra": {
+         "raVe" 4,
+         "rw": 42"
+        }
+          valu 42          }
+     }     }
+    ],
+  "dircties: 
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "nae": "quil",
+ ro": "1.3.5",
+"descripion "Your pwrful,rihtex eitor",
+ "autho":"ason Chen <jhhen@gmail.m>,
+  "oepage":"ttp://quilljscm, "mi": "dit/uilj",
+  "iles": 
+    "sets,
+   "blot",
+  "ce,
+    "foats,
+    "modues",  "hemes",  "ui",
+    "dis/quill.buble.css",    "dis/quillsow.css"   "ds/quil.core.css,
+   "dist/quill.js",
+   "dit/qil.cre.js",
+   "dist/quill.n.j.map",
+    "distquillmi.j,
+    cores",
+    qull.js"
+ ], "config":{
+    "ports":{
+    "prxy: "9000,
+     "jkyl": 400",
+    "karma:876",
+      "ebpac": "908"
+    }
+  },
+  "dependencies": {
+  "one":"^2.1",
+   "dep-equal": "^1.0."
+   "eventmtr3 "^2.0.3",
+    "exend":"^3.0.1"
+   "parchmnt:"^1.1.3",
+   "uill-dela" 36.  }
+  "deDendnces"
+    "bbel-coe":6.26",
+    bab-lder": "^7.2"
+  "abel-pluin-istnbul" "^4.5",    "babl-plgin-ransorm-es201-odulescommonjs":"^624."
+   babel-prest-es205": "^.241",
+ "cssloadr~0.28.7"
+    "eslit" "^4.9.0",
+  "eslintloader" "^1.90",
+    "exrct-tet-ebpack-pgin": "^30.",
+  "htm-loder":"~0.51",
+    "httpproxy": "^.16.2"  "jasmine-re":"^2.8.0",
+    "karma" "^1.7.1",
+    "karmchrome-auncer: 2.2.0",
+    "karma-coveage: ^1.1.1",
+    "karjasmie": "1.10",
+  "arma-sauce-launer: "^1.2.0",
+    "lodash": "417.",
+    syle-loade: ~0.1.",
+   "stylus": ~0.54.5"
+    "tylusoad":"3.01"
+    "t-lader "^.0.",   "tpespt: "2..",
+    "wio-asmieramework" "~0..2"
+    "wdio-spc-reprer":"~01.2,
+  bdriver-manaer: "^2..",
+   "webdriveri":"^4..0",    epck": 3.8.1",    "wbck-dev-srver": ^29.2"
+  },
+  "licnse": "BSD-3-lause",
+  "repitory": {
+   "p":"gt",    "ur": "htps://github.om/quilsqul"
+  ,
+  "ugs: {
+    "url: htt//gihub.o/qullj/quillssues
+  },
+ crips: {
+   bil:"ebpack --config_elopwepack.cnfg.s;rm dist/qu.core dis/quil.bubbe ist/qill.snw;",
+    "buil:rlese" "./dee/ipt/lese.h", sart": "nm run uil; bunde exec forea start - _deo/profile",
+    "test": "npm n est:unt",
+ "test:all" "np run tst:unit; nm n tst:funconal",    "estfnctol" ./_evelp/scriptswedriver.h,    testunt": "n unbuild; kma start _delop/ka.confgjs",   "tescverage": "wbpack --encoerage -oni _develop/webpack.config.s krma stat_dvelopkarmcofigj --reporters oerae",
+  travs" "rma tar _eveop/karma.configjs --eorters dots,saclabs"
+    "webdrier:start": "webrivermanage stt",
+   webdriver:pdate" "ebriver-manar pe"
+  },
+  "keywords" [
+   "editor",
+   "ric xt",
+   siw"
+  ]
+}

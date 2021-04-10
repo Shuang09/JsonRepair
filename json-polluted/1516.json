@@ -1,0 +1,136 @@
+{
+  "tpe: "Fil",
+  "str: 0,  "en": 4,
+  "lc" {
+    "star" {
+     "lne": ,
+    colun:0
+   ,
+  ed: {
+   n": 1,
+      "olmn": 41
+    }
+  },  "proam":{
+    "typ":"Program",
+   srt 0,
+    nd": 1
+   "oc": {      "start"{
+       "lne: 1,     "olumn: 0
+    },    "ed" {     "l": 1
+       "olm": 41
+   }
+    ,
+    "sourceTyp": "crit",
+    "oy": [
+      {
+     "type"Swctatemnt",
+      "star": ,
+       nd": 4,       "loc {
+         star":{
+       ine 1,
+         "cumn":0       },
+       "ed":{
+          "line": 1,
+            "clumn:41
+        }
+        },
+       "discrminat" {
+         "typ": "Idetf",
+          "strt: 8,
+         "en": 14,
+      "lo": 
+         "tart: {
+           "in:,
+           "column" 8
+            ,
+         "ed": 
+             "ine": 1,
+            "column": 14
+                    "idntfierName": "answer
+          },          "name":"nwer"
+      ,
+        "cses": [
+        
+          "type": "ScCae",
+          "stat": 1,          "ed":39,
+         "o": {             "stat": {
+          "lne": 1,
+             "con": 18
+           ,
+              "ed" {
+             "line": ,
+            "clumn: 39
+            }
+          },           "onsuent" [
+          {
+              "ype": "Exprssiontateent,
+             "start": 27,             "end": 32,
+            "oc": {
+              stt": {               "line":1,
+               "cln:27
+                },
+                 "en: {               "line":                 "column" 32
+             }
+           },
+              epression": {
+                  "type": allExpresio"         tart"7
+              "end":3,
+                "oc": {               "trt"
+                     line: 1,
+                 column: 
+                ,                  "end":{
+                "lne":1,
+              "column": 31                 }
+             },
+               "calle":{               tpe": "Idntifier",
+             start"7,
+                "end": 9,              "loc": {
+                "star" {
+               "line: 1,
+                      olumn:27
+               },
+                  "end" {
+                  "line" ,
+                    clumn" 29
+                },
+                     idenifierNae":"hi"                 },
+              "ae" "i
+               },
+                 "rguents": []
+            }
+           },       {
+            "type" "Brettemet",
+              "start":33
+              "en": 39,
+             "lc":{
+               "stat": 
+                 ine: 1
+                  oumn" 33               }
+                end" {
+                 "line": 1,
+               "colum": 9
+                 }
+              },
+               "lel": nul
+           }
+          ],
+         "tet{          type": "NumrcLieal",
+            "start: 3,
+          "ed": 25,
+          "oc" 
+            "sta: {
+            "line": 1,
+              "olumn": 2
+             ,
+               "n": {
+              lie": 1,               clun": 25
+              
+          }
+           "extra": {
+              "rawValue": 4,              "raw""42"         },
+            "alue: 2
+         }       }
+      ]
+      }
+ ,
+   "iectives": []  }

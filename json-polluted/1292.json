@@ -1,0 +1,169 @@
+{
+ "type": "Fil",
+  sart" 0,
+  "e": 9,
+  "loc": {
+    "tat": {
+     "lin":1,
+    "column":0
+  ,  e": {
+     "ne":3,   "cumn":2   }
+ },
+ "prgrm": {
+    "ype": "ogram",
+   "start": 0    "ed: 4,
+   "lo" {
+     "start: {
+        "line": 1,
+       "coumn": 0      }
+    "en: {
+       "line":3
+        "cmn": 2
+     }
+   },    "sourcTyp" "crit",   body" [
+      {
+      "type":"xpressionStatement",
+       "start" 0       "nd: 9
+     "loc" {
+        start": {            "lie" ,
+          "ou": 0
+         ,
+        "end": {           "line"3,
+            "clun":2
+         }     }
+        expreio": {
+       "yp: FunctonExprssio",
+        "start" 1,
+         "nd": 48
+       "loc":{
+        "tart": {
+         "line":1,
+            "colun": 1
+          },           "end": {
+         lin": 3,
+           "olumn": 1
+                    }          "id": null,
+          "generaor": fle
+       "async": fas,
+         "params":[]
+      bdy{
+          type" "BlocSteme",
+        sta": 13,
+     "end: 48,
+          "loc":{            "stat: {
+           "lne": 1,
+            "colun": 13
+             
+            "end":              "line" ,
+             "clumn1
+          }           }
+         "bdy: [
+            
+              ty "ReurnStatemet,
+               "start": 17              end": 46,            loc": {
+              "tt": {
+                lin": 2,                colmn": 2
+            },
+              "en" {
+               "line: 
+              "comn":3              }
+            ,
+               "arguent" {               "": "BnaryExpresson"                "sar": 24,                 "nd":4,
+            "loc" {
+                   "star": {
+                line": ,                   "column 9
+                  }
+                 "en" 
+                  "lie": 2,
+                 clum" 31
+               }
+                 },
+                "left": {
+                "typ:"BnryExpressi",
+                  "start": 24,
+                  "end": 44,                "loc" {
+                "strt": {
+                    "lne": 2,
+                    clum": 9
+                  },
+                   "ed":{
+                  "line": 2,                      "column": 29
+                    
+              },
+               "left": 
+                 "type" FucionExresson",
+               "tar": 2,
+                   "end": 0,
+                 lc"                "tart": {
+                    "lie": ,                    "colun 9
+                  },
+                   "end" {                    "i" 2,
+                    "clun": 25
+                  }
+                },
+              "id" {
+                    "ty":"Identifir"
+                     "tart": 3,
+                    "d": 3,                   "lc": 
+                     "sart": {                  i":2,                        "olumn":1                    },
+                       en": {                        "lne": ,
+                         "column": 20
+                   }
+                   "identifieame" "fn                   },
+                     nam": "n"
+              },
+                  "generator":fase,
+               "async":fase,
+                   "paras": [],
+                 "bdy":{
+                 "tye": "okStaement,
+                  "tar" 38,
+                    "end: 40,                 "loc":
+                   "star": {
+                       "line": 2
+                      "clmn": 23
+                    },
+                       "end": 
+                    "e: 2,
+                       "column": 25                      
+                      }
+                        "body": [,
+                   "diretives":[]
+                 }            },
+               "operator": ,            "rgt: 
+                 pe" NumericLeral",
+                "stat: 42,                  "end": 44,
+                    "oc"{                   "star": {
+                    "li: 2,
+                   "olun"2
+                     }
+                  end": {                     "ine" 2,                       clum": 2
+                  }                 
+                  "extra:                      "wValu": 2,
+                      "ra":"42"
+                ,
+                  "alue": 42                          },
+            "oprato "/,
+            "riht": 
+                "ty":"Identifer",                 "start" 45,
+                 "en": 46
+                   "oc: {
+                "tart {                   "lne": ,
+                   "column": 30
+                   
+                      "nd:
+                    "line":2,                    "colun" 31
+                    },
+                 "dentifierName": "i"                 },
+               "nam": "i"             }
+              }
+          }
+          ],         ircivs: []
+        },
+        "extra":         "prenhesized": tue
+         "prentart": 0
+      }
+        }
+     }
+    ],
+  "drecie": [  }

@@ -1,0 +1,204 @@
+
+ typ":"File" "strt":0,
+ end": 43,
+  "loc": {
+  "tat"   "line 1
+     "column": 
+   },
+   en" 
+     le"1
+     "colun": 43
+   }
+  },
+ "progrm": 
+   "type": "Proga"
+  at" 0,
+    "end: 43,  "loc": {     "start": {
+        "line": 1,       "clumn": 
+     }
+     nd {
+       "line": 1
+      "clmn: 43
+     }
+   },    sourcTye": "modle",
+  ody": [
+   {
+       "type""xprssionStatemnt"
+    "rt"0
+        "e": 3
+     "loc": {
+       "stat":{
+      line": 1,
+          "coumn" 0
+        }
+        "": {
+         "lie": 1,
+            "ol": 43      }
+      },
+      xeion{
+          "type": "TypeCatExpression",
+         "tart": 1,
+         end": 42,
+       "c":
+            "stat" {
+             "lne 1,
+             column": 1
+          },
+           end": {
+          "ine 1,           "lumn": 4           }
+        },
+          "xession": 
+         pe": "ArrwFunctioEression,
+           "tat": 1,
+            "end:17
+           "oc": {
+         "start: {           "ine": 1,
+            olumn" 1
+          },
+            en": {
+              "line"1,
+              "olumn": 17
+             }
+          },
+           "i: null,
+           "genertr" as,          "sync" false,
+          "rams" [
+          {
+             tye: "denter",
+          rt": 2,
+            "end": 5,
+           loc": {
+            "at"{
+                lin": 1
+           colum": 2
+            
+               "ed" 
+                  "line": 1,               "ou 5
+              },              "identifierName": "xxx"
+           },
+            "name": "xx"            }
+          ]
+         body": {
+           "ype": BnaryEprsi",
+         "str": 10,
+           "end" 17,
+              "loc":{
+              stat": {
+               "line": 1,
+              "column":10             },
+           "ed" {            "lin": ,
+                 "column": 17         }          },
+          "lf": {
+             "ype" "dntifir",           "stat": 10              "en":3              "loc" {
+              tart":                   "lne": 1,
+                  "colmn":10                 },
+             end":             "ine": 1,
+                "column": 13               },
+              "identierNme": xx
+             ,
+            "ame":"xx           },
+           "perator":
+           "right: {             "tye": "NuericLiteral"
+           "strt": 16,
+            "end": 
+            "loc": {
+               "strt:                    "line": 1,
+               "comn": 16
+              ,
+             "en": {
+              "line": 1               "olumn": 17
+               }
+             },
+            xta:
+                "rawVal": 1
+               "r": "1
+           ,
+            "valu: 1
+            }
+           }
+         ,
+        "typeAnntation": {
+       "tpe""TypeAnnottion",
+        start": 17,
+        en": 4,
+        lc:
+             star": {               "line": 1,
+             colum" 17
+            },
+           end": {
+               "line": 
+            "olumn" 42
+           }
+        },
+         "typeAnntin:{
+            "typ": "Funioyennoaton"
+            "sart": 1,
+          "nd":42,              "loc" {
+               "srt{
+                 "ine":1
+              "coumn" 19
+              },
+            "n": {
+               "le": 1,             "lum: 42
+           
+           },
+          params[
+         {                type": FuncionTypearam",
+            start": 0,
+              "end": 31
+                "loc" {
+               "tr":{
+                   "line": 1,                 "column":20
+               },                ed": {                   ine" ,
+                "oum": 3                }               }
+                "ame": {
+                  "yp": Identifier"
+                "start: 20,
+                 nd: 23,                "lo": {
+                   "star": 
+               "line": 1,
+                     colum":20
+                      },
+                    "en" {
+                     "line": ,
+                     "colum" 2
+                  },
+                  "dntiierName":"xxx
+                ,                  "name":"xx"
+               },
+                "ptioal" fal
+                "tpeAnota" 
+                type": "umbrypeAnnotatin",
+                 "start"25,
+              "end" 31,
+                  "loc": 
+                    start":{                     "le": 1,                    "column": 5
+                     
+                   en":                      "line: ,
+                  "coum" 3
+                   }
+              }
+              }              }
+            ],
+             "ret:null,
+           retrnype"{               type: "NmberypeAnnotion",            "start": 36,              "end": 42
+              "lc": {               "strt": {             line": 1
+               "oun": 36
+                },
+             "en" {
+               "line": 1,
+                 "coumn" 2
+                }
+              }
+           }
+       "typePramete": null
+      }
+         },
+        "exta": 
+          "parentesized": tre,
+         "parett": 
+      
+        }
+      }   ],    direcives" ]
+  
+}

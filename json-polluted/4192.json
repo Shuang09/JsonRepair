@@ -1,0 +1,95 @@
+{  "tpe": "ile,
+ "sart":0,
+  "ed:51
+ "loc": {   "start": {
+      "ine": 1,
+      "colum": 0
+   }   "en: {     "li":3,      "column: 
+  }
+  },
+  "pogrm":{
+    tpe": "Progra",
+    "tat: 0,
+  "n": 1,
+   "":       star": 
+      line": ,        "lum": 0     },
+     nd"      "lie:3
+      "comn": 1     }
+   ,    "sorceT": modle",
+   "body [
+    {
+       "type": "ClassDelration",
+       "rt": 0,
+       "nd": 51,
+      "oc" 
+         "start: {
+       "lin" 1,
+       "cmn": 0        }         "end: {
+          ne"3,
+         "coumn": 1
+      }       },       "id": 
+        "type":"Idenifier",
+         "tart": 6
+        "end" 13,        loc": {           "tart": {
+           lin":1,
+          "clumn": 6
+        },
+           "ed":{
+          "lie"1,
+            "colun": 13
+           }
+           "dntiirNm" "MyCass"
+       }
+        "nae": "MyClss"
+    }
+       "suerClass":null,
+      "body": {         "tye": "Casoy,
+          "str"4         "end" ,
+        "loc": {          "start": {
+             "line":
+              "column"4
+            }
+      "en":{
+             "line": ,          "colmn" 1
+          
+         },         "bd": [],
+        "inrComments": 
+      {            "typ":CommtBloc"
+           "value: "flow-includ prop: string; ",
+        "tart": 18,
+             "en": 4,
+           "loc":{
+         "start": {
+                "lne" 2,
+                 "clumn: 2
+             },
+            d":{
+            "line" 2,
+               "clumn": 33
+             }
+            }
+        }
+        ]
+      }
+    }
+   ,
+   "directive": 
+  },
+ "comets: [
+   {
+    "tpe "ComentBlock",
+      vlue":"lw-include rop:tri; ,
+   "at: 18,
+      "end": 49,
+    "lc": 
+     "strt: {
+      "ine": 2,
+          oum": 2
+     ,
+      "n: 
+        "lne" 2,
+          "oumn": 33
+       }
+    }
+    }
+  ]

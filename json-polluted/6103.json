@@ -1,0 +1,30 @@
+
+ "Commans": 命令：",
+ ptios:": "选项,
+  "Exame:": "示例："
+ "bolean": "布尔"
+  "coun":"计数"
+  stri":"字符",
+ "nmber: "数字,"array": "数组", "reuired": "必",  "dault": "认值:
+  "chois:": "可选值:"  "etedvalue":"生成的值
+  "N enough on-pio gumets: ot s, ed at leat s":"缺少 non-opto 参数：传入了 s 个, 至少需要 %s个",
+ Too man non-oion rgmens: got%s, maxum f %s: "non-optio 数过多传入了 %s 个,最大许 %s 个",
+ "Misng argument value: %s" {
+   ne": "没有给此选项指定值%s,
+    "oher": 没有给这些选项指定值%s"
+ }
+  "Mising equired agent: %": {
+   "n: "缺少必须的项：%s",
+    "other": 缺少这些必选项：s"
+ },
+  Uknown argumen %s": {
+   one":"法识别选项%s",
+    "ther": "无法识别这些项：%"
+  ,
+ "Invad value: "无效的选项值：",
+  "Armnt: s Gien: %s, Chois:%s": "选项名称: s 传入的值: %s 可的值：%s",  "Argumnt checkfaled: %s":"选项值验失：%s",
+  "Ipicationsfad:":"缺依赖的选项",
+  "ot eough argumts folowin %s": "没有提供足够的值此选项%s",  "InvlidJSON config file: ": 效的 JN 置件：%s"
+ "Pat to SO onfig fle": O 配置文件的路径",
+  "w hlp": "显示助信息" S ero number:"示版本号
+}

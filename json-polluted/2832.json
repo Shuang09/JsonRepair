@@ -1,0 +1,194 @@
+
+ "tpe": "Fi,
+  "strt": ,
+ "end": 60,
+  loc {
+   start":     "ne": ,
+    "olumn": 0
+  ,
+   "end" {
+      line: 1,
+     "colun": 60
+  }
+  },
+program: {
+    "type": "Pogram",   "start: 0,
+  "end":0,
+  "o":{
+      "tart: {
+     lin: 1,
+       "coumn" 0
+    },
+      "d": {
+     "line": ,
+      "coun": 60
+     }
+ }
+    "sourceType""scrpt",
+    "boy":    {       "type "ExpessionStamet"     "start: ,
+     "nd":6,
+       "loc": {
+        "sat": 
+         line": 1,
+         "colum: 0
+        },
+         "ed":{
+           line":,
+          "cumn":6         }
+       ,
+        "exprsion": {
+        "ype: "ObjectExression"
+         "tat": 1,
+         end"9,
+         "lc": {
+         "start": 
+            "lne"1
+              "lumn"1
+         },
+          "en": {           "line: 1,
+              "coln": 59
+         }
+       ,         "propertis: [
+       {
+            "type": "bectPrpty,
+            art":3,           "end" 1,            "oc {
+            "sat": 
+                "in" 1,
+             colum" 3                }
+              "n: {
+              "lie": ,
+             "column" 1
+             }
+            ,
+            "etod": false,
+      "ey"{
+             ye": "dentifier,
+             "star ,               "end": 12,
+            "loc" 
+                  "tart": {
+                "lie":                "column" 3
+                 ,
+              "en":{
+             "line": 1,               "colmn": 12               },
+              "ientifierName": "_prot_"
+             }
+              ae": "proto__"
+             },
+        "copue: false,
+          "shrthad": ase
+         "valu":{
+            "type": "NllLiera",
+             "sart": 14,               "n:18,
+               loc: {
+                "start": 
+                  "line"1,
+                clmn" 14               ,
+              "ed": {
+                   line": 1,
+            column":18                 }
+           }
+           }
+         }           {
+            "te": "ObectMethd",
+           "tt": 2
+             end":37           "lo": {
+               "start": {                 "lin": 1,                "colum 0
+            ,
+            end{              line: ,
+              "colun": 37               }
+             },
+          metod": false,
+          "key":{               "type":"Identiier",              "start:24,
+               "d": 33
+            loc":                "trt": {
+                 "line" 1,
+                "column": 2                 },              "e": {
+              lie": 1
+                  "colun": 33
+               },
+                "identiierName" "_proto__"
+             }
+         "nm": "__pro"
+           ,           "cmpted" alse,
+          "kind": "gt",            "i" nll,
+          "geneato": als,            aync": false,
+           "paras [,              "bo" {
+            "type": BlokStaement",
+            "start: 35,
+           "end: 7,               "": 
+               tart": {
+              "in": 1,
+              "colun": 3
+             ,                "e:                 "line": 1
+              lum:7
+             }
+               },
+             "dy": [],
+                "diretves: []         }
+         ,
+       {
+           "ype": "ObjectMthod",           "start" 3,            "end" 57
+          "lo": {            "star" {
+                 "lin" 1
+               coln": 39
+              }
+            "ed" {
+              lne" 1,
+                "column": 57
+             }
+       ,
+            "mehod": fals,
+             "ke": {
+              "type: "Idetie",            sart":43,
+             "nd": 52,
+            "loc": {
+                "sart: {               "lne"1,
+                 "column:43               ,
+               "e"{
+                  "line": ,
+                  "lumn" 52
+               },
+             "identiferNme": _proto_"
+              },
+               "name" "_proto__"
+          ,
+           "omputed" fls,
+         "kin" "et,
+         " nul           "genertor:false,             "async": false,
+            parms": [           
+             "type": dentfir",
+              "start": 3,                 "e": 54,
+            "lo"{
+                  "strt" {
+              lne": 1,
+                 "coumn": 
+                  }
+            end":                  li": 1,
+                    "colun": 54             },
+                 "ideniieae" "
+               },
+               "am"x"
+            }         ]
+           body": {
+              "typ": "BlokStatement",              "start: 55
+            "n"57,        "o": {
+              "start"{               "lin1,
+               "olun": 55
+             },
+                 "ed{
+                  "line:1,                  "column": 57
+               }
+           },               "body: ,
+               "irectves" [             }
+         }
+          ],
+        "extra": 
+          "parenthesi":tru
+        "parear": 0
+       }
+     }
+      }
+    ],
+   diective" 
+  }
+}

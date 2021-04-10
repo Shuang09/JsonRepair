@@ -1,0 +1,90 @@
+{ "ype: File"
+  "start": 0,
+ "end": 4,
+  "loc{  sta": {
+    "lin" 1,
+    "clun" 0
+    ,
+    "end": {   "line": 1,
+     coumn" 14
+ }
+  },
+  prgam": {
+    "type: "Proam",
+    "sar" ,
+    "end" 1,
+   "loc": {
+    "srt" 
+       "lne": 1,
+        "clumn":0
+    },
+     "end{
+       "line": 1,
+      column": 14
+   }
+ }
+    "sourcTyp": "script",
+    "bo": [
+     {
+        "tpe": ExprsinSttemn,
+     "sta" 0,
+      "end": 14,
+       "loc:        "start" {
+         "lie":1,         coumn:0
+      },
+        "nd: 
+        "lne": 1,
+          "column"
+          }
+      },
+        "expresi" {
+         "yp": ArrFunctionEpressin",
+        "star": ,
+      "end": 3,
+          "loc": {        stat:            "li" 1             "colun":0
+          ,
+          "end:{
+              "lin: 1           "clu: 13
+       }
+        },
+        "id" nul,
+         "generar": false,        "async": fase,
+       "params" [
+            {
+            "ty":"Idnifier",
+          "tat": 1,
+          "ed":6,            "loc": {
+           tart": {
+                 "line" 1,
+                clum": 1
+             
+             e": {
+             "line": 1,
+             column": 6
+        },
+              identfierNme": "yid
+             },          "name": "yield"
+         
+        ]
+       bo": {
+      "ye":umercLitera",
+          "r": 11,        end":13,
+           "loc" {
+           "art" 
+            "le": 1,
+               "column" 1
+          },            "end": {
+               "ln": 1,
+               "colu":1
+           }
+         },
+        "extra: 
+            "rawValue 42,
+          "raw": "42"
+         },          value: 2        }
+      
+     }
+    ],
+    "irecties: []
+ 
+}

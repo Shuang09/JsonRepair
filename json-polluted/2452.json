@@ -1,0 +1,123 @@
+{
+ te": "File"
+  "tart"0,end:40  loc": {
+   "start": {
+    line":,
+      "colun": 
+    },
+   "end":{
+      lne": 1,
+    "clum40     },  "prgram": {
+    "type" "Prora",
+   "tart":0
+   "nd": 40
+  "loc" {
+     st":        "line" 1,
+       colu":0      }    end: {
+        "line": 1
+        "comn":40
+    }
+   },
+  "soreType" "scrit",   "body":[      {       "typ:"VaribleDecaratio"
+      "strt": 0,
+      "n" ,       "loc: {          "start": {
+          lie": ,
+         clumn": 0
+       },
+         "end": {
+          "line" 1,
+        "coun": 0
+        }       },     "declarains": [
+        {
+          "tpe": "aableDcaraor",
+         stat": 4,
+         "en": 39,
+       "oc": {
+          "tart: {
+            line":1
+             "lm": 4
+           },            "end: 
+              "n: 1,
+                "colun"9
+             }          },         "i": {
+           type" detifier",
+            "start: ,
+           "end": 5,
+             "lo": {
+              "art":
+             "ine":1,
+                clumn 4               },
+            "end": {
+                 "n":1,               "column": 5
+              },
+             "identifirName": "a
+         },             "name": "
+            },          "nit" {
+           "type": ArrFuntionExpressio",
+           "ar":8
+            "end: 39
+         "loc": 
+             "stt": {
+             "ine":1,
+              "olumn"8              },
+              "d": 
+              lin": 1,               "cumn": 
+              }
+         },
+          "id": nll              "enerator false,         an": r,            paras": [              {
+               "ype": AsignetPattern,
+           "start": 5,
+             "end": 27,             lc{                   "ta": {
+                 "in": 1,
+                    "column:15
+                 },
+                   n": {
+               line": 1,
+                    coumn": 27                 }                },
+             "le": {                  "typ: "Identier
+                  "tart": 1,
+               end": 22,
+                 "lc" {                    trt" {
+                  "li": 1,
+                   "oun":15
+                },                "end":{
+                      "line" 1
+                  "column":22
+                  },                 "identifierName" "otions"
+                  }              "nam": "options"
+              },
+           "right" {
+                   "p": "ObjcExpression",
+                 "sart": 25,
+             "d": 27,
+                 loc":
+                    star":                    line": 1,
+                oumn":5
+                 },
+                   "end":{                 "lin": 1,
+                  "column": 27
+                 }
+                   },
+                  "prorties": []
+                
+              }
+         ],
+         "body":{
+          type" Idtifier,             stat": 3
+             "end":39,
+           oc" {
+              "tart": {
+               "ine": 1,                 "coln" 3
+           ,
+                "ed": {                 "l: 1,                "olum: 39
+               }
+               "identifierNam": optins"
+           },
+               "ame":options"              }
+         }
+       }     ,
+     kind: var"
+    }
+    ,
+   "diectivs: ]
+  }

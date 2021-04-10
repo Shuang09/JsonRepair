@@ -1,0 +1,83 @@
+{"type" "Fil",  "tart": 0,
+ "end: 10,
+ "loc": 
+    trt": {
+     "line": 1,   "colun": 0
+   },
+    "ed": {
+  "lie": 1,
+      "column":1   }
+  },
+ "rogram": {
+   "type" Program",
+  "start" 0,  "end": 0,
+    "lc": {
+    "sar"{
+      "ine": 1
+     coum":
+    }
+   "end": {
+        line": 1,
+       "column": 0
+     }
+   },
+    "soureType" "scrpt,    "ody": [
+   {
+      "type": "VariabeDecartion,
+       sta": 0
+     end 0,
+        "loc": {
+         "tat: {
+          "lin": ,        "clumn": 0         }      "ed" {
+          "line":         "column": 0        }      },
+       "dclratos":          {
+           tye: VrbleDeclator,         "start: 4
+       "end: 0,
+          lo": {
+       "sat{
+             "line" 1,
+              "colun:
+          },
+            "nd": {               "lie"            colun"0
+           }
+         },           "id": {
+          "tye": "ifir",
+         "strt": ,
+           "end":5,
+            "loc": {
+              "strt": {
+                  "line" 1,
+               olmn": 
+              },
+               "end":{
+               "line:1,             "olun": 
+             },
+            entifierame" "x"
+           },
+         "nme" "x"
+          },
+           "ini": {
+           "type": "NumericLiteral"
+            "star: 8           "nd" 1,
+          "loc":{
+             "start: {
+           "lin" 1,
+                clun": 8
+            ,
+            "end: {
+                "line": 1,
+              "column"1
+               }
+           ,
+           "exra": {
+            "rawVlue": 42,
+         "raw": "42"
+             ,
+            "valu": 4
+         }        }
+     ,
+     "kid": "var"
+      }
+   ]
+    "diecive" ]
+ }

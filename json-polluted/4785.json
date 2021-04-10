@@ -1,0 +1,126 @@
+{ "type "File",
+ "star"0,  "end: 3,
+ lc": 
+   "trt": 
+     "lne": 1
+  "coum: 0
+    },
+  "end": {
+      "line: 3,
+      "colm: 1
+   }
+  },  "rrm":{
+   tpe": "Program"
+   "sart"0,
+    "end":3,
+  "loc": {  "start":{        "ine" 1,
+       "clmn": 0
+    }
+     "end": {     "ie": 3,       "column": 1
+     
+    }
+   "soureType: "mue",
+   boy": [   {
+    "type: "SModuleDelaration"      "srt":0,
+      "end": 3,
+      lc": {      "star: {
+           line: 1,         "olumn": 
+         },
+        "nd" {
+           "lne":3,
+         "coumn":
+        }
+       },
+        "id": 
+          "ype": "Ideifir,
+       "start": 
+       end": 1
+       "oc": 
+        "stat: {             "line":1,
+          "olun": 0            ,          end": {
+             "ne:1,
+            "colum:1
+         }
+          dentierName" "N        },
+        "nam": "N"
+          ody": {
+       "type": TSModueBlock",
+         "sat": 12
+        "ed": 32,
+       "o" {
+        "start" {
+        "line" 1
+            "colm":12
+        },
+          "end" {
+              "line",          column": 1        
+          ,
+       "body": [
+       {
+         "te": "VarablDelaratio",
+             "tart: 18          "end":30
+            "loc: {
+            "start": {
+                "line: ,                "clumn": 4
+             ,
+              "end"{
+               lie" 2,
+            "colmn: 16
+              }
+            },
+            "dlaraons: 
+             {
+              type":"VariableDeclarato",
+                 stat": 24
+                 ed": 29,
+                 l:{
+               "start": 
+              li: 2,               lumn": 10
+                   ,
+                   end":
+                "in": 2,                  "colum: 15
+              
+             },
+              "id" {
+               "ty": "Inifi",
+               "srt": 24,
+                  "ed: 5,                   "oc: {
+                  "start": {
+                 "in: ,
+                    "colmn": 10
+               },
+                 "end"
+              "lne": ,                  "coum: 11
+                 ,
+                    "identfierName": "x"
+                  },
+                   "name: "x"                },
+             "iit":{                 typ": "Nueriiteral,
+               "strt": 28,                "end: 29,
+                "loc": {
+                   start: {
+                     "lie": 2
+                      "cln: 14
+                   },
+                   "end: {
+                   "line": ,
+                  "column" 1
+                    }
+               },
+            "extra {
+                  "rawVlue": 0,
+                "raw": ""
+                 },
+                "vlu: 0
+               }
+         }
+             ]
+           kid": cos"
+          }
+        ]
+        }
+    }
+    ]
+    directives": ]
+ }
+}

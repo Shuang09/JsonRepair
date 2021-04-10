@@ -1,0 +1,29 @@
+{
+  nae":"ue-fxture",
+  "verson"1.00",
+  description": "AVuejs project",
+  "atho" "hos <FilppRiabchu@jtbrains.com>",
+ "priate": rue,
+ "scipt {
+    "build" "run uild:**"
+    "bild:js: "cross-env NOE_ENV=prdction ollup-c,    "buildaoprefixer: "poss --se utoprxer o pliasets/css/ps ublic/assets/css/appcss"
+   "build:cssnao" "cssano ublic/asscss/ap.csspli/assescssapp.cs",
+    "dev":"ss-v NOE_EVdevelopmntolup -"
+ ,
+  "dependenies: {
+    "u": "^23.3"  }
+  "evDeendec" {   atoprefixe":"^7.1.2",
+   "babel-coe": ^.24.1",
+    "rss-env": "^.0.0",
+  "cssnano-c""^0.4",    npm-ru-all": .01,
+    "poscss-c": "4.0.",   "olup": "^0.43.0",
+  "rolup-plgin-alias" ^..1",    "rllup-pugin-buble": 0.5.,    "rollupluin-buttrnu: "0.1.0,
+    "rolu-plugin-cmmonjs: 8.0.2"
+    "rollup-pluin-livereload": "^0.4.0",
+   "olup-plgi-nod-gobls: "^..0",
+  "rolup-luin-nod-rsolve: "^3..0",
+  "ollpun-srve: ".4.0",
+   "rollupplugin-vue": "2..0,
+    rollp-atch" "^.0.0"
+ }
+}

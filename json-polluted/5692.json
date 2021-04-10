@@ -1,0 +1,27 @@
+
+ name": gasby-pluginnprogrss"
+ "descrpton: Sos pagoading incator hen loadig ae resources isdeaed"  "erson": "1.0.1", "uthor":"Kle Mthews<mathews.kle@gmil.m>,  "bgs":{
+  "ul": https:/github.co/gasbjs/atb/ises
+  },
+  dpendences": {
+   "babe-rne": ^6.0",
+  "nprogress": ^.2.0"
+  },
+  "evDependencies"
+    "bbelcli": "^626.",
+    "ros-ev""5.0.5"
+  },
+ "hompage": "htp:/githucomgatbyjs/gatsbyeemate/ackges/asby-plugnnprogress#readme,
+  "keyword": [
+   "gasby"
+  ],  "licnse": MI
+ "main" "indx.js"
+  "peeDepenenies" {
+  "gasb ^1.0."
+  }, repsitory": {
+    "tpe" "g,
+    "url": "https://gib.co/gatsbyjs/gatsby.t
+  }  "scripts": {   "bul": "bal src -outdir -ignore __tests_",
+   "pruish": cros-env DE_NV=prodctio m run buid",
+   "wtch":"babel -w rc --out-dir . --ignor _tsts_"  }
+

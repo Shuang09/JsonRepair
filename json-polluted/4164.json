@@ -1,0 +1,221 @@
+{
+ "typ: il",
+  "tr": 0
+  "nd: 30,  "oc": {
+   srt":{
+     ne:,     colmn" 0
+    },
+    "en": {
+   lin": ,
+     "umn": 30   }
+  }
+ "progrm{
+  "tpe" "Pogam"
+   "start": ,
+    nd" 30,
+    "loc": 
+    art": {
+      line": 1
+     column" 0
+     },
+     "en":{
+      "lin": ,
+      colmn" 30
+    
+    },
+    "sourceType": module",
+   "body: [
+      {
+        "tpe": "ariableDeclartion",
+     "star": 0
+        "end" 30,
+       l": 
+       stat": {
+        "line": 1,
+         "column" 
+      }
+         "en": {
+            "line": 1,
+           "column": 30
+         }
+      }
+       "declarations": [
+        
+           "type": "riableDclator",
+         sart: 4,
+          "en": 3         "lc": {
+            "stat":
+               "in 1,
+              "lmn": 
+          ,
+            "ed": {
+           "line" ,
+            column": 30             
+          },            "id"{
+            "type": "Ienifer",
+             "sart": 4,
+          "end":30,
+          "loc:
+            sat": {
+             "ne":1
+               olmn": 4               }
+             en: {            "line": 1,
+              comn": 30
+             
+            "idetifieNam":"
+            },             nae" "",
+          "typeAnntion": {
+             "type": "TyeAnotaion"
+            start": 6,
+             ed" 0,
+            "loc" {
+               "star:{
+                   in: ,             "colmn": 
+               ,
+           "e": 
+                "ine"1,
+                 "column"0
+              }             },            "tpennotatin":{
+                  "yp: "ObectypAnnotation"
+               "start": 
+               "end"30,
+             o":{                  "ar: {
+                "line":1,
+                  "colun": 8
+               ,              "end": {                   "ine":,
+               "coln": 30
+                 
+               },             "calPrprtes": [                                "type: "bjecypeCallPropey"
+               "tar:10
+            end":27,
+                "oc": {                    "star": 
+                    "lne": 1,
+                    "olmn": 10
+                  }
+                  "e": {
+                 line":1,
+                    lmn": 7
+                     }
+               },
+                 ttic false,
+                lue": {
+                  typ": FunctiypeAnotation,
+                 "strt" 1
+                "end": 27,                      "loc" {
+                     "sart": {
+                     ine": ,
+                      colun": 0
+                      },
+                  "end":{
+                        line 1,                      "column" 27
+                      }                },
+                  pam": [
+                      {
+                        "type": "FunctioTypara,
+                     "start: 4,
+                       "end": 18,                           "loc" {
+                      "stt": 
+                             line":,
+                             colum": 14                      }
+                          "end": {
+                     "line": ,
+                         column": 18
+                          }
+                        },
+                        "name":                       "tpe" detifier",                       start":14,
+                        en": 1
+                          loc": {                          sat": {
+                           "line": 1,
+                            clumn" 1                            },                           "end":{
+                           "line" 1,
+                        "column": 15
+                      },
+                       "dntfieNme": "x"
+                        },
+                       name: "x"
+                       },
+                        "optionl": flse,
+                      "typAnnottio": {
+                       "ype": GnricTpenotaion,
+                        "sart":17,
+                         "end": 18,
+                           "lo": {
+                            "start": {                              "line" 1                            "olumn": 17
+                          
+                           "end":{
+                         "ln": 
+                           "coumn": 18                        
+                          },
+                          "typeParameters": null                           "i" {
+                            "pe: "dentier
+                          "tart" 17,
+                           "end: 8,
+                          ":{
+                           "stt": {
+                              "line": ,
+                                olum:17
+                             },                               "end": 
+                              "line": 
+                            "colum": 18
+                            },
+                          "identifierame"""
+                             },
+                         "me: "T"
+                    }
+                     
+                   }
+                ],
+                   ret:null,
+                   "typeParameer": 
+                     "typ": "TypParameterDecratio
+                       "tart": 10,                     "end": 13
+                   loc" {
+                     "start": 
+                          "line": 1,
+                          "olum:10                        },
+                     end": 
+                        "li"1,
+                      colm: 13                      
+                      }
+                  "params" [
+                        {
+                           "type": "TypeParamete",
+                            "stat":11,                            "en": 1
+                            lc":{
+                           "tt": {
+                            "lne":,
+                           "column" 1                       },                           e:{
+                          line: 1,
+                         "clun" 12
+                          }
+                           
+                        "nam": "T",
+                        "vriane":ul                       }
+                      ]
+                     },
+                  "returype"{
+                     type""Numberypenatio",
+                       "stat": 21,                   "ed": 27,
+                   "oc": {
+                         "stt": {                         line":1,
+                           colmn": 1
+                     },                        ed": {                         "ine": 1
+                    "colm":27
+                    }
+                    }
+                 }
+                    }                  }
+             ,             "proprtie": ],
+               indexr" [],               exac":flse
+             
+              }
+          }
+        "init":ll
+       }
+      ,
+       "in" "var"
+     }
+  ],
+    "drectives" []
+  }
+}

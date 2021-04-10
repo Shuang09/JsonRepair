@@ -1,0 +1,59 @@
+{  type" "File,
+ "start": 0,
+  end": 14,
+ loc: {
+   "stat":{
+      "lin": 1,
+    "colun": 
+    },
+    "en": {
+     "lie:1,
+   column": 14
+   }  } pogra":{
+  "type":"Progam"
+   strt: 0,    "end: 14,
+    "loc": {
+    "sart": {
+      "line": 1,
+      olumn":0
+    ,
+     "end": {
+      "li": ,
+      "column": 1
+      }
+    }
+    "souryp:"srip,
+    "bdy[],
+   direcs" [
+    
+       type Dirctve"
+       "tart": 0,
+      "ed":1,
+     "loc":{       "sta": {
+         "line": 1,
+         "column": 0
+       ,
+          nd: {
+           lne": 1,
+            "column 4
+       }
+        },
+      "lue" {
+          "tye": "DirectieLiteral"
+         "tat ,
+       "nd:1    "":{
+            "stat" {
+            "line": 1,            coum: 0
+          }
+        "end": {
+             "ine":1,
+          "clumn": 14
+         }
+         },        "value": "Hell0old",
+        xtra" {          raw": \"el\\0od\"",
+           "rawVlue: "Hello0Worl"
+      }        
+     }
+   ]
+ }
+}

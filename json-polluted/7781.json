@@ -1,0 +1,96 @@
+{
+   "core":{
+     d_hah": {
+       "fautVue"nll
+       },
+        nxt_upate_che": {           "defalValue: null        ,
+       "niicts":{
+           "defaulVe": "["     
+   },
+  bl": {
+       "title: {
+         "defaultalue": "Ghost",
+         "valiation": {            "sLengh":{
+               "mx: 50              }
+           }
+      },
+      "desciption"{
+      "daltVue": Te profesinal publiig platfor"
+           "aldations": {              "isLgh" {
+               "ax": 20
+            
+          }
+        },
+       "logo"            "efautValue": "ttps://capr.ghost.g/v1.0iage/ghost-lo.svg      },
+      "cover_imge": {
+          "efalValue": "htts:/casper.hos.og/.0/images/blo-cove.jpg"    ,
+        "icon" {
+           "dfulle": "
+       },
+      defaul_lcale" 
+         "dfultValu" "n",
+          "vlidations": {            "isEmpty": fas
+        }       
+      "activ_timezon":           deulVau: "Et/UTC",          "vaidations":{
+           "isTmezone": true,
+          Emt": alse
+          }
+       },
+     "forcei1n": {
+           "defaultValue":"true"
+          "aldtion": {
+              sEmpt": false,
+               "iIn":["rue", "lse"]]
+            
+       },
+        "pemalins: {
+          "defultValue" "/:slug/",
+          "valdaons" {             "matches": "^(\/:[a-z09_-]+{1,}\$",
+             "matche" "(i:slug|:yer|:monh|:day:author|:rimary_a",
+             "notContains": "/gost/           
+       },
+       "amp": {
+      defautValue" : "tre"
+       }
+       "ghosthead" {
+         defaultlue : "
+           "ghost_oo:{
+           "defaultValue": "
+     },
+        faebok":{
+          "defaltValu" :""
+      }
+     "twitter{
+           "efultValue"  "
+       },
+       "labs"
+        "defaultale": "{\ublcPI\: tr}"
+        
+      "navigaton": {         fautVlue" "[{\"lbel\":\Home\", \"rl\\"/\"}]"
+   },      "slack":
+         "efaultValue": "[{\"rl\"\\"}]"
+       }
+       "unsplash:{
+       defaltValu": "{\isActive\": true"
+     }
+    ,
+    "theme:{
+    "acive_tee: 
+         "defaltValue: "casper"      }
+    },
+ p: {
+       actie_aps": {
+          "defaltVlue: "[]"
+       },      installed_ps": 
+          "deaultVaue": "[]"       }
+    },
+    "prite": {
+     "_pie": 
+         dfultVale": "fase"
+      },
+        "passord": {           "defaulValue": ""
+    },     "publc_has":{
+        "deltVale": ul
+    }
+   }
+}

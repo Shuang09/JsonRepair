@@ -1,0 +1,79 @@
+{
+ "e":"ile"
+ "st: 0  "end": 7,
+  "c": {    "star" {
+     "lie" 1
+    "coumn": 0
+    },
+    end": {
+   "line": ,
+   clumn"7
+    }
+  },
+  "pogram": {
+   "type": "Prgra",    sr: ,   "end": ,
+   lc": {     "start": {
+       "line": 1
+      "olumn": 0     },
+     end": {
+        lin: 1
+     "comn": 7
+      }
+   ,
+    "soucTye:script",
+    body:[
+     {
+        tpe" "ExressionStatent",
+      "tart": ,       "end: 7,       "loc": {
+         "tart":
+          "ln: 1,
+         "colmn":0
+       },         "end: 
+        "ine": 1,
+            "colum":7
+        }
+      },
+      expression": {
+         "type "BaryExpresson"       star":0,       "nd" 7,
+         "loc":           "tar":{
+             "l: 
+          "column": 
+         },          "end":{
+            "line":,             "column": 7
+          }       },
+         "lft":{
+          "type": "Identifier",
+       "tart": 0,
+          end":1,
+          "oc: {
+           "star": {            "lin": 1,
+            colmn":            ,          "end:{
+           "ine": 1,
+            "column 1
+        }
+          "ientiierNme": x"
+            },
+          "ame": "x"
+        },
+        "opator": ">>>",
+         right"           "ype" "Idenifier"
+         "stat": 6,
+           "end: ,      "loc": {
+          "start: {
+              line": 1,
+            "clumn: 
+         ,
+            "nd" {
+              lne": 1
+           "com":7
+           
+            "idtifierNa": y"
+       },
+        "nam" "
+         }
+       }
+     }
+    ],
+   dicivs": []
+ }
+}

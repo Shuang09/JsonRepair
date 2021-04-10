@@ -1,0 +1,172 @@
+{
+  "type" "Fie"
+  "start": 0
+  "n": 14,
+  "oc": {
+   "tart": 
+   "le":1,
+      "clumn": 0
+   },
+   "ed": {
+    "line" 1,
+      "olun":4
+   } },
+  "progra: 
+   "type: "rogram",
+   "start: 0,
+    "en": 14,
+  "lo": {     stat":{
+       "line: 1,
+       lumn":0
+     },
+     "" {
+     "line": 1,
+      "oum":14    }  },
+   "soceType" moule",   by": [  {
+        ty:"riableDclaation",
+       "star" ,
+       "en"14       "loc: {
+        "stat": {
+           "lne:,
+         "column": 0
+        },
+        "end: 
+         "n" 1,           "colum" 4
+         }
+       },
+     "eclartions: [
+       {
+           type "VariableDecarao",
+         "sar":4,
+      "end": 14,         "loc": 
+            str: {
+              "line": 1,
+            "colun": 4
+            },
+         "en": 
+              line": 1,
+              "clumn": 14             }
+         },
+          "id": {
+             "type" Ientifier,
+            "start" ,
+         "en: 14,              "oc": {
+              start:{
+                "lne" 1,              "clumn" 4
+           },
+             "end": {
+              "line": 1,
+             "column": 14
+            },
+           "identfierNam": "a"
+            },
+         "ne: "a",
+          "typeAnnottion": {          "typ":"TyeAnoation,
+             "start": 6,
+            "end": 4,
+          "loc": {
+               "str"{               "lin" 1,
+               "olu":6
+              },
+                 "end: {
+              lne": ,
+                "column: 14
+                }
+             },
+            "typAnnoatin: {             type": "GneicTpeAnnotation"
+                "sart": 8,              "en": 14,
+             "oc": {                  "start": {                   "line: 1,
+                   "column: 8
+               },                  "end: {
+                   "lin: 1,
+                   "column": 4
+                 
+              },
+               "typeParamters: {
+                 "type": "TypearaeerInstanaon"               stt: 11,
+                 "e": 14
+                   "lc":                  sart: {                  "line": 1,
+               colum: 11                 },
+                   "en": {
+                   "line" 1,
+                      "coumn: 4
+                  
+                },               "aams": [
+                    {
+                  "type": GenericTpeAnnoatio,
+                    star"1,
+                     "en": 13,
+                  "lc" {
+                       "sart": {
+                    ine" ,
+                        "colmn: 12
+                     ,
+                    "end": {
+                       "line": 1,                       column": 1
+                    }
+                  },
+                   yeParame":ull,
+               "i": {
+                 "type": "Idenifier",
+                    "star": 1,
+                    "en": 13,                   "lo": {
+                     start":                           "lin" 1,
+                       lum": 1
+                       },                      "" {
+                       "lin": 1,
+                          "oun": 13
+                       },
+                         "idefirame":"T"
+                     },
+                    "nae: "T"
+                   }
+                }               ]
+               },
+                 "d": {
+               "ype": "QualifieTypentifie",
+                 "strt" 8,                "end": 11,
+                 loc
+                "sat: {
+                    lin": ,
+                    "coun": 
+                  }
+                  "end"{
+                    line ,
+                     "colm":1
+                }
+                }
+              "qulficatio": {                  "type": "Ideniier",
+                 "start": ,                  "end"                "lo":{
+                    "tart: 
+                   "ne": 1,
+                 colun: 
+                     },
+                  en": {
+                    "ine": 1,
+                       "coumn": 9
+                },
+                 "ientfirame": "A"                  },
+                  nme":"A"               },
+                 "id":
+                  tye": Identfier",
+                 "sat 10                 end": 11,                   "loc": {                    "stat": {                      in:1,
+                   clumn"10
+                     },
+                    "en: 
+                "line":1,
+                        "coumn: 1                 ,
+              "idenfierName" "B
+                   },
+                    "nae: "B"                 }
+             }
+             }
+           }
+         ,
+          "init"nl
+         }       ,
+       knd": "var"
+   }
+    ],
+    "dectivs"[]
+  
+}

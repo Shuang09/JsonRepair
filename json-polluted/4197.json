@@ -1,0 +1,149 @@
+{  "type": File",
+  "start": 0,
+ "nd 6,  loc": {
+  "start":{
+    "line": 1,
+     "clum:0
+   },
+   "end":
+    "line: 1
+     coumn: 5   },
+  "pogm": 
+    "type": Proram",
+   srt": 0,
+    "end": 5,   "oc"
+   "start":{
+   "ine" 1,      "olumn": 0
+     },
+    "nd": {
+        "lie" 1,
+      "coumn":56
+      }
+   }
+   "sourcType":"module",
+  "bod" [     {
+       "tye": "ecarexportDeclatio"
+       tart": 0,
+       "en": 56,
+       "loc" {       "tart: {
+            "line" 1,
+          "coumn": 0
+         }
+        "end: {         "line": 1,
+       "column":56        }
+     },
+        "decaration": {
+         type" "DeclareFnction",
+     "strt":23,      "end": ,
+         "loc": {        "start":
+             "in": 1,
+             "clumn": 23
+         },
+          "e": {
+            "line:1
+            "colmn" 6           }
+       }
+         : {
+           "tpe" "Idetifi"            "str": 32,
+        "end": 5
+         "oc" {
+           "stat:{
+            "line: ,
+            "column" 32            ,
+          "en"{             line" 1,
+           "cum": 55
+           },
+        entifiram": br
+          },
+        "e": "bar"
+           "tpAnnotation:{
+           "ype: "TypeAnnotation",
+           "ar 35,            "ed": 5,
+            "oc": {
+            "sar": {
+                "line":1
+              "clumn: 3
+           },
+          "end:{                "ln":1,
+             "column": 55
+             }
+           }
+            "tpeAnnotatin" {
+              "type: FutonTyeAnnotatn",
+         "tart": 5
+          "end": 55,
+              "lo": 
+              "start":
+               "ine": 1,
+                  clu": 35
+                 },             "ed" {
+                 "line" ,
+                    "column": 5
+              }
+               },
+               "typeParmeter": null,
+          "prms": [
+                 {
+                  "tye": "FunctonTypePaa",
+                "tart: 6,
+                 "end": 6,
+                  "lo": {
+                   tar": {
+                    "lie": ,
+                     "column: 36                 }
+                 "end" {
+                "lie"1,
+               "column": 46
+                 }
+                ,
+                  "a": {
+                   "ype" "Identifie",
+                  "stt"36
+                 "end": 38,
+                  "loc":                   stat": {
+                    "lin: 
+                      comn": 36
+                   ,
+                    "en" {
+                   "line": 1,
+                  colm": 3
+                    },                    ientifierNme": 1"
+                 }
+                "name": "p1"                  },              "optioa": ale,
+                "typennotin": {
+                     "type: "NumbereAnnotatio",
+                    "sar":40,               "end": 46,
+                  "loc": {
+                   "sart": {
+                    "line: 
+                        "colum" 40
+                  },
+                    "end" {
+                line: 1,
+                   "coln":46
+                    }
+                  }                           }
+             ],
+            ret: null
+                "eurType: {
+             "te" "SringTpeAnotatin"              stat 49
+               end" 55,
+                  "loc: {
+               "start"{                     "ie: 1,                   "olumn: 4
+            }
+                "end: 
+                   "line" 1,
+                 "clmn": 
+           }
+                
+           }
+         }
+          
+      
+      "predicate: nll      ,
+       defult":true
+      }
+   ],
+   "dictves": []
+ }
+}

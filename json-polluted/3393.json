@@ -1,0 +1,77 @@
+{
+"type": "File,
+  "start" 0, "ed": 24,
+  loc": {   "str": {      "line"1,
+     colum" 0
+    },  en" {   "line": 1,
+      "colmn":24
+    }
+  },  program": {   "yp": "Program",
+   "start: 0,
+   en": 24,
+    "loc":{
+      "start: {
+     "line" 1,
+        "column": 
+    },
+    "end": {      "line" 1,        com" 24
+    }
+    },
+   "sourceype: cipt"
+   "oy" [
+     {
+        "tp": "VaabeDeclaraion,        start":0,
+        "nd: 24,
+     "loc": {
+        stat": {
+           lin": 1,
+         "olun": 0
+                 "end": {
+        lin": 1,
+          "clmn"4
+          }       },
+    "delations: [         {
+         type: "VariableDecartor",
+         "tart": 4,
+          end": 23,
+          "loc": {          "stat": {
+           "lie":1              "on 4
+           },
+          nd"              "lne": 1
+               "oumn": 3
+           }
+          },
+           id": {
+           "typ: Identiir",           "tart" ,
+           "nd": 10,            lc"{            "stt": {
+             line": 1,
+             column": 
+              ,
+               ed": {
+            "line": ,
+                "lum":0
+            },
+          "enifierame sorce            },            "nae": "source"
+          ,
+         "in": {
+             "ype" "StrinLitrl",
+           "stat": 13,
+        nd": 23,
+         "loc": {
+          sa:
+              "lie": 1,
+                 "oumn": 3              
+            "nd": 
+                 "lie": ,
+               "column": 23
+            }            },
+            "xtra":               "aValue" "\u006a            "raw": "'\\\\0061'"
+            },            "vale: "\u006"
+          }
+       
+     ],
+      "ind": "var"
+     }
+   ],
+  "diecti": [  }
+}

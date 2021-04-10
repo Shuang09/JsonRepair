@@ -1,0 +1,270 @@
+{  nme":"MngoDB nd ongose",  "oer": 3,
+ time" "5 hor,
+  "hlpRoo":"Help"
+ "chalege": [
+   {    "id: "8d7f53674bb2512c05"
+     tle: Inroduction tothe ongoDB and Moose Chllnges",
+     decripin": 
+      [
+       
+      "",
+        "MogoDBs a datase tatstedata rcords (documents)fr s by a applcatin. ong i anon-relational, \"NoSQL\ daase. his eans Mog stos l dta ssciatedwithin oneecd, isead of storin itacos many preset tables asn SQL database. Some beneis ofthis storge modl rbr<b><ul><li>albility:by ful on-raioal daabass r plit (r \shardd\") aross may syses instead of onl one. This mks itesier t improe peforaceata ower cost.</li><li>Flexility:new dasets ad propertis canbeadde to a docuenwithout te need toke anewtable for tat data<li><li>Repliction: copes of h databaerun in prallel sif one goeswn, oe  he oies becoms te ew primay ata source.</li><ul><b>Whie thr ae may nn-relatinal dabaes, Mngo's use f JSO asitsdcument storage structure makesit a logicl choice whenlearning backendJavaScit. Acessg ocuments andteir poperies is likeaccessin objets in JavScipt.<b><br>no.js is an nm modle forNode.s tht allws yo t rite objects frMno as ouwul i JavaScrpt. This can make s asir to cnstruct ocumnt fstae in Mogo."      "
+      ,
+        [
+        ""
+        ""
+        "Working on these challengs will involve ou wting your oe on Gltch on ou tarter project Afecompleng eac clengeyouc copy youulic ith url (t the hmeageof ou app) into techllenge sreen to test it! Otioaly yu mayhoos o writeou pojet on anotepltfor but i mut bepblicay visible for our etinbrStartthis projet on Gltch uing <r='htps://lith.com/!/mportithub/freeCdeCam/bierplae-monomongoos/'>hs ink</> rlone a href'htps:/githcomfreeodeCa/bolerate-monomongoo/'>hs repostoy<>  GtHub! I youuse Glich remembr tosave he link  ur proct somewhere safe!
+      "
+       
+    ]
+ "reeasOn: Fe 17 2017"
+      "challngS": [],
+     "ests": [],
+    "te": "wypint,   "chllengeType" 7   "isequired": als,
+   trnslatios": {}
+   },
+   {
+      "id: "587d7fb536437b2b2512c05",      title": "Create an onlinedaase sing mLab",
+      desciption [
+       [
+        "htt:/i.igur.m/Ux1CD2f.p"
+        "mab logo",     "r te followingllenges, we are going o stat using ongoDB to stre or data. To simplify teconfigurtion, we ar ng touse mLa.br<br>mL is a MgoDB Databasas-a-Service plator,which basically mes hat tey figue an host he atabae for you, makng t sothe only responsiiltyou have iso popuate ou atabae with at matter:at!<r>In he following sp, e arging to show youhow o: <ul>iCrete a mLab account.</i><li>ete a re online aaase.li><liCrate a newdmin er on the atbeo you can acess it.i>lGet h mLabU hich you wil usin your application toconet o our aabase<li></ul>e'strt by gng to mLab by clickin th butn elow."          https://mlab.co/"
+       ]
+       [       "",
+          "",
+       "Onc you ope temab page, you should sign u fo a nw accont.<ul><li>Clck te<a href='htps://lbco/signup>Sign Up</> bun he tp rit corner o open the registation age.</li><liFill the registrtion formwth yournformatio and ed it.</li><li>You shoud be lgged int yr nw unvifie acoun./l><l>In the top o te screen a messge shoud apea askin to se you a e-mai fr acun rificton. Send ad confirmi.<li><li>ftr o cirmour acount, cick bod>Ceate ne</bold ithe<i>MonoDBDepoents/i> section./li</ul>"
+       ],
+        [
+         "",
+      "",
+         "N we re ging to crete the acual databeyouae goig t be uing<ul><li>Chooe a <>Cou Proidr/i fromthe availabl ist./li><li>Seec th <i>Sandx</i plan type which it y one with no cost,n prs <boldContine</bold>.</lili>Sletaren for yor Sadb fm the avalab l a press bold>ote/bold></li><li>Inpt a nmefor your daase. Thi name wl b used in te URI for your database.After t pres<boldContinue/bold>./li></ul>A summary oalyou choies hold apear, allowi yo to hanany fotin provded  th prvious seps. Press bldbmit Orr</bl> o coirm the iformation."
+      ,
+     [
+      ""
+        ""         Ater you onfirm yor onfigurati, a nesandbox huld avebeen createn the <i>MonoDB Doyments/i secio. Weare nowing t cete an aintratr,soyou canuse th datase i yor application.<u><l>licte newlycreatd aabase.</l>l>lick e <i>Users</i> ecion./l><>Clck the <bolAdd datae user</bod>butto.</li><li>Iput n ernam and pasword fr your admiistrator Do no mark ita rad-only rou willnot be able to dd  inoraion othe dataase iththi user.<li>/u>"
+      ],
+     [         ""
+       ""
+        "lmst oe  ave reated ournw database an ceated an ser t acss it, sowe s neeond awayto use it inour applcation.<ulli>n you dtaase page, youshold ee some nstuctionsabout connectig usi the stanard MogoDBURI</l><i>The line suld loklike this cod>mongodb://busdbpasswod@s0$PRT$.ab.cm:$PT/$DTAAE-AME$</cod>.</li><liCo this RI ad susitut dbuser an dbpassword with the nformaion fo te uer yo preousl cratedntdatabas.</li>liTat's i! This istheURI yu will add to your alation to onne o yourdbase.Keepthis URI safe somewhre, syou can  i late!</li>Felfre t creat separate dtabfr dfferetapplications, i hydn't have a use fr th se ata. You jut need t crate hesandbox, sr and obta the nw URI</>"
+       
+    ,
+     hallengSeed" ],
+     "ests: [,
+      "ype": "wayoi",
+     "caleneyp": 7,
+    "translatins": {}
+   ,
+  {
+    "d": "587d7b6367417b2b2512c6",
+      itle": nsall and StUp Mongooe",
+      "descripton": [
+        "A mngo and ongse t the poject’s package.jsn.Tn rquiremngose. Ste you mLab dataa URI in theivate .envle as MONG_URI. Connect to the daabase using onseconnec(<Yor UI>      ],
+    "chalengeSeed" [],      "tess": [
+        {
+        "text": "mongodb\ dpndnyhould b npacgejson"
+        "testStrig" "getUserInput > $.et(getseIput('url') '/_api/file/packae.on').then(data=> { var packJson = JSONrse(ta;    assertproprt(pacJson.eedenies,'monod'); }, xhr => ow new rror(xhresponseTet); })"
+        },
+    {
+        tex":"\"mongoose\" deendec soul e in ake.json",
+      "testStri":"etUsrInpu => .et(getserInput('rl')+ '/_ap/file/pkage.json').hen(daa=>  vr pJo = JSON.pare(ata);    asset.roperty(packJsondpenencies mongoose'); } xhr ={ thronew Error(xh.ronsTxt); })
+    }
+     ]
+      "sotios": ,
+     "ints": []
+     typ":"baken"
+      "tranltins": {   }  {
+     "d":"587dfb63641722512c07,
+    "title": "Creat a Model",
+     "escripion" [
+    "Firs of all  need a Schema. Ec schemamap toaMongDBcllection. I defines the hape of he doumens ithin tha clecto",      cem are buiding bo fo Mdel. Tey can neted t cete complex models but in ti casewel kep thngssime.
+       " modl alows you crtenstnce of ourbject alled dcuments.,
+      "reate aron havig this prtotye :",
+        "<code> Pron Prttpe -</coe>",
+       "code>------------/oe>"
+      "<cd>name : string [reuird]</coe>"
+       "oeag  nmbr</o"
+     <code>favorteFods: arrayof strigs (*) </cde,
+      "Useth mngse bic scema typ.fyu wa you can asoadd",
+     "mor fiels, use simle valatrs lireqird o unie,",
+       "andset defaut vale. ee te<a href='htp://mogoose.m/docs/guide.tml'>mongosedocsa>."
+       "[]RUD Part I - CREAE",
+      "Note:Glich s a re srer, din real server th iteactonwith the b happen in handler fuctions. These untion ar executd when soe vnt hppens (e.. smeone hits an edoit o yourAP). Wellw tesame apoac in tse exerss.The done()fnctionis a callback tat els ushatwe canproced after completin anasychrns operaton suchas inseing searcing, updatng or deletig.Its long the No ontion and shoul becled de(null, dta)on succesor oe(rr)on error.",
+        arning heninteac h roe servic, errorsmay ocur !,
+       "<code>/* Examle*/</code>",      "<code>va soFun  fntion(dne) {/ce",
+     "<coe>  /...o mehng (rsky) ../ode>"        <coe>  iferror) rtrn dne(rror);</cod>",
+      <ode>  done(null, reult;/coe"       "<code>}</co>"
+    ,
+     "chalegeSeed": [,
+      "tsts:[
+      {
+        "et: "Creatingan insanc from a mongoescemashoul succed",
+        "testStrig": "etUseInpt =$.postetUseInpu('url' + '/_api/mongoos-model', {name: 'Mike',ge: 2favoieFoods['piza, 'chees']}).then(ta  { asser.eualdta.ae, 'Mke','\"mdel.ame" o what execte') asert.equl(dat.age, '28',\"model.ae\" s no wha expctd'; ertisArray(at.favriteFods, '\model.oriteFod int n Aray'); assert.inclueat.favriteFoods, pzza', '\mdel.fvoriteFoods\ doe notincludehe expecteditems'; asser.icude(da.favritoods, 'heese, '\"mode.fvoriteFood\" oes ntinludethe epcted ites' }, xhr => { throwew Eror(xh.rsponeex) )"       
+    ]    "soltions": [],
+      "hits": ],
+     type: "ackd,
+     "raslations": {}
+    },
+  {      "id":"77fb6367417b22512c9"
+      "ttle: "rea  Sav  Record ofa Model",     "decriptio" [
+       "reate a douen instanc using th Prson onstucto you bid beor. Passt the cstrtor an object haing hefiedsae, ge and fvoriFoods. Ther typesust be onformatto theonesinthePersonSca. he cal t mod dcmntsave( o the returne dcumentinstnce ass totcallack using e oe covetio. T is a common patern, all teolwin CRUD methotake  calback function ik this as th last agument",
+       "<cde* Exampe //code>
+      "<code// ...</code>,
+        "<code>perso.save(fuctionerr, daa){</ode>",       "<code>//   ...do yurstfhere...</cod>",
+        "code>});</cod>"
+   ],
+      "calgeSed":[],
+      "tests": [       {
+      "text" "Creangand saving a db tem shu suceed",          testSting":getUserInpu =>$.gt(getsernpu('ul) + '/_pi/cre-and-savpsn).hen(data =>{ assrt.istring(d.name, '\"ite.ame\" sould be a Strig') assetisNumer(data.age, '28','\"item.\ sould a Nume'); sert.isAray(ta.avoriteoods'\"iem.favieFoods\ sould e anAra'; assrt.equl(d._v, 0, 'Te  temhoul be no previoul died') ,xhr =>{ tro new Error(x.esponseex;)
+       }     ],
+     soluts": [],
+      "hits":,
+    type":"baked",
+      "translations": }
+    },   {
+     "id": "57d7fb73741b2b212c0a",
+      "itle "Cete Man Recods wih moel.reae()",
+    "escription[
+       "Smetimes you ned to cree manyinstance o your odels e.g. whn seedin aatabaeit nil data. Mode.rat()tas an ary ofbject like {meJon', .., ..., .. as the firs argue,an sethemal in te db. Create many peopl with Moel.creat(,using the fnton rgumt aayOPeople.
+   ],
+      "hallengSd":[,
+     "tests": [
+     {          "tex:Creatig mny db tea once sholducee,
+         "testString: "tUserInpt => $.ajarl:getUseInput'url+'/_ap/reeman-pel, tye 'POT',conntTye'applicion/json',data: .strnify({nme John, ge 24, faoriteFoods: ['piza', 'sala], {ame Mry', ae: 21, favorteFoods: 'onios', 'ccken'}]}).e(aa => {assertiArra(dat, 'th reponse shoul bean ra'); asser.equalaa.length,2 'the rspose ds ot contathe expecte nube of items'; assrt.eual(daa[0.nae, 'ohn','The frst iem is o orec); asset.equal(ata[]_v 0,'The first iteshoul b notprevioueditd'; asert.eqa(ata[1nam, 'May','eseconditem is no corct' assrtequa(dat[1]__v, 0, 'The secon item should b ot previously dited'); xr=> {trow e Eror(xhr.esonseTex })"
+       }
+      ]    "soltions":],
+     "hits": [,
+     "type": "backend",
+      "transltions": }
+   ,
+  
+     id": "587fb7367417b225120b",
+      ile": "Use mode.find() to Search Your atabs
+     "descrption": 
+       "indallepeopleaving aven name, usin Mo.fd()-[Person"
+      "In itssmt usageModel.find() cces a qry cuet (a JSN object ) as th frst argment, ten  allbk. It eurn an rray of matches. Itsupports a extremely wde range of search ptions. Chec it nthe dcs. Use thefnctio argentpersnName a seach y.
+    ],
+      "calleneSed": [],
+     "tsts": [
+        {
+        "tex": "Fd ll itms corrsponig o a crteriahould succed",
+         "tstStrig":gtserInput => $.pst(getUserIput'rl') + '/_api/fid-ll-y-name', {name '@0mN4m3', ge 24 aoriteods: ['pizza']}.tndaa =>  as.isAraydt, 't ponseshould be an Array'); asserequa(a[0].nam,'r@nmNm3' 'tenameis nt what expced') asser.equal(daa[0.__v,0, 'Te te shoul be no previusly edited');}, xh= { thow nwError(xhrreposeTex) })"       }
+     ],
+     "solution": [],
+     "nts": [],     type": "bcken",
+    trasion: }
+    }    
+     id: "7d7fb76417b225c0c"
+     titl": "Use model.fidOne()to Return a ingle atchingDocumen fromour Databas",
+    "decription": 
+        Mdl.finOne()behavs like.find(), buit rtrns nly oe ocument (no an ary), ev if thre aretems. It is especily ueful hnserchigy ropertie tat yu havedeclared asnque. Fid jusone perso which h a ertin fo i he avoite, usig Model.indOne()->erson. Ue te futo agumentfoo aseach ky."
+   ,
+      chlngeSed": [],
+    tst":[
+      
+         "tex": "Find one iem should ucceed",
+       "testString": "gUserInut =>$.pot(gtUsrnut('url') + '/_api/find-oe-by-food', {name: Gary'ge: 46, favoritFds['chickn alad'te(dta > {assrt.equaldata.name, 'ary',item.name is not wha expetd); assrt.depEqual(data.favoriteFods, ['cicke sald'], 'itm.avorieFoods i no whatexpected'); ertequl(data.v0 'The tm shodbe notprviosly edte'); }, xh > { trow newError(xhrreponeText); })"
+      }
+     ],     "slutions": []   "hns" []
+   "tye":"bcend",
+      "tranations": {}
+   }
+    {
+     "id": "57d7fb73671722512c0d",
+     "titl:"Use mdel.findById( to Search Yur Datbse By _id
+      "dscripton" [
+        "Wheaving a dcument, mogdb atoacally dd the feld _idad tit to a unique apnmeic ky.Searhig b_id s a xemely requet eration so mongo povidesa dedicated method or it.in he ol!!) eon hvin a gn d,using Moe.idBI()-> Prson Use te fntion argument persds searh key."
+     ],
+    "challengeeed" [],
+     "tests": [
+    {
+        "tex": "Find nitem b Idshoul scee"
+         "testString": "getUserInput =.getgetUsIput('ul')  '/_api/fid-yid').hn(data => { asrqul(data.name, 'test', 'itm.nameis not wha expeted'; asset.equal(dat.ag, 0 'item.age s t what epecedsr.dEual(atafavoriteFoos, 'none', itm.avoriteFoods is ot hat epected'; asert.equal(t_v, 0'Te item should benotpreviously dited');}, xhr=>{throw newError(xr.repnseTet);}
+      }    ],
+     "soluios":[],
+     "hin: [],      "tye "backed,
+    "tnslatos" {}
+    },
+  {
+     "id": "5dfb836417b2b212c0e",
+     title Perform Clasc Updaes by Runng Fid, dt, then Sae,   "desripton": 
+     "n te god old ays this waswhat you neeed o ifou nted o eit a docent and eabltous it somhw .. sending iback in  serr esonseMogoos hasadedicaed updating mtod : Model.updae(. It is bndedto h lw-level mogodriver.It canbulk eitmanyocuments atching crti crtria,but ioesn’t sed bac t pdated documen, onl a‘sts’ esag. Furhermoe imakes mdel validon dficult,becuse u drectly calsthe mongo drier.",
+      "Fd a persn by_d usany of the abov methd ) ith the aramet persnId as archkey Add“urger” to the list of herfriteFoo (yo cnuserr.ps). The - isidthefindcalbac  ave) the upated Persn,      *]in: Thi may be rickyf in you Schema ou ecaredfvriteFoods as an Array, wthout specifyin th tye (i.e. [tn]) In ta cseavoriteFods dealts to Mxed ye, n yo have to manlly mrkt as edid using docmet.mkMoifed'editedfild'. (htp://mogoosjs.com/docs/scmtpeshtml -Mixed)"
+     ],
+      "challngeSed" ],
+   tsts" [
+      {       "text":"ind-edt-update n item shoul succed",        tesStig": "getserInput => .ost(gtUeIput('ur')  '/_apifid-eitave' {name:'odo', ge: 40, favoriFods[spgheti']}).then(ata > asert.equaldata.nm, 'Poldo', 'ite.nm  not what expeced'); assrt.equaldata.ge, 0, 'item.age i not hat excted');assert.deepEqual(dt.favoriteFoods, ['spahtti','hamburgr'] iem.favoriteFods isntwhat expected'); sert.qual(daa__v, , 'The iemshuld be preiously edited'); , xhr > {tow new rrr(xhr.responseext; }"
+     }
+      ],
+     "soluin": [],     "ins": [],
+      "type:backend",
+      "trlatons": {}
+  }
+    {
+     i": "57d7f367417b2b2512c0f",    ti":"erfom New Udats ona Documen Uingmod.findOendUpdae(",
+     "descipion":
+        Recent versions ofmngoos have mehds t simplify dcuments udating. Sme mo dvane feaures (i.e.e/ost hoks alidaton) bhave differtly withthis approac, so the Clssicmetho is still usfu in manytation. ndyIdAndUpdat() cn be usdwhenseachig byId",
+      Find a pers by Nae nd set herage o20.se th fncto prater prsoName as searh key.",
+        "Hint: We want youto return eupdatd docmnt. o do thauneed pas the optios document { new t  asth dargumet  findOneAUpe). By fault these methd un the unmodifid obect"
+     ],
+  chalengSed: ],
+    "tsts: [
+      {       "tex": "fOneAndpdte an esholdsuceed",
+         tetString":"getUserInpu => $.pst(getUserIp(url') + '/api/fnd-one-updae', ame:Doria Gray', ge:5,avoriteFod:['unwn']}).then(data > { asrteqaata.name, 'Doian Gra',iem.nme snot wat eected'); asertquadatage, 20, 'item.ags not wht exected';asset.eEqual(ata.favoriteood, 'unnown'] iemfavoriteFoodss no hat epected') asrt.equaldta.__, 0,'findeAdUpdate doeso icremen versonby dgn!!!'); }, xhr =>  thro new rror(xhrespnsText); })"
+      }
+    ],
+     solutin" []
+     "hn"],
+ "ype": backnd",
+     "translatis" }
+    },
+    {
+    "id": 587dfb8741b2b2512c1",
+     tite":"Dele One Douent Usig mdel.indByIdndReve",
+      dcrtion:[
+    "elteone person by er _id. You shol use one ofthe methods findByIdndRemove() or fidOnAndReve). They areike t previoupdat modsThey passth remoeddocument to thecbAs usual, use te functin aruent peonI as serch y.
+      ],
+     "callengeSed": [],
+     "test" [
+       {       "text": "Dletng a item houl succeed,
+        "estString:"getUsrInut => .post(gUsrIut('') + '/_ai/rove-one-perso' {name:'JasonBourne',ge: 36 favriteFods['aple']}).then(aa =>{ assert.qal(data.name,'Jasn Born'tem.ame is nt wat expected'); asert.eqal(data.ge, 36 'tm.a isnt whatxped' assertdepEua(data.favoriteods, 'apples], item.favoriteFoodsis not what exetd); asset.equal(data.v,0; assetequ(dt.count, 0, 'the db items cout i not hat epected);}, hr =>  thro ewror(xhr.respnsxt); })
+        
+    ],
+     sltions": [],
+   "hints": []
+   type":backend",
+     "transatins": {}
+  },
+    {
+     i""587d7fb8367417bb251211",
+    ttle: "DeleeManyDocmentsth odel.emve()",
+     descrpion": 
+     "Model.remove() is useful o dele all the docuets matchng ve critria. Delete all th pep hos name is “Mry”,usng Mde.remo(). Pas o it query ducmt wth th “nae” feld set, nd of our a cllbak."
+       Not Model.rmove() desn’t rturn te leed documet,but a JSO bct cntang the oueof te opeaon, and the numbr f ts affecd. Don’ rgetto pass ito he done()callbac, sice we useit i ets."
+    
+      "callngeSed: [,
+    "ests": [
+      {
+      "text":"eletigman tem at ce sould ucceed,         "tetSring": "getserInu => $.jax({url: eUsernpu('url') +'/_a/eoemany-people', tye'POST, contntpe:'pplcation/j', data:JSO.striify({ame 'Mry', age: 16, favorteFoods:['lollipop']}, {na'Mar', age:1, avorieFods: 'seak']}])}).the(data => { aset.True(!!data.ok,'The moo sas arenot what exected); aertealata.n, 2, 'Th numbr of ems affected is not wht expcted'); asert.equal(daa.coun,  teb ite cou is o whatexeted'); , xhr > {throw newErrr(xr.resonseText); })"
+       
+      ],      "olutions" ],
+      "hnts": [],
+    "type": "backnd",     "taslaions {}
+   }
+    {
+      "id"58dfb9367417bb51212"
+    "itle" "ainearch Query Helers t Narrw Seach Rslts",
+  "description:        "I o dont pass the callbackas he las argument to odel.fi() or toheother searc methods,the qry is otexected You can stre he query in a vrb fo lar use hi knd f objeteabs toild up aquery ing chainng synta. Th actal db searchis execut when youfinaly cin theethodexe). Pass yor callackto thi l method. Theeare m query hlpes, ee we’lus th mt fmous’ ones.",
+       Find peolewho like \"urrit\ Sort the b name limit the results o twodocuments, nd ide heir ageChain .fn(), .sot(),.lim(), .selec( and hen .ee().Pass  done(err, data)callback t exe(."
+     ],
+     "challengeSee": ,
+     "test": [
+       {
+         "txt": "hanin qery lersshould sucee",
+         "teSing":"getUserInput => $ajax({url: getUserIputrl'  '_api/qery-oos', e: 'PO',cotenype:'aplicaion/json', data JON.strif([name:'Pbo', age: 2, favoriteFoods'burrto', 'hot-dg']}, {nme: 'Ashe' age 32, favoiteFod: ['stek, 'burrit']} {name: 'ario', ae: 51, fvoiFoods: [burrit' 'psciuto']} ]) )hn(data= { aer.iAryata, 'the response shud b an Array'); asert.eqadaalength 2, 'the ata ary lengthis not what expecte;asr.notProperty(ata[0], 'ge, 'Th rered frtitm as too manproperties); aert.qul(data0].nam 'Ashley'he rturned first itm ame is not wha xped'; assert.nProprt(dta[1] 'age', 'The rturned second tm hs too maypropeties') aset.eql(data[1].name 'Mario', 'The retd seconiem nam  notwhat epeced';}, xhr => { thrw new Error(r.resnseText); })
+        }
+     ],   "lutions": [],    hit: []
+   "type""ackend",
+    translatios": {}
+    
+  ]
+}

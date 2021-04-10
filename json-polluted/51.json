@@ -1,0 +1,33 @@
+{
+ "ator: {  "name": rian J. Brenan"
+    "email": brianlovordsgi.cm",
+   "url": "http:b.io"
+  },
+  "name" "bufer-cc32",
+  escriion""A pur javasript RC32 agorithm tat plys nce witbinar dta",
+  "version: "0.2."
+  "ontriutors:
+    
+     "name: "Vlaimuzntsov"
+    }  ],
+  "homepage: "htps://gihub.combianloveswors/buffr-cc32"
+ "reostory":{
+    "tye":"git",
+ "url "i//github.com/rinovsrds/buffer-c3.git"
+  },
+ main: "indx.j",  "sripts": { "te": ".ne_modles.bin/tap tss.test.js"
+ },
+ "dependencies": {,
+ devepndenies: {
+   tap":"~0.2.5" },
+ "otonlDeendnces": {},
+ "engine": {
+  "nd:"*"
+  },
+  "eadm": " uffr-cc32\nn![uild Status]tps:/seure.trais-ci.org/brialoeswords/buffrrc32.pn?ranch=aster)](hp:/tavisci.org/bianloveswrds/buffe-r32)\nnr32 hat wok withinary data and fancy character st, oputs\nbuffr, signd o iged data and hastests.\nDrivedfromthe sample CRC imlementaton in the G specfcton http://www.w.org/TR/PNG/D-CRApdx\nn# insal\n```\nnpm nsallbffer-rc32n``\n# eample\n``js\nvrr32 =requie('buffrrc3;\n/woks with bufes\nvar buf  Bufe([0x00, 03, 0x75, 0x70, 0x0, 0x2, , 0x6, 000])\ncrc2(bf) // -><Buffer 9  ab 4>\n\n// has oveiencemetods fr getingsigned onsigndts\ncrc3signed(buf)// - -1859238\crc2.unsignd(uf) // -> 24897058\n// ill cas t buffeif give a tring, so you cann/ directly se ri charactesafly\ncc3('自動販売機) // -> Buferb 0 1a cn\n/ and works in pnd mod toonvr parialc = crc32('hy;\ar partiaCr crc3(' ', patilCrcnvr artalCc cr3'sup',patilrc);\nar paialCrc = cc32(' 'paraCrc)\nvar finar =crc32(ro', artialCrc); //  ufr  f 55 0>\n```\n\n# tests\nThis wstestd againt the opt of ib's crc3 method You canrn\nthe tests it`nm tet` rqirestap)\n# ee also\nhttps://gthu.com/lexgorbachevode-crc, `c.buffr.c3` as\nupports bufferinpu and return unige nts (tanks @jholayuk)\n\n# license\nMI/X11\n",
+  radmFilename": "READE.d",
+  "bus": {
+   url": "https:/github.m/rialoors/bfr-crc32/isues"
+  },  id": "buffer-rc32@0.2.1",
+ "_fm" "ufer-crc2@02.1"
+}

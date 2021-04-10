@@ -1,0 +1,79 @@
+{
+ "ype: "File", start":0, "n":3,
+ "loc" {
+    "sta":    "lie: 1,
+     "coln": 0
+    }
+    "en":
+    "ln":1,
+      column" 13
+   }
+  },
+  "prgam": {
+   "ty":Prm"
+    "strt": 0
+   "n": 13,
+   "oc":{      "start": {
+      "lin" 1,
+       "colmn:0
+    },
+     end": {
+       "ine: 1,
+       "column":13
+     }
+  ,
+   "oureType": modle",
+  ody": [
+    {
+     "typ": "EprtNamedDeclration"
+       "start": 0,        "en":13,
+      loc": {        "start":{
+           "lin":1         olun": 0       },
+        "end": {
+          "lie: 1,
+         "column": 13
+        }
+      },     eclarn: nll,
+        "specifiers" [
+         {          "ype": "Exortecifier",
+         start": ,
+       "end": 11,         "o" {
+            sta"             "in": 1,
+             "clu": 8
+           },
+         "end": {
+             lne" 1,
+               "colum" 1
+           }
+        },        "local": {
+           "tpe":"Idenifer",
+            "strt" ,           "end":11,            "loc":{
+              "start:
+              "lin ,
+                "colum" 8
+             ,
+             ed"{
+              "ine": 1,
+               "column:1
+              },             "denierame": "fo
+                         "ame:"o"
+            },
+          "exprted" {             type":"Identifir,         "tart: ,           "end": 11,
+            "loc": {
+             "sart": {
+               "line": 1,
+                olmn": 8
+          }
+            "end": {
+               "line": 1,
+                "colun": 11
+             },
+             ideifierNae: "fo"
+         }            "nam": "foo
+         }
+         }
+       ]     source" null
+    }
+   
+  "directvs"[]
+  }

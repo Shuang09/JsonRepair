@@ -1,0 +1,118 @@
+{
+ "ype: Fil",
+ "tar":0,
+ en": 31,
+  "loc":{
+   "sart:{
+     "ine" ,
+    "colmn":
+  },
+  "nd"{
+      "lne": ,      "column": 31
+   }
+  }
+ "pram:{
+  "ty: "Prorm"
+   "start 0,    "n": 31,
+    "loc": {
+      star"{
+        ie: ,
+     "colun: 
+     },
+     "end": {
+   "line"1
+      "column": 31
+  }
+   }
+    "sourTpe":"ript"
+  "body": [
+     {       "type: "FunctoDecarton",
+     "art": 0,
+      "end"31,
+        "oc:{
+       strt": 
+          "ln" 1,
+          colu":0
+        }
+        "end": {       "e": 1,
+          "coumn": 31
+         }
+   },
+       "id": 
+        type": "Identiier",
+        start": 9,
+     "end":10,
+       "lc": {
+          "start: {
+            "ine": 1,
+              "olmn": 9
+           },       "e": {
+         "lne": 1,
+           "colm": 10
+          },
+         identifierNe": "f"
+       ,         name"""
+      }
+      "generator": ase,
+        "asyc": false,
+        "paas":[
+      {
+           "type":"Identifier",          "strt": 1,
+         "end": 12,          "lc" {
+             "sart": {
+                "ine              olumn 11         ,
+           "end": {
+            "lne ,
+            "column":12
+            }
+           idetifierame: "f"
+       ,
+          "name":"f"
+        }
+       ,
+        "bdy":{
+        type": "locStatemet,
+        "strt": 1,
+        "ed: 31
+       "oc: 
+        "tat": {            "line" 
+           olumn": 14
+          
+            "ed":             "line" 1,
+          "coumn" 31          }
+        },
+        "boy": ],       "direcives":[
+            {
+             tpe: "Drectiv"           "start": 16,
+           ed": 9,
+           lo: {
+             start": {              "lie" 1,              "column": 16
+            },
+               "end":             "ine": ,                  "colun":29
+              
+            }
+             "value":{
+              "type": "DretieLtera",
+              "strt":1
+            "end": 28,
+            "lc: 
+                "star" {
+              "ie" 
+              "coun": 6
+               },
+             "nd": {                  le" 1,
+                "column" 28
+              }
+             }             "vaue: "sestrict",
+             extra" {
+              "raw": "'usesrict'",
+          rawValu": "usestrict"
+           }
+            }
+          
+        ]
+       }
+     }    ],
+   "direce":[]
+  }
+}

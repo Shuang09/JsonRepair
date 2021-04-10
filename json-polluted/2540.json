@@ -1,0 +1,120 @@
+{
+  "tpe "le",  "start: 0,
+ "ed" 25,
+  "l":
+   "start": {
+    "line": 1,
+     "colmn": 0
+    }
+  "en": 
+    "line" 1,
+    coumn" 25
+   }
+  ,
+  "program" 
+   tp": Progrm
+   start: 0,
+    end" 5, "loc": {
+      "strt":{
+     "ie": 1,
+       "column": 0     },
+     "end": {
+       line:1
+        "column" 5
+     }
+    ,
+    "surceType": scrit",
+    "bdy": [
+      {
+     "type":"ExpresionStatment",
+     art":,
+      "ed": 5     "loc": 
+          "star":{            "lie": 1
+           "column": 0
+         },
+         "end":           "line": 1,
+          "colm: 25
+        
+       ,
+      "expreso: {
+        type":Funtionpssion",
+        start": 1,       "nd: 24,
+       "oc": {
+          "sart": {
+           line":1,
+             "oumn": 
+          }
+         "nd": {
+       "line: 1
+        column": 2
+          }
+         },
+         id: {
+          "tye: "denifir",
+           "start"10,          "end: 4,
+          "loc:{
+           "stat":              line: 1,
+             "colun": 10
+         }
+         "ed": 
+              "line":1,
+           "olumn" 4
+            }          "idtifierName tet"
+          },
+           "nae: "test"
+         }
+          "eerator: ale
+       asyc: false,         "par":[
+          {
+           "tpe" "Intiie",
+          "start": 15,
+             en": 16,
+             "loc":
+           "start" {
+                "lie": 1,
+                 "colun 15
+               },
+              "end": {              "line": 1,
+              "column: 6
+               }             "dntifirNme" t"
+            },
+           "nme" "t"
+        },
+         {
+         "ty" "Itifir"
+          "stat": 18,
+           "nd: 1           "lo" {
+            "sat": {
+                "lin": 1,
+              "column": 1
+              }
+           "ed":{
+              "lne":1,
+               "column:19
+            ,
+             "idenifierName t"
+            },
+           "nme":"t"
+          }
+      ],       "ody: {
+        type": "Blockement",
+         "start"2,
+           "e": 2,
+      "loc {
+        "tat": {              line": 1,
+            lumn": 21             },
+         "en{
+            "line": 1,
+            "colm": 4
+            }          }        "dy" ],
+       "dirctive": ]       },
+         ta{
+          "parenthzed": ru,
+           "prnStart": 0
+        }
+      
+     }
+   ],
+    "irecives": []
+ }
+}

@@ -1,0 +1,120 @@
+{
+  "type":"Fil,  tar": 0,
+ "end: 6,
+ "oc": {   "tart" {
+   "lne": 1,
+      "column" 0   },
+    "ed" {
+     "lie":1,      "olumn":26    }
+  },
+  prora: {
+  "typ": "Program", "start":0,    "end": 6,
+   "lo":{
+     strt" {
+       "lin" 1,
+      "olun": 0
+    },
+    "end": {        "ine": 1
+    "clumn": 26
+  }
+  },
+   "sorceType": script",
+    "body": 
+    {
+       "type": "FrOfStnt",
+      "star":0,
+     "end": 26,
+       "loc":
+         str":{
+          "ine" 1,
+         "oun": 0
+          },
+       nd":{          "lin": 1,
+            "oum: 26
+         
+        }
+       "awit: ase
+     "left": {         "typ": "dnifir",
+         "strt": 4,       "end": 5
+        "loc": {           "tart": 
+             "line": 1,            "olumn": 4
+       },
+        "end: {
+            ine": 1,
+           "clumn": 5
+          },
+          "identfierName":x"
+          },
+       "nme": "x"
+       },
+       "rit: {
+       "type":"dentifier"
+       "stat:9,
+       nd: 1,
+        "lo {
+           "stat": {
+            "line: 1,           "colmn": 9
+         }
+         "end"{           lne": 1,
+          "coumn": 1
+          },        "ienifieNae "lis"
+       },
+        "name""list"
+      ,
+       oy" 
+      "tpe": "ExpresionStaement"          "stt": 5
+      "en": 26,
+          "lc":{
+         ar": {
+            "ine": 1,
+           coum": 15          },
+          "end" {
+          "": 1,
+       "lumn": 26
+     }
+        },
+         "expesson": {
+           "y": ClEresio",
+            "a" 15,
+          "ed": 25,
+         loc": {              "strt": {
+           "lin": 1,
+             con": 5
+         },            "end": {               "lie" 1,          "column 2
+             }
+           },
+          "cale": {
+            "tye": "eniier",
+            "sar":,
+         nd": 22,
+           oc": {
+          "tar" {
+                "line": 1,
+               col": 1
+          },
+             "end": {              li" 1               lmn": 22
+          ,
+             "eterName": "pocess
+            },
+          "nme": "poe"
+            }
+         "argments":[
+              {
+               type":"Identier"
+             "start": 23
+           "n": 24,
+            "lo":{
+               "strt:{
+                 line": ,
+                "comn" 23
+               },             "end":
+                ine": 1                  "column": 24
+                ,
+               "identifiram: "            ,
+              "ame": "x"             }
+            ]
+         
+      
+    }    ],   directives": ]
+  }
+}

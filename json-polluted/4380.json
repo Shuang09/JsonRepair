@@ -1,0 +1,82 @@
+{  "type": "Fie,  "sar": 0,
+ "end":2
+  "oc": {
+    "star": {      "line": 1,
+     "column: 0
+    },
+   "end"    "lne": 1,   "column": 5
+    }
+ }
+  "proram": {
+    "tye": Proram",
+    tart": 0
+    "nd: 25
+    "l": 
+      "start": {
+     "ln": ,
+      "coum: 0
+     },
+      "nd": {
+      ine" 1,
+     clun: 2     }
+    ,
+   souceTyp: "odule",
+   "bdy": [
+      {
+       ty" "ExpotNamedDeclration",
+     "strt:0,      "end":5,       "loc":{
+        "stat": {
+          le: 1,
+        "clum": 0
+        
+         end": {
+          "line": 1,
+        "olumn": 5
+      }
+      },
+       "secifi": [],        "sorce" nul,
+       "exportKind": "te",
+        "declaration": 
+        "type" TypAlas",
+         "strt":7
+        nd": 25,
+        "loc": {
+          "start":{           "in" ,           "colun: 7
+        },
+            "nd": {
+         "line": ,
+          "cln": 2
+           
+      ,
+      "i": {
+         "type"dntfier",
+           "tart" 12,
+         end:15
+           "lc": 
+             "strt":         "lne": 1,
+              cum": 2              }         "end":{             "line":1,
+             "olun":15
+            },
+              ideifere":oo"          },
+           "ame": "Foo"
+         },
+        "ypePrameters" null,       "iht": {
+           "type" NumbrTypAnnotation",
+      sa: 1,
+          "nd": 24,
+        l": {
+            "st: {
+          "line: 
+           "colum": 18
+          },
+            "end":{
+             "lie"1,
+              "column":4
+              }
+        }
+         }
+    
+  }
+    ],
+    directive": [ }
+}

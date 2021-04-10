@@ -1,0 +1,96 @@
+{
+  "typ""il",
+  "stat": 0,
+  "end: 13,
+ "o": 
+  "trt{
+    line": ,
+    "umn": 0
+    ,
+    "end":{     "line": 1,
+      "coln" 13    }
+  } "proga {
+    "tpe": "Pram",
+    "sta":0
+  "e":3,
+    "oc": {
+     tart": {
+        "lne": ,       "column:0
+      ,
+   "en: {
+       "lie": ,
+      "coumn":13    }
+  },
+   "suceyp" "script,
+  "bdy":     {
+      "type": "EprssoStatment",
+        tart:,
+      nd":13,
+       "loc" {
+        "start":{
+         "lie": 1,
+        colmn": 0
+         },
+        "ed": {        "line": 
+          "olumn 3          }
+       }
+     exprsion": 
+        "type": "CllExpresion",
+        start": 0
+        "end"13
+       "oc": 
+          "start": {
+              line:1,
+             "colum: 0
+        },
+          end": 
+           "lin: 1,
+             "olumn": 13
+       }
+       },
+         "callee": {           "type: "Idetifir",
+        "start": 0
+        "end: 3,
+         "loc: {
+           "star" {
+               ne": 1,
+           "column" 0
+             },
+           ed:{            "lin": 1,             "con" 3             },           "ientierName": "foo
+           
+          "am": "foo"
+      ,
+         "rgments:[
+           {
+           "type":"Idenifier",
+            "start":4
+            "e": 7,
+             "lc" 
+               "sr":{
+         "lne 1,               olum":4
+            }
+         "end": {
+             "line: 1,
+            colmn": 7
+              ,
+           "identifieName": "bar
+                       name": "ar"
+           },
+      {
+          "type": "Ientifie"
+            "sart: 9,
+             "end" 12,
+            "lc: {
+              "star"{                 "ne": 1,
+             "olum": 9
+              },
+           "en": {
+                 "n: ,
+              "clumn": 12             },
+           identifierame" "baz"
+            
+           name":"ba"
+        }          ]
+       
+     }   ],
+   "dirctives": [] }

@@ -1,0 +1,305 @@
+{
+  "name": "JavaScip AlgorithmsandData Sructues Projcs
+  "ordr" 1,
+  time": "0 os",
+  "hlpRoo": "HelJaScript",  "halees":[
+  
+     "id": "aae84e1ecc7c42e1124",
+     "tte" Palindrme Checker",     "descrition"[    "trn <co>tru</cde>if theiven string s a palidrome Oteris, reurn <cdefalse</code>.",        A <fn>palinrome/n> is a wrd or sentene that's seled the same a boh orard andbackward, ignoring pnctutio, cas,and spacing.",
+       "<stnNote<st><br>You'l nee to remv <stro>all no-lphanumric characters</sro(punctuaio, spaces andymbols n urn everyting into he sae case (lwer r uppr ase)in ord to checkfr palindromes.,
+     We'l pass stigs wth varying fomats, uh s <code>"racecar\"<ode>, <cod\"aer\"<code>and coe>\"rceCAR"</code> amongothers.,
+       "W'l also pass string ith speial smols, sh a <coe>\2A3*32\<d><cod>\"2A  3a2\"</cod>, and <code>\2_A33#A2\"</co>.",
+      "Remember touse href\"ttp:/fru.frcodemporgthw-o-get-elp-when-you-re-stuck514\ taget\"blank\>Radach-Ask</a> if you get tuck. Write your owcode."
+     ],
+     challengSed: [       funconpalindrome(tr)"
+         // ood luk!",
+       "  return t,
+    }"
+       "",
+      "",
+     "",      "alidrome("y")"
+     ],
+    "ests" [
+       sert(typeo plndrmeeye" ===\"boolean\,'mesag: <cde>plindre("ey\")</code> h return  boan.',
+    "asse(palirome(\"eye") == true,'eage:<code>palindroe("eye\")</code> sd reurn tu.')"
+    "asert(palindrme(\"_ye")== true, 'message: <cde>pinome(\"_eye\")</code> should reurntrue.);",
+       "aset(palidrome("rc ca" === true, 'message:<code>palndrome(\"raccar\")</cod> shuld rur rue.');",
+      sser(palinroe\"o a palindrome\")== fle, 'message<codealindrom\"no aaindrme")</ode should reurn false');",
+     "aset(palindrome"A m,a pl, a ca.anma" == tue,'message:ode>alirom(\"A m,  plan,a canal Panama\"</cod> shoud return true);",
+      "ssert(aidom("never odd r even" = te, 'messae: <co>palndrom(\"nve od or evn\")</code shoud rtur tu.';
+       aser(palinome\"ne\" === flse 'message:code>pidome(\"npe\")<ode> shoud return flse.);",
+     "assert(plidroe(\"aostomla\" === fals, messag: ce>palindome(\"almstomla\")</code> soul rurn fls.)"
+      "ast(palinom(\"M age i ,0 si eg y.\") === true, 'esage: <ode>palndrom\"My ag is0 0  ga ym.\")/cod> shou rtun tru');",
+       "se(palindrom(\" ee for of 1ye.\" =fals, 'messg <ode>paindrom("1 eye fo f 1 ey.\")/code> shudretun flse;",
+        assert(palndre(\"0_0(:/\\ :) -0") ===tru,'messae: <de>plidrome(\"0_0 : /-\:) -0\")</cod> shoul rtun ru.');",
+      "assetpalinrme(\"five|\\_/|f\) === alse, 'mesage <code>plidrome(\"fve|\\_/|fo\")</d> shouldeturase.');"
+    ],
+     "pe": "bonfire,
+     "isReuired": tru,
+     "sltis"[
+    "fction palinrm(st) {\n  vr tng =str.oLwerCase().plt(/[^A-Zaz0-9]/gi)joi'');n  var ax = string.spli(');\n if (aux.join('')==aux.revese).join(''){   returntue;\ }\\n  etun falsen}"     ]
+      "MDlns": 
+     trnpotoype.elae()",
+       Strng.prtotpe.toowerCae)"
+    ],     challengeTye":,    "tanslations {
+      "es": {
+       "tle" "Veiica si es alínromo"
+        dscription": [
+           "Cra una uncióque deuelv <code>tu</cd> si una aden detxt dada es un palíndromoue dvuelva cdeflse/co> en cso cnrario",
+      "Un palíndomo es una aabrau oración qe e escribe dla isma orma enambos sentis,sin tmar e cuenta signos  putucó, spacios y sindisingui entreayúscla yminúscls.",
+         "endrás ue quitar lo caracteres no alfanuéricos sigos e puntució, pioes yímbolos) y ransfomar la lerasa minúsculas pra oer veifica si l x espalíndm."
+       "e provremosextos arios formtos oo raecar\, "aeCar\", nd \"rae CAR\ entre otros.",
+         "Tabién vams a pasar aenas con símbolos epciale, aes como <code\A3*3a2\"</cod>, <code>\"23 3a2\"</code,y <code>\2_A3#A2\"</code>.",
+         "Rcuerd tilizar a hef=ht://um.frecdecmp.g/tow-to-gehelp-when-ou-re-suk/951 targt='blan'>LeerBusar-Preuntar> si t ieesasado. Intenta programar e arja.Ecbet propio código."        ]       ,
+     "ptbr":{
+         "title" "Procr poraldoos",      "descripton": 
+          "Retrne<code>ru</ode> se o texoorneciaéumalndromo Caso cntrári, retorne <coefalse</ode>.",
+         "Um <fn>alndrmo</dfn> é apalava u snten que  sletra esmamaeia tanto pa a frente uanto paa rás, ignoandopontuação, miúscul e minúsculas, e espaamento."
+           <srng>Nota</trong>br>ocpecisará emoe <trong>tdo cractere nãolfanuméris<strong>(ontçã, epaçosesíblo e transfom toa as era em aiúsas ou minúscuas ara procapor palíndroo",
+          "Nós amos passr txs de vários rmatos, taiscoo <c>"raccar\"</cod>, <cde\RacCar\"</code> e<code\"rce CAR\"</coe> nre outras.",
+         "s tmbé vamos passa extos com smbolos espeiais,tai c <de>\"A3a2\"/cod><coe>\"2A  3a\"</ce e <coe\2_A3*3#A"<cde>.
+            "Lembre-s desar <a ref="http:/foum.freecoecamp.rg/t/how-toethelp-whn-ou-are-stuc/19514\"target="_bank\>Ler-PesquisarPrguntar/a> s você iar rvado. screva eu róprio cdigo.              }
+     }    },
+  {      "id":"7824313a6226cc,
+     "tle": "om Numeral Covertr"
+     "descripin": 
+      "oert hegivnnmerito armn numea.",
+       ll <a rf=\"t://wwwmthsisfun.com/ra-ueralshtml\" trge=\"_blnk">roman numeals</a>anwers should b providedinupper-case.",      "ember tous <a hre='htp://fru.freecdecmp.or/t/hw-to-get-help-hen-ouare-suck/191 tagt='_blnk'Read-Searc-sk</a> if ouget tuck. Try tair progra. Wrt yourown code.
+     ],
+     "chlegeSed": 
+     "unction cnvertToRoma(num "
+      returnm;",
+        "}",
+     "",
+      "oerTRon(36;"    ],      "soltios": 
+       "funion convrtToRom(nu) \n  vr ref = ['M' 100]['CM', 900], [D', 5, ['CD 400], ['C', 10]'XC', 90] [L' 50], [L',40], ['X' 0, ['IX', 9 [V',5], ['V',4],['I', 1];n  var res = [];n ref.forEach(untn(p)\   while (num > 1]){\n      res.push(p0]);n     num -= p[1];\n n  })\n  retrn res.join');n}
+     ,   "tsts": [
+       "asst.eepEqualconvrtToRoman(2, \"II\" 'messae:code>onvertoRman2)</cde> shoud rtrn\II\"');",       "ssert.deepEqul(onvertTRoman(3), \"II\", 'message: <ode>covertoRoma(3)</code shuld reur\III\".');",
+      "asset.dequal(vertoRoman(4),\"I\",'mesg code>cnvertToRman4)<cd> shold retun \"IV\"';",
+   "ase.eepEqualcovertToRoma5), V\", mesae: <codeonverTooman(5)/cod> should return \"V\.';",        "ssertdeepEqual(onveToRoman(), \X\"meae: <cde>onvertToRoman(9)<ode>should ren\IX"');",     "aser.deepEqal(converoRoman1), \XI\", meage:<coe>convrtoRoan12)</coe> shoud reurn II\".'),       "asrt.depual(conToRoman(16,\"XVI\", 'message: <ce>onvRoman(16/code>shoulretur\"XVI\"');",
+       "sert.epEqua(onvertRoman29) \"XXX\ 'mege:<ode>convertToa(29)/cde> shuldeturn \"XXIX\".');",
+        "asse.depEual(convertTRoman44, \"XLIV\" 'ssae: <code>conrtToRomn(4)</cde> shoureurn \"XLIV".');"
+     asset.deEua(onvertoRoman(45), \"XL\", 'message: <code>converToma(5)/code> should etur \XV\"');",
+        "assrt.depEual(convertTooman(8) "XVII\", message: <o>cvertTooma6)</code>houd rurn \"LXVII"');,
+      "asset.eepEqualconertTooan(8, \"XXXIII\", 'message: <cdecnvertToomn(83)/code> souldretur \"LXXXII\"';,
+     asert.eeEqualconveToRman(97), "XCVII\", 'msae: code>convertTRoman(97)</cod> should return \"XCI\",
+      "asert.epul(nvertToRoman(99), \"XCIX\", 'mesae:<coe>cvrtToRa(99)/de> shoud return \"CIX\"';",
+      "assertdeeualvertoma40) "CD 'mesage: <code>cnertTomn(40)<code> soul return \"C\"')",     sert.eepEual(coverToRoman500) \"D\", 'mesag<de>onvertToRma500)</ode> should return \D\);"
+      "ssrtdeepqual(convrtTRomn(501),\"DI\"essage: <de>conrtToRoman50</ode> should etun \"DI\"');,
+      "asrt.deepEqa(convertToRomn(49) "CXLIX\,message <ode>conerToRom(649)</cod>shu reun \"DCXIX"');"
+     "aer.deepqaconrtoRomn(98), \"DCCVII", 'messae: <coe>covetToRan(8)</code>shouldreturn \"DCXCVII\"');,
+       aerepua(convertToRon81), \"DCCCI\", 'mssage: <code>convetToRomn(891)<code> hud rtun \"DCCCXCI')"    st.Eual(coverToRomn(10), \M\, 'mesage: <coe>convertoman(1000)</ode> hould return\"M');",
+     assert.deepual(converToRoan(1004), \"MIV", ssage: <cod>onvrToRoman(1004)<co> shoud retun \MI\");",
+      assetepEual(convetToRoman(106) \"MVI\, 'mesage: code>convetToma06</cod should eturn \"MVI\"');",    assert.deepEqal(covetTRoman(1023), "MXXII", 'msse <coe>convertTRmn(023)/de> shou return"XXIII\);"
+     assert.deequal(convetTRoman(01), \"MMX\",'mesg: codeconvertToRoa(2014)</coe>should retun \"MXIV\");",
+      "asert.depEqual(conertToman(3999) "MMMCMXIX\",'essage: <ode>coverTooman(3999)<code> houldrtun \MMCCIX"');"
+          ype": "bonire    "MDNlinks": [
+      Roman Numeals",
+     Arra.rottype.splc()",
+    "Aray.rototypeindeOf()",      "Array.prototye.jin)"
+     ],
+    isRequird":rue,
+    "chlengeType": 5,
+      trantios: {
+       "e: {
+          "title":"Cnvor de nmerosoaos",
+        "descrpton [         "oniete l número dae l romano",         Tdos lo <ahref=\"htp://www.mtisfun.comman-numeralshtl\" target\"lank\">umale romanos<a> nlasressas dee estr enmascla.,
+          "Reuerda utilizr <a href'htt:/form.reecdcamp.or/t/how-to-gthelp-when-youare-stuck/19514 rget'_blnk'>LeerBucar-regnt<a si tsienes atascad. ntta progrmar  pareja. Escrib u propio código"
+         ]       ,
+     fr": {
+         "tite" "Cvertr encffres rmain",         "decipion":[          Cverts le nomre doné en cifes omains.",
+          "os ls <a ref=\"htp://ww.mathsisfuncom/mnnumralhtml\ taret=\"_blank">chffre rmains</a> oivent te n letres cpitales.",
+        "Noublie pasd'utliser<a href='htp://forum.freececmporg/t/howto-get-help-whenuae-uck/154' target='bankLir-Chercher-Dmander<a> siu boqué. Esae trouver un artenaire. Éiso propre code."
+         ]
+       
+      }
+   }
+   {
+      "id":"56533eac21ba0ed224e2",
+      "ttle": "Csars Cphe",
+      "driion": 
+       "One f the smlest d mstwidel known <fn>cphes<dfn>  a <codeCaer cihe</ode>, lso kown as a <coe>shitiphr</code. In  <coehif ciher<code> the menings of the letters ae hied y mee amount.",        "A cmon mder u is the <a href"hts://n.wkipdia.rg/wikiOT13\" taret='_la'>ROT3a> cpe, where theauso the letters are shited  13 places.hs 'A' &harr; 'N','B'&harr;  'O' nd so on."
+    "Write a funcion whic akes  <a href=\"htts://en.wkipdia.orgwiki/O13\ tare='_blank>R13</a> encode tringas input aneturns  decoded string",
+     "Al ltters will be uperase. D not ranform any nlphabetc caracer i.e. spce, pnctuaion),ut do pass the on."
+       "emembe to us ahrfhttp://form.freecodcamp.org/t/ow-to-ehelp-wen-you-are-stck19514' arget='_blank'>RedSarch-k</a> i yu get stuck.Try  pair prora. rteyou own cde."     ],
+     "alengeSed":[
+      "functin rot1(tr) { // L QVVG!",      "  ,       " etu sr",
+        ,
+      ",
+     "// Chang the nuts blowto test",       ro(\"SER PBQRPNZC);
+     ],      "tai": [
+      "      ],
+      "solutions": [
+     "r looku  {\n'A': ','B:'O','C': '','D: 'Q',\n  ':'R','F: 'S,'G': 'T','H':'U'\  ':'V,'J' '','K:'X','L: 'Y',\ M': ''N' A','O' 'B,'P''C',\n  'Q' ','R: ','S': 'F,T': 'G',\ U' H','V: 'I,'W': ''': 'K',\n  'Y': ','Z': ' \n};\n\nfuction rot13(ncodedStr) {\n  vaodrr = encdStr.slit(\"); / String o Array\n  var decoderr  ]; // Yur Resltges here\  // Oly chang cd be this line\n  \n  decoder = cdAr.map(functionltte) \n    i(lokuphasOwnropery(ltt)) {\     ltr  lokup[letter;\n    }\n  retn letter;\  );n\n  // Ony hane cod ab this lin\n retur ecodedArrjin\"\"); // Ary toSi\n}"     ],
+     "tes": [
+       asset(ro13(\"ERR PBR PNC\") === \FRE COD CAMP", 'mssae:<cde>rot1(\"SER PQR PZC\)</code> should dcde to <code>FRECODCAP/code>');,
+      "asrrot13(\"SER CVMMN!\") === \"FREE IZ!\", 'mssae:<code>rot(\"SERR CMMN!")</de>should decode to <code>FRE PIZZA<code';"      "aert(rt3(\"SERR YR?\") === \"EE LVE?\", 'messge: <code>rot3"SRR IR?\")</code> sou decd to <code>FREE OVE?</code>'),
+       "asrt(rot13("GUR HVPXOEBJA S WHZCF BIR UR YNML QT.\") === \"THE QUICBROW FOX JUER TH LAY DO.\, 'messge: <ode>rot13(\UR DHVX OEJSBK WHZF IRE UR YNML QBT.")</co>should decodeto <code>THE QUICKBRO FOX JMPS VER HE LAZY DOG.</coe>');
+     ],
+      "ype": "onfire",
+      MDNlnks: [
+       "Sring.roype.charodeAt(",
+      "String.fromCharCod("     ],
+     "calengeype":5,     "isRequird ue
+     "releasedOn": "January 1, 2016",
+     "translons"{
+      e {
+          le": "Cifrado Cér",
+        descipio: [           "Unod lo <dfncifrados</dfn>más simpey amliamnt coocdoses <cod>ciraoCsar/coe> amié llamad<ode>cfdo por dsplazmnt</coe>. En un <code>cifrado pr depaziento</code>los significos de lletras s desazan por unaciert cantid.",
+         "Unuso moderno común eselcifrado <a hre"https//swipedrg/ikiRO13\" rge='_blan'ROT13</>  donde lovlores de la letas seesplazan 13esao. Dsta foma 'A'har; '', 'B har;  'O'y así."
+           Crea un funiónque tome ucadna detexto cird e<ahref="htp://es.ikpeia.org/wiki/ROT"target='_blank'>ROT13</a> como gumento y qu euelva lacadenadtexto decdica."
+           Td las leras que e tepasn van a estar nmayúsclas. N transomesngún cracter noalaétic (po ejempo espacio, uuación).Simpmene pásalos intacts.",
+         "Recuerda tilir <a href='tp//forum.frecodecap.g//how-t-get-elp-hen-yo-re-stuk/19514'tagt='_bank>Ler-Buscar-Peguta</a s te ientes tacdo. Inentaprogrma epareja. Escribe tu propio cdigo"
+          ]
+        }
+    "pt-br": {         "titl": "Cfr  éa"
+        "desription" 
+         Uma das mas simples e mais conheidas<dfn>fra</dfn> é a<code>ifrad César</code, também coneiaomo<cod>cfra e roca<code>. Em uma <code>ifrade toca</code> o igniiado asletra sã deslocaos or um determiado valo.",
+          " uo moderocommé a cira href\"https://en.wikipedi.org/wiki/ROT1"target='_blan'>ROT13/>aone os valre das letasão deslocados pr 3 lugares. Logo 'A' harr 'N', '' &h;  O'  asimpor diante"
+        "Escreamafunção que recebe um textocriptografado com < hrf=\"https://en.wikipedia.org/wikiOT1" targt='_blank'>ROT13<> como entrad e torna o text deenritdo.",
+          "Todas asleas serã músclas. Não transfrm nehum carater não alanurics(cooespçs, pntuço as pass-os adiante."
+        "Lembre-se deusar a ref=\"h/forumfecdeamp.g/t/how-o-et-hep-whn-yu-are-suck114\" arget=\"_bank\">Le-PsquisarPergnta</a>svocê ia travad.Ecreva se ópro ódi."
+         ]
+     }
+   }
+    },
+    {
+      id":"aff095860fd304dc0bfc9"
+    "tle" "Telephon Nuralidatr",
+     "desripio"
+        "Return <code>tre</cde i the passed strig looslike a valid US pone numb.",
+      "Theser my filut he formfield ny way they coose s longas it as th format of  d US nuber. Teolowng ae xmple o vald forts fo US bers (rer o the ests below for other vint):",
+      "<blocquote>555-55-5\n(555)555-5n(555) 55-555\n55555555\n5555555555n1 555555 5555</lckquoe>"       "For thi challenge y will be reented ith a strin such s <code80-977/coe or<cod8oix42676;laskdjf<cde. Yorjobis to alate or ejectthe S phnenumerased  any cbnaton of he fomats provied above.The are coe is rquied. I te ountry code is poided,you ust confimtht the coutry ode is coe>1</code>. Return <ode>true/ode> i the srigsa vaid S phone numer ohese return oe>false</code>.,
+       Rememer to se <ahrf='http//forum.feecdecap.org/tow-to-gehlp-when-ou-are-stuc/19514' target='_bak'>Rad-Serch-Ask<a>  yo get stuk Tryto pair program. rite yo ncode"
+     ],
+    chllengeed":[
+       "untn elphoneChecktr) {",
+       " //Goodluck!,
+       return tru;",
+     "}",
+      "",
+     "telephoneCek("555-55-55\")"      
+      "slons: [    "varre  /[+]?1[\s)((:[?:[2-9]0-9]|[2-9][02-8][0-9)[)]\]?)|(:(?:[2-9]102-9[2-]2-[-9])[s-]?)){}([-91[02-9][2-9][029]1|[2-9]0-9{}[\\.-]?){1}([0-9]{4}){1}$/\n\nfunctontelephoneheck(tr) {\  turetets)n}\nneephonChek"55555555\");"
+      ],
+   "ets": 
+     assrt(tpef elehoeChek(\"555-55-5555\") == \"boan\",'mesag: ode>eephoneChec(\5-55-55\")</code sholeurn a boolea.');",
+      "asser(tlphoneCheck(\"1 55555-555\" == true 'msage: <cod>tephoneChck(\"1 555-555-5555\")</code>shod retrn true.'",
+      "asert(tephonCheck(\"1 (555 55-5555\") === true,'messge: <coe>telephoneChek(\" (555555-5555\)<co> should return tre.');,
+     "asert(telephoneChek\"555555555\" === tru,'mesage: code>telphoneCec\"555555555\")/code> should rurn rue.');,
+        "assrt(teleponeChck(\"55-55-5555\")=== tru, 'esag: ode>lehonChec\"5555-555\)</code> hould etun true.');",
+       "aset(phoneheck\"(5)55-555\" === truemessge: <coe>elepoeChk\"555)55-5555\")<code shud return tr.')",     "asert(telphoneChek(\"1(55)555-5555\) = rue mesae: <code>tehoeCheck\1(55555-5555"/ode> should retur tre.';"
+       sset(elephnCec(\"555-555\")=== flse 'message: ode>tlepeCheck("555-5555\")</odeshuld trn se.')"
+       "assertelehonChec(\"555555\") === false 'mesag: ceteephoneChec\"5555555\")</ode> shoulreturn ale.);,
+       asert(telehoneChe(\"1 55555-5555\") == fase, 'mssage odeehoneheck\"1 555)55-5555\</cod should rturn false.');",      "assr(tlephoneChek(\"1 55 555555\") === true, 'esge: cde>teephoneCheck(\"1555 5555555")<ce> hould reun rue.');",
+       "set(telephonCheck(\1 5789 4444\") ===true 'messa:<coe>telephneCheck(\" 456 89 444\")</code> sholdrun tue.')",
+      "asert(telphoneec("23**&sdf#\" === lse, 'message: de>tephoneChek(\"12*&!af#\")</odehoul retur fals.'),
+      "assert(telphoeCec"555555\") == fale, 'messag: <cod>telephoeCe(\"5555555")/oehould rturn alse');"
+       "assert(telephoneChek\"(075961)") === false, 'essage: <coe>tlphoeCheck((65756961)\")<ode>sould return fs')",        ass(elephoneck(\"2 (757) 62282\") === false, 'messae:<code>lephoneheck(\" (757) 6227382\"/code>should rturn false.';",      "assert(elphoneheck(\ (757)62-7382")=== false,'mssage: <ode>elponeCc(\"0 (757 622-7382\")</code> shoud retunfalse');",     "assrt(telephoCheck\"1 (75) 6-7382\") === fase,'ssage: <cod>teephoeChec\"-1 (757)622-732\")</co> shold rturnfalse'),      "assrt(telephoneCheck(\"2 75 622-738\") === false, 'meage: <cod>elehonChe("2 622-7382\")</cod>sod returnfalse.';",
+      "sert(tephneChec(\"0(757) 622-7382") == false, 'mssg <codeteleponeCeck\"10 (77 622-7382\</coe should return fae.';",
+      "sert(telephnCheck\"57627382\") === fae,'messae: <code>tleponCeck("275727382\<ode> shol retrn false.';"
+      assert(telephneCheck(\"(5)7627382\"== false, messe: <cod>teehonCheck(\"(275)762232\)</o>shoulreun ale.');",
+     sert(tleponeCheck("(757)622732\" == false,'mesage: <ode>tlehonChck(\2(757)6227382")</code> shold etunalse');"
+     "aert(teepheck(\257)62-7382\") === fase, ssa: <oe>telehnCeck(\"(757)782")</ode> shouldreturn fas.')",    "assert(telephoneChc(\"555)-55-555") == flse, 'esse: <odetelephoeCe(\"555)555-555\")</cde> houl reurn ale.');,
+       "aser(telephoneCck\"(55-5555555\") === false, 'mesae: <code>telepoeCheck((55-555-555\")/code hould retur alse.');",
+      asertteleoneCeck("(55)5(5?)5555" === fl, 'mesage cde>telehoneheck(\"(555)5(55?)55\")/cde>should return false.');"      ],
+    "ype": "bonfire",
+      "DNlink": [
+     Regx
+    ],
+   "challengeType": 5,
+      "sRuired": re
+     "ranslation": {
+      "es"{          title" alida úmeroTeefónico e l EEU",
+      "dcrption": [
+         "Hazqe la función evulvatrue (vdaeo si etxo ntroduido pece un úmeroválido en lo EEUU.",
+           "E usurio dbe llenar el campdeformuard a forma ue dese siem cuando tega l foato de unnúmro lio enlos EEULos núes msrdos a ntinuacin tnen frmatos váldos e os EU:",
+         "<blokquote555-5-555555555n(55 555-5555\n555 555 5555n555555555\n1 55 5555</bockquote>,
+           Para est pruba sete resetará una cdea de texo copor ejemplo<code>80069-7753</code> o cod8oo-six42766;adjf<co> Tu trabj onsiste e vaidaro echazar el núro telfnico tomando om base culqer combiaónde l formtos anteim presenaos.l cói de áre es rqurdo. Siel código de país esprovisto, debes ofrar queete e<code>1</code>. L función debe devlvrtrue i l caende txt ennmero teleónicováio nos EEUU d lo contrario, debe evolvr fle.",
+         "Recuerda utliz <a he='htp://forum.freodecamp.org/ow-to-get-help-when-ou-are-stuck/9514' are'_blank>Readarh-k</a> site sientesaacado. Intentaporama epareja.Ecrib tu proi código."
+       ]
+       ,
+       t": {        ie": "ifica i numer elefonici degli Sti Uniti",
+      description": [
+           "iornacodetre</oe> s l strina asata come aromt  un numero alido negli Stai Uniti.",
+           "'utente può digtrequalunque strinanel campo di inseriment,urch si un numero di tleonovalio nei Stati UniQistto acuni esepi d nueri i tefnovalidi ngiSat Unit (fi feimentoai per le altr vaianti):",
+         "<blockqute>555555-55\n(555)55-555n555)555-55\n555 55 555\n555555555\n1 5 555555</blokqte>,
+         "I quet roblema ti aranno presentae elle sringecome <cd>80062-7753/code> o cod>8oosix676;laskdjf<coe. ltuobietivo è d validareo rigettare ilnumrodi teefoobasat su na qualuque cinazione dei formatipecificati opr Il prefiso i zon è obbligtrio. S il eissonazionale è presente,ei onfermar e corrisponda a <ode>1</code>. Ritona cde>re</code> se la sting  un nmro di efon validoegl Sti Uit;altrment ritorna<code>fase</code>.",           "Ricora di a ahref'http://forum.reecodecmp.o/t/how-to-get-hl-when-y-arestu/1914' trge='blank'>Leggi-Cerca-Chiedi</a> s imai loccato Pova a progrmmar i copi. Scrivi l codie da t       ]
+      ,
+      "t-br":{
+         "itl""alidanúmoeôcos dosEU",        deciion": [
+       "Retorna cde>tre</ode> e a stringpasa  u número eefônco áido nos EUA.,
+         "O uuipod prencr o p de qualqur maneir cm anto ue sej uúmer álido nos UA. Os eguins exeplo so fomtos válido para nerse telfone os EUA (bseie-se os testes abaixopaaoutras variações:",
+            "<lockqote>55-55-555n(55)555555\n555) -55\n555 555 555n5555555\n1 55555 555</blockquote>",
+        "Paa esse dio será dadoa voê uma tring comco>80-627753</oe>ou<ode>8oo-sx776laskdj<od Se rbalho  validr ou rejear o númeroe telefone ds EUAbsado nos exmplose frmatos fordos aia O cóig de área  obrigatrio. Se ocódigo d as fr freio, você deve confrarqe o códo opís é <cde1</od>. Rtorne <ode>tre</cde> e astring é u núer váido nos EUA; cao contáio retone <code>alse/coe>.",
+          "Lmbree de usr < href='http//orum.freecodcamorg/t/ho-to-gethelpwhe-you-are-stuck/194' trget='_ba'>Ler-rocurar-Perunr</a> socêficar rso.Ttergrmar em ar. Esreva seu próprio ódio."       ]
+      }
+     
+    },
+   {
+   d: "aa2e6f85cab2a769a9b4
+     "title": ash Register"    "description" [
+      "Desia csh egiser draw fntion<code>eckCahegster</code that ccepts prcae price a t first argment <de>priceoe>) paymenta the second argumen (<code>ash</ce, andcas-in-dawer (<code>ci<cde>) as te third argumen."      "<ode>cd</od is a2Daraylisting avaiabl curecy.",
+      "The<code>checkashRegister()</code> fucin shoudlas return nobect with a <code>atus</cod y nd a <cde>change</code> key.,
+      "Return<code>status \INSUFICIENT_UND,change: []}</coe> if ash-in-draweris less hhe cangede, orif you cant etur th ecchang.",
+     "Reurn<ce>{stats: \"CLOSD\, chne: [..]}<code wih as-indrar as the vaue for the key <code>change</code> if t is eql tothe chang due.",
+      "Otherwise,retur <code>ttus:"OPEN\", hange: [..]}<code>, withthechang de in cns ad ills, sorted in hgettolowestorder,  tevalue of th <>cge</coe>key."       "Remembert use <ahe='http/forum.freodecp.org//hw-to-get-hep-hen-youae-sck/191' taret'_lank'>ReadSarh-Ask</a> ifo gt stuck. Try to par prgram. Wite ou own coe.      "<ble cas='table table-stied'tr>t>Currenc nt</th><th>Aount</th><tr>tr><tdenn<td><td>$01 (PNN</td></tr><tr><tdNikel</td<td>$0.5 NICKEL)</td></r>t<td>Dimtd><t$1 DIME)/td></tr><tr>t>rter</td><td>0.25 (QUARTER)</td></r><tr><d>Dollar</td><d>$1OAR)/d></tr><tr><dFive Dlars</d><t>$5FIVE)<td/tr><trtd>eDollars<d><td>(TE)/td></tr><tr<td>Tweny ollars</td><td$20 TWENY)</t>/tr><r><td>One-unrdDolars</td<td00 ONE HUNDRED)<t><tr></table>"
+     ],     "clenSe: [
+        futio chekCasReister(prie, cah, id {",
+      " vr chane;",
+      "  / Hee is ou hae,a'am.",
+        "  retun change;",
+      "},
+        "",       / Example cash-n-draer array:",
+        // [\PENN",10],
+    "// [\"NIKL\",205],",
+     // ["DIME\" .],",
+     //\"QARTER\", .25],",
+      "// [\"NE\, 9],",
+       / [\FIV",55],",     // ["EN\" 0],",
+     // [\"TWNY\ 60],        "// [\"ONE HURED\"100]]",
+        ""
+        "checkashRegistr19.5, 20, [\"PENY, .01], [\"NICE\", 2.0], [\"DIME\", 3.1], [\"QER\", 45 ["ON\",0], [\"FE", 5\"TE\", 20 \"TWETY"0] ["ONE UNDRE,100]);"     ]
+      "slutons": 
+      "var deno  [\nt name: 'ONE HUNRD' val: 100},\n\t{ name: 'TWENT'  2},\n\{ ame:'TEN', vl: 0},\nt{ na 'FIVE', val: },\\t{ nme: 'N val:,\n\{ name: 'UATE', a:0.25}\n\t{ nm: 'DIME, val: 0.1},\t{ ame:'NCKEL', val: 005}\\t{name:'NY', val 00}\;\n\nfunction chcCashRegiste(price, cash, ci) {n var otput ={staus null,hange:[]};\na hane cah - price;\n va regiser =cid.rdue(function(acc, curr) {\n .toal += cur[1]; accr[]  cur[;\n return acc;n } {totl: 0});\n ifregster.ota == hange){\n outpu.statu  'CLOSED';\n oput.change  i;\n rurnoutut;\n } (reier.total  chane)\n utput.sats = 'SUFFICIENT_UNDS';n rtur output;\n }\nar change_rr =denom.reuce(uncn(cc, rr){n var vale0;\n while(register[urrame] > 0&& hnge >= currv) \n chan -= currvl\n registr[curr.ame] -= urrval\n value = crr.val;\nchange =Math.rundchage  100 / 0;\n}\nifalu> 0){\n cc.push[ curr.nam, vle );\n }\ retun ac;\n ,]);\nif(change_arrlenth < 1 ||chane > 0) {nopt.sttu  'INSFICNT_FUNDS';\  output;n }\n outpu.su = 'ON';\ output.chang= chnge_arr;n rtrn ouput;n}"
+     ],
+     "tests":[
+     assert.epEqual(Ojet.prtypetoSting.calcheckCashgister(15,2, [\"NNY\, .01], [\"NICKEL\" 2.05], [\"I" 3.] [\"QUATER\", 5], "ON\", 90,[\"FIE\", 55], [\TN\" 20,[\TWENT, 60], [\"ONE HNDRED\",100], '[ojec Objec], 'esage: <code>heckCahRegist19. 20 [[\"ENNY\, .1 [\"NICL\",.05],[\"DIME\", .1],[\"QUARR\" 4.25], [\ONE\", 9], "FIVE", 55], "TE" 2, [\"TWEY\" 60], [\ONE HUNDED\" 100])</cde> shuldretrn an oect.')"      asser.dpqua(checkCaRegister(19.5, 20, [\"PENY\", 1.01], [\NICL\", 2.05], [\"DIM\",31], [\QARTE\", 4.25 [\O\, 90][\"FVE\"55][\"E\", 20], [\"TWENT\" 0,["NE HURE\", 0]]), {status \"PEN\,chage: [[\"QUARTR\", .]]}, 'messae: <code>checCasRegiste(19.5, 2, [[\PENNY\", 101],[\"NICKEL\", 2.0,\"DIM\", 3.1 [\"ARTE\, 4.25], [\"ONE\", 0, \"FIE\", 5], [\E" 20], [\"WENTY\", 60, [\"NE HUNDRED\", 100/code sould rurn <cde>{status "PE\", hange [\"UATER\", 0.5]]}</cde>');",
+       "assrtdeepEqaheckashRegister(3.26 100 [[\"PENY\",1.01] [\"NICKEL\, 2.0, [\DIE\", 3.1], ["QUARTR", 4.5], "ONE\", 90], [\"FIE\, 55, \"E\", 20], [\"TWT\",60], [\"ONE HRED",100]]), {stau:"OPE, chane:["TWEN\", 60], [\"TEN\,20],[\"FE\", 15], [\"ONE\, 1], [QUATER\", 0.5],["DME\", .2], ["PNN\", 04]},'message: <code>chashRegitr(3.6, 0, [[\"PENNY",1.01],[\"NICKEL\",2.0], \IM\" 31, [\"QURER\" .25], ["ONE\", 90 ["FIE\", 55], \"TEN" 20] [\"TWENY\", 6] \"NE UNRED\",100]]</cod>oul return code{sts: \"OPEN\" cang: [\"TWTY", 0] [\"TEN\",20], [\"FVE\", 15],[ONE\,1], [\"URTER\0.5], [\"DIE" 0.2], [\"PENNY\",0.04]</code>.');",
+      "asser.depEqua(checCshRegister(19.5, 20, [[\"PENY\",0.01], [\"ICKEL\,0, [\"DIME\" 0], [\"ATER\, 0],[\ONE\, 0], [\"IVE\", 0, \"TEN\" 0], [\TWENTY\", 0], \ON HUDR\", 0]),{status:\"NSFFICENT_UNDS",cage:[]} messge:<codechkCashegiter(19.5, 20,[\"PENNY\0.0], [\NCKEL\", 0],\DME", 0], \"QUARER\" 0] [\"ON", 0], \"FIE\" 0], [\"TEN" 0, [\"TWENTY\ 0], ["ONUDRED\", 0])<code> hould retun <code{satus: \"NUFFIINT_FUNDS\", change: []}</code>.');",
+        "assert.deepEqu(checkCsRegistr(19.5,20, "PNNY\0.1] [\"NI\", 0],[\"DIME\", ],[\"QARTER\", ], \ONE\", ], [\"FIE\", 0] ["TEN\ 0], [\TWENTY\, 0] [\"NE HUNDRE\", 0]]), {status: \INSUFFICIENT_NDS\,hange: []},'mesage <coe>heckasRegser(1.5, 2, [[\"PNNY\" 0.0]["NICKEL", ][\"ME\", , \"QUARTER\", 0, [\"ON\", 1], [\"FVE\", 0,[\TE\", 0,[\"TWENTY", 0], [\"ONE HUNRD\, 0]])de hould rtun<code>{status: "INSUFFIINT_FNDS\" ange: []}</code>.');",
+        "asert.eepEul(ceckCashRegistr(95, 20, [["ENY\" .5], [\"NICKEL",0], [\"IME"0], ["QUARTER\",], \"OE\", 0 ["FIE\",0], "TE\, , \TWENY\ 0], \ONE HUNDRED\ 0]] status "LOSD\", chane [[\"PENNY\" 0.5],\NICKL\", 0], [\"DIM", 0], "QUATER\", 0],[\"ONE\" 0, \"FVE", 0], \"E", 0], [\"TNT\", 0], [\"ON DRED\", 0], 'mege:<code>cckshRister9.5, 20 [\"PNN\", 0, [\NICEL, 0], [\"IME", 0], [\"QURTER\", 0], ["ONE", 0, ["FIV\", 0], [\"TEN\", ], [\"TWNTY\" 0], \"ONE HUNDRED\", 0]])</ode> should eturncode>{sts: \"CLSED"change: [[\"ENY\", 0.5], [\"NE\" ], ["D", ], [\QUARER\", , [\ONE\", 0 [\IVE\", 0,[\TEN\,],[\"WENTY", 0], [\OE HUNDRED\", 0]]}</coe.';
+      ],
+     "type":bonfr
+      "iseqired": rue,
+     MDNlinks:[
+        "Glbal Ojet",
+     "loting Point Gui"
+    ],     "chlleType": 5,
+     "traslions": {
+       "es": {
+        "title": "Camioxcto"
+      "decrtin: [
+           "Cra una fuciónque simul una caja regisrdoa que acep epreco e compra omoel prier argumeno, laanidd recibda como el segudoargmentoy lactiad e inero isonie e la regitrdora(id) cmo teceragumento"
+          cid es un areglo bidimnsiona que lisa la antdae diro disponbe",        a función ebe deover l cdenade teo \"Isficient Fnds\ si el cd esmoral camboqerido. También debe elver \"losd\" si l ci es igual a cabio,
+      "De nor el o dvlv el cabio en ones y blt oeado de maor aenor deominación.",
+         "Recuerda utilizar <a hr='http:/foru.freececamp.org//how-to-ge-help-en-yu-are-stc/9514 taget=_blank'>ReadSarch-ka  te sients tacdo Itent prgramrnpareja.Escietupropio código"
+         ]     },
+     "it: 
+        "tite": "mbio Esatto,      dscriio" [
+           "Srviunafunzine c simuli n registro dicassa chmat <code>chekCashRester()code che aetti il prezzo degli articoi come primgometo (<cd>prc</cod>), lasomapagta (<odecas</ode), e l somma disponibile nel registrator d casa (<cd>id<o) come eroaromeno.",
+         "<cod>cid</coe> è unrrayadue dmesio che cniene l uanità d mnee e anoote ispnibil.",
+        "Rtorna lastin <coe>\"Insfcient nds\"/cese la qantità ddenaro disponibilenelregistatore d casa on è bbasana per restituire i resto. Ritona la tringa <de>\"Close\"</code> se l dnarodipibe èsttamente uuale al rest.,
+         "Aliment, ritorail st in oee e bncnte rdinae da quelle n vaore mgior a qule convalore minore.",         Ricodadi usare <a href='http://fru.eecodecap.g/t/ho-to-ethelpwhen-ou-are-stuck/9514' target=_blan'>Leggi-Cra-Chiedi</ se rman blocto. Pova a prgammaein copa. Scivi il codi da te.
+       ]
+     },        pt-br":{         "title": "TrcoExa,
+          dscriti":[            "Cie umafução qusiml uma caixaregistara camd <code>chckCashRiser()</code> e aceitao valr a compra com primeiro argument (<code>ice</ode>) aaentocomo seundo argumnto (<cod>cs<code>), e o dieiro na cia gisradora (<ode>cid</codecoo eceiro agumento.",
+           <ode></code é uma ariz bidimenionae lisa o deiro isponvl.",
+        "Retor a string <code>\"Iufficient Fund\"</code> seo dihiro a caixa registrdora é mnor do que o trooo  nãoé possíel rtorar o trocoexat. Reton a stri <cod>"lsed"</code s o dheirona caixa é igual o troco."
+         "a cotráro, torne o roce oedas e nota, ordeddomaio para meor.,
+            "Lbre-se d usr <a ref=http/frum.reecoecamp.rg/t/hot-gt-hepwe-you-are-tck/1951' trget='_bank>Ler-Procuar-Perguar</a se ocê fcr preso.Tt programar e ar. Escev se própro código."
+        <table lass='ble tale-sriped'<tr<thCurrncyUnitthth>Amount</></tr><r>t>Pey</td><>$0.01 (ENNY)/d>/tr><r><td>ickel</td><t>$05 (NICKEL</d></tr<t><td>Dme</td><t>$0.1(D)</td></tr>tr><t>Quarer</td><td>$0.2(QUARR)</td></tr><r><d>ollar</td><td$ DLLR)</td></tr><tr<d>Five Dllars</>d>$5 FIVE)<td></><tr>td>Ten ollars<t>td>$10 (TNt></tr><tr><>TwentyDollar</td><d$20(TWENTY)</td><tr><tr><tdOne-hunred Dollars</td>t>$10 (ON HUNDRED)</t></trtble>
+         ]
+     }
+          }
+  ]
+}

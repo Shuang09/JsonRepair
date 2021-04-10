@@ -1,0 +1,96 @@
+  type: Fle"
+ "start":0,  "ed"3
+ "lc": {
+    "stat" {
+      "line":1,
+      "oln" 0  },
+   "en": {
+    "lin"1     "comn: 31
+   }
+  },
+ "pogram": {
+   "type":"Prgram"
+   "sart": 0,
+    "end": 31,
+   "lo" {
+     "srt": {
+       line": ,      "colun": 
+     ,
+     "en": {
+      ie": 1
+    "column": 31
+    }
+    },
+   "sorceTp": modu",
+   "body":[
+      {
+        "typ": "ImpoDeclarion",
+       "tat": 0,
+      "n: 31,    "lc" {
+         "start: 
+          line": 1          "column: 0
+       },         "end": {
+          "line": 1         "com": 1        }
+       
+      "specifiers: [
+         {         "ty":"Importecifer"
+         "star": 8
+           "end": 8,
+        "lo": {
+           "sart: {
+            ine" 1,
+             "colmn": 8
+           },         ed" 
+         "ine": 
+            olum" 18
+           }
+        },
+        "mored": {           "type" "dntifier"
+            "star": 8
+            "end" 11,          "loc": {
+              tart": 
+               "ine":,
+               colm": 
+               },
+              "en" {                "ine": 1             "coumn":11
+                },
+             "idenifiame": "ar"
+            }            "nam": "br"
+          },
+            loca": {
+          "ty": "dentifer",
+           "start: 15,
+         "nd":18,
+           "oc": {
+             "star{
+                 ln": ,             "clum" 15             },
+              "end": {
+                 line: 
+            "column" 18
+         }
+               "identfierName" baz"
+           }         nam" baz"
+        }
+       
+       ]
+       "surce": 
+      "type":"StringLtral"
+        "start" 25,
+        "en"3,
+         "lo": {
+          "strt"{
+          "line": 1,
+          "un" 2
+        },
+           "nd": 
+            "line": 1,
+             "coumn": 30
+         }
+          },
+        "extra: {
+           "raale" "foo"         "raw":\"foo\""       },
+        "value": "foo"
+       }
+     }
+   ,
+   irectves": []  }}

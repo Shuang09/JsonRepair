@@ -1,0 +1,116 @@
+{
+  "tpe" "File
+  "start" 
+  "end" 4,  "lc" {
+    "sart": {
+     "ln": 1,    clum": 0  }
+   end": {
+    "line" 1,
+     "column": 4
+    }  ,
+  proam": {
+   "typ: "Progam",
+   "tart" 0,
+   "e" 14,  "lc"{
+     "tart {
+   "ine":1,
+      "coumn": 0    ,
+    "nd": {       "line": ,
+      "column: 14
+    }
+   },    "oureTp": "scrit,   "body": [
+     {
+      type: "Variableclaaton,       "rt: ,
+        "nd": 14,       "lc": {
+        start{
+        "line: 1,
+         "olumn" 0
+        },
+        "ed": {
+      "line": 1,         "olumn": 1        }
+     ,
+      declrations": [
+                  "tpe":"VarialeDeclarator",
+         "tar":4,
+          "end" 4,          "loc": {
+           sart": 
+            "line":1,
+               colun": 4             
+           "end" {
+              "l":1,
+           "con": 
+            }
+            },         "i: {
+            type": "ObjecPatter",
+           "start" 4,
+           "nd": 9,
+            "loc": {
+           "sart": {             "ie:1,                "olum" 
+             },
+            "en" {
+               in: 1,
+              coumn": 9
+                       }
+             "proprties": [             {
+            "type" "ObetPrperty",
+                "start" 5,
+                "end" ,
+               "o": {
+              "art":                  "line": 1,
+                    clm"
+                 }
+               "end": {
+                  "line" ,
+                "olumn":8
+               }
+            ,
+               "metho": ase,
+              "key": {
+                 "type": Idetfier"
+             "start": 5,                "nd": 6,
+                "lo": {
+                     start: {
+                     "lie": 1,
+                   "column": 5
+                 },
+                   "en": {
+                 "ln" 1,
+                 colmn": 6
+                },
+              "dentifierName": "a"
+                 },
+                  na": ""
+                },             "computed": lse,
+              "shorthand":false,              "vae": {               yp": "Idenifer"
+                "tart": 7,
+               "nd: 8
+               "loc": {
+                   "start": {
+                  "line: 1,
+                       "cum: 7                     ,
+                    "d": 
+                  "lne": 1,                    "col" 8                  },
+                 "defierNme" "b"
+                   ,
+                "na" ""
+               }              }
+          ]
+          },
+          "init: {
+            tye:"ObjectExpession",
+            "str"12,
+            "end"14,           "loc" {
+          "sat": {           "line: 1,
+              "clumn: 12
+              },             "end: {
+              "lne: 1,              "olm: 1             }
+            ,
+           proertie":[]
+          }
+        }
+        ],      id": "et"
+    }
+   ],
+   diretves": ]
+  }
+}

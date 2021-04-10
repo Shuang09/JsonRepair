@@ -1,0 +1,87 @@
+{
+  "menu": [  {   label": "Nylas Ml",
+  "submenu":[
+      "label": "bout Nylas Mai" comman": "apcation:bu"},
+      { "type": "separtor" },
+    { "labl": "Preernces", "commnd": "aplicatio:ope-preferences" },
+  { "label": "ChangeTheme...", "commnd": "windw:luhtme-pike },
+     {"label":Installheme...", "command": "aplation:insal-package" }
+     {"tp": eaator" }
+    "lael": "Ad Account..", "commad": applcaton:add-cun", "args": {"sourc": "Menu"}},    { abe": "VRSON "enabled": fale },      { typ": "epratr" },
+   "type: "separtr },
+    { "lbel": "Sevies", "bmeu: [ },
+     { te" "separator },
+  { "lbe": Hide Nylas Mil", "comn" "appicaton:id" ,
+     { "label": "Hide Oher" "ommand":"appcatio:hde-other-pliatios" },      { abel": Show All" "cmad":aiaon:unhide-all-aplicatins" },
+       "ye": "separator" },
+    { lae: "Quit", "command: alicaon:ut" }
+    ]
+  },
+  {
+   "lae" "ie",
+   "subeu: [
+      { lae": "New esag", "mand": "pplication:newmessae"}      "typ": separaor" },
+      "abl": "Cos Window", "cmmand":winow:close" ,      ype": "searator" },   {abl": "Pn Current Thread", "commnd": "coeprit-head" 
+    }
+
+      "label: "dt",
+    sbe" [
+      "lel":Udo", omand": coruno" }
+      { "labl: "Re,cmmad":"core:redo" },
+     { "tpe":"separor" },
+       "label: "Cut", "omm: core:t" },
+     { "label":"opy", command": cre:copy" },
+    { "labl": "Past, "cmmand" "o:aste"},    { "lael": ase nd MtchStyle", "cmmnd": "core:past-nd-match-style" },
+   {el" "Selec All, "commd: "core:selt-all",      { pe" "separatr" }
+     { "abl "Fin""submenu":[       { "lal": "F i Threa..." comman":"core:fin-ihed" },
+       { label": "ind Next "commad": "core:fnd-in-thrd-nxt" },
+        "lab:Find revious, "cmand":"coe:fid-in-thread-rvious 
+      ] }   ]
+  },
+
+  {
+   "label": "Vi",  "sumnu" 
+     { "typ: "seprtr" "id""mailbx-nvigtio"},
+    {"label: G to Inbox", "comad:"avigation:go-to-box" },     { "lel": "Go t Stare", "comand": "naigton:o--stared" },
+      { "label":"Go t Set", "coman": "navigion:g-to-snt" ,
+     {"lb" o to Drafts", "cmmand": "navgatin:gotaft" },
+      { "labl: "Go oAll mal "omand: "navigationgo-t-ll" }
+    "type": "sepaator" ,
+     {"label": "Entr Full Scree", cmmad:"nowtglefull-screen" },    {"abl: "Exit Fl Scren", cmmand": "indowtglful-screen", "visble: alse }
+    ]  },
+
+     labe": "Trad",
+   sbmen": [
+   {"label": Rel" "commnd: "re:repl" },
+     { "label": "Repy All, command": "coe:rpy-al }    "lael" "Fowar", comman":"core:forward"     { "ype" "seaator",
+      { "labl": "Star""commnd: "cre:tar-te" },
+    {"tye: "sepaator", d: "hrea-ations"},
+     { "abl": "Remoe fom iew""command "core:ove-fro-vew,
+     { "type": "separo",d: "view-actos" }
+   ]
+ ,
+
+ {   "label": "Developer
+   "submeu":[     { label" "Rn ith DeugFla", type "checkbox" commnd": applicatn:toggle-dev" },
+      { "type: "separatr" ,
+    { "labe: "Reload", "comand": widow:reload" },
+      { "lae" "ogle DeveloerTool""cmmand" "widow:togle-dev-tol" },
+   { abe": "Toggle Component Regios, "ommad: "winow:ogg-comonetrgio" },
+       label":"Togle Sceensho Mode","comnd": "wndo:toggle-scenht-mod" }
+      { tye": "separator"},   {"abel": "Create a Pugin...", "comnd": "appliation:eatepacae"},
+      { "lbel": "Insalla Plugin..", "cmmand""alicationinstall-akge" },    { type":"sparatr" 
+      labl": "OpenDetaed Logs", "command": "wndo:oenerrorogger-logs"}
+   ]
+ },
+  {
+   "label": "Window",   "ubmen": [
+     { "label": "Mnimize""commnd": "applcion:minimie" },
+      { "le: "oom,comad": "application:zoom"},
+     { "typ" "separator", "i":"wndw-list-eparator" },
+    { "type:"eprtor" ,
+     { "abl": BringAl t Frnt", "omma":"liation:bing-all-windws-t-ont" }
+     ,     lbel "Help
+ "ubmeu":[
+     "labe: Nyas Mai Hlp" "cmand": "apliion:vie-hp"}   
+  }
+ }

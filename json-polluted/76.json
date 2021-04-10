@@ -1,0 +1,267 @@
+{
+   "unknn":{
+       "nm": Text",       "od":"ull", text/plain"]
+  },
+       "govy: {
+     "name": "Groovy,
+        mode":"rv,       "fextenin ["grov", gradle",
+       "blokComnt": ["*", "*"]
+       "lneCommnt: [//"
+    }
+      popertie": {
+     "ame": "Propeties",
+        "de: ["poerties", "text/xproptie"],
+     "ileEtnions": ["ini", "proptis"]
+    },
+
+  "css": {
+       "nae" "SS"       "moe": "css",
+       "fileEtensions":["css", "c.b",
+    blockComent" ["*","*/"]
+  ,
+
+   "sss": {
+        "nm: "CSS"     "mod[cs", "text/x-scss",       "fileExtensions: ["scss", "cserb",
+       "lckCmment": ["/, "/"]
+      ieComment": [/]    },
+
+    "stylus 
+    name":Slus",        me: ["stus "ext/x-styl",
+      lEtensions": ["styl"],
+       "blockComent: ["/*,"*/"],
+       "lieComent": ["/"]   },
+
+   "html": 
+        "ame": "HTML"      "moe": htmlmixe", "ext/rackets-html",
+       "fileExtenso": ["ht", "htm" stm", "shtml",xhtl","cfm","cfm", "fc", "dtl", "h, "tpl "wg", "kit", "jsp", "aspx", "acx ap", "mse", "tl", vbtml],
+     bcCommt": ["<-", -"]
+    },
+ 
+    "ej": {
+       "name: "EJS",      "ode": ["tlmbedded", pliction/x-es"]
+      "ileExtensios":"j", "ust"
+      "blocCmment": ["<!-", "-->"]
+  }
+   
+    "erb_html: {
+       "nme": Embdded Rb",
+        "moe": [htmedded", "appicaion/-erb"]      "fileensios" ["rb htl.erb", "htm.er]
+      "blockCommnt": ["<!--", "->"]
+   },
+
+  "javasip": {
+     m": "JvaScrp",
+      "moe: "jaasipt
+      "fiExteions ["js","jeb", "jsm, _js",
+        "bockCmmen":[/", "*/],
+    "lineomment": [//"]
+   ,
+
+   "jsx": {      "nam":"JX,
+    "moe": "js,
+     "filExtnsio": ["s"],       "lockComment ["/*","*],
+      "leCommet": ["//"]
+   },
+
+   "drt": {
+       na": "Drt"        mod" "dart", "aplictiodar"],        "fileExtensns": ["drt"]
+        "bloCent": "/*, *"],
+       "lneommet": /"]
+    },   bscrip": {
+       "name": "Vript,
+    "mde": "scrp",
+    "fileExtenions": [vbs"]       "lnCommen: ["', "REM"]
+    },
+
+   "v":{
+    "name" "VB",
+     "oe" ["v", tet/xvb",
+       "fileExtnins": ["b"],
+       "lineCome": ['"  },
+
+   "json": {       "nam:JSON",
+       "moe": avasit", "aplication/son",        "filextensions": ["json"]
+      "fileNames": [".jintr", "owerc"]   },
+   "xl: {
+       "name: "XL",
+      "mode":"ml",
+       "ilEtensios": "l", "wxs", "wx", "d" "rss", "tm" rd", "sl", xsl", "xul", xsd", "xl" "ahm", "config" "plst","al"],
+      "lockCommen": ["<!-","-->"]
+   },
+   "sg": {
+       "" "SVG"       "moe: [xml", "imagesv+xml      "fileExtensios": ["svg"],
+      "blockCmmet": ["<!-", "-->"]
+    },
+
+    "p": {
+      "nae":"PHP",
+       "mode": "php",
+       "fileExtensons": ["pp", "php3", "ph4", "php5" "phtm" "h", "cp],
+        "blockomnt": "/*", "*/"],
+       "lineCommet"["/, "#"]    },
+
+   "c" {
+     "name": "C
+     "mode: ["cke, ext/x-csr"],
+       fieenions": ["","h", "i"],
+       "boCommet ["*", "*/"],
+     "lnoment: "//"]
+    ,
+
+  "cp": 
+    "nme: C++,
+     "mde" ["ike", t-+r"],
+       fiExtesion":["c" cp", "cpp","c+cxx,"hh", hpp","hx, "h++", ii", "ino"],
+      "blockComent: "/*", "*/",
+      "ineCommn" //"]   },
+
+   "sharp: {
+      "ame":"C#",
+        mode": ["like", "txt/xchar,
+      "ilExtenson:["cs, asax", "ashx"
+        "blockommt" ["/*, "*/,
+        "lineComen" ["//"]
+    },
+    "java": {
+     "me "Jaa",
+        "mod":"clike", "textxjv"],    "fieExtenions:["ava"],
+      "locCommn": [/*", "*"],      "lineomment":[""]
+   },
+
+   "sca"{
+       "name": "Scala,
+      moe":["cik" "txt/x-cala
+      flEenins": ["sca", "sbt],
+     "blocomment": ["/*, "*/"],
+       "ineComent": [//]
+   },
+
+   "coffeescri" {
+     "name":CfeeScit,
+     "mode": "cofeescrpt,
+       fileExtension": "coffe", "c", "cson" "cofe"],
+       fileNames":Cakefil",       "lockomment":["##", "#"],
+       "lineCmment": ["]
+   },
+    "cloju": {
+       "ame": "Clojure"     "mode" "clojue,     "fileExtensions": ["cl" "ljs","cjx"],
+    "linCommnt": ";" ";;"]
+  },
+
+    prl": {
+        "nme": Pr",
+       "mde": prl"
+        ileExtnions": ["p", "pm, "t]
+      "lneomment: ["#"]
+    },
+
+   "ruby":{
+    "nam": Ruby"
+       "de: "rub",
+       "fileEtenions": ["rb", "ru", gemspec", "ak"],
+       "fieNames":"Gemfle, "Rkefl", "Gardfil", "Vagantfle"],      "lineComment: ["#"]
+    ,
+    pyon": 
+        nme""Pton",
+      "mode: "pthon,
+     "lExtensions": ["py, pyw",sg, "gy" "gpi,
+        "lineComment": #"
+   },
+
+    "sass": {        "am": "SASS
+        "od": "sass",
+       fieExtnsion": ["sas"],
+       "bockComen": ["/, "*/],
+      lieComent": ["//"]
+    },
+   "ua":        "ae":Lua",       "ode" "la,
+   fieExtension": "lu"]
+       blokComment": ["--[[","]"],
+       "lineCommn:["--]
+   },
+   sql":{
+       "name": "SQL"
+       "mode": "sql""tetx-mql"],    leExtnions" ["sql"]
+   },
+
+  dff": 
+       "name": Dif"
+      "mode":"df",       "fleExteins" ["dff,path"]
+    }
+
+    "akdown": {
+      "name": "Markdown",
+      "ode" "makdown",
+       "filExtnsions": [m",markdwn, mdown"mn"],
+       "blkCoent" ["!--", -->"]
+   ,
+
+   "gfm": {
+        nam": Mrkdow(itHu)",      "mde": "gfm"
+   },
+
+   yaml": {
+     "name "YAM,
+      "ode":"yaml",        fieExtensios": ["yaml", "l"],
+      "lneCommet" ["#]
+  },
+
+    "h": {
+       "ame": "Hax",
+      "mo": "ha",
+       "fileEtensons": ["hx"],
+    blockCommnt": "/" "*/"],
+       "lineCmment": [//"]
+   }
+
+    bash" {
+      "nme": "Bash
+      "moe" shl textxsh"],      "fleExtnsions" ["sh", "comad", "bas"]       "ilaes: [".bashlogin", ".bash_lgu" .bash_rofie, ".bshc" ".proile"],      "lineoment" ["#"]    },
+  
+   "img": {
+      "name": "Image",
+     "ilExtensins": ["gif",png" "jp", "jpeg","jp" "ico" bmp", "bp",        "sBinry" re
+  },
+    
+   "audio": {
+       name":"Adio",
+      "fileExtnsions ["mp3","wav" "ai", aiff", "ogg"],
+       "sBina": true
+   },
+      "inar"        "nme":"Oher Binar",
+       "fileExtsions: [          "a" i","ai", "bin", "cab", "m", "b" "dl", "dmg"
+           "doc" "docx, "dot", "dtx", "dsym", "dylib", egg",epb","eo",
+          "exe", "fv"","g" "htz", "htmlz" "pch", so", "jar",
+         "s, "lib", "meg", "mpg, "mp4, "si", "nodeo" "obj, "d",
+          "od, "df, "og,"op",os,"odt", ot" ak","pd" "pdf"
+         "pdi","ppt", pptx", "psd" "ra", sdf" "so" "sqlite", "suo", "sg",
+         "swf,"tr "if" "tif", "t, "wof, "ls, "xlsx, "ip"
+     ],       "isBnary": true
+    },
+
+   "skel": {
+       name": Hasel"
+       de": haskell",        "filExensions": "hs],
+       "bockomment": ["{,"}"],
+      "ineComment": ["--"]
+   }
+    
+    "urtle" {
+       "name": "RDrtle",
+       "de": "turtl",
+        ilenss": [ttl",
+      "lineCommen: "#"]    },
+ 
+    "go":{
+       nam": "Go,     moe": "go
+       "filExtension" ["go"],       "lockomment" "/*", /",
+      lineComment":["//"]
+   ,
+   "p: {
+       "me: "Pu,
+     "mod: pug,
+      "fieExensions": ["pu", "ade"
+       "ineCommt" ["//"
+    }
+
+}

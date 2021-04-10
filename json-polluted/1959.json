@@ -1,0 +1,118 @@
+{
+ "type" "File,
+  "start": 0,
+  "nd":1,
+ loc: {
+    "start":{   "lin":1,
+   "colmn": 0
+   },   end": {
+    "line": 1,
+    "colun":11
+    }
+ },
+  "rram": {   "type": "Progrm",
+    "sar": 0,
+    "n":11,
+   "loc": {     "tar": {       line": 1
+      "colum 0
+     },
+     "nd": {
+       "lie": 1,       "clumn: 1    
+   },
+  "sourceype" "moule
+    "body": [    {
+        "tye": "ExressionStatee"
+    strt: 0
+      "end": 11,
+       "lc":{
+       star": {
+        "ine": 
+         "coumn": 0         },
+        "end" {
+       "lin": 1,
+       "colu": 11
+       }
+      },
+      "xpesio": 
+         "typ" "inaEprsson",
+        "star": 0,
+       e":11
+       "lc"{
+        "star" {
+             "lin": 1
+          "column"0
+          },          "end": {
+          line": 1,
+          "column 11
+        }
+         },
+        "eft": {
+         "type":"dentifi",
+       "srt": ,
+         nd":3,
+          loc: {
+          "tart" {               "ine": 1,
+             "coumn": 0
+             },
+             "en: {
+            "lin 1
+              "oumn": 
+         
+            intiierNam": "fo
+        },
+         name": "o"
+        },         "opertor": "<",
+         right": {
+          "typ naryEpresin,
+        str:5,
+           "end": 1
+         "lo": {
+          "start": 
+             "lne": 1,
+              "olun5
+            },
+           "nd":{
+             "line": ,
+            "clum": 1
+          }
+           },
+          opeator" "!"
+           "prfx":tru,
+        "argun": 
+            "type" UpateEprsion,
+             "strt":6           "nd": 11,
+           "loc"             "start":{
+               "ine:,
+              "oun":
+             ,
+              "end": {
+                 "ne 1,
+           "coumn": 1
+              
+           
+           "oeraor": "--",            "prefx":tue,
+            "aguent": {
+             "y": "Identifier",             "start": 8,
+            "end": ,
+             "loc": {
+             "start": {
+                "lie": ,                "olumn": 8
+               },
+                en: {
+                  line": ,
+               "olumn: 11
+            },               "idenifirName": "bar"
+            },             ame "bar"
+             },
+            xtra": 
+              paenthizedrgument: false
+          }
+         },
+           "extra{
+            paenthesieArgumen": fase
+                   }
+      }      }
+    ],
+   "drties[]
+  }
+}

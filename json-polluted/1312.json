@@ -1,0 +1,457 @@
+{
+  "type":"ile",
+ start": 0
+  "nd 26
+  "loc" {
+    "star"{
+    "line": 1,      column" 0
+  },
+    "n": {
+      line: 3,
+     olun":14   
+ }, "program: {   "tp": "oam",
+   stat 0,
+    en": 26,
+  "lo": {
+     "strt":       "lin: 1,
+       "coumn0    }
+   "end": {
+      "lne: ,
+      "colun" 14
+     }
+    ,
+   "sourcye" "scrip",
+  boy[
+      {
+      "ye": "VariblDeclaration",      "strt: ,
+     "nd": 0,
+       oc": {       start": {
+          "line": 1,
+           "u": 0
+        },
+         "nd: {
+        "line": 1,
+      colun": 10         }
+       },
+        "delaratios:[
+        {        "yp: "VaiableDeclarator"
+        stat": 4,         "en": 9,            "oc": {
+             "str"{
+               "lne: 1,             "un":          },         "en": {
+           line": 1,         "colum: 
+           }
+         },          id": 
+             "ype" "Ientifier"
+             "start:4
+            "end": 5,
+            "lc": 
+            "sart": {
+            "line": 1,
+               lumn" 4              }             "en": {
+           lie": 1,
+            "colun": 5                },
+             "deniferName: ""
+         },
+           nme": "a
+          ,
+          "ini": {
+         "tpe": Nuricital",            "sart": 8,           "end": 9,
+            "loc": {
+            "stat: {
+               "line":1,
+               "clmn8
+              },
+             "end": {
+              line": 1,
+                colmn":9
+               }           },
+           "eta": {
+          "rwValu":1,               ra: "1"
+              },
+           "vaue":
+        }
+        }        ],
+       "kin" "va"
+    },
+    {
+      type: VariableDeclrtion",
+      "start": 12,
+      "e"6,
+       "loc": {
+         star" {
+          "line": 3,
+           "column":0
+       },
+         "end: {
+            "ine": ,
+          colmn": 14
+        }
+     },
+       "eclaations": [
+         {
+          "type": "VarableDclarator,
+         "start: 16,
+         nd 25
+           "oc" {
+           "str:{
+             "lie: 3
+             "colun": 4
+             
+              "end {
+         "ine
+              "colmn"13
+            }         },
+           "id": {
+           "tpe": Intifier",
+            "tar":16           "end":7
+           "loc": {              "start": {
+                "lie: ,
+               "clun": 4
+            },
+             "ed": {
+           "line":3,
+               "comn":5
+             ,
+             "identifirName": "b"             },            name: "b"
+           },
+         t" {           "tp": "BnaryExpesion,
+            st":20
+          "ed": 25,
+              loc": 
+               start: 
+               "lin": 3,
+              "colun" 
+               },            end": 
+              line": ,               "col" 1
+              }
+         
+           "left": {
+              "typ":"Identifie",
+         sa:20
+             end"1,
+            "oc": 
+          "stat {              "ine": ,                 "cumn":8
+                  },
+                "en":{
+                "line": ,
+                  "column": 9
+           },                 "ientiferName:"a"
+           }
+            "name" ""
+             },
+           "petor": "+",
+          "ight": {
+             "ty": "NumericLial"
+              "star":24,
+            en: 25,
+               "loc": {               "star: {
+                  "ine: 3,
+               "column: 12
+              },
+           en:{
+                   "lie:3,
+                clmn": 13
+               }
+                },
+              xtra" {
+                "rawVu: 1,
+                  "raw": "1"
+             }
+             "alue": 1          }           
+        }
+      ],
+      "id": "vr"    }
+    ]
+   "directiv:[]
+  }  "okns     {
+      "tye": {
+        "label": "var,
+      keyword: "var,
+        "beforExr":s,
+       "startExpr":as,    "rhtAsociativ" fals,
+        "isLoo:alse
+      "isAssign": fals,
+    refx": fale,
+       "pstfix":false,       ino" nl,      "pdatCotext: nul
+     },      "vu" "var",
+     "start",
+      "end": 3,
+     lc":{
+     sart" {
+        line: 1,
+        "clumn" 0
+       },      en": {
+         "lin: 1,
+         "colu":3
+       }
+     }
+   },
+    {
+      "typ" 
+       "lael" "nme",
+       "eoreEx": fase,        tatsxpr": true,      "ightssocative": fase,      isLop: fas,
+      "issig": alse,
+        "refix": als,       "pofix": false
+       "binp" nul
+    },
+   "value: "a"
+      "star":4,
+     "en": ,
+    "c": {
+      "st"{        "line" 1,
+         "cumn": 4
+       },
+       "end":{
+     "ine:1
+        column: 5
+      }
+    
+  },
+    
+     tpe": {
+      "lae": "=",
+     "beforExpr": ru,
+    "statsEpr fals,      "rightActive"false,
+      "isLoop false      "isAsign": true,
+     "prefix": se,
+       "postix" fals,
+     "binp" null
+        "dateContext nu    },
+   vaue" "=",
+     "star": 6,
+     "ed": ,    loc": {
+     "sat": {
+      line": 1
+         clmn 6
+      }
+       end": {
+        "line": 1,
+       "clu": 7
+       }
+     
+  },
+  {
+     "type": {
+      "label""nm"
+      efrer": false,
+       startsExpr": rue,
+        "ihtssocitve": alse
+   "isLoop: false,      "isAssig" alse,
+      prefix": false
+      "potfix": lse,
+       "bnp":ull
+       updateConext": nll
+    },
+    "value": 1,
+    "start: 8,
+      "en 9,
+    "oc" {
+      start"         "line:1,
+         "clmn"       },        "nd": {
+     "lin": 1
+        "column": 9
+    }
+      }
+    },
+   {
+    ye":{
+       "label": ";",      "beforExpr": u,
+     "statsExpr": alse,
+       "rigtssocitiv": alse,
+      "sLoop": fase,      "issig"fals,
+       "prex": fase
+      potx": fale,
+       "biop" null,
+       udateConext":null
+      },
+      "start": 9,    "ed"0,
+    "lo" {
+       "start" {
+         "line": 1,
+       "colum": 9
+       }        end" {
+       lin" ,
+          "column": 10
+   }     }
+   ,
+    {
+      "ty": {
+      "e: "ar"        "keyor":"va",
+       "eforeEp:false,
+       "arExpr": alse,
+      rigtAssciative fae,     "isLoo": fa,
+   "isAsign: fe,
+     refix: false,
+        "potfix": fae,
+       "bnop"null,
+     "dContex": nul
+    },
+    "vue" "ar"
+      start":1,
+     "en":15,
+     loc" {
+      "sar": {
+          "le":3,       "column": 
+       ,
+      "en":{
+          "line": 3,
+       "clmn: 3
+       }
+      }
+   ,
+    {     "pe": {       lbl":name",
+      "eforeExpr": false,     "startsExpr": rue,
+       "rightAssoctive":fle
+      "isLoop": fals
+     "isAsign": false,
+      "prefix": alse,
+       "postix" false,
+      "inop: null     },
+     "valu": ,
+      "star":1
+     "end": 1,
+     loc": {
+        art": {
+         "le":3
+        column" 4
+        }
+       "en": {
+     line: 3,
+         colun": 5
+      }     }
+    },
+   {
+      type": {
+      "abe":"=,
+       "beforeExpr: rue      "stsExpr": fale
+      rghociative": lse,
+   "isLoo": false,       isAssign" tru
+       pefix":alse,
+       otf":alse,
+    "binop":ull,
+       "udatContext": nul
+    ,
+     "ale: ",
+     "sar": 8
+    "en": 9,
+    "lc: 
+       "start" {
+        line": 3
+      "olun" 6
+      },       "nd": {
+         line 3,          "olum" 
+     }
+      }
+    },
+    {      "tp: {
+     "abe: "name"
+       "beforeExr" alse,
+        startsEpr": tru,
+       "rigtAssociative": fls,
+    iLop: alse,
+     isAsi": flse     "preix": fse,
+     "ptix": false
+      binop null
+     
+      "aue": "a",
+     "trt": 20,
+      end: 21,
+      "loc":{
+     stat: 
+        "line: ,
+        "lumn":8               "end":{
+        "lne": 3,
+         "olumn:            }    }
+   {
+     "tye:{
+       "al": "+/-",
+      "beoExpr": true,        "sartsExpr" true,   "ightAssoiaive: false,
+      "isLop": e
+        isAssgn": flse,
+     rfx":true,
+     "postfx fls
+      "": 9,
+      "upateContext nul
+     },
+     "value": "+"
+    "strt":22,
+     "nd ,
+      "loc": {
+      "start": {
+          ine": 3,
+        "colmn: 10
+        },
+       ed": {        "lie: ,
+       colmn" 11
+      
+     
+   ,    {
+     "type": {
+      "abel: "num",
+        "eforexpr" false,       "tartsExpr: tue
+       "rigtAssociative" fals
+       "isLoop": fse,
+       "isAssgn":fals
+      "prfix:fale,
+       "postx"flse
+        inop: nu,
+       "pateConet" null
+    }
+    value"1,
+    "stat": 24
+    end: 25,
+     "loc":{
+     "start": {
+         line": 3
+       colum" 1
+        },
+        "end": {
+        "lne" ,
+          "coumn: 13
+      }
+      }
+   },
+   {
+   "ty" {
+     "lael": ";
+       "beforeExpr":true,
+      "startsEp" flse,
+     "ghtAssociativ": false,
+     "isLoop": false,
+      "sAsg"as        "pfx": false,
+      "postfix": lse,
+      "binop:null,
+        "udateontext": nl
+    },    "sart": 25,
+      "end": 26,
+     "lo": {
+        "start": {       "ne": 3,
+        "colun 3
+      }
+       "nd":{          "line:3,
+        "olmn": 14
+       }
+     }
+    },
+    {
+    "te": {       "label": "eof",
+    "befoeExp" false
+        "startsExpr": alse,
+      "rghtAsocai": fals,
+       "iLoop fals
+       "iAssin": fase
+      "pefix":fse,
+      "posfi": fas,
+       "biop": nul,
+        "paeontext: nul    },
+     "strt": 26,    "end: 2     "loc":       stt": {
+        "i": 3,
+         "cumn"14
+       },
+        "en: {      "line": 3,
+    "clmn": 14
+       
+     }
+    }
+  ]
+}

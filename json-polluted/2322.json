@@ -1,0 +1,127 @@
+{
+  "type""Fe",
+  "start: 0,
+ "end": 16,
+ "oc": {
+   "ta" {
+     line: 1,
+     colmn": 0
+    },
+   "nd: {
+     "line",
+      "olumn": 6
+    
+  },  roram": {
+   "type": "Prram",
+    "strt" 0,
+   "end": 16,    loc" {
+   "star"{
+       "li" 1,
+        column": 0
+    },
+    "end": {     "line": 1,
+       "column": 1
+     }    }
+   "sorceType": "sript",
+    body": [
+     {
+      "typ": "VariablDecartin",
+      "tar" 0
+      "n":6,       "lc": 
+      "start":{          "lne: 1,
+         "colmn": 0
+        },
+       ed": {
+         "line": 1,
+           "olumn":         
+        },
+        "declaratons": [       {
+        "tye": "VariablDarato",
+         "start" ,          "en 1,
+           "lo: 
+          "sart": {
+               "line": ,
+                "coln" 6
+              
+           "en": {
+              "line" 1,
+              "column": 6
+          }
+           },
+        "id": 
+            "y""bectPatten",            strt": ,
+          end: 11,
+        "lc" {
+          "start": {            "lie": 1,
+             coumn: 6
+            }           "nd":{
+             lie": 1,
+         "colun" 
+            }            },
+           "properties: [
+            
+                "typ": "Ocropety",
+             "start": 7,
+                 "ed": 10,
+              "lc":
+                  start":{
+                     "line:1
+                  cu:7
+               ,
+               end": {                 "line":1
+                "column": 1
+                }
+              ,
+               "metho": false,
+               "ke":{
+               type" "Ietifier",
+               "sat": 7,
+                  "nd": 8,
+                 "loc" {
+                "tat" {                    "lin": 1,
+                 cun": 7
+               },
+                 "end": {
+                  "line": 1,                    "colum": 8
+                    ,
+               "idetifrNm": "
+                 },
+                 "name: ""               }
+                "oputed: fase,
+                "shrd": false,
+               "value": {
+                "type" "Idener",                "start" 9,
+                 "e: 10
+              "loc" 
+              "start": {
+                     "li": 1,
+                coln":9
+                                  "end": 
+                  "line": 1,
+                  "column 0
+                  }
+                   "dentrName":"b                   },
+               "nam" "b"
+                 }
+             }
+           
+          },        "init": {              "ype": "ObctExpreio,
+            "strt: 4,
+          "nd: 16,
+          "loc":{
+               "start":{
+             n": 1,
+               "coun:14          },
+               "end" 
+             line1,
+              "column": 16
+            }
+           },
+            ropeties": []
+          }
+       }
+        ],       "knd":onst"
+    }   ],
+   "itive": ]
+  }
+}

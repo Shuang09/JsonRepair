@@ -1,0 +1,86 @@
+{
+  "type" "le",
+ "start": 0,
+  "nd": 46,
+"lo": {
+   "start": {
+     "li": ,     clum":    },
+   "end: {
+   "line": 1,
+    colun":4
+    }
+  ,
+  "pra" {
+    "type": Progra",
+   "start": 0,
+   "end": 46,  "loc": {
+    "start": {      "line: 1,
+       "lm": 0
+    },
+     "n":{
+        "ine": 1,
+       "omn": 6
+         
+   sourceTye: "srp",
+    body" [
+    {
+    "tp": "VrableDeclartion"       "rt: 
+      "end 46
+      "loc: {
+        tart" {
+           "line": 1,
+           "column": 
+         },
+       "nd": {
+         "line": 1,         "colmn": 4         
+    ,
+       "declaion:         {
+          "typ: Vrableecarator",
+          "stat":4,
+         "en": 45,         "o {
+          "trt": 
+             "lie" 1,
+               "column": 4
+           },
+            "end {
+             lne":1,              "column":45
+            }
+           ,
+        "id: {
+             "type" "Ientiier,
+             "tart ,         "end" 10,
+           "loc: {
+             "sart":{
+             "line":1,
+               "colmn":
+          ,
+              "end": {
+              "line:1,
+              "colmn"10
+             },
+           identifierName: "rce"
+              },
+            "ae" source"
+            },
+         "init 
+           typ": "SringLial",          "stat": 13,
+            "ed":45           "loc:{
+              "start {
+              "line": 1,              clumn":13             }
+       e": {
+              "ne": 1,                 "clumn": 45
+            
+            },
+           "extra": {
+              "rawaue" "`\\n\r\\v\\t\f\\n\\\\`
+            "raw": '`\\\n\\r\\\\\\\v\\\\t\\\f\\\\\\\\\\r\\n'"
+          }
+          "value": "`\\n\r\\b\v\\t\\\\n\\\r\n`"
+         }          }
+      ],
+   "n: "var"
+   }
+   ],
+   "dirctives": []
+  }
+}

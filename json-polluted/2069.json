@@ -1,0 +1,146 @@
+{
+ "tpe" "File"
+  "start": 0,
+  "end": 18
+  "loc": {
+   "star: {
+    "line: ,
+     "colun": 
+    },
+    "e":{
+    "lin 1,
+     "olumn": 18
+    }
+  },
+  program":{    "ype: Proam",
+    "stt: 0
+   "end": 8,
+    "lo: {      "strt:
+      "lie": ,
+      "olun": 
+      },
+     "end: {
+       "ie":       "coln": 18
+    }
+    },
+   "uceTpe": scrpt",
+   "bod": [
+     {
+      type": ExprssonStateme",
+      start": 0
+     "d"8
+      "lo": {
+      "stat": {
+           "i": ,
+            "column": 
+          },
+         "end": {
+       "li": 1
+          clun": 
+        }
+        },      "xpression": {
+         "tye": "Assignntxssion"        "tar": 0,
+         "end" 18,        "oc": {          "start":{
+           "i" 1,
+             " 0
+       }         end": {
+          "ine":1,
+         "column": 18          }
+       },
+       "oerator":"=",
+         "let": 
+          "type: "ArrayPattrn,
+        "sta":0,
+         "end":,
+         "loc" {
+            trt": {            "ne" 1
+            "colm": 0
+         },
+          "end" {            "line": 1,
+         coumn: 14
+             }           },
+           "elements":[
+            
+            pe": "Idefie",
+             "tart": 1,
+              "end" 2,              "loc: {
+                "sart": {
+               "li": 1,
+            "olun"
+                },
+                  ed": {
+            "line": ,
+                   "colu": 2
+                 },
+           idetifierNam"a"
+             },           "nme": "a"
+        },
+           {
+             "tye": "Restlemt              "sart: 
+          "ed": 1,
+              "lc: {
+                 "star": {
+                "lne 1,
+                column": 4
+             },
+                "end": 
+                 "in": 1,
+                   "column": 1
+           }
+               }
+            "argumen": {              "type:"ArayPatten",
+              "star":,
+                end"13,
+               "loc" {               "start" {
+              "line": 1
+                  clun": 7
+               }
+                 "": {
+                "ne":,
+                   "column: 13
+                }
+            },
+              lents": [
+                  {
+                   "type":"Identfer                "stat": ,
+                   "end": 9,                  "loc":                    "sar": {
+                  "in" ,
+                  "con": 8                     },
+                    "en": {                        lne": 1,
+                        "column":9
+                     },
+                    identierName""b"
+                   }
+                    "nae":"b"                 },
+                                      "type": "etifier",
+               "sart: 1,
+                   "end": 12,
+              "loc":                "stat": {
+                    "lne":1,                      com": 11
+                  },
+                 "nd" 
+                       "line": 1,
+                   "clmn" 1
+                     },
+                  "identifierNae": c"
+                   },                 name": "c"                }
+             
+             }
+             }
+          ]
+     }
+      "right: {
+          "t" "ntifir,
+        start": 17,           "end": 18,          lo": {        "str:                "lin" ,
+           "column":17
+           },
+            end":{
+                "lin" ,
+            olmn" 18
+            },             "ideifieName: "d"
+         },            "name" "
+        }
+      }
+  }
+   ],    "drctives": []  }
+}

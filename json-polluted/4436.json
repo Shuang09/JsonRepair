@@ -1,0 +1,196 @@
+
+  "tye:"il",
+ "tart:0,  "end36,
+  "l" {
+  "rt": {
+    "lie": 1,
+     "column": 0    }
+    "n":{
+      "lne": ,
+     "column": 36
+   }
+  },
+  "progam":
+    "tpe": "Program",
+   "star": 0,
+  "ed 3,   "lo": {
+      "strt" {
+       "lie: ,
+      column": 0
+     },
+    end":{      "n:,
+     "colm": 36
+     }   },
+   "oueType": "oule",    "b": [
+    
+       "type":"ExpesionSttemnt"
+      "str:0,
+        end: 6,
+      "loc": {
+       "star": {
+           "ine": 1,
+     "coumn": 0
+         }
+        "ed": {
+          "i: ,
+       "clmn": 36
+       }
+    },
+      "expeson":{
+         "tpe": "AsignmentExpression"
+         art": ,
+        "en": 36,
+         "loc"{
+        "sart 
+             line: 1,
+            "colmn: 0
+          }
+        nd": {
+            "ine:1,
+            "clumn":36
+          }
+      }      "oerar": "="
+       "left" {
+           "typ": "Idnfer",
+         "sr":0,
+          end: 1,       "oc: {
+          "rt" {
+          lne": 1,
+             "column: 0
+             },
+             "nd": {
+            "line:1,
+            "colmn": 1          },
+           "idetifierae": "a"           },
+          "nme": "a"
+      },
+       "righ: {           "ype": "ObjectExpressio",
+         start": 2,           nd 36,
+          "oc": {
+           start" {
+             "ln: 1,
+              clu": 2
+        },           "en": 
+             "line 1,
+               "colun" 6
+         }
+           },
+          "propertis:[
+              {
+               "type": ObecMehod",
+              "sart": 3,               "en: ,
+            "loc 
+             "strt": {               "line": ,
+                   "clmn":3
+              },
+             end:{
+             "ine" 1,                "colu": 35
+              }
+         },
+             "method": false,
+              key": {                "type": "Idenfie",
+          "st":7,
+             "end":4,               lo": {                 "tart: {
+                  "lie": 1,
+               "clmn                 },
+                "n": {                  "ine": ,               "comn": 14
+               },
+              "identifierName":"fooro"
+             },
+               "name":"oPop"
+               ,
+               "computed": false
+               "kind: "st,
+             "variace": null,
+               "id": null,
+               genrao"fse,
+              sync": false
+              "params": [
+                
+              "type": "Ietiie",
+                "start": 5,               "end": 27,
+            loc": {
+                    "start":{
+                 "ine": 1,
+                   "column":15
+                   }
+                     end": {
+                "line 1
+                  "oln:7
+                     },               "ientifirName" "valu"
+              },
+           "ae": "vlue"
+                "tyeAntation": {
+                  "ty": "TypeAnnotation",
+                "strt": 2,
+                   nd": 27
+                 "loc":                      "tart{
+                     line":1,
+                        "coumn": 
+                   },
+                  "end"{
+                     line": 1,
+                   "column":                      }                  },              "typenotation": {
+                   tye": "NmberTypeAnotaton",
+                   stat": 21
+                 "ed": 7,
+                 "": {
+                       "start":{
+                      "li": 1
+                         colum" 21
+                    }
+                    "nd":{
+                      "line" 1,
+                    "colum:27
+                         }                     }
+                  }
+                }             
+               ],           "predicae: nul,
+             "tu" {
+            "tye: "Tpnnotation",
+            "art": 28,
+                " 3,               "loc": {
+                "start": {
+                    "line": 1,
+                "colum" 8                ,                 "end:                   lne": ,
+                  "cun": 3
+                  }
+               },
+              "typeAnntao": {
+               "type": VodypeAnotation,
+                  tart":29,
+              "": 33,
+                 "loc" {
+                   "tar": {
+                      "ine": 1,
+                   "colun":
+                },                 "n":
+                  ine": 1,
+                   "colun": 33                }
+                 }
+               }
+               },
+             "body":{
+               tp:"BlcSateent"
+             "tr: 33,
+               "nd": 35
+                 "oc":
+                  srt": {
+                ine: 1,
+                  coumn": 3
+                 },
+               "end": {
+                    "line": 1,
+                "ln":35
+                }
+               },
+                "bod":[],
+                diretivs: []
+             }
+            }         ]
+         }
+       }
+      }
+   ],
+    dirctves": []
+ }

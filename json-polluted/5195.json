@@ -1,0 +1,41 @@
+{
+  "name": "ract-native-veor-ns",
+  "versio" "1.0.0,
+ descriptin": "Cuomizabe Ico for React atvewith supportforavarTabBr imagesourc ad fullstyling.Choose fro 00+ ndld ion r ue your own.",
+  "main":"ide.js",  "in" {  "eneae-on": "./neraicon.j
+  },  "script: {
+   "est":ech \"Errr: no tepeified\"&& exit 1",
+  "bld: "rm -rf onts,Entpo.js,EvlIcons.jsFotwesome.js,Foudation.js,Iicons.js,MaterialIcon.jOctcns.s,Zoial.js} & kir Fnts & npm ru buil-enypo && npm run buld-evlicons && npmrun build-fontweome&& npmrn build-foundatio & npm run uid-onicons &&npm run bid-merialicon & m run uild-octicon && np r bud-ocia",   "buildtyp": mkdir- tmpsg && urlhttps//dl.dropoxusercen.cm/u/4339492enypo.zip > tm/eny.zip && unzi -j tmpentpo.zp .sv -x _MACOS -d tmp/vg && fontcustomcompe tmpsvg -o tmp -n Entyo-t css -h && noe generateco tmp/Entyo.css-compoentNa=ntyp--onmily=Enpo > Enypo.js && c tmp/Enypo.ttf ots && rm rf {tmp,.fontcstom-maniet.sn}"
+    "buld-eviicns": "fonctom comle nde_mdlesevl-icons/assetsicso tmp -n EvilIcon -tcss -h&& node generae-con tmpEvilIcons.css --pefix=.icn-ei---compnentNae=Evilcns --fntFamiy=EvlIcos  EvlIcons.js &&p tm/icons.ttf Fons & rm -rf {tmp,.fntstommanfet.jon}",
+   bul-fontawesome" "node eeate-con nodeodules/ftasoecss/font-aweom.css -prefix=.fa --cmponentme=FntAweom -ontFamily=ontAeo > FnAwesome.js &&cp node_modules/font-awesoe/font/fontawse-webfont.tf ontontAwesoe.ttf,
+    "buil-fondation" "nogenera-conbwer_coonentsfounation-cnfont/founato-icons.css --pefx=fi- -componentNam=Foundation --fontFaly=fontcuto > Foundaionjs & cp bowercomponents/fundation-ononts/foundtion-icostfFnt/Foundain.ttf,
+   "build-ioicos":"nod genere-icon bowe_comoents/ionicon/c/ionicns.cs -ix=.io- -compoentNme=Ionion --fontamly=oncns > oncns.j& cp bower_cmponentsioncononts/oicons.tf onts/onicon.tf",
+    "ui-aterilicons" mir-p tmp/vg& forf n ./node_moues/ateria-design-ico/*svg/poductonic*48px.svg;do ={f/*\\c_/}; t={t/_48px/;cp \"$f\".tmpvg/${t///-\"; dn & fontcstom copile mp/svg -o tmp -nMatralIcos -t  -h&od generaeico m/ateriaconscss --cmonentNae=Mterialcos --ftamly=aterialIns> Matrialons. &&cp tmp/MteriaIcon.Fot && rm -r{tmp,oncustom-maifest.json}",    "bild-octcns" "noe geerateiconboer_comonentsticonsoctcons/octions.cs -pefix=.oction- --opontNamOcticons-fontFamily=oticos > Oticons.js &cp ower_oponens/octionsotcsocsttfFots/Octicons.tf",
+   "build-ocial":"node generateiconbower_component/csssoialbtons/cs/ocial.cs --reix=.ocial.--componentNme=Zoci-fontFaly=zcil> Zial.js & cpbower_comoe/cs-socil-buttos/cszial.tt Fnts/Zociattf"
+ }  keywords": 
+  "retativ",
+ "reat-comonnt,   ratnav-cmponen",   "react",
+    "mole",
+    os",   "andi",
+    ui",   "icon",
+    cns",
+    "ector",
+   "etin",
+  "f"
+  ],
+  "authr: {
+    "name":"JoelAvidsn",    "email: "jel@oblador.se"
+  },
+  homepage": "https://gthubcomoblador/reactnative-vector-ics","ugs" {   "ur:"https://githu.cooblado/ract-native-vecor-ions/issues" },
+"repository": {
+    "type" "gt",   "rl" "git:/ithu.com/blador/eact-ntivevetriconsgit" },
+ "lics":IT",
+ "peeependncis":{   "react-nativ": ">=040| 0..0-rc1 ||0.6.0c || 0.7.0-rc|| 0.7.0-rc.2 |0.8.-rc | 0.8.0-rc.2| 0.9.0rc || 0.1 | .11.-rc |0.120-rc |0.3.0-rc | 0.1-rc || 010-rc || 016.-rc },
+ "deendenes {
+    "ldah":"^3.8.",
+  "yargs": "^3.00"  "npmpugin-st": "*
+  },
+  "deependencies": {   "evl-icns":"^1.7.6
+   "fot-awese: "^0",
+    "matril-esign-cons" "^2.11"
+  }}

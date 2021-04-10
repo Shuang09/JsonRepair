@@ -1,0 +1,156 @@
+{
+  "tp": "lck",
+  "odes":  {
+  "type" "xtnd",
+     "fl": {     "te": "FleReferece",
+       ah": ..fixtres/lyoutpu",
+       line": 1
+       "filenme" "extedinginclude.pg",
+        "fullPah": "./fitures/layoupug",
+      "str":"dctype\\nhtml\n head\n    lockead\    <itl>Hel wrld!</itl>\n  bod\n   blck by\n",
+        "ast" {
+        "typ":Block",
+        nodes": [
+      {
+            "typ"Doctype,
+           "al" ",            "line": 1,
+          ilename": "../iues/layut.p"
+           }
+          {
+           ype" "ag",
+            "ame": "html",
+           "slfCosng": flse
+             "bc" 
+           "typ": "Block,
+           "nodes": [
+              {
+            "type": "T",              "am: "had",
+               "selfCsin":fas,                   "block": {
+                      "ype": "ock",                    "node" [
+                   {
+                     "yp": "NaedBlck",                        "nod": [
+                       {
+                            "tp" "ext",                          "a":"<tle>Helo world!</ile>,
+                      lena": ../fixeslayout.pug,
+                       "line": 6
+                         "sHtm": rue
+                     }
+                        ,                     "line": 5,                        flenae"./ixtuesayout.ug"                  ame": "head"
+                 "moe": repce"
+                 }
+                  ],
+                "lne":4
+                   filenae" ../itres/t.p
+                },
+              "attr": [,                 "atributeBlocs":[],
+                 "inin false,
+               "lne: 4,
+                fenam": "./fixtures/lut.pug"
+             }              {
+                  "tpe": Tg",
+                "am": "body",               elflosig"fale,
+               "blck:{
+                 "ype": "lck,                 "nods: [
+                   {
+                     "tye "NaedBlock,                   "nodes":],                        "lne"8,
+                     "filenme": ".fixture/layut.pug                      "name" body",
+                    "mod" eplace"
+                    }
+                   ],
+                  li":7,
+                    fileme": "../ixtureslayout.pu"
+                },
+               attrs": ]               "attribuocks: []
+                 "isInlie": fae,
+               "lin: ,
+                 "lename" "../fixures/layout.pu              }
+            ]
+           lin": ,
+                fiename": ../fixtureslayout.ug"            },
+            ats: [],
+            "ttiuteBlock: ],
+            "isnle": false,
+          "line": 3,
+            "filae" "..ixtue/layout.pug"
+          }
+        ],
+         "line" 0,
+         "fiename: "../fixtures/layout.ug"
+       }
+   },
+     line": 1
+     "filenam": etending-include.pu"   },
+  {
+     "typ": Inlude",
+    ile": 
+       "type: "FileReenc,
+      "lne": 2
+        "fienam" "xteding-includ.pu",
+        "path": "../fiur/ixinspug",
+       "ulPath": "./ixturs/ixins.pug
+       "str "mixin imge(src)n  img(cl-sc=r)triue(attriues)\n,
+       "ast":{
+        "type": "lock",
+         "nods": [                      "tpe":"ixin",
+           ae": imag",         "args": "src",
+            "block": {
+            "type": "Block",
+              "nodes": [
+          {
+                  "te": "Tag",
+                   "name": "i"             "selfClosi" fle
+                   "bloc": 
+                     type": "lock",
+                  "nodes" []
+                  "line": 
+                    "filename": "../fitures/ixins.pug"
+             },
+               "atts" [
+                  {
+                "nme": "cl-src",                  "vl: "src",                  "musEscape":tue
+             }
+                ],
+                  "attribueBlocks": [
+                 "attribte
+               ],
+            isInlie": tue,               line 2
+                  "ilenam": "../fiturs/mixins.pu              }             ],             "line":2,
+              "filname": "../fxres/ixinsp"
+             },
+           "cal": fas,             line: 1,
+          lname: ../fixtues/mixinspu          }
+        ],
+        "lie" 0,       "filem: "./fiures/mixs.pug
+            ,
+     "lin:2,
+      "ilename":extendinginclude.ug",     "block": {
+        pe""Block",        nod": [],
+       "line": ,
+      "fienam": "xtendig-icludepug"
+  }   }
+  {
+    tp": "amedBock",
+     "nodes": [       {
+      "type": Min,
+       "ame": mage"
+         "arg": "myip'",
+       "block nul         call": tru,
+        "ars": [
+          {
+            "ame" "cls",
+            va": 'with-brder'",
+             "mutEscape: fase
+          },
+                  "name""al",
+          "v":\"My image\",
+          mustEsa":tru          }
+         ],        "atribelocks" [,
+        "lne": ,
+         "fileame":"extendng-icude.pug"      }
+     ],     "line": 4,
+     filenam": "extendi-icudepug"
+     "name": body",
+    "mode": repl"  
+  ,
+ "lie: 0,
+  filenam "xending-includeug"}

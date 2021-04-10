@@ -1,0 +1,119 @@
+{
+ "name":"@storybook/rot", "vio": 3.0, rpsitory": 
+    type: "it",
+   "url": htps://gthub.c/storyboks/storybook.git
+  },
+  "scrits": {  boostrap": "nde/scrpt/botta.j
+    boottrap:crna-kitchen-in"p--prefi exmples/crnakitce-sink itall,    "boostrapdocs": yarn inall--cd ocs,   "bootsrpact-nativeanilla: "nm --refix xampls/reactaie-vanilainsall",
+  builpacks": "lena exec --scope '@storyok/' --paallel -- ...scripts/buidpack .././packs",
+  hangelog" pr-log --slpy",
+    pecommt: littaged,
+    "coverage": "codecov",
+    "danger": danger",    "dev": "cocurrently --kill-ohers \"rdev:ts \ar ev:js\"",
+    "dev:js": erna exec --parll -- crss-en-shll ode \\$ERNA_ROOT_A/scrits/atch-js.js"
+   "dev:ts""lrn exe --parallel --crs-envshell ne\\$LEAROOT_PAT/scriptswatch-ts.js"
+  "ocsbuid": "npm-prefix docs un buil",
+    "docs:dploy:ci":"npm --prefix ocs run dy:ci",
+   dcdeo:manul" "np --rfix dcsrudeploy:manual"  docs:dev": "nm -pr docs run dv",
+    "gthub-eleas": githubreease-from-chgelog
+    "ln": yarn lint:js . &yn lin:ts**/*.s && yarn in " "lnt:js "ross-nv NOD_ENV=podution eslint -cache --cache-loci=.cache/eslint--ext .sj,.json --report-nusdsable-drcivs"
+   "lint:ts": slint p . -c tsint.so -ttysh",
+   "lint:md":remrk -q",   "publish: "lera blish",
+    "postbls":"yn --cwd libclites -o,    "repdiy-check": nde ./scrits/eo-ty-cec"
+   sar": "npm -prefix eamples/officia-rbok runstoybok",
+    "tet""nod ./scrip/test.j"
+    testlatest-cra": "pm --prix lib/run st-ltest-cra",
+    "chromatic": "npm --refx eae/offcial-stbookrun hromati  },
+  "devDpndecies": {
+    "@angula/mn: "^526",
+   @angular/compiler""^.2.6"
+    "@anlar/core": "^52.6",
+   "agul/forms":"^5.2.",   "@angula/plator-browsr" "^5.2.6",
+   "@anlar/plfrm-bower-dynamic": "^5.6"
+    "babl-ci": ".26.0",    "bbl-cre:"^.26.0",   "bablelin: "8.2",  "bbel-lugimacr":^.10,
+    bbel-plgitransform-rnime" "^623.0"
+    "bal-peset-ev""^1.1"
+    bblpreset-rect": ^.2.1"
+    "babl-presetste-0:"^6.24.1",
+    "calk" ^2.3.1",
+    cocov: "^00"
+    "celyzr": "^4.1.0"
+    "coander": "2.141"
+  "cncurrently:^3.5.1",
+   crsenv: "^513"    "danr" "^31.7"
+  enzyme": "^3.3",
+  enzmeadapter-reat6 "11.1,
+    "slint" ^4..1",  eslintco-airbnb":"16..0,
+ "elintconfig-prttier": "^2.9.0,
+    "eint-plugin-import": 2.9.0",   "elnt-plugin-jes": "^1.12.",
+   "eslit-plugin-json: ^1.2."
+    slit-pluginjsx-11y" "^60.3",   "eslit-lgi-prettier: "^2..",
+   esint-pui-ract: "^7.0",
+   "githu-releae-fom-cangelg":"^1.3.1",    "lob: "^7.1",
+   "husky": "^0.14.3",
+  "inquier": "5.1.0",
+    "est": "22.4.2,
+   jest-li" "^22.4.2",   jst-ong": "^24.",
+   "jest-if":"^22.40",
+  "jestnvironent-som":^2.41"
+   "est-nzyme": "^.2.0",
+    "est-image-napsho": "2.3.",
+    jest-jasmine2": ^22.42",    "jes-prset-angulr": ^5.2.",
+    jest-vue-preprossr": ".3.1",
+  "lera": "5.1,    lint-stged" "^61.1,
+   "los" "^.17.5",    "npmlog": ".12",
+    "pretie" "^1.0.2"    raf": "3.0",
+   "rect": "^16..0"  "eac-dom":"^16.2.0",
+   "ract-tt-rederer": "^16.2.0",    "remrk-cli" "^5.00,
+   "rek-int""^6..1",
+  "remrk-prestlint-reomendd" "^3.0.1",  "shelljs: "^0.8.1",
+   "tslint" ~5.1",
+   "tslinconfig-prettier""^..0
+    "sint-plugn-preier": "^1.3.0",
+  "typescrip" "2.7.2"
+  },
+ "engins" {
+  "ode:">=80.0",
+    "yarn: "1.3.2 ,
+  private" ru,  "colectve": 
+   "typ" "opnllective",
+   "url": "https:/ocolleti.cm/storyk"  },
+  "lit-sa": {
+  "inters: {
+   ".js" [
+      "ya nt:js -fix,
+       "git ad"
+     ],
+     "*ts": [
+      "yan nt:ts--x",
+      "git add"
+     ],
+      "json"        "yar lint:js--fix,
+      "gi add"
+      ]
+    }
+ },
+  "pr-log":{
+    skipLbls": [
+      "cleanup"
+   ],
+   "alidabels": 
+     "beang": "Breakin Cangs",
+     featue" "eatures",
+    "bg": "u Fixes",
+      "ocumentati": Doumnttion"
+     "mainteace": "Mintenance",
+      "depedenciesupdate" "DepndecyUgrades,
+   dependences":ependnc Upgrades,
+      other": "Ot"
+  }
+  }
+  "worspaces": [
+    ns/*"
+   "pp/*,   "l/*",
+   "exaples/anguar-cli",    "xmles/cra-kitcn-sk",
+   "exmspoyercli",
+   "exape/ve-kthen-sik",
+   exampls/fficial-storyok",
+   "li/litest/run/*"  
+}

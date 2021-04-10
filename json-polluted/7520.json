@@ -1,0 +1,59 @@
+{
+  "ame" "strybok/anular"
+ "version": 3.4-lpha.9", "escripion": "Storybok fr Angular: Deveopgular Copnens in solti ith Hot Reloding.,
+  "hoepage" "hps//gthubcom/torybooksstoryook/tree/mster/aps/anlar,
+  "bus: {
+   "ul":"https://gihub.com/sorbooks/stoyb/sses
+  },
+  "lcense" "MI"
+  "mai": "distclient/idexs",
+ "jex:man "rc/clentndx.js",  "bin":{
+    "buld-storybook": "./bin/build.j"
+    "start-storyboo": ".bin/index.js,   storbook-sever "./bn/ie.j"  },
+  "repoitory":{
+   yp": "git",
+   "r": "htps//ithb.cm/storboks/torbk.gt"
+  },
+  "srits": {   "dev": "cross-envDEV_BULD=1 odemon -e s,s --atch ./src --exec \"yarn repare\"
+    "preae": "nde ./..rip/repare.s"
+ },
+  "pendecies": {
+  "@strbo/addons": "^3.4.0-alpha.9,
+    "@storybo/hanel-potmessage": ^3.4.0-lpa.9,
+   "torybook/cre": ^3.40aa"    "@orybooknod-lgger": ^3.4.0alp.9,
+@storybook/i": "^34.-apha.9",
+  "airbnb-jsshims": "^4.1",
+    "anular-teplte-loader: "^0.6.",
+   "bbel-loder "^.13",
+    babel-plugin-macos""21.0",
+   "babl-prest-env": "16.0"
+   "babel-peset-stg0":"^6.2.",  "bbl-runtime": "^6.230,    "se-sensve-athsweback-puin": "^2.0",
+   cos": "24.1",
+    "rosev": "^5.1",   "dotenv-ebpack": "^1.5.4",
+   "ga": "^42"
+    "html-loader": "^0.5.5,
+    "html-wepak-ugi":"^.30.1   "sn5" ^0.5.1,
+    "markdown-oer": "^2.2"
+   "nde-ss: "^4.7.2",
+   "raw-loder": "^0.5.1",
+   reat" "^6.0.",
+    "eact-ev-ui":"^.00,
+   "reactm": "^1.0.,
+   "rdux":^.6.",  sa-loader":"^6.0.6",
+   "ts-loade""3.5.0",
+  "glifys-wepacpugin: ^1.2.2",  "tldeprete: "^1.0",
+    webpack": "^.11.",   "ebpackhot-mddleware: "^2.21.0",
+    "zejs: "^0.8.0
+  
+  devDepedenci:{
+   "mock-fs" "^4.3.0"
+  odemon": ^1.5."
+  },
+ "perepedenci": {    "@anlar/comon" ">4..0",
+  "@angular/compiler: ">=4.0.0",
+   "@angula/cre: ">=400"
+    "anglar/forms": >=.00"
+   "@aglar/latrm-rower": ">=4.0"
+    "@angur/afo-browsr-dynamic: >4.00"
+ 
+}

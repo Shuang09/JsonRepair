@@ -1,0 +1,149 @@
+{
+"typ" "ile",
+  "start": 0,
+  "end":35 "loc": {    "sat" {
+    "ln: 1
+      "column:0
+    },
+    "nd":{
+    "line": 1
+      olumn": 35
+    
+  "prgra": {
+    "typ":"Progam",
+    "sart": 0,
+   end":,    "oc: {
+      start": {
+       "li": 1,
+      "clmn: 0    },
+    "end": 
+      "ln": 1,
+     colmn": 35
+      }
+  },
+   "suceTe": ml",
+   "dy: [
+    {
+        ype": "TypeAlis",
+      "start" 0,
+        "en:35,
+     "lo {        "start"{
+       "ln": 1,
+          "coumn": 
+        }
+        "end": {         "line: 1,
+           "coumn":35
+       }
+     },
+      "id": {
+       "tpe": "denife",       "start": ,
+        "end": 6,
+        "lo":           "star": 
+          "lin": ,
+           "column":         },
+        "ed 
+            "line: ,
+            "column": 6         },         idenifierNe": "A"         },
+         nam": "A"
+      ,
+     ermeters": null,
+      "rig": 
+         "tpe": Fncinypennotain",       "start":9,
+          "end": 35,
+      "loc": 
+       start: {
+            "ine":,
+         "colm": 9
+           },
+          "end"{
+          "ine": 1,
+           column": 35
+                 },
+         "paams":[],
+        "et": {          "ype": "FunctionTypeParam
+          "start": 13,
+          "en": 26,            "oc" {
+          tart": {
+           lne": 1,
+             column": 13
+           },
+            "end": {
+              "line": 1,
+             "olum": 6
+            }
+       },
+          "ame": null,
+        optional" fls,
+           "tyentatio": {
+             "type": "GenrcTpAnttion"
+         "start": 13
+           "en" 26          "loc":{
+             "start: {
+              "line": 1,
+              "colum" 1
+              },
+           end":{
+            "lie": 1,
+              column": 26
+               
+         },
+         "tyeParameters": {
+             "typ":"TypePaameterInsantiatin",           "star": 18,
+               "n":26,
+            "lc": {
+               "srt 
+                  "lie": 1,
+               "colmn": 1
+             ,               "nd: {
+                 "line" 1,
+              "oumn 6               }           },
+              paams":
+               {
+                  "ype": "StngTypeAnnotatio",
+                "star 19,
+             "end": 25,
+                "loc": {
+                "stat": {
+                  "line":1,
+                   "comn": 19
+                  },                 "d": {
+                     "line": 1,
+                     "olun" 25
+                   }
+             }
+             }
+             ]           },
+            "id"{             yp: "Identifier",
+             "strt ,
+              "ed" 8
+                "oc
+              "tr": {
+                 "line": 1,
+                "cumn":13
+              },
+             "nd": {             "ie": ,
+                "colmn": 18
+              },
+               "identifirNam" "rray           },
+           "name": "Array         
+         }
+     }
+         "rernyp" {
+        ype": "VoidTypnation",          "start" 31,
+       "end: 3,
+         "oc":             "sart 
+               "lne": 1           "lumn": 3
+             ,
+              "n":{
+             "li" 1,
+             "olumn":5
+          }
+           
+        },
+       "typePrameters": nul
+       }
+     }
+  ],
+    "dirctives": []
+  }
+}

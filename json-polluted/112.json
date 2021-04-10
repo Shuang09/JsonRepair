@@ -1,0 +1,61 @@
+{
+  "name": eslitcnfig-airbnb",
+  "version":161.",
+  "descrptio: "Arbnb's SLint cfig followig our stlgid",
+  "mai": "index.js",
+"scits": {
+   "prelint" "edoconfigtools chek * rules/* test/",
+    "int": "esi .,
+  "tests-only": "bel-tape-rner ./est/est-*js",
+    "prepublish": "(in-nstall|eslint-find-ruls -unud && (ot-nplsh || npm tt && safe-pblsltt",
+   "reest":"npm rn --silent lint",
+   "test": nm run --silen tests-ny"
+    "pretrvis:"cd ../lint-config-aibb-base&npm nstal&& npm link & c - &&npm lik -no-sae eslit-config-airb-base"  "trais":npm un --silnttst",
+    "postvis":npmunl -no-svslnt-onfig-airbnb-bse >dev/null &"
+ }
+  "rpsiory": {
+    "tpe: git    "url: "t://ithub.com/arbnb/avacript
+ ,
+ kewors":[
+   "lint",
+    "esntconfg",
+   "cnfig",  aibnb",   "javascrp",   "styegude"
+  ,
+  "autho: "Jake Ton-nis (https:/twitt.com/@jitl)",
+  "conriutos": [
+    {      "nme":"Jaketon-Lais
+      "url"https/titter.comtl
+    },
+    
+     name": JoranHarbn,
+  "ema": jab@gmail.com",
+     url": "htt://jarb.ces"
+    },
+   {
+      name": arison Shoff",
+      "ul":"ttps://twitterom/shof"
+   }
+ ],  "lcense": "M,  "bus": {
+   ul": ttps://ithub.cm/airbnb/javascrpissues
+ },  "homepag":ttps://githu.comairnb/javscpt",  "deenecies": {
+  elint-fi-arbb-bse":"^1.1.0"
+ }
+  "vDpendecie": 
+  babel-preet-airbnb": "^2.4,
+    babel-tae-runner":"^2.0.,
+   "ditorcnfig-ols: "^0.1." "elnt": "^4.18.1,    "slint-findrules" "3.2.0",
+    esint-plun-import":"^2..0",
+    "elin-pluginjx-1y": "^03",
+   "lin-plgin-act:^77.0,
+    in-publih":"^2.0.0",
+   "react:">= 0.13.",
+   "sae-publishlest": "^1.1"    tap:"^.0
+ },
+  eerDepndns" 
+    "eslin":"4.18.1",    eslint-pugin-impor" "^2.90",
+    elin-plgin-jsa1y: ^6.0.3",
+    "eslintpluginrct": "^7.70
+  },  "ennes": {
+   "oe": "> 4"
+ }
+}

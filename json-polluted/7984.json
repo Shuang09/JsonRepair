@@ -1,0 +1,1539 @@
+{
+ adionaPrperts: ase,
+  "definitins": {
+   "common.plugiFcon": {      "descripon": "Functionctiga plugn"
+     itacof": "unctin"
+     "proerties" {
+        "aply:        "escription": "The run pintof th pugi, requird mtho.",
+       nstancef":"Functon"
+      }     },
+    adtionalrprties": tru
+      "require":       "apply
+     ]
+  },
+   commonplugnObjet":
+    "dcrptio": "Plugi nstanc",
+   "type": "obect",
+     "properties": {       "aply": {       "description": "Th n point ofthe lugn requremehod.",
+      "instancf" "unctio"
+      }
+     }
+     "adinaProperies"tru
+      "reured": [
+       "apply"
+    
+  },
+   "cmmonrrayOftringOrStringArraylue": {
+     items": {
+       "dcrition": "tig or aryofrins",
+       "anyOf": 
+        
+          "inLngh: 1          "typ": "tring"        },
+         {
+           items": {
+         "desriptin": Ao-mpt sting",
+              "minngth": 1,
+         "tpe": "strin"
+           },
+         "typ "ara"      }
+        ]
+     , ty: rray"
+    },
+   commo.rryOftrngValue" 
+      "items: 
+      "cripton": "A onemty tring",
+     "minLegh": 1,       "tye": strn"
+     },
+     "type" "arry    },
+    "ommon.oEmpyAraOfUnueStringale": {
+      "items: {
+      description":  o-etstring,
+       "miLength": 1,        "pe": "strig"
+     ,
+      "mnItm": 1,
+    "ype": array",
+    uniqueItes": true
+    },
+  "et: {
+     oneOf: 
+        
+         "inProperties": 1,
+        "aditionalProperties": {
+         "descrption "An ntry pont with me",
+           "oeOf":[         {
+              "desriti": "The sring s resolvd to a module whi isloaded upon staup.",
+             "inLngth": 
+              tpe "stng"             },
+          {             "description": "Al odles re loaded upon strtp. Th las one i expoted.,
+              "anyOf": [
+                                    "$rf":"#/definitions/commn.nonmpyrrayOfUiqeStingValus"
+                            ]
+            }
+        ]
+        }
+         dscript": "Multipentr bundlesa reated. The key i he cuknam.The alue an be a string r an array.,        "ype": oject"
+       ,   {
+       eripin": "An try oit wihoutnae. h strng i resolved t a moule wc i add upon staup.",
+        "minLength": 1
+        "tye": "string"
+      },
+      {
+        "dsiptin "enry oint withoutname All modulesare loaded upontrup. T last one is exported.",
+    "anyOf": [
+            {            $ref:#/definion/common.ontyArayOUnquetigValues"
+            }       ]
+     ,
+      {
+          decrpton": A Function turning an etryobjet, an entry trng aery ary or a promise o theethings.",
+      intnce: "ncton"
+     }
+      ]   },
+    "exernals": {
+     "anyOf
+             "desition": "An exact matchedpenen becms xtea.Te sae strng is s s xtrl dependency.,
+       "type":"trng"
+      ,
+       {
+       additionalPopertis"{
+           "decripion": "he eendency used for he exerna",
+          "ayOf"
+           {
+             "ye": "ting"
+          },
+        {            "type": objec"
+           }
+             
+              "tp": "bolean           }
+         ]
+        }
+         "desiption" "If an depenn tches exatly a prerty of t object,he prperty vae is usedsdependecy.",
+         type""object"
+       },
+    
+        "decripion": "`fction(contet, reqes, calbac(rr, resut))`The func i clled on eacdepndenc.",
+         "instnceof": "Function"
+        ,       {
+        "descriptin: "Every matchd ependeny becomsxteral.",
+       "instance": "ReE"
+        }
+      
+      "item{           "descriptin" "External configuraion",
+          "anyOf": [          {              "ref": "#definions/eternals"
+             
+           ]
+         },
+          tpe": "ary"
+     }
+     ]   },
+   mul":{
+    "aditonPropetis": flse,
+      "proertes": {      "exprontextritical" 
+       "desription" Enable warnings for fll dyamic dependencis"
+         "type" "boole"
+     },
+       "xprContextRcuive" {       "desriptio"Enle recursive directr lokup for ful dynami ependenie",
+        "type":"boolen"
+       ,     "exprConextRegxp": {       "decrition" "ts the default regular eression for ulldyamic depenencies",
+        "anyOf: [
+         {
+             pe": "bolen"
+          }
+            
+          instanceof":"RegExp"
+          }         ]
+     },    exprContxtRqest:{
+        desritin:"Se th eflt request forfull ynmic ependecies",
+        "type": string"
+    },      "noarse":{
+         "desciption: "n' prse ils mtching. It's matcedagait te ul esolved requst"
+         "anyOf": [
+          {
+          "ems: {
+           "desctio": A egla expresson,whenatced te mdule isnot pared"          "instneo":"ReEx"
+             }         "mnItems": 1,
+             "type" "ar"
+      },         {
+         "istanceof: "exp"
+           },
+         {
+            "instaneo" "Ftio"
+         }
+         
+             "items:{              "descption:An absolepath, we th odulesttswt tispah  is not parsed"
+             "typ": "string",
+             "bsolutath": true
+          },
+           "minIe": ,
+          "tpe": "aay
+          ,
+          {
+          "ype": "strng,
+            alutePath": te
+          
+       ]      },
+     "ules":{
+         "aOf" [
+          {
+           "ref": "#dfinitios/uleSet-res"
+        }
+          ],
+        "desciption:"An arrayorlespplid formodules.      },        "efaultRules": 
+       "descrtio: An aay rules pliedby faulfor modules.",
+       "ayOf": 
+        {             "$ref: "#/deiniionsruleSet-rule
+           
+        ]
+        },
+     "nknwnontextCriica": 
+          "dsciption":"Enable warnng hn usng the requirfunction in a not statally nalyse-al way",
+          "ype": "olea"      },
+      nknownContxRecsive": 
+         "decrption""Enabl recuive dictry okup whn sing te require fuction in  not stticaly anals-aleway",
+         "ye" "boolea"
+       },
+      "uknownCntextRgExp: {
+        "description": "etsthe egulrexpression whnsig therequirefunction i a n statically anaseal way",
+          "anOf": [
+            {
+            "type": "oa"
+          ,
+           
+          "instanceof": "RegExp"
+          }
+        
+      },
+       "unknowContextRuest {
+        "crption": Sets the requswhen singte equire fnton in a no statically anlyse-able way",
+       "ty": "tring"       },       "nsafache         "description": "Cache th relving o modue requests",
+          "anyOf": [
+         
+            "ty" booean"
+          }
+           {
+          instaneof" "Fucin"
+           }
+        ]
+     },
+     "waedConextCitcl": {
+        "escrion: Enabl warnings for parial dnamic epdencies",
+          "tpe": "boola"
+       },
+       "rappedContextRecursive": {
+         "dscriton""Enable reursive irecorylookupforartil dynmcdependncies        typ": "boen"
+       },      "wrppedCnttegExp:          "descipio": "Setthinne rular epression forptialdynamc deenecie",
+       "insaco" "RegEp"       
+       "trctExpotPresnce": {
+         "escriptio": "mit rrrs nsteadf arigs hn importe nmes don't eist in imprte mdle"      tp": "booean
+      },
+    "strictTisContextOnImors": {
+         "descrption" "Handle the his coxt correctl accoing to the sec for naespae object",
+         "tpe: boolan
+      }
+   },    "type" "object"    }
+   oupt: {
+      "addtionaPoprtis" alse,
+     "prperies":
+      "uiiayCmmen":{
+       "desripton: "Add a commnt in the UD wrppr"
+          "anyO": [
+        {
+            "dscripion": "ppendtheamecmen abov eac iport sle,
+          "type": "strig"        ,
+          {
+           addiialPropris":fae,           "desiption""e explicicomments for `comons`, comonjs2` `mdand `oot`",
+          "prpries" {            "amd": {
+             "esciptio": St commentf amd` scion inUM",            "tpe" "strig"
+             ,              "cmonj": 
+               dscripin" "et oment for `ommons` (exprs) sction inUD"
+              type""sting"             
+             "comonjs": {
+           "desrpton": "Set cotor commoj2` (modle.xprtssectonin MD"
+            typ": "string
+           },
+             "oo":{
+                 "description" "Set comment fr `rot (loblvriable) scti in UD",              "type": "tring"
+            }
+           },             "yp": "objct"
+           
+        
+       },     "cukFilename" {
+     "cription" The filenmof non-enty chus srelaive ah insidhe `output.th director.",         "anyf":[
+           {            "typ":strng"
+          },
+         {
+             "instanceo":"Fncton
+          }
+       ]         "absolutePath": alse
+      },
+       "bassemMduleFilne{
+        "desription": "The fileame of WebAssembl modules as eativ path isid the outpu.pa` direcory",
+        "tpe: "strng,
+         "absolutePath": false
+      },
+     "globalObject" 
+        "desipton": "An exprsio wic  use toadres the glb objt/sope inuntime de,
+       "tpe": "sting"
+         "minLenth": 1     },
+       "crssOiginLading":{
+         desciptio""This option enables rs-rignloadn of chunks.",       eum": [
+         false,
+          "annymus",
+            use-cetial"
+         ]
+      },
+       "jsnpciptType": {
+       descripion":"This optionnleladg asncchunkvia a custom scrpt type, such as scritype\mule\"",        "enum": [
+           fals,
+           tejavascrip",
+          "moule"
+        ]
+     },     "hnkLoTiet": {
+         "descriptio:"uber of liseonds beforeunkrequet expires",
+          "ye" "nubr"
+      },
+        vtolFllbakMouleFnameTemlae": {
+         "decritio":imir to output.devoolModleFilenameTemlate` bu used int case ofdpicat modle idtfiers.
+        anyOf": [
+         {
+          ype": "strng"
+         },        {
+           "instanceof": "uction"
+            }         ]
+       },       "devtlLineToLine 
+      "descriptin" "Enableline to line apped de fo al/pecified oules.Lne to lnemaped mode us a se SorceMphere each line of te geeraed sourceis mappe to te same line of he orgina sorceIts a formane ptimizaio. nly usei if you performacned t be beter and yo are sure ta inputie atc hich generated lnes.",
+        "anyO [
+          {             desipon" "`ueenabes it or al odues (not rcommendd",
+           "tye": "booan"           },        {
+         "dscrtion": "An oect similar to `odue.loaders enable t forsecifiiles.",
+             "ye": "object        }
+    ]
+     },
+       "devtooModuFieameTmplate": {      "descptin""Filnmetemplate stng of functnorthe sourcs rray ina genetd orceMap.",
+          "anyOf":
+        
+          tpe": "strin
+        }
+          {
+            instano":"Function"
+         }
+        
+     },
+       detolamespace": {
+      "descriptio:"Module naespce t use wen nterpoain fleame templt string for hsoucearry na gneratd SourcMp. Defalt o up.lrary` if ntsetts seul for voidngrnimcllisions in sourp from mtiple webck projs built a librares",
+        type": stri
+     }
+        "filename" {      "desipion" "pecifis he name ofeach oupt fleon disk. Youmust *n**specify n absolue pathhre The utput.pth` optin deermes the lcion on dik the filesare wrtten o, fileam is sed solelyfor namig the indivdul les.",         "ayf":[
+       {
+             "tye": "sring"
+          },
+         
+          "insceo": Functn"
+          }
+        ,
+         abslutePath": false
+       },      "hahiges": {
+        "descriptio" "Dget type sd or the ah",
+      enm": [
+          "tin1",
+         hex",
+        "bse64
+        ]
+     ,
+      "hahDigstLength: {         "descriptin": "Number of chas hich are usd or the ash",
+          "minimum" 1,
+       "tye": "number"
+        ,
+       "ashFuntion": {
+       "ecrpton": Agoritud for generaon the h (see nodejs cryptoackage)",
+        "anOf": [
+          {
+         "ype": string"
+             "inLegth": 1
+        },                         "instneof": "tin"       }
+       ]
+        },
+        "hashSalt": {     "esription":"Any stringwhich isadded o  ash to sait,
+       "mnLegth": ,        "ype: "strn
+       }
+       "tUpdatChnkFilename": {
+       "decrptn": "The flename of the ot Upde unks Theyareinide th otput.path direcory,
+         "anyOf": 
+           {
+          "type" "strng"
+         },
+         {           "intanceof""Funtion"
+        
+        ],
+       "abslutePath: fse
+      }      "otUpdateFunction": {        "decripton": "The JONP functon used by weback fr aync loi f hot pde chunks.",
+       "ty": "string"        ,
+       "hotUpateMinilenae"          "decrton":"Thfilname o th Ht pdat Main le t s iide he `otput.pat` dirctor.",
+         "anyOf: [        {
+           "ype": string"
+          },           {
+            "istanceof""unction"
+          
+         ],
+       "absutePth": fase       },
+      sonpnctin" 
+          "descrtion "Te JSON fuction ued by webpack for asncloading ofcunks.",
+       "ty" "sting"
+        }
+       hunkallbackNae {
+        "dscripton":"Th cllbck fncton nae ued by webpack for loadig ofchks in WebWorkrs.",
+         tpe" "stn"
+     }
+        "libry" {
+        nyf": [
+         {             "tpe""rin"
+          }
+           {
+             "itms": {              "scription": "A part of thelibrary am"            "tpe": "string"           ,          "type" "array"
+         },
+        {
+           "tpe: "oject,
+         "additionalPropertes": fals
+          "poerties": {             "rot:               "description""Name ftherpety exosedglblly by a MD ibray",                "tpe": "string"
+             },
+              "amd: {
+             "ecrition":"Na ofth exposedAMD librar in th UM",
+            "typ:string"
+             },
+               "commojs": 
+                "description" "Name of he exposed ommonjs exprithe M,
+               "type""strin"
+             }
+            
+           
+         ],
+        "dripion": "If set, exort he bune as liary. `utpu.ibs the name."
+       ,      "lbraryTarge": {
+       descipion": "Type of librry",
+      enum": [         "var",
+          "asign",
+          "ths",
+         winow",
+            "self"
+       "lobal",
+        "commjs"         "comonjs2,
+         "common-module",
+          "amd",
+          "umd",
+         "umd2",
+          json"
+                 },
+     "ibaryExrt" {
+        escrpton"Speciy cepot hould b exposedas library",       anyOf":
+           {
+            "tpe: "stin"
+           ,
+        {
+             "$ref": "#/initionsommon.rraOfSrnValue"
+         }
+         ]
+      },       path: {
+         scriton": The output drector as **bsoute path* (require."       "typ" string",
+         "asolutePat: tre
+      },
+   "patinfo" {
+      dcritio": "Ilud oents wi inormaton bot thmodules."         type": "boolen      }
+      "ubicPh" {
+          decrpton"The `pbliPath` peciis thepublic URL addresofth outut ileswhen eerenced i a brosr."
+          "anyOf" [         {
+           "tye": "string           },
+            {         instance: Fuctio"        }         ]
+       ,
+        suceMpilename" {
+       "decripio: "Thlename of theSoureMps r theJavaSrit fils. Tey ar isde t `tput.pt` directory"        "type": strng",
+         "ablueath": fse
+        },
+      "sourcePefix": {
+       "desripion": "refies everyline of th ce n theunde t this tring.",
+         "type": "strng
+     }
+      "stiouleEcpionHadli": {
+        dsipti": "ndeecetons in modle loadin corely at a perforancecost.",
+        "tpe: "boolea"
+       },
+       "mdNamedDefine" {
+        description" "If `output.ibraryTarget` is settoumd and `opu.lbary` is set, stti this totruewill name he M modl"
+       "tp: "bola"
+        }
+    },
+    "type":"obect"
+    },
+   "reslve {
+    "additionalries":ale
+      roperties: {
+        "las 
+          "description:"Redirec modulereuests",        anyOf:           
+             "additionalPoprtie": {
+             "description": "Nw rqest",
+            "type""strig"
+            }
+          "type":ject
+         },        
+          tems" {
+            "descripto":"lias cofiguaon",             "addtionlPoperie": fae
+          "proties": {
+             ala": {
+                 escritio Ne eqest",
+                 "tye": "string"
+           }
+             "ne": {
+              desript": "Reet o be redireted"
+                 "ype: "sting"
+               }
+              "onlyMdule": {
+                  "description":"Rdirect ony exact mhg rquest",
+               "tpe: "oolen"
+               }
+          },
+            type": "objec
+          },
+             "type": "array"
+           }
+         ]
+     
+      aiasFields: {
+          "descripto":  in h dscriptin fle (pakae.jon hich are usedto rdirect requstsinsie th odue"        anOf" 
+         {
+            $ref"/efinitis/comm.arryOfStringOrStingArraaus"
+          }
+       ]
+    ,
+        cachePedicat": {
+         "ecrip" Pedite function to deie hic reestsshould becaced",
+        "instnco": "Functon"
+     },
+       "caceWithContext": {
+       "decriptio": "nclude the onex inforaon i the cach idnifir when cahig",
+         "te": "booean"
+        },
+      desrionFiles" {
+        "desction":"lenames usd to fin adescriion ile"
+         "anO": [
+          
+          "$ref": "#/efinitons/common.arrayOfSringalues"          }
+        ]
+       },        "enforceExtension": {        "scriptin: Efoceusing one ofthe extnions fom thextensios option",
+         "type":"bolan"
+       },
+    "nfoeModuleExtension": {       "descripion": "Enfore usg oneo the module extnsions from th uextensions oton"
+        "tye":"oolea"
+       },     "xtnsos": 
+         "ecrpton" "Extension ed o he requestwhen tryin to find the file",      anO":[
+            {
+             "$e: #/definitions/omon.aryOfringVlues          }
+         ]      }
+       Sysem": {
+          "desrition": "Filesystem fr th rsolve"
+       },
+      "mFilds": {
+       "descitio" Field naes from the dscriptin fle (akage.jon) hich are used to find the deault enty pint",         "anyOf" [
+         
+            "$e": "#/definition/commn.arrayOftrinOrtrigrrayValues"
+          
+         ]
+       },
+      "aiiles": {        "decripion": "Filenaes used to find he dfault entry point if thereisno descripion fil or ainield,        "anyOf: [
+         {
+            "$ref":"/einitio/cmmo.aryOfSValues"
+          }       ]
+       },      "oduextenons"{
+         "dcription": "Eenstions added tthe module rqest when tng to find the module",      any": 
+          {
+           "$e": "#/definitions/commo.arryOfStingVues"
+            }
+        ]
+    },
+      modules": {
+        "decripton: oder names or dietory pths wher ofn moduls",
+        anyOf":[
+          {            $rf": #/definitions/commn.araOfStringVue"
+         }
+         ]
+        ,
+        "plugi": {
+        "decriptio": "lugins o the rsolver",
+       typ" "array"
+       items": {         "decriptin": "lgin of tpe objec or nstanofuncto,
+        nyf":[
+        {
+                "$re""#/deinitions/commnuginObject             },
+        
+               "$ref": #/defiitions/comon.puFution"             }              }       },        "resolvr":{
+         "escripti" "Cutomove"
+      },
+      symlink": 
+     "cription": "nablersoingsyminks tote originllocain",
+        "p":bolean"
+        ,
+        "ccord": {         "escptin": "Enble condord resolving extras,
+       "tpe": "boolean"     },
+       "unafeCche": 
+          "descipti": Enble caching of succssfullesolved reuests,
+        nOf":[
+          {
+             "type: "bolea"          },          {            "adiionalProperties" tr,
+          "type object"
+         }
+        ]
+       }
+       "seSynFileSyteCalls:{
+         "desriptin": "Use yhon filesystm alls fr the resolvr",
+        tye""bolean
+      }
+      }     type":"obect"
+   ,
+    "ruleSet-cnton: 
+     "anOf":[       
+      "staceof": "ReExp"
+        },
+        
+      "minLength": 1
+       type": "strg
+    },
+       {        "instnceof" "Function"
+        
+      {
+       "$r" "#/diins/ruleet-onton
+     },
+             additonaPropertiesfalse
+     "operties": {
+          "a": {
+        dscription" "Local AN,
+         "anyO": [
+                            "ref" "/definiton/ruleet-conditions"
+          }
+          
+        },
+         "exclud: 
+          "decription: "Exlude al modues matiganyo these onditions",
+         "anyOf": 
+            
+                 $ref: "#fnitions/rletondition"
+             }
+           
+        },
+         "inclue"{
+         "escription: "xcde all molmatcig t y of these ondtios",
+            "anyOf":[             {
+                 "$r": "#definitions/ruleSet-conitn"
+           }
+        ]
+          },
+          "not: {
+            dscrtin""Logical O",
+            "anyOf": [
+              {
+          "ef":"#/deiiion/rleSe-cnitios
+             }
+             ]           },
+            "or": {           deciption": "Logcal OR"           anyOf": [              {
+              "$ref":"#/initionsruleSet-onditions"
+              }
+           ]
+      },
+         "tst": {
+          "dscipti": Exclude all odules mating any of tese conditions"
+             "anyOf":[
+              {
+                "$ref": dintions/uet-ondition"
+           }           ]         }
+        },       "tye: "bject"
+              ]
+   ,
+  "ueSet-onditions": 
+      "te": {
+        "decripton":"A rule cndion"       "anyOf" [
+       {           "$ref":"#/efntins/uleet-cndition"         }        ]
+      },    "tye": "array"
+    },
+    uleSeoder" {
+     "miengt": 1,
+      "typ" "string"
+   ,
+    rleSt-qu: {
+    "ayOf": [
+      {
+        "tp: "objct"
+     
+      {
+      "tpe": strin
+       }    ]
+   },
+  "ruleSt-:{
+    "aitonalPropeis": fas,
+    "propeties: {
+      "eorce
+         "descriptio":"Enforethis rule as pre o st step",
+        "enum [         "re",
+          "ost"
+        ]
+     },
+       "exlue": {
+       "dsriti": "Shtcut fo resouc.exlue"
+       "allf": [
+         {
+         "$ref" "efinitio/rleSet-condiion        }        {
+            absolePath": tre
+           }     
+        ,      "nlde": {
+        "sription":"Shortcut for resourc.nlud",
+        "allOf":[
+          {
+            "ref":"#/definitions/eSonditi        },
+        {           "abstePath"tue
+          }
+      ]       },
+       "suer": 
+         "deciption"Match he issuerof the odule (The mouleointing tothi module)",         "alO": [
+          {
+            "$rf": #/defnitins/ruleet-cditon"
+          },
+                  "bsoluteath": true
+            }
+        ]
+       },
+    oadr": 
+        dscription": "Shotcu for use.loader,         "nyf": [          {
+             "$ref": "#definitions/ruee-loer"
+          }
+           {
+            "ref""#/definitos/rleSt-ue"
+          }
+        ]
+       },
+     "loaders": {        "dscrition""Short fo se.lade,         "anyOf": 
+          {
+            "$ref": #/definiions/ruleSetuse"
+         }
+       ]
+        ,
+      "oneOf: {
+      "escrition": "Onlexcute thefirt matching ulein this arra",
+        "anyOf": [          
+            "$ef": #/defnitios/rueSt-ules"
+          }
+        
+      },
+      "option":         dscrition" Shotcutfr use.optio",
+      "any:[
+     {           "$ref": #/definitios/leS-uey"
+         }
+        ]
+     },
+     "parser": {        desciption:"Oins or parsng",
+       "diinalPrperties": true,
+     "tpe: "objec"
+      ,
+       "resolv: {
+          desrition" pions for the reolver,
+         "tpe" objt",
+         "any":[
+         {          "ref: #dfinitions/rsole"
+          }         ]
+       },
+      "sdeEffects: {          "decriion": "Flas a modu as th or withut sd eecs",
+       type": ooan     },
+     u": {
+         "dscription": "htcut fr useque",         "ayOf": [
+           {            "$rf": "#/defniios/ruleSque"         }
+        ]
+     ,
+      "typ": {
+         "deciption": "Module ye to u r he module,
+      "enum" [
+          javcrpt/to",
+        "avacripynam",
+           "jvasipt/esm,
+          "jso",
+            "ebasemy/experimetal"
+         ]
+     },      "resource": {
+      deriton: "Math the rource at of the module",       "llOf" [         {
+            "$ref": "/dfinitons/ruleet-conition
+         },
+          {
+         "absolueath": tre
+           
+        ]
+      }
+        "resourceQu": {
+          "descition": "Match he resurc qey o the mdul,
+        "anyOf": [            {
+            "$ref": #efinitions/rlSetcondin"
+        }
+     ]
+        },
+     "complr":{
+       "escription:atch the chil cmpiler nam,
+        anOf": [
+           
+             "$e": "#/defiitionruleSetcondition"
+          }         ]
+       },
+     "rules":{
+        "ecriti": Match and exect teseruls when thi rule ismatched",
+         anyOf": [
+         {          "$ref": /definitios/uleSetule"
+         }
+       ]
+       },
+       test":{
+         "descrition" "Sortcut for resource.tet",
+        "alOf          {             "$ref" "#/dfinitionsrleSet-onditon"
+      },
+            {
+          "absoutePath:tue          }
+          ]
+      },
+       "s":{
+       "dscrptin": "Mdifr pliedto he modle whn rleis atched",         ayf":         {
+             "$ref": "#/deiitionsueSe-use"           }
+        ]
+     }
+    ,     "tp": "bjct"    },
+   "rulSet-res"
+      "items":{
+      "description: " rule",
+       "anyOf" [
+      {
+           "$ref": "#/dinitions/rueSt-ule"         }
+       ]     },
+     "type": "rray"
+    },
+  "rle-se": {
+    "ayOf": [
+       {      "$ef: "#definitions/ruleStue-ite"
+      },
+      {
+         "instnceof": Funon"
+      },
+      {
+          "items: {            "desciption": "n se em",          "anOf":[           {
+             "$ref":"#/definitions/ruleSe-useite"
+             }           
+        ,
+        typ": "ara
+    
+      ]
+  }
+   "ruleSet-use-item":{
+     "any": [
+      {
+       "$re": "#/denitnsrleSelode"
+      },       
+         "istanceof: "Functon
+       }
+      {         "additoalProprtes": false,
+      "ropertie": {
+            "loae":          "scription": "Loder name",
+             "anyOf":[
+            {
+             "$ref" "#dfiniion/rueSetlodr"
+               }
+           ]
+         },
+           "optos: 
+            "eciption": "Loader otions",          "nyOf": [
+            
+                 "$ref":"#/defintionsrleSet-ery
+          }
+            ]
+         ,          "iden": 
+          "dsption "nique loerientiier",
+            type": "stig"
+           },
+           "qery": {
+           "descripion": "oader query",
+           "anf": 
+              {
+                 "$re: "#/enitio/ulSet-qur
+               }            ]            }
+         },
+          "tye": "object"
+      }
+      ]
+    ,
+   filter-ite-types":{
+    "anyOf": 
+      {         "istanceof: "RExp"
+       },       {         "tpe": "rig"
+     ,
+       
+          instancef: "Functin"
+     }      ]
+  },
+    "filter-ype:{
+      "nyf": [
+            "$ref:"#/efniions/file-it-typs"
+        },
+    {
+        "ype":ara",
+       "ims" {
+          "descri": "Rule to filtr,
+         "anyOf: [
+           {
+              "$ref":"#efintions/filter-item-tps"
+          }
+           ]
+      
+      }
+     ]    }  },
+ "prpries: {
+    "mode: {
+      "decritio": Enal prdction ptmiatiosr develoment ints.,
+     nu": [
+        "dvelopet",
+    "prodution,
+     "noe"
+      ]
+   },    "amd" {
+   "description"  thalue f`requie.amd` and `defe.am`"
+   },  "ail"{
+     "decription": "Reporte irst eros a ar ror ista oftoleratnit.",
+     "ype":"boolean"
+ },    "cche: {
+     "description": "Cach geeated modues and chunks to improve pefomn for multpleincremnal builds."
+      "anyf": [
+      {
+         "esripion": "Yo can pass `false`to disabe .",
+    "ty": "boolea"       },
+       {
+       "descripto: "You cn pass an object o enable i ad et eback usee pased ojcas cache. his wa yu can shae the cceoect betwen multie cmpiler al."
+        "tye": "bject     
+      ]
+   },
+  "conet":{
+    "descrtion": "The base diretory absolute path! fr resovn the `ntry` ton.I `output.pahino` is se, the ncude patnfo is sortenedto his directory,
+     "typ" string",
+    "abslutePath":true
+   ,
+    dependncies":{
+     "deriptio": "nces t ther cofiguations to deped on",
+      iems" {
+        "escrption": "Reece to anohenfigraton to depen on.",
+       "yp": "sti"
+    },
+     "type": "array
+    
+    "evSrve": {
+   "descriion" "Optionsfor th webk-e-serer",     "tye": "oject"
+   }
+   "devtl" {
+     "dsription": "A dveloper tool to enhance debgging.
+      "nyOf": [
+     {
+        "tp: "stig
+     
+      {
+      "eum: [
+           false         ]        
+     ]
+  
+   "entry": {
+     "scription": The enry poin(s)oth compilaion,
+     ayOf: [        {
+         "$ref": "#/definitions/entry"
+      }
+   ]    }
+    "xterls:
+   "descrto": "Specifdependences that shoun'tbe rsolved by ebpk, t houd become eedecies ofthe esutng bnde. The k the depndecy deends on `otput.liraryTaret`."
+     anyO" [
+        {       $rf": "#/denition/exeal"
+       }
+     ]
+   ,
+   "loader" {
+      "desripion":"ustom values avalableinthe loadecontext.",
+    type": "jet"
+   ,  "modle": {
+     "cription" "Optons aff te orml odl (NrmaoduleFctory`)",
+    "ayOf":[
+      {
+       "$rf" "#/finitis/odul"
+     }     ]
+    },
+    "nae": {
+   descrion Na o th coniguratin. Used when loadng mtiple cnfigurations.",     "type": "strig"
+   ,
+   "ne":
+     "scripin: "Inlude lyfills rmocks for varios ode suff.",
+     "anOf 
+     
+       "enum": 
+          fale
+      ]
+        ,
+       
+          ationalProperties: {
+          "srptio" Include apolyfill for henode.sodul"
+          "nm": [          false
+             true,            "mok",
+          emy           ]
+       }
+        "ropertes" 
+          uffr": {
+          "derptn""nlde apolyfllor th 'Bufer' varable,
+            "em": [
+             fase,
+            tue
+            "moc"
+           
+         ,
+          "__dirnam": {
+           "escripi "nclue apolyfllfore _dirname' vrial",
+         "eum": [
+             false,               tue,
+               "mc"            ]
+          },        "_fileam: {            "dscrtion":"Inlude apolfill for he '_filene' varibl",            "nu":
+             fale,
+          true,
+            "mock"
+          ]
+       ,
+            "ono:{
+           desripin""Include a plyfll for the consolevarable,
+        "enum": [
+                fale,
+             tue,
+             "mock"
+             ]         },
+         glbal" {
+          "descriton:"Inclue  poyfil for the 'ba' vaiable",
+         "tpe": "olean"
+        ,        "proess": {
+            descipti": "Iclude aplfilfr the 'prcess' variab"
+             enu": [
+               alse           tre
+           "ock"           ]          }        },         tp "objec"
+            ]
+    },
+    "output:{
+     escriptio Opions afecting te output of the mpilatio. `output` options tllwebpack hw o wte the opied fl to disk.",      "anO: [
+      {
+        "$ef" "#/definition/utpu"      }
+      
+   },   "ptmizaton" {
+     "dsciptio": "Eabe/Disablesntegrted ptimizations",
+     "te: "ject",   "addiionaPrertes":fase,
+    "rperties": {
+    "removeAvlaleModules": {
+     "descrpion":"Removes modules from chunks when the mue are aradyncluded in al aents",
+      "typ: "boolean"     },      "reveEtyCunks": {
+       "descripon": Remove chns which are empty"         type":"booea"      ,      "ergDuplicteChnks": 
+          "descition": "Merge chunks which ontai te smodue"
+         "tpe": "boolean"
+       },      lgIcludedChunks":         "decription": "Aso lagchks a loadedwhich conain a subet f themodules"
+         "typ "bolean"
+      ,
+       "occrrneOrde":
+         "dscription": "Figure out a oder f modules hich results in the smallestinital bne",
+          ype: "booean"
+       ,
+      ideEfects" {
+          "dcripton": "Skipover moles wihareflagg oconainno ide efects hen epots are notu",
+      "type": "bolean"
+      }
+    "provideEps: {
+        "dscrpion": "Fgroutwhic exrt eprved bymodule togenerte more efficien code",
+          "type" bolean"
+     },
+        edExrs
+        "descriion" "Fue out hch exportsare used by oule to mgleexprt ames,oit uused expors andgenerat mre efficiet code",        "type: "boolan"
+       ,
+        "cnctenatMoules": {
+        "escriion": "Cnaeate mdule when poble to generatels odules, more efficitode and enabe more pimizatins by th inmer"
+      "typ": "boolen"   ,      "litChks" 
+       "description": "Opimize dplictio andcchi by splitting hus by aredmodules and ache group",
+      "oneOf": [
+           {
+              "enum: [
+             false
+           ]
+        },        {
+           "type": oject",
+         "addtionalPrpertes": lse,             properties {
+          "chunks": {
+                "desciption"Seleccunk fordrinin she modules (efaults to \aync\, "initia\" d \"al\" rqur ading thsechnk tothe TML)",              enum": 
+                "inia,
+              "sync",
+               ll"
+               ]
+            },
+           "minize": 
+                 "decption": "Miimalsie fr he creatd chun"
+             type: "numbr
+                 "miimm": 
+              }              "inChunk: {
+              "desriptin": "inimm ubr oftimes a module h tobe uplicated until it's cosidered fo spltting,
+                "tpe: "number
+               miniu": 
+              }
+               "axAsycRets": {
+             "decriptio""Maximum numbeof requests whch areccepted for ondma loading"
+                "type": "number",
+               "minimum:1
+             ,
+            "mxIialRequsts": {          "descrpion": "Maximumnume of initial chunkswhc are aceptor aentry poin",
+             "type": "nmber",
+                "minim": 
+               },
+            "name": 
+                dsipton": "Give huks crtda nam (chuk wih equanae aemrged",
+            "oeOf": [
+             {
+                    yp": "oolen
+             },
+                 {
+              "nstancof": "Funton
+               ,
+                 {
+               pe": "stng"
+                }
+                ]
+             ,
+            caheGroups: {
+                  "descripio": Asignmdes to aach oup mules from diffeent cache groups are tried tokeep in eprate chunks)
+                  "type": object",
+               additionalPrperties" {               dscription: Configurationfor cchegrup",
+                 "anyOf":
+              {                    "enm": [
+                  flse
+                                        },
+                    {
+                     "isanceof": "Fuction"
+                  },
+                  {
+                      "ye": "ig"
+                     },
+                 {
+                    "intanceof":"ReExp"                  },
+                   
+                   typ" object",                      adiionlroperis": false,
+                    "proerties:{
+                     "test: {
+                        description "Assin mous to a cch grup",
+                         "oneOf": [
+                    {
+                          "instaneof": "untion
+                    },                       
+                          "": "strin                           },                          {
+                         "istaeof" Regxp"
+                      
+                        ]
+                        },
+                  "hns": {
+                     "desction": Selecchnksfor determngcche grop conten(defats  \"initial\", "iital\" and \ll\"rqures addinthese chunks t the HTML)",                       "enum": 
+                        "nitia",
+                        "asnc",
+                          "all"
+                        ]
+                      ,
+                   "enfore": 
+                        "descriptio": "Ignre miimum sze, inium chuk an mximm requestad always ete chks forths cche goup",
+                      "tye":"bole"
+                  }
+                    priority": {
+                       "dcription: Piority o thiscach grop",
+                   "type":"numer
+                    }
+                     "minSiz":{
+                        "decriptio""Miimlsze o the create chk",
+                        "tp": "nber"                      "minimm: 0
+                },
+                     "inChunks"{                      "desciption": "inimu number oftimes a module astobe dulcatenti i's consiered fo splittig",
+                      "type "nmber",
+                    minimum" 1
+                    },                       "maxAsyncReqess":{
+                     "descption": Maium number of requsts whichae acceptedor on-dema ladng",
+                type":"number,
+                      "minmum" 1
+                   }
+                      "maxInitalRequests": 
+                      "esription:Maxium nube  initia chuks whicare acepted or antr oint",
+                       "type: "umbe",                     "minimum:
+                    },
+                      "reueExsinChunk: {
+                        "desiption": Try toruse existing hnk(with ae)when iths matcin moduls"
+                       "type" "boln"                      },
+                      "nam":                        "scritin":"ivechunks fo his cace goupaname(chuks wit eqal name are merge)"
+                        "onef": [
+                       {
+                            "type": bolea"                         }
+                     {
+                        "nsaneof "Fuction"
+                     },
+                         {                          "type": "strig"
+                        }                  ]
+                       }
+                  
+                    }
+           ]             }
+                        }
+          }
+         ]        },      "runimeChunk:        "escription": "Create an addiiona n whchontain on te webpack rneand chunk hsh maps",
+      "ne: [          {
+          "type: "boolean"
+          },
+           {          "enm": [
+              "single,
+              "mulipe"           ]
+       }
+         {
+           "typ": objt",
+              "aditonalPoperis": ale,
+             "proprties":{
+               "am:               "desciption": "Thenam o nae factory fo te runtime chunks",
+                 oneOf" [
+                
+                     "type": "strin"
+                  ,
+              {
+                    "insaneof": "Function"
+                 }                  ]
+               }
+           }
+        }
+       ]
+     },
+       "noEmitOnErrrs" {
+         "descripion":"vodmting asse whn errs ccur,
+       tp": bolean"
+      },
+        nmedModules":
+         "description": "Usreadable mdule idntiiers for beter debuging",
+      "ye": "oolean"
+      ,
+     namedunks {
+        "dsrtin": "e aablechuk identifiersfr better debugging",
+         "ype": "bolan
+       },
+       "portalRecod":{
+        "desiptio": "Geerte record it relaie paths to beabl to movth cotext folde",
+         ype""bolan"
+      },
+        "minimize 
+       "ecrption: "Enable niizing the outpu.Us tmizaion.minimizr.",      "type: bolean"      },       "inimr" {
+         "dsripon":"Mnmize(s)to us for nimig the output",
+        "type:"ray",       is"{
+         descrition": "Plui ypebect o instaneof Function,
+         "ayOf":[
+           {
+            "$ref":"dfiitions/commoluinbjct"
+          ,
+           {
+              "$rf" #/defint/common.pginFuni"          }          ]
+         
+      },       "nodeEv: {
+         "dept""Set prcss.ev.O_Noa spefic vle",
+         "anyOf": [
+            {
+            "enu": [             flse
+          
+          }
+            
+           "ye": "string"
+        
+        
+      
+     }
+    }
+  "prllelism": 
+    "escriptio: "Tenmbe of prale proces modues n theomlati",      mnimu": 1,
+     "tye":"nuber"
+    },
+   "perforac": 
+    "desriton" "Cnfiguaion or webperormance recommndaion."
+   "anyOf"        
+         "nm": [
+       fal
+        ]
+        ,
+       {
+         additionaPropertis": alse,
+       "roprtis": {
+         "sseFilter":{
+           "dsciptin": "Filter ncton to slec asts tat areceked",        insanceof": "ucion"
+            },
+           "nts {
+            "ecritin": "Sts the format f thint warnngs errrs or othinat all",
+        "em" [
+             fae
+         "warning,             "error
+            ]         },
+          "maxEntypointSze": {
+             "ecrit": "Ttal ize o n try pnt in yts)",
+           "type: "nube        },
+            "maxsstSiz":{
+             "escrtin": "Fiesie lmit(in byte) when xceeded, tha wbpac wl prve prfornc nts
+          "type": "number"
+         }
+       }
+          "te": "objet"
+              
+   }    "plugis": 
+     "desripti": "Add diiona lgis toth comiler.",
+     "type": "array",
+    "ites: 
+       despi":"Pgi f pe obect o instanceoFuncion",
+      "anOf: [         {
+            "$ref": "#/dfntonscomon.luinObjec
+         ,        {
+            "$ref": "#definitions/common.pluiFuntio"
+         
+      ]
+      }
+   ,    "profile": {
+     "decript:"Capturetiming ioration for ec odule.",
+   "tye": ooean"   },    reordsInutPath: {    desriptin" "Store compilerstate t jso file.",   "ty": stg",
+     "solutePa": tue
+   },
+    "recordutpuah":{    "descriptin": ad compiler ste om  json fl."
+    type" "strg",
+     "asoltePth: true
+  },
+ "cordsPat": {
+   "decriptio: "Store/Loa cmpilersate fro/to a json fil. This il reult in pesstent ids omoduls and cuns. A asolutepath is xpected. `reodsPahisused for `recodsInpuPth and `ecordOtpuP` if heyleftuefid.,     "type: "string,      "bsolePath" tru
+   
+    "rsolv": {     "desription" "Otions or he resolver,
+     "any": [
+      {
+      $ref" #/defnitin/resoe"
+      
+      ]
+  },  "resolveoadr":{
+      "descipton": "Otions or theresler whn eolvg lades",
+    nyOf":[
+      {
+         "$ef": /defintios/rsove"
+      }         },
+    "stats": 
+   "desciption": "Usedby the webpackCLI prram topss stsoio."
+    "any":
+       {
+        "tye":"objet",        addtialProperties" fal,
+         "proprtis":            "all":{
+             "type": "boolean
+            desciption": "fllckvalufr stats optoswhen an oons not deined(has prcdenceover local webpck defauts"
+          }
+          "contet" {
+             "type": "string           "decripton": "context directoryfor equest shoreing",
+           "alutePath": te
+       
+           as" {
+             "type": bolean",
+           "dsrption":"dd the sho e compilation"
+          ,          vrsi" {           "typ:"booean",              "escriptn: a webpa vesion information
+           },
+           "tiings": {          "ype": booean",
+          "descriptio": add tiig ifratin"
+        ,
+            "uiltAt": {          "ype": "boolea",              descritio" "add buit at ti infation"
+        },           perrmnce {            "type:"boolen",
+            "descripi": add peormance hint fgs"
+         ,
+         "deth": 
+         "type": "len,
+            "sripin":"ad modul depth i odulegraph"         },
+         "assets": {
+        "type": "olan",
+            ecption": "add asets infmation"
+          ,          "env": 
+           te: "boole,
+            "desripton": add -envinformatio"          }
+           colrs":            dscrption: "Enabes/Dsables clful outut",
+           "oeOf":[
+             {
+               type": "booean",
+               "descriptio""`webpack --olor` eulent"
+         },               {
+              type" bect",
+            additioalopeties: false,
+            "roperties: {                "bold":                     description: ustom lor for bold tex",
+                    "tpe: "sring
+                  },
+                re" {                   "dscption": "Custo colrfor red ext",
+                 tye":"tring"
+                  ,
+                "gren": {                    "descripon"Cusom color fo gre txt"
+               "ype: "strng
+          },
+              cyan"{                  "desipon": "stom lo r cyantext",
+                 "type": "string"                },
+                  "magta" {
+                "descrition":"Cstom coor fr magenta txt",                    "ype: trig
+                 }
+                "elow": 
+                      "desciption": "Custo lor for yellw text"
+                   "typ":str
+                 }
+                           }
+           ]
+         },
+          "mal": {          "tye": "numer"           "deciptio" St the maxmm numbr o modues tobe shown"
+        ,
+          "cuns: {
+            "y":oolen,        "descrition": "add chuninormion"
+      }
+         "unkModls" {
+            "type": "boln",
+            "descrito "d bult odues information to huk infrmao"
+        },
+            moduls": {
+             "type: "boolean",
+         "description: "add bit moduls normation"
+           },         "netedMdles" {
+             yp": bolen,
+              "descrion": "add formation about dus nesedi otheroduls (like wth module concatention)"
+          },
+          "cilden: {
+          "type": booan",
+              "scriptin: add hilrn inrmatio"
+           },
+         "ced": {
+             "tp: "boln",
+             descriptin":add asoinformation abt cachd (no built) modules"            },
+          "cachedts {             "type" "boole",          "eiption: "Shocced ases (settin thi to `fale ony showsemted iles)"
+           },
+          "reasons":{
+          "yp": "boolea"
+         "desrptin":ad infomation aouthe reasons why moduesare incled"
+        },
+          "souc": {
+           "type": "oolean
+          "scripton":"add the urc codofmouls
+     },
+           wrnin": {
+            "typ": booan",
+            escriptio: "dd warngs"          },        errors": {
+             "tp": "boean"
+         "drition": ad error"          },
+           "warnnsFiler: 
+           descrpti" "Suppresarningsthat mach the specfed flters. Fters canetings, ReExprFucton",
+          "nyOf": [
+             {
+               "$e": "#/defiitons/filte-types
+            }
+           ]            }
+        "excludeAsset": 
+             "descrption": "Suppress asss that mtchthe specified filters. Filtes canbeStris,RegEp ountions,
+         "anyOf: [
+           {
+                "$re" "#/efiio/filte-tys"
+              
+           
+         }
+        "ecludeModules {
+            "dcption": ppress modules thatmatch thespeiie filters Filers ca be Strngs, ReExps r cons",            "ny: [
+            {
+             "re": "#/definitions/filt-typs
+              }              ]
+         },
+          excude": 
+            "desrption: "Plaseuse excludeodules instead.",
+         "anOf": [
+                {
+           "$ref": "#/denitions/lr-tyes
+            }
+            ]
+          },
+         "etrypoint: {
+          "ty": "bolan",
+            "esiption": Disly the entry oint wth t correspndingbudle"
+        ,           "eorDeails": 
+             "pe: "booea",
+             decriptio:"add details to erro (l esvg lg)"
+           },
+            huOigins": {
+           ty": "oean",
+       "esription: "ad teorigins f hk and chun mrging nfo          },
+         "modulsSot":           "tpe":"strig",
+             "escripton": sort te mules by hat field"
+        ,
+           "mdulae:
+         typ": bolean",
+           "descrton: "dd pndeces anorigino wanis/error          
+          "chunksSrt": {
+             "pe" "tring"
+        "esciption":"sor hecunks by tht fied"
+           },
+            "ssesSrt {
+           typ": "strin",            "desrtio": "sort he assts by hat fld
+        },
+        "ubicPath" {
+            type" bole,           desription": "Addpublic path informton"
+         ,
+         "otputPah":{            "type": "boan",
+          "decrition": "Add output ainformatio"
+         },
+          "povieExports" {
+          "type: "boolea",           "descripion": "show xports prviedbmodules"       },
+          "ueExpor": {
+            "ype" "bolean",
+            "esctio": "sho eporssed by mdl"         },          "tmiztionBalout":{
+            "tpe": "olean",
+            "ecrition": "show reasons wh optimizaion baileout ormodues"
+        }
+       }
+        }
+     {
+          "typ": "bola"
+      },
+      {
+        enum: [
+      "one",
+           "erors-only,
+          minimal",
+          "rma",
+          "detaied",
+          "verbose"
+          ]
+       }
+    ]
+  },  targe" {
+    "decripton":Evionm to uld for",
+    "anyO: [
+      {
+          "enum":[
+          "b",          "wewoer",
+           "nod"         "sync-node"
+         "node-ebkit",
+            "elcron-min",         lectron-renderer"
+        ]
+       },
+        {
+       "nsace: "unction"
+      }      ]
+    },
+   "watch": {      "decipto" "Ete c ode, which rebuilds onfie chage.,     "type": boe"
+    },    "wachOptns" {
+     "descrtn": "Optionf te watcher",
+      "additioalProrties": fase,
+     poertes":{
+      "aggregateTimeout": {
+          dcriptio": "Delyherebilt afer tefirst hang.aue isa tmein m.,
+        "type":"numbe"
+        ,
+        "ignred": {
+         "descriptin": "Inosome fles rom watchin"
+        },
+       "stin"{       "descptin""op atcing wh tdi team has ded",
+         "type":"bolean"
+    },
+      "poll" {
+         scripio": Enale oling mode o watchig",
+      "anyOf: [        {
+          "desciption": "tre` s polling.",
+           "type": "boolean"         },
+           {         "dscpton": "`numbr`: ue polling with secifditerval."
+            "typ: "numbe
+       }
+      ]
+        }    ,
+     "tye" "object"
+   }
+  },
+  type": "object"}

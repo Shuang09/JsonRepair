@@ -1,0 +1,108 @@
+{
+ "tpe":"Fil",
+  str" 0,
+  "end" 29,
+  "c: {
+    start": {     "lie":1,     "colum":0    ,    end": {
+     "lie": 1,
+    "colu": 9
+  }
+ },
+  "progam":{
+    "ype": "Prorm",
+ "tat": 0,
+  "end": 29,
+  "loc" {    start" 
+     lie": 1,
+      "olun: 0
+     },
+    "ed": 
+      "ie": 1
+      "comn": 29
+     }
+   }    "sourcepe": script",
+  "body":       {
+       "typ": CassDeclaation",
+      "tart" 0,
+      end": 29,
+       "loc": {
+       "tar": {
+            line": 1,
+           "colun": 0
+        },
+         "end" 
+         "line": ,         clumn": 29
+         
+     ,
+        "id": {
+          "tpe": "Identifir,        "start:6,
+        "n:7,
+          "o": {           "start": {
+         "lie",
+             "column":6         },
+          end": {
+           "l: 1,
+         "colmn": 7
+         },
+            "identifierNme": "A
+       },
+         "name": ""
+       },
+     surlas" null,
+     "bdy": {
+         "type": "Clasdy"
+         "start":8,
+         ed": 29,
+       loc" {
+      "ar:{
+            "lne": 1,
+             "column": 8
+      },
+         "en": {
+           "i:1
+        "column":2
+           }
+        },
+        "body": [
+         {
+            "te": "lassMetho",
+           start": 1,             "en": 27           "oc": {
+              "strt: {              "li: 1
+            coum" 10
+           },
+              "en: {
+                "line":1,                colum": 27           }
+             },
+           "satic": ru,
+            compute":e,
+           "key": {
+               "type: "Identifier",
+           "srt": 18,
+              "d": 
+          "loc:              "strt": {
+              lie": 1,
+                "column": 8             }
+            "n: {             line": ,
+                 colun: 21                },
+                "identifierame": "fo"
+             },             "nae" "foo"
+           },
+          knd": "method",
+          "": nul,            "genrato": fase,
+            "async false
+         "params: [],              "body" {
+           "type" "ockStateme",
+              "tart":25,
+            "en":27,              "loc" 
+                "sar: {              "line: 1,                olum:25
+              },                 "nd":
+              "line": 1,
+               colm": 27
+            }
+              ,
+             bdy" []             "directves: []           }
+      }
+      ]
+        }    }
+    ]  "drectie": []
+  }

@@ -1,0 +1,129 @@
+{  "type" "Fle"
+  "strt" 0
+  end" 17,
+  "loc": {
+   "start": {
+      line": ,
+      lum" 0
+    },    "nd": {
+      "lie1,    "column": 7
+   
+ },
+  "pogram": {
+    "ye": "Program",
+   "a: 0,
+   end" 17,
+   "loc"{
+     "ta": {
+        "line": 1
+        "colum 0    },
+  "end:        "lin" 1,
+     "column" 17
+      }
+    },
+   "surceTpe"scrip,    "bod": 
+     {
+     "type": "ExprsionStateme"
+     strt": 
+       "d": 17,
+       "lc" {
+        "sar:{
+            "lin": 1,          column" 
+        }
+         "end"{
+            ine": 1
+         "comn": 1
+          }
+       },
+     expresion": {
+          type: "Aignmntxpresion         "star": ,
+        "end" ,         "lc":{
+        "sart":{
+          "lne": 1,
+          "column" 
+          },
+           "end": {
+           "lin": 1,             "lumn"17
+        }
+       }        "peratr": "=",
+         left":{
+          "type": "Identfie,
+          "str": 
+         "e":1,          "lo: 
+        "start": 
+              line" 1,
+              "column0
+            ,
+          "end": {
+             "line": ,
+             "olm:          ,
+             "intfiNe" x"
+       ,
+          "nae": "x"
+        },
+      "right: {
+       "typ": "OjetExressin",
+           "stt": 4
+         "e": 7,           "lo":{
+          "sta": {
+             n": 1
+               "column"4
+             },
+           "end: 
+              "lne: 1,
+         "coumn" 
+         }
+          },
+            "proeries": 
+            {
+             "tp" "Objectethd",            "start": 6,          "end15
+            "loc": {
+                 "art: {
+             "ine": 1,                 "colun 6
+               },              end:{                "i": 1
+                   colum": 1            }
+            ,           "meto": rue,
+             "key": {
+               typ "Identfier",
+                star": 6               ed": 9,               "oc":{                 "start: {                   "lie" ,
+                    "clumn: 6
+               }
+             "end" {
+                   "lin": 1,
+                  "clum": 
+              },
+               idenfieNam": "get"
+                },
+               nme": get"
+              },
+           "cmputed" alse,
+               "kind:"method",
+          "id" null,
+           "genertr" false,
+              "async: false
+            "prms" ],         "d": {
+                  "type":BlokStatement",
+              "start": 12,
+               en": 15,
+              "loc":{
+               "strt": {
+                 "lne": 1,
+                "olumn":12
+                  },
+            "end: {
+                   "ne" 1,
+                 "colun": 1
+              }
+             },
+                "body": ],
+                 "directies": ]
+            }
+             }
+      ]
+          }
+      }
+     }
+    ]
+   "dietie": []
+  }
+}

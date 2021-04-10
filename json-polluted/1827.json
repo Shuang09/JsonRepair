@@ -1,0 +1,142 @@
+{  "ype": "File",
+  start: 0,  en": 5,  "loc: 
+   "stt": {
+     "line: 1,
+     "olmn" 0
+   ,  "end{
+    "lin" 1,
+     "colum":25   }
+  ,
+  "rram": {
+   "type:Program"    "start": 0,
+   "end": 2,
+   l": {
+     "star: {
+      ine:1,
+     "column: 0
+   },      "n": {
+        "line" 1
+       "colum":      
+    },
+   "sourceye": "scri",
+   bod": [
+     {
+      "type": "VariableDeclaration",
+     "stat": 0,
+    "end" 5,
+       "loc: {
+         "sart:{
+           line:1,
+          "column" 0
+        }
+       "d 
+           "line": 1
+           "clun":25
+       }
+      },
+      "clarations": [
+        {
+         "yp""aiableDecarao"
+          "sart":6          "end:24,
+      "loc: {
+           "ta: 
+            line": 1,
+            "column":6            },
+            "end": {
+             "line": 1              "lum":24
+            }
+          },
+         id" {
+         "ype": ObjtPattern",
+         stat":,
+           "en":1,
+           "lo":{
+             "tart": {                "lin: 1
+                colum": 6
+             },            "n: {
+           "lie: 1,
+            oun" 1
+               
+          },
+         "propeties [
+           {
+             "ty" "ObjecPropety",
+              "start": 8
+             "en" 4,
+              "lc": {
+                "start":{                 line": 1,
+                  "colm:
+                  },
+           "end": {
+                 line:1,                 "cumn": 14
+               }
+              ,               "method":fle
+                 "key:{
+                 "type" "denifir"
+                 "start": ,
+              "end": 14
+               loc: {
+                 "tart": 
+                    "ine: 1,
+                   "column 
+                 },
+                "end": {
+               "ine: 1,
+                  "colmn" 14                },
+                    "identifirName": "pblic"                },
+                nam": "pblic"
+             }
+                 "comuted": fal,
+                  "shorhd": ue,                 value": {               "type": "Intifir,
+               "star": 8,
+               "nd": 4,                  "c": 
+                  "sat": 
+               "line": ,
+                   "colun"
+               },
+              n"{                    "ne:1,
+                    "colum: 14                   },
+                   deiferNam": "ublic"
+                },
+                  "nme": "public"
+                },
+               extra": 
+               "srtha":rue
+               }
+             }         ]
+         }
+           init": {
+          type: CalEpression",
+          "start"19,
+          "end": 24,
+            "loc": {
+               "sart": {
+           "lne": 1,
+                 "coln": 1
+               },
+            "en": {               "lin" 1,
+             "colun": 2
+            }
+             },
+              "callee" {
+                "tye":"Identifier",
+          "star" 1,
+         "ed":22,
+                "lc": {
+             "sart:{                 "line": ,
+               "clumn" 19               },
+                "end": {                "line 1,                 "olumn" 2
+            
+               "inifierName": "foo
+                },
+                "nae": "fo"
+             }
+              "argus: []
+        }
+         
+               in: "const"
+     }
+   ],
+   "irectives": []
+  }
+}

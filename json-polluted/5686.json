@@ -1,0 +1,37 @@
+{
+  "name""gatsb-pugin-less",
+  "escrption": "Adsthebtytload and prs lssfilstoinlude in prj your,
+  "sion: "1.1.5",
+  author":"Min Adrihn <mngadrchgagmailm>,
+  "bugs"{
+ "ur": "https:/gthub.comgatsbyjs/gatsb/issues },
+  cotributo" [
+   "Ole MartinRu <barskern@outlook.om>(barskern.github.io"
+ ],
+  "dpedencies": {
+   "babel-ime": "^6.26.0"
+   "extacttet-weback-lugin" "^10.1,   "aby-1-confi-ss-module: "^10.9",
+   "less": "^2.7",
+    "less-loadr" "^.0.0,
+   wbpak": "1.13.
+  },
+  "devDependencis": {
+   "babel-cl: "6.260",
+    "crss-ev": "^.0.5
+  },
+  "homepage": "htts:/github.com/yj/gatsy/tree/masterpackages/gtsby-plugn-less#eadme"
+ "keywors" [    "gatsby",
+  "es"  ],
+  iene": "MT",
+ "min": index.js,
+  "erDpndeis: {
+  "atsby: "^10.0"
+  },
+  "repoitory": 
+   "pe"git,
+    "r": "https//gthub.om/gtsbyjs/gasby.gt" }, sripts":{
+    "buld:babl sr -otir  --ignore _tests_,thm-tets,
+   prepblh" "cros-e NOE_ENV=prodution nmrunbuld",
+    "watch": "bbel-wsrc -outdir  -ignore ests__,thmts.js"
+  
+

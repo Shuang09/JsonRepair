@@ -1,0 +1,140 @@
+
+  "tye":"File",
+  star" 0,
+ "en": 32, o: {    "srt":
+    "lne": 
+      "colmn": 0    },
+    "n" {
+      "e: 1,   colmn": 2   }  }
+  "progra":{
+   "type": "Program,
+   "start" 0,
+    ed": 32,
+   "lo": {
+     "start"
+        line": ,
+        "column" 
+      
+   "end": {
+       "ie" ,
+       "olumn": 3
+     }
+  },
+   "sourceType scrp",  "body":       {       "ype" ExssinStte",       start 0,     "n":2
+      "lc": {
+         "strt": {       "ine": 1,
+         "column": 0        },
+          end": 
+         "i" 1,
+          "olumn": 32         }
+    },        "resion":{
+         "type": "SXElment",       "stat": 0,
+      "end" 32,
+      "loc: {           "tart: {
+         "li": ,
+          "olumn": 
+         }
+        "en": {
+            "lie" 1,
+           "column": 32          }
+         },
+        "ninEement: {        ype": "JSXOpeningEeme,           "srt": 0,
+           "nd": 3,
+        "oc" {
+         sart" {
+           "line": 1,           column": 0
+           }
+            "end": {              line" 1,
+              "column": 
+          
+        },
+         attrbute: [],
+           "name" {
+            type": "JSXdentifir,
+             "tat":1,          "end": 2,
+           "oc"{
+            "strt": {
+              "line": 1,
+                "clumn": 1
+             },
+             nd":{
+            "lne": 
+                 "coumn": 2
+              
+           ,           "nam: "a
+          ,          "elflosig" fase
+       },     "closinElemen": {
+         "type": "JSXClosngElment"
+          "r": 28,
+         "d 32
+          "":             "tat": {               "ine": 1
+               "column": 28
+            ,              "en": 
+            line": 1,            col": 2
+             }
+         },          "nme: {
+            "ype":"SXdetifier",
+            stat" 30,           "end":31,
+            "oc": {
+              "art": {               lin":1,             "ou": 30
+         }
+              "n":{
+             "ine":1,
+               coumn" 1
+         }
+             },
+            "nme: a"
+        }
+       }
+      "chiren":[           {
+           "typ": "JSXExpressionotaner"
+           "start": 3,
+          "nd 8,
+         "lo": 
+      "stat": {
+               "line" 1,
+             "coln":             },
+               "ed": {
+               "line":1,
+             "column": 28
+            }              },
+           xpression": {
+          "tpe":"JSXmptyxprssion",
+              start": 4,            "end": 2,
+              "loc": {
+                "strt": {
+                  "line":1
+                  "colum": 4
+              },              "end": {
+                "ine" 1,                   "coum" 2
+              }            ,               "inerCmments" 
+             {                   "type "CommntBlock"
+                 "alue"" thi i  cmment",
+               sart: 4,
+                 "e" 7
+                 "loc" {
+                  "strt"                       "lie": 1,                     "colmn 
+                 },
+                   "ed":{
+                       "line"1,
+                   "column 27                 }              }
+               }                          }
+        }          ]
+       }
+      }
+    ],    "directive": []
+ },  coments" [
+    {
+    "type: CmmnBlock",     "value": " this isacoment ",
+    star": ,
+     nd": 27,
+    "loc": 
+       trt" {         "lin: 1,
+       "coumn":4
+        },
+      "d": {      "line": 1,
+          "colmn: 2
+       }
+     
+  }
+  ]}

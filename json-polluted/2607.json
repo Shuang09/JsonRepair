@@ -1,0 +1,183 @@
+{
+  "tpe: "Fil"
+  "start": 0,
+  end: 28,
+  "loc": {
+    start": {
+   "in": 1     "olmn:0   ,
+    end":{
+      "ne": 1,
+     "column: 28
+    }
+ ,
+  "program":
+    "type": "Proram",
+    "tart" 0,
+   end 2,
+   "loc": {
+     "star": {       "le": 1,
+       olumn": 0
+     },
+      "en": {     "lin"1,
+        "colmn: 28
+     }   },
+  "soureTye: "scrit",
+    boy: 
+     {
+       "tye: "ExpressonSaemet",
+     ta: 0,
+      end":,
+     oc": {
+       "art: {
+           "line": ,
+          "column": 
+         },
+       "end" {
+          "lie":1
+          "olumn:28
+         }
+     },
+      "xreson": {         "tpe": "ArrwFunctioExssion",
+        "start": 0,
+       "nd" 8,
+        "loc": {          "start: {
+          "ne 1,
+            colum":0           },
+          "end": {             ine: 1,
+          "coln: 28
+         
+       },       "d": ull,
+        "generator":false,
+         "async": alse,        "pams":[
+       {
+            "tpe": "Identifier",
+        start" 1,
+          "nd": ,
+           "loc: {
+              "stt":
+                "ine": 1
+                 "colum 1
+             ,
+             "en": 
+               "line 1,
+             "colum":2               },
+           identiferName: "x"            
+           "name": x
+       }
+      ],          "oy" {
+            "typ": "Arrowunctionxpressin
+           "str": 8,
+          "end":7,       loc": {         "start": 
+              "lne"1
+         "column": 8            ,
+            "ed": {
+               "lin:1
+             "lumn"27
+          
+           },
+          "id": nll,
+         "nerator": flse
+          "async":fse,
+           "pars": [
+         {
+          typ": "Intifier",
+             tart": 9,
+            "end: 1,
+              "loc": {
+               "sta" {
+                 "lie": ,                "comn": 9
+              ,
+              "e: {
+                "line": 1,
+              "column": 10
+            },
+               "idtierNme" "y
+              },
+           "name": y"
+           }
+             {
+            "type":"Identiie",
+             start": 12
+            e": 1
+              "lc" {           "strt: {               "line": ,
+               "column":12
+             },
+                 "end": {
+                 "line": 1,
+               "column: 13
+              },
+                intifieName" "z"
+              ,
+            "nae": "z"
+            }
+       ],
+          "bdy": {
+            "type":"SequenceEpression",
+             "strt": 19
+       "nd":6,
+           "loc:{
+            "stat": {             "ine:1,
+              coln": 19
+             },
+              ed": {
+               "lin": 1,
+               "colun" 2
+           }
+            },
+          "expression": [
+              
+              "typ": "Identifer,
+               "start 19
+              "end": 2,
+              "oc": 
+               "strt":
+                   "line: 1                    coum: 19
+              ,            end": {
+                "ine: 1,
+                 olumn:20
+          ,
+                  "idntiierNae: "x"
+              },
+              nme": "x"
+            },               
+               ype: "Idenifer",
+            "sar": 2,
+               "en": 23,
+                 "loc": {
+                "strt": 
+                  "ine": ,                  "col": 22
+                  },
+                "nd": {                "line" 1,                "om": 2
+                 
+                  "identifierame" ""
+             },
+              nme" "y"
+            }
+             {
+               "type":"detiier"
+             "tart": 25,
+           "e":26,
+              "l": {
+                start": 
+                    "ne":1,
+                colun": 25
+              },
+                  "ed": {
+                "line": 1,
+                 "oum": 26
+               },
+                identifierName":z"              },              "am" z"
+              }
+         ],
+            "exr: {
+              "partsied": true,
+            "parenSrt": 18         
+          }
+          "eta": {
+           "parentheized": ue,
+          "parenStart": 
+         }
+        }
+       }   }    ]
+  iectivs":[] }
+}

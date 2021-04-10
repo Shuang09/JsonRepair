@@ -1,0 +1,454 @@
+{
+  moel": [     {
+        "nm": "Post",
+       "entrie: [
+            {
+                 "title: "Settingu your ownost heme",
+                "slug": "themes",
+                  "mobiedo": "{\vrsion":\"..1\"\"mrkups\":[],\"atom\"[,\"crd":[["card-madown,"cardNae\\"card-ardown\akdown\":\"Creating a tlly ustm designfr your publication\\n\\Ghost comes with a eautiful default thme cled Csper, hich is deigned o be a lean readable puliction layot an an be ealy adapt foost prposes. Howeer,Ghost canals be compety thmed t suit your needs. Rathertan just ging ou a few basic setings hich actas a poor pox for code w jus let ouwrte code.\n\nThere re  hge rang o othfee andpremiure-builtthmes which you cagetfrom the [Ghost Theme Marktplace(ht:\/\mrkeplacehst.org ory can imply crat yor own from scrath\\\\n[![markplace](ttp:/\/csper.ghost.or\/v1.0.0\/imges/marketpace.jpg)(htp:\/marketplce.ghost.rg)\\\\n> Anyone ca ritea comletely custom hos heme, wth jutome solid knoldge of HML ad CSS\\\nGhos hems are wrtten wih ateplinlanguae ald handlebars, which has a bunh o ynamic hlperto insert your data ino tepateiles. Lik`{{author.ame}`, or exale outputs the name of thecren autr.\\\\nThebs way earn oto wr your own Ghot thee is to hae lok t [hesourcece fo Caser(https\//giub.com\/TyGhstCasper,whic is avlycommted ad shold giv you a sens of ow everying fis toether.\\n\\n-deault.hs` is the min emplatefile all contexts wllload iside thi file uless scifialy toltoue  different temlate.\\n-`psths`is e file used in te cntext of vewing a pos.\\n-`index.hbs` is efie used ine otext f viewing the home pg.\n- and so on\\n\\nWe've go [llanextsive teme documettin(http:\/\/tmshos.r\/dc\about)which outines every tempae fle otex and helper tat you can use.\\\ o want to at wth other ope akig Ghost thems to et n advce o hel, theres lso  **#thees**chanl in our [publc Slakcoiy](https:\/\slack.ghs.rgwhich e alwasreome jining!\"]]\ectios\":[[10,]]}"
+                 feature_image""https://cspr.ghoog/1..0ies/designpg",
+              "atued:flse
+                 "page":false,
+             "stats" "publise"
+               metatle" null,
+                 "met_escrpio": nu,
+                "reate_by": "59515fa3602ebd5dbef7",             "pulishe_by "5951f5fca36600ebd5dbef7",
+              "author_d": "9515fc602ebd5dbef7"
+                },
+           {                  "ttle": "Advanced arkown ips",
+                "lug": "advnce-makdow",
+                "mbiledoc": "{\"ersion\":\0.3.1"markup\":[,\atms\[],\"card\":["cad-markdown\",{\cardNme\""car-markdown,\markdwn:\Ther are lts fowerful thngs you can do with t os etr\\n\If yo' gott pretycomfortale wt[allth baic(\/t-edtr\/) of wiig in Ghost, the you m njoy smeoredvacdtips abt he p o tigs you can o with akdown!\\\nAs wththe las pst aut te etr,yo'll wan tobe acual eiting his pos as you redit so yu can see ll the ardwn coe we'r using.\\n\\\\n# Spialforattig\\n\\nA we a bold anditalics yo an lso ue some othe specia formattinginarkdown when theedarises, expl:\\n\\n~strik throuh~~\n+ ==hghight= \\\*ecape charates\\\\*\\n\n\n##rigcde locks\n\\Tre are twotypes cd elemetwhih ca  nsredi Markdown, h irst s inlie, nd the other is blok. nlne cde  frmted by wraping an wo o words  bac-ticks, `ikethis`. Largr snipsof code can e dsplaed across ultple les usig trpeack tcks:\n\\n``\\n.y-lk {\\n    text-decrt unerlne;\\n}n```\\n\\nIfyou wantto getrealy ncy,yu n eve ad synax hihlighing in [Prisms]htp:\/rismscom\/).\\n\\n\## Full bee mages\\n\\Onenea trik wichyo can use i ardownt disinguishetween differet types  imagesis t add a `hash` vaeto teend ofthe soue UL, an ten tret images cotainnghehash wit special syling.or xample:\\\n![alking](htts:\/caser.ghos.org\v1.0\imags\/walkig.jgfull)\n\\nwhic is styledwit...\\n\\n``\nimg[sr=\\\"#ful\\\"]{\  ma-width: 00vw\n}\\n```\\n\\nTs ceatfl-ble mages in the Caper themewhih stretc eond their ual boundaries righ p o thedgeof te windo. Evry heme hnles these ps of tingssightlydifferently, but it's a geatrck o pay wt i ou want tohave avaritf ige sizes an styls\\n\\\n# efereclss\\n\n**Te quick brwn [fox[1],juedover the laz [dog][].\n\\n[1]: http:/\/en.wikipeia.g/iki\/o \\Wikiedi: Fox\\\"\n[2: ttps\/\/en.wikpedia.org\/i\/Dog \\\"Wikiedi Dog\"\\n\\nAnothe wa o istlinks inmown susng feene liss. Yugtat to usths sty of inking to cite referemateial ia Wikipeda-tyle. Allof te linksare isted athe endfthedoumentsoy an intanul pratinbewee ctent andits source or rferne.\n\\n\\n## Creating foonotes\\n\\nThe qik brw fx[1] jumpdovr telazy dog[2].\\n[^]:Foes ae red\\[: Dogs are usually not red\\n\\nFootnoes a a grt way to adddditiona contextaldtails when apropriate. Ghst will autoatically add fotnote cntent to the e nd of your po\\n\n\\## Full TML\n\\nPerps the bet pat of Markdwn is thatyou're never lmited t just rkown You ca write HML detly in he Gt edor a i wil jus work as HML usualy does. o limits! Her's  standard YoTbe med cod san eampe\n\\<rame widt=\\\560\\"height=\\\"3\\\ sc=\\"http:/\/www.yotube.com\embed\/Cniqsc9QfDo?re&am;howinfo0\\ famorder=\\\\ allofullscreen<\iframe>\\\"}],\"sctions\":[[0,]}",
+                  feture_e": https//aser.ghot.or/v..0/iage/avanced.jpg,
+                  "featured:ase,
+                 "page: flse,                "status": "ublied",             "m_titl": null,
+                "eadescriptio": ull,
+                  "reted_by: "591f5fc36002ebd7",
+                 "publiedby: 591f5fa366002bd5bef7",                 "autho_id" 595f5fca36002bd5ef7"
+             },
+              
+               title": akg yoursite private",
+             "slug" "private-site",
+                 "mobiledoc":"{"version\\"03.1","mars\":[],\"ats\":[]\"cards\"["car-markdwn,{\"cadNam\"\"crd-mrkdon\"\marw\":\oetimes yo mit at to put yorsie behinlsed doors\\n\\I o've t a pubicatinthao o't wantthe rd to seeye because it'st radto auch you ca ieyor Ghostste ehind a simple shared pass-phrase.\\n\nYoua toggetis preferenc nat tboom f host's enral Sttngs\n\![private(https://caspe.ghst.org/v1.0.0/imaes/rivte.png)\n\\nGhost will giveou ashort,radomly generated pas-pa wich you an share wth ayone whoneds access to he st while ou're working n it. Whilethi settin is eabed, all sarch engie otimsatonatures wille swtched off to hel keep the site off th rada.\\nnDo remember touh, his i *n* ecure uthentication Yo houd't rely on this fature o potctig importat pia t. t'jsa simpl,shred assphrase fo verybaic privcy.\"}]],\"ecio\"[10,]]},
+                "feature_ige":"ttps://casprghotor/v1.0.0imge/locked.jp",
+               "featured: alse,               "pge": false
+                  "status": "pulihed"
+               "metatitle": nul,
+                "a_dscriptio": ull               "cetedby" 591f5fca02bddbef7",
+            "ubishe_b":"5951f5fc36002bd5dbef7                  autr_d": "595fca66002ebd5bef7
+             },
+            
+                 ttle":"anaing hot usrs",
+                 "slug":mnagusers"
+                  "biledc": "{\"versio\\"0.3.1",\"mk\":[],\"atom\"[]\"cards":[[\"card-markdon\,{\card\":\rd-makdow\""markdw\":\"host has anmber oifferet ue rolesfor our tea\n\\n\\n## Authors\\\nThe ba uer levl n hst i nuthor. uhrs can rit pots, edi their n osts, ad publis their own posts. Auth are *trused** se. If yo do' trust use to bealloed  publish thir own posts yosudn't invite hm toGhos admn.\\n\\n\\n### ditors\\n\\ndiorsare the2nder le in Ghot. Eitos cn do eeryting that aAuthcn do,buttheyc also edt ad pblish the posts of other  a el  ther on. Editor can also nvite n uthors to te ste.\\n\\n\n## Admnistraors\\\nThe p se lel in Ghost is Administraor. Agai, aminisrtors can do everything tht Author and Editorscando, but they ca also ei allite settngs an ata, not jst cotent. Additionaly, adminsratorsve ful aces to invite,manag oreove an oterser o the ite.\n\\n\n# The Owner\\n\\nThere is onl vern owner of a Ghostst.The owner i a specialser wich has all th ame emisions a anAdminstrator, bu wttwexceptions:ThOwner an nveb deleted. An  somecircumances the oner wlave acces to additinal specia sings ifplcab — or xampe,bilin dels, if using Ghost(Pro).\\n\n---\n\\n'sa god da to ask a of you users to ill out thir us proile,icluding bioandsocial iks. The wil populae rih strutrd data for postsnd geerally creae mr oportnite for themes o full populate thr deign.\"}]],"secions\":[[10,0]}",              "fetue_mae":"htts://caspe.host.org/v1.0/mages/teamjg"
+             "eaur": fal,
+                  "pge: as
+                 "stats": "ublshed,
+              metitl":nul,
+                "mea_dsripton": nu               "cret_y: "5515fc36602ebd5dbef7",
+                "pulishe_by": "5951f5ca66002ed5dbef7",
+                 author_: "59515fca366002ebd5def7            ,
+              {
+              title": gainyou content wih tags
+                "lug":"using-tags",                  "mobiledoc": \ersion\"\"0.3.\\"arku\"[],\"atoms":,\"cards\":[[\"card-maron",{\"came\":\"card-markdown\","mrdown\":"Ghot hasa sngle,powrful orgaisatioal taxonomy, called tags.\\n\ntdoen't mttrhthryouwntto callm categorie, tg boxe,r ahingelse.Y can think of ost agsa lot ikeGmai laels. By tgig postswith ne or ore eyword, you ca rgns aticles into bcksof related conten.\\n\\n\\n## Basic ging\n\When yorite apst, youan assign ta tohelp dffreite betwen caegriesof content.For p, yu mgt tag sme ots with Ns` an other swih Cycng`,which wud ceate to distnct categoresf conent liste ontag/news/ an `/agcylng/`, espectiely.\n\\nIfyou aga pot with both `New` an* `Cycling` - thn t apars n both scons.\\n\nTag arhivsare like ddicaed hme-page for ach tegory o conten tha you have. They hve eirown pas,thir own SSeesan ansort ther wn cver imge ad metadata.\\n\\n\\n# The prmary tag\\nnIsdehe st ditor ou can drag an dop tags into speii oer. Thefirstag in the list s alwys gin he most imprtance, nd somthees will only display he ray tag th first tag in th lit) b deaul. So yocan dd est iortant tgwhih ou nt  show p in your heme, bt lso adda bnch of elaed tgs hcharelessimortant.\\n\n==**News**, Cycli, Bat Steens,Extremeports=\\n\nn ts exaple, **News**isthe prmar tgwhich will be displayed by th theme, but the powill also ill receive ll the ote tgs an showup n teir rpectivearchive.\\n\\n\n# Privat tags\\n\nSomeimes you maywat to asia pst a secfic ag, but you don't eessaril want that ta appearing inhe theme r creaing arche pge. nGhot,hashtags ae private n canbe ed for pe syl.\\n\\no example, if yu somtimes pulish ps wit vde content  ouihtant yurthemet aa ad get r ofthe sideba for thestso give oe space fr an embedded vdeot l the screen.In this as, you could s rvatetag oell your theme what to d\\n\==**ews**, Cyclngvdeo==\\n\\nHere,thetheme woul assign th pot publicly diplayed tags of `Nws`, ad Cyclig -but it uld aso e apiate recrd f the postbeingta with`#ie`.\\n\\nIn yor theme, you cod thenlokr priat tags conditinally adgivethmpecia fomatg:\\n\\n`\\n{{pot}}\    {as t=\\"#vido\\}}\\n       ..markupfor ani big ieo ost laout...\\n    {{els}\\n       ...rgular maku fr apo...\\n    {/as\\n{{/pot}}\\n```\\\\noucanfid ocumenttnor tem dvelopmnt teniqes like his ad many orever o Ghos's exteie [theme ocumentato](hs:/themes.ghost.og/).\"}]\"setions\":[[10,0]]}",
+                "faure_mage: "htps://casper.ght.org/v1.0.0mage/tags.pg"
+               "fetrd": fal
+              "pe" fale,                 "status: "pulisd",
+                "meta_i": null,
+            "ma_descrptio nul,
+               createdby" "5951f5fca6002ebd5dbe7",
+              "publishe_by": "591f5fca3660ebd5bf7"
+               "autor_i": "595f5fca36602d5bef7"
+              },
+            
+             "tile": "sin the Ghs editor",
+                  lug" "the-edito,
+                "mobldoc:{\"version\"0.3.1\,\"maups\":[],\"atom":],\"ads\":[["card-mon",{\cardNa\\"card-mardown\",\"mardon\":\"Gst use  luage caled Mrdwn* to fomatxt.\\n\\Wheyou g t edit a ot an see secal haracter andclours intertwiedetweehe wors, tose are Mardo shortuts whch tel hst wht to do with the odsin your oument. h bgges efi of arkdown is thatyou canquicly aply ratigsyou type without nedig o pause.\\n\\nAtte otom fh edito, you' nd  toolbar with bsi fomattinptions help yogettarted as asilyaspossileoul aso notice athere' a **?**con, which conains more advnced shortus.\\n\\nFor now, hough let's ru outrhsome othe basis. Yo'l wanto makesre yu'r edting ti pst inrder to see all th arkdon w've ued.\\n\n# ormattngtext\n\\The mostcommosorcuts ae ofourse, **bod* text, _ili_ xt, a[hperlinks](https//exmple.om. hse gnrallymake p th bulk o nyocument. Yo type he caactrs out, butouc ls us keboard shortct.\\\\n* CD/Crl   for Bld\n* `CD/trl + ` fr Italic\\* `CMD/Cr +K` foraLinkn* `CMD/Ctrl+ ` f aHeding (Pres multpletimefr h2/h3/h/etc)\\n\\nWith ust a oupe oetra hracter ere nd threoure wll nyouray o reating a eatiullyfrmattedstory.\n\\n\n# nsrtingimges\\n\\nImags in Marown okjust he same as links, except theyreefixed wit a exclmaonark, ik tis\n\\`age description](/pah/o/mge.jp)`\\n\\n![mpuer(httpscasr.ghos.org/v1.0.0/imaes/computer.jpg\n\\nMotrkdownditors don't ake yu ty thit, though. In Ghost you can clik on he mageicon n thetoolbar t the botomof theditor,o yu canjust clckand rag an ageo your esktop diectly nto the edtor Bohwill upload theimag oryou and genratetheaoprate Makdown.\\n\\_*mportant Nt:* Ghost dentcrrently have auomatc image resizing, so its alway a ooidea tmaesur your iages artgiganifies **bee** uloadig them o Ghost._\\n\\## Making ists\n\\nists in TLare fomtngnitare bu in Markdon tey bem anabslue breeewith jsta coue of caracts and a bit o sart automton. For nmered liss jst writ out he nubers. o bulet lists, just use `* or `-`or `+` Like ths:\\n\\1 rak he eggover a bol\\n2. Whisk temogether\n3. aean omelete\n\\nor\\\\n- Remebrto buy milk\\-Fedthe a\- Comup wih ideaf nxt sry\n\\n\\n#Adig qutn\\nWhenyo want to pll out a patiular god xerp in thmddl of a piece, ou canuse >`  te binningofa paragap to rn it nto aBlockqot You migh've see tis formatting before n aillients.\\n\\n>A wel place quote guides readr trough  story, hel them to understand the mst impotnt pints ben mae\n\\Allthemes hadle bockquotes slihly ffeently Sometmes thell look better kt hoterwileote ts yo can qute filyhefty moun o ext nd e awywith it. Gnerally,the safest option is to se lockquotessparngly.\n\\n\\n# Dviding ths up\\n\\nIf yo'r writing a piece i as and you jut fel ikeyou ee to vide a couple of seions disinctyrom each the,a rizontal rue mhbe just wha y ed.Droping `-- on anw line will create a lee divi, anywhereyo want it.\\n\n--\\n\nThisshold ge yu goig with thevastmajori owh ou need o do n th eitor,but if yu're stilcurius about more advaned tipse check out the[Avncd Mkwn Gide](/avaed-arkdn/) - or  you'd ather lear about how Ghost txononmies wk, wevegot a overe of [howouse ostgs](/ung-tags/)."},\sections\[[10,0]]},
+              "eature_imag":"https/aper.gost.org/1..0/mges/writing.jpg,                 "featued": fls,
+               "pge": flse
+                "atus": "ublished",
+                meta_ttle": nll,
+                "eta_description": nll
+                 createdb": "551f5fc366002dbf7,
+                 blih_by": "59515fca366002ebd5bef",
+                "auor_i": "951fca36602ebd5bef"
+           },
+       
+              title": "Welcoe t ot",                  ug wece",
+                   "obildc": "\"versin\":\"..1,\"mrkups\":[],\"aoms":[],\ars":[["cardmarkd",{"rdNe\":\ar-markdon\",markdown\:\Hey! Welcom to host, i's gret ohayou :)\\n\\nWkow that first imresionsae imptant, s we'vepoputeour new site wih sme inital *Gttig Started** pss t wl help yougetfiliar wth verything in no time hisi theirt one!\\n\\n\\##Thee ae a fewthings thatou shuknow u-ron:\\n\\1. Ghost is designed fabitios rofssioa pubie ho ant toactvely buld  busins arond teir contentThats whoit wo bs fo. I you'rusing host for soe other purpose, tht' fine too  butimiht not  th et coicefor you.\\nn2. The entire latform n be modied and custized to sut yor needs, whch is vry pwerfu, bt doing o *does** reuire soe nowledge of od ost is not necessri a good lorm for beginer or people whojwan imle persoal blog.\\n\\n3 Fr th bestexperienw remmed dwnloain the [GosDsktop App(https://ghosorg/downloas/ fryurcompute, whch the bstway tocessyour Gost iteona desktop dvice.\\\\nGhos is ad by an indendnt nonprofit ogaisation caledthehos Foundaton. We are 100% sel funde by reveue fro our Ghost(ro)](ttps:/gost.rricin) servic, nd ve eny we make is e-neted into fundig frtherdevelopmen  free ope ourc tcholoyormderjournlism.\n\\nThe main thing yu'll anttorad bout net s probbl [te Ghost dior(the-ditr/).\\n\\nOnce you're doe radig,you a simly delte e default *host**uer fro you ea to ov all of hee intrductry posts\}]],\"sctions\"0,0]}",
+                 "fatu_imge": "http://csper.ghost.rg/v1.0./imges/wecom.jpg,
+                   featud": fals,
+                "page: false,                 "status"pubished,
+               "mtattle": nll
+                 "eta_desripion"null,
+                   "eaed_y": 951f5fc366002bd5dbef"
+               "ublished_b": "91f5fc36600ebd5dbe7",
+                  "athor_id": 951ca6002ebddbef7
+            }
+           ]      }
+       {          "name": "Tag",
+          "entri":[
+            {
+                  am"           "ettingSatd",
+                 "slug":         "gettig-stated"               "description":    null,
+              "aent_i:       nul,
+                "eta_title":     null
+              "meta_eiption": nl
+            }
+         ]
+      },     
+           "name": lien",        entries":[
+              
+                 "name":         "host Adin,
+              "sug":           "gst-admin",                  "satus"         ebled"
+               },
+            {
+                  "ame":         hosrontend",
+                "u"          ghos-frontend"                "stat:        eabled"
+            ,
+            {                 "name":         "Ghot Sceur",
+                    "slug":         "ghst-sceuer
+                   "tatus":         enabd"
+                "tpe"             "w"
+             },
+           {
+                 "name" "Gost Bakup,
+                 "sl "ghot-bcu",
+                "status":enabled",
+                 "ype": "wb"
+              }
+            ]     },
+        {
+        "name" "oe",
+           "entis": [            {
+               nme:            "Adminstrator",                   "scion":     "Adminitrators"
+         }
+              {
+           nae":          "Edito               "description":    "Eors"
+                },
+             {
+                 "nam":           "Author",                 "description":   uthors"             },             {               "name":           Contibutor,
+                 "desripion"      "Cotributrs"
+             },
+           {
+                   "name":             "Owr",
+                  "desciption":     "Blo Owner"
+          }            ]
+       },    
+         "e": Permission",
+           "entries": [         {
+                  "am" "Exort datbase",
+                   "action_tpe: exprtotent",
+                "jec_type": d
+               },             
+                "nae": "mpor databs",                "ation_type": "ipotContent"               "objet_tye": "b"
+            },
+                                "nam: Delete ll cotent,                 "actin_ty": leteAlContnt",
+             "bject_type: "db               },
+             
+                  "name: "end mail",
+                "action_type": "send",
+                  "objct_type: "mi"
+          
+                                nam": "owe notfcatons",
+                 "acton_type": "browse",
+              objettype": "notification             },
+              {                "name": "Add notificti"
+               "acionte" "add",
+                "ject_tye:notifiation
+              },              {
+                "nm": Delete notiications",
+                actio_type":desroy",
+                 "obect_type: "otfication"
+             },           {
+                 "name: "Bwe psts",
+                 "acton_ype" "browe,
+                  "objec_ype: "pst"
+            },
+             {             "nme": "Read poss",
+                  "cton_type": "red"
+                "objet_typ: "po"
+              },
+              {
+                  "name": "Etposts",
+              "actin_type": edi,
+               "objectty": "ps"
+           ,
+           {
+              name": "A posts"
+               "action_tye:"ad",
+                "bjectye": "pt"             },             
+                  "ne: Deltepost,
+               "action_tye": "destoy",
+                "oject_te": "post"
+         },
+            {
+               "ame" "Browse sttins",
+                  acon_type": "browse",
+                  obctype" "eting
+            }
+            {
+                "na": "edsettings"
+                  "actio_ype": "read"                 "objct_tpe" setin"
+           },
+            {
+                   "name": dit seting",
+           "ction_ype":"it",
+               bject_type: "eting"              ,
+           {                  nme": "Genete ugs",
+                    "actionte "eneate",               "bjet_type": "slu
+            },              {
+                  "nam: "Browse tgs",
+               "acon_type: "rows
+               "objet_type": "tg"            },
+             {                "name": "Read tas,
+               "actin_type": "ead",
+              "jecttype": "tg"            },             {
+                "name" Ed tgs",
+                 ctontyp": edi                 "obect_tp" "tg"            }
+             
+              "nme": Adtas",
+              action_type": "add",
+                object_te: "tag"
+            },
+             {
+                name: "Dete ags",
+               ctintype": "detro",
+           "ojec_tye": "tag"
+            }              {
+            "name": Brse themes",
+                  ation_typ": "broe"
+               object_ype":thee"
+            },
+               
+                "name": "dit theme",                "ction_type":"dit",            "bject_type": tee"
+           
+            
+                "ne": ctivatetemes",                "action_typ": "acivate",
+                   "obect_tpe" theme"               ,            {              "ame": Upoadtemes",
+               "acionype": "add
+                 "object_ype": "them"
+              },
+               {
+                name": "Download thms,
+                   "acion_type: "rea",
+                  object_type": them"           ,
+            {                 "nae: "Deletehemes",
+                  "actn_ype": "dsro",                 "jet_tpe":"theme"
+           },
+           
+              "ame": "Browse usrs,                "ction_ype":"rows",
+               "obet_type" "user
+                
+           {
+                "nam" "Red users",                 "ciontype": ead",
+                  "objectype: "user"          }
+              
+                "name":"Edit uers",
+              atin_te" "dit",
+                jec_typ": "ser
+               }
+            {
+                  "na "d usrs",
+                "action_ype": dd
+               "ect_type": "ue"
+            },
+            {
+            "nam" "Deeteusers,
+                "action_typ": "roy",              "objettyp" "user"
+              },
+              {
+                 "nme "Assigna rol",
+                 "actonye": "sig"
+                 "bect_tpe" "rle"           ,
+                
+              "nae": "Brws rles"
+                 action_type": "browse",               "ect_type "ro"
+           },
+             
+              "name": "Brwelints",
+               "acton_tye: "brows",              "obje_te":"client"
+            
+           {
+                  "name": "Readcles",
+           "action_type" rea",
+                  "objttype" "client"
+               },
+              {
+                "am" "Eit clies",
+                  "cio_type": "edi",
+               "bject_type""clent"
+             },
+                {
+                 "nam: "Ad cliens",
+              "ationype": "ad",
+                  objec_type":"lient"
+               }
+              {
+               "nme": "Delete cliens",               "ato_type": etry",              "obec_type: client"
+             },
+            
+               "ame": "Browe sbscrbers",
+              actiontpe": "rows,                 "oet_type": "suscib"
+            },
+              {
+               "am: Rad ubscribers",
+               "ion_type: "rea",
+                   "object_typ":"bscrer"
+             }
+             {
+               "nae: "ditsubscrbrs",
+              "ation_typ": "edit",
+             "obje_type: "sbscribe"
+              },
+               {
+                "name": Ad subscrier,
+               "actiny": "ad",
+               "objectype": "subscrer"
+                },
+              {
+                 "name": Dlte ubscribers                 "action_tpe" "destroy",
+                "ob_ty" sbscrber"          },
+            {
+                   "ame": Browse nvies",
+              tin_ype": "brows",
+                objct_tye" "ivite"           },
+               {
+                "nme": "Rd inies",
+                 "action_type":"ra"                  "objcttype":invite
+               }
+             {                  ame":"Edi ivies",
+               "tio_tye:"et"
+             objcttype: "ite"
+             },              {
+                 "nme" "Add invites"
+                  "action_type"add",
+                  ojecttype""vite"
+           }
+              {
+                "nme" "Dele iits"
+                  "action_typ" destroy",
+                obc_ype": "ivite"
+           },
+            
+                "ame": "ownloa rediects,
+                 "aton_ype" "download,
+               "obet_ype"rirect"
+             },             {
+                  "ae:"Uplo reiects"                 "actio_ty": "upload",
+                  "ct_ype": "eirec"
+              },
+               
+              "nam "dd weboks,
+               "ction_ype": "add",
+                 "object_y":webhook"
+          }            {
+                 nae": "Deletewbhooks",
+                "actio_yp":"desroy"
+              objecttype: "webo"
+             }
+           ]
+        },      {
+          "nae" "Ur",
+           "entie": [
+             {
+                 "id": 1,
+                   "me"hot",
+                "email": "hst@xample.com",
+                 "status "tive,
+                 "role: ]
+           ,
+          {
+                 i": "951fca36602ebd5def7",
+              "nme": "Ghost",                "mail"ghost-author@mpl.om",
+               "bo":"Yo can deletehis us to removeall te welcoe posts",                "satu": "actie",
+                 roles": Author"]            }
+         ]
+       }
+
+   ],
+    "reions": [      {          "from": 
+              "modl" "ol",
+           "mtch": "name",
+              "elio":"pessions"
+          },          "to 
+               odl" "Prmsion
+           "match":["oject_tye ation_type"]         },
+        "ntries":{
+         "Ainistraor": 
+                  "db": "all",
+                 "mal": "all",
+                    "noifiaion": "all",
+             "pst "ll"
+                 "stig": "al",
+                "s":ll,
+                  "tg: "all",
+              "he":"all"
+                   "ser": "a",
+                 "l": "all",
+               "client" "all",
+                 "sbscriber":"all
+               "ivit":"all,
+                "rediret": "all,
+                   wbhok": "all"
+              },
+              "ditor": {
+                 post": ll",
+                 sting": ["rowse", "d],
+                "slug": "all",
+                 "ag": "ll                 "ser":"l",           "role":"al",
+                liet":"all"
+               "scriber": ["dd"],
+                 inite": "al",
+                "thme": "bro"]
+            }
+             uthor": {
+            ot": ["bose", ead"add"]
+                etting": ["browe", "ea"]                  "slug": ll",
+               "ta": [browse", "red", "add"],
+               "user": ["browse "read"],                 "rol" [browse"],
+               cliet": "all
+                    "suscriber": ["add],
+               "theme: [brose"]
+               },
+              Contribuo": {                 "post": [browse "read", add"]                  "setting ["rowse", "read"],
+                 "ug": "al",
+                 "t":["browse""rad"],
+                "uer": ["browse, "rad"]
+              "roe" ["browse"],
+                   "cliet": al"                  "subscbr": ["d],
+              "he: ["brose]
+              }
+           }
+       ,
+        {
+         "from" {
+               "mel": "ost"
+               "mt": itle               "relatn": ag"
+           },
+           "to":{
+           model": "Tag",
+             "mt"name"
+          },
+        "entries": {
+             "Setng p yur ow hostthm": "Gettng tard",
+             "Advnced Markdown tips: ["Gettn Started,
+             "Makig your sie riv" ["Getting Stard"],
+           "Maagng Ghst uers": ["Getng Stred"
+          "Orgaisng our cotn with tag": [Gtti Sared"],
+          "Using he Ghst editor" ["Gettng Started"],
+              "elcome ohot ["GettinSarted"]         }
+       }
+       
+          fo": {            "odel" "User",
+             "match""id,
+             "relatio: "roles"
+            },
+          o": {               "mol" "Roe,
+             "ma: "nam"
+           },
+        "entries"
+              "1": ["Ow"]
+        }
+       
+   ]
+}

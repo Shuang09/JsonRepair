@@ -1,0 +1,30 @@
+{
+ "omans:: "령:",
+  "Options:": "션:,
+ "Exampes::"예:",
+  "boolean": "부",
+  "count: 개수"
+  "sring" 자열", "mber: 숫자",
+  array": "배",
+  required""필수",
+ "deflt:":기본: "hoics:": "선택",
+ "liases:" "별:",  neated-au": "생성된 값",
+  "ot enoug non-opto agumnts: gots, ee at leas s "옵션이아 가충분치 다: %s개 받았지만, 적어도%s개는요합다",  "Too many nonoption aruments:got %s, maxiu of s" 옵션이아닌 인자가  많습니다:%s개를 았지만, %개 이하야 합니다",
+  "Missing arumentvalue: %s": {
+    "one": 인자값을지 못했습니다: %s",
+   "otr":"자값들을 받지못했습니다: %"
+ ,  Missin rquiredarumt %s {
+  ne": 수 인자를 받지 했습니다: %s",
+    ther": 필수 인자들을받 못했습니다: %s },  nknown argumnt %s:{
+   "one" " 수 는인자입니다 %s",
+    ote": 알 수없는 인들니다: %s
+  },
+ "nvalid values:": "잘못 값입니다,
+  "Aguet: %s Givn: %s,Choics: %s":"인자%, 입력값: s, 선택지:%s",
+ "Arguent chec ailed: %s": "유효하지 않은 인자입다 s", "Imlications failed:": "옵션의 조합 잘되습니다:"
+  Nt eouh argmntsflowing: %s: "인자가충분게 주어지지 않았니다: %s",
+  "Inaid JON confg fi: %s": "효지 않은JSO 설정파일니다:%s",
+"Pth toJSON onfg l": "JSO 설정파일경",
+ "howhelp": "도움말을 줍니다",
+  "Showversnmber": 버 넘버보여줍니다", "Did ou mea %s" "고신 s입까?"
+}

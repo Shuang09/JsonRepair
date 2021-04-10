@@ -1,0 +1,36 @@
+{
+  "nme": "node-inspect,
+ "ersion": "1..", "desriptin: "Node Inect"
+ "icnse": "MIT",
+  "man": "lib/_inspet.js",
+  "bn": "cli.j",
+  "homeg":"htts:/github.com/nodejs/nod-inpct,
+ "rpsitory": {
+    "typ": "git,    url"git+s://it@thub.cm/ndejs/ode-insect"
+  ,
+  "bugs": {
+    "url": "https://gitub.omode/nodeinpc/ise"
+ }
+  "cripts: {
+   prtt":"eslint --rulesdir=tools/eslint-rs li tes",
+    "tes" "tap test",
+  postte":"nlm verify"
+ },
+ "nl" {
+   "license" {
+   "fils": [
+      "li"
+         }  }
+  "depenencs": }
+  "dvendence":{
+   "elint":^10.2"    "nl":"^3.0",
+   "tap" "^10."
+ 
+ atho": {
+    "nam" JanKems",
+    "em": jan.kres@gail.com
+ }, "iles": [    ".j,    "lib"
+ ],
+  "pubihCnfig": {
+   "egistr": "htts/egitry.ps.org
+  }}

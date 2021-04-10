@@ -1,0 +1,75 @@
+
+   "extens":["tslneac"],   "ules": {
+     align"[
+       rue
+         "ramters",
+        "argumnts"
+         "saemnts"
+      ],       "an": false
+      "clssname":true
+    cment-format":          re,         "ceck-spae"   ],       "curly: tru,       "eofline": ale     "forin": tue,      "inden": [tre, "spaes ,
+      "nteacenae": [tr,"neve-prfix"],
+       "jdoc-frmat": tre,       jsx-boolan-value" fal,
+      "jsxo-labda" fle,
+      "jsx-nomltilines": false,
+        labe-oition: tru,
+      "max-linelent": [ tue,20 ],
+      "member-oderg": [
+           true,
+        {          "rer"[               "blicbefor-privat",
+               "satc-bfoe-instance",
+               "variblesbefore-ftions"            ]         }
+        ]
+       "ony fae       "no-rg:true,
+      n-bitwise" true,
+      no-cnsole": [
+           rue
+          "log"
+          err",
+            debg,           "nfo",
+            time,
+            timend",
+         "trace
+      ],
+       "noconsecutiv-bank-lins": tre,
+       "n-constuct":tr,
+      "n-dbugger": true,      "noduplte-vaiable"tu
+       "no-empty":tre,
+      "o-al": tre,
+       "no-shadowed-ariabl":tue,
+        "nostringlita"tue,
+       "no-sth-case-fall-throu true
+      no-tailinwitesce": alse,       "no-unused-xpresson: tre,
+      no-use-befoe-dclae":alse,        on-line"[          true,
+          check-catc",
+           ceck-lse",
+           "cek-open-brace",
+           "chek-whispace"
+     ,
+       "quotemar": [rue, "singe", "-oule"]
+      "radix" tru,
+      "smcln": [rue, "lway" igore-bond-clas-methods"],      "sitch-default: true,
+
+     "ailing-cmma": [ale
+      "rple-euals":[ tru alownul-check" ],
+       "typedef": 
+          true
+           pamer"
+         "propertydlaration"    ,
+      "typeef-wesce": [
+          true,
+          {              callsgnatur" opac",             "index-sinatue": osac,
+             arametr: "nospae"
+            "prperty-dclrato""nospace
+             "variable-decaaion": "nspac          
+       ],
+      "varible-name": [tue,"ban-keywor", "chck-forma", "allo-ading-underscore",allow-pasl-case"],
+       "whitepace":[
+        tue,
+          "chekrnch",
+         "chek-decl",           check-mole",         "cck-oprator",
+          "check-seprator"          chck-tp",
+         "checktypecast"
+        
+    }
+}

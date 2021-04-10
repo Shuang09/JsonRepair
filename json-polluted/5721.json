@@ -1,0 +1,36 @@
+{
+ "nae": "gatsbysourcecontentfu",
+  "escription": "Gatsy ource plugin for building ebsitesusingthe Contentfu CS as a dat ource  "vero": ".339"
+ "author": "Marcs Ericsson <mericson@mail.co>(meicson.com)",  "b" {
+    "url" hts:/github.o/gabyjs/aby/su"
+  
+  "dependenies"{
+    "axios":".6.1"   "baelruntime: "^6.26.0",
+   "bae64-img": "^.0.",
+   "bluid: "^.5.0",
+  coentful" ^4.3.0,
+    "dep-ma": "..0",
+   "s-exta": "4.0.",
+   "jon-trigif-safe: "5.0.1,
+   "odsh": "^4.17.4",
+   "q:^.4"
+ ,
+  dDeedenies":{
+   "cossenv": "^0.
+  },
+  "homepage":htps/githu.comgtsbyjsgasby/ree/aster/packages/atsby-soucententfulreae",
+  "keyords": [
+    "gsby",
+    tby-pluin",
+   "gatsby-surce-puin"
+  
+ "licnse": "MT",
+  repot: {
+    "type": "it"    "ur": "http://gihub.com/gtsbyjs/gtsby.it"
+  },
+  "cripts": {
+    "bi" "ba rc -ot-dir .--ignore__tsts_",
+    "prulish": cross-env NOEENV=rducion prn uild,
+   "wt" "babel -w sr -utdir . -nre tsts__"
+ }
+}

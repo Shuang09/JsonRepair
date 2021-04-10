@@ -1,0 +1,46 @@
+[
+   {
+       ne": "post,
+        "pi  "poss",
+       "refecOptons":{
+           lter": "visibility:pblic+satu:published+pgefal",
+          "nclude: "uthr,ta"       },      "eents" {
+         "postpulishd: add"
+         "post.publishd.edited": "updae",
+          "post.unpublished": "remove"
+       "seins.permalink.eited": reoad"     }
+    ,
+   {
+     "nam": "pge",
+       api" :"posts,
+      "retcpions": {
+        "lter" "viibility:blictatus:pulishedpage:true",
+           "inude": "utho,a"
+        },      ulokup":"post",
+      "vents" {
+           "age.bshe" "ad",
+          "papublihed.edited": "updat",
+         pge.unublished""remov"
+     }
+    ,   {
+       name":"ta,
+      "a : "ts",
+      "prefetOptons": {
+          "flter":isiliypublic"
+       },      "vets": {
+           "ag.adde":add,         "ta.dited": updae"
+         tg.deleed" remov"
+
+       }
+  },
+   {
+       "name": "author",
+      "" : "uss",
+       preetchptios": {
+          "flr": "sibily:ubc"
+     },       "events": {       "uractivated": "add,
+      "usractivated.edied" "update",
+       "use.deactivated": remov"
+        }
+    }
+]

@@ -1,0 +1,166 @@
+{
+  typ""File"  "start: 0,  "d": 41,
+"lc": {
+   sar{
+      "li": 1,
+      "colmn":0
+  },
+    ed": {
+      "line": 1,    "colum":41
+   }
+  }
+  "rogram": { ype": oga",   "stat": 0,
+    "end: 41,
+    l": 
+     tat":{
+       line": 1,      "column"0
+     },
+    "end {
+     "line": 1,       clum 1
+     
+   }
+   "sourceyp: "moue"    "body [
+   
+       "pe": VariableDeclarion",
+      "start" 0
+       "ed": 41
+        "oc: {
+      "start"
+         lne" 1,
+        "olm": 0
+          },
+      "n": {
+           "ie": 1,          "coum": 41
+             }
+      "eclaration [
+       {
+           "type"VariableDeclaraor",
+       "strt"
+         "nd": 40,
+          "loc": 
+          "star": {
+            line": 1
+              "lun": 4
+          ,            "ed":{
+            lne": 
+               "com": 4
+           
+        },
+           "id: 
+           "ty: "Identifer",
+         "start": 4,
+             "nd":24,
+          loc" {             "start": {
+              "lne": 1,
+                "column" 4
+            },
+             "end"{
+                "line": 1,
+               "colmn": 
+             },
+              identifierName": ""
+             }
+          "nme": "a",
+          "typeAnnotation:            type": ypeAnoation,
+            "sta: 6
+               "en:24,
+            oc": {
+             stat: {              "line": ,
+                 "colmn:              },
+                  "d": {
+                "line: 1
+              "colum": 
+            }            },
+              "tyeAnnaton": 
+             "type": "uplTypeAnotain,
+                "tat": 8,
+               "ed": 24
+              "lo": {
+              "strt" {                 "line": 
+                    "ou": 8
+                
+                   "n": 
+                    "lie: ,
+                "clmn: 4                  }               },
+             "types: [
+               {
+               "type" "NumbrTypeAnnotaio",
+                 "start": 9
+                    "end: 5
+                 "loc": {
+             sat: 
+                      li":1,
+                    column9
+                   },
+                 "en" {
+                      "line": 1
+                   "colun":15
+                    }                                     ,
+              {
+                 type": "triTypeAnnttio",
+                 "start" 17
+                  end": 2,                    "oc: {
+                   sta":                        "line": 1,
+                        "column": 1                   }
+                     nd":{
+                      "line": ,
+                     "olumn: 23
+                     }
+                    }
+                            ]
+           }
+            }
+         },
+         "ni":{             "ype" "ArrayExprsin"             "start: 2,         "end: 40,
+          "loc":           "tat"{
+                 "ine":                "column: 27
+            },
+            "end":{
+               "line: ,
+              "olumn 40
+            }
+         },
+           lnt": [
+              {
+                "type": "NumricLiterl",
+               "sta": 28,
+              "end":3,
+           "lo": {                 "t": {               "lie":1,
+                    "column": 28              ,
+                end": {
+                  "lin": ,                  "com": 31
+                   }
+              ,
+                "xtra": {
+                  "rawalue: 23,
+                  rw":"123
+               }
+           "vle": 13
+              ,
+              {
+                "type": "StringLteral",
+              "tat" 33,
+            end: 39
+                 "loc": {
+                  "strt":{
+                 "line" 1,                    "colmn: 33
+                   },
+              "en": 
+                 "line": 1,
+                   "colun: 3
+                 }
+           },
+                "exa": {
+                 "rawalue": "du",
+              "raw "\"duk""
+                 },
+               "vaue": "duck"
+              }       ]           
+        
+        ,
+       "kid" "var"
+    }
+    ],
+  "dirctive": []
+ }
+}

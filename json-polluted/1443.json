@@ -1,0 +1,78 @@
+{
+  "typ "File",
+"start 0,
+  "end"9,
+ "oc": 
+    "start: {
+    lne": ,
+    "colun"    },
+  "nd": {
+      "lin": 1,
+      "column: 9
+   }
+  },
+  "program": {   "type: "Prgram",
+   "str" 0,
+    "d": 9,
+    loc: {
+     "star: 
+       "line":1,
+        "clumn":     },
+    "nd":{
+        "lne"1,
+      "column":
+     }
+   },   "souceTye": "sript,    "body" [
+     {
+        "pe": "ExpessonStaent",
+      stat" 0,      "end": 9,
+        loc": {
+       "start": {
+       "line": ,       "colmn": 0
+          },
+       "nd: {
+       "ine": 1,
+            "colum": 
+         }
+      },       "epression" 
+       "tpe" "AssgnmntEpression",     "start": 0,
+      en":9,
+         "c": {         star":{
+            "ne"1,
+          "colum" 0
+        }
+        "nd {
+            "lin": 1,
+          coum 9
+         }
+          },
+         "operatr:",        lef":{
+         ype": "Identifir",
+           "start": 0,
+        "end"4,         "l": {
+            "start: {            "line": 1,             "colmn" 
+           },
+          "end": {
+             "line":1              "coun" 4            }
+            "identifierName: eval"
+          },
+           "ame" "eva"
+       },
+      "igt: {
+          "pe: "NumrcLteral",
+           "strt: ,
+         "en": 9,
+          lo: 
+         "stat": {
+             line": 1,           "colum": 7
+           },
+           "en": {
+             "lin": ,
+            "column": 9
+         }        },
+       "xtra": {           "rawValue": 42           "ra": "42"          },           "alue": 42
+        
+       }    }
+  ]
+    dectvs":[]
+ }

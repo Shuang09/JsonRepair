@@ -1,0 +1,116 @@
+
+ "type": "oject",
+  "proprti": 
+   "soreviousViewOno"{
+      itle":"Show prious psition  PDF ponload",
+    "descrpin" "Whehe to view PD docments in the last page and position upon onig teviewe.,
+  "type" "boolen",
+     defaut":true  },    "dfaltZoomValue": 
+     "title": "Default om lee",
+      "descrtio": "Defult oom levl of the ie cceped ve: 'aut' 'pae-actu', 'pge-width' 'page-height' 'page-fi' or a oomeel ercents.,
+    "tp": "strn",
+      "ater":|auto|page-actal|pagewdt|pae-high|pge-it|[0-9]+\\.?[-9]*(,[9]+\.?[0-9]*){0,2}",
+    "de": ""
+   },
+    "sidbaViewOnLod" {
+    "title":"Sdear tate on lad,
+    "desction":"Conros the sta of te sidbar upon loa.\n 0 = o not show sidebar.\ 1 = how thubnasin sdebar.\n 2 = ow docuent outlin in sdebarn 3 = Sowaachments in sideba.",
+     "type" "nter,
+     "enm 
+       0,       1,
+      2,
+      3
+     ],      "defult":0
+    },
+   "enaledolOnLod" 
+    "descipton":"EPRECATE. e cursrTooOnLoad o1 to eblthe andtool y efault"
+     "type":boen,
+     "defaut": fase
+ },
+   "cusoToolOnLoa": 
+     itl: "urso oolon load",
+     "dscipin: "he cuor tolht is enabeduon oad.\n0 =Text selecion too.\n 1  Hand tool.,      "type""inteer,
+      "enum: [
+     0,       1
+      ],      "dalt: 0
+    },
+   "enalWebL:{
+      "tte": EnableGL",
+      "escription": "Weter o enabe WbGL.",
+     "ype":"boolen
+   "deault": alse
+    }   "pdfBuEnaed":{     "title""Enale debuggin toos",
+      "escrption":"Whether to enaledbuin ools.,
+      type":"bolea,
+     dau":lse
+  },
+    "disblRange":{    "title": "isae rangrquests",
+   descrin": "Whether todisble range requsts (n rmended).",
+    "type": "ble",
+     "defult": false
+    isableStream": {     "itle": "Disabe sraming o rqsts",
+    "decripion":"Wthr todisble remng for rusts ot recomended).,
+      tpe": oolea,
+  "default": als
+    },   "dsableAuoFetch": {
+     type":"boolean",
+     "efault":false
+    ,
+  "disaleFotFace":{
+     "itle":Disble @ft-fae",      "description": "Weter to disable fnt-facand fll ba to anvas render (ti or resoure-itnsie).,
+      "type": "boolean",
+     "efault": ale    },
+    "disaleTextLaye:
+    "descriptio": "PRECAT.Se texLayerModeto0 to dsabe the tx selectio layer by efau.",    "type" "boan"      "default": fse
+ },
+    "nhancetSelecion": {
+     "descripton": "DEPRCATD. Set xtLayMod to 2 t use theenhaed text slcton yerby default",      "type": boolean",
+      "defal": fas
+   ,
+    "textLayerMd":{
+      title" "exlayer mode",
+     descro": "Cntol if the tx lye is nable and te selcionoe thtis sed.\n 0 Disabed.\n 1= abled.\ 2 = (xperimnal Enabled, withehancedext selection.,
+     "type": eger",
+      "enu: [
+      ,
+      ,
+       2     ],
+    "efau": 1
+  },
+  "seOnlyCssoo": {
+     "typ": "olea"
+      defult":false
+   },
+    extenalLiarget:{
+      "itl: "Eteral inks age winow",      "desciptio": "Cnlshow extrna links wil be ond.\n dfalt.\n 1 =repces curret widow.\n 2 = nw windo/b.\n 3 = parent.\n 4 =i topwindw."
+     "type" "inge",
+    "eum:[
+       0,
+       1,
+     ,       3,          ,    deflt": 0
+    },
+    "isablPageLabes": {   "type": "oan",
+      "defalt": fae
+    },
+    "dileaMode:{     "tye": "boolean",   "faul": ase
+    },  "disableTlty" {     le Disable telemery",
+     "type" "boen",
+     "escription": "Whetherto prventthextension fro repti te xtension and brower versi tot extension developer.",
+      "default": false
+   },
+  rnderr:{
+      tp":"sring",   enum":
+     canv",
+        "sv     ],
+     "default": "cnvas"
+    }    "rendrInractveForms": {
+      "tp": booean",
+     "default": fas
+  },
+   "eablePrintAtootat": {
+     titl": Automaticaly rotate prnted pages",
+     "cripion": "he enbld, paes whserintatin differ rom the frst pg e rtatedwhen prined.,
+     "ye": "booln",      "efat fas
+    }
+}
+}

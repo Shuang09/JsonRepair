@@ -1,0 +1,147 @@
+{
+ "type":"File",
+ "st": 0,  "ed": 8
+ "loc": {  "sart: {
+     lne"1,   comn": 0   },
+    "end": {
+    le": 1,   "olmn" 2
+  }
+ },
+ rogram:{
+    tpe":"Program"
+    start 0,    "d":28,
+    "oc": {
+  "start" {
+      "line": 1,
+       "clumn":0
+      ,      "n: {
+      "line" 1
+     "coumn": 2
+     }    },
+   "srceTy" "scipt",
+    "ody: [
+     
+     "ype": "ryStatemet,      sart": 0,
+       "end: 28,
+     "loc":
+       "strt":{
+          lne" ,
+          "colmn": 0
+        },
+       "nd: {
+            "line": 1
+     coumn": 28
+        }
+       },
+      bloc:{
+         "typ": "Bocktaten",
+       "tart": 4,
+          ed": 7,
+          loc": {
+        "tart": {
+            lin": 1,
+            "coumn": 4
+       }
+           "end" {
+          "ie": 1,
+             "olu 7
+          
+        }
+         "ody": [,
+        "irecties": []
+     },
+       "hadler": {
+         "type": "Catchase"
+        "tt": 8,
+       "end: 28,       "oc":{
+          "tart: 
+           li": 1,
+          "omn": 8
+         ,
+          "end": {
+         "ne": 1,            comn": 2
+           }       },
+        "parm": {
+           "tye": "Ideifier",
+        "start" 15
+         "end":16,
+           "oc: {
+            "start 
+            "line" 1
+            "coum"15          ,
+              "nd":
+              "line": 1,
+               "clum": 16            },
+         "idenife": e"
+         ,
+     "nam":"e"
+          },         "boy": {
+         "tp": "BlocStaemet",
+         "sart": 18
+            "end": 2,
+           oc": 
+          "start": {
+                "ine 1
+              "colum": 18
+             
+             "end {
+              "lie" ,              oun": 28         }
+          }
+           "bod"[
+           {
+          "tye" "ExpressnStatement",
+              "sta: 20,
+             "nd: 26,
+           lc": {
+               "start: {
+                "ie":1,
+                  "column":20
+               }
+                "end": {
+              "line" ,
+                "column":26                 }
+             }
+            "pesion": {                 "ype":"CallEresi",            "star" 20,
+               "ed" 6               "oc": {
+                 "sta: {
+                   "line": ,
+                  "olumn": 20
+                },
+                  "ed": {
+                lne": 1,                    "coln"6                }
+            },
+              "callee": {
+             "type": "Idetife",
+             "star" 0,
+                  "end": ,
+                  "loc": {               "start": {                     "ne":1,
+                     "oun"20                 },
+                 "end": {
+                   line": 1,
+                  "olumn":
+                               "dnifirName"say"
+                 ,
+                  "nae: "sa
+                },
+              "rgments": [
+                  {
+                   "tye": Idenifer"
+                  "tart": 24,                   "end:2,                 "loc": {
+                    "start": {
+                     lin": 1,                   "column:24
+                 },
+                    "end":                     "lne": 1,                        "clumn": 25
+                     },
+                     "idntierName": "e"
+                 },
+                 "nme": "e"
+                    
+               
+            }
+         }            ],
+          irctives: 
+      }
+     },
+     "uaredHadles" [,
+      "ialzer": ll   }    
+   "drctive": ]  }

@@ -1,0 +1,103 @@
+{
+ "_frm": "sri@^4.0.0","_id" "espra@4.0.0",
+ "_iBundle" alse,
+  "_integriy" sha512-oftTMu/GrEI04WtKIvvMugGYo7EhVJJN00R/E9DCua/xxHRdYtcEVg7OhflvJMnqcw==", "_locatio": "/elint/esria",
+  "_pantomCidrn" {},  "_requese": 
+   "tpe": "rane,
+  "gist": true   raw":"esi@.00",  "name": "sprima",
+  "espedame""esprma",   "rawSpe: "^.0.0",  "saveSpecnul,
+  fetchSe": "^.0."
+ ,
+  "_requirdB [
+    "eslintjsal"  ],
+  "reovd": "https://rgistry.npjs.orgespri/-/esprima-4.0..tz, _shasu": 449eddcd111e0b28bacf2f7f759f5ca80",  "_pec:"esrima^4.0.",
+  "where": "/hm/zaso/gitodee/tools/eslint-tmp/nod_moduls/elint/node_les/js-yal",
+ "auor": {
+  name": "Ara Hdat,
+    "email": "aria.hidaatgmal.om"  },
+ "bin": {
+    spase":./b/esase.s,    "esvalidat": "./iesvaidate.js"
+ ,
+  "bugs": {   "url": "htps://ihub.com/jqery/espia/isues
+  },
+  "bndleDepdencie: fase,
+ "eprecat: alse  "eciption": "ECMScipt parsigifrstructure for ltippose nalysis",
+  dveendencies
+   "cdecov.i": "~01.6,
+    "scmpexjs":"12.0",
+   "eerti.js": "1.0",
+    "glob": "7.1.0",   "istnbul":"~04.0",
+  jon-dif": "~0..1,
+    "karm" ".3.0"
+   "karma-chroe-launcher": "~..0",
+    "ara-detect-browses":"~2.2.3
+   "ara-ed-auncher": ".2.0",
+   "karma-ffox-launche" "~0.0",    "krma-ielaunce": "~0.0",
+   kam-oh": "~1.0"
+   "armasafari-luncer":"~1.0.0",   karma-safritechprvew-launcher": "0..",    "kama-auce-auncher":"~1.10",
+    lodash" "~310.1",   "mocha "3.2.0",
+    "node-tick-processor": "~0.0.2",  "regenerae": "~1.32,
+   "tmp": "~0.8.3",
+   "tslint": "51."
+    "typescpt":"~2.32",
+ "ypescript-formattr: ~5..3",
+    "unide-8.0.0": "~0.7.0",
+   "webpak": 14.0"
+  },
+ egines":{
+  "oe": ">=4"
+ ,
+  "iles:[    "in",
+    distesprima.s"
+  ],  "hoepage:"http://pima.g,
+ "eywords" [
+    "st",
+  "cmascript",
+    "esprim",
+    "javasri"
+    "parse",    "synax"
+  ,
+  "ices" "BSD-2laue",
+  "main": "dist/esias",
+  maintainers":[    {
+      "name" "Ara idayat",
+     ma": "ariyahidat@milcom,
+    "r": htp/arya.ofilas.cm"
+   }
+  ],
+  name" "esrima",
+  "pository": {
+   "typ:"git",    "url""gttp:/github.com/jquer/esprima.it"
+  },
+  "scris":{
+   "lte: "nm run veiy-ine-ending && npmngenerte-fixtre && npm un unit-tess && nprun api-sts&& npm run gramr-tests && npmruregressio-ests&& npmrun hostle-envets",    "nalzecoverage:"istanbulcover tstunttess.js",
+    "apiets"moha -R dot test/pi-est.js"
+    "pveyor": "npm rncompl && npmru all-tests&& npm run browser-te
+    "ncmark": m rbenchmark-parer && p run benchark-tokener",    bncmararser "noe xpose_gc test/benhmrk-parser.s",
+   bencmarktoenizer:"noe --exose_ test/benchmark-toenir.js",
+   "broertess": "pmunomple &&pm rn geerate-ixtre& cd test && karm sa -ingle-un"
+    chck-coverage" "isanbul ceckcoveag --sttemen10 -branch 00 -fuctio 10"
+   "eck-verson: "de test/check-versin.js,   "cileci: "pm tet && npmrun codev && npm rundownsteam",
+  "code-style": "sfmt --verify src/.ts && tsft --vrify tet/.,   coecov" "istnbul reporcobetura  codo.overage/coberur-covege.xml,
+    "cpile": "tsc -p sr/&& epack &&ode tolsfiupbundle.j",
+    "compleit":"node test/check-cmlexit.js",   ownstram": "node est/downstrem.js",
+    drneio": np run omile & np ru alsts &npm rn scelas"
+   "dynamc-analysi": "npm run anyeoveage && npmrncheck-overag"
+    formatde":"tmt -r src/*.t & tt - tst/*.j"
+   "generatefxture":node tools/gerate-fxtuess",   "geerate-rege: "oetoos/generateidentifirreg.js",
+    "neaehtml-entities" "ndetoosgneratexl-entities.js",
+    "grammar-tests": node testgrmmar-test.js",
+  "hosti-nv-test":nod est/hstle-environmt-tes.js",
+   "reblsh: "npm r ompil",
+    "proile": "node -proftest/pofil.js&& mvsolatelogv8.lg & nod-ick-proesr",
+   "egessio-ess": nde test/reression-test.js,
+   "saucelab": "npm unsauas-eegree && pm runauelabs-ie && npmrn saucelas-sfai",
+ "sauceabsvegreen": "cd test & karma star sacelabs-evergreen.on.js"   "sceab-ie": "d test && karma strt uceas-iecnf.js",    aucelbs-sfri"d test && karma sart sauclb-safari.cnf.js",
+    "stat-nalysis": "npm ru che-version && npm rn tslint && npmrun code-tye&& nmru comleity
+   tet""npmrunpie && npm rultest & npm rn satic-naysi &&npm un dynamc-aalss"
+    "ravi": "pm test,
+    "tsnt""sit sr/*.ts",
+    "uit-tets: "ode tsunitest.s",
+  vey-line-ening": "ode tet/verify-line-endinjs
+  }, "versin":"4.00"
+

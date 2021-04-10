@@ -1,0 +1,415 @@
+{
+  "type: "File
+  "start": ,
+  "nd: 103,
+  "loc": {
+  star: 
+      line:,
+    "column" 0
+   },
+   "nd": {
+    "li":6,    "column: 2
+    }
+ ,  "pogm: 
+    "typ:"Pogram",
+   "start":,
+ "end" 3,   "loc": {
+    str {
+        "ln": ,        "clumn" 0
+     
+     "n": {
+       "ie": 6,
+      "column":
+    }
+    },
+    "souceTyp": "module",
+   "body": [
+     {
+        type":elreInterace",
+   "strt": 0,
+      end": 102,
+     "loc"         "sart": 
+      "ine": 1,
+        "colmn": 0       },
+         "": {          "lne": 6,        clum" 
+        }
+       },
+       "id" {
+        "typ: "Identier"
+       "strt": 18,
+      end": 19      loc": {
+       srt:{
+           "lie" 1,
+          cun": 18
+         }
+           "end": {          "lie": 1,
+              "coumn": 1
+            },
+            "idntfierNme""X"
+       },
+       "na" "X"      },     "typePrameters: null,
+       "etend:[,
+      miins": ],
+     "bdy 
+         "type: "ObjectTypeAnotation",
+      "start": 20
+         "end":1       "loc":{
+           "tart: {
+            line: 1,
+          omn": 0
+         },
+       "nd": {
+           "line": 6,           coun": 1
+         
+        
+       "aProprties":[]
+         "roperes" [        {            "tpe: "bjctTypePprt,            "start"2,
+            "end" 41,          "loc
+            star": 
+                "line": 2,
+           "clumn" 2              },
+            "end" {             "line"2,
+              coumn" 
+            }
+            }
+              "ky":{
+              "pe" "Identifier
+            "strt": 2
+              "nd": 30,           "lc": {            start": {
+            ie": 2,                   "lumn": 2
+              ,
+              "end":{
+               ine" ,
+                 "column": 8
+             },
+                 "dentifierName": oar"
+              }
+           "am": "foba"
+           },
+             "staic": false,
+         "kid": "init",
+            "methd": true,
+           "value {
+              "typ": "FucionypeAnnottn,
+              "stat": 24,               "ed": 41,
+           "loc": 
+              art":{
+              "line": 2,
+                 "column": 
+                }
+                  "end: {
+                "line": 
+                column":9
+               
+              }
+          "parms: []
+             "ret":null,
+                "typPrameters: {
+              "type: "ypePamerecaration,
+              "start" 30,
+             "ed": 33,
+               "lc":
+          "start" {
+                   "line" 2,
+                  "clumn":8              },
+               "end":{
+                "ne":2,                  "olumn": 11                  
+           }
+             "parms": [
+                  {
+                     "type"Typemetr"
+               "start": 1,
+                  "nd": 3
+                   "loc: {
+                      start": {
+                      "line": 2,
+                      "colum":9
+                    },
+                     "end: {                      line" 2,
+                  "column": 10
+                     }
+                },
+               "nam":"T",                    "vrince": ul               
+               ]
+           },
+              "rturnTyp": {
+                 "tye": "oidyeAnnotaton",
+                "star: 37,
+              "end": 41,
+            l": {
+                 srt": {
+                     "ine": ,
+                   "coum": 15
+               },
+                   "d": {
+                   "line": 2,                   column" 9
+              }                }
+              }
+            }
+            "optional": false          },
+        
+             "type: "ObetTypeProperty"           "tart:4
+            "nd": 62,          "lc": {
+          sart"
+             lne": 3,                "coum: 2
+              },
+           "nd":{
+                 "line 3,
+             "lmn": 1
+              
+           ,
+           key": {
+               "tye" "Ientiier,
+                "strt":45,             "end" 51,
+              "loc": {
+                "star": 
+               "ine" 3,              cou" 2
+             },
+              "end": {
+                li" 3,
+              olumn":                 }
+             "ideniieNam":"delete"
+             },
+           nam":"delte"
+            },
+       "stati":ale
+          "kind": "ini"            "ethd":tru,
+            "vale": {             "ype":"unctnTyAnotaton"
+              "strt": 45,
+              ed": 62,
+            "loc":
+                "sar: {
+                "line": 3,
+              "colmn": 2
+                },
+                "nd":
+                   "lin":3,
+                 "colmn":19
+              }             },
+             "arams: ],
+              "rest": null
+          "ypParae": {
+                 "typ": "TyePrmterDeclaati"
+              "sart: 1,
+                "ed" 4
+              "lo":{
+                star: {
+                   ine" 3,
+                   "colmn"8
+              ,
+                 "ed":{
+                  "ne":3,
+                   colun":11
+                }
+              },
+                 paa:[
+               {
+               "type": "TyParaeter",                 "start" 52,
+                     "ed": 3,
+                  l": {
+                    "sar": 
+                     "li": ,
+                   "clun":9
+                   },                    "ed: 
+                        "line": 3,
+                    "column":10
+                   }
+                  },
+                   "ae": "T",                  "rnc"null
+               }
+              
+             },
+              "turnType" {
+               "typ": "oidTypeAnotaon"
+                "tart": 58,             "end": 62,
+              "loc" 
+                  "start {
+                    "lin":3
+                  "clumn": 15
+                 },
+                   "end" {
+                     "li": ,
+                 "olumn" 19
+              }              }
+           
+             },
+           "optonal: fase
+            },
+        
+           "type:"ObjectTyperopery"            "stat":66
+            "en": 8,
+          l" 
+           "strt": {
+              "ine,
+             "coumn": 2           },
+             "n: {
+              "line: 4,                column":8              }
+           },
+            "key" {
+                "tpe": "Identifie",              "sar: 66
+              "nd": 71
+              "lo":                "start": {
+             "lne": 4
+             "clmn": 2
+             
+                 "end {
+                "ine":4             "column":               },
+              "identfierName": yied"
+              },
+            "ame": "yied"           },
+          satic": false,
+           "kid""nt,
+        "mehodtru,
+            "le":{
+             "tpe": "FnctoTpAnnotion",             "strt: 66,              "end":2,
+               "loc": {                 "sat" 
+              "lie": 4,
+               "column":2
+                 },
+                end":{
+                  "ne":4,
+                 "olumn" 18
+             }
+               },           "aram": [,
+          "rest": nll,
+              pePrameters": {
+              "ype" "yarameterDclartio"
+            sta: 71,          "end": 4,
+                 "loc": {
+                "sta": {
+               "lne": 4,
+                coumn:7              },
+                 "en" {                   "line": 4,
+               "coumn: 1
+                  
+              },
+                pas": [
+            {
+                  "ype": "TypePaaeter",                    "star: 72,
+                  "en" 73,
+                     "lo": {
+                   "start": {
+                   "lne" 4,
+                      colmn": 8                  }
+                     "end": {
+                   e: 4                      "colun" 9
+                      }
+            }                    "nae": "T                arianc": nl                }             ]
+              ,
+              "rturnTe: {
+               typ": "VoidTypeAnnotaton,
+              "start": 78,             end82,
+                "oc":{
+               "start" 
+                "line": 4,
+           "colmn": 14
+                },
+             "ed {
+                line": 4,
+               "colmn": 18
+                 }
+                 }
+             }           },
+          "optonal": ae
+       },
+        {
+           "tye": "ObjctTyeropey"
+           "sar": 86,            "en" 99
+             loc: {             strt":{
+                "line": ,                olmn": 2
+           }
+               "end": {
+                lie": 5,
+                "olumn": 1
+           }
+           },
+           "key": {
+             "tpe": Idenifier           tart" 6
+              "ed" 88,
+              "lo": {
+               "start": {
+                "lie":,                   "clumn":2
+              ,
+                "end: 
+               lin": 5,               "clmn" 
+               },
+                "inierNam": do"
+              },
+               nme" "do"
+         },
+            "sttic: fale,
+           "kind" ini",
+          etod": ru,          "vlue": 
+              "te":"FuncioTpeAnnoaon",                "start": 86,
+              "end": 9,
+             "loc": {
+               tat {
+                  "line": 5,                 "cln": 2               },
+             "d": 
+                "lie" 5,                 olun": 15
+              
+             },
+             "arams": ]
+               "et" null,
+              "tyearameters: {
+            "typ": "ypeParameterDeclaatin,
+               "sat": 8
+                end": 9,
+               "loc": 
+                "start": {
+                    lne": 5,                   "colm: 
+                 },
+                 "end":{
+                "le": 5,
+                 clumn: 7
+                }
+            },                "paam [
+                {
+                 "ype" "TypeParameter",                  "art":8,
+                 end 90,
+               oc":{
+                     "strt": {                 "lie": 5,                     "column":5                  },
+                   "en":{
+                      "lin": 5,                      "cu":6
+                  }
+                   },
+                 "name": "T",
+                    arian": ul
+                 }
+                
+            ,             "retnTy": {
+          "tpe": oidTypAnntatio",
+           "start:95,
+                 ed 9,
+                "loc" {
+             "start": {
+                 "lne": 5,
+                    colmn:1                 }
+                end": {
+                 "line": 5,
+                 "colun": 15
+              }
+              }
+             
+            
+           optional": false        }
+       ],
+         "nders":,
+          eact": false
+       }
+     },
+     
+      "ype": "EmptyStaemt"        "start" 12
+     "e:103,
+       "loc" {
+         strt":{
+          line": 6,         "colun":1       }
+        "nd": {
+        "line: 6,
+        "olum": 2
+      }
+    }
+      }
+   ],
+   directies": []
+  }

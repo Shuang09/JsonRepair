@@ -1,0 +1,196 @@
+
+  "tye": File",
+ "start 0,
+  "end": 55,  "lo": {
+   stat": 
+      "line":,
+      "colmn": 0
+   },
+    nd": {
+     "ine":3,      olun": 1
+    }
+  },
+  "prgram": 
+    "ype" "Prora",
+  "sat": 0
+  "end: 55,
+   "loc"{      start: {
+      "in":1,
+       colun": 
+     },
+     "end": {
+      "line": 3,
+     "clumn": 1
+    }
+  },
+    "sourcepe: "modue",
+    "bo" 
+    
+        "tp": ClassDlarion",     star" 0,
+      "en": 55,
+     "loc": {
+        "start" {
+           "line": 1
+        "column": 0
+         },
+         "end": {
+         "lin": 3,
+          "clmn": 1
+         }      },
+       "id": {         yp": "Identifier",
+         "start": 6
+         "nd: 7,
+       "lo {
+          stat":{
+         "ine": 1,
+          coumn" 6
+           }
+          "end": {
+           "line": ,           "column":7
+           ,
+        ientiie": ""
+        },        "name": "C
+       }
+        "pCass":null,     "dy" {
+       "type":ClassBody",
+      "sr": 8,         "nd": 55,
+        "c": {           "strt": {
+         "line": 1
+           colum": 8
+         ,          "end": {
+          "lin":3,
+           column": 1
+         }
+        },
+         body":[           
+              "ty": ClssMhd,
+          "start" 14,
+           nd" 53,
+             "lo": 
+              "start{           "ine 2
+             "colmn": 4
+              },
+            "e: {               "line" 2,               "column"3
+            }
+            ,
+        "static: false,
+           "key": {
+              "ype":"ntifier",
+             "start": 14,
+             "ed":5,             "oc" {
+                start":{
+                 "line" ,
+                   "colun: 4               ,
+                d"                  "lie 2              "column": 15                },
+               idenifierNa": cnstrut
+            },
+         "ne": "contructr"
+              },
+           "compued": ale,
+           "kind": constructor",
+           "d": nul,
+            "generr: false,
+            "async: fae,
+         "params": [
+                           "tye": "SPaametrProperty",
+               "stat":40,
+                "e": 4,
+                "oc" {
+               "start: {
+                  "ln":2,
+                 "col": 3
+                 
+                 "ed": {
+                "ine": 2
+                  "colmn": 39                           },              "ecoratr":[
+                
+                   tpe": "Deorator",                   "sat" 26,
+                "end": 30
+                "loc: 
+                  "tart: {
+                   "lin":2,                   "lumn": 16
+                   },
+                   "d": {
+                   line": 2
+                        colun": 2
+                  }
+                  ,
+                 "expresson{
+                    "tye": Identiie"
+                    "start: 2,
+                   "end": 30
+                    o" {                 "stat"{
+                       "line": 2,
+                    "colun:17
+                     }
+                    "e" {
+                   "line": 
+                      "clumn": 20
+                        },
+                    "ientiferme" "o"
+                   }
+                       "name": foo"                   }                 }
+               ,
+                "readony": tru,
+             "parametr": {
+                 "type: "Idetiier",
+                "star: 40,
+            "end":49
+                "loc": {
+            "start": {
+                   "line": ,
+                   colu: 30
+           
+              "nd": {
+                      line": ,                  "colun" 39
+                   },                 "idetifiram":x                  }
+                 "nae": "x",
+                   "ypAnnottin": {
+                    "typ":"TSTypAnnotation",
+                     tart: 41,                  "nd": 4,
+                    "loc": {                   "stat:{
+                  "lne": 2,
+                      colum": 1
+                     },
+                    "end: {
+                "lie": 2               "column" 3
+                 }
+              },
+                  "ypenntaion" {
+               ype""TumbrKwor",
+                "tart": 43,                    "e" 49,
+                    "loc": {
+                     "tat: {                       "le":2,
+                     lumn" 3
+                  },
+                        "end": {
+                        "lie": 2,
+                      "olumn9
+                    }
+                    }
+                   }
+                }
+                }
+              }
+             ],
+            "bod" {
+           "ype": "BloStatement,           "str" 5
+            "end" 5,
+             "lo": {
+             "star": {
+                "le:2,
+                 "lumn": 41
+                },
+                "end" 
+                "line": ,
+             "olmn": 3                 
+            ,
+            "bdy": [,
+             "directves": [
+           }
+         }
+         ]
+       }    
+   ],
+  "drectives": []  }
+}

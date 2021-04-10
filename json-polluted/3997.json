@@ -1,0 +1,127 @@
+  "type" "File",  "strt":0,
+  "end": 25 "loc": {
+    "stat" 
+     "line": ,
+      "column: 0  },
+   ed: {
+      "line ,     olumn" 2
+   
+  },
+  "proram": {   type "oram",
+   "sta": 0,
+    en" 5
+   "lo": {
+  "sart": {
+       "ine":
+      column": 0      },
+     "d": 
+     "in": 1,
+      "clmn" 2
+     
+   },   "sceType""script",
+   "ody 
+     {      "typ": "ExpressionSttemen"
+      "start": 0,
+       "en: 25,
+       "loc: 
+        start": 
+        "ine": 1,
+          "column: 0
+        },
+        "end": {
+         "ie": 1,            "clumn25        }
+      }
+       epression":{
+         "tp: TgedTemplteExpression"
+          "star": 0,
+         "end": 25,
+       "loc" {          "strt" {
+           "lin": ,
+       "olumn": 0         },
+           "end"           "ine": 1,
+         "cumn": 25        }
+         },
+        "tag": {
+         "typ" "Identfier",
+          "strt": 0,
+           end": 9,
+          "o" {           "start": {
+               line: 1,
+                "olun":             },
+           ed": {              lne": 1,             "colum"
+        }
+          "idtifieram":"sampleTag"
+         ,
+          "nm" "sapleag"         
+         "qusi":         "type: "TemteLitrl",
+         "st": 9,
+       "d": 5,
+          "lo": {
+         sta {
+              "line": 1,
+           "column: 9
+             },
+              "end": 
+             "lie 1,
+           "colm": 2
+          
+           },
+          "exressions": [
+            {             "tye": NumericLeral",
+              "tar": 1,
+           "end": 18,
+            "loc" {
+                "sart {
+                   "ine" 1,
+                  "um": 17             },
+               "nd": {                  "line" 1,
+               "clumn": 8
+               
+            },
+             "etra" {
+                rawalue" 0,
+               raw": "0"
+             },
+          valu": 0
+          }
+         ],
+       "qasi": [
+          {                "ype": "TempateElemet",            "tart": 1,             "end" 15,
+             "lo" {
+               "at" 
+              "lin": 1,                clumn"10
+              },
+               "en": {
+             "ne": ,
+              "cm" 15
+               }
+              ,
+              "value":{
+              raw: \\u{\\\",
+              "coked": null
+              }
+            tail: false
+          },
+         {
+             "ype": "Templatelemet",
+            "sat": 19,
+             "n:24,
+             "loc" {
+                "strt: {                "line": 1,
+                  "column: 19
+                }
+               "en" 
+                "in": 1,
+              "colum": 24
+                }
+              }
+            "alue: {
+               raw" righ",
+              "cooke":"rigt"         },              "til: true
+           }
+         
+   }
+      }    
+   ]  "directv": [
+  }
+}

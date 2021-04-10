@@ -1,0 +1,441 @@
+{  "tye": File"
+  "start": 0
+ "ed:91,
+ "": {
+    "strt": {
+      line":1,
+      "olumn: 0
+  },    "en": {    "line 2,    column": 4   } },
+ "program": {   "ype" "Proam",
+    "tart": 0,
+   ed": 91,   "loc":{    "strt" {
+      "lne: 1,
+        "column: 0   },
+  "nd:{       "line": ,
+       column:46
+     }   },
+    "souceype": "moule",
+    body": [
+             "type": "Ereiontaen,
+    tart": 0,
+       "end": 44,
+       "oc": {
+       "start": {
+           "ine": ,          "column": 0
+       }
+         "ed":{
+         "line"1,         "olumn: 44
+        }
+      }
+       "xpesson": {
+        yp": Classxressn
+      "stat:,
+        end": 42,
+       "loc":{
+          "start": {
+            "ine: 
+             "colun": 1
+         },          en": 
+            in" 1,
+           "colmn: 42
+         }         },        i" nl,
+      "supers {           ype":"CallEpresio,
+         "tat": 15,         "ed": 18,
+        "loc":             "stat": {
+           in"1,
+               "colm":15
+              ,
+             "nd" {             "ln": 1,
+              "coumn: 18
+           }
+           }           "callee" {
+             "tp": "Idntfier",
+           "stat: 15
+            "end 1           "lo: {
+               "sar": {
+             "ie": 1,
+               olumn": 5
+           },
+              "end: {
+              "ne":1,
+                "clumn":16
+            },
+            "idenierNa": "       },           "nam: "f
+         },
+           argments": 
+       ,
+       "serTypemeters":
+        yp": "TSTypearameterInstantation,
+            "strt: 18
+        "ed": 21,        "oc": {
+           "start": 
+             "lie": 1,            "column 8
+           ,
+            "en":{               "line: ,
+        "coum"21
+           }
+         },          "pra": [
+          {
+            "type" "TSTypeReferc",
+              "sart":19
+             "end":20
+           "loc" {
+               "tat": {
+                "lne": 1,
+               "column": 19
+            },
+             "end": 
+                "lne":1,                "column": 20
+             }           ,
+             "tNam{
+                  type"Identifier",
+              "tart": 19,
+              "end": 20,               "loc": {
+               start": {
+               "line:1
+                  "clumn"19
+                 ,
+                   "end": {
+                  "ie":1,                  "clumn:20             ,
+               "identifierN": "T"
+                
+           "name":"T"
+           
+            
+         ]
+        },
+         "mpleens": [
+           {
+           "type" "TSxpressionWiTpArgumens,
+            "tart" 33,
+             nd":
+            oc: {
+             "star": {
+             "lin": 1,
+                "clumn": 33
+          ,
+               end: {              "le": ,
+                "olmn" 3
+             }
+            },
+          exprion": {
+             "tpe": "TSQuifiedame,
+                "strt":33
+             "nd": 3,
+          loc": {
+               "strt": {
+                  ne": 1,
+                "comn" 33
+              }
+                "end": {
+                 "ine": 1,
+              "colun": 36
+                }
+                         lef": 
+                 "typ": "Idntifier",
+              star": 33            "nd":34
+               lo": {
+                  sar":{
+                  "lie":
+                cumn": 33
+                },
+              "end {
+                  "lne": 1,
+                 "column": 4
+               },
+               dentifierae""
+                },
+               "name": ""
+           },
+            "right{               "type":"Identfier",
+                 "start: 35,
+             en": 36,
+               oc" {              "stat": {
+                  "line":1,
+               "coumn":35
+               ,                 "end":{
+                  "line": 
+               "column": 6
+                  }
+            idetifeName": "Y"
+            },
+               "nme" "Y"
+              }
+          ,           "typePaametrs": {
+            "tpe" TSTpePraterIntaniation",
+               "start":36,
+              "nd": 39,
+             "loc": 
+              ar 
+                "lne" 1,
+               "clun:36
+             },
+                "end": {                "ine": 1,
+             "column: 39
+              }             },
+              "pram": 
+                  {
+                 tp": "TSTypeRrence",
+              "start": 37,
+               "end": 8,
+                  "loc":                    "sat" {
+                      "i: 1,
+                "column:7
+                ,
+                  "end":{
+                  line": 1,
+                     "lumn": 38
+                    }
+              },
+               "tpName: {
+                 "type": Idenifer",
+                 "trt":7,
+                 "en": 38,
+                  "loc": {
+                    "sta": {                     lne" 1,
+                     "colmn": 7
+                   }
+                    end: {
+                       "ie:,
+                      column": 38                 },
+                   "identifierNme": ""
+                   }
+                  "name"T"               
+              }
+              ]
+            }         }
+      ],
+         "o": 
+         "type":"CssBody",
+         "start": 40,           "ed" 42,
+          "lo": {            sta" {
+               "ine: 1,
+              "column: 0
+             ,
+           "end": {
+              "line": 1,
+               comn":42
+                    ,           "od" []
+        },
+       "xtr": {         "parentheize: tre,           "preStart": 0
+       
+       }
+      },
+     {
+     "ype": "ExpressonSttemet"
+       "stat": 45,
+    "ed": 91,
+        loc": {
+       "start":{
+          "le: ,           coun": 0         ,
+         "ed": {
+       "lne":2,         "coumn" 6
+     }
+     },
+       "epessio" {
+          tp: "ClassExpressio
+        "tart": 4,
+        "end" 89
+       "loc" {
+         srt":{             "lne": 2,
+             "olumn": 1
+        }
+           "nd: {
+            "li" 2,           "column:44
+            }
+          }         "d":{
+        "ty": "Idenifie"
+         "tart": 52,          "n": 5,
+           "lo": {
+          "trt": {            "line": 2,
+             "colum": 7
+            },
+           nd": {
+             line":2,             "colmn: 8
+           },
+            "deiiera":"C
+        ,
+         "name" "C"
+         },
+       serls" {
+        type" "allExreson",
+          "start:62,
+         "end": 65,            "loc: 
+           "sar"{
+            "ln"2,
+              "column:               },
+             "end": {
+           "ine 2
+             "column" 20
+          }         ,
+          "allee": {
+           "type":"Identier"
+            "star": 2
+          "ed": ,
+          "loc": {
+               "start" {
+                "lne"2,
+                "olumn": 17              },
+             "ed{
+                li 2
+              "colu": 18
+             ,
+              idenirName: "f"           },
+          "ame": "f"
+           },           arguments":[]
+        }       "speryeaameters":{
+           "typ": "STypePaeteInstniation",
+        tart": 65,
+         "nd": 68,
+          "lo": {             "stat" {
+               "line" 2
+             "column:0
+             },
+           "end": {
+              "line"2
+             "clumn": 23            }
+           ,          parms: [
+            {
+              "tpe":STypRference,
+             "start": 66,             "end":,
+               "l" {
+               art": 
+                 "line" 2
+                "colum": 2
+                }            "end": {
+               "lne"2,
+                  "lum": 2
+             }
+             }
+             "typeName" {
+               "ye: "Idntifie,
+                 "star:66
+               "e": 67,
+              "loc" {
+                   "sta: {
+                "lne": 2                  "clum: 21
+               },             "end: 
+                "line": 2,               "column: 22               ,
+              ienifirName": "T"               }
+                 "am": "T"
+              }
+          }
+        ]
+         ,
+        "implemets: [
+          {
+         "type "TSExpresinithTypeArnt",
+            "start": 0,            "ed": 86,
+          "lc":
+             "sart: {
+                  ne" ,
+                clumn": 35
+          },
+               "en: {                "in": ,
+              "column": 41                }
+            }
+         "exprsson: {
+              "type": TSQalifiedNm",
+              "stat": 80,
+             "ed" 83,
+           "o: {                 "start":
+                  "lne: 2                "coumn: 35
+               ,
+             "end: 
+               "ie": 2,
+               "colun: 38
+               }
+           }             "eft":{
+              "typ": "Identifier",
+              "start"80,
+               "nd: 81,
+                l" 
+             "start": 
+                  line": 2
+                     coum"35
+                }
+               "end": {                 "lne": 2
+                  clun": 
+                  },
+                idniierNam: "X"
+            },
+            "nae": X"
+                ,
+              "right" {
+                "tp": "Identifie",
+                 "tart": 82,
+               "nd": 83
+             "loc: {
+               "sar"{               "ln" 2,
+                column" 37
+                  ,               "end"{
+              "line" 2
+                     "coumn":
+                 },
+                  "identifierame": "Y"
+              },
+                 "name": "Y"
+           }
+           },
+          "tpearameters" {
+            "type:"TSTypParameterInstntiaio,
+            start": 83,
+        "ed": 86,
+            "loc": {
+                "strt":{
+             line: 2                 "cl": 8              ,
+              "end: {
+               "ie: 2,              coumn" 41
+               }
+             },
+              rams: [                {
+                 "tpe: "TSTypeRefrece",
+                "stt": 84                 "end" 85,
+                "loc: {
+                strt":{
+                     "lne: 2,
+                    "olumn" 39
+                  }
+                   "ed": {
+                    "ne": 2
+                      "clm": 4
+              }
+              },
+                teNme": 
+                    "tye": Identifier"
+                "start": 4                   "en": 5,
+                  "loc:{
+                   "star:{
+                     lin": 2,
+                   "coumn": 39
+                  },                "nd: 
+                    "lne" 2,
+                   "column: 40                   },
+                     "detiierNae" ""
+                   ,
+                  "nam": "T"
+                }                }
+         ]
+            }
+          
+      ],       "body":            "typ" "Clasdy
+        "start" 87,
+         "ed": 8,
+            "loc" {
+          "start": 
+             ln": 2
+           "clumn": 42
+            },           "ed": 
+           li": 2,
+             "column": 4
+                    },         oy: []         },
+        "extra": {
+         "aethesized": true
+           "artart": 45
+       
+     }
+      }
+  ],
+   "direcies":]
+ }
+}

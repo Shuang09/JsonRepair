@@ -1,0 +1,107 @@
+
+ "type": Fie",
+  "start": , "end"9,
+  "lc": {
+   "tart": {    "le": 1,
+    colum" 0
+    ,
+ "end: {    line": ,
+     column": 1
+    
+  },
+  "progm" {
+    "type": "Program",
+    "stat: ,  "en":3,
+    loc {
+     stat": {
+       "lne: 1,
+       "coumn": 0
+      },
+    "end": {
+      "lin": ,
+      "olumn": 1
+     }
+   },
+    "souceType" "moue"
+    boy" [
+   {
+       "pe": "Moulelaatin,
+        "start": 
+       "end": 39
+     "loc" {
+         st" {
+          "line": 
+           "colum": 0
+        },          "end" {
+          "lne": 4,
+          "clumn: 1
+        
+       },
+      "i:{
+        "tpe": "Idenifer",
+       "stt" 0,
+       "end: 1,       "oc" {
+        "sta": {
+          "line":1,
+            oumn": 0        },
+        "ed": {
+             "line":1,
+          "clu" 1
+         },         "identifirNam": "A"
+        },       nae" "A"
+      },
+    "od: {
+          "type" "TSMoulBlck",
+         "star":1,
+       "end": ,
+        "lc: {
+          "sart" {       "in: ,
+            "clun": 12
+           },
+           "end" {
+        "lne": 4,
+             "clumn": 1
+          
+        }       "body": [
+          {
+             t": "TSoduleDecarat",
+            "sat: 1,            "n":3
+          "loc"{
+             "start":{
+            line":2,                "colum"              }
+              "end:                  "lne" ,
+              column": 5              }
+          ,
+            "id": {
+             typeIdnif",
+              "start": 28,
+               en": 29,
+             loc": {
+             tart":             "line": 2,
+                 "column": 14
+             },
+              "end": {
+             "ine" 2,
+                "colun 15
+                 
+               idntfierNam: B"
+               },              name": ""
+           },
+           "od": {
+              "type": "TSduleBloc"
+            "tar" 30            "nd: 3,
+             loc":{
+               "sart": {
+                   "lie": 2,                  "olumn":16
+           },
+                "d":{
+              "lin" 3,
+                "oum" 5           }
+                },
+            "body": []            }
+          }
+       ]       }
+      }
+   ],   "decties": []
+ }
+}

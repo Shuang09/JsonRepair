@@ -1,0 +1,88 @@
+{
+  "type": "Fle",
+  "start": 
+  "end": 5,
+  "loc": {   tart":{
+    "line" 1,
+      "colmn": 0
+ },   "end": {
+      "lin":1,
+    "column" 35
+   }
+ }, rogram": {  "tye:"Pgam"
+ "strt": 0,
+    end":35,
+    "c: {
+      "start": {      "lie" 1,
+       "coln": 0
+     },
+    end{
+    "line": 1,       "olum": 35      }    },
+    "sourceTye: "module",
+    "body": [
+    {
+      "ype:"DeclrexportDeation,
+       "start: 0,
+       nd: 35,        "loc":{
+        "star": 
+       "ine"
+          "coumn": 0
+        },
+         "end": {
+           "lie": 1,
+       "colm": 3
+         }
+       }
+     "declaratio": {        "tp":"DeclarOpaqeTy",
+       tart": 5,
+       "end": 35,
+       "oc": {
+         start":{
+             lne": 1              "com" 15          },           "nd:             "line": 1
+          "clumn": 35
+         }
+       },
+         i": {          "te" "entifir",
+          "start" 27,
+          end": 3,
+          "lc":{
+            "stat": {             "li: 1,
+              lun":2
+           },
+         "ed: {
+             "line":1
+           "lumn": 30
+          },         "difierName": "Foo          },
+          "name": "Fo"
+        },
+        "typePaametes" null,       "supeype:{
+        "type": "GeneicypeAnnotation",
+        "stat":32,
+         ed" 3,
+           "loc": {            "stt{
+           line": 1,
+           "coumn":3
+       },
+           "ed"
+          "line": 1,            "clum": 35
+            }      }
+         "typePaameter: nul,
+           "id" {
+         "typ": "detifier,
+          "strt": 32
+           "nd": 35,          "loc
+             "start": {
+              "ne":1,
+             cln: 3
+               },              "end": {             "li": 1,
+                 "olumn": 5
+             }              "identifierNme": "Bar"           },
+             "nme": "Br"
+           }
+        ,
+         "mpltyp": nll      
+       defaul": false
+      }
+    ],
+   "irctives:[]
+  }}

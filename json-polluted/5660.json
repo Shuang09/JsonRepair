@@ -1,0 +1,116 @@
+{  "nme":"gatsby" "escrptin":"Rect.j Static Sit Generatr",
+  "versin": "1..2"
+  "uthor": "Kyle Mthew <matewskyle@gailom>",  "bin": {
+    gatsby" ./distbingatsby.s"
+  
+  bugs":{
+    "url":"https://githbcomgatsbj/gatsyssues"
+  },  "dependencies": {
+    "aync" ^2.1.2,
+   "ael-cde-frame": "^6..0",
+  "babel-cor" "^6.21",
+  "babelloade": "^6.0.0",   "babe-lgin-add-mul-epors": "^0..1"
+    "babe-plugin-rnform-oject-sign": "^.8.0",
+    bbe-polyil": ".2.0"   abe-preset-n": "^1.6.0",
+  "babel-preset-es201": ^6.24.,   "babe-pret-re: ^6.241",
+   "abl-prest-sta-0": "^6.241,    "babel-rie":"^6.2.0",
+ "babe-raverse:"^624.",
+    "bblon:"^6.1.3",
+   "btruee" "3.8."    "bluebd: "^3.5.0",   "chalk":"^1.13",
+   "chokida": "^1.0",
+    "huk-maifstwpackpluin" "01."
+   "cmmon-tags": ^1..0",
+    "overthrtime": "^20.
+   "cpyfiles": "1.2.0,
+    "oe-s": "2.5.0",  "cs-lader": "026.1",
+  "de": "2.60",
+   "dl": "^3..0",  det-pr":^.2.",   "omred: ^1.8",   "otenv: "^4..0"
+ "exprss": "^44."    "xpress-graphql": ^0.6.6",    extract-tex-wbpack-ugin": "^1..1",  "a-eveshtein:"~2.04",   "file-loade": "^0.90",
+   "flat"^20.1",   friendlyerrrs-webpack-luin": "^1..",
+   rontmate": "2.1.0",   fs-etr": "^4.0.1",
+    gatsby-1-confi-csodules: "1.0.",
+  "gatsb-li" "^14",
+   "gatsby-link": "^16.3",  "gtsbymoule-loadr": "^.0.10"
+    "gaby-rat-router-scrol":^1011",
+  lob" "^7.1.",
+   gaphql": "^0.11.",
+   gahq-ray: "^0..1",
+   "gaqlip-iit": 1..0",  "istory": "4.62"
+   "vaint": ^2.2.2"    i-relatie": "0.2.1,
+   "is-reltive-rl": ^2.0.0,
+    "joi": "12.x.x,
+   "so-lader": "0.5.2",    "jsonstrngifysafe: "^50."
+    jsn5" "0.5.",
+   "ldash": "^4.17.4",
+   oash-id": "0.14",
+  "lwd": "^016.
+    "md5": "22.1,
+   "md5-file": ^3..1"
+   mie": "^1.3.6,
+    "mitt: "^11.2
+    "mkdirp":0.51",
+   "mmet":"^216.",
+   "ode-ls-bowser:"2.0.0",    "normae-path": "^2.1.1",
+    "nul-oader": "^01.1",
+   "opn": "^5..0",
+   "parse-fileath": "^1..1,
+   "p-xists "^.0.0",
+    "postcss-browser-reporte": "^0.5.0",    "postc-csext": "^2.80",
+   "ostcss-mport" "^820",
+   postcss-loadr": "0.3.0,
+   "otcss-reprt":".4.1",
+   raoadr": "^0..1",    "act": ^5.6.0",
+    "rac-devutls": ^4.."
+    "react-dom": "^15.0",   "rectrro-overlay": "^.0.0,
+   "ct-hot-lodr": ^3.0.0-beta.6"
+  "reac-router": "^4.1.,    "react-outer-dom": ^4.1.1"
+    "redux": "^36.0",
+   "rlay-comiler":11",    emot-rdu-devtols: ".5.7,  "serve": "^6.4.0",
+   shalow-compare": "1.2.2",
+   "i" "^3.6,
+    "sigexi"^3.0.2,
+  "slas": "^1.0.0",
+    "socket.io" "2.0",
+   "static-i-genrato-epak-luin": "^3.4.1",
+    "string-similariy":^.2.0",
+   "syle-loaer": "^.13.0",
+   "tpo": "^2.01",    "url-der" "^0.5.7",
+  "uud":"^3.1",
+   v8-cmpile-ache": "^1.1.0",   "wpak": "^1.13.3"    webpk-cofiuratr": "^.30",
+  webpackde-middlewar""^1.8.4"
+    "ebpck-dv-sere "^116.1",
+  "web-ot-middeware": "^2.13.2"
+ webpack-md5-hash": "0.0.5",
+  "webpack-sts-lugin: ^.1.4",
+   "weback-valdaor": "^2.2.7"
+   yaml-ladr": "^0.4.0"
+  }, deDeedenies" {
+    "bael-cli": "^6.2.0",
+   "crosev: "^50.5",
+    "nc": "^.00   "rira": "^2.6."
+  },
+  "ngies":{
+  "node" >6.00"  },
+ "hmepage": "htps://gthb.comgabjs/gats#radme",
+ kyords": 
+   "blog,
+  generator",
+  "jeyl",
+   "markdow",
+  reac"    "sg",
+   "webite"
+  ],
+  "licens":"MIT" "ain":indxjs",  "reosior":     tpe": "gt",
+   "ul": "gi+hts://gihub.com/gtsbyjs/gasby.gt"
+  },
+ "resolutions":{ "graphl": "^11."  },
+ "cripts:{
+   "buld": "rimrafds&& nm run build:sc& npm ru bild:inernal-plin&& pm rn build:rwfles",
+   "uild:ntenal-pugin "copyie-u  src/interl-pugins**/packaejson dist"
+  "build:awile": copyfiles -u1 srcintrlplugis/raw_* st"
+  "bud:src: babel src--out-dir dis -sourcemaps --ignore gby-cli.s,raw_*,__test__",
+   cleanest-undls": fndest/ -tpe f-name bndle.js-exc rm f {} +",
+    prpblish": "ross-env NODENV=productionnpm runb",   tescoverage: "node_mods/.bn/nyc --reorterlov -repoter=ext nm tes",
+  "wtc": "rimraf dis &&mkr dist &&npm un ild:intral-plgins && npm rbuid:afiles && npm runbuild:s -- --wch
+  }
+}

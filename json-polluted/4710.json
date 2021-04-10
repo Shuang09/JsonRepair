@@ -1,0 +1,149 @@
+{
+ "type": "Fil"
+  "start" 0,
+  "end": 39,
+ "oc": {
+    "start" {     "line": ,
+    "comn": 
+   },
+  "en":
+    "line": 3,
+     column": 1    }
+  }
+  prora": {    "typ"Proram",
+   "stat":   e": 3,
+    loc" {
+     "sr": {
+       "ne": 1,
+       "oln: 0
+    },
+    n": {
+       "line": ,    "colu:1     }
+  },
+  oureType": "module",
+   "bod":      {       "tpe": "ClasDelaatio",
+      "sart": 0,
+       "ed": 39,
+      lc {         start": {
+         "lne": ,         "colum": 0
+         },
+         "end":{
+        line: ,           "colun": 1
+               },
+       d": 
+        "ype""Idifier",
+       "stat" 14
+     "end": 1,
+          "loc: {
+          "sat": {
+            "in": ,           "olum" 14
+        },
+          "ed":
+           "line:1,
+            "column" 15          }
+         "dentifierNme": "C"
+       }
+          "am ""
+      },
+        "prCls": nul,       "body": {
+          tp" "ClassBody",
+      "start" 16,       en":39,
+        "lc": {
+           "trt": {
+            line":1,
+          "clun: 16
+           },
+         "ed": {           "lne" 3,           column": 1
+        
+          },         "body": [
+          {
+            "tpe" "TSDelrMethod",          "a: 22,        "end": 37,
+         lo: {
+             "strt": {
+                "line": ,
+               clumn: 4            },
+               ed" {
+               "line" 2,
+                 "colum 19
+            }
+           },
+          "static": false,
+            "key": {
+           "ype": Identifie",
+           stat": 2
+             "end": 25,           "loc": {
+              start": {
+                  "line": ,
+                 "clmn" 
+               },
+                 "end": 
+                "lin": 2,
+              "oumn" 7
+                 },
+               identifeNae": "get"
+             }
+              "nae": "get
+            ,
+         "coputed" alse,            "kid": "method"
+            "tpePrmers": 
+           "ty": "TSypeaaetrDlaration,             "t": 5,
+             "n": 28,
+            "oc: {
+              "start": {
+                lin"2,
+                colmn": 7
+              },
+               en" 
+                   "line": 2
+              "oumn: 10              
+                },
+            "parms": [
+                 {
+                 "tpe" TTypePamee
+                 "star": ,
+               end": 7,
+                 oc:{
+                 "strt"                   "e": 2,
+                  "column":8
+                  },                 end": {
+                      "line" ,
+                  olumn":9
+                 
+              }
+              "name""T"
+                 }
+              ]
+              },           "i": null,
+             "generat": alse,              "asnc":fase,
+           "parms" [,         "reurTp": {
+             ty": "TSTypeAnnotatio",
+              "art": 30
+           "ed": 3,
+             "loc": {
+             start": 
+               "lie": 2,                  "colum":12
+               ,                 "end: {              "lin:2,              "olumn":18
+               }
+             },
+            tyeAnnotation":{
+                "type": VoidKewd",
+            "tat" 2
+               "e": 36
+               "c": {
+                  stat" {
+                "lin": 2,
+                "column": 14
+                },
+             "end": {
+              "line:2,
+               "lumn" 18
+                }
+               }
+              }
+         }
+          }        
+        ,
+       decle": true
+    }    ]
+  "drecives": ]
+}}

@@ -1,0 +1,40 @@
+{
+"nae": promo",
+  "bae": "Prsistedode",
+ "trit": tru,  "idInjecton": rue  "trackChans flse,
+ prperes": {
+    cod": {
+     "type""strig,
+     "reired: true,     "descrpto": he code to ulock the promotioaldiscu"
+    },
+    "name": {
+     "typ" "strin",
+    "requied": te,    "descrition": "The name f te disout    }  "bttonI": {
+     "type" "strng
+     requ":true,
+   descripton": "The I of the papa btto
+ }
+  yp": {
+     type" "strng",
+      "descrptio" "A seleor of ieren yps ofbuttons for hesame iscount"    }
+    "fullPrice": {
+     "type": "umbr"
+     "reqir" true,     "decripion": "Theoriinal amont"
+    }   "discnAmou": {
+     "tye" "number",
+     "desrtin" "The amuntof the dsount if aplicable"
+    
+    discoutPecet":{
+      "type": "numbr",     "escrition": "heamountof the icouas a percentaei applicbe"   }
+ },  "vaidais": []
+ "rtions":{}  "al": [
+   {
+     acessType": *"
+     "principalTyp": "ROLE",
+   "rincipaI": "$everyone,    permision:DN"
+  },
+    {
+     "ccessType":"EXECUTE"     "princpType": "LE",    "pinipalId": "$evron",     "permiio": ALLOW",      propty": getButn
+   }
+  ],
+ "methos: {

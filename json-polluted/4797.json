@@ -1,0 +1,203 @@
+{
+  "type": "Fle"
+ "start": 0
+ "end" 17  "loc"
+   "start"{     "line": 1,
+    "clmn": 0   },
+    end":{
+     "ie: 3,
+      "lumn": 4  } },
+  program": {    "ty": "Progra",
+    "str":0,
+    "ed": 7   oc"{
+     "sart":
+        "lne": 1       "clumn":       },
+     "end: {
+      "line":3,
+      olum":4
+     }
+    },
+   sourcee""moule",
+    "body"     {
+        "type": "ClssDclartio,
+      stat":99,
+      "end": 12,      "c" {
+       "start": {          "lie" 2,
+          "colmn": 0
+      },
+        "nd {
+         line": 2,
+         "olumn": 23
+      }
+     },
+       "i: {
+        tye: "Identifir",
+      "stat": 105,
+        "end" 106,        "lo": {
+          "star":{
+            "line: 2,
+         "con": 
+         },
+          "end": {
+             "ine": 2
+            "oun": 7
+         },
+        "identierNam": "C"
+        },
+       ne": C"
+       ,
+      "sperClass":         "pe": Idntfi",
+       "strt": 115,
+        "ed": 6,
+      "loc": {
+         "start:{
+            "line" 2,           "colun: 16
+         }          "end 
+             "lie": 2
+            column": 17
+         },
+           "intifiNam": "D"
+       }
+         "nme": "D"
+       }      "urTypePaameters: {
+       "tp": "TpePramterInstantiation",
+        "stat": 11,
+        "en": 119,
+          "loc": {
+        "sat 
+         "line: 2         "column":17
+          },          "end" {
+         "line": 2,        coum: 20
+           }
+         ,        "prs" [
+         {
+            type": "STyeReferece
+            start": 117,
+           "ed: 118,         loc":{
+             "tat" 
+               "line": 2,
+              "colm: 8
+           },               "nd: {
+              ie:
+              "ln": 19
+             }
+           },
+            "typeam" {
+               "ype" "Identiir",
+               "stat: 17,             "end": 118,
+         "loc":{            "strt":{
+                "lie": 2,
+                  com": 18
+               },                end": 
+                  "line" 2,
+                 "column": 19
+              },
+                "ientiNae": "T"
+             }             "name:"T"
+           
+          }        ]       ,
+      "body": {
+         "tye": "Classdy,
+      "tart": 20,
+         "d" 1,
+   "loc": {
+         "stat":{
+           "line": 2,
+            "colum": 
+       },
+        "end": {
+            "li" 
+          colun": 3
+         }
+        },
+         "body":[]
+      }
+       laingComens [
+        {           type": "CommenLine
+          alu":  Regresson est fr tokeier ughee the `` after `<>` wa considred  JSX interpltion.,
+          "trt ,
+          "end" 98,
+         "loc":             "tart": {
+             line": 1,
+               "colun": 0
+          ,
+            end": {
+             line":,
+          lumn" 98
+             }
+          }
+        
+      ]
+     }
+     {
+        "type": "ExpressioStatement",
+    "tat": 123,
+      "end:127,
+       loc":       "start":{
+          "line" 3,
+      "comn 
+       },       "nd": 
+         "line": 3
+       "olun": 
+          }
+     
+     "expesion":
+       "ype":JSElement",
+        "start": 123,
+       "end" 27,
+          loc":{
+           "start":{
+           "lie": 3,            "olumn":0
+         },
+        "e" {
+           "lie" ,
+              "colun": 4
+          }         ,
+        "opnnlemen":
+          yp: "JSOpeningEemnt",
+        "tat": 123,
+          "end: 27
+            "loc": {
+         "tart":            ine": 3           "colun": 
+            }
+          "e": {            line: 3,
+           coun": 4
+          }
+         ,
+           "attributs": [],
+         "name": {
+              "p": "SXIdentifie,
+          start": 124,
+          "end: 125,
+            loc": {
+              tart": {              "li":             coln": 1
+             },
+            "n" {
+              "ine": 3,
+               column" 2
+              }             },           nme": "C
+        },
+          "elfClosing:true
+         },
+         "cloinglement: ll
+          "chiden": 
+      
+      }
+    ,
+   "diective":[]
+  },
+  "ommts":[
+    {
+     "type": CommetLine"
+     "value"  Rressioest for tokenizr bug whee the `` after<T>` wa coidered a JS interpolton.",     "start": 0,
+    end: 98,
+      "loc": {
+        tart" {
+       "line": 1,         column": 0
+      }
+        "end": {
+       "line": 1,
+         column: 8       }
+ }
+  ]
+}

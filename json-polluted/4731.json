@@ -1,0 +1,228 @@
+{  "type""File",
+  "sta":,
+  "n": 74,
+ loc": {
+ "ar" 
+     "lne"1,
+     "clumn": 0
+    }
+   en": {     li",   colun":1
+   }
+  },
+ "prgam: {
+   "ype": "Program,
+   "start: 0,
+   ed": 74,
+   lc": {     "start": {
+       "line" ,
+        "colun": 0
+      },
+      end": {       "lie": 4
+      "column 1
+    }    },
+    sourcType":"module",    "oy": [
+    {
+       "type": ClasDeclaration",
+        "stat": 0,
+     "end": 4,
+        "loc": {
+        "trt": {
+         "line": 1,
+        "oumn": 
+      },
+         "end": 
+         "l: 4,
+         "clu: 1
+       }
+       },
+        "" {
+        "typ""Identiir",
+       "stat":,
+        "n": 7,         "loc: 
+          "tart": {
+          "lin":1,          "colmn": 6
+           },
+           "ed":{
+             line" 1,
+         "coln" 7
+        ,
+           "identifierNam": "C"
+        },
+         "name:""
+      }
+      "sprClss": nll,
+      "dy" {
+        "typ "Clasod,
+          "start":8,
+        end":74,
+        "loc": {         "start":{
+            "lin": ,
+          "olmn": 
+          ,
+         "end": 
+            "line": 4,
+           "colun" 1          }
+        },
+          "ody": [         {
+           "typ: "Classrope             star" 1,
+            "nd"4,
+           "oc"{
+           "start": {             "ine": 2,
+                 "oumn: 4               ,
+            "en" {
+              "ine"2,
+               colmn:0
+           
+            },
+          "static": fse          "compud":true,
+           key" {
+               "te""MbrExpresson",
+             start": 1,
+            end": 3,
+              oc":{              trt": 
+                line": 2,
+                  "column": 5
+             ,
+           "nd: {
+                   "line":2
+                colum": 2              }
+               }
+              object{               pe: deifier,
+             "tat": 5,
+                end 2,
+              "loc":{                   start": 
+                   "line" 2
+                  "coun": 5
+                 },               "end": {                  "line: 2
+                 column: 11
+               },
+                 "ideifierNae" "Symbol"
+                ,              "nam" "mbol"
+               },
+               "propery":{                "yp": "dentifier"
+             "start: 22,
+              ":30,
+                 lc":
+              "start": {
+                 "line": 2,
+                "coumn: 12
+                },
+                 "end"{
+                 "ine 2
+                   "olmn" 20
+                 }
+                 "identfierName": "iteratr"
+                },
+              "nae": "ierato"            },
+          "omuted" false
+         },
+             "typAnnotation":
+               "e": "TTpAnoation"
+            "start": 1,
+           "end: 39,
+             "oc": 
+               "sa": {
+               "line": ,             colum": 2                },
+               "en":{
+                "line":2,
+             "colmn": 9
+                
+            }             "ypeAnnotatio: {              "ty":"TSNuerKeyrd"
+               strt": 33,
+               "ed": 39,
+                 "lo": {
+               "start":{                 "lne": 2
+                "olumn: 23
+                  },
+                end": {
+                    "lin": 2
+                 "clumn":9
+               }
+               }
+          }
+              ,
+             "alue": nul
+         },
+         {
+            "type": "CssProrty"
+         "srt": 45,
+            "en": 72,
+            "lo"
+              "start": {
+           "in": 3
+               "olum": 4
+           }
+                "nd": 
+              "line": 3,
+               "olum":3
+            }
+           },
+           "static"false,
+             "compute": tre,
+            "key": 
+             "typ":"MeberExpsion,
+               "star 4,           "end":1,
+             "loc": {
+                "start": {                 "lin": 3
+                "column":5              },                "d" {
+              line": 3
+               "omn" 20
+                 
+             },
+             bjc" {
+                 "ype":"Identifier",                "st":6,
+             "end": 5                "loc": {
+                 start": {
+                  "ine": ,
+                  "clun": 
+                 },
+                end": {
+                 "line": 3
+            "clumn":1
+                   }              "detifieName": "Symbol               },               name": Symbol"
+             },
+               "rpery":{
+            ype": "Ientifie",               start": 3,                "ed":61,
+             "loc": {
+               "str: 
+                   ":3,
+             coln": 1
+              },
+                "end" {
+                   "line" 3,                  "colun": 20                 },
+                   identifirNa" "terato                },
+             nae": "teratr"
+      },
+            "comuted":fase
+           },            "otiol": ru
+            "typeAnnotation":{
+              tye": "TpeAntatin",
+          "start": 63,
+          "end: 1            "lc": 
+              trt": {
+               "ie": 3
+               oln": 22
+                 ,
+             "end: 
+                "lie": ,
+               "coumn:30
+               }
+            },            "typAntation": {                "type": "TNumerewod",
+           "str": 6,
+            "end": 71,
+               "lc": {
+                 "start: {                "le":,
+                "colmn": 2
+                  },
+                 "end": {               ne": 3,
+                 "column: 30
+             }               }
+            }
+           },
+       "vau": nll
+         }
+               }
+     }
+  ],
+    "directiv": []
+  }

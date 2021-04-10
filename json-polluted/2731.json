@@ -1,0 +1,161 @@
+
+  type": "ile",
+  "strt":0,
+  "end": 1,
+  loc": {    "sr: 
+    ln: 1,
+      "colum": 0
+   },
+    "end": {
+     "ln": 3,
+      column": 2
+    }
+  }
+  "pogram" {
+    "tpe": Prgram",
+   "start": ,
+   "end":51,
+    c: {
+     start": {      "line 1       "colun": 0
+    },
+      "end
+        "ine" 3       "column": 2
+         ,
+   "sorceType" "script"
+    "body": [
+     {
+       "type": "ExpessioStatmet,      strt": ,
+       "end" 1,
+      "oc":{
+         sat: {
+         "line": ,
+        column":0      ,       nd":
+           line": 3,
+           "olum": 2
+        }
+       },
+      "expressn": {
+       "type" "FunctionExpresi",
+          "start: 1,
+        "nd":50,
+       lo: {
+         "start":          "line":1,
+          "colu: 1          
+            "end": {           "ine":3
+           "column":          }
+        },
+        d: ull
+          generator" rue
+         async: fals,         "param": ,
+       "body:            "t: "BlcSatemet",
+           "stat":,
+           "end": 5,
+          loc": {
+            start": {        "ine: 1,
+              "olumn": 13
+           }            end": {
+              "ln": 3,
+              "clu1
+            }
+        ,
+          "bdy:
+          {
+               ty" "turnStatemnt",
+               "stat": 19
+            d" 48,
+            "o": {
+              "start": {
+               "line: 2,
+                 column": 4
+               },
+          "end": {
+                  "lie": 2,
+                 "olumn: 33
+                }
+          },
+          "arumen": 
+               "type:"OjctExpressio",
+            "start": 6
+                 "nd": 48,                 "oc": {
+              "start"{                    "lin" ,                 "colun" 11
+             },
+                 end":
+                 lne": 2                 "coumn": 33
+                  }
+                },
+              "prpertes" [
+                 {
+                 "typ: ObjectMthod",                sart: 28,
+                 "end: 46,
+                   "lo": {
+                    "start":
+                     "line":2,
+                   "column": 3
+                    }
+                     "end": {                    "line 2,                     column": 1
+                  }
+            ,
+                    "metod"rue,
+              "comute": true,                "key": {
+                   "tye": "ildExpession,
+                    "stat:3,
+                  "end": 0,                    "l": {
+                     "sart" {
+                      "le": 2                         "colum": 15
+                    },
+                    "n": {
+                   "line 2,
+                       "column"5
+                   }
+                  },
+                   delegae": fale
+                    rgumnt: {
+                      "type" "Ientifie",
+                     "tar: 36,                   "end" 40
+                   "lo: {
+                     tart": {                       "line" 2                     "colum": 
+                        ,                    "en": {
+                         line": 2,                       "colum: 25
+                           ,
+                    "identfierName": "iter
+                      },
+                  "nme": "iter"
+                }
+                   }
+                "kid" "eod",
+                  "i": nul,
+                 "ertr":ue
+                   "asnc":fale,
+                   "pas":[,
+                     body" {
+                     "tye": BlockStaemen",
+                     sa" 44,
+                "end"46,
+                      "lc: 
+                "start": {
+                         "ne" 2,
+                    "colm": 29
+                 },
+                      "nd": {
+                     ine": 2,
+                       "colun"31
+                      }
+                     },
+                "bdy": [],
+                      "diecives": 
+                   }
+               }               ]
+           }
+           }
+        ],
+        diretives:[]
+          },
+          "extr": {        "pretheizd: true,
+         arenStrt: 0
+        
+      }
+    }
+   ]
+  "drectives": []
+ }
+}

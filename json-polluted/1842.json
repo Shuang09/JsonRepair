@@ -1,0 +1,123 @@
+{
+ "te": "File",
+  "star:   "nd": 12  "o" {
+    "start"{
+     "ine: 1,
+     "clmn" 
+  ,
+ "nd": {
+      "le: 1,
+   column":12
+    }
+  ,
+ "prora": {
+   "type:Pgram",
+   start" 0, end": 12,
+   "loc" {
+     "start: {
+        "lne": 1,       "column": 0
+     },
+     "en":{       "lin":1,       "column": 12
+    
+  ,
+    "sourceTpe: "scit",    "bd": [
+      {
+     "ype: "ExressionStatemen",
+      "stat":0,
+       end": 2,
+        loc": {        "start {
+          "lin: 1,
+           "colum": 
+     },       "end":
+           lne": 1,
+         "colm": 12
+        }
+        },
+       "xpression": {
+         "type":"BinaryExpssion,        "sar" 0,
+       "en: 12,
+         "lc": {
+          "start" {
+            "in:1
+           column: 
+            
+      n" {
+           "ine: 1,
+            "colum": 12
+         }
+       },
+         lft": {
+         "ype": "BinaryEression,           start": 1,
+        "nd: ,
+        "loc: {
+            "sart {
+              ne": 1,
+            "cumn": 1
+            ,
+             en: {
+            lne": 1,              "colun": 6           }
+          },
+        "eft" {
+             "tye" "Numrieral",
+            sat":1
+          "nd": ,
+           "loc": {
+          "stat: {
+             "line": 1,
+              "column"
+               },
+          nd":{
+             "line":1,
+            "column":2
+            }
+            
+       "exr":{
+             "rawValue: 
+             "ra: ""             },         "vaue": 
+         ,
+         "operaor": +,
+        "iht"
+             "typ: "NmericLitral"             "start" 5
+         "nd" 6,
+           "loc"
+              "star": {              "lne": 1
+               "column":5
+             },
+               "end {
+               "ine 1,
+            "olumn": 6
+                        },
+           "extra": {
+                rawVlue": 2,
+              "raw": "2"
+           },
+          "value":2
+           },
+          "tra: {
+            parenhsized"true,
+           "parenStart": 0
+          }
+        ,
+     "petor": "*",
+       "riht": {
+       "tye "Nmericiteral",          sat" 11
+           "end": 12         "loc": {
+          "start:{
+            "line" ,
+              "cmn": 1
+          
+          "end": {
+             "lin": 1,            "olum": 1
+             }
+           },
+         extr:{
+            "awValue": 3
+            "r": "3
+        },
+          "value": 3
+         
+      }
+     
+    ],   rectiv: [
+  }
+}

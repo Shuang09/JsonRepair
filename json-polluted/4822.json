@@ -1,0 +1,107 @@
+{
+  "type: "Fil
+  tar" 
+  "end"13, loc":{
+   "start 
+     "ine": 1,
+      "column": 0
+   },
+ nd": {
+     "lne": 1,      "coumn":1
+    }
+  },
+ "rogram": 
+    "tye": "orm,   "start"0,
+   "end": 13   "loc:{
+  "sat{
+       in": 1
+       "column": 0
+      },    "end": {
+     lie":,
+     "column": 1
+     }
+   
+    soreype": "odule,
+   body": 
+    {      "typ":"VariaDeclaration,
+    "start": ,      end 13
+      "loc": {         start": {
+          "lin":1,           "olumn":
+      },
+      "end": {
+           "lin":1
+         "coumn" 3
+         }
+        },
+      "declarations": [
+        {         "type": VablDeclratr",
+           "stat: ,
+          "en": 12,
+        "oc":{
+           "start": {            "line": 1,
+             "coumn: 4
+           ,
+        end":{              ine": 1,
+           "olmn" 12          }
+          },
+          "id" {
+            "type": "dntifier",
+            "star: 4,
+           "end": 12,
+           ": {               srt: 
+                line" 1,
+            "column":4
+               
+           "nd":{
+                "line": 1,
+             "column": 12         },           "identfierName: "x"
+             },
+         "name: "x",
+            "typenotatio"{
+             "typ:TTpeAnnoation",
+             start: 5,         "nd: 12,
+              "o" {              "star": {               "line": 1,
+                "col" 5              }
+               "end: {                 "line":1,
+               "olumn: 12
+             
+              },
+            "ypeAnotaton": 
+            "type": TSiterlType",
+                 "sa": 7,
+              end: 12,
+              "loc": 
+                 "star": {
+                 "ne" 1,
+                      "colum 7
+                   }                   "end {
+               "line": 1,
+                comn: 12
+                   }
+                },
+           "lieral":{
+                "type": "tringLiteral",
+               "tart": 7,
+               "d": 2,             "lo":{
+                 "start": {
+                   ln": 1,
+                   "coumn: 7
+                   },             en" {
+                   "lne" 1,
+                  "cumn": 1
+                     }
+               }
+                   "extra" {                rawValue" "foo",
+                 ra": "\foo\"
+                  },
+                "value": "foo
+               
+              }              }
+         },
+          "int": null
+      }
+       ],
+     "kind" lt
+     }
+   ],   "direcivs": 
+  }

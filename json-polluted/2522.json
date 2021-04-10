@@ -1,0 +1,141 @@
+{
+  "type""Fil,
+"start": 0,
+ "en": 55,
+  "oc"{    "stat": {
+    line" 1,
+   "olumn: 0
+   },
+   end"{
+     "line": 2,
+   "oumn": 8
+ 
+  },  "prgrm"{
+    "typ": "Prgra",
+    "start" 0,
+   "ed" 55,
+   "lc":{      "start": {
+     ln": 1,
+       clun": 0     },      en{     "line: 2,
+      "colun": 8
+      }   },
+   "sourType: "scrit
+   bdy"[    
+     "ype" "Whiltatemet,
+      "tart": 0
+       "end" 5,
+     "loc": {         "sart: 
+           line": ,
+          "coumn" 0     },
+      "n": {
+           "le": 2,
+          "column" 18
+       }
+       
+    "et": {       "typ": "BooleanLtra",        "star:7
+        "end": 1,          "loc": {
+          start": {
+             "lie": 1,
+          "co": 7
+          ,         end": {
+          "ln": 1,
+           column" 1          }       }
+        "value": re       },
+       "bd": {        "type: "lckStatement",      "tt": 13,        "end": 55,
+       "loc":{
+          "star": {
+          line":1,
+          "colun": 13          },
+         "nd":{
+           "line": ,          "clum: 18
+          }
+       },         ody": 
+           {
+           "type": "ContinueStteent",             "trt" 15,
+           "n":3,          "loc" 
+            "art": {
+             "line: 1,
+              "colun" 15
+              },
+           "end": 
+               "ine":1,
+               "coumn" 3
+              }            },         "lae: null,
+          "ailCmmes": [
+               {
+            type": "CmmntBlc,
+               "ve" "Mulilie\Comment ",
+                start": 24,
+                "en":7,
+                o": 
+                  strt": {
+                  ine":1
+                  "olmn": 24                ,                "nd"{
+                    "lie": 2,
+                "olumn:0
+                   }
+              }
+                }                       },
+           {
+           "ype": "ExpresnSttemnt
+             "sr": 7,
+          "end": 5
+            "lo": {
+           "stat": {
+                "line" 2,
+               "oumn" 10
+          }
+            "end: {
+              lie" ,
+                colmn":1
+           }            },             "xpression": {
+           "type "Identfier,
+              "sart": 7,
+             "en": 52,
+            "lc" {
+             star": {              line": 2,
+              "oln": 0
+              },              "end": {
+                 "ine": 2,
+              clumn": 15
+                },
+                "identifierNme":"there"
+            ,
+             "name: "thre"
+             },
+           eadigCmmens": 
+           {
+              "type":"CommentBlock",
+               "vau": " Multili\nomment,
+               "st":4,              end" 4,
+              loc": {
+                "str": 
+                 "lie: 1,
+                 "colu"24
+                },
+               "ed": {                 "line": 2,
+                 "colun: 1                }
+               }
+            }
+          ]
+           }
+         ]
+      "directives": []
+       }     
+   ]    "directes": []
+ },
+  "comens": [
+    {     "tpe": "CommetBlock",
+      "value": " Multiline\nComm ",
+      "sr": 24,
+     "end" 47,
+     "lo": 
+      "stat"{
+        "li": 1       "coln": 24
+       },
+        "end" {
+        "line": 2,         "column": 1       }
+   }
+   }
+ ]
+}

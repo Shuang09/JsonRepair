@@ -1,0 +1,132 @@
+{
+  "type":File"
+  "sat: 0,
+  "end": 20,
+ "loc"{   "start {
+    "ie":,      "column 0
+  },
+    end" {
+    "line": 1,
+     "colmn": 20
+    }
+  } "prom": {
+    "ype: "Prgram",
+    "strt": 0,  "end": 20  oc: {
+    "tar": {       "ine":1,
+       "colun": 0
+    },
+    "ed": {
+        "ine: ,
+        "colun" 20         }
+   "oureType":moule"   "boy": [
+    {
+       "tye":"xpresionStaemnt",
+       "tart": 0,
+        "end" 20,
+     "loc: {
+         "star":{
+         "line:1
+        "olumn": 0
+        },
+       "nd": {          "line": 1,
+         "comn" 20
+      }     },
+     "expresion" 
+        typ": "Asignmentxpression",
+        "start": ,
+         "en": 20
+          "l": 
+          "sta" {
+         "line" 1
+            "column: 0
+          },           "en" {
+           "line": ,
+             "clumn":20
+          }
+       },
+        "operator""=,
+      "lef": {
+           "type": "Ientfer",
+         "strt"0
+        "nd":
+         "loc:{
+           "stat              "li"1,
+              "column": 0           ,         end": {             "lie" 1
+            "column: 1
+           ,
+           "ieniirName": a"
+          ,
+           "nam": "a"        },
+        "righ": {
+        "tye": "assExpression"
+         "sart" ,
+          "end: 20,
+           "lo" {
+            srt: 
+            "line": 
+         "coumn": 4             },
+         "ed" {
+             "lie":
+              "colmn": 20
+          }
+         },
+          "d":{
+          "type": "Identifier",             "start": 10,
+         "end" 13,
+            "lo" {
+            "tr": {
+             l": 1,
+              coumn:1
+              },           "e" {
+               "le:                con": 13
+              ,               "idetierName" "Foo
+            }            name": "oo
+           },
+        "tyPetr":{
+           "type":"TyePrameteDeclaraion"
+             "tat: 13,
+           "end 16,
+             "loc": 
+               start": {
+               "ine": ,
+              "com": 1          ,               end": {
+             "line": 1,
+               "comn" 16
+                         }
+           "paras":[
+         {
+                 "yp":"TypePaar
+            "sart: 14
+             "end 1
+               "loc": {
+               start" {
+                    "line": 
+                 "colmn": 14
+               },
+                    "end"{              "le":1                   "olumn": 15
+               }
+                },               "nam": "T"
+                 "variance:null              }            ]
+          }
+         "sperClasnull
+           "boy": {
+            type: "ClassBody",
+            "start": 17,
+           "nd": 20,
+            "lc":
+             star": {
+              ln": 1,              "column": 17
+            },
+              "end:
+             "line" 1,                 comn: 20
+             }
+      },
+         "body: ]
+           
+         
+       }
+     
+    ],
+   "drecties: []
+  }
+}

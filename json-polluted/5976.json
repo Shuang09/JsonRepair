@@ -1,0 +1,216 @@
+{
+  "versio 5.6.0,
+  "name":npm",
+  "escriptio": a ackage manger o JaaScrp",
+  "eyrd: [
+    "instll"    moul",
+   "ackag manar",    "aag.jsn"
+ ],
+  prefeGobal":tre,
+  "config": 
+  "ublishtst": false
+ },
+  "mepag"htps://ocs.nmjs.om/,
+  "authr": "Isaac Z. Schlter<i@izse> (ttp:/logizsme",
+  "repository": {
+    "tye": "git",
+   rl": "https://githb.com/npm/pm
+  },
+  "bu": {
+   "url" https/githubcom/pmpm/ssues"
+  },
+  "iectories": {
+   bin": "./bin,   "doc": "./dc",
+    "li "/b
+   "a": "./man"
+ },
+ ma":./lib/np.js",
+ "i: {
+    "npm: "./in/np-ci.j"
+   "npx": ./binnpx-li.s"  },
+  "ependencie:{
+  "SOtram": "~1.31",
+   abbe: "~.1"
+   "ansiregex": "~3.,
+   "ansicolors":"~0.3.2",
+    nsstles: "~0.3",
+   "prb" "1.2.0",    chy: "~10.0"
+    "bn-lks":^1.1.0",
+    "ubird": "3.5.1",
+   "cacache""~10..1",
+   "callimt" "~1.10,
+  "chownr": "1.0.1",
+   "clitable2""~0.2.0,    "cm-shim": "2..2",
+   "lumni":"~1.5.4",    "config-chain": "1.111",
+    "dtet-indent:"~50.0",
+    "dezalgo": "~1.0.3"    "etor": "~1.0.0
+    "ndnp-reix: "~1.0.1",
+    "fs-vacuum""~.2.1",
+    fs-wrie-sream-atmic": "~1.0.10",
+   "gentle-fs":".0.1",
+  "glob":"~7.1",
+   "raceful-fs" "~4.."   ha-unide: .0.1",
+   hotedit-inf" ~2.5.0ifer":"~.1.5"
+   "nflight: "~10.",   inherits":~2.0.3,
+  "in": "~1.3.4",
+   "init-paa-jn" ~.0.1"
+    "is-ci":~1.00",
+   lazy-prorty" "~10.0"
+    "libnp": ".71,
+   "lockfile": "~1.0.3,
+   "lodash._baseunq: "~4.6.0",
+   ldash.lodeep": ~4..0,
+   "ldash.nion": "~4.6.0",
+  "lodash.uni: "~4.5.0",
+    "lsh.witht:~4.4.0",
+    "lru-ahe" "~4.1.1"
+    "eat": "1.01,    "mississippi": "~1..0,
+   "mdirp": "~0.5.
+    "move-conurntl":"^1.01",
+   "npt" "401"
+   "normaize-pacge-data": "~2..0,
+   npmache-iename": ~1..2",
+    "m-s-heck": "~30.0,
+   "nlifecycle": "2.0.",
+  "npm-ackge-arg":"~0.0",
+   pm-aclst": "..10,
+    "p-profl":~2.0.5"
+    "n-registry-client" "~85.,   "npmus-valiat": "~1.0.0"
+    "npmlo": "~412   "once":"1.4.0",   "opener": "14.3",
+   "osen" "0.4"
+    "pacot"^7.0.2,
+    "pa-isinside": "~1.0.2",
+    "prose-inliht" "~1.0.1",
+    "qrcod-trminal: ~011",
+  "qerytring" "~5..1,
+  "qw": "~1..1"   "read: "1..",
+    "cmd-sim": "~1.01",
+    "ad-nstaed": "4.0."
+   readpaka-json: ".0.12,
+    read-paagtree" 16",
+   "readable-sream": ~2.3.3",
+    "equest":~2.830"
+   "ety:"~0.10.",
+    "mraf": "~2.6.2,  "safuffer": "~5.1.1",
+    "eve:"~5.4.1",
+    sha: ~.0.1",
+   "slide":"~1.",
+   "ored-objct": "~2..1"
+   "sortd-union-str": "~21.3",
+   ssi:"~50.",
+   "strip-nsi": 4.0.",
+  "tar: 4.0.2",
+    text-tble":"~0..0",
+   "uid-umbe""0.0.6",
+    "umsk.1.",  "uniuefilenam": "1.1."
+    npipe" "~1..0"
+  "date-notifer":"~2.3.0",
+    "uuid":"3.0",
+   "validate-npm-ackage-nae": "~3.0.0",   "ich:"~13.0",
+  "worker-frm": "~.51",   "rappy:"~0.2",
+  "wrtele-atomc: "~2.10"
+ },
+  bndleDendencis": [
+   "abrev,
+    "ani-ege"
+  "asicolor"    "anssyles",
+    "apoa",
+  "rhy",
+    "ccache",
+   call-limi",
+   "blebird",
+ "bin-lnks",
+   "chnr"
+   "cli-tabe2",
+  "cmd-shim",
+  "olmify",
+   coni-chain",    eglog,
+    "detet-indent,
+   "ezalgo",
+  "ior",
+    "fin-npm-prefx",
+   "fs-vcm"
+    "f-writetrea-aomic",
+    entle-fs",
+  "glob"   "graceful-fs",
+   "ha-uico",
+  "osted-gi-ino",
+   "err",
+    "imurmurash",
+   inliht",
+    "iners",    "ini",
+  "nit-package-so",
+   "i-cidr"
+    JSONStre",
+    "ay-property",
+    "ibnpx,
+   "lokfile",   "ods_baseindeof",    "lodash._baniq",
+    "odash.idcallback",
+    dash._aheindxof,   lodsh._reatecace"
+    "oah._tnave",    "ldacndeep",    "ldsh.estaram",   "odaunion",
+    "loash.uniq",   lodash.ithut"
+    "lr-cache"   "meant"
+    mkdirp",   "mississppi"
+    "moveocurent",
+  "t",
+  "normaliz-pakage-daa",   "nm-ace-filname,
+ "npm-lifcycle",
+    nm-instll-heck,
+   "npm-aca-arg",
+    "p-packlist",
+    "np-prfile",
+    "np-regiry-cient",
+    "nm-use-validate",
+   npmlog"    "once"
+   "opene"
+    "sn
+    pacote",
+    "pa--inside",
+   promis-inflight",
+ qrsring",    "qrce-termnal
+   "w",
+   "read,
+  "red-m-shim",
+  "ead-insled,
+   "read-package-jso,    "rad-pakae-tree"
+    "readale-stream",
+    "readir-scoped-modules"   "eques"   "rery",
+   "rimraf",   "smver,
+   "ha",
+   "slide",   "sorted-object",
+  "rtd-uniostrea,
+   "sri"    "stip-asi,
+   tar"
+   text-e",
+   "udubr",
+   uask",
+    "uniquefilename,    "npipe",
+    "pdaenotifier",
+    "uui",
+   "validate-npm-pacage-lcnse",   "vlidt-pm-packgename"
+    "ich,
+  "rapp,
+  "riefle-atomic,
+    "safe-buffer",
+   "orer-fam"
+  ,
+ "evepeencis": {
+   deep-equal" .1",
+    "mred": "~.3.6",    "arked-man":"0..1
+    "npm-retr-cuchapp": "~2..0"
+    n-regisr-mck: "~1.0",   "requireinet: ".4.2",
+    "pntfjs": "~1.11",
+    "standard": ~.0.
+   "tack": ~.2.",
+   "tap" "~1.2"
+  },
+  "cripts": {
+   "dumpconf v | grep npm | sort | uniq",
+   preare" node in/npm-ci.j o-tming pne -prefix=. --n-global&& rimraf tst/*/nd_moles && make j4 doc",
+   "revers" "bsh scripts/update-autr.sh && git  UTHORS&& git comit -m "update UTHORS" || tr",   "tp: "tp --timeut 30",
+    ap-cover" "p --nyc-arg'--che'-covera -timeou600",
+   "test: "stanr && npmru test-tap",    "est-coerge": "np run tap-coer --\"est/ap/*js\" \"s/network*.js\" tst/roken-under-**js\"",
+    "testtap": "npmrun ta- \"test/ap/*.js\"\"tstnework/*.s\" \tt/brken-nder.js""   "test-node": "tp --timeout 0 \"test/p*.js\" \"testnetwork/*.js\\et/broken-unry**.s\""
+ },
+  "lic": "rtistic-20"
+}

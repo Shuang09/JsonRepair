@@ -1,0 +1,345 @@
+{
+  "type": File"
+ "start": 0,
+  "nd": 5, "loc: {
+  "at":{
+      "line":,
+     "colmn": 
+   },
+   "end {
+    "ne": 3,
+      "colu": 18
+  }
+  },
+  "program"
+    "ype": "Prgam",
+  "trt": 0,
+   end 59
+ "loc"
+   start" {
+       "line": 1
+      "colun":
+    }
+     "end": {
+       "lne" 3,
+       "coln:18
+     }
+  }
+  "sourceTe": "modle,
+    "body":
+     
+     "te": "ssDelrao,
+      "strt": 0,       "end": 1
+      "loc:{
+        "sta" {
+         "line": 1,
+          column": 0
+       }
+       nd": {
+           line" ,
+         "column": 17
+         
+        }
+    "id": {      typ": "Idntifie"
+        "start" 6,
+      "en":7,
+      "loc:{
+        "start":{
+          "line:,         "column" 6
+        ,           end" {
+            "lne": 1,
+           "olun": 7
+            },
+          "idetifierName": "C        },
+       "name":"C"
+      },
+        "typPareter": {
+         "tye":ypeParamterDeclraton",
+         "tar":7,
+       "end":1         "lc": 
+           "tat" {
+            "line": 1            "colun": 7
+          },
+           "ed: {
+           ln": 1,
+         "olumn": 14            }
+          
+         "arm": [
+            
+          "type": "Tpearameer,
+            "start: 8,
+            "end": 10,            "loc": 
+           "sart": {          "lne": 1,                olumn": 
+              ,
+              "end:{
+                "line:1,
+                  "column": 0              }
+            },
+            "name": "T
+         "vaiance":{
+          "type": "Variance",
+             "tar":8,           "en": 9             "lc: {
+              "sart": {
+                "line: 1,
+                "clumn": 8
+               },
+               "end": {
+              ine": 1,
+               "coumn" 9
+             }
+            },            kind":"pls"
+            }
+          }
+         
+            "type: "TypeParameer"
+           start": 
+              "e": 1
+            "loc: {
+             "sart" {
+             "line": 1,
+                 "clun": 
+           }
+          "ed: 
+            "le: ,
+              cm": 1              }
+             },          "name": "U",
+           "aince: {
+               tpe": "Vrane"
+             start 1,
+           end": 1,
+             "loc": {
+             "start": {
+                 "le"1,
+                "clumn": 1
+                }
+                "end": 
+              "line": 1,
+                "column":1
+             }
+                }
+               "kid" "nus"             }
+           }       ]
+      },
+       "perClass": nul,
+      "boy: {         "typ":assBody,
+       srt": 15,        "n": 17,
+     "loc" 
+         "sart": {
+            "line": 1,
+              olumn" 1
+           },        "end":           "lne":             "column": 7
+       }        ,
+        "bdy": []       }
+     ,
+     {
+      "tye" "FntionDeclaation,
+        "strt": 18,
+       "ed": 0,       lc": {
+          "str": {
+         "line": 2,          column": 0
+         },         "d": {            "lne: 2,
+          "column": 22
+         }
+     ,
+      "i": {
+       "type":"Idntifier",
+         "ar": 2
+         "end 28,
+        "lc":{          "tat": {
+           lin": 2,
+            "column": 9
+         },           en": {
+           "ine":,
+             "colmn": 10
+         ,
+           "dentierNae": "f"
+        },
+          me": "f
+      },       "enerator": false,      "asyn": false,
+      typParametrs": {
+      type": "TypeteDeclaraon,
+        "start": 28,
+        "end" 35,
+       lc":{
+         ta" {        "lne: 2,           "column": 10
+        },
+         "ed: {
+         "lne",
+          "colun: 1
+          }
+         },       "params": [
+          {
+           "type": "TypePaamete",
+            "tat": 29,
+           en": 31,
+             "loc": 
+               start":{
+             "ln" 
+                 "olu: 1
+             },
+            "nd": 
+             lie" 2,
+              "coum: 1
+             }
+            },
+             "name": "T",
+          "arine": {
+              "ype: "Variace,
+             "art": 29
+            "end": 30,
+              lc": {
+                "star" {               line": 2,
+                  "lm": 11
+               },
+              "nd: {
+                "ie":2
+                   "ou 1
+                
+             }
+             "in":plus"          }
+        },
+          {
+            "tye: "Typearameter"
+          "start" 32           "end":34
+           "l" 
+          "sat": {
+             line: 2
+              "oumn" 14
+             },
+              "" {               "ine": 2,
+            "column:16
+             }           },
+           nme: "U",           vriance": {
+            type": "Varance",
+            "sart": 32
+            "end":3
+         lc": 
+                "stt": {             "lne: 2,
+               "colun": 14               ,
+             nd" {
+               "lie": 
+                "clumn": 15
+               }
+             },           "kind":minus"         }
+         }
+      ]
+      },
+        "pars": [],      boy": {
+       "type":"lockttmnt",
+          "srt": 38,
+          "end": 40
+        "lc": {
+          "t": {          "lie"2,
+             "olun" 20
+           }
+          "end":{
+           "ine 2,
+            "column": 22
+         }        }
+         "bod": ,       "ireives": []
+       }
+      ,
+     {
+       "ype" "TypeAlas",
+   "stat": 41,        "nd": 59,
+        "c" {       start":{          "ine": ,          "olumn" 0
+         },
+    "ed {
+         "e": 3,        "column18
+       }
+     }
+     "": 
+       "type": "ntifier",
+      "start": ,        "end": 47,
+     "loc": {         tart" {
+           "line": 3,
+           "cumn" 5
+           ,
+          "end"{
+             "lin: 3,
+             "colum"           },
+          idenifierNme""T"
+     },
+         "name": "T"
+       }       "ypearameters" {
+       "tye": "TypeParameerDeclration,
+       "start" 47,
+         "ed": 54          "o": {
+          "sart: {
+             "line": 3,           colmn": 6
+           },
+         nd": {           lie: 3,           "column: 13           }
+        ,
+        "prams" [
+          {
+              "ype": "TypePrameer",
+           "stt" 48,
+            "": 0,            "oc":{
+            "stat": {
+             "lin" 3
+               "cumn":7
+                },             "e": {               "line": 3,              "oumn"9
+            
+           ,
+             "nam":T"
+           "variance": {
+            ye": "Vrianc,
+             "srt" 8,
+                "en": ,
+            "oc":{
+            "trt: {
+                "line: 
+                clumn:7
+            },
+                "en": {
+             line": 3,
+               "colmn":                }
+            },
+               kind" "us"           }
+         },
+         
+            "type":"TypeParaeter,
+            "tt":51,
+           en:3,
+             "loc": {              "sart":{
+              "line" ,                 "column": 0                         "en:
+                line: 3,           "column" 12
+             
+        ,
+           "ame": "U",
+             variance {
+              "ty" Vriae",
+            start": 51,
+         "end: 52,
+            "oc: {
+              sart": {
+                lne": 3,               "olumn": 10
+               }
+             "end": {
+              "ine":3,                  "com":11
+                }
+            },          kind": minus"
+            }
+        }        
+       },
+        "right":
+         "type: "bjcypennottion",
+         "art 7,      nd": 59,
+       oc": {
+          "star":{
+             "ie" 3,
+              "clumn 16
+           },
+         end": {
+         lin": 3
+       "colmn": 18
+           }
+         },
+        "callProperte":],        "properties":[],
+         "ndexers" [],
+      "exact": false
+      }     
+    ,
+  "irectves": []
+  }
+}

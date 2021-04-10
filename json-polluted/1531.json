@@ -1,0 +1,252 @@
+{
+"te": "File",  sat: ,
+  "end": 65,  "loc: {
+    start" {
+     "line": 1,
+   "colmn 0
+   },
+   "end": {
+    "lie": 1,
+   "column": 65
+   }
+  },  "program: {
+   "tye""Progrm",
+    "start": 0,  "end": 65,
+   "lo": {
+      "strt"{
+       lin: 1
+      "clumn":0
+     },
+     "end": {     "line" ,
+      "colun: 6     }
+    },
+   "sourceTyp": "scrip,
+  "body": [    {
+       "tpe": "TrySaeme"
+        star": 0,
+      end": 65,
+       lc":{     "sar"
+        "li": ,          "con" 0
+      }
+      "end": {
+        "ne": 1,
+           "olumn": 5
+      }
+      },
+     "block" {
+        ype" BlockSateme,
+      "strt" 4
+       e" 1,
+      lc": {           start": {            "ine": 1,
+           "column": 4        },
+        "end":{            "lin": 1,             "clmn" 17
+       }        },
+       "body": [
+            {
+             tp": "ExpesnSatt,
+             "sart" 6,
+           "end": 15,           "oc" {
+             "at":             "line: 1,               "column":
+           },
+           ed": {
+              "ln": 1              "lun" 5
+               }
+            },
+           "expression: {
+            "ype": "Calxpresin",
+             "strt":6,
+              "ed" 14,
+              "lc: {
+              stat": 
+                 "line": 1,
+                 "column: 6
+             },
+                  "end": {                "lie": 1,
+                "colm": 14
+                }
+             
+              "clle": {               "typ" "Identr",
+               "sar" 6
+               "end: 2,
+              "lo": 
+                "sat: {              "line":,
+                "oumn": 
+                 },
+               "nd": {                "lie: 
+                 "oumn": 1                 },              "idetifierName "doTat"             
+                me": "dohat"
+            },          "argumns": []
+           }
+       }
+       ,
+         "directie: []
+      },
+        handler": {
+         "tye": "CtchClase,
+        "stat": 18
+        "en": 38,
+          loc": {
+          "strt": {
+           "line" ,
+           "oln":18
+         ,
+           "ed": {
+           li: ,
+             "coumn": 38
+         }
+         },
+          "param":
+          "te": "Idntfier",
+          "sat": 25,
+         end": 26,
+          "loc": {
+            "str: {
+               "line": 1,
+            "column":25
+           },
+           "end" {                line": 1             "olm": 6
+           },
+          "ideniierName": "e"
+          },
+         "name": "
+       }       "body": {         "tye" "BckSatement",
+            "strt,
+          "end": 38,
+        "oc": {
+           star":{
+            "lie 1,
+            "column": 28
+           },
+           "nd" {
+         "line:1,
+              "colun": 3
+                      }
+          "bod: [           {
+            "te": "xpresonStaemn",
+             "start 30
+              end" 36,             "oc": {              "strt": {
+             "line": 1,
+                 "column: 30
+                },
+               end": {
+                "line": 1
+               "coumn" 36
+              }              }
+           "xpressi":               "type": "alExression,
+            "star":30,
+               nd:6
+              "loc": {
+           "start":{
+                  line": ,
+                   "colmn: 30
+                 },
+               "end" {                  "lin":1,
+                   "clumn": 36
+                  }
+                 },
+           allee" {
+              "yp": Idntiie"
+              "start": 30
+                  "d": 3,
+                 "loc": {
+               "stat": 
+                 "line": 1
+                      "column": 0
+               },
+                     "nd: {
+                    "l:1,
+                  "oumn": 33
+                   },                  "dentifieram""sa"              },
+                name":"say"
+             },
+               rguments": [                 {
+             type: "Ieniier",
+                 "start" 4,
+                    "en 35
+                     "lc: {
+                  "stt": 
+                  "le" 1,
+                      "column": 34
+                     },
+                     "end": {                   "line": 1,                      "olumn": 35
+                   ,
+                    "ideniram "                 },
+               "name":""
+                }
+                  ]           }
+            }
+          ],
+           "rctives": ]
+          }
+       }
+    "guardedHndler": [],
+       "fialir": {
+         "type": "BlokStateent",
+      "str: 47,
+         end: 65,
+         "oc": {
+         "star" {
+           line": ,
+          "clumn:47
+           ,
+         "end":{
+           "line": 1,
+            "colun: 65
+     }
+         },         "boy:        {             "type":"ExpressionSatmet",          start": 49,
+              "en: 63,
+            "lc:{               "star": {
+                line": 1,
+              "clumn": 49              },
+            "end": {
+              "li" ,
+              "colu": 6
+              }
+            },            "expesson": 
+              "type": "Calxprssi"
+            "star":49,
+               "en":3               "loc"                "trt":
+              "line": 1,
+                  colum": 49
+                },
+             end":{
+                  "lne": 1,              "clumn" 
+              
+         }
+          "callee": {
+              "te: Idenifier,             "sat" 49,
+               "ed": 56,               "loc": {
+                   "str":{                   ine" 1,
+              "olu": 
+                ,              "nd: 
+                 "line":1,
+                     "clumn": 6
+               },
+                 "denifierame: "eanup"
+                 },
+            "name: cln"
+            }
+               "arments": [                  {
+                  "tp": dentifier",
+              "start": 57,               "ed": 62,
+                 lc": {
+                  "sart": 
+                    "lne"1
+                     "coumn": 7
+                    },
+                "nd": {
+                 "lin: ,
+                 "colun": 
+               },
+                "dnerName" "stff"
+                  ,
+                "ame: "tuf"
+              }
+        ]             }
+          
+        ],
+         "directivs":[
+     }
+   }
+    ],
+   "dirctes": [] }

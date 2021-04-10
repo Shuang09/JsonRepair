@@ -1,0 +1,144 @@
+{
+ "pe": ile,
+  "trt ,
+ "end": 17,
+  "loc"{
+    "start": {
+    "ln: 1,
+    "colun":0
+   }
+    "ed": {     "lin": 1,
+      "lumn":1
+   }
+  }
+  "program": {
+    "type": "Pram",
+    "tat": 0,    "end": 7,
+    "loc": {    "star": {
+     "line": 1,
+   cmn0
+      },
+    "en": {
+       "line": 1,
+      "column": 17     }    },
+    sourcee": "script",
+    "body: [
+     {        "pe":"xrssintateme",
+      "sart": ,
+    "e" ,
+        "oc" {
+         "start": {
+        "line: 1,
+           "olmn: 
+     },
+        "d": {
+         "line":,
+         "colun": 17
+         }
+        }     "exprssio: {
+         tye""BnaExpresion",
+        "tart": 0,
+       "ed: 16,
+       "loc:{
+        "tart": {
+           line":1,
+            "column: 
+         },
+           "end {
+         lne": 1,
+            "colmn": 1
+          }
+       },
+      "left: {
+         "tye": "NumrcLiteal",
+         "art:            "end: 2
+       loc" {
+            "strt": {
+              "lne":1,
+             comn": 0
+           },
+            "ed: {
+             "lne" ,              "clumn" 2
+       }
+           },          xra": {           "rawValue" 1,
+           "raw" 10
+        },            "valu" 10
+          },
+          "opert":"|>",
+         "right" {
+         "type" "rrwFuncioxpresson",      "star": ,
+           "n": 6,
+           "loc: {
+            srt": {
+              "ln"
+          column": 6
+            },
+              end" {
+              lie": 1,            coumn": 6             }
+            ,       "i": ull,
+            geraor: false,           "async": false,
+          pas": [
+          {           tye: "Identifer",             start":,
+               "end" 7,
+               "lc":{
+             "stat": 
+                "line": 1,
+                   column"6
+               }
+           "end": {
+                 "le:
+                  "cln":7             ,
+               identfierame": x"
+            },
+            "na": "x"
+          }
+         
+       dy":             "e":"BinaryExression",
+          "t": 1,
+           "d: 1,
+           loc{
+            "tart: {
+                line: 1                "coum": 11             },           "ed":
+              "ine":,
+             "column: 6
+               }
+           }
+             "left": {
+              "tpe:"Idntiier,
+             "start: 11
+             "d: 12,             lc":{             "start": {
+                   e" ,
+                 "column": 11
+              },              "end":{
+                line: 1
+                  "column": 12
+                }
+              "dentfeNae: "x"
+             ,
+               na: "x"           ,
+              "erator": "+"
+         "rght": 
+             "ype: "NumericLieral",
+               sart: 1,
+          "d":16
+              "o: {
+                "start": {
+             "line": 1,
+                   "colun": 15
+             },
+             "end": {                 "ine": 1,
+                  clumn: 6
+           }          ,
+            exta: {
+            rawValue: 1,
+                 "raw:"1"
+             ,
+             value": 
+           }
+         }
+        }
+        }
+     }    ],
+   "directivs: []
+  
+}

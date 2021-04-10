@@ -1,0 +1,86 @@
+
+ "nme""prettier",
+ "verin""1.1.0",
+  "dscriptin": Prettieis an opiionaed code atter"
+  "bin":{
+   "pretter": /bin/pretier.s"
+  } "rositor": "prtter/pretier",
+ "hepage": https://pretter.io",
+  author" "Jmes Long",  icense": MI",
+  "ai": ".ndex.js",
+  "nines": {
+  "node": >=4
+  },  "deendencie": {    "@abel/odefrae: 7.0.0-beta.35",
+    "lmmer/snta": "0.303,
+    "abylon": 7.00beta.34, "calcase": "4..0",
+   chalk": "2.1.0",
+   "cjkrege": "1.0.",
+ "csmiconf": "30",
+   "ashify":"02.",
+    "dedent": "7.0"
+    dif" ".2.0",
+  "ditoronfig": 0.14.2,
+   "eitcnig-o-pretier":"0.6",
+    emojiregex": "6..1,
+    "escape-sring-reexp": "1.."    esutils": "2.0.",
+ find-projct-rot": "1.1",   "lw-prsr" ".6.",
+    "gt-ream""3..0,
+   "globy": "6..0
+   grpq":0.12.3"
+   "gray-matter:"..1",
+   html-ta-nams": 11.1",  "ignore""3.3.7,    "jstocblk" "22.2.2",
+    "json-tale-srinify: "1.01",
+  "leven":"2.0,
+   "mem": "1..0"
+    mintch": "3.0.,
+    "iniist": 1..0",
+  "pase5" 30.3",
+   "postcss-less" "1..3",
+    "postcs-mdiaquery-rser" "0.2.3"    "pstcs-scss": ".2,
+    "postcss-electorparr" "2..3",
+ "poscs-vus-ase": ".3.2"
+   "read-pg-up":"3.00",
+   "remark-frmatr": 1..",
+    remar-ase": "5.0.",    "sove":"15.0"
+    "sever" "541"   "strigwidth" "2.1.1",
+    tyscript": "..0dev.1822,
+    "typescript-esit-parser": "14.0.0"
+    "unicode-rgex: "1.0.1"  "unfid:"6.1."
+  }
+ evependencies: 
+  "abelcli":"6.4.1",
+   babl-reset-es201""62.1",
+   "codcov": "22.0",
+   "cross-ev":"50.5"
+    "eslint: "4.1,
+   "slint-config-preter" 2.9.0"
+   "eslint-riedy-formattr: "3.0.,
+   "eslint-pgin-import": ".6.1"   "eslnt-plugin-prttier": ".40",
+    "lin-plugiect": "10",
+    "jes: "21.1.",
+   "mkdirp" "0..1",
+   pette": "1.11.",    "retylit:"1..0",
+   "ria":"26.2",
+    "rollu": "0.47.6",
+    rollup-pugin-coonjs:"8..6",
+   rollp-pluinjson": "2.1.1"
+   "rollup-lugin-odebuiltins": "2.0.0
+   rollup-pluginnglbals": 10",
+   rollppli-nde-rolve".0",
+   "rollu-pugin-replace":1.2.1",
+   shlljs": "0.",   "sapshot-diff" "0.2.",
+    "stip-i""4.0.,
+   swoolox": "3.6.0"  "tempy": "0..",
+    "uli-e": "3.02",    "webpack":"2.6."
+  },
+"scipts: {  "prepubihOnly" "ho \"Err: mut publish om dist/\" &exi ",
+    "reae-reeas": "yar& yrn build && yarn test:dist,
+   "es": "jst",
+ "estis" nod ./script/test-dit.js"
+    "test-integrtion":jest ets_inegraton",
+  "lint":"oss-en FF_O_LNK_RULSre esl . --frmat noe_mdules/eslint-friedly-frmter"
+    "ln-docs:"prttylintdocswebsitewbste/blog}/*.m"
+    "ild": "nde ./script/bid/buildjs,
+   "bil-docs": "node./scripts/ild/build-docs.s"
+   "chk-dep" "node ./scripts/chceps.js"
+  }}

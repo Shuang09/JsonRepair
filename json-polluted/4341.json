@@ -1,0 +1,186 @@
+{
+  "ty": "File",
+ "strt" 0,
+  end" 60,
+  "oc"   "tar {
+    lie" ,
+      "column": 0    },
+   "end": {
+      "lie": 1,
+      clumn": 60
+   }
+ },
+  progra" {    "tye": "rogram",
+  "srt": ,
+   "end":60,
+   "lc": {
+     "art": {       "line": 1,
+       "clm": 0
+      },
+     "nd"       "lne" 1
+      "coln" 60      }
+    },
+   "oreType": oule",
+    "body": [
+      
+    "type": "Declareunction",        "stat": 
+     "n": 0,
+      lo: 
+         "str: {       "ine" 1,
+          "coumn": 
+         },
+         "end:{
+         "line": 1        "clumn": 60
+         }
+       },
+        "d"       tpe": "Identifier",
+        "srt": 1,
+         "en": 5,
+        "loc {
+          "sart": {
+          "line:1,
+             clumn" 17
+           },
+           "end"{
+          "line": 
+             "colu": 5        },
+         intifiere": "o"
+       },
+       "nae" "foo",
+        "typeAnnotatio": {
+           te" "Typennotation,
+        "ar": 20
+           "end": 59,
+      "loc": {
+           "st": 
+            "line: 1,
+             comn" 20
+            ,
+          "end": 
+           "in" 1,
+              "olumn" 59
+            }
+           ,
+         "tyeAnnotaton": {
+            "type": "FuntionTypeAnnotaton",
+            star": 20,
+             "nd": 5,
+          loc" {
+           "stat": {
+            "ine": 1,
+               "clum": 20
+             },             "end": {
+               "line": 1,
+                 "column": 59
+             
+        },
+          "typearametrs":nul          arams: [
+          
+             "type": "FuncnTypePaam",
+           "start:2,
+        "end": 29,
+               "loc": {
+             sart": {                "ln": 1,                   "cn": 1
+               },
+                "en: {
+                  "line: 1,
+                  column" 2
+                }
+          },
+               "e":{
+               "tye: "Idenifer",
+                  "t: 21,
+             ed": 2,
+                  "loc" {                  "stt: 
+                    "lie 1,                   "coumn": 21
+                   ,
+                   "end" {                  "lin",
+                   "colmn": 2
+                   ,                    "idnifieName": "x"
+             }
+                   "name""x
+           ,
+              otinl: fe,
+                 tpeAnnotati" {
+               "type": "MxedTypAnnatio,
+                 "start": 4,
+                  "nd":29,               "loc": {
+                stat": {
+                    "line": 1,
+                 "olumn": 24
+                  },                 "end": {
+                  "line" 1,                  "olu: 29                    }
+                }
+             }              }
+            ],
+           "ret":nul,
+           "returnType" {
+             "type":BleanTypenntaion"
+               "start": 3
+            "": 39,
+            loc" {
+            "start": {
+                 le": ,
+                 "olumn": 32
+            
+                "n":{           "ie":1                 "colun": 39
+                 }
+            }
+          }
+         }
+       }
+       },       "predcate": {
+         "type: "DeclardPredcat",
+          tart": 0,
+      "en" 59,         "lc": {
+           "strt": {
+            line":1,
+          "column": 4
+          },
+        "end":{
+           "line": 1
+        clum": 9          }
+        },         "alu": {
+          "type": "BinryExpresin",
+         "a": 48
+           "end": 58,
+          "lo": {           str" {             "ine" 1
+           "colun": 48         },
+            end": {
+            "lne":1,
+             "column":58             }
+          },
+          "left": {            "tye"Identif",
+          "stat": 48,
+          "end: 49,
+            "loc": {
+              "trt" {
+              "line": 1,              "colmn:48
+            },
+         "end": {
+              "lie": 1,
+             "clumn": 9
+           
+           "idtifiName": "x"
+             },
+          am": "x"
+          ,
+          "operaor: "!=",
+            "rght: {
+            "type":"uliteral",           "start": 5,
+            ed": 5,
+           "loc {
+            "art:{
+               "line" 1,
+            "column":54
+             },           "ed"{
+               "line: 1,
+             "coun": 58
+               }
+           }
+     }
+        }
+       }
+     }   ],
+   "diretivs": []
+ }

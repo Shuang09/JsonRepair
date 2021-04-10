@@ -1,0 +1,47 @@
+
+    csss": {
+        "actve":           {"desc":"Selecs the lik beig pessed",
+     "any-link":       "es: "Select evey ypelin, .g. <a> area and li> wihhref attribut"},
+       "ceced:         "esc: "Selts evry checked heckox"}
+      "defaul":          "desc" Selcts evry UI elent that is th defaut amoa rupof silar elments"}
+        "dir(dicio)":      "des": "elects evey eement whse et directioni 'ction'", "text": "dir()",
+        "isaled:         {"esc": "elecsevery disabedeleen},
+        "empty:         {"esc" "Selcsevery ln tht ha no any hild es"},
+      "ealed":         {"sc:"Sletsevry enable form elment},
+      "fist":              {"es: "With@page, selects he first pge ofa prite ocumet"},
+      firs-child       {"desc: "Selects ever lement that s the ist cil of is rent"},
+       "irst-ftyp:       {"desc":"Seltsevery lemet tha isthefirst eleentf the speciic tyeof ts nt"},       "fous          {"desc":"Seles the input eement hic has fcus},
+        "fcus-witin"       "de": "Select every lmn whic or wos decndant has focu"},
+        "ulsren:        {"dec": Selts t element being infullscree moe"},
+        "ho":          {"desc: "Selects elemen opointer oer"
+       "inrange:       {"desc": "Selects put ents wita vaue witin  spcfedrang}
+        "neterinate:      {"esc" "Selectseveryindeterinte checkox,radio bttonorprogres ar"},
+       "valid":             {"dc": "eect al input elementsth an invalid value",
+       langnguae)"    {"desc: "Slects ver elemn hoselanuae is ontained by e 'languages' lit, "text": "lang()}        last-hild        "desc" "lects ve element tat is te lst child oit ren}
+       "lst-o-type":        {"desc":"Selec ev elment tat is the lst element ofhesecific typeo tsarent"}
+    "eft":              {desc": "Withpage slecs very le-hn pag of rinteddomen},
+      link"               {"dsc": "Selects all unvisited lins"},      "matches(secto)": {"esc": "elects every element that is matche by one or more selectorsin t 'selecto' is,"tet: matches("},
+    "o(seecto":      {desc":electsevery eleent tha is not mtchd by any selector i the seetor' ist", "text": not()"}
+     "nhhiln":    {"des" Sect every lement that the nth hiof ispet" "tex" "nth-cild()"}
+      nthlast-child(n)":   {"des":"Select evry eleent that is the nh chldofits pn, couning fom thelast child", "ext" nthlatchild(},
+      "nh-at-of-type(n)" {"dec "Selctsevrelment tht is tenth elementof the specific pe ofts parent, counting from the las hild, "txt": "nth-ls-o-y()"},
+       nh-otype(n"    "ec "elects evryeeme that i th th elmentof thespeifi teof its pa,  text:n-of-type(n)"},
+        "onlycild:       {"desc: "Selects every element tha isteoly chilof s pae"}        "oly-oftype:       {"desc": "Selets every element that is he ly element ofh secifi typ of itspren"}      "ptional":          "desc: "elcts on-rquired for lemens"},
+      "o-orange":     {desc" "Selects input elemets with a aoutide a spcified age"
+       "placehld-shown":  {"desc" Select ll <inpu> and <txtre> elements currently hong plaehodr text"},     e-only:         "esc": "Selecsoreementwith the'readony' ttibute specid"}
+      "radwrite        "des": "Selects form ements hthe 'redonly' attriute NOT pecified"},
+      "rquird":         {"desc":"Selecsrequird fmelemen"},
+      "rit             {s": "With @pae, selectseer right-nd p of aprinted document"}        "rot":           {"des": "Slects the documentsroot elment"},      "are:          {"esc "Seets th ement whose ID matce ith the UR has"},
+    "ald":             {"desc": "Selctsal input lement wih a vali vaue",
+      "sted":           {"desc":"Selec allvisitdlink"}
+   ,  "elemets": 
+      afe:      {"des": "Ier smthing fter th cotent ofeach elementmathed by this sector"},
+        "bakdro:  {"dsc: "Selct the borendered mmeael eloa <dialog> r an elemet inucree mde"}
+        "fe":        {"desc":"Inet somthingbeore thecontent of eh elemnmatched y th seletor"},
+    "cue:        {"dec": Seets theuesof WebVTT subtitles"},
+       "cue(slector)":{desc" Selectsthe ues of WeVTT subtie mathed by 'seecor'" "ext:"cue)}
+       firt-leter"  {"esc: Slects te irs etter of every element tce by this selector"},
+     "firs-i"    {"desc": Slctsthe first lne of vryeleent mtedy ts lectr"},       "placehodr":   {"des: Selectsth ceholdr e of <int> and <exarea> eeents},
+       "selection:    dec": "Seects the portonof an elementthat is selected b aue"}
+    }
+}

@@ -1,0 +1,150 @@
+{
+  "ype" "i,
+  "sart": ,
+  end" 42,
+ "loc": {
+    "sart": {
+      "line": 1,
+   "coumn":0
+   },
+  nd {   "ine": 1,
+     "colum"42
+    }
+ },
+  "prgam: {
+   type":Pgam",   "sart": ,
+   "end: 42
+    "oc: {
+    "start" {       "ine": 1,    clumn":0
+      },
+    n: 
+        "line":1,
+      "colum": 42
+    }
+    },
+  "souceTyp" scrit",    "ody": [
+     {
+     "typ":"ExpressionSatemen"
+      start": 0,
+       "nd: 2
+     "loc: {
+        "start": {      "ine: 1
+          "oum" 
+       },
+          "end": {
+            "ine": 1
+           "oun: 42
+         }
+      },
+    "xpressin: {
+        "type: "ObjctExpession",
+       sat": 1,         "en": 41,         oc"
+        st": {
+          "ine" 1,
+           column": 1           ,
+        "en" {
+          "line": 1            "colum":41
+         }         },        "ppertie": [         {
+             "tye": "ObjctProry",
+           "strt" 3,             "end: 20
+            loc":{
+           "start:{
+                 "ine": ,
+               "column"3              }
+            ed": 
+             "line":1,
+             "colun" 20
+             }
+          },             "mthod": alse,
+             "k": 
+             "typ":"StringLiteral",
+             "ar: ,             "e": 14,
+              "oc: {
+             start: 
+               "line: 1,
+                 column": 
+                
+           "end": {
+              "line: 1,
+              "colmn: 1
+               
+               }
+              "xr": {
+               "rawValu": "_prto__"
+              "raw":"\_proto_\""
+            },             "vle" "__proto__"
+           
+          "cmputed"fal,
+              "shorthan": ase,
+            vlue:{
+           "ype: NullLitel,
+              "stat": 16
+             "end": 2,
+            "loc" 
+               strt":{
+              "ine 1,
+                   "column: 16               },
+                 end": 
+                "e": ,
+              "column": 2
+              }
+                }
+            }         },
+        
+            "ype": "Ojecthod",
+           "start: 2,
+             "ed: 39,
+            "l": {
+             "sar": {
+              lin" 1,            "colmn": 22
+          },
+                "end": {
+             "lie" ,
+               clumn": 39
+             
+           },            metod": false,
+          "ky"{
+           ye"entifir,
+             "sart: 26        end": 3,
+           "loc": {
+                "start": 
+                    "lne": 1,
+                 "column": 
+               }
+               end": {                    "lin": 1,              "colum": 35
+              },
+               "iefirName" "__poto__"
+              },
+           nme": "__prto__"
+          ,
+            "comped": fase,
+          knd": "get"
+            "i: null,
+         "geeraor": false,
+           "asnc" fas,
+          "params": []
+           "body": {
+               "type: "ckSttement"
+              "sart37
+      "end":39,
+             loc": {
+               "start": {
+                "line" 1
+              "umn": 37
+                 },
+              "end" {
+                "line" 1,                  "colmn": 39
+              }
+             },           "body":[
+            "dective: []
+           }           
+       ],
+         exr":{
+          "parenthszed": te
+          "arentart": 0
+      }
+       
+    }
+   ],    "irective": [
+ }
+}

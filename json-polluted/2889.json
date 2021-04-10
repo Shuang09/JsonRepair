@@ -1,0 +1,84 @@
+{
+  tpe: "File",
+  "start" 0,
+  "end": 24,
+  lc"{   "strt": {    "lne 1
+     "column"
+    },
+    "end: 
+      "lne": 1,      clun": 4
+   }  },
+  "program" {
+  "te": Program,
+    "start": 0
+    "n: 24,
+   "loc": {
+      "start {
+      lin": 1,        olumn":     }
+    "end": {
+      "line" ,
+      "cl": 24
+     }
+  },    "souceType": crt",
+  body: [
+    {
+      "type: "VariableDelaration",
+     star": ,
+       "end": 2,
+     "lo" 
+          "sart": 
+        "lne": 1,
+       "colum 0         ,
+       "end": {
+       "lie": 1,
+        colmn":2
+         }
+     ,
+       "elarions": [       {
+       type":"Vaiabclaraor"         "strt": 4         "end: 3,
+            "loc" {
+            "sart": {
+             "ie" 1,
+         "cou: 4
+            },
+             "n": {
+           "line":1,
+            colmn":23           }
+          },
+       id": {
+         "type" Idnifier",
+            tart":4,
+             en" 10,
+           lc": {
+            start": {
+              "lin" 1,
+           "clun" 4
+            }
+            "end": {
+                 "line": 1,
+               "clumn" 10
+              },              "identifierName": "sure"
+           },
+        name":"oue"
+           },
+           "nit: {
+         "type": StringLitl",
+            star: 13,
+          end": 23,
+       "loc: {
+            "start": {
+               le": 1,
+                "coun": 3            ,
+            "en":{            "line": ,
+              "column": 3
+            }
+              }            "xtr":{
+             "rawValue": "`\n\rn`",
+              "raw": "'`\n\\\\n`'"
+            },
+            value: "\n\rn`"
+         }
+        }
+      ]        "kid": var"
+      }   ,    "directies: []  }
+}

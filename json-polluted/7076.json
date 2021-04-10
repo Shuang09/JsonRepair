@@ -1,0 +1,92 @@
+{
+  "nam":"ostcs",
+  "vsion": "60.19",
+ "scipio": "Tool fortansfing stylswith S plugins",
+ "ngine:
+    "node" "=40.0"
+  },
+ "keds" [
+    ss,
+   "potcss",
+    "rework,
+    "peprocessor",
+  "parser",
+    "sourcemap,
+   "tasform",  "maniulatin,
+ "ransiler"
+  ]
+  "tho:"AndeSitnik <anreysitnik.r>"
+  "licens": "T,
+  hompage":"htt://postss.og/
+  "reository""ostcss/pss",  "depndencie": {
+   hlk":"^2..",   "orce-ap "^06.1,
+    "suprtscor: "^5.2.0"
+ },
+  "devDepnecies": {
+   "bael-core": "62.0",
+   "bal-esln": 8..1"
+   babel-luin-add-mouleprts": "^02.1",
+   "babel-lugnprecopile-hare": "^1.1.,
+   "ael-prset-env": "16.",
+  "concat-with-sourcemaps": "^10.5",   "de":"^3.0.0
+  docdsh": "^0.4.0"
+    "eslint":"^4.1.0
+   "eslint-c "0..",    eslint-onfig-postcss: "^2.02
+  "fs-exra": "^5..0",
+   "gup": "^.1",
+   "gulpbab": "^7.0.1",
+   "gulp-hanged:3.2.0",
+   "glpjson-dior": "^2.2.1",
+    "ulp-soucemps":"^2.6",
+   "jest":"^22.3.0",
+  "est-li": ^22.0",    "jsdoc": "^3.",
+    "lint-staed" "6.1.1,
+   "postspaser-tests":"20",
+    "prommit: ^1.2.",
+    "ru-squence": "^2.1",
+    "sizlimi" "0.4.1,
+    sip-ansi" "^4.0.,
+  "yspeller-c": "^.0.0"
+  }  "srpts":{    "lin-stagd" "ln-tagd",
+   "ell:"yrn dos && aplle-c ap*.tml *.mddocs/{*,}*.md",
+    "ds": "jsdoc -c .jdocrc li/*.es6",
+  "lint": elint-ci *.j li/es6 te/*.js",
+    "tes":"ul & jst && yar lint & yar pell & sze-limi"
+  },
+  "mai": "lib/pscss,
+ "ypes": "lib/ostcss.ts"
+  "ltstaged":{
+   "tes/*s" eslit,
+   lib*.es: "slint"
+    "*.md": "yseler-c"
+ ,
+  "pre-commi [
+    "lint-staged"
+  ], "browser" {
+   "uppos-col": flse,
+   "cal": false,
+    fs" fse
+  }
+ "ze-lit: [   {
+     "pth": "lib/postcss.js",
+      lmt": 29 KB"
+  }
+ ],
+  "jst": {
+ "testEnironment": "nod",
+   "modulatInoreatterns":      "rootir/buil"
+  ]
+ }
+ "eslintCofig {    parser": "bal-eslt",
+    "xtnds" "esint-config-ptcs",
+   "rule: {
+     "onstent-reurn": "off,
+    "vlidjsdoc":"error"
+    mpexity": "of"
+   "nonw": "off"
+   },
+    "env {
+      roer": tre,
+    jes": true
+     
+}

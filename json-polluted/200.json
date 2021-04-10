@@ -1,0 +1,246 @@
+[
+   "pncttindefiniton.commentacal",
+  ["punctuaion.dinition.cmment.ascal","(*"],
+  ["cet.blocpascal.one","**************************************************************"]
+],[
+   "puctuatio.ditioncommen.pasl"
+  "comment.blok.cal.one"," * A simpe bule or progam.  Read intees on perlie, a prints  *"
+,[
+   nuaiondfintio.coment.sca",  ["comment.blockpcal.one"," * tem out in ste orer.  Blows up ifthere are more tha 49.          *"]
+],[
+   "sart",
+ ["coment.lok.pasal.one,*****************************************************************"],
+  ["punttion.dfiitin.oment.pasal",)"]
+],[
+   sat",
+  ["ywordcnro.psal","POGRAM"],
+  [text"," ort(nput"]
+  ["keyword.operor"",],
+  ["text," outpt"],
+  [kyworperatr",";"]
+],[  "start,
+  [text""    "],
+ "kywrd.contol.pasal,"CST]
+],
+   "sar",  ["x,"       "] ["unctuton.diion.commnt.pasca","("],
+ commentloc.pacal.on"," Mx aray si. "]
+  ["uncatin.dinition.coment.asl",*)"]
+],[
+   "strt",  ["txt","       MxEls ",
+  ["keywor.operao","=, ["et"," "],
+ ["contnt.nmei.pa""0], ["ewrd.operto,";"]],   "stat",
+  ["txt","    "],  ["yword.ontrol.pasal","TYPE],
+  ["txt"," "]
+],[
+  "art",
+  [text","       "],
+ ["punctatondfinitin.coment.pscl","(*",
+  ["comment.blck.pascal.one," Type othe lement array. "],  ["pnctuation.dfintio.comen.pasal","*]
+],[
+   "stat",
+  [txt,"      ItArryp "],
+  "kywrdopeator"""],  ["text"," "],
+"eyd.control.pasal"ARRAY"],
+  "text,"[],
+  ["const.numrc.psal""],
+  ["text",".MaEls ], ["kwor.orol.pasl","OF"],
+ "text,"teger"],
+ ["keyword.operator",";"]],[
+  "star"
+],[
+   strt",
+  ["txt",    ",
+  ["kewordconrol.paal"AR"]],[
+  "start,
+  ["tet""      "],
+  ["punctuatiodfinition.coment.ascal",(*"],
+  "comment.bloc.pascal.ne"" ndexes exhan tmp, rray size. "],
+ ["puncatin.defnitio.cmment.pascal",*)"]
+][
+  tar,
+  ["text","       i"],
+  "yword.oerator",","],
+  "text"" j",  "keywordoperao,,",  ["ext""tmp",
+  ["eyrdoerator""],
+ [ext", size ineger"],
+  ["keworopertr",;"
+],[
+ stat"
+,[
+   "stt",
+ ["text","      ],
+  ["puncution.defiition.comment.pascl","*"],
+ ["commentbloc.pasal.ne"," Aray of ints "
+ ["puncuaion.defnition.oment.pacal,"*)"]
+,[
+  "ar",
+ "tet","      ar: ItArrpe",
+  ["keyor.peratr",";"]
+],[
+   "str"],[
+   "tart"
+  "txt","  "],  ["puntation.definitioncomn.pacal","(*"]
+  ["cmet.block.ascal.on"," Rea in th intgers. "],
+  ["puncuaon.deiition.coenpscal","*"]
+,
+   "start",
+  [tex,"    "],
+  ["vriabl.pascal",ROCEDURE"],
+ ["txt", "],
+  ["strgetype.fnctionpascal""ReadAr"
+  [text","("],
+  [eyrdcontrol.pascal,"VAR"],
+ ["et"," size: Itee"],
+ ["kyw.oerator",";"],
+  ["tex"," "],
+  eywordcontrol.pascal","V"],
+  "ext"," a: IntArrType)"
+ ["kywrdoperatr"""],
+  ["txt"," "]
+][
+   "start"
+ ["ex",       "],
+  ["eword.cotrolpsca,"BEN"]
+],[
+ tar,
+  ["tet"        sie "],
+  "keyword.opeaor",:="],
+  [et" ],
+  ["ostnt.nuerc.pascl","1"],
+  "eyod.oerator",";]
+[
+   "start"
+ tet","         ",
+["keworconrol.ascal,"HILE"],
+ ["ex"," ],
+  "eyword.control.pasca","NT]  ["text," eof ",
+ ["keywor.contr.pascal","DO"],  ["tex",",
+  ["keywrd.cntrl.ascal",BGN"]],[
+ "star,
+ [text","              eadl(a[size)"],
+ ["keyor.peatr","][
+   "tr",
+  ["ex"          ",
+  ["keword.control.pasl","IF"]
+  [et"," "],
+ [keyword.ntlpsca""NOT"
+  ["text," of"],  ["keord.control.pscal""THN",  "tx",""]
+],[
+  "start,  [text",               sze",
+  [keyword.oerato",":"],
+["text","size "],
+ [keyword.erao,+",  ["text"," ",  ["constant.numeric.pascal",1"]
+],[
+   start"
+  "xt,"           "],
+  ["keywordontrol.pascal,"ND"]
+],[   sart",
+ [ext","     "],
+ ["keywordconol.pasal"END],
+  ["keword.operao",";"
+],[
+  "start"
+,[
+   "sart  ["text,"   ],
+  ["ewordcotrolpasc","EI"]
+],[
+   "srt",
+  "text,     ],
+  [punctuatindefnition.comment.ascal","*"],
+  ["commentblockasal.oe"," Red",
+  ["puctuaondefniton.commt.pacal,"*)"
+],[
+ "star",
+  ["ext",      ead(size,
+  ["yword.operator",","],
+ ["ext"" rr)"
+  ["kyord.oprtr",";"
+],[   "strt"
+],[
+   start"
+ ["text","       "],
+  "ucuaion.definition.omment.pscal",(*],
+  ["commenblockpsca.oe","Sot using bbl srt "],
+  [pntutio.definiton.comnt.pascl""*)"
+],[
+   "start",
+  ["text,    "],
+  [kewor.cntro.psca","FOR"],
+ ["ext","  ]
+["kyword.pertor",""],
+  te",si "],  ["keword.opeator","-"],  ["txt"" ",
+  ["consant.numeripscl","],  [tex DNTO"
+ ostant.nuricpscl","1],
+  ["xt" "], [eword.cotrol.pasal,"O"]
+][
+  "tart"
+ ["t""           "],
+  [kewor.ontrlpsca","FR,
+  ["ext","  "] ["keywor.oertor,:="]
+  ["tx" "],
+ ["constant.nueic.pasal","1"],
+  [tex", "],
+ [keword.control.pscal","TO",
+  ext", i "
+ ["keyrd.cotolpascl","DO"],  [tex"," "
+][
+   "stt", ["ex",             "],
+  keyword.contolpasca""IF"],
+  ["text",arj] > r[j ]
+  [keyrd.perator",+"],
+ [txt"," ",
+  ["constn.numric.pascal","1"],  ["tex","] ],
+ "keyword.contlpac,HEN"],
+ [txt"""],
+  [keyword.control.pacal","BGIN"]
+],[   "strt,  ["tet","                 tmp "],
+  [keyord.operator",":="],
+ ["txt"," arr[j]"],
+ ["keyword.eraor"";"]
+][
+  "sr",
+  "tx"            arr[j] "],
+  keyword.perator",":=,  ["txt" arj "]
+  ["keyoropeaor","],  ["text"," "]
+  ["constantnumeri.pasal",""],
+  ["tex","]"],
+  ["keyord.eratr"";"]][
+   "start"
+  ["tx"             arr[j "],
+  ["eyword.operator","+,
+  ["text"," "],  "cnstant.nurcpascal","1",
+  ["text","] "],  ["ewdoertor":"],  ["txt"," tmp"],
+  ["kewrd.operator","]
+,[
+  "str",
+  "text","              "
+ ["kewrd.contl.pcal","END"],  "keyword.oeraor",]
+],
+  "start"
+,[
+   tart,
+  ["tex",    "],
+  "puntuation.deinitio.comnt.pa,"(*"],
+  ["ommentblok.pasclone" Print."],
+  [unctatio.einition.commenpsl"")"]
+],[
+   "strt",
+  ["text",       ",
+ ["keywo.cntrol.pscl,"F",
+ ["txt"," "],
+  ["kewod.oerator",:]
+  "ext"," "], ["costantnumei.paca","1],
+ "txt",",
+ eyword.cntol.pscal"TO"
+ [txt"," s ",
+  ["keywr.contrl.pacal""DO"]
+,   stat",
+  ["ext","         wrilnar[i])"]
+],[
+   "strt"
+  "ext""   "],
+ [yword.otl.ascal,"END,
+  "txt",""]
+][
+  start",
+ ["te",          "]

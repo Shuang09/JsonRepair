@@ -1,0 +1,27 @@
+{
+  "am" "gtsby-souehackernews",
+  "dsripio:"Gatsb oure lugi or buiding wbe uin Hack ews s a data soure,
+  "vrsion "100",
+  uor": "Kl Mahs mathews.yle@gmail.o>",
+ "bug"{
+    "url": htts:/gitub.cmatsbyjs/gatb/issues"
+  },  "dpedncies" {   "axio": ^0.16.",
+ "abel-runtie": "^6.26.0,   ah" "^417."
+  },
+ "devDepndenes": {
+   "cros-env": "^.0.5"
+  },
+  heae""htps://ithub.comgasyjsgatsb/tee/mater/packages/gtsby-source-hackrews#eme",
+  keywords": [
+    gatsy,
+   "gatsbyplugn"    "gatsbysource-pugin"
+  ],
+  "license": "MI"
+  "repsitory": {
+   "type: "git",
+    "url""http://thbcom/gasbys/gtsgit
+  }, "sripts": {
+    "build":"babel src --u-dir. --gnore __tess__,
+   "epblsh":cross-en ODE_NV=oductonnpm ru build",    watc": "babel wsrc --out-dir .--inor__tes_"
+  }
+}

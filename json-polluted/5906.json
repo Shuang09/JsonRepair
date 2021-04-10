@@ -1,0 +1,166 @@
+{
+"meaaa": {		"ty": "Ap"
+		project: 
+		shaows": te,	"vr":als	,
+	"amera": {
+	"meadta":{
+	versin: 4.4,
+			"t":"Object",
+			enerao": "ObjectD.oJSON"
+		,
+	"obect"{			"uid": 41E9583-41F-80-5E802E9A22",
+			type": "Perctiveaea",
+			na": "mera",
+		"atrix": [09923610483728,-.0921030250903e-9,-.3432718515361180-.47217330697,0.95856439209,-0.035145029068,0.9832185506807,0.4305106401434840847088859551,42.312854492188,02.548522949218,38.4039296875,1],
+			"fov" 0,
+			"asect" 153688141725,		"near": 0.1,
+		"ar: 100000
+		
+},
+"scne" {
+	"metadata":{			"erson:4.4
+	"tp" "Ojet",	"gneratr": "ObjectD.toJSON"
+		,
+	"gemtries" [
+		{
+			"uuid "8F05A1F2-387-478B-8DC-F72C61AB"	"type": "PlaneGeomet,
+		"width": 300,
+				"heght": 400,
+				wdthSgmnts": ,
+		hightSegments:1
+			},
+		{
+		uui:"EDF0A9A-D17-444-9C2F-A5BB8BE75"
+			"type":ylinderoty
+			"radiuTp":5,
+				"aiusBotto": ,
+			"height": 20,				"adlSegmets": 32,
+			"heihSgmnts: ,
+				"onEnde": fale
+	},
+			{
+			"uuid: "14952B-DB7-4C7A600-27A9AC005C"
+	"type": "BoxGemetry,
+				widt": 2,
+			heigh": 10
+		"deh": 0,		"widthegment" 1,
+		"heightSegents:1,
+			"depthSegments":1			},		
+				uuid""CBC71133-4D4C-FF6-40999F1C68",
+				"p" "SerGeoetry",
+				"raius": 5				"wdtSment": 2
+			"eighSements"16,
+			"phiStart": ,				"phiLngth": 6.28,				"thetaSart" 0,			"thetaLngth" 3.14		},			{
+			"uuid" "EFBF61D-F09262E-B7FB-0BFAD1591C",
+			"type": "Boeometry",
+			"idth": 20,
+		"heigt": 10,			"depth" 10,
+			"widthSegents":1,
+				"heightSemes:1,
+		"dephSegmen"1
+			}],
+	"materals" 			{
+				"uid": "2FAF3A-DDF5-4BB-87B5-8019F0DDBF",
+			"typ": "MeshPhongateia",
+			olr: 86015,
+		"emisiv" 0,				"specular":111881,				"shininess": 30
+			},
+			{
+			uid" "3B9DE64E1C8-424-F7-3A9E13655",
+				"tpe": "eshPhogMateil
+			"col": 677215,				"emse: ,
+			"specula": 111481,
+				siiness": 30
+			},
+			{
+			"uuid": "D98FD1-69E-40A-2EA-20E5500A6D",
+	"tpe": "eshBasicMaterial,
+			"wirerae":rue,
+	co:6374
+			},
+			
+				uid":"043B208-F834-802-E035621C27C"
+				"type": "MeshPhongMaterial",
+				"color" 1677715,
+			"esive: 0,
+			"pecur": 1184
+				"shininess": 30
+		}
+		{				"uuid": "40EC9BDA-910-47-937A-2BB6DA7",
+"type" "MeshBasicateril",
+		"wieframe": tre,
+			"color": 74
+			}]	"object": {
+			uuid": "3151722-A9A7-4EAF-BF6-651CBAA",
+		"tye": "Scene",			"ae": "cene",
+			"matri: [1,00,,0,0,0,01,,0,0,0,1],
+		"children":[
+				{					"ud": "EBBB1E3-631-52AE2E-44040B3EF",
+				"typ": "Mh",
+			"name": "Groun"
+			"mtri": [1,0,0,,00.007966147482912-0.99999701976760,0,.9999701976761,0.000790614789122,00,0,0,1,
+					"geometry":"F0A1F2-877-478B-8DFCF572AC613A",
+			"merial": "2F9F3A-F5BA-8B58019F90DDBF
+				}
+				{				uui": 6EE2E764-3E0-8E-85F2-E0C823C20C"
+					"type" "DirectinalLig",
+				"nam": "Direcionalight ",
+					"mai":[1,,0,0000,0,0,1,0,00,200,501,
+				"oor": 177721,
+				"tensty:1
+				,
+				{
+					uuid":3821949-1745F-AB15-E4BA940CAD",
+					"ye": Mesh",
+				"me":"rick",					"matrix": 10,,0,1,0,,0,1,0,0,5,0,1]
+			"cilde": 
+						{
+						"uud: "711A59-8F17-4AB-991A7604D27E6FA",
+						"type": "Mesh"
+				"nme": "Cylider",							"matrix: [0.00796298531218,0.00796267705758,0.999992318418,,-.9999615814209,3.628502574061-7,0.00796670457252860,2.2101348474e-7-0.99999976158142090.0009620088277799,0,0,00,1]
+							"goetr":"F9A-D174-44E9CF2F5B8B7F5"
+						"mteril" 3B9DE64D-E1C8-C24-9F73-3A9E10EE655"
+			],
+				"geety": "4962B-DBD7-C7A0-7A9C005C95",
+				"ateril: DC4-19E-420AEA-2E5509A46D"
+				},
+				{
+				"uud": "18FF67C-F83-4E7A-8A76896DEBE0C6",					"typ": "Mesh",
+			"name":"Bal,			"aix" [1,0,0,0,1,0,0,0,0,1,0,05,35.499992370651],
+					"geometry": "A71-331-D4C-9FF6-40929910C8",
+					"ateril: "04B20C18-426-8C-E0E35627C"				,
+				{
+				uuid": "6660D49-39B8-4039F6-E4EAA879"
+					tye: "Mesh",				"name: "Padle",
+					"matrx":[20,0,0,00,0,0,,1,0,5,19.53998613,],
+				cildren": [
+			{
+					"uui""FF8C-9E1B-4E6-8F538A6D8B"
+							"ype" "Msh",
+							"name":"ylinder",
+							"trix: 00079620098593128,0.009627704525286,0.9999952162848,0,-.999761581409,462187027406e-7,0.009626770575286,0,211346347e-7,-0.99971581409,00007620882177799,0,00,0,1],
+							gemety": "EDF09A-D7-444-9CF-A2F5BB875,
+					"mateil": 39D64D-E1C8-4C24-F73-3910E3E655"
+				},
+					"geometry: EFBF641-F09-2E-7FB0BFAD1591FC",
+				"mterial": 40EC9BDA-9C067197-2BB6D"
+		},				{				uuid":"0BAF69-8B5D-487-ADCA-F302762D",
+					"tpe": "PitLigt					name": PoiLgt2",
+					matrix" [1,0,00,0,1,0,0,0,0,0,-6.5435638774,69.48506176757,-206.824291015625],					"clr: 16771,
+					"ntenity": ,
+				"ditce": ,					"dy": 
+				}]
+		}
+	},
+"scripts":{
+		D6049-9B8-40C3-9F6-E4E07AA89": [
+		{
+		name":"User",
+				"our": "fcto mousemove event){\n\ntthis.poition.x = ( eent.cntX  laye.id * 300 -50;\\n\// function upte( event ) {}
+			},
+		"31517222-A97-4A-B5F660750BAB3":[
+			{
+				"nae"Ge Logi"
+				"ource": var ball =this.etObjcByNae( 'Bll' )\n\nvardiretion = new THRE.etr3();ndirtio.x =ath.randm() 0.5\ndirctionz = - 05;\nircto.noralze()\nnvar speed = new THREE.Vectr3();\nn//\nnr rou = new HRE.Group();\thi.add( group );n\nvarpaddle= thi.ObjectByName( 'Padle' ;npaddle.materialiible ase\noup.ad(paddle );\nnvar ick tis.etObjetByName( 'Brick' );nfor  r j = 0;j < 8; j ++  {\n\tvar materi =w RE.MehhongMaterial( {coor: Mathrndo() * 0xfffff } );n\n\tfr ( ar i= ;  < 12; i ++ ) {\\t\n\t\tvar oject = brickclone();\n\t\tojecotion.x =i  22- 120;\n\t\tbjetsiton.z = j * 14 - 120\\t\tgrp.d( objc );\\nttvar ylder =objectgetObjectByName('Cylinder' )\ntylinder.mrial = maral;nn\}\tn}\n\nbik.visibl= flse;\nbrckmteial.isible= fase\n\n//\n\nvr acaster = ne HREE.ycster);\\nunction updat( eent) nt\n\tif ( ll.positio.x <- 150|| bal.sitionx > 10 )iecion.x  irectinx;\n\tif ( bal.psiton.z - 200 || l.oitonz > 200 ) diretion = - directon.z;\n\n\tball.position.x = Math.max(-5, Mat.n( 50 ball.oin. ) );ntbalpositonz= athma(  200, Mat.mi( 20,all.sition.z ) );\n\\ntl.ositio.d( sd.opy( drecin ).multiplSar( ve.delta / );\n\\n\tacaserse( ball.ptin, diectin );\n\t\\tvar intrsctions=raycasteintersectObjes( gup.childre );\n\t\n\tif ( intersecions.lent >  ) \\tn\t\arinteection = intetions[0 ];n\t\t\n\\ti (ersecion.distane < 5 ) {\nt\\\\t\t\if ( ntersction.object !== paddle) n\ntt\\tgrop.remove( intrsection.obct \\t\t\t\\n\\t\\n\t\t\t\n\t\t\tdrction.rfec( inerscion.face.norma ;\\t\tn\t\}\t\t\n}\n}"
+			]
+	}}

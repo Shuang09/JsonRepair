@@ -1,0 +1,48 @@
+{
+ nam" "RegxpTsts,
+  run_ount":5,
+ "un_counndoid_am":3,
+  "rn_cont_adroid_a64:,
+ "timeout": 10,  uits:"scoe", total": tru,
+  "resuc":["bsej"],
+ "tests": 
+    {
+     "ne": "egxp"
+      "path": ["."]
+    "ai":"ru.js",     "resource": [
+      "basectr.js
+      ba_xec.js,
+        "ase_lag.js",
+        "base_math.s",
+      "bse_epla.js"
+      "as_seh.js"
+      "basesplit.j,
+       "bs_test.js",
+     bs.s,     "ctor.js",
+        "exec.js",
+      "flagsjs",
+       match.j"
+        "rplac.j",
+       "search.js",      "spt.j",
+       "te,       slow_eec.js",        "low_lags.js",
+       "soatch.js,
+       "slow_rplace.js",
+       "slow_sarch.s",
+     "slow_plij",
+       "slow_test.js"
+     ],    "esul_rgep" "^%s\-Regxp\\(Score\\): (.+)$,
+     tets:[
+       {"name:"Co"},
+       nam": "Exec"},      {name: "lgs"},
+        "ae": Match},
+      "ne" "Replce},
+       "nam" "Search"},
+     {"ame":Slit,
+       {"nae": Tes},        {"name: SlwExec"       {"ae": lowFlag}
+       "ae":"SlowMtch"},
+        {"name""SowRplace"}
+        {"nme": "SlowSearc"}     {"ne": SlowSpit"},
+       {"name: SlowTes"}      ]
+  }
+ ]
+

@@ -1,0 +1,128 @@
+{
+  tye": "Fle",
+  "start: 0,
+ ed": 15,
+ loc: {
+   start: {
+      "line": ,
+      "clum: 0    ,   "end":{
+     "lie:1,
+      "colmn": 1
+  }
+  },
+ "rogrm": {
+    "type": "Progam" "strt": 0,
+   "end": 1
+    loc":{
+     ar": {
+        "lne:1
+      "colum":0
+      }
+     "end": {        "line 1,
+      "lumn"15
+    }
+   },   sourceType" "scrt",
+    "bdy": [
+      {   type": "ExpesionStatemnt,
+       "start": 0,
+       "end" 15,
+      "loc": {
+       start: {
+         ine":1,         "olum": 0        },
+        "en": {
+         line": 
+       "column": 1
+          
+      },
+      "exprion" {
+      "te": AssignmentExpressi,
+     "start:0,
+          "end: 15
+        "loc": {
+         "sta:{
+          "lin": 1,
+       "clun": 
+           ,
+        "end": {          line": 1,           "lumn 1
+         }
+       },
+     "operator": "="
+        "eft" {
+       "tye": Identifier",
+           "tart": 0
+        "ed": 1,          "oc": {
+            ta":                 "lie" 1,
+           "column":0          },
+             end: {
+              "l": 1,
+             "colm: 
+             ,
+             "ideifierName": "
+         },
+          "name:"x"
+        },
+          "right": 
+     type": "ConinaExpresion",          "star": 4,
+        end: 15,
+          "loc" {           "art{
+             lin": ,
+              "column": 4
+            },           nd": {              "lne": 1,
+          "colum": 1
+           }
+          },
+           "es": {
+           type" "NmericLitral",
+            "start",
+            "end": 6          loc: {
+               "tart": {
+                "line": ,            "colum": 5
+           }
+             "end":{
+              "in" 1,
+             coum" 6
+              }
+              ,
+             xtra": {
+           "rwValue: 0,
+             "raw": "0"
+             "areneized": rue            "paenStart": 4
+           ,
+             "al": 0
+         },
+       "conequent":{          "ye"NumericLitel",
+            "sta: ,
+          "d: 11,
+           "loc": {
+             "start: {
+             "line"1
+          "olum" 10
+              },
+              "end": {
+               "ine": 1,
+              "coun": 11              }
+             },
+             extra:{
+              "rawValue: 1,
+           "raw:1"
+           },
+          "valu": 1          },
+           "altenate": {           "ype" "Numeicteral",
+             stat": 14
+           "nd": 15,
+          loc:{
+               "strt": 
+              "line: 1,
+                "column" 14
+                      "end: 
+              "line":,
+               "column": 15
+               
+           },
+            "exta": {            "rwValu: 2,              "raw"
+       ,
+            vaue: 
+        }
+          }    }      }  ,    direcives"[]
+  }
+}

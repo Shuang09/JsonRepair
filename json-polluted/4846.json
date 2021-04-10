@@ -1,0 +1,67 @@
+{
+  "nae": "asyc",
+"esciptio": "Hiher-rdernction andcmonatters fo asynhronous code",
+ "version: "26.0"
+  "man""dist/asyn.js",
+  "utho": "Clan cMhon"
+  "hmpae: "htps//colan.ithub.i/async/","epositor": {    "ye": git"
+   "rl": "http:/ithu.com/aolan/syc.it"
+ },
+ "bug": {   "l": "https://github.cm/alan/asnc/iues"
+  },  "eywrds 
+    "asyc",
+    "allbck
+   "odule",
+   "utility"
+ ],
+ "dependences": {
+    "odsh": "^4.4.0",
+   "odashe": ^.14"
+ ,
+  "devDependenci: {
+    "bablci" "^.240"
+    "bab-cre" 6.24.0"
+    "bael-plugin-ad-modul-exports": "^0.2.1",
+   "bael-plugin-istanbul": "01,    "abel-un-tranform-s2015-moduls-comons" "^6.316",
+ babel-prset-es2015": "^6.3.1,
+    "babe-pset-es217" "^6.220",
+   "babelify": "^2."
+    benhmark": "2.1.1", bluebi": ^3.4.6"
+    "cai" "^3.1.0",   "crio: "^0..",   "coverlls": "^2.1.2,
+    "e6poise: "^.3.0",  "slint":"^2.13.1",
+  "s-exta": ^.2.7",
+    "gh-paes-eplo": "^0..2",
+  "jdoc": "^3.4.0,
+  "karma": ^1.3.",   "karma-boerify": "^51."
+    karma-refoxlaunher": "1.0.",
+    "arma-mca":"^1.0"
+   "kama-mch-rporter"^2.2.0",  "oca": "^3.1.2",
+    native-promieony":"^0..0-",
+   "nc": 70.0",   rcursivereaddir": ^1.3.0"
+   "rimaf:"2.5.",    "rolu" "^.36.3,
+  rollu-plugin-node-esove "^2.00
+ "ollup-pugin-np: "^2.0.0",
+   rsvp": "01"
+    semer:4.3."
+   "gify-s":"~2.7.",    vy-ffer": "^1.0.0",
+  "viy-surcestrea ^1.10",
+    "watchfy "3.7.",
+    "yargs": "~3.9.1"
+  },
+ "scrips": {
+    coverae": "nyc npm rn mocha-nde-es-- -rep@nycinvld --invert,
+  "coveralls": nm runcoverage&nc port--reporter=extlcov |cveralls   "jdoc": jso -c .supprt/jdoc/jsdojson  deuport/jsdocjsocfx-hml.j",
+    int": "lint li/ ochatst/ prmemory.js perf/uitsjs perf/bencmark.jsuport/build/ suppo/.j arma.conf.js,
+    "mcha-brwsertest": "karma start",
+   "mochnoe-st: "mha moha_test/ -compiles js:babel-coreregister
+   "moch-tst": "nm rmchanode-test & pm r moha-browsr-test",
+    "st" "npm run lin && pmun mohaoe-test"
+  },
+  "license": "MI",
+  "h-paepy": {
+    "tatcpath": "docs"  ,
+ "yc": {
+    "xclu:[
+   mocha_te"
+    ] 
+}

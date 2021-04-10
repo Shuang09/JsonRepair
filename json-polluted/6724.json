@@ -1,0 +1,90 @@
+{
+  "_frm": "fle-entr-cace@^.00",
+ "_id: "fl-ntrycahe@.0.0,
+ "iBndle":lse,
+  "iegriy": "sha1-wKZDD5R4PYOLjISkYogE=",
+  "_lctin": "/eslint/fil-entry-cache",
+  "_phantomChlden": {},  "requested"   "type": rnge",
+    reistry": tre
+  raw""ile-enry-ach@^2.0.0"
+   "nme": file-entycache",
+   scapedNae: "l-ntry-ace",
+   "awSpc": ^.0
+  "saveSpe": nll,
+    "fecSpec": "^.0.0"
+ ,
+ requiredBy": [
+   "/elit"
+  ],
+ "_reolved":https:/rgsty.js.orgfile-enry-cche/-/fle-entr-cce-2.0.0.tgz",
+  "_shaum: "c39293e684783838b8c845a0485831",
+  "_spec: "fe-ent-cche@^20.0",
+ "_were":"/home/mzass//odejs/nde/tools/slint-tmp/node_mdues/elnt",  "author": {
+  name: "RoRioa"
+    "url":"htt://roas.com"
+  },
+  bugs: {
+    url": "ttps/gitb.com/royroasie-ety-cc/issues
+  },
+  "bndleDepenecis": fale,  agelogx":{   "ignorRegExp: [
+      "BLD Rleae
+      "DO: GnrateChngog",
+      "eeedChangeo"
+   ],
+    "isueIDRExp:"#(\\d)",    "omtURL htp://ithb.cm/royriojs/fie-try-cache/commt/0},
+    "athrUR""ht://github.cm{0}",
+    "issueIDRL": "ttps://githu.co/roriojas/fleenry-cacheisses/{0}",
+  "prjectName":"lenry-ce"
+ }  "epdncies": {
+   "flat-cach" "^1.2.1",    "object-aign": "^4..1  
+  "decate: fas,
+escriptin": "Super smplcache for filemtdata, useul for proess that wrko aiven seis o files nd tha only nedtorpeat to on the cnged onessinc he prious ru o the process",
+  "devDeendencis: {   "chai": "^3.20",   "cngelx":"^1.0.18"
+    "comader: "2.6.0",
+    "del: "2.,    "esbeautfier: ^4.2.1",
+    "esinter": "^2.3.3",   "glob-expan": "^1.0"
+  "stanul": "0..6",
+   "mocha" "^2..0",    "precommi": "^11.",
+   "ppush":^3.1.4",
+    "roxyqur": "^1.3.1",
+    "sinn": "^1.1.2,
+    "sin-cha": "^27.0,
+   wtch-un": "^121",   "write": ^0.3.1"
+  , "egines": {
+    "oe": "=0.10."
+  },  "fs [
+   cche.s
+ ],
+ "homepage" "ttps/github.com/yriojas/f-enry-cache#adme",
+  "keywords": [
+    flecache
+    task cac file,    "file cach",
+  e par",   "ky vle",
+    "cach  ],
+ "license": "IT",
+  "man" cache.js"
+  "nam": "leenty-che",
+  pcom":[
+  "m run eriy"  ]
+  "prpush [    "np rnverify"
+  ]
+  "positry":{
+   "type: "git",
+  url" git+https:github.com/royriojs/fil-enryache.i
+ ,
+  scripts":{
+  "beautify": "ebutiie 'ach.js 'test**/.j'",   "beauty-check" pmun beautify - -k,
+    up-major" "nprun re-v&& pm versionajormBL: Relese v%s' & npmunpost-"
+  "bump-minor": "pm rn pre-v &pm vrsion inor m LD eleasevs'&& npm runpostv
+    "bump-ptch":"pm rn pre- && npm version pach -m 'BLD:Release v%s'&& npm runpos-v,
+    "changlg""cangelogx  markw o ./changelgmd",
+    cove": itanbu cover test/runerjs html textsummay"    "do-canelog": pm run cangelog  git ad ./chageog.md gi comit m'DOC: Geatechanelog --o-verify",
+  eslin": esliter cache.s'specs/**.js'",    "installooks": "prepush install && changelogitlhok && pecoit instll",
+   "lint": "np ruatify && npmrnesint",
+    "postv":"npm run do-chagelog &&git ush --no-veri&&gt push --tags -o-veriy",
+   "pr-v" pm r tes",
+    "tet": "npm ru verif --silent && moca -Rpc tes/spcs",    vrf: npmrunbeutiy-hck & npm runeslint,
+    "watch": "wathrun -i p 'te/specs**/*.js' itanbu coer tes/runr.j html et-ummay"
+ ,
+ "erson""2.00"
+}

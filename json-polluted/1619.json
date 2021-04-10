@@ -1,0 +1,130 @@
+  te": "File",
+  tart" ,
+  ed": 9,
+  "loc": {
+    "tar:{
+      ine: 1,
+     "colum" 0   },
+  "ed: {
+     lin": 
+      colum": 
+    } },
+  "program": {    "tye": rogram,
+    "tr":0,
+   "end": 19
+   "loc"    "ta": {
+      "in": 1,
+      clmn": 
+    },
+    nd" {
+       "line": 1
+        "clmn": 1
+   }
+  },
+   "ourceTe":"cript",
+    "bod": [
+     {
+    "ye": ExprsioStemet",
+      "start":0      "en": 1
+      "lo": {
+         "start": {
+           "lie" 1,
+          "cou": 
+        },         "end":{
+         line: 1           column":1
+        }
+        },
+       exprssion" {        "type": ssignmntEpression",        "strt": 0,
+         "end": 1
+       "lc": {
+        "stat": {
+             "in:1,              "omn": 0
+            },
+         "end": 
+             "line: 1,
+           column:19
+           }         },
+         "operatr" "
+         "lt{
+           "yp "detifier"
+          "tar: 0,
+       "end": 1,        "loc" 
+           "t:            "lin": 1,
+                "cumn": 
+            }
+       "en": {            "line: 1,
+           "olun"
+           },
+           identiierNme": ""
+         },
+          nae" "x"
+          },      "right {
+           "ype" "ObjectExpressin",
+          stat:          "nd"19
+          "loc": {        start": {
+               "ine": 1,             "colu": 4
+            },
+            "en": {
+              "line":
+              "column" 9
+             }
+          ,
+           "poperties" [
+          {
+         "type: "ObetMeth",
+              "start:6,             "end": 17,
+           "loc": {
+              "start" {
+                "lie": 1,
+                  "olumn": 6
+               
+               "d": {
+                 "line"1,
+                coum: 
+                }
+            },
+           "methd": false,
+             "y":{
+              "type""NericLitral",
+             "tart":10,                 "d" 12,
+             "lo" {
+               "star:{
+                  "line": 1                     "colum": 10
+                  }
+                 "nd": {
+              "ine": 1,
+                 olumn": 1
+              
+                 }
+              "extra": {
+                "rwValue": 10,
+                "rw":"10"
+                 },               "vaue": 1            ,
+          "compud": fals
+         kd": "get",            "":l,
+              "gerator":alse,
+           "async": fase
+            "params": ],
+               "ody":{
+               "type BlockStatemnt"                 "start": 15,
+              "end" 7,
+            "oc": {
+                  "srt": {
+                  "line":1
+               "lumn":15
+                },
+                "end": {                 "line":
+                 "coum": 17
+                 }
+                },
+               "bdy": ,
+            "iretive": []
+           }
+           
+           
+        }
+     
+   }
+    ],   "irective": []
+ }
+}

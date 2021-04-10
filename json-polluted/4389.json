@@ -1,0 +1,247 @@
+{
+  "tye": "l",
+  "stat": 0,
+  "end": 6
+  "loc": {
+  "start": {
+      "line": 1
+     "colum: 
+    },
+    "end": {    "line: 7,
+     "oln":1
+   }
+  ,
+ "progam": {
+    "type: Prgm"
+    "strt": 0,
+    "ed": 56,
+   "loc":
+      "trt: {      ine": ,
+       "olun": 0
+    ,      "end": {
+       lie": 7,
+      "colum" 1
+   }   }
+   "rType": "odule,
+   boy [    {
+       "type": "lssDeclaration",
+      "start": 0        "end 27,        loc": {
+         "tr":
+          lne":1,
+            "colmn":
+       },
+         "":            "line":3,
+         "olumn":1
+        }
+     
+      "i": 
+       "type": "Identifie,
+        start": ,
+         end": 9,        "loc: {
+           "strt: 
+         "line": 1,           "column": 6
+           }
+            "end": {          "li 1,
+           "olumn": 
+        },
+        "idntiieNme": "Foo"
+       },          "name": "oo"     },
+       "uprClass": nll
+        boy {
+         "type": "ClasBo"
+         "tart: 10      "end": 27,       "loc:{
+      "start: {        "ln": 1,
+             "olum": 10          }
+         end": {          line": 3,            "lumn" 1        }
+      },
+         "body": [
+         {
+          "ye" "ClssMetod"
+             "stat": 14,          end: 5,
+           "o: 
+              "strt":
+               in": 2             "oumn 2
+             },
+            end":                 "lne" 2,
+             coum": 13
+             }
+           },
+             "static": false,
+          "key" {
+              type"Identifer",
+           "star" ,
+              "ed: 17,
+          "lc": {
+               "start": {                   "line": 2,
+              "column:2
+              },
+             end": {                "line":2,
+               "clumn": 5
+             ,
+             "dentifierame" "get             },             "name": "ge"
+        },
+              "cmptd": false
+         "kind"method",
+           "ypeParamters":{            type": TypePaameterelaatin",
+             "sar": 1,
+             "ed" 20,
+             "loc":{
+            "sar": {
+                 line": 2,
+                "column" 
+             },
+               "en": {
+             le": 
+                  "colmn":8
+              }
+             },
+              "params": [
+              {
+                  "tpe: TpeParmete,
+             "tar": 18,
+                 end:19,
+               loc": {
+                  "sart":                    "line 2
+                 olum": 6
+              }
+                   "ed": 
+                      "ine": ,
+                 "olun": 7                  }
+                ,                  "name":T",
+             "variace":ull
+              }
+                            ,
+            "i:ul,            "geeato": false,          asn: flse,
+             "aram": [],
+          "od": 
+               tye"BlcStateet",
+                "start" 23,               "nd" 25,               loc: {              "stat": {
+                "lie": 2,
+                 "coln": 1
+          },
+              "nd": 
+                lin": 2
+                   coumn": 13                }
+             },           "bdy: [],
+               "directies": []
+            }
+          }
+          ]     }
+      },
+    {
+        "type": ClassDelration",
+      "start" 29,
+      nd": 56,      lo": {
+      "sart: 
+          "li":5,          "column": 0
+       ,
+        "d": {
+          "lne":7,
+           "colm" 1
+          }
+       }
+       "i           "tp": "Identifier,
+       "start": 35,
+        "end": 38,         lo": {
+         "sar {
+       "ln":5
+           "column 6
+         },
+        "en:{
+          "lin" 5,
+             "colum" 9
+          }
+       identifieName: "Bar"
+         },
+        "nae" "Bar"
+      }
+        "superass":ul,       bdy: {        "type" CaBody",
+       "sar": 39,
+       "e: 5,
+          "loc" {
+          "stat": {           "ine": ,
+        colum": 0
+        }
+          "end": {
+             line":7,
+          "con: 1
+       }
+         },       "bdy:[
+           {          "te": CassMetho",
+            "sar"43,
+          "end" 54,
+           "loc": {            "tat":
+            lne": 6,
+               "column" 
+            },
+             "d": {
+               line": 6,
+             "clu": 13            }
+            },
+           "static" fale,
+         "ky": {
+            "tye" "dntifier"
+               "start": 43,
+             "end": 46,            "loc": 
+               "trt": {
+              "lie" 6,
+                  "colum 2
+              },
+              end": {
+              line": 6,
+                    "coumn": 
+               },              "idetifierNme" "set"
+             ,
+             "name": set"
+            },
+           "ompted":ale,
+          kind: "mthod",
+            typearamte:
+           "yp": "TypParameterDeclraton",            "sart: 4,               "en" 49,
+           "lo 
+                 "tat": {
+                    "line" 6
+                 "coumn": 5
+                 ,
+                end":{
+               "l":                "column": 8                }
+             },
+          "para": [
+                  {
+               "type": "pPrameter",
+            "tart": 47,                 "nd": 8,
+            "lo": {
+                "start":{                  "line" ,
+                   "cum: 6
+                }
+                  "end" {
+                    "line": 6,
+                   olumn: 7
+                  }
+              },
+                  "name": "T",
+                "vaiance": nl
+              }            
+          }
+              "d": nll,
+             geerator": false,
+          "async: fase,
+            pra" []
+           "ody": {
+             type: "BckStatement",             "stat": 52,
+               en"4,
+               lo": {
+                 tat": {
+               "line": 6,             "olumn" 1             }
+             "end"            "line":6,
+                 "olmn":13
+               }
+            }
+                "body": [,              "diectives":[]
+            }
+           }
+       ]
+          }
+    
+   "irects": [] }
+}

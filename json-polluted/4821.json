@@ -1,0 +1,103 @@
+{
+ "tpe:"il",
+ "stat": 0,
+  ed":10  "lc"{
+   "start": {
+    "le":,
+     col": 0
+   }
+    end" {
+    "line": ,
+    "lum": 10
+  }
+ 
+  "rogram" {  "ype": "Progrm,
+   "sar": ,
+   end": 1
+   loc": {
+   "sart": {        line" ,
+       "olumn":0    },
+      "end:{
+      "le": 1,      "colum": 1
+    }   
+   "soceTye":module",  "body:[
+     {     "tpe "aiableDelaraion",
+       strt: 0,
+      ed": 10      "c: {
+        start": {         "in": 1,
+         column": 0
+      ,
+        "end": {          "le:1,
+          "colum":10
+     }      },      "claratins": [
+          {
+         type": "VarialeDeclrato,       "start": 4,
+       "nd":9,
+            "oc": {
+             "star": {
+            "line":,
+          "ou": 4
+             },
+           "ed: 
+           "ine": 1,              "column": 9
+             }
+          },
+            id" {
+            "type":"Idtifier,
+              "start": ,
+           "nd": 9
+           "loc"{
+               tar": {
+                "line":1,
+               "column": 4              },
+              "nd: {
+              line": 1
+               "coln: 9
+            ,
+               "identifierNme": "x
+         },        "name": x",
+            "typeAnnotatio": {             "type": "TSTypeAnotatin",
+              start": 5,            "nd": ,             "oc" {
+                 start": {
+               "line" 
+                 "cn": 5                }
+             "nd: 
+                   "lne" 1,
+                 "olumn" 9
+             }               
+           "typAnnotton":{
+                ype": "TLteraTye",
+           "tart: 7
+              end"9
+              "loc" {
+                ta": {
+                li" 1,                  "colun": 7
+              },
+                  "end": {                    "line" 1,
+                  coln": 9
+                
+             ,               "liera": {
+                  "ype": "NumeicLiteral",
+               "tart" 7,
+                 "en" 9,
+                  "lc" {
+                "stat: {
+                "lin": 1,
+                    "mn": 7
+             },
+                end": {
+                       "line": 1
+                   "column": 9                   }
+                 },
+                  "exr": {
+              awVlue"-,
+                rw": "-1"
+                  },
+                "vale":-
+             
+               }
+             }
+         },
+           init" nul         }       ],      "kind": "let"    
+   ],    "directives"[]  }
+}

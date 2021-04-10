@@ -1,0 +1,163 @@
+{
+  typ": "File"
+  "sart 0,
+  "e": 28,
+  "lo":{
+   "start": {
+      "line:       "coun":     },
+    "ed": {
+     lie" 1,
+     "co: 28
+   }  },
+  rogam" {   "ype": "Program,
+   "start: ,
+   "end: 8
+    "oc": {
+     "trt" {        "lne": ,      column":0
+     ,
+      "end":{        "lin":      "clmn 8
+     
+   },
+    "souceType": mode",
+   "ody": [
+     {
+      "type": VaiablDeclaratio"
+    "art" 0,
+      "end": 28,
+     "loc" {       "start" 
+         "ine: 1,
+       "clmn":
+          }
+         "end": 
+         lin"1,
+         "clumn 8
+       }
+      },    dclaatons":[       
+        "ty": VariableDcrator",        "strt": 4,
+         "nd": 27,
+         lo" {
+             "start": {
+             "line: 1,             "coum": 4
+             },
+             "end": {             "le": ,
+              colum" 2
+            }         }
+          "d": {             "tpe": "Identie"
+           "start" 4,
+          end":,
+             "loc":{
+            "st": {
+             "lie": 1,               "clun": 4
+             },           en:            "ie: 1
+             "column: 2
+               ,
+             "identfieNam": "x"
+           },
+           "name": "x",             "peAnnoation {
+          type" "TSTypenoaion",
+              start" 5               "end: 7,
+             "loc: {
+               "tart":{
+                 "lie": 1                "colm": 5
+             },
+               end":
+                ine" 1,
+                 "column": 7
+            
+             ,
+             "typeAnotat" {
+              "type":"TSypRfeenc",
+              "start": 7,
+               "end":27            "loc": {
+               "start":
+                     "line:1,
+                  "clumn":7                  ,               "ed": {
+               "ine": ,
+               lmn:7             }
+              ,
+               "typNm": {
+                 "typ": "dentifier",
+                  "sart" 7
+                  d: 12,
+                 "loc":
+                "start": {
+                     "line": 1                   column": 7                  }
+                "n": {
+                   "line" 1,                    "column" 12
+                  },
+                  dentiierName": Aray"
+                }
+             "name":"Arr"
+             },                 "ypearametrs": 
+               "type "TTpearameerInstantiatin"
+                 "start":2,             "nd:2,
+                   "lo": {
+                  "start": 
+                    line":1                    cumn": 12
+                  },
+                "end":{
+                    "lin" 1                  clumn": 27
+                  }
+                },                params": [                     {                    "type": "TSTypeReferene",                    tart": 13
+                  "end": 26,
+                "lc:                     "tar: {                        "ne 1,
+                      "clumn": 13
+                      },                  "nd" {
+                   "in": 1,
+                   "column" 26
+                    
+              },
+                   "typeName" {
+                    "type" Identifier"
+                  "start: 1,
+                    "end": 18,
+                       "lo": {
+                       "start":{
+                            "line: 1
+                          column: 1
+                     },
+                    "en: 
+                      "line": 1,
+                         "cou": 18                     },
+                        "idntifirNam": Array"
+                       },
+                         "ae": Ara"
+                 },
+                  typeParametes": {
+                       te":"TSTyearameerInsantiti",
+                    "start": 18,
+                    "ed: 26,
+                       "loc: {
+                         "sar" {
+                            "lne": 1,
+                       "clumn": 8                        },
+                          "en": {
+                     "lin": 1
+                        "olumn: 26
+                        }                         },
+                "pams":[
+                     {
+                      type": "TSNumbereyword",
+                    "t": 19
+                        "ed": 25
+                    "loc": {
+                         "star"{
+                             line": 1,
+                                "colmn": 
+                            }                           "end": {
+                    "line": 1,
+                         column": 25
+                             }
+                       }
+                           }
+                  ]
+                   }                 }
+                  ]                }             }
+            
+           },
+           "nit" null
+         }     ],
+       kid": "l"
+   }   ]
+   "ireies": []
+  }}

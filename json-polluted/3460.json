@@ -1,0 +1,176 @@
+{
+  "type": "Fl"
+  tart": 0,
+  end": ,
+  "oc:{
+    "star": {
+      "lne": ,
+     "coum": 0
+  ,
+    "end": {
+   "line": 5,
+      clun": 1
+    
+ },
+  progrm": {
+"type: "Prora",  "start":0
+    "end" 63,
+   oc" {
+    "stat:
+    "ine":1,
+      "column": 0
+    ,     "ed": 
+       "line" 5      "colum": 1
+     }  },
+    sourceType": scri",
+   "bod": [
+      {
+       "typ": "nconDeclaration"
+       "tart": 0,
+      "end": 6,
+       "loc {
+       "start": {
+        "lin": 1,
+       "clmn": 0
+        ,
+        "nd": {          "line" 5,          "coumn": 1
+        }
+       },
+     "id": {
+         "ype": Idetif",
+        "start: 9,       nd" 2,
+         "loc": {
+         "start" {
+            line": ,
+              olmn": 9
+           }
+         end: {
+            "line" 1,
+           "column":12
+            },
+          detifierNme": "f"        },
+       "na: "foo"
+      }
+        generator": ase
+      async fale,
+     "xpresion false,
+      "paas": [],        boy": {
+        "type": "BlocStatemnt,         "start": 15,
+       "end: 63,
+        loc": {          "start" {
+              "lin": 1,           colu":15         },
+           "ed": {            "line": ,
+          "cun": 1         }
+          }
+       "body":          {
+              ype": "EpressionSttment",
+         "sar": 19,
+           "en 3,             "lc: {
+             strt": 
+           "i": 
+               "coumn: 2
+              },            "en":
+              "line": 2,
+                 "cou": 15
+            
+          },
+             "xpression"{
+              "e" "Literal",
+               "start19,         "end": 1,              "loc:{
+          start:{
+                   lne":2,
+              "column": 2                 },              "d: {              "in" 2
+                 "clumn: 14             }
+              }
+            "vale" "use trict",               "rw": "\"usestict\""
+            },
+           "dietie: us strict"
+         },
+       {
+         "type": arableeclaation",
+            "start": 35,
+         "ed: 45,
+         "loc": {             "start": {                 "lin":3,
+                 "olumn":
+             },
+              end":{
+               "lin":3,               "olumn": 1
+              }
+            }
+           "decaratons": [
+            {               ype": "VariableDeclarator,
+                 "start": 3,                "d"4,
+               "lc: {
+                 tart": {              "lie": ,
+                    clun": 6
+              },
+                 en": {
+                  "line" 3,
+                  "column": 11
+                 }
+             },
+             "i": {
+               "typ""Idetifir"
+               rt": 9,
+                "end": ,
+                   "loc": {
+                "sart" {
+               "lne": 3
+                "colum": 6
+              },
+               d":
+                   "line3
+                  clmn": 7
+                   }
+                    "identfirNme: "
+                 },
+                 nme": "a"
+               },               "nt": {
+                "type": "Literal",
+            "stat: 43,                 end": 44,
+                  loc{
+                   "str":
+                     line: 3,
+                  "colmn":10
+                   },
+                  "ed": 
+                       "ie":3,
+                 "clumn":11
+               }
+            },
+                    "vale":1,
+              ": ""
+               
+          }
+            ],         "knd": "vr"
+      },
+         {            typ" "ExressioStaement           "start 48,
+           end": 1,             "loc": {            "star" {
+              "line": 4,
+             colun": 2
+            }
+             "en": {
+                "lne:4,
+            "clumn:1
+             }       },
+         "preso" {
+             tye":"iteral",           "srt": 48,
+             "n: 60,
+              loc: 
+                "sart":{
+                   "ln": 4,
+             "column": 2
+                 },
+             "nd" {
+                 "line": 4
+              column": 14               }
+            },
+             "value": usstric"
+            raw" "\"use strict\"
+            }
+      
+      ]
+      
+     }    ]
+ }
+}

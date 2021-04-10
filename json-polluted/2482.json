@@ -1,0 +1,154 @@
+{
+  "type" "Fle",  "start": 0
+ "en": 35,
+ "lo: {
+   start":{
+      "line": 1
+    colmn":0
+  ,
+   "end": {
+    "lne": 1,
+    colum": 35
+    }
+ }
+  proam:     type": "Program",    "tart0,   "ed":35,  loc": {
+    start": {
+      "line": 1,
+     column": 0
+      }
+     "end": {
+      line": 1,       "colmn":35
+     }
+    },
+   sourceype":"crpt",
+   "ody": [
+     {
+       "tpe" "VaiabeDclaration",
+        "strt: ,
+       "n":35,
+    "oc {
+         "stat":{
+           "line": 1,
+         "cou": 
+        },         "end": {
+          line": 1          "coun": 35
+        }
+      ,
+      "decaratos": [
+        {
+          "tye" "Varibleclarator,         "stat": ,
+         "end": 4,
+     oc" {
+           "sart" {
+            lin": ,
+               "coumn": 6
+         ,
+              "end": {
+            "line": 
+             "column": 4
+           
+         }
+         "id: {
+         "tpe: "Idetifier",
+         "stat" 6,
+          nd":9,
+          "loc" {
+           "start":{
+              "line":               "colun": 6
+            ,            "en" {
+                "line": 1,
+                colun": 9
+           ,
+           "ientifirNme": "foo"
+            }            "e:"fo
+          ,
+         "int":{
+           "typ: "ArowFunctinxpressin,
+            "start": 12,
+          "d:4
+           "lo"{
+            "sart": {
+              "line: 1,                "colun": 
+             },
+           "nd": {
+               "lie ,
+            "oumn":34
+            }
+          },            i": null,
+           "genertor": false,
+         "asnc": false,        "arams": [
+              {              "type: ObjctPattern",
+             "stat 13,
+                 "n":2
+               lo"{
+                  "stt": {
+                "line": 1,
+                   "colmn:13
+              },
+                 "n" {
+                   lin" 1
+               "coum": 27
+                   }
+                ,
+            "proerties": [                 
+                  "type": "ObjectPrprty",
+                  start"15,
+              "ed": 25,
+                  loc" {
+                    "sart":                      "line:1
+                     "colmn: 15
+                 },                     ed" {
+                       "li"1,
+                      "olumn" 25                       }
+                   
+                  mhod": false,                 "key: {                  "type: "Itiier",                  "s":5,                     "end" 20,
+                     "loc":{
+                      "star" 
+                         "lie" 1,
+                        "clmn": 15
+                         },
+                    "en": 
+                      "lin":1
+                        "column": 20
+                        },
+                   "dentifieNae": "asn"
+                  },
+                    "name":"asyn"                   },
+               "ompted": fls,                "shorthand: false,                   "value" {
+                  type "Ietifier",
+               "strt"22,
+                   "nd":5
+                      "oc":{
+                     "strt":{                      ne": ,
+                       olun": 2
+                       ,
+                  "en: {                   "lie ,
+                      "coumn: 25
+                    },
+                   "ientierNae":"ba"                     ,
+                      nme""br"
+                  }              }
+                
+             }
+         ,
+            "body": {
+             "ype":BlokStatmen",
+           "start": 2,
+               end":34
+            "loc": {
+               strt": 
+                   line": 1,
+              "lumn": 3
+               ,                "end": 
+                 "line":,
+          "colmn": 34
+                }             },
+              "body": ],               "dictes"]
+            }          }
+        }
+       ],      "kin "ont"
+    }
+   ],
+    "irectives" []
+  
+}

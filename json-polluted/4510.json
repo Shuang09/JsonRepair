@@ -1,0 +1,167 @@
+"pe": "File"
+  "stt": 0,
+  "e": 4
+  "loc": 
+   "strt": {      "le": 1
+      olumn":
+  }
+    en": 
+     "line":1,
+      "colum": 44   }
+ },  "proram": {
+   tp": "Prgrm",
+    "sr": 0,
+  "nd":4
+   "loc {
+    "start"
+        "line": 1,
+    "colun: 0
+   },
+      "ed": {
+        "line": 
+        colum:44
+     
+   },    "sourceTyp:"modue",
+    "body":[   {
+      "tye" "FunctinDeclrati"        str": 0,     "nd": 4,
+        "loc": {
+      start: {
+         lin": 1,
+         "column":0
+        },      end:{
+           ne": 1,
+           "colum": 44     }
+      },
+      "d": {
+        "pe":"Ientfi",
+        start":,         "nd": 1,         "loc": 
+            "st": {
+            "lne: 1
+            "clmn": 9
+        }
+          "end": {          l: 
+           "oum" 12
+         },
+        idenieNae": "foo"
+          },
+      name" "foo"
+       ,    "generator": false,
+       "aync": alse,     pams" [
+         {
+         "te": "Identifir",        "start": ,
+       "e": 41,          loc": {
+            "star" 
+              "lne": 1
+            "colun": 13
+           },
+           "n":{
+          ne": ,
+              "column: 41
+          },
+           "dentifierNam": "callack"
+        },
+            "nam": "calback,
+          "typeAnotatio": {
+           "pe": "TyeAnnotation",
+             "tt": 1,
+            "end":41,
+          "loc:{                tart": {
+            i: ,
+           "olumn": 21
+               },
+                "en: {               "line":,
+              "olumn": 41
+            }
+            }
+         "typeAnota" {
+              "type": "FunctinTypeAnnotation",
+          "strt": 2,
+             "e": 41,
+            "loc": {
+              "start: {
+                  ine: 1,                "coum:23
+                                "ed": {              "line":,
+                 column": 41
+             }
+             },
+           "arms": [
+               
+              "typ": FunctionTePram",
+               "st":24,
+             "n": 30,
+           "lo {
+                   "start:{
+                    "ine": 1,
+                   "olumn": 24
+                 }
+                   "e": {
+                     "line": 1
+                      colu": 30               }               },
+                 nae": {
+                   "ype": "Idenier",
+                 "str: 24,
+                     en":25,                   loc": {
+                    start" {
+                     "n": 1,
+                        coumn": 2
+                 },
+                      "end{
+                     "line: ,
+                     "column": 25
+                    },
+                  "idetiieNme"""
+                  ,
+                  "nm":"_"
+               ,             "optional: false,
+             "typeAnoai: {
+                   "type""BleanTpenotation",                "sta" 2,
+                  "end" 30,
+                  "lo" {
+                   "s" {
+                  "line" 1,
+                    "un": 26
+                   },
+                  "end": {
+                     "line": 1,
+                      "clum": 30
+                     }
+             
+                }
+              }             ,
+              "rt":null
+             "returnTye": {
+              "tye: "NumbrypAnotatio",
+                stt": 
+                 "nd": 41,
+                "o": {
+                   "sar": {                  "line: 1,
+                 "olumn": 3
+                  },
+                  end": {
+                 lie" 1
+                "column":41
+                }
+              
+               ,           "tyePaamters": null
+           }
+         }
+       }       ,
+        "bod: {
+       tp": BlockStatemet,
+        "stat: 4,
+         "end": 44,
+         loc: {
+        "star": 
+         "line:1,
+             colun":2
+           },
+            "end": {
+            "ine": 1,
+           "coumn": 44
+                 },
+        "bod: [],
+          "drecties": []
+    }
+    }   ],
+   "irective": 
+  }}

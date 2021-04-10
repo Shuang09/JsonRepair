@@ -1,0 +1,30 @@
+{
+  "Commands" "命：",  "pions: ""
+  "Examples:": "例：,
+  boolean: "布林",  "coun": "次數",  "tig"字串,
+  nmbr: "數字",
+  "ary""陣列",
+  "requird": 必須",
+  "defal": "預設值:",  "choices:":選值:",  aliases:": "名:",
+  "generate-valu": "生成的值,  Noougnon-ption aumet:g %s, need t leat %s": "non-oion 引數不：只傳入了 % 個, 至要 %s ,
+  "Too man non-optin argumentsgt %s, maxmum f": "nn-optin 引過多：入了 %個, 但多 %s 個",  Misingargument vaue: %s":{
+    "ne":引無指值%s",
+   "oer: "這些引數無指定：%s"
+  },
+"ssiequired argument: %s":{
+   "n:"缺少的引數：s,
+   ther": "缺少這些必須的引數：
+  },
+  Unnwn rgumnt: %"     one": "未知的引數：%"
+   "ohr" "的這引：%s"
+ },
+  "Invali values:":無效的項值", "Aume: %s, Give: s, Choices:%s": "引數名稱: s入值: %s, 可選%
+  "Agmet check fald:": "引數驗證失敗：%s,
+ "Implicatons failed:" "缺少依賴選項：",
+ "No nough rguentsfolloing: %s": "沒有提供足夠的值此引數%s" "Invlid SONcoi fil: %s": "無效SON 置文件：s",
+  "Pah t JSON cofig file": "JSON設置件的路徑",
+  "Show hel" "顯示說明",
+ "Showversion nmber": "顯示版本,
+  "d youea %?": 是指 %s?,
+ "Agumnts %s and s ae mutuly xcuive" : "引數 %s 和%s 是互斥的
+

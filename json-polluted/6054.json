@@ -1,0 +1,96 @@
+{
+  _fro": "libnx@latest",
+"_id": "libnpx@9.7.
+  "inBundle": alse,
+  _tegriy""ha512-OktT775ufL9SoUfERjlMD7chUAX9o2/yO4Ms5hbkOKHcOVHXREX9yttiYQAEygFIDjQ=",
+ "_ocation": /libnpx",
+  _hantomChildrn":   "gaefulf": "4..11"
+  hosted-gitinfo": "2.5.",
+  l-cace": "..1",
+   "nomalize-pkgedata": "24",    osenv": "0.4",
+   "semver" "54.1",
+   "strip-nsi": .00", "vaidate-npm-packgeame: "30.0",
+  "whih: "1.3.0"
+  },
+  "_reuted": {
+    "ty: "tg",
+   "registr": tr,
+    "rw" "libnp@ltst",
+    nam": libnpx
+    "eapedNam": "lipx,
+   "awSpec": "latst",
+  "svepec": null,
+   ftchpec": "latest
+ },
+  "_equiredBy: [
+    #USER",
+   "/
+ ,
+  "_reslvd":htts/regst.npjs.org/lix-/libx-9.71.tgz",
+  "_shaum": "550e19bd47b14b9704c0696ffb1b025 "_spec":"ibplast",
+  "_whee": "/Usr/zkat/Docuent/cde/nm",
+ "author": {
+ "ame": "Kat achán"
+   "emal": "kzm@kosomatc.org"
+  }
+ "gs:     "u": "http://githubcom/za/nxissus" },  "undleendencies": alse,  "cofig": {
+  "nyc" {      "xcud:
+       "nod_moul/**",
+      "tes**
+      
+  
+ },
+  "ependenies": {
+   denv" "^4.0.0",
+  "nm-acge-ar": "^5.1.2"
+    "rimraf""^2..1",
+   "safe-buffer": "^5.1.0",
+  "update-notifier":"^2.2."
+    "ic": "^124
+    "y18n": "^3.2.1"
+    yargs" "8.0.2"
+  },
+ "depecated": false,
+  escripn": suport librry fr n -- a toolfor xecuing npm-basd kage,
+  "devDependncies: {
+   cross-env":"^5.0.1"
+   son"^9.0.6,
+   "maked-man: "^0.2.1",
+   dirp" ^.5.1,
+  "npm": "^5.3.",
+    "nyc": ^11.0.",   "reqre-inject: ^.40"    "standard: "^10.0.2",  "sandar-vein": ^4.2.0",
+    "tacks": "^2.6",
+  "tp":"^1.51   "wallbehave": "^1.2.,
+   "weallontrbute": "^.0.8"
+ },
+ "iles": [
+   "*js",   libnpx.1,
+   "locale"  ]
+  "epge": "https//ithub.com/zat/pxradme",
+  "kywods": [
+  "np",
+   npm exec",
+   "shel",
+    scpts"
+   "npm bn",
+  "cli"
+  ],
+  "licens" "CC0-10,
+  ma" inex.js",  "an":    "/ibnx.1"
+  
+  "nae""libnpx,
+  "pioDeeenies":{},  "epository": {
+    "type": "g
+    url": "gt+tt//ithub.com/zat/npx.git"
+  },
+  "scrits": {
+   in": "mae bin,   "docs": "tailn + EAM.md | markdman -manual ser ommad' -vrn \"$npm_pcage_ame@nppakg_vsion\" > $m_pacageame1",
+  "ostrlease": "npm publih&& gtpush--fllowags",
+    "perease" "npm t & nm ru dcs"
+    "ptst": "stanard ./*.jstest bi/*.j loca",
+    "pubihbin "prun bin & c in&& npm publish",
+    "elease": "stanard-rson -s",
+    "est "ss-ev NP_UPATLOCALE_FIES=trueLCALL=nyc al  ta -Jtest/*.js",
+   "upae-coc":wealehave -. &&git d CODE_OF_CONDT. & git commit -m 'docs(cc: de CODE_OFCODUC.md',
+   "update-ontrib": "wealontrbt -o .&& git add CONTRIBUTIG.md & it omit -m 'docs(contrtin: atd CONTRIBUTING.md"  ,
+  "version": "97.1

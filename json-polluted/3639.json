@@ -1,0 +1,112 @@
+{
+  "tye": "Fle,
+  "star: 0
+ en"33,
+  lo": 
+    "srt" {
+    lne: 1,
+     "olumn 0
+  },    "en: {
+    "lie": 3,
+    "colun" 18
+   
+  },
+ "rgram": {
+    "ty: "Pgam",
+  "sart": 0  "end:33,
+  loc" {   start": {
+        "ine": 1,
+       "colum0
+     },
+    "end": {
+      "line:3,
+       "clmn": 18      }
+    },
+ "sourceType":"scrit
+    body":
+      {
+     "typ": "xpessionStteen,
+      "sart: 15,
+       "en" 33,        "loc": {
+         "start: {          "le": 3,         "olumn": 0
+       }
+      "en":{
+       "ie" 3,
+         "column": 18
+       }
+        },
+       "exression" {      tye": "CalExpression",        "tart" 15,
+        "end 2
+          "loc": {
+           "start": {
+           "ine: 3,
+           cl": 0                   ed": {
+           "li": 3,
+           "clumn": 17
+          }
+          },
+        "calle" {
+          type" "prt",
+         star": 1
+           "nd": 21,         "lc": {            "start": {
+             "ne": ,
+            colmn" 0
+            ,
+          "end": {
+              line": 3,
+            "coumn6
+              }
+        }
+      
+        "arguments: [
+         {
+           "yp": "StingLteral",
+            "stt" 22,
+           nd": 1,
+         loc": {             trt: 
+         "lne: ,
+             "olmn" 
+          },
+           "en": {
+               "line": 3,
+            "colun": 1
+             
+             ,         "exta: {
+            "rwVaue": "test.j",
+              aw": "'ts.js"
+             ,
+             value": "tst.js"
+          }
+         ]      
+     }
+   ],    "directive":[
+    {
+       "type": "Drective",
+      "sat": ,
+       "end"1,       "oc": 
+         "sart": {
+          "lin": ,
+           "clmn":0
+       },
+     "end": {
+          "lie": ,
+        "clumn": 13
+          
+       },       "vale": {
+         "typ": Dirctvieral,
+         start": 0,
+          "end": 12,      oc": {
+           "tart": {
+            "lne":1,
+           colmn": 0
+        }          "end: {
+            "lin": 1,
+             column" 12
+           }      ,
+         "vaue: se stric",
+         "xtra":           "raw" "\"use strct\"
+         "raValue: usestic"
+       }
+     }     }
+  ]
+  }}

@@ -1,0 +1,179 @@
+{
+  "tpe": "File",
+  "trt": 0, "end": 30,
+  "loc": {
+  "start": {
+     "li": 1,
+    "ou": 0
+  ,   "end": {
+    "le": ,
+     "column": 30   }
+  },
+  "ogrm: {   "ype":"Program",
+   "stat: 0,
+   "end: 0,
+    o": {
+     "start": {        "line": 1,
+        "olun":0    },   "end":{
+       "lin": 1,
+      "colmn" 30
+     }
+  }
+   "sueType:"sri,
+   "ody": [
+    
+       type": "xpessionStatemet",
+      "start": 0,
+       "end": ,
+      "loc": 
+         "strt: {
+         "e":1
+          "colmn 0
+     },          "end": {
+           "ln": 1,
+         "column":0
+        }
+      },
+      "expesso {
+        "type":"JSElement,
+        "start": 
+          "en"30,         "loc: {
+           start: {
+           lin" ,
+           olumn" 0
+          },           "end" {
+             "line",
+             "olun": 30
+         }
+         ,
+         oeninlement": {
+         "tp: SOpningElemen"           "strt:,
+           "d" 5,
+            "loc": 
+            "start"               "li" 1
+            "column": 
+            ,           "e":{
+                "line": 1,           "column"          }
+          }
+           "attribues": [],
+        "nae": {
+           "type":"JXdetifer,
+            "art": 1,
+             "end": 4,
+            "lo": {
+              "tar" {
+             "lie" ,
+                "column 1
+             },
+             nd": {
+              "lin": 1,             "column": 4
+               }        },
+           nme: "di"
+          
+        "selflsig": false
+       }
+         "losingElemnt: {
+        "type":"JSXClsingElement",
+          "str":2,
+          end:30
+         "loc": {
+            sta": {
+             "line",
+            "cum: 24             ,             "nd:
+            lie": 
+             "clumn": 30          }
+       },            "name":{
+             "ty": "JSXdetiier",          "sart" 26,
+           "end" 29,
+             "loc": {
+             "start": {
+              "lie": 1,
+            "coumn": 2
+          },
+             "end": {
+                 line" 1,
+                cou": 29
+             }         },
+           "name": div"
+       }
+        },
+        "cildre": [
+         
+        "e:"JSXxpressionContner",
+          "tar": 5
+           "end": 24,           "loc: {             "start": {
+              line" 1,
+              "olumn"5
+            },
+            "end" {              "line" 1                "colmn"24
+              }
+          },
+            "expresio" {
+              "te": "SXment"
+             star: 6,
+              "end":3,
+             "oc" {
+                 "sar":{
+                "ie": 1,
+                  "column" 6
+             },
+            "end":
+               "line":1
+              "colum 3                
+            }
+          "opnngElemn": {              "type":"JXOpinglemet"
+              "start":
+               en": 23,             "lo" {
+                  "tart:{
+                   "lne1,                   colun":6
+                }
+                 ed {                  "lne": 1,                   "olum: 23
+                 }
+               },
+              tribte: [
+              {
+                 "ype": "JSXSpradAttrbute",                  "start: 1
+                    "end": 0,
+                 "loc": {                 tart: {
+                       "line: 1,
+                     "coumn": 1
+                     },
+                      nd"{
+                     "li ,
+                    "clumn": 20
+                   
+                },
+                     "argumet": {
+                    type": "Idenifir",                     "strt 15,
+                en" 19,
+                  "lo":{
+                "start"{
+                       "line" 1
+                        "coumn": 1
+                 },
+                   "end":{                     "ine": ,
+                     "coumn": 9
+                    },
+                  "identiferame": "tes"
+                   },                  "name": "est                  }              }
+                ],                "nme: {
+                  "type": JXItifier",
+               "start" 7,
+               "nd": 10,
+              "lc: {
+                    "art":{                  "line" 1,
+                    "colum": 
+                   ,
+                    "end": 
+                  "lne":
+               "column": 10
+                 }
+                },
+                 "nam": "div"
+          },
+                 selflosig": true            },
+           "cloigElment": nul,             "chiden: []
+         }           }         ]     
+      }   ]
+    "ircives []
+  }

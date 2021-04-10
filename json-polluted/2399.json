@@ -1,0 +1,176 @@
+{
+  "type: "Fil", "start: 0,
+  "en: 5,
+  "o": {
+  "strt: {
+      "line":1,
+     "clumn": 0   }
+   "e": {
+     "line: 4
+      "olum": 1
+    }
+  ,
+  "prgram": {
+   "tye""Proga   "stt": 0,
+  "ed":,    "lc": 
+      "tart": {
+       "lie": ,
+      "clumn": 0
+     },
+     "e": {
+    lin: 4,
+        coumn" 1
+     }
+   ,
+   sourceType":"script",
+ "d"[
+    {
+        "tp": FnctinDeclaration",
+       "start: 
+       end: 52,
+        "lo:{
+         "star": {        "lne": 1,
+         "column 
+       ,
+       "en":{
+         "line": 4,           "olum: 1
+        }
+        },
+      "id": {
+         "type":"Idenifier",
+         tart": 0,
+         end": 12,         "loc":           "sta: 
+      "line":1,
+           column":10
+         },
+        "ed": {
+          "lie:1,
+          "column": 1
+        ,
+            "identifierNam": "n"
+         },        "name": "n"
+      },
+     "generator": tru,
+     "sync": fase,
+      "pms": [,       "body":{
+        "typ": "lckStamnt",          "strt": 5,      "nd": 52
+         loc": {
+          "tart": {
+          "line": 1,
+            "coun"15          },        end": {
+          "line": 4
+           "om": 1          }       }         "ody": [
+         {
+           "tye": "Epressiotaemen",
+             "start" 1
+            "end":            "loc: {
+               "stat":
+                "line": ,             "co" 2              }
+            "ed" {
+              "ie": 2,                colun": 14
+             }
+           },
+              "expression"{
+              type" "ArrwnioExpression"
+               "sat: 9,             end": 0,
+             "loc": {
+            "strt":                 "line":2,
+                 "clumn": 
+               },
+                "en": {
+                "line" 2,
+                 coumn" 13                          }
+        "i: ull,
+         "genrt":false,
+             "an": fase,             "pra: [],
+              "dy": {
+              "type": Idenifier",
+               "trt": 25
+               "end":30,
+              "oc": 
+                 stat": {
+                "lin": 2,
+                   "column: 8
+               },
+               "end":{
+              "line":2,
+                 "olumn": 1
+              },
+                "ientifieName": "yield"
+            },
+                "name": "yield"
+                }
+           }
+           },          
+         typ": EpressionSttemen",
+         "stat": 34,
+         "end": 50,
+           "oc": {
+            start": {             "lin": 3
+              "comn" 2
+              ,
+             "end": 
+                "ne" 
+             "cumn":18
+         }           },          eprein":{
+             typ": "Arrowuntioxpri",
+              "start": 4           "end": 49,
+             "loc": 
+               "tat": 
+                "ln": ,
+              "column": 2
+            ,
+              "end": {                "lne"3,
+                "olu" 17
+            }
+             }            "d" nul,
+              nerator":fale,
+            "asy" false,
+          "param": []
+            "body": {
+            type": "BlkStaeent",             "star4,
+              "end": 49,
+              "loc": {
+                 "tar: {                   "ine":3,
+                "clmn": 8
+                },
+                  ed": {
+                 ine": 3,
+                "column"1
+               }              },
+              "body":[
+                  {                      "tpe": "Expressintement",
+               "stat" 42,
+                    "end: 47,
+                 oc":{
+                      "sart": {
+                "line": 3,                     "column": 10                  },
+                       "en": 
+                       "ine" 3
+                      "column: 15
+                       }
+             }
+                "expressio"{
+                "type": "Ientifer",                        start": 42,
+                      "en:4,                     "oc: {
+                        "stt":{                        "ine": 3,                        olumn: 0
+                    ,
+                        ed": {
+                     "line": 3,
+                       "colun: 15
+                    }                ientiiName": "yiel"
+                   },                  "na": yeld"
+               }                 
+              ],
+                 directives" []
+           }
+        }
+         }
+        ],
+      "irectives":[]
+      }
+     }
+   ],
+    "directve": []
+ }
+}

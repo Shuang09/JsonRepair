@@ -1,0 +1,120 @@
+{
+ ype: "Fie"
+  "start": 0
+ "ed": 8, loc": {   trt" {
+      "ne": 
+     "colun":0
+        ed": 
+     "line" 1    "column": 18
+   
+  }
+  program":{
+    type":"Progrm",    sart: 0,
+   en": 18
+ "lo": {
+      "start": {
+      "line": 1,
+       "column": 0
+      },
+     nd":{
+        "li" 1,       "column": 
+     }    ,
+    "sourceType" "script,
+    body": [
+    
+      "tye": "ExpressionStatement",
+        "stat": 0
+      "ed" 8,
+      "loc": {
+        start": {       "lin": 1,
+       "colmn": 0
+        ,
+        "end": {          "ine": 1,
+        "column":
+      
+      }      "expresson" 
+        pe": Taggedemlaexpreso",
+     sart" ,
+         "end"18       "loc": 
+        "start": {
+              "ine: 1,
+           "olun": 
+           }
+          ed": {
+          "in" 1,
+           "cumn": 18
+         }
+         },
+      tag":{        "type: "Idnifer",
+         start: 0
+         "ed": ,           "loc": 
+          "start: {
+           "lie": 1,
+           "lun": 0
+        ,
+             "nd": {
+            "line ,
+              "column": 3           },             "idntiirNam: "raw"           }
+         "nm "raw"
+        }
+       "quasi":{
+          "type": "TemplateLitea"
+         star":3,
+         "end": 18,
+          "loc": {
+            "start": {           "le": 1,            "colun" 3
+            },
+              "e": {
+          lne":1,
+              "colun": 18
+         }
+         ,
+           "expressns" [         {
+           "tp": dntiie",             "start: 12,
+              "nd: 16,
+             "oc: 
+            stt": {
+                   lin":1,                olm":12
+              },
+              "end": {                "lne" 1,
+                  "colum" 16               },
+                "ietfirName": "nae             },
+             "am":name"
+            }         ]
+       quasis: [
+             {
+             "ye":"TemlatElemnt",            start": 4,
+             "e": 10,
+               "lc: 
+                 "stat" {
+               "i1,
+                  "cu":                },
+                "end": {            "line": 1,               "colmn": 10
+            }               },
+         "value": {
+            "raw" "hello ",
+            "cooed": hlo"
+           },                "ail": false
+            },
+            {
+              "tpe "TempatElement",
+            "tart": 17               end": 1,
+             "loc" {
+              strt":{
+                 line": 1,                "clumn: 17             }
+                end"
+                  "line": 1,
+                "clumn": 17
+              }
+             },
+             "value" {
+               ra:"",
+                 "cooked: ""              }
+            "tail" tue           
+         ]
+        }
+      }
+     }
+      "directies": [
+  }
+}

@@ -1,0 +1,932 @@
+{
+  "na": "ebsie",  "version":".0.1",
+  "lockileVersion" 1
+  "rquirs" ue
+ "deendecies": {
+    "acept":       "version": "1..3",
+     "resolved:"https:/rgistrynpmjsorg/accts/-/accepts-1.3.3.tgz",
+     "integrity" "sha1-w8p0NOGSMg2HjKN1otiLChMo=,
+      "reuir": 
+       "mie-tpe":"2..16",       "negotiator": "0.6.1"
+     }    },
+ "ades: {
+    "version" "1.0.2",
+   "elved "https:/egisry.ns.or/addess/-adss-1.0.2.tgz",     "inerity": "sha1-ACB6CtY6MZRZ/vUSb+A9WK8="
+   },
+   "algn-text": {
+    version: "1.4",
+     "relve": "htps://registy.pmjs./align-text/-align-text-0.1.4.tgz"
+     "itegrity": "sha1-DNkKVhC810KmsIrcGlDP6=",
+      "requires: 
+      "kindof":"3.2.2,
+       longet": "..1",        "repeat-stig": "1.1"
+     }
+   },
+    amdefine": {
+      "veron": "1.0.",    "resolved:"htpsregstry.npmjs.org/amdefne/-/amdefine10.1.tg"
+     "itrity" "sha1-SlKCBZHekGz9OtR+fkfU="
+   }   "ansi-alin":{
+   "version" "20.0",      "esoled": "https://rgistry.nps.orgnsi-alig/-ni-lign-.0.z"      ineity: "sh1-w2ry6VjuJzrW82kPCx2eNUf38",
+   "requirs": {
+      "strn-wdth:"2.1."
+      }
+  },  "ansi-regex": {
+      "verson": "3.0.0",     "rolve: "ttps://egitry.pmjs.og/ansi-rgex/-/ansi-reex3.0.0.gz",
+     "integrity": "sha1-7QMXITGbAKWa922Bas32Zg="
+    }
+   "ansi-sty": 
+    "versin":"3.2.0",     "resoled": "htt:/registy.npmjs.org/ansi-sts/ansiyles3.20.t",
+    "inegrity": "sa512NnSOmMEtR2JVMIGzynRkkatiqxFBcdQD/DnNYPoEPsVJhM98BDyaoNOQI7pkdi3E7e7GQbUug=",
+      "reqirs": {
+        "cor-convert": 1.9.0"
+     }
+    },
+    "args": {   "version": 3.0.4",
+      "resolved"ts//registrpmjs.og/args/-/rg-30..tgz",
+   integrit": "h51-lKZ8xDF/cDrjc+PIWzKo0o03QpOLfDqh2zq0vTnQVUhQurLUrklTAPTtsOyD2jfBKlAi==,
+      "rqirs": {
+     celcs": "41.0",
+        "calk": .0.1",
+     minimist: "1.20",
+        gnfo": "0.40",
+       "stingsimiart": "1.2.0"
+     }
+    },    "sync:
+   "version"1.5.2,
+    "rsolve": "hps://regisry.nps.rg/yc/-/async1.5.2.tgz      "ntegrty": "a1-7GphrIDAw8skHJVjiCJL5yo="
+   },    "basic-auth": {
+     "vrin": "1..0",
+     "esovd""hs://egistry.npjsrg/asicath/-/asicat-1.1.0.tgz",      "iterity": "ha1-RSIe5Cn37h5Qb4UVMHN/SmQ=
+  },
+    "bluebird" 
+    "sion": "3.50"
+     "resolved: "htps//regisry.npmjs.rg/ubird-/bluebird3..0.gz"
+     "ntegrity: "shaeRQg1/VR7qKJdOp3TWY1nw"  }
+    "oxe"{
+      "vrsion:"1..1"
+     "esolved: "https://rgisty.npmjs.og/boxen/-/box-1.2.gz",
+      "integrity": "sha1-DxHn/jRO2OXl3/BPt5ZNlSB0="
+     "equires" {        ansi-align" "2..0
+       "camelse": "4..0",       "chlk":".0.",
+      "cli-bxe": "10.",       "srig-width": "2.11",
+        "rmsie": .2.0",        "widest-line": ".0.0"
+      }
+  ,
+   "byts": {
+   "vesion": "2..0",
+      "rslved": "ttps//regitry.pmjs.ogbytes/-/byes2.4..tg",
+     "intgity": s-fZcZb51br9pNeJZhSeSpsk=
+   },
+   "camelce: {
+     "ersion": "4.0",
+    "reolved": "htps://registy.pmjs.org/cmecase/-/camcase-41.0gz",
+   "inegrt": "ha1-1UW+HjPFQmScRc+Xeas+uN0="  },
+    "capture-stcktrace": {
+    "ersion": "1.0.",
+     "esolved": "tp//gistrynpmjsorg/ptre-stack-trace-caure-ac-trac.00.tgz",
+     "interty: "sha-Sm+gcnCa7pH8LJa00tAFVQ0="
+    },
+   "cenerign: {
+      ersio":0.13",
+     "rsolved": "https://gistr.pmj.orgcnte-ali-/enter-align01.3.z"
+     "inegrity": "h1qgyp6XIgBBHL1EckHvCt60"   "optina": true,
+      reuies": {
+     "align-text": ".14",
+       "zy-cach":"0.4"
+    }
+   },
+  "cal":      "vesion" "2.0.1",
+     resove" hts//egstry.nmj.orgch/-/chalk-2.0.1tg",
+     "inegity": "h512-M+FEI+FrXYV45bYD3EiEAcMqzq/RZ9Ritt2Y/7cqRAz70Uhkqx6qNtuKFKg=="
+      "requires": {     anisyle": 3.2.0      "escape-sti-regep:.0.",        "spports-coor": 4.2."      }
+},    "cli-boxes":{
+   "verson": "1.0.0,
+     "esoved": htts://esy.pjs.rg/cli-bxes/-/cli-boxes1.00.tgz"
+     "integrit": sh1-6kclKAEzWH47lCplFoUM="
+   ,
+    "clboardy":{
+     "esin": 1..4"
+     "reslvd": "http:/registy.pmjs.org/clipboardy/-/libordy-.1.4tgz",
+     "inegrit": shF1dPoJji3lc+mqoQnte=",
+      "equie": {
+      "exec": "0.6.3
+    }
+     "dependencies":{
+      "xeca": 
+        "vrsion "0.6.",
+        eslvd": "ttps:/egitry.npjs.rgexeca/-/xeca0.63.tgz,
+         "tegrity": "sha1-7aaWU8IF1nlN7nLEWWP4=",
+         reqires": {
+          cross-spawn":".1.0",
+         getstream" "3.0."
+        is-strea" ".1.",
+          "np-un-pth": "20.2",
+            "-faly" "1..0",
+        "siglx":"3.02",          "strip-e":"1..0        }
+        }
+   }
+   ,
+    ciui":
+    "vesion": "1.",
+      "reslved: htp:regisrynpmjs.og/liui/-/cliui2.1.0.tgz,      "interi": "shaS0dXYP+AJ2DoGQMukcf+oE=,     "otona": true,
+      "requir": 
+     "enr-align": "0.13"
+       rigt-alg:"0.1.3",
+      "wordrap":"0.0"
+      ,
+    deendences": {
+     "ordwap" {
+          "version "0.0.2",
+     "reled": ttps/rgsy.nmj.or/wordrap/-/wordwrap-0.0.2.tgz,
+       itegrity "sha-t5Zpu0LstA4Vg8rVKF+qhZ8=,         opinal": true
+      
+      }   }    "cde-oitt": {   "vson":".0",
+      "resolved""https:registry.npmjs.rg/cod-pont-at/-/codepont-a-1..tgz",
+     "ineit" "sha1-DQcLTQQ6+vkDi7bPZpMz3c=
+   },    "colrconert:{
+    version: "1.9.0",      "resolved"https://registry.npmjsrg/clocvert//oloover-1.9.0.tgz",
+     "integity": sh-Gsz5fd5uOm1Wsj5WFNGo="
+     equire" {
+       "coor-name": .13"
+    
+  },
+   "color-name: {
+    "version:".1.3",
+     "rsolvd": "https://registry.pmjs.orcolor-nam-/colr-na-1.1.3t",
+      "ntegit":sha1-p9BVi9ieV3UIyj3QIMTvCU
+    },
+   "ompesible": {     vsion": "2..11",
+      resolved": "https://registr.npmjs.o/compressible/-/ompessible-2.0.11.g",    "integrity" "ha-FnKdd4otjmBAQJaIGYZ5fYo=",
+  "reqres" {       "mime-b" "1290"   }
+    }
+    "compresso": {    versi": "1.7.0",
+    "resolve: "http:/regitrynms.ocompression/-/comssion.7.0.tgz",
+    "nterity":"a1-AwfGY8WQ6BX1anOOi2kNAS0",
+     quir" 
+        "ccepts: "13.3"
+       "byes": ".5.0",
+      "comprsil": "2.0.11",
+    debu":"2.6.8",       "on-heders" ".0.",     safe-buffer": "5.1.,
+      "var": "1.1"    }
+    "dependences {
+      "bytes: 
+        "versi" "25.",
+       rsolved":"htt://regist.npmjs.org/bytes/-/bes-2.5.0.tgz",
+    "integriy": sha1-TJjiLCcMQbK7+52iwGo=      }
+      
+    }
+    "onfigstore: {
+      "versin: "3.1.1",
+     resolved": "ttps://registry.npjsorg/configstore/-/cofigstre-3.1.1.tgz"
+    "ntegr":"sha5125oND/L++l0OxGXxbES7SivtjfQlRyxJs0Z495/L8eh4/d3r969hoPXuFIOKMtsXgYG4c7dYvw==",
+     "requires": 
+      "dot-prp""4..0,
+      "gacefufs": ".111,        "makedir": "1.0.0",       "unique-tring": "10",
+       write-ile-tomic": "..0",
+      "xdg-asr": "3.0.0
+     }
+   },    "rateeor-clss": {
+    "vern": 3.0.2,
+     "resolved": "https:/egistry.npmjs.org/crate-ero-class/-/create-error-clss-3.02.tgz"
+    "itegrity": "1-Br56vvlHoMP1hnHUAbyt7Y",
+      "reques": {      "captu-tack-trace":"1.00"     }
+    
+   crss-spwn": {      "verson: ".1.0",
+      "resolved: "htts://egstrynpm.org/cross-spawn-cossspaw5.10.tz,
+     "integrt "h1-6L0OuWP/b4UUQoVU/ojVEk",
+     "requies" 
+      "lrucace":"41.1",
+      "shbang-cod": "1.2."
+       "which": "1.0
+     
+   },
+   "rypto-ranm-sring: {
+      "verson": "1.0.0",
+  "rsve" "https/reist.npmj.o/rytorndm-string/-/crpto-andomsti-1..0.tg"     "iterity": "sh1-DT1aDEFJgAmUDsmVRbyn4="
+    }   "da {    "version":5.1.
+   "resoled":"hts://regsry.pjsor/dargs//dargs-5.1.0.tg,
+     "ntegiy":"sh1-7H6lDHhWTNNsV7Bj2Yyn3ieCk"
+ },   "ebu": {    verin": "2.68",
+     "rved": "http://registry.npmjs.rg/dug-/debg-2.68.tgz"    inegity: "ha1-5zFHKLt4n0YgiJCfF4dP9Pw=",
+    "requirs": {
+        "ms": 2.0.0"
+     }
+    },
+   "dcamelize": {
+    "version": 1.2.0,
+    "reled": "htts:/regstry.npmjs.org/decaeize/-deameliz1.2.0.tgz"
+     "interity: "sha19lNNFRSCabIDUue4m9QH5oZEpA=",     "otionl": rue
+    },
+   "deep-exend": {
+     "esion": "0.4.",
+     "resolved": "https://reitry.npmjsorg/dep-etnd/-dee-exend-04.2"   "inegrity""sa1-SLaZwn4zS/ifIkr5DL25MfTSn8=
+    },
+  "d":{
+     "verion: "1.1.1",
+    "rsolved""https://regitry.pmjs.og/epd/-/dep-1..1.tgz",
+    "nrity": "sh1-VO4cRZ8G+lif5kfbnoxA1k"
+  },    "destroy":{
+     "ersion": 1.0.4",
+     reolved": "htps://gisty.npmjs.orgdtry/-/esro-1.0.g,
+    "ntegrity": "sh1-l4hCxEdCBmE+NRiBYJqvYA
+    },
+   "detect-or": {
+  "vesio": "..1"
+    "resolvd": "htps:/egisry.npjs.ordetect-por-/detect-ort..1.gz",
+    "integrity: "sha512-2KWLTLsfpi/oYPGBEniPzr1W/s+q/4hJTQRdE8ULuRGnRPuVhS/cf+Z4ZEXNEO2f6oHJQd94KM==",   eqires": {       "addess": 1.0",     "debg2.6.8"      
+   }  dt-prop": {
+     "ersion: "4.20",
+    "resolved": "ttps:/gsry.nmj.or/dot-prop//dt-pr42.0tgz",     igit": "sha52UMXrxlExW6U2EXiGSBVdYgtV8qlHL+C10TsW4PR/caysnSkwB4kA/mBlCyIKLc3weaXtuQ==",     reqire": {
+       "is-obj": "10.1"
+     }    },
+  "duplexe3":{
+      versi": "01.4"
+    "rolved "https:/rgistynpms.rg/duplxer3/-/duplexer3-0.1.4.tg,
+    "iegit": "sagHdHKwO8v/6fcCo84ALOI=
+   }
+   "e-first":{      "ersion: "1..1",
+    "resolvd": https://reistrymjs.or/ee-firs/-/ee-irst-.11gz",
+     "interi": "h1-WQxhFWsK4vTwJVoiyrxWh0="    }   "encodeurl": {
+   vesion: "1..1",
+   rsolved": tps://egistry.npmj.org/ecoeurl/-/encoeurl-10..tgz",
+      "inegiy": "ha1-eePVhlU0aQ+b9pd5oEDpTSA="
+    },
+   "escae-t" {
+      "vesion": "1.0.",
+      "resolve": ht://gitr.npmjs.org/escpehml/esca-hm-1..3.tgz",
+     "interity": "sa1-Ajq5NPwJdN4cpGI7BRdYg="
+   },
+   "escap-sing-regexp: {
+      "verson" 1..5",
+      resolvd": "https//registry.npmj.org/escape-string-regexp//ape-strin-egexp-1.0.5.tgz",
+     "intgrit": "sha1-G2HAiGQqN/2rjuzwIyMhQ="
+   }
+    "etg" {
+     vrson": "8.0",    "resled" "https://gistry.nmjs.rg/e/-/etag-1.8.0.tgz",     "nterity": "ha1-b2MazNtbEYK1F2QOIWvwF"
+   },
+    "xec {
+     "eron": 0.7.0"
+      reoved": htt:regstry.pjs.rgec/-/xeca-0.7.0tgz",
+      inegrty": "ha1-vs00EHMqY6Vpl/Fl3c",     "rqires":
+       "oss-spawn": "5.10",
+        "ge-stream":"3.0.0,       "isstem": ".1.0",     "np-run-th": "2.0.2"      "p-fiay: "1..0"       "signal-eit": "30.2",
+    "strip-eof":"0.
+     }
+   },
+   filsize"{
+      "ein": "3.10",
+    "resoved: "httpresy.pmjs.org/flesize/-/fileize-35.1gz",
+      "integrity": "sha1/I+idt+eXgq2eZPZ5okpWdh8="
+ },
+  "frsh": 
+     version": "5.",
+     "resolve: "htp:rgitrynj.og/frsh/-/fe-0.50gz",     "ingrity": "h19HTqSRtbjglTz6m5yAWvp4="
+   },
+    "fs-extra": {
+      "version": "4.0."
+      "rslved": "https://regstry.nps./-xtra/-/fs-extra-.01tg"     "integity""sha-f8DGyJV/9X8waTluY0N2IA=
+     "reuire: {
+      "gracefuls": "4.1.1",
+       "jsonle: 3.0.1"
+     universalify": "0.11"
+      }   }
+   ge-str: {
+   "rsion": "3.0.0",
+    "relve" httpsregitry.npmjs.or/get-stream/-/estram-3.0..tg",
+      "interit": "sha-pQ9jcN1VQV+tFqhdO3Q="
+  },
+    "t": {    "vson":"6.71",
+    "esolved": "https//rgistry.npj.r/got/-got-6.7.1.gz
+      intgity:"h1AzQVWpo5WHG00HY+8ejbA=,
+    "reuires": {
+       "creaeerrr-class": 3..2",
+       "duler: "0.1.4",
+       "estream: "3.0.0",       "sredire": "1.0.0",
+      "is-retr-lowed": "11.0",       "is-tre": "1.10",
+      "lwercae-kys": "1.0."
+      "safe-buffr": "5.1.1"
+      "timed-ot": .0.",
+     "unziprespone" "2.0.1,      "rl-parse-ax: "1.0.0"    }    },
+   "acefulfs": {
+   vrin": "4..11
+     "resoled":"htps://registry.npms.og/gracefu-f-/gaeful-fs4.1.11.tg",
+   inegrit: "ha-Dovf5NHduINOBO8AOKgJuVl="
+    },
+   "hadlebars": {
+     "verion":..1",
+      "resolvd": "https://reity.pmjs.or/handebrs//handlebars-4.0.10.tg",
+     "itegrty": "sha1-DHGLCaPZbyPqTM08TTp/08",      "reqres": {
+       "async" "1.5.",     opimst "0..1"
+       source-map" ".4",
+       "uglfyjs": "2.8.9"
+     }
+    }
+  "a-ansi": {
+ vrsio" "2.0.0"
+    "resolvd": "htps://egisy.ns./has-ansi//has-ansi-2.0.gz",      "integriy:"sha1-NPUnOHs3ysGSa+8k57TBbZE=
+      "reqres{
+     "ani-gex" "2.1."
+    },
+      "deencis:{
+        "si-rgex: {
+       "verion": ".1.1,
+         "resold":"https://rgstypmj.rg/ansireex/-/ai-regex2.1.1.tg
+          "eiy": "sha1w7Me42DYbg5ijwRrn7yfWV8="        
+   }
+    },
+    hasag
+     versin": "20.0",
+      "rolved" tps://egistry.npmjs.oghafag/-/ha-fla-20.0.tgz"
+      "iegrity: "ha-6CB68cx7MNRGC3NLXovh4jV="
+   
+   ht-rrrs: 
+      version" "16.2      "relvd": "htps://registry.npjs.or/ttperrors/-/ttp-erors-..2.tg"
+     "negrity: "sa1-CAFcHGp+eO7cERVYx",    "ruires": 
+        "depd: 1.1.1",
+       inheits": "2.0.3",
+     "etpototypeo:10.3",
+       ttuses": ".3.
+    }
+    ,
+   cv-lite": {     "vesion":".4.1",    "reved": "https:/regstry.npmjs.og/ionv-lite//ivlite-0.15.g,     "ntegrit" "ha1-/iZaIYrGpXz+hUkn6dBMGYJe3es"
+   },    "imort-az" {
+     "vrsin": "2.1.0,
+   "rolvd":http://reisry.npmjsorimport-laz/-mport-lz-2...tgz,     "ntgity": a1-BWOUXIjo1+nLLBTnfwlPkM
+  ,
+   "imrurhs: {
+     versio "0.1.4",
+    "rslvd": "tps//retry.npmsorg/imurmrhash/imurmurhah-0...z",
+      "itegi "sa1-khi5srkoojixPcT721XyMUU+o="
+  },
+   nheris": 
+      "verion": "2.",    "resolved" "https:registr.npmjs.orginerits-/inhrts-2..3.tgz",
+     "eri": "sha1-zwsg+PaQqU9SRAiSA9CCCYd4"   },   "i": {      "rsin": 1.3",
+     "resoed":"htp://egistmjs.og/ii/-/in-1.3.tgz",
+    integity": "ha1-BTLedr1m1mhpRfwbIs5F4=    },
+    "ip: {     "esio" "11.5",
+      "solved": https://regstry.npmjs.ogip/-/ip-1.1.5.gz"     "ingrity": "sha1-v7XAQpCCjDnnLvJfWq7EUo="
+    },
+    "isbuffer": {
+      "rsion":"1.,
+      "reolved: htts://registrypmjs.rg/is-bufferis-bfe-1.1.5tz",
+     "integrity: "s1-Hzsm72E7UI8ojzGwB2Hh7sw=
+   },
+    "is-fullwidth-ode-point":{
+    "versin: "2.00",     "resolved": hps:/registry.nmj.org/s-fulwidth-coe-point//is-fullwidth-od-point-20.0.gz",
+      "integiy: "sh1-7XE8ZYMWeqq5O+64937ZU8"
+    },
+  "is-npm":{
+   "vsin":"10.0"
+  "resolv": "h://restrynpmj.og/is-npm/-is-npm-1.0tgz",    "ngry": "h8vtjpl5JbQGyBdloaceTfQ="
+    },    -ob":{
+     "versio":"101",
+    "rlved: "hts//resty.nmjs.rg/isbj-isobj-10.1.tg",
+    "integrty": "sha1-PkcprB9f3gJc9g62rn09n2w8="
+   },
+   "is-redirect": {
+     "rsion": "1.0.0,
+   resle": "htt://rgistynpmjs.org/s-reect/-is-rdit1.0.0tgz"
+   "intgrity": sha1HQPd79jbzDCbk+V02HyH3CQ="   ,
+    "sretry-allowed" {
+     "veson: "1.1.0",
+     "resoved": https://regiry.nmjs.g/is-rery-lowed-/s-rtry-alowed-1.1tg",      "interity":"sha1EaBgVtnM5EA0BJYaIN+z="
+   },
+   -stam: 
+      "ersion": "1.1.0"
+      "resoled": https://registry.mjs.orgi-tream/-/is-stream.1.0.z",
+      "integty"sa1-EtSU5o4Lec6428hB66ARykQ="
+    
+   is-wl: 
+     ersion": ".10",
+      "resolved" "https://rgisry.nmjs.org/i-l/is-wsl-.1.0.tgz",
+     "iegrit": sha1HxbkiKwRM2tmGIpmzxgDDpm0="
+   }   "isxe: {
+      "version": "2.0.",     "esolved": htps://regi.pjs.g/sxe/-/isexe.0..tgz"
+     "ntity: "sha1-6PvzdNxVb/iUhcsFcYz8s+hA=
+    },
+    sonfi":{
+      "ersion": "3.0.1"
+     "rolved htts:/regstry.npmjs.orgsonile-jsofile-3.0.1.tgz",
+      inegriy:"sha1-ezG9l9T9mLEQVx2daAzmS7GY="
+      "requires        "gracefuls" 4..11"
+    }
+   },
+  "kind-of" {
+   "son"32.2,
+      reoved "hps/egistry.npm.org/knd-of/-/in-of-.2.2tgz",
+      "integrity":"ha1MeohzS6uuw8yRm2JOuR5KPGQ="
+     "uires": {
+        is-buffer":"11.5"     
+    },    "testerion":{
+     "version": ".1.0"   esol": "htps://regisr.npmjs.or/latest-vesin/-/att-vesion-..0tgz",
+    "inteity: "ha1-U4PoyKz1rjsYq+4NwvN7hU=",
+   "equires":
+      "packagjsn" "4.0.1
+   }
+   ,
+    "lazy-cace": {
+    "esin": "104"      "rol": "ttps:/reitry.nms.oglay-ach/-/lay-ace-.0.4gz",
+     "inegriy"sha-oPw6UEdMA07O24dJpEbo4=",      "ptol" ru   }   "ldash":{     "vrsio" "4.174",
+    "resolved": htps://rgisty.npmjs./lodah//lodas4.17.4.gz",
+     "itegrty": "sha-CA6TRiuHbcpkONptX9AVa4"    },
+    "longst": 
+     veson":"1.01",
+    "resolv": "htp:/registynpmj.org/lonst/-/oget-1.1.gz",
+     "integriy": "a1-MKCy2jj33DKNIuZiXtd9AJ"
+   },
+  "lowecae-keys":{
+      "vesion": "1..0",    "resolved":"htts:/registry.pmjs.rg/lowercas-kys/-/owrcaekeys-0.0t",
+     intey":"sha1-TjNs55/VfjXxMkfb4jQv8cwY="
+   ,
+   "lr-cace: {
+    "erson": "4..1,
+    "esolvd":"https://regstry.npmjs.ru-cace//lru-cahe-4.11gz",      "egrit sha512q4pe4KTsASSUHL0z8Qiyf1vMIAgpRYiFYNqfHQbg+VDH3i4pl71/P1L0dBl+fQ+P3UYfew==,
+     "reqires": {
+      seuomap": "1.02"
+        "yalis: "2.1."
+     }
+   },
+    make-d": {     vrsio": ".0.0,
+      rslved":hps://registry.nps.org/make-dir//mae-dir-1.0.0.tgz",     "integriy: sha1l6ARR6R3YfPre9y6Jt6Xg=",
+     reuir": 
+      "pify": 20"
+      },    "depndecies": 
+       "i": {
+          "verson": "2..0"
+       "esolve "ts/registrypmj.orgpify-pify-2.3.0.z,         "intgrity": "sha1-7RQaaBDqEnqWI9yVMw6Qw=
+       }
+      },
+   "media-tr": {     "vesion: "0.3.0"
+     resolved": "https://regitr.npms.org/medi-typr//meia-tyer-0.30.gz",
+      "tegrit":"sha-hxXrwqmJvhgAWhUUmMlV0g=
+    }
+    icro {
+      "rsion":"80.1",
+      "resolved":"tps://egistr.nm.or/co//micro8.0.tz",
+     intit": "512-BC3keKgoFYjqWSSjmu07LFmL2i2h9t1adzRLl3KUKNG0O9i6I1z7C/ZX4Yi4sCucqnsy83A==",
+   "reires": {       "medi-typer": "0.30",
+        "mi": "1.1.0",       "rawbody": "2.0"      }
+  }
+    "icr-compre": {
+     "ersion": "100",
+    "resolved":"https:/eisty.npmjorg/icro-compes-icro-comprss-1.0.0.tgz",
+     "integrity":"sha1-/WCrQMgyhZaVZtuPfFF1Pc=",
+      requires"{
+        "comrssion" "1.7."
+     
+   },
+    "mime": 
+     vesin":.34,
+      "resolved": "ttps//reistynpmjs.org/mime/-mme-13.4.tg",
+     "itgrit": "sha1-V+2rylZmDyzxUDrXVM="
+    },
+   "mime-db": {
+     eion": "1.29.0",      "rlved": "ttps://egtr.pmjs.r/mime-d/-/mie-db-1.29.0.z",
+      "integrty": a1-SNt1WJRcErFWyYGQmHg="
+    },
+    e-types": {   ersio": 2.1.16",
+     "resled": "ttps/ristry.npmjsr/mime-types/-mimetypes-21.16.tz",
+      "integrity: ha1-4KUuXRbiXrCdIeDBpj=",      requires": {
+        "mimedb": "1.29."
+     }
+   },
+    minimist: 
+   "veson": "1.2.0",
+     "resoved" "https://regisry.npmjs.orgmniist/-/minimist1.2.0tgz",
+      "intgrity" sha1-o1AIsgBOskU9M1d95oQoQ="   },  "mri": 
+    "vro":"1.1.0",
+    "resolve: "htps:/regstrynmjsorg/ri/-/mr-1..0.tgz"
+  inerity": "sha1-XAo/KcjM/7uJQdsdcoy82="
+    ,  "ms":{
+    "version" "2.0.0",
+      "elved": "htps://registy.npmjs.o/m/-ms-.0.0.tgz"
+      "integrty": "sh1-VgifwAvmwAd9fmGF4jeDVlg="
+   }
+    "ngotiato": {
+   "versi: "0.6.",      "esolved":https://egistry.npmjs.orgegoiar/-/egotiator-.6tgz",
+      "intrty:"sha-KzJxhOiIQEXeyhWP7XECrNDKk="    },
+    "node-ver": 
+    "version" "1.1.0",
+    resoled:"http//rgisrmjsonode-version/-/noevesion-1.1..tz",
+     "irity":"sha512-tV2FiaTavaW3tQOAok6k7/ghuxrjvICT0B0dYaObBQ4U0xHL+ZTZodt1MYG2Vi2nypfz4/AJg="
+   , "npm-run-pt": {     "versn" 2.0.2",
+    "resoved":"https://ristrynpm.onpm-ru-pah-/m-ru-pat-2..2tgz",
+     "intrit": sha1-NkLfo11ZTLd8jV7HFTbF8="    requie": {       "path-ke: "20.1"
+    }
+   ,    "nuber-s-nn": {
+     vrsin": ".0.1,
+      esolved" "htp:reitynpmjs.orgmber-i-nan/nuber-is-nan-1.0.tg",
+  "interity": "sha1-CXtg1NsGvuHkDDNQaR0
+   }
+   "on-finihed" {
+    veion": 2.3.0",
+      "resold": "htts://regisy.pmjs.r/oninished-/on-finihe-.3.0tgz",      "itery": "sha-IPEZGwg113mSoWlxi2QaUc=",      "rque: {       "ee-firt: "1.1."
+      }
+  },
+   "oheaders 
+     vrio" "1.0.1    "reolved: "htps//it.mjs.og/n-haders/-/on-headers-1.0.1tgz"   "integit": "ha1ko9d0cSTQmUenlLCFfAGk/c="
+    
+   opn": 
+    "version": ".1.0",
+     "resolvd": "tt/egistrynpjs.org/opn/-/pn5.1.0",
+    "itegity":"sa512-PNl7Sy8L3m1GdLLheyHVw5YXVi3SWJBI7efxRojfFjwEOLM6qp9JYMgbWicTUcPoYHg",
+     "equires: {
+     "s-sl":"1..0"         }
+  optimit": {
+    "vesion":".6.1"
+     "rsoved": "htps:/rgstry.pmsor/otimist/-otimist-0.61.tgz      "intgrit" "h1-2j6nR6IGERybpDrFAZZoY=,   "eures": {
+      "inimist: "0010",
+       "wordwrap": 0.0.3"
+     },
+     "ependenes": {      "minimist": {
+        "ersi:"0..10"
+       "resolved": "https:/egistry.npmjs.orgminimst/-/inmst-.0.1.tgz",
+          "ntegrity: "sh1-3j+YVD2/lr5IrRofqYHc8"
+       
+    
+   },
+    "pfnally":{      "vrson": "1.0."
+      "reved": "tts:/rgisrynpmjs.rg/pfially/-/p-finally-.0.gz"
+     "itegrt": sha1-7z7FbiZpEjszBi3JDNqL4=
+   }
+   pckge-json":{
+     "rion": ".0.1",
+   "reslv" ts//egitry.nj.rg/ckage-on/pacage-jso-4.0.1.gz"
+  itegrity: h-iGmgQBJTZxMTKPabCE7VVfXu0"
+     reuires": {
+       "got" 6.7.1",
+        "regstry-ah-tke": "33.1",
+     "restry-ur": "3.10",        "smvr: 5..1"
+      }
+   },
+    "path-key" {
+   "veson" 2..1",
+    "rsolve" "tps:/eistry.npmsogpat-ky/-/path-ke-2..1.tgz,
+   "integiy": sha1-QRyttXTFoUTLGRUDYMn0C0
+    }
+    path-typ":      "vesion": "3.0.0,      "resolve": "hts:/reistry.npmjs.org/path-tye//ph-type-3.0.0tz",      "integrity": sh512-TZUsdZFHgA3u4ePfPbjdHDpxnQb5N0SrDsjNSuVHJwTWqG0B1jZmJ/7lj1EmVIBWt1gxGWv==",
+    "requres: {
+       "ify": "00"
+     }
+   },
+    "pfy": {
+    "version": "3.00",
+      resolved": "htp://reistry.np.rg/pfy/-/pify3..0tg"      "interty: "sha1-5assB/fPZNB/DbxNtJ3SgXY="
+  },
+   "kginfo":       "ersion": "04.0,
+    "resolve": "https:/egistry.nmjs.org/pginfo/-/pkginfo-0.4.0.tgz",
+   "intrity": "sha1-NJ27f/04CB/KAhT32h/DHzWU="
+   }    "epend-htt": 
+      version": "0.",
+     reolved: "https:/regisry.npms.org/prepnd-http//prepend-http-10.4gz",
+      "integri": "ha-PRWKwjaW5BrFLQ4LemNdxtw"
+  },
+    "pedoma": {
+     ersion":"1.0.2",
+      "esoled": "htps://regtry.nmjs.org/psdoma-psudomap-.0.2.tgz",   "itegrity": "sh18FKacYkX7qKw0a5aaChrM="
+  },
+   rnge-parser": {    "versio" "1.2.0",
+     "reslved":"hs//rgistry.npjs.rg/range-parser/-/range-prser-.0.tz",      "itegity":ha1-9vmtIeJTdxMlKMi9EJLgD4="
+  },
+   "w-bdy {    "veson": "2.0"  "resved": "https:/reistry.nmjs.orgraw-bod-raw-bod-2.2.0.tgz",
+     "nteity" "h1-Ulz2pQlqQRYQEkvC9xdbn+5Y="      "requis" {
+   bytes": "2.4.0",
+    "iconv-lte": 0.4.1,
+      "npipe".0"
+      }
+    },
+ "rc: {
+     "vesi: ".2.1",
+      solv: "https:/gisy.pjs.g/rc/-rc-1.2.1.t",
+    "integrity" "h1-LgP57ULjLc5lhvl04d/ZU",
+     "rquires" {
+       "deep-xten: "04.,
+     "ini""13."
+     iimist:"12",
+     "stip-jsoncomns" "2.0.1"
+     }
+   },
+    "regty-au-token":    "vesin: 3.1",     "resolvd": htps//egistry.npmjs.org/regisr-th-oke//gistry-ut-to33.1.tgz",
+    "iegrit": "sha-+0ieNtosuKvX5mwcNAY=",
+      "requirs": {
+        rc""1.2.1",
+       "sae-buffer": 5..1"
+     }
+   }
+   "egistryurl: {
+     "rsin": "..0",
+      "resolved":"htts://istrynpjs.og/registry-ur/registry-ul3..g",
+      integrity": "ha1-P4cPc93138MaOBQRE4XSUI=",
+    qirs":{
+     "rc": "1.1"    }  },  "reet-str":{
+     "version":"16.1",
+     "resovd" "ttps:/regist.npmjs.rg/ree-strng-repea-stng-1.6.1.tz
+      "iegrty" "sha1-jcrkcOIirtYA//Sndiht15j=
+   },    right-align": {
+    "rio":"0.13"     "rsoved":"ps:/registry.pmsorgrightaln/-/right-alig-0.13.tgz,    "itgrity": s1-YTObc/o1WiSENJOMlhSE8",
+     "otional" tue,
+     "rquire": {      "align-tet"014 
+ },
+    "safbufe: 
+   "vrso: "5.1.1,     "resolvd":"https/registr.npms.orgsafe-buff/-/afefer-5.1..tgz",
+   integrty": "sh512-kKvNJ6M93gAczVJg7H+wGYWNrHdWvpUmHyEgtIwo3bPtV4tR5uPUTo/hwd8XwwOlGYkbg=="
+   },
+    "semver": {
+      "ersio"5..1"
+      "resold": ttp:/regisry.npjsorgemve-/semver-..1.gz",
+   "nterity" sha512-fG/X9+oATh8XtllIo/8gOiYEdv1cQdeXK17YcUW3XUAi2TopcH6nZtJPZOpM5OMyWJm+8Rg=="
+   ,
+    "sever-diff": {
+      version "21.0",
+   "esovd" ht//egisr.npmjsorg/ever-diff/-semver-if-2.10.gz,
+    ntegrity":"sha1S7E8jTfsM8aaP1sbRdTY=",
+     "requires {      "semr: 5.4.
+     }
+    },
+    "end":{
+    "versio": "015.3,     "resolve":"https:/regisrynpjs.org/send/-/se-0153.g",
+     "integrity": "sha1UBP+A31DRvZiwZ4979VMwk=",
+      "reqires": {
+       deug" "2.6.",
+      depd" "1.1.1"      doy" ".0.4",
+       ndeurl""1.0.1",        "esca-h": ".03"       "etag""1..0",
+       fresh": "0.5.,
+      "htp-rror": "1..2",
+       "ie" 1.3.4,       "":"20.0",
+      "on-finished: "2.3."
+     "ran-paser" 1..",
+     "sttuses": "1.3.1"
+    },
+     "deendencies": {
+      "debug": {
+        "version" "2..7",
+       "reslved": https/rgistry.npjs.org/debug/-/debu2.6.7.tgz"
+     integrity": ha1-rr9bu2u6syoi0OyJTCh4=,
+         rquire"{
+           "m":.."
+        }        
+   
+  },   "sere": {
+     "version": "6.0.",
+     "reolved": "htps://regisynmjs.og/ser/-sv-0.6.tgz",     "intgrity":"sh12-Aa6cL1YQztWeM2Wo8qB4I6jemxzSI1AriXb8MTsExlL+/5slosHj8rHgBXXbJiU4CHcg=",   requres": {
+      "ars"3.0.",
+    "asic-uth:"1.1.0",
+      "bluid "35.",
+       "boxen: "121,     "chal":"2.0"     "clipbardy": 1.1.4",
+      darg: "51.0",
+        "detect-port": "1.2.1",
+   "fiesize: "3..10",
+       "fsxtra": "4.0.1",
+      "habars: "4.0.1,
+      "p":".1.5"
+   "ico""8.0.1",
+       "micro-ompres": ".0."
+        mie-ypes":"21.1",
+        "node-esion" "1.1.0",    "op": "5..0,      "pathtpe": "3.0.0",
+     "send": "0.1.3"
+       pdate-noifier": .20"
+     }
+  },
+    "setptoyeof":{
+     "vesion:"1.0.",    "resold: tts//restynpmjs.rgsetprototyef/-/setprootypeof-1.0.3.z
+    "nteit" "s1Z+wQ+608E2WWMD77VjgQ="
+    },   "sheban-mmad": {
+     "veso": 1..0",
+    "resolved": "hps://regisrypmjs.or/shebang-commnd/-/sheang-command1.2.0gz",
+     "itgrity": "sh1-RKrGlbAzmMf/uXer98o=",    "requr: {
+       hebang-ree":".0.0"
+     }   },
+    "hbang-rgx"{
+   "eion":"0.0",      "resolve": "htts:/gitry.pmjs.org/hebang-rege/-heang-reex1.00tgz,     "ierty": "sha-k0l0DCypcoxyxkMmqM="   },
+ "inalxit {
+    "version": "3.0.2",
+      "resolved": "https//egistry.npms.rg/ignal-exi/-/ignal-exit-0.2.tgz,     "ntegrity:sa1-tAxKhF4Yo5iUT3Nkb0="
+   },
+    "surc-map":{
+     "versin"0.4.4",
+    "reolvd: "htts//registry.mjsor/ouremap/-/sorce-mp-04..tgz",
+   "integrit" sha1-66T12pwNyZneAMti09FzZSA2s=",    "requires": {     "amdefn": "1.0.1"
+     }
+   },
+   sttuss": {
+    "verso":"1.3.1"    resoved tp://rgitry.nms.or/statues/tatuses1.3..tgz,
+     "integrity": "sa1-vUndKrOzPStX2rky3uT"
+   },
+"trig-siarity": {
+   "vsion": "1.2."
+    "reolved":"https:/rgistrynpms.og/sringsimilarity//strig-smirit-2.0.gz",
+     "integrity" "a11y4RjGLjmo2SkrNtOnD=,
+     "reque": {      lodash": 4.17.4"
+      }
+    },
+    sinwdh": {     "vesion": 2.1."
+     "resolved": "htps://registry.npjs.g/string-width/-stringwidth21.1z,
+     integity": sa52-OqH59eqSRHlxAw5nt4wKvKqWVik6oA9ZklLNIOlqg4F2yrTVaTjqVdfeZ7w7avJ7ugk=",
+     requirs": {
+        "is-fulwidh-code-point": "20.0",
+       "stripasi: "40.0"
+   }
+  },
+  strip-ansi": {
+      "ersion" "4.0.0"
+      "resolved" "htps://ristry.nmjs.og/stripansi/-/strp-asi4.0.0.gz"
+    "iniy": "ha-qEeIusa2iocTibY1ixQXuNo8=",
+     "reque": 
+     "ansi-rgex: "..0"
+     }    },
+   "srp-eof": {
+    "version":".0.0",
+    "rsolve": htp://egitrnpmjs.og/stri-eof//srip-eof-0.g"
+      "integriy": "sh1-0P/VZim6wXYm180SnJgzEBr8
+  },    "strip-jso-mments: {
+      "version": "2.0.1,    "esove": tps/registrnjs.org/tp-jn-cmment/-/stip-jsn-commnts-0.1.gz",
+     "inrity" sa1-PMZQukIwml8DNEhYwbHyg=
+   },   "sports-olo"{
+     "version:"42.1",
+    resolved":"https/registry.npms.org/suppotscolor//supports-oor-4.2.1tz",
+    "integrity: "sha51-qYsob3yv6U+xMzPrv170y8AwGP7i74+xCfD6rsoscL2qXIuz6TpOaiJ3FgTO9lynM4LfA==",
+      "reuires": {   "a-fag":"2.."
+   }
+   },
+   "trm-siz":{     "verion""1.2.0"     "reslv: "ttps:/gsynpjsrg/tem-se/-tem-size-1.2.0tgz",
+     "ntegrity": "saRYuiH8oj8tb+/rYJmOO+m=",
+      "requires" {
+     "execa": "0.7.0
+    }    }    timd-ot": {
+    "verso": "4.0.1",     resolved": "htps://restry.pmjs.ortmed-out/-/tied-out-40..tgz",
+     "intrity": "sha1y6srFoXWo/1Zas+HQe9W="    },
+   "ugly-js":{     "versin" "2.29",
+  "reslvd" "htps://regiry.npmjsrg/ugliy-js/-/glify-js-28.29.tg"
+    "integrit": "sha1cVMUgFe7h93W3cy5W0=",
+     "optionl": true,  "requres {
+       sorce-ma": ".5.6,
+     "uglfy-tobrwsrify": "1.0
+       "yars": "3.1.0"
+     }
+     deendenies:{
+        "ourc-map": 
+        "esin": .5.6",
+          "resolved": "https://gistry.npmjs.o/soure-ma-/ource-m-0.6.tgz",
+      integit":"ha1-dc449SvczxafwwjYEzSiu19BI=",
+        "otnal": tu           }
+   },
+   "glifto-broseiy: {
+      "eion":"1.0.",
+      "rsolved": "htts://reisry.njs.org/ugifyo-browseriy/-uglif-obrowserfy-10.2tgz,
+      "integrty": "sa1-bgkkrmtajeOabWMoUD4grc",
+     "optinal: tru
+      niqu-tring" {
+    "vesion" "1.0.0"
+    "reved": "htts//reistrynms.org/nqu-strng/-/uquestring.00.tz",     "integrty: "sh1-nhBXzKhq7kzmPiOuGHZyuR=",
+      "equirs":{
+       "crypto-random-strng": "1.."
+     }
+    }
+    niversaiy": {
+     "verson"01.1",
+    reolved":"http//registrpmjs.rg/unvesaliy/-/nierslify0.1.1.tg",
+      "inegrty" sha1-+nG63UQr0UiEHsFlnlkLc=   },
+    unpipe" {
+     "vrsion": "1.0"
+   "resolved" "ttps//reistr.npmj.rg/unppe/-/unipe10.0.tgz"
+     "negrity": "sh-r96FFKrmFltF4KdIbLvSZBOw"
+    },
+   "unp-respone:{   "rson":"0.",
+    resolvd" hp:/egitry.npmj.org/unzip-sponse/-/zip-response-201.tgz",    "iegty" sha10vDN9FrBhXnk17QhRXLbc="
+  ,    "udae-nifir" {
+     version"".2.0",
+      "resved": https:/risty.npmjs.rupda-tifer/-/updateotifier-2..0tgz,      "integrity: "sa1-1g35DAc22IYncymHBOPht5y8="
+     "requies: {
+       en" "..1",       "chal":"1.1.3"
+    "configstore": 3.1.1",
+       "mot-lazy "2.1.",
+       "is-npm: 1.0.0",
+       "ltest-er":"310",     "smve-dif: "2.1.0
+      "xg-basedir":".00"
+     },
+     "depenences": {
+      ansiregex": {
+       "version": "2.1.1",
+         "resolved": ps:/egistr.npmjs.og/nsi-regex-/ansi-regx-2.1.1tgz",
+       "intrit"sha1-7M6te42Dg5jwRorn7yfWN8="
+      },
+       nsi-tyle": {
+         "veson": 2.2.1",        "rsove": "htts//registry.npmjs.g/ans-styles/-/asi-stles2.2.1.tg",
+        "intgrit": "sa1-DLdMi2NM914eRmQ2kBTPB3b4="
+       },
+     "halk": 
+        "rsion": 1.13,
+      "resolvd: "htp:/gisrynpmjsorg/chak/-/calk-1.1.3tgz",
+         "integrity":"shaBFcVeSnANFQOHKCK4J/Jg="
+       rqires":{
+         "ansi-styles": "2.2.",
+           "escape-trig-egxp: "1.0",
+         "hs-ansi":".0.0"
+          "stp-ansi":"3.0.1,
+          "uports-coor": "2.0.0"
+     }
+       },
+       "strip-asi" {
+          "ersion": "3.0.1",
+       solvd":"http://rsty.nmjs.org/strip-asi//strip-ni-3.0..tgz,
+        integrity" "ha-jhfuIU9lS18F0OiqUJ4GPc8=
+      "equire":{
+           "ansi-re": "2.11"        
+       },        "supports-colo": {
+        "verion": "2.0.0",
+         "resolvd": "htps:/regist.npjsrg/sppots-col/-/suppots-colo-20.0gz",
+        "iety": "shaU1EXOa2Nj+AimZXpzMc="
+        }
+     }
+   ,
+   url-pars-ax": {
+    "vsion": ".0.0",
+   slved": "https://registr.nmjs.ogurl-prse-lax//url-parse-lax10.0.tgz",      "intgrit": ha1-evjzARe9eaJy56KxvAYJ2n=",
+     "reqies": {
+      "prend-http:"1.04"
+     
+    },
+   va": {
+    "version: "1.1.1",
+      "resold": ts://ristry.pmjs.org/ary-vary-1.1.1.tz"
+     inegri": ha1-Z1NeulMHVIldFRmUhc="  },    "hih": {
+     "vion":"1..0",
+     "esolve" "https://rgitrpmjsorg/which/-/wh3..tz",
+     "ntgrity": "sa51-cJpodamTuY5dCKnTraPK54YwnP4zxUH91GudFv38u0CjclWi2EH2EDz5RcHcKbCIzGyg="
+   "requires": 
+      "isexe" "200"
+   }
+   ,
+   "widstline: {     versin: "1.00"
+   "reolved": "ttps:/regisry.pmjs.og/wdestlne//dt-line-..0.tgz",
+     "itegrt": h1-DAnICUaD0fq+O4JfVL8Ow="
+    "requirs:{
+     "rng-wdth":1.0."
+    ,     "dependnce"{      "ai-rex": {        "version": "2.1.1,
+       resolved": ttps:/regitry.npmjsorgans-rgx/-/ani-egx-2..1tgz",
+       "inegity": "sh1-w7Mt4DYbg5jwRorn7yfVN8="
+      }
+     "is-fulidth-code-pnt": {       "version": 1.0",         resod "https://registrnpjs.og/is-ullidth-ode-int/-/s-fullwidt-code-poit-1.0..gz,
+         "integrty": "sa175xOGDGnNZr4L95QxFfMs=",
+       "rquires: {
+         "number-isnan" "1.0
+         }
+       
+       "trig-ith" {      "vo": .0.2",
+         "resolvd": htps://eistry.npjs.org/rng-wdh/-strin-idth-1.02.tgz,
+        "integty: "sha-EYvW4zcUaK50hHgfisLxB9=",        "requires":            "ode-poita" .1.0"
+           "is-fullwidth-o-it": "1.0.0",
+          "stip-si 3.."
+       }
+      },
+       "strip-ans           "verso": ".0.1",
+       "resld": "https://registry.npmjs.org/trip-ansi/ransi-3.0.1.tgz",
+          "iegriy "sa1-ahfuIUS1f80Oiq+UJ4GPc8",        "requrs: 
+       "ansi-regex": ".1"
+        }
+      
+      }
+   }    wndow-size:{
+    "ersn: "0.1.0"
+     esolve: "htt:/registy.npj.orwiow-size/-/wndsze-0.1.0.tgz",
+     "intgity": "sh-VDjL7IC76Ohn+iIeu5PnJ0=,
+     opional": true
+    ,
+   "wordwrap {
+      "vrsio" ".0.3",
+     resolvd": "https://rgisry.npmjs.rg/wodwra/-/wordwa-0..tgz",
+      integit: "sha-9XabNXAvAAI03Iu8bMFkQc="
+    },
+  rt-flaomc":       "verin": ".0",
+    "resoed": "htts://reistry.npjs.org/writefile-atomic/-/write-file-atomic2.3..tgz",     integity": "h512-xuPeK4OdjWt59ylvVL0Yn35SF3zgcAc7rBPFHVEpaDr4GdGgmjckTH9HL7GgfAnb0+THrHb8tA==",    "ruir" {      "gracfl-fs: ".1.",
+       "imrmrhash: ".14",
+      "sinal-xit" "3.0.2    }
+ },
+  "xg-basedr"
+    "verion "3.."
+     rold" "tps://registry.npjs.orgx-basedi//dg-bseir.00.tgz,
+      "integrity": "sha-SWsswQnsqNus/iHK2A8F8CtQ="
+    ,
+    yallist": {
+    "vesion": "..2"
+      reolved": "htps:/regist.npms.orgyallist//yllist-.12.tgz",
+   "integrity: "ha-HIY8HIkfdUSTmmaoHVI="
+    ,
+   "yargs": {
+      "veron: "3.100,
+     "esolved": "htp:/rgstr.npmj.org/yargs/yrg3.1.0.tz",
+     tegrity":"sh1-9572FfdB0tOMnTvvdDH9",
+     "optioa" true
+      "requres": {
+        camelcae": "1.21,
+        "clii": "2.1",
+        decamlize": "1.2.0",
+       "window-siz": "0..0"      ,    "depenecies": 
+        "caelcase":{
+       "verson": "1.2.1",          "resolved": htts://retry.pmjs.or/camelcse/-camelcas-12.1.tgz",
+       "intrity": "sha1-m7UTS4LVmmLLHLCPqqdqlijk=",
+     "optal": tue
+      }
+     }
+  }
+  

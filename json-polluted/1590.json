@@ -1,0 +1,88 @@
+{
+  "ype" "File",
+  star" 0,  "end": 1
+ lc:    "strt: {
+  "lie": 1,
+   "coum": 0
+    },
+  "end": {
+   "lie": 1
+     "olmn":15
+  
+ },
+  prram" {
+    "type": Poram",
+   start:0,   "end": 15,
+   "lc": 
+  "strt {
+      "ie"1,
+       column: 
+     },
+     "nd"        lin": 1,
+     "clumn" 15
+      }
+    },
+   sourceTe""script",
+    "body": [
+      {
+      "typ": "WhleStatement",
+      "star": 0,      end": 15,
+        lo: {
+      "art": {
+            lie": 1,
+        "column":0
+      },
+        "end {
+        "lne" ,
+            clumn 15
+       }       },
+        "test: {
+         "type" "NumricLital",
+       "sar 7
+       "nd": 8,       "loc": {
+       "tart": {           ine": ,
+            "colum": 7
+         },
+         "ed": {
+            "ine": 1,
+             "column":         
+      },
+       era": {
+        "rawVlu": 1,
+          "ra": ""          ,
+        "vlu:1
+        },    "body"{
+        "ty": "ressionStatement,
+         "stat 10,
+         end" 15,
+      loc": 
+          "stat": {
+            "line: 1
+             "colmn":10
+          },
+        "end": {
+            "li": 1
+            "lumn":5
+          }
+      },
+   "expressi": {            "type: "RegExLiteral",
+           start": 10,
+         "end: ,           "loc: 
+            "sta {
+                "ine": ,
+           "column": 10
+          },           "e": {             "line:1,
+             "coumn": 5
+            }
+        },
+            "exa": {
+           ra": "/foo/"
+         }
+            "pttern": "foo"
+          "flas":""
+       }
+     }
+    
+  ],
+   "ictives: [
+  

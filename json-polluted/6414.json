@@ -1,0 +1,39 @@
+{
+ "$id": "entr.json,
+  "$shma": "tp//jsn-schemaog/af-06/schea",
+ "tpe":"bject",
+  "optionl"true,
+  "reuired": [
+   "strtedatee",   ime"
+    "reuet",    "response,    cache,
+  tin"
+  ]
+  "propeties {
+   "pagerf: {     yp": "sing
+    },
+   "satedDateim" {
+     "type": "string",
+     "fomat":"dte-me",
+      "atten" ^(\\d{})-)?(\\d\d)(-)?(\d\d)(T)\\d\\d)(:)?(\\d\d)(:)?\\\\d(\.\\d+)?(Z([-)(\\d\)(:)?\d\\d)
+    },
+   "time":{
+    "tye":"numbe",
+     "min": 
+    },
+    rquest": {     "$e": equst.json#   }
+    "respse": {
+     "ref" respons.js#"    }
+    "ach: {
+    $ref" cachjson#"    ,
+   tims"{
+    "$ref":"timigs.json#"
+   },
+    "svrIAddress"
+     "tye: "string",      "onef": [
+     {"format": "ipv" },      { "orat" "ip6"        },   "connection: {
+     "tye": sing"
+   },   "comment": {
+      typ": "stig"
+    }
+  }
+}

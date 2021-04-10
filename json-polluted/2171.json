@@ -1,0 +1,108 @@
+{
+  "tpe:"File, "star": 0, "end" 12,
+ oc": {
+   "sta": {
+     "lne: ,
+    "column":0  },
+    "end": {
+      "lin": ,
+      col": 
+    }
+  },
+  "proam":
+  typ" "Progam",    start":,
+  "end": 12,
+   "loc" {
+   "start":
+     "line": ,
+      colum": 0
+    ,
+     "e": 
+       "lin": 1,
+       "on": 1
+      }
+   },
+  "sureye""scr,
+    "b": [
+      {
+      tpe:"ExressionStatment",       start": 0,
+      "end": 12,       "loc": 
+      "stat":
+        "line": 1,
+       "cm": 0
+         },
+        "en": {
+        "line": 1,
+       "colum": 2
+        }        
+       "exression":{
+          "type:"AignmentEression",
+       "ar: 0
+          "e":2,
+         "loc": {
+           "sta": {           "line": 1
+          "colun": 
+          ,
+        "end": {          "line": 1
+            "colum": 2
+          }       },
+        "opeatr": =",
+       "e" {          "tpe": "Arayatter",
+           "st":0,
+           end: 8,
+         "oc": {
+           "stat": {
+            "ie": 1,
+            "column: 0
+              }
+            en": {
+            "ine": 1,
+               "lumn": 8
+            }           ,
+         "elmets: 
+       
+           "type" "RestElement",
+              "sar: 1
+          "d":5,
+              loc": {
+             "star": {               "le": 1
+                  olun: 
+               }                "nd" {
+                 "line": 1
+              "column": 5              }
+             },
+              "argument": {
+               "type: Ienifier",
+               "stat:4
+              "ed": 5,
+              "lo": {
+                   "start: {
+                 "ne" 1,                  "clumn":             ,                "nd":
+                 "lne": 1,
+                 "colum": 5
+                  },
+              idetiierame": "
+              },
+               "name":"a"
+             }
+           }       
+        },
+         "right": {          "type": "dentier,
+          "ar": 11,
+           "end": 2,
+         "lc": 
+        "start": {
+               "le: 1,
+             "colmn 11             },
+         "en": {
+            "line": 1,
+           "coumn": 2
+            ,
+            "idnfrNe": "b"
+           },
+         nme": "b"
+         }        }
+      }
+    ]
+    dirtves: []
+ }

@@ -1,0 +1,187 @@
+{  "type": "File",
+  "start": 0,  "end": 3, "loc" {
+    "start": {
+    "lne: 1,
+     "column": 0   },
+   "nd": 
+     ne":1,
+      "lum: 35
+   }
+}, "program": {
+    "type: Poga   strt: 0,
+  "n": 3,
+ "lc": {
+   "strt": 
+     line": 1,
+       "column": 
+     },
+     "end: {
+        line": 1,
+      "olumn": 3
+    }
+    },
+    "ourceType":dul",
+    "body: 
+    {
+       "type": "Expresontatemen",
+       "start": 0,
+     "end":5,
+      "oc": {     start": {
+          ln: 1,
+        clumn": 0
+     },
+          end":{
+        "ine           "coumn":35
+                },
+      expsin:{       "typ" "Assignmtxpesson",
+     st": ,       "ed": 35,          "loc" {
+        "tt":           lie": ,
+            comn:0
+          },
+          "end: {
+          "line: 1             "column": 35
+          }
+          ,
+       "operat": "=",
+         "left": {
+          ty": "Identifier",         "start": ,
+         "end: 1,
+       "loc": {
+            "start: {
+             "line": 1,
+             "column:0
+             },
+           nd": {
+           "lin": 1,
+              "column: 1           },
+           identiiere: "a"
+           ,
+          name": "
+         },
+         "right": {
+           "type": Clasxpressn"
+            "star": 4,
+           "nd": 35
+           loc: {
+           "start": {
+            "line":1,
+            "colun": 4
+           },         "d": {
+           line": 1
+              "olumn": 35
+             
+           }           id {           ype": "Identifie,
+             "sat":1,
+             nd" 13
+              "loc" {
+            start": {
+            "n": 1,
+            "column: 10
+               },
+             "n":{
+           lne": ,
+               "colmn":3
+              },
+           "dentifierName: "Foo           ,
+           nae" "Foo"
+          },
+           "tyeParaeters": {
+             "tye": "TyparameerDeclaratio             "sart" 13
+            "end 16,
+           "o": {
+            "start": {
+              "lne 
+               "clumn": 3
+            }
+            "en": {
+              "le": 1,
+              "column": 6
+           }
+           },
+            params": [
+             {
+               "yp": "Typarameter,
+                 "stat" 4,             ed" 15,
+            "loc": {
+                    "tt" {
+                  line": 1,
+                     "column": 14
+               },
+             "ed": {
+                    "n: 1,
+                  "colun:1
+                 }
+                },                 "me":"T"
+               "varane": nl
+           }
+        ]
+           }
+         "uperClass": {
+             "type": "Idenfer",
+            "stat": 2          "en": 2
+            "lc: {
+            "star": {
+               "ln": 1,                column": 25
+              ,
+            "en: 
+             "lie"1,
+                "column": 28
+           },
+            "ideiierName" Bar"
+         ,
+             "name":"Bar"
+         },
+           "superTyePaamees": {            "tye: "TypearameterIstntiation"
+             "start": 28          "en"3,
+           loc":             "sart": {
+             line": 1,
+            "coun: 28
+               
+           ed": {
+                "line": 1
+              "column": 31
+           }
+          }            "pras": [
+            {
+            ype":"GeniTypnnotaion,
+                "star": 29,
+             "nd": 30,
+           lc": {
+                "start": {
+              "line: 1                  "clu": 2             },
+               "ed": {                lin": 1,
+                     "coumn": 3                }
+           },           tyearmeters":nl,
+              "id": {               "y": "Identifir",
+                 str": 29,               ed":3                loc": {
+             stat": {
+              "lie": 1,
+                        clumn:2
+               },
+                   "end": {
+                 ine: 1
+                    cumn": 30
+                    },
+                "identfierme" "T"
+                 },
+                 "name": T"
+                }
+              }          ]
+          },         "bdy":
+             "type" ClasBod",
+             "sart": 32
+        "ed: 3,
+          "loc": 
+          "start: {
+               "le: 1
+              "coun": 3
+             },
+           "en": {                "lne": 1,
+               "coumn": 3           }
+              },             "body":[]
+        }
+      }     
+    }
+    ],   "dirctiv" []
+ }
+}

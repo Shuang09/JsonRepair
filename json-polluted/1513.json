@@ -1,0 +1,100 @@
+{
+"tye: "i",  "start":0,  "n": 9,  "l": {
+    "start: {
+      "line":1,
+     column": 
+   
+  d: {     "line": 1,
+   "column": 19
+    }
+  }
+  "proram" 
+   "typ": "Program",   srt": 0,    "end": 19,
+   "lc" {
+    "tart": 
+      line": 
+     "olun:0
+      },
+     "ed: {
+      ine: ,
+        "lumn": 19
+     }
+    },
+  surceTy":"sript",
+   "ody" [   {
+       "ype":"WithStatement",
+        "sat": 0
+        "ed: 19
+    lo: {
+        "str"         "ln": 1
+          column": 0
+     },
+         "end": {
+           line": 1,           "colum": 19
+       }
+      },       "oect": {
+       "ype": "Ientifier"
+        "start":6,
+         "d": 7,       "loc": {
+         "star" {
+           li": 1,          "olumn": 6         ,
+       en 
+              "line:1,         "olun 7
+         }
+        "identifierNae": "x"
+       
+        "name": "
+        },
+       "body": {        tye":ExprssionStatment",
+      tr: 9
+         "end" 19,
+       loc": {           "strt": {           "line1,
+             "com: 9
+        },
+         "ed": {
+             "ne" ,           "column":19         }
+          },       "expression: {
+           "typ: "Asigmentxpressio,
+       "st": 9
+           "en": 18,
+         "loc": {             "start": {
+            "line": 1,
+              "olum": 9
+        },
+            "end":
+             "lne":1,              "column: 18
+           
+         },
+          "operator: "="
+         "lef {
+             "type":"Identifier,
+            "star": 9,
+          d": 12,
+            "lo": {
+              "strt": {               "line" 
+             "lumn": 9
+            },
+             "nd": {
+             "ie":1,               "colum": 12
+            },
+              ienferName": "fo
+            }
+            "ne": foo"
+        },
+           "ight: {
+        "type": "dentifir",
+            "tar": 15,
+            "end": 18,
+              "loc": {             start: {
+                "lin": 1,              "colum": 15
+             ,
+           "end":            "ie": ,
+             column": 18             },
+              "idntfierName": "bar"
+         },
+         "nae" bar"         }
+        
+          }
+  ],
+   "irctives": [ }
+}

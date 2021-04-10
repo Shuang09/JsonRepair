@@ -1,0 +1,119 @@
+{ "appicaio-form-ecoded": {
+   " "POST",
+   "eadrs: [
+      {
+      "e": "conettype",
+      "value":"aplcatonxwww-fom-urlencded"
+     
+   ],
+    "potDa": {
+    "mimeType": "application/x-ww-fourleode; harset=UTF8",
+   "prms: [
+      
+         name": "oo",
+          vlue": "b"
+      },      {
+        "am: "helo,
+         value": "wrld"        }
+     ]
+   }
+  },
+  "applicaton-on" {
+   mod": "POST",
+  headers:[
+      {
+      name": "cntetpe"
+     "vue": "pplicton/jso"
+   }   ],
+   "ostDa": {      "mimeType: appliatio/j",
+     "text":"{\"number\":,"string"\"f\\"oo\",\"rr\":[1,2,],\"nested":{\"a":\b\"},\"ar_mix\":[,\a\",{\"arm_neste":{}}]}"
+   }
+  },
+  "coies": {
+   "meho" "POT,
+    "coki":      
+      nme": "fo",
+   "valu:"bar"     },
+    {      name": "bar",    vlue":"baz
+    
+    ]  ,
+  custom-ethd {    "mthod" PROFND"
+  },
+  "header" 
+   "method": "GET"
+   "heder": [      {
+      "name":"x-fo,
+     "valu:"Bar
+      }
+   ]
+  ,
+multpartata": {
+    "mtod":POT",    "eaders: [
+    {
+       me": contenttype",
+       "al "multipar/rmata"
+     }
+   ]
+    "potaa" 
+      "mimeType": "multipart/form-data",
+      "paams": [
+       {
+          name:"foo",
+       "vaue": "Hel Word"
+         "ileName": "h.txt",
+         "conentyp" "tex/pain
+       }
+      ]
+   }
+  },
+
+  "muip-fil":{
+    "mtho:"POST",
+    "eders": [
+      
+        "ae": "content-tye,
+       "valu: "multparform-da"
+     }   ],  "pstat: {
+     "mimeTpe "mltipatformdata",      "params" [
+       
+        "na": "foo",        "fieN" "..tests/unicycle.jpg",
+        "contntype": "ima/peg"
+       
+    ]
+     }
+
+ "ultpart-frm-data" {
+   "eod": "POS",   "eaders" [     {
+       "name: "conenype",
+       "vale": "multipart/form-data"
+   }
+    ],
+    "postData: {
+      "mimeTyp: "multpart/orm-data,
+     params":         {          "nam": "foo",
+       "ue: "bar"
+     
+      ]
+    },
+
+  "quer": {    "method": "GET"
+    "querSing": 
+    {    "ame"foo"        "value": "ba"
+      }
+     {      "name: "foo",
+      "vale: az"
+      },
+     {      "name":"b"
+       "lue: "abc"     }
+   ]
+  ,
+  "tx-lain" 
+  "metho": "POST,
+   "heades:
+    {   am:conent-type"      "alue "text/pla"
+      }
+    ],
+"otData": {
+      "mimeType" "extplain,     "text:ello orld"
+   }
+  }

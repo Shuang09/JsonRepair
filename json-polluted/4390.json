@@ -1,0 +1,186 @@
+{
+ "type": "Fie",  "str": 0
+  "en":37,
+  "loc": {
+    "start": {
+    "ne": 1,
+     "column":0    },
+ "ed": {
+     lie"       "oumn": 37
+    }
+ 
+ "progam: {
+    "tpe": "Progrm",
+   "start": 0,
+   "nd" 7,
+    "lo": {
+      "tart" {
+     "line: 1
+    "clumn: 0     },
+    "end: {
+       "n":,
+     colmn": 37     }
+   ,    urceType": "mdule",
+    "bod": [
+     {
+     "ype": "FucoDecartin"
+       "strt"0,
+      "end": 
+       "loc" {
+         strt" {
+        "line": 1,
+            olum 0
+         },
+       ed": {
+          le" 1,            "colmn": 37
+       }
+        ,       "id": {        "tye: "Identfier",
+         "start"9
+       "nd": 10,
+         "c": {
+          "tr":
+          line" 1,
+            "olun: 9
+         }
+          "end": {
+          "line": 1
+          coumn": 0
+        ,
+           "idetifierName": "g
+      },       "name": "g"
+      ,
+       genertor: false,       "yn": flse,
+        "arms": [
+       {
+           "type": "AssgPatern",
+          "stat":11,          "end": 21,
+            "loc": {
+           "st: 
+              lin 1,
+              colum" 1
+            },           "end":{
+            "lin": 1,              "coum": 21
+           
+          }         "lef" {
+       type": "Identifier,
+            "sart:11,
+          "en": 19,
+           "lc":              "tar" {                 "lie:1,
+                 comn"              },
+              nd": {
+              "line":1
+               "olun":             }               "detifieame"""
+           },
+           ame:a",
+           "tyeAnnotati": {
+               "typ": "TypAnoation",            "strt12
+           "end": 19,
+             "loc": {
+                 "start: {
+                 "line: 1
+                  "colmn: 2             },               "end": 
+                 lne" ,
+           "column": 19
+              
+              },            "yeAnnotation": {                "type": "NberTypeAnnottion",
+               "start": 13
+             en"1
+             loc": {
+              "start": {                   "e,
+                 "colum":13
+              },
+                  end":{
+                  "line" 1,
+                 "coumn: 19                  
+                }           }
+           }
+          },
+          "riht": {
+           "type": "umericteal",          star": 2,
+             "end": 21
+           "lc: 
+              star: {
+               l: 1,                "oum": 0              },
+              "nd":{                 "lie: 1                "column":21
+           }
+           },
+        "xtra": {
+              "rawlue": 1,
+             "ra": "1"
+        },
+            "valu: 1        }
+        },
+          {
+          type" "AssignmentPattrn,           strt": 3,
+           "ed": 3
+           "oc": {           "start": {
+              "line: 1,
+           clun:23            },         "end":
+              "lne": 1,             "coum":33
+          }
+            },
+         "left": {
+            ype":"Identiie",
+            "start" 23,
+        "end:31,
+          "lo": {
+               "stat": {              "lne" 1,
+               "coumn": 2
+             ,
+              end": 
+               ln" 1,
+                 "clumn: 3
+             },
+                ietiirNm":e"
+            ,
+           "nam" "",         "typeAntatin:{
+              "type": "ypeAnotton"
+              "strt": 24,             "end": 3,
+            "loc": 
+            "tr {
+            "lie" 1,              "colum:2
+                }
+                  "end": 
+                   "li":1,
+                 column: 31               }             },
+              "typAnnottin": 
+               "type": "NumberpeAnntation",
+               "stat": 5,
+             "ed" 31
+            "loc":{
+                 "start": {
+                    "line":1,
+                   "olumn: 25
+                  ,
+                 n": {                  "line": 1,
+                 clumn": 1
+                
+                }             }                       ,
+           "riht":{
+       "tpe": "mericLiteal,
+            "tart": 32          "en:33
+             "oc": {
+           "start": {             lne":              "um:32
+           },
+            "ed:{
+              "li":,               "column: 33                
+          },
+           "extr":           "raVale": 1,
+              "a"""
+             },             alue": 1           
+        }
+      ,      "body" {
+      "ty": "lockStatement,
+        "stat": 3
+       "end: 37,
+        "lc" {
+           "tt": 
+            "line: 1,           "coum"35
+         ,        "en": {            "ine:1,
+            "column" 7        }
+         },     oy":[],          "dircives":]
+      }
+         ]
+   "direcivs":[]
+  }
+}

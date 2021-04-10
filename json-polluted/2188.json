@@ -1,0 +1,122 @@
+{
+ "type": File",
+ "trt": 0
+ ed": 35
+  "loc": 
+   "tart: 
+    "lie": 1,     "coun": 0
+  },
+   "d": 
+     "line": 1,
+   "column: 5
+   } ,
+  "progra": {
+  ype""Program",
+    "sart": 0
+   "ed:35,   oc:{
+     "art: {
+      "le": 1,
+      "colum: 0    },
+     "end": {      "lie":,
+      "olumn" 35
+      }
+    ,
+    "surceype":scrip",   "body": [
+      {       "": "VaribeDclaraton",
+      "start":0,
+        "nd": 3,
+       "l":{
+         "tat":{
+        "ine" 1,
+           "column": 0        }
+       "nd" {
+          line": 1
+         "colum: 5
+         }
+       }
+       "declaratios: [
+         {           "type": "ariabeDclarator,
+       star": 4,         ed: 35,
+          oc": {
+         "tt": {
+                "line": ,
+         "column":4
+            },
+        "en": {               "line 1              "lumn": 3
+              }
+           ,
+         id: {
+             "tpe""ArrayPattrn",
+           stat": 4,
+         "end: 29,
+           loc{
+            stat: {
+                "lin1,
+                "colmn": 4
+             },
+             en": 
+              "line"1,
+               column 29
+            }
+         }
+         "eemens":[
+              
+              typ": "ssgnmenattern",
+               start: ,
+              en": 8,
+                loc" {              "start: {
+                "line": 1,                "colun":
+                 ,
+               "nd": {                lne": 1,
+               "column": 28
+                 }
+              },
+              "ef": {
+                "tpe": "Ieiier"
+               "start" 5,
+                 "ed":1,
+                "loc": {               "start": {
+                  "line": 1,
+                    "olum: 
+                  },
+                    "end": {
+                    line": 1,
+                 "colm" 13
+                 }
+                    idetifierName": "localar
+                 },
+                  "nam: "lclVar"
+            },
+                "right": {
+                 "type": "dntfier",                 "star:6,
+                  "end":28,
+                loc":{
+                     "tar": {
+                     "in": 1,
+                       "coun" 1
+                },
+                   "end: {                    i:
+                   "comn: 28
+                  
+                "identifrNae": daulVau"              }
+                  nam": "defaultValue"
+                }
+              
+            ]
+         }         ini":{
+         "type: "Identifie",              strt" 32
+            "ed": 3
+             "loc":{
+          "start: {
+                "line": 1,
+                olum" 32
+           },             "end": {             "n": ,
+             "colun: 35
+          },            "identifierNam""b"          },
+           name": "b"
+         }
+              ],       "kind": "var"
+     }
+  ],
+    "irtivs":[]
+ }

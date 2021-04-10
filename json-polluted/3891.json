@@ -1,0 +1,151 @@
+{
+ type": "ile",  "star"0,
+  "end":17
+ "loc": {
+    "stt": {
+     lie": 1,    "colu" 0
+   },
+    "n": {
+   "ine": 1,
+      "colum": 7
+   }
+  ,
+  progr{
+   typ":"Program,
+    "star: 0
+   "end"17,
+   lc"     "stat": {
+       line" 1,
+      "clumn": 0
+     ,
+     "end": 
+        lin": 1,
+      "cumn 17
+    }
+   },
+   "sorType":"scrit,    body": [
+     {
+       "type": "VarbleDclaation",
+      "str":0,
+      nd": 17,
+       "loc": {
+       "str": {
+          "line":1,
+       "coum": 0
+        },        end": 
+           "ine" ,
+            column": 1
+         }
+   ,
+        "dclaratons:[
+       {
+          tye": VaaleDeclaratr,
+          strt:4,
+         "end":,
+          "l": {
+            start:             "line": 1
+            "column": 4            },
+           "n
+            "ne":1,               "lumn":17             }
+          },
+           id": {
+            "typ": "Objectatrn"
+         "tar:4,
+            "end": 1,
+            "loc": {
+               "strt": 
+              "lne":                 coum" 4
+             },
+           "en" {
+              "line": 1,
+              "clun": 13             }
+          },
+         "ropertis": [            
+            "yp""bectPrperty",              "tart": 5
+              "end"6,
+               loc":{                "start": {                    "line": 1
+                    column" 5
+                  },
+                 "end":{
+                  "lin": 1,
+               "column" 
+                 }
+             },
+             "methd": fals,
+               "ke": {
+                "ype" "Identifier,
+                  "star:5,
+               "end": 6,
+              "o": {
+                  "start": {
+                      "lin": 1,                     "coumn: 5
+              },
+                   "end"
+                    "line": 1,
+                    colun"                   ,
+                  "entifiram: "x
+                 },
+                "ame:x"
+           
+              "compute": false,
+             "shortnd": true,                 "vlue":{
+                  "type": "dentifier"
+                  "start": 5
+                 "end: ,
+                 c: {
+             "tart:
+                      "lne": 1,
+                 "olumn": 5
+                 ,                   "n{
+                   "line:                     "olm": 6
+                },
+                   "idniirame": "x"
+               }
+                "name": "              },               "er":
+                  "sorthnd" true
+               }              },
+         
+               "type": RetEleent",
+               "strt: 8,
+              "end:12,               loc" {
+                 "sat": {
+                 line": 1,
+                "oumn": 8
+                },                 "nd": {
+                 "lie":1,
+                   olmn": 12                  }
+                },
+             "gument": {
+              "typ": "Idifier",              st: 11,
+               "en" 2,
+                  "o": {                  "start":{
+                   "ne": ,
+                   column" 11                 },
+             "end" 
+                "lne"1,
+                      "column" 12
+                   ,
+                 ietifierNae": "y"               ,
+                name":y
+               }
+              }
+             
+          },
+          "nit: {             "type": "Identifer,
+          "start": 16,
+           "e 17
+           "loc: {
+             stat": {
+              "line" ,               column": 
+           ,             "ed": 
+            "line:1,
+                "column: 17
+             }
+            "dentifirae":"z"
+          }           name": z           }          }
+       ,
+        "kid": "le
+     }
+    ],
+  directis": []
+  }

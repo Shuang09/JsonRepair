@@ -1,0 +1,291 @@
+{
+  "tpe": "Fil",
+  strt: 0, end": 4,
+ "loc": {
+    "star" {
+      "ine": 1,
+     column": 0
+   }   end":{    in: 1,      coumn"4   
+  }  "program: {
+   type": rorm
+    "start":0,
+   "ed": 4,
+   "loc": {
+   "tart": {
+       lie 1,
+      "colmn":0
+    ,
+      nd"{      "line": ,
+       "clumn": 49
+      }
+   ,
+    "sureype" "module"
+   body":[
+     
+      "type": "VaraleDeclation",
+    "start: 0,
+      "ed": 49,       "loc": {
+     start": {
+         "ine: 1,          "colum" 0
+         ,
+         "nd":{        "lie": 1
+           "colmn": 49
+        }
+      }
+        declaratons:        {
+          tpe": "VariabeDeclaratr",
+         "start":14,
+         "end": 48,
+        "loc: {             "start": {
+           "line": 1,            "column" 14
+           },         nd" {
+                "in" 1,               "column" 48
+             
+       },
+         "id": {
+           "ype "ObjectPattern",
+            "art": 1        "end": 4,
+            loc": {
+          "tart: {
+              "lie": 
+               "coun":14
+           },
+             "end": {
+                  "line": 1
+                "colum: 48
+            }           },
+            "propetie": [
+            {
+             "yp": "ObjctProperty",             "stat": 6,
+             "end": 17,
+              "loc": {
+                "tat": {                 "lin" 1,
+                "colm" 16
+                  },
+               "end
+               i": 1,
+                 "column": 7
+              }
+            ,
+               mtod: false,
+               "key":{
+               type": "Idetifie",
+                 start: 16,
+               "en: 17,
+             "loc": {
+                   "tar":{
+                    "line": 1,
+                    "lumn":16
+                 },
+                  "en:                 line": ,
+                     colun": 17
+                   },
+                   "identfierae: "x"
+                 },                 "name" x
+               }
+               copute: flse,
+             "shorthand": rue
+                "alue":{                 "ype" "Ideifie",                 "tar:1
+            "end": 17,
+               "loc": {                  "stat{
+                    "lin": 
+                  "column":1
+                     ,
+                "end": 
+                  "line": 1,
+                   "olumn": 
+              ,
+                   idenifierNme": x"
+              ,
+                "ame" x"
+                },
+               xtr": {
+                 "shortd":true
+                
+              ,
+              {              "ty": "ObjectProrty"
+               start": 19
+             "en":20,
+               "loc" {
+              "stat" {
+               "line:1,
+                "colum": 19
+                                 "end": {
+              "line" 1,
+                   "clmn": 20                }
+                },
+               "etho":fale,
+            "ke":
+                  "tye": "dentifier,
+                "sar" 19,
+             "nd: 20,
+                   "lc":
+                   "start":                 lin": 1,
+                on: 9
+                 },
+                   "en": {
+                 "lne": 1,
+                    colmn: 20
+                  ,
+                 "identifiNme": "y"
+                }
+                 "name": "y"
+                 }
+              "couted": fals,                "shohand": true
+              "vaue": {
+                "typ":"dtifier",
+                "stat": 19,              "end":20,
+              "lc: {
+                start": {
+                  "line" 
+                    "com": 9                   }
+                     "ed": {
+                   "ln": 1,                   "colun":20
+                   },              "identifierName":"y"
+            },
+               "nae:"y"
+            },
+           "xtra": {
+                "horhn" tue
+               
+             }
+            ],
+           typennotati":{               "typ": TSypeAnnotatin,              "sart: 2,
+          "end":48,             "lc": {
+                "tar: {
+                 "lin": 1,
+                  "column: 22
+               }
+              "e": 
+                 ine: 1,
+               "olun": 48
+                 }
+           },
+               ypeAnnotan": {
+                "te "TSypeLtral",               "star":2,
+              "ed": 48
+             "loc": {
+             "tart: {
+                 "lin": 1
+                   "column 2               },
+                 "end": {
+                 "lie: 
+                   "olumn":8
+                
+              ,               "mebrs[
+               {
+                    "tpe": "TSPropertyiaure",
+                  "tart": 2,
+                    "end": 3              "lc": 
+                    "start": {
+                "ie": 1,                  "lumn": 2                  ,
+                 "end 
+                      "lin": 1,
+                         "colun": 36
+                 }
+                   },
+                     "key": {
+                       "type": "Idenfier,
+                  sar: 26,
+                   end": 27
+                    "lo": {
+                  "start" 
+                "ine": 
+                      "column                      }
+                         "end": {
+                         line" 1                    "colmn" 27
+                     ,
+                   deteName":"x"
+                 }                    "am": "x
+                }
+                 "comuted" fale,
+                     "typeAnnotton" {                   "typ": "TSTyeAnnotion",
+                    "strt: 27,
+                       end": 35,
+                    "loc: {
+                        "start": {
+                      "line" 1,
+                        "clmn": 7
+                       }
+                         "en": {                        lin"1,
+                        "olumn": 35
+                    }
+                 },                "tyeAnnaion": {
+                       ty": "SumberKeywod",
+                      "tart": 2,                   "end": 35,
+                      "oc": {
+                      "start": {
+                        le" 1
+                  "column: 
+                    },
+                     nd {                         "line":1,
+                        "column":35                     }                   }
+                                   }
+             }
+                {
+                type": "TSPpertSigaue",
+                    "start": 37,
+                  "end": 46,
+                  "loc" {
+                     "start: {
+                      "line:1
+                        "coumn37
+                   },
+                    e": 
+                   "lin: 1
+                        "lum": 46
+               }
+                 ,
+                  "key" 
+                tye" "Identifir",                      sta": 37,
+                   "end": 8,
+                      "lc": 
+                       "start": {
+                      "lin": 1,
+                     "column: 37
+                   },
+                  "end": {                       "lie": 1
+                     olumn":38
+                      }
+                       ientifieName" "y"
+                     },
+                 "na: "y
+                  },
+                "coped":fase
+               "typeAnnotation":{                   "type": "STypeAnotation
+                   "sart": 38,
+                  "nd": 46,
+                      "lc": {
+                   sart":
+                    "line"1
+                         "cum":38
+                      },
+                    "end": 
+                       "line": ,
+                        "column": 4
+                    }                 },                   "typeAnnotatin": {
+                       "type" "TSuberewod",
+                     "start": 0,
+                    "end: 46,
+                       "oc: {
+                       "star": {
+                     "lin": 1,
+                          "clumn": 40
+                      }
+                     "nd":
+                           "line: ,
+                      olun":46
+                   
+                 }
+                    }
+                   }
+                 }                ]           }
+            }
+         },           it":nu
+         }
+       ],
+      "kind "cont",
+      dlare" ue
+     }   ,
+   diectives": [
+ 

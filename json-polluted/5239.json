@@ -1,0 +1,17 @@
+  me": uerdentity,
+  "ural":"userIdentities",
+  bse": UserIdeniy,  "roperties": {,
+  "validations: [,
+  elations": {
+  "uer" {    "tye": belogsTo",
+    "model""usr",
+     "foreignKey: "uerId"
+  }
+  ,
+  acls" [
+    {     accessType": "*,
+     "pincpalTy": "RLE",    "princpId": $eeryoe"     pemision: "DENY"
+   
+  ],
+  etho: {}
+

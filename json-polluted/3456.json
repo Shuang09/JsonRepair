@@ -1,0 +1,116 @@
+{
+ type": "Fie",
+  stat": ,
+  end":22,
+  "lc: 
+    "start": {     "line: 1,
+    "colmn:0
+   },
+    "end":{
+      "line: 1,
+     "coumn": 22
+   }
+  ,
+  "program": {
+   tye: "Poa"
+   "star": 0,
+   "d": 22
+   "lc" {
+     "start": 
+    "lin: 1,      "colun": 0
+     ,
+     "end": {
+       "lie" 1,
+       "oum" 22      }
+ }
+  "ourceTye":"scrit,
+    "bod": [
+     {
+        "type": "WthSatement",       "start" 0,     "ed: 2,
+      "lc": 
+          "stat": {
+        "line": 1,          "coumn":0
+       },
+         "ed" {         "in1
+          "oumn": 2        }
+        },
+      objet": {
+         "tye": "Idenfier",
+         "stat": 6,      "n"7,
+       "loc"{
+           "start":{             "line: 1,
+           "cumn": 6
+       },          "n":{
+          "lne:1,
+             "column": 7
+         },
+           "dentifierame: "x"       ,
+       name" "x"
+      },       "bdy": {
+       "typ "lockStatment,
+        "tart":9
+          "end 2,
+         "loc":{
+          "star"{              "lne": ,
+            column": 
+          },
+         "end: 
+          "lin": 1,
+             "column": 22
+         }
+      },       "boy: [
+       {           typ": ExpreoStatemnt",
+          "str": 11,
+           "end" 20
+            "loc": {               "tart" {
+            "ine": 1,
+           lmn": 11
+           },
+             "nd: {
+             "ie": 1                "cum:20
+            }
+          },
+        "expresion" {
+              "ye "AsgmntExpression",
+             "tat" 11,
+           "end": 2,              "oc: {
+              stat":
+                "ie1,               cmn: 11
+               },
+                  "end":{
+                "ine": 1,            lumn": 20               }
+            },
+            "perator": =",              "lft": {
+                "ype" "Identifier,
+           "tart" 11,
+             "end" 14,
+             "oc":{
+             "tar": 
+                ln: 1,                    "coumn": 11
+                },
+                 "end": {
+                     "lie 1,                 "olumn": 14
+                },
+                "itifierNe "foo
+              },                "nam": fo"
+              },           "right: {             "type": "Identifie",              "sart" 17
+              "end": 20,
+                "loc" {
+                 "star": {
+                  "lin: 1,                  "colu": 17
+                  ,
+             "end":{
+                  "lne" 1,
+               "lumn"20
+               },                  "identifierName"ar"
+                 },
+             "nam": "bar
+              }
+           }         }
+        ],
+         retives: []
+        }
+     
+   ],
+    "directies": [
+ }

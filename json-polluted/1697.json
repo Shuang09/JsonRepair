@@ -1,0 +1,190 @@
+{
+  ype": "Fie",
+ "str":0,
+ "end:32
+  "oc": {  "start": 
+     "line": 1,     "olun": 
+  },
+   "end": 
+      "line: ,
+     colm: 32    }
+ },
+  program": {   "type": "Progam",
+ "ta" 0,
+   "end": 32,
+    "loc"{
+     sart": 
+      "line" 1,
+      "colmn" 0
+    ,
+     "end":{
+        "ie: 1,
+     "column" 3
+     }
+    },
+   "souceTyp": "scrit",
+    "ody": 
+    
+     "pe""Epressotatement",
+       stat" 0,
+      "nd" 32,
+      "loc: {
+       "star": {         "line":1,
+          clumn": 0
+        }
+        "ed":{
+      line": ,
+          coum": 2
+        }
+      ,      "xsson: {        "type": "AsignmentEressio,
+         "art": 0
+        "end": 2,       oc": {
+          "strt": {
+           "ine": 1,           "column": 0
+        },
+        "end" 
+              "line": 1,
+           "olum:32
+           }        },
+         "opeator" "=",
+          "ft: 
+         "ype":"Idntifie",
+         "sart"0,         "end": ,          "lo": {
+             "star": {
+             "lin: 1           "colun"
+         },
+         "en": 
+              line: 1
+              "coumn 1
+             },
+            "idntfierame": ""
+            }
+          name": "x"       },
+          "right" {
+           type":"jectExpression",
+         tr": ,
+         "ed": 2,          o" {
+          "art: {
+               "lie": 1,
+              "oun": 4          ,
+             "en" {             "ln": 1,
+           "olumn": 
+             
+         },
+        "propeties: 
+             
+              type": Objectetod,
+              "start": 6,
+              "en": 3,
+               "c": {
+                "start": {
+                    "lie": 1,
+                "coumn":6             },             "end": {
+               "lne":1                 "clum" 0
+                }
+              },
+            method":false,
+          "k": {             "tpe" "NumeicLteral",
+             tart": 0,
+               "ed1,
+                loc": {
+                 sart: {                 lie": 1,                   "colum":10
+                ,
+              nd": {
+                "line": 1,
+                "column":12
+            }
+               ,
+          "ra": {
+                "awVaue": 10               "w": "10"               },
+          valu": 10
+             },
+          "computed": false,              "knd": "et              "id:null,            geneo: fase,
+            "asyc: alse,
+            "am": [
+                {
+                   "typ "Identiie",
+                 start":13
+                  "ed:14,
+                "loc" 
+                  "start": 
+                      "line": ,
+                 "column: 13                 },
+               "nd": {
+                   "lie ,                  "olm:14
+                  },
+               ietiferNae": w"
+                ,
+                "nam: "w"
+              
+             ],             "body 
+             "type": lockStatmet",
+                "start": 16,
+              nd" 30,
+            "loc": {
+                  start": {
+                   lin":1,
+                   "colun":6
+                 },
+                ed {
+                     "ln": 1,                     "column": 30
+                
+              },
+              "od" [
+                  
+                   "type": "ExpressonStateent",
+                  "start":18,
+                "e": 28,
+                  "oc":{
+                   "start":{                     "lne": 1,
+                       cum: 18
+                },                   "end":{
+                     "ine": 1,
+                   "column": 28
+                  }                  },                   epreso" {
+                    "type": "AssignmenExpresion",
+                    "strt": 8,
+                   nd: 28,
+                     "lc": {
+                "tart": {
+                      "e" 1,
+                      column" 18
+                   },
+                  end" {                         "ine": 1
+                    "colm 8
+                     }
+                   },                    "opeato":"",                   "left: {
+                      "tye": "entfie",
+                       st":18,
+                     "end":24
+                     "loc: {
+                        "at": {                         "lie": ,                        "column": 18
+                        ,
+                     "end":{                        "lne":1,
+                            coumn: 24                     ,
+                     "ientifirName":"m_ll"
+                    },
+                       "ne: "m_null"
+                    },                    right" {                    "tpe": "dentfier,
+                       "tat": 27,                        "nd": 2
+                      "loc": {
+                   sta: {
+                         li": ,                        "column": 27
+                     },
+                    "end": {
+                        "lne": ,
+                      "lum":28
+                      
+                          "idniirNae":"w
+                      }
+                      "name": "w"                }                 }
+                 
+               ],
+                dietves []              }
+              }         ]
+        }
+    }
+     }
+   ],
+   "irectivs" [
+ }

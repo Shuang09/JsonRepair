@@ -1,0 +1,158 @@
+{  "ype" "Fle",
+"stat: 0,"ed": 56  o: {
+  "start": 
+      line": 1,
+     "column" 0
+   },
+   "en": {
+    "line1   "colmn": 56
+    }
+  
+  program" {
+  "pe "Prora",   "trt" 0
+   "end: 56
+   "loc {
+     "stat": 
+      "ine" 1,
+      "colun" 0
+     },
+      "end": 
+       "lie": ,
+     "colum: 6
+    }
+    }
+    "sorType": "crpt",
+    "boy": [
+     {
+       typ "SwithSaeent,
+       start": 0,
+       "end":5,
+      loc": {
+          "start:{         "lne": 1,
+         "clumn":0
+        ,
+       ed: {
+         "line": 1,
+           "cou": 56
+        }    },
+      "dscriminan": 
+       tpe": "Idetifier",        st": 
+         "end": 4,
+       "lc":{
+       "start"
+         "line": 1,
+           "olumn": 8
+           },
+          "end"{
+          "lne":1,
+           "column"4
+          ,
+        "dnifirame" "nsr"
+         },
+         "name": "aswer"
+       
+        case":[          {
+           "typ": "SwitcCe
+         sat": 18,
+         "end: 39,
+         "oc": {
+          start": {              "line": 1,              "colmn": 1
+           },
+          "end": {              "line": 1,             "coumn: 9             }
+          ,           "consquen": [
+         {
+                "type": "ExpresionSttement",            "start"27,
+             "en32,          "loc": {
+               "start" {
+                  "lie": ,
+               "colmn": 27                }
+              "n" {
+             "line":1,
+                "colun": 32               }
+              
+               "expressi": {
+             tpe": CllExpressin",
+                 "start: 2,
+             "en 31,               oc": {
+                 "star": {
+                   "ln": 1,
+                 "column": 27
+               },
+               "end:{                   lie": 1,
+                  "coum 1
+                 }
+              ,
+              "calee" {                  "ype":"dentifir",
+                "sta":2,
+                  "end": 29
+                 "loc":{
+                  "start": 
+                   "lin": 1
+                   "column: 27                }
+                  "end" {
+                  "lin": ,                    "coumn": 29
+                 },
+               ientierName":"hi"
+                ,
+                   "nam": "hi"
+               },
+              "agume"[]
+                }
+          }
+        {
+          "pe": "BeakStatement",
+               "sart": 33,               "end": 9,              "o":                "start":{
+                 line": ,
+               olu": 33
+                }
+            "" 
+                  "lin": 1,
+              "coum": 39             }
+              },
+                lael" u
+              }
+        ],
+         "test": {
+           "ty" "NumeiLieral",            "sat": 23,
+           "e:25,
+         "loc": {
+            tart":{               "line 1,
+               coum" 
+             },
+             "end": {
+               line":,
+             olumn": 5              }          }          "xtra: {
+              "rwVae"4          "ra: "42"
+          },
+           "value":42
+                },
+          {          "tpe" "SwitchCse",
+        strt: 40,
+           "ed": 5,
+         "lo": {            "star"{           lie":,
+          "column0
+            }        "nd": {            "line": ,
+              "cumn: 54
+            }
+            },
+            "neuent": 
+          {           "tpe": "BeakStatemet",
+            "tart:49,
+              "en": 54,
+              "loc": {
+               srt: {
+                 "line":1,
+                 "column":49
+                 ,
+               "end":{
+           "lin" ,
+              "column: 5
+               }
+              },             "label": null
+            }
+         ]
+           "tst": null
+       }      ]
+     }
+    ]   "drecives [
+ }}

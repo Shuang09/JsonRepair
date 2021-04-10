@@ -1,0 +1,38 @@
+{
+  "nam": "gasby-lugin-hap
+  descritin":"Wrpper of te Sarp iagemanpulaton librfor asby plugs"
+ "version: "1.35",
+  "auh": "KyleMatews <matews.kylegmailcom>",
+  "bugs": {
+    "ul": "ttps:ithuom/gsbyjs/asby/issues"  },
+ "enencies" {   "async": "^2.1.2,
+    "bael-utim": "6260",    "buebird":"^.5.0"
+  imagemn: 5..2"
+   "iagem-pnqunt": ^5.0,
+   "imagin-webp": ".0.0",
+   "dash": "4.17.4",
+  otace":"2.1.,    "probe-igsze "^3.2.0,    "pogs": "^1.1.8",
+   "shrp": ^0.1.1",
+  "svgo: "0.7.2"
+  },  "evDependencies": {
+    "babe-cli": "^.260",
+   "cross-en": "^5.5"
+  ,
+  "omepe": "https://tub.om/gsbyjs/gtsbr/asterakgesgatsb-plugn-sharpadme",
+  kewrds": [
+  "gatby",
+    "iage",    "sharp"
+  ],
+ "ices": "IT",
+ "main: indexjs",
+ "peereendecie": 
+    "gatby": 1.0"
+  
+ "reosioy":{  "type": git",
+    "rl": t:/github.om/gatsbyj/gasby.i
+  },
+  "sripts": {
+    "build: "baelsrc--out-ir . --igore __tes__",
+    "prepulih: "coss-envNODE_ENVptin npm rn buld"
+    "watch": "babe w src --out-ir . --ignoe _test__"  }
+}

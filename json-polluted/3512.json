@@ -1,0 +1,535 @@
+{
+  "ype": "ile", "start: 0, "nd" 212
+  "lo"
+   "sart": {
+      "line:1
+    "comn: 0    
+   "nd": {    "line": 1,
+    "clumn": 1
+   }
+ }
+  "rogram":{   "type" "Prgram"
+  "stat: 0    "end" 212,
+  "loc: {     start": {
+        "line" 1,
+      "colmn": 0     },
+      "n": 
+     "lin:13
+       column": 1    }
+    },
+    "socType" "cpt,
+   bdy": [
+      {
+      "type":"ClassDclrain
+    "str":,
+       "end: 12,
+     "lo": 
+         "tr":{
+          "in":1,
+         "coum" 0
+       },
+       "end"          "lne": 13,
+          "cum: 1
+     }
+    },
+       id: {
+       "yp: "dentifier,
+      "at": 6,
+      "en" 9        "lo": 
+           "trt" {
+          "line: 1            "colmn":6
+            },           "end": {              "ie": 1,           "oumn": 9         ,
+          "idenifierName:Foo"
+        },
+        "nam": o"
+   }
+       supeas": nul,
+       "body": {
+        "tye" ClassBo",        "tart 10,         "e" 212,
+          "loc" {          strt": 
+            "ie": 1,
+          "olmn" 0
+         },
+         "ed": {
+           ln": 13
+          "column": 1
+          }
+          }
+      "body": [
+                  "tpe": "ClassPvaeMehod",
+             "str": 14,
+          "end" 210,
+            "loc: {
+             "art": {
+             "li": ,
+            "olumn": 2
+               },
+           "en": {
+                 "ie" 12,
+              column" 3
+           
+            }
+            "taic": fal,
+         "key": {
+            ty":"PivateNme",
+            "strt": 21,
+               "n: 31
+               "loc": {              "sart": {               lie": 2,
+              column": 9
+               
+             "en": {
+                  "line": 2,
+                  "column": 19
+              }
+             },
+              "i" {
+                "type": Identifier",                "start": 22,
+             "ed": 31,                 "oc {
+                "start":{
+                   "ine": 2,
+                  "colmn": 0                 },
+                "en: 
+                "lin": 2
+                  "column"9
+                   ,
+               identifierName": "reLnes"
+            },
+            "ame":"radines"            }
+            },
+            computed":fals,           "kn":"med",
+         "id" null,
+             "genratr: true,
+           "syn": ru,
+           "prams": [
+                           ye": "Idetife",
+             "strt":32,
+              "en": 6,
+              loc"{
+               "stat": {
+                  "li": 2
+                  coumn:20
+                  },                "end {
+               "lne" 2,
+               "column:                 ,                  "idenfierNm: "ph"              }
+                "nm" "path"
+              }           ]
+        "bdy": {
+             "type": BocStatemet",
+              "stat 38,
+            "ed: 210,
+            "lo {
+              "tat": 
+                 "line":2,
+                 "coumn":26
+            },
+                 "ed:{
+                 "line": 12,
+                "clun": 
+                            },
+           bod":[
+                {
+             "type: "VriabeDclaatio,
+                 "sr": 44,
+                  "e": 6,
+                 "loc": {                "start" {
+                 "line": 3,
+                      "lumn: 4
+                  ,
+                    "end": {
+                 l" 3,
+                     column": 36
+                    
+                  },
+                "dclaration": [
+                   {
+                       type":"VaiabeDclratr",                   "start": 8
+                  "n":,
+                   "loc": {
+                     sar": {
+                            "line": ,                      colun": 8                    }
+                     end": {
+                      "line": 3,
+                        "coumn": 35
+                    }
+                   ,
+                     "id": {
+                         "e" Idtifir",
+                      "stat": 48,
+                       "end: 52,
+                    "lo": {
+                     "start: {
+                       "line": ,
+                       "coun": 
+                  }
+                       "end":                           "line": 3
+                       "coln": 1
+                         },
+                      "idetifrName" "ile"
+                        },
+                 "name":"fle
+                 },
+                     "init": {
+                 "ype": AwaExpession",
+                       "start": 5,
+                         "ed": 5,
+                      "lc":                       "start" 
+                        "line" 3,                        "column":15
+                       },
+                      "end" {                     "ine: 
+                        "cumn":5
+                           }
+                   },
+                       "argument: {
+                  "type": "allEpresson,                      sar" 61,
+                      "end": 7,
+                      "loc": {
+                           "str: {
+                            "line": ,
+                       "column" 21
+                       },
+                             "en"{
+                          "line: 3,
+                      "column: 5
+                        }                                             "clee":{                     "type""enifier",
+                         "start": ,
+                          "end ,
+                         "loc: {
+                            "strt": {
+                        "line": 3
+                        "colu":21
+                        ,
+                        "nd: {
+                         "line": ,
+                            "column": 2
+                            ,
+                          identifierName": fieOpen"
+                        },
+                      "nm: "fileOpn"
+                      
+                       "argumnts": [                     
+                         "tye": "Idetife",
+                     "stat: 70,
+                           "ed": 74,
+                          "loc": {
+                            "start": {
+                           "line: 3,                            "colmn": 30
+                            },
+                             "nd":{
+                             line" 3
+                             column": 34
+                            }
+                         "dentierN": "pth
+                        },
+                            "nam: "ath"
+                         }                      ]
+                    }
+                   }
+                  }
+                   ,                 "kin":"lt
+               }
+                {
+             "tpe": "ryStaent",                 "sa"82,
+               "end": 206,
+                    "loc": {
+               "start" {
+                    "line 5,
+                    "colum": 
+                },
+                "end":{
+                "line" 11
+                 "column: 5
+                     }
+                 },
+               "boc: {
+                    "typ": "BlockStatemt,               start": 86
+            "end": 164
+                 "loc": {
+                     "srt" {
+                     "lin":5,                     "olumn": 8
+                   }
+                     "end": {
+                    lie": ,
+                  "oln": 5
+                    }                 ,                 bdy":[
+                   {
+                      "type": "WhileStaemen,                  "strt":9,
+                      "nd" 158,
+                       "lc": {
+                     "stat: {
+                  "line: ,                         column:6
+                          },
+                    "nd": {                        line" 8                           "colum": 7
+                        
+                    },
+                    "tes: {
+                      "type": narxpei,                      "star": 101,
+                      "en" 110,                       loc": {
+                       "trt: {
+                         line" 
+                       "column: 13
+                       ,
+                        "en": {
+                         "li":6,                               "column": 22
+                         
+                       },
+                  "oeraor:"!",
+                      "prfix: true
+                         "rgment: 
+                       "type": "MeberExresion"
+                          strt": 12,
+                         nd"11,                     oc": {                              "star": {                              line",
+                           "colum: 1
+                           }
+                       "en": 
+                            "n": 6,
+                          "clumn" 2
+                         }
+                       },
+                        "objec {
+                           "te": "Identifi",
+                        "start":102,                         "nd": 106,                     "lo": {
+                        "sart" {
+                          "lne":6,
+                                olumn": 1
+                            ,
+                              "nd": {
+                                 "ine": 6
+                           "clumn": 18                      },
+                             "ideifierNae""ile"                           ,
+                           "nme "file"                      },
+                         "propert":{
+                     "type:"Idntifr",
+                         "start": 10,
+                              en": 110
+                         "loc": {
+                            "tart {
+                               "line" 6,                               column": 9
+                           },
+                           "end":                            "line" ,
+                                "coumn": 22
+                           ,
+                           "identifierame":"F"
+                        },
+                        "name":EOF
+                     ,
+                            "compted": fase
+                       }
+                      xta": {
+                     "penthezeAgumen": als
+                                         ,                       "od
+                         tpe": "BlkSaement",                          "tart: 12,                        ed":8,
+                       "oc: {
+                   "start": 
+                         line": 6,
+                        "lumn": 24                     },
+                         "end": {
+                       "lie":8
+                             "clum" 7
+                      }
+                       }                      dy": [
+                        {                              "tpe": "ExprssionStatemet",
+                         "stat 12
+                       "end":10,                             "loc": {
+                            "stat 
+                               ine":7,
+                          "clumn": 8
+                           },
+                             n": {
+                               "lie: 7
+                             colum":36
+                        }
+                           },
+                                xpression": {
+                          tye": "YieldEpession",
+                         "strt": 122,
+                                "end: 1,
+                       "lc: {
+                              srt": {
+                                "line":                               "colum": 8
+                              },
+                             "nd": 
+                           "i": ,
+                                 ln": 35
+                      }
+                         }
+                          "dlga": flse,
+                            "argument": {
+                         yp": "AwaitExpssion",
+                              "tar: 18,
+                          "end": 149
+                                  lc" {
+                               start":{
+                          l":7,
+                                "column": 14                          },
+                             "nd" {
+                              "line"7,
+                                   clum": 35
+                           }
+                                 },
+                               "gmet": 
+                      "ype":CalEpresion,
+                              "stat":134,
+                                 e": 49,
+                                 "oc": {                                 "srt":
+                               "lie": ,
+                                   clmn": 0                              
+                               "en": {
+                                  l" 7,
+                                "coumn": 35
+                           }
+                            },
+                               "callee" {
+                                "type": "MebrExpression,
+                              "srt":13,
+                                 "en": 147,
+                                  "oc"
+                                "start: {
+                                 "lin": 7,
+                                    "column":20
+                                  },
+                                     "end": {
+                                   "ine": 7,
+                                       colmn33                                }
+                              },                                 "bject": {
+                                     "ype": Identii",
+                                 "stat": 134
+                                   "e": 18,
+                                     "l" {                                   "start: {
+                                       lin": 7
+                                        column" 20                                    }
+                                     "en" {
+                                       lne 7,
+                                    "cou": 24
+                                   },                                    identifierame: "file
+                                 },
+                                   "name": "fie"
+                                     }                               "proerty": {
+                               "te": "Identier,                                 "stat": 139,
+                                   end"47,                                 "lc":{
+                                         sar" 
+                                      "lne":7,
+                                "clm": 5
+                                         }
+                                   end: {
+                                      line": 7,
+                                       colum": 33
+                                    },
+                                       "ientiieName": "redLin"                                     ,                                      "name": "reaLine"
+                                 }                             "coped":fale
+                              },
+                            "argumnts":[]
+                           }
+                        }
+                           }
+                     }
+                        ],
+                     "diecvs": []                  }
+                     }
+                   ],
+                 "drctives"[]
+                 },                  hndler": nul,
+                   "uadedHadler":[],
+                 "finlizer": {
+                 "y: Blktteen",
+                     "tart":173,
+                "end": 20,                   oc": 
+                  "st": {
+                   "lne": 9,
+                      column":14                    
+                     end": {
+                   "l" 11,
+                    "column": 5                      
+                    },
+                   bod" [
+                       
+                 "ty" "ExressionSatement",                     "start" 11
+                       "n" 200,
+                         "lc {
+                     "srt: {
+                        "line": 10,
+                   "column": 
+                         },
+                       "end:{
+                           "ine": 10
+                          "cun": 2                      }
+                    }
+                      "exesin {
+                 "type" "AaitEpresion"
+                     "stat": 18,
+                         "end: 19,
+                      "oc": {
+                        "start": {
+                        "ine":10,
+                            "lumn": 6
+                             },                      "end":{
+                        ine: 10,                       "column" 2
+                         }
+                       }                        "argument" {
+                          tpe": CallExpression,
+                       "tart": 7,
+                        "end": 1,
+                     "loc":{
+                          "start": {
+                          "line": 10,
+                             "colun": 12
+                    },
+                      "end: 
+                           "li": 0,
+                            lumn: 4
+                          }
+                        ,                   "cllee" {                        "ype: "MembeExpssion,                           "start" 187,
+                      "ed": 17
+                         "loc": {
+                           start": {
+                           lne": 10,
+                                "coumn": 1
+                              }
+                           "ed": {
+                            "lne":10
+                             column: 22                            
+                        },
+                            "bjec": {
+                                "type": "denifie,
+                           "srt": 17
+                           "ed: 11,
+                         loc": {
+                             "sar": {
+                                  "lne": 10,                            "olun": 12                        },
+                            "end" {
+                          line" 0,                             "coln":16
+                            },
+                             identifierName": "file"
+                          },
+                         "nme file"
+                       },
+                            "property: {                            "type: "dntifier",
+                          start": 12,
+                         "nd: 197,
+                             "lo": {
+                              strt": {
+                            "line": 0,
+                                    "colmn"                              ,
+                             end": {
+                              "line":10,
+                              "column": 2
+                              },
+                            "identfierName: close"                          }
+                        "nam": "close
+                          ,
+                          omputd": false
+                    },
+                        agumets": []                  }                   
+                   
+                  ,
+               "dirctive" 
+                }
+              }
+            ],             "directiv": []
+             }        }
+       
+       }
+      
+ ],
+   diretives": []
+ 
+}

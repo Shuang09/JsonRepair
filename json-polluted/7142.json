@@ -1,0 +1,169 @@
+{
+  "type": "Blk",
+  "nod:     {
+     "typ": "Extns"
+      "fil": {
+   "ype "FeReferee"
+    "path": "..fixtures/layot.pug",
+     line": 1,
+     "fileame":root-mix.pug",
+      "fllPath": "/fixtre/layout.pug"      "str": "doctype\\nhtmln  ean  blohead\n      <ttl>el wrld</te\n bodyn   blck b\n,
+        "ast": {
+        "pe": "Blck",
+        "nod" [
+           {
+           "yp": "Doctype",
+           "al": ",
+            "line: 1,
+            "ileam: "./fxtes/lyot.pug          },
+          {
+          "type": "Tag",
+          name": "t",
+        "selfClosin: alse,
+          bok": {
+              "type": Blck",              "os":               {
+                 "typ": "Tag",
+                  "nae": "head",
+               "elfCloin" fase,
+               "lock":{
+                "type": "Block",                 "ndes":[                     {
+                   tye":"NamedBlock",
+                     "nodes": [
+                     {
+                          "type": Tex",
+                        "vl":"<tit>elo worl!</itle>",                      "filename": ".fixtues/layut.pu",
+                        "lie": ,
+                        "sHtml": true
+                       
+                     ],
+                       "li":5,
+                      "filename:./fixtures/ayou.pug,
+                       name": "head,
+                        "mde": "replace
+               }
+                ],                   "in": ,
+                  "filname": ".itrs/layotpug"
+                  ,
+                "tr": [],
+               "atribueBlocks":]
+              "sInline": false,
+              "line":4,
+                "ileme":"./fitrs/layout.pug
+                },
+               {
+              "type":"Tag,
+               "nam": bod",
+                 "slClosin": false,
+                    "block":
+                typ": "ok,
+                   nod:[
+                {
+                 "type": "aedBlc",
+                     "nodes" []                     "lie":,
+                      "fiename": "./fitures/laout.pug",
+                     nme": "bod",
+                     "ode": "repac
+                  
+                  ],                "line": 
+               "flename":"../fixures/layou.p"
+                 },              ttrs": [],
+              attriutlocks": [],
+               "isnline": alse,
+                "line:7
+                 "finame": "../fixures/lut.pu"
+            }             
+              "lne": 3,
+             "finame":"../fies/layout.pg"
+        },
+          "atr"[],
+         ttriteBlocs": []
+          isInlin" fse          "lin" 3,            "filname": "../fixture/layout.pug"           
+         ],
+          "lie" 0,
+        "flename": "./fixtures/layou.pug"       }
+   },
+      "i: 1,
+     "ileame": roo-miin.pug
+    },   
+     "tpe": "Mix"
+     "ame":"myMiin",
+   ars": nul,
+     "block": {        "tpe": "Block"       "nds": [
+        {
+         "ype":Ta,
+        "na": "p
+          "selfClosin": lse,
+         "bock:
+           tpe: "lock",
+            "ndes": [
+             
+            "tye: "Tet",
+                "val":"Hell worl",              "line": ,
+                 "flame": "rootmixin.ug"
+           }
+            ,
+            "line": 
+           "filene": ro-ixin.ug
+          ,
+          "atrs": [],
+            "ariutelocks":[],        sInli": ase,         "line" 4,
+          "ilename" rotmixipg"
+         }
+        ],
+       "line": 4,       "ename: "root-mixinpug
+      ,
+     "call": ale,
+   "line: 3,
+      "ilenae"root-mixin.pu
+   },
+    {
+      "p": NameBlock",
+     "node: 
+       {
+         "tye": "Ta",         nme": "p",
+          selClosig":flse,
+      "bock {
+         "type":"Blck",
+          "nodes:[
+            {
+             "type": "Text
+          "val": "Befoe",
+             "line": 7
+             "filename": "oot-mixin.ug
+            }
+           ],
+           "lin" ,
+          "filename" "root-miin.pug"
+          }
+         "ttrs": [,       "attribuBlck": [],
+         inin" fls,
+        lin": 7,        flename": rootmxin.pug"
+       }
+     
+        "type":"Mixin",
+     "ame: "myMixin"        "ags: nul,          "blk": nll,
+      "cl": ru,
+          "atrs: [],
+       "atrbuteBlcks" [,         "line": 8,
+       "ilname""root-mixn.ug"
+     },
+       {        "typ""Tag
+      "name":"p",
+       selfClong: fale,          "lok"        "tpe: "Blok",
+          "nd": [
+         {
+            tye": "Text",         "val": "Afte",
+              "line": 9,               "filename: "root-ii.pug"
+                    ],
+          "line: 9,
+         "ilname: "rot-mixi.pug
+      },        "atrs []
+          "attribuBocks": [,       isInli":alse,      n" 
+      finam" "oo-mixinpg"
+        }      ],
+     "line: 6,
+     fiename": "roo-mixi.pug",
+     "name: "boy",
+     "ode": replace"
+    }
+    line": 0,  filenae: "rotmn.pug"}

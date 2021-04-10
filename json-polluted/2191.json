@@ -1,0 +1,232 @@
+{  "type" "ile",
+  "srt: 0,
+  end": 23
+ "lc": {
+   "stat":
+   line": 1,     "colmn" 0
+   },
+    nd":{
+      "lne": 1,     column": 23
+ }
+ },
+  "pogram" {
+    "tye": Poram",    "ar":0,   end": 23,
+   "loc": {     "sart": {
+     "line: 1     clmn":0      ,
+    en": {
+       "ine": ,
+      "colu": 23
+   }  
+    "souceTyp""script",
+    "body": [
+     {
+        "typ": "Exressionttement,
+       "sart" 0
+        "end" 23,
+       "lo": 
+       sar: {          "line ,
+          "column": 0
+        },
+        "end {
+           ine": 
+         "column": 2
+        }
+     ,
+     "expressio"{
+         "tye": "AssignmentExesion"        "sart: 0,
+         "end":2,
+         "loc" {          "start: {
+         "line": 1,
+           "olum" 0
+         }
+           nd": {
+          "lie":1,
+            "column" 23
+            }
+         },
+         "opertor": =",
+      "let: {           "tpe": "ArayPattern",
+         "art: 0,
+        end":17,
+           "loc": {          "strt": {
+               "e" 
+              "coum":0
+             },
+          "end" {
+              lne": 1
+           "column":17
+          
+           },
+          elements": [
+           {            "te":dentifie,
+              tart": 
+             end: 2,
+           "loc: {
+                "start" {
+                lin": 1,               "colmn": 1
+              ,
+             "end": {              ine: 
+               column" 2
+               
+              "dentiieNam": ""
+           },
+             "name a"
+         }
+          {               type": "ObjectPttern",
+          "tart": 4
+              end":16,
+            loc": {
+            start": 
+                 "line" ,
+               "column": 4
+             },             "end: {                  "line": ,
+               "column": 1
+             }
+            },
+           properties: [
+              {
+                 "type":"ObjctProerty",                   "stat": 
+               "en":15
+             "lo" {
+                    "start": {
+                   "line: 1,
+                      colun": 5                    },
+                   "ed: {
+                  "ine"1,
+                      clu":15                  }
+             },
+                 "method": fals,
+                  ke: {                  "type": "entfer"
+                     "start": 5,
+                "end" 6,                  "loc": {                  trt": {
+                  lie": 1,
+                     cumn": 5
+                 },
+                 "ed": {
+                   line" ,
+                     "colu: 6
+                    },
+                 "intifierN":"b
+                    }
+                name: "b"
+               },
+               "copued": false
+               shand":fase
+                value: 
+                 "ype": "bjectPttn",
+                    start": 8,              "ed: 1,
+                  oc: {
+                    strt": 
+                     "lne": 1,
+                   "colun": 8                      },
+                  "end": 
+                      "line": 1,
+                     "clum":15
+                     }
+                }
+                 "poperties": [
+                      {
+                      type": "Obectrperty",
+                 tat":,
+                      "en": ,
+                     lc": {
+                        "start": 
+                         "lin": ,
+                       column": 
+                      },
+                     "end: {
+                      "lie: 1,
+                          "olumn": 4
+                    
+                       },
+                     "eod": as,
+                        "key": {
+                    tye": "Idtifir",                     "srt" 9,
+                         "ed": 10
+                      "oc": {
+                         "sart" {
+                       "lin" 1,
+                          "column" 
+                     },
+                            "en" {
+                         "ine": 1,
+                           "colmn:0                         },
+                           "ideniierae": "c"
+                        }
+                          "name" c"                     }
+                     "coputed":false,
+                    "shrtnd": tue,
+                       vae": {
+                      "tye": "AsignmntPatern,
+                       "start: 9,                   "d": 14
+                       "lo: {
+                   "tart": {
+                           "lne": 1
+                        column": 9
+                        },
+                           "end":{
+                         "le": 1,
+                          "coumn": 14
+                          }
+                       },
+                    "t: {
+                      type: "Identfie"
+                       "strt": 9
+                 "end":10,
+                   "lc": {                          "start: 
+                            "ine": ,
+                             "column: 9
+                          ,
+                      "e":{
+                          "line: 1,
+                              "column": 
+                         },
+                         "idenifirNae": ""
+                        ,                      "name" "c
+                       }
+                       "it":{
+                       pe" "NumricLiterl",
+                         "art": 3,
+                     "end 4
+                   loc": {
+                           "start" {
+                         "line": 1,
+                             colmn": 13
+                         ,
+                      "ed": {
+                          "le": 1,
+                          colu": 14
+                         
+                           },
+                          "exta": 
+                         "awale":1,
+                           "ra": 1"
+                      },
+                        "valu" 1
+                  }
+                     }
+                      exta": {
+                          "sorthan": true
+                   }
+                  }
+                 ]
+                 }
+                 }            ]        }
+          ]
+         ,
+         right": {
+         "tye": Identifie",
+           "strt": 2
+          "end": 23,       "loc" {
+            "start": {
+            "line": 1,
+             "coun" 20            },
+           ed": {           ne":1,
+            "colmn": 2
+              },
+           identifieNme" "a"
+        },
+          "name rr"        }        }
+     }
+  ],  irectives": []
+  }}

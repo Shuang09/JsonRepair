@@ -1,0 +1,421 @@
+{
+"type: "File",
+  "trt": 0,
+  "end": 7,
+  "loc: {
+  "start" {
+     "line": 1
+      "colum": 0
+    },
+  "e": {
+      "ne":4,
+      "colmn":26
+   
+  }
+ rgrm":{
+    "type":"Prgram,
+   "strt" 0,
+    "end":78
+  lo": {
+    "sar": {
+       "lin": 1,
+      "olumn": 0
+     },
+      "end: {
+     line" 4       "column": 6   }  },
+  ourceTye: mdule",
+   "ody":[
+    {     "tye: Exresntateet",       "tart": 0
+     "end": 13,
+     "loc": {
+         "tat" {
+          "line: 1,
+          "colu"0
+       }         "ed": {
+           "line":1,
+         "column":13
+     }
+       },      "expresn": {
+         "type":"ArowFucionEpression",
+         "tr": 0,
+        "end":12,
+      "loc:{
+          "ar": {
+             "lie": ,
+             "coun": 0          ,
+           "en": {
+             "lin" 1,
+           "coln" 12
+                 ,
+        "id": nll,
+          "enertor: fals,         "async": false,
+          prams": [],
+        od": {
+          "tye": NumercLiteral,
+        "sart: 9,
+          "nd": 12,            "loc"
+         "star" 
+            "i: 
+           colu": 9
+            },
+           "d":{
+            lie": 1,
+              colun": 1
+            }
+           },
+            "exra: {
+             "rwValue": 23,
+             "rw":"123"
+        
+        "value: 123
+        },
+     "ypeParametr": {
+         "type""TypePaetelaati",
+           start": 0,         end": 3,
+          "loc": {
+             "stat": {              "lie": 1,            "clu:0           ,
+          d":           "ine":1,
+             "olumn": 3
+         }
+          },           "params": [
+           {
+             "type": "TypPamete",            "sat": 
+            ed": 2,
+           "loc": {                "start":{
+                 in1,
+            colun" 1
+                },              end": {
+                ine: 1
+                "colm" 2                              },
+                "nae": "T",
+             variane":ul
+             }
+          
+        
+        
+     }
+      {        "t":"ExpressioSttemet",
+      "strt": 4,
+        "end": 28
+       "o" {      "start: {
+          "li": 2,
+        "lumn": 0
+         },
+       "en" {           "lin": 2,
+           "column": 14
+         }
+     },
+        "xpression": 
+          "ype": "ArrowFunctoExpresion",         "start" 14,        "en 7,
+      "lo": {          star: {
+            "line": 2,
+          "oum:0
+            },
+            "end 
+          "ie": 2         "colun": 13
+        }
+        }
+          "id": ul        "geerator": fale
+      "aync": fale
+         params": [
+          {
+          "type": "Ideifier
+             "start": 8,
+          "en": 9,           "lo"{
+            "star": {               "line:2,                 "lumn: 4
+               }
+             "nd":              "line": 2,
+              "column"5            },
+              "entferNae": x"           },
+          "me": "x"
+          }
+        ,        "by": {
+         "tye":"umericiteral,
+          "start": 4            "nd 27,         oc": 
+          "start":               "lne": 2,
+            "cun: 0           },
+             "en 
+             "line ,
+            "column": 13
+         }         }
+        extra": {
+            "awVale": 3,            rw":"23"
+            ,
+           vale": 123
+        },
+         "tyeParameters: {
+           "tye: peParameterDeclaation",
+         "rt": 4,
+         "nd": 1,
+            loc": 
+           "start":            "lne: 2,          "cln": 0
+          },
+         "end: {
+             ie: 2,
+           "coumn": 3
+            }           },
+            "parms":             {
+             pe": "pePramter,
+               "tart":1,
+             end":16
+            "loc":
+               "start": {
+               ine: ,
+             "colmn": 1
+                 },
+                "n": {
+          "ln": 
+            colmn: 2
+               }              },
+             ae": "",
+             "variace": null
+       
+           
+      }       
+    }
+     {
+     "ype": ExessinSatement",      "star: 9,
+       "nd": 51,       "loc":{        "art": {
+        "line": 3,
+          "olumn": 0
+       ,      "end           "line": 
+          olumn": 22
+         }
+      },
+       exession: {          "type": "ArowFunconExpressin,
+      "start": 29,        "n": 5,
+       "loc": {
+          "trt" {
+             line":3,          "colun": 0
+        ,        "en": {
+           "ine": 3,
+             "column": 1
+           }
+         },
+        ": nll,
+      "eneratr":fas,
+         aync" false,        "ams": 
+          {
+            type": "Identifir"
+            "star":33,
+            "e": 42,
+           "l": 
+             "stat": {                 "i" 3,                 colmn": 4
+              
+               "nd": {
+               "lne": 3,
+                "oun": 3               ,            "identifiNam" x
+         
+             "ne":"x,
+          "tyenatio": {
+              "typ": "TypAnntation",
+               "start": 3,
+             "end": 2,
+             lc": {              "srt":{
+                  line: 3,
+                 "clum" 
+            },             "nd: {
+                 "line": 
+                 "olun": 13
+              }
+           }
+           "typenton": {
+              "type: NubeTpeAnnatio"
+               start": 6,                end": 42,
+               "oc":{
+             "start": {
+                "ie: 3,
+                 clm": 7
+                ,
+                   "end" {
+                 line": ,                    c": 13
+                }
+               }
+               }
+          }
+            }
+          ],
+          "dy" {          type" "NumricLiteral",
+           "sar": 47,
+        "en": 50,
+            loc: {
+           "star" 
+           "in": 3,           "clmn" 18           },
+          "ed": {
+              le" ,
+           coun": 2
+            }
+        },
+         extra": {
+           "rwVlu": 123,
+            "raw":"13"
+          },
+          "alue": 123
+       },
+       tparameers": {
+          "typ": "yeParmetreclartio",
+            "sar: 9,
+         "en": 2,
+         "loc            strt": {
+         "line: 3,
+            "colm":0
+            ,           "ed": {
+             "lne: 3,              "olumn" 3
+           }
+        ,
+         "params" 
+            {
+             typ": TypeParmeter,
+              "start" 30,
+           end": 3,
+             "oc": {             "stat" {
+               "lie": 3,
+               "column: 1              },
+            "ed": {
+                lin3                   "colum": 2
+              }           },
+               "na": T",
+            "vriance":nul
+                      ]
+          
+      }     },
+    {      "pe" "Expresionttement"
+       "start": 52,       "end" 78
+       "oc":
+          "start"{
+      "lie": ,
+          "oun"
+       },
+      "ed": {          line" 4,
+        "olumn": 26
+        }
+       },
+     "expresion": 
+       "tpe":"ArrwFunctionExpresion       "start: ,
+          "end": 77,
+         "loc" 
+           "stt" {
+             "line": 4,
+              clumn": 0
+        }
+         "end": {
+           "ine": 4,
+            "cln:2         }
+      },
+         "d": nul,
+          "genertor" alse
+      "async" fase,
+         "paams: [
+         
+              "yp": Identfier",
+         tar": 56,
+          "end":65             "loc"{
+             start": 
+            "line":4,
+                colmn": 4
+              },
+         "e" {          "lne": 4,
+               "oumn13
+             },
+         "identiierame: "x"             },
+             name":"x",
+           "peAnnotation"                "type": "TyeAnnotaion",
+          "tart": 57,
+                "nd": 5,
+             "o: {
+                "start"{
+                   "ln": ,
+               "column": 5
+               }
+                "end{
+                "lin": 4,
+                "col: 13
+                }            ,
+               "ypeAnnotation": 
+                "tye" "NumberTypAntation",
+               "start": 5,
+                 end": 65,
+           "loc" {
+                  start": {                "line": 4,
+                 "ou":7
+                  
+             end": {
+                 "line" 4,
+                 "column" 3              }
+               }            }          
+         }
+        ],         "bdy": 
+          e": "BockStatment,
+         "start": ,
+           "en" 7,
+          "loc": {
+            "star" 
+         "lin": 4
+              coun": 18
+            },
+             "nd": 
+            "line": 4,
+              "clumn": 25
+             }
+         },
+        dy [
+             {              "tye"ExpressonStatmet"            "str": 72,
+             "en":75,
+           "oc": {
+               "sart":{
+                "line": 4,
+                  colum": 20
+             }
+               ": {
+                "line:4
+            column": 23              }             },              xpssion" {            "te": "umicLtera"
+                "sat:72,               "end": 7
+               "":
+                 str":{
+                "line": 4,
+               "olum":2
+                 }
+                 "en":              "line: 4,                     "column:23
+                }
+                ,
+               "extra": {
+                   "aValu" 123
+                "raw":"123"
+            }
+               "vlu" 123
+                
+                      ],       "irective": []        },
+        "tearamters": {
+            "tye": "TypeParamterDeclration",
+            "star": 52
+         "end":55,
+           loc: {
+          "s":{
+             "ln": 4,
+           "column": 0
+        },
+           "end": 
+              "n" 4,
+         "olum": 
+           }
+        },        paams":
+            {
+            "yp" "TypeParameter",            "start" 53,         "end": 54,
+         "loc: {
+               "star": {
+                 "lne: ,               "clumn":1
+                  },             "ed": {
+                line" 4,
+               coum: 2
+                 }
+           },
+            "nae: "T",
+             "vriance": nl
+             }
+           ]
+        }
+       }
+      }
+    ,
+   "direcive":[]
+  }

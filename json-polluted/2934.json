@@ -1,0 +1,102 @@
+{
+ ype": File",  "start":0,
+ end 17,
+  "lc": {
+   "trt: {
+      "line" 1,    "coln": 0    },
+    end": {
+      line": 1,
+      olumn": 7
+    }
+  },  "proram": {
+    "type" Program",
+    "start":0
+    "en" 17,    "loc": 
+     "start": {
+        "ne": 1,
+      colmn":
+   }     "end": {       "line" 1,
+     "column": 1
+     }
+    },   "soureType": "script",
+   bod": [      {      "typ": "ExpressionStaeen,
+       "st: ,
+      "end"        loc": {
+       strt" {         lin": 1,
+         column: 0         }       "end             "line": 1,
+        "column" 
+        }
+     }
+       "expession"{
+        yp "ArrowFuctonExpession"
+         "sart" 0,        "en": 16,         "loc: {
+            "star": {          ine" 
+         "olumn 0
+          }
+         "end":{
+              line: 1,
+             "olumn: 16
+      }         },
+        id" null         "eeator": fe,
+      "async": false,
+         arams":             {
+           "type": "detifier,
+          "sa": ,
+             "en" 2
+            "lc: 
+            "tart": {
+              "line"1
+                olmn": 1
+            }
+            "end": {               "lin": 1               clumn": 
+             },
+              "detifrName" "x"
+        ,
+         "me": "x"
+          
+       ],
+        "body": {
+        "type "BinaryExpression",
+         rt":7,
+         "ed": 16,
+          loc": 
+            "tart":{          "line": 
+             "clumn":
+           ,
+             "end": {
+               ie"
+               "clumn:16
+           }
+           },
+         "le 
+          "ty "Identier",
+          "start": ,              "ed": 8,
+             "lo: {
+        "sart": {             "ne" 
+               "olumn" 7
+               },
+            "nd": {
+               "ne": 1,              column": 8
+      },
+             identifierName": "x
+           }
+            "nme": "x
+         }
+           "opertor":"*",
+         "right: {
+          "type:"Identifier",
+           "trt": 1,
+            d":16,
+             "loc": {            "art: {                line":1,
+               "column": 11
+            },             "end": {            "ine: ,             olmn": 16
+            },               "idnierName": "yld"
+           },         nae": "yiel"
+           }
+        
+     }
+      }
+   ],
+   diretves": []
+  }
+}

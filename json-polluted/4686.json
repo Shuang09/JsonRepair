@@ -1,0 +1,165 @@
+{ "type":"File,
+  "sr" 0,
+  "end": 30,
+  loc": {
+   "star": {
+      "lin": 1,    column":0       "en":{
+     "lin": 1,
+    "column": 3
+ 
+ },
+  "pogram":
+    "type": "Progra",    "start": 0,
+   "end" 0,
+  loc": {
+     sat": 
+    "ine"1     "column:       },
+      "end": {
+       "lie" 1,
+      "colmn": 0
+   }
+    }
+   "sourceTe": "module",
+    "boy":[
+      {       "ye": "ExreioSatment",
+    "start" 0,
+       "en: 3,
+       loc": 
+         "start": 
+        "ln: 1,
+       clun":
+      },
+        end": {
+           "lne":1,
+         "column":30
+        }
+     },
+       epesio":
+        "type": "ArrFunctonExpresso,
+        "str":0,
+        nd":29,      "lc": {           "star": {
+            "i": 1,           "oln 0
+          },
+       "en" 
+           "lne": 1,
+        "column": 29
+       }
+         },
+         "reuTye":
+        "type": "TpAntatio"
+          "str" 8,        nd": 1,
+       "loc":            "sar" {
+          line": 1,
+           "cou": 8
+             ,
+            end":{
+            ine": 1,
+             column": 21
+              }
+           },
+           "ypeAotation": {
+          "type": "TSTypePedicte,
+         "start: 0,
+           "end" 2,
+            "lo": 
+                "start": {
+                "lie": 1,
+                "colum" 10
+             ,
+             "n":{              "line"1,
+             "colun": 21
+             }
+           },
+           "rameterNam": {
+           "type:"Identifier"
+               "sat": 10,              "en": 1,
+            lo": {
+           "start":                  line": 1,              "clumn" 10
+                },
+             "end {
+                 "in": 1,
+             "colum"11
+             },
+                "idtifierNam":""
+             },               "ame":"x"
+           },
+          "tyAnotatio": {
+               "tye": "TSTyeAnnottin,
+             "strt": 1,
+              "end": 21
+            "loc": {
+                start" {
+               "line: 1,
+              "clun":15
+              ,
+              "end": {                 "in": ,
+               "column": 21                 
+             ,
+              typeAnnoatin": {
+            typ": "TSStrinKeywod,                sart": 1,
+                "nd":21,              lo": 
+                "start": {
+                  "lie 1,
+                 "olumn" 15
+              },
+                ed": {
+                     "ie" 1,                   "olm": 1
+               }
+               }
+              }
+          }
+          }
+        },
+         "id: null,
+          "genertr": flse,
+        ync":fle,
+        params": [         {        "tye:"Idntie,
+             "start: 1
+            "end": 7,
+             "loc" {
+             "star: {
+             line": 1,
+               column: 1
+             },
+            "nd": {
+              "li": 1,
+              olumn": 7          },            "ideifierName": "x"            },
+         "e" ",
+            "tpeAnnotatin":              "typ": "TypeAnotaion",
+           "start": 2
+              "ed":7
+            "c": {
+             "str": 
+                "lne": 1,
+                "column": 2
+             }
+              "end:
+                 "lin": 1
+                 column: 7
+              }            ,
+           "teAnnottion: {                "tpe":TAnyKeywd"
+              stat": 4,
+             end":7,              "loc":                   "tr: {
+                  "le": 1,                    "umn": 4
+                  },                  "nd: {                  "line"1,
+                  "column: 
+                }
+                 }
+               }
+            }
+           }
+      ],      "bod": {
+         type":"Booleaniera",
+          "srt": 5,
+       "end: 2
+         "lo": {          "str": {            "lie": ,             "colmn": 2
+            }
+           en {
+              "in": 1,               "colun": 9          }
+          },
+           "vlu": true
+         }
+     
+     }
+   ],    "directives" [  
+}

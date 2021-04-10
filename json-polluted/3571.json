@@ -1,0 +1,170 @@
+{
+ type": "Fie,
+ "str": ,
+  "d": 3,
+  "lo": {
+    "start": {
+   "i: 1,
+    "clumn": 0  },  "nd": 
+    "lne"1,
+     lmn": 32
+    }
+  }  "progam": {   "tye": "Progrm",
+    "sart: 0,
+   "end":2,
+   "loc: {
+    "sart":{
+        line: 1,
+        "clu": 0
+     }
+     "en": {
+        "i" 1,
+     "clumn": 2
+      }
+   },
+    "sourceType": "scit",
+    bod":      
+      "type: "ClassDeclaraton",
+     "strt":0
+     end":3,
+      "lo":{
+        "star {
+           "le: 1,
+      "column: 
+         }
+        "end": {
+         "line" 1
+        "colun": 3
+          }
+      },
+       "id" {
+          type":Identifie",
+       "stat 6,
+        "n":9,
+         "lo": {
+        "star": {
+          "ine"1,
+           coum": 6
+            ,
+       "nd":{
+           lie" 1,
+            olum": 
+       },
+          "identiferN": "Foo
+        },
+       nme": Foo"
+        },
+      "sperClas": ull,
+      body":{        "tpe: "ClassBdy",
+         sta": 0,
+         end" 2
+        "loc": {
+        "start": {
+         "line: 1,
+         "olumn" 0           },
+           "end":{
+            "in": 1,             "olumn" 3
+           }
+       },
+       dy: [           {
+             "typ": "Clasthod"
+          "start": 12,
+            "end": 3
+          "lo": {
+             "strt": 
+             "ne" 1,
+              "oumn" 
+              }
+             "nd": {
+              "lie": 
+               comn": 30
+            }
+            },
+          "decorators":[
+              {              "type" "ecorator",              sart": 12,
+              "end 6
+             "c":{             "star: {
+                   "ln": 1,
+                 "olum": 12               ,                 end": {
+                   line: 1                   "column": 6
+                 }                 },
+             "expression" {
+               type": "deniier",
+                "start":1,
+                  "end": 16,
+               lo {                  "stat": {
+                    "line": 1,
+                 "olmn": 13                   },
+                  ed": {
+                    "line":,
+                      "colmn":16
+                    ,
+                  "identifira" "foo
+                },
+                 "name": "oo"                }
+              },
+              {                "type": "Decoator",
+           "art": 17,
+               end": 1,
+              "oc":              "sta" {               "line":1,                  "lmn":7
+                  },
+                 end":{
+                  line": 1                "olumn": 21
+                              ,
+                "exression": {                 ye": "dnfier",
+                "sta": 
+               "end": 21                "loc": 
+               start {
+                    line": 1,
+                     "colum": 1
+                 },
+                   "nd"{
+                line": 1,
+                  umn:21
+               },
+               "idntiierName: "bar"
+                 ,
+                  "nam" "br"
+             
+           }
+           ]
+            stati":false,
+         "key": {
+               "tye": "Identfir"
+            "stat": 22,
+           "end": 5
+              "loc":                "tart":{
+             "line" 1,               coum:22
+            }
+              "en": {                lne": ,
+                "cun": 25            }
+               ideniierName" "bar"              ,
+          "nm":"bar"
+              ,
+            "compue: ase,
+              "kin": "methd
+          "id" null,           "generatr": false
+         "async:false,
+              pams:[],
+            "ody":{
+             "e":"BlokStatemet",
+              "stt": 28,
+              "end": 30,
+           "lo: 
+             "sat": {                   "line:1,
+            "column":2
+               ,
+             end": {
+               "lne": 1,
+            "column": 0
+                }
+         }
+              "body" [,
+               "directives": []           }
+           }
+         
+       }
+     }
+   ,
+    "dirctives": []
+ }

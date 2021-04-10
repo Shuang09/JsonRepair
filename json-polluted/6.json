@@ -1,0 +1,277 @@
+{
+ app_nme"{
+    "messae":"ardon Hr",   decription":the name f the extnion,
+    "nozDT":true }
+  "ap_lgan:{
+   "mssage":"arkdownで電子メルを美しく"
+   decription"shownas subitle for Mrkow Hre in the brwser extensionslst
+ },
+ "toge_buttonet"{
+    "mssage":"Dり替え",
+    "description":"Text show uderneath the rer toge bttonMaet a srt as posible",
+   inMoDTtue
+  },
+  "ogle_tontooltip:{
+   "msg":"クリッardownレンダリン",
+    "decripton":text swn when use oves mouseoer Markdon Togle uton"
+  inMozDT":true
+  },  "tggle_btton_toltip_disable{
+   "mesage":こフィードはレンリングできん",
+    "description":ext hwn when ser hovermoseor disaledMardn ge btn",
+   "inMozD":tru
+ },
+ "conex_mnu_im":{
+   "messa"Markdown有化/無効化",    desrito":"ext hn o the contxtmeu.
+    "inMozDTD":ue
+  
+  "invalid_fiel":{
+    "message":このテキトィードではMarkonにレダングできません。リチテキストィルドで行なってくさい",    "description":"Shown in a let dalg if ser tris torender afil thatcannot be renderd"
+  ,
+ "plain_text_ompo":{
+   "messg:"プレーンテトエィタで使できせMakdo reを使うためリッチエィタに変更する必があます。",
+    "descriptin":"Sownn anlert dialo if the ser has ter emil ompose app set to plaiext"
+  },
+  "uor_into_coose":{
+  msse":"ール作成ボックスにカーソルを置いて下さ
+ },
+ "forgotto_ender_prompt_ie":{
+ "mesage":"レンダを忘れまんか？",
+   deription":"Title of theprompttha'ssownwhen it's detected that aser may hav orgtten to rnder the Markdown n thiemail"
+  },
+  "forgot__red_promptifo":{   message"arkownで書かているようすが、くレンダリグれていません。",
+    scrition":Informatioa part of the ppt hat'sshow whn i's deect ha a user  have footten toreder the Mkd iner ail" }
+  "forgot_to_rndr_promp_questn":{
+    message:"それでも送りますか?
+   "esciption"Quetion rt of the po hat's hown when it's dettd ta ausrmay haefogtten to rende the Makdwnin heir eal"
+ },
+  "orgot_to_renderbac_uton":{
+   "messe":"戻"   "descipion":xt on theBack (cncel buttn o the prop tats shwn whn it's ected tat user my hae foottento rende he Markdown in tiremil",
+    "inMozD":tr  }
+  forot_to_rende_sen_buttn":{
+   "esa""送る
+  "dcription":"Texton the Sed(coniue) button f th romptthat'sshow whe it's deect ha a usr may have forgotten to rende the Markdwn in their mail",
+    "noTD"true
+ },
+ "foro_to_rende_prmpt_close_hoe":
+   "mesage":の通知を視",    "descition""Ttttshowwhen the use hvers vr h ' thatil cose th promp"  
+ "upgrade_ntificaionext":{
+   mesage":MarkdownHe がアップートされました",
+    "descriptin":"Tx on the notication shwn hen Markdon Hre a been udatd
+  },
+ upgade_notifiction_cnes_toltip":
+  "eage"クックでリースの変更点を認",
+    "dcipion:"Toltip text on thelink th ons he changeslist"
+ },
+ "rde_ntificatin_dimiss_tltp":{
+    "messag":の知を無視,  "dscriptin":"Toltp txt onthe link at dismisss te otifiaton
+  },
+ "nothing__render"{    messag:レダリングすものも元戻すものもりませんでた。,
+   "escription":"Eror mssage shown ouser i trsnotig foto rever or reder."
+  },
+  "unrenderin_mde_markon_wanin":{
+    "messae""このテキストはンング後に更されています。\nMakdown戻た場合、それらの変失われますn\nMarkdnに戻しますか",
+    "descrition":Wrninshwn to he userif she tris toreert some renered akow ta thy've modified sinceenderin. Th usr willl thr modfiaion ifthey poceed."
+},
+  "optins___pge_til":{  "messge:"Makdon erの設定"  },
+ "optionpage__basc_sage":{
+   "mesa":"本的ない方"
+  }
+ "ptis_pagreload_rstrt":{
+   "msage:電子メーを開いるペジリローするか、ブラウザーを再起動してください。",
+   "escription:Aste in t asic usa instructios"
+  },
+  "otions_pag__tart_nwmessag":    message":"電子メール画面を開ます",
+    "dcripion" tep in teasicge isuctios"
+  },
+ "ptnspage_tye_o_mardown":
+    "messge"Markdowで子メルをいみましょ。<b\/>例: <cde>*Hel`arkdwn Hee*!</code",
+   "escriio":" tep in te asic usage ntcions" }, "optiospage__clik_oggle":
+    "message":"メール画面でクリックし \"Mrkdown り替\を選択しましょう。 (またはツールバーの <im src=\"mges\/ico16.png\\/>ボタンかspa class=\"otkydslay-wrapper\"> <span clss\hotkey-display\">kb>CTR<\/kb>+<kbd>AL<\/kb>+<d>M<\/kb><\span>span> 押。)",
+   "descriton":"Astep in thbasicuseinstructions
+  }
+ "options_pae__prety_col":{
+    "message":"ッセージが綺に格好よくなます。 さぁ、友に送信しよう!"
+    "descripio":"A ste in the basc usag instction"
+  ,
+  optionspage__eources_ttle{   "essage:"レファレンスとンク",
+  "desrition:"A ection itle
+  },
+ "options_page_eourcs_cheatshet_link":
+   "messge":"もしMarkdownを使うが初めてなら <a href=\"htps:/\/githb.com\ada-p\/makdown-here\/wk\/arkownHere-Cheatsheet" trge=\"_blak\">Markdown Her Cheatsheet\/a> を参してくださ"  },
+  "options_page__avandusag":{
+   "message":"さらなる情報や詳細使い方が知りたいなら、 <a href=\"htps:/\/ithucom/adap\/mrkdown-here\ tae\"blank\">MrdownHre prject page\/a> を覧ください。"
+  },
+  "opins_pge_ggroup":{
+    "mesage":"質問議論、ちょっしたあいさつは、ぜ <rf"https:\/\/grup.oogle.com\/foum\/?romgrops=#orum/mardown-here"target=\"_bn\">markdwn-here oogle Go<\/a>で行いしょう。"
+  ,
+"opion_pae_mdh_wiki":{
+   "messg"" re=\ttps:\\/github.om\/aam-\adwhr\/wiki\" target=\"_lank>MkdownHee wii<\/a>は、 <a href=\"http\/\github.com\/adam-p\/akdw-hre/wki\Copability"arget=\blank\"他にどん境で動作る<\/a> や、 a re="htts\/\/github.co\/am-pmakown-hee\/wii\/ip-and-icks\" arget=\"_blank\">ヒントや小技</a>などの報を見るとができま。  }
+ ptins_pg_next_te:
+    "messae""もしMrkon Herの目指しているものが気になるな、 <href"hts\/giub.com\adam-pmarkdown-here#nxt-step" trget=\"lank\"NtSteps ランチ<\a> のREADMEご覧ください。"
+,
+  "optis_page__donat_pea_1":{
+   "essage":"もMarkdown ereが気入っ私が妻のめにおを買ってげ(私長い時間仕事に時をかけいこといらいらしないよに手助けをお願いしす <strn>ありがとう<\/srog>"
+ }
+ "otis_pg__donate_le_2":
+    "message":"<trong>Markdon Hereをより良くする手けをてださい!</strog"  },
+  "oios_page__donae_plea3":{
+    "messag":<srong開発の手助をしてくださ!\/trong"
+  }
+  "oion_ae_onte_pa_4":
+   "mssage":Markdown HereがChrome Frefx、Tunerbird、 osbox、Safari Opera、 Gai、 Yahoo、 Hotmi、 Blge、 vrnote、などなどの動を保つのに役立っるものをりかい <stron>ーー\/strong>"  ,
+ "ponspage__thrdonai_ptios:{
+    "message":の他の寄法",
+   "descripion":Link to a pae that ovides thr ways to dnae"  }
+  oionspag__priary_cs_titl":{
+    "mesge":スタリンCSS
+   "desciptin""sctionttle" },
+  "opos_page__resetiary_cs":{
+   "messag":"デフォルに戻"
+   "decriptin:"tet n buton to resetary StyingCSS  },
+ "options_page_syntaxhighghtig_c_tite:
+   "essae":シンタックスハイライティングCSS"
+ "desrpion""scion ite"
+ },
+ ptions_pge__syaxighligtingthm_lel:{
+    "messe":"ーマ:",
+    "deciptio:"label fo he synta higlihig theme omx box"
+  },
+  ptions_e__prview_tte"{    mesa"プレビュー"
+    "esciion":"ectintitle forearkdw previw section
+  }
+  optons_ag__markdon_oggle_uttontext":
+   mesage":Mrkdownを有効化\/無効化",
+  description":"button x forMardown Toggle utton"
+  ,
+  "otio_age__noes_itle":{
+    "messge":注釈:   "description":"sectintile
+  },  "otionspage__te_options_syn":
+   "messge:変更自動で存されて同期されます。(しブラウザが同期をサポートするな)"
+ },
+  "optins_pae_nte_synta_syles_aterprimary:{   "mesae":"シンタックライティグは基本のスタイングの後行れること注意しさい。
+ },
+  "opto_pae_nedfault_cln_yle":
+  "message:"いくつかエディタやールー自のスタイリングをう、ここでの表異なるこがあます
+ },
+"otonsage__tex_mah_tie"{
+    "sage":"eXでの式記サポ"
+  },
+  "optispagetexma_reset_butto":{
+    mesage:"デフォトに戻す,
+   "dscriio":"et on btton to reet TX math option  },
+  "optins_pag_tex_ahpiacy_eadin":
+  "messae":"<strog>プラバシーの問題:\/stron>",   "dsription":"heading forwarnigs about TeXmath rivacy onern"
+ },
+ "optns_ge__te_atpiacy_isse_1:{    "mesage"数式の像を生成るためGoleにリクエを送信します こGoogleにあなたの式が有されることを意味します。 また、レンングされ画像するためogleにリトを信とも意味します。", descripto":" of th TeX ah prvcy concers"  ,
+  "otons_page__texath_privacyissu2":{
+   message""もし数式のレンダリングタグを集するならセキュアな (tps:\\/) UR使うこと奨しま。これはすべてのレダングサビスでサポーされてるわけではあません   desripion""oneof he eX ath pracy oncers"  }
+  "optons_page_tex_math_cuomiaon_heang":{
+   "esag":"<trogカスタイズして使う:<\/strong>,
+   "dscripion":"heding or custmiztin and se if"
+ },
+  "options_pag__tex_mth_usomaion_1":
+  "esage":"こプシンを効にすると。 <code>$<\/code — (ドルーク)で囲まれ文章Texの式として解ます。 えば、 code>$$\\Delta$$<\/code> はデルタ記にレンダンれます。",
+   "descrptn":"Nte: Doble dolar sigs ) areecesay o ge a sngle dollarsign."
+  }
+  "otionpag__tx_ma_custmzaion_2{
+    "message":"レダンタマイズするには、 <a href=\"https:\/\/deveoers.goolecom\/chart/infogrphis\/docs\/formuls\" target=\_blank\">GogleCharts dcumetaion<\/a> をご覧ください。"
+ },
+ "optonsage__tx_mathcustomization_3"{   "messge:TeXの数式についの晴らし説明は <a re=\"ttps\/\ww.codecgs.om\/latexabouthp\" target=\_blak\"CodeCog Equatin Editor<\/> にあ。
+}, "optons_pae__tx_ah_custmization_4":{  "messag":"数式は画像レンダリングさるので、メーを受信る像を閲覧でる設している必があます。"
+  }
+  opins_page__t_math_utomiation_5":{
+   "mesage":"レダンググをカイした場、ode>{mathcode}<code> と<code>{urlmahcode}<\/code> の両方をプレホダしことができます"
+   descripion":"Please nttraslate {mathcde n {urlmahcode}"
+  }
+ "otionsage_texth_cstomizaion_5_1":{
+    "messag""ode>matcode<\/cod> <oe>$\cde> に囲たテキト--すわち、生Te数式 (例えば <coe\\Delta\/code>)",
+   "description":"Please do not trnlatemathod} and {urlmathode}Not: Double ola sign ($$ re necesaryto get a sngle dolla sgn."
+  },
+ "ptios_pa__ex_math_customization__2":{
+    "messae""<cde>{atode}\/cde>: URLンコードされたTeX (えば <ode>%5CDeta<\/code> )。",
+    cription""ease do no taate {mathcode}and urmathcod}"  },
+  "ptions_a__tex_mah_customiaion_6:{ "essage:"<od>&lt;mg&gt;<\/cod> タグをスタイズた合。できれば<oe>alt<\/code>属人間が読説明を加えてくさい (たとば code>{mathcode}\/coe)。 この値はールをプレーンストとしてむ際に代わりに示され (ma や Thunderbird から送った場) 、目が不自由方のめの文章読み上げで使わま。,
+   "desriion":"Please dono translate {thcde} a urlmatcde}"
+  },  opin_age_hky_tile":{    "ssage":"ホッキー キーボド・ショートカト)",
+   "decription":"Ation tile
+  },
+  "opti_page_hoey_shift_key":{
+   "mssage":HFT"
+    "descripto":"abel forte hift key  ,
+  "optios_page__hotkecrl_key:{
+    mesage""CTRL,
+   "scipion":"labe for t t key"
+  },  "oions_pg__ky_alt_ky":
+    "messe":"AT",
+    "dription""label fo theAltkey"
+  },
+ options_paghotke_plus{
+   "mssage":"+",
+   "decriptio":"pu ighat connet th hotke uttn"},
+ ots_page_hokey_warnn:{   "messag:"そのキーは英数字ですか",
+    "cripion":"warning son ifhe userchoosesan llegal hotkyvalue"
+  }, "optio_page__okey_ote_":{   "essage":"hrm: 新たなキー設定をはページをしてください。"
+  },
+ "otions_page_hokey_noe_2":   "essae":"FieoxとThndebrd:新たなキー設定を有するにはアプリケションを再起動してくださ。"
+ },
+  "optons_pae_hoe_note_3":
+   message":ホットキーには数ーを用いる必要がありす 言語キーボードよってわります"
+ 
+ ponspage__hotke_not_4":{
+    "message:WinowsキとS の&8984キーはホトーには使えん。
+ }
+  "ptionag_hokeynote_5":
+    messag":"ホキを無効にるに、テキストボクス空にしてださい。
+ }
+ "optonspage_advance_tte":{ "mssage":"その他の先進的機能,
+    "desripion":"A sectio ttle
+  }, "ptons_page_forgot_oreer_lal":{
+    "essage":"<b>\レンダリング忘れ\" ェを使\/b>"
+   "decriptio:"Labefo hececkox that eale he forgot-to-ed fetur"
+  ,
+  "ptions_page__rgo_to_rnder_1:{
+   mssage":現在Web版miとTunderird (とPotoxIcedove)での使す。"
+  },
+  "otions_page__ogot_to_endr_2":{
+    mssae":"ールをるとき、ンダリングずにのMarkownテキトのま(つま、\"Markon 切りえ\"を押し忘れてる) かどうか信チェクします。うとうい場合は効すこと推しす。"
+  ,
+  optios_page__forotto_ender_3:
+    "mesage":"もこれを無効したうがいいと思ったら、 <emひ<\/em> 理と改案お知らせください。 < hre="ps:\/\/grous.googleco\/foru\/#!forum\markownee\" taget="_lank\">Googe Grupに稿する<\/a> かa href=\"https:\/\github.cm\am-p\/markdown-here\/sues\" targt\"_blan\">GtubでIsseを投げ</a てくださいお願いします"  },  "option_page__contribuing_tte":{
+   "messe":"発に協してください",
+  "description":"A sectiontite"
+  
+ "ptins_page__cntiuting_{
+  "messae"<stron>もしールにコードブロックを書いたことがあるらMardown Herをより良くすることでます。<\/strong> a ref"tts:/\/githb.omadm-p\/markdown-hre\/bob\/mateCNTIBUTING.md\" aet\_blank\>COTRIBTING.md\/a>"
+  },
+  "optns_page__ontrbutg_2:{
+    "message":"なたの言語Mrkdow Hreを使えるように手助けしてくださ。<a hre="tt\/\/github.cm\/adm-\/markdown-hee\/blo\/mster\/CONRIBUTING.mdtranstion"target=\"_blnk\"あなた訳を待てます。</a>"
+  },
+  options_page_oter_":{
+  "message":">rkdw Here/em> はオープソーです。 質したり、バグを報告しり機能追加の要をしたり、開発協力するには、 <a tart=\"blnk" hf=\"htp\/\/tubcom\/aam-markdown-here\">Gihub のプロェクページ<\/a>  <atarg\_blan\" href="tp:/\/grops.ooglecm\/form\/romgroups=#!forummarkdown-re\">oole Gou</> を訪てくさい。",  "descrto:"pat of the page fooer te"
+  },
+  "ptions_pagefooter_2":{  "message""このソフトウェは <a tre=\"_blank\ href=\ht:/\/adm-p.gthub.com\/\">am Prichr<\/a> によっ開発されした。",
+    "descrption":"part of he pefootertxt"
+ 
+  "optios_pag__changes_ad:
+   "message":"変更を存しまし。",
+    "descrition":"meage a hows whe use changs have bee sved" },
+  "ptins_ge__rvwardw":{
+   "message":"``javascriptb>nuncion sntaxHighlghin( {<r>\n&nsp var  = 33;<br>n&nsp; vr  = "hello こにちは\";b\n&nbsp; console.lo(s);br>\n}<r>n``<r>\n<br>\n* pain<r>n* *mphasis<br\n&nbs; * **strongephasis**br>\n&nbsp; &nbs; * ~srikthrogh<r>\n* `inline coe>\n<brn1. Number li<b>\n2.[Lin](https\/\/www.google.co)br>\nb\n<b>\nAn imge: ![Markdown Here log](htts:\/\/raw.ihubuercotent.c\/aam-p\/akdown-ere/mster\/src\comon/imagsn24.png)\n<br>\<br>\n>Blockquote&nsp; <>\n> *Wih **some* madown`.<br>\n<br>nIf **TeX Mh** suppt is eabled, tis is th qaaticeuation:&nbsp;<br>\n$\pmsr{b^2 - 4ac} over 2a$<br>nb>\n# Head <>\n## ader 2<r>\n###Headr 3<br>\n#### ear4<r>n#### Heder5<r>\n###### Heder6<r>\&bsp; <br> Table        | Are           Cool  |<br>\n| --------- :-----------: -----:|<br>\n| colmn 3s   righ-igned| $$160 |<r\n clmn 2 is   |cetere   | 12 |<r>\n ebra tripes| are a         $$1 |<b>n<br>nHere' ahorizontal ue<br>\n<br>n--<br>\n<br>\n```<br>\node lock<br>\nith no highihtng<r>\n```<br><b>\n",
+    "dsriptio:"The ra Markdwusd for pvwn user tyling canes. Alsosowsuser whtca dne ith Markdown. Pleae noe thathe dobollar sig ($ aneeed tomake a sie ollrsn n the applicatio.
+ },  currently_in_se":{  "message":"現在の設定",
+   "desription":"niatesthe synta highlihtigheme that the user s rrently un"
+  }
+  "new_cangelist_items:{    "essa":"い機能,
+   "desriptin":"sed o highlght thepart f te caglist tht is new"
+  },
+  "optios_pae__header_achors_enble_abel"{
+   "message":"b>ヘッーにンカーリクを自で設定する<\/b",   "descrpion"Lbelforthe checkbox ht enbes theautmatic headr anhos fetur.Tis eans that  'anhr' is reae at veryheadin (H1, H2, etc.) ihe uer's Markdown. e uercan the create links that willum to ee nchrs, keithable fcntents of a ocumen.  },  "otn_page__header_anchr_enbled_1"{
+    "messae":"文に目次そ他の内リクを置したい場利です。<a href=\"https:\/\/gthu.com\adam-p\/markdon-hre\/wiki\/i-adTrics#wihedranhorstarget=\"_lan\"Wikiにてい方を確してください。<\/a>
+  },
+  "otispae_heade_ahors_eabled_2":
+    "message":" ref=\"htps\/\/github.coada-p\/makdohere\/ssus/155\" target=\"bank\">Thunrbird で見た目が汚くなる<\/a>ため、デフルトで無効にれています(たほんどの人はこの機能を必要とないしょう)。"
+  },
+ "optio_pag__gfmline_breks_enabled_lael":{
+    "essag":">Enble GFM linebeaks.\/>,    escition":"Labe for hececkxtha enablste support of 'Github-flavored Markdow' ine breaks.
+ }
+}

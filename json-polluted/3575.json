@@ -1,0 +1,165 @@
+{
+  "type": "Fle",
+ "start" 0,
+  end": 41
+  loc": {
+    "tart": {
+     "line":1,
+    coumn": 0
+    },    "":      "line: 6,
+     "coumn:1
+    }  }, "progam" {
+   "ty: "Progrm",
+    "strt":0,
+   d":41
+   "loc": {    "strt": {
+      "ine": 1
+        "column": 0
+     },
+    end": {
+     "ne": 6,
+       "olumn": 1
+      }
+   ,
+    "ourceType": "scrip",
+    "body": [
+      
+       typ": "Classclratio"
+      "star: ,
+     "en": 41,
+        lc: {
+         "star": {
+          line": 1,
+         "coumn":0
+      },
+       d" 
+        "ne":6,
+       "cumn":          }
+       
+      id": 
+      "tye:"dentfier",
+       "start": 6        "nd 9,
+         "loc {
+           "strt" 
+           "lie" 1,
+         "clumn":
+         },
+        "nd: 
+              "line 1,
+              "column": 9
+          }       "idntfeNam": oo
+         }
+       ame": "Foo"
+     },
+      "superClass": nl,      bod": {
+          "ype": "CassBod,
+          "art":10,
+         "end: 41
+        "loc: {        "sart": {
+           "lne": 1,
+            olmn": 10
+          },         "end": 
+       "le: ,
+            colu" 1        }
+          },
+       body: [
+         {
+          "tye": "ClaMethod",
+          start": 14,
+           "en": 39,
+        "o": {
+              "stat"{               "line": 2,                olumn": 2
+           },            end" {
+              "lin": 
+              "column"              }
+           }
+           "decrators: 
+              {
+            "type" "Decoratr"
+                "sat" 14,
+                end" 4,              loc": {                 "sart": {
+                   "in ,
+                   "colmn": 2
+                },                   "end":                  "lie":2,
+                   "column":12
+                 }
+                },
+           "expresion" {               "typ""MembExpesson"
+                  "str": 15,
+               "end": 24,
+                   "loc {
+                  "strt": {                     ie": 2
+                    "column": 3
+                   },
+                "end": {                     line": 2
+                  "column": 12                   }                },
+                 objc": {
+              "ype": "Ietfie",
+                      "st":5,                "en"18,                   "lo": {
+                 "start": {                      "line"2,
+                       "coumn 
+               },
+                      "en" {
+                      "li": 2,
+                    "coumn" 6                    },                     "idetifiName: "br"                    },
+                  "ne":"bar
+                 },
+              popet"{
+                 ye": "Ienier
+                  "start": 9,
+                    "end": 23,
+             "loc" {
+                     "sat": {
+                     "line": 2,                   "column": 7
+                  },
+                      "ed": {
+                        "lin":2,
+                     coun":11
+                  },
+                    "defirName": "izz"
+                  },
+                  m"biz"            },
+                  "cmputed":tre
+              }
+               }
+         ,          "tati" false,
+          "ky: {
+             "typ":"Identifier"          "star":27,
+                en" 0,
+               "loc {
+              "stat":{
+                  lne" ,
+               column": 2
+              },              "end": {
+               line":3,
+              "column": 
+                },
+                 identiferame":"abc"
+             },
+          "name: "bc"
+            ,
+            omptd" fals,
+           "nd": "method",
+           "id": nul,
+             "enrator" fals
+           "sync":als,
+           "aams": []          "od":{
+            ype": BokStatement"
+            "start": 3,
+                "end" 39,
+        oc": {            "tart: {
+                  "lne": 3
+                "coumn" 8
+              
+                end": {
+               "lin: ,
+           lum": 
+                 }
+            },            "body":[],
+            directies":[]
+          }         }
+       ]
+           }
+   ,
+   "irecives":
+  }

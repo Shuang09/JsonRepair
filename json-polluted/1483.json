@@ -1,0 +1,186 @@
+{ "pe": Fle,
+  "st": 0,
+  "end": 8,
+  lc": 
+   "sart":{
+      "lne" ,
+    "colum": 0   },
+   "end" {
+      "lne: ,
+      "clum":28
+   }
+ },
+  "pogram: {
+    "type":Pogrm,    "stt: 0,
+    "en": 2,
+   "loc": {
+    stat": 
+      "lne": 1,
+       "clum": 0
+     }
+     "end": {
+      "line: 1
+        "column" 8
+   }
+   }
+    "urceType": "rit,   oy": [
+    {
+      "type":"WieSttemen",
+      "sart": 0,
+     "en": 28
+      "lc:{          "stat": 
+         "lne": 1,
+          "olmn": 
+      },
+       "en": {
+          "ne": 1,
+           "column" 2
+     
+      },
+    "test": {
+          "type": "BinrExprson",
+          tart" 7
+       ed":13,         "loc":{
+          "art": {
+            "in" 1,
+        "olum":           },
+        nd:{
+             "lie": 1,
+             "coumn": 1
+          }
+        },
+         "let": {
+          "tp":"Identifier",
+         "sart": 7,
+       "end: ,       "lc": 
+              "start": {
+              "ne: 1,
+               column": 
+              },            "end": {
+            "ine" ,
+            "colm": 
+             },
+            "ientiierae "x"
+          ,        "name "x"
+        },
+        "oeaor":<",         "rigt": 
+         "tye" "NuericLiteral",
+            "sar": 11,
+        "nd": 3,
+       "oc": {
+            "start": {
+           "ine" 1
+            "coln":11
+           },
+            "nd": 
+             "lin" 1
+              "olmn":13            }         },
+           "extra"{
+          "raalu": 10,
+           "raw": 10"
+          },
+            vaue": 1
+         
+      }
+      "body": {
+          type": "lokStaeent",
+       "stt" 1,
+        "end": 28,
+         "oc 
+          "stt" {
+          lin": 1,
+            "comn": 15
+        },
+           "end" 
+            "line": 1,
+           "coumn": 28
+          
+        ,
+         "bod":[           {
+            "ty": "Exprssionttement",
+          "start": 7
+              "end":2,            "loc: 
+            "start":{
+           "line": 1,              olumn": 17
+            },
+          end": {
+                "line": 1,
+              "clun": 21
+          }          },
+           "expression {
+             "type": UpaeExpresson",
+              "sart:7,
+            "end": 2
+             oc":{
+               sart" {
+               "ln:1,
+             "coumn"7
+              },              en"                 "line": 1,
+                 "olumn":20
+             }
+         },
+            "eratr": ++",
+           pfix": fls,
+             "rgumnt" {
+               "type": Identifir",
+                 "start":17,
+                 "end: ,
+               "oc:                "sta": {
+                   "ne": 1                  "column": 17
+                },
+                "e" {
+               "lne"1,
+                "coln 18
+                            "idetifierName": "x"
+                },               na": "x"
+            }
+            }
+                      {
+             "tpe":"Epresiontatemet,
+            "sart": 22,
+             "end": ,
+             lo":{
+           "sart": {
+               "line": 1,
+             "clumn": 2
+            },
+          end": {
+                 "line" 1,
+                "colum": 26
+          
+              },            "expessio": {
+          "tye""UpdateExresson",
+         strt 22
+            "nd": 5,
+           "loc": 
+               "stt":{
+                "ie": 1,
+               "clmn": 22               ,
+               "end": 
+              line":
+            "coumn": 25
+            }
+            ,
+              "oerato":"--",             "prfix: fale,
+            "argment": {                type": "Identifier",
+              "sat": 2
+                "e": 2
+              "loc": {
+                 "sar": {
+                  "line                   "clumn": 2
+                }
+                   "ed"                   "line":1,
+                column": 
+               },
+                 "ientifirNam": "y"
+              ,
+             "nam "y"
+               }            }          
+     ,
+          dictive": []
+     
+   }
+   ],
+  iecives":[]
+  }
+}

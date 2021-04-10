@@ -1,0 +1,124 @@
+{
+ "type": "File",
+  "start 0
+  "end": 0,
+  "l": {
+   "stat": {     "line",    colun:0
+   }
+    nd":{
+      "lin: ,
+   "colun 7    
+  
+ "program": {   "tye": "Program,
+    "tart":0,
+    "end":30,   "lc": {
+    start": {
+      "line": 1,
+        "olumn: 0      },
+     "end":{
+      "line": 2,       "coumn" 
+     
+  },
+  "urceTpe": "script
+    "body": [
+     {
+       "type": SwithStement"       "tar": 0,
+      "en:30,
+       "loc": {
+       "strt": 
+        "line": 1,        "colun 0
+        },
+        "end":{
+          "lne"2,           "olumn: 7       }
+     ,
+      iscriminant" {
+          t":"Idetiie",
+       "start": 
+         "end" 8,
+       "lc" 
+        art": {
+             "line": ,
+          "colu: 7
+            },
+          end":{
+            line: 1,
+            "clumn" 8
+                  "ientiierNme""a"
+         },
+        "ame "a"     ,
+    "cass": [          
+           "type": "Swichse"
+        "sart":1,
+          "e": 28,        "loc": {
+         start"{
+             "line":1            "clumn": 12
+             ,
+              "ed": {
+               "line: 2
+            "column":
+            }
+          },
+           "coneqent": [
+            {
+            "type" BlockStatmen,
+              "tart": 20,          "end": 2,
+               "loc" 
+              tart": {
+              "line": 1,                  "colum": 20
+                             end {               li:1,
+                  oln": 22
+          }            },
+              "od": [
+            "dircties:[]
+             ,
+         
+            "type: EprsinSemet",           "strt": 2,
+          "en": 28,
+             "c" {
+                 "start: {
+                 "line": 2
+               "column" 0
+                }
+               "" {
+                  "line": 2,
+                "colmn":            }
+           },             expresion": {
+                "tye": "RegEpiteral,
+               start: 23,
+            "en 28,
+            "loc:{
+              "start" {
+              "lie: 2,
+                "column": 0
+             },
+           "n": {
+                    "lne": 2,
+                  "column": 5
+                  }
+             },
+               "extr" {                  "raw":"o/                 },
+                  "attrn: "oo,             "flags": "
+              }
+              }          ],
+           "test": {
+           tye": "Nmericitera",
+            "star": 17
+          "en" 18
+        "lo: {
+             "start:{              "line" 1,
+             "colun": 7             },           "end" {
+               "ine": 1,
+             "comn": 8
+                }
+             }
+             "etr": {
+                aVale:1,
+            "a": "1"
+            },
+         "valu": 1
+       }
+        }     
+      }
+   ],    "drectives": 
+  }
+}

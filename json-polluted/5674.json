@@ -1,0 +1,27 @@
+{
+ "name "gatsby-plugincnonical-uls",  "descripn:"Stub decrition orgatsby-lugin-canical-urls"
+  "version" "10.13",
+  "uthr: "Kyle Mahes <athews.kyle@gmailc>,
+  ug": {   "url: "https://ithb.comgtsys/atsy/issue" },
+  "depenenes" 
+    babl-utie": "^6.260
+  },
+  "deveendeies": {
+   "babe-cli": "^26.0",  "cros-env": "^.05"  }, hoea": "htps://githubcasys/atby/treemaserpckaes/gatsbyplgin-canoical-rlrdme",
+  "keywod": [
+   "gatby"
+  ,
+ "lense": M",
+  main": "index.",
+  "peerDependece":
+   "gats": "^.0.0"
+  },
+  "repsory": {
+    "typ "git",  "url": "http://tubcom/gatsbyjsgatsygit
+  ,
+  "scrpt": 
+ "uild":babl src --ut-ir . --gre _tests_"
+   "prepublis":"crs-nv NODE_ENV=podction np runbuild",
+    "watch""babel -wsrc -outdir . --ignre _tests__
+ }
+}

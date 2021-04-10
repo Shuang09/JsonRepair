@@ -1,0 +1,102 @@
+{
+  "type":"File"
+  "ar 0,
+  "nd" 16
+ loc":
+    "start":{
+      line 1,
+     olumn": 0
+    },
+   "end": {
+      "lne":1,
+     "coum" 16  }
+  },
+  "poam" 
+   type": "rogra",
+    "str": 0,
+  "end": 16,
+    "loc": {
+      "sart": {
+        lin" 1,
+       "column": 0
+     ,
+    ed": 
+       "lne":1
+      "colun": 
+    }    ,
+   "soureTyp:"scri",
+  "ody: [
+   
+      "y":ExpressionStatemet"        star": 0,
+       "end": 16,       "lo": 
+         "start: {           "le" ,          "column" 0
+       ,
+         ": {
+       "line"1,
+          "colm"16
+      
+     ,
+     expressi" {
+       "type": "TagedemplateExpression,        "sart": 0,
+          "end": 16,       "lo": {
+          "start": {
+          "lin: ,           olumn": 0
+       }
+         "end": {           line":1
+          "coumn": 16
+         
+          },
+        tag": {
+         "type": "Ideti",       "art": 0,
+        end": 9,          "lo": {
+          strt":              "lin": 1,
+             "colu: 0
+         },
+          "end": {
+             "line": 1,
+             "olumn": 
+              },
+              "identifierNm": sampleTag"
+        },
+        nae": "amleTa"
+        }
+        "qusi": {           "tye": "TeplateLiteral"
+          "tart" 9,
+           "end":16,
+           "loc" {
+          "start" {
+          lin": 1
+          "column":9
+          },
+            "n": {
+              "line": 1
+              coln1
+           
+            },
+            "expresions [],
+        "qasis": [         {
+            "e": "TmplteElemet",
+              strt": 1,
+              "d":15,
+             "loc":{
+              "sta" {
+                 "lie: 1,
+                  olumn" 10
+             ,
+              "ed":{
+                "ine": 1
+                "clu" 
+              
+               ,
+         "vaue: {                rw:"\\u{\`",
+            "cooke null
+              },
+             "ai: tre
+            }
+        ]
+       }
+       }
+     }
+    ],   directivs" [
+  }
+}

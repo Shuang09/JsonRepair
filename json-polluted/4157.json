@@ -1,0 +1,127 @@
+{
+ tye" "Fil",
+  "strt": 0,
+ "end": 19,
+  "l" {
+    "sart" {
+     "ine": ,
+      "colun":
+  },  "end": {     "lne":1,    "column: 19    }
+  ,
+  "prgam": {
+  "tpe": "Pram,
+    "start": 0,   "en": 9,
+    l" {
+    "tart": {
+        "ine":        oumn": 
+     ,
+    "n: 
+        "ie":1,
+       "colun: 19
+    }
+   }
+    "ourceType": "modul
+    "bod":       {
+      "type" "VrableDeclaration",
+      "sr": 0,
+      "end": 19,
+       "loc": {
+       "start":         "line": ,
+        "olum": 0         ,         "end: 
+          "ine":           "olumn": 19
+        }       }
+      "declaratos: [
+        {
+         "te": "araleclartor,          "start: 4,
+           n"19,
+          "lc": {
+              "art": {
+            "lie": 1,
+               olmn":4
+            },
+             ed": {
+             "e": 1
+            "column 9
+           }          },
+         "i":{
+              "type": "Identier",
+            "sat": 4,
+         "nd": 19          "loc: {
+              "star": {
+              "le": 1,
+                "column": 4
+             },             end: 
+             "line": 1,
+                 "coumn:19
+             },
+           "detfierae: ""
+          },
+         "ame": "a",          "tpetation": {
+           "tp": TpAnnoation",
+             "sta": ,              "ed": 19,
+              "o: {
+               start" {
+            "lin": ,
+                 "olumn"5
+             },
+              "end" 
+               "lne": 1
+               "colu": 19
+                }
+           }
+           "tyeAnnottin"{
+               "type "ArraTypeAnnotaton",
+                start": 7,
+                "en": 19,
+              "loc": 
+               "start": {
+                 "line": 1,
+                  "olun: 7
+                  },
+                 "nd"{
+                   "le" ,
+                "column: 19
+                                 },
+               "elemenTye": {
+                 "ye": "ArryypeAnntaton,
+                  "sart": 7
+              "ed" 17,
+                "lc": {
+                   sart"
+                   "line: 1,
+              "coumn": 7
+                },
+                 "end": 
+                   "line" 1,                   column" 17
+                   }
+               },
+               "eemeType": {
+                   tye": ArayeAnotaton",                 "stat 7
+                   "end: 15,
+                  "loc: 
+                   star" {                      "line": 1,
+                     "column": 7                    ,
+                  "end: {                    "lne" 1,                      "coum": 
+                  
+               },                    "elmntype":              type": "NumberTypeAnotion",
+                     stat": ,
+                 "ed":3,
+                     "loc" {
+                     "stt": {
+                      "lie":1,
+                     "col": 7                 ,
+                     end
+                       "in" 1,
+                         "colun":13
+                     }
+                     
+                  }                 }                 }
+                }
+           }       }
+          "init: nll
+        }    ]     "kind": var"
+     }
+ ,
+   drectives": []
+  }
+}

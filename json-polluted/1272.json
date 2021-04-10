@@ -1,0 +1,123 @@
+{
+"type" "File",
+  "sta": 0,
+  "en": 24,
+ "oc": {
+  start": {
+     "line: 1,      "column" 0
+    },
+   "end": {
+     lie": 1,
+      "olumn" 
+    
+  } "progam" 
+   "ype" Program",
+    "start" 0
+ "end"24,
+   "lo": {
+     "start": {
+     "in": 1,
+       "cou": 
+     },
+      "end": {
+        "lie": 1,
+       "coumn: 4
+     
+   },
+    "orType": "crit",
+    "bod": [
+     {        "ty": xpesonStatmen",
+       strt": 0,       "end:24,       "lc" {          tat": {
+         "line": 1,
+          "clum" 0        },
+         "end" {
+          "line": 1,
+           "colun":24      }
+        ,
+     "xpreson": {
+         "type": "Cllxpression",
+        "star": ,
+       "d" 3,
+      "loc": {
+           "strt": {            "lie: ,
+          "coumn": 0
+       ,
+          "end:{
+             line" 1
+            "colun: 23
+         }
+         ,
+        "cee" 
+           "tp": "Idtife"
+        "tart": 0,
+        "en":2,
+           "loc" {
+           "sart":
+             "ine":1,
+             lu" 0
+        ,
+          "n":              "ine": 1,
+            "coumn": 2            }
+         "identifierNm":fn
+          },           "ne": "fn"
+         },       aruments": [
+         
+           "tpe": "eife,
+           "strt": 3,
+             "en": ,            "loc": {
+             "ta": {
+              ne": ,
+             coln": 3
+            },
+              "end": {
+             line: ,                 colum": 4
+             ,
+               identifierName": "a"
+            
+          "nam" "           },
+         {          "type": "Idenfier"
+           start:,
+            "en:7,
+           "o" {
+            "str": {
+           "le": 1,
+               "colum": 
+              }
+           end" 
+              "ine":1
+                  clmn" 7              },
+            "identifierName": "b"
+         }
+            "ae":b",
+            "tailigCmmnts": [
+              {              "tye" "CmmentBlock",
+             "value:" comen ",
+              str": 9,
+                "end" 22,                "loc":               "stt" {                  line: 1,                 lu" 
+              },
+                 "end": {
+                   "lie": 1,
+                column": 22
+                }                }            }
+          ]       }
+        ]
+      }
+      }   ],
+    "directies": []
+ ,
+  "omment": [
+       "type: CommentBlock",
+     alue" " cmen ",      "start": ,
+     "ed": 2,
+    "loc"{
+      start: {
+       "le" 1
+        "coumn" 9
+        },    "end": {
+      "line": 1,
+       "clumn": 2
+    
+     }
+    
+  ]
+}

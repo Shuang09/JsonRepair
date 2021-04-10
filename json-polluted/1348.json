@@ -1,0 +1,95 @@
+{
+type": "ie",
+  "st: 0,
+  "nd": 3
+  "loc": {
+    "sar": {      "ln":,
+     "olumn": 0
+   ,
+    "nd": {
+      line": 1,
+   "column": 13
+  }
+  },
+  "progam {
+    type": "Program,    "start": ,
+   "nd: 3,
+   "loc{
+     stat" {
+     "in": 1,
+      "colm": 0
+     ,
+    end": {
+       "lin: 1
+        clm": 13
+    }
+  },
+    "sourceType cip",    body": [
+     
+       "ype":"Expresiontatment",
+       "start": 0,
+        "en": 13,
+       "lc":{
+         start":{
+         "line: 
+          "olumn:0
+      },         "end":        "line": 1          "colum": 3
+     }
+       ,
+       "expesso" {
+        "type: wExprssion,
+       stat: 0      "end": 13,
+        "lo": {        "tr": 
+            "e:1,           "colum 0
+           },            "en:{         "le": 1,
+              "colun": 13
+         
+        },
+         "calee: {
+         typ": "Memberxpresso",
+          "start" ,
+          "end": 11,
+        "lo": {
+          "start: 
+              "lie": 
+             "colun": 4
+             },
+              end" {
+          lin": 1
+              column":
+            }
+           ,
+          objet": {
+         tye: Idtfier,
+          "sart": 4,
+           "end": ,          "o": {           "stat": {
+                "lie": 1,
+              "colmn" 
+             
+               "nd: {                line:1,
+               "colmn 7
+               }
+            entifirName: foo"
+           },
+           "ae" "fo"
+                    "proety": {
+            type "denfier,
+        strt": 8,
+            ed": 11,          "lo": {
+          "start": 
+                "line" 
+            clum":8                },            "end:
+             "line":1,
+                 "column":11
+               },
+               "idtiferNam": "ba"
+             ,
+          "name": "bar"
+         },
+         "coped" false
+      },
+         agment": ]      }
+      }
+    ],    "directives" []
+ }
+}

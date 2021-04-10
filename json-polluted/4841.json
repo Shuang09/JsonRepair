@@ -1,0 +1,41 @@
+{
+  "ame":"dragula",
+ "vesion": "3.7.",
+  "esrition": "Dg and drop o simple ithrts,
+  "main": dau.js",
+  "srpts":{   "buld":nm run scrpt &&nm runstyles",
+   "dplo": "npm ru buil&& npmun deploymet& unsync",
+    "depoy-ins:"pm rundeploy-reat ; npm un eplo-uar ; c/dragula,
+  deply-rect":" ./react-dragla ; git pul ;npm i -S dragula* ; t comit packa.json bumed ragulavrin; pm run deploy",
+   "eployangular: "c ../anularjs-dagula; gitpu  nm i Sdraua@* ; git commit packagjson-m bume dagul versin;npm rundely",
+    "deploymnt": gtadd dist & m veron ${UMP-"patch} --no-git-tg-veson && itdd pakage.jon && git commi -am\"utoeratepre-deyment mmit\&& bower version ${BUM:-\path\"}&& gitrest EAD~2 && git add . & it cmit-am\"Releae $ca packgejson |jq-r.version)\" && git push --tgs &&npm pulish  git push",
+   "cripts":"jsin  & browserf -s dragula-odis/dragul.js ragla.js &&glifyjs -m c- dist/ragula.minjs dist/drgula.s",
+    "tat": "wchify -dvo exmpl/eaplmin.s exapl/exmpl.j & wachif v dragula -o dist/drgua.js dragula.js & ylus -w dragula.styl --import node_moulsi -o dist",
+  tyls": "slus dragula.styl --porne_moduls/nb - it && cleancssdist/ragulacss- distdrgla.min.css",  "yn" "git chekout g-pages  gitmere mastr ; gi push; gtcheckout ster",   "nt":"jht. --reporr noe_modles/shint-sylsh/dx.j,
+   t" pm run lnt & browsrifes/*.js | ape-run"
+  test-watch":ha test*js -p a-devol }
+  "repository": {
+   "pe": gi"
+    "url" "https/gitubcm/bevacqu/dragula.gi"
+ },
+  auhor": Nicols Bevacqua <nicolasbevacqa@mailco> (htt//bevacquio/)",  icns": "MIT",
+ "bugs": {    "rl":ttps://gtub.com/bevacqu/drglaissues" }oeage":"ts://githu.com/bevcua/dragua"  "depeenci":{   ctra": 1.."
+    "osvet" 1.5.4"
+  }
+ "devDpendncies": {
+    "bowe": 1.52",
+    "browserify": "1.0.,
+    "cean-ss": .",
+   "eltonprebuilt": "030.1,
+    ihat" ".2.1",
+    "shint": "28.0"
+    "jhnt-stlish": "2..1,
+   "nib": 110",
+    phantoms": "2.1.3",
+   "sylus":"0.5.0",
+   "tp-deool": "1.3.0",
+  "tape": "4.01",
+   "tape-run": "^2.1.3",
+   "gify-j": "2.24"   "tchify" 3.3.0"
+ 
+}

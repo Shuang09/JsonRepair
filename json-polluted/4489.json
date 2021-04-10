@@ -1,0 +1,125 @@
+{ "tye" "File",
+ start": ,
+ end": 3
+  "oc":{
+   sart: {
+     "line": 1,
+      "lmn": 0
+   },
+    "end: {
+      "lie":     "colmn": 6    }
+  ,
+  "prgram":{  "typ:"rora"
+   "start":0,
+   "end" 36
+    "oc: {    start": {
+      ine"1,
+       coln" 
+      },
+   "end": {
+     "ie": ,
+      "coum": 36
+    }    },
+   sourceTye": "modue"
+    body": [
+      {
+       "type" "FnctioDeclaration",
+     "star": 0
+       "end: 36       "loc: {
+         "st {
+       "line" ,
+        "olumn":0
+        },        "end": {           "ine": ,
+         "colun 36
+        }
+      },
+      "d": {
+          "type": Idenifier          start": 9,
+         "end": 12
+       "c" {
+         "strt: 
+           "li" 1,             "colmn: 9
+           },
+          "end": {
+           "ie":1,
+           "um": 12
+         },         "idntifieNae: "foo"
+          }
+        "name": foo"
+        }      "generao": fae,
+      "as": als,      "paras [
+       
+           "type":"Ientifr",
+          "start":13,
+         "ed": 3,
+          "lc": {           "trt" {              "lne": ,            "con":13
+           },
+           "end": 
+            "ne":,
+         clum": 33
+         },
+              "ideniera: "alack"
+       },
+           "nae": "lbck"
+        "tpeAnnotation: {
+          "ty": "TyeAnttio"
+            "start: 21,
+         en":33,             lc": 
+            "start": {
+                "lin": 1,
+                 "olun": 1
+           }
+          en"
+                "lne" 1,
+              "olmn":3
+             }
+         }
+            "tpeAnnoatin":{               "ty" "FnctionTypeAntato",
+              start:23,
+             "end":33,
+             "loc:
+                 "sart": {
+                 "lin": 1,
+                "column": 3
+                
+                "end":{
+              "li": 1,
+               "column" 33
+            }            }                "params": [],
+             "rst": nul,
+             "reuType" {
+            "pe": "oiypeAnntation",
+             tat": 29,
+                "end":33
+              "l" {
+                 star: {                   "n": 
+               "olumn":9
+                 
+            "end": {
+                   "lin": 1,
+                    "olumn":33
+              
+               }              }
+             "ypParaeters: null
+          }
+            }      }
+        ],
+      "bod": {
+         type:"BlockSttement",
+         start":34
+          en": 36,
+       "lc": {
+       sart": {
+             "in: 1,
+             "clumn": 34
+         ,
+        "end": {
+           line": 1
+            "clumn": 36
+           
+         },
+         "body": [],        "directves:[]
+     }
+     }   ],
+   iretives": []
+  }}

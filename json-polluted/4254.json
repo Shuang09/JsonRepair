@@ -1,0 +1,207 @@
+{
+  "ty": "File
+ "star" 0
+ "end: 45  "loc" {
+  "strt" {
+     "lne 1,
+     clumn: 0
+   ,
+    "ed": {
+    "ine": 1,
+    colm:45    }
+  },
+ "progrm": {
+   "type: "Progrm",
+   start": 0,
+    end": 45,
+    "loc" {
+     "sart" {
+     line": 1,      "column": 0
+   },
+     "": {
+     n" 1
+       column: 45
+     }
+    },    "suceype": "mule   "body":     {
+       "tpe": "DeclreClss"
+     "start": 0,       "ed": 45
+     "oc:         "stat":{
+          "line": 1,
+      "coun": 
+          ,
+         "end:{
+          "line: 1,           column": 45       }
+       },
+      "id": {
+         "type": "dentifr,
+        "srt":1
+         "end" 15,
+       "lc": 
+          "t: {
+           "line": 1
+          "colu": 14
+         },         "end": {
+           lin 1             "cun: 15            },
+          "entifierNam": "A"
+        ,
+         "nae": "A        },
+      "typeParmeters": {
+       "tye" "TypeaametrDeclaration"
+        "sart:5,
+        "nd" 1,        "loc: 
+            "sar":            "ie": 1,           "clumn: 15        },
+         ed {
+             ne: 1,
+              "olum: 18
+          }
+         }
+        "paams": [
+            {
+             "pe:"Typearameter"
+           "strt": 6,
+           "d": 7,
+             "c": {
+         "tart" {
+              "lne: 1,
+                "column" 1
+              },
+            "nd": {
+              "line": 1,
+               "column: 17
+             }
+           },          "ne" "T",
+            "varianc": nll
+         }
+        ]
+       },
+      exed: [
+         {
+          "tye": "IntfacExtends",
+         tt": 2,
+          nd":3,
+         "loc:{          "tr": {
+           "line: ,           "column":27
+          },
+              "end": {
+            "lne: 1,
+            "olum: 3
+            }
+     
+          : {
+             "tye": "Idenifer",
+            sart": 27,         "nd": 28,
+           "loc": {            "sart": {
+                 lne" 1,
+               "colum": 27
+               },
+               "d" {
+                "line": 
+              "column: 2
+            
+            "idtifierNam":"B"
+              },         "nme": "B"
+       },        "typeParmeters": {           "type": TypeParaeteInstntain,
+             "sart": 28,
+          "end":31,
+          "loc":{
+           "tart": {
+               "ie": ,
+            "comn": 28
+             ,
+           "ed": {                "line": 1,              "cun": 31
+         }
+           },
+             "params": 
+          {
+              "ype": "enecTeAnnottion",
+              "sart":2,
+               "n":30,
+               "o" {
+              "srt":{
+                   "lne": 1,
+               "colum": 2               },
+                  e": {
+                     "lin: 1,
+                 olum" 30
+             }              },                "pePamets:nul
+                  "id"
+             "tye":"Identife",
+              "start": 9,
+                 "end" 30,
+                  loc": {
+                    "trt": {
+                 "line": 1,
+                      "column":                   },
+              "en":
+                   "lie":1
+                    "column: 0
+                  },
+                    idenifierNam:"T"
+                  ,
+              "name:"T"              }
+            }
+         ]            }       }
+     ],
+       "mixins:[,
+     "body": {
+       "tye "OectTypennotaion",
+      "sta":32,
+       "en":4,
+      "loc": 
+           "start": {
+             "line": 1
+             "colmn": 32
+          },
+       "en {
+          line: 1,
+           "con": 45
+         
+         },
+        "calroprties": [],
+        "rperties": [          {             typ" "ObectTeProerty",
+            str" 3,
+            ed: 43           "c {
+               "start": {
+              "line": 1,
+            "clumn": 4             },             "end" {
+              ine": 1                "clumn"43
+               }
+            },
+           "ky": 
+               "ype": "Idenfier"
+             "tart": 34,
+             end" 5,
+              "loc: {
+             "start: {
+              "line"1,
+                  "coumn":34
+               },              "ed": {                   "line": 1,
+                 colmn":35
+              }
+                 "identfire: ""             },
+             "nme": "x"
+            },
+         "static": false,
+         "kin": "init,
+              metho: false
+         "value": 
+             type: "NumberTypeAnnoaton"
+            "sat": 37,
+          "n": 43,
+              "loc" {
+           "strt {
+              "n: 1
+               "colmn:
+               },
+                 "en":{
+              "lin": 1,
+                  "clumn" 43
+                       }          },
+              variace": nul,
+           "optona: false         }
+     ],
+       "ndees [],
+         "exact":ase       }
+     }
+   ],    "directies"[]
+  }}

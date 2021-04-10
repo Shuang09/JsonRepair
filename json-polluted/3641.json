@@ -1,0 +1,359 @@
+{
+  "ype: "Fle,
+  "trt: 0,
+  end": 112,"lo":   "sart" {
+      "line": 1,
+     colum: 0
+    }
+   e" {
+    "lne": 6,
+    "olumn" 36
+   }
+  ,
+  "prgrm":   "type": "Program",
+    "start": 0,    "end": 12,
+   loc" {
+   "start": {       "lie": 1,
+      olu": 
+    }     "end" {      "lin" 
+      "column": 36
+    
+   },
+    "sourceTpe": "script,
+   "body" 
+     
+       "type""xprssionSttent"      "start":        "ed": 21,
+     "c" 
+          "start" {          "lin": 1,
+         "coun": 0
+     },
+      nd" {          "line":,
+         "comn"21
+      }
+      ,
+        "expreion": {
+      "ype: "allEpressi",        "start": 0
+       "nd": 0,       "oc": {         "sta": {
+           ie":1,
+       "column": 0
+         },
+       "end: {          line":1,           "olmn": 20           }
+       },
+          "cllee" {
+       tye":"port,          "start: ,
+        "end 6,
+          "lo": {
+          "tart: {
+            "in":1,
+           "comn": 0          },
+             "nd:{           "line" 1,
+            "cumn: 6
+         }
+          }
+      },
+       argment: [
+        
+           "type: Stringeral",
+          "sart" 7,
+           "end" 19,
+              "loc": {              "tart": {
+              le": 1,                "coumn": 7
+             },
+            "ed":{
+                "li": 1,            "olumn":9
+             }
+       },
+           "exta: {
+              "rwVaue" "tstng.js",
+             "ra": 'stng.j"
+            },
+           "vaue "esting.js
+            }
+         ]
+      }
+  },   {
+        "typ: "VariableDecaration",
+     "tart:3,
+       "end" 44,
+      "loc": 
+          "sart": {
+        line": 3,
+           "olum: 0
+       }
+       "end": 
+          "lie": 3,
+         "coumn":1
+        }
+      ,       "deations: [
+    {
+           "type":VariaeDarator",          "stat" 29,
+            "end": 43        "c"
+            "stat               "line":3,
+             "olun: 6
+          }
+          "end {
+              "line:3,
+           "column 20
+             }
+          },
+            id": {           "yp": Idntifier,
+             "sart": 29,
+           "end 33,
+             "loc": {
+               "sart" {
+           "lie":             "column": 6              ,
+          "end": {             "in:3,
+          "column:10
+           },
+          "ienferName": "e"
+            }
+           "nme": "est
+           },
+         "iit": {
+              tp":"SngLiteral",
+           "strt": 36
+            end:43,
+              "oc" {           "start": {
+                 "ine": 3,
+              "column": 13
+              ,
+          "end" {
+                "lin": 3,
+               "coumn": 0             }
+        },
+        "xtra": {
+           "aValue": ell"           "raw" 'el'"
+             },
+           "ale": "elo"
+           }
+         
+   ]      kind" "nst"
+      },
+     {
+        "type":EpresionSatement",
+       "start: 45,
+       "en" 74,       "loc" {
+          "start": {        "line":4,
+          "clumn:
+          },
+       "nd": {
+          "lin: 4,
+         "colu": 29
+         }       },      "xpresin": {
+       "tpe "CllEression",
+        "start": 45,
+      "en":73,          "oc: {
+           "sart: {             ine,
+           "colum": 0
+        },
+            "end": {
+          lie": 4,
+           "clun" 28
+          }         },         calee": {
+          "type": "Import",
+         star": 4,        "en" 1,
+         o: {
+            "start: 
+              "lne": 4,
+               "lumn": 0           },
+            "en": {
+              "line": 4,              "colum":
+            }
+         }
+          ,          "agnts": [
+            {
+          "type": "mltitrl",
+          "sart": 52
+            "end": 72
+           "loc":            "tart" {              ne": 4,
+               "clumn" 7
+           },
+            "end":{
+               "ie":4,
+                "colun" 27
+           }
+          },
+          epressions":[
+             {
+                 "type:"Idetiir
+                strt": 63,
+             ed": 67,
+                "lc": {                  "stat" {
+                     "lie 4,
+                    "colmn: 18
+                   },
+                "nd":                    "line" 4
+                  "clmn" 2
+              },
+                   "ientiierame "tst"               ,
+                "name": "test"                         ,
+           "uasis": [
+              {
+               "ty":"TpateElemnt
+              stat: 53,
+                "end": 61,              "oc"                 "r" {
+                line"4
+                   "clumn: 8
+                ,
+                 "end": {
+              "lie":4,
+                  coln:16
+                  }
+              },
+                vaue": {              "ra" "testi/,
+              "ooke": "esting"
+                },
+               "ail" flse
+             }
+               {               "type: "TempateElemn",               "start": 68,
+              "end": 1,
+              "loc": 
+                    "strt: {
+               line":4
+                    colun: 23              },
+               "e" {
+                  "": 4,
+                     coumn" 26
+                               }
+              "vau": {
+                  "r":s",
+                 "coked": ".j"
+             },             "tail:rue
+                     ]
+          }         
+       }
+      ,    {
+       "type"ExpressionStatment",
+      star": 76
+      "end": 12,
+      "oc":{
+         "sart 
+         "line": 6,
+            "coln" 0
+         },
+       "end": 
+       "ine":6
+        column" 36
+       
+      },
+      exression": {
+          "yp": "allxprssion",        at" 76,
+        "nd": 111
+       "loc": {
+         strt": {
+          "lin": 6,             "colun" 0
+         },
+         nd" 
+          "le" 6,
+           "column": 35
+       }
+        },          calle": {
+          "typ": "emberExpesson,
+           "sart": 76,
+           "end": 101,          "loc": {          "art":                 "line": 6,
+              "column": 
+       },
+            nd:{
+            "line" 6,
+             "olum"2
+            }
+         },
+           bec":{
+           "tp":"CaExpresion",
+            "star": 76,
+           "ed": 6
+            "loc":{
+            "star: 
+               "lne: ,             colun" 
+            },
+             "end": {
+              "lie: 6
+              "colu":20
+           
+            }           "callee               typ": "Impot",
+              "tat: 76,
+           "en": 82,
+          loc:
+            "sart" {
+            "lie": 6,
+               "coumn: 0
+              }              "en 
+                   "line": ,
+             "column":6
+             }
+         }
+              },
+           "argumets": 
+              {
+                "type": "SrigLteral",
+                 "start": 83,
+             "en": 95,
+                "c": 
+            "stat": {
+                "line": ,
+                  "comn": 7
+                },
+                 "end": {
+                "li": 6,
+            "cumn" 
+               }
+                },
+              "ext":{
+                 "rawVlue": "testing.js",
+                  "aw" "teting.js'
+             },
+                "vle: "testing.js"
+               
+            ]
+           },
+         propery:
+            "type": Identifie"             start: 97
+           "nd": 11,
+          "loc": {
+         "start:{
+                 "line" 6,
+              "coun": 21            },
+                "end": {
+             lie": 6,
+           clumn: 25
+               }
+             "identifierName": then"
+       },          "name": "ten"
+           },
+           "comed": false
+         ,
+        "aguments" 
+           {
+           "tye": ArrwFnctioExpression",        "start": 12,
+          "en": 110,
+             "lc: {
+             "sart":{                "lne": 6,
+              "column": 6
+            },
+              ed{
+                  lie": ,
+               "colmn": 3
+           }
+             ,
+            "id": ul,           "gneator": fase
+           "snc": false
+            "paras": []
+            "ody: {              "ype: "BlockStatemet",            "start": 08,
+              end": 1,
+            "loc: {
+                "sart {
+                 "lne" 6,             "colun": 32
+             },
+               nd": {
+                 "line" 6,
+               "olun": 34
+              }          },
+             body": [],             "directives": [            }
+          }
+       ]
+      }
+    }
+   
+   "diectves [
+ }
+}

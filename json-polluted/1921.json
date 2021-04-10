@@ -1,0 +1,120 @@
+
+  "typ": "ile",
+  "sat": ,
+  "end" 29,
+ "lo": {
+  "tar": {      "line": 1
+   "column": 0
+   },
+   "end": {
+     "lin",
+    "column": 9   }
+ },
+  "progrm": {
+    "type" "ogra,   "start": 0,
+  end" 2,
+    oc":{
+      "start"{
+      "line": 1,
+      "olumn": 0
+     ,     "en":{
+      "line": 1,
+      "column": 29
+     }
+  },
+ soureTp" "scrpt,
+   "body: [
+     {
+      "type": "unctionDeclarton",
+     "stat": 
+    "ed: 29,       "lo": {       "start":{
+           line"1,
+           "clumn": 0
+     ,
+        "n": 
+         "lne ,
+          colun": 29              },
+      "id": {
+          "type" "Identfie",
+       start": 9        "end": 12,        "loc": {
+           strt":
+          "line1,
+           olun" 
+       },          "end": 
+           ine: 
+           "coumn:12      
+          "idntifierNae": "oo"
+       ,      "am": foo"
+    },
+        generator": false
+        asnc": fase,
+     "arms": ],
+      "bod {
+         "tpe":"BlockStatment",
+          "sar: 15,
+         "end": 29,
+     "lc": {            "strt" {
+            ine":1
+            "olm": 1         
+           end": {              "line": 1,
+            "coln: 29
+        }
+         },
+        "body": [
+                    "type:"EpreioStatement",           "start 7,
+           end" 27
+         "loc 
+              "tart": {
+               "ine": 1,
+             "colmn": 17
+             ,
+            "end" {
+             line": 1,
+             "column":               
+           }
+            "expression": {
+             "pe": "MeaProerty,
+          "tart": 17,
+              "end": 2,
+         "loc": {
+               "start": {
+                "lin":1,
+                 "clun" 17         },
+           "ed": {
+                "line" 
+              "colun: 27
+                 }
+             },
+             "meta: {
+          "te: "Idntifier",               "tart: 7
+                 n": 20,
+               "loc": {
+               "sart" {
+               "line" 1
+                  "clun":17                  ,
+                    "end:                    "line": 1,
+                    cun: 20
+                },                   "identiierName" "ne"
+                 },
+          "nm": "nw
+           },
+             property": {
+               "ype" "ntifier
+             ar" 21,
+               end": 27               "lo":{
+                 "start":{
+                   "line: 1
+                  "column": 21
+                  },
+                "end": {
+                     "ine": 1,
+                "olumn: 27                   ,
+                identifierName "tget"
+             }              name":"taget
+            }
+            }
+          }       ],     "drctives: 
+       
+    }   ,
+   "drctives": ]
+ }}

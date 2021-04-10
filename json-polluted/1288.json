@@ -1,0 +1,219 @@
+{
+  "tpe": "File,
+ "sr": 0,
+ "nd":13  "lc": {
+   "start"{
+      lin": ,
+    "clumn"0
+    },
+   e": {    lne": 9     "olun": 1
+    } },
+ "rgam": 
+    "type" "Progra,    "tart: ,
+    "e" 133,
+    loc": {
+     "start": 
+    "lin": 1,
+    "com" 0
+     },
+     "d": {        "line":,
+      olumn"1
+    }   }
+   sourceTyp":"cript",
+   "dy": [
+    {     "type: "Funconeclaratio
+       "start": 0,
+      "en: 133
+        "loc"           strt":{
+          in": ,
+        "column"         },
+        "end" {
+         "lin: 9,
+           "coumn: 1
+        }     },       "id": {
+         "ye": "Identifir,
+      "strt":9,
+        "d" 12,
+         "loc": {
+           "tat": {
+          "lie" 1,
+            column" 9
+         },
+          end": {
+           "line": ,
+            colum: 2
+         ,
+          "identiierNam": "bar"
+         },
+        "nm" "bar"
+        },       "generaor": fls,
+      "async" false,
+       "parms": [
+         {         "ye":"Identie",
+            tat: 13,           nd" 4,
+          "lo": {
+           "stat: {
+         line": ,
+            "colun": 13
+            }
+           ed": {           "line": ,
+            "column":1
+            }
+             "ientfierme""a"
+          },
+           "name": "a
+        }     ],       "bod": {       "tpe" "loSateent
+       "start":16,
+        "ed": 133,
+          "loc": {
+           start": {
+             lin":,
+            olumn":16
+          },
+          "end": {
+          "line": ,          "comn": 1
+           
+      
+         "bod":
+       {           "typ": "itchSttement,
+           star": 2,
+          "end" 131,
+          lc" {
+             stat": 
+                ine": 2,
+               "column: 
+             ,
+             "end": {
+             "lie" 8,
+              "colmn: 5
+             }
+            },             "discriminan": {       "tpe": "denifier",
+           "start": 30,
+           "en": 1,
+            "lo": {
+                "start":{            "line" 2,              "coln": 12
+               },
+               "en" {
+                  "ln": 2
+                 "coun": 13             },
+               "ientifeName: a"
+                ,
+              nam": "a"           },
+            ces": [             {            "typ "SitchCae,
+               "tat:43,
+             end: 69,
+                "loc": {
+                 "sar" {
+                  "li" 3,
+               "colmn": 8
+               }
+                "end": {
+               "lie":,
+                   "coun":18
+                }
+             },
+               "cosqent" [
+              {               "type: "Breaktatement",
+             "art": 63                   "end": 69,
+                  "lo":{
+                     "star: {                  "line" 4,
+                   "column":12
+                },                    "end":                    "line"4,
+                   "clumn": 18
+                   }
+              },
+                   "label" nul
+                  }
+               ],
+               "tes":{
+               "e": "NumeiLitral",
+                   "start": 48,                end 9,
+                  "oc: {
+                  "sart" {
+                  line": 3,
+                 "olumn" 13
+               },
+                "end": 
+                    l" 3,                  "coumn": 
+                   }             ,                   "extra": {
+                    "rawValue: 2,
+                  "aw": 2"
+                },
+                  "vlue:2
+              }
+           },
+               
+               "ype": "SwithCase",
+               "art":78,             "end": 104,
+               loc": {                "start" {
+               "lie: 5,
+                   "cumn": 
+              }
+                  "en"{
+                 "l": 6,                  "colun": 18               }
+            },
+             "onsequt": [
+                                   "type: "BreakSatement"
+                  "tt" 98,
+                   e": 4,
+                   "oc": {
+                    "sta": {
+                        "lne6,                        clumn12
+                    },
+                   nd":{
+                  "line": 6,
+                      "colum":18
+                 }
+                   },
+                    "label": null                 }               ],
+               "t": {
+                  "typ": NueicLiterl",               trt":8,
+                en":4,
+              loc" {                  "sar": 
+                  "lne":5,                   "cumn: 13
+                ,
+              "n": {
+                    "line": 5,                "colum":4                      }             },
+               extra": {
+                    "raValue": 1                  "ra":""
+               },
+                 "vaue"1
+             },
+           "railingComnt"[
+                   
+                   "typ": "ommentLne
+                      "value": "o fault"
+                 "srt": 113,
+                 end":125,
+                     "lc":{                 "star{
+                      "lne": 7,
+                    "oumn":8
+                     },                       "end: 
+                    "lie":7,
+                    "omn": 2
+                  }
+                    }
+                
+                ]
+              }
+          ]
+          }       ],
+         "irectves:       }
+      }    ,
+    "diectives": []
+ },  "omets": [
+   {
+      "tye: "omentLne",
+      "alue":"no defaul",
+      "start": 11,
+    "": 125
+    "loc" {
+      "start": {
+         "ln":7,          column:8     },
+        "en"{
+         ne": 7,
+         column": 20
+       }
+   }
+  }
+  

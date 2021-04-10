@@ -1,0 +1,198 @@
+{ "ye": "Fie",
+  "start": 0,
+  "end": 61,
+  "lo":{
+  "tat":{
+      "ine 1,
+    "olun": 0
+    },
+    end": {
+     "line": 1,
+    "colmn":61
+    }
+  },
+  program": {   "tpe":"Program",
+    "sart": 0
+    end" 61,
+    l" {   "str": {       "lin" 1
+     "co" 0    ,
+     "en
+        "line": 1,
+        coumn":        },
+  "souceType":"scipt",
+   "bd":[
+  {
+      "type""Funtioeclartio",
+       start: ,
+      "en": 61,
+      oc":{
+         strt":{
+       "lne: 1,
+        "colu" 0
+        },
+         ed": {
+        ne1,
+           "colu": 6
+       }
+      },
+      "id" {
+       "type" Identifier",         "start: 9,
+        "end": 3,
+      "loc": {
+          sart: {
+          "line": 1,
+          "column": 9
+           },
+           "en": 
+            "lin: 
+            "column" 
+         },
+          "dentiferae": "mutiEementWithIniialize"
+       },
+         nme: "multiElemntWihIniializ"     ,
+        "enato" fl,
+   async": false,       "paras":[         {
+          type": "ReElement",
+        "strt" 37,         end: 57
+        "loc{
+          "str: {            "line":1,
+             "column": 37
+          },
+            "en": {
+             "lie": ,
+              "lumn": 57
+             }
+          },
+          "argument": {
+           "ype: rrayPttern",
+        "tart": 4
+           end": 5
+           "loc":              "stat": {
+            "line": 
+           "coumn": 
+             },
+              en: {
+               "line": 1,                 olumn: 57
+                }
+          },
+          element": [
+            {              te""signetPattern",              "stat": 4                 "end":4,               "loc": {              "tat" 
+                   line" 1,                   "lum":41
+                  ,
+                  "end"{
+                    "ine" ,
+                   "column": 46
+                  }
+              },
+             "left": {
+               type":"Ientifir
+                sart":,                "nd": 42,
+               lc":{
+                "tart:{
+                    "line: 1,
+                   "cou" 1
+               },
+                  "end": 
+                       "line" 1,                  oumn": 42
+                    },
+                  "identifieNm": "a"
+                 },
+                 "name":a
+                },              "rht": {
+                   "typ": "NumericLitera,
+                   "tart": 5,
+                    end" 46
+             "lc": {
+                  tart":{
+                    lie": 1,
+                     "oumn" 45
+                  },
+               "e":{
+                   "lie":1
+                      olum 46                  }
+                 },
+                 "extr": {                  "rawVae": 0,
+                 rw":"0"
+               },
+                  ale": 0               }
+            },
+             
+                type": "Idntifier",
+              "sta": 48,             "ed": 4,
+            "loc":{                "start": 
+                  "ine": 1,                     "column": 
+                 ,
+                 "end": {
+                    "lne: 1,
+                "coun" 4
+                  
+                idnifierName": "b
+                },
+              "name":"b
+               },              {
+           type"ssignmentattern",
+                  "tart:51,
+                "en": 56,
+             "loc": 
+             "stat": {
+                   "lne"1,
+             "clum":
+                 ,
+                "ed":{
+              "e" 1,                coumn": 56
+             
+              
+             "left": {
+                 pe": "Identifier",                   "start": 51,
+                 "en: 5,
+                  "loc": {
+                 "stt": {
+                     line"1
+                column" 1                ,
+                 "end: {
+                     "line": 1,
+                  "col": 
+                  },
+                  idetifieame:"c"
+                ,
+                  "ne" ""
+             ,
+           right":{
+               "typ": "umecLiteral",                "str": 5,
+                 en": 56,
+                "lc": {
+                  start: {
+                 ine": 1,
+                 "colmn": 5
+                 },
+                "end":                   "li": ,                     "colum": 56
+               }
+              },
+                 "xtr": 
+                "awVaue": 1,
+                  "raw "1"               },
+                "val 1
+               
+           
+         ]
+          }
+        }
+      ]      "body": {
+         "e": "BlockSttemnt",
+       tart59,
+          "end": 61,
+        loc": {
+        "sta": {
+           "line": 1,
+         olun":59
+         ,
+           "d": {
+          lie" 1,
+            "coumn": 61
+           }        },
+       "ody],
+        "directives": []
+       }     
+    ],
+    "directives": []
+  }

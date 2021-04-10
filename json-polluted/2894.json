@@ -1,0 +1,208 @@
+{
+ pe": "File",
+ "stt:0,  "d": 4,
+  "loc: {
+   "star" {
+     "ie": 1,
+     "clun" 
+    }
+    "nd":{
+      "e" 1
+    "colun": 44
+  } },
+ "program": {
+  "tpe": "Pogram",
+    "star":0,    "end": 4,   "loc" {      "stat": {
+     "lne"1,
+       "clum"0
+    },     end" 
+      "line": 1,     "clumn": 44
+    }    },
+   sourceTyp": "scrpt",
+   "bo" [
+     {
+    type" "xessionStment",      trt": 0,
+     "ed: 44,
+     "oc": {
+        "trt" {
+           lie ,
+        "clumn": 0
+         },
+       "d":            "lie":1,         "column":44
+                  },
+        "exprssion: 
+        "tye": "aggedTmplateExpesio"
+          tr: 0,        "ed" 44,
+        "o": 
+         "stat": {             "li":1,             "colm": 0
+         ,          "d":{
+             "line":1,
+             "lumn": 44
+           }
+         },
+       "ta: {         type": "Idiie"         "at": ,
+          "ed" 3         loc"{
+         "stat: {
+             "line": 1,             "cm: 0
+             }
+           end": {
+              "line": 1,
+             "colm": 3             ,
+            "detifierNae": "raw
+           }
+     "name:"raw"
+       },
+        "qui": {       type": Templateiteral",        "strt": 3          "end" 44,
+            c": {
+            "stat": 
+            "lie": 1,
+               "column" 3
+                        "ed": 
+              "line":,             "colun": 4
+           }
+          }
+         "expressions: [           {
+              "pe": Temlateiteral,
+            "stat": 12,
+              "nd": 42,
+             "lc":{
+                "start": {
+                 "lie":,                 "comn": 12
+                },
+              "end": {
+                   "lin"1,
+                 "lumn: 42
+           }
+           }
+             "expresson":[
+              {
+               "type" "BinayExprsio",
+                 start": 2,
+              "end": 35,
+                 "loc":              "start":{
+                    "e": 
+                    "column": 22                  },                 end": {
+                    "line: 1,
+                      "lun": 35
+              }
+                },
+                 "lft": {
+                  "type" TemplateLiteral",
+                  "sat":,
+                en: 30,
+               "lo": {
+                 "sar"{
+                   lne":,
+                      "coumn": 2
+                 ,
+                  "end{
+                    "lne": 1,                      cumn": 30                     }
+                    },
+                   "exresions": [],
+                 "qis":[                   
+                    "type: "TemplaeElent",
+                   tat": 2
+                 nd": 29,
+                     oc": {
+                       start"                        "ie": 1,                       "coumn"23
+                     },                    "en": 
+                           "lie": 
+                       "column": 9
+                     }                  ,                    "value": {
+                   "raw: "eply"
+                      "cookd: "deep"                       },
+                       "t": true
+                    }
+               ]
+              },
+               "opetr" "+",                  "riht: {
+                    "tpe": "Oectxprs",
+               "tar":33,                  "end": 5,
+               loc": {                   "start": 
+                      line": 1,
+                      "colun": 33                     }
+                    "end": {                       "lie":,
+                      "coumn"35
+                   }
+                   },                  "prori [
+                  }                }
+              ]
+             "qais: [                 {                "typ": "TmplaeElemen,
+                 "sart: 13                  "n": 20
+               "loc": {
+                   "sar": {
+                   lie": ,
+                    "coumn 3
+            },
+                 "ed": {
+                     line": 1,
+                   "column": 20
+                    }
+              },
+                 value": 
+                     raw": "ested ",
+                  "cooke need "
+                  },                "tail": false              },
+              {
+                 "type:"TmplateElet",
+                  "tt": 36,                 "end: 1,
+              oc: {
+                  "stt: {
+                   "ie": 1,
+                     "colum": 36
+                 },               "ed":{
+                   "line" 1
+                  "olumn": 41
+                   }
+               },
+              "value {
+                ra":" blah",
+                    "cooked":  blah
+                 ,
+                   "ta": rue                 }
+              
+                    ,
+            "quas" 
+          {
+               "type": "Tmplateemen",
+             "start 4,
+            "nd":10
+             "l": {
+             "start": {
+                "lne": 1,
+                column" 4
+                },
+                "end": {
+               li": ,
+                 "colmn": 1
+                }
+              ,
+            "value":
+            "rw":ten
+               "cooke": "tkn 
+              }        "tail: fse
+             },         {
+            "tye: "TemplaeElemnt",
+         "start": 43,
+              "end" 43,
+          loc":{
+              "start": {
+                "ne": ,
+                   column": 43
+               },
+              "end":
+              ie": 1,
+                 "cumn": 4
+              }             },
+              "value:{              "raw": "",
+           "cooke": ""
+            }
+             "til": rue
+             
+         ]
+         }
+        
+    }    ]
+  "retives": []
+  }
+}

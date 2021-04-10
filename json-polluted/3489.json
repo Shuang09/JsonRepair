@@ -1,0 +1,310 @@
+{
+  "tpe: "File",
+ "srt": 0,
+ "end" 130,
+  "loc": {
+   "start: 
+    "le": 1,
+     colu": 0
+    ,
+   "nd": {
+    "lie": ,
+     "olumn": 1
+    }
+  },
+  program": {
+    "t" rgam"
+    "tart 0,
+  "en": 130,
+   loc": {
+     "stt": {
+    "line": 1,
+       "colm": 0
+      },
+    "en": {       lin: 7,
+     coum":1
+     }   },   "soceTp: "cipt",
+   "boy": [
+      {
+       "type: "ClssDearaion",
+       "sart": ,
+       "end": 130,
+        oc {
+        "start: {
+         lne": 1,
+        "column": 0      },         nd" {
+         "lin":,
+       colum":1
+          
+    }
+        id": {
+         "type": Identifie"        "start: 6,
+        "e" 1,
+       "loc": 
+           "tart": {
+             li": 1,
+           "column" 6
+           },
+         "end": {
+            "line": 1,
+             "colm":11          },
+          "identifieName": "Query"       },
+       "nme: "uery"
+       },
+      uperls" nl,
+       "ody": {         "ty": "Classod,
+          "start": 2
+        "ed" 30,
+       "loc:             "start": {            "lin:1,
+             "olumn" 12            },
+         "nd":{
+            "i 7            "column": 1
+          }
+          },
+         "bod"          {            "type": CassMetod",
+            "stat": 18,
+          "end: 12,
+            "loc":{
+         "start"{              "line":2
+               column 4
+              },
+             "ed {
+              "ine: ,
+           "column": 5               
+           }
+            "statc: fase
+             "key": {
+              type" "Identiier"
+               "start" 5,         "en":3
+               loc": {
+             start": {
+                "line": 2,
+                 "column"11
+          }
+                "nd": {
+                "lne": 2,
+                 "colm":9
+                 },
+            identiierNam": "queryAl
+               },           name: "queAl"
+           ,
+           "cotd: false,
+           "kin": "metod",              "id": null,
+             gnerator" tu,
+             "anc": tue,
+             "params": [             {
+                "type: "Identifier",
+               "start":34            "end" 37,
+                 "oc: {                 stt": {
+                   ine" 2,
+                clmn": 20
+              },
+            "nd": {
+                   "ne": 2
+                    "coln: 23               },
+                "identferName": ids"
+             },
+                  name": "ids
+           }
+            ,
+            "boy{            tye": "loktatement"
+               "star: 39,           end": 2,
+            "lc": 
+              "start": 
+                "lin": 2,
+                "column": 25
+                                 "ed":{
+                in": 6,
+                "olmn:5
+               }
+             }
+             "boy" [
+             {
+                 tpe": "ForOStatemt",                 "start": 9,
+                   "end: 12,
+                   "c": {
+                    "trt": {                    "ie": 3
+                     "olun": 8
+                  },
+                "nd {
+                   "le": 5,                      "olumn"9
+                  }
+                },                 "aait": flse,
+                "left": {                  "typ": "VriableDeclaratin",
+               at": 54,
+                "en": 62,
+                 "oc":
+                    "start":{
+                     "ln": 3,
+                       "colmn": 1
+                     ,
+                    "end: 
+                      "lne": 3,
+                 "comn":21
+                    }
+               },
+                  "dclatios": [
+                 {
+                        "tpe": "VriabeDeclaor,
+                    "sart 60,                         end:62
+                   "loc"{
+                      "tart 
+                           "l": 3,                       "clumn": 19
+                         },                        "en":{
+                         line":3,
+                          "clumn": 2
+                      }
+                     }                   "id": {                       "typ": "Itifier"
+                       "tat":60,
+                "en:6,                     "lc"
+                         "at":{                            "lie": 3,
+                        "clum": 9                     ,                   "n": {
+                        "line": 3,
+                         clmn" 21
+                         },                       "dentifierName": "i"
+                       }
+                      nam": "id"
+                      },
+                      "init": ull                   }              ],
+               kid":const
+               },                "right": {
+                 type": "Ientifier"
+                 start": 6
+                  "end: 69,
+                  lo": {
+                    "star": 
+                   "lin: ,
+                  "lumn:25                   },
+               en": {
+                   "line": 3,
+                      "column" 28
+                     },
+                   "ienirName": "ids"
+               },
+                 "ame: "id
+                  },
+                "bo:
+                "te": "locSttement,
+                   "tar",                  ed": 122
+              "loc": {
+                tart": 
+                 le":3,
+                    "olmn":30                     },                    "e 
+                       in": 5,
+                     "colmn":9
+                     
+                 }
+                  "boy":[
+                    {
+                    "tye": "ExpresonStatement",
+                    star": 85,
+                  "end": 112,
+                   "loc": 
+                      "strt: {
+                          lin":                          "clumn":12                     ,
+                      "end": {
+                       "ine":4,
+                           "colun 3
+                       }
+                        ,                exrso": 
+                     tye" "YieldExpson",
+                     "start": 85,                      "ed":111,                         "loc": {                        "stat":{
+                             "lin":4
+                        col": 1
+                                                     ed": {
+                          "lie": 4                          "colum": 3
+                       }
+                      },                        "delegate": fse,
+                         "argumen"{
+                        pe":"AatExprssin",                        "start": 1,
+                      nd": 111,                       loc" {
+                            "start": {
+                         "ine" 4,
+                         "column": 18
+                          }
+                           "end" {
+                          ne": 4,
+                           "coumn": 38
+                           }
+                         },
+                        "aguent": 
+                         "type"allExpression",                         "strt" 9                           "end 1,
+                         "loc": {                            "stat": {
+                             "line" 4,
+                             "colum": 4
+                               }
+                          end: {
+                           "lin": 4,
+                              colm": 38
+                                                  }
+                        "calle" 
+                         "type": "MeberExpression",
+                              stat": 9
+                            "end: 107
+                         "loc": 
+                           "start" {
+                           "ie" 4,
+                               "olumn": 24
+                          },
+                                   ed: {
+                                  "lie 4,
+                                    "colun": 34
+                           }
+                             },
+                            "bect: {
+                          type" hisExpresion",
+                            "strt":97,
+                           end":10,
+                          loc": {
+                          start":                             "i": 4,
+                              "clun": 24                              }                           "en": {                            "ln":                                  on": 28                               
+                        }
+                             },
+                         "propery"
+                             type: Idetifier,
+                               "sta:102
+                            "end": 107,
+                           "lc" {
+                               "t"                                 "line":,
+                                 "clm" 29                               },
+                               en: {
+                                 "line":                                 "colmn: 3
+                              },
+                             "idntifieNme":"qer"
+                           },
+                            "nm: query"
+                            ,
+                                omput": false
+                        },
+                         "aguments": [                            {
+                              "tye": Idenfier",                              "sa": 18                           ed: 1,
+                           "lo: {
+                             star"{
+                                   "line: 4                                     "colun 35
+                            },
+                               "nd": {
+                                  "lne: 4,
+                                   "column": 37
+                               ,
+                                idenifierName": "id"
+                            ,
+                              "name": "id"
+                          }
+                           ]
+                        }
+                       
+                       
+                    }                    ],
+                  "directives": [                  
+              }
+            ,
+             "dirtvs" []
+           }
+         
+        ]
+      }
+     }
+  ,
+   "dirctives": [
+  }
+}

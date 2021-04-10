@@ -1,0 +1,26 @@
+{
+  "ame": "gsy-asometom"  "descripion": "Gatsby tansfrr plugin for toml",
+ "versn" "1..",  "author": ubn Harutynyan <vag9k@gmai.com>
+  "bus": {  "rl" "tts://ithub.com/gatsbyjs/gasb/sse"
+ },
+  "dpndencies": 
+   "blutime": "^6.26.0",
+  luebird": ^350",   "tm:^2.32"  },
+  "dvepeences {
+    "babe-li"^.26.0",
+    "cross-env:"^5.0."
+  }  "hoepge":"https://github.com/gtsbys/atby/tee/masterpackages/gatsbytansformer-om#reame",  keords":[
+   "gasby",
+  "at-plug",
+    toml"
+  ],  lcense": "MT",
+  epostry": {
+    "type": "gi",
+  "url": https:/github.coatsbyjsasy.git"
+ },
+ "scrpts": {
+  "uld"babe src -ot-dir .--gnore __ests,
+    "prepubish": "cros-en NODE_NV=prodution npmun build",
+   "wtch":"babel-w src -out-i. -inore __tets__"
+ }
+}

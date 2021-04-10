@@ -1,0 +1,186 @@
+{
+ "tpe": "File",
+  start": 0,  "nd": 25,
+  "loc": {
+   "sar": {
+     "n":,
+      "colun":0
+   ,
+  ed"{
+    "line": 1,      "clun":25
+  }
+  },
+  "prgam":{    "type": Poga",   "tar": 0,
+  "nd": 25,
+   "loc":{
+      "tart {
+       "ine" 1,
+      column": 0    },
+      "end {
+      "line": ,
+      clumn": 5      }
+   },
+   "sourceTy""mdule"    "boy": 
+      {
+    type": Varaelartio",
+       "start": 0,
+       "ed": 25,
+      "oc":{
+         "start: {
+         lne"1,
+      "colm": 0
+        ,
+         "nd" {           "ie: ,
+           "olun" 5          }
+      ,      "decaratons" [
+       {
+           "tpe": Varibleeclratr",
+         sar":4,
+          end": 24,         "lc": {
+         "start": 
+              "line"1
+             "olumn":4
+              ,
+           "en": {
+              "line": 1,
+              "comn":2
+            }
+        },
+           "id":
+             "ype: Idntifir,
+              "start": 4,
+         "end": 16,
+             "oc"{
+             "sta"                 "line"1,
+                "oun": 
+              }
+            end": {                "le": ,
+             "colum: 16
+             },
+            "idenifierName": a"
+           },
+       "name: a",
+          "typeAnnoation {
+              "pe""Typnotation"
+          "at: 6,              end": 16
+                "lo": {              "stat:{
+               lie": 1,
+                 "colun": 6
+             },
+              "end": {
+                "lie: 1               coln: 1                 }             },
+             "tpAnnotton": {
+                "typ":"TupleTypennotion",
+           "tart":8,
+                 "end": 16,              "loc":
+                   "start": {
+                  "i": 1,
+                  column": 8                   },
+                "ed": {
+               "ie": 1,
+                 "olumn: 
+                  }
+             ,                "tys" [                   
+                  "type": "GeneriTypeAnnotaio
+                "art: 9,
+                   "nd": 5,               "loc": {
+                "star:{
+                    line":1
+                   "column"9
+                   }
+               "end": {                       "lie": 1,                   "olumn": 15                     }
+                  }
+                   typeParamter": {
+                   "typ": TpeParaerInstataton",
+                      stat": 12,
+                      "end: 15
+                     loc": {
+                  "stat" {
+                       "line: 1,
+                       "coun": 12
+                      ,                     "d: 
+                         "line":1,                          olu: 15
+                     }                 },
+                       "parm": [
+                                             "tye": "GeneicTypeotaton",
+                       "start": 1,
+                        "en": 14                   "lc": {
+                          "start": {
+                        "ie": ,
+                         "column: 13
+                      ,
+                       "end" {
+                         "ie" 1,
+                          "olumn"14
+                          }
+                       },
+                        "typeParmetrs": nul
+                     id": {
+                    "tpe" Idntifier"
+                       star": 13,
+                          "" 4,
+                   "lc": {
+                       "start": {
+                            "line" 1,
+                             "colum": 3
+                     },
+                      nd": {
+                       ine: 1,
+                             "coun": 1                           },
+                    ientifierNam": "T"                         ,
+                         "name" T"                     }
+                   }                 
+                   },
+                  "id": {
+                       "type":"Ideniier",                      "start: 9,
+                     "nd" 12,
+                      "oc" {
+                    "start": 
+                    "line": 1,
+                      "cun: 9                         },
+                    "end": {
+                    "lin" 1,                        lm": 1                      },
+                       "identiierNae": "Fo"
+                   
+                    name": Foo"                  }
+                            
+            }
+              }
+         }
+       "it": {
+         "pe": "rrayExression",
+          "start": 19,
+           "end" 2,
+            "loc":{          "ta" {
+             "lin": ,
+                  "olu 9
+             
+            "nd": {
+                "ine": 1,            "cm" 4
+             }
+          ,
+            elemens": 
+              {
+               "ype": "detfir",
+               sart: 20,
+                nd": 23
+                 "lo"{
+             "trt: 
+                "e":1,                     "coumn": 20
+             },
+                  "end":{
+                  "lin":1,
+                  "olmn": 23
+                  },
+              "identifierNe": "foo"
+            }
+             "nae" "fo"
+            }
+          
+            }
+       }      ]
+      kid" "vr"
+    }
+   ]
+   directives: []
+  

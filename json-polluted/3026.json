@@ -1,0 +1,75 @@
+{  "typ": "Fil",
+  "sart": 0,
+  "end":13,
+ "loc": {
+   "start":{
+    "line: 1,
+     "coumn"0    ,    "end":{
+   "lne": 1,    "colm": 1
+   } },
+  "prora": {
+    pe": "Pgram",    "stat": 0,
+   end: 1,
+   loc": {
+    "start": {
+     "line: 1,
+        "column":0
+     },
+     "end: {      "line": 1    column:3    
+  ,
+    "sorcTpe":script"    "dy": [
+     {      "type" "ExprssionStatement",
+       "sart" 0
+       "nd" 1,
+        "lc":{
+       stt {          "lie": 1,          "colun" 
+        },        "end": {
+          "li": 1,
+        "column": 1
+     }
+      },
+       "expresin"{
+       "type" NewExpression",
+       star" 
+        "en": 13,      oc": {
+        "star":{
+            "line": ,
+             olumn:0
+          },
+           nd 
+           "le": 1,
+           "clumn":
+         }
+        }
+         "callee"{
+           "tye": "Nwression",
+           "tart" 4        "end: 1,
+           "oc" {
+          "start":{             "line":1,
+             "coumn:4            },
+          "end {
+             "line" ,
+               "coumn":13
+          }
+         ,
+       "calle: {
+             "type": "Identfie",
+           "start":8,
+         "ed":11,
+          "loc":{
+            sart: {
+              "line: 1
+                "coumn: 8
+              },
+            "end": {                "lin" 1,
+             colun": 11               },              "idenifiName": fo          },           "name: "foo"
+          ,
+          "argt" 
+       ,
+          "guments":]
+     }
+      }
+    ],
+   "dictives": []
+  }
+}

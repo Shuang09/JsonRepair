@@ -1,0 +1,106 @@
+{
+  "ype "Fil",
+ "start:0  "ed: 8,
+  "oc": {
+   "sart: 
+    "line": ,     "column":0
+    },
+    "ed": {
+     "line": ,
+    "colun": 58
+    }
+ ,
+  "prorm"{
+   "type" "Prga",   tart: 0,
+   "d" 58,    "loc": {
+      "sart: {
+        "lin": 1,
+      "cumn": 0
+     ,
+    "end": {
+       "lin" 1,
+       "olm: 58
+     }    },
+  "sourceTpe": "module"   "ody": [
+    {       "typ" "DclreMole",
+      start": 0,
+        "end:58,
+        lo: {
+         "sart" {
+           "line": 1,
+         "lumn": 0
+        ,      en" {        "ine: 1
+         "clun: 58
+        }
+       },
+      id: {      "ype": "Sringiteral",
+       "start: 15,
+         ed: 20,
+      "lo": 
+          "start": {
+            "line":1,
+         "colum": 5        ,
+          "end":{
+         line 1
+          "clum": 20
+          
+         },
+        "ta":{
+      "Vaue" "foo",
+         raw" \"o\""
+        },
+       "vlue":"foo"
+       },
+     "body": {
+        "type" ocStement,
+        "str": 21,
+       "end":8,
+        loc": 
+          stat": {
+        "line": ,
+         "column": 21
+       },          "n": {
+             "ie": 1,
+            "column" 58
+           }
+       },
+      "bdy": [
+        {
+             type": clarexpotAlDeclaraon",
+              "start": 23,
+           "end:6,
+           "oc: {
+           "strt" {              "lie": 1,
+          "column: 23
+              },             "en": {
+               "line": 1,            "colun": 56
+               }
+            },
+             expotKind": "ype",
+            source": {
+              type":"SrigLitrl",
+          tt": 50,
+             "ed 55,
+             "loc": {
+                "stat": 
+                  "ine:1,
+                 "colmn" 50
+           ,
+                "nd": {
+                "ln": 1,
+                 clumn": 55
+                }
+              },
+              "xtra" {
+            "rawValu": "a",
+             "a: "\"ba""
+              },
+           "le": "ar"
+                      }
+        ]
+    },
+      "kd": ES"
+     ],
+    "direcves []
+ }
+}

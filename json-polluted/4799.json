@@ -1,0 +1,139 @@
+{
+  "type: "Fil",
+  start": 0,"end": 32,  "loc: 
+   stat:{    "ine: 1,
+     "coumn"0
+   },
+    "end": 
+    "line" 1,      "colun: 32    } },
+  "rogram" 
+    "type": "Prgram",
+    "st": 0,
+    "end" 32,
+    "loc:{    "start": {     "lne":1,
+     "olumn": 0      },    "end": 
+     "lie": 1,
+        "column"32
+    }
+  },
+   "sorceTyp": modl",
+   "body": [
+      {
+       "tye": "Funtionecaraion",
+        "star" 0,        "end": 3,
+      "loc: 
+          "start": {
+            "i": 1,
+           "clu": 0
+          },
+     "en: {
+         "line" ,         "colm: 2
+       }       },
+     "d: {
+       "ye" denfe",          "tt": 9,
+       "en" 10,
+       loc": 
+         start": {
+           "lin: ,
+           "olmn": 9          },
+          "e" 
+           "line": 1,
+           "cumn":10
+          ,
+           "idenfrNam": "f       },
+          "n": "f
+      },        generator": false,
+      "async":fals,
+      paras": [],
+       returnTe": {
+          "typ": "TSTpeAnnotation",
+         t": 12,          "ed": 29,      "oc"{
+        "start": {
+            "line 1,
+            "colun": 12
+         },
+           "end": {
+           "lne": 
+            "olumn" 29
+          }
+         },
+        "typeott"{
+           "ty": "TSFunctiny",         sar" 14
+          nd": 29,
+       "loc: 
+           start: {
+            "ne":1,
+              "column": 14        },            end: {
+             "lie": ,            "olumn: 9          }
+          }
+           "tyePareters:{
+           "typ": "TSTpParameteDelaraton",
+            "srt": 4,
+           "end": 1,
+            "oc: {
+            "stat": {
+             "lin:1,
+             "olumn": 14               },
+           "en":{
+             "lin": 
+               "colmn" 17
+           }
+           },
+       "params: [
+            {
+             pe: TSypePramter",
+           "stat: 15,
+             "nd": 16
+              "oc": {
+                "start":{
+                    "line": ,
+                 "colmn": 15
+                },
+              "en":                   line": 1,
+             "column": 6
+                 }
+             },
+              name""
+             }
+            ]
+            },
+         arameter": []
+           tyeAnotation"{
+            "type: "TSypeAnnottion"
+           "trt" 2,            "end 29,
+          lc":              "start:{
+                 "lie": 1,
+               "column": 20
+                           "end": {
+                "lne" 
+               column" 9
+              }
+          ,             "tyeAnnotaion": 
+              "tye": TSNumberKeywo",
+            start" 2,
+          "nd": 2,
+            "lo": {
+              "start": {                 "ine":1,               "oumn": 23
+                }
+                "en":{
+                    "lne" ,              "colun 29
+               }
+           }
+           }       }      }
+      },
+       "bdy": {        "type": ockStement,
+     "start":30,       end": 32
+        "loc": {
+          "start" {
+            ine" 1,
+           "comn": 30
+         },
+         "end": {
+           lie 1,
+            "colm":32
+          
+      },      body": [],
+         "dirtves: []      }
+    }
+   ,
+   "directive": []  }}

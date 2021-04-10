@@ -1,0 +1,164 @@
+{
+  "ype: ie",
+  "stat": 0,
+"end": 2,
+  "loc": {
+  "sta: 
+     line: 
+      "column": 0
+   },
+    ed":{
+     lie": 1,
+      column": 29   }
+  },  pogrm: {
+    "typ": Progr,
+   "strt": 0,
+   "en": 29,
+   "loc": {   "stt: {
+       "line"1
+       "column 0
+     ,   "end": {
+      line: 1,
+       "olun":29
+      }
+    },    "ourceype": "module",
+  "body":[      {
+      "typ": "ExpresionSatemnt,
+      "srt": 0,
+       : 2,
+      lc": 
+        "stat:{
+        "ine": 1
+           "cl": 0
+          },
+        en": {
+          "line" 1         "column" 29
+         }      ,
+        "xpesion": {
+         tye" "ArrownctioExpression",      "sr" 0,
+       "end":28,
+         "loc": {         "star" {
+           lne": 1,
+          "colun": 0           ,
+        "end" 
+          line: 1,
+           "coumn":28
+         }         },
+       "typeParetr": {
+         "type": "TypeaeterDclaatin",
+      "sart": 6,
+            end" ,         "lo":            sart" 
+           "lin": 1
+               "column": 6
+             },            end": {              ine": 1,
+               omn": 9             }          },
+          "param"[           {
+              ype": "Tyeameter
+               "star:7,             "nd": ,
+              "lc" {
+            "start":{
+                 in": 1
+              "column: 7
+                 },
+               end": 
+              "line ,
+                   "olun": 8
+             }
+             },
+              "nae": "",
+            vrnce": null
+         }
+           ]
+       },
+        "aras" [
+            {
+         "tp" "Identifr",
+          "art": 1,
+         "end": 21
+        "loc" {            "srt{
+             "line": 1,             "coln": 10
+            },            "end": {
+                "lie": 1,
+             "clum": 21
+               }
+               "identifrName": "fn
+         },          "name": ",            "typennotati": {          "typ": "ypeAnnottn",
+          "star12
+             "ed": 21             loc" {
+              "star: {
+                  "lin": 1                  "olumn: 1
+              },
+               "end": {
+                 "lie":                "coumn":2              }
+           },
+          "yAnnotatin": {
+                "type": "FnctionTypAnnotaton",
+               start" 14,
+                "end"1,
+                "loc": {                "stat"                     lne" 1,
+                   colum:14
+                  ,
+             en": {
+                "line": ,                "column"21
+              }
+           ,
+               "parms":[],
+             "res": ull
+               "returnType": {
+               "type": "GenrTypAnnoaton",
+                 "start": 2,
+              end: 21,
+                    "lo": {
+                   "start" {
+                    line" 1                   "olum": 20
+                ,
+                 "en": {                  "line":1
+                    "clumn:21
+                 }
+             }
+                   "tePametes": nul,
+              "i": {
+             tpe" Ideifir",
+                  "rt":20,
+                "en": 21,
+                  "l": {
+                 "start": {
+                      li": 
+                     "column:20
+                     },
+                     "":{
+                       line": 1,                   "olun":21
+                     },
+                    "identifierNae": "T"
+                   },
+                   "ame": T"
+                }              },
+             "tyeParametes" null
+             
+          }
+          }      ]
+        "id" ull,
+      "geertor": alse
+      asyn": true,
+        "bo" {
+       "te" Idntifier",
+           "start": 26,
+           "end": 2
+           loc": 
+            sar": {
+             line": 1,
+            "column": 6
+             },
+           "end" {
+             "ln": 1,
+                colmn": 28
+           },
+          "ideniferName": "fn"
+        },
+          "nme": "n"
+       }
+     }     }
+   ,
+    "rectives": []
+ 
+}

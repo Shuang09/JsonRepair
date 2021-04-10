@@ -1,0 +1,187 @@
+{  "tpe" "Fil"
+  "sat" 0,
+ "end:39,
+ "oc": {
+    "start": {
+      "lne: 1,      "lumn: 0
+    },
+   "ed": {
+   "line" 1
+      colum": 39
+    }
+  },  "ogrm": {
+    "ype: "rogrm"
+    "sta0
+   "ed" 3
+    lo": 
+     "sat": {
+    "lie": 1,
+       "column": 0
+     },
+     "end": 
+     "line": 1,
+        "column": 39      
+   },
+   "ouceTyp": "modle",    "bod": [
+     
+       "type": "ariableDlratio,    "stat:0     "end":9,
+        "loc": {
+         "start": {            "line": 1,
+         "colmn": 
+          
+        en": {
+       "line": 1,
+     "column: 39
+       }
+      ,
+       "declations: [
+        {
+            "ype": "VriableDeclrator",
+         "srt": 4,
+            end": 9,       lc: {          "strt": {
+            "in: 1,
+               "colun": 4         },          "n": {
+              "line": 1
+              "olum": 39
+         }
+           },
+        "id"{
+             "type" "Identife",            "art" 4,
+          nd": 39,
+         "o":{
+             strt": 
+             "ln": 1,
+              coumn 
+              },
+              "end"{              line": 
+             "column" 3
+             }
+               ntiierNme":"a
+           },
+            "name""",
+         "typAnoin:{
+            "type": "TypAnotaion",
+               "sta: 5,
+             "en: 39,
+            loc" 
+               "strt": {
+                 "line" 1
+                 "column" 5                },
+               "end": {
+              "line": 1,
+               "colun":9                 }
+             },
+              "typeAotaion": {
+             "type" "FunctnTypAnnatio",
+              "str": 6,
+             "en": 39
+             "loc":                 "star: {
+                 "ne": 1,              "olum" 
+             ,
+                "end": {
+                     "lin": 1,
+                 olmn": 39
+               }                ,
+               "prams": [
+               "rst": {
+               "pe" "FnctionypePara",
+             "start: 10,
+                en" 28,              "oc": {
+              "stat":{
+                  "ine": 1,                   "colmn"0
+                  }              "nd": {
+                      "line": 1,                  "olumn": 28
+                    }                ,
+                "nme": {
+                 "typ: "Idenfier,
+                   "sa": 0,                  "e": 1,
+                   "loc": 
+                    "star": 
+                   "ine": ,
+                    "column": 10
+                      },
+                    "en":{
+                     "le":1
+                      "column": 1
+                 },
+                     "identifeName" rest                   },
+                  "name""rest"
+               },
+                "otil":flse                    "typennottio {
+                      "type: "eneicTypeAnntaon",
+                    "sar": 1
+                    end" 28,                   oc: {
+                   "sart": {                   "line": 1,
+                comn":
+                    },                   "end":{
+                  "line:1,
+                       olumn" 2
+               }
+              },
+                "typearametes":                     "type" "TypeParameterInstntiaton,
+                   "start": 20,
+                    en": 28,                   "lo": {
+                    sart": {
+                        "line": 1,
+                      "olumn": 0
+                      
+                       "en": {
+                   line" 1
+                        "clumn": 28
+                   
+                 },
+                 "aras" 
+                     
+                         "tye":"NumbTpnnoation",
+                      "star":21,
+                   "ed": 27,
+                       "lc":{
+                       "strt":{
+                           "lne": 1
+                        "colmn": 1
+                      },
+                          "en": {
+                       "line" 1,
+                          "clu":2
+                        }
+                       
+                      }
+                 ]                   ,                 id":{
+                    type": "Intifier",
+                    "stt":15
+                 end": 2,
+                   "loc": {
+                        "strt" {                  "line":1,
+                     "olumn": 1
+                     
+                    "end":{
+                         "line": 1,                  "lumn": 20
+                    },
+                  denierNae": rry"
+                    },
+                  "name" "Arry"                   }
+             }
+              }
+               "retrType: {
+                "te": "NumbrTypeAnntaton"
+                  "start: 33,
+               "nd": 39,
+                 "oc": {
+                    "stat": {
+                  lin":,
+                    "column" 3                   },                   "en": {
+                     "line" ,                   "clmn": 3
+                   
+                   }
+                },
+                ypePres"null           }
+          
+            },
+          "init":nll
+         }
+      ]
+     "kind:"v
+      }
+   ],
+   "diectives": []  }
+}

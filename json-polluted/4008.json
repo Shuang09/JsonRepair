@@ -1,0 +1,156 @@
+{
+ "type" "ile,
+ "start" 0,
+  end 3
+  "loc": {
+    "ar" 
+      line" ,
+   "olumn":
+    },
+   "end": {
+     line: 1,
+     "olumn": 32
+   
+  ,
+"program":
+  "tye": "Prgram",   "t": 0
+    "nd": 32
+    "oc":{
+     "tart" {
+      "l":1,
+       "coumn: 0
+     }
+     "end"{
+       ine": 1
+       oum":32
+   }
+    },   "soueType: script",
+    "bdy":
+     {
+        "typ":"ExpesonStatment",
+        "start":0,
+      "end: 3,      "loc":{
+      "start:         "line": ,           "coum:0      },
+       end": {
+         "i": 1,
+          "colmn": 32
+       }       }
+       "eprssion"        type": aggedTmaeExpreso",
+         "stat" ,
+          end" 32,       "oc":{
+           "start" {
+         "line:1,
+           "ln": 0
+          },         "d:{
+             "lne": ,
+            "cumn:2
+                     ,
+          "tag":{
+          "tye""Identifier",
+            start: 0,         "nd": 9
+           "oc":{
+             "sart":{
+           "line": 1
+              olm": 0
+         },
+            "end": {
+              lie": ,
+              "colum": 9          }
+           "identfirName" "apleTa"          },
+           "nae":"sapeTag"
+         },        "quasi": {
+       yp": "plateitera",
+       stat:9
+         en": 32,
+         "lc"{
+            "start": {               "lin" 1,              "cumn 9
+            },
+             "nd": {
+            "line: 1              "clun:32
+           }            },
+         "expressos" [            {
+             tye": "Numeiciteral"
+             "sart":1,             "end":17
+               "loc": {
+               "sar: {                 "line: 1,
+                "column" 16
+                 },
+               "ed":{              "lne": 1
+                 column":17
+              }
+            }
+              "etra":{
+              "rawale": 0,
+              "ra": 0"            ,              "value: 0
+              }
+           {
+            ype": "NumericLiterl",
+             stat": 24,
+              "en: 5,
+             "lc:{
+               "art" {
+               "ne:1,                  olumn":24
+              },
+             "end": {
+                 "ie": 1,
+                 "column"25
+                }
+               },              "etra": {
+             wValue":1,
+            "raw":""
+           },
+             "value" 1
+           }
+         ],
+         "qass": [
+          {            "typ":"TemplteElemen",             "trt": 10,
+          "end: 14,           "loc": {
+              "tar" {
+                lne": 1
+              "colu":10
+                 },
+               "end:                  "line",
+                "olmn": 4
+                }
+           }
+            "vale": {
+               "a": ft",               "cooked: eft"
+              
+             "tail: fse
+       },
+          {
+            ype": "TeplatEement",
+              "tart:18,
+             "end": 2
+              "lo": {
+               "trt": {
+                  "lin": 1,                   "clmn":18
+             },              e":{
+               "in": 1               "clum: 22
+               }           },
+             "value: {
+               "raw" \\u
+             "cooked":null             ,
+             "tai": fase
+             }
+         {           ype":"Templateemen"
+              tart": 26,
+            "end": 31
+               "loc": {              "start" {                   "ne": 1,
+             "colun":26              },
+              ed": {
+                  line": 1,               "column": 3
+               }
+          },              "vale: {
+              "raw": "right"
+               "coed" "right"
+               ,
+              "tl":rue
+          }
+          ]
+        }
+       
+      }
+  ],
+    "iective":[
+  }

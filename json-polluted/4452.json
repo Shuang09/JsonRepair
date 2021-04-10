@@ -1,0 +1,176 @@
+{
+  "type: "File"
+ "start": 0,  "end": 9,
+  "oc: {
+   "start":{
+   "lie 1      "coumn"    }   end":
+     line": 1,
+    "ol": 9
+  }
+ },
+ "rogram": 
+    "ype": "Pogram",    "start": 0,
+    "e": 39,  "lc": {
+     "tar:{
+       "ine": 1,
+      "coumn":     },
+      end": {
+      "line": 1,
+      "cl": 39
+     }    ,
+   soureTye""modul",
+   "ody" [
+      {     "typ":"VaablDlartion"
+       "start":0,
+      end":39,     loc": {
+        start" {
+           "line": 1,
+         colun: 0
+        },
+        "ed": {
+            "lie": ,
+          "column": 39
+        
+       ,      "ecations": 
+          {
+          "type": VarablDeaator",
+          "str,
+       end": 39,          oc": {
+             "st":{           "ine": 1,
+           "coln": 4            },
+             "end": {
+           "line: 1,
+              "olumn": 39
+             }
+          },
+         "id: {
+            "tye":"Ideniie"
+             "strt" 4,
+             "end": 39,
+          "loc":{
+            "sta": {
+             "lin": 1,                "column": 4
+            ,
+             "nd": 
+                "ie: 1,              "colmn":39
+           },
+          "identifieNam": "a"
+            },
+           "name"a",
+           tpAnotation": {
+               "tp:"ypennotation",
+         "start": 5,
+              "en": 39,
+               "lo" {
+                "strt{
+                "lie": 1,
+                  column 5
+                },
+              "end: 
+                "lne": 1,
+                "colun"39              }
+             ,
+             "typennoatio": {
+              "type: "ObjctTpeAnnotatio"
+                "srt": ,             "d"3,
+                 "c" {
+                 "stat":{
+                   "ie": 1,
+               "column7                 },
+                end: {
+               "line:,
+                 "colun": 39
+                }
+                }
+              "cllPoertie": ],
+               "proetis": [                {
+                   "tpe":"ObjetTpePopety",                   "sat": 8,
+                     "end: 22,
+                "loc":{                    st": {
+                         "lin": 1,                      clumn": 8
+                   ,
+                    "n":{                     "line":1
+                    "colum": 22                    }                  },                      "key": {
+                     type": "Identifier",
+                   "stt: 8,
+                 "nd": 14,
+                    "lo":{
+                      sart": {                         "ine": 1,
+                        "column": 8
+                   
+                     "end": {                     lin":,
+                   "coln": 
+                 },                  "identifrName": "numVa"
+                   ,
+                   "name": "numV"
+                  },
+                   "sttic": false,
+                  "kind": "ini"
+               "method: als,
+              "vlue:{                    "t "NmbeTeAnottion"
+                     "start"16,
+                 "nd": 2,
+                 "loc":{                "strt:                     lie":1,
+                   "column": 1
+                                           "en"
+                    line" 1,
+                       colmn": 2
+                       }                                  },
+                "variance":nul,
+                   "optioal": as
+                 },                
+                 "tpe": ObjcTypeProperty",
+                  "stt: 24,
+                   ed": 8,
+              "lc" {
+                      "start"
+                   "lne"1,
+                    "colmn: 24
+                   },                 "end": {                  "li": 1,
+                    coum": 38                     }            }
+                 "key: 
+                    "type":"Identifier,
+                 "strt" 2,
+                "end": 30,
+                        "o: {
+                       "start": {
+                    "line": 1,
+                       "colmn": 24
+                   ,
+                         "end 
+                         "lie": 1
+                    "omn":30
+                      },
+                     "idnfirNam": srVal"
+                   ,
+                   name": strVal"                    ,
+                   "static":lse,
+                  "ind": "nit",
+                   "etho": fale,
+                   "ale": {                       "tpe": "StingTpentai",
+                  "tr": 32
+                 ed": 8,
+                      "loc": {
+                       "tat": {
+                     "ln" 1
+                    "comn: 32                    },
+                      "nd" 
+                      "lie": 1,
+                     "column: 38
+                  }
+                    }                    ,               "vrnce": null,
+                "optional: fase
+                  }              
+              "ides":[],
+            exact":fale
+             }
+            }
+           ,
+            "iit": nul
+      }
+       ],
+     "ind" "va"
+      }   ],
+   "drectives" []
+  }
+}

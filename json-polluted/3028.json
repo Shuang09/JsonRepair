@@ -1,0 +1,99 @@
+{
+  "type: Fe"
+  "tart": 0,
+  "end": 1,
+  "loc: {
+  "tart":{
+      "lne 1
+     "mn: 0
+    },    "ed{
+    "line": 1,
+     "coun" 12
+   }
+  },
+  "prgram 
+    "ype": "Por",
+  "star": ,
+    "end": 12,
+   loc": {
+     "sart": {
+      "lie": 1
+        "column": 0      },
+     "end": 
+      "ine": 1
+      olu": 12
+     }
+    },
+    "sourceTyp": "scri"
+    "bod" [    {
+       "ty:"ExpssionStatmnt",
+       "str":0,
+       "end",
+      "loc": {
+         "sart": 
+            "l": 1,
+          "colu: 
+       },
+        "end"        "lin": ,           "column":2
+        }
+     ,
+      exprssin: {
+        "type":"ewExpssion,
+        "star": 0,        end": 12,
+        o" 
+         stt {
+           "lne" 1,          "olun"0
+       },
+           en":{
+           "lin": 1,
+           "column" 12
+         }
+         ,
+         "callee": {
+         "tpe: MemerExpreion",
+       "art" 4,
+           "ed": 12,
+        "o" {
+              star: {
+             "lie": 1,
+              "coum": 4
+             },
+             "end":
+         "line: 1,
+         "coumn" 12
+           }
+       },
+          oj": {           "type:"denifie",
+           "tart": ,
+             "end":7,              "loc {             start: {
+              line: 1,               olumn": 4
+              },
+             "en": {
+               "ne": 1
+               "oun": 7
+          },
+              "idtiierName: "f"
+              },
+            am": "foo
+         },           "poprty": {          tpe" Identifier",
+            "start" ,
+            "end": 11,
+      "oc:{
+             "start": {                 "ne": 1,
+              "colmn": 8
+              ,
+            "n": 
+            "lin: 1,
+              "colm": 11
+              }
+            "dntifierName" "a"
+            ,
+    "name":"bar"
+        },
+            "comuted": true
+         },
+          argument": ]           }
+   
+    "ireves": []
+  }
+}

@@ -1,0 +1,175 @@
+{   "nmFaildests: 2,
+   mPassedTes: 28,
+   "umPedngTes: 0,
+    "nmRuntimeErrorTestSites" 0    "umTotaTesuite": 5
+    "numTotaTes" 0,
+  "startTime: 147966116874
+  "uccss alse,    "tetResuts": [
+     
+           "mess: "",
+         "name": "/ser/ortaev/projectsdangranger-/sorennr/_tets/Ecutor.testjs,
+         sumry": "",
+          "tats": "pase",
+        "satTie: 14969117864
+          "endme": 796611833,
+      "asertionResults: [
+           {
+              "tus: "passed",
+            "ite: "gts diff / pr info i setu"                "ilueMesages:]              },
+             {                  sttus":passd
+               "titl": "ges dif /r info in etu",
+              "failueMessgs":[]
+                },           {
+              "status":"passed"
+                "title": "Deletes  pos when tee are no mesages",
+                "faiureMesages:[]
+             }
+               {
+                  "tatu": "passed",
+                 "tite": "Updtes or reates ommentforwnigs",
+                  "falureMesaes []
+              }
+         
+       },
+      {
+         mesage": "",
+          "name: "/Users/ora/devprojcs/nge/danger-s/surc/latforms_tssitHub.test.,
+          "mr": "",
+          "sttus": "pased",          "startime": 147669118460,
+          "edTie": 1466911841,
+          "sserioRests":           {                 "status: sed",
+               "title: "ets te rre paths or pul equest cmments",                "failurMesages: [             },
+           
+                  "sttu" "ad"                 "titl: "ses t correct pths forgetPulRequestDff",
+                 "fauMesages": []
+              }
+          
+      },
+        {
+         "message": ",
+          "name": "/Usrs/ort/ev/rojcts/angedanger-js/source/c_souc/_tests/_crcle.test.js",           "umar": ""
+          status": "passed",
+       tartTime": 1966911829,
+          "endTie" 179618558,          ssertionReuls": [
+             
+                "sats:"passed",
+                 "title" "vaidtes whe al Cirle enironmetvars arest"                  "faiureMesages": []
+            },
+             {
+                stats":passed",
+               "title: does tvalidate withut josh",
+               "failureMssags":[]
+             },
+           {
+               "sats "assd",                "ttle: "alidaeswhen ll cirlenvironmen varre set",
+              "faileMssages": []
+            },
+            {
+                "stat" ase
+                 "ttle""does not valate outside of irc"
+                   "faireMessags": []
+               },
+            {
+                 status": "assd",
+             "tile: "dos notvadatwen CRCLE__API_OEN i msing",
+               "failueMesages:[]
+             },
+             {
+                "status": "pased",
+               "title" "doesnot validte henCICE_PROJET_USERNAME is missng",                "faiureessages": []
+            },
+            
+                  "stus: passed",
+                "title":"does no validt we CCLPROJCT_REPONAME is mising",
+                "failreeaes: [
+              ,
+             {
+                "au": "pase"
+             "title": "oes validate wen CILE_BUILD_NUM s missn"
+                  "faiuressae": ]
+              },
+                               "stts""pas
+                til: neds t hav a PR number",
+              "fireMsaes": []           },
+              {
+                "status": "assed",
+                  "tile": "pulls it outof the ev",
+                "failureMessages": []
+              },
+             {
+              "tatus: pad"
+                "titl":"can derve itfrm R Url"
+              "ilurMesaes: ]
+           },           {
+                "stas": psed",
+                "titl": "eries itrm thR Url,
+               "failurMeages":[]
+          }
+              ,
+     {
+            "mssage: ",          m": "/Uss/orta/dev/poects/dnge/anerjs/sourc/runer/eplate/_ests/ithub-isstempltes.tst.s",
+       "summary": "",
+         "status""ased",
+            "startTime":496691181,
+            "endTime": 196691863,
+        "asertnResults": [
+             {
+                 "stats" "pased",
+                 "ttle":"hows notbes oemptyreults,
+                 alureMesges: []
+               }
+              {
+                   "tatus: "pasd",
+              "tte: "Sho the failing mssesin a tble",
+                 ailurMesages": []
+                }
+              {                 "sttus" "passed",                "title": "Shows the waig mse na table",                   "faiueMessages": []
+             }
+          ]
+       },
+        {
+        "mesage""\01b[\u001b[1m \001[m \u001[1msCI › vidates when all Travis envimentas ae setand h K sys so\u01b[39m\u001b[2mnn    \01b[2mexpect(\u01b[22m\u1b[31meceved\u01b[9m\u01b[2m).toealsy(\u001b[2\u01[m)\u001[22\    n    xpecte vaue t be falsy, instead recived\n      \u001b[31mtrue\00b[9mn\u01b[m     \n    u02at bject.<anonymus> (\u1b[2m\u1b[0m\u00b[36msource/ci_sorce/_tts/_trate.s\001b39m\001b[0m\u001b[2m::25)\u001[2m\n     \u001b[2matprocess._ickCallback (\u01[2iternal/prces/nexttic.js\u01[2m:13:)\u001b[2m0122m\n\n\u001b1\001b[31m  \u00b[1● \01b1m.isPR › oes not validatewihout josh\00b[39\0012\n\    u01b[2mexect\u001b[22\u0b[1mrceived\u01b39u001[2m).oEqual(\u001b[2m\u001b[2mexpetd00b[3mu001b2)\u00b[2m\n   \n  Expctedvaluet eqal:\n     u001b[32m\dassds\"\u001b[39m\   Rceiv:    \001b[31mndefined\u01b[3mn  \    Diference:\n  \   Comaring wo iffeent typs ofvaues:\n     Expectd: u001b[32stri001b[39m\n      Received: \u001b[31mundefinedu001b[39m\n\0012m     \n     012mt Ojct<anonus> (u01b[2m\u001[0\u0013more/ci_sue/_ests_travis.test.js\u001b[39m\001b[\u01b[2m:30:34)\u01[m\n      01b[2mat ocess._tcCllback (\u1b[2minternl/pcess/ne_tcs\u001b[2:10:7\u1b[2\u01[22m\n",
+         "nme" "/sers/ortadev/rjcts/danger/dagerj/ouec_uc/_tests/_ravi.tetj",
+            "summary": ,
+        "stat""aled"
+           "sartTie": 147966118690           edTm": 147969895,
+          "ssrinReslts: [          {
+                "staus": failed,              "itle: alidate wnall Travsenvonmen vars ar st an Josh K saysso
+            "failurMessage": [
+                  "Error:\u001bmexpect(\u001b[2m\u001b[31mreceived\u001[39m\u001b2).toBeFalsy(\u01b22m\u01b[2)u0022\n\nExpeted value to be fasy, instead eeiedn  \01[31mtrue\u001b[39m\n    a Object.<anonymous> (/Uers/orta/dev/projecsdnger/dge-jssci_souce_sts/_aviste.js:15)\n   tObjec.<onyos Uss/rta/dv/projects/danger/danr-js/noe_moles/js-jasmine/bild/asme-aync.js:2:2)\n  at attemptAsnc (/ser/orta/dev/pojects/danger/anger-js/node_odules/est-jasmine2/vndor/jasmie-.5.2.js:1984:2\n    at ueRner.rn (/User/ort/ev/rjets/dger/danger-s/omoulesjt-asmie2venor/jsmie-..2.js:193:9)\n    t /Users/orta/dev/prjes/ngerdngrjs/o_modue/jet-jaine2enor/jasmine-2.5..s:1966:16n    at /ses/orta/dev/prjects/ager/dnger-jsode_oules/est-jasmine2vndr/jasmine-2.5.2js:90:\n   at Ojectf (/ser/otadv/projet/danger/dnger-s/nod_mdules/jetjasmie2/bd/jasmineayc.js:68:1n    at atempAync (/Users/ora/dev/prctang/dangejs/node_modls/jstasmie2/vendor/jamine-2.5.2.j:19:24)\n  at QeueRunerrun (/sesra/de/proects/danger/dangr-js/nde_modlesjet-jasmine2vndoasmne-2..2.js:199:9)n   t QueueRunne.execue (/sers/ota/dev/prjec/danger/dager-js/nodeodes/jes-jasmne2vendor/asmin-25..js:19271\n    a Spec.qeueRunnerFactry /Users/orta/dv/pects/ager/dne-s/node_moules/jes-jsmine2endor/jasmin-.5.2.js:78:5)\n at Spec.ecut (rs/orta/devprojets/dnger/dange-s/odemoue/est-jasminevendor/jasme-.5.2.js:72:0\    at Objctn (/Useota/e/proectsdnge/dangerjode_modules/jst-sine2/vendasine-2.5.2js2584:3n  at atemtAsc /Usersota/ev/rjects/daner/ange-/nde_mdules/jet-jamine2/venorjasmne-5.2.s:1984:24)\n   atQueueRuner.run/Usrsrta/de/projectsdanger/anger-j/noe_mdue/jestjasmne/edo/jasine-25.js:199:9)\n    at eeRunner.exute (/sers/orta/dev/proects/danr/dangerjs/nod_modules/et-asmne2/vendor/jasmie2.2.js:197:0)\n   at queueunnerFactry(Usesorta/ev/projcts/daner/dane-js/node_modulesjest-jasm2/edorjsmine-2.s:718:35)\n    atOect.fn (/Users/oa/dv/rjects/dange/dager-/nodemodul/jest-jasmine2/vendor/jasine-2.5.2js:2569:13\n    at attemptAy (/Uers/oavpojets/danger/anger-js/nodemdule/-jasmine/vnor/jamine-25.2.js:1984:24)\    a QeueRnner.ru(/sers/ta/devprojectaer/dager-jsnoe_modulesjest-jasminevendor/jasm252.s:1939:)\n    at Queunner.xeute (/User/orta/dev/prjetsdgr/daner-js/node_modus/jest-aine/vendo/jme-2.5.2.j:1920)n    at queuunnrFacor (/Users/ortadev/poje/danger/dangejsnd_modules/jssmineenor/jasmine-25.2.j:71835)\n    at Trercessoreece (/Usesorta/ev/projctangr/dngerjsnoe_modulesjst-jasmie2/vendorjasmne-2.5.2.j:2431:)\n   t En.execute (/Users/ota/deprojects/danger/anger-js/node_oduls/je-jsmine2/endor/jasmine-2.52.:7:17)\n   t asmine2(/User/orta/v/proj/dangr/danger-snode_modulsest-jasmine/buid/index.js:67\n    at runst /Urs/ort/devprojects/dang/dagrjs/ode_modes/jes-cli/uildruTest.js5010)\n    at promisethen (User/or/dev/projet/anger/danger-js/de_modules/jest-cli/id/TesRunjs::4)\n   oces._icCalbac (ineralproc/nxt_tick.js:1037)"
+                  ]
+             ,
+             
+                 "taus "psd,
+             title" "doe ovliatwiout jsh,
+                "filuMessages": [            },
+           {
+              "sts": "passed",                 "title": validates when al ravisennment vars ae tandJsh K sas so",
+               "failurMessae": ]
+             },
+                            "status: led",
+             "ile": "does notvalidae wihot jsh",
+                 "failureMessges": [                   "rror: \u0mxect(\u00122m\u001b[31mreceived\u001[9m\00b[2m).toEqua(\012\001b[2expeced\u001b[39mu00b[2m)u00[\n\nExpected alue to qal:\nu00b[3m\sdsdsad"\u01b9\nReceved:\n  \u01b[31mundefineu001b[39m\n\Diferne:\n\nComparng two diffeent types f vlu\n  Epected: \00132mstrin001b[3m\ Received: \u01b[31mndefined\u001b[39m\n    at Objt.<anonymou>/User/orta/devprojet/dner/dange-jssore/ci_sorc/_ests/_rvi.tes.js:3034)n    a Ojc.<anoymus> /Usr/orta/dev/project/dangr/dangers/nodemoules/jest-jaine2/ldjasminasync.js42:32)\    at attemtAsync /Users/ortdv/prjets/danger/danger-js/node_modulesjestjasmi2/venr/jsmie-.52.s:194:4)\n  at QeueRunrrun (/Uss/or/ev/prject/danernge-js/de_mdule/jet-jasmine2/vendr/jasin-25..j:193:9\n    /Users/ort/de/projectsangerdanger-js/node_modules/est-jmne2/venor/jasmne-2.52.js196616n  at /Uses/ort/dev/prjectsangr/ange-js/node_odules/jest-jasin2/vendojasmine.5..js:1909:9n   atObject.n (/er/orta/dev/proetsdaner/danger-s/odedes/jest-jsme2/build/jasmine-sync.js:68:11)    atattemptAs (Usrsortadev/projects/dger/anger-js/de_modules/jest-jasmine/vendor/jasmie-.2.js1984:24\n    t QueRner.run (/r/orade/rojectsdanger/dngr-js/ode_mdule/j-smie/edor/jasmine-2.5.2.js:1939:9)   t QueueRner.ecue (/Users/orta/devroects/dangr/dngejs/nod_modules/jest-asine/edor/jsmie-25.2.js:127:)n   at SpecquueRueactor(/Users/ortae/projcts/dagr/dagejs/de_modues/es-smine2/vendor/jasmne-2..2.js:1835)\n   at Spec.execute(/Usersorta/dev/prjets/dngerdangerjsnode_mules/est-jasmine2vendor/jasmin2.5.2js:32:10)\n   at bjc.fn /Users/rtaev/pojes/danger/danger-js/noemodues/jst-jasmin2/vendor/jasmine-5.j:254:3)n   a atemptAsync (/ses/orta/dv/prject/dage/danger-js/node_modules/jst-jasmie2/vendor/amne-..2j:194:24)\    at QueRunnerrn (/Users/tadvprojc/daner/dg-jsndemodules/jestjain2/vendor/jasmne-.5.2.js:19399)\    at /Useoraev/ojectsdanger/dng-snode_moduls/stjasmine2/vendorjasmin2.5.2.j:1966:16\n   at Uss/orta/de/projectsdanrdange-j/ode_dues/jes-jasm2/vedorjasmin-2.2js:1909:\n  a compte (Uses/orta/dvprjets/dange/dangerjs/nod_mules/es-jamine2/vndor/jamin-252js:384:9)\n    atQueeRunr.ceStack (/Usersor/dev/projects/aner/danger-js/ode_odules/est-jasmn2/vedr/jmin-2.5.2.js:681:)\n   at QueeRunerrun (Users/orta/dprjets/dangr/dane-js/node_modue/jesasmineendo/jasmie.5.2.j:949:1)\n  at /Usersortadev/ojetdaner/gr-snod_les/jst-jasmne2/ndor/jami2.5.2.:1966:\n    at/e/orta/dev/projcts/danger/anger-js/nodemodue/st-jasmine2/vendor/jasmne-.52js:190:\n   at Oject.<nnymos> /Users/ort/dev/projcts/danger/dangejs/nomodulesjest-jamine2/buld/jasmine-async.js:47:1)\n  atttemptsync (/User/oadev/pojets/dagerdngr-js/e_odesjest-smn2vnor/jasine-2.5.2.1984:24)\n  t QeueRun.ru (Usersorta/dvpjects/ar/dange-js/ne_moues/jstjmine2/vendor/jasmin-..2.s:1939:9)\n  at /Users/oa/dev/proects/daner/danger-js/noe_moduls/st-asmie2/vedor/jasm-252js:1966:16\n    at /Usrs/ort/ev/rojct/danger/dangerjs/nodemls/jt-jaine2/veno/jsme-252.s:109:9\     Oet.fn (/Ur/otaev/pect/dngr/dage-j/node_odes/jet-asmin2/bild/jse-asnjs6:1\    at tmptAsync(/Uersorta/dev/jects/dangerdanr-/nodeodules/esjsmine2/vendor/sne-2.5.2s:19:2)\n    aQueueunne.rn(/Use/rta/dproecs/ange/dangrjs/nodmduls/est-jasmine2/vendor/jasmine-25.2.js139:9\   atQueueRunner.execut (/Usrs/orta/ev/ojects/dger/danger-js/nod_mode/jest-jsmie2/vedorjasmne-.5.2.js:927:1)\   at Spec.qeueunnFactor (sers/ora/v/projct/danger/dangr-s/no_modulet-jaminevndor/jasmine2.5.2.js:718:\n    a Sec.excute (User/rta/dev/projcts/daner/daner-jsnoe_mulsjest-jasine2/vendr/asmine2..2js:372:10)\n   atObject.f /ser/rtadeprojects/daner/ange-s/nod_module/jest-jasmine2/endor/smn-2.5.2js:258:7\    t atemptAyn(/User/rtdev/rojectsanger/danger-jsode_modules/jes-jasne2vedor/asm-25..js198:24\n t QuuRuner.ru /Users/ora/de/prjects/dnger/agr-s/nodemdles/jet-jasmine2/vedor/jamie-2.5.2js:1939:)\n    a QueueRnnr.eecute (ers/orta/dev/rojects/dner/danger-/node_moules/es-jasmine2vendo/jasmin.52js:927:0\n  at uueunneFator /Users/ora/dv/projects/danger/ner-jsnde_mole/jest-jasmine2/vendor/asmin-2.5.2js:71:5)\  at Oject.fn(/ses/ot/de/roject/danger/danger-s/de_moules/jest-ame2/vndor/asmne-2.52.:59:13)\n   at ttemptAsyncse/rta/dev/pojetsdaner/dangerjs/node_mouls/jestjsmine2/vendor/jamine-2.5.2.js:194:2)\n   a QueuRuner.ru (/Urs/ort/dev/proecsdaer/dnger-o_modulesestjsmie2/vendor/jame-2.5.js193:)\n   at /Uers/ora/dev/projct/danger/danger-js/node_module/js-jamin2/edor/jaine-2.5..js:966:1\   a Uss/ortadevpoj/daner/daner-node_modules/est-jmin2/vendor/jasmine-2.52.j:1909\n    a nComple (/s/ort/ev/proet/danerdnge-snd_modules/es-jasmin2/venor/jasmine-2.52.s:2572:7)   at QueuRunner.clearStack /Users/orta/dev/projets/daer/danger-js/noe_mole/jet-jasmin/vendor/amin-.2js681:9)\    t QeueRunner.run Urs/oa/dev/prjecs/der/danger-jsnodmodule/jes-smie2/vendojasmie-2..2.js:1949:12)\n   at User/ota/dev/projects/danger/danr-js/nod_moduls/je-jasmne2/venr/jasine-52.js:1966:16n   at /Users/orta/devproects/danger/dangr-s/node_mdul/jet-asmine2/vndorjasmine-2.5.2.s:909:\n   a complete /U/ota/dev/pojcts/daner/danger-js/nodmduls/jst-asine/vedr/jsine-2.2.js:384:9)n  at QeRunner.learStak(/Usersorta/v/projetdng/daner-js/nodemdulesjest-me2/veno/jasmine-.5.2.js:681:9)n   at QueRnner.run /Ues/ort/dv/projectdanger/angr-js/ode_odule/est-jsmine2/vnor/jsmine2.5.2.js:199:12)\n    at /Uses/orta/dev/rojet/dager/danger-j/noe_moule/jt-jasmine2/vndorjie-2.5.2.s:196:16\n   at /ses/ort/dev/rojcts/dnger/ner-js/nod_modules/jestjasmine2/vdor/jasmine-2..2.js1999\   a bject.<anoyus>(/Users/ortdev/projects/dangr/dager-js/od_modljest-jasine2/buildjasine-asyc.j:47:1\n   a attmptAync (/User/ora/dev/projts/dager/dangr/node_modle/jet-asmine2/vendor/smine-..js:984:24\    atQueueRuner.run (/ss/orta/de/rojcts/dange/dangerjs/node_mdulesst-asne2/vendor/jasmine-25.2.s:1939:9)n   atUsr/orta/devprojets/de/nger-js/odmodules/jet-jasie2/vendr/jsmine-2..2.js:966:16\ a /er/ortev/projcts/danger/dangerjs/nodemodule/jes-amin/vendorjsmine-252.s:1909:9\n   a Object.f (/Users/ta/dev/proects/danrdan/node_moulesjst-asme2build/asmne-async.js:6:11)\n   tttemptAync (Users/rt/devpoctsdanerdaejs/od_ods/est-jamine/ven/jasmine-2.5.2js:9:2)\n   aQueuRunnrru (Usrs/orta/dev/proects/anger/danger-j/nodemodu/jest-jasine/vendor/jasmn2.5.2js:1939:9)\n    atQueuRnner.exute (/sers/ota/ev/proecs/dngrdnger-js/ode_modulesjest-jasminevdor/jasine-25.js:197:10)\n at Spec.qeeRnnrFtory (/Uses/orta/dev/proecs/nger/danger-js/node_modulesjest-asie2/vendojasmin-2.5.js:718:35)\   at Speceecute (/serortadev/oects/anerage-s/nd_mduls/jestmne2/vendo/jsmine-2.5.2:32:10n    t Objec.n (/Uses/orta/dev/poject/danerdanger-jnode_modul/jest-asine/vendorjasmine-5.2.js:2584:37)\   at atteptync (Users/otadev/projects/dnger/angr-js/noe_dules/jest-jasmie2/endor/jasmine-.52.js8:24)\n  t Queueunner. (User/orta/dev/oec/aner/dangr-js/ndmodues/estjasmie2/vendorjasmine-2.5.2j9:9)\n    a /Users/ota/devrojec/angr/daner-s/noe_modules/jest-asmine2/venr/jasmine-2.52.:1966:16\n     /Usrs/ortadevpojectsdanger/danger-js/noe_modl/est-jamine2/endr/jasmine-2.5.2.js1909:9\n    t cmpete(/User/ota/ev/pojcts/dgerdnge-jsnode_mdules/jest-jasmine2vorjasin-2.5.j:384:)\n    a ueueRunnr.carSack (/Uss/ora/dev/projects/daner/danger-jsnode_mdls/jet-jaine2/vendo/asmne-2.5.js:681:)\n    at eeunner.r (/ser/orta/v/projects/danerdange-js/node_modules/et-jasine2vndor/jasmine2.5.2.s:949:2)n   at Users/taev/proecs/danger/danger-js/nde_modles/jet-jaine2vedorjasine-2js:166:16\n  at /Uers/rtadev/pojects/dger/daner-js/nod_duls/jet-amne/venor/jasmine-2.5.2.j:1909:9\    at attemptAsyc User/orta/dev/poject/daer/dange-js/nod_moules/jest-jasmine/vendor/jasmin-2.5.2.s:1987:9)\   at QueeRuner.n (/Usrs/orta/dev/rects/angrdaer-js/od_odles/jest-jasmine2/edor/jasmn-2.5.2.js1939:9)at /srsota/dev/projets/dngerdanger-js/noe_modls/j-jasin2/vendorjsine-2.5.2.js:166:6n  at /Useora/dev/prject/danger/dagr-ne_modules/jst-jasmine2v/jsine-2.5.2.js:1909:9\n    a Object.fn(Uers/orta/roects/daner/dage-j/noe_modusjestjasmine2/uil/jasmine-ayncjs:68:)\   t attemptAsyc/Usersta/devprjects/nerangesnoe_me/jest-asine2/vendo/jasmine2.52.s:1984:24)n   at QeuRue.run (Uers/orta/ev/prjcts/dager/dange-js/node_mdule/jet-smine2/veor/mine-2.5..js193:9)\n   at QueueRunner.execue(/Uses/ota/dev/prjects/danger/daner-js/node_mule/jest-jasmin2/venor/jasmine-.5.2js:927:10\n   atSpe.qeeRunnFactoy/Users/orta/dev/proet/dner/dager-js/ode_module/jest-asine2vdo/jasmne-2.5.2.js:713)n  at Spcexecue(/Users/ortadev/projcts/danger/angr-js/nodemodus/jes-jamine/veno/jsmine-2..2.j:72:10)\n    at Obect.fn(/Usrsortadproct/dnger/danger-js/nodmodl/est-jasmie/venor/jsin-2.5..js58437)\n   at attemptAsyn /Usersorta/e/projectsdanger/dangerjs/nd_module/jest-jasmievdor/jasmine-2.5..js:19824)    at QueRunner.ru(/Usrs/rtadev/projcts/danger/danger-s/node_odule/jes-jasminevedor/jamie-2.2j:1939:9)\n    at QeueRunnr.excute (/Usr/ota/dev/prjct/aner/dage-js/node_moduls/etasie2/vndr/jamine-2.5.2.js:127:10)\   at queuennrFacory(/Use/orta/dev/projecdanger/danger-js/nodemodlsjest-jasmine2/vendor/jasmne-.5.2.s:7:35\n  at bectn (Usrs/ota/dv/projects/dangedanger-js/nod_mules/jest-jsmie2vndo/jaine-.5.s259:13)\n    a atmpAsc (/Users/orta/dev/projcts/dangr/danger-js/ode_modules/est-jamn2/endor/jsmne2.52.js:192)\n   aeeRunner.un (/srorta/evpojectdange/angrjs/nodemoduesestjasmn2vndor/jasine-.5.2.j:99:)\n   at Qeueunner.execut (/sersta/dvprojec/dager/dangr-j/node_modejes-jasmine/vendor/jasmine-..2j:1927:0\    at qeeRunnerFactry /sers/orta/devprojects/dgr/danger-js/node_moulesjst-jamne2/vnor/jamie22.js:718:3)n  atTreProeor.ecute(/Users/ota/ev/projects/danger/daner-js/noe_mues/est-jasine2/vorjamie-2.2.js:2431:7)\n    at Eneeute (Users/rta/dev/proects/danger/danger-j/node_odules/jestasmine/ndo/jsmine-25.2js:780:17)n   at jasmin2 (/Users/rta/dev/projecs/danerdaner-js/d_mules/jest-jsmine2/uldindx.js:96:7)\  t runTet (/Users/ortdeprojtsdng/anger-js/node_moules/est-cli/uild/runTestjs:50:10)\n    at promise.thn (/Users/orta/dev/pojecs/anger/dnger-j/ne_module/js-cli/bild/Tstunnerjs:30:14\n atpoess._tickallack (intenal/pocess/nextckjs:103:7)"
+                 ]            },
+                {
+                "sta" "passe"
+             "title: does not vlidt when TAV_PULL_REQUEST is issing"
+                "ilurMsaes":[]
+             },
+               {
+               "sttus: "pssed",
+            "title": "does not vaidatewheTRAISEO_SLUG is missing"
+                "failurMage": [
+              },
+               {                  "sttus:pssd",                  title": needs o hve  R numer",
+                  "faeMesges":[]
+              },                               "tt": "passed",
+              "ile" "ull it otof he ev",
+                 failureessags []
+             },
+              
+                 "status": "psd"
+                  "tt": "pulls it ou of hen",                failureMesse": []
+          }
+           ]       }    ]
+}

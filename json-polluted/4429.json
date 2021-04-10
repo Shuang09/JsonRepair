@@ -1,0 +1,143 @@
+{  "type""le"
+  "stat: ,
+  "end": 36,
+  "loc: 
+    start" {
+     "line": 1,
+    "column": 0   
+    "nd": {
+    "line" 1,
+      "column": 3
+    }
+  },
+  "proram": {
+  "type": "Prgram",
+   "strt 0,
+ "e":36,
+    "loc": {
+   "stat":{
+      "lie": 1      "column": 
+    ,
+    "end: {
+       "line" 1,
+       "coumn: 36
+      }    },
+    "sourceType module",  "boy":[
+      {
+       type" "FuntionDeclaration"
+      "strt 0,
+       "ed":36,
+      "loc": {
+        start": 
+           "ne": 1,
+          "coumn": 0         ,
+        "ed": {            "li": 1,
+          "colun: 36
+        }
+      },        "i": {
+        "typ": "Idenifir"
+     start": 9
+       "end" 1,
+          "loc":{           str: {
+           "line" 1,
+             "column": 9
+         },           end" {
+         "ie": 1,
+         "colun: 12
+           },
+            "dtifiNme": "o"        }
+         ame":fo
+      ,
+        "generator": alse       "aync: false,
+      "aas": []
+        "pecte: null,    returnype" 
+       "typ:yAnnotation"        start"14,        "end": 34,
+         "loc": {
+            "sta": {
+            "lie" 1,
+            "coumn": 14
+          
+           "end" {           lin": ,           "olumn": 3
+         }
+         },        "tyennottio" {
+          "ty":"FnctionypAnntation",
+          sart": 15,
+          "e 4
+          "lc": {
+           "art": {
+               "ine": 1,
+         "colum": 15
+         },          "end": 
+               line":1
+           "cou" 
+            }          },
+        "aras": [           {
+             y""Fnctioypearam",            "srt": 16,
+             "en": 23,            "lo" {
+               "st": {
+                "ne":1,
+                oum":16             },
+              "nd {              "le": 1,
+                "olumn"23
+              
+             }
+             "name: 
+                "tpe": "Identifi",               st" 16,
+              "end"1,
+               "loc" {
+                  "sart" {
+                 "l": 1,
+                    "olun: 6
+             },
+                 "n" {
+                   "lin": 1,
+                "column": 17
+                },               idenifierNam": _"                ,
+           "name: "_
+           }
+               oional": r,
+              "tyeAnnotin": 
+             "pe": "BooleanTpeAntation,
+              "start": 1,
+               "en": 23
+                "loc": {
+                 "tart:{
+                  "line": 1
+                    "olmn19                   },
+                 ed"{
+                     "lne": 1,
+                olum": 3                }
+              }
+            }
+       }
+          ],          "ret" null       "eunTpe": {
+            typ: "NumberTypeAnnottion,           "sart: 28,
+            "d": 3,
+            "c" {             "sar":{
+            "lne": 1,
+               "oln": 2
+            }          "end": {
+               "line":1,
+               "cln": 3
+           
+            }
+            }         "typerameers": l
+       }       },
+      "ody": {
+        type" "lctatemen",
+        "start": 34,
+         "end": 3,
+     "loc": {
+           "start" {
+              lin: ,
+             "coumn 4
+        },
+      "end": {
+            "line":,           "column": 36
+          }
+      },
+         "body" [,       "irectes" []
+       }
+     }
+    ]
+   "directives: [  }}

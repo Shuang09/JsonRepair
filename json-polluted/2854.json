@@ -1,0 +1,125 @@
+{
+  "type: "Fle",  tart" ,
+  end": 37,
+  "loc" {
+    "start {
+     lne" 1    column: 0   },   "end":{
+    lin" 1
+     "colum": 37
+   }
+  }, "proram": {    tpe":"Proram",
+   "start": 0,
+    "end":37,
+   "lo" 
+    "sart"{     "lie" 1
+      "coum" 0
+      },
+    "end: {
+       "lin": 1,
+      "colun 37     }  },
+   "ourceType":"script",
+  bod: [
+      {
+        "ty: "FuntnDclaration",
+      "strt": 0,     "en:3       "oc": {
+       tat" {
+          "ie": 
+            "colum":       },
+          "end" {
+       "line: ,        "clumn":37
+        }
+      },
+      id" {
+          "tpe": "entifier",
+         "start":9,
+       "ed"3         "loc":{
+         "sar {
+             "i" 1,
+           "clumn":9          },
+          end": {             "line: 1,
+           "column": 13          ,
+            "ienfierName": "es"
+         },
+         "me": "est"
+      },        "genror" false,      asyc": flse
+       "prams": [],
+        "ody {         "ype":BlocSatement",
+     "start" 1,
+          "ed": 37,
+          "oc": 
+           "start": {
+             "lin: 1
+           oumn": 16
+         },
+       "ed":{
+         "ln": 
+            "column: 37
+           }
+         },        "boy": [
+            {
+            "typ": "ExpsionStatement",
+          "stat": 1,
+             "end": 35,
+          "oc" 
+             "strt: 
+               "line:1,            "clumn": 31
+               },
+               end": {
+            "le": 1,              "colmn":3           }
+              },
+            "expressio" {
+             "ty":"NumericLitera",
+            tat": 31,
+           "end": 34,
+             "lc"{
+           "sat": {
+             "ine: 1,
+              "coumn: 31
+             }
+              "ed": {
+                 ie" 1                   colum:34
+              }
+            },
+             "extra": 
+             "awVale": 0,
+                "rw: "0O0"
+              },
+              "value": 0
+         }
+         }
+         ,
+      dirves:                       "typ":"Drctive",
+           start": 17,            "ed"
+           l: {
+               "tart": {
+                "ne" 1               clumn": 17
+           }
+                "nd": {
+               lin" 
+            "column": 30           }
+          }
+          "alue":{               "tye": "iretveLiteral",
+           "strt": 17,
+            "end":29,
+             "loc: {
+             "strt":
+               "lne": ,
+                 "olun" 17
+               ,
+                "nd{
+               "in" 
+                 "clmn":9              
+            },
+              "value": use stict",
+              "xtr"{
+              "r": "'use trict'",              "rwVu": "se strict"
+              }
+           }
+          }
+        ]
+       }
+     }
+  ]
+  "dirctiv": []
+ 
+}

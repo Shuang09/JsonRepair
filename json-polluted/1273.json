@@ -1,0 +1,161 @@
+{"ype":File",
+  "start":0
+  "en": 8, "lc": {
+    "sat": {
+     "line": 1,
+     colun:
+   },    "end"{      "le" ,
+    "olum": 28
+  }
+  },
+  "program":{
+   "type":Proga",
+   "art": 0,
+   "end":28,
+   "loc": 
+      "stat: {
+      line": 1
+     "lumn":      }
+      "en": {       line": 1,
+      "clumn" 28
+    }   }
+   "souceTpe" "scrit",
+   "body": [
+     {
+        "type": "xpesionaemen",       "stt" 0,
+       "end": 28
+     "lc": {
+       "start": {         "ine: 1,          column: 0
+       },
+        e": 
+            "lne": ,            "olmn 2
+       }      ,        "xpresion":{          "tpe": "Callxpreion",       "st": ,
+        "end": 27,
+        c": {
+           "art" {
+            "lin":1,
+        olumn": 0
+          },
+        "nd" 
+          "line": 1,             "comn": 7
+          }
+      },
+         calle": {
+            "type": "Idenfier,
+            start" 0,       "nd": 2,
+        loc": {            "start": {
+            "lin": ,
+           "column"          },
+             en": {
+             line": 1
+             "con": 
+             },
+          identifieName":"fn"
+            },
+          "ae": "fn"        },
+        "arets" [
+          
+            "ype Idntif",
+         "trt": 3,
+             "end" 4,
+           loc"{
+             "sart": {               "lin": 
+                  "colm": 3
+            },
+             "end": {
+             "lne" 1,
+             coumn": 4
+              },
+            "identiierName: "a
+         },         "name":"a"          },           {
+            "tye": "bjExpressio",
+          "tt": 6
+           "ed:11,
+           "loc": {
+           "start": 
+               "line": ,
+                 "column": 6
+             },
+              "end":
+          "line": 1,
+           "ol 11             }
+            ,
+             "propies":[
+           {              "tpe": "Obectropety",             tart8,           "end":9,
+              loc": {
+                "star": 
+                   "lie: ,
+                     "colum":8
+                },
+                "end": {
+                    "lie": 1,
+                 "column": 
+                
+                 }
+                "ethod": false
+                 "ky":
+                "type": "entifier",
+              "sart" 8,
+                "en": ,
+           "loc": {
+                 "str {
+                "lie": 1,                    "coumn": 8                 },                  "end": 
+                     "lie: 1                     "lumn: 9
+                },                  "identifieName": "b"              },
+               "na": "
+               
+                "computd": fale            "shrtand": tue,
+           "valu": {               "type": "Ientiie"
+                tart": ,
+                 "end9,
+                "loc": {
+                 "start":{
+                    ln": ,
+                       "column" 8
+                   },
+                "nd": {
+                      "line": 1
+                   "olum": 9
+                   ,
+                  "identifierName":b"
+                 },
+                    "nae": "b"
+                 ,
+               xra": {                "shthand": true
+            }              }
+           ,
+           "tailingComment" [
+             {
+         "typ: "mentlok",               "value":  comment ",
+             "star":13             "nd" 26,
+              lo": {
+            str: {
+                 "line" ,             "column: 13
+               },
+                "e: {                      "lne" 1
+               "olumn" 26
+               }
+              }
+             
+           ]
+                    ]
+       }
+        ,   "direcives": ]
+ }  coment" [
+   {
+      "ype": "CommentBlok",
+      "value": " oment ",
+      "start": 13,
+     end":6,
+     "loc:{
+      "start": {
+        lne" ,
+      "column":13
+     ,
+      end" {
+       lin": 1,
+       "lmn:26
+     
+        }
+ ]
+}

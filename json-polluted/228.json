@@ -1,0 +1,361 @@
+[[   "ta",  ["commn,"-- =================================="]
+,[
+   "sar",
+ ["comment","-- Autho:\tMorgan Yarrugh"]
+],[
+  "start
+["commt""-- Creae date 4/272015"]
+,[   "srt",
+  "cmm","-- scrption:\tTstpoedur tht hws off languagefeaures."]
+],[ "sart",
+  [omen""-\t\\\clus non-standard fodigwith regon coments usinethr"
+],[
+   "sart",
+  ["cmment","- \t\t\tlne coments or blok ommnt (both ardemosrated blow."]
+],
+   start",
+ ["comment","-\t\\t\tThis mode iitates SMS ad i designdtobeused wth SQLServer theme.]
+],[
+   "stat
+  ["cmmen","-- ======================================"]
+],
+  "stat"  ["keyword","CEAE"],
+ ["tex"," ],
+ "keyword","PROCDURE"],  ["text",""],
+  ["idtifie","dbo",
+ ["tet","."],
+  ["ietfier""TtPredre"]
+],[  sart
+  ["text","\t"]
+],
+   "tat"
+ ["commnt"-region parameters]],[
+  start,
+ ["txt","\t],  [dntifier","@vnt",
+ ["text",""],  ["sage.ype","NT"],
+  ["text", "],
+ [keywo.operatr","=],
+ ["txt" "],  ["costant.numeric,"1"]],[
+  "trt,
+ tex","\t"]
+ [puctuan","],
+ ["identifier","date",
+  ["tex"," ]
+  ["storage.pe,"TE",
+  ["tex", "]
+  ["eyword.operaor","=",
+ ["text, "],
+  [nstant.lanage",NULL"]],[
+   sta","text","\t]  [pctuti,","],
+ ["intfie""@vdatetime"],
+  ["ext"," ]
+  "orge.typ,"DAETIE"],
+  ["text," "],
+ ["keyord.operaor","="],
+  ["text, "]
+ ["suppot.function,"DATEAD"],
+  [parenlan""(",
+  "idetiier""d],
+ [punctuatin",","], ["text,]
+  ["constat.numeric","1"],
+  [puntution",","]
+ ext," "],
+  ["suppot.funcn","GTDTE"], ["paren.lparen","],
+  "parnrparen,))"]
+],[
+  "strt",  [tet",\t],
+  ["ptuation,",],
+  ["ieier","@vvarchr"]
+ ["ex"" ,
+  stora.ype,"VCR",
+ ["pre.lparen,"(],
+ ["sppot.fncn,AX"],
+  ["pa.rpaen,")"],
+  "text"," ]  [keywor.opeator",="],
+ ["txt", ],
+  ["sring.tart",""],  ["tringed,"]
+],[
+  "start",
+  ["commen""-#endegio"]
+],[
+  "start"
+],
+  "tart"
+  [eyword",""]
+],[
+   "trt",  ["keword""BIN"]][
+   "tart
+],[
+ "s",
+  ["tet",t",
+  ["commet.a,"/*",
+  ["comnt","#eion  statements ],
+  ["coment.nd,/"]
+],[   tart"  ["text","\t",
+  ["set.satemet""TNOCONT],
+ ["ext", ],
+  "keword","ON],
+  ["punctuaton",";]
+,[
+  "start",
+  ["text","\],
+  ["setstement"ET XACT_BORT,
+ text"," "],
+  ["wo",N",
+  ["punuatio","
+,[  "st",
+ ["te",\t",
+  ["set.statement",STQUOTED_IDENTIFIE"]
+  ["te"" "],
+  ewd","ON"]
+ ["unctution",";"]
+,[  "sat",  [tx","\",
+  "commnt.tart",*",
+ ["cmment,"#dgion",
+ ["mment.ed","*/"]
+],[   sart",  [tx","\t]
+][
+  dostart,
+ "text",\t],  [oment.dc","/**"
+],[
+  "dc-start",
+ ["commentdc",\t *These comment wil rdce a fodidget"]
+],[  star",
+  "coment.oc","\t *"]
+,[
+   "sat",
+  "text"""],[
+   "str",
+ "tex","\"]
+  ["coment","-- ingdnstation"]
+],[
+   start",
+ ["text","\t],
+ "keyword",S"],
+  ["text"" "],  ["ientifier",@vint  [tet", "]  ["kyodopato"""
+  "text", ",
+  ["kewr","CASE"]
+],[
+  "tart",
+  ["tex","t\\t\t\],
+  ["keywor","HN"["tet"" ],  [ientifir",@vdate"],
+ x"," "]  ["ostnt.lnguage","IS"]
+ [ext"," "  ["contant.languge","NUL"
+,
+ "start",
+  ["tex",\t\t\t\t\\t] [keyword","THEN"],  ["txt"," "],
+  ["constant.nmerc,"1"]
+],[
+  "trt",
+  ["tet""\tt\t\\t"
+  ["keywrd"E"
+  ["text"," ",
+  ["constan.nmeic"2"]
+,
+   start"  ["text",\t\t\"],
+  [keyword","END"]],[
+  star",
+  "et","t"]
+,[
+   "art",
+  ["text,"\t",
+ "ommen"-- nohe foldng demonstation]],[   "start",
+ ["tex","\t,
+ ["keyword","F"],  ["txt", "],
+  ["identifier,@i],
+ [text"," "],
+  ["eywordpeato","=],
+  ["xt"," "],
+  ["contant.numric1],
+ ["xt"," "]
+[
+   "start,  "tex""\t"],  "yord","BEGIN"]
+],[
+   start",
+ ["text","\t\t"
+  [keyword","SE"],
+  "text"," "]
+  ["dntifir","@varchar, ["et"," "],
+  [keyword.ortor",="],
+  ["txt",""],
+ ["sring.star","",
+  [stringone],
+  "stig.nd","'"]][
+   "sta"
+  ["txt""tt],
+ ["kyod,"ET]
+ "text" "],
+  "idenfier","@vint"],
+  ["txt"" ",
+["keyord.operaor","],
+  "tet","",
+ ["supo.function","ATEDIFF],
+  ["aren.lparen",("],
+  [idnfier""dd"],
+  ["pnctuation",,"],  ext,""],
+  inifier,"@vdat",
+  [punctuatn,""],
+["te"," "],  ["idenfie","vdatetim"],
+  ["paren.rpan",")"
+],[
+  stat,
+[text","\t"],
+"eywod","D]],[
+   star,
+  ["tet""t"[
+  "start",
+ ["ext","\t"],
+ ["comnt","- ths mode andlestrigs proely"]
+],[
+   "tri.sart",
+  ["x",\t"],
+  ["keyword,"ECLARE], [text"," "],
+ ["ietifier",@sql],
+  [text"," ",
+  "sorage.tpe","NVARCHAR"
+  [parenlpare","("]
+  ["contantnumeric"00"],
+["ar.rpen",")"] ["te"""],  ["keywor.operor","="],
+["xt"," "]  ["dentiier","N"],
+ ["strin.stat","",
+  [string"SELCTOP(1)OrderID "]
+],[
+ "stig.stat",
+  ["strin""\\t\t\tt\t\ttFROMOrders"]
+],[
+   "srt",
+  ["srng""\t\\\t\t\t\\t\tWR @OrerDate  GEDAT()"],
+  ["stringend'"]
+,
+  "rt",
+  [tet","t\\tt\t\t\\t"]
+][
+  "start",
+  ["xt""\t"],
+  ["comment","-is mode is aware fbuit instoed procedures "
+],[   "sa"
+ [x""\",
+  ["eywor","EXECUTE"],
+  ["txt"," "],
+  "suppotstoreprocedure,"spexeutsql"],
+  ["text", ],
+ [idnifr","@sql"]
+],[
+ "sa"
+  [text","\t]
+,[   "start,
+ [tet,"\t"],
+  ["commet-- demonstting som syntax highlighng
+,[   "strt",
+ [txt","\t",
+  "keyod""SEECT"],  ["tex", "],
+  [idenifier""Orrs",
+ ["tt","."],
+"idetifie,"OrrID"
+],[   st",
+  ["tet,t\t"]
+  ["unctuation",]
+  ["deifie","Custoer"],
+  ["text","." ["idetifier","CmanyNae]
+],[
+ sart,  ["text""\t\t"],
+  ["pnatio"","],
+  "suppor.fnction","DATEFROMARTS"],  ["pare.lparn","("]
+  ["spport.unton","YR",
+  ["pren.laren"""], ["upot.fuction""GETATE],  [parn.parn,("]
+  ["pare.rpre","], ["putuati""], ["ex"" ]
+  [conta.nmeric"1"],  "punctuain"","], ["text"," "],
+  ["cnstant.numeric","1"], "aren.rparen")],
+  ["tx" , ["keword"AS"]  [xt," ],
+  ["deifier","FirstDayOfYear"]
+],[   at,
+ ["txt,"\t"],
+  ["keyword"FRO"],  ["tet"," "],
+ ["identifier","rders"]
+],[  "start",
+  "text","\t",
+["cnsat.langage,"INNR"],
+  ["text",""],
+ "onstant.language","JIN"],  ["tet"," "
+  ["ientifer","Ctomes"]
+],
+  "start",
+  [text","\t\t"],
+ ["kewor,"ON"],  "tet" "],
+  ["dentifier""Orders"],
+  ["txt",""
+  ["dentifi,"Cusomer"],
+  ["text""]
+  ["keyword.operato","="],
+ ["tet"," "],
+  ["identifier","Custoer"],  ["xt","."],
+  ["idetiier","CustomrID"]
+],
+   "at"
+  ["tet""\",
+  ["keywrd,"WHEE"],
+  ["text""]
+  ["intifier","mpanyName"],
+ ["tet", "],
+  ["costant.language""NO"],  ["ext"," "],
+  ["ostant.language","LKE"]
+  ["text"," "],  ["strig.star"'],
+  "strn","%somehin] ["string.end""'"
+],   "str",
+  [text,"tt"],
+ ["cnstat.langug","OR"],  ["txt"," ",
+ [idntifer","mpNe
+  ["tex"," "],
+  ["cntant.nuage","S"]
+  ["txt, ",
+  ["costant.aguge",NU]
+],[
+   "sart",
+ [text","\tt"]["onstant.language","O"]  ["text 
+ [denifier","CmpaName],
+  ["ext",""],
+ constant.lauage","IN"],
+  [text"," ",
+  "paen.paren,"("],
+  ["srin.start","'"],
+  ["trng","bla"],
+  ["string.end,'",  ["punctuatin"",",
+  ["tex"" ,
+  [ting.start","],
+  "strng","notin"],
+  ["strig.end"'
+  ["parenrpar"""]
+][
+   "stat",
+  ["txt,"\t\t"]
+][   "stat,
+ ["tet","\t"]
+  [commt","--his mode incudessnippets]
+],[
+  "stat",
+  ["et"\"],
+  ["cmmnt","- place you cus atthe end of teline belad trigger auto colet(Crl+Spae)"]][
+ "start"
+  ["text""t"],
+  ["idntifr","crete"]
+],[
+   "start",
+  ["tx",\t]],[  "stat",
+  ["text","\t"]
+  ["comme","-- SQL Sevr alow using kerds as object names not rmmeded aslong as they are wrappe in bckets]
+],[
+   "stat",
+ ["text","\t",
+  ["kywod","DATBASE"]
+ "text",""],
+ ["comment","--ywrd"]],[
+  "tart",
+  ["tet,"\t[DATABAS] "],
+  ["commnt""-not  kewrd"]]
+  "stt,
+  ["te",\t]
+],[
+  "start"  ["keywod"EN"]
+],[
+  "sart"
+]]

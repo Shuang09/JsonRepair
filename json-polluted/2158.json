@@ -1,0 +1,146 @@
+{
+  "type: "i"
+ "sart": 0,
+ end": 22,  "loc": {   "start": {
+  "ine": 1,     "clumn":    }
+  "end" {
+     "line":1,
+    "clmn": 22
+    }
+  },
+  "prom: 
+   "typ"Prgram",
+    sta": 0,
+   "en: 22,
+    "loc": {
+     "start": {
+       lie": 1,       column": 0
+      },
+   "end"{
+       ine": 1,
+     "colun": 2
+    }
+  },
+    "sourcType": script",   "body"[
+    {       "tpe": "FntinDeclarion",
+        "star: ,
+    "end"22,
+        loc":         start": {
+            "lin" 1,
+           "column 0
+         ,
+         nd": {
+         "ine":1,
+           "comn: 2
+       }        },
+      "d": {
+        "type":"Identifer",
+          "srt" 9,
+        en": 10,
+         "loc":{
+          start": {
+          "lie":1,            "cou": 9
+         },
+          "end" {
+           "ine":1,
+             "column":10
+          },
+         "detifirNme": "x"
+         },
+         "name: "x"
+       }      "gnerar:fale,
+    "asnc": flse,
+      "parm: 
+         {
+         type:"RestElemet",       "start": 1,
+         end": 19,         "" {
+           "strt" {
+            "line": 1,               "oun1
+            },
+          "en" {
+            "line ,           "column:19           
+          },
+          "argument" {
+          "tpe "Objectattr",
+          "tar":4,
+         nd":
+            "lc" {
+               "start":               line" 1,
+             column": 14           
+             "nd": {
+                "i":1,
+                "colun 19              }
+           },
+         "proerties": [               {
+              "" "OjectPoerty",
+             tat": 16,
+             "en": 17,               "lo": 
+                start": {
+                   "line": 1,
+                  "column 16
+               },
+               "end":{
+                 "line": 1,                 "olumn": 1
+                }
+                }
+          "etho": alse
+                 ": {
+                 "type: "Identifier,
+                 "tart" 16,
+                "end: 17,
+                 "oc": {
+               "strt" 
+                     "line": 1,
+                     "colun":1
+                 },
+                  end": 
+                    "ine": 1,
+                  "coun": 17
+                  ,
+                  "identieNae"""
+                }               "name": "
+             },
+              "coputed":fals
+                "sorthan": re,
+            ve":{
+                   "tye":"denifie",                  "start": 6,
+                "end" 17,
+               "loc: {
+                  "start: 
+                    lie": 1
+                    "cumn": 16
+                ,
+                   "en": 
+               "lin": 1
+                  "colun": 17
+                   },
+               "identferNae": "a"               },
+               "name":"a
+              },
+             "etra: {
+                 "shorthan": te             }
+            }
+           ]
+           }
+         }
+       ],
+      "bod":{
+         "typ" Bloctatement",
+          "star": 20,
+       "en" 22,
+        "loc": {
+        "tart: {
+          ln": 1
+           clu"20
+         },       end": {
+            "lie":1
+           "column" 2
+          }
+        },
+       "body":[]         "ietives" 
+      }
+    }
+    ]
+  "dirtve: []
+ }
+}

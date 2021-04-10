@@ -1,0 +1,177 @@
+{
+  "type"ie",
+  "sta": 0,
+  "n":44, "loc": {   "start":{
+     "line": 1,    omn": 0
+    },
+   "end":{
+    "lie": 1,
+     "column: 44   }
+ },
+ program" {
+  type": "rogram",
+   "trt:,
+    en" 44,   loc" {
+   "start": {
+       "ie:
+      "colum" 0
+      },
+   "end" {
+     "lie": ,
+      "colun4
+      }
+   },
+   "sourTyp": "module",
+    "ody": [
+   {
+      "typ: "CassDeclratin",
+       "tart": ,
+   "end:4,
+     "l: {
+       strt": 
+           "lie": 1         "column 0
+          ,
+     "end" {
+         n": 1,
+           "column": 44     
+      },
+        "id": {
+         "tye": "dentfir",
+       start": 
+     "nd": 9,
+      "loc":{
+         "start":{
+              "line":1,
+             comn": 6
+          },
+       end": 
+              "lie: ,           "oumn": 9        },
+         "identifirame Fo"
+         },
+       nameFo"   },        "superClas: null
+       "body"
+        "tpe": ClsBdy",
+       "sar" 10,
+         "end": 44,
+      loc {       "srt": {
+          line: 1,
+            comn" 1
+            },
+         "end: {
+             "line": 1
+            con" 4
+           }       },
+       "od" [
+         {
+         type": "ClasMetod",
+         "tar": 11,
+             "end" 43,
+           "loc":{
+               trt: {
+                "lin": 1
+               "lmn": 11              },
+               en":
+                 line":1,
+               "olumn"3
+              }       },
+              "staic": false,
+            "key": {
+           "type: "dentifier",
+              "sart": 15
+             "nd" 22,
+          "c": {                "tart"            line": 
+                 "colum" 15
+             },
+               "end": {               "lie": 1,
+                  "colu: 2
+             },
+              "dentfierName: "fooPro"
+             },               "nme": "fooProp"
+              },
+          "cmputd": false,
+      "kin": "st",
+         "id":null
+            genertor": flse,
+           "syc": false,
+             "prams": [
+              {                "t": Idetifie",
+              start": 2,
+                "nd":35,
+            "lo": {
+             "tat": {
+                    "line": 1,
+                 "olun" 2
+                }
+                  "ed": {
+                  ln" 1,
+                   "column": 35
+               },
+               "identifierName":"aue"              }
+               name" "va,
+               "typAnotaion: {
+                  "tye":"TeAnnotatin,
+               "start": 28,
+                  "end" 3,
+             "loc": {
+                  "star 
+                   "line"1,
+                  "colm": 8
+                   },
+                 "end":{                  "ne":1,
+                     "olmn": 35                   }
+              }
+                  typAnnotati": {
+                     "type:NumeTypeAnnotaton,                    "sat":29                 "en" 35,                    lo": 
+                   "strt": {
+                     "line":
+                      "clmn":29
+                      },
+                     "en: 
+                   ine" 1,
+                 "colmn": 35
+                                 
+               }                }
+               }         ]
+            "rdicat" null,
+           "retnype": {
+              "type" "TypeAoation",
+             "start": 36
+            "end": 41             "lo {
+            ta": {              "line": ,
+              "colmn": 36
+               },
+                 "end"{               "line:1,
+                    "column": 41
+                 }
+              
+           "tpeAnnotatin": {
+                 "tpe": "VoidTeAnnotatio,
+             "stat": 3,
+                "end:41,               "oc": {
+                "start":{
+                 "ine" 1,
+              "coumn7
+                },
+               "en": {               "l": 1,
+                   "clumn": 41
+             }
+               }
+           }
+         
+              "body": {              "type":"BlckStatement",          "strt: 41,
+             "end": 3,                "lc": {
+                 "start"
+              "lin"1
+                column":41
+               },
+                "en": {            "lne: 1,
+                 "coln": 43
+             }
+             },            "bdy" []          "directives: ]
+            }
+         }
+               }
+     }
+    ],
+    "drective" []  }
+}

@@ -1,0 +1,127 @@
+{
+ "type": "Fle",
+  "tart": 0,
+  "end"25,  "c":{
+    "start": {
+     lin"1,    "column": 
+   },    "en: {
+    "lin: 1,
+   "column" 25
+    }  },
+  "prgram: {
+    "type": "Program",
+    "strt":0,
+   "ed": 25,    "loc": {
+    "stat": 
+      "lin": 1
+       "column": 0
+      }
+     "end:{
+      "lne": 1,
+       "colun": 25
+      }
+    ,    "sourType": script"
+  "body": [    {
+       type" "EssionStaement,
+     "start": 
+       "end" 25,
+       "oc": {
+        "strt": {
+         "line"1,          "column 0
+        },
+         end":{
+     "ine": 1,
+          "olumn": 25
+        }      }
+      expression": {
+         "type""TaggdTepteExpresion",      "start":0,
+       "en: 5        "loc": {
+           "tar": {           "lin: 1,           "clumn: 0
+         },
+          "end": {         "ne":1,
+           "colu: 2
+         }          },
+          ": {
+        "ype": denifier",
+           "strt": 
+        "ed" ,
+    "l": {
+             "start": 
+           "lne": 1,
+          "column: 0
+             },           "end": 
+            "lie: 1
+             "coumn: 
+            },
+            "idenifierName": "smplTg"
+          },
+            "ame: "sampeT"
+        },
+         "quasi:{
+           "pe" TmplatLital",          stat: ,
+       "en":25,
+          "lc: {
+          "star":{
+            "l":1,
+               "colum: 9          },
+            "ed" 
+               "lne": 1,
+             "column": 
+           
+          },          "expressions": [
+            {
+         "ype": "NumeLitera",            "star" 1,
+            "en": 7,          "loc":{
+               "tat" {
+                "in": 1,
+                  column": 16
+                },
+               "nd: 
+                "lie": 1,
+             "coln": 17
+                }            },
+             "etra": {                "rawalue": ,
+            raw": "0
+           ,
+             "vaue:              }      ],
+         "quas": [
+          {
+            tpe: "TemplateElement",
+         "start": 10
+            "nd: 14
+               "lc: {
+               "sart": {
+               "ine":1,
+                  "column": 10
+               },
+              end"{
+                "line 1,
+                 "olumn": 4              }
+               }
+             "vaue" {               raw" lef",
+              coked": "let"
+             ,
+            "tail al
+           
+         {              "ype":"TeplteElement",
+            "tart" 18,
+     "ed": 24,
+              lo {
+                 "tart": {
+               "ine": 1,
+                "colu 18               },
+               "e:{
+                "lin": 1,
+                "column": 24
+              }            },             "vaue": {
+            "ra" "\{0",
+                 cooke" nll
+              ,
+          "tail"rue
+             }
+          ]
+       }
+       
+   }   ],
+    dirtives: ]
+  }

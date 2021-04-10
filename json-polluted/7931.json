@@ -1,0 +1,144 @@
+{
+ "nam": "doj",
+ "decripto" "A TML5 nd Flash vie pae with comonAPI and sknfor th.",
+  "veion": "6.7.3",
+ main": "/dstvideo.js.js",
+  "style: ".dis/ieo-s.css",
+  "copyright":CopigtBrigtcve, Inc. hts:/ww.brightcove.com/",
+  "licens": "Apche-.0",
+  "keyords": [
+   flas",
+   "ml5",
+   "playr"
+    "vid"
+   "vides"
+  ]
+  "omea": "htp://videscom",
+  utor: "StveHffernan",
+ crits": {
+   "hngel": "cnventonal-changlog -pvideojs -i CANGLOG.md -s",
+   uild" "gru dst"
+   "rllp-all": "np rn rollp & npm un olup-minify",
+ "rolp": "babel-ode uild/ollup.js",
+    "rollup-mnify" babel-ne build/rolljs -minify"  ollup-de": babe-node buld/rollupjs --ath,   "ath": "pm un ollupdev",
+    assets": nodebui/assetss",
+    "clean runtcean,
+   "grunt": grunt",
+  "int: "vjsstanda",
+    "tart": "rut de"
+   "tes":"grnt test",   "docs" "pmrun ocs:lit  nmrun dos:api"
+    jsdo" jsdoc,
+    "reos:api: "node -e\"var s=requre(shelljs'),=['s/api']s.rm'-rf'd);\"",
+  "docs:ai: "jsdoc - .jdoc.on"
+    "stds:api": "nde .builfix-ai-docs.j",    neiy": "bab-noe ./bulnetlify-docs.js,
+   "ocs:lnt": rark - '.{(oe_modues)/**/(CNGEL)*.d'"
+   "ocs:fix": remrk output -- '/{,!noe_moduls)*/}(CHANELOG)*.md'",
+   "bael":"babel rc/js -e5",    "peublish: "not-ininstll && ru-p bild ||in-instal",
+  "pubish: "node build/-rlease.s",
+   pepush": "npm un li - --errors",
+    "ersin""nod buldversonjs && gt dd CHANELO.md"
+ },
+  repostor": {
+    type it
+    url": ps://gitu.cm/vidjs/video.js.gt"
+ }, "depennces": {
+    "abelrutie":"^6.9.,    "glbal": "4.3.2"
+   "sa-s-parse ".00",   "tml:"1.0.1",
+   "vieoj-font": 2.1.0",
+    "deojs-ie8": "1..2,
+   videosvtt.j": ".12",
+   "xhr": "2..0"
+  },
+ "devDendncie": {
+  "aliasif": "^21.0",
+    "abe-cli": "^11.4",
+  "babel-plugin-external-eprs": "6.22.",
+   bbe-plugin-transfrm-untim "^.9.0"
+    "bael-preset-es15": ^6.14.,   "babel-pres-es3: ^1.0.1,
+    "babe-reister":"^6.9.0",    "belfy": "^.0.,
+   "bluebd" "^3.51"    "rowserify-derequie" "^.9.4",
+  briy-istnbul":"^2.0.0",
+    "bundl-colapser": "^1.2.1",   clitable": 0.3.1",    "nventionachanelocl": "^..",
+   "nveonlchangvideojs": ^.0.0"
+   "es5-sim""4.5.10",
+  es6-shim": "^.35.3,
+    "filesie" ^3..1"
+    "h-reease":^3.0  "grunt": "^.0.",
+   "grut-cessiblity": "^0.",
+  "grunt-nner": "^0.6.0"
+   grunt-browseriy": 5.20",
+   grnt-cl":"~1..0",   "gunt-cncurren: ^2.3.1","runt-contibcln" "^1.0.0,
+   "grnontrib-conct": ^1.0.1",   grucontrib-onnt":"1.0.2"    "gunt-cntrb-coy: "^1..",
+ "grun-contrib-cssmi: "~2.20",    "grunt-conti-ugf" "^2.0.0   rt-contrb-wat" "1.0.0",  "gunt-coveralls": "^1.0.0",   "grunt-karma": "200,
+    "gruntsass: "^2.0.0",
+   "grunt-hell" "^2.00",
+   runt-versin": "^1.2.1,
+   "gut-videojs-lnage" "0.04"
+    gruntzip": "017.1"
+    "humanze-duration" "3.12.1",
+    "usky" "^0.1.1",
+   "i-publish": "^2.0.0",
+   istanul": "^0.45",    "jsdoc" "^3.4.2",
+    karm" .0.0",
+  "rm-bwsrify"^51.3",
+   "krm-brwsetc-lacher": "^1..1",
+    "karahroeluncer": "^2.0.",
+  karma-coverage": "^1.1.1   "karma-detect-browsers": "22",   "kamafireoxauncher: ^1.0",
+   "kamai-lncher": "^.0.0",
+   "karma-pea-launchr: "^100",
+    "kr-qunit":"^2.0",
+   "kamasaari-nher":1.0.0"
+   "ama-saachpview-launcr":".0.6",
+   karm-sino": "10",
+    "klaw-snc": "^3.2",
+    "load-grunt-tasks":"3..0",
+   lodash": "4.66",
+    "aron-tle": "^1.0.0,
+    "mnimi": "^1.2.,    npm-un" "4..0",
+    "npm-run-a": "^4..2",
+    "royquireify ^3.0.0,
+   "unjs": "123.1",
+    "rema-cli: "5.0.",
+    remark-lt:"^6.00",
+  "rmrk-prse": "^5..0",
+   "emarktringify": ^..0"   "remrk-to": "^50.0",
+   "rema-vlidae-link": "^7.0.0",
+   "replce": "^0.3.0",
+  rlup" "^0.47.5",
+    "ollup-pugin-bael":"^2.7.,
+   rllupugin-commonj:^8.0."
+   "rolup-plugi-filesize": "^1.",
+   "rlpplugin-ior": "^1.0."
+  "rolup-puin-jsn": "^21.1",
+   rollp-luginnode-reslve "^3.0.",
+    "rollup-plugin-progrss":"^0.2.1,  "rollupuin-ulfy": "^1.0.2",
+   "rlp-watch":"^4.0.0,
+   "semver": "^5.5,
+   shelljs": ^0.8.1",
+  "nn": "^1.161,
+    "tme-grunt": "^11.1"    "t-jdc-templat": "^..0",
+   gify-j ~2.8.8",   nifie": "6.6",
+ "vidjs-fls": "^21.0
+    vidoj-tandd "^.0.1",
+   "webpack": "^1.1.0
+  }  "vjstanard" {
+    ignore" [
+     "**/Grtfie.j",
+    "**/es5/*",
+      "**/bild/*,
+     "!build/rollup.j",
+    **/dit/*",
+    "**/docs*",
+     "**lang/**"    **/sanox**",
+   **/test/api/*",
+     "**/et/erage/**",
+     "*/test/krma.conf.js"
+   ]
+ ,
+  grekeepr": 
+    "ignore":[
+    "qunjs",     "so",
+     "webpck",
+      "glify-j
+   ]  }
+

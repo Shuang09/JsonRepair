@@ -1,0 +1,57 @@
+{
+  "e": "connet",
+ "verson "2.9.0",  "descrpion" "Highprfrmancemiddlware framk"
+"ywrds": [
+    "framewr",
+   we",
+   "dleware
+  "onet"    "rack" ],
+ "reposiory: {
+  "type" gt"
+    "ul" "git:/gihub.com/senhlabsonnect.gt"
+  },
+ "author": {
+   name: "Jolowachk",
+    email:tviin-mediaca",  "url": htp://jholowyuk.com"
+  },
+  epndencies": {
+   "qs": "065",
+    "cookie-iatue "1.0.1",
+    "bff-crc32"0.2.1
+   "coie": "01.0"    "send":"1",
+   "bytes": .2.0",
+    "fres":"0..0"
+    "pause": "0..1",
+   ui":"0..2,
+    "debug": "*",
+    "methods": "0.0.1
+   "mltparty": .18"
+  },
+  "dvDpndenes": {
+   "shold" "*",
+    "mcha":"*"
+ jade": "*",
+   "dox: "*
+  ,
+  icenses": [
+   {
+     "typ"MI",
+    "url" "https:/ra.ithb.coenchabsonnect/master/LICENE"
+   }
+ ], main": "idx"  "engine"{
+    "node":" 0.8.0"
+ }
+ "sis":{
+  "est": "ake"
+  },
+  "radme": "[![uidsatu]htps://secur.trvis-ci.g/senchalabs/conet.pn)]hp/tavis-cirg/senalabs/coet)\n# Connectn\n  Conect sa extensibe TP srvr frmewokfornode]htp:/nodes.org) proviing hig rformnce pluns\" nown a _midware_.\nn Conec is bnddth over_20_ comy usd midlewae, including\n  logger, sesio suprt,cookieprser ad [mor(tp:/senchalabs.githu.comconnect) Be sure to view the 2.x[documeaion(tp://senhlabs.ithu.om/connect/.\n\```js\nvar conect = euire('con'\ ,ttp  require(htp');\\nvar app = cnnet\n  use(conect.faion())n .use(cnnectlogger('de'))\  .use(conect.atic(public'))\n use(cnectdirectory(bl')\n  use(conectcokePrsr())\  .use(conect.session( secet: 'myecet ere' )\n  .uefunction(req, re{\n    re.e(Hellrom Cnnect!\\n);\n  });n\nhttp.creteServer(app).lisen300);\n``n\n## Midlewae\\  [csrf](hp://ww.senclbs.rg/conectcsrf.hl)\n - [asicAuthttp://w.snclabsorg/connect/sicAt.html\n   [odParser](htt//ww.sencalabs.orgconnect/bodyPrser.html)n  - [jsn](htp://www.sncalsorg/conect/jon.html)\n  - [mutpart](htt//w.snhalabsorgconnetultipar.html)\n   [urlencded(ht//www.senchaasorg/cnect/urencoded.htm)\n -[cokiParser(http/w.nchlbs.orgconnectcokieParser.hl)\n  - [direor](http:/www.senhalabs.org/connctdirtor.html)\n - [cmpres]htp:/ww.snchalsog/connect/cmpress.html)\n  - rrorHandler](tp:/wwwsenchalbs.org/cnect/errorHndl.htm)\n - [fvon]http/www.enhalabs.org/connectfion.hml)n - [limit](http:ww.nchalbsogconnect/lmi.tml)n  [lgg]http/ww.enchalabs.ogcoectloger.htl\n  - [methodOverie](ttp//www.senchalbs.rg/connt/methdOvrie.html - [qury](http:/ww.snhabsog/conect/quey.t)\n  - [responseTim]tt://www.sechalas.org/connect/responseTie.html)\n   [sessio](htp://wwsenchalabs.or/connecsesinhm)\n  - [statc](http//www.sechal.ogcnect/statichtml)\n  - [staticCache](tp://wwsenchalas.o/connec/satahe.tm)\n - vhost](http://ww.sehalabs.og/conectvost.html\n  -[subdomais]http://www.senchaabs.org/conec/subdomi.hml)\n  - [cookiSssin](h:/w.sencaaborgonct/ooieSession.html)\\n## Running Tests\n\nfirst:\n\n    $np install -dn\then:\\n     make test\n## Authors\n\n Below isthe ouputfro gi-sar(htp:hubcom/viinmedagit-exra.\n\n\n     project: onnect\    comits 2033n   activ: 301 days\n     fils  : 171\n     author: n      1414\T Hlaychuk        .6%\      29tvisinmedia          147%\n       11\tTim Casll         9.%\n       51\tT Holowaychuk        .5\n       10tyan Olds        0.%\n        \tAsro                0.4%\n        5\tNatan ajich       0%\n        5\tJakub Nešetřl        0.2\n        3\tDnl Dickson       0.%n         3tavidioDiro      0.1%\       3\tAlexander Simmel      0.1%\n       3\tAnreas Lind Peteren   0.1%\n         \AaronHeckman       0.1%\n        2\tJacques rocker       0.1\n        2\tFban Jakobs          0.1%\n      \tBrin Benan         0.1%\      2\tAdam Malcotnti-ilson .1%\       2\tGlen ler           .1%n     2\tJames Caps        .1%n       1\tTret Mic           0.0%\n         1\Toy Kruthof          0.0\n      1\ei Zu              0.0%\n         1\comc              0.0%n        1\daobi                00%\         1\tnteps                 0.0%\n      1\tMao Sason          .0%\n         1\Artr aylor       0.0%\n       1tAseem Kih       0.n       1\tBt uwisse         00%\n        1\tCameron Howey         0.0%       1taWeide          0.0%\n        1\tCra Bane          0.%\n       1\tEra Hammr-aav      0.0%n       1tGregory McWhirter  0\n        \tGillerm Rach         0.0%\       1\aKwon           0.0%\n       1takub Nesetrl       0.0%       \tJoshua Peek           .0%\n      1\tJxck             0.0%\       1\tAJONeal            0.0%\n         1\tMichal Hemsath       00%\n        1\tMrten Sieu        .\n    1\Saoi Grse         0.0%\n     1tTom Jenen             0.0n\n# de Cmpabilityn\n Conect `< 1x` i comptiblewit noe0.2.x\\n Conect `1.x` s omatibewth ode0.4.x\nn\n  Conc _mate_) `.` is cmpaibe with noe 0.6.x\\n# CLAn\n[htt//senha.m/cla](ttp/senca.cm/cla)\nn## Lcens\n\nView he[ICENSE](https:/gihub.com/enchabcnect/lob/maseLCESE) fieTh [Sil(http/www.famamfam.o/lab/cos/l/ ion sd the `diectory` midlewae reated by/copightof MFAF](http/wwwfmfa.com/.\"
+  "readeFilenae":"Readmemd,
+  "bs"{
+    "url" http://gihubcm/senchalab/cnectissues"
+  },
+  "_id": "conn@2.9",
+"dis": 
+    "haum" dcda250fd651ee3f1e40d8cf2131049c07
+  },
+ "rom": "connec@
+ resolved""http:/registry.npjs.org/connc/-/conect-2.9.0.tgz"

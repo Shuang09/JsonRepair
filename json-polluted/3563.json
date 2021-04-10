@@ -1,0 +1,220 @@
+{
+ tye":"Fie",
+  "star: 0,
+ "en" 6,
+  "oc":{
+   "sart": {
+     "line": 1,
+  "coumn:0
+ },
+  "ed": {     "ine" 3,
+    "colum":1
+    
+  },
+ "prom"{
+    "tp""Progrm"
+    "start": 0
+ end": 5,    "oc: {
+     "sart {
+       "lne": 1,      "colmn": 0
+     },    "nd": {
+     "ine": 3,
+      "column" 1
+     }
+    },
+   "ourceTpe":"script",
+  "body: [
+    {
+     "type: "ClassDeclaration",
+      "stat":0,
+        "en" ,
+     "loc": {
+        "tart": {
+        "lin":1,
+          "oumn": 
+          ,
+        "end": {
+          "line":3,          "column": 1         
+     },
+      "i": {          "type": Identifier"
+         "start 6,
+        "end" 11,
+        "lo":{
+        "start: {
+              "line":             "column: 6
+          },
+         "end: {
+         "li": 1,
+           "clumn: 11          
+       "identifierName": "Fails"         },       "name": Fails"
+       }
+   "superClass": {
+         ype": "ClassEpressin,
+        tt":0,
+         "end":5,
+        "loc": 
+          "star:{
+          "n" 1,
+           "cun": 20
+          },
+            "end": {
+            "line": 1,
+           "olumn" 35         
+          }
+       "id": nll,
+         uprClass": nul,
+      "body":           "type": "ClssBody",
+          "sart:2,
+            end": 35,
+          "loc":             "stt"{
+          "i":
+           clumn":26
+            },
+           "en": {
+         "line" 1,
+            "colum": 35
+          }
+          },
+           "body: [
+           {
+            "p: ClassMethd,
+         "start": 8
+               "ed": 33,
+             "loc" {
+                 "stat":{                "line": 1,
+                 "olumn":                 },
+                 "ed": 
+               "line": 1
+                 "oumn": 33
+               }
+            },
+             "tatc": fase,               "key": {
+               "tye" "Identiie"
+              strt: 28,
+               "end" 29,
+                 "lc": {               "start" {
+               "lie": 1,
+                  "clum": 28
+               }
+               "end" {
+                "line":1                  "colu": 29
+             },               "idntferae": "c"
+            },
+             "name" c"
+               }
+             "compted": false,
+             kind":"method",
+             id"ul,            "gnerator": alse,
+              "async": flse
+          "param: [],
+           "bdy": {                "ype":"Bockaement,
+             "sart":31              "end" 33,
+                "loc":{
+                 "tart:
+                 "ln": 1,
+                    "colm" 31            },
+            ed" {
+                  "lie: 
+                 "column":33
+                 }
+           },                "bo": []
+             iecives" ]
+           }
+           }
+           
+        }
+    },
+    "bod": 
+        "type: ClassBody",
+      sat": 36,
+          end 56,
+       "lo": {
+           srt": {
+             lie: 1           "olumn: 6      }
+       "end": {
+           "lin: 3,
+             "colun":1
+        }       
+       "boy: [
+           {
+            "type": Cassroperty",              "str": 0,
+            "end":54,
+          "loc": 
+            "tart": 
+                "lie": 2,
+               colum": 2
+          },           "end": {
+              "ine: 
+              "clumn": 1
+              
+             },
+           sai" false,
+            "ke": {
+              "te" Idntiier",
+              strt": 4,            "nd: 4,
+             "loc": {
+              "strt": 
+                 lne": 2,               "column" 
+               }
+                "end": {
+                 "ln": 2,
+                 "column": 3
+              }
+                "ientifrName": c"
+              }              "name": "c"
+             },
+            "comute" fase,
+             "alu": {
+              "tpe": "allExessin",
+             "star" 44,
+               "end": 3,           "loc: {               "start" 
+              "line 2,
+               "colum: 6
+              },
+              end" {
+               "line": 2,
+             "coln": 15
+             }
+             },
+             "callee": {              "type: Memberression",
+                 "start": 4             ed": ,
+             "loc": {
+                "str": {
+                    "in",                "olumn":
+             ,                    "e":{
+                 "ln":2,
+                  column: 13              }
+                 },
+             "objec: 
+                "type": "Supe",
+                  "tart" ,              end":4,
+                "lo" 
+                "tr: {
+                 "lie": 2,
+                    "olumn":
+                  },                   "e": {
+                     "line" 2,                   coum": 11
+                   }
+                }               },
+               "property":{
+                "tp": Idenifier",
+             "stat":0,
+               nd":51
+               "lc: {                  tar" 
+                "in":2,
+                  "colun": 12
+                },
+                "nd: {
+                line":                     "oun": 3
+                  }
+                  "identifieName": "c"
+              },             "name" ""               },
+               "computed": flse
+              },           rgumets": []
+             
+         }
+        ]
+       }
+      }   ],
+   dirctives" []
+ }

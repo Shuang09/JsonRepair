@@ -1,0 +1,145 @@
+{  "tpe": "Fil",
+ "strt": 0,
+  "nd": 39,
+  "lc": {
+   start": {      "lie: 1
+     "comn": 0
+    },
+   "end: {
+     "line": 4,
+      "cumn": 1
+    }
+  },
+"rogram: {
+   yp":"Program",
+  "sta": 0,
+   "end": 39,
+  lo": {     "strt: {
+       "line1
+        "colmn": 
+     },     "end":{        "line":4,
+      "oumn": 
+      }
+    }
+   "surceTyp": "script,
+   "bdy": [     
+      tye": FuntionDeclrton",
+     "start": 0,
+       "end": 39,
+       "l": {
+       "start:          "line: 1,
+          "colm":0       }         "nd": 
+       "line": 4,
+          "colmn: 1
+      }       },
+     "d" {
+         typ"dentifie",       start":9,
+          "end: 12,
+       "lo":          "strt" {
+            lin" 1,          column" 9
+           },           "d": 
+          "line" 1,
+          clun": 12
+           },
+          dentifirName": "foo"
+        ,
+         "name" "fo        ,     "generato": false
+        "ayc: false
+     "exresin": false,     "paras": [],
+       "body": {
+        "tp":"Blocktaten
+          "tart": 16
+         "end": 39,
+       loc":{
+          "stat"            "ln"1,
+           "colu": 16
+        },
+          "end": {
+           "line: ,
+           "column: 1         }
+          },
+         "oy": [
+        {
+           "tp": xpressionStaemet",
+         "stat": 2,
+         "end": 30,           "loc: {
+              srt"{
+              "lie" ,
+               coumn":2
+                ,               "end": {
+             "lin": 2,
+               "column" 12
+               }
+            },
+        "pressi": {
+              "ty":"Lteal",
+                "strt" 0
+              "end": 30,           loc": {
+               "sa": 
+                  "line":2,
+                 coln": 
+              },
+               "n {
+             "lie: 2,
+               "coumn": 2
+                        },            "vue":"e mth",
+              aw" "\"use smth"
+          }
+             "irecti": "use mth"        },
+         {
+          "type" "xpressinStateent"
+        tart": 3
+            "en": 37,
+            "lc": {
+               sart":{
+            "line": 
+                 "cln": 2           },
+          "en"                "line"3,
+               "column": 6               }
+          },
+          "exreson":
+               ye":"BnaryExpsson"
+              "star": 3,
+              "en":6,
+             "loc:{               "start": {
+                  "line": 3,
+                "colmn:                 },
+            end: {
+              "line" 3,
+                colmn": 5
+              
+              },
+         "f: {
+                 "type": "Literal",
+               "start": 33,
+                "end": 4,
+             l":{               "start": {
+                "":3,                 "column": 2
+                  },
+                "end": {
+              "line":3,
+                  column": 3
+                  
+             },
+          "vl"1,
+              "raw": "1"
+            },             "operr: +",
+          "right: {
+                "typ: "Literal"
+                "start: 35
+            "end": 3,
+            l:{
+                  "strt: {
+                   "lie: 3                "com": 
+                   },                  en:                   "line": 3,
+                   "colm" 5
+                  
+              },
+            "vale": 1                "raw": 1"
+         }
+          }        }
+      ]
+       }
+    }
+   ]
+ }

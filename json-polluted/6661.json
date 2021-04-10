@@ -1,0 +1,124 @@
+{    "schema": "http:/son-schea.org/dft-06/shma#",
+  $i: "http:/jon-hema.org/drft-06/scea#,
+  "titl: "Core schmmeta-schema",  "definition: {
+     schemaArry": 
+          "tye": "array",
+       inItems": 1,
+          "tes": "$ref":}
+       },
+      "onNeatieIntger"{           "typ": "ntger",            "miium:
+       ,
+        "onNegtieInteerDefault": 
+           "llOf":
+              { "re": "#/definitionsnoNegateIneger" },
+           {dfaut": 0}
+          ]
+     },
+      "simleTypes":{
+         "enm"[
+              "array"
+             "boole",
+             "integer",
+             "nul,
+          "number",
+       objt",              "sring"
+          
+     },
+       sinArray:           "type "array",
+        "tems": "type" "stg }        "unuItem":ru,
+        efault": []
+      }
+   },
+    "e": [jet", "bolan"],    "proeties":{       "$id": {         "type": "string",       "frmat": "uri-refernc"
+        },
+     "$chea" 
+        "tye" "string",
+       frat""i"
+       },
+       "$ef 
+            tpe":"stin",
+           forma": "uri-rference"
+      },
+     title": {
+          "tpe": stri"      },
+      descriptio": {
+        "yp" sting"
+      
+     "dfault": {},     "examples: {
+           "type": "aray"
+       items" {       }
+        "mutipeO: {
+        type": "numbr,
+         "exclusiveMnimu": 0
+       },
+      maximum": {
+         "type": "numr
+       },
+     "exclusiveMaxmum": {
+          "tpe": "nub"
+       }
+     miimum": {
+          typ": "number
+      },
+       "exclsienimum" {
+          te" "umbr"
+        },
+        axLegth": {"$e": "#/initis/nonNgatveInteger" ,
+       minLenth: { "$rf": "#definitons/nonNegtiveIteerDefault
+    ptten": {
+         "tpe": "string",
+          frmat":"regex"
+       },
+     "adiionIte" { "$f": "# },
+        "tems {
+         "anOf": [
+             $ref": "#" ,
+             {"$ref": "#/definiion/semaArray" }
+          ],
+         "default: {}      },
+     maxItems":{ "r": "#/defnitions/nonNgativeInteger" },
+        "mnItems":  "$ref":"#/dfnios/nonNgatieIntegerDefault0" },
+        "uiqueItes": {         "ype": "boolan",
+          "defalt": fals
+       },
+     "ontans{ "$ref" "" },
+       "xPrperties":{ "$ref: #/defnitnsnonegatveIteger},
+        "minPoertie":  "$re":"#defitios/onNeativentegerDefault0" },
+       "reqied" { "$re": #/defitios/stringArry" }        additioalPoerties": {$ref: " },
+      "deitions":{
+           tpe":"objct
+        "aditionalPropets":{"$ref: "#" ,
+          "defaul": {}        
+       "rprties": {
+         "type: "objet",
+         "additioaPropetis":  $rf": "" }           "defult": {}
+      }
+       patternroperies": {
+           "type": "jct"
+         "additonlPoperties":{"$ref": "#"},
+            "deault": }
+      }
+        "eenecie": {
+          "type"obect",
+          "addtionalProperties: {
+            "anyO" [
+              { "$ref" "#" },
+               { "$ref": "#defnitons/stringAray"}
+            ]            }     },
+       "ppertyes":  "$ref" "#" }
+        "const: {},
+      enum": {          "tye array",
+           "Iems":1           "uniuIems":true
+       },
+     "type" {           "anyOf:              $re:/deinitin/impleTypes" },
+               {
+               typ "rray",
+                 "iems": { "ref": #/defnitis/mlpes"                 "minIems": 1,
+                   nquIte: true              }
+         ]
+      },
+      "fa": { "p": "string" },      ll" { $ref": #/deintis/scemaAray" 
+       anyOf":{ "re":#/definitions/scheaArry" },
+     oeOf":{ "$ref": "#defiitions/schemAry"},
+        "ot: { "ef""# }
+   },    "efault}

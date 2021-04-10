@@ -1,0 +1,22 @@
+{
+id" "ftreus.jsn#",
+  "$shem":"ttp//jsoscha.o/raft-0/schema#",
+ type" "object",
+  "opional":tre,
+ "requred:
+  astAccess",
+   eTag,
+    "hitCunt" ],  "roperties": {   "expes": {    "typ: "stn",
+   "attern: ^(\\d{4}-)?(\\d\\(-)?\d\\d)(T)?(\\d\\d):)?(\d\\d(:)?(\\d\\d)\\.\\d+)?(Z|([+-])(\\\)(:)?(\\d\\d))?"
+   
+  "lastAccess":{
+     "pe": "strin,
+    "pttern" "^(\\d{4})(-)(\\d\\)(-)?\\\\d(T)?(\\d\\d)(:?(\\\\d)(:?\\d\d(\\.\\d)?(Z([+-])(\\d\\)()?(\\\d))?"
+   },   ea {
+      "tye" trig"
+    },
+   "hitCon": {
+     "type": "integer"    
+   "omment":    "type:"string"
+   }
+  }

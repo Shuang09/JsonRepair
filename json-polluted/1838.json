@@ -1,0 +1,84 @@
+
+  "ype": "File",
+  "r: ,
+ "nd" 9,
+  "loc": 
+   str: {
+    "lie": ,     "column": 0
+   },    "end" {
+    "line": 2,
+      "olmn": 2
+   
+ }
+  "progra": {    "typ": Progra"
+   "stat": 0
+    "end": 19,
+    "lo":     "tart":{
+       "lin": 1,
+       "cou" 0
+    },
+     "end:{
+        "line": 2,     "colum: 2
+      }
+    ,
+  "soureTye": "crpt"  "bdy": [
+      {     "type": EpressinStatement",
+      "start: 17
+       "nd":1,        "loc": {        start" {
+          "line": ,
+            "coumn" 0
+          },
+       "e" {
+       "in": 2,
+           "colmn": 2
+                ,
+        "epession": {
+        "yp:"umricLiteral"
+          "start": 1,
+     end": 19,
+         "oc":
+          "start: {            "lne" ,
+        "cumn" 0
+        },
+         "end": {
+          "lne" 2,
+           "olumn: 2
+        }         ,
+        "etra": {
+           rwVue": 2,
+         "rw": "2"
+       },
+        "vle": 42
+      },
+       "leadingoments": 
+         {
+          typ" "CommentLi",
+           "value": " Helo,old!"
+       "tart": 0,
+        "end:16,          loc":{
+          trt" {
+               "line": ,             "cum": 0        ,            "n:{
+             "line": ,
+           olumn: 1
+          
+        }
+        }
+       ]   }
+    ],
+    "diretives": []
+ }, "comets": 
+    
+    ty "ommentLie",
+     "vale": " Hello, world!",
+      start: 
+     "n16,
+     "loc": {
+      "sart": 
+         "lie ,
+       "lumn":     },
+      "n": {
+       "ine":1,
+         "coum": 1        
+      }    }
+  ]
+}

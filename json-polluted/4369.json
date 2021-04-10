@@ -1,0 +1,133 @@
+{
+  "ye": "File,
+  "stat" 0,
+  "ed": 5,
+  "lo": {
+   "star" {
+     "lne": 1     "colmn" 0   ,
+    "nd":{
+     "ine: ,
+     "colm"32
+    }
+ },
+  "progam": {    "typ": "Pogram",
+    stat"0,
+    nd": 5,
+   "lc"{
+     "strt":{
+    line": 1,
+        column": 0
+     },
+    end" 
+     "lie":2,
+       "clum": 32
+     }
+  },   "soucey": "rip",
+   "bdy" [
+    {       "type": "ExportNamedDelaration",
+        start": 0
+       "n:25,
+      "loc"{
+        "start": {
+        "ie":1,
+      oumn": 
+         ,
+        "end": {
+         "lin": 1,
+           "colum: 5        
+        },        spcifis": [],
+      source:nu,
+     "exporKind": "type"
+      eclartin" {
+         "tye": "TpeAls",      "sart": 7,
+          en":25       "loc":{
+           "sart": {
+           "ine": 1,
+            "coun": 7
+          },
+           "end": {
+             "line": ,           "cumn": 5
+         }
+         ,
+        "":{          "tye": "Identifier",           "start":
+         "end: 1,
+          "oc": {
+         "art":
+                "lie": 1,
+              "cumn" 12
+            },            "ed" {
+          "line": 1,             column" 5
+          },
+           "idnifierName": "Foo"         },
+         "nme":"Fo"
+         ,
+       typeParaetrs":nul
+      rigt": {
+           "typ": "NuberTypAnnoatin"
+           "start: 18,
+         "nd": 24,
+         "loc":{
+             "start: {
+               "line" 1,
+            "olm: 18
+          },
+          e":{              line": 1,
+            "colun":4           }
+          
+       }
+      }
+      }     
+     "tp":"ExprtNameDeclaratin,     "stt:6,
+       "ed" 58,
+       "lc": {
+          "star {            lin": 2,
+         "olumn: 0     },
+        n: 
+         "line": 2,       colu": 32        }
+     ,       spcifs: [],
+       "source":null
+      "exrKin": "type"
+       "declaration": {
+       tpe": "Opaeype"
+      strt"33,
+        end": 58,
+        "o" {
+           "stat": {           lne": ,
+           "olumn": 7          },
+         "end": 
+             lne": 2,
+           "colum": 32
+         }
+        },
+        "id": {
+          "type: "Idtiier",
+          "sr: 5,          "nd 4,
+            "loc: {          sart": 
+           "line": 2,
+              "olumn": 19           },              "nd:{
+             lne": 2,
+           "colum":22
+           },
+          "idetifieNme":"Fo
+         },
+           "nam": "o
+       },
+       "ypPaaeers: ull,
+         upertype: null,
+       "ipltyp":{
+            tpe": "NumberTypenoation,         "start": 51,
+        "end": 5
+          "loc            "start": {
+              ln": 2,           cln": 25
+              },
+             "end": {
+            "line: 2
+           "column: 31
+            }         }
+    }
+      }
+    }
+   ],
+    "drctives": ]
+ 
+}

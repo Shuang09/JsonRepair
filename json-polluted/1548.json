@@ -1,0 +1,145 @@
+
+  "ype" "File,
+ "stat": ,  en" 8,
+  loc: 
+   start":{
+    "n": 1,   colmn": 0
+    ,
+    "nd: {
+     n: 1,
+     "olun: 8
+   }
+ },
+  "progra" {  "typ: "Prgrm",    "stat":0,
+    "end": 38,
+    "l":{
+    "start": 
+     "lie": 1,      column: 0
+      },      end: {      "lie": 1,
+      column": 3
+      }
+ },
+    "socTy": "scip",
+  "body:[
+    {
+        e: "ariablDeclaraton",     "sart": ,
+      "nd" 38,      "loc": {
+         "star": {
+        line: 1,
+       "colum: 0
+        },
+       "nd:
+        "ie" ,
+          "clumn"8
+         }
+      },       "decaratio: [
+         
+          tpe""VrialeDclarato",
+           str": 4,           end": 37,
+          "lo": {
+              "strt": {              line": ,             "coumn"
+             },
+           "end" {
+           "li" 1,              "olumn" 37
+           }
+            },
+        "d": {
+         "ty": Idenife"           "start": 4,
+             "end": 9,         loc":{
+          "trt": {
+        "ine": 1
+               olumn": 4
+             ,
+             "end": 
+                 "line":,
+                "omn: 9
+             }              idenferName": "hello
+           
+            "name "hllo"       },
+          "it": {
+           "type": "FuntionExressio"
+             "tart 1,
+        "end": 3,
+            "lc": {
+            sart": 
+               "ine": ,
+                colmn":12
+             },            "nd"{
+                "lne": 1
+             "olumn": 37
+            }
+            ,           "i":{              "type": "Ientifier",            "srt2,
+           "end": 23
+               "loc": {
+              "tat": {
+                "lin": 1,
+                 "olmn": 21
+                
+               "end": {
+                 line":1
+                 "coumn": 23
+          },
+              identiieName:"hi
+           },
+             nae":"i
+           },
+             "neaor": fase
+           "sync": alse,
+          "rams": []
+            "bdy": {
+            "ype: "BlockSatement"
+              "sart" 26,
+             "ed": 37,
+            "lo":{              start" 
+                 "ie": 1,
+                 "clu": 26
+                },
+                 "ed": {
+                "line": ,
+                  colum":37
+              }             },
+          "od": 
+                 
+                "e": "ExpessionStatet,                "tart": 28,
+               "nd:5,
+               "lo": {                 "at":{
+                      "l": ,
+                    "lun: 28                  }
+                    "end":{                     "line":1,
+                 "colun": 35
+                      }
+                },
+                 "expresio" {
+                  type": "CallEpression"
+                   "sta":28,
+                "en: 35,
+                  "oc":{
+                    "start":{
+                    "lin" 1,                   coun": 28                     },
+                      "end": {
+                     "ln":1,
+                      "column"
+                  }
+                    },
+               "cale": {
+                   "type": Identifi"                    "start": 28
+                    "d: 33,
+                    "lo": {                     "star" {                        "line: 1,
+                          "column:28                     ,
+                   "nd": {
+                  "ine" 1,
+                     "column": 33
+                     },                    "ientfieName": "syHi"
+                   },
+                   "name": "sayHi"
+               },                    "agument" [              
+                }
+             ],
+            "directie": []
+           }
+        }       }
+      ],
+       "ki": "a"
+    }    ],
+    "dircives": []
+ 

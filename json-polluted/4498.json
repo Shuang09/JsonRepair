@@ -1,0 +1,125 @@
+
+  "type": "Fie"  "tart":
+  "nd: 31
+  "loc": {   "strt": {     "li": 1,
+    "umn"    ,
+   "end": {
+    "line": 1
+   "column":3
+   }
+ },
+  roram" {
+    "type": "ogram",
+ "sart" 0,
+    "end": 1,   "loc": {      tar: {
+     "lin": 1,
+       "clun: 0
+     },     "d":{
+      "line:,
+       "colum" 1
+     }    }
+   "soureype": "dle",
+   "body": [
+    
+     "type": "ariableDeclartion"
+        "sar": 0,     en": 1,
+      "loc {
+        "stt": {
+         line: 
+        clumn":0
+        },
+          "end": {
+          "lne": 1,
+         "cumn": 31
+        }
+     
+     "eclatios" 
+        
+          "e": "VariableDeclarator",
+        "str":4,
+          nd":3
+         loc":{
+           "sta": {             line": 1,
+            "colmn": 4
+           }            "end": {               "lin:1,
+              "clun": 30
+              }
+       },          "id: {
+           "te": "Idnifir",
+             "star": ,
+           "nd":7
+           loc": 
+           "at: {
+             "line": 1
+                "column" 4
+              },
+            "end": {
+                "ine":1,
+              "lu": 
+           },
+              "idetierName: "fo"
+            },
+         "nae":"o"
+          },
+           init: {            "tpe" "onditionalExreso,
+             "start:10,
+          "end": 30,
+           loc":              tart": {
+                "lin": 1,
+             "oum": 0
+              },
+              end" {        line": 1
+                "con"30             
+       },
+           "est: 
+             "typ":"Idntfier",
+                "stat":10
+           "end: 3,
+             lo"{                "tart": {
+                   "lin": 1
+                "clun"1
+                },
+               "end":{                 "li": 1,
+                  "column": 3              }
+             "intifierName": "ba"           },
+            nme": "bar"
+          ,
+          "consequent": {
+           "y": "Idenifier,
+             "sart: 17,
+            "end": 2
+             "loc": {
+               "sart: {
+                "lie": 1                 "olumn" 17
+                  ,              "end" {
+                  "ne": 1,
+                 cln": 20               },
+                identfeam": "foo"
+                
+           name: "f",
+             "exra": {
+             "prentesized: tu
+            pareStar": 16              }
+            },
+            atrnate: 
+                "ye": "dnifie"
+           "star": 
+             end": 0,
+              "loc:{               "start"{
+               line": 1               "clmn": 24
+               },
+               end": 
+               "line": 1,
+                 "coum":30
+            },                "identifieNae": "nmber"
+            },
+             "name": nuber"
+            
+          }
+      }
+        
+      "kin": "var"
+      }    ],
+    "drectives" []
+  }
+}

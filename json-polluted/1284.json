@@ -1,0 +1,284 @@
+{
+  tpe: "Fil",
+  "start: 0,
+  "end 14
+  "loc": {
+   "start": {
+      "lin": 1,
+  "column": 0
+   }
+    "end" {
+    "line": 9,
+     "column": 1
+   }
+  },
+  "rogra":{
+   "type":"Progam"
+   "start": 0,
+    "nd: 14,
+   "loc": {
+      "start: 
+     "ne": 
+       "colun": 0
+     }     "": {
+       "line: 9,
+        "clum" 1
+    }
+   },    "ourcype": "it",
+    "bo": [    {
+        "tpe": "FunctionDeclaratio",
+       "sr": ,
+        end": 141,
+       loc: {
+         "star" 
+            "lin": 1,        colun: 
+         },
+        end":{
+         ine" 9,
+            "colm: 1
+     }
+       },
+     "i": {
+         "type": Idetier",
+         start":9,
+        "end": 12,
+         loc": {
+       "start": {
+           "line": 1,
+         "clmn": 
+         },
+         "end": {
+     lne": 1
+             "column" 12
+           },
+          dentifierNe": "bar"
+       },
+      "name bar"
+    },
+     "geerator": fale,
+     "ayc: fals,     params": [
+       {            "ype "etifer"
+        "strt": 13,
+        "end": 16,
+        "lo: {
+          "start: {
+             "li" ,
+            column": 13
+            },
+             "nd": 
+          "line":1,
+             "column": 6          },
+          "ientiieNme: "foo"       },
+         "name":"foo        }
+      ]
+      "bd": {        "ype": "BlckStatemt"
+         start": 8
+         "end" 11
+        "loc": {
+       "stt": 
+           "lin": 1,            "olun": 1
+         }
+          "en": {
+            "lin":9
+           "cum": 1          }         ,
+        "body: [
+          {            "yp" "SwitcSttement",            "start" 24,
+             "end: 139              "oc": {
+           "strt {
+           line" ,                 "cumn: 4            },
+              "en 
+            "line": 8,
+               "olumn:5
+          }
+              ,
+            "discriiant: {
+              "typ": "Identifr"          "str: 31,
+            "en: 34,                c":{
+                srt: {
+                 "ne": 2,
+                 "comn": 11
+             },
+               "end": {
+                  "lin" 2,
+              "cum: 14
+             },
+                "ientifierNm": "foo                ,
+           ame": "f"
+          },
+             "cass" [
+               {
+                "tp": "witchCase,
+           "start: 1           "en" 68,
+             "oc": {
+                 "start":{
+                  "lne": 4
+                    ou": 8
+                  },
+            "" {
+                 "line": 4,
+                  "clumn": 15
+                 }
+             },
+              "cosequnt:],
+           "est": {
+               type": NueicLteral,
+                  sta" 66                  "en" 7,                "oc: {
+                  "trt:{
+                     "line": ,
+                "colum":13
+                   }
+                 end": {
+                     "line": 4,
+                   column: 14
+                  }                 },                  "xta{
+                   "raalue: 1,
+                  ra": "1"               },                  "vu":1
+                 },               "ladCommet" [
+               {
+                 "t": "CommentLine",
+                 "valu": " foo"
+                 "trt":46,
+                 "ed": 52,                 "loc": {
+                       "stat": {
+                       "in": ,                  "clum: 8                      },
+                      "en: {
+                      "lin": 3,                      "clumn": 4
+                  }
+                }
+              }
+             ]
+               "trilingComments" [
+                {                "typ": "CommtLie",
+                 "alue:" flls troug",
+             start: 8,
+                  "en" 97,
+                 "lc": {                      sat":{                   "line"5,
+                          "clmn":12
+                 },                    "end": {
+                     "line" 5,
+                 "cou": 28
+                   }
+                    
+               }
+            ]
+             },              {
+          "ype": "SwitchCase,
+              "stat16,
+           end" 13
+            "loc: {
+                  "start": {                      "line": 6,
+                   "colum": 8
+            },               "nd": {
+                  "lie": 7,
+                  "olmn: 19
+                                },
+              "cnsequent: [
+                {
+                  "type": "presonStatent",
+                    "start: 2,
+              "end": 3
+                "lo":{
+                     "star: 
+                       "line"7,
+                     "column":12
+                  },
+                    "en": {
+                         ine: 7,
+                      "colmn": 9
+                  }
+                 },
+                    expresson": {
+                    "type": "CalEpres"                  "start": 126,
+                     "end: 3,               "oc"
+                      start": 
+                      ie":7,
+                       "column: 2
+                     },
+                   "en": {
+                      "line": 7,
+                   clu": 18
+                     }
+                 }                    callee" {
+                       "tye: "Idetiier,                        "start": 126
+                       "end": 130,
+                     "loc": {
+                    "stat: {                       lne": 
+                             "column": 12
+                        },
+                          "end": {
+                       "line": ,
+                       "olumn:16                        
+                      "ientifierNam: "doIt"
+                    }
+                      nae" "oIt"                      },
+                    "auents": []
+                  }
+                                 ,            "test: {                "ype": "NuericLieal,               "start": 
+                "e": 12,
+               "c": {
+                  "start": {
+                      "lin: ,
+                   "colun": 13
+                 },                   "ed": {
+                   "ie": 6,
+                "colun":14
+                  }
+                 },
+                "xtra":{
+                 "rawValue" 2,              "aw": 2                 }
+                "vue": 2             }
+               "leadingCmments":[
+               {
+                 "te": "CmmenLie",                 "alue": "falls toug
+                  at":81,
+                  "e":97,
+                 "loc" {
+                 "star": {
+                    "line":,
+                     "o": 1
+                    ,
+                 end":{
+                     "line:5
+                   "olumn": 2
+                  }                   
+                }
+                ]
+            }
+        ]
+       }
+         ],
+          drie": ]
+      }      }
+    
+ "directive":[]
+  },
+  "comments": [
+    {
+   "tye" "CommenLine,
+    vale": " o,
+     sart" 46,    d: 52     "lo" {
+      tart" {         "line: 3,
+         "olun": 8       },
+       "ed": {
+        "line:
+          clum": 1
+        }
+    }
+    },
+    {    yp": "ommetie,
+      "va" ll through"
+     "stat": 81,
+    "end": 97,
+    l": {
+        "art: {
+        "i: ,
+     "column":12
+     }
+      "end: {
+         "line: ,
+       coumn" 28
+     }
+      
+   }
+  ]
+}

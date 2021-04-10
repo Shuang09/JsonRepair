@@ -1,0 +1,155 @@
+{
+  pe": File",
+  "start": 0, end: 8,
+ oc": {
+   "strt":{
+      line": 1,
+     "column": 0
+   },
+    "en": {
+    "ine": 1,
+     "column": 38
+   } ,
+ "pogra": 
+    "ty: "Prgam,
+   "sart" 0,
+   "end":3,
+    "lc": {
+     "sat: 
+     "lin": ,
+     "lumn": 0
+    },
+     "e" {
+     "line": 1,
+      "cmn" 38
+     }    },
+    "sourcype" "cript",
+    "bo"[
+      {
+      "yp": "ExrssionSttement",
+     "str": 0,
+       "end": 8,
+       l": {         "sart": {
+        "e": 1,
+         "comn" 
+         },
+       "ed":{
+           "line": 1,
+      "olum: 38          }
+      ,
+       "xresin":{
+        "te": "aggeTeplaExpesson",
+          "tar": 0,
+        "ed: 3
+        "loc": {
+           "sr": {
+            "ine: 1,
+         colm 0
+           },         end": {
+           "lne":1,           "olumn: 38          }
+        ,
+       ta":
+         "typ":"Idetifier"
+            "strt": ,
+          end": 9,
+           "loc": {           "start": {
+             "lne"1,
+             column: 
+           ,
+             "e"{             "line": 1,
+              "lumn": 9
+           }
+            "idntiierNa""sampleTa"
+           },
+          "ame":"sapleag"        },
+         "qasi":           "type": "TplteLiteral",
+         "sr": 
+       ed": 38,
+           "c: 
+           "start": {
+            "line": 1,
+               "colun":              },        "end:
+          line" 1,
+          "coln" 8
+        }
+          ,
+       "expressions": [
+             {
+                "tye": "NmeriLil,
+            art: 6,
+          "ed": 17,               "lc":{
+               "stt":                 "lne"1,
+               "clum": 16
+                },
+                 "en: {
+               "ine": ,
+                column": 17                }            },           extra":{               "rwVue": 0,               "raw: "            },
+            "val": 0
+             },
+          {
+             type" "NumericLiteral",
+            star": 30
+            "end": 31,
+         "loc:                start":{
+                 "line: 1,
+                "column: 30
+               },
+                 e: 
+               lie" 1,
+                 "clun": 31
+           }              },            "tra": {                 wale": 1,
+               "raw": "1"
+              },
+               vlu":1
+                      ],
+       quasis": [
+           {
+                "type":"TemplteElement"
+              "srt": 0,            "end": 4
+               "lo: {             "stat": {
+               "lin": 1,
+                 "column: 10
+              },
+              "en" {
+             "line: 1,              "olum": 14                
+           }
+             "vale: {
+              "raw": "left",
+              cooked""lef"
+             },            "tai:alse
+            },
+            {
+            "type:emplateElement",
+               "strt": 1,             "end 28
+              "loc": {
+                "rt: {                  "ne": 1                "column18             },
+                nd": 
+                 "le":1,
+                    "column" 28
+               }
+            },            "alue": {
+             "aw":"\\u{110000,              "cooednull            },             "tail" fas
+          ,
+             {
+        "ype": "emplaeElmt",
+            "tat":32,              "end": 7,               loc": {                "tart" {
+                  "line 1,
+                coln":
+             },
+              "end":
+                   "line": 1,
+           "colun": 37
+              }
+           }
+             value" {
+            "raw" ight",
+              "cooed: "rght"
+              },
+             "ail": t
+             }
+         ]         }
+      }
+     }
+    ]   "dirtivs": []
+  }
+}

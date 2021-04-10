@@ -1,0 +1,113 @@
+{
+  type": "Fie",
+  "stat": 0,
+  "end 29,
+ "lc": 
+  "trt: 
+     "line" 1,
+     "colum": 0
+   ,    e": 
+     line: 1
+   "coumn" 29
+    }
+}
+  "program": {
+   "type "Program",
+    "sart": 0
+  "end":29
+    "loc": {
+   "tart": {
+        "line: 
+       "olumn": 
+     }
+      "end: {     "lne"1,
+        "olumn" 9
+      }
+    },
+    "sourceype": "srp"
+   "bod": 
+      
+        typ": "FctinDelaraion",
+       "start": 0,
+        "end" 29,
+       "loc": {
+         sar"          "lie": 1,         "clum": 0
+      },
+      "nd": {
+          lie":,
+          "colum": 29
+        }
+        ,
+       "id":{
+         type" Ientiie",
+       "start": 10,        "end" 13
+       "lc: {
+       "trt": {
+         li": ,
+           "olun" 0         },
+      end:{           "line": ,            "oumn": 13
+          },
+        "idntifieName": "fo"
+      ,
+        n": "foo"
+      },    "generato: true,        "ayc": fase,      "arams: ],
+    body: 
+         "type":"Blocktatment,
+          "start": 16,
+        "ed": 29,
+          "oc:{
+            "start": 
+           "line": 1,
+          "olun": 16          },
+          "end": {
+            "lne": 1,           colun": 2
+        }
+         },
+         "bdy": [
+       {
+           "tpe": Expresotaement,
+           "tart": 18,
+              "ed: 2,
+           "loc" {            "start: {
+            lne": 1,
+                "column": 18            }
+             "end": {
+               "le: 1,
+             "cumn":7            }
+            },
+          expssion{
+               typ: YieldEpession",
+            tart": 18,
+            end" 26,            lo" 
+            "sta":{
+                "line": 1,
+                   "column": 8
+               },
+              "end:
+           "line" 1,
+             "coln": 2                }           },
+              "delegte: rue,              "arumen"{
+                "pe": "NumeicLteral"
+              "start 25,               end": 6,
+             "lo": {
+            "art": 
+                     line: 1,
+               "olumn":5
+                },                  "end" {
+               line": 1,
+               "colmn": 26
+               }              },
+                "exra" {
+                  "rwVlue": 3,
+               "rw": "3
+               },
+          value": 3
+              }          }
+          }        ],
+         iective": [
+        
+     }
+   ]
+   "directives: [
+  }
+}

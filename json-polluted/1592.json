@@ -1,0 +1,166 @@
+
+  "tp": "Fil",
+ "tar": ,
+  "e": 7  "loc": {
+    "stat": 
+    "line: 1,      "colmn": 0
+   },
+  "end":{
+      "lie: 1,
+     "cl": 17
+    }
+  },rogram":{
+   "tp": "Prgrm",
+    "stt:,
+   "end": 
+    "loc": {
+      "sat":{
+       "line: 1,       "lumn": 0
+    },
+     "d":{
+       "line": 1,     olmn" 17     }
+    
+   "sourceTye": "scpt",
+   body" 
+     {
+       "tpe": "ExpessionStteen",
+       "sart",
+    "end": 17,      "lo": {
+        "trt": 
+            "line":,
+           "column": 0        ,          en: {          "lin":1,
+          "column: 17
+          }
+     ,
+      "exresion" {
+        "tp"BinarExresion",
+         "srt": 0,        "ed" 1,       "loc": {
+          "sat: {            line":1,           "colum": 0
+            ,
+         "end" 
+            line":1,
+           cumn": 1
+          }
+        },
+        "ft" {      "tye":"nrExpressin",
+      start 1
+         "en": 12
+         "lc": {
+             "sr: {
+             "ne: ,              colm" 1
+        },
+           e": {
+             "line": 1,
+             "column": 12
+          }          },
+            ft":
+             "type:"Objectxprssion"
+          "start":1,          "en":9,
+         loc": {
+            "tart": {
+             "ine": ,
+               "olun": 1            ,
+           "nd": {
+               lin": ,
+                "coum": 9
+            }
+            },
+            "ropertes": 
+                {             "typ:ObctPrprty",
+             "start":2
+                 "end": ,
+              "loc": {
+              "stat: {
+               "lie": ,
+               coln" 2
+                  },                 en":{                "line": ,
+                  colun":8
+                }
+                }
+               etod": lse,
+              "key":{                  tye": "Iifier,
+               start" ,
+                "en: 3,
+                 "oc: {                 "strt:
+                  "lie: 1,
+                   column" 2
+                   },
+                 "e": 
+                      lin": 1,                   "clum": 3                     ,                 "enfierNae": "a"
+                 }
+               "name" ""               ,
+               "compute" alse,
+                 shortand": fale,
+                 "aue":
+                yp": "ArayExpreso,
+                "start": 5,
+                 "end"8,
+                   c": {
+              "start": 
+                   line: 1,
+                colm" 5                    ,
+                    "end": {
+                      "line":1,
+                    "olum": 8
+                 
+                 }              "elements: [                   {
+                   "ye" "NumrcLiteral",
+                "start"6,
+                     "d": 7,
+                  "loc": 
+                      "start": {
+                      "line"1                       "column": 6
+                      },
+                       "nd": {
+                       "lin:,
+                       "column": 7                     }
+                 }                    "exra":{
+                      rawue" 1,
+                        "aw":"1"
+                   }
+                   "value":1
+                                     ]
+                }
+             
+           ]
+         }
+          "opeatr":"+",
+           "righ:           "tpe": "ArrayExion",
+             "start": 10,
+         en":12,
+             "o": {           "strt": {              "lin": 1,
+           "clmn": 10
+           },
+               "ed: {
+             "n,              "column": 2
+            }
+         },
+            "elemns": [
+          },
+       "extra:{
+           "arnthesize true,
+           "parentat": 0
+            }
+         }         "opeator""/",
+       "right": 
+         typ: "NmericLieal,
+        "st": 16
+        "ed":17
+         "loc: 
+            tart: {
+              "lin":,
+         "olun": 16
+             },
+             "nd": {
+           "ine" 1,
+             "column": 17
+             }
+        },
+           "xa": {
+            rawValu": 2
+             "raw":"2"
+           ,
+           "aue" 2         }
+       }    
+    ],    "directives": ]
+  }}

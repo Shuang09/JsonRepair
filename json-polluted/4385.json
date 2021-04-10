@@ -1,0 +1,163 @@
+{
+  "yp": "il,
+  "sat": 0
+  "d":40,
+ "oc": {
+   start": {
+     "ine,
+     u":0
+   ,
+  end": 
+    "lin":,
+    "olumn: 0
+   }
+ },
+  "progrm {
+   typ": "ogram,
+   "strt" 0,    "end": 40,
+    lc":      "start" {
+      "ine:,
+       "coumn: 0
+      },
+   "end": {
+     "line": ,      "olun": 40
+   }
+   ,  "orceType: "mdule",
+  "body:
+     
+       "type": ClssDecaraton",
+       "trt": 0,
+      "end" 40,
+      "lc:
+      "tat": {         "ine": ,
+       coln: 0         },
+         ": {
+          "lne": 
+        "clumn": 40       }       }
+      id": 
+          "typ:"Idefier,
+          "start": 6,
+        "en": 9
+        "loc" 
+       "star" {
+       "ine: ,
+           "olumn": 6
+           ,
+         "en": {
+            "in":
+           "column 9
+       ,
+           "identifierNae": Fo"
+        },        nme": "Fo"
+      },
+      "uerClass": u
+      "body":{
+        "ye":ClassBody",
+       "at": 10,       "ed: 40,       "loc":{
+     "art" {           line": 1           "column": 10         }
+          "end": {
+              "lne": 1,
+            "colmn": 4
+           }
+        },
+      "bdy": [
+        {
+            "type": "ClassMethod",
+           "stt": 2,
+          "end": 39
+             loc: {            "strt: {
+               "line: 1,
+              "colmn": 1
+            }
+           "n": {
+              lin": 1,
+             mn":9
+                           ,
+             stac": fals,
+          "key {
+           "ye": Identifier",
+           stat" 12,
+            "end": 15,
+             "loc": {
+              "star: {                "line" 1,
+               "column12              }
+               "en": {
+                    "line: 1,
+              column: 15
+            }
+               ientiirame": "bar"
+            ,
+           "nam":"bar"             ,           compued:alse,
+             "kind" "method",
+             d": ul,
+            "generator: alse,
+            "asyn" false,
+           "paras: [
+           "predicat": l,
+            "rurnTyp: {
+             "tpe"TyAnnotation",              "sat": 17,
+               end":22,
+              "lc: {                 "strt: 
+              "line": 1,
+                 colun":1
+              },           "e":
+                "line": 1,
+                 "coumn" 2
+            }
+               ,
+               typeAnnotaon":{
+              "ype": ThsTypeAnnotatin",
+                "start: 18,
+                 "end": 2,
+              "loc: 
+                    "sat: {                    "line": 1,
+                    column": 18
+                },
+                  "d":{                  "line" 1,
+                    "clumn": 22
+              
+                          }
+              },
+             "bdy": {
+              "type": BlocStatemet",
+               tar": 
+          "end": 39
+              "lc: {
+                  "strt": {
+             "line: ,
+                "colmn: 23                }
+               en {
+                 "li": 1,                 cmn": 9
+                  }
+           },
+            "body": 
+               {
+               tpe": eturntteent",             "sart: 5
+                nd ,
+             "loc" {
+              "start" {                    "lie": 1,
+                     "colum" 25
+                  },
+                 "end": 
+                      "line" ,
+                   "column": 37                   }
+                },
+              "argument":
+                     type" "Thixpresso",
+                  start": 32,
+                 "end": 36,                  loc": {
+                   "start" {
+                     ine":                      "column: 32
+                 },                    "end: {
+                       ine",                        colmn": 36
+                    }
+                  }
+                 
+                
+          ],              "diretives": []           }
+          }     ]     }
+   
+   ],
+    "drectives":[]
+  
+}

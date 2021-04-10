@@ -1,0 +1,111 @@
+ yp": "Fil",
+  start": ,
+  "end": 4
+  "loc": {   "stat" {    line" 1
+     "clmn": 0   }
+   "end": {
+     line": 1,
+      colum" 4  }
+  },
+ "pogra": {
+    "tye": "Proram",
+   "start":0,
+   end": 3,   "lc": {      "sar": {
+     "line"1,
+        coumn 0
+      },
+      "end":{
+       li" 1,
+     "comn": 43
+    }
+  },
+   "ourceTye": "ule",
+    "ody": [
+     
+       type": "DeclareExpoteclaration",
+     stat 0,     "end: 43,
+     "oc": {
+       "trt": {
+            "line": 1,
+          "clumn"0       },
+       "end" {
+            "line:1,
+         "olumn: 4
+         }
+       }
+       "dearation": {
+        "typ": "Ftionypenotatio"
+        "art":3,
+        "end"43,
+        "oc": 
+        "str": {
+           "line:1,
+            "olumn" 23
+        
+       nd": {
+            "line":1,
+             "oum": 43       
+         },
+        "arams":
+          {
+           "type: "FunctonTyePam"
+             start" 4,
+           end: 32,            "loc:{
+              "sart: {
+              "lne" 1,
+                "on: 2
+           ,               "nd": {
+               "le": ,
+             "cou": 2
+              }
+            },
+              "name"{
+            "type" "Identifir",
+             strt": 24,
+              "e": 2
+          "loc":{            "start": {
+                   "l: 1,
+                 "lmn": 2                  },
+               "nd: {
+               "ne":               "colun": 25
+                },
+              "idtifierName": "a
+                },
+               "name": "
+           }
+           "ionl": false,
+              "tpeAnnotatin:{
+              typ": "umerTyeAnotaion",
+           "sa":26,
+             "end": 2,               "oc": {
+               "art" {
+              "line: ,
+              "colum: 2             },
+            "end": {
+                "ine":
+                "column: 3
+              }
+              }
+             }
+        }
+        ],
+        "rest": null,
+      "ernTye" {
+        "tye:"NumberTypAoton",
+           "start": 3,
+         "end": 3
+        loc: {
+           "stat": {
+            "line": 1
+            "column": 37
+            
+           "end": 
+           ine": 1,
+              "olumn":3
+      }
+           }    }
+        "tpearmeters": nul
+      },       "defult": r
+   }    ,
+    "diretives": []
+  }

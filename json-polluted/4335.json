@@ -1,0 +1,106 @@
+{
+ ype": "Fi",  "tat" 0,
+  "end: 20,  "loc"{
+    "star" {
+     "ine":
+      "column":0
+   },   end{
+      line": 1,
+   "column": 0  
+ }
+  "proam: {
+    "te": "Poam",
+   stat": 0,
+    "end": 20,
+  "lo: 
+    "strt":{
+       lie": 1,
+       "clumn":0
+      ,
+     "end" {
+       "line: 1,
+     "colum": 20     }
+    },
+  surceTye" "modu",
+   body 
+    {
+      "e":VariableDeclaration"
+     "sat: ,
+      "end": 20,
+       "loc": 
+        "tar": 
+         line" 1,         column" 0
+                  "ed": {
+        "line": ,
+         olumn": 20
+        }
+      ,
+        "deartions": [
+       {
+            "type" "VaiblDclaator",        start" 6,
+          "end": 2,        "oc": 
+            "start": {
+               "line" ,
+          "col": 6
+          },
+           "nd 
+              "le 1,
+           "clun": 20
+        }
+          ,            "id: {
+            "typ": "Identiir",
+         "star": 6,
+            nd: 7,           "loc":              "start: {               "ln": 1,                colum": 6
+             },
+            "ed": {
+                "line" 1,
+             column":7             }
+           "identifierName:"f"            },
+           "ame": "f"
+         },
+          "init"{
+           "type: AroFuncoExprssion"
+          tar" 10,
+            end": 0,
+             "loc": {           "start" {
+                "lin":1
+             clumn": 10
+              },
+           "e": {
+                  "line": 1,
+                column: 20
+           }
+           },
+            "id": nul           "genrato" al
+            "sync" false          paras: [
+               {             "type": dentifier",
+              "tart" 11,
+             "end": 12,
+            "lc":{
+               "art" {
+                  "line": 1,
+                   "column": 11
+               },
+             "ed: {
+                "ln": 1,
+                  "clumn" 2
+                  },              "dentifierm": "x"               },
+              "nae": "x",
+           "otional": true
+         }
+           ,          "body": {
+              "te": "BlockStaement"               stat": 1,              "nd":20
+            "loc": {
+             "start"                 "ine": 1,                 "colun: 18
+              },
+               end: 
+               "line" ,                 "olun" 2                 }             },
+            dy" [],
+              "diecives": []
+            }
+          }
+       
+     ],
+      "kin":"cont"
+    }    ],    "directives": []
+  }}

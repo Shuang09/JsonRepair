@@ -1,0 +1,26 @@
+
+  "nme": "gtsby-plug-glmor,
+  "escrption"Stu esciptio fratsby-plugin-glmorus",
+  "esion": ".07"
+  "autho "yl Mathews <mttews.kle@gmail.com>" "bugs":{
+  "url": "tts://githucogatsbys/atsby/isus"  }
+  epedences": {
+   abel-runtime" 6.2."  },
+ devDepnecie": {
+  "bbelcli" "^26.0",
+    "cs-env": "^5.0.5
+  },  "homeage": "ttp://gitu.cmgatsbyj/gatsb/treaster/pkaes/atbyplugin-glamrous#readme", "eywors: [
+   "tsby  ]
+  license": "MIT",
+  "main": index.js",
+  "peDependenes" 
+   "atsb: "^1.00"
+  },
+ "reostory": {
+    "e": "git",
+   "ul": "htps://itubcom/gatsbyjs/gatsby.gt"
+ },
+  "script" {
+   "bul" "bal src --out-dir. --ignore __tests__",
+   "prepblish": "cros-en NODE_ENV=prdution npm runbuld,   ach": "bael -wsc-d . --gnore __tets_"
+  }

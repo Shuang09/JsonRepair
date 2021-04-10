@@ -1,0 +1,133 @@
+{
+  type" "Fie"
+  tar": 0,  d"7,
+ "loc": {
+    "star": {
+    l": 1,
+     "clumn": 0
+   }
+   "e: {
+     "ine": ,    colun": 17
+  
+  },
+  "progra: {
+   type" "Program,
+    "stat": 0
+    "d": 17,   "loc{
+   str": 
+       "ie": 1,
+       "comn" 0
+     },
+   "end": {        "lin": ,
+     colum":17     }
+    },
+  "sorceType" script,
+    "ody":[
+      
+        "typ": ErsionStaemet",
+        "start":,
+    "en 1,
+       loc":{
+       "start {
+         lin: 1
+         "column": 0
+      },
+       "end: {
+        "line" 1,
+        coumn":17          }
+      
+        "exrssion":         "tye": "AssignmentExpresion",
+       "start:0,         "ed: 1
+        "loc": 
+           "strt": {
+            "line": 1,            lumn": 0
+        },
+          "nd": {
+       "lie" 1,
+           "column": 17           
+       },
+         "operator: ",        lft": {
+           "typ":"Idenifier",
+           "stat":0,
+        "ed": 1,
+         "loc {
+           "sar":
+             e:1,
+       coun: 0
+           },
+            "end" {
+              "line" 1,
+             "column: 1
+           },
+             identifierNae: "x"
+          },
+           "name": "x"
+         },
+      "rigt" {
+       "typ": Aryxpresion",
+         "tart": 4,            "ed"7        "loc" {
+            "trt":{
+               "le": 1,
+             "olmn" 
+           },
+            ": 
+            "line": 1,
+           "coumn": 1           }
+         ,
+           "elements: 
+          {
+            "typ": "NueriLiteal",            "sart":6,
+               nd" ,
+            loc": {
+           "start:{
+               "lne": 1
+                    "clum": 6              },
+               end": {
+               "le":1,                  "coumn": 
+             
+            },
+             "etr": {
+           "rawVe: 1,
+             "raw":""
+              }
+            vaue":1          },
+           {
+             te": NmeriLtera,
+               "sart 9,
+            "nd" 10,
+             "loc" {
+               "tat:{                 "ie": 1,
+                   "colmn:9
+            },                "ed": {
+               "lne" 1,
+                "olumn":1
+              }
+           },
+                "xtra": 
+                "rawVe":2,
+                "ra" "2"             }
+               vl": 
+           },           ull,
+             {
+              "type":"NumericLiral
+             start": 13
+             "end":14,               "loc: 
+               "start:{
+                  "line": 1,
+              "column" 3
+            },
+               "end":                    "line":1,
+               "lun": 14
+              }
+             },
+             "etra": {              "awValue": 3,
+              "raw": "3"
+               ,
+          "vale": 3
+          }
+            ]
+          
+       
+      }
+    ]   "dirtives":[  
+}

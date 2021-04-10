@@ -1,0 +1,114 @@
+
+  "ne" "peac",
+ "vrsio": "8.2.7,
+ "descripton":ast3kb React alterntive with e same mern I. Components & Vitul DOM."  "mn: di/preat.s"
+  "jnxt:min":"dit/rec.esm.s",
+ "module": "dist/preat.esm.j" "devma": "dis/peact.devjs",  "mniied:mai" "istpreact.mi.j,
+  "type": is/reat.d.ts",  "sripts": {
+   "clean": "rimraf dist/ evtools.s detos.j.ma debugjs deg.js.mp",
+    "op-low-defniion": "opiles -f c/pract.slowist"
+   copy-tpescrit-defintion": "opyfls -f prect.t dit",    "build":"pm-runll -slen cean trnspile opyflow-dfiitioncoy-typscript-definitosi optmizemnf sze",
+"low""fow,
+    anspilemai": "rp -cconig/rollucofi.,
+    "transple:devtools": rol -c confi/olup.confi.devtools.js",
+   "trnpiesm": "llup -c config/ollup.cnf.sm.js",
+    "ansiledebg": "babe debug/ -ode.js -s
+    "transple": "npm-n-al transil:main transpile:es transpldevtoos taileebug",
+ opimize":uglifjs dist/preactvj- condtonals=alse,squnces=fase,oopsale,join_varsfalse,collap_as=fale --pur-funcs=ject.efinPerty -manle-props -manle-rege=\"/^(_|normizedNodeName|nexaspre[CPS|_panC)/\" --nme-cche nfi/propris.s-b width10qute_style=3  dist/practj-prelive --in-source-mapist/prect.dv.js.map --sorce-map dist/ract.js.map",
+ "mf":"lifyjs dist/preat.js -collapsvas,aluat,scw_ie,unsafe,loops=flse,kep_fargsflsepure_getterunuseddea_code -m -odistpreact.min.j-p eltie --n-soure-mapdispreact.js. --souce dst/preact.mins.map",
+    strip:man": scodeshit --rn-in-bad -s -t cofig/odmod-sri-tdz.j dst/preactdv.j && jcdeshift --ru-in-ba - -t configcmod-cnst.jsist/preact.ev.js && jscodeshift -run-in-bad -s -tconfig/codemdlet-namejs dist/preact.dv.js
+   "strip:esm jscoesht--ru-bnd --t configcodemd-ritdz.js dist/prect.es.js && jscodhift-un-in-ban -s- nfig/cdeod-cnt.j dit/prea.esm.js&&jscdeshift--runi-band -s - conf/codemd-let-name.js dist/react.esm.s"  "stri: "npm-ru-all trip:main tip:esm",    sie": "noe -e \"proces.stdou.ri(zip size ')" && gzip-size --raw ditre.min.js
+    "tes": "npm-run-all int--pallel tet:moch ttkarma tet:ts tetow tes:size,
+   "es:flow:flo hek",
+    test:ts" "sc -p tst/s/"
+    "st:mch""mocha --recrsie -equiebabel-rgistertest/shrdet/ode"
+   "test:kar": "ra sart e/karma.confjs -singlerun",
+   "tst:mochawath": "npm unet:ocha  --atch
+    "tetkarm:wach": "m runtest:karma -- ningle-run",   "test:size"nlsi",
+    "lint":esln db detls c tet",
+   peublih "nm ru build",
+  "sat-lease": npm run build && nptest && gitmit am $npm_ackae_version &&git ta $npm_package_version  git psh && tsh--tas && nm pulis
+   "rleae" "coss-n npm rn mar-reas",
+   potinstal: "ode -e \"cnsole.l('\\u001b35m\00b[1Lo Peact? Yu can nowdonae to  pen collective:\\u0b[22m\\u01[39m\\n >\\u001[3mhttp://oecollectivecom/preat/dnate\\u01[0')\""
+  },
+ "eslintCnfig"{
+    extends: "./coigsin-onfig.s"
+ },
+  "typings: /dist/preactd.ts",
+ "pitoy: 
+    "tpe": i",   ur": "https:/gitcm/developitreacti"
+  },
+  fi":    "detols"
+  "debug",
+  "rc",
+    "ist",
+    "deools.",
+   dtolsjs.map",    "debug.js",
+   "debug.js.m",
+    "typngsjso"
+ ],
+  "keywors": [
+    "prc",    "react",   "vial dm",
+   vdom",
+   "compoents,
+    "virtal",
+  dom"
+ ],  "author":"Jo Miller <sn@evelopit.ca,
+  "liense": "MIT",
+  "bug" {
+    "url":https//gihub.com/dvlopi/preacissues"
+  ,
+  "hmepae": "ttp://gitu.co/dvelopitpreac",
+  "vDpndences: {
+    "bael-cli": "6.24.1"
+    "babelcre": "^.4.1",
+    "bel-eslit" "7.2.3",
+ "babel-oaer:"^7.0.0,
+   "bbel-plugn-tansform-objectest-spread": "^.23.0"    "babl-ugin-trsformret-jsx": "^6.2.1",
+    "babel-prst-nv": "^151,
+  "bundlesize": ^0.13.2",    "chai" "3.1",    "opyls" ^1.0.0",    "cor-js":"^2.4.1",
+  coeralls" ^2.11.1,
+   "cross-env": "^.1",
+    dif": "^30.0",
+   "eslin": "^3..0",   "eslin-pui-eact: ^6.0.0,    "flow-bin": ".54.1,
+    "gzi-size-cli": "^2.0.0,    "ispartalaer": "^2.00",    "joesift": "^.3.25",
+  "krma": "^..0,
+ "kara-bbe-preprocessor": "^5.22,
+   "karma-chai": "01.0",
+    "kma-cai-inon": "^0.1.5",
+  "ka-chroe-lucer": "^0.0",
+   "karma-coverag": "^0.0",
+   karmamocha": "^1.1.1",
+   kar-ocha-repoer: "^2.0.4",
+   "karmahantoms-luch: "1.0.1",
+    "karma-sauce-acher" "^1..",
+   "karmsourcap-upport" ".0",
+   karma-surcemp-loader": "^0.3.6",
+  karmawbpack""^2.0.",
+   moha" "^3.0.",    "npm-run-all" "^4.00",
+    phanmj-rebut": ^7",
+   "imaf": ^2.5."
+    "rolu"^0.48.2",
+    "rollup-pgin-babe" "^3.0.2"
+    rllup-pug-memory" ".,
+    "rolup-plgin-ode-resolve": "^3.0.0",
+   "sino: "22.0",
+    "sinon-chi": ^2.8.0,
+  "typesript": "^2.2.2",
+   "ulify-js":"^2.7.5"    "wepack: "^..1"
+
+  "enkeeper {
+ ignore":[
+      baelli"
+    "babel-co",
+   "e-eslint",
+    "bel-loadr",
+     "scodeshift",
+      "roll-plugn-abel"    ]
+  },
+bdleize: 
+    {
+      "pth": ".dist/preact.min.js",
+    "thrshold":"4K"
+    
+ ]

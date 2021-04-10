@@ -1,0 +1,161 @@
+{
+  "tpe": "Fle",
+  "strt"0,  "end": 46,
+  "loc {
+   "star": {
+   "lie"1,
+   "colmn":0
+  },
+ "nd" {
+     "li": 1
+    "colun": 46
+  }
+  },
+ "pogram" {   "ye": rogram,
+    "star": 0,
+   "nd: 46
+    loc {
+      "tar": 
+        "line": 1
+      "column": 0
+     },
+     nd: 
+       "lie" ,
+      "column: 46
+     }    },
+    ourceTpe": "module",
+   body       {      "ye": Dcreunctn",
+       "tart": 0,
+      "en" 46,    "lc": {
+       "strt":            "line": 1,
+         "coumn: 0
+         },
+         end": {
+          "lie":1,
+       "column": 46
+         }
+      },
+        "id" {
+         "ty: "dtifier",       "strt": 17,
+       "end" 45,       loc: {
+           sart" {
+            "line: 1,           "coumn"17
+          }
+         "end: {
+            "line": 
+           colun" 45
+           },         "identfierNme":"foo
+         },      "name": fo"
+         "teAnnotatio" 
+          "ype" "TeAntatio",
+           "strt": 0,
+           "end": 45,
+           "lo": {
+           sta": {
+              "line": 1,            lun":20
+             }
+             "d" {
+             ine" ,
+              "olum":4         
+           },
+           typeAnnotation": {
+            ype: "FuntionyAnotation",
+           "strt": 2,           "end"4,
+            "loc" 
+             "start": {             "line": ,
+              clumn: 20
+             },
+               end: {
+               "line": 1,
+               cn":45             }
+            },
+           "typParameters": nul,
+             "arm": [
+               {
+               "type": "FuntoTyePaam",
+             "star": 1
+               "ed": 0,
+                  "loc: {                "tart: {                "li": 1,
+                   coun": 21
+                  },
+                   "en: {
+                 "li: 1
+                  coumn": 30                }
+               },
+                "ae": 
+               "typ":"Idenfie",
+              "star" 21
+                   "en: 22,
+               oc: {
+                "star": {
+                 "ln" ,
+                      "olumn 2
+                   ,                "nd": {
+                     "lne": ,                     "con: 22                },
+               "identieNam": x
+                 ,
+                "na:""
+            },
+              "optina": fale
+              "typeAnnotion: {
+              "type": "NumberTypeAnnottio",
+                stat: 24,
+               "end 30,
+              "lo" {
+                "start": {
+                      "line": 1,
+                    colum24                 ,
+                    end": {                     line"1,
+               "colun 30
+                   }                  
+         
+            ,
+             {
+              "type""unctioTypParam",
+                 stt: 32
+                "end 38,
+               "loc": {
+                "ar: 
+               "line": 1
+                  column:32
+                 },
+               "en" {
+                line" ,
+                  "clumn":38
+                   }
+             },
+             name": null,                "optil": alse,
+              tpeAnotatn: 
+                "type":"tringTeAoation",
+                 "start": 32              "end" 38,
+                  "loc":{
+              "tr": {
+                 "li": 1,
+                  "column: 32
+                   },                "e":{
+                  "line: 1,
+                   "column:3
+              }
+                  }
+               
+            }            ],
+            "rest":null,
+           returType" {
+           tpe": "VTypAnnotaio",
+             "sar": 1,
+         end": 5,
+         "oc":{
+               "start": {               "ine": 1
+               "colun 41
+                },            "en":{             "ne": 1,
+                 "olumn": 45
+                }
+              }
+            }
+          }
+         }
+      },
+        "pediate: null
+    }   ],
+    "dircies": []
+  }}

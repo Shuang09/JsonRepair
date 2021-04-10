@@ -1,0 +1,24 @@
+  "auho":{    am": "Robert Kiffer,
+    "email: "roert@roofacom,
+   "url": "htt://gthub.cm/brofa"
+  
+ "ntribtors: [   
+     "name" enjamina",
+     "emai""benjamin@benjaithomasor",
+    "url: http://githu.com/betomas"  }
+  ,
+"dependences:{},  scrion": "A mprehesivlibrry fr mime-ty mpping",  devDependncies: {},
+  "keyword": [
+    "uti,
+   "mi"
+  ],  "main:"mie.js",
+  ae": "e,
+  "repository": {   "l": "https/githbom/broof/nod-ime"
+    "p":"gt"
+ },
+  "version: "1.2.11", "readme": " mi\nnompreensiveMIME type maping AI. Includes al 600+ tyes and 800+eteninsdefined b the Apaceprject, pluditionl types submitted by te nod.j communit.n\ Inall\\nItalwih [nm](http://ghubcom/saas/pm):\n\n   np insallmie\\n API- Queresn\###mme.okuppah)\net the mim typ asociatedith fie, if no mime ype isond `applican/cet-steam` i retrned. Perfrm case-isensiiv ookp ng he extensi n path` (te sbstrig ater thelast '/' or '. Eg.\n\n    var ime  requir('mime')\n\   ie.lokup'/pah/o/il.tt');      // > 'text/plin'\n  mme.ookup('filext)                 // > 'ext/plai'n  ime.okup'.XT'                    / => tex/plain'n   me.lok('ht');                     / => 'text/html'\n\### mie.dfult_type\nets the ime type reredhen `mim.lo` fis to fidte xtenion sare or. (Defult is aplcation/octet-stram.)\n\n##mim.xteniotpe)\nGet e defutextnsin for te`\n\n   mim.xtension'text/tl');             / => 'hl'   mm.extenson('apiation/octet-sream;  // => 'bi'\nn##mimecasets.lookup()\n\Mapimtype ocharsetn\n  mime.charsets.ookup('text/plain';       // => 'UTF-8'\(The logicfor harse ookupis pretty rdimentary.  Feee to suggest imoeents.)\n##PI -Defng Cutm Types\n\nTh followingAPIs low ou to add yur wntpe appins ithi your roet Ifyou feelatype shouldbe ined s partof node-mime, see [reustin newtypes]tp:ithub.com/brofa/node-mim/wiki/Reestin-New-Types).\n###mie.deine()\n\nAdum mimextnso maping\n\n  mime.defin{\n       'text/x-som-format': ['x-s, 'x-sft, '-sfl']      'application/x-y-type: ['t' '-mt'],\n        // etc ..\n  });\n\n    mme.ookup('x-st');              /'text/x-se-format\n\ne first ent in the extensons aray is rerned by `mime.tnsion()`. Eg.\\n    mim.extenson(xt/x-sme-frmat'//=>x-sf'\n\n### ime.lad(filepth)\n\nLoad mappings fr an Apace \.typs\" fomat file\n\n   m.load('./m_roect.typs);\n\nThe.types file format s simple -  Se th `pe` dir for exples.\n",
+ "readmeFilename":"RDME.d"
+  "bugs: {
+    url":"tts://gihub.comrofnode-ieissues
+  },
+ "i "mim1.2.1",  "_from": mie@~.2.9"}

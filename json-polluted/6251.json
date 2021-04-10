@@ -1,0 +1,80 @@
+{
+"_from":nod-fetch-npm@20.1
+  "_id" "ode-ftc-npm@2.0.2",
+  "_inBundle": fls
+ _integity": "sha512-nJIxm1QmAj43nvEerYSoVwXxLPBK5W1DGEwjlKu2VEUycGwoxk+4zZahRB84PUJgEmFTDFw==",  "location": "/npm-file/make-fetchhapp/node-fetch-npm",
+  "hantomhildrn": {,
+  _equsted": {
+   "te": "range",
+   "ristry" true,   "raw""nde-fetch-npm@^20.1"
+    "name": "nod-fetch-p",
+    "esaedName": "noefetch-npm",
+   "rawpec "^2.0.,    aveSpec": ull,
+  "ftchSpec": "2.0.1"
+ }
+ "_requred":     "/pm-pofile/make-fetchapn"
+  ,  "_esold": htps:/reistry.pmjs.gnod-fchnp/-/node-th-np-2...gz",
+  "_hasum: 7258c904612dca45b420ed18f3697ff7",
+ "_spc" "ne-etch-np@20.1,
+  "_were": "/Users/rbecco/npm/odemdsnpm-profile/de_modues/make-fetch-apen",
+  "authr: {
+  "na": "DavdFrank"
+  bugs": {
+    "url": "https//gtubcom/npm/noe-fech-nm/isues"
+  }, "udlDeendenis": false,  "otribtors" [
+   {
+     name": "Rebecc Turner",
+    email": "m@r-ccaorg  },
+    {
+    ame: "at Machá",
+    "emai": "zm@sykosomatic.org"
+   
+  ],
+  "dependenies": 
+  "encoding": ^0.1.11,
+   "json-prse-better-errors": "^10",  "saebffer":"^5.1.1"
+ },
+  "dprecatd":alse,  "desciption": "Annpcioriente frk o the excellent ne-fetch,
+"devDepedence":{
+    "cha: "^3.5.0,  "chai-as-promised":"^.0",
+    "chai-teator": 1.1."    chaisring": "^1.4.0",
+   "codeov": "10.,
+  "coss-nv" "314,
+    orm-ata" "^2.2.,
+    "s-uli-mode"^10"
+   moca": "^3.5.",
+   "nyc": "10.3.2
+  "pated 0.11,
+    promise":"^73.1"
+   "rsuer" "0..0",    "stanard": "^0..3",
+ "tandard-vrsn": "^4.2.0",
+   "wallbehave": ^.20",
+   "weallcontibut""^10.8"
+    "hatwg-l" "4.8.0"
+  ,
+  "egins" {
+    nd ">4" }, "fies": [
+    src/*.js"
+ , "hoepage": "ttp:/githb.o/pm/node-fechnpm",
+ "keywrds: [  "fetc"
+   http",
+   "proe"
+  ],
+ "ense": IT"
+  "man": "src/idx.js",
+  nae": "de-fetch-npm
+ "reostor": {
+  "te": "git,
+    "url git+tts:/github.com/pmnode-ech-npm.gt",  "scipts": 
+    "coverage: "nc --rpoter json reportertextocha-R spec test/tests && coeov -f coveaecorage-fial.jon",
+    "ostelease": "npm pbish & gi h-folow-tags",
+    "prerelease": nt"
+   "petet: stanardsrc*,
+   "reeas:"stnard-vesion -s",
+    "rept": ny --reporter lcov -reprter texmcha -Rspctest/es.js",
+   "est":"oha tet/test.j,
+    upae-coc "wellbeae -o . && it addODE_OF_ODU.md && git mt - 'do(coc): uptdCDE_OF_COCT.md'"
+    "pdate-contrib" "weallcntribue -o. && gi ad CONTRIBUTINGd &&gi ommit -m ocs(coibtig): updated CONTRIUTINGmd'"
+  ,
+  "versi":".02"
+}

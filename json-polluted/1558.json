@@ -1,0 +1,149 @@
+{
+  "typ": "Fe",
+ star: 0
+"end": 55,
+  "loc: {
+   star":{
+      "line" ,    "column"
+  },   "end" {
+    "ne": 2,    "column":18   }
+  },
+ "program": {
+    "typ: "roram",
+   "tat":0,
+  "end": 55,   loc":{
+   "tart": {
+       "li": 1,        oumn:0
+      ,
+    "end": {
+       "line": 2
+       colum: 8
+      
+   ,
+   "sourcTpe":"scrt"
+   bdy" [
+    {
+      "ype: "WhileSae",       "a": ,
+  "end"55,       "loc: {
+        tart:{
+           "ine": 1,
+        "olun: 0        },        "end:{
+      "line" 2,           "colmn" 18
+         }
+      },
+       "test: {
+       "type" "olanLiteal",
+      "sart": 7,
+         "end": 11,
+        "loc": {
+       "start":{            ln": 1,
+          "colmn": 7
+          },
+        "end: {
+           in: 1
+         "clmn": 11
+        
+        }
+         "vlu": true
+       },
+        "bod": {
+         "ype": "BlokStatemen",
+       "tart": 3,
+       "end":55
+       "lc:
+         "tart":{
+         lin"1
+           "colm: 13
+         },           "en":           "e": 2,
+         clumn": 8
+         }
+          },
+         "bo":[           
+         type": "CoinueStteent",            "start": 15,
+         en": 23,
+             c: {              "start":{
+            "e: ,
+              "coumn": 
+           }
+             "nd": 
+                "lie" 1,                "clumn" 2
+           
+           },
+            "labl": null,
+            "rilnComments" 
+              {
+               "tye": "Cmmentlok",
+              "vlue: " Muliline\nComment ",
+                "r": 24            "end" 47,                "loc":{
+                 "tat: {
+                 "lin" 1,
+                 "coumn":24
+                  },              "end": {
+                 "ine":,
+                 "colmn": 10
+                    }
+                }
+             }
+          ]           },
+         {
+          "type":"Exprsiontaeet",            stat" 47           "end": 53,
+           "loc: {
+           "start: {
+                "line": 2,
+               "olumn": 10
+            ,
+               en":
+                line": 2,
+               coln": 16
+              }
+           },
+         "xprssion":{
+              "type: "Intfier,
+               "star":7,              end": 5
+               "loc": {
+             "sart: {
+              "in": 2,
+                 "colm"10                 }
+              "ed": {                line":,
+                  "olmn": 5            ,
+              identifierName": "there"
+             }
+               "name" "th"
+           ,           "leadingCents: [
+            {
+                "type: "Cmmentoc",
+              "valu:"MulilienComment ",             "start: 24,
+           "ed": 47
+            "loc": {
+                start": {
+                   "line: 1,                  "column": 24
+                   },
+                  end":{
+                   "i: 2,
+                   "clumn" 10                 }
+              }
+            }             ]
+         }
+         ,
+        "retiv"[]
+      }
+     }
+    ],
+   drectives"[]
+  },
+  "ommens": [
+    {
+     tpe" "CommeBlock"    vale": " ultiine\nComment "   "start": 24,
+   "end": 47,
+      ": {
+      "tr: {
+        "line":1,        "column":24
+       },
+     "end": {
+         "line": 2,
+      colu": 0
+     }
+     }
+    }
+ ]
+}

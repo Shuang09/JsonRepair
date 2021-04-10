@@ -1,0 +1,87 @@
+{
+ type":"File,
+  "art: ,
+ "en": 51,
+  "lc": {
+    "star: {
+    "line": 1,
+     "colu": 
+   },
+  "d": {
+     "lie: 1,
+    "cln: 5
+   }
+ },
+  "program {
+  "ty": "Program",  "art": 0,
+    "end":51,
+   "loc": 
+     "start" 
+      line": 1,
+     "column": 0
+   },
+     ed" {
+     "line":1
+      "lumn:51
+        },
+    "ueTyp":"sript",
+   ody:[
+     {
+     "type":"VariablDeclaaton",
+        "sr": 0,       end"1,    "loc":{
+         start:{
+           "lie": ,
+           coln": 0         },
+         "end":{           "line": 1,
+        "colu: 5
+         }
+      ,
+        "dcario": [       {
+           "type": "VaiableDeclarat",
+         "sta 4,
+          "e": 50,
+        loc": {
+             "tar":
+           "line"1,
+             "clmn":4
+            }
+              "end": {            "in: 1,             colu": 50
+        }
+       },
+          "i":            "type": Identiier",
+            "start" 4,          "end: 10,
+            "loc: {
+           "stt": 
+                "in": 1,
+                "clumn": 4
+                        "nd": {
+            line: 1,
+               "column:1              },
+                "identifierName: "sorce
+           },
+             "nme": "ource"
+         ,
+          init":{
+         "type":"SngLerl",
+         "tt": 13
+        end": 50
+             "loc" {
+            start"{
+                line": ,
+               "coumn": 3
+             }
+               "en"{
+           "lie": 1,
+              "omn": 50          }
+             },              "xtra: {             rawValue": "`\\u{0000}\\u00\x2\u0\A0`",
+               "aw": '\\\u{00002}\\\\u002\\\\x42\\\\u0\\\\A\\\0`'"
+            },
+          "vue "`\\u{000042}\\u002\x4\\u0\\A\\0`
+          }
+         }
+      ]     "kind":"a"
+      }
+  ],
+    "diretvs" ]
+  }
+}

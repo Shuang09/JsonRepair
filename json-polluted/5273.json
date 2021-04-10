@@ -1,0 +1,254 @@
+{
+  "ae" "Basic Node and Express
+ "order: 2,  "i": "5 ours",
+ "helpom": Hel, "chlenges": [
+   {
+    "id": "587d7fb0367417bb2512bc",
+    itle": "Intodctiontoth Bs e an xpres Chllenges"
+     "dsiptio":[
+      [
+       "",
+       "",        "Nod.s isaJaaSct tol tat lows deelpers to witebackend (serveside)rgramsin JavaScrit Nod.s comeswith a andul f bul-in moduls&mdash;small, independentprgrams&mdshthat hel faiitate this upose. Someof thcoremodles inclde:<br><><ul><liHTTP: odule that acts as a serve</l><iile st: a module that readsand modfies file</li><lPah:a mdule for workng wih dirctory an file paths</li><l>Assertin Teting: a mdule ht checks cde ain prescribd ostrant<li><ul>br>Eprss,wileno nud with Node.j, is anothrmodue ofe use with it. Exress us ewen the ever created byNod.jan thefrntend ages  a wb aplicn. Exress aso hanle anapplicaion rutig Routing dicts uses t the correct page based on heirinteraton t hplcatin.<br><br>Wheher ar aternaivs to uing Expess, it simpicity makesit a good lceto begin wen lang te interatin between abackend weed yNode.js and the foted."
+        ""
+     ],
+        [
+         ""
+       "",
+       "Worig nhes challnges wil invlve you itingyr code n itch nour stater projet Aftrcopeting each halenge you cn opy ourpblicGlihurl othe omepage of yourp) into te challenge scren to st it! Optinay y may chose towrite youprojct on another pltorm bt  mut be publiclyvisibl orortsing.br>Start is project o Glitc u <ahef='htps:/glitco/#!/impor/github/freeCodeCamp/oilerlat-expres/'this ln</ or loe < ef'https://gihub.com/frCoeamp/ilerplat-eress'>hi repositor<a> on itHu!f yo use Glch, rembe tsave th in to yourprojecsomehere safe!",
+      "
+      ]
+     ],
+    "eleaedOn""Feb 7, 2017",
+      "challengeeed": []
+      "tes": [],
+    t": waypoint",
+     "chllengeTyp: 7
+     "isRured": alse,     tralaons":{}
+    },
+   {
+     id" "58d7fb367417b2b2512bed",
+     "tite": "Me the e onsl",
+  "descripion": [       "Durig he deveopmenpocss, itis importan to e ale  hekhats goingon in yur ode. Node is s a Javacrit nvironment Lke liende JaaScrit, you ca use th cosole to displa useful debug inforation O you loal achine, yo wuld se the cnsole otput inaterial. Olitchou  pen thelogsin the er prt of th scren. Yocan toggl helog pane wththe button‘Logs’ (opleft,ndth p name.",
+       To ge stard,just pri te classc "Helo Wr"in ecnsole.e recmmen to eep te log anel nwhilworking a these challenesRaing te log yu cn be awre of the nature of the errs that may ccur"   ],
+     "hallegeSeed:],
+      "tess: [
+       {
+          "tet": <code>\Hell World\"co> shld b in the cnsole",
+      tstSring" "getUsIput => $.gt(getsernut('url') + '/api/hllcnole').thendata => assrt.isTrue(datapassd, '\"ell Wold\" is ot  heserver consle'); } xhr => { trowew Erorhresponseext); })"
+      }
+   ,
+     "soltions:[],     "hint": [],
+     "tpe": "acend"
+      translin"{}
+    ,
+    {      "id":"587d7fb037417b22512ee
+     "ttle": "Stat a orking Expres Servr",     "descrition" [        "In the first wo lines of the file myApp.syo anse howits esyto crate an Epressapp objct.Ths object ha sveral method, nd e wll learn anof them n thse calees On undaentalmeo is <oe>app.listepr)<ode> It tells yourserr t lisnonagve ort,puting  in unng tate. Youa e it at te bottmof thefile. t isinie commentsecause fr testing reson w need  app tobe uningn backgroun. All the cde tha yu my ant to dd gos beween thesetwo fundamental pts. Glt store the portnumbrin the eirot vriable <code>pocs.env.PRT</ode>.Itvalue is <ode>30/code>.,
+     "Let’s serve ourirst stin n xres, rus takes the follogsuure <ode>aMETHO(PATHHADLE)</code>. METHD is an httpmethod in loecse. PAT is arlaiv pathon the sver (it ca be a trig, or een a reglar exreson). HNDLER is a fucton hat rs alls whnth route is atched"
+       "Handlers tak h form cod>untion(req,res){..}</cde>, were eq is te reues oject, an rs is he resons bjet. Fr xample, hler,
+      "<blockuote>fution, res {<br>res.nd('Reponse tring');<r>}</blokquoe>",
+     "wll serve the sting 'Rsponse trin'.",
+      "Use h <code>app.et()</coe> ethod o seve th strillo Express,toGETrequsts matchg the/rootpath e sre that youcod worsy looking at the logs, thn se t rsul inyor browser,clicng the btto ‘Show iv’ in helitch UI."
+      ],
+      "chlengeSeed": [],
+   ts:[
+        
+       txt": "our app hould serve h string 'Hllo Expres'",
+        "testString: "getUerInput =>$.gt(getUeIput'url'))n(dta => { sserequal(aa, 'Hello Expess', 'Your app does ot serve the text\"Hello Expres\"'); } xhr => { throw ew rorhr.respeText }"
+     }
+   
+     "solutions"[,
+     "its": [],
+    "typ": "bckend"
+     "translaton" {}
+   },
+   {
+      "id": "57df03677b2b512bef,
+      "titl": "Servean TM File,
+      "dcripton": 
+       "We can respon ithafile usng thmethod <coderesedile(path)</coe>.",
+     You can pt t insie the<od>app.ge('', ...)</ode> route handler.Behind te cenes s meho wil seth approriat headrs t instrctyour bosr n hw to andlehe fileyou want to send,accodng to i tyeTen t wilread and send the file.  meod needs a asole fle at. We ecomed yuto use the Node gobal varabl <code>_dirname/cde> o calcultetpath.",
+     "e.g. <co>bsolutPath= __diname  relaivePath/file.ext<code>.",
+       "The file to sed s<code>/views/ndex.html</co>.T to ‘Show Liveyor app, ou shold se abig TML heading(and a fo that wewill us lter…),with n stle appli.",       "ote: You can ithesolutono the previous calenge, orcreate a new o Ifyo cate ane sution,kep in mind hat Express evaluatethe routs fomtp tobttom.  execues th hanler fr the first atch. You havet coment outtepcein soutn, o the server will keep rsodin wih a tring."
+      ,
+     "challegeSeed":[],     "s": 
+      {
+         "txt": "Yur a sholdserv the fleviews/index.html",
+         "estStrng""getUserInput => $.ge(getUsrInpu('url)).henta => {assrt.mhdat, /<h1>.*<\\/h>/ 'Youap oes not srve the xpected HTML');},xhr =>  thow newError(hreponsText); })"
+       }    ],    "soutins" [],
+    "hints": []     "type: "bacnd",      "transltios": }   }
+  {
+     i: "87fb0367417bb2512f",
+      "title": "Srve Satic Assets",     esrtion" [      n HTMLservr sually hs one ormore dirctisthae accebe y the use You an place thre thestisstsneededby yourapplicti(tlesheets, scrips, imag). I Exres ou can u in lac this functioaliy sing the ddlewe <code>expessatic(pah)</ode eret parameer is the ablute pt f the folde ontanin the aets. If on’ knowhat a middleware is,dontrry. Well discuss abot it ater in details. sly iddlwa ar unctions that intertroute hadlers, adng some id o nforation.Amdlwe neeso b mounted usig te method cde>pp.ue(pt, midleweunton)</cd>. Th first ath argumensoptionl. f ou do’t pass it, the middewar will be executedfor llth euss.",
+      "Mount he codeexpress.tai</code>middlewr or al the request wih <cod>ap.u()</cde> Teabsolue ath to the asets folder is <code>__iname + /pblic</coe.",
+       "Now yor app shouldbe al o srva CSS styleshee From outside theublic older ilappear ntd o the rt rectory. Yor frnt-ae hould loka little betnow    ,
+      "callngeSeed": [],
+     "t [
+       {
+      "text: "Yur apshouldere sst lesfromthe <ode>publc</de>iretory,
+         "tetStri": "getUserInput = $.et(tUsrInt('ul) + /stye.css').hen(data ={ assert.atchdaa, /body\s*\\{[^\\\}/'Yor app does no servesatic ssets) }, xhr => { thrw n or(xresponseex) })
+      }
+     ],
+      sutons ,
+    "hint: [],      "pe: backnd",
+     "anslations" {}
+    },
+   {
+    "id": "587d7f7417b2b2512bf1",
+      "itle": "Seve SN ona Spific Rote,    "escitio: [
+       il a HTML erer serve (yo gued!) HTML, anAPIsres dat.  <fn>EST<dfn>(REresenaoaStateTansfe)AP allows dtahge ia iple way, itout th need for clents to know anydetal about the server.  clint ony needsto know were the resorc is (the UL  the action it wats t perfrm ont (h veb).TheGTverb  sedwhenyoareetchig some inormaton ihutmoifying nthin. Tsedys, e preferredda formafor movig inormation arund the wb is ON.Simply ut, JSON is a conenient way o reprsen  JaScrpt oect s a strigso  can e easily ansmttd.",        "e's ceae  sime A bycreaig a routetat respds wihJS at thepath <code>/on</od. You n   s usual,withthe <co>app.get()</ode met. Insie e rote nl use the mto <coderes.jsn()</cde>, pasing in an objct  an aumen. Th metod clses the requestrsose lop returningthe data. Behnd th scees it covets a vlid JvaScript object into a string, then ses the aproprit hders to tell your brwserht y r erving JSON,and sendsthe d bc.A valid objechs e usual strutue <code>{ey:data/code. Dta can ba a number, a string a etd ojct or n array. Data caalso a variable r the resul ofa fucion call; i ichcasei wil bevluatd befobeingoverted into a string.,       "Serve the jec<code>{\"essg" Hlo json\"}</code>as a response in JON foat,to te ETequests tothe rote <cod>son/cde Thenpoin yourbowser t your-appurlson, you sould see the essgen te screen.
+     ],
+    "calengeSed:[],
+     "test"       
+         "text": "Theendpont <code>/json</coe should see he json bect <code>{\message\": Hello jon\"}/code>"
+        testStrin" "getUsenpu => $.get(getUseInput('ur') +'json).henaa=>  sset.ual(a.essge 'Hlosn' he \\'/json\\'endpin does no serve the right dt'); }, xhr =>{ ho new rror(xhrrsonseText) }"
+    
+     ],
+    oluti": []
+    "hins": [],
+    "tpe" "ackend",
+     "tanslatios: {}
+  },
+  {
+     "i": "57df1367417bb12bf2",
+     title": "Use he env File",
+     "description" 
+        "The <code>.env</cod> fle is ahidde file that is used to paenvironnt variable  your applation This ile is ecrt, no onebt you anaccess it,and i can be usedto stoedata hat ou want t kep prvate r idd.For exampe, ouastre PI keysfrom exenal servics or our database URI.Yu caalso use it to sor cofigurationoptions. B etingnfiguration option, ou ca ange the behviorofyour appcatin, wihut the ned torewrite oe code.",
+        "The environment varials are acessible romthe ap as cde>proce.ev.VAR_Mcod. The<cdroess.env</ode> objct isa global Node obect, nd variables are pssd as strings. By conenio, tevariabl nmes are all uppecas, wih ors epaated  n undercore.The <cd>.env<code> iashel fle so you do’t need t wrp name or aue  quotes. Itis lo importnt t note that theranot besce arountheequalssin we you are assignin aues t youvriabes, e.g. <cod>VAR_NAME=valu/code>.Usually, u willp each vrale deintion n a separat lne.",
+   Let's add  nvironmen ariabe aa cofiguraion optin.tore t varible <code>MESSAE_TYLEuercase<coe> n the coe>env</co> filee ell the GET<code>/jsn/cd> roe haler thtyoucrete i the last chlenge to transfrm heresponse obect’s essge o uppecasei code>oess.env.MESAGE_STYLE<cod quals <coe>uperas</code>. T espse bct should ecomecode>{\"msa\": \"LLO JON\}</coe>."
+      ],
+    caleneSeed": [,
+     "tests" [
+        {
+          "tex": "Th repoe ofthe endoint <code>on/odeshuldchage accordin tohe nironmen variabl d>MESSAG_STYLE</de",
+         "testStrn": "etUserInput = .et(getUserInut('rl' + '/api/use-v-var').ten(ata   asert.isru(daa.pase 'The rsponse o"jsn" does nohange acordi tESSAGE_SYLE'); r => { how neErro(hrresponsTxt); })"
+        }
+    ],
+     "sutions: [,
+    "hnt: [],
+      "typ": backend",
+      "trnsatons":}
+    },
+   {
+    id: 57dfb137417bb2512bf3",      "itl": "Implementa oot-vel ques Logge Midre,
+    "srition":[
+      Borewe ntroduced the <codexres.satic()</cde ilwrefuntio Now s te tosee what midleware s i moe detal. idewrefutions r functiothat take 3 agmnts: te equst bjectthereponseobjec,and the nextfuntithe applicaton’ request-resonecycle. Tese nctions ecte soecode tacan vid effts o the app, and usullyadd iformatios to the reuest o espone obets. Tey canso end he cyle sendingth reponse, when some coion is met. fthy d’t sendhe rsponse when teyrdone ty sta th exectionof th xtfuncton in the stak h is trigredllng  3rd arguet<coenet)</de>. Moeiformatio in th <a href'ttp:/xpressjs.m/en/uie/ig-milarehtml'taget='_blank'>exress docmntaion</a>.,       "Look at the loing xamle:",
+      "<blockte>fntio(eq, res, next {<br>  onsole.og(\"Imamiddlare...\";<br>  next(;<r>}</lockqote>",      "Le’s spose we moutd this fuio ona route We a request mces e route, it displays he string ’m a middlewa…”. Then it execte he nextfutio inth stack.",
+       "n tis excise we are gin to buld aot-levl mddwre.  w have seeni chlenge 4, mounta middeware function at rot level  cn us he method <c>app.us(&ltmware-uction&gt;)<cd> n tis ae the funtio il be exeuedfo al th rquests ut yo an alo set more specificcondti. Forxample, i u wan  fuctinto be ecuted nly f POT reess, o could use <ode>ap.pot&mware-uctin&gt;)</od>. Anlogu mtods exis for l the http verbs GE, ELEE UT, …)."
+      uild a smle loger. Fo evry eqst, i shold og in the sola strgtaing te flloig fomat: <ode>meth path - p/cod>. xmplewoud ook lik:<cde>GET /json -:ffff:27.0.1/ode Nethat theeis se bteen o>method</ode> and <codeath</coe> andtat the ash eparating de>pah</ce> and<cod>ip</coe> is suroundedba spce on ithe ide. o cangt the reesmthd (ttp eb) th eative rout path, nd the caler’s p fmth reques object, usng <cde>eqethod</cod> <cod>rq.path</code> and <ode>rq.ip</code>. Rememe o call <ode>nxt()<code> when yuaredo, or you serve will e suck foreve Be sure toave the ‘ogs’ opeed,and ee what pns when som requet arrives…",     Hin: Exrs evalteuncions ith order they ar int coe.Thisis true for middwae to. If ou nt it to or all he roes, i should be mounted befoe hem."
+     ],
+    "chllgeSeed: [],
+     te": [        {
+         "ext":"Rt lvel logger iddlwarshould be active",          estStig": getUerInput = $t(geserInput(ur') + '/_piot-iddlewe-loger).thn(data > { as.isrue(dt.passed 'rot-level loggerisnot worng as epecte'); }, r =>  trownw Err(xhr.esponseText); })"
+       }
+     ],
+   "solutions" ],
+      hits":[],
+     "ty" "bakend",
+     "translations: }
+  },
+   {    id: "5877fb13677bb2512bf4"
+      "title": "Chain Middleware  Create a Tim Serer,
+     "desciptin": 
+      "Middeare can be mounted at a specf route usng code>pp.THO(ath,mddlewareFucion)<coe>.Midlae cn alo be hined nie route defnition.",
+      "Look a the olowing example:",       <blocquote>p.get('/user' fnction(req, rs xt) {<br>  r.user = getheUserSyn();  // Hypottcl syncronos opeation<br  nex(;<r>} unction(rq, res {<br  ressendreq.s;<r>)/blckque>",
+      "This pproach is useful o spit the serveroperation in mallr uis.at leas  o abetter app stucture,nd he posiity to reuse od in diferen places. This approach can also be sd topeformsmealaio nhe data. A ac point f the mdleware stck ocan bcktheexecuin ofth crret chain and pas contol tofnctionspeciicaly designedto handle errors Or yuan pass ontol o te et mting rue,t handle specia cases.We will se o in the avance Expres section.",
+       Inteote coe>pp.gt('ow', ..)/cod>chai a middlware uctiand  nal hanler. Ihemiddlwrefuntion u shol add the crnttimtthe reues bjet in te <cod>rei<code> ky. ou can use <de>ew Date()toString()/code> In t hadler,respond ih a JSN oject, taking th structr <coe>{time req.ti}</coe.,
+        "Hint: etet will n ass if you dont chin themiddlewre Iyou moun the function somewhere ele, thetest will al, even if theouput rultis orrect."    ]    challengSeed": []
+     "ess": [
+       
+        "tex": "he /now endint sholdhave uted iddleware",
+        "tsStrin "getUerIut => $.gt(etUserput('rl') + '/_ap/chan-mdlewretime')hen(data =>  assert.equal(aa.stakLength, 2, '\"/now\"ut has no mounte midleware' }, xhr => {thro e Erro(xhr.reposText); })"
+       },
+    {
+     "text": "The /now endpoit hould retun  tim thatis +- secs fo now",
+      "ttSring:etUsrIut  .gtgtUserIput('ul') + '/_api/chain-mddlware-time').thn(data > var now = ew Dte) aertisAtMost(Mth.abs(new Date(data.ie) - now, 200, e retued time is nt btween  0secs rom now'); },xhr={ ro nw Eror(h.resposeTet); })"
+     }      
+     "soluto" [],     nts":[],
+      type": "backnd",
+     "ranslatons":
+    ,
+   {
+    "id""5877fb23677b2b252bf5",
+      "titl: "et Rot Paamete Iut from the Clen",      "esrition" [
+       "When buiin an AP, e have o allo usrs to comnicaeus whatthe wnt t get fomor srvice. Forexmple if the lient is requestng infrmation bou a ser stre in t daaba the ed away to let u knowwhich user teyre inereste in eposible way t achie this resut isusin rote aaeters. Rout parmtesare naed sgments of the UR, delimtedby sahes (/). Ea get captues th value of te pat o the RL which maches its poiton. he capt values can be foundin th <codeeq.params</coe>objec",
+     "<blockqoe>rut_path: '/ser/:used/boo/:ookId<r>actual_reqet_URL: '/user/546/book675' <rreq.paras {urd: '46' ookId'674'}/blckqote>",
+        "Build n echo eve, monted the ruteco>GET/:wrd/ch</coe>. Respond wh a SON object, taki the trutur <cde>{eco: wod}</code>. Yo can fnd the rd to be peted a <de>rq.armsword</cde>. You can tes your rue from you owsr's addss bar, isitingoe mach outes, .g. yur-app-roopath/frecdecamp/echo    ],
+    "halengeSed":],
+    tsts"[       {
+        text": "Test 1 : Yr eho servr sould repeawrd correctl",
+      "teSting" getUerIpt => $.get(etUrInput('url') + 'ehEsT/cho).he(ata=> {assert.eua(data.ech, eChOtEsT', 'est 1:th cho server is not worin as exd') }, xhr  {throw new Eorxrpseext); })"     }
+     {
+         ext" "Tst2  ur echo server shoud repeat wods orrcly"
+      "tsttring": "gtUeInpu => .get(eterInpt(rl'+'/ech-3st/eco).then(data => { assert.equal(aa.cho 'ech-t3st', 'est 2 theeco seer is otworngas expectd') },h = { hrow e rrrhr.respnseTet); })
+     }
+      ],
+    "olutios"],
+     hints": [],     "tp:"backend,
+      "traslations" {}
+  },
+   
+   "i" "587d7f367417b2b25b6",     titl": "etQuy Paraer Inut rom the Cient",
+     descptin": [
+      "Anoter comon wa toget inut from e client is byecoingth data ate the rote pth, usiga query srng. Te qey string is delmited y a quetionmk(?), aninlude fild=valuecouls Eac copleis separated by a apersand &). Exess can pae te ata from the query strn, andulate th object od>eq.quer/coe>. Soe charcters cannot beinURs, tey hav  be encod in a < href=htps:/en.iiedia.or/wiki/Prcnt-enoding' arg'_blan'>iffret forat</a> boeyan send tem. f yu use the API frm Javaipt, you cnuse speci mthods o noe/ecode hse haactrs.",    "<blckqote>oute_path: 'libary'<r>acualreuest_R: library?userId=54&bokd654' br>rq.ury: {userId: '56', ookId: '674'}</blockqote>",
+       Bild an API ndpoint, mountd a cod>GET /name</code>. eson with aJONdocument, taknestcture ce>{ nae 'irsname latnam'cd> The irtad lat nampers oud be encoded n a quey srin e.g. cd>?first=frstame&laststnm</code>.,      "I:Ithe following execse we aegoingt recive data from a POT request, a thesame<coe>/name</code>rotepth. I you wantou can use th method <odpp.rute(path).ethanler).posthdr)</cde>. This sntax los yo o hain differet ver handlers othe sam pah roue.Youc save  bitof typg an hae cleaner cod."
+     ],
+      "callenged: []
+      "ests" 
+     {
+        "text": "T1  Yo APIndpinshourespnd wi the correct ame",
+        "tesStrng: "getUseIut > .gt(gtUserInput(ur')  'name?first=Mick&last=agger').then(data> { ssert.eqldata.ne, 'ickager' 'Tes : \"GET /ae\ routeoes ot behe as epeted) ,xhr => { thrw w Errr(xr.resoneText); }"      },
+        {
+        "text":"Tst 2 : Yr Ai endpint suespnd with h correnam",
+       "testSting": "geUsrIput > $get(gtserIput('url') + /name?last=Richrs&fis=Kith).then(at>  assertequl(dataame,'Keith Richard','est 2 \"ET nm\rote doe no have s expted') hr = { thro new rror(xh.ponseText); })"
+       }
+     ],
+      "soutos: [],      "hints": [],
+     typ": "bend"
+   "ransltion": {}
+   },
+   {
+     "i": "87d7b2677b2b2512bf7",      "tile: "Use oy-arser t Prse PST eess,
+      descriptin":        "Beside GET thre is aother common http erb, tis POST. POST is he deaultmethod sd to send cien at wihHTL frms. In the EST convtin POST  used o send daa to cra ew itemsn te dabas (a wuser,r a new lo post). We donthave a databas  this prt,ut e aroing t learn o to hande POST eqess anyway.",      "In thee kid ofeuess tedata oesn’ apear i th URLit is iddnin threqest bod Tis i prt te HTM equt, lsale payad. SncHTML is text ased, even i you don’t se the dataidesn’t mean thathy re secet. The raw conent of an HTTP PST reqest is hown blow",     <blockquot>POST/th/subpath HTTP/1.0<b>r jhn@exame.com<br>Use-Aent: smeBwser/.0<r>Conttyp: applcation/x-w-form-urlencod<br>Coent-Lengt: 0<br>nameJhn+Doe&ae=25</blockuot>",
+       "As ou an se the body is enodedlike te quer strg. This the defult form use by TMLforms.WithAja we a lo e J t e abl tohnde data vinga moemple structure. Tereis also anothertpe of ecoding: muliart/fomdata. Tis e is used to plod biary files
+       "In his exercis we wil usean urlencode bdy",
+       "To arse h dta cming frm POST qest, youhave to install a ackage: theody-prse. Ths ackageallows you to us a sries of middeware,wich canecod data in ifferetfras. See h doc <a hrf=\"hts//github.om/expessjs/boparser"tret=\"blank\" >her</a>.",
+    "Inallte bod-arserodle i yor packagejsoThen reuiret at th top ofheile Storeit in a variable naed bdPser.,
+       "The midleware to handle rl nodeddat is retune b<code>bodyarserurleoded({extended:ls)</ode><code>xtended=false</code>is a configrtion otioth tells the prsertouthclassic ecoing.When using i, values cn be only strigs orarrays.The exnde version allws m dta fexilty but it is outmatched y SON. ss t <ode>puse()</code> the uncto etrned by te previo etho cll. As usual, e midleware mt bemouted befr a the routes wichnee t.
+      ],
+      "challengeSeed" []      "tests:[
+     
+      "tex":"The 'bd-parse' iddlwre suldbemuted",
+         "testString": "getUerInut  $.get(getserInpt'ur) + '_api/add-by-pa)thn(dt => asert.isbve(data.muntedAt 0 \"bodyparser\ is not mountd orectly') }, xr > hrow new Errr(xh.espnset; })"     }
+      ],
+      "slutions:]      "hints": [],
+     "ty": "bknd",
+     "trnslatios" {}
+  },
+   
+    "i" "587d7fb2367417b2b2512b8,
+     "title":"Get Data from POST Requests",
+    "esripton": 
+      "Mont a OS handlert th pa <cde>/am<ce It’she ae pth as before We a pepareda for i the html frontpge It will sumitth sme dat f xese 10 (Quer sring)fthe body-parse s cnfigure correct, oshoud fid hparaetrs in theobject <cod>re.boy</code. Hae a look t the usual librry example:",       <blckuote>rout: POST'/libary'<b>urencoded_ody: used=46&bokId=654 <r>req.body: {uerId: '546', booId: '654</blokquote>",
+      "Respod wth th smeSON bjc asfre: <coe>{ame 'firstnamelastname'}</code>. Tetf yurendpoint wos usin te html for w rovded in the app frotage,       "p here re everal ther http mehod ote tha GE and POST. nd y nventionthere is a corispodece beteen the p vrb and the operation youare ging to execu onhe server.The cnvtinal mapping is:,
+     "PT (someimes UT) - Creat a new reorce uinthe infomtion set wit the requst,",
+       "GET  ed an existng resour witout mdifi it,",
+      PU or PATCH(sotimes OS) -Update asourc sing the tasn,",
+       DELETE = Dele areoue.",
+      There are alsoacouplef other method hih ae edto negotate conecto wth teseerxce fro GT, all hothe methods isted aboe can hae  payloa (i.e the data into threqst body). The dy-arseiddlewre work with these ethod aswel"      ],
+     "allngSeed" [],
+      "tests": [        {
+        "ext" est  : Your API edpont sld respn with te orectnam",
+       "testStrng" "getserIput =>$ost(etUserInpu('url') + 'name',fs: 'Mi', at: Jagger'}.then(data>  assert.qal(at.nme, 'Mick agger','Test:\"POST/name\" route does not behave as exected') ,xhr =>{ trow newrror(xhr.reponseTex); }
+       ,
+       {
+          text": "et 2 Yor AP endpoit shod respondwith he corrt name",
+        "testSring:"gtUerInpt=>$ostgetUserInput('url') + '/nme', {firt 'Kih', last: 'ihars'})thn(data > {asset.eual(ata.name,'Ke ichrds''Tet 2: \OST /ame\" route os not behaveas epeted') }, xr=> {thr neError(xr.reonseTet); })"
+     }
+     ]
+    "soluions": [],
+     "hts": [],
+    "tpe: ed"
+    "trnslatin":{}
+   }
+  ]
+}

@@ -1,0 +1,180 @@
+{  "ye""Fle"
+  "stat: 0,
+ "end" 31,
+  "c" {
+    "ta": {
+      "lin": 1,    "colum:0
+    },
+  "end" {
+     "le":1,
+   "column: 31
+  
+  ,
+  program: {   ty": Proa",
+  "sta":
+    nd: 3,
+    lo" {      "stat{
+       "ln": 1,
+        "colmn": 0    },
+    "end":{
+      "le":1,
+        "column": 31     }  },    surcType":script"
+   "body" 
+      {       ""ExpresionSatemnt"
+      "strt": ,       "end": 31,
+      "lc": {
+       "start"{
+         "line": 1,
+       "olum"
+         },
+        "end: {
+          "lne 1,
+          "oumn": 31
+        }
+       },     "exssion":{
+         "type: "AssgmetExpresion",          "stat": 0,
+         "end": 31,
+       loc: {
+          strt": {          "lne": ,
+           "column": 0
+          },        "end": {
+            line" 1,
+          "clum: 31
+         }
+          },
+         "operao" "=,        "let"{
+        "tpe": "Identifier"
+        "stat":0
+          end": 1,      "loc: {
+            "srt": 
+           "lin": 1,
+              "clun: 0
+             }
+           "ed" {
+              line": 1,
+                "coumn" 
+         },
+           "identifirName": "o"
+        ,
+          name":"o"
+     }
+         riht":{
+        "type: "bjectExpression
+       "st" 4,
+         "en":31,
+         "loc": {
+           start: {
+         "ine": 1,
+             "column": 4
+           },          "d": {
+             "ie": 1,             "colmn": 1
+           }
+           },
+         ropers"[           {
+              "pe": "ObjetPropr",
+               "stat": 6,            n" 29,
+              "loc"{
+             start {
+                  line"1,
+              "colun": 6
+              },
+               "end" {
+              "line": 
+              clumn: 29
+               }
+              },
+            "metod: fale              ey": {
+              "te":"dentife",                start": 6,            "end",
+              "loc": {
+               "start: 
+                   "ie": 1,
+                   "colmn: 6
+               },
+             "nd: {
+                 n: 1,
+               "coun": 7
+                 },
+             "dentiferNe": "f
+              },
+               "na:"f"
+            },
+             "cmpued": alse,
+            "shortnd": fale,
+             "alue:
+                "tye": "Fntionxpression",
+                "start": 9
+              "n":29,
+                "oc": 
+                "sart: {
+                 "lin": 1,
+               "column: 9
+                 },               "ed" 
+                li": 1,
+                  column:9
+                 }              },              "id": null
+               "enerato":alse,
+                "asyn": false,
+              "paas":                  {
+                  "type" "Idenier",
+                   "tart": 18,
+                  "en": 1,
+                  "loc": {
+                  "start": {
+                         "ine:1                   "column": 18
+                  },
+                  "nd: {                     "line:1,
+                 "column":1
+                     ,
+                      "identifierNae": "a"
+                  
+                   "nam": ""
+                  },
+                 {
+                  "type": "RestElement",
+                  "start": 21,
+               "e": 25                    "loc: {
+                     "sart": {
+                     "line: 1                     "con: 2
+                }
+                   "n": {
+                       "ne:,
+                    "column": 5
+                     
+              }
+                  "rgmet"{
+                      "type":"dentifie"                      "start:4,                   end": 25,                   loc": {
+                      "strt" {
+                        "line": ,
+                      "clumn": 2
+                      },
+                 "end":{
+                        "li" 
+                        "clum" 25
+                      ,
+                         ientifierame "b"                   }
+                     "name":"b"
+                  }
+                }                ],
+           body": {
+           "ype": "BockStaemen"
+               "tat": 7,
+              en": 9,
+                 "loc: {
+                  "stat": {                  "lin": ,
+                  "colmn":27                 },
+                n": {
+                   "line":                      "oumn": 29
+                  }               }
+                 body": [],
+                  drecties": [
+                 }
+            }
+            }
+        ]
+         
+      }
+     
+    ],
+   "directies" []
+  }
+}

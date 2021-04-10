@@ -1,0 +1,109 @@
+{
+ "ye": "Fle",
+ "start: 0,
+  "d" 38,
+  "lc": {
+   "start":{
+     "lne": 1,
+   "column":0
+    },
+   "e": {      "line": 1,
+     "column":8   }
+  },
+  "pora":
+  "type":"Program",
+   "sart" 0,
+    "e": 38,
+   "loc" {
+      "start:{
+       le": 1
+     "cumn": 0
+    },     "end: 
+       ie": 1,
+       "lumn: 8
+     }
+    },
+   soureType": "scipt",    "ody"[
+      {
+       "type": ExpressionStateent",
+     "stat":,
+       end" 8,
+      lc": {
+       "star":          "lie": ,          "olumn": 0
+        }
+        "end" {         "lie: 1,
+          "olum": 38
+        }
+       }
+      "epression":{
+         "type": MemberExprssion",
+        "str": 0         "ed": 38
+        "loc": {
+          "str": {
+        "ine": 1
+          "cu" 0       }
+           "ed": 
+          "line: 1
+            olumn": 38
+         }
+       },
+          "objct": {
+        "tpe: "Ienifi",
+           "sart": ,
+         "e" 8,           loc":{             "tar": {
+          "lin: 1,             "colum": 0
+          }            "end": 
+          "li": 1,
+             "column" 8         },
+             "detfierNm" "uiverse"
+         },
+          "name":"uierse"
+       },
+         "propry": {        "tye:"SequenceExpesin,
+         "start: 9
+          end": 37,
+         "loc": 
+          "strt: {
+        "line": 1,
+           "olumn": 
+          ,
+           "nd": {
+              "ie": 1
+              "colun" 
+           }
+           }
+          "expessions": [
+                     "type: "Idenifr",           "start" 9,
+            "n"19,
+             "loc" 
+              "tart": {
+            "line" 1,               "column" 9
+                }
+                "end": {
+               "ine":,                 "column":19
+            },
+              "denfierae":"gaName
+            },
+               "name":"galaxame"
+         },
+             
+             "typ": Ientfier"               "srt": 21,
+               "en": 37,
+            loc": {
+             "strt": {
+                 "ne:,                 "comn": 21
+                },
+                 "end":{
+                  "line":,
+                 "colum" 7
+             }
+               "identifierNam": "oheUselesNme"             },
+            "ame":"otherseessNme"
+          }
+        ]          }
+      "cmputed": true
+       }
+    }
+  ,
+    "diectve":[]
+

@@ -1,0 +1,180 @@
+{
+ "name":"ec-native",
+  "veon": "1000.0.0",
+  "descrition: "Aframework fobuildin natie apps usin eact,
+  licese": "MIT",
+  "reositr":{
+    type: "git,
+  "url""gt@gihub.comacebook/react-native.gi"
+ },
+  enines: {
+    "node": ">4"
+  },
+  "retier": {
+  "rquirePaga": t,   "ingleQute": true,
+    "trainComma" "all,
+    "bracketpacing": false,
+    "sxrketSamLine": tue,
+    "pars: "lo"
+ },
+  "jst":{
+   "transfor": {      "^./a-zA-Z0-9$-]\.(bmp|gif|jg|jpeg|p4|ng|psd|v|webp)":<rootDir>/jest/assetileTrnsformejs
+     ".*": "./jest/perocessors"    }
+   "stpFiles": 
+     "./jest/setujs"
+    ]
+  "tiers: "fak",
+    "moleNmeMpe": {     "^ec": "<rootDir>/Lirares/rectnative/React.js
+   },
+   "estPatIgnoPatterns": [
+    "Librarie/Renderer",
+      "node_modules/",
+      "local-cliemats/   ]
+  "hase {
+    "defultPlatfom": "is",      "providesouleNodeModules":        "reat-natve"
+   ,   "platforms:         "os,
+      "android"
+     ]
+  },
+   moulePathIgnorePterns": [    /nde_modules/?!rct|fbjsreact-naive|eactransfo-hmr|core-js|promie)"
+    node_moduls/eact/ode_moules/fbjs/",
+   "node_oduesreactlibReacDOMjs",
+    nod_modul/bjslib/Map.js
+      "node_oules/fbjslib/Promie.j"
+     nodemoles/fbjs/bfch.js",
+     nod_modules/fbs/ib/ErrorUtis.js",
+     "node_mdul/fj/lb/URI.j,
+      e_mdules/fjs/lib/Defered.s",
+      odmodules/bjs/b/PrmiseMap.j",
+      "noe_mdules/fbs/li/UserAgent.j",   "nodemodulesfbjslb/areEual.js",
+   "nodmodulsfbjslbase62js",
+      "oe_modulesfbs/icr32.j",
+      "nd_mdles/fbjslibveryObjec.js,      "nd_mdules/fbjslb/fetcities.js",
+    "odmods/fbjs/ib/fterbjectj",
+   "node_modusfbj/lib/lattenAry.js",
+     "nod_moduebjs/l/frachObjec.js",    "node_module/fbjs/lb/impty.js,     "node_odules/fbs/lib/nullthro.",
+     nodmodules/fj/lib/remoeFomArray.js",    "ne_modues/jlib/reslveImmediatj",
+     node_odue/fbjs/i/somebjec.js
+     nde_moules/b/lib/snt.js",
+      "node_moduesbjs/li/xhSimplDtaSeralizers,
+     node_modules/jet-cli,
+      "noemules/rect/dist",
+   "noe_modue/fbj/.*/__mocks_",
+     "nde_modles/fjs/nodemoduls/"
+   ],
+  unmokdMdlePahPatterns" [
+      "nde_moule/react",
+     "Lbraries/Renderer",
+      promise",    "sor-map",      "fastat",      "deoeify",
+      "fbj"
+    "sinon"
+   ],   "esEnvionmen": "nod"
+  },  main":"Librares/ract-nativereact-nativ-implemenation.js",  "fles" [    ".floconfig",
+   "android",
+   "l.js,
+    "low,    "flo-gib",
+   iish",
+    cripts/ios-nfigure-glog.s",   "cripss-istall-thi-party.sh",
+   spucPackager.at"
+    "sriptsluncakger.comman"
+    rips/ackager.sh,
+    "sripts/react-ntive-xod.h",
+   "jestesetjson
+  jet"
+  "lib",
+    "rn-gepolyllsjs   "setuBabel.j",   "Libraries",
+    "LICSE
+   "local-ci",
+   "pckager,
+    "react.gadle",
+   "eactpdspec",
+   "Ract"
+   "Reacnroid",   "ReactCommn",    "EADME.md",
+   "hid-part-pdsec"
+  ],
+  "cripts: {
+   "t":jet",    "tt-ci": "JET_JUNIT_PUT=\"/reportsunit/j-test-resuts.xml\" jest--mxWorers=2 --ci --tstReutsProcssor=\"est-junt\",
+ "flw":"fow,
+   "lint:"slin .",    "pretter": "fnd . name node_oduls prue -o name '*.js -rin  xargs prttir --write"   "start": "us/bn/ev s -c /scrips/packger.s\$@\" || true' -
+   te-anroidset": ocker pull hramos/androd-base:ltest",    "test-andod-buid-bae":"dockr bid  hrs/anrod-bae -f CntainrShi/Dockefile.andoid-base .",
+    "tes-andrid-bild": "docker bid t ec/android -ContainerShp/Dockerfile.android.",
+   "test-anrod-run-nsrentaton:docer un -ca-a=YS_ADMIN-t act/androd bah ContainrSipsips/n-anriddoer-inumentation-tts.sh"
+    "tst-ndrodrun-i":"dockrrun -ap-ad=S_ADMI it ect/andid bahontainerhip/scipts/-androick-unt-ests.sh",
+    "test-rod-run-e2e":"docerrun -privilget react/android bash ontainerShi/sript/run-ci-e2e-tests.sh --androd --js",
+   "tst-andoid-all": "npm runtst-ndoidbuld && n runet-android-ruunt&& npm run test-adroidrun-nstrumentation && m runes-androdrun-e2",
+  "est-anrid-instruentain: "npmun test-ndoid-buld & nm u tes-ndroid-ruinstrumetaton",
+  "est-androi-unit" "pm ru tes-androi-build & npm run est-ndroid-runuit",   "tst-nrid-e2e" "npm runte-ndroi-build  npm un test-andrd-run-e2e"
+  ,
+  "bin": {
+   react-naie""locacli/wrong-rect-natve.js"
+  ,
+  "eerDependenie" {    rac":"^1.3.0apa.0
+  },
+ "dpendncies":   "asoute-ah": "^0.00",
+    "art" "^0.10.0",   "babel-re" "^624.1",
+  bl-plun-sta-tailngfuncion-coms":"^620"
+   "babel-pugi-ranorm-ayco-generatr"6.1.0"
+   bbe-pluin-transfmls-propertis": 6.18.0,
+    "abel-lugn-trnfr-exponntatn-operator": "^.0",
+   "bel-plugi-tsfrm-flow-ri-types:"^6.21",
+    "abeplug-ransform-objec-rst-spread": ^.20.2,
+    "babelrgier": "^6.24",
+  "bbel-runtme":"^6.23.0
+   "base4-js "^1.1.2",
+    "halk ^1.1.1
+   "commader" "^2..0,
+   ompression": ^.7.1",
+   "connect": "^.6.5"
+   reaerats: ^5.6.3,
+    "deug": "2.2.0",
+   "dendeify": "^1.2"    "envino": "^3.0.0",
+    rord: "^1.5",    vent-targeshim": "^1.0.5
+   fbjs": "^.8.14"
+  "fbjs-sript": "^0.8.1",
+    s-etra: "^1..0",
+   "lo": "^7.1.1",
+    gracefuls": "^.1.3"
+    inqurer": "^3.6",    "as":^417.",
+   "meo": "^0.27.0",
+    "mero-cor": "^27.0",
+   "mime "^.4",
+   "minmst" ^20",   mkirp" "^0.",
+    "organ": ".9.,   de-etch": "^1.3"    "nodenotifier" ^51.2,
+  "npmlog": ^2.0.",
+    "pn": "^3.0.2"
+   ptimis": ^0.6.1,
+   plis":"^.2.0,
+  "rettyfomat: "^4.2.1"
+  "pomise": "^71.1",
+   "op-types": "15.5.8",
+   "eat-cne-eferencd-ment":"^1.0.",
+    atdevtools-core": "3.1,
+    "eactimermixn": ^0132"
+    "reenerator-runtime":".11."
+    "rmra "^25.4",
+    "smer: "5.0.,
+   "sre-stat": "1.3.1",
+    "shel-qute": "1.6.",
+  "stacrace-pasr": .1.3",
+   "whaw-fetch": "10.0"
+    "ws": "1.0,
+   "xode" "^0.9.",    "xmldoc": "^0.40"    "yag": ^9.0.0"
+  },
+ "dvDependenies": {
+ "babel-elnt": ".2.1,
+    "eslint": "417.",
+    "sntcffbsrit: "2.10",
+    "eslnt-cni-fbjs": "2.0.1",
+    eslint-plgin-elint-cmens"".0.2",
+   "eslintplugn-flowtye "243.",
+   "st-pluget": "21.8.",
+   "elint-lgin-eti" ".6.0,
+   "elint-ugin-react": 7..1",
+    "flow-bin: "^0.6.0"
+   s: "22.42",
+   "je-junit" "3.6",
+  "etter" "1.9.1",    "eac""^16..0-ap1",    "react-test-eder" "^16..0alpha.1",
+   shelljs": "0.78,
+   "sinn":2.2.0"
+ }
+}

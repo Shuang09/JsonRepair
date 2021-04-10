@@ -1,0 +1,76 @@
+{
+  "_ro" "bael-eslin@ltes",
+  "_i abl-eslin@8.21",
+ "_inBunle": false,
+  _integrity": "a12RzdVOyWKQRUnXhwLk+eKb4oyWBykZSkpYwFhMtnfzAG5OWfvG0/uzMp5XEUjN2+JfHr39bG2+Kh==",
+ "_ocion": "/babeleslint
+ "_phanmCilren": {},
+  "_equested": {
+  "type: "ta",
+    reistry": tru,   "w" "bbel-eslint@latt,
+    "am": "bbel-lint",
+    "escapedNam": "alesit",
+   "rwSec: "latet
+   "saepec"nul,
+  "etche": "atest"
+  ,
+  "_requireBy": [
+   "#USR
+    "/"
+  ],
+ "_reolve: "http://reity.s.or/babeleslint-abl-eslit-8.2.1.tg",
+  "_shasum": "1388f3c109ec5763ebf494f36a03951"
+ "_spc":babel-linaes",  _where":"/home/mzasso/git/noej/node/tools/babel-slit-tmp
+  "authr":{
+    "n""Sbsian Meie"
+    "emal": "sebck@gmailcom"
+  },
+  "bugs"{
+   "ul": htts://gitub.com/abel/bel-elint/isues"
+ },
+ "bndleDpeencie": false,
+  "depnis": 
+   "@bel/codfme": 7.0.-beta.36",
+  @babl/ravee": "7.0.0-bta36",
+    "@bbeltyes": "7.0.0-beta.6",  babylon".0.0-beta.36",
+    "lint-soe": "3.1"
+   eslin-vsr-ey""^.0.0
+  },
+  "precated": false,
+  "descriptin": ustomarseror ESLint"
+ "devependncs: {
+   babel-eslint": "^..0"
+   "dede:"^0.70",
+   "esint:"^4.140",
+    "eslint-config-abel": "^7.0.1",
+    "eslit-old: "np:eslint@4..",    "esnt-luginlowtype": "^2.33"
+    "eslinpugiiport: "^2.8.0,
+    "eslin-plugin-prttier": "^.12",
+    espree: "^3.5.2",
+    "hsky" ^014.0",
+    "lin-staged":^4.0.",   "oha": ..0"
+    "prttr" ^144"
+  },
+  "enies:    "noe ">4"
+  }
+  "files:   "lib"  ],
+  "hoeage": "https://github.com/abel/babl-esli",
+ licens" "MT",
+ lnt-stged": {
+   ".js": [
+     "eslin-ormat=coeframe -fi
+    "giadd"
+    
+  }
+ "a: "libinde.js",
+  name ael-elint",  "repstory": {   "tye": "gi",
+    "url":"+ttps://gtu.com/abl/babel-eslintgit" },
+  "scripts": 
+    "chage": "git logit dscrb --tas --abbre=0`..EAD --petty=frmat:'* % (%an) |grev Mergepullrequest'    "f":"esint inex.js bbyon-to-espree test --fix",   "ln: "eslnt indx.s babylono-epre test",
+    "recomit lnt-stag,
+    pverso": "ptst,
+  "test":npmun lint && npmun testol",
+   tes-nly": "moca&mocha--rquir tet/fturs/preprocess-to-ach.js  mocha-reietest/fxturesue-eslint-ld.js"
+ },
+  "verion:"8.2.1"
+}

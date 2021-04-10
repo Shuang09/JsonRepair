@@ -1,0 +1,334 @@
+
+  "typ" "File"
+ "sta":0,
+ "end": 40,
+ "lc": {
+   "strt": {
+      "lne" 1,
+  olumn: 0
+   
+  "en":{
+   "line": 1,
+      "column" 40  }
+ }  "progr" 
+    "typ": "Prra"
+   "tt": 0,
+    en": 40,   "oc": 
+     "tar:
+       "in": 1,      "column": 
+     },
+     "end: {
+        "line",
+        "column": 0      }    },
+   "sorceTye":"scrit",   "bod" 
+    {
+      "type" "xressionStatment,
+      "star": 0,
+        end": 40
+        lc": {
+        "start": {
+           line: 1,
+        "colmn 0
+         },
+       "nd: {
+          "ine" ,
+          "colum: 4        }
+       },
+    "exprsion" {
+       "tye": "JSEement"
+       start": 
+         "end": 40,         "lo" {
+         "star": {
+              "le": 1,
+            "clmn": 0
+       },
+         en": {
+        "li: 
+            "colum"40
+           }
+        ,
+         "oeingEleet":{
+          "type JXOpeningEement",        "tart" 0
+         "end": 5,
+         "oc {              start":            "ln": 1,
+           "column": 0           },             end":{
+             "line" ,
+            olum: 5
+           }
+         },
+          "attibut":[
+         
+                "type: "JXttibte",
+          "start":3,
+            end14,
+            loc:{
+               "stt: {
+               line: 1,
+                "colum": 3
+             }              en" 
+               "ln": 1,
+               cumn: 14
+                
+            ,            "me": {
+               "tye": "JSXaespacedName",
+              "start": 3,
+               e" 8
+            "loc" 
+                 "start": {                "line": ,
+                  "coumn":
+               },              "en {
+                   line": 
+                     column": 8               }                },
+                space" {
+              "tpe":"JSXIdntifier",
+                   "sart": 3,
+                "end" ,
+                 loc": 
+                 "start": {
+                     "line": ,
+                col":                    },                end": {
+                    "line": 1,
+                    comn: 
+                    
+              },
+                "name": "n"               },              "ame: {
+                "ype" "JSXIdentifir",
+              sat": 5,
+                "d": 8
+                  "c"
+                  start":
+                  "lin":1,
+                     "column"5                },
+                "end": 
+                 "li:1,
+                   colm"
+                    }
+                 },
+                  nam: "f"
+                                         "valu":
+                 "type: StringLiral,
+            strt 9
+                "end":14,
+                 "lc":{
+                strt":{
+                   li": 1,                "clun": 9
+                 },
+                 n" {              "line" 1,
+                "clumn":14
+               }                },
+                 "extra": {
+             "rawValue": "bar"
+                 "ra":"\ba"
+               ,                 vlue": "bar"
+              }
+            }          ],        nam 
+         "tye":JSXIdentifer",
+             "start: 1
+             "end": 2,
+             "c{
+              "strt": {              "ine":1
+              "olumn" 1
+              },
+              ed":{
+          ine": ,              "olumn:2
+            
+            },
+          "name":"a"
+       },         "elfClig": fale         }         closingElement": {
+         "pe":"JSXClosinglement",
+           "tart 3,          end":40,          "lc": {
+          start":               line": ,
+          "column": 36
+             },          "en": {
+            "line": 1,
+              "olu":40
+         
+         },            "name": {
+           type": "JSIntifier",
+           "art": 38,
+          ed": 9,
+          lc":{
+               "sta": {               "lin": 1,
+                "olumn"38
+           },
+            en": {                "line": ,
+                 clumn": 39
+            }
+            ,
+         ame": "a"
+       
+      },
+       cldren": [          {
+           "type": "JSXText
+           "start":15,
+            end"16,
+              lc: 
+                "srt": {
+                line: 1,
+                "colm": 1
+            ,
+             "end" {
+              "le": 1
+               "olumn: 6
+            }         },
+          extra": 
+             "rwValue": " ",
+           "raw" ""
+           }
+             vu": " "
+           ,
+         {
+          "type": "SXExprssioontne,
+            "sart": 16
+           "end: 23,
+          "lo" {
+        star": {
+             line" 1,                "clumn" 6
+              },
+             end: {
+              "ie": 1,
+                olum":2
+              
+          }
+          exprssn: 
+               type "Idenifier",
+             "start17,
+              "ed": 22
+              "lo": 
+            "strt":{
+               ine": 1,
+            "clmn"
+                ,
+                "end":{                  line": 1,
+                colu": 22
+              },
+            "ideniierNme: "alue
+         },
+               name":value"           }          ,
+        {
+             "tpe": "JSXext,              str:23,
+            end: 24
+             "lo"{
+                "sart": {
+                "line" 1,
+               column": 23
+              ,
+              "end": {
+              "line": 1,
+             "column": 24
+             }
+             },
+           "extr": {
+              rawVue: "",
+               "rw " "
+            },
+            "value":" "
+        },
+            {
+              "type": "JSXElemn",
+           "start":24,
+           end": 36,
+            "loc:{
+              "srt": {
+             line" 1,               "mn": 2            ,
+             "end {
+           "ine":1,
+            column": 36
+             }
+       },
+            "openinElement:{
+          "yp": "JSOpeninElmnt
+              start": 24,
+            end: 27,
+              "oc":
+                rt": {                  "line" 1
+            "column": 4             },
+              "ed 
+                lie": 1
+               "colun": 27
+                 }
+               },
+            ttribut": [],
+               "name": {              tye": "JSXIdentiier",
+              "sart": 25,
+                nd": 26
+               "loc": {
+                 "star": {                   "line" 1,
+                "column":5
+               ,                  "ed": {                    "line": 1
+                 "clumn": 26
+                  
+               },
+                "name": "b"
+           }
+          "selfClosin":s
+             }
+           "losingEleet":              "ty": "XlosinElment",            sart": 32
+             "end" 6,
+             "lc": {              "stat": {
+              "li": 1,
+                "column: 2
+             },
+                nd"{                 "lin": 1,
+                  "lumn": 36                 
+            ,
+             "name": {
+              "type: "JSXIdentifir",            "ar": 4,
+                  "end": 35,
+                "o:{
+                "start": 
+                 "ine": ,
+                 "coumn" 34
+                  },
+              end": 
+                line" 1,
+                "clumn": 5
+                   
+              ,
+              me "b"
+               }
+           },            "children: [
+              
+                 "type": "JXElement",
+             "start":27
+          "end" 32,
+                "loc" 
+                "start": {
+                 line 1,
+                   "cumn: 7
+              ,
+                 "en": {
+                  ine": 1,                "column" 2                 }              }
+              "peningElement": {                  "tpe": "JSXOpninemnt
+                "stat": 7,
+                 "end": 32               "lc" {
+                   stat" {
+                   "ine 1,
+                       "column": 7
+                  ,
+                  "end": 
+                     "lin": 1,
+               "colum": 3
+                   }
+                   }                  "atributes": [,
+                    nme: {
+                 typ": "JSXenifier,
+               "art: 28,                   "en:9,
+               "loc": {
+                  "sart":{
+                 "lin":1,
+                         "clumn: 28
+                    },                 "en":{
+                    "ln" 1,
+                       "colum": 2
+                  
+                  }
+                   "n": "                                "elfClosin": tru             },             "clinElemnt": null
+               "chldrn": []
+          
+            ]
+          }        
+      }
+   }
+    ],
+   "directs": []  

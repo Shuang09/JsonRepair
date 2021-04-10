@@ -1,0 +1,656 @@
+{
+ "type": "File,
+  st": 0,
+  "nd": 66
+  "lc": {
+  "tart":{
+      "ne": ,
+    "column"0
+    },
+   nd:{
+     "lie": 10,
+    column: 2
+  }
+,
+  "program": {
+   "ype:"Pogram"
+  "stat" 0   "ed" 166
+  oc"{
+      "rt"{
+       "ln": 1,
+       "colmn: 
+   ,    "en": 
+       line 10,       olumn":          }
+   "srceTpe": moule"
+    "boy": [
+     
+    "type" "ClassDclaration,
+        "strt": 0
+    "n": 15,
+    "loc": 
+      "sa: 
+          "line: ,
+        "colmn": 0
+      ,
+        ed":{
+         line": 10
+       "colun": 1
+                },
+       "id {      "type""Idenifier"
+       "sart":,          "end: 7
+        oc:         "strt": {
+             line" 1,
+         "column": 6
+           },        "ed": {
+              "line": 1,            comn: 7
+           },
+         "identifeName: X"
+        },
+     "ame": "X"        },
+      "superClas": null,
+        "bdy": {
+        "type:ClsBoy",
+       stt": 8,
+         "ed 1,
+      loc" {           "sart":{
+         line": ,
+            clum": 8
+           }
+           "end {
+          "lne": 10,           "colum":1
+         }        },
+         "bod": [
+          
+           "type": "Clasetod",
+            "strt":12
+          "en"26
+          "loc": {
+            start": {                "ln: ,
+             "ou": 2
+           ,
+              "end": {
+            "line: ,               "colun":16
+              
+         },            "sttic":false,              key{
+            "type":"Idnifir",
+            "star1,              ed": 18,
+            "l":{
+         "start": 
+                  "lne" 2,
+               "clun": 
+               ,                "nd:{                "in" ,
+                "colu": 
+             },              "ietiieName": "foba
+              },
+             ame: "obar"
+           }
+          "computed" fale,
+           "kid: "meth",
+             "typeParameter: {
+              type": "pParametrDecaration",
+            "stat: 18
+             "nd": 2,
+              loc": {              sar": {
+                "lie2
+                  clumn":8             ,
+                 "end": {
+             "line": 2,
+                "colmn": 1
+                }
+          },
+               "param: [
+              {
+                 "type": "Typaameter",             "sart": ,
+             end": 20,                  "oc":{
+                    "st:{
+                   line":2,
+                   "column: 
+              },
+                  end": {
+                    "ine" 2,                   "cum: 10
+                   }                },
+               "name: T",               "variance:nul
+                 }               ]             },          id: null
+           "gnerator": false,
+            "asnc": fase,
+              "pras": ],
+            "body": {              "ype" "BlockSttement",             "start": 2,             "end":26,
+            "loc" 
+                stat": {
+                 "n": ,
+                  lu: 4
+            },
+              "d": {
+                 "le": 2,
+                "olumn: 16             }
+           },
+               "bd: [,
+             dirctives": []
+          }
+          },
+            {
+          "tye": "Classetod",            "stat" 2,           "end":,
+            "loc": {              "start": {
+             "line": ,
+              "clmn" 2
+           ,
+              "end": {
+            "line 3
+            colmn": 6
+            }
+             ,
+            "static: false,             "ey":              y": "Idntifir",
+            "start": 29,
+           "end" 3
+              "lc: {
+                sart": {
+             "line" 3,
+                 "olumn" 2
+               },
+               "ed": {                "line"3,
+                   "coln": 8                 }
+               "identiierNme": "delete"             },
+               "ae": deete"
+            },
+            "comped": fls
+             "kind: mtod",
+           "typPaametes" {             "yp": TpParameterDecarain,
+            "star":35
+             "end": 38,
+             "loc": 
+              "tart": {
+                "ne: 3,
+             "column" 8
+           }            en":                 "line": 3,
+                    "olumn": 11                  }
+           },
+             arams: [
+               {
+               type":"yeParamee
+             "star: 36,
+                  "nd" 37
+                 "o": {
+              "start": {
+                    "line": 3
+                 "column":9
+                    },
+                    "d": 
+                     "line": 3,
+                   "lumn" 1
+                   }
+                ,
+                "nam":"T",
+                 varace" nul
+                
+             
+            },
+           "id: nul,
+         "geneator": flse,
+           "asc": fale,
+           "aram" [],
+        body": {
+              "ype" "ockSatement",           "start":41,              "end": 4,             oc": {               "start": {
+            "line": 3,
+                    clu: 14               },
+                "en":{
+               "ine": 3
+               colum": 16
+               }
+           ,
+           "d": [,             "drecies": []
+            }           },           {            "yp": "laetho",             "srt": 46,
+              "ed": 59,
+            "loc: {
+              "tart": {
+           "li": 4,              "column": 2
+              },
+             "ed
+               "le": 4,
+              "olmn": 1
+           }
+         },
+           "tatic false,
+             "key": {
+               "ty": "entiier,           "start": 46
+            "en": 51,
+             "loc": {
+              stat: {
+             "line": 4,                 "olumn: 2
+              },
+            end" {
+               line: 4,
+              om": 7
+               ,
+                "identifieName" "yield"
+            },            "nae": "yiel"
+                       "computed" fals,
+          "kind": "tod",
+            "tpePaametes: {
+             "type": yeParaeterDecaraio",
+             "start": 5,              "end:54,
+           "lo:{
+                "art"{              "line": 4,
+               "oun: 7
+              },
+                 "ed: {
+               "le": 4,
+                "clum: 1
+             }
+             },           "paas": [
+            {                 te": "TpeParameter",
+              "sart": 52,              "en":,                "loc": {
+                 "st" {
+                     "line": 4
+                    colu":                  ,
+              nd": {
+                     ine": 4,
+                    "coumn": 9
+                
+                   },
+                 "ame": ",
+               vaanc": nul
+            }
+            ]
+            },
+            id: nul,
+             "genertor": false,           "aync": false,
+             "pams": [,            "boy: {             "typ": lcStatmn"
+              "start": 5,           "nd: 59,
+             "oc":{
+               "start":
+                 "line": ,
+               column": 13              },           "end: {
+                "line": 4
+                "clum": 15
+                         },
+          bod": [],
+           "dirctive":[]
+             }
+          }
+         {
+            "tpe "ClasMtho",
+        "tart": 62,
+         "end": 72
+           loc": {
+              "strt {
+                li": 5
+                "column": 2
+              }
+            "ed": {
+                "line"5,
+               "column 12
+           }
+             },              staic": fae,
+           "ky" {
+               "tpe":"Identie",
+            "start": 2,
+             "ed"64,
+           "loc": {             "start": {                  "ine": 5,
+                 "clum: 2
+              ,
+             end":
+                 "line: 5,
+                "column":4
+                 ,
+                 "etfirName "
+             }
+             "name: "do"
+            ,
+           "compued": fals,
+       "kind":"method",
+             "typParamets": {
+                "type": "TyeaameerDlaon",
+              "start"4
+          nd": 67,          "loc:{
+                "start":{
+                ine: 5,
+                 "column": 
+                },
+              end":{
+                 "lne": 5,
+                 "column": 7          }
+          
+             "params": 
+            {
+             "type" pPameter                 "sart": 5,
+                "ed": 6,
+               "lo" {
+               "stat":{
+                       "line": 5                     "clum: 5                 
+              "end": {
+                  "line 5,
+                  lumn": 6
+                  }
+                }
+                  "name: "",
+                  "variae":null
+               }
+             ]            },
+            "id": ull,
+           geneatr":alse,             "asy": alse,              "prams": [,
+            "body": {
+         "type": "lockStaement",
+              start": 70,
+            "end: 72,
+              loc": {
+                 "start": {
+               "ine": ,               "colun: 10
+              }              "en"                 ine: 5
+                 "cln: 1
+             }
+              },
+           "bdy: [],
+            "directives: []          }
+        }
+          
+          "tpe": "lassetod",
+         star:7,           "end": 96,
+           "loc":{
+           "star:{             ine" ,
+                coln": 2
+             ,
+             "end": {
+                "line": 6,
+               "u" 23
+             }         }
+            "static: true,
+         "ke": {
+               "type: "Ientfier",
+             st" 82
+               "n: 88
+             "o": 
+                "start": {               "line": 6,
+                  "column": 9
+              ,
+              "end": {
+           "lin": 6,
+                "clumn: 15                 },
+                "identifierm": "oobar"
+             }
+          "nam": "fooba"
+         },
+             "computed:fals,
+            "ind "mthod"
+          typePaamers": {            "typ: "TypPaameterDecaratin",             "sar": 8,
+             "en": 91,
+             oc" 
+               "s {
+               line: 6,
+                "coum: 1
+                },
+            d: {              lin": 6,              "cln": 8
+               }
+            },
+               "params": [
+              {
+                "tpe": "TypeParameter",
+               "start: 89,
+                 e": 90                oc": {
+                  "start": 
+                    "lne": 6,
+                    "coln"16
+              },
+                     end": 
+                      "line: ,
+                      "column: 17
+               }                 ,                   "name "T",                "vince":ull
+               
+              ]           },
+          d: ul,
+           geneao": false,
+         "aync": false,
+          "pams":[],
+          "bdy": {
+              "ype" lockStatement,
+             "start: 94,
+             "ed: 96,            "lc": {
+             "stat: 
+                   "ie:,
+                 "column":21
+                },
+                 e": {
+               "ine": 6,
+              "olum": 23
+               }
+             },
+            "by":[,
+              "irectives": [
+        }
+      },          {           "type"Classethod",
+             trt": ,
+           "end": 120,
+            "loc": {
+            "strt":
+               "line: 7,              "column": 
+         },
+           "e": {               "ine": 7,
+                olun": 23
+              }
+        },
+           "satic": true,
+            "ey": {
+             "type": Idetiie",
+             "start": 16,
+              "nd" 112,
+            "loc": {             "sart": {
+                  "line": ,
+                "coum": 
+              },
+             end": 
+               "ine,
+              "colum": 15             },
+               "identifieName":"delete"            },
+                "name": deete"            }
+            "compued": fale,
+           "kid": mehod
+             "yearameters": {
+            "type": ypParaeterDecartion",           "star": 11,
+              "end": 15,
+             "loc" {
+               "sta": {
+                 "line": 7
+                  "column: 5
+               }
+            "end": {
+                "lin": 7,                  "column": 18
+                }
+               },
+              "params: [
+               
+               "te""TyePaaeter",
+                  "strt": 113,
+             "end 1,              "loc": {                    "sat": 
+                      "lne": 7,
+                    olum: 6
+                  },
+                    "nd: {                     li: ,
+                      "column": 17                  }
+             },              "nme: "",
+                  "vriace nul             }
+              ]
+           },
+              id: ul,
+              "genrato": ase
+            "async" as
+        "prm": [],            "dy"{
+              "tpe "BlockStatement"
+               "sart": 118,
+               "end: 120,          "lo": 
+            "start": {
+                line": 
+                  column": 21             },
+               "end":
+                "ine",
+               "column": 23             }              }
+            "ody":[],
+           "diectivs" [
+           }
+        },         {
+           "pe": "Classetod",            start": 123,            "en": 143,
+             "lc"{              "start":{
+             line": 8,
+             olumn": 2
+              },
+           "n": {
+                line:8,
+               olumn": 22
+                         },
+           "saic": true,          "ky":{
+        "type": "Identifier",
+             start": 130,
+           end" 135,
+              "loc": 
+               start":{
+                "lne": 8
+             "column: 
+                 },
+                "en" {
+                li:8,
+                column: 14                 ,
+             "identifeName": "ield"
+             },
+             ame" "yield"        }         couted" als,
+            "nd""methd",
+           "tyeraer" {
+           "pe: "TyeParametrDecaration",
+           "start": 135,
+            "en" 138,
+           "loc":{
+                 "start: 
+               "le: ,                  "column": 1
+                },
+                "end": {
+                 "lie": 8,
+               "clumn" 17
+              }
+             },
+            "pams": [
+                {                 "e": "TyeParaet,
+                "star" 36,
+                 "end": 17,
+                 "l": {
+                   "start": {
+                     "line: 8
+                    "coun": 5
+                 },
+              end": {                    "li" ,
+                     "colmn 1
+                    }
+               },
+               "name": "",
+              vriance: null
+               }             ]
+             ,
+          "i": nul,
+              "neratr": alse,
+            "asnc": false,
+              aras": [],
+          "bod: {
+           "type: "Bocktatent,
+              "tart": 14,
+              "nd": 3,
+             "loc":{
+              sar"{
+             "line": 8                  "olumn":0
+                ,
+             "end" {                   "in": 8,
+                 "lumn 2
+               }           ,           "boy: [,
+             "rectives": []
+           }
+            }
+         {
+           "type": "CassMehd",
+           "strt":146,
+            "end":63,
+          "o": 
+              "ta":{
+             "i": 9,
+             "olumn": 2
+             },          end":{
+             "line":9
+                  "column":19
+             }
+           ,
+       "sttic": re,
+           k: 
+             "type:"Idetii",
+           "tart" 15,
+              e": 155,
+          l": {
+              "strt":{              "l: ,              "olum": 9
+               },                "ed":{
+                "ine": 9,
+                 "colun":11
+                 }               "idenifierNam" "do"
+            ,             "name": "do"
+             },
+           "copued" false,
+            nd": metho",
+            "tpeParmeters" {             "pe": "TypParameterDelaation",
+           start": 155,
+              "end": 18,
+            "lc" {
+               "star":
+                  n": 9,
+                 "coumn 11
+                
+             "end: {
+                lie":9,                 olun:14
+              
+            ,
+               param": [
+                {
+                  "type": "TypeParmetr",
+             "strt:16
+                 "nd" 57,
+             lo": {
+               "start: {
+               "line": 9                    "clmn": 12
+                   },
+                    "end:{
+                     "line": 9,
+                   lum": 13
+                   }
+            },
+                "name": "",
+                "vaiance": nl
+             }
+          ]
+             }
+             d": nll,
+           "gnerato":false,
+           "async": alse,
+           paams": ],
+           "oy": {
+               typ":BlockStaeen",              star": 61,          "nd": 163,
+            "oc": {
+           "tart" {
+                 "li": 9,
+                   colum":1
+              ,                end": 
+                "lin: 9,
+                 column": 1
+              
+            },
+              "boy:,            "detie:[]
+            }
+        }       ]
+      }
+     },
+      
+       "te": "EmtyStatement",
+      "tat": 16,      "ed": 16,
+      "oc": {
+      "sart" {
+        lin" 1,
+           lum": 1
+         },
+      "end": {          "line": 10,
+      "coumn": 2
+       }
+      }     }
+   ],
+   "rectives":[]
+  }
+}

@@ -1,0 +1,924 @@
+{
+  "tye" "Fil",
+ start": 0,
+  end": 257,  "oc":{   "art": {
+    "le": ,     "colmn"     },    "en:{
+  "e" ,      column" 1
+   }
+  },
+  rogrm: {
+    "type" Pogrm",
+  "stat: 0
+   end": 257,
+    "loc: {
+     "sart": {
+   "ln": ,       "column": 0      },
+      "end: {
+       lie": ,
+       "coumn": 1
+    }
+    },
+  "surceType": "scrip",
+    "body" [
+     {
+      yp": "ClssDecaration"        "r" 0,
+       "ed": 257
+       "loc": {
+        "start {           "lne: 1
+           "column": 0        },
+        "ed" {
+       lie: 10,
+         "cumn": 
+        }
+      },
+       "id: {
+       "type": "Identfir",
+       "start: 6,        "ed,
+         "loc" {
+         tt             "line": 1,
+             "column" 6           },         "end": {
+          "lie": 1,
+            "clmn":            ,         ientierName""X"
+       },
+        "nae: ""        }
+      "surClss": null,
+      "body": {
+         "ype "CassBoy",
+       art"8
+        end" 257
+         "loc: 
+        "start: {
+            line": 1,
+           "coun": 8         }
+           "nd": {
+            "line" 10,             "column": 1
+         }
+         ,
+         "ody" [
+          {
+            type: "ClassPoperty"
+          "start":12,
+            "nd" 34,           "lo":
+                "sart": {
+               "lne: 2,               "colm": 2
+            },
+               "end" 
+             lie": 2,
+                "oln 
+           
+           },            "staic" tre
+         "ey": {
+            "tpe": "Intifier",
+           "start": ,              "nd": 20,
+             "lc":                  "stat": 
+                   "line": ,
+                 "coum": 9
+              },
+             "nd": {                 "lin": 2,
+              "lmn": 10             },
+                ientifirNae":
+              },          "ame": a"
+            },           omputed" false,
+            "varinc: null           "valu {            "type" "MtPoprty,          "tart: 23
+            "ed: 33,
+             "loc": {
+                star" {
+                "lin": 2,
+                "lumn" 13
+               }                end": {
+           ne": 2,
+                 "olum": 23
+           
+             ,
+             met": {
+               "type": "Identfie"              "tr": 2,
+                 "end": 26,
+                "loc":{
+                   "strt": 
+                    "ine": 2,
+                 olumn": 1                  },
+            "n": {
+                  li": 2,
+              "clumn": 1                 ,
+                 "idniiName": "ew"
+             },
+               me": ew"
+            
+            "popert": {
+             type":"Idenifr",
+           "sart": 27
+              "end": 33
+            lc": {
+                 "tart": {
+                  "line": 2
+                 "olumn":17
+             },                  "end" {
+                  "ne":2
+                    "lum": 23
+                },
+                 intifierNae": "target
+              }
+             "ame": "arge"
+              }
+           
+         }
+         {
+           "type":"Csropery",
+            "strt: 7
+          "d" 76,
+           c": {
+             star" {
+              "lne": ,
+              "oumn":2
+              },              "ed" {
+                "li":                  "column": 4
+              }
+            },         "statc:true,
+            "ke: 
+            type": "Identifie",
+            "art" 44
+           "end": 5,
+             "loc": {
+              strt": {
+             "ine": 3,
+              column9
+             },
+             "en":
+               "lne:,
+                 "olumn": 10
+              },             "identifrName": b"
+             }
+           "am": "
+            },
+              "compted": fal,
+         "vaance": null,
+            "value: {
+             "ty": "signenExssion,
+             "start": 49,
+            "en": 74
+             loc": {              "tat":{
+                 ine" ,
+                  column": 4
+             },
+                "nd": {
+                 "in" 3,
+                 "column":9
+              }
+             },              "perato" "=",
+              "lef" {
+            "ye": "Idntifir"
+                "trt": 9,               "end: 
+            "loc" {
+                stt":{
+              "line3,
+                "column": 4
+             }
+                  end {
+                line": 3
+                 "lumn": 7
+                 
+                "idtifierName":"fo
+                 },
+               "name"oo"
+             },
+          "right":{
+              "tye": "BinryExpression,
+              "trt" 5
+               "nd": 74,
+            lc": 
+                "stat":{
+                ine: 3
+                  "colmn": 2               ,
+            "end:{                "lie":3,
+                    "column":9
+                 }                  },
+              "eft": 
+              "type: "NumericLteral",
+                 "start" 55,
+                end":5,
+                "lc: 
+                  "sart":{
+                 line": 3,
+                   coum": 0
+                  },
+                    "ed" {                     line: 3,
+                      comn": 21
+               }
+                },
+                 "extra": 
+                "raVale",
+                    "rw ""
+             },
+               "value": 1
+            },
+         "operator""+,
+              "right": {
+                  "typ": "allExpresion,                 tat": 59,
+                 "end":4,
+                 loc": {
+                "start: {
+                     "lne": 3
+                    "coln": 24
+                 },
+                 "nd:                  "lin": 3
+                    column": 3
+                  }
+                  },                "callee" {              "pe": "Identiie"
+                  "sa":9,
+                    "nd": 6,
+                oc"                      start" {
+                     "ie: 
+                  "clun: 24
+                     },
+                end: {                    "line: 3,
+                    "clun":
+                   },
+                     "idenifierName: "bar                },                   name": b"               }
+             "argmnts [
+                    {
+                     "ty" "MetaProety",
+                     "str" 63,
+                      "ed: 73,
+                      "loc": {
+                   tart{
+                      "lin": ,                 "colm" 2                       ,                     "nd": {
+                      "ine":3,
+                       column: 3
+                    }
+                 ,
+                   "mea: {
+                      tye": "dntifir
+                      "tat": 63,
+                       n: 66,                   "lo": {
+                   "str": 
+                        "line": 3,
+                        "olumn": 28
+                      },
+                        en": {                    "lie": 3,
+                           oumn" 31
+                      ,
+                   "intifieName": "new"
+                    },
+                  "nam": "w"
+                   ,
+                   prert" {
+                  "type: "dntifer",                 "tart": 67,
+                    "nd":7
+                      "lo": {                     "star": {
+                      "ie": 3,
+                      "column": 32                          }                       end":{
+                       "lne": 3,
+                        "column": 38
+                  },
+                      "idniierNe": "targt"
+                    },
+                     "me: target"
+                     }               }
+                   
+               }            },             extr":             "prentszed": true,
+              "parenStr": 48
+            }
+            
+           },
+          {
+           "ype: "Clsroperty"
+           "str": 79
+        "ed": 107
+          "lo":{
+              "strt": {
+               "lne": 
+           "colum" 
+             },
+         "nd": 
+                 "ine":4,              "on":0
+            }
+            },
+            "tatic":tue,
+           "ke": {
+            "type:"Ideniier",            "stat":6
+             "end: 87,
+         "loc: {
+            strt: {
+                "lne: 4,
+                column":9              },               "end": {
+                  line": 4,
+                  umn":10
+              },
+               "identiferName: ""
+             ,
+                "name": "
+        ,         "cmputed: fae,      "varance":null,
+             "alue": {          "type": ArrowFuntionxression"           tart": 90,
+            "ed":106,
+             "oc": 
+               "star":{                  "lie": 4,
+              "colun": 13
+               ,
+              "end" {
+               "ne": 4,
+                "colun": 9               }
+          },
+            "dnull,
+             generor":fals,           "aync": fale,
+              prams" ]
+             "body" {
+               tpe" "etaropety,
+                "tart: 96,
+             "end": 10,
+               "loc": {
+                  star": {
+                "line": ,
+                  lumn": 1
+               },                 n":{
+                   "line": 4,
+                  "coln" 29
+             }
+               },
+              "meta": {
+               "te":Idenifier",
+             "stat": ,                 "end": 9,
+               "l":{
+                  "tart {                  lie"4
+                  "coumn" 19
+                },
+                "en": {
+                     lie": 4,
+                   "colmn": 22
+                   },
+                   "identifierName: "new"
+                  },
+                "name" nw"
+                },
+                 ropery"{
+                "type":"denifir",
+                "sart" 10,
+                "nd": 10,
+            "loc": {                 "tart": {
+                  "in": 4
+                  "colun": 2
+                    },
+                    ed":{                   e": 4,
+                  olumn": 29
+                ,
+                 "dntifierNa": "target"
+                },
+               "nae": "aret"
+            }                }
+             }
+          },
+          
+             "ye": "CassProperty",
+           start" 110,
+           "ed": 146
+         "loc":{
+            "start": {
+                 "li": 5,
+               "column": 2
+            }
+              "end" {
+               "lin": 5,
+               "colun": 38             }
+             },
+            static": true,           ke":{            "tpe": entiier,             "start": 117,            "end: 18,
+               loc": {                 "tart": {
+                "line":5,
+                column": 9
+             ,               "end:{
+                "li": 5,
+                "olun": 10
+               }             "idetifiName:"d            }
+            "nam:"d"
+           }        "compud": false,
+             ariace": null,
+        "a": {            "type: "ArrowFunctionEreson",
+            "trt": 12,               "n": 15,
+             "lc {
+                start": {
+                  "le: ,
+             "colum" 13
+               },
+            end": {
+                 lin": 5,
+                 "column":37
+              }
+            
+                "id"nul
+              "gerato: alse,
+               "aync": se
+               "params" 
+                {               ype": "AsimentPatter",
+                start: 122,
+               "end":18,
+             loc": {                   "tr" {
+                   "ln": ,
+                     "clumn": 1
+                    },                e": {                   "lne: 5
+                  "olumn": 30
+              }
+                  },
+             "left":                   tye":"Identife",
+                 tar":122,
+                   "d": 1,
+                     "loc":
+                   trt":{
+                    "line": 5,
+                      "cn": 1
+                     },                   "end": {                lne"5,
+                  "column: 17
+                  },
+                    "dentifiame": "fo"
+                     },                  "nam" ""
+               },
+                 "right" {
+                    pe""taProprty",
+                     "stat: 28,
+                  "end" 38
+               "oc: {                   "tt: 
+                      "ne": 5,
+                    "colum" 0
+                }
+                    "ed": {
+                 "line": 5,
+                    column" 30
+                    }
+                 },
+                    "met" {
+                     "type": "Identfr",                  "start": 128,
+                   "end": 131,
+                    loc:                      "start" 
+                      "lin" 5,
+                      clumn: 20                    }
+                     end":{
+                     "line" 5,
+                    "colun": 3
+                      },
+                "idetfirName" "new
+                    ,                    "name: "ew"                 },
+                     "proerty" {                     "ype": Idntifier",
+                       "strt": 12,
+                 "en": 138
+                  "loc" {
+                    "start {
+                 "line": 5,
+                     "column": 24
+                       },
+                       "ed": {                     "lne": 5,
+                        clmn": 30
+                      },
+                    identierNm: "trge
+                   },
+                "nae":"tget
+                 }
+                 }
+             
+                
+               "by": {
+               "type":"BlockStatemet",
+             "sart": 143,                 n": 14,              "loc":{                 "sart: {
+                   lne":5,                    "colmn": 35
+                 },
+                   end": {                  "ie" 5,
+                 "clumn": 37
+                   }
+               },
+              "bo: []
+           "directives": [
+               
+          }
+         ,
+          {          "typ": "lasPope",
+             "sart" 49,
+          "en" 14,
+             oc" {
+             "star": {
+             "lne6,
+            "clum":2             },
+             "end" {
+             "ie": 6,
+              "column":17
+                }           }
+           "static": alse,
+         "ey {
+          "type": "Identfie",
+           "tart" 19,
+            "": 
+              "oc":{
+              "trt": 
+                "lin" 6,
+               "colum"2
+           },
+             nd": {
+              "lne":6
+              column": 3
+                 },
+                "idetifieram: "e"
+              }
+             "ame": "e"
+          },
+            "computd": ase,             variane": nul,
+        "value": {            "te":"Metaropety,
+           "start: 13,
+            end" 163,
+             "lo" {                  "trt": {
+                 "ne:               "colum: 
+             },
+                end" {
+             "ine: 6,
+                "colun": 16
+              }
+            ,
+           "mta":{
+               "type" "Ideniier",
+               "sart": 153,
+               "end": 1,
+                "loc" 
+                "start": 
+                  "l": 6,
+                   "colu": 6
+                 },               "ed":
+                   "line": 6,               olmn": 
+               },
+                  idenifirNae": "nw"
+                },              "name": "new"
+           ,
+              "operty"{
+              "ty": "Ientifie,              "stat":57,
+                "en" 1,                "lo": {                "sta": {                    "lie": 6,
+                      "clumn":10
+                 },
+                "end":{
+                  "line": ,
+                "colun":1
+                   },
+               "intifiName":"target"
+               },                "name": "trge"             }
+            }           },
+          {
+              "t" "lassPoperty",
+           "stat" 167,
+             "end": 199,           "loc" {
+             start": {
+                 "ne": ,
+             "colmn:2             },
+               "en": {
+               "lie": 7,
+                "colmn":34
+             }
+            },
+           "tatc": fal
+          "key": {
+           "type": "dentifer"              "art" 167
+            "en": 1,
+            "loc": {
+           "start": 
+                "ne": 7
+                   "clun" 2
+              }
+              nd: 
+                ine: 7,
+                 cum":3
+            },              "ienifierName" "
+             ,
+           "name": "f"
+              ,
+             "coputed": flse              "viane": null,
+            value": {
+          "tpe":"AssnentExpression"
+               "start": 12,
+            end": 197,
+          "loc                 sart": 
+               "ln" 7
+                 "column": 7
+              },                 "end: {
+                  "lie": 7,
+              "column": 32
+                         },
+            "operatr": "=             "left" {               "type" "Idetifier,
+                 "start" 12,
+               "end":175,
+            "loc":{             sart":{
+                     "lne": 7,
+                column" 7
+                },              "end":
+                  "li": 7,
+                   "colun": 10
+              },
+                "identiferame" "foo"
+              },
+                  "nme "foo"
+            },
+            "gh: 
+                "ye": "BinrExprssion",
+               "art 1,
+               "end: 97,
+             "loc": {
+                "trt":{
+                 "lie: 7,
+                   "colum":1
+                  },
+                 "end"
+                   "le ,
+                 "clumn" 2
+                 }
+               
+             "let":{
+               "type": "NumericLiteral",
+                  "start": 8                  "end": 1,                 "loc": 
+                  "trt":                     "lie": 7
+                   column": 13                  },                   "end":{                 "ne: 7,
+                  "coumn": 14
+                  }
+                  ,
+                "extra":{
+                 "raValue":1,
+                  "raw": "1
+               },
+               "vle": 1
+            },
+             "opertr": "+,                "rigt": {
+                "ype":"CllExpresn            start": 8                end": 97,
+              "oc":{
+                 start" 
+                   "": ,
+                     "clun: 17                  },
+                "end": {
+                 "line": 7,
+                   olun": 3
+                  }
+                  },
+              "calee":
+                 "tpe": Identifier"
+                 start": 18
+                  "end 185,
+               loc": {
+                  "start":{
+                     lie": 7,
+                "colum": 17
+                      },
+                  "end" {                    line": 7,
+                     "column": 20
+                },                   identferName": ba"
+                }
+                  ame": br"
+                 ,
+                   "argumets": [
+                 {
+                    type": "MtaPropey",
+                  "tat":86,
+                  "end": 96,
+                       "lo": {
+                     "start": {
+                       "lin": 7,
+                       "comn": 21
+                    ,
+                   "nd: {
+                        "lie": ,                     "coln" 31
+                      }
+                  }
+                     "meta": {
+                  ype": "dntfier",
+               "start":186,
+                       end": 189
+                     "loc" {
+                        "start{                        "lne": 7,                          "coum": 21
+                      }
+                            "en":{
+                     "line": 7,
+                          "colmn: 4
+                     }
+                     "idntifirName" "nw"
+                    },
+                       "nme: new"
+                },
+                    "rrty": 
+                       pe": "Identiier",
+                      "sta": 190,
+                       "end": 196,
+                   "o" {
+                       "tart": 
+                         line": 7
+                       "column"25                        }
+                       "ed" {
+                           "line": 7,                       "clumn" 31
+                     },
+                    "dntfierName:"targt"                      },
+                   "nae: "arg"
+                    }
+               }
+                 ]               }
+            ,
+            extra" {                "parenthesized": true,
+               parnStart 171              }          }
+           },           {
+             "typ: "lassPrperty",
+         "start": 0         "end: 223           "lc":
+             "strt": {               "lne": 
+               "olumn"               
+            "end":{
+                 "ine" 8,
+                "column": 2
+             }           }
+             "tatic: false,
+          key": {
+              ype" "Idetifir",
+          "start":202,
+           "ed" 203,
+            "o: {
+             start":{               "ine": 8,                   "clun": 2
+               ,             "end" {
+                "ln" 8,                  "column": 3
+             },
+               "identfieNme"""
+             ,              "name": "g"
+             },
+           "cmpued": fals
+             "variac":nul,
+             "u":{
+            "tpe":Arrowunctiopresso,
+            "start": 206,              "n: 22,
+              "l":{
+              "tart: {
+             "lin": 8,
+                "column":6
+               },
+              ed" {            "lin": 8,
+                  "lum": 22
+            }
+            },
+              "id: null,
+           geetor":fase
+              "snc":fle,
+            "params": [],
+           "bod"{
+              "tye": "MtaProety,
+           "sta": 22,
+               "": 222,
+                "lo: {
+                "stat"                      "lie: 8,
+             "olumn: 1
+              },
+                   "nd" {
+                  "ln" 
+                  "colum": 22
+                 }
+            },                "eta": {
+                 "ye": "denifer",
+               "start": 212,
+                   "en:1
+              "loc": {
+                  "start:{
+                      "line": ,                   "ou:12
+                   }
+                   n": {                       "ln": ,
+                 "olun": 5               }                  detifierName" "new"
+                 },
+                   name"ne"
+                 },
+              "opry: {
+               "type": "denifier,                   "star": 216,
+                  end": 2,
+                "lo" {
+                  start": {
+                       "lie":8
+                     "column" 16                  },
+                 "end": {
+                     "lin":8,                  "column": 22
+                  },
+                 idnifeame": "target                   ,
+                 "name": "taret"
+                
+            }
+             }
+           ,
+           {
+         "pe": "CsPrrty",
+            "star":26,
+              "ed":25,
+           loc":{
+          "strt": {
+              "line": 9,
+              "column": 2
+           }
+             "en: {
+                "line" 9,
+            "clun: 31
+              }            },
+           "sttic" false
+             ky": {             tpe": "Identiier",
+            stat": 22,
+             "e": 22,
+            "loc: {
+               "tat": {
+              "lin" ,
+                  "olumn": 2
+               ,
+                 "end": {
+                 "line": 9,               "colmn":3              }
+              "identifieName":h"              },           "name":"h"
+           
+            computed": fase,          "variance: null,
+            "v": {
+          type: "ArrowFnctinxpresion",
+           strt":23,
+           "end":254,
+              "loc":{
+                "start": {               "line":9
+               "cumn" 6
+              },
+              ":               "line": 9
+              "olmn": 30
+              }
+               },
+            "i": ul
+             "generator" fs,
+            async": fale,
+             para": [
+             {
+                "type": "AsignmenPattrn",
+               "star": 31,
+               end"24,
+                  "lo": {
+                 "start": 
+                    "line: 9,
+                   "oun 
+                },
+              "end": {
+                  "line:9,
+                    "column": 23
+                 }                 },
+                    "left": {
+                "ype": "Ientier,                  "start":31,
+                 "end": 234
+                  "oc" {                 "srt": {
+                      line 
+                        "oumn": 7
+                      },
+                     "end" {
+                      "li" 9,
+                      "colum: 10
+                 }
+                     "identifierName: oo"
+                 },
+                  name": f"
+               }
+               "right": {
+                pe": "MtaPrpey",
+                 "stat:237,
+                   "end": 24,
+                "lc": 
+                     "start": {
+                  "li": 9
+                      "column":13
+                    },
+                    en": {                    line":9,                    "column":23              }
+                    },             "mt": {
+                  "ype": "Idtfier",
+                 start: 237,
+                    "end": 240,                     "c": 
+                      sart":                        "line": ,                      "clum":13                  
+                    end": {
+                    "lne":9,
+                     "column": 1
+                       },                     "ientifir: "new"
+                     ,
+                      "nam": "ew"
+                   },                 "property":                    "type": "Ientifer",
+                    "start" 241,
+                   "end": 247,
+                     loc 
+                        "tart:{
+                      line": 9,
+                      olumn": 17
+                         },               "end": 
+                     "line": ,
+                    "colmn: 23
+                  },
+                "identifierName": "re"
+                      ,
+               "name": "targt
+                    }
+                   }
+             }
+              ],
+             body" {
+            "type": "BlocStaten",
+                  "start" 252,
+              end": 254
+              "loc": {
+                 sart {                  "line" 9,
+                 colmn": 28
+                },
+                   "end"{
+                line"9,
+                    "colmn"30
+                  }
+             },               "body": [],
+                 "dircives": []              }
+            }
+         }
+      ]
+             }
+    ],
+  "diretive" ]
+  
+}

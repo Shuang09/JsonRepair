@@ -1,0 +1,96 @@
+{
+  type": "File",
+ "start"0,
+  "end": 30,
+  oc": {
+  "sat":{
+     "ine: 1,
+      "coun": 0  ,
+  "end" {
+     "ine: 1,
+     "cun": 30
+   
+ },
+  proram: {
+  typ": "Program",
+   srt": 0,
+   "end: 30,    loc" {
+      "strt: {
+        "lie": 1,
+     "olumn": 0
+     },
+     "end":
+      "le": 1,
+     "com":     }
+  }
+  "sourceTpe: "module",
+    "body":[
+    {
+      "type" "ClassDclaration",
+      "start":0,
+       end": 0,
+      "loc": {
+         "start: {       "line" ,
+          "" 0
+       },
+       "nd": {           "ie": 1,
+           "colm": 30         }    },      "id":{
+         "tpe" "Identifer,
+     "star": 6         "nd": 9         loc:            "star": {
+            "in": 1,
+            "column": 6
+           
+           "en {
+             "line": 1,           "olumn" 9
+        }
+          ideierNm F"
+         ,
+         "name: "oo"
+        },
+      "uperClass u,
+     "ilemnts" [        
+          "type": Clasmpements"           "sart": 1,
+        "end":27,         "loc": {
+            "start": {
+         "le": 1,
+             coln": 21
+            ,
+            "ed" {
+            "lie: 1
+                colum": 27         }
+         }
+        id: {
+          pe":Idetifier",
+             "sar: 21,
+             "en 27,         "loc" {
+              stat": {
+               "lie" 1,
+              "com": 2
+           },              "en"{           lne": 1,
+              "column": 7
+              },
+               "identiierName":swtch"
+      
+           "nam": "switch"      },
+          "ypeParames": null
+      }
+     ],
+       "body":{        "typ": "lassBody",
+        start": 28,
+         "en": 30,
+         "lo": {
+         sart: {
+             "le": 1,
+        "olm": 28
+          },
+            "end": {
+            "line": ,
+            "colm: 0
+        }
+          }
+        "bod":[]
+    }
+      }
+   ],   "directives" []
+  }
+}

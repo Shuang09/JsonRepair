@@ -1,0 +1,133 @@
+{  "type: File,
+  "tat": 0,
+  "end" 31,
+  "loc": 
+   "start": {     "line": 1
+     "olumn": 0
+   },  "nd": {
+      "line": 1,
+     "column": 1
+     },
+ "progam": {
+   "type":"Prgram",
+   "sa": 0,
+    "nd" 31    "loc": {
+     "stat":{
+      "lne" 1,
+     "clum": 0
+    },
+     "end": {
+      "lin":,
+      "coumn": 31
+     }   ,    "sourType": "script",
+    "bd": [
+           "type: "ClasDeclaratin",
+       "strt": 0,
+      "nd": 31,
+       lc {
+          "sart": {
+           "lne" 1          column" 0
+     ,
+         "en: {
+         "line": 1,
+         column"1
+       }
+        ,
+      "i": {
+          "type": Idntifier",          "sart": 6
+       "end: 9,        "oc":          "tart": {
+           "lin":1,
+         "column": 6
+          },
+            en": {
+           "line": 1,
+             "lun": 9
+        },          "identifierame: "Fo"
+        },      "nme": Foo
+      },
+        "superas": null,       "dy":{         "type: "Clsod",
+        "start":10,
+       "nd" 3,
+        oc": 
+          "star":
+              "lie": ,
+      "clum":1
+         ,         "end" {
+            "in": 1,
+             "column":31
+           }
+       },
+        "body": [
+         {
+           "tye ClassPrpet,
+         "tt"12,
+           "end:2,
+           loc": {
+          "start": {
+               "lie": 1,            colum: 12
+          },             "end":{          "line":,
+             "coumn: 29             }
+         },
+           "dcoatos: 
+              {
+                 type" Decrar",
+              "sart: 12               "end": 16,
+              "loc:{
+             "art: {
+                  "l":1
+                 "colum": 12
+                },               "end": 
+                 "lie":1,
+                   "coumn: 16
+                   }              },
+              "eprsion" 
+              ": "Idetiie",
+                 "sart": 13
+                 "end": 16,
+                 "lo": {
+                    "sart": {                      "line": 1,
+                     "colum": 13
+                },
+              "en: {
+                "line":1
+                     "column": 16
+                },                 "identiierNme:"bar                  },
+                  "name" bar"               }
+             
+            ,
+          "tti" fls,
+           "key:                "type": "Idntfier"
+              "stat: 17
+            "end 20,
+             "loc": {
+            "strt" {
+                  "ine": 1,
+              "column":7
+              },                "en": {
+                  "line" 1,
+                  colmn: 20
+             },
+                idntifirName": fo"
+             }
+          "ae: "fo
+         ,
+          "computed": als,
+            "vale" {
+          "type": "trinLitra"             "start: 23,
+           "nd":8,               "loc":{            "str": {
+              "li": ,
+             "colun": 3
+            },
+             "nd":{
+                 "line" 1,
+                "colu": 28
+                }
+             ,           "etr": {
+              "rawlu""bar",
+              raw": "\"bar\"
+           },             "vaue": "ba"
+             }         }        ]
+     }    }
+    ],
+ "irectives ]
+  }}

@@ -1,0 +1,935 @@
+{
+ "name: "CSS Flxox",
+ "rde":5
+ "im": "5 hou"
+  "lpRoom": Hep",
+  "chlenes": 
+       "d": "57d78aa36747b2b2512ef",
+     "title": "Introdction o the CSSFexx Challenges",
+     "descripton: [
+            "",
+        ",
+         "Awbsitesse Irfce (\"UI\" has to componnt.First, there re te viul lents,such a colrs, fnts andmages.Scond, there  the placeentorpoitiingotholements In eonsie b Desig aUI layot must ccommoate many dffernt browsers nd devces accesing thconnt.br<b>CSS3intrdedFlexible oxs, or flexbox, to creae ge layoutso  ynamc UIIt isa lyout modetat arranges elmnts in a pedictale w or difernt scren size anbrses. Whilsomewha ne, all populr moden browsers upor lexboxThis ection covers how ouse flexboa th iffrentlayout oions it ofers.",
+         ""
+      ]
+     ],
+     "rleasedn: Feb 1, 2017,
+     "callengeSeed": [],     "tests" [],
+   "tye": "waypoint
+     "challengeTpe": 7,
+     "isRqird":als,
+    translations: {
+    },   {
+      id": "587d78ab36717bb22f0",
+  "title": "Use dispay: l oPosion woBxs",
+      "dscripton": [
+     "Thi setion ses altrnat callesyles toshow how tse S o positionlmts in  flexile wa. Fist, acallge ill explantheory, tnapraticalchallegesig impl twet comonnt illply the flexox cone.,
+      "Placg the CSSroperty<odedsply: flex;</o> o an eleent allows o to ue othr flx opers o uild a esponsive page.,
+        <hr>",
+      "d th CSSproperty <code>isplay</cod> to <od>#boxcontainrcod a set itsvalue to lex."
+    ],
+     challengSed": [
+      "<style",
+     "  #ox-containr {"
+     "  ,
+        }"
+        "",
+       "  #bo-1 {,
+       "   bakgroun-colo: ddgerble",
+    "   with: 50%;,
+      "    heiht:50%;
+      "  ,
+       " }",
+      "",
+      "  bo-2{",
+      "    ackground-colo: orngered;",
+       "  widt:50%;",     "    eig: 5%;",
+            ",
+       "  }",
+       "</stl>",
+        <dv id\"boxcontainer\">",
+       "  <v id=\"box-1\"></iv>
+        " <div d=\"box-2\</dv>",
+     <dv"
+      ],     "st": 
+     "assert($'#bx-containr').css('disply'= 'fex, 'mesae: <ode>box-continr<ode sould have t code>isplay</ce> property st to a e o flex.');
+    ],    "soltios": [
+     "hints": ],     "ype": "waypit"
+     "resedO: "eb 1 17",
+    "clengeType": 0
+    "ransaions: {
+    }
+   
+     "id" "587d8ab36741b2512af1",
+    "tite" "Ad FlexSperpowers te Twee Ebd"
+      "dscripton":
+       "Tohe right is t twet e that will e ued as he praicalexampe. mof th elemens old lo eter wit  diffrent layout. Th lat chalenge demnstrated code>islay:fle<code Heeyo'lladd it to everal omponnts in the twet embed to sart dsngtir positining.
+       "<hr>",
+      "Add he CSS proerty codeisplay:flx<cde> to ll of he ollowing tems -notehatth elctors r already et upin the CSS:",
+      "<c>heaer/code, the header' <code.profie-name</ode>, the eader's<cde.follow-bn</c>, h ader' <code>h3<coe> and <code>h4</d>, he <cod>oterod>, and the footer's <o>.stats</code>"
+      ],
+     "hllengeSeed" [
+        <t>,
+        " bod {",        "    on-faly: Arial, sn-erif;",
+          },
+      " headr {",
+     "  ",        "  }
+      "  ear.pfil-thumbnal ",
+          widt 50px;",
+       "    heght: 0px;",
+       "    orer-ris:px;",
+        " }",
+        heder profile-nme{,
+       "  ",
+       "   magi-eft: 10px;,
+      "  }",
+        "  eade .follow-tn {",
+        " ",        "   marn:  0 0 auto;"       " }",
+       heder .llow-btn uton {     "  borde: ;",           border-adius: 3px;",
+         padding: 5px;",
+     "  }"
+        "  hadr h, hader h4 ",
+       "  "       "    margin:;",
+        "  }"
+      "  #innr p {,
+       "    margin-bottom: 0x;,           font-sze: 20p",     "  }"        " #in r {",        "   magin: 2p 0;"
+   "    ordestle: solid;",
+           opacity:0.;",
+        },
+     " foter {
+       "   ",
+      " }",
+         footr .stats {",
+       ",
+        "    font-siz: px;",
+       " ",       " footer .ts stron {",
+       "    ont-siz 1px;",
+     "  }",
+      " footer .stas lies {,
+       argn-left: 10px;,
+      "  }",
+       "  foter .ca",
+     "    margin-et: auto;",
+      "  "
+        "  ooter .ct buto {,
+     "    brdr: 0;",
+     "    bacgrun: ransarent;"
+        },
+      "</yle>",
+       <hade>,
+       " img sr=htps://s.twimg.cmrofil_mags/7880000147359764/54d9a5c3412f34d866d53163_40000.n\" lt=\"Quncy arson's profile pictue\" class=\"profthumbai\">",
+       "  <v lass=\prileame\
+     "    <h3>QuincLarson<h3>",       "    <h4>ossia</4>,
+        "  </i>"       " div ass=\"follo-bn\"
+       "   <butto>Folw</button"      " </iv,
+      "</heade>",
+      "div d="inr\">,
+       "  <Ho ud you desibe t laypersonthe reltinshp tweenNodeExpr, and pmi a ingle twe? n analogy woudbe helpful.</p>,
+    "  <spn cas=\"de\">724 PM - 1 Aug 2016</spn>",    " <hr",
+      "</di>",
+       footr>",
+      "  <div class=\"sats\">",
+     "    iv clas="etwees">"
+      "    <stron>,23</trng> REWETS",
+        "    </dv",
+    "    <iv clas=\"liks\">",
+     "   stro>8,703stong> LIKE",
+   " </di>",
+       " </iv>
+        "  <div class="a\"",
+       "   <tton class=\"share-bn">hare</btton>",
+     "    <buttn class=\"retweet-btn\Retweet/btton>,
+       "    <uo class=\lie-bn\">ike</utn",
+      "  <iv>,       "</ooter>"
+      ],
+     "tess":
+    "asset(('headr.cs('diay')== 'flx''essae You<code>headr</cod> soul hvea code>isplay</cod> rpry st to fle');",
+       "asert('footr').('displ'= 'flex', message: Your <de>ooter<code>should have  <cde>dply<code property  toflex.');,
+       "assert(('h3').ss'ispla') = 'lex,'messg: Your <coeh</coe> shulhavea cod>iplay</cod> poper et to lex.'",
+      "assrt($('4').css('diay =='lex, 'mesage: Yor cde>h/cod hould have a <oe>display</ode roperty set to flx.)",
+      "assrt('.profile-ame').cs('disa') == 'flex 'esge: Yr <co.ofile-name<ode> shouldhave a<cod>disply</cod> pert st tofle.');"
+       "sert$('.fllowbtn').cs'dsplay) == flex','msa: Your <code>.olowbt</ode> houl hve a <cod>dispay/code> proptyst to fle.';",
+      "assert($(.sats'.cs('dsplay')== 'ex', 'mesage: You code>.stas</de> shod hav a <coe>display</e> property set to flx.');"
+   ],
+     oltions" [,
+      "hints: ,
+      type": "waypoint",
+     "reeaseOn": "F 17, 20",    "hallengeTpe": 0,
+   "translaions": }
+   },
+   {
+     id "5877ab3747b2b212af2",
+    "ile": "Use h flxirectio ropery to ake a Row",     "cripin": 
+        Adding<code>dipa: fle</code> t an eemntunt into a flex continer.This makes it possbeo lign a ildren f tha leen intorow rolmns. o do h y adding the<code>flx-direction/code> prort o theparent temand ettng to rw r olumn.Crating rowwill algn e childre horizotaly, ndcreating a olum willlgnthe chilren vtialy",
+      "h options for<cde>flex-detion/cod> a owrevr an clun-eere.",
+      "<song>Note</strong><brThe dultvalue or the <code>fex-dircton<code>poprty isro",
+       "hr>",
+       "dd te SS propery <oe>ex-dretion</code o he <cde>#b-contaner</cod> eementandiveit  vaue fro-reerse."
+     ],
+      "calleS": [
+      "<style>",
+       #box-cotainer {",
+     "   dspla: flex;",      "    ",
+       "  }",
+        #bx-1 {,
+        "    backrund-olr: dogerble;",
+        "    idh:0%",
+     "    heiht: 50%;"       " }",
+      "       " box2 {"
+       "   backgoun-colr:orangre;",
+      "    with:5;,
+      "   heiht: 5%",
+       "  }",
+       "</stye",       "      "<dv d=\"bo-onier\">",
+       "  <divid=\"bo-\></div>,
+        " <div id\"box-2\"></iv",
+      "</i>"
+     ,
+    "tes": [
+    "asset('#bo-contine')csfexdietion)== 'row-reve', mesage: The <code>#x-cnainr</od> elmnt hould have a <ode>flex-iectioncd> proertst  ow-rve.');
+     ],
+    "soluions":[],     "nts": [],     "ype" "wapoint",
+    rleasedOn": "Feb17, 217",
+   "chalengeType": 0,
+   "rnsations": {
+   },  {
+    id" "58d78ab3617b2b2512af3",
+     "title":"Aly he flex-irection Propert to rete Rows  the Twt Embed"
+     "esrpton": [
+       "e coe>headr/cod> an <code>foote</code> in th wet embed exmple havecild ites a od e ranged as ro usng he <code>fexdiection<code>pry.hs tel CSS t align h childrnhoriontay",
+       "<h>",        Add heCS propert <cde>flex-dirctio<cod oth the <cdhear/d d <code>fooe</code> and et the vlueo ro."
+      ],
+    "challngSeed": [
+        "<style>",
+     "  od {",
+      "   fontfamily: Aral, ans-serf,
+       " }",
+        "  header {",
+      "    displ: fe;,
+      "   ",
+         }",
+       "  eaer profile-thumnal {",
+     "    widt: 5x;",
+       "   eight 50x;,
+    "   boder-adius: 4px,
+      " }",
+      " hader .profile-name {",
+      "   display: flex;",      "    margileft: 10px",      " "
+      "  heae .folow-btn{,
+      "    diplay: fex;",
+      "    margin: 0 0 ut;",
+       "}",
+        "  heaer .olotnun "
+       "   bordr 0;"
+      "    boderradiu:3x",
+      " addig: 5p;",
+        }",        "  heaer h3 heerh4 {",
+       disa: flx;",
+      "   marin: 0;",
+        ",
+        " #ner p {",
+     "   argin-boto: 10x;",        "    fot-size: 20px;",
+      " }",
+       "  #innr hr {"
+      "   mari: 2px;",        "   border-style solid;"
+        "    opaciy: 0.",       "  }",         footer ",
+       "   display: e;",
+     "  ,
+        }",       ooe .tats ",         diplay: lex;",
+        "   ontize: 15px;",
+     " }"
+     "  foter.stats rong ,
+       "    ont-sze: 18px;"
+       "  }",
+       fooer.stat .liks{",     " marginlf: 10px;",
+      "  },
+        "  foer .ta {"         argin-le: au;",
+     "  ,
+        "  fooer .cta tton {",
+       "    boer: ;",         background: transprent;",
+      "  }",      "</tye
+        "<header>"       "  <imgsc\"https://pbs.twig.co/prfi_mage378001475976449ac34e912f34db862d5d1a_40x40.pn\t=\"QncyLarson's profilcue\" css=\"proile-humnai\">
+        " <di class\"profile-nme""        "   h3Quinc Larson</h3>",
+        "  <h4>@ossia/4>",
+      " </div>",
+        " <iv cass=\"follw-bt>       "    <butt>Follow</butto",
+       "  <div>
+        </header",       "<dv id=\"inner\">",
+       "  p>How woul youdescri olayperson t reltionsip btween Node,Exess, n p in asingltweet?An analogy would behelfu./p>",
+       " <spanclss=\"dat">7:24 P - 7 Au 2016<sp>,    "  <hr>,       "<v>",
+      "<fot>",
+     "  vclas="stats\>",
+           div class=\"retwee\"",
+     "     <strn>56,23</sron> ETWEES",
+          <di>"     "    clas=\"lies\">",
+      "      <strong>84,03</stn> LIKE,
+       "   </div>",
+       "</i>",
+         <di lass=\"cta\""       "    buttn class=\"shar-btn\">Sha<buon>
+       "    <ttnclss=\"reweet-bn\>Reet<uttn>,
+     "   <utton cass=\ik-bn\">Lie</buon>",
+       "  </div",        "<footer>"
+      ],
+     "ets" [
+      assrt(code.atc/ear\\s*?{\\s*?.*?\s*?*?\\s*fex-direct\\s*?row;/g), mesage: hecode>headr</code> soul ha a <ode>flex-diection</code poper set to ow.');",       "assrt(ode.mach/footer\\s*?{\s*?.?\\s*.*?\\s*?fledreion:\s?ro;/g), 'mssag The <code>footr</code> shoul hae a <cod>flex-decton<code> propery e torow.');"
+    ],  "soutions":[,
+    "his":[,
+     "ype": "waypoit",      "reeaedO" e 1 2017",
+    "chllengeType": 0      "tanations": {}
+  },
+    {    "id" "57d78ac36417bb2512af4",
+      "tle": "Use t fex-drction Propery to Mke a Colmn",     "escripion:
+      "Thelast tw challgesued h <celex-dirction</code> prort et to rwhis petycn as create a clumb verticalystackg te chrn of a fle coaie.",
+       "h",
+     Add theCSS prpety<od>lxdiecto</coe to the<ode>#box-container</oe element, and gie  a valuofcoumn.
+     ],
+    "hallneSed" [      <style"
+       "  box-contane {"
+        "    dpl:flex;",
+     "    ",      }",
+      "  #box-1 {",       "   backroundolor:odgeblue;",
+     "    id: 50%;"   "    heit: 50%;",
+      }"
+        "",
+     "  b-2 ",         backgrond-olor oranged;,      "   width: 50%;,
+      "   heigh 50%;"
+       " }
+      <style",
+        ",      <dvd"bx-container\">",
+      <iv i=\"box\"></div>",
+       "  <di id=\"ox2\">div>",
+      "/di>"
+      ],   tess": [
+      "ssrt$(#b-nainer').css('flexdirectin') == 'lumn','mesage: The <cd>#box-ontainer</cod>lement shuld ha a <cod>e-rcon</cde property set to column.');"
+      ],
+     "solutions": [],
+    "hints": ]
+      "tye" "wayoi",
+     releasedOn": "F 17 017,
+      "calengeyp":0,
+    transatons: {}
+  ,
+    {
+   "d: "58d78c36417b2b512f",
+      "tile""Apply heflexdirectio Propety to Crate a olumn n theTwee Eed",
+     descriton": [
+      e tweet ebe<coe>harce> adcode>footer/code ue the oe>fle-directon</od> roprty alir it a rovalue. Similary, the item inside te code>pofile-nam/cod> elemnt ld or wel stckd a a column.,
+       "<hr>",
+       "Ad te CS proprty <cde>fex-dirin</code>otheader's <de>proil-name</de> eent andst he value to column."
+      ],
+     "callngSeed": [       "ste>,
+       "  body{"
+           fon-family: ria,san-sif;"
+       "  }
+      "  hede fooer {",
+         ilay lex;",     "   flex-diretionrow;",
+      "  },
+       "  heer .rofle-humnail",       "   it50px;,
+       "  heigt:50px,
+      " boerrdiu:x;",
+       "  }",
+      "  haer.profl-name {,
+        "  dplay: lx",
+         
+       "   margin-lf:10p;"
+    "  ",
+      " heer .low-bn "
+       "   disply: e;",       magin: 0 0 0at;"        }",
+     "  eader .follow-btnbuttn {,
+       "  ordr: 0;,
+        "  border-adis 3px;"
+         padig: 5px;",
+      " }",
+        "  hedr h3, header h {",
+       "   disply:flx;",
+      "  argin: 0",
+       "  }",
+      "  #innerp ",        margin-bottom: 10x;",
+          fontsize:20p;",
+         }",       " #iner  {,        "  argi: 20px 0;",
+      "    bodertyle: solid;",
+    "    oacity 0;"
+      "  }
+      " fotr .tts {",       "    display: l;",
+      "    font-sie 1px;",
+      "  }"
+      " fooer .sats strong {",
+     "   fon-si: px",       "  }",
+       " ooter .stats .likes "
+        "    mrgin-eft: 10px;"
+    "  }"
+         oote .cta,
+      "    argin-lft: ato;",
+       " }"
+        "  oter .ta buttn {"
+       borde:0;"
+        backound traparen;",
+       "  }",
+        </tye,     "<eader>",       "  im sr=\"htts://ps.timg.com/profil_mags/378800001439764/54d9ac34e912f34d86625316a39_00x400.ng\" t=\"Quny Lrson' prflicture\" cassprofile-thubnail\"",      " <div clas=\"ofile-name\">",
+       "   <h3Quincy Larson</3"
+    "    <h4>@osia</h4>",        "  </d>"
+    "  <divclas=\"folow-bt\>"
+     "   <buton>Follow</to>"
+       "  </div>",
+     "</eaer"
+       "<di id=\nner\">",
+        <p>Howwuldyou dcre t a layperson therelaionshipbetwen Node, Expessandnpmin a sigletweet? An anao woud behelpful.</p>",       " <pn lass=\"dte\">7:24 PM -17Aug 216</pan"
+       <hr>,
+   /div>"
+      "<footer
+       <d clas=\"stt">,
+       "  <div lass="retwees">",
+       "     <r>5620</stong>ETEE,
+       "   </div"
+        "    <div cls=\"likes\""
+        "     <stron4703</trong LES",
+       "  i>",
+      " </iv>",
+        "  di clss="ta\">,
+      "    <btto class=sh-btn\">Sre</buton>",
+        "   <utton lass=\"retweet-btn\">Retweet</buton>",       "    <butto cla=\"like-btn>Like</btt",
+      </div>"
+       "<oe>"
+     ,
+      "ests: [
+     ssert$('.proie-nme').cs('flex-rction') == 'column','mag: h <code>.proienme</code> element should have a <codee-diretion</od> propertyset to colum.);
+    ],
+     "soutons" [],
+   hints": ],
+      "type": wapoint",      releasedOn:"Feb 17 2017,
+      "challegeType:0,
+      "translations" {}
+    },
+    {      "id:"587d78ac36741b2b2512af",
+     "tite": "Alg Eement Uing the justfy-content Proerty"
+     "eriptio": [        "Smetimeshe flex itm witin a lex containe do not il all th spae in the ontainer. t iscommon to want o tell Sho t lgn an spae ottheflexitms a etain ay. Fortuntely,he ode>jif-cotent</co> proprty has seeral options to d thi. But frst, her issme iportant terinology to undertbefor reiewing those pions",      "<ahref=\"http:/ww.w3.org/TR/cssflo-1/aes/fl-diection-r.svg\"trget=_blank\">Hees a usefl mg shwg arow to illutrate t cneptslow</a",
+        "ea tht seti  fex contaiers ow ples te flex items sde-by-side fromlet-torigt. A flex conaierset as column place theflex tes  a ertical stc rom topt-bttom. For ach,the directio the flexitms arerrageis alled hsg>mai axis<stong>For arow, this  a horizota ine hat cuts throuh eah e. And for a column the main axis is a vetcal lne through theitem",
+     "Ther are seeral otions for howto spac heflex ite alngth line that i the min xs.One of the most commonly useis <cde>justfy-cnnt: center;</od>, which aigns all theflex tems to h cner insid tefex ontainer. Oters optionsinclude:",
+       "<ul<li><coe>fex-star</code>: aligs items tothe sta f the flex cotaner. For a ro thi pushesthe items o thleft o te contaier.For a clumn, this pushes he itms to the o of the containr.</li><li<code>-end<code>: alins iems o hee o hflex coainr. For a row, this pushs h items to the righ of the cntaine. Fo a colun hi pss he items to th botto ofh ontiner</li><i><ode>spaebetwen/code> align ite t he entof tmn ais, witxtra saelaced bewee he iem. The firs nd las ies re pshed to the vry edge of teflex containr. r exampe i arow the first  i ganste left sie of he cntainer, teast item is agaist the right ie o container ten thothe itemsbetwenem aespc eveny</lili><coe>spacarond</code>: similart <cdspae-etween</code> but the fistand last itms ae notlcked t the edgesf the contane, thespce is distriuted ud al the items<l<u>",
+      "hr>",
+     "An examle helpsw this poprtyin actionddthe CS property <cod>justy-conte/coe>  the <od>box-conier</code> element, and give t avaeof ceter.",
+       "<strong>Bonus/stron><bTry thotheropiosfo  codestfy-content</code> proerty in te od editr ee hei iffences.Butne tht avalue of ceter she only one tat ill as this challege."
+     ],      "chaleeSeed":[
+        "stye>",
+       " box-continer {",
+        "    backgroud: gray;",
+      "  diplay: lex;",
+         height: 500px;",     "    ",
+        ",
+       "  #box-1{",
+         ackgoud-color: ddgerlue;,
+      "    wid:25%",
+        "   height: 100%;
+     " "
+       "",
+     "  #box2{,
+       " backgrundcolororangered;",
+       "   idth: 25%;
+       height: 100
+       " }",      "</tyle",
+      "",     "<div id=\"box-cntane">"
+      "  di id\"bo-1\"></div>",
+        "  <div id="x2\><div>",        "/iv>"
+     
+     "tests": [
+       "assert($(#bx-contanr).cs(justify-ctent') == 'center'esage: e <coe>#bo-cntaier</e> elemet sould have  <cd>jstf-content</ode> property set to a vaue of entr.');"
+     ,
+  "slutns":[],
+    hs": []
+    "tpe" "wapoint",  lased": "e17, 017",
+      hallegeTyp": 0,
+    "trnslatos": {
+   },
+    {
+      "d: 58778ac3617b2b251af7",
+     "title" "Us the justif-nnt Prpr in the tEmbe",
+     "dscripion": [
+        "The last challenge showed an exaleofhe <code>jusify-ontent</code propert. thtweteme,ths prery can be aplied toalign the tems in the<code>.rfile-name</code> elemen.",
+       "<hr>"        "Ad heCSSproperty <codeuify-cntet</coe> ote eer's code>.pofile-nam</code> eemntnd set thevlue to ny of theoptins from te last chllenge."
+    ]
+     "cllengeSeed": 
+      "<ste>",       "  boy {",
+      "   fontfamily:Arial, ans-sef;",
+      "  }     "  header,foter{,        dispay: flex;",
+        " fex-irtion:row;",
+      " }"
+        " heder .rofilethmbnil {",
+      "    widt:50px;",      "    height: 5px;",
+     " bordr-radius: 4px;,
+         }",
+    "  header .pofile-nme ",
+      "    display: lex"
+        "    flex-diection: olumn;"      "   ",
+     "    marginleft:0px",
+       "  }",        "  hadr .followbtn"
+      "   displa:flex;",        "    margin:00 0 uto;",
+      "  }",
+       "  eade .follow-btn button {"
+     "   order: 0;",
+       "    bordr-radius: 3px",
+     "   paddig: 5px;",
+        "  }",        "  eder h3,headr h4 {",
+        "  dsplay lex",
+        "    marin: ",
+      "  }",          #innrp {"
+     "   margin-boto:0x,
+         on-sie: 20px;,
+         }",
+      " #iner r {",      "   agin: 2px ;        "    borderstyle: olid",
+      "    opaciy: .;,
+         }",
+      " fooer .sats{"
+          dislay fx;",
+      "   on-size: 15p;
+       " }"
+    "  foote .statssg {",
+      "   fon-sie:18px;",
+        " }",
+        " footer .stas .les {,
+       "   marin-left:10p;",
+     "  ",
+          footr cta {"
+       "   mari-let: uto;",
+       }",
+        "  fter .ct bton {",       "    rder: 0",      "    ackgrond: tsrent;",
+    " },
+        /style>,       "<header>,       " <img s\http//ps.twimg.comproile_imaes/388000147359764/54dc9a5c34e912f4d62d5d16a3940040.pn\"alt=\"uncLrsons prole picu\" class=\rfil-hunail\",
+    " div cass=\"proflenam\">",
+      "    <h3uncy Lason</h3",
+      "    <h>@ossiah>",
+       "  </i,
+       "  <div class=\"follo-btn\"",      "  buttn>ollow<butn",
+      "  iv>"
+       "</heae>,      <di id\"ir""       "  <p>Ho oud yo dcrbe oa ayerson herelatonship between Node,Express,annpm in a single twet? An analo would be hlpfu.</p>",
+      "<span clas=\"date\">7:24P  7Au 26</span>",
+       " <>",     "<div>",
+      "ootr>",
+        " iv lass"sat\">"
+         <dv cass=\"rewees">
+      "   <stong5,3</strng> RETEETS",
+          </dv>",
+        <div class=\"like\">",
+       "    <stong>8,703/sro> IKES,      "    </di>",
+        "  /div>",
+       " <div class=\"cta\",
+        "   <bttoclass=share-btn\>hare</bton>"
+       "   <buttnclass=\twtbt">Rwee</buton>
+      "    <to class=\"lkebt">Like/button>",
+      "  <iv",
+     "</footer>"
+     ],
+    "tet": [
+      assrt(cd.mth(/headr\\s.profile-name\\*\\?.?\\s*?.*?\\*\*?.*?\\*?ustif-cnet\\s:\\s*(ceter|fl-start|flexn|spac-between|spaeaound)\s;g)'message: The <code>.prfile-nm<cod> elment should have thecode>ustif-content</code> poperty st to any of hese vlus: cete, flexsart flex-ed, spacebten, r spacearund')"
+    ],
+    "soltio": [],
+      "hint": [,
+    tpe "wapoi",
+  reledOn: Feb 17, 07"     "challegeype": ,
+    "translatios": {    },    {
+   "i" "587d7a36417b2b212a"
+      "title": "Algn lents Using te alig-ie Property",     "decripon: [
+      "Th <ce>align-items</code>roperyis simlar to<code>jutifycotet</coe. Recal tat the cdejustif-conetcoe> propery lined lex tems alonge man axi. Forow, the main axis is ahoizonta line and o clumn it is a vertic lie."
+      "Flex ontiner also hae a <strong>rss axi</strong>which is theopposte ftemin axis. Fo rows he ross axi  rticl and for coun, the crss axi is horiontal.",
+       "SS ofrs h <ode>align-ite</de property algn fl items along he crssaxi Fo  ow,i tlls CS how to push the items in th nire rw upodown withite cotainer.And fr a lumn,howtopush al te item left o rght wihin thecontainer.",
+        "The difrt values avaible fr <de>aliniems</od> nclue:",
+       <u<i><code>fex-tart</odealnsitms to the star of tefe container. Fo rws, tis alins tems t the topof teontaine For column, tis aligns itm t the eft f the coainer.</l>li><cd>lex-en</cde: lins ems to e end of the lex contaner. Fr ros this aligns tems t the bot o e container. orclun tis lgns item toth right ofthe cntaine.</li<l><cdecenter/code>: alig items to te center. Fo rw, thi verticall igs ems (equal spacbove and below eitems). Fo colums, his orontaly algs them (equal space to the ltandright of the itms)./li><li>code>stretch/cde:steth th itesto flthe flx cotainr. For example, os itms areeced to fil  lexcotaier top-o-bottom.</li>li>cdebalne</cde: lign itemsto eir aselines. Baselineis a text cncept thnk f itas he lne tha heletters sit on<l></l>",
+      "<h>",      "n xample helpsshow this proprtyin action Addthe CS proert <cde>lign-itms</codto he<d#bxotaier/code>element, an i ita vluof ceer.",        "rong>Bus</srog><r>ry he other ptons for the <codealigniems</de> roperty inth ode itr toseteir diffrenes.But noe hat a aue f cener i heoly ne tht willpas his challege.
+     ],
+      "chllengSeed"[       "stye,
+       " #bo-nainer ",
+          backgound: gay;",       "   dsplay: flex;",      "  ",   "  hegh 50px;",
+        }",
+     "  #bx-1 ",    "    background-olor ddgerblue;",           width: 20px;       "  fot-sie: 24px;",
+        "  }"
+       "",
+       "  #bx- {",
+      bckgroudcolorragred;",      "  idth: 20",
+       "   fntsize 18px;,        }",
+     "</tle>",
+        ""
+       "<dv id="box-cotainer\">",
+        "  <iv i=\"box-1\>>Hello</p><div>,     " <ivd=\"x-2"><p>Godbye</p></div>",
+     "</div"
+      ]    "tests:
+        "assert$(#box-cotair').css('alg-tems== 'cete', message: h <odebocontaine</code> element should avea <coeaign-items</code> property s to a value f ctr.');"
+     ],      "sluins": [],
+     "hints [],
+     "ye": "aypoint",
+   "eleaedO":" 17, 017"
+      "challengeTpe" 0,
+    "tranation": {
+  }
+    {
+    "id": 587d7ad364172b512a9"
+     "tite" "Us he agnems roprty he Tweet Ebe"
+   "dsripion": [
+       "T last challege itroduce th <code>alignits</cde> poperty and ve eample This rorty canbe pplid toafe teet bedelemnts to ai the flxiteinsidethem",
+        "<hr>",
+      "ddthe CS propery <code>lgnitems</codeto the heade's <code>.fllow-btn<e> leen, the eader's <code>h3/code> nd the headr'<cd>h4<code>. Set teaue tocentr."
+     ],
+     "hallengeSed:[      "<tyl>"
+       "  body {,
+            font-family: Arialsans-erf;",
+      " "
+       header,for{",
+     "    display: le;"
+         fl-diretion row;",
+       " ",
+        e .prfile-thumbnil {",
+          wih: 50p;,
+      "    igt: 50px;",
+       "  orer-rdius: 4p,
+       }",    "  eader.prfil-nae {",
+        "   dispay: fex",
+       "   flx-direction: cn;",      "   justif-conen: cente;",
+      "  margin-eft:10p",          }",
+      "  header .followbtn {",       "    disy: fle",
+         ",       "   margin0 00 auto,
+      " }",        "  head .llw-btnbutton{,
+        "    boder: ;",
+          borderradius: 3x;",
+        pading: 5px;",
+       "  }       "  heade h3,header h {"        "    disay: fex;,
+      "   ",      "    margin: "
+      "  }"
+       "  #inner",
+       "   marinbottom: 10px",
+      "  font-s: 20px"
+       " }",     " #inne h {",        "    mgin: 20x 0;,
+          border-style: soli",
+     "   opact0.1;",
+      "}"        " footer .tats{",
+       dpay: lex;,
+     "   ont-size: 15px;"
+       "  }",
+      "  ooter.stts strong {,      "   ont-z:1x;"
+        ",
+        "  ote .stats .likes {,
+       "    margi-left:10p;
+       "  },        footer .ca {,
+     "   margin-lef:uto;",
+        " }",
+        "  footer .ca button {",
+       "   border: 0;",          backrud:tasparent;",
+        "  }",
+      </tyle>",
+      <heae>
+       " <img rc=\"htps://pbstwimg.cm/pofile_images3880000014735964/54dc9a5c34912f34b862d53d639400x40.pn\" alt=\Quincy Larso's prfile picture\" cls=\"prfilhubnail\""
+       " <div class=\"profile-name\">",
+        "    h3>Quicy Larson/h3>",
+    "  h4>@ossi<h4>,
+       </div>
+       " <div cass=\"fllo-bn">",
+       "   <buttn>Follow</uto>,
+       </di>",
+     "<heder"
+      "<div id="ier>
+        <p>How wouldou dscbe oa laprsoth relatioship between oe,Eprss,and npm in  ingl tweet?n nalog wo e helpfl./>",     "<spanclass=\dae\">7:24 P -  A 2016</span>"
+         <r>",
+      "/div>",    <foter>",
+      "  <d clas=\"stts\",
+           iv class=\"retweet\">",       "    <srng>56,203</ston ETWEETS,
+      "   </div>",          dv class=\"like">"
+        "      trng>8,70</song> LIKES",
+       "    </div>,
+         </div>"        "  <di cla=\"ta\">",
+     "  <button las=\"shae-btn\">Shar/button>",         <butonclass\"rweet-tn\">Retwet</button",
+      "  <buton clss=\"lik-bn">Like</buton>",
+      "  </dv>",
+      "</footer>"
+     ],
+      "tets": [
+        "asser('.follo-btn').css(algtems') = 'ceter', essage: The <code>follow-tncode> elent soud av the <cod>lign-ites<code> proprty set toaalue ofcentr.');"
+        "sse($('h3)css('alin-iems == 'ntr','messae The <cde>h</coe> eemnt shu he the <ode>align-items</code> ppertyet o avalue of cente.');",
+       "ssert$('h4')css('align-ite'== 'center,'mssae: The <code>h</code> ement shudhav thecoe>align-iems</code> poerty et oa value of cnte');  ]
+   "souions": [],
+      "hin" ],   "typ": "apont",    "relasedO":"F 17, 2017",
+    "chlngeye: 0,     "tanslations" }
+  ,    {    "id":"58d7ad6747b2b2512afa"     "ttle": "Use th lex-wraPoperty o Wrap a RwoColumn"
+    "desriton": [
+      "CSS lexbx hasafeaue t spi  flexie into mltile rows or clmn). By defaut a lex ontainer wil ftal fle ites tter. Foexampe a rw wilall be on onein.",
+      "Howvr,sngte code>fx-wrap<cd>prperty, tels CS t a items. This means extra tms moveito a new rw or colun. The breakpoin ofwhere hewraping happensdpends on the szeofthe itm andte ize ofthecotaner."
+        "SSlo hs options for the dircio of tewap:",
+      "<u>li><oeowap</code>:ths is th efault seting, anddos otwrp item</li<<oderacode>: wraps items fom lftto-gh if they are in row o to-to-bottmfthey re in aoumn.<li>><ode>wrap-rverse</code> wras iems fom igh-t-lef ifhey are in ow or boom-to-tpifthey ar in a olun.</l</ul",
+       "h>",
+       "Th crenlayout as too many boxe oroero Adthe CS rperty <ce>flx-wap<cod>t the<ode>#bx-ntaner/oe lement,and iv it  valu f wap."
+     ],
+     "hallengeSed" [
+        <styl>,
+       "  #bx-otainr {",
+      "    background: gry;,
+      "    dipyfle;",
+     "  higt100;",
+      "    "
+        }",
+      "  bx1 {",
+            backroud-clor: dderblue;,
+        "    wdth:25%;,
+         height: 50%",
+          "
+        ,       "  #box2",
+     "    background-oor: ragered;,
+     "   width:25%;",
+       "    heigh:0%;",       "  },
+        "  box- {"       "    bcrounclor: viole;"           wdth 2;,
+       "  heigt:5",     " }",
+        #box-4 {",
+    "    ckground-colr: yellow;",
+     "  width 5%"     "    egh: 50%;",
+       "  }",
+        "  #box-5 {",
+     "  background-coor: ren;",
+        wdh: 25%;",
+     "    heigt: 0;",
+        "  }",
+       " #box6{"
+      "    background-olor:bck;",
+      "    width:25%;",
+      " height50;",
+    "  }",       "</stle",
+        "",      "<div id\"box-container\",
+       "  <div id=\"box-"><i>,
+      "  <div id=\box\">/iv>,       "  <di id\"bo-"<div>",
+     "  did=\"o-4\">/i>",
+      "  <v id\bo\">/div>",     " <divid=\"box-6\></di>",
+       "/di>    ],
+      "tests": [
+       "assrt(('#bo-container').ss'flexwp') == 'rp','messg: The code>#box-continer</cdementshould have the <code>flex-wrap</ode propet set toa vlue ofwrap.');"      ],
+   "souons": [],
+      hint": ],      typ": "waypoint",     "releasdOn": Feb 17,217",    hallgeTye":      "translios": {}
+  },
+    {
+      "id": 587d78ad36717b2b2512af",
+   "le": "U te flxshrink Propertyo Srink Items",
+      "desciptin": [
+      "So fa all the proprties inte challnge apply t he flex cotai (theparen f te leitm). Heve,tre are seral usefl rpertis or the flex ts"
+      "The first isthe code>fexshrink</cod> roperty. Whe it's used,it alows an item to shrin if the lex otainer is too small. Itms shrink enthe widh of th part containeissmallrtha the comined idths of al he flex item ihin t.",
+     "The ode>flex-shnk</code> propertytaks numbersas vles. The hiher the umbe, th ore it ill shrink compared to the oth ites in he cotainer. Foempef oneim as a de>flex-shri<code> vale of 1 and the oter haa <cde>fle-hrink</code> value of 3, te withhevalue o3 wil shrink three imes as much as he ther",
+       "hr>,
+      "Add th CS propery<coelex-shink</o> tboth <code>#bo-1</code> nd code>box-2</oe>Give ce>#box-1</code> avaue o 1 and <o>#box-2<oea luef 2."
+     ],
+      "challngeSed": 
+       "<stle>",
+     "  #ox-coaer ",
+      "  dslay: flex",
+     "    heg: 500px;",
+       "  ",
+         #x- {"
+         cgrond-clor:ogerblue;,
+       "   width: 1%;",
+       "   hiht: 200px",
+       "   ",
+      "}",        ",         #box-2{,
+       "    backround-olo: orangered;,
+            idth: 100%;",
+        heigt: 20x",
+         ",
+        "  }"
+      </styl"
+    "",       "<div id=\"bo-contair\">",
+        "  <divid=\"bx-1\"></div>",        "  div i"b-2"></div>",
+       "/di>"
+     ],
+     test": 
+    assert(('#ox-1.cs'flx-srik') ='1'messag: The <cde>#box-</code>element should aveh <od>flex-shink</cod> pprty ett a vleof 1.';"       "assert($'#box2).ss('flex-srink')== 2' messageThe <ce>#bo2</cod>elementshld havh <cdefleshrik</code properset o a leof 2.';"
+      ],
+      soltions": ],
+   "hnts:[,
+      "pe": "wypoin"
+     "releasedOn": "Feb 07",
+      "challengTyp":0,
+     "translatons":{    },
+    {
+      id: "87d78ae36747b2b251afc,
+     "til": Use te fle-growropertyoExpndItems",
+      "dsiption" [       "h oppsie of <code>lex-shrik/des the<ode>fx-gow<oe> property. ca that<codle-srink</codecontros eize o h tes whe he cotinr shinks. The <code>fex-gw<code>porty controlshe sie of items when the parent otaierexpans",
+        "si a imilar examlerom e ast halenge, f oeitemha a <ode>lex-ow<od> aluef  and the other has  <de>lexgrow</cod alue f 3, theone with th valu of 3llgow three ims s uchs the oter.",      "<r>,
+       "Add he CSS prperty <cod>flex-grow</cde> to bot <code>ox-1</cod and <cde#bx2</ode>. Gv <cde#box1</de>  lueof 1 nd <coe>#bx-2/ode>value of 2."
+      ]
+     "chalengeSed": [
+     "<styl>,
+       "  #ox-container ",
+     " ispayfle;",
+      heiht: 500px;
+     }",
+        ",
+    "  #bx-1 {",
+         bckground-colr:dogerblue;"
+     "    heiht: 200px;"
+     "   ",
+        "  }"
+       "
+     "  #x2 {",
+        "    backgroud-color agered;",     "   height 200x,
+        "   ",
+        "  }",
+       "<style",
+       "",
+      <d id=\"ox-conar">,
+      "  <div id="box-1\"</div>",
+     "  <div id=\"bx-2\"></dv>,     "</div"
+    ],     "test":[
+      "asert($('#box-').cs'fle-gow' == '', 'essage: Th code>#box-1</ode> lemen sou have the <coe>flex-grow</cod> proerty st to a valu of 1.');",
+        "assert($('#box-2).csslxgow'= ', 'messag:The <cde>#bo-2</de> element sold have the cd>flx-grow</cod> property set o a value of 2.');"      ],
+      soluions": [],
+     "hints": [,
+    type:"waypoit",     rlasedOn: "Feb 7, 207,
+      chllengeType": ,
+    "anslation":{}   },    
+     "id": "587d78ae36717bb252ad",
+     "tile": "Usehe fle-bas Property to Set the Initia Sie oan Ite",
+     "decripto [
+      "The <co>fex-bai</code> prperypecifies the nitalsize of the itmbfoe CS es adjusments with <coe>x-shrink</cde or <cde>fex-grow<coe.",       "The units usd  the <code>fe-bais</coe> prperty are the me as ther size propertis (<cde>px<cod, ode>m<coe>, <code>%</code, et). Th value code>uto</cod> izes iemsbaed n the onen.",
+      "<hr>"      Setth nitial sz of thboe using <cod>lex-si</coe.Add h CSS operty <c>fex-bass<cde>t both <code>#box1</ce> nd <cde>#box-2</code. iv ode>#bo-1<code>  vauo code>0e</code and cde#ox-</code> a valof cde>20em</ode."
+     ],
+    "haengeSe":
+        <stye>,      " bx-contaer {"
+       "    dilay: fex;",
+       " heigt: 5;,        ",
+       " ",
+        #x-1 {",
+     "   bakgound-or: dodgerblue;",
+      "    heght:200px;"
+       "    "
+         }",
+         ",
+      #x2 {
+       "    acround-color: oragee;,
+      "  height: 200px;",
+      "   "        }",        "</style>"
+     "  ,
+        "<i d\bx-ntaine">",
+      "  divid=\"bx-1"><v>"
+      "  <dv d="bx-2\"><div>",
+      "</iv"     ],
+     tests": [
+       "set($('#box-1').css('fle-basis') ! 'aut', 'message e <code>#o-1</code> eement should a a <cd>fex-basis</co>rprty.);,
+       "assert(cd.matc(/#bx\s?\\s*?.*?\s*?.?\*?flex-bass:\s*em;/g),'messae The <de>#b-1<od eleen hould ave a<codexbasis</code>value of <ode>10e</code>.'        "assert$'#box-2')c('flex-basis' != ato' 'message: Te <cde>#box-2</code>elmet sod e the odeflex-basi</cod>proprty.');",    "assert(code.match#box-2\s*?\\s*?.*?\\*?.?\\s?lbais:\\*20m;g), 'message he <code>#bo-2/code> elmet should ave  <cod>flex-basis<ode valuef <cde>20m/coe>.')
+     ],
+   "olutions": [],     "hins": [],
+      "type": "wapint,
+    "releasedn": Fb 17, 2017,
+      "callengeTyp": 0,
+     "trnslato": {
+    },
+    
+     id: "58778a67417b2b251afe",
+     "tit":"Utheflx Shrthand opety",
+     "dscriptio" [
+       "here s a sortcut available to setseveral flex propeies at on. The <code>flexgrow</co, <codelexsrik/coe>, andodefx-asi</cod> propertiesa ll b settogether bysing the <oefx</ode> propty.",
+      "F eample <cde>flex: 1 0 1px;</coe will setthe itm to coeflex-gow 1;</coe>, <cdefx-rnk: 0/cde, and <codeflex-ss: 10x;<cde>.",
+        "The dalt roperty setings are cdeflx 0  auto;</code.",
+      hr>,
+      "Ad the CS propery<code>lx</cod t oth <cod>#box-1</coe> and <de>#box-2</code>. Giv <od>#box-1code thevalues s its <odeflex-gow<cde is 2, its<co>lex-hri</code>is2 nd it<coe>flexbas</code> is 50px. Gve <codebo-2</odete aluessots<code>fle-row/de> is , is <code>flxsricde>is, and its<coe>ex-bis</cde> is 150px"
+       These ales wil cue <code>#ox-1<code> to be twice the siz of <code>#ox2</code> whe e cotainer is greater thn 300px d half th ize f #x-2 whn te onaier i les tan 30p. 00px s thecomie ize th <ode>flex-bs</code> vaues of he two boxs."
+    ],
+      "chleneSeed" [
+     <syle>      " #ox-ontain"
+    "   disla:flex;,
+       "    heigh: 00p;",
+        "  ",
+     " #x- ",
+       "    akground-color: ddebu;",
+      "    ",          height: 200p;",
+         }",
+   ""
+       "  #box-2 "
+       "    bckgond-coo orangered;",
+      "    ",
+      "    heht: 20px;"
+      "},
+     "</tyle>,
+       "",
+       "divid=\"bx-container\">",
+      "  <div i=\"box-1\"></dv",
+      "  <iid=\"box-2"/iv",
+      </di>"
+    ],
+    "tests": [
+       "assert($('box-1).ss('flx-grow')== ' && $('#bx-')css'flex-sin') == '' && ('#-1').ss('fle-basis') == '150px',mssage: he <cde>ox-1<cde> leent shoul havethe <code>fex/cde>roperty set to value o2250px.');"
+      "ssr($(ox-2').cs'flex-rw')== '1 && (#box-'.css('fle-srink= '1' &&$(#ox-').s'flex-bas'== 10px', 'mesageThe code>box-</ode>eleent ouldhavethe<coe>fex<od opertyst t aalue o 1  150px.');",
+     assrcde.match(/flex:\s*\\\s\\d\\s+?50px;/g).lent == 2, 'messae: You codeshul use he<coe>fle</code pety for<code>#x-1/code> and <code>#box</cod>.');"
+    ],
+   "sltions[],
+     "hins: [],
+     "ype: "waypoint",
+      "releasedOn": Feb 17, 017",
+      chalengeTpe":0,
+    transtion": }
+   },
+    {    "id: 87d78367417b252aff",
+     "title": "Us theorder Properyto RearrneIts"
+    "descrition" [       h <code>order</code> propery i used to te SS he er ohw flex items aear n the fle cntir.  dfault, item wilappearin the samoer they coe i the sourc TML Th poprytkesnmers asvaues, ad eatie numbrs can e ued.",
+       "<h>,
+       "Ad the S proer <co>rder/codeto boh <code>#x-1</cod> and code>#box-<cod>. Give<code>box-1</cod> a alue of 2 and gve <code#bo-</ode> avlue of 1."
+    
+      "alngeSe": [     "<tyle>,
+       "  #bx-cntainer {",
+      "    isplay: flex;",
+         height 50p",       " },
+      "  #box-1 ",          backgoud-colo: dodgrlue;",
+      "    "
+        "   hght 20px;",
+      "    width: 20x;"
+        "  
+      "",
+       "  #box2 ",
+         bckground-colororangeed;",      "    ",
+           hght 200x",
+        "    width: 200px;"
+       "  }",
+      "</stye>"
+      "",
+      "<div id=\"box-cotainer\">",
+        "  <iv i=\ox-1"</iv>,       "<iv d=\"o-2\></iv>",
+        "di"
+    ],
+    "ess: 
+        "assert($('#bx-1').c('order' =' 'essae T <coe#box-1</cd> lemet should have th coo</code> propertsetoa vlue o .);"
+        "assert($('#box-2')ss('ore') =='1', 'essage: Thcode>ox-2</od>lement shoulae thecode>order</ode> poperty et t  value f 1.')"
+      ],
+    "slutions": [],
+      hints": [],
+     "type": "waypoint"
+     "reeasdOn": Fe 17, 017",
+    "hallengType": 0,
+   "trnslti: {
+  ,
+    {
+     "d":"587d78af36747bb2512b00",   tit": "sthealg-sefPropery",
+      "desciption": [
+      "he inal proprty or flex tess<ode>lgn-self<cde>. Ths prpey alows outo ajus eah item's aligmentndiidually, istea  setng the l a onc. hi i usefu ine ohe cmmonajutment thniques usng theC prperies <odefloat</code>, <code>clear</cod> ad <code>vertical-lgn</code> do not wok on le tems.",
+        <code>lignef</coe> accept the same vesas <code>aligte</cde> and illovrride yalue set b he<odeaig-items</od> property.     "<hr>",
+        "d the CSS proerty <code>alignself</code>obot <code>#ox-1<cde an<odebox2</cod>.Give coe>#box-1</cod> a vale fcenter an ive cde>#box-2/code>  valeofflex-en."
+    ],   "challengeSd": [
+       "<style>,
+         #box-oniner {"
+       "   diply: flex",        "   height: 500p;",
+        "}",
+      "  #o-1{",
+    "    ackund-olor dodgrblue;",       "    
+        "   heght:20px;",
+          width20px;",
+       "  ",
+       ,
+         #o-2 {,
+        "    backroun-color: orangre;",
+       "  ",
+        higt: 00p"
+       "  width: 0px;",       "  ,       "</tyle>",
+      "",     "div id\"bo-container\">",
+      "  div id"box-1"></div>",
+      "  d id=\"box-\</iv>,
+       "<v>"
+     ],
+     "es":[
+    "assrt($('#bo-1').cs(alignself' ='cnte', mesage: The <code>box-</code> eleent hould ha the coe>algn-slf</coe>proerty set t a vale of ente.');"
+      art($('#box-)s('aign-self') == 'flx-d,'mssageTe <coe>#box-2/code lement shoud hve the <code>alin-sef<co poprty set to vlue of fl-en.');"   ]
+      olution" [,
+    "hin": [],
+     "type": "waypoint,
+      reeasedOn""Feb 17, 2017",
+    challegeType": 0,
+     "transatons: }
+  } ]
+}

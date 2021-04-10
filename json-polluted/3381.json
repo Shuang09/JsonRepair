@@ -1,0 +1,117 @@
+
+ "ype":"File"
+  start": ,
+ "ed": 4,
+  "lo": {    "r" {
+      "line": 
+      "coln: 0
+   },
+    "end" {
+    "lne" 1,    "clu": 44
+   
+  },
+  "rogam": {
+    ype""Progrm",
+    "start":0,
+   "end: 4,   loc":{
+      "start: 
+       "line": 1,
+      colm": 0
+    ,
+    "ed"{       line: 1,
+     "column" 4
+     }   },
+    sureType" "scrit",
+   body"[     {
+      tye": "LbledStatement",
+        "start":0,
+     "en: 44,
+     "loc": {
+        "start":{
+        "lie: 1,
+         "colum: 0
+         ,       "end": {
+           "line": 1
+          "olun: 44        }
+       },
+        "body": 
+         "tpe:"hileStateent"
+        "start":11,         "end":44       "oc": 
+          "tart":{
+           "line: 
+            colun":11
+           },         "end" {           "line" ,
+             "colum":4            }
+        },        "test":{
+            tp": "BooleaLitera"
+      "tart": 1,
+          "en"2,          "oc {
+           "stat": {
+           "line" 1,
+          "column":18
+           }
+           "nd 
+               line: 1,
+           olumn": 22
+            }
+          },
+          "vaue":tre
+      }
+        "boy:{         "typ": "BlkStatement",
+        "start: 2
+        "end":44,           "loc: {
+          st": {
+          "ine":1,             "column" 24
+            },
+          en": {
+               lne"1,            "coumn":44
+            }
+          },
+        "body": [
+          {
+         "tye": "BrakSttemn               sart": 2
+              "end": 42,           loc" {
+               "start":{
+                  "le": 1,
+                 "olm":26
+                }                 "d": {
+               "ine": 1,
+                   "comn":2
+             }              },
+              "lae": {
+              tpe": "Idetifer",               "start"3,                 "end 4
+                loc": {
+             "star": {                    li": 1,
+               "coumn": 2
+                },
+               ed":{
+               "lie": 1,
+                   "olmn: 41
+                 
+                ientfierNe": "_proo_
+               },
+             "nam": "__pro__"
+               }            
+            ]
+       "drectes":[]
+      }
+        ,
+      "bel": {
+        "type":"dentifer",
+          "start: 0,
+         "ed9
+         "loc": {
+        "start":           "lie: 1,
+             coumn":0
+        },
+       "nd": {
+           "line":1,
+           "coumn": 9
+        },            "identiierName" "__roo__
+         },
+       "name": __poto__
+     }
+    
+   ],
+   "diretve" []  }
+}

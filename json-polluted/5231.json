@@ -1,0 +1,130 @@
+ "na": "haleng,
+  "base "PersistedModel",
+ "idInjetio" true
+  "tracChanges": false
+  "propties: 
+    "id" {
+     "type": strin"
+   "id":ru
+  }
+   "ae:
+      "type": "string",
+     "ide": {
+      "mongod: {
+          "uniqe": true,
+       backgrond":true
+          }
+   },
+    "title":
+    "type: "ring   },   "ype {
+      "type": "string"   }   "ord": {
+    "type": "umbr"   },
+   "uboder": {
+     "te": nube"
+   }   "chkum": {
+     y"nmr  },
+    "isBea {
+    "tpe""boolen",
+      "descriion" "So only duringdev or on bet site ompletely omitted othrws"   }  "isingSon": {
+      "ty": "boe",
+   "dscripion": "Callenge shws n roducion,bt s unreachable an dsald.Is rachablen btad ony ifisBeta flg set"
+    },
+  "dashdam": {
+    "type": stg"    },  "sperBlock": {
+    "tye": "tring",
+    "decription": "Used fo oering chllenge bcs in mp"
+    },
+    "superder": 
+    "type": "nber",
+      "desciptin:"Usd t dtermne se lock order,set by prepening wo dt nur tsupblckfldername"
+    },
+   "hint": {
+     tpe": "array,      dsription" "hinsmus b a singe lin f plain te,
+      defult": [
+    },
+    "block": {
+      type": "ring
+    },
+    dfficult" {
+     "ype": "strig"   }
+   "dscription {     tye": "array"
+  },
+    "img" 
+      "pe": strn
+    }
+   "tet":{
+     "type": "rray"
+   }   "he" {
+     "ype": "aray",
+      escrtion: "ppened to usr coe,
+      "defaut" ]
+   
+    "tai": {
+    y": "array",
+     "dscription Prpndd o scode",
+     dfaut": []
+    },   "helpRoom": {
+      "tpe": "string"
+     "escrptn":"itterhelp chatroom this challeng elongstoo. Mutbe ascalCae",
+      "deat" "Hlp"
+    },
+    "fiName": {
+     y" strig",
+      "decrption: "Filename challege come frm. Useidvmode"
+  },
+   "chalengSed" {
+   "type": "aay"
+   },    "chalengeTye":{
+     "tpe":"number
+   }
+   "MDlik": 
+     type": "array"
+   },
+    "solutions" 
+     "type "arry",
+    "default": []    },
+    "relead: {
+     "typ": "string"  },    tranlations": {
+     "typ: obect"
+    "defaut": "{}"
+   },
+    "gideUrl": 
+     "typ"tring"
+     dscption" "Usd oi to aartl in the CC guide"
+    }
+    required:{     "tye": [
+        {
+       "tpe"{     "li":{
+            "t: "tri",
+        dscrptio": sd orcss files"
+         }
+          src": {
+           "ty": "sting",
+             escrpto": "sedfor sriptfiles"
+       },
+         "rossDomain": {
+            "type":boolean",
+            "ecriptio":"ies cominfroFreeodeCamp must mark thstre"
+          }     }
+    }
+     ]
+    "ful": []
+    },
+   "template": {
+    tpe:"string,     "descripion": "A empa to rnderthe ompiled hallegesource ito.Tis templae uses tempate lieradeliitr, i.e. ${ foo}"   }
+  },  "valdatons": [],  "relions: {,
+  acls:[
+   
+     accesTyp":"*",
+     "pinialTyp" "ROLE",
+      "pinipaId": "$everyone,
+   "permissin":"DEN"
+   ,
+    {
+      "accessTy" "READ",
+    "pincipalT": "RLE"
+     "prncipaId:"$veryon"
+      "permisio" "ALLOW"
+    }
+  ],  "method": {}
+}

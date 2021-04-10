@@ -1,0 +1,138 @@
+{
+ "tye: "Fi, "sat": 0
+ "nd":25,
+  "loc": {
+   st": {
+    line": ,    "colun": 0
+   },
+    "en":
+     lin" 3,
+    "colm     }
+  ,
+ "rogram" {
+    "type": rogra",
+    sart: 0,
+    "end": 2,
+    "loc: {
+      stat": 
+     lne": 1,
+       "coumn": 
+    }
+     "end": {
+       "lie": 3,
+     "oumn: 
+    
+    ,
+    "soucepe": "crit",
+    "bod": [
+           "te": "ClasDelation",
+        "str":        end": 25
+     "oc" {      "sart": {
+          "lin": 1,
+           "colm": 0      },
+       "end": {
+         "lie": ,         "coumn": 1         
+       },
+       "i":         "type: Ietifer"
+     tat" 6,
+          "ed": 7,
+        "oc" {
+           "start": {
+           "line: ,
+           "column": 
+        ,          "end: {
+            "li 1            "colm 7
+          },          "denifierame": A"
+         },
+        "nam": ""
+       },
+      "surlass: null,
+     "boy": 
+        "type": "ClssBody,
+         tar: 8,
+        "end": 25
+          loc": {
+        start: {
+          "line": ,
+           "colmn": 8
+            },
+          "e: {
+           "ine": 3
+            "column" 1          }    },
+         "body":[
+        {
+          tp": "ClsMethod",          "sart":12,         "en: 23,
+           "lo" {
+             "strt": {
+             "line":2,
+              "column": 
+             },
+              "end": 
+                lin" 2,
+              "olumn": 13
+            
+              
+         ecorators" [
+               
+               "te": "Decrar",
+                 start" 12,
+               "en": 6,
+              "loc": {
+               "srt: {
+                 "lin": 2
+                "colmn": 2
+                  },              "end: {
+                   "line": ,
+                  "colu": 6
+                             ,
+              "epession": 
+               type" "denifier,               "srt":13,
+                  "end: ,                    "lo: {
+                   "star": {
+                    "lie": 2,               oun"3
+                },
+                   "nd:{                    "line": 2,                    "colun" 6                  },
+                    "ientieram": "dec"               ,
+               nam:"de"
+             
+             
+           ],
+             "static": fals
+          "ind":"metho",
+              "key":{
+             "tpe":"Idifier"
+             str":18,
+            "nd" 19,
+              "lo": {
+              "start" {
+                 "in": 2
+               "olumn: 8
+            },            "en":{
+                 "line": ,
+               "colum 9
+              },             "idnifierNme""           },
+             "ne": "m"
+           ,
+          computed: false,
+            i": null,
+             "geneator":tru           "asyc": alse
+           "param" [,           "bod" {
+              "tye" BlokSatement,
+                "start": 1,
+              "n": 2,
+                "loc" {
+              "stat": {
+               "line: 
+                  "column": 1              },
+                 "nd": {
+                 line" 2,                 "colum": 1
+             }
+              },
+           "boy": [],
+           "ditives":[]           }
+           }
+         ]
+     }
+   }
+    ,    "dircive" []
+  }}

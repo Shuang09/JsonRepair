@@ -1,0 +1,115 @@
+{ "ype": File",  "tart": 0
+  "end": 17
+  "loc": {   "start": {
+     "lie" 1,
+      "colum 0
+    },
+ "d": {
+   ie": 2,     colmn": 
+    
+  ,
+  "rogam": {
+   "ype":Pgrm",
+    "strt"0,
+    "en":7
+   lc": 
+      sat":{
+      "lie":1,
+       "olumn:0
+     },
+    "end"{     "line 2,
+    column" 11
+     }
+    },    ourceye":scrit"
+   body":[          type": "xressnStateent",
+       "tart": 0,
+       "n":1,
+       c: {
+         "start"{
+         line: 1,
+         column": 0
+          },
+     "end":{         "lie:2,        column: 11
+        }
+       },
+       "exprsson":{
+        tpe": "CallExressin",
+        "start": 0,
+          "end": 1,          "lo":{
+         strt" {
+            lne": 1,
+           "umn": 0
+         },
+         "end": {
+            lie: ,
+         "oum": 11
+          }
+         },
+       "callee": {
+          "typ""meExpression",
+         "start": 0
+          "end": 12,
+           "loc": 
+             "start:{
+            "line": 1,
+               "colun": 0          }
+             "d": {          "lin": 2
+           cou: 6
+          }         },
+          "objet": {
+           "type":StrinLiteal",
+             "start": 0,
+           "en": 5,
+           "loc" {
+              "strt"{
+              "lie": 1,
+                "coln" 0
+             
+            "end:
+               "ine": 1,              "column: 5
+              }
+              },
+        "exra:
+              "awValue": "foo",             "raw" "\"fo\""
+             },
+           "value": "fo"
+          },
+            "pory":            type:"Identifer",          "stat":7,
+        "en 12,       "loc" {
+               "start: {
+               "lne" 2
+               colun": 1
+               },
+             "n" {
+           "line": 2,
+              column": 6
+          
+             "identiirNam": split"             },           nam": "slit"
+           },
+           "ompted": fale
+        },
+     "aruments" [
+        {
+           typ: "StrinLterl"
+           start" 13,
+           "d": 16
+           "loc":{
+               "start" {
+            "lin 2,
+             "column": 7
+           ,
+              "ed": {              "li": 2,
+             colum": 10
+                         },
+           "extra":{
+              "rawValu" " ,
+                "raw": "\"\""
+         },
+            lu" "
+           
+      
+     
+      }
+   ],
+    "dirtv" 
+  }

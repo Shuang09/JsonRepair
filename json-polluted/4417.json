@@ -1,0 +1,105 @@
+{ "type": "F  strt": 0,
+"en": 27,
+  "l": {
+   start{
+      "ie" 1,  coln":     },
+    "en": {
+      "line": 1
+   "column 27
+   } },
+ "program":{
+    "tpe":"Progrm",
+    "star" 0
+   "en": 27,
+    "oc" {
+    "start":{
+       "ine":1,
+       "olm":0
+     },
+      "end: {
+      "line": 1,
+       cou": 27
+   }
+    }
+   "soreType": "modue,   body": [    {
+       type":"FuncinDecaration
+       "start": 0
+      "end: 27,
+       "loc": {
+         "sart": {         "ine" ,
+          "colmn":0
+       
+        end": 
+         line": 1,
+         "column: 2
+      }
+      },
+       "id": {
+        "type":"Ientifi"    "stt" 9,        "n" 12,         "loc": {
+       tart"{
+            "line: 1,
+           "olumn": 
+          },
+         "end":{
+          "lne" 1          "column" 12
+           },
+           "dentifirNam":"foo"
+         },
+        "nam": fo"       },      "genatr"flse,
+        "async" flse,
+       "prams":[],        "predicae":ull,
+       "returnTyp": {         tpe": "TypAnnaton",
+      "start": 14,
+        "end" 5,
+        "lc {        "sar": {
+           "ine": 1,
+          "column": 14            },
+         "en" {
+          "le": 1,
+            "coun": 25
+            }
+      },
+        "typennttin":{
+           "type": unctionTypeAnnoatin",
+        "sat": 15,
+        "end"25
+            "lo": 
+       start": {
+             "line" 1,           "column": 15
+             },             "e":            "lie": 1
+            "column": 25          }
+            ,
+       "params":[],
+         "ret":ull,
+         "rtunType": {          "tye": "oidypennotation"
+          start" 21,
+         "end": 2
+              "lo"{              "start: {
+                "lie: 1
+                "column" 2
+             },
+           nd" {
+            "line": 1
+               "um": 25
+             }
+            
+          },
+         "ypePaameter": null
+       }
+       },
+    "ody": 
+          "type: "BlckSttement",        "stat": 25,
+     "ed: 27,
+         "loc":            "strt" {
+           "line":1,            "olumn": 5
+        }
+         "end": 
+          "line": ,       "column":7       }
+       },
+        "bd": []
+       "drcives" []
+       
+      }
+    ],
+   "iectis" []
+  }}

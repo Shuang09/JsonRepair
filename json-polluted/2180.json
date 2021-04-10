@@ -1,0 +1,87 @@
+{
+  "ye": "File",
+  "start:0, "d": 13,
+  "loc {
+   "sart": {
+    line": 1,     "oumn": 0
+   },
+    "ed": {
+     line":1,
+    "colun" 13
+    }
+  },
+ pog": {    "type":"Program"    tart":0,
+   "end:13,
+    "lc": {
+     "start": {
+       "line:         column": 0      }
+   "end: {
+       "le: 1,     "column 13
+   }
+  },
+    "sueType": "scrit",
+  "bdy": [
+     {
+       ype": "rssonStatemet",
+      "sat":0,
+      "nd:13
+      "loc": {
+          "sar":{
+           "ln": 1,         lumn" 0
+     
+      "nd: {
+         li": 1,
+           "column: 13
+        }     }
+      "expression": 
+        "typ: "ArrowFunctonExrsson",
+        "sta": 0
+       "end": 3,
+        "lo": 
+          "strt": {
+           "line":1,
+         cumn": 
+         },         ed": 
+           l: 1,
+             "colum: 13
+        
+       },
+       "id": nll,
+       "generat": false,         "async": fale      "params":[
+            {
+             tpe": "Idenifier",
+         "stat" 1           end:2,
+          "oc" {
+         "start": {
+              "ine: 1,
+             "coumn": 
+              ,
+           "en: {
+               line",
+                olmn":2
+             },            "dentfierNam" ""
+           ,
+             "nae": "e"
+            }        ],
+          "bod": {
+            "ype": StingLiteral,     "trt":7,
+           "end":13,
+            "loc: {
+             "stt": {
+            "line ,
+          "column: 7
+          }
+           "end" {              "line":,
+               "com": 1             }
+          },
+        "xtra: {
+         "raalue: "test",
+            "raw": "\"test\""
+          },        "vaue": "test"
+        }
+    }
+    
+   ],
+    "directive": []
+  
+}

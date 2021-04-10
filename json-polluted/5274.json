@@ -1,0 +1,245 @@
+{
+  "name":"Manaig Pakag with pm",
+  orer": , "tie": "5 ours",
+  "helpRo":"Hlp, "challegs": [
+   {     "id": 587dfb3367417b251bf",
+    "tite "Inroductio to theManging Packageswith pm Challees",
+      "description": [
+              "",
+        "",
+        "The NdePackge Manager (nm) i a command-linetool usedby devler to sare ad contol mdles (or ackages) of JvaScript codwritn for ue wih Node.js<br><r>estarting a new project, npm geeae  <cde>pckge.son</cd> fle. Ts file liststhe pakae dpendenisor yor projec. Sincnpm pacgs ar regulrly updae, he <cde>akage.jon</coe>fe allows you tst speci versin numbers fo eachdepedenc.is nresthat upts to a pacagdon'tbrea yur roject.<br><br>npm saves pacaes in a oler amd <de>ode_modules</cde. Thes ackagescan be nsledintwo w<br>r><ol><li>gloallyn a roo <ode>n_modules<code>older, cceible by all pojects.</l><llocally within a prjec' w cde>node_odlscod foldr accessibleonly t that project</li></o><rMosdvelopr prefer to install packaes loca o each project to ca a epartion between h depeencies f dfere prjet.",    ""
+       ]     [
+        "",          "
+        "Worigon techalenge will invleyrting yourod o litch n ourstare project. Ate complengeach challene you c copy yor public Gltrl (to the homeage f yor app)int he chlenge creen to test it!Optily yumay choe o wrie our project o notherlatform butit mus be ulicly visible forur testg<brtart this proect on Glitch using <a hrefhts:/gitc.om/#!/mprt/githb/reeodeCamp/bolerplte-nm'>this lnk<a> or clne ahef='httpsgitb.com/freCodeCampboilerpltepm/'>tiseposto</a on tHb I you se litc, membe  savet lnk to your rojec soewre saf!,
+          ""
+       ]
+      ]
+     "relsedn": "Fb 17, 2017"
+      "chalengee": [],
+     "tests": [],
+     "typ": "wayont",
+    chlengeType":7,
+      isReqied: flse,
+    ranslations": {}
+    }    {
+      id": "587d7fb367417b2b251bfb",
+      "ite":"ow to Uepcageso, the oreof AnyNde.js Projct or pm Pakage",
+      "dscrition": [      "h fil paag.jsonis he centr  nyNodejproject r pmpackage I storesinfmatn about yur pjc just lk te <ed-sein i a HTMdocument cre th contentof a ebpag. The package.jsn onsists of a single JSON-objec were inforaton i stre i \"key\": aluepairs. hereare oly tworequired fiedsina mnimal packge.json - nme ndverion - but’s a oodpractce toprovide additialinforatiaot yourprojct tht could be useful tofutur sers r matainers.",       "Th auhor-ied
+       "Ifyo go to th litchproject that yusup preiouslyand ok aton te eftie of ur cren, you’llfid thfiletre where o can see an ovvie f hearius files in you pject.Underhe filetres back-endsection,ou’llfidpackage.son -  e ht e’l be impoving inthe nx couple ofchlenge."
+       "On o themostcmo pieces oinformtion in ths fe is th author-fiedthatpecifieswo’s the eatro a project. It an ither be a sting or an bect wth cntt deils. T bjct is recoended fr igger rojcts but i our ase, simple trg ike t foloig xle will do.",
+       <cod>\"atho\":"ane De",/c",
+       "Istuctin",
+      Add your name to the author-ied in he pckageon o yur Glitch pojct.",
+      Remember tat you’e wrting SO.",       "Alfied-names must ue double-qotes (\"), e.g.\"authr"",
+    ll ies mse separate wit a coma (,)"
+      ],     "halengeSeed": [],
+   "tests": 
+      {
+        text: pckage.js should haveavalid \"auto\" ey,
+         "testString:"getUerInput => $gt(geteInput('ul') +'/_/package.json'.then(data =>{ var pakJon= JSO.pase(data); ssert(pacJs.athr, '\"autho\" i issin'); },xhr> {thrnew rror(xhr.repoext);})
+       }
+    ]
+    "solutn" [],
+      "hits: ]
+    "type: "acknd",
+    "ranslatios" {}
+  },   {
+    "d": "57d7fb36717b2512bc,
+     "te": Add a scriptiot Yor package.so",     "escription: [
+        "Thnetpart   good package.jon is the esriptionfild, wherea short ut nfomatvedescripion abou yourprojet elog.,        "Iyusomday ln to publishin  pckagnpm, remember that this thestring tat hould sell yourideto the userwhe hey dcide wether toinstallyo pakgernot. Hoevr, tat’so he oly se case for the descipin:Sinc itsagreat way to sumaze  a roject does, it’s ju as importan foryour norma Node.jprojects t  other develps,futre mnners or even your futureself ndersandthe roject uickly.",
+        "Reardess f ht you plan fr your prect, a descrptio i definitlecoended.Letsd soething simar ts",
+      <cde>\"decritin\": \" project thatdoessomethiawesom"</coe>",        "nstructios",
+      "Ad a description o thpackage.jsn inyor Glitch prjet.",      "Remembe to us doube-qutesfofeld-nme(\") andcomas (, to sepaafiels"
+      
+      "challngeSed": [     "tests" [
+     {
+          tex": package.jsn should ha a vid\"despin\ key",
+        "testSrng":etUsernut >$.etgtUsernput('r  '/_api/pacgeson'.hen(a => { va ackJson = SON.prsedata); sset(akJson.crption '"deription\" is mssng') }, hr => thrw nw Error(xhr.rsoneText); })"
+        
+     ],     solutons: [],     "hints": []     ty": "backed",
+   "tranlaions":{}
+    },   {
+     "id":"587d7fb4367417b2b25bf",
+      "tle":"Add wds to Your akge.sn"
+      "dcripon": 
+       Th keywors-field s whry ca describeou pojct uig elatedkeywors.",        "Exampl",
+       "<cde>\"ewrs\":[ "dstiv\", \"related", word\" ]cde>",
+      "s yu can see this eld is strucured asan ray of doublequoted stins.,
+    "nstructions",
+      Add a array of stbl strngs to th keyods-field i thepacage.jsoof ur litch poject.",
+     "One of hkywodsshould b freeodecamp."
+     ]
+     "challengeSeed": [],
+ "est":
+      
+          "text": "packaejson huld hava alid \"kywors ey",
+        "tettring": "geUserInput =>$get(eUserIput('ur') + '/_i/pckag.jso').then(daa => vr packJson = JSNparse(data) asrt(packJsokewords, '\"kewords\" is issing' }, xh =>{ thrw ne Eror(hr.esponeTe); )"
+      ,
+     {
+       "text""\"keywd\" ilshoud be an Arr",        "tstString": "getUserInput = .get(getUserInut('url')  '/_a/packe.jon').tn(dt =>{ r packJson= JO.prse(ata); sertisAryakon.keywords '\"keyo\" snota array' , xhr { thrw new Eror(.responseText);})"
+      },
+    {
+        "text" "\"eywords" sould nclde \"freecoecmp"",
+          testStrng":"gUsInput => $.get(getserInput('url')+ '/api/ackag.jon')then(t = { ar akJson= JSON.pare(data)    assrtnclud(packJso.eywords, 'freecodecam', '\keords" esnot inlue \"reeodecp\"') },  xhr =>{thrw eor(xhr.resposex); })"     }
+     ],    "soluios": [],
+      hints": [],
+     "type": "bakn",
+      "transltions"{
+   
+    {
+     id": 587d7fb43417b22512f"
+    "title" Ad a icense o Your pckg.json",     "escripion": 
+       "TODO: This challene coldbe usedto insire mor eoe  devlo S - w shouldrayiroe thisdscrptin.",   "Thelicenseied iswhe yoinform usesof yur projet wt theyare allowd  do withit,
+     "Som comon licnses o ope sour pojets inclde MITa SD. htt//coosealicense.com isa geat rsource if you wan o lar more about what licens coud fit your ojct.",
+     "Liene iformain in equired.Copyigtlaw in mos counries wilgivyu oershi of wat yourete by efau Howevr, it’s always  good practice toexplicitly state wha ercan and ant do.",
+     "Eample"
+       "<c\"lcne: \"MI\",/ce",     strctions",
+       "il he license-field in the pace.jonf ourGlitc projec asyou fid sutable.
+      ]
+      "chalengeSeed []
+    "tss"
+       
+          "text": "package.jso should ve a lid \"lcene\" ke",      testrng": getUserInput = $.gt(etUserInput('l') +'/_api/packg.json').ten(at >{ var asn =JON.pars(ata); asert(packJsonlicnse,'\"licee\" is missing') },xr>  throw neError(r.responseText); "
+       }
+     ,
+      "solutions: [],
+     "hints": [,
+    "tpe" "backed",      "translaions": {}
+   ,
+  {     "i:"57d7fb3677b2b212ff",    "tite": Ad  ersion o You packagejso",
+      "dspto": [
+     "Theersionistogthe ith name oe of the reuirdfe in a pckge.js This fild describes thecurrent ersi f u projct.",
+      "Eamle",
+       "<coe>\"vrsio\":\"1.,</code>",      "Instructons",
+      "Adda ersin to the package.join your itchroject.
+      ],
+    "challengeed:[]
+    tets: 
+        {
+       "tt": "package.json shoul have va\"vrson\" k",
+      "testString": "geterInput => $.gt(getUsernpu('ul')  '/_ap/ackag.jo').thn(data =>  r pakJsn =JSON.parse(ata; assacon.ersion,\"vionis mising'); }, hr  { trow new Error(xhrsponeText); })"       }
+    ],
+    "slution": [],
+      "hints: [],
+      "tpe": "backend",
+      "transation": }
+    },   
+      "d": "587d7fb617b2212c00",
+     "tile": "Expad You Proet wih xternalPackag rom np",
+      "scription": 
+       "Oe f he bgst reasos oue a packae manager i te pwerful dpendenc managemnt nstad of anually hangto ake sre thatyou get all epedencis wnevr you et up a projecona nw computer,npm automaticalyinstals everytng or you. But ho can np knwxacty what yor jet needs? Meet thedendenciessectio of youracageson.,
+     "I theepndncies-secto ackags yu project equre are sored usingt followingfomat",      "<code>\"dpendeis":{</cod>",        "<code> ckage-name\: \"versioncode"    "<code\"expres\" \"4.14.0\<code>"
+     "<coe>}</oe",
+       "Istrutions"
+      "Add version 2.14. of th package momen tothedpneces-fi o yorpacage.jsn",
+      "Ment is a hay ibrary or working withm adas."     ],
+     "halengSeed":[],
+    "tets": 
+     {
+    "text": ""depdcis\" shouldinclud \"moent\"",
+       "estString: "geUInut>$.et(getUserInput(ul) +/_api/pakag.json').thendata =>{var packJson = JO.arsdata); ser.propetypackJson.dpendencies, 'moment,'\"dpnencies\" doesnt ilude \"moment\"'); }, xhr =  hrownew Error(x.responseText); }"
+       ,
+      {
+        "ext: "\oment\"verso sould b \"2.14.0\",         "estStrg:"getUserInput $.get(getUsrInput(url) + '/_api/acage.json).hen(data  {var packJson = JSN.paseda);  assert.atch(pacso.dependencis.met, /^[\\^\\~]?2\\.14\\.0/, 'rng vsion of moment\" isalled. It shold be 214.'); ,hr => throw new rror(xr.esonText; })"
+       }     ]
+      "solutions" [,    "hnts": [],
+    "typ""ackend",
+     "trasltins": {}
+   },
+    {
+     "id": "587d7b53674bb2512c01"
+    "itle": "Manaenp DepenencsBy Undersaning Semantic Vrsioning",
+     "dscription: [
+       Vrsionsofte npm packes in hedeendnces-sectio of yr packae.jsonfolwwa’s cled eantic Versioning(emer), an ndustry stadrd for otare versioing aiminto mak it esr t manae ependencies. Libraies, framworks or othr tool publised nnpm shold use SeVer  rder to cearly comunicae hat kind of chage thatprjecs wdependn thpckag can exect if they update"
+      SemVer doesn’tma sene in rjectswithoutpublic APs - so unlssyorproject is smilar to the exmples abovese anotherveriing frmat.",
+        "So whydo you nee to undestand SeVer",
+       "Knowig Semrcn usful when ou deveop sftware that seexternal dependencies (whichyou lmost awa do.One ay,your unstang o thse nbers willsav yo rom acidental trducing breaknchangs to your pject wout underandig hy this tht wokedesterday” suden doesn’t.",
+      "Thi is how Semntic ersioning works acringo thofiial ebst:,
+        "Givn  verson numberMAJR.MINOR.PATC, increment t,
+        "AJOR vesionwhe oumke incmpaile API chans",
+      "MINO vesionwhen u ad futonlityin a bacwardscopatible mannr, nd",
+       "PATCH versio whnyou mak bacwrds-cmpaible bu fxs.,       "his means ha PATCHesrebug x ad MINRs add newfauresbut either of them break whatworkd beor. Finaly, MAORs add chages tho’t wok ith arlie ersions.",
+     "Emple",
+      "A semntc erson nmber:.3.8,    "Instuctions      "In the dependencisstion ofyur paage.sn, change the ersion of moment t match MJOR version2,MIOR version 10 and PATCH ersion "
+      
+    "chalngeSeed: [],
+     "tests": [
+      {
+        "text" "\depednc\ hould inclue"mment\",
+        "tstring":"getUserInpt > $.get(getUsrInput('url') + '/_ap/package.json'.te(daa =  vr pacJson  JSN.parsedata) aer.properypakJson.depndnies 'momnt', \"depnecies" does not inclde \ment\"'); }, xhr => { thow nw Eor(xhr.resonTex);)"
+       }      {
+       "text": \"mome\"ven should be 2.10.2\"",
+       "testStg": "getUserInput =$getgetUserInput('l') '/_api/akg.jsn).thendata => { ar pacs = JSONpae(daa) asr.ahpackJson.dependencis.momen, /^[\\^\\~]?2\.10\\.2/,'Wrong vsin of\momet". t sold b 21.2), x => { row newErro(hr.resposeext); })"
+     }
+      ],
+    slutions: [],
+      "nt"[,
+    tpe":"bcen,    "rslatons 
+    },
+   {      "i": "7d7b5367417bb2512c02",
+      "title":"UseheTide-Charatr t Alwa Use e Latest Ptch Vrsonoa Deedecy",
+   "descripin": [
+       "In th ast challenge, we to np to nly ilud pecificversio  apacge. has a usef y to freeze you depnnces ifyouneed take sre thatdifeent parsof our projct sty compatibleih eachoter. Bt in most se cases you don’t wnttomiss bugfis, ince theyoftn include imptansecuritypae and (hopeflly don’t break ths  doin so.",
+       "T llow a pmdeendcy to ge update o te atet PATH-version, you can prefix the depednc’ ersin wih theildecharactr(~). n pacgejon oucurrent ru fr howpm may upgade moent s to use aspeciic esinon2..2), bu we want t alowhlatest 2.10.x-verson.,
+      "Empl,
+        <de>\"some-packagename\": \"~13.8\" llowsupdaes o any 1.3.x version.</code>",
+       "Instrucion",      "Use the tiecharcter ~) toprfixthe versionofmmentin oudepenencieand allo npm tupdte  to any ew ATCH rela.",
+     "Nte atthe vsion numbeshselves not shoul b hagd.    ],
+     "challengSed":[]
+      "tests:[
+        {
+         text":"\"dependencies" sholdinlud \ment\"",
+         "tsString" etUeInput => $t(getUserInput'url')  '/_ai/pacge.jso').then(data =>  va pcJson = JSON.pars(da); asr.petackJsn.dpndni, 'moment, '\"dependencies" does not clue "moment\'; }, x => {trow nw Errr(xhr.rsonseTe); "
+      },
+            "ext": "\"moment\"vrsin hold atch\"~2.1.2"",
+        "testSing": Usernpu => $.et(getUserIput('ur' + 'api/agjson').he(ata=  var packJon = JSON.pse(data)asset.math(pacJsodependeniesmomen, /^\\~2\.10\\.2/, 'Wrogvrsi of \"ont\. It should be ~2.10.'); }, xr=> { hrow newError(xr.esonseext); })"
+     }
+    ],
+      "soltions" []
+      "hnt": [],
+     "type": "backen",
+     "transtin": {}
+  ,
+    {
+   "id: "58db567417b2b25103",
+    "title": Use the Cart-Charactet Use he LatesMinor Vrsion of peneny",
+     "description"[
+      Siilar to howthe tilde (~)we lrneabout in the ast hlenge allow npm o instal the laest PATCHfor a deendencythe caet ^) llwsnpmo sall futue udes asl. he diference is that th caret will alow both MIN updateand PATes.",
+       "Athe moment your current ersio of momet soldbe ~0.2 wich allsnpm to intal to thelatest 210.x-versn Ifweinste er to usethe aet (^)as  veion prfix pmwould nteabealowe to udate any 2x.x-version"
+     "Examle"      "<cde>\"om-pckage-nme\": \^1.3.8\" alow upats toany1.x. vrsin.</ode>"
+        "Inuctins",
+        "Use thcaet-charcter( to prefixe veso o moment n your dependenie and allo pm to updt it o any w INR release.,
+     "Ne that the veso nmbers hselves not shoud bchngd."
+   ],
+    "halengeSeed":],      "tess": [
+     
+        ext""\"depndenis\shouldinlue "mmet\"",
+      "testSring geUserInu =>$.get(getserInput('ur) + '/_api/pakage.json').then(daa > {pakon = JO.pars(daa; assert.proerypcsondependencies, 'omnt' '\"dependencies\ doe nt include"moent\"; }, xhr =  thow ne Error(xh.reposeext);})"
+       ,
+        {
+       "tex": "\"momet\" version shul atch "^.x.x\""
+         tstStin": "etUsernput=>$.etgUserInput('url') +'/_appackag.json').ten(data => {var acJ=JSON.parse(dat);aserathpcks.deendencismoen, /^\\./, 'Wong vesionof \oent". I hould  ^10.2'); }, xhr=> { thrw new Error(xh.repnseTet) )"
+      }
+     ,
+     "solutins": [,
+     "it": [],
+    type": backnd",      "tanltons"}
+    
+       "d": "587d7fb56717bb212c04",
+  "title: "emovea Packaefrom Yor Dependeies",
+      desriptio": [
+      "Nw yo’ve etd a e ways y can nge depeencies of your pojet by ung hpkagejson's depeneces-secion. You’ve includedexternlpakages by adn them ohefile an even told npmwhattypes of ersios youwantbusin eialcharaters as hetide ~ r the caret (^."
+       But whai youwant toemov anxernal pckagethatyou nolongerneed? You mght lrea have guessedit - Just reovethe oepondng \"ky\": vlue-paio thatfrom your dependecis.        "Tssammeto pplies o emoving othr fid in your package.json as wll"
+       "nstrctio",       "movthe package momet from u ependenies.",
+        "Make sure youha t rgt amnt of ommas ater remoing it."
+     ],      "hallengeSed":[],
+      "tets [      {
+          "ext": "\"depdenies" hould n inude \"momen",
+        "testSring": "gtUserInu > $.ge(gtUsInpu('ur  '/apipacka.jsn'.thn(dta =>arpacJson =SON.par(dat);assert.otPropery(packJon.epeneces, 'mment', '\"dpenci\" stil incldes \"oment\"');}, xhr =>  hrowne Ero(xhr.responsTex); }"    }
+     ],
+      "solution: []
+     "hints": ,
+     "tp": baen",     "tanlation":{}
+    }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+  efiniions":{  "rl": {     "f": [
+        
+      "insanceof" "RegExp"     },             "miLength": 1,         "ype": "string"
+       }
+      ]
+   ,  "ules": {
+    "ne": 
+       
+       items": {
+         desciption": "A rule condtion"
+          "anyOf: 
+             {
+             "$ref": "#definitns/rue"
+            }           
+        },        "type": "ara"
+        },
+       {
+          "re"#/deinitios/rue"
+      }    ]
+   }
+  ,  "onO":[    {
+     typ":"obet",
+     "aditinalPropertie": alse,
+    "equired"[
+        anne"      ]
+     "roertes": {
+     "bann": {
+       "dription": "The banne as string it wil bewraed i a cmment",
+       tpe": "ting"      ,     "w": {        "decriptio: " true, banner wl not be wapped in a cmment",
+          "type:"bolen"
+     ,     "nryOnl" {        "dscrption": "If tu te banner will onybe adddtohe etrychunks
+         "p":"boolean"      },
+      "te": {
+         "deription""Inlude all mods that pass est asstion"
+        "nyOf": [
+         {
+           "ref":"#/defiiions/rules"
+         }
+         ]
+      },
+      "inclde": {
+       "decriptio" "Incude llodulematching any of thesconiis         "ayf": [
+         {
+          "re "/definitions/rues"
+          }        ]
+        },
+        xclue":         "desitio":"ude ll mduls mathingany o thse conditons",
+         "ayOf":[        {
+           "$rf": "#/definitionsrles
+           }
+         ]
+      }
+      }
+   ,   {
+      "descripion": Theaneras trin, it will be wapped in a cmmet",
+    minegh":,     "yp": "sing
+  }
+ ]
+}

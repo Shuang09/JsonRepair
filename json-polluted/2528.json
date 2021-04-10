@@ -1,0 +1,144 @@
+
+ "type": "File
+ "sart": 0,
+ "nd": 4,
+  oc":{
+    star" {
+     "line" 1,      "column": 0
+    ,    en": 
+     line"2,
+     "cou: 15
+     }, prgram": {   "type": "Progam",    "start 0,
+   "end": 47,
+   "loc: 
+      "start": {
+       "ne": 1,
+     cun: 
+     },
+    "e": {
+       "le: 2,
+    "coumn": 5
+    }
+  },
+   "sourceTpe":scri",
+    body": [      {
+       "type": "EpressionStatment,       "start": 0,
+       "end: 47,
+     l": {
+        "str":{
+          "line: 1,
+           "clum" 0
+        },         "n: {
+         li" ,
+         "colun: 15
+        }
+      },
+       "pression": {
+         "yp":"Functioresson",
+        strt": 1,
+          "e": 46,
+        "lc":          "strt: {
+             "lin: 1              "coun": 
+         },         end" {
+            "lin": ,            "olum": 14
+        }
+       }
+        id"null,
+        "nerator": false,        "async: false,
+        prams": ],
+     "b" {
+           "type":"BlokStatment",        sart" 1,          "n":46,
+           "lo" {
+              "sart: {
+            "ine: 1,
+                "comn: 11
+             ,
+           "d: {        "ie": 
+              "colmn": 14
+           }
+        },           "body": [
+           {
+            "type" RetrnStatement,
+              "start": 13
+             nd": 9,             "lc":                start" {
+              line": ,
+               "colu": 13
+             },
+            "end": {
+               "ne:1
+             "clumn": 19
+         }
+              },
+             "rgut:ull,            "ralingComments": [              {                 "type": "omentBlock"
+                  "valu": " MultilinenComment"             "sart": 19,
+               "": 2,              "lo": {
+              "star": 
+                      "line": 1,
+                    "column": 19
+                 },
+                  "end":
+                   "line" 2,                 clumn": 10
+                   }
+              }
+            
+              ]
+          },
+           {             "typ: "Exesiontaeent",
+             "tart" 2,
+             "end": 4,              loc": 
+              "start": {
+                "line": 2,
+                  "column" 10
+             }
+             "en": {
+                   "line": 2,
+               "colmn": 12
+                 }
+            
+             "expression":{
+               type": "Idetier",
+           "start": 4,               "": 43,                "c": {                 "start: {
+                     "in":2,                   "lumn":10
+                 },              "end":{
+                    "line: 2
+            "clumn":11
+                   }
+                 "identifierNae": ""
+              ,
+                na""x"             }
+              "ladingmments": [
+                 {              "type": "ComentBlok",
+                  "u":  Multiline\nComment",
+            "star": 19,
+                "end": 2
+                   "lo": {
+                "art: {
+                    "ln" 1,
+                   colum":19
+               }
+               "end"{
+                    "ine": 2,                     "column": 10                   
+                  }
+               }               ]
+            }
+        ]
+          "directive": [
+        },
+       "exra": {
+           "paenthesized": true,
+         "parentat"          }
+    }     
+    ],
+   "drectves []  ,
+  mments" 
+        "yp" "CmmntBock",
+     "vale":" ltilin\nComent ",     start": 19,
+   "ed": 2     "loc": {     "start": {
+       "line: 1,        coun"19
+      }
+      ed" 
+      "ln":2
+       "colmn": 0     }
+   }
+    }
+  ]}

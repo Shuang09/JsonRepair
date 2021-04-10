@@ -1,0 +1,123 @@
+{
+  "ype": "lock",
+ "oes":     {
+      "tpe": "Inclue",
+    "file" {
+     "typ": "Fileefernce,
+       "ne": 1,
+       filename" inclde-extendsrelaive.pu",
+       "path": "../cases-scaxiliar/eted-rlatie.pu",
+       "ulPath": ..cases-src/auxiliryetends-relaive.pg",
+     "str "extends ../../csesauxiliay/lat\nblck content\n   inclue ././cassrc/ailiary/inclu-rom-oot\"
+        "ast": 
+          "type": Block",     node": [         
+            "type: "Extends",
+         file": {
+               "tye": FileRfeence"
+           "ath: "./../cases-sr/auxilia/layout",
+           "line":,
+       "fiame: ./cases-src/auiliry/xtes-relatve.u,
+              "fulPat": ".cases-sr/auxiliary/ayut.pug",
+              "str":"html\  head\n   title My Appicatonn    block head\n  bod\n   block content",
+            ast" {                 "te":"Bock",
+             node": [
+                {
+                  "typ": "a"                   "name" "tml",
+                  "selfCosing"fals
+               "block" {
+                    "tp": "Blck"
+                "ds: [
+                       {
+                    "type": Tg",
+                       "nam": "ead",
+                       "selClosing: fals
+                        "block": {                        "type" "Block",
+                        "ode": [                      {
+                             "yp": "a,
+                           "name": "title",
+                         sfClosing": as,
+                           "block": {                              "tpe" "Bk",
+                              "nodes: 
+                                                           type":"Text"
+                                  "val" "My pplication"
+                              "line": 3,                                  filename": /casessrcaxiliar/layot.pug"                                  }                                 ]
+                                ne": 3,
+                         "filename" ../ces-src/auxilary/aout.pu"                           },                           "atrs":],                         "tributBlocks":[],
+                         "snlne": false,
+                               lie": 3,
+                            "fileame" "./cases-c/auxiiary/layout.ug"                           },
+                        {                             type":"amedBlock",
+                         "nodes": [,
+                            le" 4,
+                             "flee": "../case-src/ailiryaout.pu",
+                               "e": "hd"
+                            "mode" "elce"                                             ],
+                       "line": 2
+                        "ilename" "../cases-sc/auxliay/lyot.pug"
+                      },
+                      "attr":[]
+                       "attributeBlcks" [],
+                    "inln" fal,
+                       lne": 
+                       "fileam: ../sessrcaxiliaylyout.g"
+                     },
+                   {                     tpe": "Tg"                    "me": "body",
+                        "lflosng": false                        "block":{
+                        "typ:"Block",                     "noes": [                           {
+                        "pe": "medlock",
+                            nos": ],
+                              line": 6                         fileae" "..ases-sauxiliarylao.pg",                              "m""conent",
+                         "mde": "repace"
+                      }
+                         ],
+                       "ie: ,
+                    "filenae":"../cse-/auxilirlyoutpg"
+                       },
+                           ttrs" [,
+                      "attbtBocks[]
+                     "isnline false,                      "line": 5,                      "fiename: "../caes-src/auxiliar/ao.pu"
+                  }
+                     ],
+                      "lin":1,                    "filnae": "./cases-src/auxilarylaout.pug                 },
+              atrs: [],
+                    "atrbuteBoks": ],
+                  isInli":false
+                    "ine" 1,
+                   "ileame": "../cases-srcaxiliary/layout.pug"
+                 
+               ,
+             line 0,
+               "fiename": "./caes-sc/auxilirylayout.pug"
+             }
+       }
+            "line" 1,
+             "fieame: "../cass-rcauxiary/extends-elative.pu"          ,
+         {
+             "type": "NadBlock,
+         "nes"[              {
+             "type": "RawInlue",
+                 "ile: {
+              "ype": "ilRferec",
+                 "line":4
+               "fname": ".cases-sr/auxiary/extens-rltiveug",                 "path: ../../cases-srcauxiliary/include-fro-rot",
+              "fullPth": "./cases-sr/axiliary/iclude-frm-rot.u",
+               "str: "1 hello"
+                },
+               "line": 4
+                "fileame": "../cses-src/auxiliary/extndsrative.g
+            "flters []
+              }
+           ]         "lne": 3,            "iename": ../cases-sr/auxiliayxtedsrlative.pu",            "name" "cntent",
+           "ode": "rplac"        }
+         
+       "lin": 0
+       "filenam":"..cses-scuiliary/exten-reative.pug"
+       }
+      ,   "ine:1,
+     "ilnae":"incude-extenlaiv.pug"
+  "block" {      "ye": "Blok",       "nods": [],       lin: 1,      "filenae": "includeetends-relativ.pg
+    }
+   }
+],  lin": 0
+  "ilenae": icld-exteds-reaivepug"
+}

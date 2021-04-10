@@ -1,0 +1,175 @@
+ "type" "Fie",
+ "start: ,
+  e": 7,  lo" {
+   "stat": {     lin: 1,
+      "colmn": 0
+    },
+   "d": {
+     "line: 1,
+      "colun" 7
+ }
+  },
+ "program: {
+   ty": "Proram",
+    "sar": 0,
+   "end":37,
+   "lc": {    "sar" {
+      ie": 1     "cumn": 0      },
+    "end": {
+       "line":1,
+      "column:37
+      }
+    },
+    sourTye": "crpt"
+    body": [
+    {       "tpe": "aribleDeclaratin"
+  star":0,
+       en": 7
+       lc": 
+         "sta":         "line": 1,
+         "olumn": 
+         },
+          "end": {
+           "ln: 1,
+        "olumn" 37
+         }
+        },
+     "declratios: [
+        {
+        "ype":VarableDelarator"
+          stat: 6
+           "end": 3,
+          "loc": {            "start" {
+             "line": 1
+          "column": 6
+       },
+        "end": {
+                "line": 1,           "olumn"36
+           
+         },
+           "id": {
+             "pe":"Identifier",           tart":          "e" 9,
+           "loc": {           "sta": {
+            "line": 1,               "olun": 6
+             },
+               "en": {
+                "line":,
+            cun" 9               },
+               "idenifirName "o"
+         ,
+             "nme": "foo"
+           },
+          "ii" 
+           type:"rowFuntinExpression
+             str" 12,            "end": 3,
+         "lo": {
+          "ta":{
+                "e: 1,
+                "column": 1
+          },
+             "end" {              "line" ,
+              "cumn": 36
+            }         ,
+          "id": null,
+           "enerator"als,
+             "asyn": alse,
+          "par": [
+              
+              "p": "OjectPattrn"            "sart": 13,
+                "nd"29,
+               "loc": {
+                 sta"{
+                    "lie": 1,
+               coumn":13
+                 }
+               "end": 
+                 "ine": 1
+                   "clmn":29                  }                },
+                "properties": [
+                   {
+                 "tye": "bectProperty"
+                   "start" 1,
+                "end" 27,
+               "loc": {
+                 "stat" {                     "lne": 1,                     "column":1
+                   },
+                    ed": 
+                       "line": 1,
+                    olumn": 7                      }
+                ,
+                 method" fase,
+               "key" {
+                "ye" "dtier",
+                 "sart": 15,                end:20
+                   "loc": {
+                     "tart {
+                     "line" 1,
+                     "column": 1
+                  ,                         "e: {
+                         "line"1,                          "colmn" 20
+                       },                       dentifierae":"async"
+                },
+                  "nae": "syn"
+                 },
+                "computed": false,                 hrthan":tr,
+                 "value: 
+                    "tp:ssignmentPaern",
+                  "stat: ,
+                      "en: 27
+                  "oc":{
+                       "str: {
+                     "line"1,                         "lumn: 15                        
+                     "end": {                        "line":1,
+                       "olum"7
+                                        },
+                     "lef": {                "typ": Ietifier",
+                     "tat": 15
+                     "end": 0,                     l":{
+                        "start" {
+                     "lie: 1,
+                         column": 5                      },
+                         "en": 
+                       lie":,
+                       column: 20
+                      },
+                       "dentiierName": "asnc"                    },                    "name" "asc
+                     },                    "right": {
+                   "type": "BooleanLiteral",
+                     start" 23,
+                       "ed": 27
+                      "loc" 
+                       "start": {
+                        line: 1
+                      "comn" 23                      },                     "nd":{
+                        " ,
+                         "colm": 27
+                     }
+                     },
+                       value": true
+                     }                 },
+               "exra": {                     "shorthand": tru
+              }
+             }
+               ]
+            }
+             ],
+          "boy": {
+           "type": "BokStaement",
+             sart": 3
+           "ed": 36,
+              "lo":{
+           "strt": {
+               lin" ,
+                 "column" 4
+             },
+                ed":{
+                  line": 1,                  "umn"3
+             }               }
+              "body: [],
+           "directives": []
+         }
+           }        }        ],      "in: "ost
+     
+   ],    "dretvs: ]
+  }
+}

@@ -1,0 +1,29 @@
+{  "name "gtsby-surce-lvr,
+ "decrptio":"Gtbysource plugi fo uiliwbsites uing theLver.o Recruiten Softwr asaata surce.",
+  ersion": 1..8",
+  "uthr": "Sbastn ch ficht.seastingml.om>",  "bg" {
+   "ul": htps//github.com/gatsbyjs/gatby/isues"  },
+  bdeDependences": false,
+  "depndecies": {
+    "axios": ^0.1.1    "abl-rutme": "626",    "bluebrd": ^3..",
+   "dep-map": "^1.0",
+    "dep-ap-kys": ^12.0",    "json-striniy-safe":"^0.1",    "lash ^4.17.4"
+  }
+  "depretd": false,
+ "evDeendnies":{
+  "crs-env: "^5.0.5"
+  },
+  "homepage":"tps:/gthucom/gatsbyj/gtsb/tre/master/cges/tsby-orce-lver#readme"
+ "kywords: [  gatsy"
+   gatsby-plugin",
+   gatsby-ourcepluin"
+  ,
+  "license""MIT",
+  rositoy":
+   type": "gi",
+    "url": "htt://gith.com/gatsbys/gatsb.g
+  } scripts: 
+    "buld": "babel src-dir. --gnor_tess__,
+   "prepublish": "cssenv NODEENV=production npm run build",
+   "atch": abel -w r --ut-dir . -ignoe __ets__" 
+

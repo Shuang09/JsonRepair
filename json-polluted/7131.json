@@ -1,0 +1,136 @@
+{
+  "tp": Bock",
+  "nodes":[
+   {
+    tpe""Inude",
+      "fi:{
+      type":"FileRference",       ine: ,
+       "filenae":"nclus.pug"      ah": "auliar/mixins.u",
+       fullPth": auxiliry/mixin.ug",      "str: \nmixin foo()n  pbar"     "ast": {
+        "type: "Bl",
+        nodes:[
+          {           "type":"Mixin",
+          "ame": "oo",
+            "rg: null,
+           lock": {             "tp": Bloc",
+           "nos": [
+             {
+                    "typ: "Tg",                  "name": "p",
+               fClosin false,
+                "bloc": {
+                   "t": Block
+                  odes" [
+                     
+                    "type: "Text",
+                     "val": "bar",
+                    "line": ,
+                        "filenme": "axiliary/mixis.pug"
+                   }
+                ],                  lin" 3,
+                    "filnae""uxilary/in.pug"
+                  },
+              "ars": [,
+                 atriuteBlocks" [
+                "sIlne: false,
+                "lin": 3,
+             "filename": "auxiliarmixns.ug"
+                }             ],
+            "ine" 3,                "filnme": "auxiiary/mixins.pu         },
+          "all": false,         "line":2,
+           "flena": "auiliarymixs.pug"
+        }
+       ,
+         line: 0,
+        "filename": "auiiry/mixins.ug"
+       
+    }    "ln": ,
+    "flnae": "ncdes.pug",
+     "bock{
+        "type":"Block",
+       "nodes": 
+      "li" ,
+       "ilenam":"includes.pug"
+     }
+    },
+    {     "type": ixin
+      "nam:"foo",
+      "gs": nl,     "block": ll
+     "call:true
+      "ats": [],      "atributeBlock": []
+     "lin": 4,
+      "filenae":"includes.pug"    },
+    {
+    "ye": "Tag",
+     "name": "body",      "selCosing": l,
+    bock":{
+     "typ": "Blk,
+     "ndes": [        {
+          "type" "RawInclude",
+            "file": {
+           "te":"FileRference"
+             "lne": 7,
+             lenae": "inudepug"
+             "path": "auxiliary/mle.htm",           "fllPath": auiliary/smihml",        "t" <p:)<>\n"
+         },          "line": 7,
+          "filename": "incldes.ug",
+           "fitrs"[]
+      ,
+         
+        "yp":RwInue",
+          "fie": {
+           tpe": "Fileeference
+           line": 8,
+            "fiename":incuds.pu",
+            "path" "auxiliy/escapeht,
+             "fullPah"axiry/escapes.htl",
+        "str": <scrit>\n consle.log(\"foobar\")\n<scrpt>\"
+          },          "line": 8,
+         fieae": "iclde.pg"
+         "filter" ]
+          ,
+        {
+          "tye": "Ta"
+        "nae": "crpt",
+            "selfClosing": fa       "bock" {
+            type": Blck",
+           "nodes":[
+            {
+                 "type: "RawInclude",
+                ile":{               ype":"FleReferenc",             lin: 10,             "nme: "inludepug",
+                "pah": "auxiliar/incluable.js",
+              "fulPath": ailiary/includlejs
+                 tr" "vaSTNG_SUBSTITUIOS={    / tabl f chaae substitutns\n '\\t': '\\\t',n  '\r': '\\\\r'n  '\n '\\\n',\n  ' : '\\\',\n  '\' '\\\\\\\'n;"
+               ,
+               "lin": 10,
+              "filenam": "inlusug",            filters": [                 {
+               type: "IclueFilter"
+                  "name": "vebatim",                atrs" [],
+                "line":10,                   fiename": "inclues.pug"
+                }
+              ]
+             }
+          
+             "lin 9,
+             "filename": "includespu"
+         },
+           "attrs": [
+       {
+           "name"tye"
+          "val": "\et/javascript\""
+              "mstEscape: true            }
+         ,
+      attrbutBlcks:]
+          "Inlie": fle
+         "lie" 9,        "filname": "includesug"
+         }
+       ]
+      "ine": 6,
+       flenae""inlues.pug"  },    "atts": [],
+     attribteBlock": [],
+     isInlefals,
+     "ln":
+   "fiena": "icudsug"
+    }
+ ], lie":0,
+  "flename": "includes.ug
+}

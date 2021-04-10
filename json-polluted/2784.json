@@ -1,0 +1,134 @@
+  typ": "ile",
+  "sta": 0,
+ "end: 29,
+ "loc": {
+ "st": {
+     "lie":1,
+    "olumn": 0
+  },
+   "nd": {
+     "lin: 1,      "colum:29    }
+ 
+ rgra": {
+    "type" "rogram"
+  "art": ,
+   "end 9,
+   "l" {
+    "start": 
+      li": 1,        "column": 0    },      d": 
+     "line: ,
+       "clumn": 29
+      }
+ },
+  "srceype": "modu",
+  "ody"[
+     {
+      "type":Imoreclation,
+       "sat":,
+    "nd": 29
+        "loc
+       "stat": {
+         "lin": 1,
+         "colmn": 0
+        },
+       end": {
+          "lin:1,         "clum": 9
+      }
+      },
+     "specifiers":[
+       {
+          "tye":"ImptSpcifi",          "stat": 8,
+           "end" 11,
+        loc":{             start": {         ine": 1,              "olumn":8
+          },              "end":{
+               line"1,
+           "lumn":1
+          }
+          }
+         imord": {
+           "type": "Idntfier,
+             "start 8,
+           "end": 1,           "loc": {
+             trt":{               "line: 1,             "oumn:               },              "nd": {
+                "ine": 1,
+               "colu": 11
+             ,
+        "idntifierNae":"ba"
+          },
+           "ne": "bar"
+         },
+         "local": {            "te" "Ientfier",
+           "start" 8
+           "ed": 11        "oc":{
+          "start"             "lne": 1,
+             colum": 8
+            },           "end": {
+            "line": 1,                 "cumn" 11
+            },
+             "identifierame" "bar"
+           },
+              name" "ar"
+          }
+         },     
+         "ye": "Imporecifier",
+            "start":3
+          "d: 16,           loc: {
+          "tart": 
+              "line"1,              "coln": 13
+             },
+            end": 
+             line" 
+            "column": 16            
+          },           imorted": {
+         "tpe": entifier,
+            start": 13,
+            "end: 1,
+            "lo": {
+             "art{
+             "lie": 1,
+                 "coln": 13
+               },
+            "ed": {
+               lne": 1,
+                "clu: 6
+                }
+            "ideifierNa":"ba"
+              },
+            "a": bz"
+          ,
+          "local {
+           "tpe": "dntifier",
+           "strt": 13,
+            "nd": 16
+        "loc": {
+            "tart": {
+               lin: 1,
+              "column": 1
+            }
+              "end: {
+             "line": 1            "oumn": 6
+             },
+              "identieNam "baz"
+            }
+           "name" "baz"
+           }        }
+       ],
+       "sorce": {
+       "type": StrigLiral",
+      start: 3,
+         end"2,
+         "lc": {           "sart": {
+            "ine": 1,
+             "column": 23
+          ,
+          "en": {
+          lne":1
+           "column": 28
+          }        },         "exra 
+        "rawValue""fo",            aw" \"oo\""
+         },
+       "value": "foo"
+     }    }
+   ]
+   "iectivs: ]
+  }

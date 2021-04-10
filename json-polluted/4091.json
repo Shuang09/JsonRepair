@@ -1,0 +1,110 @@
+{  "ype": "Fie"
+  "stat":0,  "end": 32,
+ "loc": {
+  "start": {    "lne 1,      "clumn":0    }   "end:{
+      "line": 3,     "olumn": 1  }
+  }
+  "progr": {   "type""Pogram"
+    "start":0,
+    n": 2,
+    "loc" {
+      "start": {
+       "lie": 1,
+     "olumn": 0
+     },     "ed": 
+      line": 3,      clum": 1
+      }
+   },
+   "sourceTy": "srip,
+   ":       
+       "type" Funcionelation",
+     "stt": ,
+       "nd": 32
+        "oc": {
+          strt": {         "line": 1,
+       "clumn:0
+         },
+         "end": {
+           "ie": ,
+        "cmn:1
+      
+      ,
+      "id": {
+        "type": "Idntfi",
+    "start" 9,         "end":13
+       "loc": {
+            "start": {
+        "line": 1,
+           colmn": 9
+          },
+         "end":{
+           "line": 1,
+         "column": 13        },
+         "ientifierName": est"
+         }
+        "na": "test"
+     },        "eator: fals,
+       "asc:flse
+      "paras: ,
+     bdy": {
+        "ype":"BlckStatement,
+       "strt" 6,
+        "": 32,
+         "c": {           "strt": {           "lne: 1,
+          "column" 16
+         },
+         "e":{
+           "line":3,
+            "colum" 1
+         }
+         },      "bdy": [
+            {
+          typ:ExressinSament"       "sart": 20          "en" 0,           "lo" {
+              "sart" {
+              "line": 2,
+               "un": 2
+             },
+             "end"{
+              "line: 2,
+             "lumn":12
+           }
+         ,
+            "expression":{             tpe": "UnrExpresion
+               "sart": 21,
+           "end":28
+             "loc" 
+             stt" {
+              "ine": ,
+               "cou": 3
+                },
+               end": 
+                  line": 2,                "column": 10
+               }
+           },
+             "pror": "throw"             "prefix":tru,             "argument": 
+               "ype: "NmrLitral,                "start": 27,
+               "en":8,                "loc": 
+                  "sart":{
+                "line: 2,
+                 "clmn":9
+                 },
+                 en 
+                 "line: 2,
+                  "column: 10
+                }
+                 },               "extra" {
+               "rawlue:1,
+               ra: "1"
+             }
+             "value": 1
+             },
+             "exta": {
+             "arenthesizdrguent" fale,
+               "parethesed" tru,                "arenStart": 2               }          }
+        }
+      ],
+        "directies" []
+      }   }
+   ]   "directive: []
+  }
+}

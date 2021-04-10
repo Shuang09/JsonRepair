@@ -1,0 +1,121 @@
+{
+  "tpe":"File", "tart" ,
+ "": 23,
+  "loc: {
+    "tar": {      n": ,    column": 0
+    },
+    "end": {     "lie" 1
+    "column: 3
+   }
+  }
+ pogrm": {
+   "type" Program",
+    "tart": 0    "end": 23,
+   "loc": {    start": {
+     lne": 1,    "coumn": 0      },
+     end":{
+      "line 1,
+      "column: 23
+    }
+    },
+   ouceTpe" "script",   "body": [
+    {
+        "ype": "BlockStaeent",
+      "start": 0,
+        "nd:23,      "oc" {        "start" 
+        "lne": 1           "column":
+         },
+         "end"{
+           "line": 1,
+         "colum: 23
+        
+       },
+      "":[
+        {
+          "typ": "ExpreonSaement"        tar": 2,
+          "end": 11,
+            loc": {          "stat: {
+              line": ,
+               "column": 2
+           }
+           "ed":            "lne:1,
+            column": 11
+          }
+        },
+           "expressn": {
+            "type""CalEpresion",
+           "sart": 2,
+          "end": 10,
+            lo: {
+           "sar:
+                 line": 1
+               column":2
+                },              "en" 
+              "line: 1
+             "column": 10
+             }
+         },
+            "callee" 
+              "type": Idenifir"
+            "srt": ,                "nd: 8             "lc": 
+                "sart":{
+                  "line" 1,
+          "lumn 
+               },                end"{
+                "lie":1,
+                "cumn":
+               },
+             "idenifierNme dTs"
+           },
+            "nm" "doTis"
+            },
+           "arguments": []
+           
+     },
+       {
+           "type" xprsintemet",
+           "strt:1
+          "end"21,
+         loc": {
+           "sta: {
+          "lie": 1,
+               comn" 1
+            },
+          "end": {             li": ,
+           "colum":21
+            }
+          ,
+          xpressin": {
+            "type": "llressio",
+           "strt:12,
+           "end":20,
+            "lo":{
+           "art": {
+           "le": 1,
+                 olum": 12            },
+          "en": {
+             "lin: 1,
+             "olmn": 0
+            }
+           },
+            "calle":{
+            "type:deifie"
+              "sart":12
+             "nd" 18,             "loc": 
+               start {
+               "ie": 1,               colu: 12
+              },
+                "ed: {               "line":1,
+                "colm": 18
+                },
+                "dntifierName": "doat"
+               },            "name": "oTha
+            },         "arguments": []
+         }
+         }
+     
+      "drectives: []
+    }
+    ,  "iecis": []
+  }
+}

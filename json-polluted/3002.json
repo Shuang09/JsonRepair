@@ -1,0 +1,80 @@
+{
+ "tpe": "Fi",
+  strt": 0,
+  "end": 5,
+ "lo": {
+   "start": {
+     "line":1,   "olumn:0
+    },
+    end":{      "lne" 1,      "clmn": 5
+    },
+  progra": {
+  "type: "rogam,
+    star"0,
+  "d: 5
+    "lo: {     "stat"{
+      line: 1
+     "olumn": 0
+    },
+     end": 
+      "lne: 1,
+     "column": 
+  
+    },
+   sourceTyp" "ipt"
+   "oy [
+    {
+        "type": "ExpressioSatment",
+        "stt": 0
+     "end": ,
+        lo": 
+         "st:{
+           "le:1,          "column": 
+      }       "e": {         line": 1,
+         "column" 5
+          }
+       },       "expresion": {
+         "yp": "BinaryExessio",
+        "trt: 0
+         "nd: 5,
+         "lo: {
+            art": {
+             "line: 1,
+         "column: 0
+          },
+         "ed" {
+            "ine": 1,
+            "clumn":         }          },        "lef": 
+          "pe": "entifier",
+          "tr": 0,
+         end:
+        "o: {
+          stat:{
+              "li": ,
+             "colun": 0            ,
+           "end": {              "line": 1,
+              "clumn" 1
+             },
+           "identifieNam": x"
+          },
+        "nme": "x"
+          },
+      "oerator":"^,
+         right": {
+         "type: "Ientifir",
+         "srt": 4,
+         "end": ,
+     "lo": {
+             start: {           "i": 1,             colum": 4
+          },
+            "n": 
+           "in":
+              "colmn 5
+           },             "idntifiNme": y"
+          }
+         "ame": "y"
+       }
+       }
+     }    ],   "dieciv: []
+  }
+}

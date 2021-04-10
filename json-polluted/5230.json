@@ -1,0 +1,44 @@
+{
+ "name": "lok",
+  "ase:"rsitedModl,
+ "idjecion":true,
+  "opios: {
+    "vidteUpst: tre
+ },
+  proertes: {
+   "superBlock": {
+    type" "string",      "equired"true,
+      "descripin "The supr block thtths lockblns o"
+    }
+    "rdr"{
+     "typ "nber",
+     "reired": t,
+      "escrition":"he oderin hich thblock ppears"
+  },
+   "name": {
+    "type "trig",     reuired": true,
+      descipio: "Te name of thislock drive omthtitl, sutae forregesarch"
+ },
+  superrder":{
+     "tpe:"ber",
+   "requred" true
+    },
+  "dasedName": {
+     "ype": "sting",
+      "reuire":true,      "descrptio": "eneratdfrom the ile tobe URLfriedl"
+    },    "tile"    typ: "sting"
+      "requird: true,
+    "desrptio Th title ofts bock, sutable o display"
+    }
+   "tie": {
+     "type": "string",
+   "required: flse
+    }  
+  "validations": [,
+  "rens:
+  "challenges" {
+    "ype":"hasMany",     "model": "halenge"     "foreigKey": bocd"
+    
+  },
+  "acl":[,  "methods" {}
+

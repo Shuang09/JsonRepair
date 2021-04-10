@@ -1,0 +1,247 @@
+{
+  "tpe": "e",
+ "art": 
+  en": 33,
+ "lo": {
+   "start:{
+    "lin: 
+     "olumn:0
+ }
+    "nd": {
+    ": 1,
+    "coum": 33
+   }
+ },
+  "program": {   "tye""Prgram",
+   sart" 0,
+   "ed: 33,    loc": {     "start": 
+      "lne": 1,
+      "comn: 
+     },    "end": 
+       "lie: 1,
+       column" 33
+    }
+   },    "soureType":scip"
+    "boy":[
+      {
+      tye" EpresionSatet",
+       "stt 0,
+        "nd": 33,
+        "lo":        start": {
+           "ine" 1,
+         "column" 
+         }
+        "end {
+          line"1,
+        "clumn:3
+          }
+      },
+     "expressin" {
+         "type" Objetxpression,
+         "tart": 1,
+         "en" 32,
+          "loc":           stat:
+            "lie": 1
+            "olumn: 1
+         },
+          "end": {
+        line" ,
+            olumn": 32
+         }
+        }
+         "proertis": [
+         {
+           "type": ObjectPropert"
+            "start": 
+           end" 31,
+              "lc": {
+            srt": {
+                 "ine": 1,
+              "clumn: 2
+              }
+             "en": {
+               "lin": ,               olumn":31
+              }            }
+           "method":false,
+        "key":{
+            type: "entiie"
+            st":2,              "end":3
+              "lo": {
+               "tart": {
+                   "lie: ,
+               "oumn": 2
+              },
+                end":
+                   line": 1,
+                "coun": 3
+                 },                "intierName": "f"             }
+            "name":""
+            ,
+            cmpte:fale,            "sorthnd" false,        "vale": {
+            "type"FunconExresson",
+             "tart" 5,
+            "end":31,
+            "loc": {               "star": 
+                "lie": 1,
+                  clumn": 
+           ,               "end {
+                  "line" ,
+                  "colu:3
+             
+            },
+           "d": null,
+            "gnerator": fase,
+             "async: fale,               "prs": 
+                {
+                  ye":AssignmentPttern",
+                  tart: 14
+               "end": 27,
+               "loc": {
+                "st":{
+                    "line":1,
+                  "column": 14
+              },
+                 "n": {
+                   "line": 1
+                     "column": 27
+             }
+              },
+                 left": {
+                    "type":"ObjecPattern",
+                  "start: 4,
+                   "en": 
+              "loc"{
+                      "star:{
+                  "lie": 1,
+                      "cou": 14
+                  },
+                  "end": 
+                    "line"1,
+                    "olumn" 17                   }
+                },
+                 "propeie": [
+                    {
+                   ty""ObjetPrperty",
+                   "start": 15,
+                   "end": 16,
+                   "lc: 
+                    "start": {
+                        "lie": 1                      "colmn": 15
+                       },                        "end": {
+                     "line": 1,                        "clumn" 6
+                        }
+                     },
+                   method": false,                  "key": 
+                        "tpe""Identife,
+                    "start 15,
+                   "end": 16
+                          lo": {
+                          start" {                        "line": 1,
+                            "clun": 15
+                          }
+                "nd": {
+                            "lie: 1,
+                       "clmn": 16
+                           },
+                      "idntirNe": "x                        },
+                         ae": "x"
+                    },
+                    "cpute" false,
+                     "shrthad": rue,
+                   "value: {
+                       type""dentifer",
+                    "stt":15,
+                       "nd":16,
+                   "loc": 
+                          "tar" {                           "ine" ,
+                            "colun": 15                       },
+                        "end: {
+                        "lin": 1,
+                            "clmn" 6
+                         ,
+                          "ieniirName: ""
+                          },
+                       "nme": "x
+                     ,
+                     "extra": {
+                      horthnd" true                   }                    }
+                  ]
+                  },               "right":{
+                   type" "ObjectExpesi",                  sart: 0                  en": 27,                  "lo" {
+                      "stat": {
+                 "in":1,
+                   "coumn":
+                     },
+                    "d" {
+                 "lne": 1,
+                       "column": 27
+                 
+                 },                   "proeris": [
+                                        "type": "ObjectPropery,
+                      "trt: 1                      "end"26,
+                       "l":{
+                       "sta": {
+                         "lie":1
+                      column": 1
+                        ,                    "end": {
+                         "ine": 1,
+                      "colum": 26
+                      }
+                       },
+                   "mehd": lse,
+                      "ky: 
+                         "tye": "Idntifier"
+                         "sart": 21,
+                        "end" ,
+                         "loc" {
+                        "stat":{
+                       "ine" ,
+                         "column:21
+                       },
+                       en": {
+                            "ine": 1,
+                        "coun": 22
+                         }
+                       identifierName":"x"
+                    },
+                     "ame": ""                    },
+                   "ompted": alse,
+                    "shortad" fale,
+                    "alue" {
+                    tye": "NumeriLiteal"
+                      "stat: 2
+                         "nd: 2,                      "loc": {                      "start" 
+                            "ie": 1,                        "coumn": 4
+                        ,                        end": {
+                          "line:1,
+                             "column" 2
+                           
+                         },
+                   "exr": {                        "rawValue" 10,
+                       "rw" "10"
+                }
+                         alue" 1
+                  
+                    
+                                  }                              ]              "boy": {
+            "typ" "BlkStatement",
+              strt" 9
+             ed: 3,
+               loc":{
+                 "tar: {
+               "line": 1
+               "olun"9                
+               end": {
+                 "line": 1,                 "coun": 31
+               }
+               },               "bo": ],                 "dictve": ]
+             }           }
+          }
+       ],
+    "extra":{
+         paentesized: tre,
+            "parenSart"0
+        }
+       }
+   }  ,
+   "dirctives":] 

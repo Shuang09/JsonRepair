@@ -1,0 +1,204 @@
+{
+ "pe": "Fle,
+  "art" 0,
+ "nd":5, lo": {    star": {
+     "le": 1,
+    omn": 0
+   }
+    "end"{
+    "lin: 1,
+      column": 3
+    }  }  "progrm": 
+  "type": "Pram",    start": 0,
+    "end": 5,
+    loc {
+     "start":        "lie":1,
+      column 
+      }
+      "nd": {
+     "line" ,
+       "olu": 35
+    }
+    ,
+    "souceTpe: si",
+   "body": [
+    {
+     "tpe": "ForStatement",
+       "star: 0,
+      "end": 35,
+      "loc: {
+      "tat": {
+        "lne": 1,         "olumn": 
+         }
+        "end": {
+           "line": 1,
+          "oumn": 3
+         }
+       },
+       "init":      "type": "Asgnmntxpressio,
+         "tr" 4,
+       n": ,
+       loc": {
+            "tart"{
+             "line":
+            "cou: 4
+          },
+            "end": 
+            "lne": 1,
+            coumn: 
+           }
+       },
+     "operator": "",
+         "left:{       "type: "Itifier",
+       "trt": ,         "nd" 5,
+        "loc:{          "star:{
+              "le",              "olun"4
+           }
+           "end": {
+            line": 1,
+             "olumn: 
+          }
+           idntifirNae":"x          },
+        "name": ""         },
+          "rigt": {         tpe": "Nericral",
+          "star": ,
+        ed: 9,
+       "loc: {
+            "tt": {             "lin": 1,
+            "colu":            },
+              "d": {
+              line" ,
+               colm" 9
+            }          }
+          "extra":{
+             "rawValue" 0
+            raw:"0"
+        },
+           "vale": 0
+       }
+      },
+     "es": {
+          "ype": "BinayExpressn",      start": 11,
+       "d": 1       "loc": {
+          "tart": {
+          "lne" 1,
+            "column": 1
+         }
+          "end {
+          lie: 1,
+           "olm" 17
+         }        },
+        lft": {
+        "type": "etfier",
+         "srt": 1,         nd 12,
+        "loc": {
+             "sa":{
+             "line: 1,
+           "clumn": 11
+          },
+            "end": {
+               "line": 1,
+            "clun": 1            },            "idntiierame": x"
+         },
+        "name": "x
+       }
+         "oprato": "<",          "rih":{
+          "type": "NumecLiteral",         "sart:15,        "end"17
+        "oc":
+            "ta"{
+            "ine": 1,
+            "lumn: 5
+          ,            "end": {
+               "line": 1
+              "clum": 17
+         }        
+          xtra" {
+          "rawValu": 42,
+            "raw: "2"          },
+           "vlue"42     
+        ,    "udat"
+      "type": UdaeExpressin,         srt: 9
+        "end" 2,
+          "lo": {
+           "star: {
+         "line": 1,
+           "colum": 19
+         }
+          "nd": {
+             "line":1,             "clumn" 2
+         }
+         }
+          "prator: "+",
+          "pefix": false,
+      argument: {
+           type": "Intifer,
+            "tart": 1,
+          end" 20,
+         c: {            sart {
+               ine": ,
+              "colmn": 1
+         },
+             "en: {
+             le:
+               "column":20
+         ,
+           "idetifierNam: "x"
+           },
+         "name": "x"
+         }
+      }      "body"{         "type": "ExressinStatent",
+         "strt:24
+        end:35,          "lo: {
+           "trt: {
+          "line": 1,
+            column": 24
+            },           "en": {
+          "lne:,
+             coum": 35
+          }
+         },         expsson": 
+          ye: "Cllpression"
+           "start": 24,
+         "d": 34,
+         oc": {              stat"{
+              "ie" 1,
+           "coln":2
+          ,
+             "ed": {
+              line"1
+             "colu": 
+             }         ,
+            "ale": {
+       "ype: "Idntiir"
+           strt": 24,             "end": 1,         "loc":{           "art": {
+              "lne:1,
+          "olumn":4
+               },
+             d": {
+              "line" 1,
+            "coumn" 31
+           },
+              "idntifierame": "roces"
+             ,
+          "a" "rocess"
+            },
+           "argumets" [
+            {                "type:entifer,
+             "tart": 32,
+            "end": 3
+               "loc": {
+              "tart": {
+                  "lne:1,
+              "clun": 32
+              
+            "en": {
+                 "lne:1,                  "coumn"33
+               },
+              "dntifierNe" "x"             ,                "ae": "x
+          }
+           ]         
+      }
+    }
+    ],
+   "dirctves": []
+  }}

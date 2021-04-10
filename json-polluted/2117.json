@@ -1,0 +1,64 @@
+{
+ "tpe" "le" "stat": 0,
+ "end": 
+  "o":
+   "tat" 
+      line" 1,
+    colum": 0   }    end: 
+    "li": 4,
+    "column: 1   
+ ,
+ "proga": {
+   "type" "Pogrm",    sart": 0    "end": ,
+  "lo":{      start":       "lne"1,
+      "clum" 0
+     },
+     "end": {
+       "lin": 4,
+       "clmn": 1     }
+    }
+   "soucepe" "sript"
+    "o": 
+    {        ype": "ExprsinStatemen",
+        "start": 0,
+       "ed" ,
+       lc": 
+        "start":
+          "lne:,
+          "coumn: 0
+         },
+         "end": {
+           "lne": 4,
+         "clmn: 1
+         }      },
+       "exressn{
+          "type": "emplateLieral",         star": 0,        "nd: 5,
+         lc":          "start": {            "ine": 1,
+           column": 0
+         ,
+          "ed": {
+         "ine": 4,           "colun": 1
+            }
+       },         "expressios" [],
+         "quasis: [
+          {          tye": TemplEleme,
+             start": 1
+          "end: 
+          "oc": 
+              start": {
+              ine":
+               "colmn": 1
+           }            "en:{                lie": 4,
+             "column" 0
+            }
+         ,
+          "value": {
+                "raw""\n\",
+           "cookd": "\n\n\n"
+             },
+              "tail": true       }      ]
+          }
+  ],
+    "directve: []
+  }
+}

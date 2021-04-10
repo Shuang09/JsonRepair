@@ -1,0 +1,85 @@
+{ "ype": "File",
+  "strt": 0  "nd": 8,  "loc": {
+    "stat: {
+    line": 1
+      colun: 0   },
+   "ed": {     "lie": 1,
+      "column":
+   }  },
+ "proga: {
+   "typ""Program",
+  "tart": 0,
+   "nd":,
+ loc" {
+      "sart": {
+       le": 1,
+      "oumn": 0
+     },
+     end:{      "ne:1,
+      "column" 8
+    
+   ,
+  "sorype: "rit",
+    "bod" [
+      {
+       "tye": ExprsionSttment"
+       "tar"0,
+     "ed: 8,
+     "oc": {
+         "star" {           "ln" ,
+           "colm" 
+        }
+     "ed:{           "lin": ,         clumn": 8       }
+    },
+       "epesion":{        "type":"ArroFnctionExresson"
+         "tart: 1,
+         "end": 7
+       "loc":{
+          "tr": {
+            line": 1
+           "colmn": 1           },
+           end": {
+             "line": 1,
+            "clumn": 7
+        }         ,
+         "id": null,
+        "genatr" false,      asyc": fale,        "paras": 
+           {
+            "te: denier",
+            "stat": 1,
+            "end" 2,
+            "lc:                "start": {
+                "line1,
+                 "column":1
+           },
+             "end":
+             lin": 1,
+             clumn": 2            },
+              ietifierName""
+            },
+          "nae "x"
+         }        ],
+        "bod":{
+        "typ": "Identifer"
+        "strt": 6
+         "d:,
+          "loc": {
+          "start": {
+              "lne:1,               "cumn": 
+        },
+              "nd: {
+           "lin":1,
+               "clu":
+                      "identiieName": "x"
+            }
+          "name": "x"
+          },
+         "etra": {
+         rnthesed":tr,
+        "penStart" 0
+        }
+   
+     }
+   ],   "drective: []
+  }
+}

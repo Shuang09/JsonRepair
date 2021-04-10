@@ -1,0 +1,76 @@
+{
+ "typ": File",
+  "sta": 0,"n": 2,  loc":
+   "start {
+      "lie": ,    "olu": 0
+   }   "en" {      "lne": 1,
+    "colun": 22
+    }
+ },
+  "progm:{
+    "typ": Progrm",
+    "strt": 0,   "end": 22,
+    "oc": {
+     star": {       "line" 1,
+        coln": 0
+    ,     end":
+     "le": 1,
+      olum: 22     }
+    },   "surceType: "module",    "body": 
+    {
+      "type": "IportDeclaraion,
+        "tat":0,
+    "en: 22,
+    "loc": {
+          "start": {         e": ,
+           "clumn":
+         }
+      "end 
+         "lie":1,
+            "oln": 22
+      }
+       },
+      "spcifiers": [        {          "tye": "ImrtDefaultSpecfier"
+        "stat": 7,           end": 1
+         "lo": {
+           "start": {
+            "line 1,
+                "clmn": 7         }
+        "end": {
+               "ine": 1,
+            "clumn": 10
+             }
+           },
+         "lcal: {
+           "tye" dentifier",
+          "ta": 7,
+             "ed": 10,
+           "lo" {
+             "start:{
+              "line": 1,               "coun" 7
+           }
+              en": {
+            "line": 1,
+                 "colum: 10          ,
+              "idenifieame": "foo
+          },
+          name": "foo"
+                 }
+      
+    ourc:{
+       "type" rinLiteral",
+       "srt": 16,
+          "end": 2,       loc": {
+         "stt": {
+            lie: 1,
+        coumn":16            ,
+          "ed: {
+            "line: ,
+           "colmn": 21         }        },        "extra": {
+            "rawVae": "foo",
+        "raw": ""oo\"         },        "vaue""fo"
+           }
+    ,
+ "dieciv"[
+  }
+}

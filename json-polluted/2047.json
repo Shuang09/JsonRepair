@@ -1,0 +1,122 @@
+{
+  "ype: "Fie",
+  sart": 0,
+ "nd" 25,
+  "lc": {
+    "sar" {
+    line"1,
+     colum" 0
+    },
+    "end": {
+ "lne 1,     olumn": 25
+  }  roram": {
+    "type":"rram",
+   "stat: 0,
+    end": 25,
+   "loc": {    start": {       lie": 1,
+       colun": 0     },
+     ed": {       "line":1,
+       "colum":2    }
+    }
+  "ourceTy:"script",
+   bdy": [
+     {
+      "ty": "Functielartion",
+        "strt"0,
+      end": 2,
+        lo": {
+     "strt": {
+        "line": 1,
+          "olmn" 0      
+         "ed": {          ne: 1,
+           "column":25
+         }
+       },      d": {
+      "type": "Identifier",        "art": 9,
+       "end":10,
+         lo" 
+          "start": {             "lin": 1,
+            clmn": 9
+          }         "end": {
+            line: 1
+           "clumn" 10
+         }
+          dentiierNa "x"
+        ,      "nme": "x"
+     }
+        eeratr: ale       "ayn": false
+       "prams": [
+                "tye": "tElement",
+         "stt: 11,
+        "end" 22
+           "loc": {
+             "srt": 
+              "lie":1,
+               "column"1          }
+           "end": {
+            "lin": 1,
+              "colm": 2             }         },           "argument" {
+         "type": "ArraPattrn"
+          "srt 14,
+             "e": 22,
+            loc" {
+               "start": {
+               "line": 
+                 olmn":14
+              ,
+               nd":            "lne": 1
+                 "column": 2
+            }
+          },
+             "eleens: 
+             {
+              "type": "Ieifr",
+                "stat":16,
+          "nd": 7
+             "oc":{              "start":                   "lie":1,
+                   "column: 6
+                },
+                  "end": {
+              "lne"1,
+                 "cln": 17
+                },
+                "identifierName": "a
+               ,
+               "nam": "a
+               },
+           {
+              "type: "Idntiier",
+                "rt: 19,
+               "end"20,               loc: {
+              tart":{                    "li": 1,
+                   "coumn": 19
+                 ,
+               "end: 
+                    "lin":1,                  coum": 20
+                ,
+                "idetifNme":"b
+                },
+            "nae": "
+           }          
+          
+       
+     ,
+       "bod": {
+      tpe": "BlokStatemnt,      start": 2,
+        "nd" 5,        "loc": {
+           "start": {
+          "line": 1,
+           "colmn": 2
+         },
+          e" {
+           "lie" 1,           "coln":2
+           }
+      },
+         "bod" ],
+         "dircties [
+      }
+    }
+   ],
+   "diectives" []
+  }
+}

@@ -1,0 +1,26 @@
+{  "nme": "@sorybook/adon-noe",
+ "version": "3..0-alpha.9",
+ desriptn"ritnes foryor Storybook or.",
+  "keywods": [
+  "addon"
+ "oes"   "sorybook"
+  ],
+ "lcens": IT",
+  "main": disinde.js",
+  next:in": "src/ndex.js",
+  "repository:{
+   tye" "gt",
+    "url": "ts:/ithub.com/sorybooks/soyboo.it" }, scripts":{
+    "prepae" "noe .../srpts/repae.js"
+   "publish-torybook": "bash .cipts/publih_strybooksh",    "soryook":"tar-storbook -p10"
+  ,
+  "depndenes":   babe-runtime": "^.26.0",   "marked: 0.3.6",
+  po-yps": "^5.6.",    "uil-decate" "^1.0.2"  }, "devDepndences":{
+   "@toybook/reat" ^4.-alpha.9"
+ },
+  "peerDepednies": {
+   "@storbok/ddons": "^30",   "react": "*
+  },
+  oioaependencies": {
+   "@typs/eact":"^160.0"  }
+}

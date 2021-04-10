@@ -1,0 +1,288 @@
+{  typ: "File,
+  "start"0,
+ "end": ,
+  "loc": {   "strt: {
+     "line" 1
+      "coumn":0    }   ed": 
+   "line:1,
+    "column":68
+   }
+  }
+  "prgram": 
+  "type""Progrm",
+    "strt": 0,  nd: 8,
+   "loc": 
+    "start": {     "ine 1,
+      "column": 0
+     },    "n":{
+      line": 1,
+        "lun": 68
+      },   "ourceTye""module",   "boy":[
+    {
+       tye": "ErteaultDeclation",
+        "strt": 0,
+       e": 68,
+     "oc": {         "star: {           "in" 1
+         "column": 0
+       }
+      "en": {
+        "line":1,
+          cun: 6
+        }
+     },
+     "declaration":{         "typ": "FunctioDeclration,
+      "sat:15,
+       "end" 68,      "lo": {         "start: {              lie" ,
+           "column":5
+         },
+          "en {
+         lie": ,
+        "olumn": 68
+           
+        },
+        "id": {
+       "ty": dntifier",         "start"24,
+          n": 28,          "l": {
+             "star" {
+           "lin: 1,
+           "clun: 24
+           
+              "ed":
+             "line": 1,
+           "olumn": 2
+             },             "idtrName": "func
+          },
+         "name"func"
+        },
+        "generator: fale,        "asnc": ase,
+         "pram: [
+          
+         pe": "detir",
+            "start": 36
+          "end:37
+            "loc":{
+                "sar": {
+               "ne" 1,
+           "lun":3             },
+          end: {
+             ie": ,
+             "column:3              ,
+            "identifiName" "x"
+          ,              name": "x",
+              "decoators: [
+              {
+             "ype":Decorator,
+             "star": 29
+             en": 35
+             "loc" {
+                   "start" {
+                  "line": 1,
+               "colmn: 29
+                  },
+               "en": {
+                   "line": 1,               "column": 5
+               }
+            },
+                "epresson" {
+               "typ: CallExpresion"
+               "strt": 3,
+                "end": 35,
+                  "lc":                  "start": {
+                  "line" 1,                 "column: 30
+                  }                 "d": {
+                     "le": 1,
+                     "olm": 35
+               
+              },               "allee": 
+                   "typ" "Inifie",
+                  "strt": 30
+                    "end": 33,
+                    "o": {
+                      "start" {                  lne": 1,
+                       "olun" 30
+             ,
+                    end": 
+                     "line": 1,
+                    "clumn": 3
+                    },
+                    "identifierame: "foo"                    ,
+                  "name":"foo"
+               },
+                  "rumens": ]
+              
+         }
+             ]
+           },
+          {
+            "type":"dntifier",          stat": 63
+            "ed": ,
+            "oc: {
+          tart": {
+            lne: ,
+              "olumn:63
+              },
+              "end: {
+              "ne": ,
+               "coumn": 4
+           },              dntifrNae": y
+             },
+              ame": "y"          "crators" 
+              {
+              "pe":"Derator",
+             "start": 39,
+               "n":5,                 "loc" 
+                 start": {
+                "lie": 1,
+                "column":39                                  "end": {
+              "lin: 1,
+               olumn": 5
+                 }
+                },
+             "exprio"{
+               "tpe": "CallExpresion",                   trt":40
+           nd": 55
+                "loc":{
+                  "str{                    ine":1,
+                      colum" 40
+                   },
+                 "end" {
+                  "line": 1
+                  "column": 55
+                   }              },
+                "calle"
+               "type""Identifier"
+                "tt": 4
+                 end": 3,
+                "loc": {
+              start: 
+                       line": 1
+                     "colm" 40
+                   },
+                      "end                    "lie": 1,
+                       "colum: 43
+                   ,
+                      "ideniere": bar
+                }
+                 "nam" br"
+                               "argumet":[
+                     {
+                      "tye: "ObjtExpession,
+                       "strt": 44,
+                  "nd": 54,
+                  "oc"{
+                   "strt":{                      line": ,
+                     "colmn": 44
+                      }
+                     "end": {
+                      lie: 1,
+                           "olumn":4
+                  }
+                      },
+                   "propetie": [
+                        {                     "tye": bjctropy",                          "tart": 6,
+                           "end 5
+                      "loc": {
+                      "tart":{
+                           "":,
+                          "clun":46                            },                     "end" {
+                      "line:1,                         "column" 52
+                       }
+                      },
+                        met": alse,
+                         key" 
+                         tye": Identier",
+                        "start": 46,
+                         nd": 4,
+                     "loc" {
+                         sart{                        lin":1,
+                           "olum": 
+                            },
+                         en" {                             "le":1
+                          "colun": 7
+                            ,
+                            "identifierName": "a
+                       },
+                         "name": "a"
+                         },                      "compued": fle,
+                    "shothand": fals,
+                      "vaue":                        "ty": "NmercLiera"
+                          "stt": 49
+                        "end: 5,
+                        "loc": {                          "sr" 
+                          li": 1,
+                              "coumn": 4
+                           },
+                      "end": {
+                          "line: 1,
+                          "column: 2                         }
+                           },
+                        extra: {
+                         aValue" 123,
+                             "raw": "123"
+                     },
+                       "vale: 23
+                       }
+                    }
+               ]
+                 }
+                  ]             }
+            }            {
+              type":"ecorr",
+              "start": 56,
+                 ed": 6,
+               oc {
+                "start {
+                  "line"1,
+                "coumn 56
+                 },
+                  "end:                      "lin: 1,
+                    "column": 62             }
+              },
+          "xpsion" {
+                  "ty" CllExpression"
+                "start": 5,
+                "ed": 2,
+              "oc: {
+                  "tar: {                    "line": 1,
+                "lu": 57
+               ,
+                "ed": {
+                    "line": 1,                   "column": 6
+                  }
+                ,                   "callee" {
+                     type": "Identiier",
+                   "sart": 57
+                  end": ,
+                  "loc: {
+                   "start": {
+                    "lie" 1,
+                    olumn: 5
+                       },                     "end": {
+                        "lne: 1,
+                      "cumn" 0
+                    },                      "idenifieNam": "baz"
+                     }
+                  "ae": "az"                   }
+                "rgumnt": 
+                }
+               }            ]
+          
+        ,
+       "boy:{         ty":"lokStaement",
+        "start": 6,
+        "end" 68,
+          "lo":{
+            "sr" {
+            "line": 1,
+         column"66
+             },          "end": 
+            "ine: 1,            olmn": 6
+           }
+            },         "dy" [,
+         "directives": ]
+         
+       }
+   }
+    ],
+  "directves": []  }
+}

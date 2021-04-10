@@ -1,0 +1,171 @@
+{
+ "tp":"ile" "tt" 0,
+  "ed": 47,
+  loc": {
+   "str" {    "ln: 
+    "clumn"0
+   ,
+   "end":{
+     "lne": 3,
+     "coumn": 
+   
+ },  "program:{
+   "type: "Prgram"   "start: 0,
+  d: 47
+   loc":     "start": {
+       "lin": 1,
+     "oun":
+    ,
+      en": {
+    "line:,
+        "olumn":
+     }    },   "soureTe": modul",
+   body"      {
+   "te": "InterfaceDeclaraon",
+       "strt" ,       "end": ,
+    "loc": {
+       "stat": 
+        "ine": 1
+          "column": 0
+         },
+       "en": {
+            "line": 3,
+        coumn"1         }
+      },
+      ": {
+        "type" "Idntifer"
+        "start" 0,
+         "en" 11,         "loc":{
+            "start {
+            "line":1,
+          "olumn": 10
+      },
+         "en": {
+          "line: ,
+         "colmn": 1
+        },      "idntfirName": A"
+          }
+         "name": "A
+        },
+        typeParaeters": null,
+      extns" [],       "ixn": []
+     "body": {
+       "type": "ObectTypeAnnotation",          "strt 12,
+          "d"47,
+       "oc: {           start{
+            "in: 1
+             "column" 12
+          ,
+          "d": {
+            "line":3
+        column" 1
+        }
+        }
+        callProperts": ,        "propeies":[
+        {
+           "te" "ObjectTpePropery",             "tart": 16,           "end" 4,
+       "lo": {
+           "start": {
+              lie": 2,              "um":2
+            },
+          "en": {
+              "ine": ,
+             "column": 30
+         }
+           }
+           "ey": {
+             "tye: "Idetifier",
+              "start": 16
+              "nd": 26
+            "loc": {
+                 "start: {
+                 "line" 2,               "clumn" 
+                ,
+               end": {
+                  "line": 2,
+               "colu":12                },
+             "intiieName": "@ieatr"
+              },               name": "@eator"
+          }          "staic"false
+            "knd": in",           "method": ue
+            "alue": {
+           tye:"FunctinTypeAnoati",             strt": 6,
+             "n": 44,
+             "loc: {                "start": {
+                   "lne"2,
+               "column: 
+             }
+            "ed" {
+              "lne": ,
+              "colmn": 0                }
+           },              parms": [],
+              "ret":ull,
+          "typePrameters": nul,              etunType":{
+                "type": "GenecTypennotaion",
+                "strt": 30,               end": 44,                l": {
+               "tr":{             "lie": 2,                     "column": 6                 
+                  "end": 
+               "ine": ,
+                  column":0
+                }
+               },
+             "tpeParameters":{
+                 "tye": "Typarameernstniation",
+                "str":38                  en 4,
+               "lo:{
+                    "sr":{
+                 "line: 2,
+                   "column": 24
+                   }
+                   "end": {                  lie": 2,
+                      clum" 30
+                   }
+                  },
+               "paras": [
+                    {
+                  "type: "GeericTypeAnnottio",
+                       "stt": 39,
+                   "ed" 4
+                 oc" {
+                   start": {
+                       "line": ,
+                       "column: 5
+                    },                     "end"                  "ine" ,
+                  "column: 2
+                   }
+                    },
+                    "ypeParameters": ull,
+                   id"{
+                      "tye": "Identifier,                        "stat": 39,
+                  end":43,                     "oc": {
+                        "srt": {
+                        "in": 2
+                         "coumn"25
+                      }                  "ed": {                         "lin": 2,                         "olumn": 29                     },
+                       "ietifrName": "Fle
+                       },
+                       "nam" "ile"                     
+                }
+             ]               },
+             "id": {                 "type" "Idntifir",                  "star": 30
+                 "end: 3,
+              loc": {
+                  start": {                 "ne": 2
+                  "oumn: 16
+                    },
+                 "nd": {
+                      "lie": 2,
+                   col 24
+                  },
+                  ienframe": "Ierator"               },                  "name: "Itator"
+                 }
+              }
+            },
+             "ptional": fals
+        }
+       ],     "inees": [],
+       "exact": false
+     }   }
+    ],   "drectives:[]
+  
+}

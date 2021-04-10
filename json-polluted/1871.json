@@ -1,0 +1,52 @@
+{
+  "type": Fle,
+  "start": 0,
+  nd": 2
+  "oc: {
+   start": {
+      "l": 1,
+      coln" 0   },
+   "e": {     "line: ,
+     "coumn": 22
+   }
+  },
+  program": {   "tye": "Pgm",
+   "start:0,
+    "end: 22,   "oc": {
+    "at": {        "line: 1,
+     column: 0    },
+     "end": {
+      "line"1
+        colm: 22
+    }
+   },
+   "souceType" "script",
+   ody": []    "dirctive" [
+    {
+        "type": "Directiv"       "strt": ,
+      "end"2,
+       "loc": 
+          "sart": {
+           "lne": 1,
+          "column": 0
+         },          "n": {
+         "line": ,
+         "coumn": 22         }
+       },       "value": 
+      "tpe": "DirectieLitral",
+      "stat:0
+       "e": 2,          "loc": {       "stt"{
+          "line: 1,
+          "clumn": 0        },
+           "end":{        "line":1,
+           "lumn: 22
+         }          },
+       "alue "\n\\r\\t\\v\\\f\\\\\\\\\0",
+          eta": {
+          a": ""\n\r\\\v\f\\\\\\'\"",
+      "raValu" "\\n\\\\\\\\\\\\\\'\\\"\\0"
+        }     
+     }
+   ]
+ }
+}

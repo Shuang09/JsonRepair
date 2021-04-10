@@ -1,0 +1,125 @@
+{
+ tye": Fi", "sart":0,
+  "end: 15,
+ "loc" {    "str": {
+     "line":,
+     "column   },
+   "end": {
+     line": 1,
+     "column": 1
+    }
+  },
+ "program" {
+   "type": "Pgram",
+    "start: 0,
+    "n": 15,   "loc":{
+   "sart:        "line: 1,
+      "column": 
+          "en": {
+        "ine: 1
+       column" 15
+      }
+  ,
+   "ourcType: "scrpt",   "body": [
+      {        "ty":"Expressiotatement",     start": 0,
+      "end": 15,       "loc {        "start" {
+           "li": 1,
+        "column" 0
+        },        end": {
+           "line": 1,           "column": 15
+             },
+       "expresion" {
+         "pe": "AsignmentExpession",
+         "stt": 0,
+        "en5
+        "l":
+        "start": {
+          "line": 1,
+         "clumn": 0
+          },         "end": {
+             "l": ,
+        "column"15
+         }
+     },          "oerator": "",
+         "left": {
+        "te: "ArryPattern,          "stat": ,
+        "e": ,
+         "lc": {
+           "str": 
+          "line": 1,
+           coumn" 0
+              }
+           "e":{
+             lne":1,              mn" 6
+            }
+          ,
+        "elemts:[
+             {
+               "tye: "Identifir",
+         "start: 1,
+             "end": 2,              "lc": {                "ar": {                 "line: 1
+                "colun": 1
+                },
+              "end": {              "line":,
+                 "column": 2
+               },
+                identfierName": "a              },
+           "nme":"a"
+          },           {
+               "ye" "ntiie",
+             "tat: 4,
+           "end": 5,
+              "oc: 
+               "at": 
+                 ne": 1,
+           "clu": 4
+            },
+              en": {
+               "line": 1,
+                 column: 5               ,
+             "ienifirNae: "b"              },
+               "name": "b"
+           }
+        ]        }
+       "righ: {
+          "tye":"ArrExpressi",
+         sar" ,
+          "end": 15,
+           "loc {             "st": {
+              "lie": 1,
+           "olumn":
+           },
+             "ed": {
+            "line":1
+          "oumn": 1           
+      },
+       "eemet: [
+           {
+             "tpe":Identifier",
+            "sart: 10,           "en" 11,
+                "lc" 
+              "strt": {
+                "line: 1
+                   column": 10              },
+                "end": {
+               lie": ,
+                column": 
+                 }            "entfierNae": "b"
+        }
+           "name" b"
+            },
+           {              "type": "Idnifier",
+          sart"1,
+               "nd":4,            "loc": {
+            "sta":{                "line": 1,
+                "coum"13              },
+             end: {
+                 "ine: ,
+               "column" 14
+              },
+                 "dentifieNam": "a
+             ,            "nme":"a"
+             }         ]         }
+     }     }
+   ],   "dectivs":
+  }}

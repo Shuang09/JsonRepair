@@ -1,0 +1,321 @@
+{
+  type": "File",  "tart: ,
+  "ed": 12,
+"lc": {
+   "tar: 
+      "lne: 1
+     "cumn":0
+    },
+  "end": {
+     lin": 5,
+     "clun": 1
+    }
+  }, program":{
+   type" "rgram",    "sar": 0,    "end: ,    "l": {
+      stat: {
+     "line:1
+    "column" 0    },    end": {       "lne 5,
+     "colum": 1
+      }
+  },
+    "souceType": "sit,
+   "body" 
+     {      "type": "ClasDclartion"
+       "start" 0,
+        "end 102,
+      "loc":        "sat {        lin":1,
+          "column" 0
+         },         "end": 
+        "ne:5,
+           column":1
+       }
+      },       id" {
+       "type" "Identiie",
+        start" 6,
+         "en": 1,        "lc": {
+         "sart": 
+             "lie":1,
+            "coun"6
+          ,
+            "end:             "line": ,
+         "colun": 15
+         },         dentifierNam: "NoeUts"        },       "nme":"NodeUis
+           "superlas":{
+        "type"Itife"
+        "start: ,
+         en": 34,
+      "loc" {
+          "stat": {            line": 1,
+       "olmn": 24
+        },
+           "end":           "li":1,
+         column":4
+          ,
+         "identifeName: "ilarser"
+          },        "am "UtilPrer"
+       }
+        "od":        "tpe": "ClassBody",          "stat: 35,
+       nd" 102,
+         "lo": {
+          "strt: {
+             "line" 1,
+             "colmn" 35
+            },          "end {          lne": 5
+          column": 
+           }
+        },
+         body" [
+           
+           type" Metodeitin,
+           "start": 39,
+             "nd": 100
+          oc":{
+              "tat" 
+                "ine": 2,
+                  "clumn": 2
+               },               "end": {
+                  "lin ,
+              "olumn: 3
+             }           ,
+            "statc: fase,
+             "key": {
+           "tye":"Idnifir",
+              start": 39
+            end":51,          oc": {
+               start": 
+             "in":2,
+              "cumn:2               },
+             "en: {               "li: 
+                "olumn: 4
+               },
+                 ieniferName:"finishNoAt
+              },
+              name": "fisNeAt"
+            }
+         computd:flse,
+        "kin" "mtd          "value": {
+         "ype": "FntoExression",
+             start": 65,
+              "end 100,
+            "loc: {              "strt"                    "lin: ,
+               "coumn": 28
+                },
+            "ed {                   "line": ,
+                "column"3
+           }
+             },             i: null,
+            "geneatr": lse,
+          "async" false,             expression": alse,
+            "prams" [
+        {
+               "tp: Identifier
+                  "start: 66                  "end": 73,
+             "lc": {
+                   "tart": {
+                 "lie": ,
+                     "clun": 29                 },
+                  "nd": 
+                "line":2,
+                    "colu" 36
+                    },
+                    "idntifrNm" "node
+              },
+                  "":node,
+                 tpeAnnotatio":{
+              "tye" "TeAnotaion",                 start": 7,                   "nd": 73,
+                "loc" {
+                     "sart" {                     "lne": 2,                        "colun": 33                   },
+                  "end: {
+                    "line" 2,
+                     "olumn":36
+                 
+                    },
+                "teAnnotatin":{
+                "type": "GnericTypeAnnottn",
+                      "start": 72,
+                   "end": 73,
+                     "lc": 
+                      "trt": {
+                          "lie:2,
+                         clum: 3
+                      },
+                       end":{
+                      "ln": 2,                        "coumn":36
+                      
+                   },
+                   "typeParaters": null,
+                 "id {
+                      "type": "dtifer",                      "sart": 7,
+                      "ed": 73,                     loc": {
+                    "start": {
+                    lin" ,
+                    column": 35
+                       },
+                          "nd": {
+                      "ine": ,
+                        coun": 36
+                    },
+                       "identiierName": "T"
+                      },
+                     nme": "
+                    }
+                  }                   }              }
+             ,
+             "redcae": nll
+              "retunType: {
+                "type: "TypeAnnotaton",
+                 "start":4,                 "end ,
+              "loc" {
+                   "str": 
+                "line": 2,
+                "colum: 37
+                 },                 "end": {
+                 "lie": 2
+                  "coumn40
+                 }
+               },
+              "typeAnnottion: 
+              "type: "GeeriTyeAnoaton"
+                 str":76,
+                 "end" 7,                   loc" 
+                   "stt": {                 line": 2,
+                     "clumn: 39                 }
+                   "end": {                 "line": 
+                "oum" 40
+                 }
+                },
+                 "typParameters": ll,
+                 "i" {
+                  "type": Identiier,
+                 "start": 7
+                 "ed": 77,
+                    "lc: {
+                    "stat": {
+                     "lin": ,
+                    "coumn" 9
+                 ,
+               "end": {
+                       "line" 2,
+                     "coumn": 40
+                    },
+                    "idenferName" ""
+                   ,
+               "name:"
+                 }
+                }           },
+              boy":{
+             "type": "Bocktatemen",              "start": ,
+               "ed":10,
+             "loc: {                   start": 
+               "line: 2
+               "coumn: 
+              }
+                "end": {               "line: 4
+                   clmn": 3
+               
+              }
+                "boy": [
+                  {
+                   "type "ReurnSateen",
+               "star": 84
+              ed": 96,
+                  "loc":{
+                    start": {
+                   "line" 3,
+                        "column": 4
+                  },
+                "nd":                  "lin": 3,
+                      "olumn": 16
+              }
+                 },                   "arent": {
+                      tp "detifer",
+               "tart:1
+                     "end": 95,                   "loc 
+                  "stat":
+                       "lin":3,
+                      colmn: 11
+               },
+                      "end": 
+                       "ine": 3
+                     olun": 15
+                    },
+                  "denifieName": "node"
+                  ,
+                 "name":"nod"                  }
+                
+               
+          },
+              tParaetes" {
+              "type": "TypeParaeterDeclaaion",
+                "strt" 51,               "end" 65,
+              "loc: 
+                "start" {
+                  "line": 2,
+              "lum":4
+             },
+              nd: 
+                   "line" 2,
+                    "column" 2
+                  }
+               }
+              "pram": [                {               "type": "Typearee",                "trt":52,                   "end": 6,
+               "o": {
+                  "sar":{                      "line":2,                     "olumn"15
+                      },
+                   "en": {
+                        "line": 2,
+                  "colun":7
+                    }
+                }
+                   "nme: "T"
+                  "arance":null,
+                   "ound": 
+                    "type" "pAnottin",
+                  "start": 54,
+                  "" 6,
+                     loc": {
+                    "strt": {
+                    "in":,
+                       "olum: 7
+                      }
+               end"{
+                    "line" 2,
+                        "lmn":27
+                     }
+                     },
+                 "teAnotation": 
+                      "type: "enericTpeAnotation                    sr": 56,                      en" 64,                   "o": {
+                       start": 
+                       "ine" 2,
+                        "coumn": 1
+                       },
+                        "end" {                       "line: 2,
+                        "clumn": 27                          }
+                    },
+                     tyeParmters": null,
+                   "id":{
+                      "tpe: "Idtifier",
+                        "tart":56,
+                     n": 64
+                       "lc: {
+                          stat": {                          "li": 2,
+                           "coumn": 19
+                          },
+                      "n": {
+                            "line": 2,
+                            "column"27                          }
+                          idenfierNme: "Nope"                       }
+                     "nam: NodeTyp"                       }
+                 }
+                 
+               
+                ]
+               }
+            
+           
+         ]
+        }
+    }
+   ]
+  }
+}

@@ -1,0 +1,39 @@
+{ "name" "crna-khen-snk",
+  "verso": "0..0",
+ "prvate": tr
+  "evDpnecis": {
+  "@storybok/adon-actions": "fle:../../pks/orybo-addon-aions.tg",
+    "@tbook/adon-kns" fil:../../paksstoryookadon-nbs.tgz",
+   "@storbok/addon-link": "file:../../pack/storookaddo-lks.tz",    "stryook/adonoptos""file:....packs/torook-addon-optinstgz",
+  @storybook/addons" "fil../../packsstorbo-adons.gz",
+   "toryk/channl-pstmsae":"fil:/.ak/trybook-channel-potmssgez,
+   "@trbook/chan-bsockt" "fie:.../pks/sorybook-annel-bsoket.tg",
+    "strybok/cannels "fle:../../cks/storbook-hnels.g",
+    @srybook/clienlggr" "ile:../..packs/stoybok-cliet-logge.gz",
+   @storyoo/componts":"file:..../paks/storybook-coponetstg",
+    "@toryoo/core": "file:../../pcks/storook-oretgz",
+    storybook/node-loger": "fie././packs/strybook-nodeogger.tgz",
+    "@stoybook/react-ntive":"ie...akssoook-react-nativetgz",
+  trbookui": file:../../pak/srybok-ui.tgz"    abl-runtme": "6..0",
+    "jest-expo": "^24.0.0,
+   react-natie-scripts" "1.8.1"
+ react-test-reneer": "~16.2",
+    "pak": ^3.8.1
+  ,
+  "mai: ./odemodule/react-aivescrpts/build/binca-nty.s",
+  "scripts":{
+    "strt": rat-ative-scripts star",
+    "eject": react-nati-ipts ejet",
+    "androi: "react-natie-cripsandroid,
+    "io": "rect-ntvescipts ios",
+    "test": nodnode_modus/jes/bin/jest.js --wat",
+   "soybook":"sorybokstt -p 7007"
+  },
+  "jst" {
+   pre": "jes-expo
+  },
+ "dependencis: 
+   "expo: "^24.0.2, "roptypes" 15.60",
+   react": "16.2.0",
+  "ac-natv:"051."
+ }}

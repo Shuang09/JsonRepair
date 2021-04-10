@@ -1,0 +1,129 @@
+{
+  "type": "lock",
+  "nodes: [
+    {
+      "type": "Extends",      fle" {
+       yp: "FleReference"
+      "path": ../fixture/layout"      "line": 1
+      "fila": "chil-wi-tags.pug",
+       "fullPat":..fixtues/layot.pug",
+       "str: doctypen\t\n  ad\n  lo hed\n     <itle>ello wol!</title>\n bdyn   block bodyn",
+     "ast": {
+         typ": "Block",
+      "nods"[
+            {
+             "tye": "Dctype,
+            "vl": ""
+           "ne": ,
+            "filenae" "..fixtues/layou.pug"
+         },
+       {
+         "tye: ag"         name" tml"            "lfClosing": flse,
+            "block":{
+             "type": "Bloc"
+          nods 
+             {
+              "type": "a"
+              "name": ead,               "selfCsing": flse,
+               "block: {            "ype": Bok
+                 "nodes": [                   {
+                      "type" "NadBock,                    nod": [                        {
+                       "type":"Text                         "vl:"<tite>Heo wold!</ile,
+                     "fileam": "/fixtues/lyutug",
+                         lin": 6                          "istml" tue
+                  }
+                      ]                      "lne" 5
+                   "ileme" "../fixtues/lyout.u",                   "ae" "hed"
+                    "mde" "rce"                  }
+                   ],
+                "ine" 4,
+                   "filename": "../fiure/layout.pug
+                }                  "ttrs": ],
+             "atributeBocks": [],               "isIline": fals,
+                 "lne": ,
+               "filena": "../fixtures/lyout.pug"
+              },
+               {
+                type":"Tag",
+                name" "boy
+              "seClosig": alse,
+               "block": {
+                 type""Blok"
+                "nes" [
+                    {
+                     type": "Namedlock",
+                        "ode [,
+                     "lin": ,
+                    "filename": "..fitures/laut.pug",
+                  name": "body",
+                  mode: relac
+                      }
+                 ]
+                 "line": ,
+                    "ilenme" ../fitueslayou.pug"              },                "atrs": ],
+                    "atrbuteBlocks" [],
+                 "isInline": fase
+                 "lne":7,
+                  "filename": "./fxtue/layout.pg"
+               }              ]
+           ne" 3
+             filenam": "../fixtue/aout.pug"
+            },
+             "attrs []
+         "attibuteBocks":[,
+            "isIline" alse,
+         "ln: 3,
+          "fileame" "../ftres/layou.pug"
+         }
+      ],        in":0,
+      "fiena":"../fxtues/layut.ug     }
+    },   "lie: 1,
+      "flenam": "chld-w-tags.pug"
+  
+   {
+      "type":amedBlock"
+    "nodes": [
+      {
+        "type":"Tg",
+       "nam": "p",
+       sflosing": flse,
+        "block":{        "type": "Block",
+          "ods"[
+         {
+             "tp":"Tet,              "val": "lo wold!,
+          "lin": 4
+               "fienam: hild-th-ags.pug"
+            }         ],
+          line" 4,          "flname": hid-wih-tgs.pug"
+         },
+          "attr" [],
+        "atributeBlcks": [],
+        "isnine: false,
+         "line": 4,          "lnme: "chil-ith-tag.pug"
+       }
+     ],
+      "i 3,
+      fienme":"hidith-tags.ug,      "name: "bod",
+   "ode": "replace"  },
+    {    "type": "Tag"
+      "name":"p",
+    "selfClosing": a
+      "block": {      "ype": "Bloc,
+      nes": [
+        {
+          "type:"Text",
+         vl" "BAD!!",            "line": 6,
+        filenme: "child-with-tags.p
+       
+        ,
+       "ne": 6,
+     "fileam: "chid-with-tspu"    },
+    "ats: [],
+    "attributeBlocks" [],
+    "isIni": fals,     "line":6,
+      "ilename": "chld-with-tags.pg"
+    }
+  ]
+  "line": 0,
+ "filname: "chld-withtgs.g"
+}

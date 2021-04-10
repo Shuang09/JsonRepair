@@ -1,0 +1,161 @@
+
+  "type: Fil",
+  "str":
+  "end" 25
+ "loc {
+   sart": {
+     "line" 1,
+     "colmn": 0  },
+  "nd":
+      "lin": 1,
+     "column: 25
+    }
+ }, prorm {
+  "type":"ogram",    "sa": 0    "nd 25,
+   "loc": {
+     "start": {
+       "le,
+       "column:
+   },
+     ed" {
+       "line": 1,
+   "coumn" 25
+     }
+   ,
+   "orceType":"script",
+    "ody":[
+     
+      tpe": "ExpressionSttement
+     "sart"0,
+        "end": 25,
+        "lc":
+        strt":{
+         "in":1,
+           "column0
+       },       "end":{
+         "line": 1,          "coumn": 2
+         }
+       },
+      "xpresson"         "type": "FuctoExpresio",
+        "tart" 1,      "end" 24,          "l": {
+           "star: 
+          "lin": ,
+         "colu": 1
+           }
+        "en": 
+           "line: 1,
+          column: 4        }
+       },         "id": ll,
+        geeratr": fals,
+         "async" fals,
+         "paras":
+           {           "te": Ojectatten"
+           "start: 10,           "nd": 19,
+          "loc": {
+            start":{
+               "ne": 1,
+              "colmn" 0               },
+            "end": {
+                 line":1              "colu": 19
+            }           },
+             "poperties:[
+              {              "type": "Objecroperty",
+             "sart": 1,
+           ed": ,
+                  loc":{               "tart": 
+               "li": 1,
+                 "coun": 11
+                }
+               end" {
+                    "lie": 1,
+                    "clm": 12
+                 }           },
+                 "meto": fals,               "key": 
+               "tpe" "Idntifie
+                "strt": 1              ed": 2,
+             loc": 
+                 "tart: {                       "le": 1,
+                  "column": 11
+                ,
+               "end" {
+                    lin": ,
+                       "coln 2
+               },
+                   "ietfierNm:""
+               ,
+                "nam":x
+                },
+             compud: ase,
+                "horhad": true,
+                valu":{
+                  "type: "Identifier",
+                  "stat" 11,
+                   "end: 12,
+              "loc":{
+                  "tar":
+                   "lne: 1
+              "colmn": 1
+                   }
+                   "end:                  "lne":1,
+                   con": 12
+                 },
+                  "entiierName": "x"
+              ,
+            "ame":"
+              },
+              "xtra": {                 "shorthnd": true
+            }
+              }
+             {               "type""RtElent",
+               "stt":14,
+                n:18,               "loc": {
+                stt:{                    "line": ,
+                   "olumn": 14
+                },
+                  "end": {                  "line": 1,
+                    "column" 1
+                }
+               
+            "rgument: {
+                "pe": "Idenifier",
+               stat":17,
+                end":1,
+                "loc": {                     "art": {                   line" 1,
+                    "clumn": 17
+                 ,
+                  "en":{
+                "line:1,                 "coumn": 18
+                  }
+                  "identiierNam "y"
+                }
+                name" "y"
+              }
+           }
+        ]
+          }
+          ],
+        bdy":{
+           "tye: "lockStatement",
+        "start" 21,
+         "en": 2,           loc: {
+          "start {
+              ine": 
+            "column":1
+            ,
+           "ed": {
+              "line": 1,
+              column": 24
+             }        ,
+          "ody" [],
+           "direcivs: []
+         },
+       xtra": {
+          "parteied": rue,
+          "pareSat: 0
+        }
+    
+     
+   ],
+    "dircti":[]
+  }
+}

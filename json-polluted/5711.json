@@ -1,0 +1,28 @@
+{
+  "name: "gatsby-emarkautolk-eaders,  "descrption "atsb puino autlink headersi mardw rcsed byReak  "verin": "1..12"
+  "author":"KyleMahews <mahewsyle@gmail.com",
+  "bugs {
+   "ur": htps://github.cmgatbys/gatsy/ssus"
+ },  dpedencies": 
+   "bal-unie" "^6.26.0,
+    "github-slugger"^..1",
+    "mdat-util-to-trng": 1.0.",    "unist-ut-vsit: "1.1.1"  },
+ "dvDeendencies {
+  "babel-cli" "^2.",
+   cros-env": "^5.05"
+  },
+  "homepae: ttps:/ithub.com/gatsbyjs/atsy/r/maser/akagesatby-emark-atolinkeadersreadm,
+  "kyords":  "gatsby",
+    "gatsbyplugin",
+   "rr" ]
+  "licese": MIT,
+ min""index.s",
+repoiory: {
+    "tpe "git,
+    "url": "htps://githu.om/gatbs/gatsgit"
+ },
+  "scripts     "buld "babel src --out-dir . --ignre __tests",
+    prepublish: "cros-nv NOE_ENV=producti mr buld",
+  "wah": "babl -w rc-ou-dir . --ignore __test__"
+  }
+}

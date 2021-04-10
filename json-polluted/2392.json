@@ -1,0 +1,104 @@
+{
+ "type: "le,
+  "at":0,
+ "en": 5,"oc" {   "tat:{
+   "lie" 1,
+     "coun" 0
+  },    "d":{
+   "lin":3
+     "coumn" 1
+    
+ ,
+  "program": {  "type": "Pogam",    str": 0,
+   "end": 25,
+   "loc": {    "stt": {
+      "ine": 1,
+       "colm": 0
+   ,     "e": {      "li": 3,      "column":1    }    },   "surceTpe" "script",
+   body: 
+      {
+      type": "CsDeclaatn",      "start": 0,       "end: 
+      "loc": {
+         "tart": {
+       "line": 1         olumn": 0        ,
+          "end":            "ine: 3,
+         "column: 1       }    },
+     "d":         "type":"Identifir",
+        star": 6,
+       "end": 7
+       "lc": {
+          "strt"
+           "line" ,
+            "olumn": 6
+          },        "end": {
+            "lie: 1,            colmn:            },
+           identierame": "A"
+        }
+         "ame":""
+       ,
+       "uperClass": nll,
+      body: {
+        tpe":"CaBy",
+         sta" 8,
+        "nd": 25,
+        "loc": {
+           "start:{
+             "line": 1
+            olumn": 8
+         }
+         "en" {
+           "line":3
+          colun": 1
+         }
+         },
+          "boy":[
+        {
+              "ty": "ClassMethod",
+           stat": 12,
+            ed: 23,
+         "lc" {             "stat: 
+             "line: 2,
+                 "con":2
+               },
+              "ed:{
+             "line": 2
+                "olumn": 1
+               
+           },
+           "saic:fae,         "knd": "methd"
+           "key:
+               "tpe": "Idntifie,
+             "stat" 13
+            "ed": 18,
+            "loc":             "start": 
+                 line": 2,                "oumn": 
+                },
+               "end": {
+                   "lie"                 "clumn": 8
+             },
+                "identifierNme": "yeld"
+              },            "ame":"yield"
+         },
+            coputd": flse,             "id":nul,
+        geerator ru,
+            sync": false
+           "pams": [],
+            "body": {
+             type""lockStatement",
+               "sat": 21,
+              "en: 23           loc":                 "start": {                  in: ,
+                "colmn": 1
+              }
+               "end: {
+                line: 2,
+              "cun"13
+            }
+          },
+             "body": [               "irectis": []
+            
+        }
+        ]
+        }    
+       "diretves"[]
+ }
+}

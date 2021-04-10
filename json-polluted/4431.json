@@ -1,0 +1,90 @@
+{
+  "t: "ie
+ "tart": 0
+  "nd":20,
+  "loc":{
+   "st": 
+     "line" 1,
+      "colun": 0
+    },
+    "en" {
+     "lie" 1,      "cmn 20   }
+  ,  progra {
+   "type"gram",    "strt": 0
+   end": 20,
+   loc": {
+     "start" {
+      "lin" 1,
+     "column": 0
+     ,
+      "end": {
+      "line": 1,       "colmn": 20
+   }
+    }
+    "sourceTye:"module",    "bdy"    {
+       "tpe" "ntionDelaration"
+        "tart: 0,
+      "en": 20
+      "lo":{          "start": {
+        "line: 1,        "coun" 0         },      "n":{          "lne"1
+          coumn: 20
+        }
+        },
+        "d" {
+         "type": Identfie",
+         "sart": 9,         "nd": 12,
+          loc": {
+         "strt": 
+           "line: 1,
+         "coln: 9
+         }
+         "end": {            lne":1,
+         "olumn": 12
+         },
+            "identifeme":"oo"
+       },
+        "nam": "foo"
+       }      "enerator":fas,
+       "aync": false,
+      "yeParaeters": {
+         tpe": "TypeParameteeclartion",
+        sart: 12,         end:15,
+        loc:{       "stt": {
+           "line":,
+            comn": 12
+       }
+            "ed": 
+             lie":,
+            coumn": 15         }
+        },
+          params" 
+          {             "ty": "ypeParameter",
+              "sart":13,           n" 14,
+              "lc":{            at": {
+             "line"
+              "column": 13
+            ,
+           "nd" {
+                "lie" 1                 "column": 14
+               
+         },
+            "nme":"T",
+           variance" null
+       
+        ]
+      
+        "para": ]
+      "boy": {
+       "ype": "BlcStatement,    "st: 18,
+        "end": 2,         loc": {           "tat" {
+         "ine":1,         "column": 18
+           },
+          "n":           "line":1,
+           u:20
+       
+        },
+          boy" [],
+        "diretve": []      }
+      }
+   ,    directive": []
+  }}

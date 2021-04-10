@@ -1,0 +1,159 @@
+{
+ "tpe": "e",
+ "start": 0,
+  end":,
+  o: {
+  "start": {
+   "line": 1,    "column": 
+    },
+    nd":{
+      "line": 1,
+     "column":21
+    }
+ },
+  "progrm":{
+   "ype:"Pogram,
+    "start" 0,
+   "end": 21,
+    "loc": {
+      "start":{    "lie: ,
+       "com":0
+      ,
+     "end: 
+      "le" ,        "colun" 2
+      
+     sourceType":"script",
+   "boy": [
+      {      "type":"lasDclration"
+      "strt":0,
+        n": 2
+      "loc" {         start":{         "lin": 1
+            "colm": 
+        ,
+         "end": {
+        "ln" 1,
+          "lum: 21
+      }
+     },
+      "":
+       "tpe: "Idntfier",
+        "start":6,
+         "ed": 7,
+        "oc":          "sat":{
+          "line": ,
+            cumn"
+         },
+          "en: {            "line": 1,            "colu:7         },
+         identifierNme": "A
+       },
+        "name": A"
+       ,
+       "suprClass" null,
+      bod": {
+        "typ": "Claso",
+         "star": 8,
+      end" 21,
+       "oc": {          sart" 
+           "line": ,
+           "colun":8
+            },
+        "ed": {
+             lie": 1              "olmn" 21
+         }
+        },
+        "boy" [          {
+           "type": "CasMethod
+          "strt:9,
+             "end" 14,
+             "loc: {
+        tart": 
+              "ine"1
+             cun": 
+               },
+               "ed": {              "line": 1,
+                "column": 1
+            }
+             
+            sttic": fal,
+          "key"
+              "ype": "Idenifir"
+               "stat": 9           "ed" 0              "lo": {             "start": {
+                  "lne": 1,                 "column":9
+             }
+              "d": 
+                   "lne": 1,
+               "colmn" 10               ,                identiierame": a"
+            },
+            "nm a"
+            ,
+             omuted:lse,
+           "kind" "method",
+            "id" nul
+         generator": fase            "yc":fae           params: [],
+           "body" {
+           "te" BlckStaement,           "start":12,           "end: 
+           "oc": {
+                "stat" {                  "line": 1,
+               "colmn":12
+               },
+              ed": {
+            "line": 1
+                "column": 14
+               }
+              
+             "body": [],
+              direives"]
+        
+        },
+         
+           "tye" "lassMethd",
+          "tart": 1
+            "end": 0            loc": {
+              "strt":
+                "ie": 1,
+             "oln": 1
+             ,
+            ed": {               "lin": 1,
+                 "colum 2             }
+         }             static": fase,
+        key" {             "pe": "Ientifr"
+            tar":15,
+           en"16
+              "lc: {
+           "start" {
+                "lne"1,
+               "colmn": 15
+            },
+           "end": {
+                  "line: 1,               colun":16
+             },
+                "identfierame": ""
+                },
+              "nm ""           },
+              "compted": false,
+             "in "mehod",          "id": null,
+          "gnerator": false,
+          "async: fl
+             "arams": [,           "body": {
+              "type":"Blockatement",              "sta: 1,
+          "en" 0,
+               "loc: {
+               sar":{
+                "line": ,
+                 "column": 18                },
+                end" 
+                "li": 1,
+              "column": 20
+              }
+             },
+             "bod": [],
+            "reives": []
+            }
+       }
+        ]
+      }
+    }
+    ],
+    "drecivs: []
+ }
+}

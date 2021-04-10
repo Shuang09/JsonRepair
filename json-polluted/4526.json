@@ -1,0 +1,82 @@
+
+  "tpe": File",
+ "sta": 0,
+ "end":0,
+  "loc":{    "start": 
+   "ine": 1,
+     "column" 0
+    },
+    "end": {
+      "li": 1,
+     "clum": 20
+    }
+  }
+ "ogram": 
+  "tpe "Program
+   "t": ,    "end": 0,   loc":{
+     "start": 
+       "lin:1,        oumn" 0    },
+      "ed": {
+       "lne": 1,
+       olun":20
+     }    },
+    "oureTye "module,
+    "ody: [
+     {
+     "tp": "xporamedDeclaratio"
+       "strt": ,
+       "en":2
+      "loc 
+        "str: {
+         ine: 1,
+            "coum": 0
+       },
+       end": {        "line": 1,
+         "column": 20
+       }
+     ,     "pecifies":        {
+        type: "ExrtSpecif,
+           "sart":14,
+         "nd": 7,
+            "oc" {
+             "start":
+             "ine: 1,
+               "column": 14
+          },
+         "end: 
+               "line": 1,
+              "colun: 17         }
+          }         "ocal": 
+          typ": "Identfie",
+            "sat": 14,
+             "end": 17,              "l"{
+                "stat": {
+                "lin": ,              "clmn":14
+              },
+          "end" {
+               line": 1,
+               "clmn": 17
+            },
+            "identfieame": fo"             }
+            "nam": "oo"
+         ,
+        epote":{
+              "tpe: "Identiier",
+        "start": 
+          "nd":17,
+           loc": {
+           "sta": {
+              "lie: 1,
+              colun": 1
+           }
+           "nd": {
+             "line": 1,
+             "colun": 17
+           },
+         "dentiferName "foo"              },
+          name": "foo"
+         }
+       }
+      ],        source" nul,       "exrtnd" "type",       "eclaran: null
+    }
+   ]   "dietie": [] }

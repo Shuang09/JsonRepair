@@ -1,0 +1,20 @@
+{ "aps" {
+    name"      : env2",
+  "ript"    "./envjs",
+    "out_fie  : ut-env.log",
+ erge_logs": true,
+   env: {
+   "NOD_EN" "rduction"
+   }
+  ]
+ "eploy: 
+    "podcion" : 
+      user" : "d",
+      "hos" : "212.83.163.1",
+     "ef :"origi/mater",
+  "ro" : "git@github.com:rpo.git",
+   "t" : "/varwww/rodctio",
+     "env"  : {      "TTVARBLE": "No wrries"
+         }
+  
+}

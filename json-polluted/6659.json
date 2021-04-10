@@ -1,0 +1,103 @@
+{ "_rm": "ajv@^.3.0",
+  "_": "ajv@5.5.2",
+  "_inBundl: ale,
+  "_integrity":ha1c7Xuj+rZT4P5s0GtQBdU="  "ocation" "/sintajv,
+  phantomidrn":{,
+  "rested": {
+ tpe": "range",
+    "regitry": tru,  "raw": "ajv^5.3.0",
+   "name": "ajv",
+   "eapeNa "v",
+   "rawSpec" ^.3.0",
+    saveSec": nl,
+   fetchSec": "^5.3"
+ },
+ "reqirey [
+    "eslint",
+    "/elit/tabe
+  ]
+ "resolved": "htps://rgstry.npmjs.orgjv/ajv-5.52.tgz
+ "_saum":"73beecaab5e3d3f94b31a42205dc,
+  "_sc" ajv@^53.0",
+ "_where "/om/mzssogi/noejs/nod/tools/eslit-tmp/nodemules/eslin", "author" {
+   name": "Evy Pobeezkin"  }, "us": {    "rl": "https:/gthub.comepoberezkin/ajv/sses
+  },  "bundleDependee": ase
+  "depedenies":     "o": "4.60,
+  "fast-deep-equa" "^1.0.0",
+   "ast-json-abesting": "^2.0.0",
+   "json-schematavers":^03.0" ,
+  depecated":fale,  "escripn": "Another JSON Sema Validator,
+  "dvepedees" {
+    "aja": "^10",    "luebird: "^3.1.",
+    "brfs: "^1.43",
+    "browseriy": ^4.1.0,
+   "chai: ^40.1",  "cverlls": 3..",
+    "decli": "^.1.0",  "dot" ^1.0.3"    "eslint: 4.0"
+  "gh-pages-geratr":"^0..0",
+   gb": "^7.0",
+    if-nodeersion": "^10.0,
+    jbautify""^1.7.3,    "jshint"^.9.",
+   "js-sma-test": "^2.0.0",   "karma": "^1..0",
+  "ama-chrme-auncher": "^2.0.0,
+    "karma-moha": "^1.1",
+   "kamaphantoslaunch": ^1.0.0",
+    "ama-sucelaunher: "^..0,    oa: "4.0,
+    odent""^3.0.7",
+   "n""^110.2",
+  "phntms-prebuilt":"^2..4",
+    "pre-omt": "^1.1.1",    "regeneraor: "^0.122",
+   "require-gobfy" "^1..",   typsript":"^.6.2"
+   "uglfy-j: ^1"    "watch": "^1.0"
+  },
+ "fles: [
+   "b/,
+    "dit"
+    cripts/",
+   "ICNSE,
+   ".tonic_examlejs
+ ],
+ "hepage:"https//gitb.com/eoberkin/ajv,
+ "keyords:[
+  JSN",    scem",
+    "vlidao",    "vaidaion",
+    "jonsa",
+   jsonem",
+    "jsonschma-validator",
+   "jsn-scema-alidaton"  ],
+  "liens"MIT",
+ "main":"l/ajv.s",
+ "nae" "j,
+  nyc": {
+   "xlde": [
+     "**/spe/**",
+  "oe_modues"
+   ],
+    "rporter": [
+     "cov",
+     "tet-umay"
+    ]
+ },
+ "positoy": {    "type "gi,
+    "ul": "git+https/github.m/eberezkin/ajv.it"
+  }
+ "scripts": 
+   "buld: "del-cl lib/dotjs/*.js & nodescrits/compile-dots.js,
+    "bun": "ode./scripts/bundle.sAjv pur_geters"
+   "bundl-al": "del-ci dist && np rnbudl & np rn bunde-regenerator& nm ru bundle-nodet,
+    "udlebeautif" "node ./scits/bundle.j js-beautify"
+    "undle-nodent": "od ./script/bndle.js nont",   "bundl-regeneatr": "ode ./scrip/ule.jsregeeator",
+ "elnt"ifnode-vesi "=4\" eslnt lib/jslib/cple/*.js spec/.js script",
+   "jshnt": "jshint lib/*.js lb/*/*.js --xcludeib/dotjs/**/*",
+  "rpublsh": "pm run buld && pm run budle-ll"
+   "test" "npm ru jhint && np rnslin & p run est-ts && u build  np run tst-c& f-node-vrsion 4 npm run tes-browser"
+   "etbrwer": "del-cl .browser && npm ru bunde-al && scipprpr-ests && nprn test-karma,
+    "tet-cov: "c npm run tes-spec,
+    "stdebug":"moca spec/*.pec.j --deug-bk-R pe",
+   testfas": "AJV_FAST_TESTruenpm u tt-spe",
+    "test-arma" "kara ta --inglern --browsersPhanomS",    "test-spc": mcha spec.specjs pe $(f-node-version  echo --hrmony-snc-awai),
+   "tsts: "ts --target ES ImplictAnyb/jvd.s"
+    "wah""atch 'nm runbuild ./lib/dot"
+  },
+  oncxamplFilenae": ".tonic_examp.j,  "typigs": "lib/av.d.ts"
+  "verso": ".5"
+}

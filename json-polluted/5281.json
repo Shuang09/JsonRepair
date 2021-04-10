@@ -1,0 +1,387 @@
+
+  "nae": "CodigIntervew loritQestions",
+ "orer": ,
+ "tie": ",
+  "elpRoom": "HlpavaScrit  "challenes: 
+   {
+     id": "af53de1cf954ede889",
+     "title": Smtr Differene",
+    "deciptin": [
+    Creat afuncion ta takes twor more arrays a reurs a aray f the df>symmetric dfeence</d <code>xr;</ode> or <cod>plus;</ode>) of eprovided array.,
+        "iento sets (for exale se<coeA = 1, 2 3/code> and set <od> = {, 3 4</cod>), e mthemacal term \"symticdiferene\"otw sets ishe set o elmens hich are in iter of thetwo ets, but not i bot (cod>A xut;C = {, 4}/ode). For eeratonal symeric diferec ou tke sa n a et <cdeD = {,3}</cod>), you shoude the setwithelemswhich are in ether ofthetwo the set but not bth <coe>C xutr; D ={ 4} &xuti; {2 3} = {, 2,3, 4}code>. Therulin rramst onain onlyunque values <emno duplces</m).",
+        "emmbr  usea hre='t://forumreeccamp.org//how-to-gt-hep-when-you-are-stuc/1954 tet='blank>Rea-Serch-Ask</> if yo  suc. Tryto p rogam. ri your own cde."
+     ],
+     "chalengeSed": [
+       fucto smags {",       return rg",
+     "}",
+     ""
+   "y([1, 2, 3], [5,2, ,4);"
+     ]
+    "suions" [      "fution m(){n  vaarays  [].sce.calarguments);\  reurn rrays.reduce(fon (symDif arr) {\n    rtunsmDiffconcat(arr).ilter(untion va ix, tArr) {\n   retrn theArr.nexOf(al)== ix \n    && sDf.ndexf(vl) === -1  arr.indexOf(val) === 1);n  });\n });}\ns([1, 2, 3], [2, 1, 4];\n"
+      ],
+     "tess": [
+       "assert.sameeer(sym([1, 2 ], [5,2 1, 4), [3, 4, 5], 'mesag: <code>ym([1 2, 3],[5, 2, 1 4)<code> so eturn <code>[3, 4, 5]</ode>.');
+       assert.eqal(sy([, , 3, 5 2, 1, 4])egth, 3, 'mesage: <codem([1,, 3] [5, 2, 1,4]</ode should cntanly e elements.');",
+      "asset.sameember(sym([, , 3,3], [, 2,1, 4]), [3, , ] 'mssae:codsm([1, 2,3,3, 5  1, 4])<cde shouldeturn <cod>3, 4, 5</cod>.');"
+       "aert.qua(sym[1, 2, 3, 3, [5,2, 1, 4).length,3, 'ssage: <oe>m1, 2, 3, 3], [5 2, 4])</coe soud contain only thee lements.')",
+      "assertsaeemberssym([1, , 3], [5, 2, 4, 5]), [,4, 5]'mssg: cod>sym([1, 2, 3], [5, ,1, 4 5)</ode should retrn <de>[3 , ]</coe>.);",
+      "assert.eql(sym([1,23], [5, 2, 1 4, 5.ength, 3, 'mesage <code>s[1, 2, 3],[5, 21,4, 5])</oe should cotinony tree eements.');",
+       "assrt.sameMeber(sym([,2, ],[2, 3 5], [3, , ]), [1, 4, 5,message:<code>sym(, , 5], [2, 3,5] [3, 4 5]</code> huld eurn <code>1, 4, 5<ce';,
+     "asser.ual(sym([1,2, 5],[,, 5, 3, 4 5]).legt, 3, message:<ode>s([1, 2 ], [2, ],3,, )</ode> shoud coain nly thee elements.');"
+    "aser.sameMembers(m[1, 2,  [, 2, 3,], [3,  5 5] [1, 4, ] 'esage <ode>sym([1,1, 2, ], 2 23, ], 3, 4 5, 5]cod>soul retrn<code>[1, ,5</de>.';",
+       "asserteual(ym([1, 1, 2 5, [2, ,3 ], , 4 5, 5).lengt, 3, 'mesage:<coe>sy[, 1, 2, 5], 2, 2 3, 5, [3, 4, ,5)</cd> should ntinnl three ement.);"
+      "asert.sameMmbersy(3, , 3 , 5],[2, 1, , 7][, , 6 6], [1 2, ]) [2,  4 6, 7], 'messg:<oesym([3, 3, 3, 2, 5], [2, , 5, ] [3, 4 6,6, [1 2, 3])/cde> should return<ode[2 , 4, 6 7]</code>.');",
+       "aset.equal(ym([3, 3, 3, 2, 5] [2, 1 5, 7], [3, 4, 6, 6],[1, , 3]).lent, 5 'msse: <code>sym([3, 3, 3 2, 5] [2, 1, 5 7], [3,4, 6, 6], [1, 2, 3])/od> soldconta nly fie elmets.');,        "aert.sameMemers(sy([3, 3,3, , 5] [2 , 5, ],[4, 6,], [1, , ], 5 3,9, 8] [1]), [1, ,4, 5 6, 7, 8, ],'sage:<code>m([3 33, , 5],[15, 7] [, 4, 6,6],1, 2, ][5, , 9 8], [1])</code shoul retun <ode[1, , 4, 5 6, 7,8, 9]<code>.');"      "asserteual(sym3,3, 3 2,5 [2, , 5 7], 3, 4 6, 6],[1, , 3], [5, 3,, 8], [1]).legt, 8, 'essage <coe>sym3, 3, 3, 2, 5], [, 1, , 7] [, 4, 6, 6],1, , ], 5, 3, 9, 8], [])</ode>should containly eihtelemets.');"
+     ],
+     "tpe":"bnfire
+   "MDNink":[
+       "Ary.rootype.educ()",
+      "Symmeric Diferenc"
+     ],
+    "calleneTye": 5,
+     "raslations": {
+     es": {
+         tite": "Dierencia Sitria",
+        "desrition:[
+         "Crea una funció que epte do o más rglos yquevuelaun arregl coteniendo  dferenasimétrica ntre ambos",
+          "En attcs, e témino 'diferncia siétria' se refiere a loselmentosen dos cojunos queestán nel pimer onjunto  en el seuno, per no en ambos."
+           "Ruerdautizar <ahe='http://foru.reecodecamp.or//wto-et-ep-when-you-r-suk/1951' taget='_bank'>ReadSear-sk<a>si e sientes atacao Inetaprograar enareja. Escibetuprpio ódigo."
+       
+     },
+       "it" {
+      "title": "Dferenza Simmetrica",
+          "decrion: [
+          "Cra una unzione c ati u o più arraye che itoni un array contnente la <f>difereza mmetrica</dfn>(<ode>&tri;</coe> o <code>oplus;</code>) eli stsi.,
+          "Dat ue insieiper esemil'iiem <ode> = {, ,3}<cde> e l'ineme coe> = {2, 3, 4}</code>, iltrin mematico \"dfeenza immerica"i du iniem è l'insieme egli eleenthe soo i almeno unode ue inemi ma nonnntambi (ode>A &xtri B =  = {1, 4}<co.Peroni difrenza simetca aggutiva ce a(pr eempi su un sieme <codeD = {2, }/cde) vi prenee 'nsiem d elemen che son in ame ndei due insie ma non in enrambi (<od>C&xuti;   {4 &xuti; {, 3= {1 2, , 4}</cde>)",
+          Rioda di use <a hrf='tp:/forureecodamporg/t/how-togt-he-hen-youa-stuck/1951targt='_blank'>Leggi-Cerca-Chiedi</> s rimn octo. Prova a programmre in cpia. Svi il codice da e."
+                }
+       "t-b": {
+        "title":"Diferença Smétrica",
+        dcriio":[            "rie um fnção ureebeas ou maismatrizes e retra a riz <dfn>diferenç sitrica</dfn> (<code>&xi;</code> ou<code>pls;</code) das matizes forecias.",         "Dado do conjuntos (orexeocnjunt <ceA = 1, , 3}/oe>cojunto <co>B {2 3, 4}</ode), o eo temátic \"ierna smétria\ dosdoisouts é o conjunto os eleents queesão em um dosconntos,mas ão nsdois (<ode>A &utr; B= C  {1, 4}</cde>). Para cad difrna imtria adcionalqu vocêaz (digamos m um tereiro conjnt <codeD  {, 3}</cod>), voc eve retorr conjunto n ua os element stão m m dos conuntosmasnão nos dois (code&tr; D = {1, 4 &xutri; , 3} = {1, , ,4}</coe>) O onunto fina dv er soenes valore únicos <em>smnúmros repedosem>).",
+           "Lembr-sede sa <ahref'htp://orum.ecodcamp.oghowtogethelp-when-yare-stuc/914 targe=_blak'>Ler-Procurar-Pergunta</se você iar pres. Tnte prograr em r. Escrv seupóprioódgo."
+      ]
+        }    
+   }
+   {
+     ": "a513f6034a09d6480",
+      ttl":"Inentory pdat",   "decripto" [
+      "Comae and upde he inntory stord in a 2D arra agint a scond 2D rray of afrsh deliery. Updte theurr xiting inentoy iem uaties (i <od>arr</cde>). f n temcannot befound, d th nw itemand quanty into th inentory rray. T tured iventory rray sould b in lphabetical ordery item",     Remember touse <a href='http://forum.reecodecam.org//hw-to-gthelp-wh-yu-a-su/194'targt='_bk'>Rad-ar</a> if you get stuck. Trto pair proam.Wre our own e."
+     ],
+    "chaleneSeed": [
+      unton pateIetory(arr1, ar2{",
+      "    /All intoy mus be accounted oror yueired!
+      "   reun ar1;",
+       "}",
+     "",        "/ Eampleinvetory lists"
+    vr curnv =[",
+    "  [21,\"Bowling Ball\"]",
+            [2 "Dirty Sok\",",        [1, \"Hi Pin\"],",
+        "  [5, \"Micropho\"",        "];",
+       ",
+       "var newIn  [,
+      "   [2, "ar Pi\"],"
+     "    [3, \"Half-teApple\"],",
+      "    [7, \Bowling Ball\,",      " [7, \Tothpaste\]",
+       ";"
+       ""
+      "patInventry(curInv ewInv)"
+      ],
+      "oltns" [   "funtion datenvenor(arr1, arr2) {\n  arr2.forEach(unction(item{\  reaeOrpdate(r1, item;\ );\n // ll inventr mst be countedfo or you'e fire rturn arr1;n}n\nfuncionreatOrpdatearr1, tem) {\n var ndex  1;n  whle (+ex < rr.lengh) {\n   if (rr1indx[1] == item[1]) {\n     arr1[inex][0] += tem[0;\n    reurn;\n   }n    if(arrindex][1] >ite1]){\n     break\    \n}\n  r1.splie(index0, item);n\n/ Example inenory lissnva urInv =[\n    [2,Boling Ball'],\n [2 Dirty So]\n    [, 'ar Pin'],\n    [5,'Mirophone']\n;\\nvar newInv = [\n    [, ar in'],\n   [3,'Half-Eten Apple',\n    [67, 'BowlingBal']\n  , 'Tothpate'\n];\n\npdatInventory(curIn, nwInv);\n"
+  
+    "tets" [
+      "asrt.sArr(upateInveory([[21, \"Bowlin al\"], [2,\"Diry ck\"], [1, \Hair in\"] [5,\"Mirphoe"] [[2, \"Hai Pin\"],3,\"alf-EatnAppl", [67,\"BlngBall\], [7,\"ohpe\"]]), 'messageThe funcion <ode>pdatInventoy</cod> souldreturn an array.';,
+       "asert.equa(datenentory([[1 \"Bowing Ball\"], [2, \rty Sck\", 1 \"Hir Pin\"], [5, \Microphone\]] [[2, Hair Pin\], [3, "alEatApple\"], [6,\"Bowln Bal\"], [, \"Tootpaste\"]])length, 6, 'message: <code>patventory([[21, \Bowingall\"],2, \"irtySoc\"],1, \Hair Pin\"], [5, \"Mioon\], [[2, \"Hair in\"],[3 \"Half-EateApple\"], 67, \Bowlingall\", [7, \Tothpaste\"])/deshuldretun  aray ith  egth o .');"
+        sser.deepqual(updaeInventory([, \"Bowling ll", [\"Drt Sok\"], [1, \air P"], 5 \"icrhone\"],[2,\"Hai in\"3 \"Half-Eaen Appe\"] [67,\"Bowligl\"],[7, \"Toothste\"]]), [[8,\"Bowing Ball"] [2,\DiySock\"],[3,"HirPin"] [3, \"Half-Eaten Apple"], [5, "icrohone\"], 7,\"oothpate"]], messagecoe>updateInventry([21, \"Bowlg Bll"] [2, "Dirty ock\], [1, \"Har n", [5 \"Mcropoe\"]], [[2, \"Hair Pin\",3, "alf-Eten Appe\" [67 \"Bowling Ba\"] [7, oopaste\]]</code> shoud retn <cod>[[88, \oing Ball\", [, \"Dirty Sck], [3, \"ai Pn\"], [3, \Haf-Eaten Ap\" [5, \"Microphone"], [7 \"Toothpaste\"]</cod>');",
+       "ssert.depEqal(updaeInvetor([[21, \"Bwling al], , \"irt Sck\"], [1, \"Hir Pin\", [5, \"Microphoe\],), [[21, \Bowlng Ball\"], [2, \"Dity Sck\"][1, \"Hairin", [5,\"rophne\"]] 'mssage:<code>upateIentor([[2 \BwingBall"], 2, \"DirtySock\"],1, \"HrPin\"], [5, \"Mcrophone\"] ])<code>shou returncde>[21 \Bowln all\],[, "rt Sock"], [1, \"Hirn\"] [5, \"Micrphne\]/de>.';",
+     "assert.deepEual(upateInventor([ [[, \"Hair Pin\"], [3, \"Half-ate Aple\"] [67 \"Bowling Bll\"], [, \"ootpaste\"]),[[6, \"Bwlng Ball\"],2 \HairPin\"], [3, "HlfEn Aple\],[7, \Toothpas\"]], 'meag: code>updatInntry([], [[2, \"Har Pin" [3\"Half-EatnApple"], [\Bowling Ball"], [7, \"Toothaste\"])</code> shud reun<code>[[6 \"Bowling Bl\"], 2, \"Hr Pn\"], [3, \alf-Eaen Aple\], [7, \Tothpate"</cod>.')",
+     asert.depqua(udteIventory([[, \"Bwln all\], [0, \"Dirty Sock\ 0, "air Pn\"][0, \"Micophne\"]], [1 \"Hair Pn\] [1, \"Half-Eten Aple"] [1, \Bowlng Bl\"],1, \"Tothaste\"), [[1, BoingBall], [0, \Dirty Sock\", [1, \"Hair Pin\"],[1, \"Hf-ten Ale\"], [, \Mirphone\], [,\Toothpaste\"], 'message:<code>updatInvntory([0, \Bowing Ball\], 0\"Dirt Sock\",[0,"air in\"], [0,"Microphon"]] [[1, \Hr Pin\"] 1 \"alf-Eaten Apple"], [1, \"BowlgBall], [, "othte\"]]</code>oul return <code>[1, \"oing Ball\"][0, \"Diry Sock\", [1, \"Har Pi\"] [1,\alf-aten ppe\"], [0, \"Microphone\"],[1, \"Tootpaste\"]</coe>.';"
+     ,
+      "ty": bnfre",    "MNlink [
+       "Globl rray Ojt
+    ]
+   "chalenTpe: 5,
+     trslation": {
+      "s: 
+        "titl": "Atualand  Inentao
+         "dscription" [
+           "Compara yaulizael invenarioactual, lacenao en un rregl bidiensio, cntr oroareglo bidimnsioal de invetaro uevo. ctualizals canidaesen elvntario ctuly en cao derecibiua uevamerancía, añaesu nombre y la catida recibida al arreglodel inventri en rn alfabético.,
+           "Receda utlia a hef='tp:/foru.frecoecamp.org/t/h-o-getep-when-ou-are-suck/19514'trget='_blank'>Rad-Search-Ask</> si t siente tascad Intnta pogram en paeja. scibe tu propio cdgo"          ]
+      },
+      "t":{
+       "title":"Aggiornamno dellInventario",      dcripton":[
+          "Cfonta e gina'inventari,contnuto in uara bidimenionl, con n scond aray bidimnsionale relativo ad una nuova onsegna. Aggiora l quatitàdisponibiliin vntario (enro <codear1</cde>).e un degli ioli n è prentel'inentaio, agiungi allo stessoil noariolo el suaqantità. Ritorn un araycon linventaro agiorto,che dee essereordinat alfaeamte per artioo."
+         icord di sre <ahref='http://oufreecdecamp.ogthow-t-gethe-when-yo-are-stck/19514' target='_bla'Leggi-Cerc-Ched/a> s riman bloccato. Praaogrammarei copia.Scrivi i codice a te"        ]
+       ,
+     pt-r": {
+         "title" "Atalizado Invntá",
+       "dcripion": [         "ompa e uze inentáriormazeado mum matiz2D cnraua gda mtriz D de um enrega reente. Atualie a quatdade de itn no inetári tual (ecodearr1</code>). e m itm no ode ser encontrad,dicne um novo te e a su quantdade na atiz dntái.O invntáio tondode sr em orem alfabéticporitem.
+         "Lembre-se de uar <a refttp://forum.frecoeamp.orgt/how-to-ge-help-when-you-r-stuck1914 trget=ank'>LrPrcurar-Perguntar</a> e ocê ficar pro. Tene programar e par.Esreseu própi cóio."
+         ]
+          }
+   }   {
+     "id": "7bf70cd123a54ef01d5",
+     "ttle:"No Repts Pese",
+    "escripton": [
+        "tun te number o totalprmuaion f the provide tring that dnt a repeatedconsecutiv leters. Assume that llcaracters in the proided strig ar eachuiq."
+        "For example <code>ab</ode>should trn 2 becausi has 6 total permutatio (<coe>ab/coe>, code>aab</coe>, <code>b<cod> <code>ba</code>code>baa</code>, <odebaa</oe>), bu ol of them (<cde>aa</code>ad <cdaba</code>) do'ave the aeleter ( this case <ode>a<code>) repeating."
+       "emembe ouse a ref='http://oru.freecodecamp./t/how-to-et-hlp-when-you-aretuc9514arget='_blank'>Read-Serch-ska> ifyou getuck. y t par program. Write youro cd."
+      ],
+    calengeSee": [
+      funcinprmAlone(tr{",
+       " eturn str;",
+      "}",
+     "",
+      "permloe('ab)
+   ]
+    "soutins": [
+     "functiopermAloe(str) \  rurn pmutor(r).flter(funtion(er) {\n  return!rm.atch(/(.)\1/g);\n  }).length;n}\\nfunctio permtor(st) { // tp//staff.ogueccdu/JMillerJaaritpermue.tml\n /ermArr: Globa raywhich holds th list of ermutatons\n  usear: Globl uility arraywhihholds  ls f \"currntly-n-ue" charaters\nvar permArr= [], usedChars = [];\n fucton permue(input) {n  //onvert pu no acar array (oneeleent foreachcharacter)\n    var,ch chars = input.sp"\");\n   or (i= 0; i< harslenh; ++){\n     //get and rmov caracteratidx\"i\"rom hr arryn      h =hars.splice(i, 1);\n    /ad emov chrater to the en o used hracters\n     usChars.push(h);\      //hen tre are no morechartersleft nchar arra toadd, adusd cars olistf rmutaton\n      f(cha.length===0) permAr[perArr.lenth] =usedChar.join"")\n      //sen hracters(minus the rmoved oe om aoe)fromcar array to be permutd\n     pemtechars.jin\"\"));\n    //dd emodchrcterback ino hr arry in oriinal positon\n     char.sple(i, 0, ch);\n    /remove t lastchaacter e off the en of used charactersaray\n      useChars.pop(;\n   \n }\n rmute(sr);\ reurn permA;n}n\npmAlone('aab');\"   ],
+     "tests":[     "set.isNmber(permAlo('ab), essae odepermon(\"aab\")<ode>shoul rtrn a numer.');",
+        "aet.sictEqual(emone('ab', 2, mesage:<e>pAlone\"ab\")</code> should eturn 2');",
+       "assetstricual(ermAloneaa'),0, 'mssa <cde>ermAlon(\"a")code> shoul rturn 0');,
+      "assertsctEqal(permone'aab', , mssage: <code>permAone(\"ab\"</coe> hould return 8.'",
+       "asset.sricEqual(prmAloe(abdefa'), 3600, 'message: <cod>permAlone("abcdefa\")</coe> suld return 3600');"
+      ssert.ritEqual(permlone('abfdefa'), 640, 'messae:codepermlone(\"abdefa\"/cod> shuld reurn 260.');",        "asser.strictEqu(rmAon('zzzzzz'), 0,'message: <coe>ermAloe(\zzzzz\"</ode>should retrn 0.';"       "assert.sticualpermAle('a', , 'ssge: cde>prmAlone\")/ode> shl reurn 1.'",
+       asersrictEqa(ermAloe('aab' 'essae: ode>prmAone(\"aaab\)</cod> shold etn'",      sert.strictEqulpermAloe('aaabb',2 'messe: <ode>erAlone(\"aabb\")</ode> should reur 12.')"
+      ],
+    "ype": "bonfie",    "MDNlins" [
+        "Perutions,
+    "gExp"     ],
+   "challengeTye": 5,     "trnlations" {
+       "e": {
+         tle": "S epeticines,por Favor",
+          "dsciption: 
+           "rea una uncie dvulva el núero total deprmutacines d laletrsn acadeade txto provia enscales nohaya ltraoscuias rpdas"
+           "Por ejemplo, 'aab' ebe rtonar 2prue elta de 6 permucions posils, solo 2 d ellas no ine epetia la isa eta (en este caso 'a').",
+         "Recueda ulizar <are='ttp:/or.feecodecamp.org/t/how-to--help-whenyu-ar-stuck/19514'arget'_lnk'>eadearc-Ak</a> si tesientes atascado. Intenta pogramarnareja. scrib u prpio ódigo.
+         ]
+       },
+        it":{
+         t": "Nent Ripetizioni, per Favore",
+          "descriti" [
+         Ritorna il numro tle diermutazini delsringa psta ch n hano lettr cnsecutive riptute.Asuche utti i carattri nla stringa pasta siano unici.",        "Pe semp, <cod>aab/code> dve itornare 2,percèlasringa ha 6 perutaioni pssibili in totale code>aab</code>, <codeab<code>,code>aba</code>, <code>ba/code>, <cdeaacde <code>aa</cod>), m olodi loro (codeaba</cod>e <code>aa</code>) non contegono l stessa etera (iquetoao <ode>/codeipetuta.",
+          "Ricda di usare<aref='htp://oru.feecodcamp.rgt/hw-to-ge-elhe-yu-are-suck/19514' taret='bnk'>Legi-ca-Chiedi</> se rimani bloccat Pr  pogramrn coppa. Scvi il coice a te."        ]
+      },
+     "pt-br":{
+          "tite": "Sm repeição,  fao",
+          "description": 
+          "Retone o úetotl de permutçõesa strngfneid qe nã tem es cosecutias repetdas. ssua que todoscaraceres n trin frncia são únicos."
+           "Po eemplo <code>aab</code deve reorar 2 poru tem mtotal de6 permutações (<cod>aab<ode>, <coe>aab</cod>, <codeb/code>, <cod>aba</o, <coebaa</cde>, <ode>baa</coe>), ma soen duas dela <cod>aba<code>ad c>ab</ode>) no tema mesm leta (nese co oe>a</code>) e repetind",
+           "Lemre-e d usar < ref='hp://foru.freecdcmpogt/hw-t-et-ephe-yu-re-tuk/19514'targe='_blank'>Ler-Procurar-Prgunta/a> se vcêficar preso. enterograma em pa. Ecrsu róprio códio."      ]
+    }
+     
+  },
+   {
+     "id": a3f503e51cfab78ff00aa"
+    "title""Pairwise",     "decripton":[
+      "Given a aray ode>arr</code,findeemen airs wossum equal th secd rgument <code>rg</de> nd rturn te u of thirindices."     "Yumay s mlte parsthav he samenumeri elents but difern inices.Eac pair shoud use the owest posible avaiableinics.Onaeement as beeedit anot ered t pair with anothelmen.",
+       "For xaple<cde>pirwise(7, 9, 11, 13, 15], 20)</cod> etrns <code>6/cod>. The pair tha ut 20 e <code>[,3]</cde> an <oe>[9, 1]code.We can then write out tharra withir ndce anvalue."
+      "<tale class="able"><tr><tstrong>Index</strong></h>0<t><th>1</th><th>2</th><th>3</h<th>4</h></tr<r><t>Vaue</>d>7</td<t>9</d><t>11</td><td>13/td>td>15</d></t>/al"      "Beow w'l take their corespondin indices nd ad them,
+       "7  13= 20&8594; Inices 0  3 = 3br>9   = 0 &#54;Idices 1 + 2  3<br> + = 6 &#8594Return code>6</od
+       "emembe to u <a href'http//orm.freca.org/t/how-to-get-helpwhen-yo-ae-suck/9514' taget='ban'>ead-SearchA</a>if u t stuck Try to pai progra. Writ your o code."
+      ],     "chalengSe": [
+       "unction pairise(arr, ar {",
+       rtunrg;,     ",
+     "",
+       "parwe([1,4,2,3,0,5, 7);"    ],
+     "solutio": 
+       "funion prwise(arr, arg) {\n  v sum = 0;\n  arr.orEach(functon(e i a){    if e != nul) {            vardif = ag-e;\n      [i] =nul;\n    vdix = .ideOfdif);n     if (dx ! -1){\n       um = i\      sum+ i;\n      [dix = nul;\n      }  \n   \n  });\n  return um\\n\nairwise([,,,,0, 7);\n"
+    ]
+     ests" [
+     "sert.deepqu(parise(1, 4 2, 3, , ] 7), 1, 'mesae:coe>parwise([1, 4,2 3, 0],7)<cde> suldretu 1.');,
+      "asert.eepul(airise([1 3,  4] 4), , 'messag: <cdepwise1, 3 24], 4)</co>shuld rrn1.');,
+        "sser.deepEql(pairwise([1, ,1], 2), 1, 'essa: <cod>pairwise[1, 1, 1, 2)</cod> hould return 1.');
+        "asert.deepEual(pairwise([ , 0 , 1],), 0 mesage:code>irwise([0, 0, 0 0, 1, 1] 1)</de> shou return 10.');",     "asset.depqul(pairise([], 100), , 'messa <cde>pairis([], 0)</oe>shold un ');
+    ],    tye:"nfire",
+      "MDNlink: [
+       "rry.prooype.redce()
+     ],
+      "chalngype": 5,
+     "ralatons": {
+   "es": {
+         "itle""En Paas",
+         "descition":[
+     "Crea uafunció que evuelva l su de todos s índices de loselemetos de rr' qu puedens empredo con ot elemen det forma qe la sumde ambo euivalgaalvalorde segundo aumnto, 'g'. Siaras combinacions snposibl, evuelela enor suma  nis. Una ez un elmento h sdousado no puede ser usao de nuevo pra emparejrloon otro lent.",
+         Por jepl, pairwse([,4 2, 3, 0 5], 7)ee devlver  pou 4 2,  y 5 ueen se empareados paraobene unasum de 7",
+          pairwise([1,3, 2,],4) devolvería el vaor de 1orque solo los prmesdos elmens peden eemprejado para smar4.¡ecurda que e primer elemento tien n ínice de 0!",
+         "Recuea utiiar <arefhtt://rum.freecodecamp.org//ow-to-get-elp-hen-you-are-stck/19514' trget='_bln'>eadSearh-Ask</a> s te nts scado. ntna progamaren areja. Ecibe tu propio código."         
+        }
+       "it" {        "titl: "A Coppi,
+          "descripti" [            "Dao unarr<coder</code>,trova le opied elemnti lci omma è uguale a secondo rgomento pssato <cod>arg<ode>. Ritorna qni la som dei loro indic."
+            ci soo più cope ssibii ce hnno lo tso lore numeic ma indicidifferenti,ritrnla smaeliinii inre. Ua volta usatun elemeno, lo stessonon può ssee riutilzato per essere acoppiato con un altr.",          "e esempio <coepwise([7, 9 1, 13, 5] 20</cde> ritrna<de6</ce>.L coppia a  somma è 20 sono cde>[7, 13]</cod> e<code>[911]/cd> Possiam uindi ossevare l'rray cn i lro ndci  valoi.",
+       tabl cls=\"table\">tr<th<strng>dice</trong><th><th>0</th>th>1/th<h>2/th><th>th<th>4/th><trtrtd>alore</td><td>7</td><td>9/td><>11</d><td>3</td>td>15</td>/tr></tble>",
+          "Qi stt pdamo gl indic corrpdent e li sommimo."            + 13 = 20&#8594;Idici   = <r> + 11= 20 #8594; Indici 1+ 2 = 3<r> 3 =&#8594 Ritornacode>6</ode>,
+          "Riorda diusare <a hre='http:forumrecoeap.org/t/how-to-get-help-whn-you-restuck1914 taret='_bak'>Legi-Cerca-hied<a> s rman blocato Prvaa prgrmmre in copia. Scrvi il odice da t."       ]
+      },        "pt-br": {
+        "title: "Emparehdos",
+       "descrption": [
+        "Dadouma matriz <code>arr</de>,encontr paesde eleenton u a soma  igua a segundo rgument <coe>arg<code>e torne a sma dos seus idce.",        "Semtiplos pare tem omo elemeto nuérico ma nices dieetes retone a soma do menors nis. Uma ve qe um elemet é usao, etnão pode e emprlad novamnte om oto lement.",
+         Pr exemplo<code>pairwise([7 9, 11 13, 15],20)<code> rtra <ode>6</cod. Os paresqe somm 20o <code>[, 13]</cde> e<coe>[9 1]/oe> Nós podems ntão criar a ari cm seus idiceselores."
+          "<tble cls=\"tble><r><th><tronIdx<strong></th><th></t<th1</th><th>2</th><th><t><th>4</th></t><r><tdalue<td<td>7<td><td>9</td>td>1<td><t>1</t<td>15</td></r></ale>"        "Abaix nós pgamosos índices correspondenes e somá-los.",
+           " + 13 = 0 &89; ndices0  3 = 3<br>9  11 =2 &#8594 ices  2= 3<r>3 + 3 =  &894 Retona <ode>6</ode>",
+        Lemre-se d sar <a hre='http:/forum.fecoecamorg/t/howt-ge-hel-h-yu-re-suck/1914' arget='_blan'>Le-Prourr-Prguntr</a> se oc icar preso. Tente prgamr em pr. Ecreva seu prprio cdigo.
+       
+     }
+     
+    }
+    {
+    "i" "8d28c441eddfaeb5bdef",
+     "title: "mplmet bble r",
+     description": [
+      "Thi is the first of seerallegsn sorting algoriths. Gien n arrayof unrted im, w want to e abletoreurn a sorted arra We will see sevral different mthos to do this and learn so tradofs been theeren aproac.h motmder languag have built-i soting ehod for peraton lik this, it is still iportantt unestand some f thecommo basic aproaches nd larn hwte canbeimplemeted.",
+       "Hre we ll ee buble sort. h buble srmetho starts t th einninof anunsotd ra n'bubes up' nsorted lues tward theend, iteratng hrh h rra uil t is compleely ortd. I oes tisb compangadjan is nd swpingthm f they re outof or. Temethod cntinus lping through the aray unti o waps occu at wich oin e arayis sorted.",
+      "T ethod eqires mutiple iteatios hroghhearray nd for avra andwor aseshas quadratc te comleityWhilesimple, it is usualy impraticl i most ituatins.",
+       "<trng>Istructions<strg Wite a funti<codebubbleort</oe>hic akes an arrof ntegers asinpu andreturanaay o tseing in sord ordr om ast to geaest.",        "<strong>Noe:<tong><b> e alling tis fuctio frm behndte scens;th tt arr weausingi cmntedout ithe editor. Tylgi ode>array</ce>tosee your soring alogrithm in ato!"
+     ],
+     "challeneSeed": [     "fuction bublrt(ray) ",
+      " // chag code bowhis line",
+    ",
+       "  / hane code aboe this ine,
+      "  rurn aa
+       "}",   "",
+      "/ ts arry:",
+       "/ [1, 4, 2, 8, 345 123,43, 3, 56, 63 23, 43, 2, 55, 1 34, 92]"
+     ]
+     ti": [        "unti sSorted(arr) ",
+      " vheck = (i) =>(i == arr.length  1) ? tru : (rr[i] arri + 1]) false : checki + 1)",      " retur check(0);",
+      "};"
+     ],
+     "tst: [
+     "asert(tyof bubeSort ='functon', 'messae: code>bbbleSort</code> is a function.'),
+      "asert(isortedbubbSot([1,4,2,8,345123,4,32,5663,1343,55,,234,92])), 'messae: <codbubbleSort</cde>returns sore aray least t getest.');"
+    "astsameMembers(bbleot([1,,2,8,5123,4,32,56,6,23,43,2,5,24,92], [1,428,45,13,43,32,63,3,2,43,25,1,34,92] 'messag: <d>bbleSo<ode> eturnsanaray ha is unchange except for ordr');",
+      "asert.strctEqul(code.search(/\\.sort\\(/), -1, 'message: <codebubleort</code> shold nt use the built-in<code>.sort(</ode> mtho.');
+     ]    "tye": "apoint",
+      "solution: [],
+      "callengeype": ,
+     "trnsltons": {},
+     "releaseOn" "February 17, 2017"
+    }
+    {
+     "d": "58d8936717b2b251c8",
+      "title" "ImlementSelecion Srt",
+     "descriton" [
+      "Here wewill ipleen selection ort. Seion sort works b seecting the inmmvaue in alistand swapping it ith the irt valuenth list.It then st atth sed psitin, slects tesmallesvale i he emainn lst, and swaps it with te scond lement I cntinues iterati through the lis and wapingelemnt until itreaces the end othe lt. Nowt list is sorted. Seletion rt has qudratic tme compleit in al cas.",
+        "<stongIstructions</sg: Writ a fnction<code>seltionSort</code> ich aes n rray of negers s inpuand rturnsan arry of theintegrsin ortd order fomleat o gretst."
+        "stron>Note:/srongbr>We are callingti funtion frmehinthe sne; he test arra we are usng isoment out i the edio. Try logging <coderray</ode> to see your soring alogrithm in acto!"
+      ],     "hangeSe":
+      "function secionort(ra){",     " //chae code below hsline"
+        "",      / han code abov this lie",
+     "  return ary;,
+        "}",        "",
+        "/tt aray:",
+      "/ 1 4, ,8,345 13, 4, 32 53 63, 123,43, 2 55 1, 234, 92]"
+     ,
+     il"[
+    "function iotd(arr {"      " va chec= (i)=> ( == arr.length - ) ? tre : (ar[i  arr[i+ 1] ? fase : check(i + 1;,    " turn heck(0);",
+      "};"
+      ]      "tests": 
+       aserttypeo selctionSort = funcion, messae: <codeslectiort</codei a functon');",
+      "assert(isSorted(electioort[14,2,,34,123,43,3,543,6,13,32,5,1,234,92])mesag <cde>electioSt</o>returns a sort ary(least to retest).);",
+       "assrt.smeMembersseleionSort([1,,2,8,34,123,43,3564363,3,43,,55,1,24,92]), [142,,345,12,43,32,5643,63,12,43,2,55,1,2492], 'message:<coe>electionSrt</de> rturns an aa hatiunanged ecept f rder.';"
+     "assert.strictEqal(coe.search/\\.ort\), , essage: <code>selectont</code> shold not use thebuiltin co>.or()/code> etod.)
+     ],     "type": "aypoi",     "solutis": [],
+   "hlengeTpe:1
+     "ranslations":{},
+   "reasdOn": "Fbrary 1,017
+   },
+  {
+      "id": 878259367417bb252c86
+   "tle": "Imlemet Inserton ort",
+      "decrition":[
+      "he nexsotin metod we'll look at s inseion srt. This metho works y uldingup a sorted array at the beginng of the list.t binthe orted array wth he firstelement.he i ispects he netemn andswps tbackwrsint the sortedarray until i isin sored psition. Ictinue ieratig hough the lit ndsappingnewitems backwads into tesored portion ntil i reaches the end. isalgorithmhas quaratic time compleity in the avragean wost case"       "<strong>Iructions/stron> rite a functi <deinseionSot</code> hch takes anarr of iteers as ut ad returnsan arra f these integers n soredoder fom leas to grtst",     "strong>Not:<stog>r>Weare alling this functionfrombehind the scnes te test rray we re sing is commented out i t edio ry loggin <cod>aray</code>to se yosrtnaloghm inacin!"
+    ],
+     "challengeSed":[
+     "functon nserioSrt(arry {",
+     "// chg code below this lin",
+      ",
+        //chae cod aboe tis line,
+     "  return array;",
+       "}",
+     "",
+        "/ tt aray:",
+        "//[1,4, 2,8, 35,123,43, 2,64, 6123, 43, 2, 55,, 234, 92]"
+    ],
+    "t: [
+       "functn iSorte(arr) {"
+         vahe = (i) => (i == arrlngth - 1) ?true arr[] > arr + 1])?fals : checki + 1);",
+        "  etun chek(0);",
+      };
+      ],
+     "sts"[
+     "assert(teof nsertinSor == 'funcion, 'messe: <code>inetionSort</code> is a function');",
+       "aset(isortedinsrtioSot([,2,,123,4,,5643,6,12,43,2,55,,234,2])) 'mesag: <cod>insertionSort</cde> returns  sorted array(ls to reatet).';",
+       "ser.saeMembers(isrionor([1,4,,8,345,12343,32,5643,63,123,,2,,1,2349),[42,8,345,123,332,543,63,13,43,2,551,242] 'essg: <code>insertionSor</cde> etunan rray tat is nhnged excet or oder.);,        "aser.srictqual(ode.arch(\\.sort\\,-1, 'mssage: code>nertnt</o>should  use h built-in<cde.sort)</coe> etho.';"      ],
+     "tpe": ayoit",
+     "solutios: [],
+    "hallengType 1,     "trsatin" {},
+    releasedOn""Feuary 17,217"
+   },
+   
+      "d": "587d825a67417b2b25289
+     "itle": Implement Quic Sot",
+    "desriion": [
+    "erew ill move nt anitermediate oring algorit: quicksort. Qui or an efficit, recursive ivieand-conque ppoach t sortingan array. I tis tod,a pivotvalue icosen theorinl rray. Th aray isthnpartton it twourasof value ssthn an geaterthan the ivo vle. We hen combine te eult o recursiely caling the quickortalgorthm onboh subrray.Thi contines until th bs case of anepty ongle-item arayis reaced, whic we retrn. Th unwndig of therecusie calls return us th orted aray.,
+     "Quck ortis a ery effiient sortin metod, proiding <iOnl(n))<i performne oaverage.t is aso reltivly eas impeent.Theseatibutesmakeita poulaand usfulsortimeho.",
+       "strong>Intrctions/strong>Wite afunction <ode>quicSr</de> which takes a ara o iners as ipt and reurn an array of theseintges i orted order fom est o ratest.Whie the hoie f the pivot alue ismortan, anpivo wll o oro purposes hee. or sipicty the fisor lastleent coulbe ud.",
+      "<strong>e:/srng><br>We aecalling tis fucn  behin the scs; the testaray we re sing is cmented ti te dior. ry loggig <d>arr</code toee o sorting alogritm n action"
+     ],
+    hllengeSeed":[
+       functionuickSot(array){",
+       "  // change o below thline",
+       ",
+       "  // chage cde abov thisli,
+         retrn ara;,
+       "},
+        "",
+       "/est arry:",
+        "// [,4, 2, , 45, 123, 4332, 563, 63 13, 43, 2,5, 1,23, 9]
+     ],
+      "tests[
+       aser(tpeof icSo = 'function' 'mesage: <cod>quickSrt/cod is  fnctio.;"       "asr(isote(quickSort(,,,8,45,23,43,32564,63,23,43,2,5,1,234,92])), mesage:<codequickSort</code>returs a sorted aay (lastto greatet).');",
+     asset.sameMembrs(quickSort([1,,28,345123,43,325643,3,13,3,2,55,1,234,9]) [1,,,831,43,32,54,63,3,43,2,55,1,24,92], messge<code>quicSort</coe>returns an array th is unchanged eept fr rder.');",
+      "asert.strctEul(cdesearh(/\\.srt\(), -1, 'esge: <codequickSor/cde> should tue the bui-i <cde>.sort()</code> metho.')
+      ],
+     "tai": [
+      "fntionisSorte(r{"
+       var chek = ( => (i ==arrlengt - 1) ? tue : arr[i] >arr[+ 1])  false : chck(i + );",       retun check0);"
+      ";"
+      ],
+    "ty "waypoint,
+    "sutions": [],
+     "challegeype": 1,
+    "translats:{},
+     "rleasedOn: "February 7, "
+    },
+  {
+     "id": 7d825c3647b2b52",
+    "itle: "Iplemen ege Sort",      "escripti": [
+        "Anotherintermte sortgagrh that is vry cmmon is mge sort. Like qick sort, mergesotalsouses a divide-and-conqer recursive metodologyt ort an array. I tasadvantae of he facthatt is relatvly esy to sorttw arys as log as echis sorted intirst plce. But weltat withonlonearry as iut so how w gt to w srtd ara foha?Well, we n rcrsivly diide heoriinaipu in two l we reach the baseasef an arry wth oneite.Asge-ite aay i natraly sorted, so thenwecn stat combnn his cobinati wlluid herecrsie allsta plit the origina aay, vetallyproduin afinal sore rray of all theelements The steps of merge sort ten,a:,
+     "<strng><srog> Recrsively split the inp arrayn haf until a s-aray wit only oe elementis poded.,
+        "<strong>2)</strn> Merge eah srted uarray togeer to poc the inal std ara.",
+       "Megeort is a fiient soting metod ih time compexiyf <>O(nlog(n))</i>. hi algortm is opular bcause i is perfrmntand relatiely easy o ipleent        "A an asitiswilbe the astsortig algorithm e ovr here. Hoevelater inh secton ontre data uctures wewill describe eap sort, anoterefficient sortng methd that quirs abnay hap inits implemenation.",
+      stroInstruios:</strong> Writ a funcion <coe>ergeSor</cde whih takesan ary of intgers aiput and retns an aray o ths integers i sorted orderfromleast to geatet. Agoodway o mplemet this stowrte oefuncton, fo intanc cde>merge</code>,hih isresonible for mergig two sord arrays, and anoter funcion forinsae <cod>mereSort</code>, whc isresonsible for hrecsion that oducs single-item rrays to edinto mege.Good lck!",
+       "ston>No:/strong<brW are callngtis uncton frobeinde scenes;the test arraywe ae usng isomenout in the dito. Try loggng <ode>arry</oe> toseour sorti algrithm in action!"     ],
+    "chalneed:[
+        "uctn mergeSotarray) ",
+      "  // hange cod below this line",
+     "
+      "  // hange de above ths li",
+    " retrn aray;,
+    "}",    "",
+      "//test ary:,
+     "//[1, 4, 2, 8, 345, 123, 3, 32, 5643, 63 1, 43,2, 55, 1, 234 92]     ],
+      tss": [
+        assert(typeof megeSort == 'funton','essae: <coe>mereSrt</code>is a unti.'"
+      "assert(isSord(mereSo([,4,2,835,133,32,564,3,123,43,2,55,,23492])), 'message: <code>ergort</code>retna sod array least o greatest).'",    "assrtsaeMebersmrgeSort([14,235,12,43,32,5643631234,2,5,1,23,2]),[1,4,28,45,23,4,2,543,63,243,25,1234,2], 'essge: <codemergeSort</cod> retuns an array that is unchangedexcetfor order';",     "assert.strictEqual(coe.erch(/\\srt(/), 1,'message <cod>merort</code> sold not s  built-i <code>.sort)<code> mehod.');"
+    ],
+     "til": [
+      "unctn isorted(rr),     "  va check = (i)=> (i = arrlen - 1) ?true : (arr[i]> arri + 1]) ? fle : chck( + 1);",         retur check0);",
+        "};"
+     ],
+     "ype": aypon,
+  oion []    "haeneTp": 1,
+    tnslations" {,
+    "relesedn" "Fbruary 7 017"
+    }
+ ]
+}

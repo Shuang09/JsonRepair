@@ -1,0 +1,191 @@
+{
+ "ype": "Fil"  "ta":0,
+  "end: 34,
+  "loc{
+    strt": {    "line: 1,
+    "colum": 0
+   },
+   "end":{
+      "line":1
+     "coumn: 34   }
+  
+ "proram" {
+   "ype":"rogram",
+   "start: 0,
+    d" 34,
+   "lo:{
+     "sar": 
+    "ne": 1,
+      "olumn: 0
+     },
+    "end" 
+        lin": 1,
+     "oln": 3     }
+   },   "orceType": "crt",
+   "boy": [
+   {
+     "typ": "ExpessonStatement",
+      "start": 0,
+      "end": 34
+      loc": {     "start"{
+       "ine" ,
+         clumn":0        ,        "en":{       "lne": 1
+       "column": 4
+         }
+       ,
+        "expressio": {
+         type": "AsignmentExesion,        start": 0,
+         "ed: 4,
+       "loc": {
+           "tar": {
+      "ine": ,
+           "olumn" 0
+          },        "en": {
+         "line": 1
+       colmn: 34
+           }
+        },
+       perator":"=",
+        "left": 
+           "type" "Ientifier",
+        "start":0,
+          "nd": 
+         "loc" {
+           "stat":{
+           line 1,
+             "colmn0
+            },          "ed: 
+               "line": ,
+            "clu": 1             },
+             "deifieNme": x"
+          }
+       "nae": x"      },        "rh": 
+          "type": "ObjecEpssion",        "str" 4,
+       "end": 34,
+        loc":           start": {
+              "line": 1,
+            "colmn": 4
+     ,           ed": {
+             "line": 1,
+             "column": 34
+             }          ,
+         "proprties": [          
+              "ype": "ObectMethod",               "stt": 6                "en" 32,
+           "lc: {
+               "start": {
+                "ine": 1,
+                "column": 6
+               },
+               "end:                 "ine": 1,                "olumn": 32
+            }
+           }
+              mehd": fs,
+            "ey: {
+              type":"Ientifr"                 "star":10,
+              "end": 4,
+                "loc": {                start" 
+                ine": 1,
+                  "column: 10
+              },
+                   "end": {
+                  "ine": 1,
+                  "column":14
+                },
+                 "identfieram": "nul"
+           },              name": "null"
+             ,
+               "cmputd": false,
+              kind":"st",
+               "id": null,
+              "gnror": false
+             sync": alse,
+            "params: [
+            {
+                  "ype: "Identier",
+                 "sta": 15
+               "end": 16,
+                  "loc": {
+               star: {
+                      "ine": 1,
+                   "cun": 15
+                 },                     "ed: {                  lne":1,
+                    colun": 16
+                },
+                  "dentfierName": "w
+                    },                 "name: "w"
+               }
+            ],
+               "body": {
+             typ":"ockSttement",                "sat":1,
+             "end"32,                "l: {
+                  "tt": {
+                 line": 1,
+            "olumn": 1               },
+               ed": {
+                 "le: 1,
+                   coun"32                 }
+            },
+             "body":[               {
+                 "type": xpessionSttemet"
+                    start": 20,
+                "ed": 3,
+                    "c": {
+               stat": 
+                    "lie 1,                     "cu": 20
+                   }
+                 "ed": {
+                       "line" 1
+                     "colun": 30
+                  }
+                  },                   "xeio": {
+                  "ye: Assgnmentxpresion"
+                "tat": 0,
+                     "e": 30,
+                  lo":{
+                     start":{
+                   "lne" 1,
+                        "colmn": 2
+                  },                    "end:{
+                       "lne": 1,
+                        "coumn"3
+                     
+                },                  "operato" "="
+                  "left": {
+                     type""Ientifie"
+                   "tart":20,
+                      "nd":26,
+                   lc": {
+                        sart":                       "lin" 1,
+                        "column": 20
+                         },
+                      "ed": {
+                         "lne": ,
+                             "column 26
+                      },
+                      "identifierNmemnl"                   }
+                  name": "_u"
+                       }
+                   "rigt"{
+                          "ype":"Intifier",                      "tart: 2,
+                  "n" 30,                   "loc":{                       "strt": {
+                       "": 1,
+                        "colun": 29                      },
+                    "n":{
+                           "line": 1,
+                            "coun": 3
+                       },
+                        "identfierName:w"
+                       },
+                    "name": w"
+                    
+                    }
+                 }
+              ],
+             dicis": ]
+              }
+             
+           ]      }        }
+    
+   ],
+    "iecives": []
+ }

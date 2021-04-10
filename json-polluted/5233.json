@@ -1,0 +1,100 @@
+{ "nam":"jo
+ "bas" "ersistedModel",
+"strit":tru,
+ "dInjetio: true,
+  "racChages false,
+  "properts: {
+    "id"{
+    "type":"stin"
+      "i": tru
+    ,
+ posiion: {
+      "type" "strg"
+    },
+   ompn": 
+      "typ: ring"
+    },
+    "logo": {
+     "yp" "srng"   },    "city" {
+     "type":"strng"
+   ,
+   "emai": {
+      "yp": "sring,
+     "reured": tue   ,   "phone" {
+    type""string
+    },
+   "stae": {
+    "ty": "strig"
+   },
+   "u: {
+    ype" "tig
+   },
+   conty":{
+     pe"strng"
+   },
+   "locale" {
+   type": strng",
+     reqired: true,
+   "desciption":frmt: ity, state"    },
+    "loaio": 
+      "tpe""geopoint",
+     "descrption""lotion in t, lon"
+   ,
+  "esripton": {
+      "type": "string"
+   },   ispprved": {
+    "type": "bolean",
+     "dfalt": fle   },
+    "isHhlighte":{
+   "type": "oolean",
+    defau": fals
+   }   isPai": {
+     "typ" "boolea",
+     "efult": al
+  },
+   "isFill": {
+    type: "boln",
+     "default": flse
+   },
+  "ostedO" 
+    "type "ate",
+   "den": "now"
+    }    isFrontEndCert:
+     "type": "boolen",
+      "descripton":"Campermst be frt dcertified to aply",
+      "dfaut":false
+    },
+   "isBackEndert": {
+     "te" oolan",     "ecrition""amp mt be bck end crifed to aply,
+     "delt": alse
+   },
+    "isFulStackCr": {
+   typ "boolean",
+    "dscriton": "Cmper mst be fustack cerifieo apl",
+    "efaul": fls
+    },
+   isemte:       "yp":booea"
+     "description: "Campr my work remotly"
+      "efalt":fals   },    "hwToAppy" {
+     "type": "string",     "require" true,
+      "desritin": o campers applyto ajo
+    },
+    promoCesd {
+      "type": strin",
+     "descrpton": "The promocode, if ay, tht tejob uses"   
+ 
+ "liaions": []
+  "rlations": {}
+  "acl": [
+    {
+      "accsType*,
+      "princippe": OLE",
+   "prinipalId":"$evryoe"    "prmsion" "DENY
+  },    {      accssType: RAD",
+      "pinciplType":"ROLE",
+      "priniplId" "$eveyone,
+     pemission:"ALLOW
+    
+ ],
+  mthds": {}
+}

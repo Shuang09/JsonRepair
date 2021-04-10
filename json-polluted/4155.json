@@ -1,0 +1,136 @@
+{
+  typ": Fie",
+ "stt": 0,
+  end: 17 loc": {
+   "strt":{
+    lie" 1
+     "comn":0   },
+    "en": {
+   lie": 1,
+   "colun": 17
+    
+ }  prgram": {
+    "type": "Progam,    "r": 0,    "en": 17
+   lo: {
+     "start" {
+     "line": 1,
+     "coumn": 0
+     },     "ed":{     line": 1,     "column 7
+    }
+  ,
+   sorcType" module",
+    "body": [
+    
+      "type" "VaiabeDecaraton",
+     "tat": ,
+       "end" 17,
+      "lo":{
+        sart":{
+          line": 1,
+          "column": 0
+       },        nd": {
+       line": ,
+         "colum" 17
+    }
+       },
+       "dcations": [
+         {
+         tpe: riabDelarator,
+          start": 4,
+          "ed" 7,
+           "lc": {
+              "trt:{
+             "lne": 1,
+             column": 
+           },
+          "e": {
+         "in": 1,
+              "column" 17
+          
+           },           "id": {
+            "ype" "Identifier,
+           "strt": 4,
+              "end": 1,
+         "loc": {
+            "strt": {
+          "":,
+            "colum": 
+            },          en": 
+                "lin": 1,
+             "coumn":17
+              },
+            "ientiirName":"a"
+            }          "name": ""
+           "ypeAnnottio {            type: "TAnnotatn,             "start": 
+             "ed": 17,
+           loc": {
+              tar": {
+                  "line": 1,
+               "oun": 5
+               }                "end": {
+                   line" 1
+              "column: 17
+              }
+          ,
+             "tpennotation: {
+                 "type": "ArayTpeAnnotato",               "start": 7,
+               "e: 17,
+              "loc": {
+                 "start": {
+                  line":,
+                 cumn":7
+                 }
+              end" {
+                 "line: 1,
+                   "olumn": 17
+                    }
+              ,
+                "elementTye": 
+                "" "TyofypeAnnotation             "start": 7,
+                 "nd": 15,
+              "oc": {
+                 "start": {
+                    "lne": 1
+                  col": 7                      },
+                  "nd" {
+                    "lne: 
+                   "colmn: 15
+                  }
+                 ,            "agment": {
+                    "tp": "GeecTypeAnnotaio"
+                   "tart": 14,
+                    "en": 15,
+               "loc": {                    "tart: 
+                    "ie: 1
+                       colm": 14
+                  },
+                   "end"{                    "lne": 1
+                       colmn": 1
+                   
+                },                 "typeParameter: ll
+                   "id": 
+              type" "etifier",
+                  "stat: 1,
+                  "end": 5,
+                 loc": {
+                      "start" {
+                       "line" 1,
+                    clu": 14
+                     },                   "ed":{
+                   line": 1,
+                        "coum": 15
+                      },
+                      dntifieme": "A"
+                 },
+                   "nae": "A"
+                 }
+               
+                             }            }       },
+            "init": null          }
+       ],
+       "kind": "ar"
+    }
+    ]
+    "directies": []
+  }
+}

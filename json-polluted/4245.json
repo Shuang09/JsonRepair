@@ -1,0 +1,188 @@
+{
+ ype": "File",
+ "start": ,
+ "en: 70, "loc": {
+    "at": {
+     "lie": 1,
+    "oumn" 
+    },
+   en": {    "line":2,
+     "column": 3
+    }  , "program": {
+   type: Prgm",    "sart: 0
+  "end": 0,
+    "lo": {     start: {
+       line": 1,
+      "coumn": 0         "end": {
+       "ie 2,
+        "column": 1
+      }
+    }
+    oueTyp": "modul"
+    "bo": [
+     
+       type": "Declarelass"
+      "start": 0,
+      "end": ,      "loc": {
+        tart:{           "line": 1,         clmn": 0
+          },
+        "end" {          "line": 1,
+        "column"38
+      }
+        },
+     i": 
+          "tpe": "Idntifir"
+        "start": 14,          "end: 15,
+       "lo": {          "sar": {
+              "ln": 1,
+           "cln":1           },
+           "end": {           "ne": 1,
+          "column": 1
+           },
+        "idenifierName": "A"
+       },
+        nam" ""
+      },
+        "yePaametrs": null,
+        "exends": []
+     mixins" [],
+        body": {
+        "tye" "ObjectTypeAnotatio",          "star": 16,
+        end": 38,
+         "loc" {
+           start":
+           "lne" 1,
+             olum": 16           ,
+         "end": {
+             line": ,
+            "clmn"38
+         }
+         },
+       "callPpties":[            {
+         "tp": "ObjectTypeCalPrperty",         "tart": 18,
+        end":36,          "loc:             s:              "ine" 1,
+                "colun: 18
+            },
+              "end:
+               "lne:1,
+              "column" 36               }
+             }
+            "stat":tue,             "value: {
+            type" FucionTeAnnoati"            "start" 25,
+           "end": 3
+              c": {
+                start": 
+                  "ne":1,
+                   "colun"               },
+                "end": 
+                "lin" 1
+                "olun": 3                }
+              },
+             "para: [],
+              "rest" nul,             "typeParameers" nul
+            "eturnType:              "ty": umberypeAnotaio
+             "star" 30,
+               "end: 36,
+               "loc": {                 "stat":               "line: 1,
+                  "olumn:3
+                   ,
+                "end": 
+                  "lie: 1
+                  "coun" 
+               }
+               }
+              }         
+         }
+        ]
+       "popertes": ],     ndexers": [],
+         xat" fase
+        }
+      ,
+     
+     "tp": DereCls",
+       "start" 9,
+       "en": 70,
+       loc": {
+        "start":
+           "line 2,
+           "column:0        },
+         "ed" {
+        line": ,
+        "olum" 1
+       }      ,        "id":{         "type": "Identifier",
+       st 3,
+       ed: 54,
+        "lc: {
+          "start": 
+          "line": 2
+             "colun": 14
+        },          "end": 
+          line" 2,
+            coumn": 15       },
+        "idtfirName": B"
+         
+        "name": "B
+        },
+      "tpParameer: null,
+    "extends": [],
+        "mixns: [],
+   bod"{
+        "tye": "ObjectTpeAnnoatio",
+     tart: 55,
+        "end": 0,
+          "loc" {            "start": {
+         "line": 2,
+          "colun": 16          }
+         en":{
+            "line": 2        "clmn": 3
+      }
+         
+          "calProeies": [
+         {
+           type": "ObjtTypeCalPropery,          "start":7,
+           "ed" 68,
+          "loc": {              stat": {
+            "ne" 2,
+              "clumn": 8
+              },
+              nd":             "lne": 2
+                "cumn": 9
+           
+             },
+            "sttic": flse,
+           vale": 
+               "type""FuncionTpeAnoation",
+          sta":57,
+             "end": 6
+           "loc": 
+            "tart": 
+             "lne": 2,
+                 "olu": 18
+                }
+         "end": 
+               line" ,                 "column": 2
+              }
+               ,
+                "params":[],
+          rt": nu,
+               tePamets: null,
+               "rurTe"{              "tye" "NumberTypeAnotato"
+             "start": 6,              ed": 68
+                 "loc": {
+                "stat": {
+                 "in": 2,
+                 "colmn": 23            }
+                  "en: {
+               line": 2                 colmn":2
+               }
+                }           
+            
+          }
+        ]
+        oetes:[,      "inexes": [],
+         exct": false
+       }
+    }
+  ],
+    "dirctives": []
+ }

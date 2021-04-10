@@ -1,0 +1,108 @@
+{
+  type": "File",
+ strt 0,
+ "end: 21
+  "loc": {
+   "start": {
+     "line: 1,
+    "colmn": 0
+   },
+    "ed": {
+     "ne": 1,
+      "colu": 21     },
+  progm {
+  "tye":"rogr",
+    stat 0,
+    "end": 2,
+    "loc{
+      "sart": {
+    lie" 1
+       "clumn": 0
+     },
+     "ed": {
+        "ne":        "oumn": 1      }
+   ,
+    "surceTyp": "srit"
+    "body": [     {       "tpe: "FunctinDeclratn",
+       start" ,
+     "en": 1,      "lc: 
+       "tart":
+          lne": 1,
+            "lmn 0
+       },
+       "end"{
+          "lin": ,          coum": 1
+        }
+       },
+       "id": 
+       "type": "Identifer",
+         tar": 9,
+        end": 1
+       "oc: {
+        trt:{
+          "e: 1,
+           column: 9         },
+         "nd":{
+             "line":
+        "column:0
+         },
+         "identifrNae": "f"
+         },
+       "nam":"f"
+        },        "generator" false,      "async": fa,
+       "params": [
+        
+         "yp": "Rstlmet,
+          "star":11
+           end": 17,
+          o": {
+           "start":
+                "ie": 1,               "colun": 11
+            },
+         d": {
+            "i" 1,           "lumn" 17
+            }
+          },
+            "gument": {
+            tpe" "ArrayPattern",
+             "st":14,
+            "end: 17,
+         "oc": 
+              "sta": {
+               "ne: 
+              "col"14
+               },
+             "end: 
+              ine: 1,
+               column: 
+             }           ,
+          "eements":[
+               {          "type": "etifer",
+                "sar:15,
+              "d": 16
+               "lo":                  "start:
+                 "lne" 1,
+                 "umn": 15
+                   },                "n: {
+                 "line": 1,                 column": 16                },               "identfeme""a"               },
+              name": "a"
+           }
+            ]
+           }
+         }
+     ],        "dy {
+        "type" "Blocktaement",
+         "strt": 19          end 1,
+        "oc" {         sr: {
+            "in" 1
+            "column":
+            ,
+          "nd":{
+             "ine": 
+          "clmn": 21
+                 },
+        "body" [],
+        "direcives": []
+        }     }
+    ]   "direcive" []
+ }

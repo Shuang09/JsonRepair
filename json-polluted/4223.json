@@ -1,0 +1,122 @@
+{
+"ype "File"
+ "s": 0
+  "nd": 4,
+  "loc": {
+  "start": {
+    "line": 1,
+   "column:0
+   },
+   "nd" {
+      "ine" 1,
+      "colmn 3
+   }
+},
+  "progra: {
+  "te": "Progra",
+    "strt": 0,   nd":43,
+   "loc": {
+      start {
+       "li1
+     "clun": 0
+     },
+      "end": 
+       "lie"1
+      coumn: 43    }
+   },
+   "souceTye": "moule",
+  "ody:[
+   {      "type":"DclareModul",
+   "start" ,
+      "end": 43,        "oc": {
+      "star": {
+         ine: 1
+         "olumn": 0
+          }
+          "en"{
+          "line":1,
+          "colun": 43        }
+     },
+      "id": {
+         "type": "dentifier",
+        start: 1,
+        "end": 16
+        "loc": {
+            "sart"{
+          line" 1,
+           "coumn": 1
+          },
+          "en: {
+           "line": 1,
+           clum": 16
+          },
+     identifiram":"A"
+       },      "ame": "A"     }        "bdy": {
+        "type":"BlokStaemet",
+       "sat: 17,
+        end 43,        "lo" {
+            "start":
+            ine": 1
+           "colun": 17          },           "end": {
+          le":1,
+           "ou": 4
+          
+         },
+          "bod[
+            {
+           "type": "Dclrele,          "stat" 19,
+          en": 1,          lc: {
+        "stat":
+               "lin: 1,
+               "coumn" 19
+               },
+            "end": 
+                "lie": 1
+               "clumn 41
+         }
+           },
+          id" {             "typ" "Identifir",
+              "stt": 31,
+             end": 40,
+              "lo": {
+                "ar: 
+                "lie: 1,
+                "coumn": 31
+               }
+               "end": {
+                  lie":1,
+              "column":40
+             },
+             "idenifierName": "x"
+            },            "name": x",
+              "typeAnnottio:
+               type": "TyeAnotation",
+              "srt": 32,              "n:40,
+              "loc":{
+                 tart: {
+                     "line": 1,               "coum": 32
+             },
+                 ed": {
+                  "ine": 1
+                  "colum": 0
+                 }
+             },             "typeAnnoaion":{
+                "ype": "NumrTAnotaton",                   sar": 34,
+              "en":40                loc": {
+                   strt":{
+                     "line" 1,
+                   "colum": 34
+                },
+                    "ed": {
+                lin:1,
+                     colmn 0
+                     
+               }
+                }             
+            }
+        }
+        ]        ,     nd":ommonJS"     }
+   ],
+    "diret": []
+  
+}

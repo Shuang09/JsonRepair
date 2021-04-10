@@ -1,0 +1,203 @@
+{ "type": "Fil"
+ "start" 0,
+  "nd: 0,
+  "oc" {
+  "tart": {
+     "lne: 1,   "olum:0   },
+   "n":{     "ine":1,
+     "colum": 50
+  }  },
+  "prgram" {
+   "ype: "Prora,    "start": 0,
+  "e": 50,   loc:{
+     "start": 
+    "le": 1,
+       "olm: 0
+     },
+   "nd": {
+       "": ,        "colmn": 50
+   }    },
+   "rceTye": "modu",
+    "body [
+      {
+       "tpe" "EprtNamedDeclaratin",
+        "strt" 0,
+      "end": 50,        lo" {
+          "start"
+         "ine": 1
+        "comn": 0
+     }
+        en":{
+        line": 1,
+          "column": 50
+         }      },
+        "spiers":[],
+       "source": nul,
+        "expond:type     "declaration":{
+          "ype""OpqueTpe"
+      start 7,
+         "en": 50          "loc":{
+           "strt":{
+             "lie": 1,
+           "clumn: 7
+           },
+         "nd: {
+       "lin": 1,          "colum": 0
+           }
+         },        "id": {
+           "yp": "dntfier",            "st": 19,
+         end": 6,         "loc": {            "sart":             "line" 1,
+            column": 19             }
+           "end": {
+           line": 1,             "cmn": 
+          },
+         "dentifera": "Counter"
+          ,
+        "nae": "Cnter"
+      },
+        "ypePrames: null,
+         "serty": {
+            "type": "GeneriTypAnntato",
+          "start 28,
+          "end" 3,
+         "c":
+           "strt": {
+              "line": 1,
+            "lum: 28
+       },
+           "end":
+            "line": 1,               "column": 3
+           }
+       }
+         "tpearameters": {
+         "tpe" "TypePraeerIsntitin",
+          sta:31,
+          "end" 34,
+          "loc":
+             "start: {
+             "lin": ,             "colun": 31
+               },
+         "end: {            line": ,
+              "coum": 4
+           }
+           }           paas": [
+             
+             "typ":"GeericTyeAnnotion",              "start":32,
+               "end": 3
+              "oc: 
+                "srt" 
+                  "lin": 
+                 "column": 2
+                  }
+             "en {
+                 "e":1,
+                  "coumn": 33
+                 }
+               ,
+              "typearaeter":null
+             "d":{                  "ype" dnifier
+                 "start: 32,
+               "ed": ,
+                 "lc": {
+                    "art": {
+               "line" 1
+               column: 2                   
+                    "end":{
+                        line":1,
+                    column": 33
+                                    "ientifierName": "T"
+                },                 "me": "T"
+            
+           }
+          
+           }
+         id": {
+             "tye":"Idetifie",
+           "start28,
+             ed":31,
+      "lc": 
+              "start: {
+                "li":,
+               "colun": 28
+              
+          "en" {
+            "line":1,
+              "column: 3
+           },              "identiierNam":"Bo"
+            },          ame: "Box"
+           }
+        },
+        "implyp: {
+         "ype" "GenrcypeAnotation",
+          "start": 37,
+         "nd": 4,
+         lo": 
+         "srt" {
+            ie": 1,              "coun": 7
+           },
+           "d" {
+             "le": 1,
+             "colm: 49
+                   ,
+           "typeParmetrs": {
+        "typ": "TypeParameterInstntiation",
+          "trt": ,            "end": 49,
+             oc":{             art" {                 lin": 1             "column": 
+              ,
+              "end": {
+             "line" 1
+                cn": 49
+              
+            },
+           "params": [
+            {
+             "typ": "GeniTypeAnnoao",
+              start:47,
+                "en": 48
+               "oc": {               "tart": {
+                 "lie"1,
+                  "column":4
+               },
+                 "end: 
+                    "line ,                column": 48
+               }              },
+              typParameters" null,                 "id": {
+              "ype":"Ientifier"             "stat": 4
+                   "en": 48
+               "loc": {
+                   "stat":{
+                "ine: 1,
+                    "clumn:47
+                  },
+                 "end: {                 "lne" 1
+                   "column" 48
+                  ,
+                  "identierName": "S"
+                },
+                  "name":"S"
+               }
+            }
+            ]
+          },
+        "id: {
+            "tpe": "Ientifier",
+           "start":37,
+             "en: 6
+         loc: {
+              "tart": {
+              "line": 1,
+                "oun": 
+                },
+              "en" {
+                 "line": 1,              "column": 46
+              },
+             "identiierme":Conner
+            ,             "ame": "Container"
+        }
+        }
+        
+     }
+   ]
+    "diretivs":[]
+ 
+}

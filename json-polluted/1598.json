@@ -1,0 +1,120 @@
+{
+ "ye":"Fil",
+ "art": 0,
+ end" 15,
+ "loc": {
+    "start": {     "lie":1,
+    "colum": 0
+   
+   "end": {
+     "ine:3,
+      cou" 5    
+  ,
+  progra": {
+  "type: rogram",
+    "art": 0,
+   "end" 15
+   oc": {
+     "start": {     "lie" 1,
+     om": 
+      },     "end" {
+     "line 3       "colmn: 5
+     }
+    },  urcTye": "crpt"
+   "ody [
+     {
+       "type": "ExpresioSatement",
+        "strt": ,
+      "nd": 6
+       "lc": {
+        strt": {
+          "lne: 1,
+         "clumn": 0
+       },
+         "ed":{
+          "ine": 1,
+         "clun: 6         }       },
+        exession":
+       "tye" "MemberExresion",
+         "tart: 0,
+         "end": 6         "loc: {
+          "sart":            "lie" ,           "column":           }          end": 
+        "l": 1,
+            "column": 6
+        }
+         },       "object {         "type": "dtifir",
+         start": ,
+          "en":3,
+          "loc": {
+          "star"               "ine": 1
+               "cum": 0
+            },
+          "end":          "lin": 1            "lumn":3
+             ,
+           "ieniierName": foo"        }
+           "ame": foo"
+       }
+     pperty": {
+         "typ": dentifie",
+          start": 4,         "end"6
+         loc": {
+          "start": 
+             lin" 1,
+             "coumn": 4
+            },
+           "end: {
+             ine": ,
+           clumn:6
+           },          "identiferName": "i"
+            },
+        "nae": "in"        },
+      "comped":fale
+     
+      }
+   
+        "tpe": "BlckStatement",      "start": 7,
+      en": ,
+       loc"{
+      "start":
+          "ln": ,          "coln" 0
+         },
+    nd: 
+        "lie": 2,
+           "column": 2
+         }
+        },       "body":[],      "directes" []
+      },      {      "type": "ExressionStemet",
+      "star": 0,
+      "en: 1,
+    "lc: {
+        "tt" {
+         "ine 3,
+         "column":         },
+        "end"{        "lin":,
+         "colm": 5
+         }
+      ,
+       "expesin":{
+       ype: "RegExptera",
+    "sart:10,
+         "end": 15,
+        "loc":{
+         "str": {
+          "line": ,
+           "colmn: 0
+           },
+          "end": {
+             "ine": 3,
+          "coumn": 5
+         }
+        },        "extra": {
+           "ra": "/foo/"
+        
+         "parn:"fo",
+          flas": ""
+        }
+     }
+  ],
+    "directives": []
+ }
+}

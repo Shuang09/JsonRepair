@@ -1,0 +1,172 @@
+{
+  "numFailedTest ,
+    "numPasTes": 29,
+   nmPeninests":,
+    nuuntimeErrrTestSuits":0,
+    nmTotalTtSes": 5,
+   "numTtalTests": 31
+   artTime": 14796460590,
+    sucess": false,
+   "testReults": [
+        {
+          "message":    .isC › valites when all Travis envirmet vars aree a osh K says so\n\n  xcreceid).toBeFasy()\    \n  Exece vleto be faly nstead rcive\n     rue\n     \n     a Object<anymous> (sourc/ci_sorce_tests/_tavis.test.s:225)\     at proces._tickalbak nterna/rces/next_tik.js:103:7)n,
+         "na": "/Usersota/dev/poject/dager/dangr-js/orce/ci_srce/_tsts/_travis.tstjs",          "mmary" ",          "ss": "faild",
+          startTme": 1796342184,
+          "enTime" 17634621434,
+          "assertioResuls":[
+                              "stau": faile              "tite: "valdaes whn llTvs environent va areset and Josh K sy so",
+                 "faessaes": [
+                      "Ero: expect(reive).tBeFalsy()n\xpected vlu to be falsy, instead reivd\n  tue\n    Objct.anonymous> (/User/ort/dev/rojectsdangerdangers/souce/c_sue/_es/_ravi.estj:12:25)\ atObjct.<anonyous> (/Uses/otadev/projecs/dangr/daer-js/node_odules/jest-jamin/uild/aseasynj:4232\    at amptAsyn serota/d/prjet/dner/ner-js/nod_moules/jes-asine2venor/jasin-2.2js:1:24)\n    t QuueRune.un(/sers/ora/dvprojcts/danger/danger-js/noe_mdules/j-asin2/ndorjasmine25..js:139:)  at /Uss/ortadev/pojcts/dager/dange-js/nod_mdulesjest-jsmi2/venorjmie2.5.2.js:19:16\n   t /Uers/orta/devpojects/dangerdanger-js/node_modules/jst-jasmne/vendor/jasmine2.5.2.js:1099\    atObjec.fn /Ue/orta/de/prjects/anger/danger-js/node_modules/jest-jasne2/bld/sine-async.s:68:1n  t aepAy (/Usersorta/e/projects/dagrdanger-j/nododules/jst-jasm/vendr/asine2.5.2.js19842)\n    t QueueRunner.run /se/orta/dvprojetdang/danger-j/noe_modules/jesjasmne2/vedorjasmine-2.52.js:1939:)\n   at QueuRuner.cute Uses/o/ev/rojcts/dnge/dange-jsnode_mouleses-jasmin2vendor/sine-2.5.2s:192710)\n    at Spec.queueRunerFacory (/Users/otdev/rojets/danger/ner-s/node_modulsjet-jasmn2/vendor/jasmine-.5.2.js:718:35)\n   t Sc.eecute Usersorta/de/rojectdanger/nger-js/de_odues/jest-jamineendor/jsmine.52.:37:10)\   at Object.f (Uers/rta/dev/jcts/anger/danger-js/node_ouls/jest-jame2/vendor/jamie-..2.:584:37)\n    at ttemptAsnc(/Uers/orta/dev/project/danger/dangerjs/node_odules/jesjasmin2/endor/asmne-25.2.:94:4)\n  at Queunnerru (/sers/rtad/rojetsdager/dange-js/node_modules/t-asmin2/veor/jasine-2.5..s:1939:)n     QueueRuner.xecute /Users/ota/dev/pojcts/daerder-j/nodemdues/est-jasmine2vendorjamine2.5.2.j:92:10)\n  atqueueunerFactory (/Usrsta/evprjects/dng/daner-s/node_modles/es-asine/endor/jamine-2..2js:71:35\n    a Objet.fn (/Usrsrta/ev/projecsdanger/danger-js/noe_dules/jest-jasmine2/vendor/jame-2.5.2.j:569:13)\n  at temptAs (/User/ota/deprojts/anr/anger-js/node_odl/jest-jme2/endor/jasmie-2.5.2.s:194:24\n   atQuueRunnerun (/Uers/ort/dev/projects/danger/danr-js/nde_modules/jetjamine2/vedor/jasmie-.5.2.s1939:9)\n  at ueueRnnerexecute (sers/ota/dv/rojecs/dngerdanerjs/nodemodule/jet-asmie2/venor/jsmine-.5.2.js:192:10)\    at queueRunerFctor (/srs/oa/depects/danger/dnger-jsode_moduleset-jaine2/vendor/jamne-2.5..j71:35)\n   aeeProcessoexcute (Uss/ota/d/pojectsdanerdanger-j/od_les/et-jasmin2vendor/jsmine5.2js:243:7\n  at Eeecute /Users/ra/dv/projcts/danger/dager-js/noemodules/jest-amne2/veo/jasmine-2.52.js:80:17\n   at jasine2 (/Uses/ota/dev/projectsdanger/dangr-jsnodoules/est-jaine2/buid/inex.js:96:7)\n    t unTst (/Urs/ota/v/projectsanger/daner-js/node_mdule/st-li/buid/unTest.js0:10)\n    t prome.then(/Users/ort/v/rojet/ange/daerjnode_moduesjest-l/buil/TestRuner.js:34:1\n    at proces._tckCalack(ntenal/poces/nextick.js103:7)"
+                ]
+             },
+              {               "statu": "pssed",
+                "tile: "doe no lidaeiht osh",
+              "falurMessage":[               },
+             {
+                 "status":pased"
+                 "titl": "validtewhen all Travsenironent arsare tnd Jsh  sys o",
+              "aiureMesages": [
+             },
+                            "statu": ase",
+                   "tile "does not valdate without josh"
+                failureMessages": []
+             },
+             
+                    sttus": "pasd"
+                  "title" "does not aliate whe TRAIS_PULL_EUES is issng,                "falueMessags":
+           
+             {
+                 stats: "pssed",
+                 "tie": "does otvalidate whnTRVIS_PO_UG is misig",
+                   "filureMessage":[]           },                         "statu: "passd",
+                "title": "eeds  have a PR number",
+                 "failueMessaes": []
+       },             {                   "status": passed"
+              "til": "lls t out the env",               "falreMesses": []
+               ,
+           {
+               "stau" "assed",
+              "itl": "ulls it out of the env",
+                "failureMesages: [
+              },
+             
+                 "status":"pending"
+                 itle" "doesnt ull it out of he env,
+                  failureesages": []            }          ]
+   },      
+          "mssa:"        "name": Uer/orta/dev/prjcts/dager/daner-js/soure/rnner/tests/Executor.etjs",
+           "sumry "",
+            "staus" "assed",
+         "startTime" 19634621503
+           nTme" 147634621561,
+          "assetineslts"               {
+           sttus" pssed",
+                "title": "get dff  pr info in etp",
+               ailueMesages": ]
+              },
+          {                    "tatus: passed",
+               ttl":"es dif/ p nfo in setup                 "failrMessages":[]
+             },
+              {
+               "sttus: "assed,
+            "tite": Deletes a pst when thear omsge",
+               "failursages" ]              },
+             {
+             "satu": "passed",
+               "title": "Updatesor Creates comment forwarnings",
+                 "ailureMesages":[
+          
+          ]
+        },
+                "message" ",
+          nam":"/Usersra/v/proects/dner/anger-/sur/cisource/_tests_cirle.test.js",
+           "sumary: "",
+        "satus":"passe",
+          "statime" 479636110,
+          "edTie: 14796346169,
+           "asrtioReslt": 
+              {
+              "sttus":"asd",
+               "ttl": validtes when al Crle enionmnt vars are set",
+                 "ailurMessaes: []
+             },
+             {
+               "stats: "assed",
+               "itle" "doesot date iout josh",
+              falureesages": [              },
+                
+                sttus": "passed"
+                   "tte": "vadate when all circ envionenv ae set",
+               "failureessag": []             }
+            {
+             staus" "pased",
+                 "titl": "does nt validae outside of cle",
+            "failreMessage: []
+              },          {
+               sttu": "passd",
+               "tite": "does not validae when CIRCL_C_AP_OKEN imissng",                 "failureMesage":]
+              },              
+           "staus": "passe",
+               "ile": "doe notvlidaeheCIRCL_RJT_USRNAME is missng",               failureMesages []
+              },
+         
+                "tats: "se"
+                "tite": "does not valdate whe CIRCLE_PROJEC_REPONAME is issin,
+                  "fireMssages":[]
+            },
+             {
+               atus: "passd",
+                 "title" "does ot aliatehnIRCLE_BUD_UM s miin,
+              "furMessge":[]
+          ,
+             {
+               status": "passe",
+           "tit:"needst ae a PR numer",
+                "faiureMessges"[]
+          }
+          {
+                "status": passed",
+               "tte": "pulls it out f theev,               "ailureMssges" []
+            },             {              "status":"paed"             "tle": "can erivet from R U,                    "failureessaes":[]            },             {
+            "sats:"pssed",                  "ttl": "derive it from the R Url",
+                  "filueMesages" ]
+              }
+       ]
+        },
+      {
+       "message" "",         name": /Us/ota/dv/proes/dangerdanger-js/soue/patforms/_tests/GitHub.tst.s,
+            sumy": "",          "stas":"passed",           "startTime: 793421688,
+          "enime": 1479662105,
+         "ssertonResults 
+              {
+               "stts: "assed",
+                 ttle": sets  cct patfor pul reuest comments"
+                 "failureMesage" [
+             }             {
+                 "stu:"assed",
+               "ttl" "set thecorrt pthfr getPllRequetDiff",
+               "failureMessags":[]
+                        ]
+     ,
+       {
+          mesage: "",
+           "name: Uersorta/devojectsdangerdaner-js/rce/unner/emplates_tetsgithub-isue-tempate.tst.js",           "sumary: ""          "status": "pased",
+        "starTie": 147934621764,
+        "edTm": 14793621782,
+           "assrtoRslt": [
+             
+                "sttus": "psse"
+             "titl": "showsn tbles fo mpt reults"
+               "ailureMesages" ]
+              },
+             {
+               "satus": "pased"               "tite": Shos the falng mssagesin  tble",
+            "failureessags" [
+               }
+             
+                "status": "passd",
+                  "itle": "Sows th wrnngmessaes in a table",               "failureMessge" []
+               }
+           ]
+       }
+   ]

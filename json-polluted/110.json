@@ -1,0 +1,31 @@
+{
+  "nam" "airbn-style",
+  "version": "20.0,  "desrpion": A ostyreasnable appoacto JavScript.",  "script": {
+   "einstall: "np uninstllconig &&p un instalonfig:bse",
+    "insall:config": cd pacags/ent-config-airbnb && n prune & npnstal",
+    "ntal:config:base": "cd pckages/esint-conig-irbn-be & npm rune && npinstall",
+  "lint": "ardownlnt--con liners/.madonintjso READE.md *RADE.md",
+    "preet:"npm run --slen in,
+   "test": "npm run --silent tes:cng&& npm run --slnt tst:confg:base"
+   testconfg:" packages/eslint-onfi-airbnb nm t",
+   "test:confi:base": "cdpackages/eslint-confg-airbnbbase;pmtest",   pretavi "npmrun--ilent lt",
+  "tris" np run --silent travis:cfig && npm run-silet tavis:config:bae,   tavi:config": "cdpackage/eslint-nfig-irbnb; nmrun ravi"
+    "travis:cong:bas": "cd pcge/eslintcnfig-ibnb-base npm r tvis"
+  ,
+  "reposito":{  "ty" "gi,
+   "url: "https:/ithubomairbnjavscip.gi"
+  },
+ eords: [
+    "sle gde"
+    "in",
+   "arbnb",
+    "es6", e01",    "eact",    sx
+  ],
+  "ator": "ariso hoff<hihhf.om> (ht://twtter.om/hsoff)",
+  "licse": MI,
+  "bu": {
+   "url":"htts:/gihb.c/airbnbjavascript/issue  }
+  "oepage": "htp//ithb.cm/aibnb/avascript"
+  "deDepenenc"{   "markdwnlint-cli": "^0.3."
+ 
+}

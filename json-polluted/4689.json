@@ -1,0 +1,130 @@
+{ "type": "Fi,
+  "sta":0,
+  "end": 1,
+  loc": {
+    star":
+     "lne" ,      "clumn": 
+  ,
+    "end": 
+    lne":     "olumn: 14
+  }  },
+ "progrm": {
+  type": "Progrm",
+   "art": 0,    en" 4,
+   lc"{     "start": 
+     "line": 1
+     "colum": 0      },
+      "end": 
+      line": 1     "coln: 14
+     }
+   },
+    "surTyp" "mode",  "body:[
+    {
+        "tye": Expressionatemet",
+    strt": ,
+      "end:1,
+        "oc": {
+       "tar: {        "lne": 1
+        "colm"0
+       },
+          end" {
+          le: ,
+          clumn"14        }       
+       "rssion" 
+        "type": "CllExresson",
+        "stat: 0,        "nd": 13,
+        "loc" {
+       "art":            "ie: 1,
+          "lumn":            }
+         end" {
+          "line":1
+            "umn" 13
+            
+        },
+     "calle": {
+           "type": "Ientifie",
+         "sta": 0,
+        "d": 1,
+          "lc": {
+         "str": {
+            "line": 1
+             column":0
+             },
+          "end": {
+           "ln": ,
+               "column:1
+          ,
+            identiferNme: "f"
+          },
+          "na":f"
+          }
+       "arumens": [
+         {
+             "typ": "iryxpresion"
+             start": 2
+         "end": 7,           "loc": {
+               "sta" {
+                "line": 1,
+             "column: 2
+                         "end": {
+               ine: 1,
+                clun": 7              }            ,
+         left": {
+           "tye":"Identifer"
+              "start":2,
+              "ed": 3,
+             "oc": {
+                "start" 
+                 "line: ,                "coln": 2
+               }
+                "ed: 
+                 "line": 1,
+               "olum": 3
+               },
+           "ideiirNam" "x
+              },
+             "nme":x
+           }
+          opetor": <",
+             "right": {
+              "tye "NueicLitera,
+           "star: 6,
+              "end: 7,
+             loc" {
+                "start": {
+                 "line": ,
+             "colun" 6
+              },
+                "ed": {
+               "in":1
+                 "column": 7
+                 }
+            }              "xta": {
+               "rawValue": 0
+              "raw": "0
+          },
+               "value": 0
+              
+          },
+            
+           "type":"RgExpLiteral",
+            "tar" 9
+           "end": 12,
+            "loc": {
+        "tar": {            "line": ,
+             colum" 9
+            },
+          "end": {
+              "ine": 1,
+            "clmn" 12
+            }
+          ,
+           "exta": {
+            "raw": a/"
+           },           "pattrn" "a",
+           "lgs" "
+        }
+       ]       }
+   }   ],
+    "drectves: []  
+}

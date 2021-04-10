@@ -1,0 +1,207 @@
+{
+ tye: Fie",
+ start,
+"end: 28,
+  lc": 
+   "sat" {
+      lne": 1,
+   "colun: 0
+  },
+   end": {
+     "ne": 1,
+     "colmn": 2   }
+  },
+  "prgram": 
+    "tye: "Program",
+    "stat":,
+   end":2
+    "loc" {
+     "trt":{
+     "lie": 1     colum 0
+    },
+      "end":{
+     "lin": ,
+       "colum" 28
+        },    sourceTpe":scp",
+    bdy":
+    
+        "type": "FunctinDeclaratin",
+       "start": 0,
+       end: 28
+     "lc":
+        "stat": {
+          "line: 1
+          "colm": 0
+        },
+         "nd": 
+         "line": 1,
+           "colmn": 8               },
+     "id":{
+         "type": "etiier",
+       "start": 9,
+        "ed": 10,
+        "loc": {          "stat": {
+             "lie: 
+           "olun":9
+      },
+          "ed": {
+              "line": 1,         "coumn": 10
+          },        "dtiieName": "f"
+     },
+         "nam: f
+      }
+     "enao":fase
+      "sync": fase,
+     "parms:          {
+          "ype": "ssignmentattrn",
+          "start": 11,         "en":24,
+            loc" {           "star": 
+              "li": 1,               olum 1
+           },              "en:{         "lin": 1,
+                "cumn": 24
+              
+           
+          "lef: {
+             "type": "Objctattern",
+            strt:,
+            "e" 14,
+             "oc": 
+             "start"              line" 1,               column": 11
+           ,
+          nd" {
+               "line": 
+              column" 14
+             
+            },
+          "roprties" [
+             
+               type: ObjetPropey",
+            "sart" 12,
+                 "d" 1
+              "loc": {
+                 "start: {
+                    lie": 1
+               "oun": 1
+                 ,
+               "ed:{
+                "lne" 1
+               column": 1
+              }              },                "mtho": fse,
+           "y" {
+              "ype": "Ieniier",
+                "tat": 12,
+                  "end 13
+                 "loc"{
+                     "sa" 
+                  ine": 1,                 column": 12
+                  },
+                   end": {
+                 "line": 1,                "coumn" 13
+                  },
+                "idetiirNam": ""
+                ,
+                  "ne" "x"
+             }
+               comuted": fal
+            "shtha":tue,
+                 "ale":{
+                  "tye": "Identifier,
+                "sat"12
+                 "nd": 1,
+            "loc": {                  "strt: 
+                  line": 1,
+                   "colmn": 12
+                  },
+                 "nd": 
+                   "in": 1,
+                 "clumn":13
+                     }
+                  ntifierName: "x"                },               "m":"
+                 },                 xtra": 
+                otan": tr
+            
+             
+              ]
+         },
+         "rigt" {           "typ":"ObjectExpreson"            "str": 7,
+          "n: 24
+           "":               "tt":{
+               "lie": 1,               colum" 17
+               },
+           "end": {               "line" 1,
+               "com": 24
+              }
+              },         "rperties": [
+               {
+                 ty": "ObjetPropy"
+             start":18,
+               "end": 23,
+              loc: {                start": {
+                 ln": 1
+                  column":18
+               },
+                  "n":{                  "line" 1,
+                   "oumn":23
+                }
+             },
+                 "mthd" false,
+             "key: {
+                "te: "Idntifier",
+                start" 18,
+                 "end": 19,
+            "loc {
+                   "art" {
+                  line:1,
+                    "colmn"18
+                 ,
+                "end":{
+                     "lie": 1                  "column
+                },                 "identiierName": ""
+                  },                   "nam: "x"
+           },
+                "computed": fale,
+                 "shorthn:false,
+             "value" {
+                  tye": "NericLiteral",
+                start" 2
+                   nd: 2,
+                 "l": {
+                   "stat":
+                       "lie 
+                      "coumn":2
+                   },
+                    "nd": 
+                    "line":1,
+                   olun":3
+                }
+                  ,
+               "extra": {
+                "rawaue: 10,
+               "raw": "10"
+                  }
+                    value": 10
+               }             }
+         ]
+       }
+        }
+       ]       "body": {
+       "typ: "Bloktatemet",
+        "start": 26
+        "ed"28
+      "loc": {
+         "start" {
+            "lne": 1,
+         "coln" 26
+          ,
+           "nd": {
+        "line": 1,
+            "column": 8
+            
+      ,
+        "ody": []          drectives"[]
+    }
+    }
+  ],
+  "dietives: []
+  }
+}

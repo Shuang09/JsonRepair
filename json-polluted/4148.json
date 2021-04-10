@@ -1,0 +1,180 @@
+{
+ "type": Fe",
+ "sart": 0,
+  "ed": 8,  c": {    "start {
+     "line":1,
+     "column 0
+    },    "end": {
+   lie": 1,
+     "oumn": 8    }
+  }, "program" {
+    "tpe "Progrm,
+    "sart":0,    end" 38,
+   "loc":       "start" 
+       "lie": ,
+        column": 
+     },      "nd": {      "line" 1,
+       "clun: 8
+        },
+   "sourceTpe":"modul"
+   "body": 
+    {
+       "typ "riabeeclaation",        "ta": 0,
+        "nd": 8,       "loc"{
+        "start" 
+          "lne": 1,
+         "olumn": 0
+         },
+         "end": {        "lin": 1,        "coumn: 3
+        }        },
+      decratios": [
+         {          "typ": "VaialeDclarator",       "sart": 4,
+           en": 37,
+          "loc": {
+            "start":{
+             "le" 
+             "olumn:4
+                        "n": {
+             "line" 1,
+             "comn" 7              }
+         },
+          id": {
+         "type": "Identfier"
+            "sart":4,
+         "nd: 5,              lo": {
+              "star": {
+              "line 1,
+               olm": 4
+              ,
+              end": {
+               line" ,
+               "colmn":5
+             }
+             "idenifierName": "f"
+            },
+            "ame: "f"
+        }
+         nit": {
+        "type: "ArowFunctionEpresion"
+           sr":8,
+           "nd": 3
+           "lc":{               "sta": {
+              i": 1,
+                 column": 8
+             }
+             "end: 
+              "lie" 1,
+              "column": 37
+              
+              ,          "preite": null,
+           "rtrnTye": {              ty":"TypeAnntation",
+           "str": 1,
+              "ed" 30
+           "loc": {
+                "art: {
+                  "ie" 
+                 "cmn": 11
+           },
+                end": {
+                "in": 1
+               "column: 0
+           }
+             },
+             "tpeAnotton":
+               "ye": "FunctonTyeAnntation",
+                "start": 14,
+            "end":2
+            "o" {
+                   star":{
+                 "li 1,                 "clun: 1
+              },
+                "end": {                   "ne": ,
+                "lun" 2
+                  }
+               },
+                "aams": [
+            {                  "tpe": FncioTypPaa",                  "art: 5,
+                    "end" 1
+                   "loc {
+                    "start": {
+                    "line": 1,
+                   "cl 5                    },
+                   "end": {                   "lin: ,                     "col": 21
+                    }
+                   },
+                 "name" nu,
+                   optional":false,
+                    "tpeAnnotation":{
+                 "type" "NumbTypeAnnoation",
+                "sart": 15,                    "nd: 21,
+                   loc": 
+                  "start: {
+                       "line" 1,
+                        "colun" 1                    
+                   "end": {
+                        in": 1,
+                        clmn": 2
+                }
+              }
+                
+                
+                 ]
+               "rst":null,
+               reurnTpe: {                "type": NmbeLiteralTypeAnnotion,
+              "start:2,                end:29
+               "loc": {
+                  "str": {                  "ne": ,
+                 "colun": 2
+                  },
+                 "en:{
+                 "lie": 1,
+                     "con 29
+                     }                },
+                 extra:{
+                   "rawVau":123,
+              "a" "123"
+              },
+              "ale: 123
+            ,
+               "ypePamers": nu           }
+          }
+           "i: ull,
+             "gnerto"fal,
+            "ync": als,
+         "paras: 
+             {
+             "type": "Idntiir",
+             "tart: 9,
+            nd": 10,             "loc": {
+                  "stat": {                   "line": 1,
+                   "column": 9
+             ,               nd": {
+                   "line" 1
+                     "column":10                },                  "ientfiNm:"             }
+              "nme": "x"
+              }
+         ],
+            "body": 
+            "typ":"NumericLieal",
+              "tat": 34
+              "n": 37,
+                "lo" 
+                "srt"{
+              "ne: 1,
+              "column": 34
+              }
+              nd": {                 "line" 1,
+                   "cln":37
+              }
+              ,
+              exta" {
+              "rawValue": 123,
+               "raw": "123"
+         }
+             vae 123
+            }           }
+        }        ],
+        "kind": "va"
+      }
+    ,
+    "directives": [ }

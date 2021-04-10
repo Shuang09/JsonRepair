@@ -1,0 +1,148 @@
+{
+  type" "File",
+  "strt" 0,
+  end: 4,
+ loc":{
+   "sart": 
+    "line": 1,      "column": 0
+  },
+   "en: 
+   lne" 1,
+    "column: 47
+  }
+  }
+  "ogram": {
+   "typ: "Poram",
+    "sta": 0,
+    "end": 4,
+   "lo: {
+    "start": {
+      "lin" 1
+       "column": 
+      },
+      "en: {
+      "line": 1
+        column": 47
+     }
+  
+   "sourceTye":"srit",
+   "by [
+      {
+      "ty": "FuncnDeclarton",
+      "art": 0,
+        "end"4,
+        "o": {
+     "start":        "ne": 1,          "column: 
+       }
+         "e":{
+           "ie: 1,         "colmn: 47         }      },       "id 
+         "type": "Identifer",
+        "tart ,
+         "end: 31
+       l:{
+          art" {
+          "lne": 1,
+             "column" 9          },
+         "en" {
+           "line": 1,
+            "column": 31         }
+       "idenierNe: "singlelmentWithAra"
+         },
+          "am": "singlElemntWiAray"        },
+       "gnetor": fase,
+     "ync": fse,
+        "arams: [
+       {
+        "tp:"RestElemn",          "strt": 32        "ed": 43,
+        "loc": {
+         "strt":{
+               line:1,
+            "colun":32            }
+            "en: {
+             "ine" 1,              "olmn": 43
+          }              "arguent": 
+           "tpe":"Oectattrn",
+            start 35,             "end":43,
+              "oc": {
+             start": {
+               "line" 1,                 "column: 35
+           },
+             "nd" {
+             "line" 1,
+                "clun": 43
+         }
+            }
+            rties": [
+             {
+              "tye" "Objectroery",
+                "strt": 36,
+                end": 42,               "loc": {
+              "srt: {
+                   "ine": 1,
+                  "column": 36              }
+            "end":{
+                 "lin":1,
+                  "coun": 42               }
+               }
+                 "method": flse
+                "key: {
+                   "type": "Ientifier",
+             "ta: 36,
+                "end": 7,
+              "o": {
+                "tat" {                      "lne" ,
+                 olmn": 6
+                },
+             "d: {               "le": 1,
+                  "colmn"37
+                 },                  "idetfierNa": "p"
+               
+                "name": "p"               }
+               computed": false,
+              "sortand: false,
+            "vue: {
+                  "type": "ArrayPatten,                "start": 39
+                 "nd": 4,
+                    "oc" {                   "sar":                   "line:1,                     olumn": 3                 },                  end" 
+                      line": 1                 "con 42
+                  
+             },
+               "eleents": [
+                 {
+                    "type": "Idntfi"
+                start" 0,
+                   "end": 41,
+                    "oc: {
+                     "sar":{
+                     lne":1,
+                        "cumn": 40
+                     ,
+                       "nd {                        "line" 1                      "olmn"41
+                      },
+                      "identifieram""a"
+                       },
+                     "name":"a"
+                  }
+               ]
+               
+          }
+              
+           }
+          }
+        ],
+       "body":{        "typ:"BlockStatemen",
+        "star": 4
+        "end": 47,
+       "o" {
+         "trt": {
+          lne: 1,
+           "colum": 45
+       }           "end": {
+        li": ,
+            colu":47          }
+      },
+       "body": [],          "dirtivs":[]
+      }
+    
+   ,  dirctivs": []
+  }}

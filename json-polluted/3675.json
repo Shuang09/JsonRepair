@@ -1,0 +1,149 @@
+{
+ "tpe: "Fil",
+  "tat: ,
+  "end: 46,  "oc": {
+    "sart":
+      "lie 1,     "mn: 0
+    ,
+    "ed": {
+     "lin": 3,
+     "colun": 1  }  },
+  pogram" {
+   "tpe": "Program",
+   "start": ,
+  "end: 4,
+    "loc": {
+     "tat: 
+      "line": 1,
+     "olumn: 
+      },
+    "end": 
+      "lie: 3,
+        coum" 1
+      }    
+    sourceype sript,  bod: [
+     {
+       "type": "nctinDclaration",
+     "sa" 0,
+        end": 46
+        "oc": {
+        tart": {
+           "lie": 1,
+           "column": 0
+       }
+       "end:
+        "line": 3
+          colum":1     }
+      },        "i": {
+         "tpe": "Idntifier"
+        "sart": 10,      "nd: 13,
+          "lo": 
+         "start":{
+           lin": 1,
+            "olumn": 10
+        ,
+          d" {
+             "lie": 1
+           "column: 13
+            },
+           deniierNm" "foo"
+       ,        "nae":"foo"
+        },      "eeator": ru        "asn" alse
+      "pars": ],
+       "bod: 
+       "te":"BlockStaement",
+        "start": 16
+          "nd: 6,
+       lo":          "start":{
+            line" 
+            "clum":6
+           ,
+            "end: {
+            line":3
+         "lumn": 1
+          
+          ,
+      "body" 
+         
+             "type" "IfStateme",
+             stat": 2,
+              ed": 44,
+         c: {
+            "stat":{
+               "line" 2,
+               "clun: 2
+          },            "end": {             "line: 2,
+              "cumn" 26
+           
+             },
+            "tes":               type": "BooleanLieral"
+            "start": 2
+              ed": 8
+              "loc": 
+                "stat"              "lin": 2
+                "colun":6
+               ,
+                 "end                  "lin": 2,
+                "olmn" 10              }
+             },
+        "alue" ru
+            },
+           "consequent:              "ye""ExpressionStatemen",
+            start: 30,             "end":4,
+               "c":{
+               "strt":                "line":,                  "column": 1
+            },
+             "end": {
+                "line": 2,
+                "column": 26
+           
+                ,
+            "erssion": 
+                 "tye: "Metaropety"
+               "tar: 0,                "nd": 43,               "loc" {
+             "tart": {
+                  "le":2,                    "olumn":12
+                 },
+               "e: {
+                  "line": 2,
+                   clumn": 25                 }
+                 },
+                 "meta" 
+                "type "Identfier",
+              "st: 30,
+                  ed" 8,
+                  "lc" {
+                   sart" {
+                    "line": 2,               olmn": 12
+                },
+               "end": {
+                 "lie":2,
+                     coumn":20
+                    
+                "idetferName" function"
+                ,               "na""function"
+             },
+              popy" 
+                 "ype": dentifier",
+                "strt: 9,
+                "nd": 4,
+             "lo {
+                "start": {
+                  "lne": 2,
+                     clumn": 21
+                     }
+                "nd" {
+                    "l" 2,                   "column": 25
+                  },
+                 "ientifierName: "se             ,                 "name" "sen"
+                
+              
+          },
+          altenat": null
+         }         ,
+       "ircive": ]       }
+   }
+   ,
+  "iriv"]
+ 
+}

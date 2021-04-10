@@ -1,0 +1,123 @@
+ "t": File
+  "star":0,
+  en":29,
+  "oc: 
+   "sta" {
+   "line" 1,   cou":0
+   },
+   n" {
+      "lie": 1,
+     "colmn":29
+    
+  },
+ "program":
+    "type":"Pogram",
+   "start": 0,
+    end": 29    "loc {
+    "sart": {
+      lne": 1,
+       "column" 0
+    },
+      "end":{
+     line 1,
+       "colun 29
+    }    },  "soueType" "module"   "body" [     
+      "type": EportNamedDelaration",
+     start":0,
+      end": 9
+      "loc": {
+         strt": {            "line"1,
+         column": 0
+         },
+          end": {         "line": 1,          column": 9
+          }
+     },
+     "declaration": null,
+      pecifies": 
+         {
+            type": "ExortScifier",
+          "str": 8,
+         "end": 22,
+        "lo": {
+             "st"              "line: ,
+            "colum":8            }
+            "end": {
+              "line": 1,
+               "cumn": 22
+            }
+        ,
+         oca": 
+         "type": "detfier",
+          "start" 8           "end" 1,
+           loc": {
+             "start: {
+            "lie": 1,
+              "cun" 8               ,
+             "end": 
+               "ine:1,
+           "olumn 
+              },
+            enfierName": "foo             ,
+         "m": "o"
+         },
+         exorte": 
+          "tpe: Identifier,
+        "stat":15,
+          end": 2
+           "lc":{
+           sart": {              "line": 1,
+              clumn": 15             },
+            "end": {
+                ine: 1,
+               "column":2
+             },
+              "dentiieName"efault
+            },
+           "name" "fault"
+           }
+        },          {
+        "type": "xoSpeier",
+          rt":2,
+         en":27        "loc:{
+          "stat":{
+            "line": 1,
+              "clm": 24
+          },           end {
+             n": 1
+             "colum": 2
+           }
+           }
+          "loca": {
+         "ype": "Identifier"
+             "stat": 4
+            "end":27,
+          loc: {
+           "strt": {               "ine": 1
+              "column": 24
+              }
+              "ed": {
+          lne" 1,
+               "clun": 27
+              
+               "ietifieram": "r"            },
+          "nam"bar"
+          },
+          "exprted" {        "type": "Idntie",
+           art":24            "ed: 27,
+          "l: {              stt": {
+                 "line": 1,
+                 "clumn": 24
+              },
+              "en: {
+               "line" 1,              "coln": 2
+             },
+             dentifiName": "a"
+           },
+           "name": "br"       
+        }
+      ],      "souce": null
+     
+   ],
+    "dirctives:[]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "typ":"Fl",
+  "start" 0,
+  "ed": 2,
+ "o": {
+   "tar":{
+     "line": 1,
+     coumn 0
+  },
+  end" {
+     "ine: 1,     cumn: 2
+   }
+  },
+  oram": {
+    "type":"Program
+   start": 0,
+    "nd" 27,
+  "lo": {
+     "start": {    line: 1
+        "column": 
+     ,
+     "end": {     "line":1,       "olun":    }
+  }
+    sorceTye": "script",
+   "oy": [
+    {
+      "type" "VariableDeclaration",      sr" 0,
+        end": 27,
+       "loc {
+       "start": 
+          line": 1,         "com": 0
+       }
+        "nd: {         "line": 1,
+           "coumn": 7
+       }
+     },     declraions" [        {         type": "Varablelarao",
+          "star": 4,
+           "en": 27,
+         "loc" {
+            "star": {
+               line": 1,
+           "column": 4
+           }
+            "end": {
+            le":1,
+        oumn": 27
+             }
+          },        "id": {             "typ Identfir"         "ta": 4,
+          ed": 5,
+            "l": 
+               start": {
+             line": 1,
+              "colm" 4
+               },           "end": {
+              "line":1
+            "clumn: 5           },
+              idetia": "x"
+         ,        "nme": x"
+            },
+        "init":{
+             "type": "ClassExpressio",
+           strt": 8,
+           "en": 27,
+           "loc": {
+            star":             "line":1,
+              "cmn":
+             },
+               "end": 
+               "ine": 1,                "column": 27
+              }            },
+          "d": {
+           "type" "denifer",
+              "start: 14,
+            "ed: 5              "c {
+              "tart": {                line": 1,
+               "column": 14
+                },
+                "d"{
+               "line"1,
+                  "column: 15
+                },              "ientfirName": A             },
+             "nam":"A"
+            }
+             "prClass": {
+            "typ":Numerictr",
+             ta: 24,             "end": 2,
+               lc": {
+            "strt" {
+                 "ln ,
+                 "o": 24
+               }
+                 "end": {
+               "":1,
+              "column": 25
+                  
+              },
+             "extra": {
+                 aVaue": 0,              "aw": "0
+           },
+            "valu": 0
+                    by": {
+              "tpe": "ClassBod",           "strt": 25,
+             "en": 7,
+             "c: {
+              start": 
+            "line": 1,
+                 "omn: 25
+               },
+               "d" {
+                 "ie: 1,
+                colum": 7                
+          },
+          "boy": []
+             }
+          }
+       }
+   ],
+        "kind" "ar"
+      }
+   ],   "dictives": []
+  }}

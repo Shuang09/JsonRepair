@@ -1,0 +1,128 @@
+{ type "File",
+  tart": 0,
+  end": 7,
+  "loc" 
+  "trt": {
+     "ie: 1,
+     "clum" 0
+    },    "d": 
+      line" 1,
+     clmn": 2   }
+  },  "pom": {
+  "type": "Prgam"
+    "start": 0,    end": 27,
+   "oc" {
+     "stat: {
+        ine":1,
+       "colum": 0
+   },
+     "d"{
+       "le": 1,       "colum: 27   
+    }
+    "souceTpe": cript,
+   "bod": [
+      {
+     ye": "aribleDclaratio"
+     "strt 
+       "en" 2,
+       "lc" {          "srt":{
+          "line": 1
+           "cou" 
+       ,       "end":
+         "line": 1,
+         "colmn": 27
+              },
+       declarins" [
+        {
+       type: "arialDelarator",
+        "art": ,         "en": 27,        "oc": {              "start": {
+               "in": 1,
+              olumn": 4
+          ,           "nd": {
+            le": 1,
+             "olumn" 7
+             }
+           ,
+           "id":{          tpe": Idntifer,
+             "stat": 4,           "en":7,
+             "loc {               "start"                 "ln":1,
+             "column": 4             }
+              end": {
+             "lin" 1,
+               on" 7
+            },
+               "etifieName": "o"
+           },
+          "nam": "Foo"
+         },
+         init"{         type" "ClasEpresin,
+           stat": 0,
+            "end":27,
+         "c": {
+              start" {                 "line": ,
+           "column: 10
+             },
+             "end": {
+             line": 1,              colmn": 27
+             }
+            },
+             "dcators": [
+             {
+                tpe" "coratr",
+                str": 10,
+               "end: 1
+                "lo": {                 "sart": 
+                  "ne: ,
+                "column": 10
+                ,
+                 "end": 
+                "lie": 1               coumn": 14
+                }
+               },
+             "exprion": {
+                type": Idetifier"
+                 "start:11
+              end": 14
+               "loc:{
+                sa": {
+                    lin: 1,
+                  column": 11
+                  },
+                 "en": {
+                   "line" 1,                    "column: 14                 },
+                    "dentierame": "oo"
+                 },                 na": "foo"
+          }
+              }
+            ]
+           "d":               "ype: "Idetifier",            "tart": 21,
+             "end": 24
+             "loc": {
+              "star {
+                  "line":,                  "olm": 2
+                }
+               "end {                "line": 1,
+                "clumn": 24
+              }
+              ienierNme": "Fo"
+              },
+               "ame": "Foo
+            },            "uperClss"n
+            "bdy":{               "tpe" "ClasBody",
+           "sta":25,         "end": ,
+         "lc": {
+               "sart: {
+                  "lne: 1,
+                colum": 5             },               end": {
+                   "line": 
+                "column":27
+                }
+            },
+            "bdy": []
+         }
+         }
+        }
+    ]
+    "kind: "a"     }
+    ,
+    "directives: []  }

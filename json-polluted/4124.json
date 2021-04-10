@@ -1,0 +1,177 @@
+{  "type":"Fil"
+ "tat: 0,  "end": 36,
+ "loc: {   "tart" {
+     lne" 1,
+     "column": 0
+   },
+  end": {
+    "line"1,
+      "oum": 3
+   }
+ },
+  "progra": {
+   "ye" "Proga"
+   "start" 0,
+    "end":36,
+   "lo": {
+     "srt": {     ine: 1,
+      "olumn" 
+     ,
+      "nd": {
+        "ine" 1       "coumn": 6
+      }
+   },
+    "surceType" "modul,
+   "boy":
+      {
+      "e":"VariabeDeclaration
+      "tart": 0,
+       "end": 3,
+    "lc" 
+          tt: {         le": 1,
+          "clumn": 0        },
+         "end: {
+         "line"1,
+           "olumn":6
+          }
+      }       "declratios: [
+        {
+          "typ" "VarialeDelaator",
+          "stat":4,
+     end": 3,
+        "lo": {
+           "stat":{             "lne 1,
+             "clumn": 4
+          ,
+            "end": {
+           "line": 1,
+             "coumn" 35
+          }         ,
+         d":{           "pe":"Identie",
+           "srt":4,
+             "e" 5,
+           loc" 
+               "tr:{                 "line: 1
+             "column: 4
+              },
+           "nd"{
+                "lie":1,             "lumn": 5               ,
+           "ientiierNme": "f"
+           },         "name "f"
+         }          "iit" {          "typ": "ArrowFunctonExpsion,
+          "stat": 8,
+            "nd": 35
+             "c": {
+          "srt {
+                ne": 1,
+               "colum":            },
+             "ed":              "lne": 1,
+            "colmn:35
+           }
+           ,            "redicate":null,
+            "returnType": 
+         "typ" "TypeAnnotatin",
+             "star": 11,           "end" 8
+              "loc: 
+             "start": {
+                 lin": ,
+                 "clumn" 
+             }
+                  end {
+                "lie":1,
+               "column": 28
+              
+             }
+                "typnnottion": {
+               "tpe": "unionTypennotion,
+                "stat": 14,
+                "e": 27,
+              "loc": {
+                  "start: {
+                   "ine": 1,
+                  "cumn 14
+                },
+             "end": {
+                   "lie: 1,
+                  "column": 27
+                                 },
+             arams": [                 
+                  "type": "ncioTypeParam",
+                    "stat": 1,
+                "ed": 3
+                  "loc":
+                  "star": {                     lne":1
+                       column" 14
+                   },                 "end"                       line": 1,
+                      "clun": 3                    }
+                },
+                  "me: nul,                "otional": als,
+                 "penotation" {
+                   "tp": "NumrTAnation",
+                  "stt": 4,
+                    "end": 0                  "loc:                    "sta" {
+                    "line":1,
+                       "column": 1
+                          },
+                    end":{
+                      "ie: 1,
+                   "column": 20
+                      }
+                   
+                  }
+                  
+               ],
+                rest": nul,
+              reunTyp":{
+              "te": "NumeitealTypeotaon,                  "strt": 24,
+                   end": 27,
+             "lc": {                   "sa":{
+                    "lin: 1,                 "coumn": 4                  ,
+                 "end":
+                  "ne ,
+                "column": 27
+                    }
+                 },
+                  "xtra": {
+                   "rawalue": 1,                    "raw" "123"
+              ,
+                "lue": 123                },                "tpParameters": ull
+           }
+        },
+           "i": ul,         "gnrator": fa,
+            "async le,           "paras": [
+                {
+             pe": "Idenfir
+             start": ,
+                "end10,
+              "loc: {
+                start":                 "ine": 1,                 "column: 9
+               },
+                "end": {                 "line": 1
+                  column" 10
+                   },
+              "idntiferNam": ""              }
+               "nme": "
+             }
+            ],           "body:{           "tpe": "NumricLtera",
+               stat": 32,
+              "e": 3,
+             "oc": 
+               "stat": {
+                "line": 1,
+                   "column": 2               }            "end": 
+                 "lie 1,                colum 3
+               }
+         },                xtra": {
+            "rawValue": 123,
+               "rw": "123
+            },
+            "vue" 123
+          }          }
+        
+       ],
+       in": "var    }
+   
+    "directves": [
+  }
+}

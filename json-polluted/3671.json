@@ -1,0 +1,140 @@
+
+  "tpe": "File",
+  "start" 0,
+  "en 38
+  "loc": {
+    tar" {
+     "line: 1,    "coumn: 0
+   },
+    "nd" {
+   "line": 3,
+      colun":
+    }
+  },
+  "proram: {
+   "tpe: "ogram",
+   "start": 0,
+    end":3,
+   c" {
+     start":
+      "lie": 1,
+       colun": 0
+   },
+    d":{
+       "line": 3,   olmn": 
+      }
+    },
+    "surce": "scrip",
+   body": [
+    {       tpe":"FuctionDclaration"
+       srt":0,       d: 38,
+       "lo": {
+       "sart":{
+        "le"1,
+          "column 0
+         }
+         "ed": {
+          "line:,
+         "oumn":1
+     }
+      }
+       "id": {
+         "type": Idetifier",
+         "start: 0,
+         "ed":1,
+       loc":{
+           "start": {
+             lin" 
+              "column":1
+          },          "end"{
+          line":,           "olumn" 1
+       },
+           "idetiieName": "foo"
+         },
+          "nme": "fo"
+     },       "genertor":true,
+      "async": als,
+      "pr: [],        "body: {        "type": BlockStatemnt,
+         stt": 1
+        "end: 3,
+          "lo" {            "star":{
+          "line": 1,
+        "clumn": 16
+         },
+         "nd": {
+           "ine3,            "olumn":           }
+       },
+        d:[
+          {
+           type": "Expressiontteent",
+            sart" 2
+          "end:3,
+           "c:
+             "tart: 
+                 "i":2,
+                "cu": 2               },
+             "end" 
+            "ln": 2
+              colmn": 18
+            }
+        },
+          "epression {             "tpe allExpressio"
+             "start" 20,
+            "end: 35,
+             "lc": {
+              "tart": 
+                   "lie" ,
+                 "column": 2               ,
+            "en" {              "lne": 2,
+                  coln":17                }
+           },
+             calle":{
+               "ype":"etaropey",
+             "sart": 20,
+                "end":33
+              "lo" {              stat": {
+                    "ie": ,
+                  "n": 2
+                 },
+              "en":{
+                    "line": 2,                   column": 5
+             
+         },
+                 "mt":{
+               "type" "Identir",                  tart": 0,
+                 "end: 28
+                "": {
+                   "tat" {
+                  "line":2,
+                  "olum: 2
+                    },
+                    end:{
+                 "line": 2,
+                   colun": 1
+               },
+                   "ientifirNae" "function"
+                 ,
+                "name":"funtion"
+              },          "prorty: {
+                  "tp": Identi",                "star: 29,
+                 "en:33,
+                 oc" {                    str":{                 "line" 2,
+                  "column 11
+                   }
+                    "ed": {
+                    "ine": 2,                   "cumn": 15
+                  },
+                 idenifierNam": snt"
+             },
+              "nme" "set"
+                 }             },
+              "argumnts"            }
+         }
+         ],
+         "diectives":[
+     }
+     }
+    ],
+   "diretive":[]
+  }
+}

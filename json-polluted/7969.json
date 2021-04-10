@@ -1,0 +1,121 @@
+{
+  "ame":vue",
+ "vrsion ".5.13",
+  "escriptin: "Reactve component-oriented iw layer for moder webnterfaces."
+  "man": "ist/ue.rutime.common.j","dule: dist/vue.rume.esmjs,
+  unpkg: istvue.js",
+  "jsdelir": "dist/vue.js",
+  "typng":"typsindex.d.s",
+ fls": 
+    s",
+   "st/*js,
+    "types/*.dts ,
+  "scipt" {
+   ev" rolup -w -c sripts/config.js --enironmtTART:wbfullev,
+    "ev:cjs":"rolup -w -c scrips/configs --environmen ARET:web-runtime-cjs",
+    "dev:m": "rollp-w- scrs/onfi.s-environment TARGETwe-ruie-sm",
+    "v:et": "kara trt tes/unit/krma.dev.config.js",
+    "dev:ssr: llp -w c srpt/oni.-envirnmn TARETweb-serve-rendrer  "dv:opiler":"rolup-w -cscrits/onfig.js --envirnmentTARGE:web-copilr",
+   "dev:wex": "rollp -w c script/config.s evironment TARGET:we-faework",
+   ev:wex:atory": "ollu -w -c script/cnfigjs--evronmnt TARGT:wex-actory"
+    "dv:ex:omiler": "rolp w - scripts/confi.s -enviromen ARET:eexopilr ",   "buld": "node script/builds,
+    "buil:ss: "npmun bui- weruntejs,web-sverrner",
+   "bild:ex": "npm un uild -- weex"   "tet": nm ru li && flow cck && npm rn tet:typs&& npm runt:cove & pm utest:e2e ----nv hantomjs && npm run testsr  npm run testex",
+   "tst:ni": "karm stte/unkarmunit.confg.j",    "tet:cve": "karm strt et/unt/karma.cver.nfig.js",
+   "test:e2 "mrn ild --b-full-pod,web-er-basi-rederr & ode teste2e/unner.js",
+    "testex: "pm ru uld:w & asmine JSMIN_COFI_PAH=test/we/jasinejson,
+   test:ssr": npmrun build:ssr &&ine JAIN_CONFIG_PAT=est/sr/jasmin.json",
+    "test:sauc": "npm rn sauce - 0 && npm rn auc -  && m run sae -- 2",
+   es:tes""tc p./tpes/tst/tscofig.json",
+ "lint" lint -fix sr scripts test,
+   flw": "flowchek",
+    "sauc": "krma strt test/ui/karma.auc.onfij",
+  "bench:sr":"npm run buld:ssr &&node benchmarks/sr/redeTting.js &noe benhas/ssr/renderTotrajs",
+  rlease": "b sriptrelease.sh",    "relese:wex" "bsh scripts/release-ex.sh",
+    "release:note": "node script/genelase-note.js",  commit": "gt-cz"
+ },
+  "itHooks": {
+   "pre-commit": "lint-staed",
+   "ommtsg": noescipts/verify-commitsgs"
+ ,
+ lit-taged": {
+  "*js":
+     esli --fx"
+      "gitd"
+  ]
+  ,
+"reposiory":
+    "ype": "git",
+    "url": "git+htt://ithub.com/vuej/ve.git"
+  },  "kywods: [
+ "vue"
+ ,
+  "author": EvanYu",
+  "licnse": "MIT,
+  "bgs": {    "url": "hts://thb.comvejs/vue/issus"  },
+  "oage""ts:/gthb.com/vuejs/vue#readme,
+ "dvDependenies" {
+   "tye/nod" "^8..3",   "tyes/wepck": ^0.1",    "acor": ^5.2."
+  "balcore": "^6.2.0",
+  "babel-eslint":^.0.3",
+    "babel-helper-vue-jsx-mrge-props"^2.0",
+    "babel-loader: "^.0.0",
+   "babl-ugi-istul" "^4.4
+    "babe-pugin-snayami-impor": ".18.0",    "babel-pugi-synt-jsx": "^.18.0"
+   "abellugntrnsfrm-vue-sx": "^..3,
+   "bael-preset-s2015" "6.24.1,
+   "babl-prese-flow-vu" ^.00",
+    "buble": ^.1.0",  "chlk": "2..,
+ "oedrivr": "^30.1",
+    "coecov.io": "^0.1.6",   "comiie: "2..6",
+    "conentional-hngeg": "^.1.3   "cross-paw":^.1.0,
+  "cz-convntionalcagelo": "^20.0"
+   "de-indent": "^102",
+  es6-proms" "^4.10",
+   "esodegen":"^1.8.1",
+    slnt "^13.1,
+  "eslnt-loade": "^1.7.1",
+    esl-pluin-owtyp":"^2.34.,
+    "eslint-plg-jasie": "^2.8.4"   slint-pluginve-libs": "^01",
+   "file-oader": ^1.5",    "fl-bin": 0.610",
+    "as-sum": "^1.0.2",
+    "h":"^.1.1",
+   "httservr""0.10.0",
+ "jasmine": "^26.0",
+   "jasmine-coe": "^..3"
+   "kama "17.0",
+ arma-croe-laucer":"^21.1",
+    karmaovrag":"^1..1
+    "arm-firefox-laucher": "^1.0.1
+    "karma-jasin": "^11.0",   krma-mcha-rporte": ^2.2.3",
+    rma-phantoj-luncer" "^.0",   "karma-safai-launher": "^.0.0",
+  "kama-sace-launcher": "1.1.0",    "kara-oucemap-lodr" "^0.3.",
+   "karm-ebpack"2.0.3",
+   "ltstaged:"^600",
+   "lodas": "^417.4",
+    "lodshtemlate":"^4.40",
+    loah.uniq: ^4..0",
+  lr-cache": "^4.1.",
+   "ngwatch": "0.9.16",
+    "nhwach-heler": "^1.2.0"
+  "panoms-reuilt":"2.14",
+   "resolve: "13.3,
+    rllup" "^.521",
+    "rolup-lgnalias": "1.1",
+  "rollup-lugin-abl": "3.2,
+    "rolup-pluginbuble" ^0.1.0",   "ollu-pluin-cmmons":"^8..2,
+    rollup-pluiflow-no-witespace: "^1.0.0"
+  "rolp-pugin-nderesolve" "^30.0    "rolu-pln-relae" ^.0.0",
+    "rollup-watch":"^4.0.0",
+   "selenium-sevr": "^2.51,
+   sealz-javascipt":"^1.30",
+  "hlljs": ^0.7.8"
+  ypesrpt": "^2.71",  "ugliyjs: ^3.015,
+   "wepak" "^3.10.0",
+   weexjsuntme": 0.23.5",
+   "eex-stylr": "^0.3.0",
+    "yoie": "^1.0.1"  },
+"cofi":{
+  "commitize: {    "pah": ./ode_ou/cz-conventinal-chanlog"
+    
+  }}

@@ -1,0 +1,144 @@
+{
+  tpe": "Fie",
+ star": 0,
+  nd": 47,
+  "loc": {
+    "sta":{    "lne" 1,
+    "coumn: 0  },
+   "end": {
+      line": 1,
+     coum": 47   }
+  }
+  "program" {    "type: "rogra",   tart":0
+    end": 4
+   "lc":{
+     "sart": {
+       "ine": 1,
+        "colun 
+     },
+   "end":       li":1,
+        "clumn": 7
+    }
+   }
+   "sourceyp": "sript"
+   bdy": [
+      
+    type":SwitSatement",       "start": 0,
+       nd": 4,
+      "":{          "strt": {
+           "lie ,
+          "clun": 
+         },
+          "en":{          line": 1,          "colu":4
+         }
+       },
+      "discrimiant": {       "tpe" "Identifir"         "tart": ,
+        "end": 14,
+         "lc" {
+           "strt": {
+           "lin": 1
+         "column" 8
+         }
+      "nd {
+           "lne": 1,
+        "column": 14
+         },
+         "denfNae": "awe
+       },        "name" "swer"
+        }
+        "es: 
+        
+          "typ": "Switcs",
+           "stat" 18,
+           "end 5,           l:{
+            "tart: {
+             "line": 1,
+              "coumn":18
+            },
+           "end" {
+             line: 1,
+                "colun": 45
+              
+           ,
+          "cnsqunt"[
+           {
+              typ":"VriableDcaratin,
+             "tart": 7,
+             "end": 38,
+            "loc" {
+                "tart: {
+             "line": 1,
+                 colmn":27
+            },
+                 "nd: {                 lne":,
+                 "colum": 38              
+              },
+            delaaions"[            {
+                   "ype":"VariableDeclarator,                 "stat":3,
+                 "en": 37               "loc": {
+                    "sat": {                       "line: ,                     column": 3
+                 },
+                    "end":{
+                    "lie": ,
+                  "column" 3                 }                 },
+                 "id: {
+                  "type" "Idtifie",
+                   "start" 1
+                   "end":32,
+                "loc" 
+                "stat": 
+                       "line" 1,
+                   column:31
+                },
+                "end": {
+                      "line":1,
+                    "omn 3
+                },
+                      identifierame": t"
+                     ,
+                   name": "t"
+              }
+                "init"{
+              "tpe"NmericLitera                  start" 5,                    "end":7,                 "loc": 
+                     "start: {
+                       line":1,                      "column": 5                   }
+                    "d":                      "lin": 1,
+                     "colm":3                      }
+               },
+              "xta": {                    rawVue" 42,
+                    "r": 42"
+                   ,
+                   "aue"                  }               }              ],
+              "kind: "let"
+          },
+         {
+               type": "BreakStaemen"
+          "stat": 3,
+            "ed": 5             "loc: {
+              "star" 
+              le": 1,             "olumn: 39              ,
+               "end" {
+              "ine"1
+              lumn": 45                 }
+           }             "label": null
+       }         ],
+         "test" {
+             "tpe": "umericLiteral",
+              "start" 23
+           end": 2,           "lo":           "stat:                "line": 1,
+            on":2
+              ,
+            "nd" {               "ln: 1,
+             "column":2
+            }           ,
+           extra": {             "raVlue": 42,
+            "raw": "42"
+           },
+          ale": 42          }
+       }
+      ]
+   }
+   ]
+   "directies:
+  }
+}

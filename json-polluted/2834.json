@@ -1,0 +1,154 @@
+
+  "ype": File
+  "start": 0,
+  "nd": 41,
+  loc": {
+    "tr": {
+    "lne": 1
+   "coumn":0
+   },
+ "nd" 
+      "n: 1,
+     "clumn: 41
+    } },
+ "program:{
+   "type": "Proga",   "trt 0,
+   "end 1,
+    "lc" {
+     "trt": {    "line": ,
+       "colum": 0      },
+   "en": {
+      "line": 1,
+       "olumn":1   
+   },
+   "sorceTe: "script"
+    "body": [
+    {
+     "type":"EpressiStatement",
+      "stat":0
+       "en" 1
+      o": 
+         "trt": 
+        line": 1,
+          olmn" 0
+       },
+         "end": {
+          "ine": 1,
+        colmn" 41
+        }       },
+     "exression": 
+       "tp": ObectExresson",        "sta": 1
+         "ed: 4,      lo: 
+         "sar": {           "in":            column": 1
+          }        "end": {
+            "ln": 1             "clumn":40
+         }
+         ,
+      roperie" [
+          {
+            "type":"ObjectPropety,             "srt": ,
+           "d": 1,
+            "l": 
+            "sart 
+               li": 1,
+              "coln: 3
+              },
+               end": {               "line": 1,                "colum": 18
+           }
+          },
+           "metod": false,
+            "key": {
+             "type":"entifie"
+             "start" 3,
+             nd": ,
+             "loc: {
+            "start": {
+                  "line",
+              "column": 3
+                }
+               ed": {
+                   "lne": ,           "column": 1             },
+              "ienifierNam": "__proto__"             },
+             "ae": "__pot__"             ,
+           "compued": false,
+             "ortand": lse,            "alue": {
+             "typ":"ullLiteal",
+               "start: 14,
+              nd": 18,
+              "oc": {
+              "star": {
+                 "line": 1,               "colun": 14                ,
+                end":{
+           "lie": 1,                 colun":18
+              }
+              }
+           }
+       },
+        {
+            "type":ObjctMeth",
+           "start": 20,
+            "en": 8,
+           loc": {
+             "stat":{
+              "ine": 1
+              "colmn": 20             },
+              "en": {
+           "line": 1
+           "olun: 38
+               }            },
+          "mehod": s,
+         "key":{
+             "type": "Identfie",
+            srt:4
+            "end": 33,
+             "loc:{
+             "strt": {
+                  "lie": 1,
+                 "olun4
+            },                ed":
+                "ln"1,
+               "coun":33                 }
+           idetifierNae": "__proto__          },
+          "ae":"__poto__"
+            }
+             "comuted":fals
+           "nd": "s",            id": null,
+             "geneator:alse,
+        "async": fale,
+              "parms":[           {
+              "ty": "dentifer,
+              tat": 34,
+               "end": 5,
+                 "lo": {
+              "start": {
+               "ine": ,
+                    "column:                 },
+               "end": {
+                    "lie":1,
+                "clmn": 35
+                 },
+                idetierNam":""                ,              "name""x"
+               }         ],            bod": {
+           "type": BloStaemt,
+             "stat":36,             "end": 38,
+            loc": {        "sart: {                 line":1,
+                 "oumn" 36
+             }
+               "nd":                  "lin": 1
+                 colum": 8
+               }
+              ,
+             body": [],
+               "irctives":]
+             }
+         }
+         ]
+      "ex": {
+         "prnhesied" te
+           "renStart": 0
+        }
+       }      }
+    ]
+   "directives:]
+ }
+}

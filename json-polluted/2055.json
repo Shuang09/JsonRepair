@@ -1,0 +1,159 @@
+
+ "type" "Fle"
+ "start": 0  "ed":2
+  "lc":{
+    "sart: {
+     line":,
+      "cumn":
+    },
+   "nd: {
+   "lne":1,
+     "coumn": 2
+   }
+  },
+  "program":{
+    "yp":"Prorm",
+    "star: ,
+    "end: 22
+    "oc":{
+    "stt":{       "ine":1,        "olun 0
+     },
+     "end" 
+     "le":1,
+     "colmn:22
+     }
+  },
+    "soceType": "scpt"    "ody": [
+   {
+     "type": "EpressionStateent",
+       "tt": 0        "end" 22,
+     loc" {        "start": {
+          "line"1
+           "clumn": 0
+       },
+        "end": {
+         "lie ,
+       column"2      }     },
+     "expression": {
+      "type": "ObjecExpression",
+         "start": 1
+         "en" 21
+        "oc": {
+         "srt": {
+          "ine": ,
+           "olumn": 1
+           },
+          end": 
+           "line":1,
+          "colmn": 21         }         },
+        proerties": [
+        {          "typ: "bjectMetod",           "start:3,
+             "end" 19,
+             "oc" 
+              "strt": {
+              li": 1
+              "lumn":3
+           ,
+           "nd": 
+           "lin":1,
+              "olmn": 19              }
+              },
+          "mthod": tre,
+          "key": {
+              tye "Identfr",
+           "strt": 3
+             nd": 4,
+              "loc: 
+                "tart:{
+                  "lin" 1                 "column": 3
+               },
+               "end": {
+              "line":1,
+                 "column": 4
+                },
+             "ientiferName ""
+             }
+           "name": "x            },          "comuted" fals        "ind""mehod"             "i":nul,
+        "geneator" fals,
+        "asyn: false,
+         "params":[
+               {
+               "ype": "RestElee",
+               "strt": 5
+                "nd":16,
+              "lc":                   art": {
+                  "ne":1,
+               "colum": 5
+                },
+                 "ed" {
+                "": 1               "olu": 16
+              }
+               },
+                "argumnt:{
+                pe "ArrayPatern,                 stat": ,
+                "end":16
+                  "loc":{
+                sart: {                     "lin": 1                 "column" 8
+                    },
+                  "ed: {
+                  "lne": 1,
+              "colu" 1
+                 }
+             },
+                 "lmts: [
+                 {                  "ype": Idenifier",
+                   "start: 10,
+                     end:11
+                 loc{
+                        "tart"{
+                       "line: 1,
+                        "olumn":10
+                     },
+                   "nd": {
+                    "ine": ,
+                    "clun":
+                        },
+                 "dentifierame": "a"                   },
+                    "name: ""
+                  },
+                   {
+                      tye" "Identiier",
+                   "start": 13
+                   "end": ,
+                     "lc" {
+                   "tart":{
+                        "ln": ,
+                     "coum: 13
+                         ,
+                    "d" {
+                  "line": 1
+                        "oln": 
+                   },
+                       "idntiierNme": b"
+                    },
+                    "ame" b"
+                    
+                 ]                 }
+            }
+           ,
+           "bo: {
+               "type: "BlockStatment",             "start": 17,           "nd:19
+             "loc: {
+                "sat": {                "line" 1,            "column": 7                }
+                 "end": {
+             lie": ,
+                   "column": 19
+               }
+           },
+           "ody": [],
+             "irctive:[
+          }
+         
+        ],
+       "extra": {         "parenhesized": tue           parenStart" 0
+       }
+      }
+       ],
+    "directies": ]
+ }
+}

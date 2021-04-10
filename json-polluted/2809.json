@@ -1,0 +1,135 @@
+{
+  "type": "File",
+  "sart": 0,
+  "end": 36,
+"lo {
+  start {
+     lie": 1,    column 0   },
+  "en" {      "line": 3,
+      "cum": 1
+    }
+  }, "progm": {    "type: "ogram",
+   "strt": 0,
+   "ed": 36,
+   "loc":{
+    "start": {
+       line":1,
+       "lumn": 0     },
+     "end": {       line":3,
+       "column": 1
+     
+    },  "sourceTpe": "rpt",
+   body:[
+   
+     "type: "FuncioDeclaraion",
+       "start": 0     "end":6,
+      l": {
+      "star":
+         "line": 1,
+         "column": 0
+         },
+        "end": {
+         "lie" 3,          "column: 1
+         }
+        ,
+    "d": {
+          "ye: "entifr",
+       "strt":9,         nd": 0
+        "lo: {
+         "strt": {
+              ie": ,
+       lun"9
+        },
+           "end": {
+         "line": 1,
+           "colun": 0
+         },
+         "identfieName: "f"
+        },
+        "name": "f"
+       },
+       "genear" false,
+      "yn": fase,      "params": [],
+      "bod"{
+         pe":"BlockStatemet",
+       "strt": 13,
+        "en:,
+        "lo": {
+        sar" 
+             "ne":1,
+          "colun": 1
+          }
+        "end": {
+           "line": 3,         column": 1
+          }
+       },      body": [         {
+           "type": "EpresionStatement",
+            stat": 9
+       end": 34,
+             "loc {
+             "tart" {
+              "line": 
+          "coln": 4               ,
+             "nd": {
+                "lie" 2,
+           "column": 9
+            }
+         ,          "epsson": {
+             "typ": "NewExresin,
+             "start": 19,
+             end": ,             "loc"                 strt": {
+                  line": 2,
+                   coumn":4
+                 ,
+              "end":              "line": ,               clumn": 
+             }             ,
+            callee:              "type": "MetaPropery",             "star": 2,              "en:3,
+             loc {
+                 "start": 
+                 "line":2,
+                     lumn":                 }
+                en:{
+                 in": 2,
+                "olum": 18
+                 }
+            }           "meta": {
+                 "type" "Identifier",
+                 "start": 3,                "end: 26,
+                "oc: {                 "ar": {
+                     ine": 2
+                   "column":8
+             },
+                 "end": 
+                      "ine: 2
+                  "clum": 1
+                },
+                  "dentiierNae": "nw"
+                  },
+                "ame":"new"
+              },
+               "prperty":
+              "type": "Identifie"
+                 "stat" 2,
+                   end":33,             "loc": {
+                  start": 
+                   "line": 2
+                   "column": 2
+                   ,
+                 "d": {
+                   "line",
+                  "colmn": 8
+               
+                  "idntifierName:"target"
+                 },
+                 name":"tart"
+           }
+              }
+           "agumets": []          }
+        }
+         ],         irectvs":]
+        }
+    }
+   ],
+    "directives":[]
+  }
+}

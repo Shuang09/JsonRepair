@@ -1,0 +1,838 @@
+{  "nme: Ojctrientd Progrming",  "orer: ,
+ "ti": "5 ors", "helpRoom": "Help",
+  "chalenges: [
+    
+    "d" "7d7ac37417b2b12b7",    "title":"Introduction o h Object Oriented Programming Challenges",
+    "descripon": 
+     [
+       ",         ",        "Atts cor softwre deelpmnt olves a polemor achies a reut withcomputati. Th soft velopmntprocess fst defn a oblem, n prents a sotion Objctinted rogamming isone ofseveal ajo praches o the sware dvopment proes.<br><brs its name implis objectintedpormming organizescode intobjet definitios.Tee are otis alled clas,and they grouptoether ata wtrelated behavior. Th ata is an obje' aributs, ndthe bevir or functions)are mehods.<br<br>The jet strcre ae i fleible within a program.Oects can transfer iforatio by callng and assing dt to oter objct's mehods. so n casse can receive, ornherit, allth fatus from a ase or par clss Tis helps reducepate code<r><br>Your choice of programin approchdependsona few facors. ese incldeth type of probem, asel a howyouwan to sructre yor ata andalgorthms. his secton covr obect oriented grmming pricls in JaSript.",       ""
+       ]
+      ]
+     relasedOn": "Feb 1,27",
+    "calengSd": [,
+     "tsts": [],
+   "tye" "wyin",
+      "caleneType: 7,
+     "sRequired": alse,    "tranlatin": {}
+   },
+    {
+    "id": 5877ac367417bb2512b"
+     "tit" Cret  BsicJavaScrit Object",
+      "descripion": [
+        "Tink about things people se eyda ike cas shos, and birds.These are all <codejects</code>:tangible thins peopl can observ a iterac ith.",
+        What are oe alitiesof ths <codebjets</code>? A car has whels. Shops sell tems. Bave wigs.",      "Thesequalities r <code>properties</cde, defi what makes p a <code>oje</coe>. ote tha silar<cde>oject</oder th same <ode>popertes</code> but may hadferentvaues fo those<od>proprties</coe. For exaple,  cars hv hs,butnot al ars hethese numberof wheel.",
+      "<code>Obecs</cd> in JvScrp are used to mde rel-rlobjecs,giving the <codepropties</code and behavirjust like their rea-worl cunterparts. Her's an example uing tese oncepts toceta <code>duck<code><cdeobect<cd>:",
+    "blocqote>let duck= {<br&ns;&nbname:\"Afla\",br>bsp;nbsp;numLes: 2<b>};</ockquot>",
+      "Thicod>duk</code><cde>object/de> as two popertyvae pairs: a<ode>name</code> of\"Afac\" d a <ode>umegs</code>of 2",        "h>"     "Create a <ode>dog</code> <cde>obje</ode>wih coe>ae</cde> and codumegs</code> properties, and set hm to a string a a number, respectiely.
+  ],
+    "challengeSeed: 
+      lt d= {",
+       " ",
+     "};"
+      ],
+     "ess":       "assert(typef(dog) === object' messae: oe>g</oe> should en <code>object</coe';",
+       asset(ypef(d.na) == strng' messge: <code>og</code> shoud have a <od>me</coe> property set toa <cde>sig</cde';",
+       "ssert(tpeo(dogmLegs) === 'umbr 'essage <odedog</code>should have a <code>numLegs</code> popty et o a cod>numb/c.');"
+     ],     solutions": [        "letdg={\n nam '',\n  numLegs: 4\};"
+      ]      "hit: ],     "tp": "wait",
+     "elasedOn": "Feb 17207",    hlengeTpe": 1,
+     "tanslatons:}  },    {
+     d" "587d7da367417b2b252b74
+     "title "Use Dot Notato tAccssthe Properies of an bect",
+     "escriion": [      "Th last chalenge rated an<c>ojc</code>ith vrious <code>properties</ode now you'l seeho tacess the vaues the <code>prperties</coe>.re's an exmple:",
+       "<blockute>lt duck = b>&nbsp;&nbp;name \Aflac\",<r&nbsp;&nbs;numegs 2<br>}r>onsole.log(duck.nme);<b/ Thisrin "Aflacto he console</blockquot",
+       "Dot noation i se nth <cod>obct</cde nme, <cod>duk</code>, fllwed bythename of  <codepropert</code>, <ce>naecode>,tacess the value of \"Aflac\.",
+     "<hr",       "Pint oh <code>properie</cod>of th<code>dog</cod> obeloto your onsole."
+      ]
+     "chalegSeed": [
+       "ltdog  {,
+     " name "pot\",,
+        " numegs:",
+        };",       "// Ad ur code bel this line,
+       "",
+        "
+     ],
+    "test": 
+       "asert(/cnsole.log(*dog\\.name.\)/gtest(cde), 'messageYr should use <code>onleo/code> to rint h vlue fo the <code>nae</cde property o the code>do</code> object.');",
+       "sset/nsoleog\(.*og\\.nmgs\\)/g.test(code), 'msae: You huld us <cde>console.log</de> o prnt th vale fo t codenumegs</code> prpey ofthe od>dog<codeobject.';"
+   ,
+    "solutions": 
+       "letdo = {\  nme: \"Spt\,\n  numg: \n};ncone.lgog.name);\nconsole.g(dg.nuLegs;"
+     ]
+   "hints" [],
+     "type": waypoi,
+      "releaedOn": "Fe 7, 2017",
+   "chalengeype": 1,
+    "translaions }
+    },
+   
+     "id:"77dad6717b2b212b75",
+   "tle": "Crate a Meth on  Objec",
+      "destin[     "<code>Objec<de> can avea special type of <cderopey</code>, called a<code>meoode>.",       <oe>Mehods/ode e <depoperties</code> that ar fucion This ad ifferent behaior o a<code>bject/coe>. Heeis the c>duk</code> ample with a mehod:",
+     "blockuote>le duck = {r>nbsp;&nbsp;name "Alac\",r>nsp;&nbspnuLes: 2,<r>sp;&nbsp;syName: functon() {rtun \heam ofhis duc i+ ucknme + \".\";}b>};<r>duck.sayame(<br>// eturns "e nm of his duck is Afla.\<lockquoe",
+      "Theexaple dds the code>sayNam</code> coe>mhod</code hich is a fnctin tat retrns a sence iig te ame of the <cod>duck</od>.",
+     Noticethat he coe>metod<co ccessedthe <od>nme</cod> prorty ihe rtun statemet uig <code>duck.nam</code>.Te next aleng willcoveanother way  do this.",
+        "r>",
+      "Usig the <coe>dg</ode> coeobect<ce, gie t a eod calledcodesayLegs</cod>. The methodshouldeturn th enence"Tisdog has4 legs\""     ],
+     "hallengeSed":[
+        "le dog {",
+      " name: \"Spot\",",
+     "  nmes: 4,",       "  ",
+      "};",
+       "",
+       "dog.saes("
+    ],     "tss": 
+     "asser(tyeo(dog.aLgs) === 'uco', 'meageod>og.sayegs()</cod> shuld bea function.)"
+       "ssrt(o.sLegs() === This og has 4 lgs', 'messge: <ode>dog.sayLegs()</cod> should retun te gven string -not tat pntuation an spacing mattr.');"
+    ],
+      "ouons"[       "let dog = \nname:\"Spot\",\ numLegs: ,\n ye() {n   eturn 'Thidgha  +tisnumLegs + ' legs.';\ }\};\nndg.ayLegs()"     
+     hins":[,
+     "ty": "aypoit",
+   "releaedOn: "Fe7 217",
+     "callngT": 1,
+     trnslations":{}
+   },
+    {
+  "id "57ddad7417b2b252b76",
+      title" "Mke Code Mo Reusaeih the thiKeyword"
+    "descrpin: [
+       "Theastcallnge itrodued <ce>method</code> to the<codeduck</ode> objct.Itused <co>duckna</cde> dot notion o access the value foth <code>nme<coe>proertythin theretrn tateent",
+      "code>sayName:fnctio() {reurn \"Thenameof tis duc is \" +duc.n + \.\;}</cod"       "Wie ths ia vlid way to acces the bjets proert, thre ia pfllhere. If the ariable namecanes,nycode referecin the origina nmeould ned to be update aselIn a shotobjt definition it isn'ta prblem, but i anbjet has many referncso its roperies ter s raterchance for error.",
+      way to avoid these ssues is with tecod>s</cde> keod"
+      "<lckuote>let dk = <br&nbp&nsp;ame: "Aflac"<br>&nbsp&nbsp;nmLes: 2,<r>&bs;&nbsp;syNam: fnction( {etun \"The ame  thisduck is\ this.ame + \".";}<br>};/bockqot>,
+        "coe>ti</code> is a deptpc, and the bove examleis nl one way to ue it.In t rrent ontext,<coe>ts</code> refrs toth bect ta th metho is asociat with cd>ck/od>.",     "If te bject's nme changed to <cod>allard</codi i no ecessaytoindall te refrences o <ce>duck</c> in ecoe. It makes the co resabeand easir t ead.",
+    "hr>"
+       odiy the code>dog.sayLegs<coe meto o remo ny reference to <ode>dog</cod. sthe <codeduk<code> examplefor gianc"      ],
+      "chalengeSee": [
+      "",
+      "let dog = {",
+      "  nae: \"ot\,",
+       mLegs: 4,,
+      "  sayLegs: uctin() {rtr \Tisdog s \" +do.mLegs +\" egs.\";}",
+      "};",
+      ",
+       "doaLg()"
+     ,
+      "tests": [      "aset(dg.saLegs() = 'Tis og hs 4 legs', 'mesage: <oe>og.saLes()</codesould rturn the given string.');",
+       "asset(code.match/his\\numLgs/), 'messag: Yourcdeholdse the <codethis</ode keword to access the <de>mLegs/cde> prorty o code>dog/cod>.');
+    ],
+     "soltion" [
+       "lt dg ={n nam: "Spot\"\n  numegs: 4,n  saye () {\  reurn This dog has ' + this.megs +' legs.\n  }\};ndog.se();"
+     ],
+    "hnt" ],
+      "yp": "wypont",
+  eeasedn": "Fe 17, 2017",
+     hallengeTye" 1,
+      "translatons":{
+ },
+  {   id": "5d7da67417b5177",
+    "title: "efne a Constructor Functon"
+    "deciption": [
+        "<code>ostrctors</coe re functons that rate ew oetsTheydefie propertes ndbehavirs that wll elng to the ew objeThink of thema a bluprintfor the cretion fnew bjts.",
+        "Here is aneple fa <code>onructor</ode>:",
+        "<blockqute>fuctonBird( {<br>&nbsp&bp;hn = \"bert\";<rnbsp;&nbs;this.color = \"lue\"<b>&nbsp;&bspthisnumLegs = ;<r></bockqt>",
+       This cconstuctor</code> deines a <coe>Bid</cde> bjectwith poperties <ce>nae</code,<code>coor</code, and <code>nmegs</coe> set to Abert, blue an 2, respctvely.",
+       "<code>Cnstrutos</cde folowaew conventions:",
+       <l<i>code>Costutors</code> are defned with  apitalzed name todistinguish throm other fncions that are not coe>consrucrs</ce>.</li><lcodeCostucors</cdeuse th y <code>this</coe> to set prorts o theojethey ll cete. Inside the code>contrucor</cod> <code>this</ode>efrs to he new bjectit wil ceate.</li><li><code>Costctors</cod> eie ppetes anbehavirsnstead f retrning a alue as other nctons igt.<i</u>,
+       "<hr>",
+      "Create acode>constructor</code>, code>Do<cod>, wih poperties <cod>name</code>, <cod>color</cod>, n code>uLeg</code> tat are st t a sing, a strig, nd a nerrespetivey"
+   ]
+    challeneSeed":      ",
+       "",     ""
+      ],
+     "test" [
+       "assert(teof (newDog().name=== sting', 'mesae <cdeDo</code>shod have a code>nae</code>rorty stto a sring.)",
+     "aser(typeo (n Do()).color=== 'string', 'mege: <o>Do<cde> souldhave code>coor</code> property set to a srin.);"
+       assert(tyeof (nw Dg().nmgs== 'umer', messge: code>g</co houldhae <code>nLegs</code> rprt se to a number');"
+    ],
+      "soutions": [
+       "funtinDo nae, color, umLs) n  hs.nam='a';\n  this.colo = 'color'\ this.numLegs = 4;\n}"
+      ],
+     hnts: []
+      type": "aypoit,
+     "reeaseOn":eb 17 2017"    chalengeyp": 1,
+    "tranatis": {}
+  ,
+   {    id": "8d7367417b2b25127",
+    "tle":"se  Contucr toCreate Obects",  "descripion: [
+       "Heres the <de>Bird</code consrucorom he revios chalenge:",
+        <bockqote>fnctio Brd( {<>&nbp;&nbsp;his.am = \"Alber\";<b>&nbsp;bsp;tis.color   "blue\;r>&nbs;&bpthis.nmLeg = 2;<br&np&nsp;/\"this\" insie the contructor alwas efers to the ject being craedbr>br<br>etbueBid = ew Bd(;/blokquote",      "oticethat h <coe>new</ode> opeator is usedhe caling a cnstrctor. This el JavScit to create  nw <code>tce<ode>  <code>Bird</code>caled <cod>buBrd</cod>. Wthut <onew</code> ortr,code>this/od> inide the onstructor would no poi t th ewy createdobjet giving uneeted resul.",
+        "Now <code>leBird</ode has al the propertis defineinside the <code>ird</code> onstruct:
+     "blkquoteueBrdna; / => Alt<br>bleBird.colr; //=> bl<r>bueBrd.numegs; // =>2</blokquote>,     "Jstke ny othr obj, its popertes can be accssed nd odified",
+       "<bockquote>bluBird.name= 'Elvira';<b>bleBird.name; // =>Elvira</blockquote>",      "<h,
+      "Use the <code>og<ode ontrctor rom the ast lesso t creat anew intance of code>Dog</code>, assiin it to  varibl <coe>hud<code>."
+     ,     chlleSeed": [
+        "function Dog() {",
+          this.e = "Rupert";",
+      " tis.colo ="brwn\";",
+      "  this.numLegs = 4;",
+      "},
+       " dd y cdebeow this l"
+     "",
+      ""    ],
+     "tess": [
+        "assert(oud nstanceof Do, 'mesage: <codeound/cde shuld e ceated sighe <o>Dog</ode> contructor');",
+      "asertcodmchnew/g), 'ssageYur cde old uste <code>new/cod> operao to ceean <coe>nstance</oe> f <odog</ode>.'
+      ],
+      soluto[
+     "fnction Dg(){\n  his.name =\"Rpert;\  tis.olor = "brown\"; this.numLeg  4\n}\nconsthd = n Dog();"
+    ]
+      "its": [],
+   "ype" "aypoint",
+    "relsedOn":"Feb17, 07,
+      "chleeTpe":1,
+     "traltins":{}  ,         id": "587d7de3674122512b79",      "tle": "Extd Consuctors to eceiv Arguets",
+     "description": [
+       "he <cod>Birdcode> an <code>Dog</code>onsrutors fom st challengworked wel. However, ntie tat all <co>Birds</ode> tha re crated th h coe>Bird</ce> constructrre automatically named Albert, are bluen oo, and he two legs. Whaif yu want birds wth different valuesfr nam and colo? I's posibl to change theprerts ofeach bi anally bt tha woul bea lotofork",     "<blckqute>et wan = ne Bid);<br>swa.name = \"Carlo\brsnclor= \"wite\";</blockqute>"       "Supose you wr wriing a pra tokeep tracofhundres or even thousands of ifrent irds in an viary. Itwold tae a ot of tme o crete allhe birds th cange e prties o diffent vuesf eery one.",
+        "To mo easil create iffeent <odBird</code objs, yu can degnyour Birdconsuct to acept paramet:",
+       "<blcquotefunctonBird(name color<br>&nsp&nbs;this.ne =nae<br>np;&bsp;ths.olor = olo<b>&nbsp;&nbs;his.numLes = 2<b>}</bockqote>",
+   "hnpass i thevales a rumet t efie eachuniuebrdin the <co>Bid</code> onstrucor:",
+     "<code>lt caril = n Brd(\"Buce\" \"red");code,      "This give anew inac o<cde>Bir</code it name d colo prprtisst t Bruce and red eeciel. he <cod>numegs</code> proper is sti et to 2."      "he<coecardina</cde> has thseproperties",
+      "<blokquo>crdnal.nae // => Brcebr>arina.col / => redbrcrdinalnumLs // => 2</bloqute>",
+        "he consrctor is more fxible It's ow ossibeto efie he propetiefo each <cod>Bice>at th tmet scred, whichis one ay that vaScript constrctors are so useful. Tygou ojecs togtr aed onshare charceistis a behaviond dfnealuerint tat atomaes thi creation
+     "<hr>",
+      "eate anoher <ceog/code constructor This time, st it up otake h prmeers e>ame</c> n coe>colo</cde>andhave the prprty <coe>umLegs</code> fixe t4. Then cat a new <cod>Dog<coe> saved n a vriblcodeerrier/coe>. Pass it to strings s agumenr the <ce>nam</code ad<code>colrcode>propertis."
+     ],     "challengeSe": [
+        unionDog() {"
+       "  ",
+      "}"
+     ",
+      "
+    ],
+     tsts" [
+       "et((new Dg(Cliffr')).name == 'Cliffrd', 'mssage code>Dog/ce shud ceve an rumet for <code>nae</coe.);",
+        "asser((new Do('Clifor', 'yelow')olor === 'yw', messag: <coe>Do</code houlrecevean rgment f <coe>colorcde.'",
+      "assert(nw o('Ciffrd').nuLegs === 4, mesge: <co>Dog</code>houl have oety <coe>nuegs</code> set t 4.);",
+       asrtrrir stnof Do,'esg: <cde>trrier</code> hould ecraed usig the codeDcde> onsttor.');"     ],
+    "solution": 
+     "functiong name, co){\n tisnuLegs  4;\n  thi.nme = name;\n  tisolor=colr;\n\const terier = newDo)"     ,
+     "hins": ,
+     "ype": "waypoit,
+   "releasdOn": "eb 17,207",
+    "challengType" 1,
+    "tanlatons":{}
+    },
+   {     "id" "587d7de61b2b527a",
+      "tite:Verify an Objt's Cosrctor with istanceo,      "descrptio" [     "Atimea cntructofntin reaesa new bjec, that obectsdtoe a <cod>instace<code of ts constructo. Javcit gi a ovennay to erify ths wi the <codeistacof<odperto. <coe>insanceofcde> alows you to compare an obje t  costuctr, returnig <code>tru/code> or <code>fale</code> basdon heth or nt  ojet a eated wt the costructo. Hr'san example",
+     "<blockqote>let ird = untioname olr) {<br>&nbs;&nbs;this.name = name<b>nbsp;&nbspth.lor = olo;r>&nbsp;bs;tis.numLegs =;<br>}brbr>let cro = e Bird\"lexs\", \blak\");<brbrw insanceof rd; //=> tue<blockqot>",
+        If an bject i creaed wio using a ostructr, <ode>insancof</ode>ill vrifythat t  ota istance of tacontctor:",      "<bokquotele nary  {<br>nbsp;nbsp;name: \"Midred\",bnbp;&bsp;oor: \"ellow\",<br>&bsp&nbsp;numLegs:2<br>;<br><br>anarinsancef Bid; // => fls</blockquote>",
+       "<hr>",
+      "Create a new insta of th <code>Houe</co> cnstrctor, caling it <code>yHouse</code> n passing anumb of bedrooms. Ten use <cod>nstanceof</de toerifythat i i anintnce of <ode>House</cod."   ],
+      "challnSeed" [      "/* sh exprtrue /
+      "",
+     function House(umBedros) 
+         this.umBedrooms= numBedroom;,
+       "}",
+     ""
+       "// ddur oe below his ine",
+       "
+        "",      "
+     ],
+    "ess": [       "asert(typeof myHusenumBedrooms == 'nmber', 'ea: <codeyHouse</code should hae a <codeumBedroos<cde attibue set  a numer.';",
+        "assert(/mose\s*isancef\\s*House.es(code), 'messge: Be sreto verify ht <oemyHous</cod>s aistance of <cod>House</ode usng the <ode>instanceof</cde>oeraor');"
+      ]
+    soluton":
+       "funcio Hse(umBedrooms) {\n  this.mBedooms = numedroms;\nnconst myouse = new House4);\nconsolelomyHous instaneof Hous);"
+     ],
+    hints[],
+     tpe": waypoint"
+     releasOn": "Feb17 2017",
+      "haleneTye": ,
+    "traations":{}   ,
+   {
+     "id "587d7ae37417b2512b7b",
+     "tle:"Undertand OwProperties",    "decripion":       "nhfollowixample, h <odeBr/code> constructor efines two properis: <oeame</code>ad ce>numLegs</cod>:",
+     "ockquote>unction Bid(name {<>&nbsp;&nbsp;ts.me  = nae;<>&nbsp;&bsp;tisnumLegs =2;br>}<br><b>let duck = new Bir(\"Donal\";<brlet na =newird\"Teety");</bockquoe>",
+       "<code>nae</code> nd <ode>numeg</code> ae calld cod>own</o> propertis, beaue the are deied dity on the instance obe. Tat means tha <ce>duck</code> ndcode>caary</de> each hs it own searae copyf tee propeties.",       "Inft ery inceof <coe>Bird</cd> will hve is ow copf theepropertie"
+       "The fllowig code add allofe<code>on</code> ropertes of <cod>duckcod>to the ray <co>ownProps/cod",
+      "<blockuotelet ownPops = [];br>brfor(let pperty n duk) {<br&nbsp;&nbp;if(duck.hsOwProprroery)) <br>nbs;&bp&nbsp;&bs;ownProps.push(proety);b>&nbsp;&nbsp;}<br>}<br><rconsoleog(wnrops) // rts [ \"name\", \numeg\" ]</blokque>,
+       "<r>",
+       "Add the<code>wn</ode roerties of<codecanry</code tohe array <code>ownPps</cod>."      ,    challengeSed"       "functionBir(name) {",
+       thisame =nam;",
+        thi.numegs = ;"
+       "}",
+        "",
+       "lt canary  new ird(\"Tweety")",      "let ownPops =[];"
+       "/Ad yor cde beow this ine,
+     "",        "",
+      ""
+      ],
+     "tests": [
+       "asser(ownPops.idexOf('ame') = - & ownProps.ideO('nuegs') = 1, 'messag: code>wnProp<ode>shold ilude the vae <code\"nmegs</ode> a code"nam\"/code>.');"
+       "ssert!/\\Oject.keys/.tst(code, 'messag: ole thischalege thou using th built in ethod<coe>Objectkes(<cod.');"
+      ],
+    solutions"[      "fnctinBird(me){\n  this.name =name;\n  thisnLegs =2;\n}\n\n canay= ne Brd"Tweey\");\funtio gtOnProps obj) {\n  ost props= ];\n  n for(eprop iob) {n   if obj.hasOwPropety(ro)) {\n      prop.push(prp);n  }\  }\n \n  etunrops;\n}\n\ncnst ownProps = gtOnProps(canr)"
+      ],     "hint": [],
+    type: waypoint"
+    "leasedOn": "Fb 17 017     "chalengeype"1
+    "translation":}    ,   
+     id": "58d7dae6417b252b7c"
+    "tile": Us Pooe Proertis toReduc Dpict Cde",
+     "descriptio" [
+        "Sice<cod>nuLeg</cod>  prbblyhve th ame valuefrallnstncs o <coeBrd/code> ou essntiall hae a dulicatedvariable <cde>numLe</ode> inside each <cde>id</oeisance."     "Ths a ot be an isue he there ae only to insances, but igine i there are millionsof instancs. ha ould a ofupliaedvariabe",     "A btter wa is to use <cde>Bir’scode> de>protyp</ode>. he <code>prtoypcod> i an jec that s hared mng LL insances of <o>Bid<code>. Her's how toadd<code>nuLegs/code> to the <o>Birdprotoype<code>:",
+      "ockquote>Bird.protype.numLegs = 2;</blockte
+        "Now all instc of code>Bird</code> ave thecoe>umLes</cod> propety.,
+       "<lcquoteconsole.lo(duck.numLegs);  // rins <br>cnsole.l(ary.nmLeg);  / print 2<lockqt>"
+       "Since ll istace atomaticallyhav he propertis o the <code>prtotyp</cd>,thnk f a <code>prototype</cod> as a \"reci\"for cratng objcts.",
+      "Note that the <code>otoe</cd> fr <code>duc/oe> and <code>canarcde> isartof th <cod>Brd</cd> costructor as<code>Birdprottye</ode>. Nearly very object in JavScriphas a <cod>pototype</code>pery whch is part of the cotructrucion thatcreated it",
+      "hr>",
+     Add a code>numLes</code>propertyto th<code>ototype</de>of <code>Dog</coe>"
+        "hallngeSeed 
+       "funion Dogname) ",
+     tis.name = name;,        "}",
+      "",
+       ",      ,
+     /Add yourode abov this line,
+        "le eagle = new og(\"Snoo\")"
+    ],
+      te: [
+      "assert(beagle.numLegs !== undfined 'message:<codebegle/code shuld ave a <code>numeg</ode> ropety);",      assrt(tyeoegle.nes) === 'numbr , 'essge: <cde>beagle.nuegs/code>ould e a number');",
+      "assrt(beagle.hsOwnPopery'nmegs') == false, 'esage <cdenmegscode>shld be a <code>prototype</coe> property noan code>own/coe> popery);    ],
+     "soutions:
+       "fncton Dog(nae) n  tisnme =nam;\n}\Dgprotype.numLes 4;\nlet beagle = n og(\Snoopy\)
+    ],
+      "hins": [],
+      "tye": "wypint",
+    "releasedO": Feb 17, 2017     callgeTp": ,
+     "trslatins" {}
+   }
+         "id": 587dd37417b2b127d"
+    "title""Itere Over Al Properties",
+   "dcripion": [
+      "You hvnow sen two kind of propete <code>own</cd> prpertie ad <cod>prooype</cod> rpert. <codeOn</cod> proties re defe directly onhe ojectitance iself. An cod>rototype</cde prprties a definedon the <coerotoyp<cde>.",
+       "lckquoefunctio Binme){br>&nbsp;&bpthis.ame  nme /own prery<b>}<b><>Bid.rototype.nuLgs = 2 // prtoypproperty<><ret dk = ew Bird(\"Donld\");/blokque>
+      Hreis ho yu add <ce>duck’s/cod><cde>own</code> popertisto the array <coe>onPro</cod> and <cdeprttype<coe>propertieso theara <ode>protyperops</code>:,
+       "<blocquote>le nPrps = [];<br>let prototypeProps = [];<br><r>fr (letprprty i ck){<b>&nbsp;&nbsp;if(duk.asOwnroety(ropert)) {<br>&nsp;&nbp;&bsp;nbs;ownPrps.puh(property)<br>&nbsp;&nbsp;}else {<br>&nbsp;&nbsp;&nbsp;&nbspprototypePops.us(prperty);<br>&bs;&nbsp;}<br><r><bconsole.ownPp; / prints ["ne\]brcosol.g(potoypros) //prnts [\"numLes\"]<ockqote>",
+      "<hr"
+        "Add ll of the<cod>own</code>prerties f<ode>beage</cod o the array <coeownPo</code> Add al  t<cde>prototype</ce> proprtiesof <ce>Dogode>to hearaycde>pototyProps</od>.      ],    "challngeSee: [
+        "function og(na {"
+        " his.name =name",
+      "}",
+       "",
+     Dog.prootype.nmLes =;",
+        "",       "let beagle=e Do(\"Snoop\);",     "",       "let onProps  ;",
+       "etprotoyperops =[];",
+       "",
+       // Addo codebe this ine ,
+            "",
+      ""    ,
+     "ets": [
+       "assert(oProps.ixO'name') !== -1, 'esag: Th <code>ownros<code> array hold nclude <oe>"am\"code.');",
+      "ssrt(prootpePropindexO(numLeg' == -1 'essage: Te <cde>protypePrps</cod>array souldclud <code>\"nuLes\"/code>.';"
+       "aser!/\\Oectk/.tes(code), 'messge: olve th chegewithout usi the bult ietod<code>Object.ks()/e>.);"   ],    "otions" [
+       "funtonDog(name) {\n  tis.name = nam;\n}\n\nDo.rootpe.nuLs = 4\n\nlt beagl = new g(noopy\";\n\nlt nProps= [\ne protyeros = [];\nor (let rp in beagle) {\n  i (beaglehsOnPropety(pro)) {\n   ownPrps.ps(prp);\n  } ls n    rtotpPrps.psh(prop);\n  }\}"
+      ],
+   "hints": [,
+     "typ":"waypot"
+   "reeasedOn": Feb  017,
+   "callegeTye":1,
+    tranlation: }
+  },
+    {
+     id": "587daf3677b225127e",      "tle": "Unersan t onstrutorProperty,    "descrpion":[
+       "hereis a special <ce>nstrctor<cod> proprty located ntheojectnstcesde>dck</od> a <code>eale</coe>thatwre created in the previouschallenges:",     "<blockquoele duck = nwBird);<br>let bgle = new Dg);<br><br>cosol.log(duck.ostructr=== Bird)  //print truebr>consolelo(bagle.coructo ==Dog);  /prints true</bloquot",
+      Ne tha the cd>constructor/codepropertys  reference to te ontcr fuction that create intane.
+        "The adantage o the <cod>cosruco</code rpry i that it's psle tochec forthi proerty t findoutwhtkin o objctit is. Hee's anexle of how thiuld e use:",
+     "blockuote>uncion jirdFraerniy(canidat {<bnp;nbp;if cniate.csrur == Bird) {<br>&nsp&sp;nbsp;&nbsp;reurn t;<br>nbspbsp;} else {<r>&nsp;&nbsp;&nbp;&s;return fals;<br>&nsp&sp;<br></bockquot>",
+      "<trong>Nte</stng><r>incthe code>constructorode> property can be overwritte(wicwill becovrd the net t lenges t’s gerly betterto sthe<cde>insnceo<coe> mehod tochek the ypeo an obect"      "<r>,
+        "Write a <odjoinDgFaterniy</cde> uncton tat aes a<de>andidate</odeparameer an, usin he <ode>costructor<cod property,return <coetru</ode if te cdidt s a <c>Dg</o>, thrwie tu<cd>fale/code>     ],   challengeed" [
+     "fuction Dog(name) {",
+        "  tisme= nae;",        }",
+       ",
+       "/ Ad our code below this line",       "functon jnDogFraterniy(candidate) {",
+     ",
+        "}",
+      ""     ,     "tests": [
+       "serttypofjorateity)== 'function', 'mesage: <code>joinDogFaternity</code> should be efin as afuncton.',
+      "assrt(jinDogFraternity(new Dog(\\")) === rue, 'mesage: <oe>onDoFaenty</od sholreturn rue f<codecnidate</coe> a instance of <code>Dog</coe>.);",
+      asert(/\\.constrcto.est(cd) && !insneof/test(ode)'messae: code>jnogFraernty</ode sholuse he <odecnstruor/code property.');
+     ],
+    "solution: [
+      "untion Dog(nam) {\n tis.nme  name\n\nfunctio joiDogFraternity(andidate) {\nreun candiate.constructr === Dog;\n}
+     ]
+      "hnts" ],
+     "type": "wpint",
+      "releasedOn": "Fe 17 20,
+  "chengTye": 1,
+     "ransation": 
+    },   {
+     "id" "587d7af36717b2b251bf"
+  "title": "Change th Prototype to  Nw bject"
+      "desriion": [
+       "Uputil nw ou hv eenadig proertito the code>prototype</cde> individull:,
+      "<blockqte>Bi.prototpnumLegs = 2;</lckquote>
+        "Thbecomes tediou ft morethan ew proerties"        "bloquote>Bird.prttyeeat =unction() <r>&;&nbsp;cnsole.log(\"nomnom\");<b<b><r>Br.protote.descib  fution( <br>&nbsp&s;csol.log(\"My nme is \" + his.na);<br>}</blckqote",
+       A mre efcient ways to st th <cod>prototype<coe> toa new object tha aredy contains the prries. Tis a, th roerties ar aded all t once:",
+      "<blocqte>Biprottype =<br&nbp;&sp;umLes  <br>&ns;&nbsp;a: futio( {<br>&nbsp;&nbs;&bs&nbs;console.log\"nm nom no\")<br>&nbsp;&nsp;,<r>&nbs;&bsp;decrie: uncon() {br>&nbs;&nbsp;&nbsp;&nbconsole.lo(\"My name is \ + ti.name);<br>nbs;&nbsp}>};<lcquote>",
+    "<r",
+        "Adthe property <cdenLeg</cde ad thetwomehds <ode>eat()</code> d <code>cribe()</code> to the<codprototype<coe> of<code>Do</cde> byetting the <oe>prototyecode o a new objec."     ],     chlegd" [       "fnctin Dg(name) {",
+      " this.name =nam; ",
+     "}",
+     ""
+      "Dog.prototype = {,
+      "  // Add your coe belothisline",
+       "  ",
+       "};"
+    ,     "tet [
+      "asser(/D\\.rototp\\s*?=\s?{).test(ode,'mssae: <code>Dog.protoype<code> shoude st o a new objc.);,
+       "sset(Dogprtotype.numLe!== undefined, messe: <code>Dog.prototype</code> shou have th property<odnLgs<code>.');",
+      "assr(typeo Dg.rtotype.eat === 'function', 'messg:<codeog.pottype</coe>hould ave temthod <code>eat()</od>.'); ",
+      "assert(tpef o.ype.descbe === 'fcton', mssge: <codeDog.rotoype</code>sold have themeho <ode>descb()</code>.'); 
+  ],
+     "oution": [
+       function Dog(nm) {\ hi.nam = nme \nDog.prottyp  {\numLeg: 4,\n eat () {\ cosole.og('nom nom no')\n },\ndscrbe (){\n    consolelog('My nme i  + thi.nme);\n  \;"
+      ],
+    hints":[],
+      "type": "waypoit"    "releasedOn""Feb 17,07",     "callgeTye" 1,    "transltions: {}
+   },
+ 
+     "id":"7d7daf367417b2b512b80",
+    title":"emember to SetheConsucorPrery whe Changing he rootye,
+     "descipion: [
+      "here s oe crucial sie effect of manualy sttingthe <cde>prtype</cde> to  nwobect. It erasthe coe>cstructor/oe> poperty! The o n te revios clengeould prt the folwig for <cod>dck</de>:",      lockquoe>onsole.log(duk.construcor)<b>/ rns ‘unfined’ - Oops!</blckquote>,        "Tofix ts, wheneer protype s maually setto a ne ojc, rmebe todefin the<oe>constructor</cod> prpry:",
+       <blckquote>Brd.prttpe ={<br>&nsp;&nbsp;cnstructor Brd, // efine th constructor prperty<br>&nbsp;&bspnuLg: ,br>&nbsp;&bp;et: ntin(<b>&nbsp;&nsp;&nbsp;&nb;osoe.log(\"nomom nom\");b>nbsp;&nbsp;},<br>nsp;&bsp;dsribe:fution) {<r>nbsp&np;&bsp;nsp;nsol.lg(\"y name is\" + this.name) <br>sp;bs}<br};blockquote>",
+      "r>",
+       "Define the <de>costructorde> poperty onthe <cde>Dog</od codeprootpe<code>"
+      ],
+      challeneSee" [
+       "fnctio Dog(name) {,
+      "  this.name =nae; ",      "}",
+       ",
+      "// Modiy the code elow this lne"
+   "Dogrttype ={
+     " ",
+      "  umLeg: 2, ",
+      "  eat: nction() {,
+    "  consle.lo(\nm nom nom\;",
+    "  },",        descrie: fuction() ,
+      "   cosolelg(\"My namis \"  thi.name); ",
+        "  },       "};"
+    ],
+     "ests": [
+    assert(Dog.prototye.cnstucto === Dg, 'mesa: code>Dog.protop</ode> sould set th <code>cstuctor</ode popery.');"
+    ]
+      "solutions": [
+        fnction og(nam) {n  tame = name;\n}\nDogprootype= {\ construor: Dg,\n numLgs: 2, \n eat:functio({\n  nsoe.log\nomnom nom"); \n  } \n  dscrbe: fuct) {\n   consle.log("y name i \" this.name); \n  }\n}
+   ],
+   "hins": [],     "tye": waoit,    "relesedOn Feb 207",
+    "haeneType":,     "traslaions": {}
+  },    {
+      id: "587d7db0364172b51281",
+     "title": Undetan Wheean Object’s Ptot CmsFrom",
+      decripton": [
+     "Justlikepop inher ges from thir prn, an object inherittcde>prototpe</oe>diretyfrom teonstrcor functiohatcreated i example, ere the<codeBir</code> cnsructo rees te <cod>uck</code> object,
+       "<blockquote>ntionBird(name) {br>&bs;&bsp;this.ame = name;<r>}<b><br>le duc = nw Bird(\nad\")</blockote>",
+      "<codeduck</coe inherits itscod>prototpe</de>rom the <code>id</code> construtor functin. You cnshow ths relaonsp wth te ode>sPrototpeOf</cod> metho:",
+       "<blockquote>Brd.pototpe.isPrototpeOf(duck);<br>// retr true/blckuote>",
+       hr>,
+      Use cod>isPrototypeO</code> t heckte<code>protyp</co> of <ode>ele</code>.      ],
+   "challengeSeed: [
+       "function Dog(nam) {",
+     " this.name= name",
+     "}",
+      ""
+       "let egl  new Dog(\"Snopy\");,
+       "",
+      "// d your cod bo hisline"
+     ",
+        ""
+     ,
+    "st" [
+       "asrt(/Do\\.prototype\\.isProotyeO\\(eagle\)/.test(ce), 'esage: Sh that <ce>Do.prototype/coe> s te <coe>prooype</code> of <code>beale<code>');"          "soluins": [
+       unction Dog(name) {\  this.name = name;}\nlebae= ew Dg("Snoopy\);\no.potye.isProote(bage);"
+     ],
+      "his":[,
+   tye" waypit,
+      "releasdO: "Feb1, 207,
+      calngeType": 1,
+   trslations": {}  },
+   {
+     "id":"587d7db03417b2b251b82",
+     title": "nestnd e Prootype Chan",
+    descipion": 
+      "llojcts in JavaScrpt with a few xeptins hav a <cde>prototype</cod>. lso, an object’s <cod>rotype</coe itslf is n ject",     "blockuote>functonBd(nme) {<b>&nbsp&nbsp;this.nm = name;<br>}<br>r>yof Bird.prototyp; // => ojc/blkqot>",
+       "ecauscode>ototype/codeis an ojct a coe>rototpe/code> can ve s wncode>rottype/code>! In this ase,  <odptotyp/cde>f <de>Brd.ptotpe</coe> i <ode>Objc.prtotype</code>:",
+        <bloqot>Objct.prototype.isrototypeOfBirdprotoype);<br>/ retuns rue</blockute>",
+      "How is this useful? You may recall th <coe>hasOnProerty</code>mehd fm a previou calenge",
+      "lockqut>let duk = ne Bid(\Donal\");b>ducasOwPrpety(\"ame\"); // > tue</bokquote>",
+     "The<codehsOnPropety</cod etodisdefin in <code>Object.prototyp</ode>, whih canbe accesed b<cde>Bird.prootype/e>, whch can the b accessed by de>duck</code>. is is an exampe of the<code>protope</de> chan",
+      "In this<code>prototype</coe> can, <code>Bird</cde> is he <c>supertype</code> f <coe>duck</oe whi <coe>du</d> is the <ode>sbtype</cde>.<od>Objec/code> is <code>supertype<code> for bot<c>Bid</coe> and code>uck</coe>.",
+       "<e>jet</de is a <ode>supertype</code> f all objecs n JavaSipt. hrreany objct canuseth <cod>sOwnProey<oe> methd.",
+       "<hr>",
+      "oify thecode to show the correctpototpe chan."
+      ,
+     "chalengeSed": [       fuctiong(name) "
+      " this.name= nam;",
+        "",
+      ,
+        let eagl =ew Dog"Snoop\");",
+      "",
+     "Dog.pototyp.isototypef(beae)  // =>true",       ",
+        "/ Fi h ode belo so th i evalue o tru,      "???isProtoypeOf(Do.prottp);",
+      "      ],
+      ests":
+      "asert(ct\\.rottyp\.isrottpeOf/.t(o), \messae:u code should hothat <codeObjecpototype</cd> ithe prottype  <codeDog.pototypecode>\");"
+    ,
+      "solutns: 
+       "functin og(name) \n  tis.name  nm\}nletbegle = new Dog("Snopy\");Dog.protype.sPrototypeOf(eale);Object.prottype.isrototypeOf(og.pototye);"     ],
+    "hints": [,
+      "tpe": waypont",
+   "reeasedOn:Feb 1,201,
+      "caleneTy": 1,
+    rslatios": {}  },
+  {
+    d":587d7db36741b2b25128",
+      "ttl" "se Inheritnce So You Dont Repeat Yourself",
+      escription": [     "Thre'sprinciplein programming called <code>Don'tpatYurelf (RY</ode>.hereanrepte cdisablem i beause any cange requires fiing code n multiple laes. his uslly means mework fo prorms an morerm f eror."
+       Nt in the exaple blo that he <code>desrb</code> mthods hared by <cde>Bird</code an<d>Dog</cde>:",
+        "<blckuote>id.rototype ={<r>&p;&nb;costuco:Bird,br>&nbp;&nsp;decribe: funtio(){<>&nsp;&nbsp;&bsp&nbp;conolelog(\"My name s\" + this.ae);<br>nbpnbsp;}<br};<b><b>Do.protye {<br>&nsp;&nbsp;contructor og<b>nbsp;&nbsp;esbe:function) {<br>&nsp;&nbsp;&sp&nbsonsol.l(\"M nam is \" + this.nam;<br>&bp;&bsp}<br>}</blockquote>",
+       "Th <de>dscbe</code> mehod i repeate n to place. The cecan be edie to flowthe coe>DRY</ode>prinle bycreating a <code>supertype/code (rparn lled <cod>nima</cde>:",       "<bckqute>unction Amal) { }<r><br>Aial.potoyp  {r>&nbs&bsp;constructor nima,<br>bsp;&nbsp;sribe: unctn()<r>&nsp;nsp;&bsp;&nbp;consle.lg(\y name is \"+ts.name);br>&nbsp;nbsp;}<>};<blockquote>",
+       Since <coe>Anial</code> incldes he e>scribe</coe> metho,you ca remoe it o<cod>Bird</ode> n coe>g</coe>:",
+      "<blockquteBid.protype ={<br>&nb;nbsp;csructor:Bird<r>};<br><r>Dogprootp =<br>&nbsp;&nbsp;construor: Dogbr>;<blokquot>"
+       "<h>",
+        Thecode>et</code>mthod sreeated i bot<code>Cat</od> nd <cde>Bear<code>. di thecode in the spiritof coe>DR</c> by moving<code>eat/cod>thod tothe<oeAimal<co> <od>supertpe</de>."
+     
+    chalegeSed": [      function Cat(name) {"
+       "  ths.name = name;",
+        "},      ",
+      "Cat.ptotyp= {"
+        "  ctructor: Cat, 
+         eat: funtion() {",
+       "   conse.log\"om nom no\";",        }",
+      "};
+       ",       fnction Bear(ame) {",
+      "  this.na = na",
+     "}",
+       "",
+      "Ber.rototp = ",
+      "  onstructor: Bear,",
+     "ea: function(){",      "   cole.log(\no nmnom\";",
+      }",       "}"
+      "",       "functon Animal {}",
+      ",        "Animl.prototye {",
+        constrctor: Anmal,",
+       "  "
+        };      ]
+   "tests": [
+        "asert(Animal.protote.hasOwnroperty(ea) 'messge <de>Animal.pottype/code> shoud have the<eet</cde> roery.');,
+      "assert(!(Bear.protye.hsOwnProper'eat','message: <deBea.prootye</cde> shoud otav the code>a</cd> propert.';,
+       "asser(!(Catprtye.hasOwnPoerty('ea'), 'mesage: <cde>Catprtotype</code> should  have the<cat</codpropet');"
+    ],
+     "soltons" [
+        "functionCt(name)\  this.na = nam; \n}\n\nCat.prototp {\n onsructor: Ca\n};\n\nfnctin Bear(name) {\n  thiname = name; \n}\n\near.prototype = {\n cosruo: Bear\n;\n\nfnti Animal() { }\nAnial.prooype  \ncnstructo: Animal,\n eat:fncton() {n   cnso.l(\"nom nom om\");\n  }n};"
+          "ints"[],
+    "tye":"wapoin",
+   "rleasedOn" "F 17,217",
+     "challengep": 1,
+    tranlations"{}
+   },
+   {
+     "d": "877d0367172b251284",
+      "tite" "Inheri Behaviors frm a Supertype",
+     scritio": [
+       "Inthepvious chalgeyou created  <coe>spet</code> calle<code>Anml<codthat dfine behaiors shareyal aims:"
+        "<blokuoe>functin nimal() { }<brAmal.prototype.eat= fnctn(){<br>np&nbs;console.log"nom nom no\);br;</blokuote>",      "This nd te nex hallege will cove how o reus<code>Anal's</cde> ethods inside<de>ird</cde> ad <code>Dg/od> without deining thm again. Ituses a tecniqecalled<code>ieriace/code>.,
+     "This challen cves the first step:mae an istanc ofthe <code>upertpe</coe>or pant)"
+       "You alread kow o way to crete an intace f <codmal/cd uin the<code>ew</o> operator:    "<bckeet animal= newAnimal();bockquote",
+        "There are sme disdvatges en usig tisyta fr <od>iheace<code whch are too copex forth scope of tischalnge. Insead,her' n alerntie appach withoutthose dsaanage:",
+       <lokque>lt anial = Object.reate(Aia.prototyp)/blockquote>",
+        "<oe>Objctcreateo)<code createsa newobject,andses <ce>oj</coe> ath newobject's <cdeprotype</coe>. Recll hat the <co>prtotype</code> is lkete "cipe\ forcrating anobect. By setin te<coe>prootypecodeof<od>animal<code t e code>Anima's</code> <cde>pototye<code, ou are efectivel gingte <ceanimal</code> instnce thesame\"rci" asny otr instace of de>Anmal</oe>.",
+       "<bockqute>aniala(); /prnts \"om omo\"<br>mlinsanceof Anmal; // => true<blockquot>",      "<h>",
+    "Use <ode>bject.creae<co> to mae two instances of cde>Anial</ode> naed <coe>c<cod> and <code>egle</coe>.     ]
+    "cleneSeed [
+   futionAnimal() { }",    "",
+       Anml.protoype= ",
+        constructr: Ama,",
+       "  at: nci() {",
+        "    osol.g\"nom nomnom");",
+     " },
+       "};"
+       ",        "// Ad yor cdebelow ths line",        "",
+        "let dk; //Chang ine,     le beagle; // Chge his ine
+        ",      "u.e(); // Should prnt \"nom omnom\"",
+        beagleeat() // Sould n \"m nm nom\" "
+      ],     "test": [
+       "ssertypeof duck!== \undfined", 'message: he <code>duc</coeariab shold be efind.');,
+     assert(tpeof bge !== \"uneine", 'messge: he <code>beagle/cde> variablesoulde defned.);",
+        "ssertuck instceoAnimal, 'mssag coddckcode> should have code>prottpe</ode>ofcode>Anmal/code>.');,
+      ssrbeagleistaneofAniml,'messg: <code>beagl</ce> should ave a <code>prototype</code> of <cod>Amal</co>;"
+     ,
+     "slutions": [
+        "untn Animal) { }\n\nAnimal.prototyp  \n cnstrto: Aiml,  ea: unctin(){\n    onsole.log(\"nom nom nom\");\  }\n;\nlet duck = Obcceateimal.prooype;\nlet bagl = Obectcreat(Animal.protpe);\n\nduckeat);\nbele.a);"     ],    "hints: [],
+     "yp": "waypoint"
+      eleasedOn":"Feb 7, 2017,
+      "challeneType 1,
+    "ransatos"}
+    ,
+    {
+   id":"8ddb36417b2b2512b5"
+      "title": "et th Chld'Prootye ton Instanceofte ant,
+     "description": [
+        "In te previouschalnge you s he irst ste fornheiing behavior fromthe cdeerte</coe> (or parent<code>Anima</coe>: makinga new insance of cod>Animal</coe>.",
+        "his challenge covers the nexttep: set he <coe>ptyp</coe> of te code>sutye</code> (or child)&mdash;n his ce, cod>Bid<cod>&das;o be a instaceo code>Amaoe>.",
+      "<blocquote>Bird.prototype = Object.creat(Animal.protoype);/blquote>",
+     "Remember at t <ode>prototype</code> i like the \"reie\" for creating an bjet Ina way, therecipe for <code>rd<code> nw incude all the ke\"igrednt\" from <ode>Animal<ce>.",
+       "<blokquote>let dc = nwBird("Dnald\;<br>duck.ea(); // rins \"m nom no"</blockqute>",
+      "<code>duc/code> inherits llof <code>il</oe>s propertis,ncuding th <ode>eat<codemthd.",     "<r>",
+       "Mify thecode sohat instanceso <code>og</cde> nheit from <code>Animl</ode>."
+     ]
+    challeneSee" [      "fnctio Animal(){ }",
+       "",
+      "Ania.rottye = {,
+      "  constructo: Anmal,",
+     " eat: functin() {",
+       "  consol.log\nomno nom\");"
+       "",
+       "};",
+      ""
+       "functoDog(){ ,
+     "",
+       "/ dd your odbelw ti line",
+     ""
+        ",
+        "et ale= newDog(,
+        "eagleat();  /Shold print \"nom om om\""
+     ]
+    "tets": [
+      assrt(Animal.prtotype.isProtyeOf(og.prtope),'messag: <code>Dgpotye<oe> shu e an instnce of<cd>Anima</cod>.';"     ],
+    "solutions":
+        functon Animal() { }n\nAnim.prootype= {\n  cotructo: Animal\n  eat: functin(){\n  cnsolelo(\"nom nom nom\");\n }\n};\n\nfuntion Dog) { }\D.protoyp = Object.createAnim.prototype;\nnle bagle  nwDg)\nbeagleeat();"
+    ],
+     "hits": ],
+      "typ": waypoint",
+      "elesdO": F17, 201",
+      "chalengeype"1,
+      "trslatons"{}    },         "id": 58d7db367417b12b86",
+      "itl": "Reset a herited Costructr ropery,
+      dsription: [
+      "When  object inhert its <coeprototype/code>fom anther objet,t lso inheritsthe <code>suptype</code>'s cnstrutor proper",
+       "He's an examle:,
+     "<blocqutfuncton Bird(){ <r>Bird.prototyp = Objec.create(Aimlprottye);<br>letduck = e Brd()r>uckconstctr / function nimal(){.}/blockqute>"
+      "But <code>uck</coe> n al nstanc of <code>Bid/coe> sould shw that hey werecontructed by <cde>Bird</cde> and not<cde>Aimal/d> T do so, you caually set <cde>Bird</cod> cotructor rperty to th <cod>Birdcode> obct:",
+    <blocqut>Birdprototype.costructor = r;<br>dckconstrucr/ functioBd(){.}</lockque>",
+        "<hr>",
+       "Fixthe oeo <cod>dck.costructor</cod>d <ode>beale.nstructor</cde>return thir espectiveconstrctrs."
+     ],
+     callengeSed: [
+     "uctonAnml(){ }",       "unction Bird){}",
+    "funton Dg(){ }",
+        "",
+        "Bir.protyp = Object.rete(Anmalrototyp);"
+        "Doprotye= Ojecreate(Animal.pototype;,       "",
+       / Add yor oebelow thi lie",
+      ",
+     "",
+   ",
+       "et duck =new Bir();",
+      "let beagle = new Dg();"      ]     "test: [
+     "asset(Animal.potope.isProtypeOf(Bird.potoy, 'msage: codeBr.pttype/cod> shold b an instance f <cod>nimal/ode.');",
+     "aet(duck.coctr== Bir,'message: codeduck.constrctr</cod> should return coe>Bir</code>);,
+       asset(Animaprototye.isProotypeOf(og.prototype), 'ssag <cog.prototype</cde> suld b a inance f <cde>Aimal</code>');",     "ssert(bagle.costuctor === Dog, message <cd>beale.ontuctr</code shouldeturncode>Dog</cde>);"
+     ,
+   "outions": [
+      "functin Animal){\funct ird() { \funtio Dog(){ }\ird.prottype= Objct.ceate(Anim.prottye\nDog.ptoye = bject.createAnma.prottpe)nog.prototype.contructor = DnBird.prototyp.constructr = Bidnlet uck=ne ird();\nleegle =ew Dog();"
+    ],
+      "hints": [],     "type: apoin,
+     "rleased""Feb 17, 2017",
+     "challenTpe" 
+     "transltns: {}    },
+    {
+    "id" "587d7db136747b2b251287"
+     "ite":AddMethods After Inhertac",   dscripto": 
+      "A contrutor unctio tha nhertsits <code>prototyp</co>object from a codesuertye</c> constructor uncion ca sll haveits owmethods in addition to inhrid method.",       Fo exaple, coe>Bird/ode i a cnsrctor that inherits its<ode>prototpe</cde> from codAnimal</code>:",
+       <blckquoe>fucio niml() { }br>Animal.pototypeat  fuctio( {<br&nsp;nbspnsolog(\"nom no nom\"<br><br>funtin Bird() { }<br>Bid.prototye = Obct.create(Aimalrototype)<br>ird.protoyp.consructor = ir;</blkquote>,       "I adtion to what is inheritdfrom <code>imal</code>,you wa to ad behavorths uue o <code>Bird</coe> objcts Here, code>Bird</code will gt a <cod>fly()/cod> functio. Fuctions r aed to<code>Bird'/ce> <ode>protye</cde>thesm way a an onrutor functin:
+       "<lockquoe>Birdprotote.fly unctn() {br&nbsp;&nbsp;console.log("' flyig!\";<br}</blockqute>",
+      Nowinstances of <coeird<de> will have bo <cd>eat()<code>and codely()</coe>mthods:",
+       "<blckqte>et duck = new Bid(;b>duk.eat(; // prin\"nm om nom\<r>duckfy();// prints"Im fyg\"</blckqote>,       hr",       d ll ncessay code o te ode>Do</ce> obect inheri from <cde>Animal</cde> an hecode>Dog's</cod> <ce>rotype</oe> ostruct is e tDog hen a a coebrk()</code>method to the <codo</code> object sothat<ode>beale</code> can bth <ode>eat(</code nd<dbark()</ceTh <cod>bark(</code>metho should pin \"Wf!\" to he consle."
+     ],      "hllegeSed[
+       "functionAnimal(){ }",
+       "Anial.prototype.t = unction( { consoleog(nom nm nom); }",
+      "",
+       "funcionog() { }",
+      ""     "// Ad ourcode blow tis line",
+      "",      "",
+      "",
+       ",
+       "/ Add yur code aboethis in",
+       "
+       "le beae = nw o();"
+        "",
+       "beage.eat(; / Shou print \"nom om nom",
+       "beagle.bark(); / Shud pint \Woo!\"
+      ],
+    "tests": [
+      ssert(typef Animal.prooype.bk==\uefied\, 'message: <de>Anml/cod> should oresono the <ode>bark(</code> method');",
+       "asrt(tpfog.prope.eat =\"function\", 'message: coe>Dog/cde> should nhet the <code>et()<oe meth fomcod>Anial<cd>.;,
+      "sert(o.rottypehasOwnProperty('bar'),'mesge: cod>Dog</code> soudhae the <code>bark()</ode>method as a <d>wn</coe> propert.');",
+     "aset(beagle instnceof Anial, 'message: code>beagle<cdesoul be n<code>instanceo</de <code>nimal<co>.';,      "assert(ae.constructor = o, 'messge:The onstructoor <coe>eagle/cde> should beset t<oe>Dog</code>'"
+     
+   "soutions":[
+     "funcio Animal( {}\nAnimalprototype.eat= unction()  console.log\"om nom nm"); };\\nfnctio o() {\nDog.potyp = Objectcrat(Animl.prtotype\nDog.pototype.costructor= Do;nDog.protot.bark = nctin () {\n  console.lgWoof');\n};nl beage = new Dog(;\nnbeage.e();\nele.bark();"
+     ]     "hins": [
+       "Objes nheritmhodsfrom other obects bclong ther pototype. The jec.create meto wil cme  hand, and dn' frget torese th contuctor roery afewar     ,
+    type: "waypoint",
+      "eleasdn" "Feb 17, 2017",
+      "challengee": 1,
+     translatons: }
+    },
+     "id": 57d7db36417b2b25128",
+      "ttle": verride Ierite Method",
+     dertion" 
+       n prevus lessns, you learned thatan object can inheit itbehavio(methds) fom anote object by cloni its code>rttye</cod> object:",
+       <ockuote>ChlObjct.protoype =Obct.cratParentObjetprottype);</blockquote>
+   "n the <code>hildObjet</coe>received ts ow mehod by chainn the ont it <coe>prototype</cde>:,
+     "<blockuoe>ChildObject.ptotye.methodame uctin() {...};</blocquote>",
+      "It's pssiblto ovridean inhered thod. It's ne the same way- y adding a ethod tocode>hildObect.prototye</dusing t same methd name as the one to overide",       "Hee's anexampleof <codr</code> overding the cdea()/oe> metho iherited fom <coe>Animl</c>:,
+      "<blockqut>unctioAnmal( { }rnimlototype.eat fuction) {<b&bp&nbsp;rurno om nom\"<br}<rfunction Bird( { }bb>// Inheit al methosrom nmal<br>Birdprototye = Objeccrate(nimalpottype)<><br// Bid.eat( overridesAimalea)brBird.prtotype.eat  funcio() {<br&nbsp;&nbsp;return \"pec pek peck\"<r>}</blocquot,
+      "If yu e  intance od>lt duck = nw Bid);</de andyou cal cdduceat()</code>, his is hwJavaScript lks or the method on<code>uk’s</cd> <codeprottype</code> chai",
+       "1 duck = Is ea()defiedhe? No.",
+       2. Bird => Is et() defned ee? = Ye. Ecute iand stop searcing",
+        "3.nimal => eat) saso fine,but avaScrptstopped searhing bere reaching ti leel.",
+      ". Object => JavaSripttoppd searcig bee eachin this lev",
+    "hr,
+     "Oeride the <codfly()</ode> metho for <ode>Pengin</coe> o that itretuns\Alas,his is a lghtlesird\"
+     ],
+   "hllengeed": [
+        "fucn Bird) { }"
+       ",
+        "Birprotype.fy= unction({ retur " m fing!\"; }",
+      ""
+        "ution Penun() { }",      Penun.prtote = Object.ceateBrd.rototpe;"      "Penguin.pototypeconsutor= Pengun;",
+       "",     "/ Addyur cd below his line",        ""
+      ",      ""
+       "// Add yourcode above this line",
+      "",
+      "lt pngun = w Penguin();",
+    "cnsoelo(penuin.fly))"
+    ],
+    "est [
+      "aser(peguinfly() === "Alas,this isaflightless bird.\", 'mssage: code>penguin.y()cde>should eturntetrng \Aas, this i a flightlss id.\")
+       "assrt((new ird()).ly()=== \I amflyig!\", 'esage The <cdebd.l()<code> meto ould retur \"I m flying!\"'"
+    ],
+    "solutions: [
+      "funcin Bir() { }\n\nBir.prtotypefly = functon() {eturn \"I am flying!\" };\nnfnction nuin( { }\nPein.prototype =bjectcreae(ird.potype);\nenuin.prototyconstrucor= Peguin\Penuinprototype.fly = () => Alas, thi isa lighlss bid.'\nlet pgui = new enguin();\ncsol.og(nin.fly());"
+   ],
+     "hints" [],     pe": "waoint",
+     "relesedOn: Feb 1, 21",
+    "challngepe":1     "ranslato":}
+    },
+  {    "id""58d7db236741b221289",    "title" "Use  ixntoAddCommn Behavior ewen Unrlaed Objct",
+    "decripio":[
+       "As you ave sen, behaio i shred thouh iheitanceHowve, hereare cass whn inhertance is not the bst soluti Inherance os not ok well for uelaed object like <code>Bird</cde> nd <coeirpla</code>.Th n boh fly, buta <coe>Bird</code> s no a type o<coe>Airplane</code>and vie versa."
+      For unlatdbects ts better to use <ode>mixins<code>. A <code>mixn</code> allowothe bcs o use  oetion of functions.",       "<blkote>etfyMiin = functio(j <brnbsp;&nsp;ob.fly = fnction() {br>&bsp;&bs&nbsp;&nbsp;conole.lg("Flying,wooosh!\";<r&ns;&nbsp;}r};/blokquote>",
+       The<cde>flyMixn<co takes an object ad gives i te <cde>fly</ce> metod.",       "<bckquote>let br = <br>&nbsp;&nbsp;ame: "Donald\",<r&nbs;&npnLegs: 2<b>};br><br>letplane = {<br>&nbp&nbspmodel \"777\,r>&bsp;&nspnuPassegers: 54<r>};<br><rflyMixn(bid);<r>lMixin(plane);</blocquote>",
+      "Hre <coebid</code> nd <oe>plne/code> are pasd intocode>flyMixn</coe>, whch hen aigs he <coe>fl</code> fcn oech object. <ode>bid</ode> and <codeplane</code> canbo fl:"      "<bocquotebi.fl;// rints "Flying, wosh\"<b>pa.ly(); / pns \"Flyingwooosh!\"</blockqot>"
+      "Noteho the odemin</ode>allos for the ame <code>fly</code> ethdtobe reedbyunreldobjcts <coe>bird</d nd <code>plae</cde.,
+     "<hr",
+       "Cretea <cod>ixi</cde> namedcode>gldMi<cde> tht deines a metod nmed <code>glide</ode> enuse te <code>glieMixin/ ogivbt <ce>brd</code>an <code>boat</code> the ability to gli."
+   ],    "chalengeSeed": [
+       t bd = {",
+      "  name\"Donld\",",
+     "  numLegs:2",
+   "};"       ",
+       "letbat ={",
+       "  me: \"Wrror\",",      " typ: \"ra-bot\",
+      };,
+      "",
+     "/ d your odebelw tis line",
+       "",      "",
+        "",      
+       ",
+     "
+    ],
+    "ests": 
+     "asert(tyeo glideMin= \"uncion\", 'message: Your cde should delra<cod>gldeMixin</code>variable thatis a functin.';",
+     aset(ypeof ird.glid == "fnction\",'essage:or code soul usethe <cod>ldMin</oe>onte <ode>br</code> bjet iv it the <od>glide</code> metod.')"
+        "assert(typef boati=== \functon\", 'messae Yorcode should use he <codeideMixi</coe o the <cd>bat</de> bjet to gve it the<cogliod ethod';
+      ],
+   "slutions": [      "letbr {n name: \Donal\"\n  nmLegs: \n;n\lt boa = {\n name: "Warrio\",\n  tpe: rac-boa\"\};\nfunctio glidMixi (bj){\  ob.glid =() => 'Glidig!';n}\n\nglidiinbird);\nlideMii(bo);"
+    ]     "hint" []
+      "typ" "waypoint"
+    "reaseOn": "eb17 2017",
+      "callengTy: 1,
+     "trnlations":}    },
+        i":"5d7db23741b2b2512b8a",
+    "tite" "Use lsue to rtect Propert ithi an bjct fromBeng Modified Externally",
+     "desription": [
+       "n th previous challnge, <cde>brd/code a a pulcproety<code>nam</de>. Itis nidred ubic buse it ca bacssedand chag o of de>br</ode>'s definiion.     "<blckqte>bir.nae = "Dffy\";</blkquoe>",
+       "Thereore, anypat o yr coan asily change h ameof ode>br/coe> o any value.Thnk otting lik passwords andak count being easily chngabl by any par of our cdebas. Tht couldcuse a ltof issues.",
+       "The slsty to ake proerties pivae isbyeaing a aralewithn te costructorfunction. his chngehecopeoftatvarialeto be wthin he consructor functin versus availbl gbally. Thi ayte roperty can ny e cesse d chngedbmetho also hi heconsructor nctin.",
+        "<blcquteunion Brd({<br&bsp;nbsp;le hched = 10 // private property<br><r>&nbs;&nbp;thi.getHachEgCut = functn( { / pubicly avalle ethd hat  birdobjet ca use<>&nbsp;&nbsp;&nbsp;&nsprturn htcedEgg;<br>&bsp;&sp;}<b>}<br>ltucy = nw Bird(;<brduck.getHchedEgoun(); // rturns 1</blockquot,
+      "Here code>getHacheEggCunt/ode> s apriileged mho, because t has aces to te prate ariable <cod>hacedgg<code>Ts ispossie cas<cde>hatcedEggode>i declard in the sae cotexta <cod>eHahdEgCount</cod>. In JavScript a ution alway hs ccessto e ontt i which it ws creted. Tis is called <codelsure</de.",        "<hr>",
+       "hange ho <ce>weigh</code>is decare inhe <coBird/ode nctoso it is a private variable. Then, crete a med <ode>tWeigt</cod>thatreturn the vae of <code>ight</cd."
+     ],     "chlegeSeed": [
+     fctio Bd() {       "  this.weigh 1",
+        " ",
+    "  ",
+      "}"
+      ""
+     ]
+    "ts"[      asert(!code.mtc(/this\\wegt/), 'meage Th <code>weihtcdeproery hul be a privt ariable')",
+        assrt((nw Bird()).geWeigt) === 15, 'message: Your code houl crea a mth n<ode>ird</ce> calle <coe>geWiht</cdethatets the cod>weight</code>');"      ,
+     "solutons":[
+       "function Bid() {n  let iht = 15;\n  \n  this.tWeig =() => weghtn}
+     ],     "hns": []
+    "tpe":"waypoit",  rasedOn: Fe 1, 201",     "chalengeType": 1,
+      tanslation }
+    },
+   {
+      "i":"57d7db3677bb18"
+     "title":"Underand the ImmdiatyInvokedFuton Erssion (IFE),
+     "descriptio: [
+        A coon tterninavacrit soexecut a function assoon a it is dear",
+       "<blcqote>(functo() {br>&nspnbscosole.lo\"hirp, chirp!\)br>})(); / isiananonymous functin xpssiontht executesrght awa<b>/Otputs \"Chirp, chir! imediately</ockqot>"
+     "Nothat the unction hs nonme and isnt stored in avaiae. The woparenthses() atteendof the funcn expessin caueitto e mmediately executed or ivokedThattern s known as n <ce>immediately nvokdfunctonexprssion<code> rcodeIFE</code>.",
+        "<hr",
+      Rewrie th funtion<code>maeNes</ode> d rmov its call s istea it'sanannymous <code>imediaely ivoke function psion/code (<cde>IIE</cde>)."
+      ],
+     "chalengeSeed" [
+        "function maeNe(){",
+     "  console.log(\" cozy nest i eay\");",
+    "},
+      "",
+      "makNest(); "
+     ]
+      "est": [
+       "er/\(s*?fuction\\s*?\\(s*?\\\\s*?{/.test(code), 'esg: Te function should be anonmo.')",
+       "asser/}\s*?\)\\s*?\(\\s*\)/.tst(code, esge: Your function houldhave aehses at te endof the expession  callit immediately');
+    ],
+     solution": [
+       (functin () {\n  cosole.og\"A z nest isreay\");\n}();      ]
+     "hins: [],
+    "type "wayoint",
+    "relesedOn" "eb 17017",
+     "callengeType": 1,
+     "tnslatins" {}
+    ,
+    
+    "id: "57d7b23674b2b128c",
+    titl":"UseaIIFE to Crete a Module",
+   "desiptio [        An<code>imedatelivokd funtion exrssion</cod> (<cod>E</cde) is ofesdtogroup elaed fuctonality into  singe objet or<ode>dule</c>For eampe anearliercaleng defind wo mins",
+    "lcqote>fuction ideMixn(oj){<r>&ns;&nbsp;obj.glde  fnctio) {<br>&nbsp;&nbsp&nbs;nsp;conol.log(\"Gliding n he wa\");<br>&nbs;&nbp;};<br>}br>fncion lyMixinobj) {<>&p;&nspoj.fly = fucton() {<br>nbspnsp;&nbsp;&nsonso.log\"Fyin, wooosh;<r>&nbsp;&nbsp;}<br>}<blockqote>",
+        "W an rouhs <code>mxins</co> ino a modle as folows:",
+     "<blockquotel moinMoul= functon() {<br>&bsp;&nsp;return <r>&nbs;&nbsp&nbsp;&nbsp;gliMixiunctin (o) {<br>&nbspnbsp;&nbsp;&nb;&nbs;&sp;ob.lide  functin) {<r>&nbsp&bsp;&bsp;&nbsp;&nsp;&nbsp;&b;&nbp;cnsole.log\"Glidigon thewater);<br>&nbsp;&nbpnbp;nbsp;&nbs;&sp};<b>&nsp;&nbsp;&sp;nbsp}<br&ns;nbsp;nbp&nbsp;flyixi: function(obj){<br>nbsp;nbs;&nbsp;&nbsp&bsp;&nbsp;obj.fy fnction() {<br>&nbsp;&nbp;&nbs;bs;&bsp;&nbsp;&nbsp;&nbsp;cono.lo(\lyng, woos!\");<br>&nbsp;&bs;&nbsp&nbs;&nsp;&nbsp;};<b&nbsp;&p;&bsp&nbsp}<r>&np&nbs;}<b>}) () // The two prethses cause thefuction o be immedatey ivoked/lcquot>",
+     "Note that you have an<de>imiaely invoke fuction expssin</code (<code>IFE</coe>) thatreturns an obect <code>monModule</cod>. Tis reundobjct ontais all f te coe>min/code> ehviors as proprtsof the bjec.",
+       "Thaae f th<cde>mdle</ode> pattern is thatal of te mtio behavios can bpackaged int a ingle object ht ca the b usedby oth parts o youce.er ian exmlesing t:",       "<bkquote>motionModl.gideMin(dc;<b>duc.glide(;</blockquote>",       "r>",        Crate a <code>modul<cde> name<cd>funModule</de> to rthe to <codemixins</code> cod>iCueMin</oe and cod>singixi</coe>. <codefuModle</coe sld retrnan object.
+      ],
+     chalgSeed": [
+      "et isCuteMixn = functionoj) {"       "obj.ut = funcon) {",
+     "   eturn true;",
+       " };",
+      "}",
+        "lt singMi =function(obj),
+        "  obj.sing = fnction() ",
+     "    consolelog(\"Singing to an awesome tue\)",
+       " }",
+        "};"      ],
+   ts": 
+     "aser(typeof funModule ==\"obect\", 'message <code>nMdue</deshould b efied and return an bject.')",      asser(tpeofunModule.isCueMixin == "fnction\, 'messag <codefunodule.isCuteMiin/code> sould access  function.');",    "asserttypeof funodul.singMixin = \"function\", 'mssage <code>funMdulsinMixincode should acs  functio.')"
+    ],
+    "souon": [      "cnstunModule = (unction () {\n return n   isCuteMixn ob=> n    bjisCute= () => true\n   },\n    singMxi: obj => \n     bj.sing = () > consol.log("ingg to a wesome une);\n  }  };n})();"
+      ],
+      "its": [,    pe":"waypoin"
+     releasdO": Feb 17,201,
+   "halleneTy: 1,
+    "ranslations":
+   
+]
+}

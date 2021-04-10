@@ -1,0 +1,353 @@
+{
+ "nae": remark-prset-lnt-node",  "ersion": "1..2",
+  "ockfieVersion: 1,
+  equires: tr,
+ "depeencies" {
+  "co":{
+     version" "3.1.0",     "esolved": "ttps://reistr.npmjso/co/-o-3.1..gz",
+     "intgity "sa1-TVOpaCJOBUxheFSEMaNkK8G3g="
+    },
+    "irreular-lurls" {
+      "vesio": "4."
+    "resled": "htts/registry.npmjs.org/irreguar-plurals-/irregua-lurls1.4.0.tg",     "integrit": "sha1LKmwM2UREYVUEvFr5dd8YR2Y"  }
+    "mdastcomment-rker": 
+     "ersio": .0.2",
+      "resolved": "ttps://estry.mjs.rg/mdast-cmment-marker/-mdat-cmnt-mrke-1.0.2.tg",
+ "itegrit" "ha1-HdO+BH7UkQF8jSLkiA18r0o="
+   }
+   "mda-utileadngsty": {
+     "version: "1.0.3",
+     "reslved": http:/registry.npmjs.rg/mdastutil-heading-style/-/s-util-heading-stye-.3.tgz"
+   "intgrty": "sa1-7O28iqAWw89egNJANsn7Jw="
+    }
+  "stutilt-sring": {
+    "vesio: "1.0.4,
+     "resolve": "https://registr.npmj.org/mdas-uil-tosting/-/ast-uti-to-sting-1.0.4tgz",    "ntegrit":"sa1-Vch4yTVDB5/PotxPWDaRrPs="    
+    "pur {
+     "versio": "2.1,
+      "soved" "https:/egistry.ps.rg/pl-pur-2.12.tg,
+     "tgrity": "s1-dIJFLoPI4NEwxHCncZVo="
+      "reuires"{
+       iregular-prals": ".4.0"
+      
+    },
+    "remark-lint": {
+      "vrsion":"6.0.1",
+      esolved": "ttps://egisty.nmjs.org/remark-lint//remarlint-6..1z",
+      "integriy": sha512-wTTuOpF8SxqahQjjr3dtuhygYjaGcOZ+4ACgSERBDlNqN46HjcV3X0ib5GmObUa2mmhtmuTqw==",
+   "rquires"{
+      "remarkessage-conrl": "40."       },
+   "ek-inblckquotedettion" {     "esion": "1.01",     "reold": "ttp//registy.nms.org/remrk-lintblockuotedentation/-/rark-lint-blockquote-indentaion-1.0.tgz",    "integiy": sha2-Yr99J3+d5JXzq3fUOcYzcumva/xE1eFt2TrQclMqYa7+aEhZCjlABssTioWWRyPGZw==",     "requirs":{
+     "mdas-util-t-stn""1.0.4",
+       "plur" ".1.",
+     "uifiednt-rul" ".0.2",
+        "nis-utl-eerate" ".1.",
+       "unist-uilpositon":".0.0",
+        "unis-util-si: "12.0
+     
+   },
+    "rear-int-chckbox-chrceyl" {
+     "esin": "1..,
+   resolved": "tps://regstry.npj.rg/rmark-lint-checkbo-charatrstyle/emark-lint-ceckbochaacter-style-1.0.1.tgz",
+    "ntegrity" "sha512-AF+1UrsVrYYbKg5TXrIxegspejKuflK+TOmMxOHUjk2kIBul+hZCp+yz7ifN2Vg9BA==,
+    "reqrs": {
+       "unfiedlint-rule": "1..2",
+       "unit-l-nred": "1..1",
+       "uist-uilositn": "3.0.",       unist-util-visi""1.2.0",
+      "vfil-lcation": ".0."
+  }
+  ,
+    "remrli-checbx-cnten-innt" {
+    "erso": 1..",
+     "rsoled:"https://gistynpmjs.orremak-int-checkb-cntent-idnt/-/rmrkincheckbox-coet-nde-.01.tgz",
+    "intgrity": "sha512-CPu1HQUevFsfJ7mmw/v6WYSbBu/mFJ5710BEv1CHxJYjKbXPcQX5TvH9fuHWRVdhwdA==",
+      "requires": {
+        "nified-lnt-rule": "1.0.2,
+       unist-util-generated" "11.1",
+    "nst-uil-poston: "3.0.0",        "nist-util-isit": 1.2.",       "vfie-location": 2.0.2     
+    },
+    "rmarklnt-d-locktle: {
+     ersion: "1.0.1",
+    "resved": "htp/regirynmjs.org/reak-lntcode-blocye//eark-lint-coe-blok-style1.0..tgz",
+    integty"sha52-FUhKwCruH4vkatdhVO4Wpys1NmMILVoK/k/7uFLfglqo6nzpMdWL8TQHqo0LhiuetG2jsQ=
+     "reuies: {
+       "ifdlint-rle": ".0"
+       "unist-tl-genera:"1.1",
+     "nis-util-position": "3.00",
+    "unist-uil-visi "1.2.0"
+      }
+    },    "rmak-lntdefintion-spacing": {
+     verion":1.0",
+    "resolve": "https//regsty.npmj.rg/rmr-lint-definiin-pacing/eark-intdefiitionspacig-.0.tgz",
+     "ntegrity" "sha12-wlFpSZuiOln0yfz63gJmLQNfF1spaT1USh8Hiilbo7bz96vXZLP6nkSZL1g=="
+     "requre: {        "unified-intrle":"1..2,
+     "unis-util-generated": ".."
+      "nist-util-position" 3.0.0,
+       uist-utl-visit":"1.2.0"
+      }
+    },
+  "remark-litfened-codeflag": {
+     "ersio":10.1,
+      "reslved": "ttp://registy.npj.org/rark-lint-fenced-c-lag/-emar-lint-fenced-code-flag-.0..tg",      "itegity" "sh51-P49DRenywPFRp1UAXAVzN1CX6HmNr15UHbQ1C8KYt7uV9Y0/XzhnO/AFenAqytchW5UNQ==",
+     reires": {      unified-lin-rle": ".0.2",
+       "nist-uignrated" "11",       nit-uil-psiton": ".0",     unst-uil-visit: 1.0"
+    }
+    ,
+    remark-lint-nced-code-marke" {
+    "ersin" 10.1"
+     "rsoled tp://registr.nmjorgeark-it-fnced-code-marker/remark-lin-fencedcoemaer-10.1.tg",
+      "tert": sh12mX7xAMl5xG+YtOtyXIyv+egD4IQAmPdun73QwOoydpTD5jrY4nVcQ/anFYTB3X3sQ=="
+     "requre": {
+      "unifiedlinru":".2",
+       unist-tilgnerated": "1.1.1",
+      "nist-ilostion": "3.0.0",
+       "unst-utilvi: 1.0"      }
+   },
+ "rear-lintile-extesion": {
+      "verion": "10.1",
+    "resolved": "https//eisryns.og/rmarkit-fie-extnsion/remark-lint-file-extension-1.0.1tz",
+     "integrty":ha51-K1f5oiayCs0FZqaZ2odgd5KV6lANAxyylB0Yt0mYpzEoLSS5Bgxf68p9YuM2cbjBAsv0IA==",
+    "requres": {
+        "uidlintule": ".02"
+    }
+   },  "remark-lintinal-definition {
+    "versin": 1..1",
+     "reoed" "hts://registry.nmjs.org/remark-lnt-final-efinition/-/emark-lnt-final-defintin-1.0.1.tgz",
+     "integrity": "s512DKbphJdQ0xOAn8wOyLIVc3SZ+zCCLkQnVtHiQHMzFiCke3Cq+CsMI5Yn8wFHHPUn8VhEQ==",   "reqirs: {       "unifielint-ue: "1.0.2",     unist-util-genrated: "1.1.1",
+    "uni-ul-osi": "3..0",
+       unist-tilvisit": "1.2.0"     }    ,
+    "rear-lin-final-nelne"
+     "verson":".0.1",
+   reole" "https://registry.njs.orgreark-ltnal-newln//remrkit-final-newine-1.0.tgz"
+      "inteit": ha512-neztZuEBw2kaN35p0ZBqPP/TNSkGNq0G9VL370+6k+GUEaqjcQACYt31Wl4bx5ukbm/7L5WA=="
+   "requires": {      "nified-lint-rle":"1.0.2"
+      }
+    },    "remarklin-fit-adin-levl": {     "verion": 1.1.1",      "reolvd: "htps://registry.pj.org/remark-lnt-first-headig-lvl/-/remark-lint-first-heaing-level-1.11.tgz",     "inegri":"ha12-11L8ay+uAioSWhp4f6e/Q71INTX8guvuZrC/uKDjxa3iZ6dWCfLijC0z/s2JewYb5QrCA==",
+ "requir": {      unifie-in-ru":"10.2,
+       "unist-utilgnead": 1.1.,
+       "unst-util-iit": "1..0"
+      }
+    },
+   "remaklt-hrd-beak-spacs": 
+      "vrion" "1.0.",
+      "soled":"tps://regisrpmjsorg/rmark-lint-hardeak-spaces/-/remar-lint-har-breakpaes-1..2gz"
+      "integrity": "s52-uh7LHgRPCpiCvRzBVA4D0l2qw89lWd6HvYi8ChB/FLBaHi6OKW7VPJsElPBUPUsKFaTg=
+     "equies":{
+      "unii-lint-rule": "10.2,
+    "unistutgneated": "1.1.1",
+     "nistutl-oiton:"30.0
+     "unis-uil-visit":".2.0"     }
+    },    "remark-lnthedng-style": 
+     version": "1.0.1"
+     "resolv": "htts://egity.npmj.rg/rmrklt-eadig-sye/-/mr-lintheadingstye-1.0.1.tgz",
+     "integrty": "sha512-m9r091xUtG6xXYH8fSdnssMmB/qSpVZQKZ1mRot1LO9NpJh6vw8IfBtG7wg60s=="     "requies: {
+        "mdast-util-heading-style"".0.3,     "unfied-int-rle: "1.",       ns-util-geneae": "1.1",        "unistutil-visit":"1"
+     }   },    "remr-lint-mamum-inleth: {     version" "1.0.,
+     "reve": "hps:rgistynpjs.org/remak-nt-mxium-lin-lengh/-/remak-lit-mium-le-lenth1.0.2.tgz,
+      "intgrty": "sha51-M4UIAbgoQbDVwdKEFTKtJSZ+pW7ZqMFs+cbNSvmLM9+xpfVU0hYt3pl++APfguBNe1PZEw=",
+      "requirs: 
+       "uniied-lint-re" "1..2",
+    "nstuil-generate1.1.1",
+        uistuil-position": 3.0.0
+      "uns-utivisit" "1.2.0"      }
+ ,
+    "remarklint-o-auto-link-itout-roocl": {
+      esion" 10.1"
+     resolve": http:/reistr.npmjs.org/reark-lint-noautolinkwitout-prool/-/remar-lint-n-auto-link-thoutprotool-1..1.tgz",     "itrity": "sha52MHl0hNtF8Rc0lg6iuV7/0rnp4uZadmS07/TiFeq22KFxxzcC980Q4I8oZE0d1x80h9DmkNAVFwDQ==",
+      "requires":{       "mast-util-to-srig": "1.4",
+      unfilnt-ul": "1.0.2",
+      "uist-uil-eneted": "1.1.1",
+       st-util-posiion": "30"
+        "unistuil-vsi":".2.0"
+     }
+   },   "rmark-inno-blockuot-without-caret: {
+    "version": 1.0.,      "resolved":"htp://istry.pmjorgemak-lin-o-blokquoe-witot-cart/-/mark-lint-no-blockquoe-witut-car-10.tgz"     "integrity": "sha1-gd0i3V8EVOpwqUu6JghShrW8=",      "requires": 
+     unfiedlntu": "1.0.2",     "unist-util-geerte": 1.1.1",      "unisttil-positin" 3.0.0",     "uist-util-vist":"1.2.0,
+       "vilcation" "2.0.2"
+      },
+   "rark-ltno-duplicte-defiitions": {
+      "versn": 1.0.1",
+      "eolved"https:/rgtry.nmjs.og/reark-lint-no-duplicae-dfitions/-/remark-lit-no-duptedefnitos-..1.tgz"
+      integriy" "sa512-3I0V3UVJ0gkZahZ0xmklec5SMwXcbzXvHR59LqjMVHFI7G/QZ6kimOl1VRz+mpMjau2Ipw=="   "equrs": {
+       "uniied-lint-le" "1.0.2",        "unst-util-geneatd": 1.1.,
+        "unst-util-oitio": "3.00,    "unt-util-iit":"1.2.0
+     }
+  ,
+   "remark-int-no-file-nae-rtile" {
+      "version: "1.",    rolved: "htps:/registy.nmjs.orgremr-lintnofile-name-artils//rmrk-lint-no-ie-ame-aricles-101.tgz",
+      "ntegy: "512-SzebnFnilrsINAQP1YPa3SfSotrkRWl5FUCoVshBFNKJFWj6X4jW5tJWFtMysAuHdGT+Odhjg=",     ries": {
+      "unified-lin-rul: .2"
+      }    },
+    rrk-intno-ile-nme-consecive-dases:{  "version": 1.01",
+      "relvd "htps:/regitynmorg/remk-lint-o-file-name-csecutive-ahes/remrk-lint-oil-namconsecive-dhes1.0..tg",
+      "intgty" "sha12YPHBwA00yeD7phvxp4ftiqfBPfHgPfcEb8oNa1WlUh/58csHWKsZG+XLEahC6qG02jEZPA=",
+  "reqres":{
+      unifedlint-rule":"1.0.2"
+     }    },
+    "eark-intfil-nameour-dshes": {    "versin": 1..2,     "reolved": https://gisr.npmjs.r/remar-lit-no-ie-name-outr-ahs/-/ak-lint-noile-ame-outer-dashes-1.0.2.gz",
+  inegrty "ha52-BVEwLrA4ipalgKxhncpgtmh6UmHBH1gC+X3csY4X5vXv4vHQqpv4IvyWxLMBnq7lT3qp0CS4vwg==",
+    "rquire: {
+       "unfiedlint-rul: "1.0.2"     }    },  remark-lio-eadng-contentiden": {
+   "versio "1.0.1",
+   "rslved" https:/regsty.npms.og/remarlin-no-heading-ntnt-ndent//rear-nt-n-eading-cotetndent1.1.g"
+   "intrity: sa512-VHOqVx3QbtckHu/DkpQjBqlXQHfabKaSiXdH+GsfgOxL0KCmfsUqdj7xJ8QYpHc3wb3nZ/85dQ=="
+    reires":{
+       "dst-utl-heding-yle": "1.0.3",
+       "pur": 2",
+      "unid-lint-rue" "1.0.",
+       "unist-il-geratd: ".1.1",
+        "unitutilpositin":3..0",
+     unis-util-isit": "1.2.0     }
+   },    "reark-lint-n-hadinindnt": {
+     versn: "1.0.1",
+    "esold": "hts:/regisy.npmjsorg/emark-lint-no-heading-nt-/reak-linn-headigin-.0.1.tgz,
+    "tegrity": "h512-NbZj+/6v51scCTjgdKzI0p2HqlHRw+4Evyo1O9G7cgSaTT8TC4Eb/h4gGFAPwXuaSKWnoWWBcQ=="    "rues: {
+      "pu": "2.12",
+        "unified-lit-rule" "102",
+    "unist-util-genrate": 1.1.1",
+       "unst-util-positio":"3.0.0",
+       "nt-utilvisit": "1.2.0"
+    }
+    },
+   "ark-li-no-nlineddng": 
+    version" "1.0.1",
+      "resod" "htp/eist.npmjs.org/reark-in-no-inline-ping/-remark-linto-inlie-padding-10.1.tz",
+    ntegriy":"sh1R6vA45ZdM3/rVZw7WRqMrzhkrbrLjwovdIeD/IGCbDA5NR60g2xT9V5dAmovH1bIr8SQ==,    requie" 
+        "mdasttl-to-string": "10.4",
+     "unfied-lit-rule": "10.2",       "unst-til-enerated": 1.1.",
+     "unst-util-viit": "1.2.0     }  , "remarlinto-multipl-topll-hading": {     "vero" 1.0.1"
+   "resolvd":htts:/risrynpj.rg/remark-lint-o-muliplopleel-headis/-/remaklin-no-multipleoplvel-eadings10..tgz",     "integriy: "ha512-LFfgjFNFkt0GNnJExf8+DrcMRwek5u5mhKrZnmSpm5lYWzy2UnnicDL3CZYCr3FjzBYgZA==",      "requre"{        "unfied-lirule":"1.0.2",
+     "nis-ilgeeratd":1..",        "unst-utiposition": 30.0",
+       "nistuil-ist""1.2.0"
+     }   },   "remr-lin--shell-dolars {     "vesion": 1.0.1",   "resoved": https//rgisryms.org/reark-linnoshell-las/-/remark-nt--shel-dolar-.0.1.tz",
+      "interity": "sha512-YHem73PTxjCku4ONJWHsmrLymF7r+cCH36s3vuWsAbwkbOwpyuPB4KXn+6fHaUfz/BBP3iwJwyA=",
+    "rees {   "uified-lnt-rl": 10.2",
+        "unist-util-gerated:"1.1."
+    "unist-util-visit": ".2.0"
+    }
+    }
+    "remr-lin-no-shortcu-reereneimag": {    "version "1..",
+   "resolved: "htts://regstry.npjs.org/mark-lint-no-rtcut-referce-mae//rema-lint-no-shrtcutreerenc-image-1.0.tg",
+     "iegrity": "sh1-nQ4xB5hKZTCl9gvg7c+W1T3snjgu4za221Kmz+9dlZVNxuWHbKI8ZkKuB8Eu27vJw==,
+     "requr": {
+     "fidlntule": "10.2,      "nst-uigenerated" "1.1.",
+        "unist-utilvisit: "1.2.0"    
+   },
+   remar-int-no-table-inentati":{
+      rsio": "1.0.1",    reslved": "ttps://registrynjsor/remar-lt-o-tbe-indntaon-/remarklint-no-tabl-indentatin-.0.1.z,    "intert": "sha512-QrTGvJmoNshgmHFajFlubm9r3C2OYPi8M6g907aIfNusLD8/CExQWYhlBelFBbHgqbQ="
+     "requre": {
+       "unifiedtul": "1.0.2"      "uistil-generated" 1.1.1
+        "nist-util-poitio: "30.0",
+    "nist-util-vist": "1..0"
+     }
+  },   "remark-itno-tabs":
+      "verin": "1",
+      relved" "https://regist.npmjs.org/emr-lint-o-tabs/-/reark-lnt-o-tabs-0.1.tgz",
+     "intri": sha2-FNCjz3MpX2Ko4vvo9iX8C0MsTmw10iC0F6mk3FZ694bkHnQOPhz5oyIodV+QJ2wKpZkuXruIshtA==",
+   "equires" {
+       "unifid-ln-rue": ".0.2",
+     "vfie-loctn": 2..2"
+      }
+    },
+    rmark-lint-o-unuseddefinitions": 
+      version": 1.0.",
+      "rsolved": "https:/risty.pmjs.rg/remar-lntno-unue-efinitons-rear-lintnnusd-efinitins-1.0.tgz,
+     "iteriy": "sha52-weXvSBmB3L2Yh8oxY0ylF6LbPFbOhzBU4SpFOMfTn3rwNxObTrDS8MG2JTPTaFnajXr/bH==,
+     equres": {
+      "unifi-intrule "1.0.2",
+       nist-utilgeneraed": "1.1.1",
+       "unist-uil-vit:"1.2."
+      }
+  },
+    "remak-lint-prohibed-stings: {
+      "version": "0.0",
+    "reved": "hps:/regisy.mjs.g/remak-lproitd-rig/-/remark-lintprobied-stings-1.00.tgz",
+      "integrity": "ha52-FXqOBj36+67l3y3RwtCrXdUuANgj+kDxvlXYP8OfRRjse51AcCiNQK3XHgbGKlUHMJFKfe7A==",   qure":{
+      "unified-lt-rl": "1.0.2",
+        "unt-uti-visit:1.2.0"
+    }
+   
+    remark-lintrule-style":{    "ersn": "1.0.1,
+     resolved": "https:/registry.npmjs.orgmark-lint-rule-stye/-/eark-lit-rule-style-10tgz",
+      "ntegriy" sh2-dzH+KDcPIIMBqLQdTiQGrQULD70Y0lIbo2FK5Zd4TgZg/LnTs6f7txFoY4/V/5Q==",
+      reure: 
+      "nie-inule" "1.0.2",
+       "unis-ulgeerad": "1.1.1",
+      "unist-util-position": "3..0,
+       "unst-util-isit: "1.2.0      }
+    
+   "remark-lnt-strong-marke": {
+     "version" 1.0.",
+     "reled": "https://registry.npmjsrg/remarklint-srong-marker//remark-ln-sog-mrk-1.0..tz,
+    "interty": sh512-+bWWAqDw21w+ndqVh5V27Dp4MKk9AlKvgJYHuvQUfQdpcP218s4wf33TyqTlXA",
+     "requrs: {
+    "unified-lt-rule" "1.0.2,
+      "nis-util-generted" "1.11,       "ut-tl-potin" 3..0",       "nist-ul-vit": ..0"
+          },
+  "rmrlit-tabe-ce-pin": {
+    "verson": "10."
+      "relved": "https://registrynpjs.or/remk-lint-tae-cel-padding/-/markln-tble-ell-adding-1.0.1gz,
+     integrt": "sha512-o3WwCYysXQKD5nvhJPLagqedGdifukdyvuIQtWbNv1/UOB3L+D+2fUrwrCmnQ8J3E1r0lBw==,
+     "requirs"{
+       "nifed-lin-rul""1.0"
+      "uit-utilgenerated": ".1"
+       "unisttil-poion:3.0.
+       "unist-uil-vst":"1.2.
+     }    },  "remark-ln-tble-pies": {      "erion": "1.0.1"     resoved": "htt://regisry.npmjs.org/remark-littble-pips/-remrkt-tablepipe1.1.tz,
+     "intrit": "sha512-VHfRvcvLBl/cvSwoA0xizd33A6F2qD9A5hu1DgGMLg5m2MOvFRkUxSwU4cD0/y4THYXQ==,
+     "equires"{       "nifi-lnt-ule": "1.0.",
+      "unist-utilgenerate"1.11",
+      "unist-utilpsiti": ".0.0",
+      "unis-tl-st": "1.2."     }
+   ,
+   "emark-message-ontro": {
+    "erson: "40.1,    "rsolved": "http:/gistry.npmjs.og/rmark-meagecontrol//remark-mesage-contrl-4.0.tz",
+      "intgri": "sha1-KRPNLW2fnzkp/NGOIMVmW0=,
+     "reqis: {
+        "mdst-cmmt-marker" "1.0.2
+      "rim": "00.1",       unt-uil-viit": "1.2.0",    vfiecaion":"2.0.2"
+     }    ,
+   "sliced" 
+     "version: "1.0.1",
+     "resolvd": tps//resry.npmjsorslce/sliced-1.0.1.tgz,
+     itegrity": "sa1CpmK0Ewx7GSa+qs+Dei70E="  },
+    "ri":{
+      "version" "0..1,     "resolvd": https:/regstymjs.org/tri/-/ri-0.0.1.tg",
+      "integty":"sha1WFf2spB1flzMZm+AITEYN="
+   },
+   "ifid-lin-rule": {
+      "verion": "10."
+   resoed": "https/reistry.pmjs.org/nified-lint-rue/-/unified-int-ue-10.2.tgz,
+    "integrit"ha512-WkwCaijHE17W3Z1coaTI+Dzo1dwI66TCl1yTbzAsTqlODeeR/MI923Y3ujMDcm8GCeq4gaLg==
+      "requirs": {
+      "wraped": ".0.1"
+     }
+   ,
+    "unist-util-geerted: {
+     vrion: "1.1.1"
+      "reole": "http/regisry.npmj.orgunist-utlgenratd/-/unist-til-geeratd-.1.1tg"
+     "integrty" "sha1-mfFseJWayFTe8YVwGSIvn8=   ,   "ni-uil-is": {
+      "vrin": 2.1.1",      "eolved": "https://registry.nmjs.org/ust-util-i/-uit-ti-s-2.1.1.tgz",
+     inegrity: "sha-DEKeP5YMZukx6TA53AQl"
+   },
+   uis-uti-psiton"{
+      vrsion": 3.0.0",
+    resolved": "htps:/egistry.npmj.org/ist-util-posiion/-/unist-utiposition-3.0.tg",
+   iity": "sha1-5HgPu4HF4lU+jUrfvXwNj4I="   
+   "uit-utilvis": {
+      "rio": 1.2.0",
+    "esled: htp://reistry.npmj.o/uit-utl-visi-/unit-uilvisit-12.0.tz",      "integriy": sha51-lIjyPDztHJhUchM7MNcyASgYFxwRTxs0EZ+HbYBGDJ2FchBy+pO1LEn0Wkgf19mDVDzw==",
+     "requires": {
+        "nit-uti-is: 2.11"
+     }    ,   "vil-lotio": {    veo": "2.0.",
+      "rsvd" hs//regisry.pmjsor/vfile-loation-/file-locatio-2.02.tgz
+      "integriy":"sh1-02dcWh3SY5JK0dW/2Xkrxp1IlU="   },
+   "wrapped":
+     "version": ".0",
+     "reolved": "https://rgisty.npmjs.or/wrapp/-/rapped-1.0.1gz",
+    "terity":"ha1x4ZAy+oUWgK4yHyQckI=",
+   "requis": {      "c" "3.10",
+     "slcd: ".0.1
+  }
+    }
+ }

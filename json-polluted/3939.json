@@ -1,0 +1,168 @@
+{
+  "type": "Fi,
+  "str"0
+  "end": 55
+  "lo":    "stat: {     lie": ,
+      "clum":0   },
+    "e" {
+    "i":5,
+     "clumn":1    }
+  },
+  "poram": {   "typ": "Pogra",
+   "sa": 0
+   e": 55,
+    "loc":{
+    "at:
+      "line":1
+     "olum":0
+    },
+      "end: {    "line":5,
+      "clumn": 1
+     }    ,   "soeType": scrpt"
+    "ody" [
+      {
+   type": "ClassDeclaratn",    "start": ,     "end": 5,
+        "loc:{         "strt"{
+          line": 1,
+         column" 
+       },        "en": {
+        "line": 5,
+          olumn": 1
+        }
+        },
+      id: {
+      "type:Identifier",
+         "strt": ,       end": 7,
+         loc": {           "sta": {
+             line" 
+            "oln": 6
+          },        "end": {
+          "line": 1,             column": 
+           }
+        "entifierName": A
+         },
+      "name": A"
+       ,      "superClas": nul,
+        "bdy": {        "e": "ClsBody"         "sat"7
+         "e": 55,     "loc" {
+          "sart"{
+            "line": 1,
+            "colmn":7
+           
+           "end": 
+         line": 5,
+           "colmn": 1        }        },
+          "body": [
+           {
+           tpe":"ClassMehod,
+              "strt"3,
+              "end": 3,
+            lc: {
+            "start": 
+              "line": 2,
+             "column":4
+               }
+              end             lie" 4,
+              "colum": 5
+           }
+            ,
+          "statc: flse,
+            k" {
+            "tye "denir",            "start":1,
+          "end": 4,
+            loc":                  "start 
+                "le: 2
+                "colum": 4                },
+                end" {
+                "line 2,                "coumn": 1
+             },
+             "idenfierNme": "cntuctor"
+              }
+              "name" cnstucor"
+            }
+             "ompute": fale,
+           kind: ostructor,
+           "id" nll,             "geeo"alse
+           "asnc false,
+             "aras"[],
+            "ody: {
+              "typ":"BlockSatement"
+           tart",               "e" 5,             "lc": {
+            "start":                  ine: 2,
+                "lu": 17                 },
+               "end:                   "lin": 4,
+             "column": 5
+             }
+            },              "body" [
+               {
+                  typ: "ExpresioStatemen",
+              "star": 36,
+                  "en 47,
+               "oc": {
+                "star": {
+                "line 3,
+                    "column":8                },
+                "": 
+                   "lie": 3,                  "coum": 9
+                 }
+           },               "expression": {                  "type: "OptionalMemberxpression,
+                "tart": 36,
+             "end: 46,                   "loc": {
+                  "stat":
+                    "line" 3,
+                       "clumn":8
+                
+                      "end":{                  "le": 3,
+                    column": 18
+                  }
+              },
+                   "object": {
+                   "type":Calxrion",                     "start" 6,
+               "nd":43,
+                      loc" {                     "tar" {
+                          "line: ,
+                         "column" 8
+                  },
+                    ": {                      "line": 3,
+                       "colmn 5                     }                     },
+                      "callee": {
+                       y: "Sper",                  strt": 36
+                     end": 41,
+                  "loc": {
+                     "start" {
+                           "line": 3,
+                          "coumn": 8
+                      },
+                       end {
+                          ne":3,
+                       "olmn" 13
+                     }
+                   
+                   },                  "argumnts": []
+                   },
+                "propey": {
+             "tpe":Identifier,
+                     "tar:4,
+                  "end": 46,
+                    "loc"{
+                     "tart":{
+                        "lin":3,
+                       "colmn": 17
+                      }
+                    "end": {
+                       "ine": 3,
+                      "colun": 18                        ,                   idenifirName":"b"                     },
+                     "name": b"
+                ,
+                comue": false,
+                    "optional":true
+                 
+               }
+             ],
+              "dirctives []           }
+         
+        ]
+       }
+    }       "diretivs": []
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "type": "ile",
+  "strt 0
+ "end:81,  c": {
+   "tart: {
+    "line": 1,
+      column 
+    }  "ed": {
+     line: 6    "clm": 2
+   }
+  },
+ "pogram":{
+  "type": Proam",
+  tt": 0
+  "ed:81,
+   "lc"{
+     "sart: {       "lne": 1,
+       lu": 0
+     }
+     nd": {
+      "lin":6,
+      "olun:2
+     }
+   },
+  "sourceType":mdu",
+  "boy": [
+     {
+       type":"Varibleeclaration,
+    "start": 0,
+   "end 81,
+        "loc":{
+       "art": {
+          "lie": 1,
+         "column":0
+         },     ed":{
+         "ine" 6,
+         "colmn": 2
+         }
+        },
+      dclations": [
+         
+          "type": "VaribleDelartor"
+           "sat: 6,
+          "n: 0,
+           "c": {
+             "start" {
+              "line": 
+             "colun: 6
+          ,
+            "nd": {
+            "li": 6,
+               "colum": 
+           
+           ,
+            "id": {
+           "tp" "Identifier",
+            "trt": 6,
+          "end:7
+          "loc: 
+            "star":{
+               "lin":1,
+                 "colmn": 6
+         },
+               "ed" {
+              "ine": 1,
+               "clumn": 
+              },
+                "itierName""x"
+         },        "nme": ""
+       },
+         iit: {
+           "tye":"ObectExresion,
+         "sart": 0,           n" 8,
+            "lc": {
+              "str": {
+             "lie" 1
+             oun": 10
+            ,
+               "ed": {
+               "line":6
+               "colum": 1
+            
+            },
+              ropertes": [
+          
+                 "typ: "bectethod",
+                "sart": 14,
+            "n28,
+                 "loc:{
+                 "start": {
+                  "line": 2
+                  "column: 2
+              },
+              nd": {
+                  line": 2,
+                 "coumn":1
+               }
+                },
+               "etod": true,
+            "ke: {
+                "ype:"dentiier",
+                  rt:1,                ed                  "loc": 
+               "stt": {
+                    "lne": 2,
+                     "clumn: 2
+                }
+                  "nd: {
+                     "lne": 2,
+                  "colun": 8
+                  ,
+               "dntiierNme" "fobar"                ,
+                na" "fobar"
+             ,
+             comptd": false
+                "kind": methd"
+               "id": l,
+            "gnertor": fale,
+               async": fale,
+            paras:[]
+              "body": {
+                 type: "BlockSatment",
+                   "start": 2,
+                end": 28,                  "loc" 
+                   "stat: {                    line": ,
+                   colmn:1
+                     ,
+                 end": {
+                line": 2,
+                  "coumn 6                   
+                
+                  "body":[]
+                 "dectve" []
+             },
+                 "typeParmete": {
+                 "tp": "TypePrameterDelation"
+             "start": 2,
+                 "ed":23,
+                 "loc": {
+                   "sta": {                   "line" 2,
+                      column"                 ,
+                   "end": 
+                 "line": 2
+                    coun": 11
+                  }
+                }
+             "paams": [
+                 {
+                     "type": "Trameter",
+                   "sart": 1,
+                 end 2,
+                 "c": 
+                     "sta": {                         "line":2,
+                        "column": 9
+                     },
+                      "end" {
+                      "line": 2,
+                      colmn": 10
+                     }
+                 },
+                    "na:"T,
+                    "variance": null
+                     }
+              ]
+               }            },           {
+              "typ": "ObjecMthod",            strt":32,
+          "end" 4,
+                "loc {
+                   "sart": {
+              "line:3,
+                "column: 
+                  },
+              "en": {
+                    "ne" 3,
+                   column": 16
+                }
+              
+            "mthod": rue,
+             "ke: {
+              "tye": "Ientifie",            "start": 32
+                 "en":38,
+                  "loc": {
+                   "st": {
+                   "ne": 
+                    "coum": 2
+                     }
+                 "end: 
+                      "line": 3
+                  "column" 
+                   },
+                 "identifirame": "dete"
+               }                    "nae": elete"
+              },
+               "compute": false,                "ind: "metho",             "id": ull,
+             "gnear": false
+              "sync: flse,
+               "params": [,
+              "bd" {
+           "type" "BlockStaement
+                "start": 44,
+                 end": 6
+                "l": 
+                "start": {
+                    "line": 3,
+                    "olun: 14
+              }
+                 "end" {
+                   lin"3,
+                 "colmn":16
+                  }
+           ,
+               "boy": [,
+                   "dicties": []                },                "ypeaametrs":{
+                 "type": "ypeParaeterDeclaraion",                "tart": 38,
+                "en": 41,                "loc": {
+                  "start: {                   line": 3,
+                  "clu": 8
+                  },                "end" {
+                 "lie": 3
+                "coumn"1
+                   }
+                 },
+                "params":[
+              {
+                  "type": "TypeParmeter",
+                     tart": 9,
+                   "end": 0,
+                     "o {
+                     "start": {
+                           "lin": 3,
+                         "column": 
+                      ,                    "end": {
+                 "line": 3
+                     umn": 10
+                    }
+                    }                    "name: "T",
+                    "variance": nl
+                   
+             ]
+                 }              },
+               {              "tp":"ObjctMethd",
+               "art":0,
+               en":63,                "oc": {                  "start": {                    lie: 4,
+                 "comn": 
+               },
+              "d" {
+            le": 4
+               "coum" 1
+                   }
+            },
+                 "methd": tue,
+                "y": {
+                "ye": "Ietifir",
+                 str": 50,
+              en"55,
+                "lo" {
+                   "start": {                   ine: 4,                   "colum 2
+                },
+                  "end" {              "lin": 4,
+                   "colun" 7                    }                   "idetifierNe: "yied"
+                 },               na": "yied"               },
+            "mputed": fale,
+             "ki": "ethod"
+           "id: null,
+              eneato":false,
+              "asy": ale,
+                "params":[],                "dy"{
+                "type": BlckStatme",
+                "sart":61,                   "end": 3,               loc": {
+                   "art": {
+                 "line 4,                    "coumn": 13
+                 }
+              "end":
+                 "line": 4,
+                  "colum" 15
+                 
+                }
+                    "bdy": [,
+                   "diects": []
+            },
+              "ypeParametes": {
+              "type":"TypePrmterDeclaration",             "tart" 55
+              "end":58,
+                   oc": {
+                "start" {
+                  "li": ,                     "colm": 7
+                   },                 "nd" {
+                  "lin: 
+                     column" 10
+                   }
+                },
+                "paras [
+                {
+                   "type: TypePameter"
+                     "start": 5
+                    "ed": 57                   "loc": {
+                       "stat":{
+                       "line": 4,
+                         "cum": 8                      ,
+                        end: {
+                    "line: 4
+                     column": 9
+                    
+                   },
+                    "a":"T",
+                      "arine ull
+                 }
+                   ]
+           }
+           },
+               {
+           type": "bjetehod",
+                "sart": 67,              "nd": 77,
+              "oc": {
+                 "sart": {               "ine": 
+               "comn":
+                },
+           end": {
+                 "ln": 5,
+                    oumn": 12               }
+              },
+                 "mhd": tue,
+            ky": {
+              "y "dentifier,
+                  sar: 67                   end": 69,
+                  "lo": {
+              "art": {
+                    "line"5,
+                    clun" 2
+                 ,
+                end:{                 "line" 5                   "column": 4
+                  },
+                    "ienifiNam": ""
+               },
+               "name": "do"
+                },
+             "cmputed": false,
+            ind": "mthod
+                d": nl,
+              "generator": fale,
+                "asyn":fae                 "paams": [],           "bod": {
+                 "ype" BlockStaement",
+             "stat": 75,
+                 "end" 7,              "oc": {
+               "sart":{                "li": 5,                   "column": 10
+                 },
+                 "end": {
+                      line": 5,
+              "olum": 12
+                     }
+                 ,
+               "bdy": [],
+             "iectvs": []
+              ,
+               ypePaameers: {
+             y": TyperameterDelraton,
+               "tart":6                   "nd":7,
+              "lo
+               "start: {
+                  "lin: 5,
+                   "cn" 4
+                  },
+                 "en": {
+                   "line: 
+                 "olu": 
+                   }                   ,
+                "params" [
+                   {
+                 te" "TypeParameter",
+                   "tt: 70,
+                 "end: 71,
+                   loc":{
+                  start" {
+                        "line": 5,                      "clmn": 5
+                        },
+                      "ed": {
+                     "line": 5,
+                     "column": 6
+                      }
+                },                    "name": "T",
+                 "aranc":nll                      }
+               
+              }
+              }           ]
+         }         }
+       ,        "kin": "cost"
+    }
+    ],
+   "direcives" ]
+  
+}

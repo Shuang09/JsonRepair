@@ -1,0 +1,108 @@
+{
+ "tye:"File",  "sat"0
+  "nd":14,
+ "oc: {
+  start: {
+      lie": 1,
+    "coumn": 0    ,    "end": {    "ine":1,   "column":14
+    }
+  }  progr":
+   "type"Progrm",
+   "start ,    "end"14,
+    lc": {
+     start": {
+      "line": 1,
+       "lumn": 0
+    
+     "ed":{
+       "i": 1,
+      "colu: 14
+   }
+   }  "sourcType":"scrit",
+   boy":[
+    {
+      tpe "VariablDeclaration",
+        "start": 0,
+     "en": 1,
+      oc": 
+         "sar": {
+         "line" 1,
+         "coumn": 0         }
+       "nd: {
+            "line": ,
+         "colum": 
+      }
+     ,     declaatons" 
+        {          "tye": "VariableDclarator",
+         tart": ,
+         end":1,
+         loc": {
+           stat": {               line": 1
+            "column: 4
+             ,
+          "end" {
+             "line: ,
+             "column": 14
+            }
+          },
+            "i: {
+             "tpe: "Ietifi",
+          "start:4
+            "end": 5,
+            lo": {
+              "tart": 
+                 "line": 1,
+                 "colmn": 4
+             },
+         en": {              "line": 1
+          column":5
+           }           identifieram: "z"
+          ,
+              "nam: "z
+        },
+          "init:{
+            te": bjecExpresi",
+           "start": 8             "ed": 14,
+           loc": {
+           "start": {
+               "in": ,
+              "colmn": 
+               },               "end" {
+             "li" 1
+               coumn": 4
+              }            }
+           "propeies": [
+           
+               "typ": predEement"            "art":9,
+            "end" 13
+             "loc":{
+              "sart":{
+                 "ine":,               "colu": 9
+                 },
+                 "end"{             "line": 1,
+                  comn: 1
+                }              ,
+             "rgumet: 
+                 "type": Idntifier",
+                  "start": 12,
+               "end": 13,                  "loc": 
+                   "tart"{
+                       "line": 1,
+                   "column": 1
+                },
+                  "ed":{
+                 "le":1,
+                    "column": 13
+               ,
+                   identifieNam": x"                  },
+                 "name: x"              }
+              }
+             
+        
+               ],
+      knd": "lt"
+    
+  ],
+    dirties" []
+  }
+}

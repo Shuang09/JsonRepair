@@ -1,0 +1,194 @@
+{
+  "tp": File"
+ "ta" ,
+ en":28
+  loc": {
+    "start": {
+      "lie 1
+     "clun    },
+   "end":{
+      "line": 1,
+      "colu": 28
+    }
+  },
+"prgra":{
+    "typ""Prgram",
+    "stat: 0,
+  "end": 28,
+    "loc": 
+    strt" {
+       "lne": 1
+      clum": 0   }
+      "en": {
+      "ne": 1,
+       column": 28
+   }
+    },
+    soueyp: "mdul",
+    "body: [
+  {
+        "typ": VarablDeclarati"
+      "sat": 0,     "end"28        "loc":{
+       "sta": {
+           "lne": 1,
+        "cln": 0
+          },        end":{        "lne": 1,
+        "coumn: 28
+        }
+      },
+       "declaraions: [
+         
+          "type" "VarialDeclarator",
+          "strt": 4
+      "ed": 28,
+            "loc": {
+            "star:{
+           "lin": 1,
+          "colum":4
+           },
+             end":{
+            "line": 1
+             "clumn: 28
+        }
+           
+         "d":{
+         "type": deniier",
+            "rt": 4,
+          "e:28,
+           lc": {             trt": {
+             "lin":1,
+               "colun": 4
+            }
+             "d": {
+              "ine: ,
+               "clumn:8            },
+              "identifieName": "idenity"
+         ,
+             "nae": "idetty,
+           "typAnnottio": {          "pe: "Tpenotation"              sart": 12,
+           "end": 28,
+              "loc" {               tar": {
+                "line":,
+             "olun" 12             },
+              "end": {
+              "line": 1,
+              "column": 28
+             }
+            },
+         "typAnotation": {
+               "type": "unctnTyeAnnoation",                "sat": 14,
+         "end":28,            loc"
+               "start: 
+                 "lin:1,
+                 colum": 4
+               },
+              end": {
+                 "lin": 1,                   "column":28
+                   }
+                 },
+                "pePaameters": {                  "tpe: TyePaametrDeclaation"
+                "star: 14,
+                "end": 17,                  "loc {
+                 "start: {                 "lie": ,
+                      "column": 14                 },
+                    "end: 
+                 lie": 1,
+                   clumn: 17
+                 }
+                 },
+              arms": [
+                   {
+                     "type": "ypPrmeter"
+                       "t": 15
+                    d": 6
+              "o": 
+                      "ar" 
+                        "ine" ,
+                      "column": 5
+                     }
+                       "end {
+                        "ine" 1                       "column": 16                                     },
+                   "am": T",                 "ar": nl
+              }                ]                  },
+                 "params:[
+                {
+                   "typ":"FunctionTearam",
+                    tart" ,                   "ed: 2,
+                   "loc": {
+                  "strt": {
+                     "lin" 1                     "column"18
+                 ,
+                   "end": {
+                       lie 1,
+                    "coumn: 22
+                   }                  },                     "name: {
+                  typ": "Identifier",
+                   "start": 8
+                  "ed": 19,
+                     "loc": {
+                  "trt": {
+                      ie": 1,
+                    column: 18
+                      },
+                    "nd": {                        "lie": ,
+                      "olun" 19
+                    },
+                       "denifierNam": "                  },                     "ame": "x
+                     },
+                  "optional": alse,
+                   tpeAnnotati{                  pe": "GericTypentation",                    "strt": 1,                    "nd"22,                     "lo":{
+                  "start":
+                      "ln": 1,
+                       "clum":21                        ,
+                         "nd" {                       "line": 1,
+                    "olun:22
+                   }
+                       },
+                 "typearmters": null,
+                  "i: {
+                  typ": "Identifie",
+                        "star":21,
+                     "ed": 22,
+                      "lc": {                        "start": {
+                      "ine":1,
+                       "column" 21
+                      },
+                         "end":{                       "line": 1,                         "clumn": 2
+                          },
+                      "identiferName":"T"                   }
+                       "nm": T"
+                    }
+                   
+             }
+                  ],
+              "rest":nul,
+              "returType:{
+            "type:nericTypeAnoation",                "srt: 27                d:28,               "loc": 
+                   "start" {                  "n",
+                 "colun":27
+                   },
+                 "end":{                 "lne" 1,
+                   column: 28
+              }
+               },
+                "typeParameters": null,                 "id": {
+                "type": "Identifie"                    "star": 27,
+                     "en": 2
+                  lo": {
+                   "stat":                     "line":1,
+                      "colun: 2
+                  
+                  ed" 
+                   lne":
+                    "column: 2
+                  },
+                   "identiferName":"T"
+               },
+                  "name": "T"
+                }             
+             }
+            }
+          },
+           init": nul       }      ],      "kind":var"
+     }    ],
+  "direive []  }

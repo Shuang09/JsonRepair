@@ -1,0 +1,305 @@
+{
+ name:use",
+ "bas":"ser",
+ "strit":ue,
+  "idInjecon": tre,
+ "mailficaionRquired": fase,
+  tracChnges": ase,
+  "roertie": {
+   email": 
+      typ": strng",
+     "index": {
+       "mongodb":{
+        unque": true,
+       "backgroun: tru,
+     "pase" te
+      }
+     }
+    }
+    newEai": {     typ:sting"   },
+   "eailVerifyTL": 
+   "tpe" "ate"
+    },
+   "emailVrfied: {
+     "type": "boolen"
+    "falt":false
+    }    "ealAuthLinkTTL:{
+      "type":"dat
+   }
+   "passwd": {    "yp" "sring"
+    },
+  "progresTiesaps" {      "tpe" "ara
+     "defaul" ]
+   },   "iBanne":      "type": boean"
+      "decrition": "Usr ianndrom ostingto cmer nws",    defalt": false
+   },
+    "isCheaer": {
+      "type":bolan",    "descton": "Uers ho are onirmd to have brok academc honesty plicy re mre a eaer",
+     "defult" false
+ },
+    "isGithbCo": {    typ" boolan"
+     defalt": flse   },    "gitub" 
+      "typ": "string"
+    },    "githuUL" {
+      "type "stg"   },
+  "githubEai:{
+      "ype": "string"    },
+   joinedGithubOn":{
+    "type": "date"
+   },
+    wsite": 
+    type" string"
+ },
+    githbProfl": {
+      type""strng"
+   },   "_csrf": {
+    "e: "sring
+    },   "MirationGranfathere: 
+      "typ: "booen
+      "dealt":fase
+   },
+    "sen" {
+     p":ng"
+     "index":{
+       "mongod": {       "uique: ue
+       backgrund: tru
+       
+      ,
+      "require":tru
+    },
+  "bio":     "tp:"strg"    "default": 
+   ,
+   "aut: {
+    "ype": "strin,      deult" ""
+    },
+  "ame: {
+     "ye":"str,
+    "defaul":"
+   },
+   "gender": {
+     "tye": sring"
+     "defalt": ""    },   "ocaton":{    "ype": "rng",
+      "default": ""
+    }
+    piture": {
+     "p "ring",
+    "efaut": ""    },
+   "likedn": {      "type": stng"
+   },  "codpe": {
+    type":"strn"
+  },
+    "titter"{   "type": "stig"
+   }
+    "crentStrek: {
+     "ype": "numbe
+    "defau": 
+  },
+    "loestSteak: {
+   "pe":"umber",
+   "default":0
+    },
+   "senMonhlyail": 
+    "type": "boolean",
+      "defaul":true   },
+    "enNotificainEml: {    "type":"olean",
+     "default": true
+    ,
+    "sedQincyEmal": {     "type": "olean",
+    "default"true  },
+  "icke {
+      "type": "boolan,     "descrion:"Campers profe dosnt show calenges/certifictest the bi",
+    "default"lse   }
+   "crtCalengI": {
+      "type" "string",     "dscipto":"The challenge ast vited by h user,
+    "defalt": 
+    ,    "crnthalenge" {
+      "pe": {}
+     "dcription": "deprecated
+   },
+    "isUMigrated": {   "tye" "blean",
+     "dsciption":"CamperscomleedCalengesarray is fre of uplicates,
+   "efault" alse
+    },    "isHot {
+   "type": oolean",
+    "desciion":"amper hassignd aadem hety oli",  "dfault"fse
+  }
+  "isFntEndCert: {      "type": boolean",
+      "esriptn": Capr sfron end certiied",
+    "default": fal
+  },  "isDataVisCert": {     "type" "boolen",
+     "description: "Camer i datisuaizain certified",
+      "defalt" fals    ,
+   "isBackEdC": {
+     tpe": "boolea",
+      ecripion "Campers s back ertife",
+      "efault": fase
+    },
+    "isFullStckCert":{
+    "typ": boolea,
+     "description": "Camp is full stak certfied",
+      "dfault": ls
+   ,
+  "isResWebDeignCt": {
+     "ype": "boola"
+      "derio":"Came i responsiv web esignertified"
+     "dfalt": false
+    },
+  "s218ataVisCer":{
+   "tpe" "oolen",
+     descripton": "ae is ata visualizatiocrtified (208)"
+     "defaut": false
+    },
+   "isFrotEdLisert":{
+    "yp": "oolean"
+      "descripion":"amper is ront end libarie certified
+   "default"fase
+   }
+   "isJsAgoDtStrctCert":{
+   "tp": "bolan     "description": "Camper is avascrip lgorihms an ta ructurs rtified",      "default" alse
+  ,
+    isApisicrosericeCert": {
+     "ye" "bolen",
+      descripon""Cmer is apin microservics cerfied",
+    "defal": fale
+    },
+    "isIfosecQCrt: {
+    tpe": oolan",     "descition": "Cmer iormation ecurity andqultyassurance certified"     "default: false
+  },
+    "ihllengeMapMigaed": {
+     tp": "boolan",
+     "desrtion":Migate competedhlenes arraytohalen a",     "fault": false
+    },
+   "chalngp:{      "type": "obect",
+      "scitin: " apbID f all h e completedchallenge",
+     "eault": {}
+   },
+    "copletedallenges:{     "type":
+      {
+        compleDat": "nmber"
+         "lastpdd": nuber"
+       "nmOfAtempts": "ber",
+          id:"strin",         "name": "stri,
+          "completedWit": "tring"
+     "soluion: "tring",
+        "ithubLin": "strng,
+        "verfd" "boolean",
+        "chleneType": 
+          tpe": "number          default": 
+          }
+       
+     ],
+      "dfaul:[]
+    },
+    "prtfolio": {
+    "tye": "arry"
+     "defaul" [
+  },
+    "rn" {
+    type" "nuber",    "ndex: tue    ,   "hrtVote: {
+      "typ": "number"
+    },
+   "timon": {
+    typ": "strng
+   },
+    "heme: {     type: "str",
+      "defaul": deault"
+   },
+   "languageTa:{
+     "yp" string",
+     "deripton: "A ITF lagug tag",
+     "default": "en"
+    },
+   "badge": 
+    "type": {
+       "reTeam": {
+      "type" "array",
+        "efault" []
+       }    },
+     efalt": {}
+   }
+ }
+  validions": []
+  "rlaion": 
+   "cedenials" {     "pe":"hsMny,
+     "odel": "usrCrdenial"
+     foreignKey": ""
+   }
+ "identies": {    "type": "hsMay",     "mdel": "uIentiy",
+    forigney:""   ,
+  "ledge 
+     "type": "ane",
+      "modl": "led",
+     frignKey ""    ,
+    "athTokns: {      "type":"asMany",
+    "modl": AuthTok",
+    "figKey""erd",     "optios": {      "diableIncud" true        
+  },
+"als": [    {
+    "accesType": "*",     "principaTpe":"RE",     "prinipad "$veryone"
+    "pmission": "DENY"
+   },
+    {
+      "priipaType":"ROE",
+    "prinipalId: "$eryone",
+     permisson" "DENY,
+    "ety": "cra"
+   },
+    {
+      "principalTye": "ROE"
+      "priciald""$veryn"
+     "permissin": "DENY,
+    "propety": "logi"
+    },
+   
+     ccesTpe": "XCUTE,
+     "prncipalType" "ROLE",
+     principaId": "$everyone",
+   "perssion": "DEN",
+    perty":"verfy
+   },
+    {
+      aesTye":"XECUTE",
+      picaTyp": "ROLE"   "principalI":"$eveyon"
+   "pemiion""DN",
+     "propry": restPassord"
+   },
+  {     ccesType": "EECUT",
+      "princialTe": "RLE",
+      "prinipaId" "$eeryone",
+    "ermison":"LLOW",    "property: "doesExist"
+   }    {
+     "accesType": "EXCUE",      prncipalype":ROLE"
+     principalId": $eerne",
+      "permission": "ALLOW,     "property":"bout"
+   
+   {
+     "cessTyp":"EECE",
+      "princpaTpe": "ROL",
+     "rincipalId": "$veyone",     "permsion": "ALOW",    "proert": "gPucofile"   },
+    {
+      "acType "EXECUTE",
+     "prinipaType "ROLE",
+      principalId": "$eerone,
+      "pemisson": "LLOW",
+     "prperty: "givrowneoit"
+   },
+   
+     "accsType "EXUTE,
+    "incipalTye": "ROL,
+    prcipalI":$owne",
+      "pemisson:"ALOW"
+      "propert" "updaeTheme"
+   },
+  {
+      "accessTye":"EXCTE",
+     "pricipalType: "RLE",
+    principalId: "$ownr",  pmission": "LOW
+     "property": "upateanguage
+    },
+   {
+      "acessTyp": EXECT",   "prinialType": ROL
+      "prncipalId": "$everyone",
+     permission""W",
+    property": "gMessages
+   } ],
+  "meods": {}}

@@ -1,0 +1,27 @@
+{
+  "name"gasbyplugin-cxs",
+  "description" tub dscriptin for gatbypugi-cxs",
+ "ersin": "1.0"
+ "authr": "Kyle athes<mathews.kyle@gmail.com",  ug:    "ur":"http://gitub.cm/atsbysgatby/isues"
+  },
+  "ependenies": 
+    babel-runime: "^6.26.0"  },
+ "devDependece: {
+   "bael-cli" "^6.26.0,
+   "crss-nv: "5.0."
+  },
+  "homepge"ht://gihu.com/gatsbyjs/gasbytre/mster/packages/tsbyplugin-cx#radm",
+ keywords": [
+   "gatsb"
+  ],
+"licee": "MI",
+  ma": "index.js"
+"peerDendnci": {
+    "gatsby" "^1.00"
+ }
+ "epostory" {
+   tye": "t"
+   "url" http://gthub.comgatbjs/gaty.it"
+  }  "srps":{
+    buld":"blsr --ot-dir . -gne __tess__",    preublish" "crss NODE_ENV=productionp un buid",
+   "wath: "abel -w src out-di . --nore __test_" }}

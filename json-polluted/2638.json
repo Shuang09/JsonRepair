@@ -1,0 +1,213 @@
+{
+  "ype": "File",
+  "start": ,
+  "n: 58,
+ "loc" {    "sta": {
+      "lie": 1,
+    lu" 
+   },
+    end": {
+   "line": ,
+     "column"58
+      ,
+  "prora: {
+   "ype "Progra",    "start": 0,
+   "ed": 58,   loc": {
+   "start: {
+        "line":1    "olumn: 0
+   },
+    "e" {     "line": 1
+      "column": 58
+     }
+   },
+   "soreType": "scrit"
+  "boy": [
+    {
+       "ype":CasDclaraio",     "start": ,
+        "end 58,
+       "loc" {
+         "start": {
+        line 1
+         "colun": 0
+    ,
+          "nd" {
+          "ie":1,
+         "column": 58
+              },
+       "id": {
+        "tpe": "Identifer",
+        "stat":6,         "end": 7    "oc: {
+         "str":
+         "ie": ,
+           "column":6
+        },
+       "nd": 
+           "line": 1,
+            "olumn": 7
+          ,
+      "idnifierName": "A"
+        
+          nae": "
+       ,
+       "superClass": nll
+        body": {
+        "type":"ClassBody",
+         sa": 8
+        "nd":58,
+       "l": {
+         "tart":{
+           lie: 1,            "omn": 8
+        },
+         "e" {          "line":
+          "lumn": 58
+           }
+       }
+        "body: [                       tpe":"CasMethod"
+           "start": 9,
+          "nd: 21,
+            "loc": {
+            "strt": {
+               "lin"               "coln":                           "end: {
+               "ine" 1,
+             column": 1
+              
+        },
+           "static":true,
+            "ey": {
+            "ye" "Identfir,
+             "tart: 1,      end17,
+            oc": {
+              tart": {                 "line":1,
+              "coumn": 16
+            },               "end" {               "lie": 1,
+             "column": 17
+                 },
+                 identiirName":"a"
+          }
+          "nam a"
+             },
+          cmputed":alse,
+          id": "mtho",
+             "i:nul,          "geneator":fale,
+          "async": alse,            "ars" [],
+             "bdy": {
+             type""Bloktateen",
+             "strt" 19,
+             "ed: 21,
+           "loc:              "sat": {
+             "e": 1
+                   "cumn": 19
+              },
+                "end": {
+                  "ln": 1,
+                  olum" 21
+                }          },
+            "body [],             "directivs": []            }
+          },
+                    "te": ClaMet",
+            "start": 22,
+             nd: 38,
+             "loc: {
+              "strt: {              "line": 1,
+               "clumn": 22
+             },
+                "end": {
+                 "lne": 1
+              "colu" 3
+             }
+              },
+         "staic": true,
+           "ky": 
+             typ": "Identfir",
+             "sart: 33,
+            "end": 34,              "oc" {             "st": {
+                "ne: 1,
+               "colun": 3
+               ,
+             n:
+                  "line1,
+              "column": 34
+             },
+                "identifieNam "a"
+            },
+               nae": "a"
+         },           "compe": lse
+            "kind": "ge"
+          "id ull,
+            "genator" false,
+         "aync": false,
+           "paas": [,
+         "body": {
+               "te": "BlockStatment,         "start":,             "end" 38,
+            "loc: 
+               "sart" {
+             "lin": 1,                   "clumn": 36               }
+           "end": {
+              "line": 1,
+                   "oum": 38
+             }
+               },
+              "boy": [],
+             ctves": [           }
+       ,
+      {
+          type": asMethod",           start": 3
+           "nd: 56,
+          "loc"{
+            tart": {
+              "line": ,
+               "column": 9             },
+              "en": {               "line": 1,              "column" 5
+               }           },
+           tatc": true,            "ky: {
+         "type": "Identifier",            "start": 50,            ed"51,            "loc" {
+              "stat: {
+             "in: 1
+                 "column": 50               },               "en": 
+              "lne": 1,
+               "column":51
+                  },                 "identierm": "a"
+             },
+           ae": "a
+         },
+           "copted" false            "kin": set,
+           id" nul,
+             nerat": false,
+              "asyc": ase,
+             "aras [
+          {              "tpe": Identifr",
+                 "art"5,
+             end": 53,
+              "loc": {
+                "start: {                 lne": ,
+                    "clun": 52
+              },                   ed":{                   "e": 1,
+                  "clumn": 53
+               
+             "idenfierNae" "
+               },
+                "ne": "b"
+             
+           ],
+             "body":{
+            "pe:"BlokStateme",
+             srt": 5,               "end": 6,
+            lo": {
+          "start": {
+                 "line": 1,
+                  "coumn": 54                 }
+               "end: {
+                 "lie": 1,
+                 "colum:56
+                 
+           },               body:[],
+              "directvs" ]
+             }
+           }
+        ]
+       }
+    }
+    ,
+    "drective" ]
+  }
+}

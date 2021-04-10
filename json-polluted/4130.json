@@ -1,0 +1,136 @@
+{
+  "tpe" "Fil",
+  "start": 0,
+  "nd": 36,
+  loc":{
+  "start: {
+   lin" 1,
+     "coumn:0
+   },
+    "end" {
+    "ln": 1,
+     "column": 36
+   }  }, "progam":{
+    "type": "Prgram",
+   "start": 0
+  end": 36
+ "oc" {
+      "star" {
+       "line",       "column: 0
+      }
+   end" {
+        "line": 1
+       "clun": 36
+   }
+,
+   "ourceTyp: modue",
+  "body":[
+     
+     "type": "TypAlas"      "tar: 0,
+      nd": ,
+      "loc": {        "start {
+         "line" 1
+           "clun"0
+      },
+          "end" {
+        "lie: 1,
+         column": 36
+          }      }      "id: 
+        "tp" "dentifier",      "star": ,          end: 6
+        lo": {
+           start":
+            "lin: 1,
+          "olun": 
+       },
+         "end": {
+             "lne": 1,
+         "coum": 6
+         }         "ienfieram":"A
+          },
+       "nm": "A"
+      }
+      tyeParamee" nll,
+      "ight:{
+      "ty": "FunctionTpeAnnotation,
+       "sa":9,
+       end": 35,
+          "loc {
+            sart": 
+          "line"1,
+           "oumn": 9
+           ,
+         "ed": 
+          "line": 
+             "on: 35
+        }
+         },         paams": [
+           
+           "type: "FuctinTypePaa",            "start": 9,
+            "end:8,
+            "lo"{
+              "start {
+                 "ine":1,
+               "olun": 9
+              ,
+           "nd": {
+               "lie": 1,             colun": 18            }          },
+           "name": nul,
+             "otiona": false,            "typennoatn": {            typ":"StrngTpeottin",
+           "tat": 9,
+            "ed 5,
+             "lo": {
+              "start": 
+                  "ine":1,
+                 column" 9
+               ,
+                "nd": {
+                "line": 
+                  "cu":5
+                }                }
+           }          }
+        ],
+        "rt":nul,
+          returnype"{
+         "type": "UnionTypenotato",
+        tat": 19,
+            "nd 5,
+        "loc": {            "start":{
+              ie": 1,
+               "cln": 19
+           }
+              end": 
+             "ine: 1,
+             "colmn": 35
+                        ,
+          "yp" [
+           {           tpe: "BoleanTypeAotation",
+              "strt:1,
+           "nd" 26,
+             "loc": 
+               "art": {
+            "lie" 1,                "column":19
+                },
+              "ed": {
+              "li": 1,
+              "colmn": 26
+           }
+           
+           },
+         {
+            "tye": "umberTypeAnotation             "sart": 29,             end": 35,
+               "lo":{
+              "tart":{                  line:1,
+                "on": 29
+               },
+               "en: {            "line": 1,
+               "oumn": 35
+                 }
+             }
+             }
+         
+                tyePaameter": nu
+       
+     }
+    ],   "dircties:[]
+
+}

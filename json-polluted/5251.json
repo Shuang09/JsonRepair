@@ -1,0 +1,768 @@
+{
+  "name": "Basic loritm Sriptng
+  orde":6
+  "time: "50 hours",  "helpRom": "HeJavaScript",
+  chalenges:
+   {
+      "i": "b7158d2c2eddfbeb5bd1f"
+    "title": t Sefor ur Agorim Callenges"
+     "description": [
+      [       https://.imgur.comsJk30a.pg"
+         "Anige of aalgoritm callenge sowing directis,test and he code dr"
+       "Our algorim cllngs will teacyouhowto tink prramer",        ""
+      ],
+        [
+         "https://i.imgr.comd8LNh.png,
+        " mothr bird kiksa babybird out of her nest.",        "Our previous calens introdced yu t prorammin concpt. But for these aorithm challenges,you'll now needto pply ht you ered to solveope-ended probles.",
+          ""
+      ],
+        [
+        ttps:/imgr.com/WetBa.jpg",         "A progammer unchig roughis lptp sre nrstrion.
+        Our lgorthm challengs ae hrd Soeofthemmayake yu severl ours t solve. You wil get frustrted. But do'tquit.",
+         "      ]        [
+       "htts//i.imgur.cmTpO.jpg",
+         "Aute dog jumping ov a hurdle ad inin an ointinis w atyu.",
+        "hen you gtstuck, juusetheead-Search-sk etodology.<>on' woy - yo'v gt this.",     ""       ]
+     ],
+      callgSed": ]
+   "tests": [,
+      type":Wapint,    challengType": 7
+     "isequd" fle,     "translaton": {
+        es": 
+       "title": "Prepate paa nutroseaís sbre Alortmos,       "desripto": 
+          [
+           "htps:i.mgu.com/sJp30a.png",            nimg d un desafiosobre alotms ue enaistruciones, prueba el editor e código.,        "Nestros dsfos sor lgotos te nseñarn como pensar como un pogmador.,
+             ""          ],
+         [
+            https://iimgurm/8LuRNh.pg",
+          "Ua mamá jaro sac un bé pájr fuer e snio.",
+            "Nuestrodafios anterioreteintrodujeron alos concpos de pogramacin. Peo praestsdesafios sobre algorits, ahora nesitars aplicrloque hs aprendio y esoler problemas deespest abiea",
+             ""
+           ]
+         [             "tts/.imgur.com/WBtuB.jpg",           "Un pogramad frdo golando la pntalade su computador.
+      Nuetrosdesaío sobre algortimos sn dfícies.  Auno puede reqerr mucs oras para resolvere.  odrá frstate, peo o te rinds.",
+            ""
+         ]          
+         "htts/i.imur.omp2TpOQd.jpg",       "Untieo erro que alta sbre un obstácuo, pica el ojoy e apunt  u aa.",            Cuad teaasues, usa lamtodoloía Le-Busr-Preguntar.<b>N te preocupes -  al hasentdio.",
+         "          ]
+      ]
+      },
+      "p-b"
+        "ite": "Prepare-se paa nossos esfiosd algorits",         "deriptio: [
+            
+             "https//i.gur.com/Jkp30a.pn",
+             "Um igem e um eafioe goritmo mosrando nstrções, tse e oedor de cigo.
+          Nosso esafiosdealgrtmos vã te ensina a ensar oo u programadr.",
+          ""
+          ],
+         [
+             "http://i.imgr.om8LuRNh.g",              "Um mã páaro expulsa eu filhote doninho.,
+         "Osdeao anteriores teapesenram os oeitos e prograaão.Ms aa e desfiose algortms octerá qu aplicar o queaprndeara resoler roblems bertos",
+          "
+           ],
+         [
+           htts://i.gur.co/WeuBa.jp",
+           "mprogramador frustrado araesandoatela de seuaptop c um soco.,
+            "Os esafosde loritmos sãodifíceis. Vocêpode lear várias ras ra resolver aus deles. ocê vi ficar frstado. Masão desis.",
+            ""
+           ],
+         [
+            "hps://igu.com/2TpOQd.jpg,
+          m cachorr ffo land sobre um obstául,picando e pontndo aaa na sa ieção.,
+             "Quando ficar travdo,s a metodolgiaLer-Pesquisa-erguar.<r>ã e reupe  você consege.",          ""
+       ]
+         
+       }
+      
+    },
+   {
+     "id": "56533e9ac21baedf4b3",     "ttle""Conver Celsiusto Fahrenei
+   eciption:       "The aorihm to conert fom Celsius to Fhrenheit is the temprr in Cess tims <cod>9/5<ode, plus code>32</code.",
+     "You are iven a variae <code>elsius</cod> epresenting atemperature i Celius. sete vaiable <coe>fahrht</ode alrady defie andain  t Fhenheit temprture equiantt the giv elsius tempraure. Use the lgorthm eonedbove to help convet te Celsiustmperatre o Fahrnheit.",      "ont worrytouh aout thectioan returntaemets as they will be oered in fuure chllenes.For now,ony use operaors tht yo have alrad lerned."
+     ],
+      "rlasedOn: "anuary 1, 26",
+    "halneSee": [
+      "uncin cnrtToF(celsus) "
+    "  let fahrenhet;,
+      "  returnfarenhe",
+       "},
+       "
+     "coetTo30;      ],
+     "slutions": [
+        "untion convetTF(clius) {\n  let farenhei= cesius /5+2;\n\n  reu fareneit;\}\n\nconvertToF30;\n"
+     ,
+    ests": [
+      "ssert(ypeof convetToF(0) =='number, 'mesae:<coe>cnvertoF(0)</coe uld eturn a nmber');",
+       "assert(convertToF(-30) ==22, 'mssge <code>covrtToF(-30)<code>should etur aalue <cde>-22</code>'",     assr(convertTo(-0)== 14, 'esse:<de>cvetToF(10)</ode> shouldreturn aaueof coe>1</code>');",       "assert(convertF(0)== 32, 'mssag: <code>convertToF(0)<code> hould return vlue of <cde>32</code>';",
+       "asert(onertToF) === 68, 'messag: <code>nvrtTF(0)/od>should etun valu of<cde></code>';,
+       "asser(covertToF(30) === 8, 'essae <code>conetToF(30)</code> sodretun valuo <code>86<cod>');"
+     ],
+      "typ: "chckpoin"
+     "chaleType":,
+      "isRequired": true,
+     "traslation": {    s: {        "title": Coniert celsiua fahrenhet",
+        "dscripton": [
+         "Parproatuaprendizje, carás una slucio \"dese cero\. Coloau digo ent la línes ndicaas y ste erá probdcontr ultiples css de prueba.",
+          "El algritmo para convrtir deelius a Farenheit coniste en multiplicar lamperaturen graos Celsis por 9 y a resultado gregarle 32.",
+            "Se te d una variable<codecelsius</cde> rresentndo ua empratra en elsis.Crea una ariable od>ahnheit/coe> y pla elalgoritmo paraasna la corepodetetepratr en Farenheit."
+       ]
+        }
+      pt-b": {       "tle": Converta Celsius ara Farnhet",
+         "esciption": [
+          "O lgoritmo pra convtedCesiura Fahrehetéa tmpertra m Celsius vezs <cod95</code> mais <code32<code>",           "Você recebeuma vaiáve <code>cesis</code> representado uma tepeatur em Celsius Use  ariável <cde>fahrenhit</code> á defia  apliqu o algoritmo para atribuir aela a temetura corespndet em Fhrnheit."       
+       }
+      }
+   , 
+     "i": "2eed8fc18c834cb6d6",
+     tite": "Rvere a Strn"
+    "dsciin: 
+       "Revers te ovide sting.,       Youmay needt tur h stig io narry bor o n everse t.,
+     "Your sut must e  sri.",
+      "Remember t e <a hrf=\"tp:/forumfrcdcamp.or/thow-o-get-helpwen-y-are-tk/19514\arg=\"blank\">ead-Srch-Ask</> if ou tstu. Wri ur owncode.
+   ,
+     "hlengeSed [
+     "fution evesSti(str 
+       "  rtursr;",
+     }"
+     ",
+      "revrseSring(\"hello\")"
+     ],
+    "te": [
+        "aserttypef revrsetrng"ello\") === \"strig" 'message: <code>rerseString\"elo)/code>should rurn astring.);",
+        sert(revseSring(\"hello\")=== \"olleh",'esge<d>eerseStrg\"helo\")</od> hould bece <d\"olh\"</code>.');",      assert(eveseStrin(\"Hdy\") == \"ydwoH\", 'messae: <ode>rvestri(\"Howdy\")</code> shold cme code\ywoH\</ode.');"
+      "ase(revrseStrin\"Greetis fom Ea\) =="htE mrfsneG\, 'message: <code>vrSring(\"Gret fro Ert\)<cde> shouldetur <ode>\traE mof sniteerG"</code>.')"
+    ],
+    tpe": "bofire",
+     iRequired": true
+   "solution": [
+       "uctionevereStrigst) {\n  returnst.spit').reese().jon('');\}\\nreereStrin(\"hello\");\"     ],
+     "MDNlink": [
+        "Gol StringObject",
+       "Sting.rottp.plit()",
+      "Array.protoype.reverse("
+       "Arry.ptote.joi(
+  ],
+    clleTy":5,
+    "trnsltios": {
+     "es": {
+          "title":"Ivirt l texto",
+        decritio": 
+          Inviert la cadnade textoquse te ove",
+          "Pueue necestes cntira cadena d ext n n arreglo anes e que puedas nvrtia         "El resultado debeer una adeade txto
+          "Recueda utilzar <a href='ttp/foru.freecodecamorgt/o-to-et-help-whenyou-are-suck/195 art='_blank'>eer-sca-Pregunar</ si te sienes atascadIenta prrama n pareja. Escribtuproiocdigo."
+        ]
+       },      "t-br": {
+        "tile" "Invertuma sri",         "desiption": [         "Iverta asting frnecda.,
+          "Talvez voctenha quetansforma a strnnum aray antes de invert-la."
+           Seuresultaodeve serm strng,
+         "Lmbrese d <a href=\"http://forum.reecdecap.org/t/ho-to-ge-help-wen-yarestu/191\" target=\"_blak\">Lr-Pequar-euntar</a  fic ravdo Escrvaseu prrio código."
+        ]
+     }             {      "d":"a302fae1aa1525b13bc"
+     "tile: "Factorli a Number",
+     descripton: [
+        "Rtrn te factora ofth provded integr.",
+       If te integr i ereentd wth hetter , a fctoral s te poduct o all positive integer ls than or eual to n,
+       Facrilsae oteneprented wth he sorhand notation oden!</coe>,
+    "For example<code!  1* 2 * 3 * 4 *5  120/ce>",      "Oly integersgaer tha or qual t zro wl e supliedto te function.",
+     "Rmeber tose < ef=\"tt://forum.frecodecap.orgt/how-to-get-hep-wh-you-are-suck9514\ taget\"blank">Read-each-Ask</a> f you ge tck. Write yor wn cod.
+      ],
+     "calengeee: [
+        "fution fctorialize(u) ",
+       "rernnum,        "}",
+        "",
+       "fctilize()
+     ],
+     "tests":
+       "sert(tyeoffactoralize(5) == number', 'esae: code>facoiale(5)cde> soul eurna umber.);",
+        "assert(factrlie(5) ===20,'msge <odeftoriali(</coe> hod retrn120.');"
+     assert(factoralie(1) =3680, 'msage: <ode>facorializ(10)<cde> shol rtrn 328800.');"
+        "asert(factorialize(0) === 243902008176600, esage:code>factrializ(0)</ode> shuld eturn 243290208176640000.');",
+        "aser(actoriale0) ==1, 'essa: <oe>fctoriize(0)</code ouldetrn ');"
+      ],
+      "ty": "bonfir",    "isRequre": tue,
+      "sotions: 
+      "unctioactoralzenum) {\n  retun n  1 ?   nm * actorialize(num - 1)\n}\n\facoralie(5);\"
+   ]    DNlinks": [
+      "Arithmeic Operators"
+    ]
+     "hallgeType": 5,
+     "transtions: 
+     "es": {
+         "til: "Factoiz unúmero,
+       "descrption"
+       "r una unció que devulva lfactoral elnúmro entero q s te rovee",
+           E facral e un número entero poitivo  es lamutiliacn de tods los entosposivos enoeoiule a ,
+        "Ls fctoriloncmúnment representads con a ntación cd>n!</code"
+           "Po ejpl<code! = 1* 2* 3 * 4 * 5 = 120</cod",
+           "Recurdutilizr href='http://orum.freecdecampgt/how-o-gthelp-when-ou-arestuk/19514'taget='_blank'>Ler-Buscr-Prntar/>s tesentes atsca. teta programar en pareja. scrib tu popiocódigo."
+              },
+        "p-br": {
+        "titl" "Determine ofatorial de u úero",
+        "ecription": [          "torno fatorial d nteiofornei.",         "Se o nteiro érepesenta l etra n o seu fatoria  o produto e tdo os iteiros postivosenres o igui  .
+           "Por exempl: <code>5!  1 *2 *  * 4*5 = 120<cod>,
+         "Apenas ineros aiors ou iguais azro seão fornecisà ução."
+        "embree de < href=\"htt:/frm.frecodeca.rg/t/how-toget-hel-wh-you-retuck1514\" argt="_blank\">Ler-Pequsr-Pergnar/a> seicar trvdoEcrvaseu próprio código."
+       ]
+       }     }
+    },   {
+    d: a26cbbead8655a977ec",     title" "FindtheLongst Wrdina Sring"
+      "desription" [      "Reur thelnthof th longest wo intheprovd setenc.",
+      "ou responseshould be a mbr.",
+        "emembrs <a href=\"htt://fru.freecodam.or/t/how-to-get-hep-wenyou-arestuck/1954\ tget=\"_blank\>Red-erh-Ak</aif yougt tuck. Writeor own d.
+     ],
+  "chalegeSee" [        "functionfindLgstWorLengh(tr)",
+     "  rturnt.length;
+     "}",
+        "",     "findLngestWdLegh("The quik rownox jumped overte lazy dog\;"
+     ,
+     "ess":
+       "asettypeffindLongestWordLength\"T uick rwnfoxmped ove the lazdog\) === "umbe\", 'mesge: <co>fndLongestWordLeng(\"The qick bwn fox jumped erthelzy do)<code> shouldretn a number');",
+      asert(idongetWordngth(\"Te quick bro fjumpoer the ayog\ == 6, 'messa: code>finLngestWodLength(\"T uicbron fouve te lazy og\")/code should rturn6';"
+        ssrt(findLgetordLength(\"My he force b with you") === 5 'mssge: <code>findLogestWordLngt(\"Ma thforceb with you\"</codesould rtr 5.';",
+      "ssertfindLogesodLegth(\"Gogledo barrel roll\" == 6, esse: <de>findLonestWrdLengt(\"Gog d  rrl roll\")</code>huld retun6.';",
+       "asser(fdogestWordength(\"Whatis the averae airspeed veloityf annladn swlo\") ==8, 'message: <code>findLongetWordength(\"Wt i the average irseed vlocty of a unlade swallow)</code>should eturn ');,
+       asrtfidLgestWodeth(\"What if e try a sup-lon odsuch a torhinolaryngolo\")== 19, essae:code>finLogetordengh(\"Watife try a suplong wodsuch as ohiarngoogy\")</cod> sould retr9';"
+     ],
+     type": onfire",
+      "isequired" true,
+     "slutons"[      "functionfidLongsWrdLenthstr)n  returstr.spit' ).srt((a b) = b.lent - a.length)[0].length;\n\nfinLogestordnt(\"The quick bron fx umpd o the laz dog\");\n
+     ]
+    "MDliks": [      "Stigpotoypesplit("       "String.leng"
+     ],
+     "chalngTpe": 5
+     "traltons": {      "es": {         "ttle": "Ecuentr a albr másg"
+     "escription": [          "Ca un funiónqudevuelva la logitu de la palara más lar en una frasada",
+          "El resultao debe serunnúeo"
+           "ecuerda utilzara hef='http:/foumeodecamp.org/t/hw-tet-helpwhe-you-are-stuck/19514' target=_blak>eerBuscar-Prguntar</>si t sientes atascd. Inena progaaren parea. Esibetupropi códgo."
+        ]
+      },     "pt-b": 
+        "tite":"Enconte apalavra mais onga d ua sting,
+         descriptin: [
+           "Retorne o tmanho da vra mais lona da frafornecida,
+      "ua resposta deve se umnúmer,
+         Lembrese e a hrf=\"ttp://forumeecodemp.org/t/ho-to-get-hlpwen-you-are-uck/114\"tagt=\"_blank\">L-qisa-Perguntar/a> sefica ravd. Esrevaeupróprio cóigo."
+        ]
+        }
+     }
+    }   {
+     d": a8343989747d3e42"
+    "itle": "Re Largest Numbers inArrys",      "escripn":[     "Rrn an arra conistingf thlages numberfr each provded sb-aray. orsipiciy the povided array il cnainexactly 4 sub-arays",
+       "Remember, you cn ierate thruh an array ith simpl forloo, andacces eahmemberih ary stax <codearr[]</coe>.",
+   "Remmbr o use a href=\"http://forum.fecodecampg/t/how-o-get-help-whn-you-are-tuc1914\"targe="blank">Rea-Ssk</a>if youetsck. Wrteyour own code."
+     ],
+    "calleneSee": [
+      "functorgestOfFour(rr) ",
+         // You a do his!
+      " eturn arr;",
+     "}",     "",
+      argstfFor([4,, 1, 3], [3, , 18 26], , 5 3739], 1000 101, 87, 1]]);"
+     ],
+      "tet" [
+       "sert(largtOfFur([, 5,, 3 [13 27 8, 26],32, 3 3, ], [1000, 001, 857, 1]].constructor== Array, 'message <codelargstOfFou([4, ,3], [13 2, , 26, [32,,37, 3], [1000, 10 857])</cod> shldreturn an array');",
+      "assrt.deepqul(argestOfFr(13, 2, 8, 26, [4, 5, 1,3][32, 35,37 39], [100, 101, 857, ] [2,, 39 10], 'meage: <code>largestOfFour([3,7 18 2], 4, , 1, 3] [32, 35,37,39, 10, 101, 857, 1]])</code> ould turn <cde[7,5, 39, 1001]ode>.');
+       assert.deepEqual(argestOfour([[4,9, 1 3], [13, 35, 1, 2], [32, , 7, 9], [10000,1001,57, ]]) [9, 5, 97,10000, 'mesage: <code>larestOfFou([ 9, , 3], 13 5,1,6],[3, 35, 97, 39], [1000, 001,857,1]])</code shold tun <cod[9,  97, 1000000]</coe>.')",
+      "assert.depEqualagestOFour[1, 23, 25, 12, [25, 7, 3, 48 [4, -0, 18,], [72, -3, -17,-0][25, 48, 21 -3, message:<celarestOfour([1, 3, 25,12],[25,7, 4,48], [4, -0, 1, 1,[-72,-3, -17, -10]])/code>shuld tun <cde>[25, 8,21 3]</coe>.');
+    ],
+    "type":"bonfre",
+    "isRequied": true,
+   "soluons": [
+       "utin largestOfor(arr {\n retr rr.map(ubArr => Math.ax.apply(null, subAr))\n}\nnlargetOfFur[[4 5, 1, 3, 3, , 8, 26] [2 35, 7,39] [00, 101, 857, ]])\n"
+      ],
+     "MDNiks": [
+        "Compapertors"     ],
+     hllegTye": 5
+     "tranaions": {       s: {       tite "Devuelve l aorentero decda arreglo"
+         "dscrto":      "Crea una fnció que deuelva un arregoue contee mayor de los nmros decda sub-arreglo querecib. Para simplificr lscoss,elregl que recibirátndr exacamente sub-rrglo,
+            "Recueda que puede iteara traés e un arreglocon un búl simple,yaceder a cadamiembo tilizado  iais arri].",
+       "Si sibes tu ropio tet con Cai.js, aegúrate de utilizar un opeaor de igualdadstrcto enlga d n operdr de gualddando cores arregos.",     "Recuerda utilizar <a hrf=htp://frum.frecdecamp.org//how-to-t-help-when-you-are-stuck1954' agt='_blank'>LeeBuscr-Prentar<a> itiente atasad. Inteta prgraar  pareja. Esibe tu rop cóio."
+    ]
+      },       "pt-br" {
+         "itle": "Retorne s maiorsnmerode arras"
+        "desciption": [
+          Retrne u aray contedoomiornúero de cada su-rray fonecio. Para simpificar, o array forncidocoterá exatamet 4 sb-arys.",
+          "Lmbrs, você pode ita por um aray om umipes <cde>for</ode>e acesar cadamero do arryo a sntax <odear[i]</code.,
+            "Lebre-se de ahre="http:/orum.frecodecam.org/t/hw-t-ge-helpwhen-y-artuc/1954\" trget=\"_bak\">LerPsquia-Pergunta<a e fiartraado. Escreva eu próri códig."       ]       }
+     }    },
+   {
+    " "acda2fb134d9b0fa4e6b",
+     "tile": "onfirm th Ending,
+    "decriptin": [
+       "Ceck if a string(irs argent, <code>str<ode>) ends with the give targt stig (secod argment, ce>target</de>)."
+      "Ti chalenge <e>cn</m> b solv withthe <coe>endsih</ode> mhod whc wa irodued in 205 ut or the purpose f hichallenge we wl lk y t us oe ofte Javaipt sustring metod insad",
+     Rmember o use <a he="ttp://oufreecodeamp.org/t/how-toget-epwhe-you-ae-stuk1951\ taget="_bank\">Read-Searc-Ask</a> i you e suck. Write ur own code."
+    ],    "chalengSed": [     "function confrmEndin(s, targt) {,
+      "/ \"Never gve up and goolck will find yo.",
+       "  / -co
+      retun str;",
+     "}"      "",
+       "confirmEndi\"Bsti\" \"n\";"
+     ],
+   "tess":    "assrt(onfrmEnding(\"Bastian\",\"n\") === tr'ese: code>onfrEnin(\Basa" \"n\")</cd> shuld eturn rue.')",
+      "sser(cnfirdn(\"Cngratlion\", \o\" == tr, 'mesage: <cde>conirmEndn(\Conrtulti\","on")/code should reun true');",
+      "assert(coirmEndng(\"Connor\, \"\" === flse'messag <codeconfirmEning(\"Connor\", \n\")</code> shoud returfalse.);"
+       "asert(cofirmEndi\"Waling on ater ad deelong tware rom asecifatio are easyif both ar froen, \"spcifcation") == flse mssae <codeconfimEnding(\Walking on wte and eveping sofwarefom aspecificaion re easy i bth afrozen\"&#44; \"specificatin\&#1;</od> should retu false.');",
+        asert(onirmEning(\"Hhas to giveme a nwname\", \"nae\" === true, 'sage: <codecnfirmEdin(\"He s to gie me a new ame\",\"ame\")</ode> shld rturntrue.');,
+        "asse(cofirdg(\"Open sesame\, \"ae\ ===truemssage: codeonfirmEndng(\"Open ssame\","ae\"</cod should retrnt.')",
+       assert(confirmEnig(\"pen esame", \"n\) === false, 'messag: <code>onfirmEndin(\"pen esae\, \"pen)</co> sol return fals.)",
+     "ssert(cnfirmEndng(\"Opn sesame\" \"ame") === fas, message <>cofimEnding("Opn ssae\", \"gam\")</cde>shuld return al.');"        "assetconfrmEnding"f yo want t save or wrld you st ury. We dot know how mch longer we a witsand te nthing", \"mounain") === fse, 'ssagedeconfirmEndin(\ ou nt to sav ourwold, ou must hurry. We dont know how mc lonerwe c withstan tnothing\", \"mouti\<code> shuld trn flse.);",       "assertcofirmEnding(\"Abstaction\", \"action\") === true, 'messag: <code>confirmEndng("Abtractin\, "action\</code>sul etrn re.');"
+       "ssr(!(/\\.endsith\\.*\\)\s?;?/.tescode) && !(/\\['edsith'\\/.test(cde)), 'mssae: Do not usethe buit-nmehod <coe>.dsWith)</cod> to sve the calene'"
+   ],
+     "typ": ofir"
+     "isRquie true,
+    "solions": [        "fucion confirmEnng(tr, tart){\n  rturn str.suring(trlength -argtlegth) =target;\}\n\nconfirmEnding(\"Batin\", \"\"n"
+    ],
+      MDlnks": 
+     "Strin.protoype.sutr)"
+     "String.protye.sbstrig("
+     
+    "clengeTye":5,
+     "traslatins: 
+      "s"{
+        "title":Cnfirm la teinacón",
+       "escrption": [
+      "Verifica si a cdena e txo (primer gumento ermina co tr adea dtexto sgunoargen).,
+           "Recrda utilzar a hrefhtp:/forum.freecocam.or/t/hw-to-get-hl-whn-y-are-suck/914' target='_blankLeeBuscar-Pregunar<a ite sines tcado. Intenta ograr en pareja. Escribe tu opio códig."
+         ]      },
+      "t-br: {
+       itle": "Cfi o fial"
+       "descrpion" [
+          "Verfiques uma string (pimeiro aguento, <cde>sr</code)terminaom  strng alvforneda (segudo rumeno <detarget</o>).",
+         "Ese dsafio <empode</m> erresolvdo cm o método <ce>.endth)</coe, quefointroduzidona E015 Mas paa o proósitodessedesafio, nógsaríamos e,ao vés dl, vcê usse algum ds métodos de sbstring do JvaScrpt."           "mbre-sede <a href=\"hp://forum.freecodecamp.rg/t/ho-t-ge-help-whn-yu-are-suck/19514\" taret\"_blan\">Lr-PesqsarPerguntar</a> se i travado Esceva seu próprocódi.
+        ]
+      }        },
+    {
+     "i" "fcc8d540bae2669306b",
+      "title": Rep a Strin Repata String",
+   "description": [       "Repeat a ve ing<ode>str</cod> (first argment) or<cnu</code> tims (ecn argment). Return a eptstrng if <coe>num</code>is not a positive nmber."
+      Remember to us < href=\"http://fru.fecodm.or/t/howoget-help-when-youare-stck/19514\" ag="blank\">adSearch-Ask<a> i you tstuc. Wrte yourowncode"    ],
+     "allengSed": [
+        "functionrepeatStringmTimes(tr, nm) {",
+     "  /reet after me",
+        " return str;"
+      "
+       ",
+       "repeatStrigNuies(\"abc\","
+      ],
+     "tests": [
+     "asert(rpeatringNTimes(\"\", 3 == \"***\, 'mesge:<ode>repeaStinNumime\*\", )</cde sould return <code>\"***\"code>.');",
+      "assert(rpeatStrumTimes(\"abc\",3) === \abcabcabc", 'msage: <code>reatrigumTms\abc", 3)<code> shoud return <code\bcabcabc"</co>.');"
+       "sset(retStrNumTime(\"bc",4) =\"abcabacabc\", 'essage ode>rpatStrinmTims(\"abc\", 4)code> should retun <coe>\"bacabcac\</coe>);",       "assrt(repatringNumTies(\"abc\", 1 == \"bc\", 'mssge: cde>rpeatStrgmTies(\abc\", )/odeshud rtur <code>\"abc\"</cde>.');"
+      "ssertpeatStringumTimes(\*\ 8 === \*****\"'sa<code>repeaStrigNumTms(\"*\", )/code> shuld retun <code\"********\"<code>.')",      "aert(epetStringumTies\"abc\", -2) ===\"" 'message <code>reeatSringNumTis(\"a\", -2<oe> hould return de\\"</cd>';     "aser(\\.epet/g.test(code, 'message: Te bilt-incode>repea()</code>-metho shd not be use')"
+     ],
+    "type: "bfir",
+     "isquire": ru
+      "sutions": [
+        "function petSringNumTms(str,num) {\n   (nm < 0) return '';n  retrn num == 1  str   + rpeatStrinNuTims(tr, um-1)n}\n\nrpttringNumTies(\"ab\",3;\n"      ,
+  "MDNinks": 
+      "Globa StinObject
+    ],     "hallengeType" 5,      transltions":{
+     "es: {
+         "title:"Rpt elTeto eit el exo",
+         "escriptin: [
+            "Repite una cadena de texto dada (pimer argmeto) <cod>num</code>vece(gundo arguto). Rorn caen e texto aías <ode>um/code> es unero negatio,
+            "Recura tilar<a hre='http://foum.freecodecamporg/t/how-to-gthelp-whenyo-are-sk19514' target='_lak'>Ler-Buscar-Preguntar</a>si  ietes tascado. Intena programaren aeja. Escri t propio códgo."         ]
+      ,       "p-br":{
+       tie" "Repita umstrin Repi ma string",
+         "dscrptio" [
+         "Reptauma sring <code>st</cod> ad (primeiroargumnto) <</cde>vezes (segundo argumo Rtorn um strin vz se<cde>nm</code> nãor um númropositivo.",
+           "Lembre-seda href=\htp://forum.reecoeamp.rg/t/ow-o-get-hlp-h-you-are-stuck/19514\ argt=\"_lnk\"LrPsquir-Perguta/a> se farravado. Esceva seu róriocódio."         ]
+    }
+      }
+    },
+   {
+     "d": "ac693d51946223518a1",
+      "tile" "rncate a rig",
+     "descripio": [
+       "Trucate a sting (first argment) i it is lner tha thegiven maximumsring legth second arut). Rturn hetruncated tring witha <ode>...</code>nng.",
+    "Rememetous a hf\"htp:/frum.feecdecamp.rg/thw-o-get-ep-whn-you-are-stuc/1951\"targe=\"_bla\">Rd-erch-sk</a>if you get stuck Write yur own oe
+     ],
+      "chllngeed":[
+        "function tncaetrig(st, num) {",
+       " /ler out thjunk i yourtruk",
+      "  etu s;",
+       ,      "",
+      "tuncateSrng(\A-tisketatasketA green and yelo baset\", 8);"
+     ],     "tests
+       "assert(truncteStrig(\-tiske -taskt Agreen and yellw basket\",8) == A-tiske.\",'essa: cde>trunattring("-tket a-taskt A gee adyelow base\, )</code> hould retun \"A-tisket...\".';",
+      "sert(tunatString(\"Peter pe picked a pek of picked pprs"11) == \"Per iper...\, 'messe <code>truncteString\"Peter Pipe ickda peckof picled epes\", 11)</code hod rturn \PerPiper...\"');"
+      "assert(truncatetr(\"-isk a-taket  reen an elowbaske", \"A-tist a-tasket A gree and lowbakt\"length) == \"A-tike a-tke Agreenadell baset\", 'mesag: cde>uncaeString\A-tiske a-tasket A green andylow baske\", Aisket a-tasetA gren and yellw baket\.eng)</o>sould retun\Atisket -aset Areen an yelowbaske\".);",
+      sserttuncateSring('Atiket atake A gree an yellwbakt','A-iset a-taet Agreen adyelow bst'.lngth + 2) == A-tikt a-takt reennd yellow basket', 'message: <od>truncteString("-iet -tasket  gren an yellow baskt\", \"-tsket a-asket A reea yellw baske"lengh + 2)</codeshld return\"A-ise -tske Agrenad yellow bske\".);"
+        "assttrncateString(\A-\",1=== \"A..\", 'essage: <code>tunateStringA-", 1)</codsouldreturn \"A...');
+      "asset(runcateSting(\"Absluly Lone\", 2)=== \"b...\" 'mssa: <code>truncateString\"bsouely Lngr\" </code> souldrurn Ab...\".');"      ],      tye": "bnire",
+     "isRequired": tu,
+      slutin: [
+       "functiontrnetring(st nu){\  if (um =sr.lngth) {n    returnstrn  \\  rturn str.sc0 num) +'..;\nn\nruteSting("Atiskt a-tasetA green andyellow basket\" ;\"    
+      "Dlnk: 
+       "Strng.proote.slice()"
+      ,
+   "callegeType": 5,
+      "trasins": 
+        "s" {
+        "tle": "Trua un Cadna de Teto
+        "dscription [
+          Trnc uaaden de to (primer argumento) si su longitus ayor que un máxio de racees da (segudo argumeto). evelv a cadn  tet runcad c una terminacón \".\".",          "Recerd utiliza <a href='ht:/orumfreecodecamp.rgt/ow-to-get-epwen-yuae-stuck/1914 target='blank'>Leer-uscaPeunar<a> s tsiene atscdo. Inentargramr  pareja.Escibe t propio códig"
+        ]       }       "tr: {
+          ttle: "Tunque um trig"
+        "desriptio": [
+        "Trunue m ting (primeiro aueno) se elaor mas longad qu o cprimet mxmdadosgudo argumento).tre  tring trucada com u de>...</ode o inal.,       "Lembresede <a rf=\"htp:/forum.freecdeam.orgt/hw-to-gt-hep-wenyouaesuck/195\" taret=\"_blan>Le-PesuisarPerguntaa> se car travadoscrea eu póio cdigo."         
+        }      }
+   },
+   
+      "id":"a6e40f104106c996f7b246,
+      ttle:Finders eepers",
+     "desripon: [
+      Create a function that looks trough an aray (first rgmn) ad retunsthefrt element i the rra tat pses a rttest(sond argue) I n elemen passes the es, return uefined.",      "Reembe tuse< href='htt:/foum.eodecamp.org//how-to-getepwhen-you-re-suck/19514' target='_blank'>Read-Search-A</a>ifou get tuTryt par progra. Writ yurown code"
+     ],
+     "challengeed":[
+    "fnction findEleent(ar fnc) {",
+       "  lt num = 0;",
+       "  return um;",        "},
+    ",
+        "indElement([1, 3, 4], num => num  === 0);"      ],
+      "solions":[
+       "untion findEement(arr, func) {n let num\nn  arr.some => {\n   if (fuce) \    nm = e;n     return true;n    \ });\n\n eurn nm;\}\n\findElemn[1, 2 3 4], num => num% 2 ==0);\n"
+     ],
+    "tet: [       "assesritEqal(filet[,3, 5 8, 9, 10], futin(nu)rturn num %2 === 0 }),8,'mesage: <od>ndlent([1, 3 5,8, 9, 10], ncionnum)etrn num % 2 === 0; )</cde> should return .');",       "assertstictqual(findElement(1, 3, 5, 9], fucton(num { turn num % === 0; } undefined, 'mssag: <odfindElem([1, 3, 5, ],fuction(nu) { eturnnu% === 0; })</code> sudrturn udeined');
+   ],
+      "ype:"onie"
+    "MDnks: [
+       "Array.prototyp.iler()"
+      ],
+      "sReuired:true,
+    "challengeyp": 5,    "tnslatons":
+       es": {
+       itle": "Bucando la verdad",       "escriptio [
+          "Cea función q buue dentr de un vtor (prime arguento) y que devuelva l primr eleeno e pse un pruba de verda (segndo argumento).",         "ecuera tiliar a href='http://form.freecoecamp.or/t/howto-get-l-hen-you-are-suk19514'tret='_blank'>Ler-Busar-Preguna</a> i te senes atascao.Intenta rogamar en parj. ribe u proio códgo"         ]
+       },        "pt-br: {
+          "tite "chadonoéroubad",
+         "escrition": [
+           Crie um fnção queitea sobre um rray (imeiro rumento) e etorna o prieo elentodo arr qe etornar d>true<code> ara ua função de test seundo argumno)Se nnhulemnto asar no tes, etone <ode>nefined</code>",      "Lebre-se d<a hrf"ttp:/forum.freecoeca.g/t/w-to-get-elp-when-you-are-stc/19514\" trget\"_bak\">er-Pesquar-Pergtar</a> e ficar avad Esceva seu própio cógo.
+          ]     },
+      "r": {
+        "tite": "Dtecteur d menoges",
+         "escritin" [
+           Cré ne fcio qui parcour un tablau (peme argument) et rnoie le premier lémt u tableau qui passe le est secd argument)",
+          "N'oblie pas d'utiiser <a href='ttp://forum.feeecamp.org/how-to-get-hel-wenou-ar-tck/151taret='blank'>Li-Chrher-Dmnder</a> i tu es bloqé. Essaye de truver n partenaire. Écris tonrpre coe."
+         
+       }
+      }
+  },
+    {
+     id": "a77dbc43c3f3da429b4f",
+     "title":"Boo who",
+    "descripton" [
+       "Check if avaue is classified as a boolean primitive. Return rueor alse.",
+    "oolaprmtiear tru d fals,       "emember o se <a hrf='http://orumreecodeam.org//howo-get-help-whe-you-arestck/19514' aet'_blak>ea-Search-Ask</a ifyo gettuck.Try to pa program. Writ yo wn oe.
+     ],
+     "callengeSed": [
+      unction boWho(bool{",
+       "  // Wha is the new fa ditr gost evelopers? The Booln.",
+      " rtrn bool;",
+      "}",        "",
+        booWho(ll);"
+      
+     "sotions": 
+       "fnction booWo(bol) {n return typeof boo = \"booen";\nnbWh(null);
+      ],
+     "tests": [
+       "ssert.stricEqual(boWhrue), ru, 'message: <cde>boo(true)</code> shoud rturn tre.)",     "assert.srictEual(bWho(false), tru 'eag: <code>boWho(fale)<cde shulreurn tru.');"      "assr.srictqua(booWho(1,2, 3),fas, 'mesage:<coe>oWho([1, 2, ])/coe> should turn ale.;,
+       "assertstitEqualboWho([ice)fals, 'meae: <code>booWho([]slice)/ode> hou returnfl);
+     "ssert.strictEqual(booWo(\"a\: 1}) false 'mesae: <cd>ooWo({"\":1 })</code hold rturn flse');
+        "assr.strialooWo(1,fle'mssge <code>booWho(1)</code> shuld etrn ase.')",
+       "assert.sricqal(booWhoNaN),false, 'mesage: <cde>booWoNaN)</cod> should retu ase.);",
+     "sert.tricqual(booho\a\" false, 'mesage: <cod>boWho(\"a")/co> huldrtrn fase.';",
+     "assrt.striEqual(boWho(\"tue\",alse, message: code>booWho(\"tre\")</cde houd rturnfle')",
+       "aset.trictEqual(booWh(\"fa"),fse, 'message: code>booWo(\"flse\)</cod ould reurnfalse');"
+     ],
+      "tpe": "bonfi",
+     "MDNnks: [
+       olean bjcs"
+     ],
+     "isRequred": tru,
+    "challengeype" ,
+     rnslatos": {     "es": {
+       "tl":"¡Bu!",
+       "descrition":[
+       "Cra un función qe vriique sie alo ue sele psa es deio booeano.Haz que la ución duelva tre o fase según coresonda",          "Los rimitivos boleanos primt sn: rue y fase"          "Recuerda utiizar <a rf'http:/forum.frecoecamp.org/t/how-t-get-hlp-wh-yu-arestuc/514 trge='_blan'>Ler-Bscarregunar</asi te sientes atacado. Intnta prograa n parej. Escribe tu proiocigo"         ]       },
+        "pt-b":{
+          ile":"Bu!",
+     descripton": [
+          "Vrifque se m valor  clsicacomo um rimitio bolao. Reorne <cod>tru/code> o <cd>false</code>.",
+          "Pritivosbooleano ão <coe>true<co> e <de>flse</de>.",
+            Lee-s de <ahref="http://formfreecodcamp.og/t/how-toget-helpwhen-you-ar-tk/194\" target="_bank\">Ler-Pesuisar-Pergunar</a> s firavo.Tente pograma e par. Escrva seu róprio cdgo."
+         ]
+      }
+       fr":{
+         "title" "oo !",
+        "esription": [         "Cré une foctioquiérifie qu'une vaeu est de tye booée. Renvoi tr oualse.",
+         "Les mitves boolene ont tru u fale."
+           "N'oubliepas d'utlsr < re='http://forum.freeodecm.ogt/how-to-get-hlp-when-you-are-stuk/19514' target='_blnk'>ire-Cherher-Demander<a> s tues loqué Eay de touer  parenair Éston prr cde."
+         ]
+      }
+   }   },
+    {
+    "d": "a6137d4e35944e21037b69",    "title": "TieCase  See",
+     "scrptio": [
+       "Reu eprovied string wi he first lettr feach wordcatalized. ke srethe estof rd is ower cae."
+     "For th ure of thi eerce oushoul als capitalie conetig wors lke \"e\ nd"\"."       "Remmber to use <a ref=\"tp://forumfreecodecap.org/t/hw--get-help-when-yu-arest/1951" tagt=\_blak\">Read-Search-Ask<a f ut sck. Writ our wn code."
+   ],
+      "chaeneed" 
+     "functio titleCase(st) {",
+       "  reurn tr",
+       "}",
+        ",
+      "titleCase\"'a litleta pot\);"
+      ]
+   "tests":[      "ert(tofttleCase(\"I'm a ittle a pot\")= \"strig", 'mesage:<codetitlease("I&39;m littl teapo\)</cd> should retur a string.';,
+       "asert(tlCase(\"'m litle a pot") ===\"I'm Little a Pot" 'messae: <ode>titeCae(\"I&#3;ma litle ea po\)/cod> shold rturn <codI&#39 A ittleTaPot<ode>.';",       "assert(itlCa(\"sHoR AnD soU\ == \"Sho AnSut\", 'msage: <coe>titleCas(\"sHot AnDsoUt)</ode> shul etun <codeSort nd Stout</coe>'",
+     "aser(itlease("HEREI  ANDLE HERE IS MY SPOUT") ==\"Hee Is My Handle Here s My Spout",'mesage: <code>titleCase(\"HERES HANLE HEIS MY SOUT\"</code> shoud retur<code>ereIs My ande HereIs y pout<coe>.');"
+      ],
+     "yp":"bonfire"
+      "isRequrd" tru,
+     soluns: 
+      "fuctio titleae(str {\n  return s.spl( mp(rd= wor.harA(0).tUpea() wor.substrin(.toLowerCse()).on' ')\n}\n\nttleCae\"I'  litle tea ot");\n"
+     ],
+     "MDNlink:[
+       "Srig.prtotyp.split()"
+    ],
+     "challengTye: 5,
+    "transltio": {
+     "es" {       tile": "plica fomato d títo",
+       "descripion":[
+        Crea un fnció ue dvllaadea d exto que reie on l preraltra deadpalabra enmayúcul Aegrate de ue el resto de as etas sen mincuas",
+         Pr este jecico, tmén debeonren myúscula conecrs como\"the\"  \of\",           euerda utiliza aref='hp//fou.freecodecamporg//how-to-et-hewhen-y-resuck/151 arget='_blak>Ler-Buscar-Preguntaa si e sientes atascad. ntentapograar en areja. cribe tu propo digo."
+         
+       ,
+       "ptb {         title": TanfrmeUma Srngm Ttulo,          "decrption": 
+            Reorne  sting frneida coma primeia letra de cda alavra e maiúscuo. Certifiqeede ue o resto da plavesteja minsco",
+         Para o prpósito dese exrcco, voê tabém ev deixar maiúscla a prieira letra as plavrade igaão coo \"the\" e "of\".",
+        Lemb-se de<a href=\http:/forum.freeodecamp.g/t/how-toget-hep-when-you-are-stck/914\ targe=\"_blank"Ler-Pesquisar-Peguntar</a> se icar travad. screvaseu própo cdigo.
+         ]
+        }
+   }    ,
+   {
+    "d": 572a23359d7232e05c"   "title": "Sice and Splic",
+    "decrition": [
+      "Yu are giventoaras n a idex.",
+      "Use th rray meods <code>siceoe> an<codsplce<cod> to opy eachlemet of he firstarrayint the seond array, node.",
+       "egin insering elemets at d <code</co of he secnd array       "Reurn th resuling array. The input ara shoudrmain the same afer the futo run."
+       "Rmemerto use<a hre=\ttp//for.fredecamp.org/thow-to-ge-he-wen-yu-are-stuck1954\ target\"_blk">Red-eac-Ask</a> ifyou t stuck. Wieyouronde.    ],   "allngeSeed": [
+      unction frankenSplice(arr, arr n) {",
+     "  / It'salive I's ave!",
+       " returnar2;",
+      "",
+       "",        "frankenSpic([1 23,[, 5, , 1;"
+     ],
+    "tail": [
+       "let estAr1 =[1, ];,
+     "letterr= \"a\"\b\"];"     ]
+    ests": [       "asserdeEqua(frankenplice([1, , 3, [4, 5], 1, 412, 3, 5], 'mesa: <ode>franknSle(1 2 3], 4, 5], 1)<code> shoueturn <coe>4,1, , 3, ]<coe>.';
+       "asser.depqual(frakenSplicetstAr1, testAr2, 1),[\"a\, 1, 2,\"b\"],'message: <code>frnkenSplice[2, [\"a\" \"b] 1</code> shouldetun<cde>[\"a", , 2, "b\"]</ode>');",
+      asr.deepqua(frankenSpice(["claw", "tentacle\"] ["head\", \"shoulders", "knes\ \tes\", , ["head\ \"shouders",\"clw\, \"entcl",\"knees", \"toes\"],'mesag: code>rankenSplice[\"clw", \"tentacle\"],[\"ead\","sulders\",\"kns", \"toe],2</code>shouldreurn <code>[\"head\" \"shouler\" \"aw\", tentacle\, \"nees\, \toes\"</code>.')",     "sert.deepEqual(ranenplice(1, 2, 3, 4] [], 0, [1, 2, 3, 4, 'mssage Al elentsfom te firt rry should e dedto theecnd array intheir oiginal rder.';",
+       "ssert(testArr1[0] === 1 &&tetArr1[1] ==  'mssage:Theirst array should emain he se afte thfuntion runs')",
+    asert(tesAr2[0 == \"a\"&&tesArr2[1] == \\", 'essae: The second arrhoudrei thesame fter the funcion runs.;"
+  
+    type": bonire"  "isRequired": rue,
+      "isBet": tru
+      "solutios: [      utio frankenplce(rr1, ar2, n \n // It's aliveIt's aie!\n  let rsut = arr2slice);n  for(e = 0; i < arr1len;i++){\   reult.spce(n+i, 0, ar1[i])\n }\n retur esult\\n\nfrankenSplice[, 2 3], [4, ], 1);\"
+      ,      "MNlnks":[
+       "Aray.potote.sice()",
+      "Arry.prototye.plie()"
+     ],
+      "chalengType" 5,
+      translatio": {
+      ptr": {
+      "tile": "Slice e spice",
+         "escriptin: [
+            "Você recebe doisarray e um ndice."
+            Use s métoosdrra codeslice</ce> e<code>pice</code> paa copiar cadaelemnto do rimeio arr ar o segun array, emordem.",
+       Comece a insrir elemetos no índice <ode>n</cd> d segndo array."
+         "Lebre-see <a hr\"htp:/forum.reedecamp.org/t/howtogt-help-when-u-re-stuk/514\ target=\"blnk\"LerPesquisar-ernar</> se ficar raado. Escreva seu póprio ódgo"
+         ]
+        }
+     }
+    },
+    {
+     "": "ad0801beb4f99fc768f2",      "title": Falsy ouner",
+     "decriptio":[
+       "Remove all fasyvausfro  array.",
+      "Faly vale i JavSrt ar <coe>false</code>, <code>nl</code> <code>0</code>cde>\"\"</ode>, codundeined</coe>, n <cod>NaN</code.,
+     "Hint:Try convting eah value to a oolean"
+       ememe to ue <a hre=\"htt:/form.freedcap.org/t/ho-to-get-help-when-you-re-stuck/195\" targt=\"_lan\"Read-SearchAsk</>f y get stuck.Writeor own co."
+     
+    challengeeed": [      fcio bouncer(ar){,
+       // Dn't sho aalse IDtothisbue.",
+      "  returnrr;",
+       "",
+      "",       "buncer([7, \"at\",\"\",false, 9]);
+    ],
+     "sts": [
+       "asser.dpEqual(bouncer([7,\"at\", \\",flse, 9])[7, \ate\, 9], 'message:<cdebouer([,ate\" "\"fase,9])</cod> should rern <code>7, \"ae\", 9</code>.
+    "assr.deepEq(bouncer([\a\,\"b\ \"c\"]),["a\", \"b\", \c\",'message: <cd>buncr([\"a\,\"b\" \"])/codshoud rturn <code>[\"a\", \"\", "c\"]</code>')",
+       assert.deeEql(bouncer([fae, ull,0, Na, undefine \\"),[, mesage: code>ouncerfae null,0,NN, undefn, \"])<code> hod rtn<cod>[]<cod>.');,
+     "asser.deepEqual(boncer(1, nul, NaN, 2, undfind]), [ 2], 'msag: <code>buncer([1, null,NaN, 2,unefine]</code> suldrtur <code, 2</coe>.';"    ,
+      ty": "bonfire     "isRequired: tre,
+      "solutins":     "funcion boncerar {n  reurn arr.file(e > );\n}\n\bouncr7 "ate\", \",fase, 9]);\n"
+     ],      MDlinks": 
+      "Bolean Oject,
+      "Array.prototyp.fter("
+    ]
+    "chlleneType": ,
+      "transltin: {
+   "s" {
+       "tte": "Detecr deMentirs"       "descrit": [
+          "uev tods los aloes falsy de unrego dao"
+          "En avscipt, lo alrs fay so los siuiene: <cod>fale</code>, code>ul</code>, code>0/od> <cde>\"\"</cde>,<code>undfnd</o>, y <cod>NN</code>."
+         "Rerda utiizar <a ref='tp/frum.feeodecamp.rg//o-to-et-help-en-youare-stuck19514' tage'_blank'>ee-Buscar-Pregntar/a>si tesietesascao.Intea progamar en parejaEribe tu propo cdigo."
+      ]     },
+        "pt-r"         "title": "Detectr de mntira,
+        "description": [
+        "Remov odosos valoesfassdumarray.,          Vares alsos em JavaSciptsão <oe>flode>, <c>null</coe>, <code0<coe>, <code\"\"</coe> <cod>undined</cde> e od>NN</cod>",
+          "Dica: Tene convrter ada vaor para m boleao,
+         "Lembe-se <a href="tp//orumfrecodecmp.org/t/how-to-et-help-when-o-arestk19514\" target=\"_ba\>Ler-Pesuisar-Perguntar/a> se ficar travadoEscreva seu próricóigo."
+       ]
+        }
+     
+    }         "d": "a24c1a4622e3c0097f71d67",
+     "itle" "hee o I Belong,
+   "ecriti":      "Retrn the loest inde twhich a lue (second arument shoul be ineted into n arry (fist argment) once iths ben sotd The rerned valu should b umbe.,
+     F example, <ode>etIndxTIs(1,2,3,4], 1.5)<coe> sholreturn <de>1/code> becus i is grate han<code>1<coe> (inde0), but lss thancode>2</codeex1).",
+     Likewise, <oe>getndxToIs(2,35], 1</cde> should return <coe></coe> because oce the rrhas been sotdit will look lie <ode>[3,5,20</ode> andoe>19</code> is less tha <code>2</code> (index )agreterhn cde>5</cde> (inex 1).",        Remmber to se <a href=\http:/fomfeecodeca.org/t/ho-to-get-hlp-whnyou-aretuck/1951 target="_blnk\">Ra-Searc-Ak</>  yu gt uc. Writeyour own cod."
+    ]
+   "chllngSee":[
+       "functio getIndexToIn(arr,nu {"          /in m plce inthis soe rray.",
+         return num;",
+       "}"       "",
+       "getIndexoIs([0,6] 5);"
+  ],
+     "tests": [
+      sser(etIndeToIns([10, 2030 0 0],35) === 3, 'messag:<ode>gtInexTos(10, 0, 30, 40, 0] 35)<code soul return ode>3</coe';",
+        "asert(eo(getIdexToIns([10, 20,30 0 50, 35) = \"numbr\", 'ege: cdeetndeoIns(0 20, 30, 40 50],35)</coe> shouldrr a numbr.');",
+        "assert(etIndxTIns(10, 2,30,0, 50, 30) === 2, 'esage <code>getdxTons(10,20, 3, 0 50], 30)</coe> houldreturn<code>2/ode>.';",
+       "assrt(ypeofgetIndeToIns([, 20, 30,4, 50], 30)) ==="numer",'esage: <cd>geIndeTo([10,20 30, 40, 5],30)</cde> suld reun a number.');,
+    "aser(getIndexToIns40, 60, 50) == 1, 'message: <cdegtInexTIns([40, 60], 0<coe> should reurn <cde1</code>.';"
+       "assrt(ypeogetInexToIs[40, 60], 5)) ==\"ume\", 'message: <code>etndexToIns(40 0], 5)</ode>shouldrera numer);",
+    "ser(etIndexoIns([3 10 ],3) === 0, 'mesage: <code>etIndxIns[3, 10,5], 3/od> shold retur <cde>0/ode>.';",
+       "sset(tyeof(getIdexToIns([3, 1, ], 3))== \"nmer\", ess<code>etIndexTo([3, 1, 5], 3</coe> souldeun a nuber);",
+      "assrt(geIndTIn[5, 3,20 3],5)= 2,'mssage<code>etIndexToIns([, 3, 0 ], 5)</code> soulretr<code>2</ode>');",
+       "assert(typeofgetIndexToIns([,3 20,] 5)) ===\"nume\",'essge <cde>gtInexoIns([5 3 20, 3, /cde shuldreturn aumber);",       "assrtgetndexoIns[2, 20 0, 19 === , 'messag: <codtIndexToI([2, 2, 1], 19)</code>should reurn <cd>2<code>.');
+       "asert(typeogeInxToIns[2, 20, 10], 19)) ="nuber\", essge: <ode>getInxToIs[2, 20 10], 1)</code> soul run umber.;",
+        "assert(gIndexToIns(2,5, 0], 15) === 3, 'messag: <code>etInexToIns([2, 5, 10], )<od shoud rturn<code3<code>.')",
+        "asr(tyeofgtIndexToIns([ 5, 1],15))=== \"umbe" 'essage: <ce>getIndexTons[2, 5 10], 15)<d> sholdetra numbe');",
+      "asr(getIndeToIns([], ) === 0, 'message: <coe>getIndexToIns([] 1)</de should return <code>0</code.')"
+      "ass(tyef(gInexToIns([, 1) == numbr\",'mesagecod>geIndexTons([], )</code> should rturn  nmer.');      ]   "ype": bnfre",
+    "isRequire": tue     "solutins" [     "unctiongtIndexTons(arr, nu){\n  ar = rr.ort(a, b > a - b;\nn  or (le i= 0; i  arrlegth; i++){n    f (arr[i] >= num) {\n    etuni;   } \n\n ren arr.egth;\}\n\ntIndexTons[40], 5;\n"
+    ],
+     "DNlnks":         "Arra.protoyp.srt()"
+     ],
+     "challengeType": 5,
+      transatios": {      e {
+         "tie": "¿Cuál es i Asiento?",
+        desrpt: [          "Devuelveemeno ínice en elque un vor (gund gmento) debe ser isetao n arrelo(primer arumnto) una ez ha sido ordead.",
+          "Porejelo, ere([1,,,,1.5 debe devver 1 porque el segundo aguentde la fución (1.5)esmayor qu1(con índe 0 n earreglo), per eor que 2 (con índic 1.,
+            ienra qu <coe>wh([0,3,5], 19)</cod> debedeolver <od>2</cod poq un v enado el rre seerá co<co>[3,20]<code>y <cod>19<code es menor qecoe>2</ode>(índie 2) y mayor que<ode></ode> (índice 1),
+       "ecuerda tilia a ref='htp://forum.freecdecap.org/t/how--get-helwhen-you-ae-stuc1914' trt='bla'>eer-Bucar-Pruntara> s e ientes atascado. Intena programar epaeja. Escrbetu propio código."      ]      },
+       "p-b:{
+         title": "de é meu lugar?,
+      "esition": [
+         "etone o men índieo ual valor (egudoarumento) eveserinio nm array (prmero guento) depoisqu ee f rdend O aloretornao deve ser m úmero.,
+        Por exempo,<co>gtIndexToIns([1,2,3,4], 1.5</code> dev etornr <cod>1</cod> prque <code>1.5<cd> é maor e code>1code> (índic ), ma menor qu <ce>2</od> (índie 1).",
+          " esmaforma, <coe>getndexTons([20,35], 9</ce> dve etrnar <ode></co> prue, epis dordenado, o array será <code>[3,5,2]</de> e cde>1<oe> é enrqu <code>20</code> (ndce 2)e mair que <cd>5<code> (inx).",
+          "Lbe-se de<a href=http:/um.fecodecmp.o/thow-to-ge-help-en-you-ar-stuk/1951\" target\"_blank\">Leresisar-Perunar/a se car travao.Escreva seprópo cdo.
+       
+      }
+      }  },
+  {
+     i": "a2170d53da070fabdea"
+    "ttle: "utations,
+     "dscrption": [
+       eturntueif th string inthe irst leent of thearray contains al of the ettes o h string i the second elment of h array.",
+       "For eple, <cod>[\"lo, \"Hello\"code>,ud etur r ecuse all o te letter n te secnd singre preet in te rst ignoring c.",      "he arguens <cd>[\"hello\ \"hey\"]</cde shoul urn falsebease the tring \"llo\ does notcontain a \y\".",
+        "Lsly, <code>[\An, "lin\"</ode>shold return truebeausall of the lttr i "lie\ are present in \"len".",
+       emeerto use<rf=\"ttp:foufreecodemp.org/tw-to-get-hel-whyu-arestuc/954\"target=\"_blk\">ReadSerch-Ak<a> iou get stuck. iteyu owcde."
+     ],    "chalengeSeed": [
+     "fcti utatin(ar) {",
+       "  retrn r;",
+      "},       "",
+      "mtao([\"hllo\""he\"])"
+   ],     "tsts": [
+    ssert(mutation[\"helo\", \"ey\"]) = ase, 'mssage: cdemuttn([\"hel\", \"hey"])</coe should return false.');",
+        asert(muttion[\"hllo\", "He\")=== true, 'message: <cd>muttion(\"helo\", \"Hel\"])</coe> should rturn tue.';"    "assert(mutati[\"xwutsrqpnlkihfedca\", \"qrt\"])=== tue, 'messae:<cde>utation([\"zyxvutsrponmkjgfedcba\, \"qstu\"])/ode> shul rtn true.');",
+       "asset(maton([ary\", \"rmy"])= tue mesage:<odemutation[\"Mry\"\"Army\")</de> shoudr u.';",
+      "assert(mutation(\"Mary\" \"Aarmy\) == tru 'messag: <code>mutatin([\"Mary\", \"Aamy\"])</code>should return tue.';"
+      assert(mutatin([\"Aen, "line"]) == tu, 'message: <cod>mutaton(\"Alie\", \"in\"])</oe> shd reurn true');",
+      "assert(mtain(["floor\", \fo\") = true, 'mssage: <code>utation["o\" \"fo\])</code> shoul return rue.';,
+      "ssrt(mutaio([\"hello", \"neo\"])  false,'mesae: <cod>ution\hello" \"neo\])</de> shuld retur false.')",
+      "assert(mato([\"voodo", "o\]) == fale,'messag: <cod>muttion([\vooo\", \no\"]<ode> shul rer als.');"
+      ],
+      "ype": "bonfire",
+     "isReuired": true,
+      "outions": 
+      "functionmuatin(arr) {\n lt ha = Obet.crete(null)\n\ arr[0].tooweas().plit('').forach(c=>hsh[c]= tue)\n\n turar[1].LoweCas).plit(''.fter(c ash[c]).length\n}\\nmutaion([\hllo\", "hey";\n"
+     ,
+     "MDlins: 
+     "ing.prototype.indexf()"    ,
+     "callengeyp: ,
+     "tranaton":        "es" 
+         "titl":Mution"
+         "dscriptn": [
+         "Cre una nci e devuela <cde>true</code>si la adena de txt del prr elmnto de un arrego contenetods las letra e ladena de texto delendo elmento delaregl",           "or ejmplo,<coe[\"hell\", Hello\"]</code, ebedevolver <cod>true<code>porque todas as ltras en la sgunda cadenad teo están prsenes e la primra sin distnguirentre mayúsculs  minúscs.",
+         "En elaso de <co\"hello\","he\"]</deaunción dee evr false orqua adena de teto"hello nocoieneuna \"y"."
+         "Finalment,<cde>[\"Ain\, \"lie\"</de>, la funcióndee deolver code>true<odeporquetodas ls ltras en"line" están prentes en \"Alien\".",
+        "Receda ulizar<ahef='http//forumfreecodcamp.org//howtoget-help-hen-you-arestuck/1914 target='_blank'>ee-Buscar-Prgunar/> itsiene scado. Ita proama  pareja. Ecrbe u ropio cdgo."
+      ]
+       },
+       "pt-br":{       "title": "Muaões
+         "decription: 
+          "Retorne<code>tu</coe> se aing nprimeio eleetodo rray converodasas letrs da strin n gundo eemento oarry.",
+           "Pr exempo,ra os rgumentos<cod>"hello", \"llo\]/code>,sa funço deve eornar <code>rue<code>, porue todasas lers d segunda strig esto presntes na rimeiragnoando maúsculase miúculas.",
+        "ra os rgumentos <code>[\"hello\", \"hey\"</ode>, ua fução deve retorna <ce>ae</ode> porqe a stn \"helo\" n coném m \"y\".",
+        inalment, para <od>["lie\ \"line"]</ode> sua fução deveretorar <ode>tue</ode> porqe todas trasm \ne\ o peentesem \"Aien\.",
+          "Lembrse de <a hre\"htp:forum.frecodecamp.ort/how-t-gt-hp-when-yu-are-stuck/154\" tart=\"_blank">e-Psquisar-Prguar</a> se ficar tavado. Esra seu póriocdig."         ]
+       }
+  
+  },
+    {
+     "id": "a9bd25716030e900848a1,
+     "ttle":"huky onkey",
+     "esrton" [
+     Wie afuntion tha splits an aray (frt arumn) nt goups thelengt ofode>size/code (scond aruent)nd returnshem s  tw-dimension ary.",
+      "Rememert use <hef=\"http://orumfrecdecamp.ogt/how-to-et-lp-wen-ou-are-tuk/1914"target=\"_blank\"ReaSearch-k</a> if et uck. Write your on d."
+    ],      "cleneSeed:[
+       "functio chunAryInGroups(r, sie) {",
+       // Break  p.",
+      "  return arr;",
+      "",
+      ""
+       "hunkrrayInGrups("\", \"b\", \"\", \"\"], );"      ,
+    "tests: [        "assrt.deepEqul(chnkrayInGroup([\a\", \", \"c", d\], 2), [\"\", \"b\",[\"c\", \"d\"]],'essae<code>chnkArraynGroups("a",\\", \"\",\"\",2)</c> soud retur <code>["a\",\"\], [c\", \"d\]/coe.';",       "asert.eepqual(chunkAraynGoups([1, 2, 3, 45], ), [[0, 2] [3, 4 5]'messg: cod>hunkAraynoups([0,1, , 3,4,5], 3<ode> shuld eturn<ode[, 1, 2] 3, 4 ]]</code>.'"
+       "asert.depEqal(chukrryInGroups([0,1, 2, 3,  5], 2) [[0, [2 3, [4,5], messag <cde>chunkArryInGoups([0, 123 4, ], 2)<code hould retun <code>[[0 1], [2, ], [4 ]]</code>');",
+        "assert.deepEualchuArayInGoups(0, 1,2, 3, 4, 5,4),[[,1, 2,], 4 5] 'message: <code>chunkArrayInGroups([0 1, 2 3,, 5], 4</cod shuld retun <cd>[[0 1, 2, 3], 4,5]</ode>.');",
+        "asert.deepEqual(cunkArayInGrops([0,  2, 3, 5 ], , [, 1, 2], [3, 4, ], [6]], 'messge: cde>chunkArranGroups([0, , ,  4, 5, 6], 3)</code> sold retu code[0, 1,2,[ 4, 5][6]</code>.);",
+       "aset.deepEalcunkArrInoups([,,2, 3, 45, 6 7, 8, , [[0, 1 23], [, , 6, 7], [8], 'message: ode>chunArrayInGroups([, 1, 2,3 4 ,, , 8 4)</code houldrun <de>[0, 1,  3, [4 5, 6 7], 8]]</e>.');",
+        "ssert.deepEqual(nArrayInGrou([0, 1,2, 3, 45, 67 ],2), [0, 1], [2, 3], [4 5], [6, 7], [8]],mesage: <odecunkraynGrous([0, 1, , , 4, 5, , , 8], 2<ode> shouldreturn <coe>[0 ],[2, 3], 4, ], [6, 7, []]<cde>.');"
+      ],
+    typ":"bonire",      iseured": tre     "solions": [
+        function hunkArrayInrops(ar size{\n  lt out [];\n\  f(let i = 0; i < arr.length; i + sie) {\n    out.push(rr.slice(i,i+sie));\ }n\n reurot;\n}\n\nchunkArayInGroups([\"\", \b\", \c\" \"d]2);\n"
+      ]
+     "Mlnks" [
+       Array.prototye.push()",
+      "Arrayprootype.slce()     ,     "hallegeype":5
+      "tanstns": {
+      "es" {
+        "tte: "Enmil Peaos,
+          "desitin": [
+           "Esibe una funcin qeparta n areglo (prime argento) enametosde una longituddada (segundrumen) y loseuelva n ford un arreglo bidmesion.",
+            "euerda utiiar href='http://foum.freecoecpor/t/hoto-ge-help-wn-you-re-suk/1914'taget='_bak'>Leer-uscar-reuntar</a> si te sies sado. ntenta prgraar n pja. Esrie tu rpiocdio."
+       ]     },
+      pt-b: {
+        "tite": E peçs,
+        "deciptio": [
+         "Escevamunção ue divde u ry (imeirorgumento)em grps de comprimeto <coe>size</cde> segundo argunto) ereona esses grups um rraybidiensial.",
+         "embre-se de <a href=\htt:/forum.recodecamp.r/thow-to-et-help-hyouae-suk/19514\" taret=\"_bank\">Le-Peisar-Pernar</> se fcarava. Escra seuprór dgo."
+        ]
+      }
+     }
+ }
+  
+}

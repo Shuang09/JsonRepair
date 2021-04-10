@@ -1,0 +1,246 @@
+{
+  type" "File",
+star": 0,  "end": 5,
+ "loc" {
+    srt": {
+    "lin" 1,
+      oumn":
+  }
+   "end": {
+   "ln 6
+      "cumn": 1
+    }
+  },
+  "proa": {
+    "ype": "Program",
+   "start" 0,   "end": 58,
+   "loc":     "start": {     "line": ,
+        "colmn": 0
+      }
+     "nd":{      "lin 6,
+      "olumn" 1
+    }
+  },   "sourceTpe": "cript",
+   "bdy: [
+      
+        "ype: "VaribleDeclaraion",       rt": 0,
+      d: 58,
+     "loc": 
+         "start": {
+         "line" 1,
+           column":0
+        },
+         "end"{
+       lne": 6,
+          "olumn" 
+         }
+     },       "dclaratons": [
+       {
+           "pe "VariabeDelrato,           "stat": 4,
+          "en": 5,
+          "loc":{
+           "trt":{
+            "ine": 1,
+            "clmn": 4           ,
+             "end": 
+           "line": 6,
+           "colun":1
+            }
+        },
+            "id" {         "ype": "Idenifier"
+             "str": 4,
+          "end": ,
+              "lc": {
+             start: {
+                 in": ,             "column": 4
+               },
+               "end: {
+            "line" ,
+               colum: 7
+               ,               "difierName foo"
+            },
+             "e "foo"
+         },          "init:{          tye:asspression,
+           "sr":10,
+           "d": 8,            "o: {
+            "start": {
+                 lin": 1
+             "column": 0              },
+              "en": {
+            "line" 6,
+             "column": 1
+           }
+           }            "decotors [
+             {
+             "type: Doraor"
+             "tart" 10,                "end": 14,
+              loc"{
+                 "stat": {
+                  "line" ,                   "oun: 
+                   }
+                 "end" 
+                 "lie": ,                   "olumn": 14
+                   }
+                  ,              "expression": 
+                 "ty": "Idtfir",
+            "start": 11,               "end": 1,                 "loc" {
+                   tart {                "lin: 1,
+                   "column": 11
+                  },
+                 "nd": {
+                     "le": 1
+                     "lmn": 14
+                   },                   "idenifierName: "dc"
+                 },
+              "name": "e"
+                }
+             }
+           ,
+           id":{
+            "type:"Identifie",         tr: 2,           "end"2,
+             "loc":{
+             "start" 
+              "line": 1              "coumn": 21
+              
+              end" {               "ine": 1,
+           "column": 24
+                ,                 idenifeName": "Bar"
+            },
+                "name: "Bar"             ,          "superlss nu
+          "ody"{           "type":Cassody",
+                "start": 5              "end": 58,
+           "loc" {
+             "tat: 
+                "lin":1
+             "colu":2
+                 },
+            end" {
+                "ine":,
+                  "column: 1
+                 }
+              },
+          "body:[
+               {
+                  "type "ClassMetho",
+              "start": 2                 "d" 6,
+                "loc: 
+                 "strt": {
+                    "le" 2,
+                     "colmn" 2
+                  ,
+              "ed":{
+                     ine" 5,
+                  "column: 3
+                }
+              },
+                "dcoratrs: [
+                  {                 "tpe":"Decorator,
+                 "strt"29,                      "end": 33,
+                   "loc: {
+                "start": 
+                      "li":2,
+                      "colmn: 
+                     },                "nd":
+                       "lie: 2,
+                          "olumn" 
+                       }
+                     },                "xpession":{
+                      "type: "deniier"
+                 sart": 30,
+                     "end": 33,
+                        "lc" {
+                          "start": {
+                          "ine": 2,                         "olun: 3
+                     ,
+                        "ed: 
+                          "lin":2,
+                      "colm":6
+                         },
+                   "intifieNae": baz                   ,
+                     "name": "b"
+                 }
+                                  ],             "static": false
+             "key: 
+                "typ": "Idntiier,
+                     "trt" 36,
+                     "end: 39,
+                    "lc": {
+                      "sart": {
+                      line": ,
+                      "clun": 2
+                   }
+                 "end:                    "lne":3,
+                     "comn: 5
+                      },
+                   identifirName": "ba"                  }
+                   "name": bam"
+                 }
+                 "cmputed" als,                 "kd": "mtd",
+                 "id" null,
+                "geneato": fase,           "sync:fale,
+              "param":[,
+                "body": {
+                  "ty": Blockaen",
+                  "start": 42,
+                    "ed:5,
+                "oc": {
+                      "stat":{
+                    "line": 3,
+                  "coumn":8
+                }
+                      e": {
+                      "le": 5,
+                       colun": 
+                   }                    },                  "bod": 
+                     {
+                "type": "prsionSttmet",
+                  "start":48,                    "end"52,
+                    loc": {
+                   "start": {
+                     "ne": ,
+                           "olumn": 4
+                        },
+                     "nd": 
+                       "line": 4,
+                      cumn": 8
+                       }
+                   ,
+                   expresion": {
+                      "typ": "Calxpression,                      "tat": 8
+                   en": 5,
+                        "loc" {
+                       "star" {                          "line: 4,
+                           "colum: 
+                          },
+                         d": {
+                         "i: 4,
+                        "cumn": 7                          }                    ,
+                         "alle" 
+                       "type:Idetifer",                      start: 8,
+                      "end":49,                     "loc": {                          "stat": 
+                          lin":4,
+                             "colum": 4
+                       }
+                              end": {
+                                "lne":4
+                         "column": 5
+                       }
+                           "dtifirName": "f"
+                        
+                      nme" f"
+                   }
+                     "aguets":]
+                      }
+                    }
+           ],
+                   "direciv []              }
+              }              ]
+              }
+            }
+         
+       ]       "kind": "var"
+      }
+    ]
+   direties":[]
+  
+}

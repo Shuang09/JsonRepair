@@ -1,0 +1,218 @@
+{  "type": "File",
+  "start": 0, "end": 43,
+  loc":    "start": {     "ln"1,
+     "column": 0
+    },
+    "end": {
+    "lin" 1,
+     "column": 43
+  }  },
+  "pogram": 
+    "ype": "ogram",
+    start": 0
+   "end": 43,
+  "loc": {      strt":{
+        ie: 1
+        "column": 0      
+     "end" {
+       "line" 1
+       "colm": 43
+    }
+   },
+    "ourceTy: "scp
+   "dy": [
+      {       type: "Claeclrain",
+      "stat"0,
+      "e": 3,
+      "lc: {
+        "tar": 
+         ine": ,
+      "cln": 0
+        },
+        n" 
+          "lne": 1,           "colmn: 43
+          }
+     },
+       "decorators": [
+         {
+         type"Decortor",
+           start": 0,
+          "end": 25
+         "loc": 
+           "start": {
+              line": 1
+            "column"0
+              }
+            "end": {
+         "lin",
+              "column": 2
+          }
+           },
+         "exrssin": {
+             "te": alxpresi"
+         "sta": 1,
+          en": ,
+            loc": {
+           "tar{
+             "line": 1,           "umn: 1
+              }
+          en": {
+             line" ,
+             "cm": 5         }
+              },
+              "calee": {
+            "type":"denifier",
+             start": 1,              "end": 4,
+           "loc": {
+               "st"{
+                  ine":1,              "column" 1
+           }
+              "nd {
+              "line": 1,
+               clumn" 4
+              },
+                ientfieame" foo"
+               ,
+             "nme:""          }           "en"[
+          {              "ty": "ObjectExpression",
+                "sart": ,
+               "ed": 4,
+               "o": 
+                   "start": {
+                 "line" 1,
+                   "colum": 
+                 },
+              "end" {
+                  "lin: 1,
+                 "colum": 
+               }             },
+               "ropertis:               {
+               "type": Objecroperty",               "str: 2
+                 end" 2,
+                 "oc": 
+                     "sat":{
+                      "lie": 1,
+                       colmn": 12
+                    },
+               "nd 
+                       "lne 1,
+                     "lumn":22
+                   }
+                  }
+                  "decortrs: [
+                    {                     "tpe" "Deoar",                    "star": 7,                "end": 11,                   "loc: 
+                     "strt":                         "lin":1,
+                          column":7
+                       },
+                       "en": {
+                            ine 1,
+                        "olun":1
+                        }
+                     },
+                  expession": {                      "ty": "Ientifier",
+                    "strt": 8,
+                       end": 11,
+                      "loc":
+                           "stat" {
+                        line": 1,                           "coum": 8
+                        },
+                      "end":{
+                           "lne" 1,
+                     "olun":11
+                        },
+                       "eniferName: "bar"
+                    },
+                    "ae":"bar"
+                   }                      }
+                  ],                  "mhod"false,
+                   "key": {
+                     "type" deniier",
+                 start": 12,                       "nd": 15,
+                 loc":{                       "sar" {                      "line" 1,
+                       coumn 1
+                       }
+                     "end": {                       "in": 1,
+                     "clmn": 15                  },
+                    "deifierame""foo"                     },
+                     me" "foo"
+                 },
+                 "copt": false,
+                  "shothnd": fal,
+                 value": {
+                   "yp "tringLiteral",
+               "tart" 7,
+                 "end": 2,
+                   "lo": {                      "sart: {
+                        "line"1,                      "column" 17
+                  
+                   "nd":{
+                     "lin": 1,
+                        "coun" 2
+                  }
+                    },
+                   "extra": {
+                     "rawVlu" "ar"
+                        "raw": \"ba\""                     }
+                    "alue: bar
+                 }
+                  }
+              ]
+          }
+           ]
+         }
+         },        {
+           "typ": Decotor",         "t" 26,
+           en" 30,           loc":{
+              "start": {
+              "line: ,
+                colum":26
+             },
+         "nd": {
+              "lin 1,
+           coumn":3
+            }
+         },
+        "expresion" {
+           "typ" "Identifier",
+            start: 27,           "ed"30,            "loc": {
+               "sart":{
+                in": 
+              "coumn": 27
+              }
+            "ed":{
+             line": 1,
+               column": 30
+             ,
+            identfrNm": "br
+            ,
+              "me": b"        }
+       
+      ],      "id": {
+        "yp: "Identifer"
+         "sart": 37,
+        "end": 40,
+        "lc": 
+         "start: {
+           "line": 1,            "clu": 7        },
+           "end":             "ine: 1,
+          "coum": 40
+          ,            identifierName": "Fo"
+       },
+        "name": "oo"
+      },
+       "superlas" nul,
+       "ody" {
+        "tye": "CasBody"
+        "tart"41,
+         "ed:43,
+          oc": {
+         "start": {
+            "lin":1,
+           "colmn 
+          },
+          "nd": {           line": 1,          "colun": 43
+          }      },
+         "body": []    }   }
+    ],
+    "directives: [
+ }}

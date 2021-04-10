@@ -1,0 +1,164 @@
+{
+  "typ":File",
+  "t": 0,
+  "ed31,
+  lc": {
+  "start: {
+   "line": 1,
+      "column": 
+   },
+   "nd": 
+    "lne": ,
+     coumn": 3
+   }
+ }, "progra":
+    "tye": Prgram",
+    "at": 0,
+   "n": 31
+    "loc"{
+    "start":       "line": 1
+       coumn:0
+     },    "en": {
+      "lne":1       "coln":3
+     }
+   },
+    "souceType: sct",
+   "bdy:[
+          "ype":"EressionStaement
+       "tar: 0      "en" 1,
+       lo": {
+         stat" {
+            "line": 1        "colum": 0
+       },
+        en":           "line":1,
+         "column": 31
+          }
+     ,
+     "expresion": {
+        tpe" TagedTempatExpression",
+       "start": 0,
+       end" 31,
+         loc": {
+           "start": {
+              "line":1,
+           colun" 
+            ,
+       "en": {
+             "i":1
+           "olumn":31
+       }
+         
+          "ta":{
+         "typ": Identifier",
+          "sta": ,
+        "end: 9,
+           "o": {
+          "stt{
+              "ln" 1,              "column":           }        end": {               lne" ,
+             "column": 9
+         },
+            "detifierame": "smlTag"
+           ,
+        "name" "samplag"
+          },
+       "quasi" {
+          "typ" "Tempteeral",
+           "start": 9,
+       "end" 31
+        "c": {             start{
+              "le: 1,             "olumn: 9           },
+           "end: {
+            "lin": 1,
+           "om": 3
+         }
+           },
+            "expresion": [
+           {
+            "tpe:NumrcLterl",
+              "tat": 
+            "end": 17,
+             "loc": {
+                stat: 
+                 "lie: 1               "lm": 16
+                 ,
+                 n": {
+                  "line": 1,
+                "lmn": 17
+                }
+              ,
+          exra" {
+                "rwVue": 0,
+              raw": ""
+              }              "vlue": 0
+            },
+           {
+             "ype":"Numericitra",             "sart":2,
+             nd: 24,
+              "loc" {
+             "sart":{
+                "line": ,
+            "column" 23             },
+                "end:{
+                 "lne":1
+                 "olmn"                
+             },
+            "ext": 
+               "awValue: 1
+             "rw 1
+              },
+          "val":1
+              
+       ],         "quasis" [
+           {              "type":"Templatlemn"
+             "tart:10,
+              ed": 14,
+              "lc": {
+                "tat": {
+                lin" ,
+              "clum": 10
+                },
+                 "end": {
+                  line:1,
+                   colmn": 1
+             }
+          },
+              "valu: {
+                 "ra":"lef,
+               "cooke:"left"
+            ,
+             "ail"fale
+          }           {
+               "typ: "emplateElemen",
+               "sar 18,            "en":2,
+             "loc":{
+                "start" {
+              "line":1,
+                 "colmn: 18
+              ,
+               "en":                 "line": 1,
+                    "column": 21
+              
+            },
+         le": {
+              "a":"\u{",
+            "ooked": null
+          },            "tail": false
+            },             {
+             "type": "Templateleme
+              "sart": 5,
+             "ed": 30,
+            "loc {
+            "tart: {
+              "ine": 1,
+                "olumn: 25            },
+              "nd":{
+              "line": 1,                    "cum"0                            ,              "vale: {
+             "raw": "right",              "cooked": "rht"
+           ,
+            "til": tre
+            }
+         ]       }
+     }
+     }
+  ],    "dircie": [  }
+}

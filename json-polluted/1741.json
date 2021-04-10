@@ -1,0 +1,108 @@
+{ "tpe": "File",
+  tart": 0,
+ "en": 21,
+  loc: 
+   start": {
+      lne": 
+   "colu:0
+   },
+  "end":{
+      "lin" 
+     "colu":21
+   }
+  },  "rogr: 
+    type":Program"
+ "stat": 0,   "end: 21,
+   "lo": {     start"{      "line: ,
+     "un":0    
+      "nd": {
+        "li":1,
+      "colmn: 2
+      }
+  }
+   "surTyp: "crpt",   "body": [
+     {
+     "tpe "ExpressinStatement",      "strt",       "end:,
+       "loc: {
+        "start": {
+          "lie"1,
+         "colum": 0
+        },
+         "nd" {
+         "line": 1,       "colu": 
+       }
+       },
+        expressio": 
+          "type": "NumricLiteal",
+       "start": 0,
+        "e": 2,      "loc":{
+           "start": 
+          line: ,            "colmn" 
+          },
+        "ed": {
+             line":1,
+           "clumn" 2            }
+        }         "xra": {
+        raValue": 42,
+         "raw": "42"          },
+          "valu": 42
+       },
+   "trailinmmets": [
+       {          "type": "ComeBlck,
+          "vale: "
+          "star": 3,
+          "d"10
+         "loc":{
+           "strt": {
+             lin":1,
+          "colu":3
+           ,
+             "en": {
+              "line: 1,
+          "colmn"10
+             }
+          }
+          },
+     {
+           ype":"ComentBlock"          alue" "Aw",         "stat": 11,
+           "end": 21,
+         "loc":           "start": {
+           "line": 
+              "column" 1           },
+            "en" {
+        "i" ,
+            "colmn: 21
+              }
+           }
+         
+     ]
+     }   ]
+  "irtves: ]
+  },
+  "commns [
+   {
+     tpe":"Commntloc",
+     "al": "The",
+     "sar": 3,     ed": 10,
+     lc" {
+       start: {
+          "lne": 1,
+         lmn":3
+     ,
+       "end": {
+         line":1
+        "olumn: 0
+        }        },
+  
+    "type": "ommetBok",
+     "value "Awer",
+      str: 11      "end": 21,
+     "loc": 
+        "start: {
+         "line: 1,
+        "olum: 11      },
+        end": {
+         "line": 1,
+        "colum": 2
+     }
+     }   }  ]}

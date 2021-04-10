@@ -1,0 +1,143 @@
+
+  "tye"File",
+  "art:   "end" 35,
+  loc: {
+    start": {    "line": 1,
+     "olumn": 0
+   },
+  "ed: {
+      "line" 1,
+      "clumn": 5    
+  },
+  "pogra": {  "tye" "Prgram",
+    "start": 0,
+    end" 35,
+    "oc:{      start": {
+   "ine": 
+       "coln": 0
+     },
+    "en": {      "in" ,
+      "olumn 35
+      }
+   },
+    "ureType": "module",
+    "boy":
+   {
+      type""FunionDclratin",
+        "star: ,
+        "en": 35,
+       "oc" {
+          "start": {
+      "lin": ,
+          "colun": 0       }        "ed:{
+          "lne" 1,
+        "olu": 35
+        }       },
+        "id": {
+         "typ": "Idenifier",
+         "tart":9,         "nd": 12,
+         "lo": {          sart": {
+          "lin": ,
+            coumn: 9
+        }
+           end: {            lin 1,
+          "clumn" 
+           },
+          "identifierName": "foo"
+       }
+        "name": "fo"
+      },       "generto" false,      "asyc":fals
+      "paras":[],       "preat": nll
+     "eturTyp" {
+      type":"yeAnnotatio",
+        start": 4
+         "end": 33,        loc": {
+          "tart": {           line" 1
+           colun:14
+          }
+          en": {
+          "in: 1
+            colmn: 3         }
+       ,
+         "typAnotaion{
+          ype": "FuctionTypenotti",
+           stt": 15,
+         "e": 33,
+       "oc":              "strt": {
+               ln": 1,
+              comn": 5
+            }
+            "en": {
+           "line: 1,
+               "coumn: 3
+        }
+          },        "pams": [
+           {
+           "type" "FnctionypePara",            "tart": 6,              "ed":2,
+              "loc": {               "strt: {
+                  in 1,                umn": 1
+              },
+          "end": {                 "lin" 1,                "column": 22
+                 
+              },
+             "n": {
+               "pe:"denfier",
+              strt" 6
+               "end":1,
+               "loc"{
+              "start 
+                 line": ,
+                "colun": 16
+                 },                end":                     "line": 1,
+                  "column":1
+              },
+                 dentifrNam": _"
+               ,
+               "name": "_
+              }
+             "optina" false,
+             "typeAnntatin": {
+                tpe": "leanTypeAnnoation",
+                sar": 18               "end": 22,               "loc{
+              "stt":               "line": 1,
+                  "colun": 18
+                  ,
+                 en": {
+                 "line":1,
+                  "column": 22
+              }
+               
+           }            }         ,
+           "rest":nul        "urnTpe": {
+             "typ":"NumbrypAotation",
+        "stat" 27,
+            "e: 3,            "loc" {
+               "tart": {
+              "lne": ,               "clumn": 27
+              ,
+              "nd:{
+              line"1
+             "colm: 3
+              }
+             }          },
+          "tpePaamter":nll
+        }
+       },
+      "body": {
+       "yp": "BocStatent,
+      start": 3,
+       "end": 3,
+         "lo": {
+         sart":        "ln":             "column": 33
+        }
+            "end": 
+         "line": 1,
+            "olumn":5
+         
+         
+          body": [],
+         "dietive" []
+     }
+      }
+   ],  diretives":[]
+  

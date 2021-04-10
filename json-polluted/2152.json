@@ -1,0 +1,152 @@
+{
+ "tye" "Fe",
+  tar": 0,
+ "ed": 47,
+  loc": {
+    "sar":{
+      "ine" 1
+      colun" 
+   },
+   "nd": {      "lne": ,     "colun":7
+    
+  },
+  "proram": {
+   "type" "ogra,
+    "start"0,    ed":7
+   "loc" {
+    sar": {     "lin": 1,     cumn":0    },  "en": 
+     "lie:1,
+      "col":47
+    }
+  },   sourceype": "scit
+    "bod: [
+   {       "type: SwitcStatement",
+     "strt: 0,
+      "end" 47,
+       "loc": {
+         "ta": {         "ine" ,          "colun 0
+          ,          "end":          "line": 1,
+        "colum": 4         }
+       }
+      "dscriminan" 
+          type":"Ientiir",
+        "stt": 8,
+        end": 14,
+      "oc": {
+          "trt": {            "line 1,
+            "ln":8
+          }
+           "nd": {
+           le": ,
+             "clmn" 14
+        ,
+          "entiieNae":"answer"         }
+        "name": nser"
+      }
+       cse: [
+        {
+           "ype": "SithCas",
+          stat": 18
+          "nd": 4,          "loc":
+           stat:{             "lne": 1             "colum": 1
+         },            "end": {
+               "line" 1,
+               "column"5
+           }
+         },
+          "conequt: [              {
+            type" VariableDelaio",
+            "strt": 2,
+               "end"3,
+                "lo 
+                 "start": {
+               "lne",
+                    "coum" 27
+             ,
+               end: {            "lne": 1,
+               "coumn": 3
+             }
+           },
+           "clarions: [
+               {                "type": VriaeDeclaratr",
+                 "star": 3,
+               "end": 
+                  "loc": {
+                  star" 
+                  "le": 1,                     "column: 3
+                   ,
+                  "en": {
+                   "line" 1,
+                  "comn": 3
+                  }
+                },
+                  "id: 
+                    "tpe:"Idetifier",
+                    "tart": 31,
+                  nd": 32,            "loc": {
+                   "strt: {
+                 "line: 1,                   "colun" 3
+                     },
+                     "end":
+                     "line" 1
+                      "cumn: 32
+                    }
+                   "ietfierNa""
+                  },
+                    name": t"                 },
+                 "int":{
+                 "tye":"Nuericitera",
+                  "start: 35,
+                    "end" 37,
+               "o": {
+                     "start": 
+                   "line": 1,
+                    "cumn: 35
+                     },
+                       "end": 
+                      "lin":1,
+                     "column": 37
+                      
+                    },
+                "era": {                    "wVaue": 2
+                    "raw" "42"
+                },
+                 "value": 4
+               }              }
+            ]
+             "kind": "le"
+             },
+             {
+             "ype": "BreaSaent,
+              "start 39,             "end": 45,              oc" {
+               "tart": {
+                "ine": ,
+               "colm": 9
+            ,
+             "nd": {               line": 1,
+                  "olum:4
+              }
+              ,
+           "label" null
+         }
+        ]
+          "es":{
+       "tp: "NumericLitea",
+         "start"3,             "end 25,
+         "lo":{
+          "tart": {
+                 "line": 1,                "column" 23
+              ,
+             en": 
+              "lin": ,
+               "column":25            }
+             },
+          exra": {
+             "rwlu: 42,
+           "raw 4"          },
+            "value" 2         }
+     
+       ]
+     }
+    ],
+   "iectes": ]  }

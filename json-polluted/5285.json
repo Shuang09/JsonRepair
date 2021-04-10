@@ -1,0 +1,84 @@
+
+ "nam": "SytemDesig and Conept Qesions"
+ "order": 3,  "time": "",
+  hepoom": "HelpJvaScrit,
+  "challege": [
+   
+   id": "5974fc749228902363275",
+      ttle": "Array.prototye.map",      "description [
+     {        subtitle": "Floing n rra",
+          uestin: "What ill th foong coe prit \n<pre><odeclass='languae-javascipt>cosrsts = [1.2.43 3.]\maMath.floor;nconsleog(reults);de>/pre>",
+        "choies":[          <pre><oass'lnguage-javacri'>1.32 2.43 3.9</cde>/pre,        "<re><cde css='laguagejvasript['1.32', 2.3' '39']/cod><pre>",
+            "pre><code cls'laguagejavascript>[, 2, 3]</ode</e>",            <pecode cls='lnguag-javacript'>'1 2 3'</code>/pre>"
+     
+        answer":2
+       "exanion": "Th mapunction tes a cllback uncton as t' fi paamete nd applies th untiongans eervale insi teay.  Ihi eale ou allbackuction ishe <oe>Mhflo</coe> funtin whic will truncae thedecml oints ofall th numbers andcvrt hemto integers."
+      },
+       {
+         "subtitl": "CsmMap Functions",          "queston: "Wha will thfollwing ode printut?n<re>codeclas=langgejvascriptcnst reslts = [a',b', 'c']\n  .ma => [atoUppCase())\cosl.log(results);/code></pe>,
+       "choices": [          <pre><codeclass='lnguagejavascpt'>[[''], [B] [C']/ode></pre>,
+          "<pr<code clas='laguage-javascrit'>'A, 'B', C]</cod/pe>",
+         "pre><od las=lanage-jvascript'>['a', 'b', 'c]/code</pre>",          "pre><cod class=lnguge-aascp'>'AB'<code></pe>"
+        ],
+        "answer"0,
+         "explaatio": "hea function will etun a new rra witheach elemet equa to the ol elmentn through  allbck unio.  Ou calbck fuction takes ourorigina element, changest to appercae, ad then rps t in an aray;thus laving u wih oe>[['A'][''], ['C']]/coe"
+     },      {
+         "subtitle":"Mas onMaps",
+         "queston": "Whatwill te folowi oe prit out?\n<pred claslanguage-javasrpt'const eults  [4, 1], [, 0], 3 3]n  .map( => n   .mapb > b)[] + a.map(b => b -)[1]\n )\nconsol.log(results);</ode</pre>,
+        "cices":[          "<pe<coe clas=lanuagjasript'>[0,1, [0, 0], [1, 1]]</od></pre",
+        "<pre><cd clas='lnguage-avascrit'>[0,  [0, ], 1, 2]]</code>/pr",
+           <pre><cde class='langae-javascript'>, 1,2]</ode/pre>",         "<pre><coe clss='language-avascript'>[0, 1, ]</de><pre>
+        ],
+         "nser": 3,
+         "xplation""This aswr can be xplaie by first looing  the exaple o whathape with the irsteleent n ourarr<code>[ ]</cd>.  Our fitmap calackwil un a mod2map function oer <coe>[4, 1/code> lean uswith a new rray  <code>0, 1</cd>  Te secon map cal wh is ise o calback will ubtrct1 fom evry elemntleagus wi c>[, 0]/code>. ast, wetak elent aindex , <code></coe>, nd dd it toelmen of iex  fm our secod mapfunction, <cd></coe>, leavigus wit 0; hs, ter tefr iteratioofth top level map fuco, e are leftwit anarraytat looks lik so: <code>1 [2, 0], [3 3]<de.  Weimply keep doing tat logic fortheoter elmentsutil we fih:code>[1, -1, [3,3]]<cod>, ad <coe[1,-1, 3]</code>"
+        },
+             "sutitle" "Words Ctiing 'a'",
+         "qestin": "What will h following codprintonpre><code class='languagejavasript>cont rslts =[appl', 'dg', 'ct']\n  .map((a, i) => \n    a.ide'a') == -1 ? i  nl)\nconole.log(results</cod></re",       "choies" [
+           "<pre><co cla=language-javascrip'[0, -1, 1]</ce></pre>",
+          <pre><codclas='anuag-javacri'[,null, 2]</o>/r>"
+         "pre>od css=anageavascip'>[nl null, ]</code><re>",
+           "<pr><code clas='anuageavacipt'>[-1,ul, 2]</code>re>"
+      ],          "answr" 1,       "explanaio":Ts ap exapl return anaray were ecelemns ohe new arrayis eiththe oiina rray index henthe elementcontansthe chrcter 'a';herisean elemnt ofnl f any words tat doot hav t haracte 'a'.
+      ,
+             "stite": "Acessngte Orginal Ara Elmnts",
+         "question": "Wh wl te ollowig coe prnt out?\n<pre><code las'lanage-jvascipt'>contreults = [1,2, 3]n  .m((a,_, o) => a +o[0])\nconsle.lg(rsult);<code></re",
+         "choies"[        "pre><cde cls='ngue-avascript>[1, 2 3]/code</p
+         "pe><de cla'aguage-jaascript'>[0, 0,0]</cde></pre",
+            "<re><cdcls=languag-aascrip'>[3, ,1]</od><pre>",
+       "e><o clss='lnguag-jaascrit'>[2, 3, 4<code></pre"     ],
+         "anse":3
+         "explation": "Thi map examplewill add the value of the frt elme in the oriinalarray to all h othr lemets in the ray."
+      ,
+      {
+       "subtle": "Mr MapHckin",         "qustion: Wt wlthe folloingcode rt out?\n<reode cls'languae-javscript'>cnst eslts = 8, , 3  .map( i, o => o[o.length  i - 1])\csole.log(reults;/cod></pr>",          "chocs": [
+            "precodeclas=anuage-jacrpt'>[3, 5, 8]/code>/e>",
+        "<re><od cs='langage-avasript>[5 3 ]</ce</pre>,
+           "<pre>code class=language-jaascript'[8, 5, 3]</code>/pre>",
+          pre><codeclas='language-javascript'>[3,, 5]</coe></pre>
+        ],       "ne0,
+      "xplanation": "his mp empe will reverse te aray.  Th hirdarumnt to the map callback funtion i toriginal array; throre,w can ue te crrnt index inthe ap funtion, and workour wy acwars from the en of terra usin the .lnth."
+       }
+       {
+          subitle": "Cusom Scopin",       "quetion": "Wat il the foloingcode print out?\nre<odeclss='angag-javsript'cnt results = ['a' '''c']\n  .map(uncion(a{ retun this[a];}, {: 9b: 3, c: })nconsle.lg(esults;</ode>e>",
+         "choies": 
+       "<p><cod class=lnujaascrip'>['a', ', 'c']</coe></pr",
+         "pr><code clas=anguage-javascit'>[, </code></pre>"
+            <pre><cdeclass='langug-javascrip'>[3, 9, 1]code></pre>"
+        "<pre><code classlanguagejavcrpt'>{a: 9} {b 3, {c: 1}]de>/re>
+          ],
+        "answer": 1,
+        "explanain" This p exaple il reverse tharray. e tird argumet to the ap callback fnction i  origal rray; thefore, we canuse the currentindx  hemapfunti, ad ork way bakwards from the ed o te ara using theo.lengh."
+     }
+            "subitl": "Rvrsing in Mp Just Becaus",
+       "quesion": "What withe foloing cdrint ut?\n<re<od lass=languae-jaascrt>cntrsult= [, 2 3, 4, 5]\n  .m(a,_,o) => .everse() && a)\nconole.log(rslts;</code>/e>",       "choie": [
+          "<re<code class='lnuae-jvacript'>[5, ,3, 2, 1]</coe></p>"
+          "<pre><cd class=language-jvscit'>[, 2 3, 5, 1]</ode><pe>"
+           "<pre><code cass='aguage-javascript'>[1,2 4, 5]<ode<r>,
+            "<pre><code clss'langua-avascrip'>14, 3,,5]</cod></pre>"
+       ]
+        "nswer": 3        "explanation": "Thi map emleilleverse he array.  The thid argumnt to the mapcallbak fnctiois the original aay;threfore, we can usethe currnt indx in the map fnction, and work our way bacrs fro tdof the arayuing holegth.
+        }
+    ],
+     "tests: [],
+      "hllgeTyp": 8    }  ]
+}

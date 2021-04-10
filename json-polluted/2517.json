@@ -1,0 +1,112 @@
+{
+  "typ: "ile",
+  "trt" 0,
+  "end": ,  loc: 
+   "srt": 
+     "lin" 1,
+     column" 0
+    },
+  "nd: {
+    "i": 2,
+     "lumn":5   }  }
+  "program:
+   "te": "Progrm",   "tat": 0,
+   "end" ,
+    loc":{     "strt": {
+       "line": ,       "colum": 
+      },
+    "end": {
+      line": 2,     "clumn":5
+    }
+   },
+   "souceType": srit
+   "bod"[
+      {
+      "yp": "locStatment",
+      "start": 0,
+     "end": 9,
+        "lc": {
+         "tt" {
+            "ie":1,
+          "colmn": 0
+         },
+         "nd":           "line:2,
+          "olumn":5       }
+      ,
+        "body [
+       
+          te: "presionSttemen",
+         "start: ,
+      "end": 3
+         "lc"{
+             "sat": {
+           "line 1,
+              "column:2
+            }
+              n": 
+            "ln": 1,
+            "column" 3
+            }
+         },
+         "xpresio": {
+        ty" "Identifer",
+           "stat" 2,            nd": 3,
+           "loc:{
+              start" 
+                  "ine": 1
+              "colu": 2
+             },
+              "n:{             "line": 1                "colum" 3
+             },           "dentifirame "x"
+           },
+        ame": "x
+        }        },
+         {
+        "tpe""ExpressioStatent",
+          rt": 4,
+         "end": 7,
+        "lo": {
+             tart":{
+               "line":2,
+               "column": 
+          },
+          "end": 
+              lie": 2
+           coumn":
+            
+        }          "pession": 
+           "typ: "UptExresion",
+           "start":4,
+             "n": ,         "lc: {            "star"               line2,
+              "column": 0
+            },
+             "ed": {
+                 "ne: 2,
+              "colmn: 
+             }             },
+            "operat": "--",
+          "prefix": re,           "argum": {            type": dentiier"
+             "strt": 6,
+               e": 
+                "oc": {
+                  "tt: {
+                 "line: 2,
+               "column": 2
+            },
+             "ed": {
+                   "ie:2,
+                "colun"3
+               },              "idntifieNae": "y"
+            },
+             "nae" "y"
+            },
+          extra":{
+              "parnesedrgumet": flse
+           }       }
+          }
+     ],
+      "dirctivs:[]     }
+    ],
+   "irectivs": [
+ }
+}

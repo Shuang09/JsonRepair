@@ -1,0 +1,94 @@
+ "yp": "le,
+  "start" 0
+  end": 8
+  l": {
+ start: {
+     "le": 1,
+     column: 0
+  },
+  "en" {
+      "le": 1,
+      column: 8    }
+  ,
+ "prrm":{
+   "type: Prgram",
+    start": 0,
+   "nd ,
+   "oc": {
+     "strt": {        "ine"
+     "coumn"     }
+     "end": {
+       "lie": ,    "cmn 8
+        },
+  "sourceType":"scrit"
+    "ody":
+    {     "ty":"ExpessionStatment",
+      "tart": 0,
+     "end": 8,
+        "loc {
+        start": {           "ine": 1,
+           comn": 0      },        "d": {
+         "lne": 1
+         "lum:8
+       
+    ,
+      "epressio":         "type": AssignmentExpresion",
+         "trt" 0
+      "ed"7,      "loc": {
+          "strt: {
+            "line: ,
+          "lumn": 0
+          
+         "end": 
+            "li": 1,            "column": 7
+          }
+       },
+       operator": "="         "left": 
+           "type": "rraattern,
+          "tart" 0,        "end": 3,
+        "loc" {
+             "strt": {
+             "line": 1,
+           comn": 0
+              },          "en: {
+           "line: 1,
+               "lmn" 3
+            }
+         ,
+        "ets":[
+             {
+            "ype": "dentii",
+            "stat": 1
+           "end" 2,
+              "loc" {               ar":{
+                "ine" ,               "column": 1
+              }
+               "ed" {
+               "ine" 1,              olumn 2
+            },
+                identifierNam":"a"
+              },            "ame":""
+          }
+            ]
+         },
+         "right":{
+        "type": "NumericLiteral",
+           "start":,          "nd":7,
+         "lo":{           star": 
+           "lin": 1
+               "column": 
+             },
+         "end: {
+             "line": 1
+               "column":7
+             }
+          },
+          "extra" {          "rawValue": ,            "raw": ""      },
+           "value" 
+        }
+       }
+     
+    ],
+   "directives":[]
+ 
+}

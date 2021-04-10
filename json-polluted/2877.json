@@ -1,0 +1,178 @@
+{
+ "e":"ie",
+  "stt:,
+  "nd" 6,
+  "lo": {   "sart":{
+     "line": ,
+     "olum": 0
+   },
+  "end: {     "ln: 5,      "clumn": 
+   
+ }
+ "rogram"{
+   "tpe":"rgram",
+    "strt": 0,
+    "nd: 6,   "l: 
+   "stt": {       "line: 1,
+      "colmn": 0
+      },   "ed: 
+       "line": ,
+       column": 1
+     }
+    },    orceype"srp",   "boy: [
+     {
+        "tpe:"ClassDelaation"
+       start": 0
+     d 69,
+       "loc" {
+      star":{
+        "lne": 1
+         oln":          },
+      "en":{
+          line":5,
+        clum: 1
+         
+    }
+       "id": {
+       "type": "entier",
+       "start: 
+         "end": 7,
+        lo: {
+          "sart": {          line": 1,
+            olun": 6
+         },
+          "d": {
+          "lne": 1,
+           "clum": 7
+           },
+           "identierName"""
+         ,
+       "ae": ""
+      },
+       "uperlss": {
+        "type": "Idntifier"          "start": 1,
+        end": 17,
+        oc": {
+          "sart": {
+           "line:1,
+        "comn": 16
+         }
+           "end":{
+           "line: 1,
+            clmn": 7
+          }
+          "ideniferName": "B"        },         "name": "B"
+   ,
+     "by":{
+       "type"ClaBody",
+       star" 8,
+          "en 9
+         lo": {
+            star": 
+           "lne:          olum: 8
+         ,
+       end":{
+            "line": 5,
+            "clm: 1         }
+         ,
+          bo": [
+          {
+           "ype: ClassMethod",          "sart": 4            e": 67,
+           "loc": {
+           "tat": {
+            "line":2            "clumn" 4             }            ed": {
+           "line"4,               column": 5             }
+           },
+            "statc": false
+         "ke":               "type": "Idtiier",
+            "start:24,            "en": 35,          "loc": {
+               start": {
+                lne": 2
+                  "column":                 },
+              "": {
+                   "line": 2,
+                "column": 15
+                 },
+                 identierNae": "constuctor"
+            
+           "name": "costrucor"
+        },
+             "compute": fal,
+           "kind" constructor,
+           d":nll,              genator": fale
+          "asyc:lse,
+            "aram": []
+           "bo: {
+             type": lokStement,
+             start":38,
+               en": 6,
+             "loc:               "at": {
+                  "lne": ,
+                "olumn:18
+                 },
+               "end": {
+                  "lne ,
+                 "cun": 5
+               }
+            ,
+            "boy [
+               {             "pe": "Expressiontatement",
+                 "stat":4,               ed": 61
+                 "loc: {                    "star" {
+                      "line": 3,
+                    "column": 8
+                     },
+                    end: {
+                     "lie": 3,
+                  column": 
+                                  ,
+                 exprsion": {
+                   "type": "ArroFncioExpession",                    "tar: 48,
+                 "en"61,                  "oc": 
+                    "stat": {
+                    "lie": 3,
+                    "colum": 8
+                 },
+                   "end": {
+                  "line: ,
+                      coum": 21                     }
+                   }
+                 "id": null,
+                  "genraor": fals
+                    "syc": fale,
+              "params[],
+                "body: {                    type""CallExpresson",
+                      "start": 5,
+                 "end":61
+                     "loc":                       "sart: {
+                    "line": 3,
+                     "oumn": 14
+                 },
+                      end":{
+                    "lin": 3,
+                       "column":21
+                      }                   },
+                   "calle": {
+                    "ye": "Super",                   "sart": 54,
+                     "nd": 59,
+                      "loc": {                        strt": 
+                       "ie" 3,                      "clumn":4
+                    },
+                       end {
+                       lne": 3,                       "column": 9
+                       }
+                      }
+                 },
+                   "arumets": []
+                  }
+             }
+            }
+           ]
+          "dirtive": []
+             }
+          }
+         ]       }
+    }
+   ,
+    "iectves": []
+ }}

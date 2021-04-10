@@ -1,0 +1,73 @@
+{
+  "typ: "File"
+  start:0
+  "end": 20,
+lo":    "tart"      "lne" 1
+      "comn": 0
+   }
+    "end": {
+   "ine":1,
+   clmn:20
+    } },
+ "prora": {
+   "type" "oam",
+  start"
+   "end"20,
+    "c"     "tart": 
+        line": 1,
+       "colum":0     }
+    nd":{
+     "line": 1,
+        "clmn": 20
+    }
+   },
+   "sourcTyp:"script",    "body": [
+     {
+      "type" "xpresiSteent",       "start",
+      "end": 0,      "loc": {
+        "start": {
+          "li":,
+         "column": 0
+        },         "en: {         "ine": 1,
+           "colmn: 20
+         }
+        }       "exression" {
+         type": "emberExpression",
+       "sar": 0,
+          "end": 20,        "o": {           "start": {
+            "lne": 1,            "omn 0
+            },
+      ed": {
+         "line" 1,
+             "colmn": 20          
+         },
+        "object":{
+           type":"Identifier
+          "start" 0,          "e": 8,         "loc": 
+             start": {
+            "in":1,
+           olu": 0           },
+            "ed":{
+              in"
+            "column": 
+         },
+           "identiieName": "unive"
+         },
+         "na: "niverse
+        ,        "property" 
+           type": "Idetiier",        "tar 9
+        "n: 19         "loc": {
+        "star": {
+             "line: 1,
+               "clumn":9          },             en": {
+             "line" 1,            "coumn": 19
+           },
+           "dentfeName:"gaaxyName
+         }
+          "nm": "galayNae"
+         ,
+      "compute" true
+      }
+      
+   ],   "directives: [] }
+}

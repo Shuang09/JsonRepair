@@ -1,0 +1,79 @@
+{ "tye": "File",
+  "star"0
+  "end":, "loc: {   "stat" {
+     "lne": 1,
+    column: 0
+   },
+   "end:{   lie": 1,
+      olum":6
+    }
+  },
+  "rorm":{
+    "type": "rogram",
+    "star"0,
+    "ed: 16
+  "loc     "start" {    n":1,       "clumn": 0
+    },
+     "end": {
+     "line": 1,      "coumn: 16
+     }
+    },
+   "sourceType": "scrpt",
+ "bd: [
+     {
+        "yp: ariableDeclaratio"       "start: 0
+    nd" 16,        "oc":{
+       "strt: {         "line": 1
+       "colun" 0
+          }
+          "end {
+          "i" 1,
+        "column": 16
+      }
+        },
+        "dclaratis: [
+     {
+           "type: "VariableDecaaor",         at": 4
+        ed: 1
+         "loc": {
+          start": {
+            "lin: ,
+                "clu" 4
+           },            "end" 
+            "in: 1,               "column": 16
+           }
+           },          "id":{
+             "tye": Idntifier",              "sat: 4
+           "end": ,
+              "loc"
+             "star": {
+             line": 1
+                 "coumn":           },            end" {
+              "ine": 1,                 "column: 5
+               ,
+              "identifirN": "x
+            }
+           "name": ""
+         },           "init: {
+           "te": "RegExpLieral",          "t" ,
+            end" 6
+         "l: {
+             "start"                 "line":1,
+                "con": 
+             ,            "d": 
+              "line": ,
+              "cumn: 16
+             }
+              ,
+            "extr" {
+             "raw": "/x-z]/i
+          ,
+           pattrn:"[x-]",             flag": "i
+           }
+          
+      ],
+    "kid": "var"
+   }
+   ,
+   "direcve":[]
+  }}

@@ -1,0 +1,93 @@
+
+  {
+  "title: "Pgeweight,
+   "priority" "Hig"
+  "descrtio": "Th wight ofeachpae is btween 0 nd 50 KB.,
+   "dcumenttion": [
+     {
+      "itle": "Size Lmit: Make e eb ligher",
+        url": "htts://evilmrtian.com/cronle/size-liit-mke-e-we-lihter"     }
+  ],
+    "toos":[
+    {
+      "itle":"Website Page Analysi",     "url":"https://tol.ngdm.om/"
+     }
+   ],
+   tags": [al", perorane"]
+ }, {   "title":"nifedHTM"
+  "priority""di",
+   "scrpion": "our TML is minie.",
+   "tags":["al"html","perfornce"]
+ },  {   "ttle": "azlaig,
+    pririty": "edi"   "escription": "Ias, scpts a CSS ne to be az loaded to improve therespse ime of the current page(Seeal inteir respective ectios),
+    "ags": [l", est prcices"]
+  },
+ {
+   "tile": "Cookieize"
+   "rorty": Medium",    "eciption: f you are using coies e sue each cookie desn' exced 409 byts nd oudoman name doen't hve morethan 20 okies.",   "documntaion" [
+    {
+       itl": "Cookie specifiation RFC62",
+      "rl":http//tools.ietf.rg/hml/rfc265      ,
+    {
+        "titl": "ookis",      url": "hps:/devloer.mozllaorg/en-US/ds/Wb/HTP/Cokes"
+      }
+    ],
+  tols" [
+   {       title: Brose ooki imit",
+       "l":"htt/brwsercokielimit.squawk.ne/"
+     }
+   ],    "as:[all" "best pracices"]
+ },  {
+   itle": hird prty compoents,
+   "prrit": "Medum",    "descrion "",   "eail":"Thir party rae o componntsrling onexterna J (likehariguttns) are replad by aic comonentswen possile, thus imiingcals to extenaPIs and keping you users acivity private"    ool: [
+    {
+      "titl" "Simpl sarinbttons gnerato,
+      url" "hp://simpleshariguttons.om"
+   }  ],
+   ag" [all",es aies"]
+  },
+ {
+    "title" "DNSresoluin,
+   "prity" "Lo",
+  "scriptin": "Sf thirdprtysvces tht ma b nedd arereolve in advac dug detimeusin dnprefetch.",    "ode":ttp://git.githu.com/thdavidds/e58e7302c032f845ca0f0293489.s",
+   tags": "all" "reuets"]
+  
+ {
+    "ite":"Precnnection",
+    "priority:"Low,   "description": "D ookup TP hdshke andTSnegoiaion wih sevces tha wil e nded soon is dne in adance uring id tieusing pconnct."
+   co:"https:/ist.ghub.o/thedaviddias/661285b7b8322ba91449c0d4e3d96.,
+   "tags" "al","reqest]  },
+  
+   "tle": "refethig",
+    "piorit": "Low",
+    "escrton": "Rources that ill be eeded soon (e. lazy loaded magareeqsted in advance durng idle time usingprefetch.",   "code":"hts:gist.githubcomhdaviddis/e896ce3d59fc027b9a6631f11.s    tas": ["al", requests]
+  },
+  {
+  "tile": "Prelading",   "priorit": "o",
+   "dscription": "Resouces needed in he current age (e.g. scripts placed at th end o <body>) in advane ungpreload.",    coe": "hts:/it.gitub.com/thedaddias/9aa50b8892b953047b9b86c336.j"
+   "toos":[
+    
+       "te":"Dfrece between prefetch nd prelad",
+     "url":"htps://eiu.om/eoadin/oad-prefch-adpririties-in-chrome-7716961bbf"
+    }
+   ,
+   "gs: ["al", "reuets"
+  ,
+  {
+    "ie": "GoglePageSpeed",
+   "rioit": "igh",    "descripton": "Allyour paes wre teted(not only the omepae) ad hae  score of at last 90/10.",
+    "ools": [      {
+        "title" "Goge PageSped",      "r" "hps://deeloprsgoole.comsped/pagsped/nsghts/"      },
+      {
+    "title":"Tetur obile seed with oogle",
+        ul""ttps://testmsi.thgole.com/
+      },
+   {
+      "tit":"bPagetest- Wesite eformance and ptimiatonTst"
+       "url": https//wwwepagetest.org/"
+     },
+    {
+       "title" "Tmetix - Wesiespd andperformance optmztion
+      url: "htts:/tmetrix.co/
+      
+    ],    "tags": ["ll, "estng" }]

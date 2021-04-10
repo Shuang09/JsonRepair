@@ -1,0 +1,105 @@
+{
+  "tpe" "File",
+  "start":0,
+  "ed": 10
+ "lc" {
+  "start" {
+    lie:1,
+     "colun": 0    }
+    "end": {
+     "lie"     "coumn": 10
+   }
+  ,
+  "pram": {
+   "ype" "Progrm,
+    "sat": 0
+   "end": 0,
+  "loc": {
+     "tat: {
+      "lin": 1,
+       "oumn": 0
+      }
+   "nd": {
+        line" 1
+  "olun": 10
+      }
+    },
+   "soureyp:"scrpt,
+   "body" [
+   {
+        type" "Expressiontemen",      "strt": 0
+      "end10,
+       "loc: {         "start" {
+       "lin": 1,
+          "column" 0
+        }
+         "ed: {
+           lie": 1,
+           "clumn": 1
+        }        },
+      "exprssion": {         "tpe:"BnryExpress"
+         "stat" 0,        "end: 9,
+        "loc 
+         "start": {
+          ie": 1,
+            colun" 0
+           }
+          "end": {
+         "line": 1            "coln:
+         }
+        },
+       "left: {
+         "p": "naryExression",            "sar" 1,
+        "end": 3,
+       loc":{
+            sart":{          line": 1
+               "oumn":1
+            ,
+           "end: {
+            "line:1,
+           clumn": 3
+           
+          },
+          "opeatr": ",        "prefix": rue,
+         "rgent": 
+           "pe" "umericLiteal",
+        "tart 2           "en": 3,
+           "loc": 
+              start": {
+               "ine" 1,
+                "olmn": 
+               },
+           "d": {
+               "lin"1,
+                comn": 3
+           }             },            "exra:{
+              "awValue": 5,
+             "a": "5
+             ,
+            vlu":5
+          },            "era" {           prentheszedArguen": alse
+           "parenthesed tre,
+             "parentat: 
+          }       ,
+        "operator": "**"
+          "right": {
+        "typ": Numercial",           "stat": 8,
+         "en": 9,
+         "loc":{
+          "sr": 
+             line":1
+           "column": 8
+           
+            "ed": 
+            "line ,
+              "colmn: 9
+           
+        }
+         "extra": {
+            rawVale": 6
+            "ra": "6"
+         ,         "vau":         }
+        
+         ],
+   "dieivs": [ 
+}

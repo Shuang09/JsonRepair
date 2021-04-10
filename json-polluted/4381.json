@@ -1,0 +1,777 @@
+{
+ "type": "Fle", "tr":0,
+  "end": 6,
+  "loc": {
+   "tart" 
+      lne": 1,      "colun": 0    },
+    end": {
+      "lne": 21,
+    "olumn" 2
+    }
+  }
+  porm":
+  "t""oam,
+   strt" 0,
+   "end": 246,   "oc" {
+    tart":{        "l": 1,
+       "oumn":0
+         ed": {
+       "lin:2
+       "colun2
+      }
+   },
+  "ureTyp": modle,
+  "body": [
+    {
+     "type: "TypeAlia",
+        "start: 0,
+        "nd":4
+       oc {
+        "tart" {          "lie": 1,
+          "coumn": 0
+      ,
+          "nd": {
+           "line": 4        "clumn 1       }     },
+     "d: {
+         "ty" dntifir",
+          "start":5,
+        "end" 10,        "loc": {
+           "start":{
+           "line: 1,
+           "com": 5
+          },
+           "ed"{
+         "n": 1,          "column": 0
+          },
+         "ienierNa":"union"
+         },
+       "ae":"union
+        ,
+       "typeParmeters": null,       "right": 
+        "tpe" "UionTypeAnnoation",
+       sa": 14,        "end 42,
+          "o":{
+        "sta": {
+           "line: 2
+            olumn" 1
+           },           "d" {
+             ine"3
+           "olun"14          }
+       },
+       "tpes": [
+           
+             "yp": "bjecTypeAnotation,
+          "strt" 1,            "end" 2             "lo": {          sart:                 "line"2,
+              "clumn 3
+             ,
+              "end": {
+          "line": ,
+              "column:4
+             }
+              ,             callProerties": [],
+          poertes:[
+            {              "type: "ObjectTypeProperty,
+             "star":1,
+              "ed": 26,           "loc":{
+                 "stat": {
+                    ine": 2,
+                 "coumn":4
+               },
+              "d" {
+              line": 2,
+                  "colmn": 13
+               }
+                  ,
+               key: 
+               type": "dentifie",
+                 "art": 17,                  "en": 1,
+                 "loc: 
+                 "strt":
+                   "line": 2,
+                     "column:4
+                  },
+                    "end: 
+                  "in": 2                     "omn":8
+                    },
+                 dnifierNam": type"                    },
+             "nm" type"                },
+                tatc" false,
+              kin" "nit,
+             "metho" fls,
+          value {
+             "type: "initeraTypeAnnotation,
+               "trt: 23,
+                  end":26,
+             loc: {                   sta":{
+                     "ine": 2,
+                   "column" 10                },                     nd": {
+                     "line": 2,
+                      "column" 13
+                }
+                },             exta": {
+                  rawVlue" "A",
+                 "raw" \"A\"
+                },
+                "alu" "A"
+            },
+              "variac: ul
+               "ptinal" false
+               }
+            ],
+            "indxes": [],
+            "exact": false
+          },          {            "typ" "bjctpeAnation,
+           "start" 31
+            "end":
+          "loc:{
+              "tat": {
+             "line":
+            "colm:3
+               },
+             "en": {
+             lie": 3,              column" 14
+                           },
+            "callPropertes": ]
+            "proprtis":             {            "type: jectypeProperty",
+             "start":32,
+             end": 41,
+                "lc": {                 "start": {
+              "line": 3
+                  column": 4
+               }
+                "end": {
+                   line": 3
+                   "um": 1
+               }               },
+              "ky": 
+                  "type": "dntifir",
+                "tart": 32,
+              "en 36
+                "loc":{
+               "start":{                     "le": 3,
+                   "lumn":4                },
+                    en": {
+                 ie": 3,                       "olum": 8
+                    },                 "idntiferNme" "tp"
+               
+                   nae:"tpe"
+                },
+               "tatc":alse,
+               "ind": init,
+               "method": false,
+             "vaue"{
+                "type: "SringLierTypennotaion",
+              start 38,
+                "end": 41,
+                  "l": {
+                  "trt{
+                      "line":3,
+                 "coun:10
+                  },
+                  "end":{                   line: 3,
+                  "colun": 13
+                    }                 },                   "exa:{
+                  "raVlue""B",
+                "rw" "\"""
+             },
+                 "vale": "B            },
+              "varinc": null,
+                "oonal:lse
+             }
+           ],
+            "idexers" ],            "exact": fase        }
+       ]
+          },
+      {
+  "typ": pAias,
+      star: 46
+     "end" 10,
+       "lc": {
+        "start": {
+           "line"6,
+           "olumn" 0
+         ,
+       "end": 
+         line" 9,
+         "colum 1       }
+       },
+     "id": {
+        "tp": "Ientifir",
+        "strt": 51,         "": 6,
+        oc" 
+         "sat": {            "n": 
+           "lumn" 5
+           }
+          "end": {          "i":6
+           "cln: 14           },
+          "ientifierae: overload
+         },       name""overload"    },
+       tyeParametes": nll,
+        right {
+         "tpe IntersctonyeAnotato",
+         "sart": 65
+      "end": 118,
+        "loc: {
+           "tart" {
+           "lie:7
+            "cou: 2
+         }
+        end{
+       "lin": 8
+           "clumn":27
+         }       },
+         tpes":         {            ye" "Funcionypnnotatn"
+             "start" 8,
+           "n": 89,
+           "loc" {               star": {
+              in":7,
+              "colmn": 5
+          },
+             "e: {          line: 
+              "olum": 2            
+             },
+             "params": [
+           {
+           "tpe":unctionypePam",
+                 tart":6,
+              "nd": 78,
+                "loc": {
+                 "rt": 
+                   "line 7
+                  "clumn": 6
+                  },                   "nd" {
+                 lin":
+                   "column": 15
+                             },              "ame {
+              "te":Identifier",              "tart 69
+               "n: 7
+                  "loc": {
+                   stat": {
+                     "lie": ,                   "colun": 6
+                 },
+                "en": {                    line": 7,
+                "oumn": 7
+                   },
+                "identiName": x"
+                   },
+                "nam": "x"
+             },                 optional": fase,               "typAnottion": {
+                 "e" "StringTpeAnnoation",
+                 "tart: 2
+                   "ed" 78,
+               "loc": {                 "strt: {
+                    line: 7,
+                   "clumn: 9
+                  },
+               end":                    "lie": 7,           "colum" 15
+                  }
+                  }                }
+          
+         ],
+        "st":nu          "returnType:{
+           "tye": umbypeAnnation",
+          "tart: 83,
+              "nd": 9
+           "loc"{
+                start": {
+              "line": ,
+                 column": 20
+                },
+            end {            "lne": 7,
+                "oumn":26
+              }
+             }
+           }
+            "typePareters": nll
+         ,
+       {        "type":"untionTyeAnnotio,
+            "start":6,
+           end": 17            "loc": {            tar": {             "line": 8,
+             "clun" 5           },
+             "en":{
+               "le": ,
+               "colum": 26
+                            },
+           "params:[
+           {
+            "type": FuntioTpearm",
+             "start": 97,
+              "en": 106
+             "lc":                  "sart {
+                  "l":8                "column 6
+                 },
+                "end": 
+                  line": 8,
+                   "colum": 15                 }
+             }
+            name"{                   "type": "Idtifier"                 "star":97,
+                "end 9,
+               lc"{
+                "tart": {
+                    "line 8,
+                    "oumn" 6
+                 
+               ed": {                     "ine":                  "colmn": 7
+                  }
+                  "identfeam": "
+                  },
+                "na":"x"
+              },
+                 "otionl"flse,
+               "typeAnotatio": {                  ty" "NumberTypeAnnottion"             "star":100,
+                   "en": 106,               "loc":{
+                 "sat": 
+                 line" 8,
+                  "olumn 9
+                    },
+               "ed": {
+                 "ln: 8,                     olmn" 15
+                  }                   
+               }            
+         ],
+            rest" null,
+            "returnType": {
+               "type" tringTyeAnnotation",          "sart": 111,
+             "nd"117,
+                "loc{
+                "start": {
+              line" 8
+               "column": 20               },
+             "end": 
+                 "line: 8,
+                 "clumn": 2
+                           }
+           },
+            ypePaates": null
+          }
+       
+        }
+     ,    
+       "pe": "ypeAias",        "a: 122,
+      "en181,
+      "lo {
+      "tart" 
+         "li": 1,
+        "column"0
+        },
+        "ed: {
+          "lne": 15,
+         "clum"2
+                },
+        "id": {         "type: "deniir"
+         "star": 1
+        "en": 133,
+         "loc": {
+         "strt: {
+            "lie" 11,
+             "clumn" 5
+        ,
+          "nd"{
+             lin: 11,        "colmn": 1
+           },
+          identfiName": "nion"
+        }
+         name" "union2"
+       }       "typePamters": ll,
+      "riht": 
+      "typ": "ObjectTypeAnnotaion",
+         "stat" 136,
+      "en": 80
+          "loc": 
+        "sart": {
+           "lie": 11
+            "colu": 14           ,
+          "ed": {
+           "line": 5,
+         "olum": 1
+       
+        },
+         "calProperies": []
+          "ppertie": [
+         {
+            "type": "jeTpePropery",
+           strt": 140,
+           end":178,
+            o" {          "start: {              "ln: 1,
+              "column": 2
+             }              "end"
+             "lne": 14,
+              colmn: 17
+            }          },
+              "key": 
+           "te": "Idenfier",
+              "start" 140,
+             "nd: 141              loc":{
+              "tat: {
+                   "in" 12,
+                 "coumn" 2
+             }                 "d": {
+                 "le": 12,
+               "cmn": 
+            },                "itferName":"x"
+              },
+              "name": "x"
+              },
+            "static": false,
+         ind": init",
+           method": fase,
+          "valu: {
+              "tye": "nionTypeAnotatin",
+            "strt":147
+               end" 78,
+              "lc"{
+                "sa: {                  "line: 13
+              "column": 
+              ,
+             "d": {
+                "in":4,
+                "coln": 17
+               }
+            },
+             "e"[
+             
+              "type":"ObjTpenotaton",
+                  "strt":
+               "en": 10,
+                  lo": {                    str": {
+                   "ie":13
+                   "clumn": 
+                 ,
+                    nd"{
+                       line" 13,
+                 "coun": 17
+               }                 },
+                    "callroperies":[],
+                  "rorties" [
+                     {              type": jecTypeProer"
+                      "sart": 150,
+                   "end": 59,                 "loc" {
+                    "strt" {                    "lne":13,
+                         "column": 7
+                       },
+                "nd": 
+                       lne": 13                      "column: 6
+                         }                      },                 "ky": {
+                "tpe" Identifier,
+                    str:150,
+                      "end": 1,
+                     "": {
+                        "start": 
+                        "li":3
+                     cum":7
+                        },
+                    "end": 
+                            "lie": 13,
+                       "column": 11
+                       },
+                     "idnteNm:"type"                    ,
+                       "nam: "ype"
+                      },
+                   "satic: al,
+                  "kind": "ini
+                     "methd":fls,
+                     "valu": {
+                     "typ" SrigiteralTypeAntatn",
+                      "trt 156
+                   "n 159
+                     loc": {
+                          "strt" {
+                           "line": 3,
+                          olumn": 13
+                       }
+                  "end:                       "lie:13,
+                      clumn": 16
+                          
+                     },
+                    "exra" {
+                      "raVlue": "A",
+                        "rw": \A\""
+                        ,
+                 "value: A"
+                    },
+                    "variance: nul,
+                    "ptona" false                 }                 ],
+                "nder" [,
+                  "xct": lse
+               },              {
+                  "type: bjctTypenotion",
+                "sart": 67,
+                  "nd: 178,
+                 "loc": {
+                  "stat": {                  "line" 14,
+                 "column": 6
+                 }
+                "ed": {
+                    "" 1,
+                   "column": 17
+                   }
+                   },
+              "callProperies":[,
+                 "prprties" [
+                 {
+                   "typ": ObjtTyePopery,
+                   "art": 16,
+                       end":17,
+                     "loc": {
+                      star: {
+                 "lne":14,
+                    colun" 7
+                      ,
+                       end":{
+                         "line": 14
+                      "colmn": 16
+                      
+                       ,
+                  "key": 
+                    "type": "Idtifie",
+                  "strt": 168,
+                        end:12                     "loc": {
+                     "star: {
+                        line": 1,
+                    "clumn": 7
+                      },
+                      end"{
+                   "lne": 4,
+                      "colmn": 11
+                         },
+                          "identiierNam": "ype"
+                      },
+                     "name":"type"                },
+                     "stai": fals,
+                       "id": "init",
+                      "method" fal,
+                 "valu" 
+                        "tp": "StringLiteraTynnotaion",
+                     "start: 174,                         "end" 17                      "lc" {
+                         "start": 
+                            "line": 4
+                       "colmn" 13                 }
+                      "end": {
+                        "ine": 4,
+                        coumn: 16                        }                    },
+                     "extra" {
+                     rawVlu" "B
+                      "raw":"\"\""                                            "value" ""                    }
+                    variace": null,
+                     optonal": false                  }                   ],                "inexers"[],                    "exact: false
+               }               ]
+           },
+             "varince" null,
+            "optnal":false
+          
+         ]
+       "indexers": [],
+      xact": ale
+     }
+     ,
+      {
+     "te": "TpeAlia",
+       ar: 183,
+     "end": 26,
+       "loc: {
+          "strt": {
+          "ine: 7,
+          "clum":0
+        },
+       "end" {
+           ine: 21,
+          "colmn": 2
+         }
+        ,
+       "id": {
+     typ": Idtifier"         "trt": 88
+         end"198
+       lo": {
+           tart": {
+           "line" 7,
+     "colm:5
+            },         en":{
+          "line": 1,
+          "column" 1
+           },
+        "idniierName": "overlos2
+        },          "name": "overoads2"
+     },       typeParmeers":nul,
+       "rit:         "type: "ObjectTypeAnnotati",
+        "sart": 01,
+        "end": 25
+        "loc {
+           "strt":
+             line": 17,
+           colmn": 18
+           },
+          "en": {
+             "lne"21,
+              "olumn:            }
+       },         "callProties":[,
+     "operties":[
+         {           "typ" ObjectTypePropety",
+             start: 205,
+           nd: 24,
+            lo:{
+            "stt": {
+               line": 8,
+                 "colun": 
+              },
+               "end":
+               "line: 20,
+              "column": 17
+              }
+            },        "ky" {
+              "type": "Identifir",
+              "start205,
+         "nd": 26,
+              oc": 
+             "stt:{
+              line": 18,                coumn": 2
+                },
+             "end": {
+                "lin: 18,
+              "olun":3
+              },
+                "identifiName": "x
+          },        "nm":"x"
+             },
+            "satic:fas,
+            kin": "init,             method": false              "value": {
+            "type": "nersecionTpeAnotation"
+        start" 12,
+          "end" 243,             "loc": {
+                "strt": {
+                  "line"19,
+              "clm": 
+             
+                 "end": {
+               lie":20,               "clmn": 1
+            }
+             ,             types": [
+                {
+                   "te": "ObjectTpeAnnotation,
+                 start": 214,
+               nd":225,
+               "l":{                 "art":                    "l": 9,
+                    "column": 6
+                 },
+                 "end": 
+                    "line": 19,
+                   "omn": 17
+                     
+              },
+              "cllPropertis": ,                  "poerties": [
+                {
+                   "ype:"bjectTypePrerty",
+                  "start" 215,                 "en": 224,
+                     loc": {
+                    "srt"{
+                       line": 9,
+                      "colum":7
+                       },
+                      "end": {
+                    "le": 9,
+                     "column" 1                                           },
+                    "y":                  "type": "Idntie
+                    start": 215
+                     ed" 219,
+                   "l": {
+                      "tar":
+                       "line": 9,
+                          "column": 7
+                    },
+                   "end": {                      line": 19,
+                          "lumn":11
+                        }
+                   "denifierNae":"typ"
+                        },                  "nam": ype                    },
+                  aic:le                     "kind: "it",
+            "mehd" false,
+                    "valu": {
+                        "tye":"Strngitalypenottio",
+                      "sart": 221,
+                      "end": 4,
+                     "loc": 
+                      "s":{
+                          "ne": 19,
+                       "cmn: 13
+                          },
+                    "nd":                          "lne: 9                       "olumn 6
+                     }                       }                     "xtr:
+                         "rawValue": "",                       "raw \"\""
+                    },
+                       "valu:"
+                      ,                   "variace": null
+                 "optil":false                }                 ],
+                   "indexr": [],
+                "xac: fals             }
+                {
+                  "type": ObjcTypeAnnatio",
+                 "start"232,                "end" 243,
+               "oc" {
+                "star" {
+                   line": ,
+                  "column": 6
+                  ,                   d":{
+                 lie": 20,
+                   column":17
+                                   },
+                "alProerties: [,
+               "roperi": [
+               {
+                  "te": "OjctTyperoerty
+                   "stat" 233,
+                      "end": 24,                     "lc" {
+                   "start":{
+                       "line": 20,
+                       "column": 7
+                    },
+                  "e": {
+                         "ne": 20,
+                    "olum": 16                    }
+                 },
+                       ke" {
+                "type": Idntifier",
+                        "strt": 23
+               " 27,                       loc: 
+                   "start": 
+                       "ine": 20,                        olum":                      },
+                     n" 
+                          line" 20,
+                      "coun" 1
+                        },
+                    "ideniierNae: "type"
+                   },                     "name "ype"                     },
+                   "static": false,
+               "kin": "iit",
+                 "metod": false,
+                 "value": 
+                       ype: StrngLitealTypeAnnotation"
+                    "tat": 239,
+                        "end": 242,
+                    "oc": 
+                         stat":{
+                         "line" 20,
+                         "column" 13                      },                       end:{
+                          line":20,
+                         coln: 16
+                         }
+                     },
+                        "extra: {                    "raue: "B",                 raw": "\"B\""
+                        },
+               value: ""
+                     },                 "variance": null,
+                  "opiol": al
+                 }
+                ],                "idexes"[],
+                 "eact": false
+           }
+               ]
+            },
+          "variance": null,
+            "optonal": false
+          }
+         ],
+        nexes [,
+        "exc": fle
+      }
+        ],    "dirctives": 
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "am" "elint-confi-airbnb-b,
+ "version": "12.1.0",  "escritio": "Aibnb's base JSSLitconfi, followngour tylguide",
+  main: "index.js",
+  "scips" {
+  prelint" editocofigtools hck * rles/* test/*",
+    "int" "esint --rpor-unused-diabe-irectves .",
+   "tests-nly": "abel-ape-runner/testtest-*.js"
+   "preublh": "(in-instal || eslitnd-rule --nused)&&(not-i-plish|| npm test)& afe-publishlet",
+    "pretes" "npm ru--sil lin"  ts: "npm n -sentesony",   "prtravis:":"
+   trvi: npm run silen tt",
+   "psttavis": ":"
+ }, "epository": 
+   "typ": "git",
+    ul": "htps//ithub.coarbnb/javascrp"
+  }
+"keywords": [
+  "esint,
+    "lintcnfig"
+   "cng"
+ "rbnb"
+   "javascript",    "styguide"
+  ], "auo: "Jakeet-ands (https://wtte.om/@jtl)
+ "contrbuos" 
+    
+     "nme" "JkeTen-Ladis"
+    "l": "ttps://titer.co/jitl"
+   },    {
+     nme":"Jordan Harband,
+     "eail: "ljharb@gmailcom,
+      "url": "htp://ljrb.odes"   },
+   {
+     "am" "arrson Shoff",      "ur: https:/twttr.com/hff"
+  }
+ ],
+ "icense": MT",
+"bugs": {
+   "url":"hts://githb.com/airb/jascritisses"
+  },
+ "homepage" "https:gthub.com/arbnb/javasrit", "devepnencies": {
+   "abelpreset-arbb": "^24.0",
+   "babel-tpe-runne" "2.0.1"
+ ditorcnfig-toos":"^0.1.1",
+    "esli" "^48.1",
+    eslt-fin-rue": "^3.2.0",   "eslin-plugin-imrt": "^2.90"
+   "n-pbish": "^2.0.0,    safe-publish-latst" ".1",
+    tape":"^4.90
+},  peerDpendeies" {
+   "elint":"^4.18.1",
+   "elintpluin-import":"^.9.0"
+  },
+ "nes": {"node":">= 4
+ 
+  "deendencies":{
+   "eslint-resictd-lobals": "^0..1"
+  }
+}

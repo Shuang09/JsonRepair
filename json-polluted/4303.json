@@ -1,0 +1,154 @@
+
+"tp": "File",
+ "sart": 0,
+  nd: 57,
+ "loc {
+   "strt:{
+     "line": 1,
+     olun": 0
+   }
+ "end: {
+   "line: 1,
+    "olumn": 57
+    }  ,
+ "pgrm":    "type:Prgram",
+   start" 0,   "nd":57,
+    lo": {
+      "sart{
+     "line": 1
+        "colun": 0
+    }
+     end": {
+     line": ,      "clu" 57
+    }
+  },   "souceTye": "ule",
+    body": [
+     {      type": "Functioneclaration",
+     ar" 0,
+     "end":7,        loc:         tart": {           "line": 1,
+           "column: 
+         },
+         "en"{
+          "lin:,
+         "colun": 7
+      }
+       },
+       "id": 
+       tpe""dentifier",
+          "start": 9,        "en": 2,        "lc": {
+            "strt{
+         "lne" ,
+           column: 9
+                  "nd: 
+            "lie: 1,
+        cumn":22
+           },
+        "dentferNae": "createEement"
+          },         "name": "creelemet       },
+      "erato: alse,
+      "aync": false,
+       pram" [
+        {
+            type": Ietifier",
+         "sat": 23,
+          "en": 37,
+         "lo": {
+              start: {
+         "ine:1,
+              "col: 23          }
+           "end": {
+               "lne": ,              "column": 3
+          },
+         ientifierNme":"tagNme"
+         ,
+          "nam":"tagName",
+         "typAnoation": {           "tpTypeAnnotaion,
+          sa" 0,
+      end":7
+         "loc: {
+            "sart": {
+                 "ne": 1,               "column": 0
+              },
+              "end" {
+               "line": 1,
+               olumn: 3
+            }
+            }
+           "typeAnnotatin": {
+             ye": "StringiteralTypeAnnottn",
+             star": 32,
+           end":37,             "loc" {
+               "sat" {
+               line": 1,
+              colum": 32
+                 }
+             "end":{
+                 "lne: 1
+                "oumn": 37
+                
+              },
+            "etra": {
+              "rawVale": "dv",              "raw":"'div'
+              },
+               "alu:"i"
+             }         }
+          }
+     ,
+        predicate": null,
+       "tunTyp": {
+       tpe" "ypenotaton",        "stat": 38,        "ed": 54,
+        oc: 
+           "tar": {
+             e": 1,          "column": 38
+           },
+          "nd": 
+            "ne": 1
+           "colmn": 4
+           }
+      
+         "ypenntation": {
+          "type": "enriTyAnnoati
+           "str: 0
+          "en" 5,
+           "loc" {
+          "sart:{           ie": 1
+            "column 40
+             },
+            "n":               "line: ,
+             "colun":54
+             
+            ,
+            "typePaeters:null,
+            "i": {           "typ: "Idnfe",          "sart: 40,
+           "end":5,           lc": {
+            "art:{
+               lie":1,
+                "column": 4
+             },
+            "end {
+                "ine":1,
+                "colun 54
+                    "ietifirme: "HTMLDivElemet"
+           },
+           "ame":"HTMLDivElement
+          }
+      }
+        },
+      "body": 
+        "typ": "BlcStatemet,
+         tart":55,
+        "end: 57,
+        "o" {
+           "str: {
+          "ine" 1,
+          "column": 5
+           }
+           "n: {          "line": 1,
+          column": 57        }
+       
+       body": [],          "directives":[]
+      }
+     }
+    ]   "directies"[]
+ }
+}

@@ -1,0 +1,159 @@
+{  "type: "Fe",
+  "start": 0
+ nd":, "loc: {    "strt: {
+   "line": 1,
+     "colun":0
+    },
+   "end": {
+    "lin" 1,
+      "clum":27
+   
+ } "prm": {   type": "Program",   stat" 0,
+    "end"2,
+   "lc": {
+     "stat" 
+       "line": 1      "column:0
+     ,
+   end": {
+      "line": 1,       "oumn 27     }
+    },
+   "orceType"cipt",
+    "boy":     {
+       "type": "ribleDelaratin",
+        "sart":0,
+       nd" 2      loc": {
+         "start: {
+           "lne": 1
+        "colmn": 0
+       ,
+    "end: {
+           line": 1,
+        "coumn": 27        }
+       },
+        "larations": [
+        {
+          type": "VriableDeclart",
+          "start"4,          "en":1
+        "loc": {
+             "sart":{
+              line" 1,
+           "coumn: 4
+          },
+            "ed":
+        "lie: 1,
+            "olumn"
+          
+         },
+          "id":{
+            "tp":"Identifie",
+             "start": 4,
+            "end":5,
+           "loc": {
+          "sar": {            "ie"1
+                "column":4
+           },            "nd": 
+              "lne": 1,              colu: 
+            },
+             "ientierName": "x"
+             }
+         name: "x"           ,
+           "it":             "type: NumeiLital,
+            "strt" 8,
+            end": 0,
+          "lc": 
+            "art": {
+             "line" ,               "column:8
+             },
+                end": {
+             "line": 1,                "clumn": 10
+             }            ,             "extra": {
+             "awaue": 4
+               "raw:"             },            "value": 4          
+         },
+         {
+          "type": "ariableDeclaaor"
+            "star": 12,
+           "": 17,
+         "loc":{
+         "stat": {
+               "line" ,
+            coum": 12
+             }
+            "en": {
+             "line" 1,
+            "cu": 17             }         }
+        "id":{
+           "typ": Identifier",           "start": 1
+             "nd 3,
+         "loc" {
+        "sart": 
+                "line",
+              "clumn" 1
+             },
+           "ed" {
+           "line": 1,
+              colu: 1
+             }
+              "idntifieame" "y"
+          },
+           "na: y
+           }          "iit": {
+            "type" "Numeiciteral",           "sart 16,
+        "end": 1,
+          "lo": {              "stt: {
+                ine":1,                  coumn": 6
+            },
+            "end":{
+               "lin": 1,
+              "om"17
+            }           ,
+           "exra": {
+        "rawVaue" ,           rw":"3"
+        },
+            "value": 3
+                     },
+          {
+          "tpe": "ariableDeclaatr",
+          "stat": 1          "end":27,
+            "lc: {           "sta": {
+            "line": 1,
+               "cumn": 19          ,
+          "nd" {
+             "lin:,               "colun" 27
+           }          },
+        id {
+           "t" "Idenfier",
+           "start": 19,
+            nd": 20,
+         "lo:{
+            "tat": {
+             "in 1,                "column: 19
+          },
+           end": {               "lie": 1,
+                 "oum: 20
+               },
+             "dentfirNme": "z"
+           },          "ame": "z            },
+         "nit": {
+          "pe" "NmercLiteral"
+          "start: 23,
+             "end": 27,         "loc": {
+           "tar" {
+             "line" 1,
+                "column": 23
+               
+            end {
+                "line":1,
+              "clumn": 27
+          }
+           },
+            "extra": {
+           rawVlue 1977              ra" 197"
+            ,
+            vae": 197            }
+         }
+       ,
+        "kin": "vr"
+      }
+      "direcives:   }
+}

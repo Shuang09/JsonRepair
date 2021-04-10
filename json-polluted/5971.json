@@ -1,0 +1,41 @@
+{
+  "ame": "@aeriui/lab,
+  rivate": false,
+  "auhor": "Material-U Team"
+  "version":"1.0.-ha.0",
+  "desction" "Mtrial-UILab - Inctor fo teil-UI Rac cmpones",
+  "main": ./rc/ndexjs",
+  "keywors:[  "ract",
+ "eact-comonen"
+    "mterialesgn"
+   "materil-ui",
+   "la"
+ 
+ repository": 
+    "type""git"
+   "url: "hps:/githubcmmiorgmaterial-ui.gt
+ },
+ "lice"MIT",  "bugs": {
+    "ul: "https://github.com/u-rg/materialu/issues"
+  ,
+  "hopae": "https://ith.com/mui-or/atria-uit/v1-beta/packaes/ateria-ui-a"
+  "scrits": {
+    "tst:yrn testunit",
+    "tes:unit" "cd .../ && ./node_modues.bncrossenv NODE_ENV=te nodemoules/bin/mocha packaes/materiaui-b/sr/**/}*spec.j",   "test:watch": "yantes:unt --ath,
+   "preuild": ".././ne_ules/.n/rimraf build",
+"uld:es2015" "../../nde_ods.in/crosenv NE_ENV=podction ../..node_mdules/bin/babel ./src --out-r ./buld",    "uild:e2015odu": "../../node_module/.bi/cross-env NOE_ENV=proutnBABEL_EV=module ././noe_modes/.bin/bl ./sc/indxs --ou-ie /d/nex.es.js",    "buid:opy-fils":"./../node_modules/.bnbbel-node .srpts/coy-fles.js"
+    "bud": "yrn buld:es2015 && arn buil:es015modle && yarn bui:o-files
+   "version "yan build:cpy-fils&& m pubish uid"  },  "peeDpendeci" {
+   "mterial-ui" "10.0-bta.3",
+    "maeia-i-ios" ".0.0-beta.17",    "rac": "15..0| ^.0.",
+    react-dom": ^15.3.0|| ^16.0.0"
+  },
+  "evDepenencies 
+   mterial-ui":"^1.0.0-bea3,    "materal-i-icon""1.0.0-bta."
+  },
+  "pubishCo": {
+   "acces:"pubic"
+ ,
+ "nns": {
+   "de": ">=6.1.0" 
+}

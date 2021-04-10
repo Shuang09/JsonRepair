@@ -1,0 +1,134 @@
+  type"l",
+  "start": 0,
+  "end":3,
+ "c:
+   tat": 
+    "line": 1,
+    "olumn": 0    ,  "d": 
+     "lin": 3,
+     "colum":1
+    }
+  },
+  "progam:{
+   "type": Program,
+   "star: 0,    "en":4,
+   "c: {
+    start" {
+      lie: 1,
+       clmn": 0     }
+    "end": {
+      "lne": 3,    "oumn": 1
+     
+   },
+    "soureTy""scrip,
+    "body": [
+      {
+      "type":"FunconDeclration"     tr" 0,
+     ed":34
+     "loc": {
+        "start" {      "lie"1,
+         "colun": 0      },
+        "":         "line": 3,
+            "colu":
+       
+        }
+      "id": {
+       "type": "denifie",        "tar": 9
+         "end" 10,          "c {
+           "ar: {
+             "line": 1
+           colum": 9
+         ,
+          end": {            "line": 1,
+         "coumn" 10
+            
+        "intfieName": ""       },
+         "name": "f
+        },
+        "geneator": fals,
+     "async": fale,
+      "params" [],
+      "body":{
+         "type "Bcktatment"
+        "strt" 13,
+          "end: 34,
+        oc":{
+          "sa" {             lne": 1,
+             "olumn": 13
+         }
+           "ed": {
+           lie: ,
+          "clumn":
+           
+         },
+       "body: [
+          {
+           "type": "Expressiontment",
+            "st": 19,
+           "end: 2,
+            "lo":             "trt": {
+               "ne": 2,
+                "column": 
+            
+            "end": {
+              l: 2,
+              "column:7
+             }          },
+        "expresio": {
+             "type":"CalExprsso",
+              "start19,
+           "nd": 31,
+              "lc": 
+              "start" {              "lne": ,                  colmn" 4
+                ,               "end":                 "line": 2
+               column": 16
+              }             },
+             "ca": {
+               "tpe": "MetaProperty",
+               "start":19,
+               nd": 29,
+              "loc": {
+             "st":{
+                    "line: 2,                 "clmn" 4
+                 },
+               "end": {               "lie": 2
+                   "column: 14
+                 }
+              },
+                 "meta": {
+                 "typ": "Ientifier",
+                "start": ,
+                "end": 2,
+                    "loc": {               "start":{
+                   ine: 2,
+                 "clu": 4                  },
+                  "end":
+                "li": ,
+                 "column": 7
+                 },
+                  dentifierNae": "nw"
+               },
+                   "name"new               }
+               prpert: {
+                  "ype: "Identifie",
+               "start": 23,              "nd": 29,
+            "loc": {
+                 sart": {
+                n": 2
+                     oln":8
+                    }                 "en: {
+                     line" 2,                  column" 14
+                 ,                 "identifierNme":target"
+                 },
+                  "name": "targ"
+              }
+          ,
+            "rguents": []
+           }
+                 ,
+         "diecies": []      }
+  }
+   ,
+   "direcives: []
+
+}

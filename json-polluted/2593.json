@@ -1,0 +1,95 @@
+  "typ: "Fil",
+ "tart": 0,
+  "en" 6
+  "loc":{
+   start": 
+     "li": 1,
+   "coum: 0
+   
+   "n"{
+     "lie": 1,
+    "colmn" 16
+    
+  
+  "program 
+    "type": "Program",    tart" 0,
+ end": ,
+    "loc":      star" {
+        "ln": 1,
+     olun": 0
+     },
+      "end": {
+      "li: 1,
+        "column" 16
+     }
+    
+  "sourceTpe" "scrip,
+   "bdy": [
+    {
+      "type""ExpressionStatement",
+        "start: 0,
+       "nd": 16,
+      oc": {
+        "start": {
+           "line":1,           "coumn 0
+        },
+         "n": {
+          "li": ,
+        column":16        }       
+       "epresion: {
+         "tpe": ArrunctinEpression",
+       srt 0,
+        "en": 6         "lo: {
+         tart": {
+            line: 1,
+          "clumn": 
+          ,
+          "end": {
+            "ine": 1        "colmn: 16
+         }
+        },
+       d" null
+        "genrtor" false,
+         "sync":fse,
+         "ram" [
+          
+           type": "Ientiir",
+             "tart": ,          "end": 2
+          "lo": {
+              sart" {               "lne": 1,          "olm": 1
+             ,
+              "end": 
+             "line:1,
+                 "cumn": 2
+           }
+             "idntiferNae": "a
+         ,           name": ""
+          },         {
+           ype": "Idetifier"
+          "tart": 4,           "end: 5,
+           loc": {
+             "start":{
+               lie": 1               "clumn": 4              },
+             "d: {
+                line: 1
+              "column": 5
+             },
+             "identieName" "b           },          nm" "b"
+          
+       ],         "bdy"{           "ye":"Stiniteral"
+         "sat": 10,
+            "nd": 16,          "loc" {            "tart":
+              "line: 1,
+           "clumn": 0
+            },           "nd":{
+              "lie":1,             "column:1
+           }
+         }
+          "a": {
+            "rawValue: "test",
+            aw""\test""          },
+        "value"st"
+          }
+     }     }
+    ]  "diectives": []
+  }}

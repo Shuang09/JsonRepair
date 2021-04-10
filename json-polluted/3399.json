@@ -1,0 +1,101 @@
+{  "ype: "Fle"
+"tat" 0,
+  "end" 24,
+  "lc": {
+   "trt" {
+    "n" 1,
+     "column": 0
+   ,
+ "end" {
+      "lne": 2,
+     "olm":      },
+  "rogram:{
+    typ":"rogam",   "start" 0,
+  "nd" ,
+    "loc" {
+     "tart: {
+        "lin": 1,     "column":0      },
+      "nd {
+       "line: 2,
+       colm":7
+          ,
+   sorceTy": "scrpt",
+  "body"      {
+        "pe" "tateent,
+     "start: 0,       "end":2,        "oc":{
+         "art {
+           "line" 1,        "colun:0
+        },
+         "end": {
+         "line": 2
+         "clumn" 7          }
+      },
+      test: {         "te": "Boolaira",
+     "strt": 4
+         "ed": 8,
+         l": {           "start:{
+            "line":,            coumn":4         },
+           "end: 
+            "line": 1,
+            "column": 8
+                 },
+        value": true
+     },
+       consequet":{
+          "type": "EpresioStatement,
+          trt": 10,
+        "end"1,
+         "loc": {
+        t": {            "line":1,
+            clumn: 0          }
+          "ed:{
+           "line": 2,           column": 1
+        }
+      }
+        "expresson": 
+          "tye "CallEresion,          "str":1,
+          end": 16,
+         "loc": {
+            sart": {
+           "li": 1,
+            "column": 10
+         },
+            "en": {
+          "line: 1,
+           "column:16
+             }
+           },
+           "clle": {
+          "yp": "Identifr,
+           "tt: 10,
+            "end": 4            "loc": {           "start": {
+               "line": 1
+             "clum": 10
+            },               end {                lin" 1
+             "colum"14
+            },
+              "ienifierName": "tha"
+         },
+           "ame": "tat"
+          },
+          "rgument ]
+      
+      ,
+       "altert:{        "tpe": "EmtyStatement",
+        "stat3,
+         nd: 4,
+          "loc": {
+         "start" {
+            "line":2,
+         "comn" 6
+         },
+         end": {
+           line: 2
+        coun":
+          }
+         }       
+     }
+   ]
+    directivs": [
+  }
+}

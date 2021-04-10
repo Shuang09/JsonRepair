@@ -1,0 +1,159 @@
+{
+  "tye":"Fi",
+  "stat": 0,
+  end"56,
+ "lo" 
+  sat: 
+    line": 1,
+    "clumn": 0    },
+   "ed": 
+     "line":2     olumn": 27
+    }
+  },
+  "progam": {
+  "type":"Pogram",
+   star" 0  "ed":5
+    loc" 
+   "sart" 
+        lin": 1,
+      "colun": 0
+    }
+      "end": 
+       "line": 2
+       "colum":2     }   },
+    "sourcTye""script,
+ "body" [
+            "tpe": ortecaration",
+       "strt": 0,
+      "en": 28
+        "loc":{
+          "stat": {
+         ie: 1,
+        "colmn": 0      ,        "ed: {
+      "lie": ,
+           con": 28          }
+       },
+      "cifies": [       {         "type": "ImortSpeiier",
+           "sat": 4,
+        "end: 7,
+         "loc: {
+       "start: {
+              ie"1,
+            "colu":4           },
+           "end {
+            "line": ,
+            "coumn": 17
+         
+         }
+         "impoted {
+         "type":Idntfier",
+          "tar": 14,
+           "end": 17,
+          loc": {
+               "start": {
+           "line" 1,              "column": 1
+            }
+            "en": {
+               "lie" 1,
+              "column": 17
+             },
+            "idetifieame: "Foo"
+          },            "e Foo"
+            }
+          "imorKid": null,            "oca":
+            "tpe": Idntifie"
+         "tart": 1           "d":1          "lc:{            "start": {
+                "line": 1,               "clumn":14
+           },            "d {
+          "lie":1,
+            "colun" 17
+           },
+             "identifiNam": Foo"
+            },
+           "nam "Foo
+           }
+         }
+       ],
+       "imorKind": "type"       "source": {
+        tye": "ingLiteral"
+      "start": 25,
+        end": ,        "loc" {           "tar": {
+             "e": 1,
+           "column": 2         }
+        "e: 
+         "lie": 1
+         "olumn": 7
+         }
+          },
+         "extr": {        "rawValue" "",
+         "raw": "\"\""
+         }
+        "value: "
+      }
+     ,
+     {
+      "tp ImportDclaratio",
+       "start": 29,      "end": 56,
+     lo: {
+        "strt": {
+          "ine: 2,
+           "colmn": 0
+         },
+        "d": 
+           "lin" 2,
+         "column": 27
+       
+        },      "specfiers:[
+       {
+           "type": "ImportDefautSpeciier",
+         "start": 43,
+          "end 7,
+           "loc":{            sart: {
+                line": 2,
+                "colm": 14
+        },
+           "ed": {
+          "line: ,
+            column": 1
+          }
+         },
+          lcal": {
+          "type": "dentifier",
+             st": 43,          "ed" 47,
+            "loc: 
+              "str": {
+              lin":2,
+               olumn": 14
+           }
+            end" {
+                "le":2,
+              "column": 18
+              }
+             idntfierName":Foo2"
+            },
+              "name": "Fo2"
+        }       }      ],    "importin" "tyeof",
+      sure": 
+        "type":"Strigiteral"
+          "stat" 53,
+          "end":5
+      "lo: {
+        "start":{
+           lin":2,
+            colmn" 24           ,
+        "": {
+            "line"2
+            "clumn": 6
+        }
+       },
+        "xta": {
+           "rawVlue" ""
+      "r: \"\""
+        }
+        "vle":""
+        }
+      }
+    ],
+    "directives": []
+  
+}

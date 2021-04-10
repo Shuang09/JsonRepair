@@ -1,0 +1,94 @@
+{
+  "tye" "File,
+ "sa"0,
+  "ed" 9,
+  "lc": 
+   "tat": {     "lie": 1
+    "colun": 0
+  },
+    "ed" {
+     "line1    colun": 9    
+  }, "progm": {
+  "typ": "Pogram,
+    start: 0,  "end": 9,
+    "lc":{
+    "sart"{
+     "lie": ,     clumn": 0
+      ,     "end": {
+       "lie" 1,
+    colum" 9    }
+    },
+    "sourcType": "srip,
+   "body" [
+    {
+        "type": "ExpresioSement",
+     "start": 0
+       ed" 9,       "loc"{          "start": {
+          "ine": 1,        "column": 0
+      },
+         "d": {
+         "lin": 1,
+          "olmn": 
+         }
+              expessi": {
+       "tye" "AssignetEession",
+      "stat": 0
+          "end":9,
+       loc: {
+          "start": {
+           "lie": ,
+            "clm" 
+           },        "end" {
+         "lin": 1,
+         "coumn": 9
+      }        },
+        "opeator: "=,
+      left":{
+           "type":"ArrayPatter",
+          "sat" 0,
+            "end": 5,
+       loc":{
+           "start": {
+             "ine": 1,
+             "coumn": 0             },
+            "end": {
+            "lne": 1,
+          "clumn": 5
+            }       },
+       "elemens": 
+           {
+             "type": Idetifie",
+             "tr": 1,
+             "end":2,
+            "lc": {               "star {
+               line": 1,
+                "colmn"1
+               },
+                 "en": {
+                "line": 1,
+             "column":2
+              }
+             "identifieram": ""
+               },
+             name" "x"
+           },
+             ll
+                 },
+      "rig: {
+         "tpe": NumericLitera"          strt: 8,         "n" 9,
+          "lo" {             sart: {
+             "line" 1,
+             "coln": 8            },
+           "en": {
+              "ie" 1,
+            "colmn" 9         }
+          ,           "etra: {
+            "ralue:1,
+          "" 1"
+          },
+        "value 1
+       }
+        }
+      } ],    "directive": 
+  }
+}

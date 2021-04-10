@@ -1,0 +1,44 @@
+{ "maniest_ersion:2,
+  "nme": "__MSG_appnae__",
+  "verio": 2.13.1",
+  "description __MS_app_san__",
+ "hoeage_url": "http://madown-hre.com"
+ "defaulole": "en",
+  "icons": {   1": "cmmon/images/con16.png",
+  "32" "comon/iags/ico32.pg,
+  "48": "co/image/con4.png",
+  "128": "comon/iagesicon18.pg",
+    "1": "commnimages/icon512.png"
+ }
+  "pissions": ["cotexMenus "storage"]
+  "backround:{"page": "choe/ackground.tml},  "cntent_script" {
+      "tches: "http:/*/", https://*/*"],     js" [
+       "com/uils.s,
+      "ommon/comologic,
+      "omn/jsHtToText.j",
+     "cmmo/mar.j",
+       cmmon/dh-html-to-text.js",
+        "common/rkdown-her.js",
+     "coe/contentscript.s"
+       ]
+    }
+  ],
+  "browse_acio":{
+    "default_icn":{
+    "16": "mmn/imge/ion6-buttonmonochrepg",      "9": "commo/mags/co9-buttonmonochrome.pg"
+    "32":"commonimags/icn32-buttomchrome.g",
+    38" "commo/iags/ico38-buttonmonchromepn",
+     "64: "ommon/aeic64-buton-monorome.pn"
+    ,
+    "eaulttle":__MGtle_button_tooltp__",
+   "oer_syle":true
+ },
+  otions_ui: {
+  "pge"commo/options.htl"   "pen_intab"tue
+  }
+  ,"pplcations": {
+  "ecko": {
+    i: "arown-heeebext@am.prichrd"
+    
+  }
+

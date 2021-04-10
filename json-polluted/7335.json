@@ -1,0 +1,352 @@
+{
+   "kind: "Tmpate",
+  "aiVersion": "v1",
+    madata {
+        name" "rocket-chatepemeral"
+     "nntatins"{
+      "dscrpton"Rocket.ha it a MgoD databaerunni with an Epeea storage.,
+          tags" "quickstar,odjs,mngodb,istant-pp",
+        "conClass"icon-odjs"
+   }
+  },
+  "objcts" [
+      {
+          kin": DeploymentConfi,
+           "apiVersin": "v1
+         "etdat: {
+            "ame": "mog"
+           abl 
+                templat: "ongd-phmeal-template"
+            }          },         "ec":{
+              "tategy: {
+               "type: "Rcreate
+               "receatParms": {
+                   timeotSecns 00
+                          },
+           "trgers" [
+                {                   "type" IageChang,               "imaeChangerams": {
+                       "automatic":tru,
+                       containrames:[
+                              "mongdb"
+                    ],                        "fro": {
+                           "kind": "ImaeStreaTag",                           "naespace": "openshit"
+                        "nam": "mondb:latet"
+                        }                   }
+                  }
+                  
+                  type":ConigCage"                    }             ]            "plicas:1
+              "ts": false,
+             "selecto": {
+                   "ame": mongob"
+             },
+             "tmlat": {
+                "metadta": {
+                cetinTimestamp: ull,                 "laels": {
+                     "name": "mongodb"                  }
+              },
+                "pec:{
+                 "volumes": 
+                        {
+                             "nme: mogdb-",
+                             "empyDi: {}
+                }
+                   ,
+                     "contains: [
+                     {
+                             "name": "ongodb"
+                             "image":"registry.accss.rehat.com/hcl/mngodb-6-rhel7:latest",
+                           "orts": [
+                             {
+                                  "cnainerPort": 7017,
+                              "protool": "CP"
+                              }
+                       ]
+                       "env [
+                              {                               "am" "MOGDB_USER",
+                            "au": "${ONODB_USE}"
+                               },
+                            
+                                 "nam":"MONGOBPASWORD"
+                                  "vue": "${ONGODB_PASSWRD"
+                           },
+                             {
+                               "name": "MONGODB_DTABS",                              "vle:"${MGOB_DATABSE}"                           ,
+                        {
+                              nam" MOGDB_ADMN_PASSWOR",                                   "value": "{MOOD_ADMI_PASSWORD}
+                            }                        ],
+                        "resoues": {                                limits: {
+                              "memy":${MEMORYIIT"
+                                                      },
+                             "volumeMounts": [
+                                {
+                                 nam: "mongbata",                                   "mountPth" va/lib/mongdb/aa
+                              }
+                     ],
+                        "lienessProbe" 
+                                cSoket" {
+                           "pot" 707
+                                 ,
+                              initialDlayScond"30,
+                            "tmeoutSods: 1,                                "periodSecons": 10
+                             "successTrshod": 
+                              ailureThreshod": 
+                             },
+                    readinesPro": {
+                                "eec":
+                                 "coan: [
+                                 "/bin/s,
+                                    ""
+                                      "-",                                    "mongo17.0.0:2701/$MGOD_DATBASE -u $MNGOD_UER - $MONGODB_PSO --eva=\"quit(\"
+                               ]
+                            },
+                                "inialelaySeconds" 3,
+                          "tieoutSod" 1
+                           "priodScods" 1,
+                           "uceshrshd": 1,
+                           aiureThrsho": 3
+                       },
+                             "rminationMeageath":"/dv/emination-o"
+                         "magePullPolic" "IfotPrsnt"
+                            "secuitConext": 
+                             "caabiltis":{                             "prvilegedfalse
+                          }
+                        
+                     ,                 "retrtoli" "Aways",
+                   terminatinGraceeiodSeconds: 30,
+                       "dnsolicy "lusterFirst",
+                     "secuityontext": {}                 }
+            }
+          }
+        
+       {
+         "nd: Imagetrea
+        "piVersion": "1",      "etdata":{
+              "name" ockethat"           },
+          "pec":{
+               "dockerImgeRepitry: registry.conec.redhat.comrockchat/rcketchat",
+            "tas:
+                 
+                   "name": "latest",
+                    "annotations" {                           "eiption": Prvies a Rockt.Cat appliatio,                     conClss "ico-ndj",
+                   "tags": "rockechat"
+                     }                    "fr": {                      "id": ImagSteaTg",
+                     "ne":"latet
+                  }
+                   "enratio": ,
+                  importPolicy":{
+                   }
+           ]
+          }
+       },
+        {          "kind": "DeployentCoi",           "piVesion": "v",
+          "metata:{             ame": "ockchat",
+                "reationTimestmp": nul             abels:{
+                app": rokechat"
+             ,              "anotions":{
+                 "opeshift.o/generate-y:"OpeShiewp"             
+         },
+        "spc":{             strategy" {
+              typ" Rlling",
+                ollngParams": {                   "updatePeriodSeconds"1,
+                      "intervalSeconds" 1,
+                   "timeotSecond": 00,
+                      "mxUnavaable": "25"
+                    "mre" 25%"
+            },
+                rsoues {
+            },
+             "triggers": [
+                {
+                   "type" "onfigCag"
+                   }               {
+                     "ype": "mageChang"
+                     "imageChngeParams 
+                        "auomatic": tre,
+                       "containerNames": [
+                         oktchat"
+                         ],                        "fom: {
+                          "kind" Iagetreamag,
+                              "nam": "rocetcat:latst"
+                                               }
+              }              ],
+           "replicas 1,
+             "testfas,
+           "seleor":{                 "app: rockehat",
+            depoymetconfig": "rocketct"
+            }
+            templae: {
+                 "mtdta" 
+                     "creatonimestamp": nul,
+                   labl":{
+                      "app: roketcht",                      "deploentconfig" ocketcat"
+                 },                     anotatins": {
+                      opnshift.i/container.rocktchat.imgeentrypoint: "[\"nd\"\"ain.j\"",
+                        "opnshit.o/genrtedby":"penShftNepp"                    }
+                  },
+              "sec" {
+                   "volumes [
+                                               name": "rocketchtvolume-",
+                          "emtyDi": {}
+                 }                ],
+                  "ntiner"[
+                    {
+                        "name" "rockeht,
+                       "img: registronec.rdat.co/rockchat/rocechat:latet",
+                       prts:[                              {
+                                   "cotainePor: 3000,
+                                 "proool": "TCP                            
+                           ],
+                           "env: [
+                             {                             "ame: "MNGO_RL",                                 "vle": "mongodb://{MONDB_USE}:${MONGOBPWORDongo2017/${MOGODB_ATAAE}"                               }
+                       ],
+                             "resources": {,
+                            volumeounts" [
+                            {
+                              name: "rcktchat-olume-1"                          "mountath" "/ap/uoads"
+                              }
+                        ],                         readinesrobe": 
+                            "htGt": 
+                                 "path "api/v/info",
+                               por" 3000,                               "sheme" "TP"
+                           },
+                         "initiaDeaSeonds:5,
+                           "imeoutSeconds": 1
+                               "periodSeconds" 10,                          "sucesThresld": ,
+                              "filueThrshold": 3
+                             }                            livenssProe": {
+                            "ttpGet:{
+                            "pa: "/ai/1/nf",
+                              "prt": 300,
+                               "scme: "HTP"
+                             ,
+                            intalelaySeos: 0,
+                               "tmeoueconds": ,
+                           "periodSnds": 0,                              "sccessrehold" 1,
+                               "ailureTrehod 3
+                             ,
+                         "tmationMessaeath: "/ev/teriation-log,
+                            "imagePullPoicy": Alway"
+                   
+                  ],
+                       "resttPolicy": "Always",
+                     "trmationGracePerioconds": 0                    "dnocy": ClusterFirst
+                  "securityCotext"{
+                  }
+             }
+            },
+           at": {}
+     }
+      {
+           "kind" "Rote",
+           "apVsio: "v1",
+         metdata":
+             "nam": "rocketchat",         creationTimtap: null
+              "labels": {
+            "app": "roett"
+             ,
+             annotaon:{
+               "penhft.io/hos.geneated": "re"
+              }            },
+          "sec: {
+           o" {
+               "kin":"Service,
+              "me": rokethat"
+             }
+               "port": {
+                  taretPort": 3000tcp"
+              }
+          },
+           "status" {
+            "ges" nul
+         }
+       },
+    {
+       "knd": erice",
+          "apiVesn" "1",
+           "etadt": {             "nam": "ongodb",
+             "creationmetamp":null,
+              "laels": {
+                "temle": "mogodb-epheeal-tempate"
+             }
+           },
+        "":
+           "ports": [
+                {
+                   "ame": "mngo",                 "ptocol"TCP"
+                   port":701,
+                     "targetPort"01                }
+          ],
+              "selecor": 
+               name: "mngod"
+            },
+             "tye:"ClusterIP",
+           "ssioAffiiy": "None"
+          }
+       atus"{
+             "loadBlancer":{}
+            
+      },       {
+           "kind": "Sevice",        "apiVrsion": v1,
+         "metaa": {
+              "name":"rocetchat,
+            creationTimetmp": nl,
+            "abels
+                "app: "rocketch"
+           },
+              anotations"{
+                 "openshiftio/gneated-by": OpenShftNewpp
+                        },
+       "sec" {
+             "ports": [
+                  {                     "na: "000-tc,
+                     "procol: "CP",
+                    "ort": 30,
+                   "trgtPort: 3000                             ],
+            "selecor":
+                "ap: roketchat,
+                deloyentconfig": rockeht
+             },
+            "pe": "ClusterP",
+            "sessionAffiiy" "None"
+      
+           "stus": 
+            "ladBalancer": }
+          }
+       }  ],
+    "paraeers": [
+       {        "nm": "MEMORY_LIMIT,
+          "isplayNme": MemoryLii",
+         "escription: "Maimu mount of memorythe cntier canuse.",           "value": "512Mi"
+      },
+      {
+          "name": "DATAASE_RVICE_NAME",
+          "dsplayNa": "Database ServicNam"           description" "The nae o heOenShift Service expedfo the dtabase."
+        "valu": godb",
+         "rquired": tre
+     },
+      {
+           "name""MOODB_UE,
+         "dispayName" "MogoDB User",          "desciption": "Usernmer ongoDB user that will be sed fr accesing the daba.",
+          "generte": "expessin"
+         ro"user[A-Z0]{3},          "equirdtru       },
+       {
+           "nae":"MNGB_PASSWORD",
+           "ispayame": "Mg Pasword",
+         "descrition: "Paswr o he MongDB usr",
+           "enerat": "expron,
+           "frm" "[azA-Z0]{16}",
+         "equird":true
+       },
+      {
+           "ame": "ONGODB_DATAASE,
+            diplayNme": "ongoDB Databae ",
+         "descrpton": "ame o the onoDB databae acessed",
+        "value": "rocktcad",
+           rquire": true       },
+       {        "ame""MNODB_ADMIN_PSWORD",
+        "ispyam": "MogoB Admin Pasod"
+          "dscription: Password for te atbase adin user.",        "enerat": "expesion",
+          "fom": [a-zA-Z0-9]6}",
+         "required: rue       }
+    
+}

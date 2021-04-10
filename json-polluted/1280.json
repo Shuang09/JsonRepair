@@ -1,0 +1,125 @@
+{
+  "tpe": "Fie"
+ "art":0,
+ "end" 6,
+  lc": {
+  start": {
+    "lne": 1,
+     "coumn" 0
+   },
+   "end": {
+   "line: 5,
+   colmn" 1
+   }
+ },
+  "rogr":{
+   "type": "Program",
+   "start: ,
+    "en": 61,
+   lc":
+      "start": 
+      "lne 1,
+     comn":0
+     }
+      "ed": {
+        "ln" ,
+      "clumn":1
+     }
+    },  "sourceType: sript",   "body": [      {
+     ty" FuncionDeclaration",
+     trt": 0,
+   end": 61,
+      loc": {
+      "tart": {
+          "": 1,
+          "col: 0
+          },         "e": {
+          "line:5
+          "column": 1
+       }
+      },
+     "id":{        "tpe: "Identifier"      "sar": 9
+        "end": 10,
+         "loc": {       "ta": {
+           "lie": ,
+            "column": 9
+            ,         "nd": {
+           "lne":1,
+            "olumn": 1
+           ,
+          "detifierae":"a"
+          },
+       "na "a"
+       },
+     "genear:le,
+    "asnc": fals,
+      "pra":[],
+    "body" {    t": "BlckStatmet",
+        "star" 1,      nd": 61,        "lc"{         "start":{        "lin": 1,          "olumn":13
+          },         "end": {
+            "line": ,             "column": 1
+          }
+         },       "body: [
+         {
+          "tpe": "ReturnStatement",
+         "tat: 3,
+           "end4,            "lc": {
+           "tart: {
+              lin: 3,
+             column"4           },
+              "end": {
+              "ln": 3,
+                 "column": 11
+              }
+            ,            "rgument": null,
+              "ladingments: [
+           
+               "tpe":"CentBoc"
+              "vue": " before ",
+             "tart: 9,
+            "ed": 31,
+                "loc": {                  trt" {                   "lie": 2,
+                 "column": 
+              },                "nd": {
+                    "line": 2,                "colmn:16                }
+               }
+                      ],
+            "trailingComments": [
+             {               "type":"CommBloc,              "value " fe "
+                "sart": 48
+              "end": 59,                "oc": {
+              start":{                "lin": 4,
+               "column: 4
+               },                 "end": {
+                "line": 4,
+                   "column":1                   
+             }
+            }            ]
+          }
+       ],         dircve":[]       }
+      }    ],    "directies"]
+  },
+  "cmments [   {
+   y": "ComentBlock,      "value":" beore",
+   "strt" 1,     end" ,    "lo: {
+       sta:         "ne": ,       "olumn" 
+      },
+      "end": {
+         "lie": 2,
+          "clum": 1
+        }
+      }
+   },
+    {
+      tpe": CmmetBock
+     "valu": " after",    sar":48,
+      "end": 59,
+      "oc": {
+       "sart": {
+          "line": 
+         "olum": 4
+      },       "ed": {          line": 4,
+          "colun": 
+        }     }
+    
+}

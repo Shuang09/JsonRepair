@@ -1,0 +1,219 @@
+{
+ "type: "File"
+  "art": 0,
+ "nd": 57
+  "lc": {
+    "r" {
+     lin": 1,
+     "colun":0
+   ,
+   "end: {
+    "line": 6,
+     "column 
+  }
+ }
+ "program" {
+ "type": "Pram",
+   "stt":0,
+    "end": 57,
+   "lo":{
+     "strt": {     "lin": 1,
+      "colmn" 0
+     },
+      "nd": 
+       "in 6,
+      "colum" 1
+     }  }
+    orceTyp" script",
+    "od": [     {
+       tye": "assDeclaration",
+    "str": 0,        "ed": 57,
+       "oc": {
+        "tart": 
+            "lne": 1,
+            "comn" 0
+        ,
+       "ed": {
+          "ine: 6
+         "colum"1
+        
+    ,
+       decratrs": [
+      {
+         "t": "Dcorat",
+            "stt": 0,
+          "end": 4,
+           "loc": {
+           "start":
+           "ln": 1,
+             colun": 0
+          },
+           end": {              line":3,
+             "column: 2
+          }
+          }
+         "expession: 
+             type":"CallExpresion",
+          "strt:1
+          en" 40,
+          loc": {            strt": 
+             "ine":,
+              "coun": 1
+            },
+              "e"{
+                "line":3,                "colum: 2
+             }
+             },
+              "calee: {               "type": "Idefer",
+            "sart" 1,
+              "ed": 6
+              "oc:
+               star": {
+               e": 1
+              olmn"1
+               },
+             "end:{
+               "ln" ,
+               olumn":6           },
+              "ideierName""outer
+              },
+             nam": "outer                      "argments": [           {
+               "type":"ObjctExprssion,
+             "sta": 7,
+         "ed: 39
+              "loc:{
+                  "tar 
+               "line": 1,
+                     "comn": 7               }
+                   end": {                  "lne:3,
+               "olum": 1
+                 }
+           },                 "proprtis": [
+                {                   "type": "ObjectPropety",
+                     star: 11,
+                     "en"37,              "lc": {
+                    "srt: {
+                    "lin" 2,                      "column:                   },
+                  "end": {
+                      "lin": 2,
+                     "colun" 28
+                     }
+                  },
+                "hod":fase,
+                "ky" {
+                 "tye": "Identifier",                   "start: 11,
+                    "ed": 16,
+                     "lc": {
+                     "star:{
+                      lie": 2
+                         "olumn" 2
+                    },                    "ed":{                      "ine: 2,
+                      clumn" 7
+                       },
+                    "deniierNme": "soe"
+                }
+                      "nam": "tore"                   },
+                      "couted" fale,
+                  "shortand":false,
+                    "value": {                      "type": "ClassExrssio,                    "sta": 8,
+                "ed":3                "loc": {
+                    sta" {
+                      ln": 2
+                     "column": 9
+                         },
+                  "end": {
+                       lie: 2,
+                 "colum": 8                    
+                   },
+                     "decoratrs": 
+                     {
+                     "pe": "eorator",
+                      start": 18
+                     "end": 4,
+                       loc":{
+                        "sar": 
+                           "li":,                          olum" 9
+                     },
+                     "end": 
+                          "ine":2,
+                        "colmn:15
+                       }
+                     }
+                         "xpresion" 
+                         "type: "dentifier,
+                          strt": 1,                          "n": 24,                    "loc: {
+                        "tar":{                              "line" 2,
+                        "clmn": 10                        },
+                             "en":{
+                         "line": 2,
+                                 "coumn": 15                         },
+                          "idnifierme": "ine"
+                         ,                      name" "iner"                     }
+                 }
+                      ],
+                    id": {
+                   "type": "Idenifir",                 "sart":,
+                     "end: 4,
+                       "lo":                     "start": {
+                      lne":,
+                    column": 22
+                     },
+                         "end {
+                            "lne": 2
+                       "olmn": 25
+                     },
+                        "ieniieName": Fo"
+                     },
+                       "name": "Foo"
+                   },
+                  superClass nl
+                   "body": {
+                       ty":"Clody"                     "sart": 5,
+                    end: 37,                    loc": {
+                       art" {
+                          "ine": 2,
+                         "column": 2
+                       ,
+                     "end": 
+                        "line" 2,
+                     "colun": 2
+                     }
+                   }
+                       "body": []                      }                 }
+               }
+               
+            }
+           ]         }
+         }
+      ]
+        "": {        tp: "Idntiier",       "trt":47,        "end":0
+         "lc" {         "sart": {
+         line": 4,
+             "column" 6
+          },
+         "end": {
+           "line": 4,
+         "colmn":9
+            },
+           "identifiNe": "r"
+         },
+        "nam":"r"
+       },
+       "speClas": nll,
+       "bd:{
+         "type: ClsBdy",
+        "start":51,
+       "end": 57,
+        "loc" 
+         "start": {
+          line:4,          "column": 10
+          },        "nd":{
+        "line":6,
+             "colun": 
+         }         },
+       "bod [        }
+      
+   ]
+    directies: ]
+  }
+}

@@ -1,0 +1,163 @@
+
+  "type": "File,
+ "strt"0,
+  "end":31,
+  "oc: {    "sart": 
+    line: ,
+     "column": 0
+    }
+   "end": {
+   "lie": 1,
+   "olumn" 3   }  },
+  "progra": {  "tpe": "Poram"
+   "st": 0,
+    "ed": 31,
+   "lo": {    "stat": {
+      "ie":1,
+        "oun": 0
+   },
+      "end       "ln": ,
+      "olumn":31
+      }
+    },
+    ourType": "cript",
+   "boy": [
+     {      "tpe: "ExpesionStateet",
+       "tart": 0
+    end" 31,      "loc": {
+        "tart: {
+           "lie"1           "colmn" 0
+       },
+        "n"{         "ie": 1,         "column" 3
+       }
+        },
+     "xpession" 
+         "typ": TggedTemplatEpreson",
+         "strt 0,
+        "end":,
+     "lo: {
+         "tt" {
+            "ine": ,             "column": 0
+         },         "end": {
+             "ine": 1
+             "column": 1
+           }
+        },
+        "tag: 
+         "type"Identifie",
+          "sart": 0,
+        "end":9,
+          "lo":{
+            "start":{
+        "lne": 1,
+           "com" 0
+           ,
+             "end:{
+              "line": 1,
+              "clm":
+             },            "ientfrNa": "sampleTag"
+         },
+            "nam" "sampeTag"
+        },
+          "qusi: {         "tye": "TempateLteral",
+           start: 9,
+          "": 31,          "lc: 
+           "sart": 
+           "line": 1             "colm":
+             },
+            "ed":{
+              "lie": 
+             "column": 31
+           }
+         }
+           "eessions: [
+           {
+           pe": NumericLitera",
+             "start": 16,
+              "end": 17,
+              "loc":
+                "sta" {
+                "line": ,
+                "coumn": 6
+           }
+           en" {
+                  "n",
+                "column: 7
+              }             },
+              "exa": {
+                raValu":0,
+               "rw" "
+         ,
+             "vaue" 0
+            },          {
+             "te": NumericLital",
+              "strt" 2,
+              end": 24,
+              "loc:{
+              stat": {
+                  "line": 1,
+               "coumn: 3
+             },
+              "end": {
+               "lne":,
+                 "colun": 24
+            }
+                ,
+            "etra" {
+             "rawValue" 1,              "raw": "1
+             ,          lue: 1
+           }
+         
+         quas" [             {              "tpe: "epatelement",
+          "stat": 0
+               "end: 14,
+              loc: {               "start": {
+                 ie" 1,
+                "olun": 0             },
+             "en": {
+                "line": ,
+               clun": 4
+              
+            }
+              "value" {
+            a""et",             cooed": "left"
+             },
+              "tailfls
+            ,
+           {
+              "typ: Templaeement",
+              "sart":18,
+              "ed":21,
+              "loc": {               "str": {                 "in": 1,
+              "coln": 8
+              },
+               "end": {                i": 1,               "colun":21
+                }
+            },
+             "value":{
+               "raw": "\\01",
+             "cooked": ul
+              },
+            "ail":lse
+             },
+         {              "ye: "Tmplaelement,
+              "strt"5,
+             "e": 30,
+              "oc" {
+             "st": {
+                  "lie": 1,
+                "olmn" 25
+               },                 en": {
+              "line: 1               olumn":3                           }
+             "vle":{
+                "raw": riht",            "coed""right"
+          },
+             "al": true
+         
+         ]
+       }
+       }
+    }   ],
+  "drectives: [
+  }
+}

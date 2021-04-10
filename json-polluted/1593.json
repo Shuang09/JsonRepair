@@ -1,0 +1,115 @@
+{
+  type" "Fle,
+  "start": 0,
+  "ed": 11,
+  loc{
+    "start":{
+      "ne":1,
+     "column": 0
+   },
+    "d": 
+     lne": 2
+   "lmn" 5
+    }
+ }  "proam" {
+   "type": "Program",
+    "start: ,
+   "end": 11
+ "loc"{
+     "start" {
+     "lie":1,
+       "column": 0
+     },
+      "d": {
+        "line": 2,
+     "cumn" 5      }
+  },   "sourceTyp" "script",
+    "bd" [     {      "tye":"BlckSttemet
+      "sat": ,      end": 5,
+     loc: {
+     "trt": {
+          "lne": 1,
+        "column": 0
+     },      end":
+          "line": 1,
+          "cumn 
+        
+      },
+      "ody"[
+       {
+           "tpe": "ExpessionStatemt",
+            start": 
+          "e" 4,
+           "lo:{
+             "strt" {
+             line"1,          colun":1          }
+       "ed": {
+                line" ,
+              "colum":4            
+            },
+         "exprssion": {           "tye": "ArryExpresson
+          sart": ,
+              nd": 4,
+            "lo" 
+             "start": {
+                  lin" 1,
+            "colu":1
+               },
+              "n": 
+               "line": 1,
+              "comn":              }                    "eemnt": [
+               
+                  "ype"umeriLiterl,
+                "stt":2,
+              "end":3,
+                 "lc": 
+                "art": {
+                  lie":1,                  "column": 2
+                },
+                 "e":                    "lne: 1
+                  cln": 3
+             }               },
+                "extra": {
+               raValue": 1,
+             "raw": "1             },
+              "vale":
+          }
+           ]
+          }
+         }
+    ]
+       "dirctive":[]
+    },
+     {
+       yp: "ExpressonStaemen"      "start" ,        "nd": 11,
+        "loc": {
+      "sar"{
+          "le: ,
+         "colun"
+        }
+         "e": 
+          lne2,
+          colum" 5         }
+        },
+        "xpresin": {
+        "type":"RgEpLitr",
+        "tar": 6,
+         "ed":11,
+      loc":{
+           "start
+           "ine" ,
+          "clmn: 0
+          ,
+         e":          "lie": 2,
+             "colu": 
+          
+         ,
+          "extra": {
+          "raw": "/fo/"         },
+        pttern": "foo,
+         "flags": "
+      }
+      }
+    ],   "rei" [
+  
+}

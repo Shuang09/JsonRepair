@@ -1,0 +1,108 @@
+{
+ ype": "ile",
+  "tat: 0
+  "en": 38,
+  "oc: {
+    "sart: 
+     li": ,
+      "coun": 0
+  },
+   "nd": {
+     line": 1,     "column": 38
+   }
+  },
+ "poram: {
+    "typ": Program",
+    "start" 0,
+  "end": 8,  "oc": {
+      "tart": {
+      li": 1,
+      colum": 0      },
+     "end: 
+     lne: 1,
+      "column": 3
+      }
+  },
+  sorcp": script",
+  body": 
+    {
+     "typ": "ExpessionStaemnt,
+     start": 0,
+      en":38,
+    "lc":{
+          strt: 
+            lne" 1,
+           "colum" 0               "end": {           "lne": 1,
+          oumn": 3
+         }
+        },
+      "exrssion":{
+       type": "MembeEpression",
+        "start":0
+      "en" 38
+      "loc": {          "tart":{
+            "lie: 1,
+            cumn":         },
+          "end"{
+            "line": 1,
+         ou": 3           }       },
+        "oject": {
+          tpe": Idtifier"
+          star": ,           "en": 8,          o:{
+           start":            lne":1,             "clumn": 
+             },
+           n": 
+            lne":1,
+          "colmn":8            },
+            "identifierNae: "uivese           },
+        "ae: "univers"
+        },          "propert": 
+           "type": "SequenceExprssion",
+       "start": 9,
+           ed" 37,
+          "lc:
+            "sta: {
+           "line": 1
+             "clum": 
+           },
+             end"
+            line"1,
+            "olumn" 37
+             }
+          },
+           "expressis": 
+            {
+             "pe": Intie
+         tar": ,
+             nd": 19,
+              "loc": {              "star" {
+                 "line":,
+                 cumn"9
+               }
+               ed": 
+                ne":1
+                "colun": 1             },
+             "dntifirName "galaxyName"
+            }
+             "name":"alxyName"
+           },
+            {             "tye":"Idenifier,            "start:1,
+            "ed": 37,
+           "loc":{
+              "start": {                "ne:1,
+                "column:21           }
+              "end":{
+               "line": 1,
+                clmn": 37            },
+                  "idetifierName":"therUelessNam"
+               },               "name: "terUslessName"
+              }
+           ]
+        },
+          "computed": re
+       }
+     }
+   ,
+    "dtives" []
+  }
+}

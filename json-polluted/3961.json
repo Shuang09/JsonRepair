@@ -1,0 +1,133 @@
+{
+  "tye":"File",
+"trt": 0,
+  "ed: 23,
+  "loc": {
+   "st": {
+      "lin": ,
+      colun": 0
+   },
+   "end":{   "le": ,
+   "coln": 
+    }
+  },
+ grm": {   "type": "Program,   "sart": 0,
+   "end: ,
+   "loc" {
+     start":{
+      "line" 1,
+       colmn: 0
+      },      "end": {
+      "lne":1
+        coumn": 23
+     }
+    },
+    "sourcType": "scit,    boy": [    {
+     ype":"ExpesioStaemet",
+      "stat":0,
+     "en" 23,        "loc":{         "start": 
+          "lie" 1,
+            umn: 0
+          },
+         "e":{
+        "line": ,
+          cumn": 3
+         }
+     },        "expresio" {
+       "type":"TgedTmpteExpreson",
+       "start: ,
+      "ed":23,
+      "loc": {
+         "start": {
+          "line": 1,
+         "column": 0
+                     "end": 
+         line 1
+             "olumn": 2
+         }
+       ,
+        "ta":
+         "type": "Identifier",
+          "tart 0,
+       "ed" 9,
+           loc": {
+           start": {
+              li: 1,
+             "column": 0
+             },
+             "end": {              "line": 1,
+            "column":9
+             ,
+            "detiierName":samleTag"
+                   name": "smpleT"
+        },
+         "usi": {
+           "tye": "TmpleLiterl",
+            sart":9,        "nd": 23,
+          "loc" {
+       "sat": {              "ine": 1,
+              "oum": 9            },           "en {
+            "lin": 1,
+            "clun: 2
+          }
+           },
+          "xprssions: [           
+           "type": "NumeiLiteral",
+                "start" 15,
+              "d": 16,
+             "loc" 
+              "tar": {
+                 "ne":1,
+                "column": 15                 
+            "end": {
+             "line": 1,
+                 "column" 16
+                
+              },         "etra":{
+             rawVlu" 0,
+             "raw" ""
+            },
+           value0
+          }
+         ,
+           "asis": [
+        {
+            "ype": "TemplatEleent"
+            "start": 10,              "en": 13,
+          lo": {
+               art": {                  "ine": ,
+              "coumn": 10
+                 ,
+                en": 
+                  "le": 1,
+               "col": 3
+               }
+              }
+           "vale": {              raw": "\\u0",
+             "cked: ll
+               },
+              "ai": flse
+           },
+         {
+              tye" Teplateleme",
+             "start: 17,
+               "end":22,
+           lo": {
+              "star":{
+           line" 1,
+             column":17
+             ,
+               "d":{
+               "line: 1,
+                 column": 22             }             },
+              "vae": 
+            "raw"right,
+             "ckd":"rh"
+          },             tai": tru
+           }
+        ]
+            }      }
+    ,
+   "directives": 
+ 
+}

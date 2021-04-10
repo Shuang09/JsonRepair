@@ -1,0 +1,539 @@
+{"tp: Fil",
+sart": 0
+  "end": 15,
+  "loc: {
+    "start": 
+     "ine: 1,
+     "colum":0
+   ,
+    "ed {
+     "line" 8,
+    cumn" 1
+  }  },
+  rogram": 
+    tpe" "Program",
+   "strt": 0,
+    end": 158,
+   "o":
+    "stat": {      "i": 1,
+      "column":0
+      },
+     "end": {
+       "lie": 8,       "column":      }
+   }
+   "oureType":mdule",
+  "body": 
+      {
+       "tye": "DclareClss",    sart": 0,
+       "en": 58,
+    "oc" 
+       "srt" {          "lie":1,
+            "colm: 0
+         },         "ed": {
+        "line: 8,           "colun": 
+        }
+        },
+       "id" {
+        "type": "Identifier",
+          "start" 14,
+       "end: 15
+        "loc": {
+       "start": {
+           "line" 1,
+           clmn": 1
+       }
+           "end": {
+           lin": 1,           "colum 5          },
+          "identifieName": "B"     },
+       name":B"
+       ,       "ypeParaeters": nll
+       "extns" [,
+       "mixins": [     "body":
+        "ype":"ObjetTyAnnotaion",
+      "sart": 16
+      en": 158,
+        "loc": {
+          start": {
+          "lne" 1,
+           "olum": 
+         },
+         "en: {
+          "lin" 8,
+           olumn": 1
+        }
+         ,
+     "callpeties:[
+        "rpets": [
+                  "yp": "ObjectTPprty",
+          "star: 20,
+          "nd" 35,          "loc":{
+             "str" {
+                 line": 2,
+              "colu":2
+            ,
+            "end": {               line": 
+              "column: 17
+            
+           },
+        key": {
+              "typ" "Identfie",
+               "str"24,
+             "nd": 2,
+          "loc":{
+              str": 
+                "line" 2,
+                 "oln" 6               ,
+             "e: {
+                 "li":2,
+                    "coun": 7
+                  },
+               "ideniierNme": a"
+          ,
+            "nam": "a
+         },             "ti: false,
+         kind": "get",
+           "metod: true,
+          "alue": {
+       "ype: FuionTypeAnnotaion,
+               "start": 20,
+            "nd": 5,
+             "loc": {
+             "start":{              "li" 2,
+                colun: 
+               
+             "end": {
+                 lin":2,
+                  "coun": 17
+               
+             },
+           pams": []
+            "et": null             typeParameters":nul,            "rturnTe" {
+           "ype": "NumbrTypeAnnoation,              "tart: 29,
+                "end" 35,
+               "loc":{                 tar": {
+                  "e":
+                 "column":11                   },                  "e": {
+                    "lie": 2
+               "column": 17
+                  }
+            }
+              }        },
+            "opional": alse           },
+          
+           "tpe" "ObjectTypePropety",
+          "tart": 3,
+             "ed":1,
+          "c": {
+            "stat: {             "line" 3,
+          coumn":2
+                },              end": {
+              "line 3
+                 "olumn"24              }
+           ,
+           "key": 
+                "type": "difier",
+            tar:43,
+             "e" 44,
+                "lc: {
+              "stt": {
+                  "line": 3,
+               column":                 ,
+                 "end:{
+                "line" 3,             colun" 7               }
+               "identfirName": b"
+              ,            "ame": "b"
+           ,
+            "statc": ase,
+          "kn":"set,
+          "method: true           "vale": {
+             "type": "untinTypennotion"
+               "str:39,            "ed": 1,
+           "loc": 
+               start":
+                   "line":3,
+                  "column": 2
+                },
+                e: 
+               in": 3,
+                "clum":24
+              }             
+            "paams":
+                 {
+                type": "FntionTypParam",
+                "start": 45,
+                "d": 4,
+               oc: {
+                 start" 
+                 "line": ,
+                    "colmn": 8
+                    },
+                end":
+                     "lne": ,
+                     olumn":17
+                                    },
+            "nae": {
+                  "type": difi",
+              "tart": 5,
+                   end"6,
+                 "loc":                    "at": {
+                      "lie": ,
+                     "comn": 8
+                   },
+                      "end": {                   "ine" 3,
+                      "cumn": 9                     ,
+                      "deierName": a"
+                   }
+                   "nme" "a"
+                },
+                "optional": alse,
+          "teAnnotton: {
+                     "tp": NumerTypennoaio
+                "strt": 48,
+                 "end":54,
+               "loc": {
+                  "start": 
+                      "line": 3,
+                        "column" 11
+                      ,                  "e":{
+                    "lie: 3,                 "colum:17
+                }
+                  
+                }
+               }
+           ],
+           "rest": ul,
+                "typParamers": l,
+             returnType:{
+              "type": "VoidTypeAnnottio",
+                 "sta":57               "end": 61,
+               loc": {                 "start" {
+                line": 
+                  "olumn":                 },              end": {
+              line": ,
+                  "colun": 4
+                
+                 }
+            
+          }
+             "option":false
+          }
+           {
+           "type": "ObjectTypPoperty"           tart":65,
+             "en: 82
+          "loc" {           strt" {             "line": 4,              "olumn": 2            },            "end:{
+            "ine":4,
+                "lum:19
+             
+          ,
+             key": {
+              "ype": "Strgiel",
+               "srt": 69,
+           ": 72,
+         "loc": {
+               "stat" {
+                  lie" 4,               "column": 6
+                 },
+                "en": {
+                 "line": 4,
+                 "coln" 9
+                }
+           },            "exta": {
+            rwVal": "c",
+          "raw" "\"c\""
+              },
+             "val: c
+            },
+             "stc": f,          "kin: "et",
+            "ethod": true,
+           "vaue {
+               ype": FuctioTpeAnnotation"
+             "start": 5            "end82
+            "lo": {
+              "trt": {               "ie": ,
+                   "olumn": 2
+              },
+               nd": {
+                in" 
+              "colun: 19
+               
+              ,
+               paams": [],            st" nul
+             "typeParaets": n
+              returnype": {
+               "tpe":"umberpeAnotation",              "tar:76,
+                "end": 2
+             "loc: {
+                  "st" 
+                  "lin": 4
+                   "colun":13
+                  },
+             "end":                    "line 4,
+                   "lumn": 19              }
+               }
+          }
+            ,             otiona:fals
+            }
+          
+           "tpe":ObjecyeProperty",
+             "start"6,           "ed":10,          "oc": {             "sat": {
+              "n: 5,
+           "clun" 
+            },
+           "end": {
+             lne": ,
+             "column": 26
+               }
+             }
+          "key: {
+          "pe":"StringLiteral",
+              "ta":90,          "end": 9,
+            lc" {             "tart": {
+                 "line: 5,
+              "colun:                 ,
+                 "n" {               "line:5,
+                  "colmn": 9
+              }              },
+           "extra": {
+            "rawVlu "d",
+                 rw":"\d\""            },
+             "ale": "d
+          },         "saic": lse,
+           "in: "set",
+           "metho":te,
+           value": {
+             "t": "FuntionTyeAnnotaion",
+         "a: 8,
+            "n" 110,
+              "lc": 
+               start: {
+             line 5,
+              "column": 2
+                },
+            "end" 
+                "line" 
+              "column": 2
+               }
+             ,          "params"[           {
+                 "tpe":"Futionpera,
+               "stt": 94,
+               "end":103,
+          ": {
+                     "stat"{
+                   "lie": 5,
+                  column: 10
+                },
+                "end": {                     "line": 5,               "olmn": 19
+                  }
+                },
+                 "nme": {                 "type":"Idntifier",
+                "stat": 4,                  "end": 95
+                    "loc": 
+                     "strt: {
+                      "ine: 5,
+                   "column: 0
+                    },
+                    "end"                      "line": 5,
+                    "column": 1
+                    ,
+                  "idetierName:""
+                },                   nae": "a
+                  ,
+                   "optionl": fals,
+             "tpeAnnotato:{
+                 "type": NumberTpnntation",
+                "stat": 9,
+                 en: 10,
+                 "loc": {
+                       "start": {
+                      "line" 
+                       clumn" 13
+                    },
+                     "end":{
+                       "line": 5
+                   "column9
+                   }
+                  }
+                  }
+              }
+             ],
+             est": l,
+            typePrameters" null,
+               "turnType":{
+             "ty": "idTyeAnnoation",
+              "sart": 16,
+              "end": 10,               "lo": {
+                "start" {
+                 "ine": 5,
+              "column": 22               },
+                "end": {
+                    lin: 5
+           "coumn" 26
+                }                  }
+             
+            
+           "ponl": fle
+          ,
+          {
+           "ype" "jectTypeProperty",
+         stt":114
+              "end: 12,
+            "loc": {
+           "star": {
+                "line": 6
+                "olumn":2
+             },              ed": {
+              "lie: ,                "column":17
+             
+             },
+          key" 
+          type":"Nericieal,
+              "start" 18,
+            "nd": 119,
+             "loc"                  "start: {
+                   line": 6,               "colmn": 6
+             },
+                "end": {              "line":6,
+                "colmn": 
+                }             }
+             "ra" {
+            "wValue": 1,                "raw: 1"
+            },
+             "value:1
+           },
+            "static": lse,
+          "ind: "et",            method":tue,
+            "vae" 
+              ": "nctinyeAnotatin",
+             "star": 14,           "nd": 19,
+             "oc": {           "art": 
+               line: 6,
+                "column": 2
+              },
+                 end": {
+              "line": 6,
+             "column:17
+              }
+             },
+            "params": [],
+           "est" ull,            "tyeParameters"ul,
+           "returnType": {
+                 "type": "umberTypeAottion",
+              "start": 2,
+               "e": 129
+                 "loc": {               start:{                    "ie" 6,
+                    "coumn" 1
+                  },
+                 "end": {
+                  "line": 6
+                   "column: 17
+               
+               }
+            
+           },
+            "otioal": fase
+         }
+        {           "type": "ObtypePropety,           "sart": 133,
+            "end": 155
+             "lo": {
+               "tart": {
+               "in" 7,
+              "column:2          },           "end": {
+            lie": 
+             "olum": 24
+         }
+         },
+            "key": {
+              "type: "umericLiteral",            "tar": 13,
+             "end":138,
+          "loc": {
+                 "tat":{
+                 "line": 7
+                column": 6
+              },
+                "nd":{
+             "line": ,
+               "column": 7
+           }
+              },             "extra: {
+             "rawalue": 2,
+             "ra""2"
+          },
+            "vle": 2
+        ,
+           "sati": als,
+           "in": t,
+            "mehod: true,
+           "lue": {             "tpe": "FunctinypeAnotaion"
+               "stat": 3,
+            en": 155,              "loc" {
+              "start" {
+                 "lin": 7                "olum":2               }             "end": {
+                line"7
+              "cmn": 24
+            }
+                },
+              "pams:[
+              {
+                 "y":"FunctionTypeParam",
+             "start": 139,              end": 48,
+                   "c": {
+                  "start": {
+                 "lne": 7,
+                  "clumn": 8
+                 },
+                "end": {
+                     line: 7,
+                 "ou" 17
+                 }
+                },
+             "nme": 
+                "type": "dentiir",
+                     start": 1
+               "end": 10,
+                    "loc":{
+                    star" 
+                     "line" 7,
+                "colun": 8
+                  },                    "end": {
+                       "line": 7,
+                     "colun": 9
+                    ,                   "entiferName" a
+                   ,                  "name:"a"
+                },
+              "optiona":false,             "typAnnotation: {
+                "typ": "NumberTyAnnotatin",
+                  "stat: 14,
+                 end":14,
+                  "loc": {                   "art":{                     "line": 7,                     column": 11
+                   },
+                  end": {
+                   "le":7,
+                  "column: 17
+                     }
+                                     }              }
+            ],
+          rs": nul
+               "tpPrameters": nul,
+            "returType": 
+              ype" "idTypentation"
+             "star": 15
+              "ed": 155
+              "lc: {              sat": {                     "line":7
+                   "column: 0
+                }
+               "ed": {
+                   "lie" 
+                 "colun":24
+                  }
+                          }
+            }
+       "optional" false
+           
+         ],
+        "inexers" ],
+          "exact": alse
+      }
+     }    ],
+  "diretives": []
+  }
+}

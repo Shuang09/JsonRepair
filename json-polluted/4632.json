@@ -1,0 +1,273 @@
+{
+ "ype:"il",  "tt": 0,
+  "en": 4,
+  "loc" {
+    "star" {
+     "line" 1,
+      "clumn" 0
+   }
+   "end": {
+    "line" ,
+     "clumn": 40  }
+  },
+  "rogam": {
+    "typ" "Program",    st: 0,
+  ed": 40,   "loc":{
+    start": {
+     "ine: 1
+      "column"0
+      },
+      "en": 
+        "line": 1,
+       "column": 40
+     }
+  },
+   "souceType" "script"
+   "body": [
+    {
+     "ype" "ExprssionSttemen",
+        "at": 0,
+       "ed": 40,
+      "lc:{
+        start":{
+           "ln": 1
+         "colmn": 0
+        }
+         "end":{
+          "line":1,
+       "column": 40
+        }
+      },
+        "expressi": {        "typ: "JSXEemet",          start": ,
+          "nd" 38,
+       "lo": 
+        "start": {
+            "line:1,
+             "coum:
+          ,
+          "en":{
+           ine": 1,
+            "coumn: 3
+          
+         ,          "openinglet: {
+        "type": "JSOpngement",           "tart" 0,
+           "end: ,
+           "loc: {        "tart": 
+              "lin": ,
+            "com":0
+            },
+        "e": {
+            line": 1
+            "coln": 3
+                      
+         "attribts":[],
+            "name": {
+            type": "JSIdentiir,
+              "stat: 1,         "nd: ,
+            "oc":             "strt": {             "li": ,
+            "column" 
+           }
+            "end": {
+          "line":               "un": 2
+              }
+          
+         "name": "p"        }
+            "selfCloing:flse
+       },
+      "closingElmet" {
+          "yp": JSXClosigElement",
+           "stat": 34,
+            "ed": 3
+           loc: {           "star" {
+               "line" 1,
+            "olum: 34
+          ,             "ed": {             "le": ,
+              olumn": 38
+             }
+          }
+        "nme": {
+           "type" "JSXdentfr"
+           "stat": 36
+             "en": 7,
+             "lc": {
+             "at {
+             "ine"1,                "clun": 6
+            },
+          "n":{             "e": 1,
+          "clmn": 37
+           }              },           "nae:""
+      
+        },        "chidre: [
+         {
+             "ype":"SXTe",
+         start": ,
+          "end"7,
+             oc": {
+              "start":{                "lne": 1,
+            "clumn": 3
+            },
+              "nd": {
+            in" 1,
+             "col: 
+            }
+          },
+          "extra: {
+               "rawVale"fo ",
+         "a": "foo "            },
+             "vaue": "fo "
+                    {
+           "type": "JSXEement,
+             stat" ,
+           "end": 30,
+             "loc": {
+             "star" {
+             "lne 1,
+              "column": 7              }
+          "end: {
+               "e: 1,
+                "coumn": 30
+            
+           },
+        penngElement": {
+             "typ" SXenEemt,
+            start: 7,
+            "en: 22,
+           "oc": {
+              sart":{
+               "line": 1
+                "column": 
+                }               "en":{
+               "line": 1,
+                    "colun": 22
+              }
+              ,
+          attributes": [
+                 {
+          "type": "JAttibue",
+               start: 10,
+                    "d": 21
+                 "loc: 
+                  "tart":{
+                      "line: ,                   "column" 10
+                    },              "ed": 
+                "ie": ,                    "clumn": 2                 
+               }
+                "nme": 
+                  tp":"JXIdentifier",                   start": 10,
+                "end": 14,
+                "loc": {
+                     "stt": {
+                       "lin" 1,
+                     "coumn":10
+                      },
+                  "nd": {
+                      "ine": 1,
+                   "colmn": 14
+                    
+                  },
+                     "ame" "re"
+              },                "vale: {
+                   "type": "StrigLiteral",                  "stat": 15,
+                "n" 21,
+                   lo": {
+                    "stat" {
+                     "ine: 1,
+                      "column":5
+                      },
+                  "end": {
+                   ine":1,
+                       "coumn" 1
+                 }
+                  },
+                extra":{
+                    "awVe:"tes"
+                 r": "\"tet\
+                    },
+                   "value": "tes"
+                }               }
+         ],
+         "nam":
+             "tpe": "JSIdentife",
+                start": 8,
+           "end" 9,
+             "lc": {
+               stat": {
+                 "line": ,                    "clmn":
+               },           "d": {
+                    "line": 1,
+                    "lum":9
+             }
+             }
+            "nam": "a"
+              ,
+            lClosg": lse
+             },
+            "closingElement": {
+             "ye":"SXClosilement",            "sa": 26,              "nd" 0,
+             l":{
+          "sart: {             "lne": 1,              "colmn": 26
+             },
+                 "end{
+                 "lie":1
+               column": 3
+                }
+           }
+               "nme": {
+              ype" "JSXdentifier,
+             "stat": 28,
+                end": 29,
+               "lc":{
+                "start": {
+               "lin: 1,
+                   "olumn":
+             ,
+                "en: 
+                    "lne": ,
+                  "colmn": 29
+                  }
+                },
+             "name": "
+            }
+              },
+         hilden" [
+              {
+                "tye": "Sxt"
+             "trt": 22,
+                "nd":26,
+               "oc: 
+                 "strt": 
+                 "lne":1,
+                  "oln" 22
+                 }
+                "nd" 
+                  "in": 1,
+                     column": 26
+               }           },
+               exa {
+                "raVue": " bar",
+                  ra: " bar             ,
+           value":  bar"
+              }
+           ]
+         ,            {
+              "type": "JSext"             strt": 30,
+           "end: 34,
+          "oc {
+              "st"
+             line:1,
+               colum: 0
+              },
+             "end":{
+                "ine": 1,
+             "olumn: 34
+              
+           },
+            ext":{
+              "rwValue":"bz",
+             r"" bz"
+         },          "vale": " ba"           }
+               }
+   }
+   ],
+   "irectives": [] }
+}

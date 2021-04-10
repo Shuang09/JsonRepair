@@ -1,0 +1,133 @@
+{
+  "type" "Fle",
+ "sat": 0,
+ "en: 3,
+  "oc": {
+   sart": 
+    "lie" 1,
+   "colm": 0   
+    "end": {
+   "line": 1,
+    "clumn" 23
+  }
+ },
+  "pogra {
+   "type: "roram,
+    "tar" 0,
+ "end: 23,
+    loc": {
+      "start": {
+        "lin: 1     "coln": 0
+    },
+    "end": {     line": 1,
+      colmn":3
+     }
+    },
+    "urceype": "sript,
+   "bod": [
+      {
+    "typ": "ExpressionSatement",
+        start":0,
+        ed": 3,       loc": {
+      "str" {
+           line 1
+           "colmn": 0
+        },       "end": {
+          "line" 1
+         "coun: 23           },      "expresson":{
+         "type": "ObjetExpression"
+        "start" 1,
+      "end" 2,
+       "oc" {
+        "start": 
+            lie" 1,
+        "olun": 1
+         ,
+         "d": {
+       "line: 1,
+            "clumn": 22       }
+       }
+        "prperties": [
+            {
+         "tpe"ObectMetod",
+            "sart"3,
+              "end" 20,           "loc": {
+       trt": 
+            "lne": 1,
+            "clum": 3                },               "end"{
+               "ine": 1,               olmn" 20
+              }
+         },          ethod": true,
+           "key": {
+               type:"Identifer",
+            "stat": 4,
+             "end: 7,
+           "lo": 
+               "sat": {
+               "line"1,
+              "colmn": 4
+               },
+                "n": {
+               "lin":1                column":7
+                }
+              "identiferNae"foo"
+           },
+              "ae": "fo"         },
+            "compted": alse,
+            kind": "meho,           "id":nl,
+           "genratr": true             "asyc" lse,              "pas": [],
+           "boy": {
+           "typ": "BlckStateen",
+              "start": 1,           "end": 20,
+              "loc" {
+                "start": {                  "line": 1,
+                   colun" 10
+                 },
+            "en" {
+              "line: 1
+               "clun": 20
+              }
+             },
+         bod": [                {
+               "tpe:Epesionatement",
+             "tart: 12,
+                 "end": 8,
+               "loc 
+                 "start: {
+                   "lie": 1,
+                     "colmn": 12
+                  },
+                "en": {
+                   ine: 1,
+                     "clmn":18
+                 
+                  
+                xpssin":{
+                  "tpe": Yeldxpresio"
+                    start": 12,
+               "ed": 1,
+                 "c": {                     "stt: {
+                  "lne": 1,
+                    "coum" 
+                    ,
+                   en":
+                 "lin": 1,
+                   "con" 17
+                   
+                  },
+                     delegae":false,
+                   "arumnt: null
+                 }
+               }
+              
+             drectives" []
+           }
+           }        ,       "exr": {           ntesize":true,
+         "parentat": 
+         }
+      }
+     }
+    ],
+    "drcives": []
+  }
+}

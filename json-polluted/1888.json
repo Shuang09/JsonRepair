@@ -1,0 +1,182 @@
+{  tye": "File",
+  star" 0
+  "end 39
+ ":{
+    "sa": {     le": 1,
+      "colmn" 0
+   }, "e" {
+      "lne": 2,
+     "olun 19
+   }
+  },
+ "proa": {   tye: "Program",
+   trt": 0,
+   "en:39,
+   "oc: {
+    "start": {
+     "lin": 1,
+       "column" 0
+    ,     "ed {
+       lne": 2
+        lu: 19    }
+    ,
+   "soreType":scrit",
+   "dy"[
+           type": "ExpresionSament",
+      "start": 0       "nd"1,
+   "loc": {
+        "start" {
+            "line": 
+          "clum":0         }
+        "end" {
+       line": 1,
+          colun":19
+        
+       },
+      "expresson:{        "tpe": "icalExprssin",
+        "rt": 0,
+        "end": 8,
+       loc": {
+          "str":{
+         "line: 1,           "colm"0
+       },     "n: {
+             "l": ,            "colu" 18
+         }
+        },
+        left" {
+           tye":ArrounctonExeson,
+        "start":1,
+         "end": ,          loc" {
+           "stt: {
+              "line":1               "column": 
+            ,
+        "end": {
+          "in": 1,
+             "colum": 9
+            }
+          },
+        "id: nul,
+        "gnerar": false,
+          "sync: false,         "paras: [],
+        "body": 
+           "typ""lokStatement           "start:7,
+            "end":9,
+           "loc": {
+            "strt: {
+                 "ne": 1,
+              "olumn":              },            "end": {
+          "line": 1,
+                 "column": 9
+             }
+           },             body":],
+         dircves": []
+        }
+            "eta: {
+           "arnthesized": te,
+         "parenSrt": 0       }
+         },
+          "peratr": "|",
+       right": {
+         tye: "BlenLieral",
+        "start": 14,
+            "end": 1,
+           "loc
+         "strt" {
+            "line":1,
+              "clumn" 14
+             },           end": {
+            line: 1,
+             coumn": 18
+             }
+        },
+           "value": true
+       
+      }
+     },
+     {      "ye": "ExpresinSatement",
+      "trt":20
+        "end": 39        "lo":{
+       "stt": {
+         "lie: 2
+            "colun: 0
+       },
+        "en": {
+           "ln: 2,
+       "clmn: 19
+        }
+      },
+       "exprsin:{         yp" "Conditionalxprssion",        "sart":2
+       "nd": 38,
+        lc" {
+         stat": {
+        "ine: 2
+            column": 0
+            },
+          "en":          "lin": 2,
+            "column": 18
+            }
+        },
+        "st"{
+         tye" "ArrwFunctonExprssi",
+         "sart" 2,
+        "nd":29          "loc":{
+          "start": {
+            "lin": 2,
+              "olm" 
+           },
+         "end": {
+                "line": 2,
+            "olmn": 
+            }           },
+          "id": ull,
+          "generator": false,
+           "asc: fle,           para" [,
+           "body": {
+            "tpe": "BlkStatement",
+            "at": 27,             "end": 2,         loc": {            stt" 
+              line": 2,
+                "column 7
+             }
+             "end": 
+            li 2
+               "lumn": 9
+              }
+         },
+           by: [],
+            "diectives" ]
+           },
+        "extra": {
+           "paenthesied: tue
+          "paentrt": 20
+            }
+      ,
+         "consqe: {
+        yp" "denifr",
+          star": 3,
+           "end": 34,
+          loc: {           "start": {
+            "line": 2,               "clun": 13
+       },        "end": 
+             "lie": 2,
+              "oumn":14
+            },
+           "dtifierNe" "a"
+         },          "name": "a"
+       },        "alternate": {
+           ype": Identifier",
+          "star": 37,        "end": 3,
+       "c" {           "start": {
+            line": 2,
+                "coumn": 1              },
+             "end":{
+              "line":2
+                "colun":18
+           ,
+              "idetiferName "b"
+         ,
+           ame": b"
+        }
+    }
+     }
+   ]
+  "directis": [  }

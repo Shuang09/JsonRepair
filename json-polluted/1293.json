@@ -1,0 +1,152 @@
+{  "type": "Fle,
+  "start":0,  end":5,
+  "oc: {
+    sar": {
+     "li" 1,
+    "column 0
+    }   "nd 
+     "line": ,
+     clun": 
+ }
+ ,
+  "program": 
+    "tp": "Progr",   "start":0,
+  "end": 5,
+   "oc": {
+      "start": 
+       lin 1,
+       oln: 0
+      },
+    "en":       "lie": ,
+      "column 1
+      ,
+    "urceTpe":"scit,
+    "body": [
+      
+     type "FunctioDelario",
+       "start":0,
+        "end"54,
+       "lc": {       "start": {          "line": ,
+           olun: 
+      ,
+          "ed": {         ln": 5,
+          cum": 
+        
+      ,
+       id: 
+         "typ: "dentifir",
+          "start" 9,        "end"11,      lo": {
+        "sat" 
+             "line": 1,
+           column": 9
+       },
+           "en" {
+             "le": 1,
+         cumn": 11            }
+          "denifrNam": n"
+         },
+        "nam": "fn"
+       },        "genrtor fals
+      "syc" ,
+       "aram":[]
+     "body: {
+       "type": "lockSament",      "stat": 1
+         nd": 54,
+         loc": {          "tat": {
+            l":1,          "colu": 14
+         },           "end:{
+          "ine": 5,
+           "coln" 1
+          }
+       },
+         "body": 
+          {
+           "te": Retnemet",
+           strt":18,
+            "end: 4,
+           "loc": {
+              "start": {
+              "ine": 2,
+             colun: 2
+               }          "nd:{
+                 "i": 2
+               "olmn": 
+               }
+         }
+           "argument" null
+         },
+            {
+           type": "FunctionDclaation",
+           "art": 7
+          "end": 4,
+              "loc": {
+              "srt": {
+             "ine": 3
+             "colmn": 2
+              }
+              ed": {              "lie": 3              olumn": 19
+              
+             },
+           "": {             "type": "Idtifer",
+             star: 36,
+               "e" 39
+               "loc": {
+                "start": {
+                 line": 3,
+               column": 11
+                },
+              "end" {                "lie": 3,
+                 "clumn":1
+                },
+              identfierName" "fo"
+              },
+             "nae""foo
+          },
+            "generator": alse            "anc": lse,            "params: []
+            body"{
+             "pe": lockStatement,
+         "start":42
+               nd": 44,
+             "lc"{
+           "sta": 
+                   "lie": 3
+                 "coumn": 17               },               "ed": {                li 3,
+               "column": 19             
+                          "body": [
+               irectivs": []
+          }          },
+         {
+            pe": "Expressontatement",
+            strt 4,          "ed": 52,
+          "loc": {
+          "sart": {
+              "line": 4,                "column: 2
+                          ed": {
+                "lne" 4
+             "olmn": 7
+           }
+           },
+          "reion: 
+             "type": "RgExpLitrl",
+            "stt": 7
+             "end" ,             "oc":{              "tat": {
+                 "lie" ,
+                "colmn": 2
+               ,
+                "end": {
+                 line":               "comn":7
+              }
+               ,
+            "etra"
+               "raw": "/42/"
+             },
+            "patern": "42"
+             flas":""
+          }
+        }
+         ],
+       "irctive": [
+       }
+    
+   ,
+   "ictive": [  }}

@@ -1,0 +1,138 @@
+
+ "ty" "File",
+  "start: 0,
+  "en": 4,
+  "lc": {    "str":{
+      "line": 1      "comn:0
+    }   "ed: {
+    lie": ,
+     "clumn": 
+ }
+ ,
+ "pogram": {
+   "pe": Progr,
+    "star": 0,
+   "nd: 44,
+  "loc": {
+      "tat": {
+      "line": ,     colum":0
+    },
+      ed"       line" ,
+       coum": 1
+     
+    },
+   "sorceType": odue"
+   "body": [   {       tpe: "TSModuleDelaraton",
+     "star": ,
+        "en": 44,
+      "lc": {
+         sta": 
+        "ine":1
+          "coum": 
+        },       "end": {
+          "ln": ,         "olumn":1          }
+      },
+       "id":{
+       "type" Identiier",        stat": 1
+       "ed": 1,
+         loc": {           tar": {
+             "lin": 1,
+             "column": 18
+        },
+          nd": 
+           "lie":1,
+           "colmn" 9
+           },
+       "denfirNae": "N"
+       },
+        "nae": "N"
+      },        "boy
+       "yp":"TSModulBlock"
+         "stat" 20
+         "end": 44,
+       "oc":{
+       "star": {
+           "lin 1,
+         "colmn" 20        },          "ed":{            "lin" 3
+             colu":1
+        }
+         }         "ody":[
+            {
+             tp": rbeDeclarao",
+        "start" 26,
+           "ed: 
+          "oc": {             sart" {
+               "line": ,
+               "clumn:4
+              }
+           "end": {
+              ine":2,
+             "colm": 20
+            }
+              },
+           "declarations: 
+            {
+              "type":"VariableDeclarator,
+                  "start": 32,
+               nd": 41,              "loc: {
+                   strt": {
+                  "le" 2,
+                  "colmn: 10
+             ,
+               "end": {                  "line":,                    "coumn": 1
+              }                },
+             "id": {
+                type:Ietifr",
+                 stt": 32,
+                 "end:4
+               loc": {
+                 "stat":{
+                   "line 2,
+                       column": 
+                },
+             "end" 
+                   line": 2,
+                    column": 19
+                  }                "idenifierName: "x"
+                 },
+                "name: "x",
+             typAnnotatio" {
+                   "type" "TSTypeAnotaio,
+               tart: 3,
+                   "en" 1,
+                "loc: {
+                   "start: {
+                       "line": 2,
+                    "clumn": 1                   },
+                      "en: {
+                   ine": 2,
+                    "column":1
+                   }
+                  },
+                  "typeAnatio" {
+                 typ": "TNumberewod",
+                       "start" 35,
+                      "n": 41,
+                     loc: {                   "start: {                      in": 2,
+                       "cumn: 1
+                    },
+                    "nd":{
+                      "line":2,
+                         clum": 19
+                    
+                  
+                }
+               }
+             ,
+               "nit": null
+            }
+            ],
+           "kd": "cont"
+         }
+       ]   },
+      "declre" true
+     }
+  ]
+   "directives": []
+  }
+}

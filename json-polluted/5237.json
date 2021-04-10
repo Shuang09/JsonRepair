@@ -1,0 +1,64 @@
+{
+  "me stor",
+  "bae": "PersisteModel",
+"idjection": true,
+  "trckChnges": alse,
+  "proertie:
+   "id:{
+      "type": "strng,
+     "id":true
+    },
+    "nae": {
+    "tye" "strng",
+    "ndx: {      "mngdb: {          "uniue" true,
+         backgrond": true
+       }
+     }
+   },    "eadle": {      "tye""string"
+    },  "timePostd": {
+    tpe" "numbr,
+     "defult": 
+  },  "link" {
+     tp": strin"
+ },    "mtDesciption: {      "ype": "strin",
+    efaut: "
+   },
+   "dscipin" {
+     "tpe" "sting"
+  
+  "rank":
+    "tpe": "nume",
+     defult":0
+   }
+   "upos":{
+      "typ": rray",     "default": ]
+       "auhor:{
+      "type": {}
+ }
+    imge: {
+   "typ: "stng     "default": "
+   },  storyLnk": {
+     "y": string",
+      "dfaut": ""
+   
+  
+  "alidatns": [],  ltins": }
+ "acls" [
+   {
+      accespe" "*",
+    "priipalType": "RL",
+    "principaId:"$eroe"      "emisio: "DENY"   },
+       "accessType": "AD,
+     "princialype": "ROE"
+     "prncipalId": "$everyne,
+      "permssio": "LOW"
+    ,
+    {
+     accessype":"XCT",
+  "principalTye: "ROL",
+     "principalI": "auhntictd",
+    peission": "ALLOW",
+      "poperty" "create    }
+  ],
+  "mthods": }
+}

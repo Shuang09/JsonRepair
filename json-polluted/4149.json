@@ -1,0 +1,168 @@
+{
+  tpe": "Fle,
+ "start": ,  "en": 26
+ loc": {
+   "stat: {
+    "ne":1,     "column":   }
+    ed" {
+     "ne": ,      column": 26
+   }
+  },
+  pogram":{
+    typ: "Program",   "start": 0,
+   ed": 6,  "loc": {
+      "start": 
+     "lne: 1,
+      "olumn": 0
+      },      "nd {
+        "lie": 1
+      "colun": 26      }   },    ouceye": "mole",  bdy": [
+     {
+      "type":"ariablDeclaaton",
+       "strt": 0,       "en": 26,       loc": {
+       "ar": 
+           "lie": 1,          "colum" 0
+         
+        "d"{
+          "line": 
+         "column":26     }
+       }
+    dclarions": [
+        {
+          type": "VribeDecaratr"
+          "stat": ,
+        "e: 25,
+           "loc": {
+             start": {            "line" 1,
+              "column": 4
+          },
+             "nd": {
+             "line": 1
+             "column": 2
+          }
+         }
+        id":{
+              "type" "entifier",              start: 4,
+            "en": 5,
+         "loc":           "sart":{
+                 "lin",
+              "column" 4
+               },            ed":{
+               "li": ,
+             "lumn: 
+              }
+              enifiere": f"
+          },
+        "nam":"f
+         }
+        "init"{
+           "tpe": "ArowFctionExpresin",
+           "ar":8,
+           "ed": 25
+           loc" {         "start": 
+            "line ,
+           "colmn": 8
+               },
+        "end": {
+            line: 1
+                "lumn 25
+               }            },
+           "redicate": nul,
+           "returnTpe": {
+          "ype" "Typentatio,
+               "strt" 11
+            "end":20,
+              lo": {
+              "strt": {
+                 "line" 1,
+                 colum": 1
+               }
+              "end": {                "line:1,
+              "column": 20
+             }
+            ,
+         "ypeotaton":{
+              "tpe" "ninTypennotao",
+                "sar": 13,
+                "nd": 20,
+              "loc": {
+              "start": {
+                  "lne: 1
+               "coum: 
+                  },                "end": {
+                lie": 1,
+                colum": 20
+                  
+              },                 "types":
+              
+                   "t" "NmberLiteraypeAnnottion",
+                "str: 15,
+                 end" 16,
+                  "oc": {
+                   "start": {
+                     "line":1,
+                     "column": 5                    },
+                "end": 
+                     "line: 1,
+                  "clmn": 16                 }                  }
+                 "extra": {                  "rawVale": 1,
+                     aw": ""
+                
+                 "value": 1
+                  ,
+                {
+                  "tpe: "NmberitalTypeAnnoatin",
+                    "sat": 19               end":20,
+                "lo": 
+                  start": {
+                   "lin: 1,
+                 "coun": 19
+                 },
+                 "e: {                        "li:1,
+                     "column":20                }
+                  },
+                   "eta":
+                   "raValue": 2,
+                      raw": "2"
+                 }
+                  "value": 2
+                    
+            ]
+            }          ,
+             "id": null         "geatr: false
+           "async": flse,
+           "param": 
+              {
+              "type": "Identiir",
+                  "strt": 9,
+             "end: 10,
+                "loc": {                  "start": 
+                "lne":1,
+                   "colmn": 9
+                   ,                 "end: 
+                "le": 1,                 "comn": 10
+             },
+              "ientifierNme": "x"
+            },
+                 "name":"x"
+          }
+            ],
+          "bod": 
+             "ype": "NiLieral",               "start":24,            "end":25,
+             "loc": {              "strt":{
+               line" ,
+               "colmn" 24
+               },
+            "end": {                 lne" 1,
+                 "column": 25
+              }
+            },                era" {
+               "rawalue": 1,            "raw" 1"
+           },
+              "valu": 1
+             
+         }
+       }
+        ],      "id: "vr"
+         ],
+   "directives" ]  

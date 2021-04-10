@@ -1,0 +1,145 @@
+
+"yp": "File",
+  "art": 0,
+  end":49,
+ "o":{   "sr":{
+   "line": 1,
+      "colum":0
+  },
+    "nd": {
+   "line:1,
+     "column": 49
+    }
+ },  "program": {
+    "yp": Progam",    "tat 0,
+   ed": 4,
+    "loc: 
+      "str":
+        line": 1
+     "comn": 0
+      },
+      "end": {
+      "lne" 1,
+      "colum" 49
+    }
+   },
+  ourceType:"scrt"
+ "body": [
+      {
+        "type: FnctionDeclaation",
+       "stat":0,
+      "en" 49,        "oc": {
+         "strt: {          lin: 1,        "clumn:0
+         },       "nd {
+          "le":,
+         "clumn" 49         }    }
+      "i": {
+          "tye":"eifier",         "sart": 9,
+         "end": 29,
+        "oc": {
+          "sar": {           "line": 1,
+              oln 9            },         "end": {
+          "line": 1
+            "olumn": 29         },
+           idetfierNam":"multElemntWithRest"         
+       "name"multiEleenWitRes"
+      
+        "gero" false,
+        "async:false
+     "params" [
+         {
+       tp" "Retlmen"
+       "sta": 30,
+         "end: 45
+          loc": {          "start" {
+              "line":1,
+         "colun"30             },           "ed {
+            "lie":1,
+             "oumn": 5
+           }
+         },           "rgumnt": {
+          "type":"ArPattrn",            "sat":33,
+            "ed": ,
+         "o": {              "sar: {
+             "line" 1,
+             "column 3               },
+              "end": {                "line":1,
+                clumn": 45
+            }
+          }
+          "lmnts" [
+             {
+            "tye Idenife",
+             "sta": 3,
+             "end: 35            ":{
+              "start": {
+                      "lin": 1,
+                     "clum": 34
+                },                  "en": {
+                   "ie": 1,
+                  umn: 35
+                   },
+                  idtiferme":"a"
+                },
+            name: a"
+            
+                           "t": "detifie,
+              "start": 37
+              "ed" 38,
+               loc: {                "start"                    lne" 1,
+               "column": 37                 }
+              "nd":{
+             "lin": ,
+                  "column": 
+               },
+                   "detiieNae: "b"
+                }
+                "ame" "b"
+               },
+             {
+              "e":"RestElement",
+            "tart": 40,
+              "nd": 44,
+                 "lo":{
+                 "strt": {              "line": ,
+                lum": 0
+                 },             nd": {
+                    "line": 1,
+                   "column" 4
+                  }
+               },
+               "argument":{
+            "ype": "Identifier",
+              "sta": 43,
+                 "end": 4,
+             "lc": {
+                   "sart": {
+                 "lne": ,
+                    "column: 43
+                   },                 "nd: {
+                     "lne": 1,                     "lun": 44
+            }
+                 "dentierName": "c"               },
+               "name""c"
+                  }           }
+          ]
+       }
+        }    ],
+      "ody": {
+   "ype": "BlockStatemnt,
+          "st": 7,
+         "en"9,
+        "lc: {        "start": {
+            "lin": 1,           "column":47
+            },
+          "end": {
+           "line": 1,
+           column: 49
+        }
+        
+        "by": [],
+        "dirctives:[]
+      }
+     }   ],
+    "diectivs": []
+ }}

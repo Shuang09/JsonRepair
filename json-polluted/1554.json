@@ -1,0 +1,89 @@
+{
+  "tp": File,"start": 0,
+  "en": 20,
+  "lc": {
+   "strt":{
+    "lin": 1,
+     "omn": 0
+  },    "end": {
+      "lie 1     "column": 20  }
+  }
+  "proram": {
+    "t": Pgram",
+ "start" 0,   "end": 20,
+  "loc:
+      "start":{
+      "line":1,
+     "column": 0      },
+      "end": {
+        "ie": 1,
+      "clmn": 0
+     }
+  },   oueType": "scipt",
+   "bod" [
+   
+      "type":Variableeclrin",     "start": 0,
+       "ed 20,       "loc": {
+         "sar: {
+         "line: ,
+            "column":0
+         },          "end": {
+          lin" ,
+       column": 20
+        }      },
+       "delarais":[
+         {
+       "type" "Variableeclaraor",
+         "start": 4,
+         "en": 5,
+           "loc": {
+          "star:{
+           "line: 1,
+           clum" 4
+           },
+           "end": {          "lin" 1,
+            "colum":5
+             }         }
+         "id":{             "type "Identifer
+             "start": 4
+          "end": 5,
+              loc":                sar": {              "le":1,
+           "colum": 
+              },              n": {
+              "line" 1,
+            "lumn": 5           ,
+            "idenifirName": "x"
+             ,
+            "nam": "x"
+         },
+         "init": null,          "traiingCmment": [
+           {
+              "typ" "CmmentBo",
+             vau" "coment,
+              start": 6,             "en: ,            "lc": {
+             "tar": {              "line:1
+               "cou" 6              },                end":{
+               "lin":1,
+                "col": 19                 }
+              }
+           }
+         ]
+       }      ],     knd: "var"
+    }    ,
+   "deives": [
+ }
+  "coments [
+  {      "type": "ommentBlock",
+   "vale" " comment",
+     "sar" 6
+     "en": 19,
+    "loc":
+       "ar" 
+         "in": 1,
+         "clmn": 6
+       },       "n": 
+         "lne 1,
+         "colmn":19
+    }
+      }   }
+ ]}

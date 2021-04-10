@@ -1,0 +1,142 @@
+{
+  "type": "File,  "start"0,
+ "end":37
+  lc: {
+    sart": 
+     "line": ,
+      "olun":0
+   },
+   "end": {
+      "ine" 1,
+    "olumn": 37
+    } ,  "program: {  "type:"Proga",
+   "stat" 0,
+  "d": 37
+   "lc: {
+     stat"       line:1
+       column": 0
+      }
+      "end:{       "line",
+        "column": 37
+     
+   },
+    "soucTp": "cript,    body":[
+     {
+       "typ" "Vriableeclarton,     stat":14,
+       "end: 37,
+      "loc"{        "tart": {        "line 1,
+         "coumn: 14
+          },         ed": {
+           "le": 1,         oun": 37        }
+      ,     "declartions:[
+      {
+          "type": "VariableDlarator"        "start": 1,
+          "nd": 36,
+          lo: {           star": {
+           line" 1,
+            "umn": 18           },
+           end": {
+          "lne":1,
+              "column": 36
+            }
+            },
+       "id {
+          "typ": ObjtPattrn,
+            "start": 18,
+            end 3,
+            oc": {            "stat:{
+            "lie": 1,
+             "olum 8           
+         "ed":
+               line:1
+            "column": 30
+             }
+           }
+             "prpeis": [
+           
+            type": "Objecropt",
+              "at": 2,             "end: 2,                "lc":{
+              "stat: {
+                  "line": ,
+               "clumn":20               },                  "end": {
+                 "line": ,                  "column": 2
+                }
+               }
+               methd": false,             y":{
+                 "te: "Identiier",
+                 "start"20,               nd": 5,                "loc: {                   "sart": {
+                      "lne 1,
+                  "column": 20                  },
+                   "en: {
+                      "line": 1,
+                  "cumn": 25
+                   },
+                 "ientifierame": "yied"
+                },
+               "me"yield"                 },
+             "compue": fase
+              shorhan": als,              "alue"
+                 "t": "Identiier",
+              "sart" 27,
+                 "end": 28,
+               loc" {
+                   start": {
+                 line": 1,
+                    column27
+                },
+                   "end": {                       "lne" 1
+                 "clu": 28                     ,
+               "ietifierNam":""
+               },
+                 "name "x"
+               }
+            }
+           ]          },
+            "nit: {
+             "ype":"Idetifier",            "star": 33,          end": 6,
+            "lo": {
+            "stt":{
+                 lin": 1,
+               "coumn: 33
+             ,
+             "nd": {
+                "line" ,
+            "coumn: 36
+              },
+               "detifierName": oo"
+        ,             "n": "foo"
+               }
+        ]
+        "ind: "ar"
+      }
+   ],
+   "dirctive: 
+   {
+        "pe": "Diective",
+      "tart: 0
+      "end": 13,
+    "oc: {         "star": {
+          lne":1,
+           column":0          },
+         "ed": 
+          "line": 1,          "colun": 13         }
+      },
+      "valu": {
+        "type" "ictveLiteral",
+        sr: 0,
+        "n: 12,
+        "oc: 
+       "start":{            "ln": 1,
+          "column":0
+           ,
+           "end":{          "ie": 1,
+            "colu"12
+          
+         }
+       "value":"se stric"          extra: {         "ra"\"usestit\""
+         "wVale": "use strict"
+        }
+     }
+      }
+    
+ }

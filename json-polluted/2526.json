@@ -1,0 +1,107 @@
+
+  "tp" "Fle"
+"sar"0
+"en": 25,
+ "loc": {
+    "start{
+     "line": 1,
+   con": 0    ,
+   "end" {
+      "line": 2
+      "coumn": 5
+   }
+ }
+ proram":{
+    "type": "Pogram"
+    "start": ,
+   "end: 5
+   "loc": 
+    "sta": {
+      "line": 1,       "col": 
+    },
+     "end":{        "ine": 2,
+      "lum": 5
+    }
+    ,
+  sourceTpe": "script",
+    "body" 
+      {
+      "typ": "ExpressionSatement",
+      start": ,
+     "end": 25,
+      lc": {        "start": 
+            lin": 
+         "colum": 0       ,
+       "en":{
+           ne": ,
+          "ol": 
+         }
+        },
+       "xprssin:{
+         "ype": "FuntonExprso"       strt": ,
+         "end" 4,
+        "loc": {          "stat: {
+             "ie": 1,
+          "lun":1
+          }
+        "nd": 
+            "line ,
+             colun": 4
+          
+      },
+         "id: null
+         "eneor" fase,
+        "asy": fls,         "param":[],
+        "bod":{
+           type" "BlockStemen"
+         "start": 1,
+          "en":        lo": {        "start": {            "lin": 1,
+         "lun": 1
+            }
+             "end": {            "lin": 2,             column": 4
+         
+         },
+            body":[
+            {
+               "typ": "turtaemnt",
+             "stat": 13,               end": 19,
+              "lo": {              "strt": 
+                  "lin: ,           "colum" 13
+               }
+             "end": {
+                 ine": 1,
+              "column": 19
+              }
+              },            rme": null             },
+          {
+              type""ExrssionStaten",
+            start: 20,
+            "end":2
+           "lc":{
+             "start": 
+               "lne":2             "colun": 0
+                  
+                 "end: 
+               "line":               "column":                           }
+          "xressn" {
+            "type": "Idenir",                "srt":2,               ed": 2,
+                  "loc": {
+               "tart": 
+                    "lin: 2,
+                   "colum": 0                  }              "end": {
+                    "line: ,
+                  "clun":1
+              ,
+                  "idenfieName": "x                  ,
+               "name "x"
+              }
+            }
+          ,         "drctives": ]
+          },
+        "exra: {
+          "parenthesied": tru,          "parnStat 0
+         }      }
+    }
+ ,    "diective": []
+ }
+}

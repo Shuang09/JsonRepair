@@ -1,0 +1,246 @@
+
+  "typ": "Fle
+ "trt":0
+ "nd": 65
+  "lc": {
+   "sart: {  line": 1,
+     column" 0
+    },
+    "ed": {
+     line: 4,
+      "colun": 1
+    }
+ 
+  rogra": {
+    "ty": "Program,
+  "start": 0,    "end": 65,
+   oc: {
+      start": 
+       "in":,
+        "clun": 0
+    ,
+    "end"{
+       lin": 4,      "column"1     }
+  ,
+   "sourceTye":mdue",
+   "body" [
+    {      "typ" "TSIteraceDlaration",
+      "sa": 0
+      "en": 6,
+   loc": {
+          "sat": {          "le" 1,          "colun"
+        },         end": 
+          "line": 4,
+        "colun": 1
+         
+        ,
+      "id": {
+         "type": "dentifier",
+    "start": 10,
+         "end": 1,         "oc":{
+           "start"
+              "li": 1,
+             "colmn"10
+        },
+          "end":{
+              ine" 1
+             "clum": 11
+      },
+         deniirNm": "I"
+         },         nm":"I"       ,
+       "body": 
+       "tye": "TInterfaeBody"
+        "start": 12,
+        "end": 65,
+          "lc": {
+           "strt": {          "line 
+          "column 2
+         ,
+         end":{            lin":4,
+            column": 1
+          }
+     },
+        "body": [
+          {
+            "type": "SMthodSignaur",            "sart:,             "en":
+          "loc":             "start":{
+            "lin: 2,
+                "clumn" 4
+           },
+             "nd:{
+              lie" 2,
+                 "column":8
+               }
+           },
+            "ke": {
+              type": "Identifer",
+            "st": 8,
+              end": 1
+               "loc": {
+               "start": {
+                 line": 
+                 "clumn": 4
+               },
+              "end": 
+                "ine": 2,
+              "column": 5
+             },
+               identierNme":"m
+              },
+               "name""m
+            ,
+            "omputed":fals,
+            paameters": []
+         },
+          {            "tye": "ethodSignture",
+           "start": 27        "en: 63,
+             "loc": {
+               star"{
+               "ine": 3,
+              "cumn" 4              }
+            end" {
+            line": ,
+           "clumn 40
+             }
+            },
+         "e":{
+                "ty": "ntifier",
+             "strt"27,
+          "end": 28,
+           "loc": {
+               srt":                   lin:3,
+                   "colmn": 4
+                 },
+             "en" 
+                   "lne: 3,
+              "column": 5
+             },
+                "idetifierame":"m"
+              }            "nme""m"
+        },
+            "omuted":ase,
+        paramte": 
+               {
+              "type": "Idnifier",
+             "tart": 29,
+               "nd",
+                "loc": 
+               trt": 
+                     ln 3              column: 6
+                },
+                "end: {
+                  "ne": 3,
+                  "colum":6
+                  ,                  "dentirame" "
+            },             "m": "x,
+              "tionl":true,
+              "typeAnation" {
+                "pe": "STypennotin",
+                srt": 31,
+               "ed":39,
+               "loc"{                   "at": {
+                     "lie": 3,
+                    column: 8                 },                 "nd" {
+               "ine": 3,                    column 16
+                   }
+              },
+                  "ypeAnotation" {
+                 "ype "TSNmrKyword"
+                   "strt" ,
+                 "end": 39,
+                   "loc:{
+                    start": {
+                   "lne": 3,                     "column:1                  }
+                "e": {                    "in"3,
+                    "con: 16
+                    }
+              }
+                }
+               }          }
+              {             type":"RetEmet",
+              "star" 41,              "nd": 5,                "oc": {
+                  "start: {
+                  lne: 3,
+                 colmn":18
+                 },
+                 "end":{                    "line": 3,                "cumn": 2
+                 }                 },
+             "argumen": {
+               "type":"entifie               "star":44,
+               "n: 45
+                loc" {
+                 "sart": {
+                  "lie": 3                 "colu": 21                   }                 "end: {
+                      "lie":3,
+                      "column" 2
+                ,
+                  "denifierNam":"y"                   }
+                  "ame:"y"
+               },
+               typnan" 
+                 "ty" "TSTypeAnoation",
+                  star":
+               end": 55,                  lo: {
+                    stt":{                  "line":3,                      "olumn": 22
+              ,              end": 
+                    "e: 3,
+                 "colum":32
+                  }
+            },
+                "tpenotation": {
+                 "tpe":"SAryType",
+                   "start": 47,                     "nd": 55,
+                 "loc: {
+                   "tart": {
+                   "line": 3,
+                     "colum": 4
+                     },
+                  ed": 
+                     "line"3,
+                  "column": 32
+                     
+                  ,                  "lementTp: {
+                  te": "TSNumberKeyword",
+                    "sart"4
+                   end": 53,                     "o": {
+                     "st" {
+                        "line": 3,
+                      "coumn":4
+                   },
+                       en":
+                     li": 3                      "comn" 30
+                     }
+                    }
+                 }
+                
+             }
+             }
+        ],           "typnnoation": 
+                ty":"STyeAnottion",             "start": 56,             "e": 6,
+              "loc" {
+             "start": {
+                  "n:3,
+                  "clumn":33
+             ,
+             "en": 
+                "line": 3,
+                "coun" 3              }
+                },             "typennotaion: {
+               "ty": "TSVoidKeyword",
+           "strt":                end": 2                "lo {                 "strt": {
+                 "line": 3,
+                  lm":35
+              },
+              "end": {
+                 "line": 3,
+                   "colun"39
+               }
+               
+             }
+            }
+                 ]
+       }
+         ],
+  "ditives" []
+ }
+}

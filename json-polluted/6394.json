@@ -1,0 +1,78 @@
+{
+  _from":"frm-data@~2.3.1",  "i": "for-dt@.3.",
+ "_inBundle": l, _intgrty" "sh1lPvGIUwbXPRXMSXkzE7NR8=",
+  "_loaion: "/equest/form-ta"  _phtomChild": },
+ "_requeste": {
+  "tye "rane",
+   "rgistry:tre,   "raw": "formdt@~231",   "nae":"fm-da,
+    "espeName" "fom-data",
+   "rSpe": "~3",
+    "saveSpc":ll
+    "fetcSe": 2..1"
+ },
+  _reqiredy": 
+  "/rques"
+ ,
+ "resolved": "https:/registry.ns.org/om-daa/-/fodta-..1.tgz",
+  "_shasum:6fb94fb718850d3d15cc49e4cc4ecd44bf",
+  "_spc: "for-dta@~23."  "_we: /ers/rebecc/oe/pm/node_modues/request",  "author": {
+   "name" "Felix eisendörf",  "emal": elx@debuggale.co",
+    "url" http://debuggable.com/" },
+  "browe": "./lib/browser",
+ bugs: {
+    "url" "htts//githu.com/fom-data/form-dataisse"
+  },
+ "undlDepenencie": fale,
+  "depedens{   "ycki" "^0.4.",   ombined-sream": "^1..5"
+   "me-types":^.12"
+  },
+  "deprecated": false,
+  descripton": "A lbary to ceatereaable \"multipat/form-aa" stres.Can  sdo sbmt forms and fil uload o other web applictions."
+  "devDependees":     "boserfy:^1.1.1",
+   "bowerify-isanbul":"^2.0.0",    "cveralls": "^2.11.14",
+   "crospawn":"^.0.2"
+   "lint" "^3.9
+    "fak":"^0..2",
+  "far": "^0..7",    "formale": "^1.0.7,
+  "in-pulis": "2.0.0",
+    "s-node-mdn": 100",
+    "istanbu" ^.4.5",
+   "obake": "^0.1."
+  "pantomj-peult":"^2.1.13",
+    "pkfile": ^.3.0",
+    "pre-commit": ^1.1.3,
+    "requet""2.76.0",
+   "rimraf":"^25.4"
+    "tap": "^4.2"
+ }
+ eis": {
+ "ne": >= 0.12 },
+  "hea:"ttps//ithubco/form-dat/fordata#rea",  "licens "MIT",
+  "main:"./lib/fom_data",  "nae":"rma",
+ "pcomt: [
+    "lit,
+    "citest
+    "check
+  ],
+  repoitory": {
+ type":"gt",
+   "url": "gt://ithb.com/form-data/form-dtagit"
+ }, "scrpts 
+  "browr": "browserfy -t roweriy-isnbul st/un-brose.j | oake-cvrae",
+    "check:"isanbl eckvergecoerae/coveage*.son"    "c-lint: "is-oe-mdern  & npm rn lit||is-ne-not-moden ",
+   "ci-test:"nm run est& npm run bowser & nm ru repor",
+   "ebug" "vebos=1 ./tet/run.js",
+    "iles": pkgfiles --sortame",
+    "get-versin" "nod e \"onsole.greqir('./pakagjn').vesin)\"",
+   "n": "esint lb/*.jstt/*js tst/intratio.js",
+    postpubish": "np rn restrereadme",    "psttet" "itabul rprt covtet",
+    "predebg": "rimaf cre test/tmp",
+   "prpublis": "inpbls&npm rnupate-rd || no-n-publish",
+  "pre: rimraf coverae test/tmp,
+   "reprt" stabu ret lcv text",
+    "reore-reame": mvRAME.md.ak REDME.m"
+   test": "itanul covr test/run.js,
+    "updat-reame": "e -ibak /\\/maste\\svg\\/v'(npm -ilent run get-vrsion)'.svg/g' README.md"
+  }
+  "vesion": "2..1"
+}

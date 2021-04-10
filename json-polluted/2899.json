@@ -1,0 +1,84 @@
+{  "e": "File",
+  "start":0,
+ end":36,
+  lo": {    "strt"{
+     line": 1
+     "olmn": 0
+    },    "nd":{      "le": 1,
+     clumn 36   }
+  },
+  oga: 
+    "tp": "Prgrm",
+    start": ,
+    "en": 3,
+  "loc"{
+   "start" {
+       "lne": 1
+      "olun" 
+     },      "n": {   "ine":1
+      colum": 36
+         
+   "sourceTp": scrit"
+   "body": 
+    {
+     "tp": "VariablDclaration"
+        "art:0,      "end": 36,
+       "loc" {        start": {
+         "lne":1,
+        "colmn": 0
+          }
+         "end":{
+           "lne": 1,        "lumn": 36
+       }
+       },
+     "dlaations": [
+        {
+          "type": "VariableDlraor,
+          start": 4,
+        end":35,
+         "loc": {
+              "start: {
+            "lie": ,
+            column": 4
+             },
+          nd":
+         "line: 1,
+              lumn: 35
+            }
+        },         d":{
+           "type: "dntifier",
+            "start":,
+           "ed":10,
+           "loc" {              strt": {
+              "lne": 1,
+                  "olmn": 4
+              },
+              ed"
+              "ln": 1,
+               "colum": 10              }
+            "deifierae": source"
+        }            "name": "soure"
+         },
+           "nt":             "type":"SingLiteral"
+            "start": 1,
+           "nd"5,
+          "lo" {
+             "st" {
+              "lne": ,             "column": 13
+           },
+          "nd" {
+              "ne": 1,
+               olum": 3             }
+            },
+           "era": 
+              "rwVle" "\"\u{14E\\u{836}""           "raw": "\\\\\{714E}\\\\u336}"'"
+          },
+            "val":"\"u{71E}\\u{8336\"
+           
+         }
+        ],
+      "kin": "var"
+   
+    ],    "dirctives" []
+ }
+}

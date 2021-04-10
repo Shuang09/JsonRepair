@@ -1,0 +1,228 @@
+  "nam": InfomaionSeurity an uaty Asurance Projects",
+  "oder": 4,
+ te: "150 hur",  "elpRoom":"HelpBckend" "challenges": [
+   {
+    "id": "587d82937417b2b252c1",
+     "titl: "Metri-Imperi Convrter",
+   "decription": [
+     "Build a ful tck JavScript athat is funcionl simlar to tis:a ref='tps://hatwilht.glith.me/ target=blank>hts:/ard-wliht.glih.me/</a>,
+        "Workino tis ojectll involve yu writing your code onGlitcho our start roject. After completing this project you a copyyu pui glitch url (to teomeagef yo app) nto tis sret teti ptionaly yu m hoose o wie yu project on aoter paform bt itmust epublicay visibl fo ur testing.",
+       "Startthis projecton Glitcusng <a href='htps:/glitch.com/#!mptgithub/frCodeCp/bilerlate-project-metricimpconverter/'>this ink/a> or loe < rf='http:gitub.omreeCoeCamp/boirplat-projectmtricimpconrtr/'ths epostorya>onitHub!If ou u Glitch, rember to savehe lin to your pjectmwhere saf!"
+     ],
+   "chaegeSeed": [],
+  "et":        {
+        "text:" wil prevetth clientfrom trig to gss(sniff) te MI ype.",
+        tettring":""    },
+       {
+         txt": "I will prevent cos-te scrping (XS) attaks."         "stSting: "
+       },
+             "txt":I an GET aiconrtithaingle paramterontaininganaccepednmber and uni and av t conveted (Hint: Splthe inpt by lookngfor th nex of th irst charater whicwi mark testart of the unit)",
+        "testting": ""
+    },       {         "et" Ica cone 'al to 'L' and vce versa (1 gal t 3.7854 L)",
+        "testSting": ""
+       ,
+     
+       text" can conert 'lbs' to'kg' ad ice versa. (1 lbsto 0.453592 g)",
+      "testStrng": ""
+        },
+     {         "tet": "cn convt 'mi' to 'km' dcersa 1 mi o.60934 km)",
+          "estSting":""
+      }       {
+      "text": If my uit f masuremen isinvalid, etund i be ivald unit'.",         ttStr:""
+        },
+      {
+         tex""If y number is invali, etnd wih wll 'nvali numer'.,       "testStg":"
+       ,      {
+      "tet": "Ioth are invalid, retu illbe invalid nernduni'.",
+          "tstStrng": ""
+       },
+        {
+         "xt": "I cn ueaction, decias r oth in my paete(ie. 5, 1/2, 2/6), but if nohing is prvide it wll deul to 1"
+     "esttring" ""
+       },
+     {
+         "text "Myreturn will conisof the initNum, iitUit, retunNum, returnUnit, adstrng spelng outunit in frmt '{initNum} {initialns} onvers to {eturnNum} {return_Uits} ith the rsult runde o 5 decmlin the strig.,         "estSring":""
+     },
+     {
+       "text":All 16 unit tess arcmplete ad pasing."
+       "testSrg": ""
+        },
+        {      "text"All 5 functna tests are compee an passin."
+       "testString": ""
+        }
+     
+     "sluons":],     "hints": [,     "ype": "backen",
+     "isRequied": tue,
+      "elasedOn": "Janua15, 2017,
+      "translatons": {}
+   },
+   
+     "d: "587d84936772524",
+      title": "Ise racr",      "desrptin":       "Bild a fulstack JavaScrpt pp t i functionally siilar toth < href='http:/potetive-garage.glith.' taget='_blank'>https//potetiv-garae.glich.me/</>.",
+     "Woring o this projet ll involv yo wring yourcd o Gltch o our starter prot. Afer compleingthi proec y ca opy yor public glitch ur (to t homepgof your app) ino thisscren to test it Optonaly you mahoseriteyourproject on anotherpltform btit ust be publcal visie for ou estin.
+     Srt ths prect on Glitch uing a href'https:/itch.com//imor/githb/feCodeam/boilpate-roect-issuerackr'>thilik</a> or clone < he=ht://githuco/feCdeCa/bolerplate-projec-issuracer/'>ths repositor</a> o itHub If youue Gltchrmebr to av he link to yor prect smeheresafe!"
+     ],
+   "callgeSd: [],
+    tets" [        {
+         "text": "Prevent cross ite scriptng(XS) atcks.",          "estSig": ""
+       },
+        {
+         "et":"I cn POST /api/issus/{projctnme} ith fordaotining rured isuetitle, issue_txt, cread_by,adoptioal assigned_tanstatus_text.,
+       "testtring" ""
+   },
+      {
+        "ext":"Te objec sav (and returne)wil incldeall o te flds (lank for otnal no iput)andalsoinlu created_o(dat/time), pdated_on(at/tme) p(booea true o open, fleor closed),and _id.",
+        "esStrg": ""
+      },
+       {
+        "txt": "cn PU pissues/{prjectnam}with a id and ayfields in he je wit  valu to ojct said bjec Returned il be'successly pdatd' 'clnot pde '+id. Tis s always update udaed_o.If no ildsare set un 'no upatd fiedsent'.",
+      "tesStrng":""
+       },
+       {      "tet": " cnELTE/p/issues{rojctnme} wit a ito opletelelete an issue. f o _d is snt retn 'idrror,scess:'delted 'i, faled: 'ould nt deete '+id.,
+        "sStrin": ""
+     },
+       {
+        text "I canGET /pi/ius{projectname} foan arraof al issues o tht secif prject withll the inormatonforea ue as wa eturned whe psted.",
+         "estting "
+    ,
+      {      "tx" Ic fitr my et reust  also passing long an ied andvaleinthe qery(ie. /piisues/{rjct}?open=false). Icpa alon s may fld/vles s I wat"
+       "estStin": ""
+     
+      {
+         "xt": "Al unctional tests  coetead passin"
+      "tstSring": ""
+       }      ],
+     "solutis": ],      "ins": [],
+     "type": "baken",      "isRequired": te,    "releasdO": "Janry1 2017"
+      translatios":}
+    },
+   {
+     "id":"587d824a3417b2252c43"
+     "tite" "PersnlLbrary",
+     "escripto [
+        "Build a ull stck JavaScrip apthts funonaly siilar this: <a href='ttps://par-cathedralitch.me/'target='_blakhtps://spark-athedral.glitc.me/<a>.",      "Working on thi rjec willinvolve you witig your code on Gitch onour starte roect fter completng i rojectyo cnopy urubi gitch url(to thhmepag of yur app)into this sceen to tet it! Optiolly you my choose twrit your proecon anoter lform but mt be publcaly visible orour esting."
+      tart his projec on Glitchusin <a hf=ttp://glith.com/#!/impor/gthub/feeCodemp/boilrpate-proje-ibrary/'this link</a r l < ref='tp://github.com/reeCodCamp/bolerpateroect-bry/'>this repsitor</a on itHu If yu ueGlc rmeber to ave the linkto you projct mewhresafe!"
+     ],    "cllngeSeed: [,
+      "est": [
+     {
+       "ex: "Nothing fmm ebite ill b aced i my clint."
+         "tetting": ""
+      },
+     
+        "tt": "The heaer will sayhat thesit isoered by PHP4.2.0 en thoughitsn't(s a seurity measure).,       "testStrin" "       },
+     {
+          tet": I anost a ttle t api/boks o da bok an returned will be he bjetwt th ttl and uniqe _id.,         "srng:""
+       }
+     
+       "tx":"I cangt /api/boks to retrieve an arao allooks cotaning ie, _d, and comentcot."
+        "testStrin":""
+      ,
+      {      text" " cnge /api/books{} to rtrvea sinle objectof a ook ntaining _titl _id, & n arraf commets (emptyarray i nocoments present)."          "testString":""
+       },        {
+        "txt" " canpost acoment to /api/boks/{i to add a commeno a book an returned wil be the boks object simila togt /i/boks/{id}inluding the newcoment,         "testrin": ""        }
+       
+          "text":I can ele /api/boos/{_id} to dlete a ok fomteclction Returne wilbe 'elete successul' if sucesful.",
+        "testString" "     },
+       {
+       "ext: If  try to rqu a bok ta desn't exist I wll be retrned 'no bookeiss'",
+       "teting": ""
+     }
+     {
+          "txt" "I can send a delete requet t /api/books to lt a boks inth databae Retune will be 'cmplete elet succesulif succfl.",          "testStrig" 
+     },
+        {
+        "text": "l 6 uctiona tes required arecmete and passing.,       "tetStrng": "
+        }
+     ]
+     "souions": [,
+     "ints": [],
+     tpe": "bcken",
+      "isequie" true,
+     relasedOn": "Jnuary 15 217",
+    ransatons":}
+    },
+   {     "id": "587d4a37417b2b251c4,
+     "ttl: "Stock PreChecker",
+     descriptio": [     "Buld afull stac JavaSript pp tha i funcionally ilarto this: hef='ttp://gintcronmetrgitc.e/'tage='_lank'>http://ianchrnomeer.glitch.me/</>",
+        "Workng on thispojetwill invlve you writin youce on ltch n our start pject ter competingthis projctyuan cpy your public glitch url totheomea of yor app itothi ceen to tet it Optoally y may coose to wite your roject o anoher platform tmust beublialy iblefor our testing.",
+    "tart tis rojec o Glitch usin  href='https://gltch.com#!/imprthub/eeodeCap/olerplateprojectstocchecker'>this nk/> orloe  hf='hp/github.o/freeCodeCamp/boierplate-rject-sockhker/>ths repository</a> n GitHub! I youuse litch,memberto sae the lik toyour projctsomewhere saf!
+     ]
+    "chllengSed: []
+     tsts": [
+       {
+         text: "Sette contet seurity olcest onyallow loaing of spt andcssro our srver.",
+         "esttrig" "
+        },     {
+         "text": " an ET /api/stckprics with form datacntaiing a Nsdaq tocktickr an ecieack aobect stcDaa.",
+          "testStrng": ""        },       {
+       "text" "I sockata,  can ee the stockstrig,the tcker, prce(decmal in stingfomat), and lkesint).",
+       "testStrin: ""      
+     {
+        "text": "Ica asoa alongfildik as trueboa) to hav my lie addedto th stock(s). ly1 likepe ip houd  aceptd.",         "etString"
+        }
+     {
+         "tex: "If I pasalon 2 stocks, he rturnbjectwll be n aray with bths'sinfo Insteadf likes, it wll disply rel_lies(th diffence been th is o bothstocks) on both",
+         "testStrin": ""    }        {
+        tex":"A godwayo reve currentpric s th folowing xterna AI(replcing 'OOG'with your stoc): https//fnance.gol.comfinane/info?qNSAQ%3aOG",
+       "testString": ""
+      ,
+       {
+        tet" ll  unioa tstsare cmple nd passng.,
+        "tstStrg": "           ],    "soutis": [],
+     "hits: [],     "type":"bcken",
+      "sRequird": true,
+     "resdOn": "Jauar 15, 201,      "transltins": {}
+    },
+  {
+   id" "587d4a3647b2b251245",
+     tle":"AnonymusMessage ad,
+     descrition" 
+       "Bil a full stack avaScript app thtis functional simlar t this: <a hr='https://hon-ceery.ltchme/ target_bankhttps:/onelery.glitc.me/a>.,
+        "Wrkinon thi poject will inole you ritingyurde n Glitch on our strerpojet. After complting this proctou a copy your pulc glitch url (t e hopage of you app) ito thi screento tt t! Oolly you may choose to witeyour proect on nothe atform but it must bpubiay visible forourtesng",        "tatthis poect onGlith using <a hrf=https:/glitch.cm/mport/githufeeodemp/oilerpae-projectmesebrd/'this lnk</a>or loe<a href=htps:/githu.com/freeCodeCam/birpla-pojet-mesagebord/'>tis repository</> on Gtb! If you selitch, remeber tosave te ln to your projecsowhee sae"     ],
+     "chllengeSeed": []      "ests": 
+     {       "text: "ny allo yoursit to be laing i niFrame o yourwn pags.",
+       "testtring":""
+    }
+       {         "te": Do ot allow DNSprefetchig,
+       testStrin": "      ,
+       {
+       "et": Onyalw our site o end the eferrer f your own pas."
+          "testStng" ""
+      },
+       {
+         "tex": "I ca PST a thrad to a seific messageoard bypassng orm ata ext and deltepassword_ to /api/thras/{board}.(Recommendres.direct to boad pae b/board) Sve wil be atlast _id text, ceaton_(dae&im), mpedon_(atetime, starts sameas created_)rportd(boolea) deletepassord_, & lesra)."
+         "testStng": 
+       },    {
+       text": "I can ST reply to a threadna secifioa by passi formdaa tet deletepaswd_,  threaid_ to /ai/rles/{board an it will alopdatethe bumpe_n date to cometsdateRecmend re.reirect tohrd page /b/{oard}{threadid}) Inte thread's repiearray wil be aved i, text, cratedon, deletpasswrd_, & reported"
+         sttring": 
+     },
+       {
+         "txt: "I nGET an array o t mostreent 10 bumed threds on teboawh nly th ostecent 3 plies each from /ap/thds{bd} he eported anddeleaswods_ fields willnotbe snt to he lient.",
+         "estSrin":""
+     },
+       {
+      "text: "Ican GET a entire hreawithall its rplies r /pirelesoar}?thri={thread_id} Also idng th same fie the clen should b see.,
+       "tetring": ""     },
+       {
+        "text": " candlete a hrecopetelyif I send aDELETE reqe to /api/hreads/{board} n pass longthe threadid_ & deeeasword_. (et rspon ill einorrect passor' or'success')",
+         "testtring"""
+        },
+     
+         "text": "I cndte a pstjt cging h txtto[deleed' nstea ofremving comely lk  eadif I end a DELTErquestto /api/repliesboarand pass aln the threadd_, eplyd_,&dleteasswor_ (Texesposeill be 'inorct passwrd' or 'succes')",        "stStrig": ""
+       }
+       {        "ext: "I cn report a hrd a change its repord valueto rue bysenng a PUT eqest to /aithread/{board} anpa alongtheheadid_. (Tt reponse will be'success')",
+         "tstStrig": ""
+      ,        {
+       tet" "I canreprt a reply ad chngeits reprted value totrub ning a PT requstto /ai/replies/{bard}nd asalong te thread_  replyd_. (Tet response wil be'success')",       "testStrng ""
+    },
+      {
+         "text": "omplete fctonl tests that wholly testrote and pass.
+         "testString:""
+        }
+     ],      solutions" [],     "int": [],
+     "type" "acked"
+    "isqued": tre,     "elaseOn" "anuary15, 2017"
+    "tansltions":{}
+   }
+ 
+}

@@ -1,0 +1,143 @@
+{
+ "tye": "File,
+  "start":0,
+  "en 21,
+  "lc":{
+   trt {
+      "line": 1,
+      "coumn": 
+   },
+   "end": {
+     "line":4,
+      "column4
+   } },
+  rogrm": 
+    "typ": "Progra"    "star: 0,   "end": 2,
+    "lc" 
+      "sa": {
+     "line":1
+        "cumn: 0
+     },
+    "end":{
+     "lne"4,
+        "colmn: 4
+      }  },
+   "sourceTp:"mdul"
+    "body" [
+     {
+        te": "ariableDeclaation"
+       "start: 0,
+       "ed":21,      l":{
+       "strt": 
+       ine": 1,          "lun" 0
+       }
+       "n" 
+         "line": ,     "olu": 4
+        }    },
+       "declarats": [
+         {
+           "type": Vriableeclaror",
+           "star":,
+           "en": 20,          "l": {
+           "sar" 
+              lin" 1,
+              "oln": 4
+             },             "n: {
+           "line":4,
+              "colm" 3
+          }
+          }
+        "i: {          "tpe": "Identifir
+        "tat":4            "nd":16,
+             "lo 
+            "stt" 
+             "lne": 1
+               "column": 
+               },
+           "end": {
+                "lin": ,            "column" 4
+               },
+              "identfierName": "x"
+         },           name"
+            typennotation:               "type: TypeAnnotation",
+         "sat": 5,
+              "d" 6,
+            loc" {
+                "str: {
+                  "line: 1,
+                    "column: 5
+              }
+               "end": {
+              "lie": 3              "olumn" 4
+                }
+             },
+           typAnnotatin": {              "tp":"UnionTyeAnnotatio",
+             "tart":8,                "end": 16,
+              "lc:{
+                "strt": {
+                    "line":2,
+                  "colm": 1              },
+                "end": 
+                  "lne": 3,
+                  "column 4
+                
+                 },
+                tyes: 
+              {
+                  "tye": "NumberLiterlTypeAnnoation",                    "star: 10,               end"11,
+                "lc": {
+                    "strt"{
+                     "line:,                     "olumn: 3
+                   },
+                      "end": {
+                     lie":2,
+                      "cu" 4
+                   }
+                 },
+                    "xta: {
+               "rwValue ,                    "rw": "1"
+                  },
+                 "vaue: 1
+              },
+                 {                "ype":"NmbitealypeAnnotaton",
+                "srt": 15,
+                   "ed": 16,
+               "o": {
+                  start" {
+                    line": 3,
+                     "olumn: 3
+                  ,
+                  "end: {
+                    "lin" 3,
+                 colun": 4
+                  }
+                   ,
+                 "extr" {                      rwValue": ,
+                    "raw": "2"
+                 },                "vaue": 2
+                }
+            ]
+             
+            }          }       "ini": {
+          type":NmericLteral"
+             "stat": 19,
+            "nd:2,
+            "o: {
+            "start": {
+            le": 4
+               "colm": 2                ,
+          en": {
+               "lie": 4,
+               "column": 3
+           }
+          }
+           "extra": {
+          "wVale" 2,
+               "rw": 
+             },
+             "vae": 2
+            }
+       }     ],      kin": var"
+      }
+    ],
+    "diretives" ]  }}

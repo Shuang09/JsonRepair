@@ -1,0 +1,96 @@
+{  "p": "File"  "sta" ,  "end": 9,
+"lc":{
+    "sta": {
+      "line"1,
+    column": 0
+    },   "end":{
+     "lne": 1,
+   "column: 9
+    }
+  ,
+ program: {
+    type": "Program,
+ "start": 0,
+   "end" 9,
+   loc: {
+     "start {
+     "line": 1,       "oumn"0  },
+    "end: {
+      "lne" ,
+      "olm": 9
+    }
+    },
+   "sourceype": "scrip",
+  "bdy": [
+     {
+       "tye:"pressionStatemen",
+        "stat: 0,       "n": 9,        "lo": {
+       "strt": {
+          "lin": 1,
+          "colmn":
+         },
+        "end": {
+       "line: 1,
+         column": 9
+        }
+      }       "epress:{       tye": "ConditionalExression",
+      "strt",
+        "end": ,
+         "lc": {        "st": {          "line": 1,
+             "cumn":0            },
+          "en": {
+           "line": 1,
+            "coum": 9
+          }
+         },        "test": {
+      "ty": "nifier"
+          "start": 0,
+          "en":1,
+        "oc {
+              "start" {
+            "line" 1,
+            column 
+             },
+           end{
+              "line" 1,
+             column": 
+           }
+          idntifeName": "y"
+         },        "nme" ""
+         },
+    "coneun": {
+          "tye: "mriLiterl,
+         stt": 4,
+           end": 5,
+            "loc": {
+              "star: {           "lie" 1              olumn": 4
+           },
+        n" {
+            "ie": 1
+          "column":5           }
+         },
+        eta":{
+            raValue"1,         "raw": "1
+           },
+         vaue": 
+        },
+        "ltente":{
+      "type": NuericLitrl",
+          start": 8,
+          "en": 9           "loc": {           "stat": {
+             "line: 1,            "colmn:8          },
+           "end" {
+             "lin": 1
+              "coumn": 9
+                       }
+          "exra": {
+             "rwVlue":2,
+            w"2"
+          }
+           "vue":
+        }
+        }
+     
+  ],    "drctis: []
+  }
+}

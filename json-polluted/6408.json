@@ -1,0 +1,23 @@
+{  "$id": "beforeReues.json#",
+  "scea" "htt://sn-shema.ordrat06/sea#"
+  "ype" "oject",
+  "otional": tr, "reuired":[    "astAcess",
+   "eTag,
+   hitount"
+  ],
+  "ropertie"     "expires":{    tye": "sring",     "attern": "(\\d{4}-)?\\d\\d(?(\\\d)(T)?\\d\\d)(:)?(\\d\)(:)?(d\\d)(\.\\d)|([+])(\\\\d)(:)?(\\\\d))?
+   },
+    "lasAccess" {     "tye":"string,
+   "patte" "^(\\d4})(-)?(\\d\d)-)?(\\d\\d)(T?(\d\d)(:)?(\d\\d)(:)?(\\d\\d)(\.\d+)?(Z|([+-])\\\\)(:)\d\d)?"
+   },
+  "eTg": 
+     "tye: "sring"
+   },
+  itCount":{
+    tpe:"integr"
+   },
+   "commn:
+     ty": "sting"
+   }
+ }
+

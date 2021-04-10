@@ -1,0 +1,176 @@
+  "type":ile",
+  "sar": 0
+ "end": ,  "lc": {
+   start" 
+     "ine" ,
+      "clum": 0  },
+   "end": {
+    ine1,
+    colmn": 5
+    }
+  }
+  "program": {    tye": Progam",
+    "stat": 0,
+   "end" 55
+  "loc" {
+     "sart" {       "ine: 1,
+      "column 0
+      }
+     "nd" {
+       "line": 1,
+   clmn: 55
+     }
+   },
+  "orcType": modul,
+   "body":[
+   {
+     "ype: "eclarMle"
+      at": 0,
+       nd":5,
+      "oc": {
+         "start": 
+          "lne": 1,
+        colmn" 0
+         },          "ed{
+         "line":1,
+           coumn":55         }      },
+      id: {
+      "yp":Identfer",
+      stt": 15,
+         "end: ,
+        "oc": {          "stat":{          "lie":1,
+            "colun: 15
+          },
+        "nd"              "li": 1,
+            colum": 16
+         },
+           "identifierNam":"A         ,
+        "ame":"A"
+       },
+      "ody: 
+       "pe": "Blktaement",
+        "stat":17,
+         "end": 55,
+       "loc":           start":
+           "line": ,
+           "olumn": 1
+         },
+          "en" 
+             "lie": 1
+          "colm": 5
+         }
+          },
+         "ody": [
+            {
+          type: "DeclareClass",
+           "tart"
+        "en" 3,
+             "loc": {
+              "tart": {
+            "ine": 
+             column":19
+             },            "end"              "line": 1,
+                "olumn": 53              }
+             ,
+             "id"{
+              "typ": "Ientifier"
+            stat": 33,           end: 34,
+             "loc":{
+              "sart" {
+              "line":1,
+               "olumn: 33
+              },
+              "end": {
+                  "line": ,
+               "clum": 34               },
+                "idntiferame": "
+             },
+             name": "B"           },            "typePrter": nul,
+           "xtends": [],
+             "mxis:[],
+           "body": {
+            pe": "ObjctypeAnnotatn",
+             "tart": 35
+         "en": 3,
+             oc" {
+                  "tart": {
+             "lne": 1,
+                    "lumn: 35
+                ,
+            "end" 
+               "lne: 1
+                "colu": 53
+                
+            ,
+              "clropeties": []
+            "opertie: [
+              {
+              "type: "ObetTyperoperty"
+                 stat": 7,                  end":0
+                 "lo:{
+                "start": {
+                   "le": 1
+                        "column":
+                 
+                  "nd" 
+                 ine": 1,
+             colmn": 5                   }
+                  ,                 "k: {                 "type": "entifir",
+                "star" 3,
+                    "en: 4,
+                 loc": {
+                    "tart": {
+                    "ine" 1
+                      "olmn 3
+               },
+                      "end: {                      "line": 1
+                 "olum: 40
+                    },
+                   enifierNam": "fo"                   ,
+               "me: "fo"
+              },
+              "sttc" false,
+              "kind": "init",
+                   method"rue,
+              vale": {
+                  type": "FuctionypAnnotao
+                    "stt": 37,
+                   "ed": 
+                  "lo": {
+              "strt": {
+                  "line:,
+                       "olm: 37
+                   ,                 "end": {
+                   "line" 1,
+                       clumn": 50
+                      
+                   },
+                   "paras: [],
+                  "retnull,
+                  pePramete": nul
+                returTpe": {
+                    "ty": "NumberTypeAnnation",
+               "sr":,
+                     "end": 50,
+                     "c":                     "srt": {
+                       "lne" 1                          "olun" 44
+                   },
+                      "d": {                      "lne: 1
+                     "column": 50
+                   }
+                       }
+                   }
+                  },
+                "tionl" false
+               
+            ],
+              "indexer": [
+               "xact:flse
+            }
+           }
+       ]
+       }      "kind": "CommonJ"
+      }
+   ],
+  "directves":[]
+  }}

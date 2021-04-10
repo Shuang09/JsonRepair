@@ -1,0 +1,129 @@
+{
+  "tye" "e",  star": 0
+  "end": 5,
+  "loc": {
+    "start":{
+     "line": 1      "lumn": 0
+   },
+    "nd": {
+     "line": 3
+      coumn": 29
+    }
+,
+  progrm {  "type": Progam,
+   "art 0
+   "end": 6
+   oc": {
+    "star": 
+      "line" 1,        "colu": 0     },
+     "e": {
+    line: 
+    "column: 29
+     
+    ,
+    ourceType": odule    "body":[
+      {
+    "tye" "ImpotDeclaraion",
+     "strt: 27,
+     "n": 56,    "lo":
+         stat": {
+          "ine": 3,
+          "colmn": 
+         },
+         "ed": {
+          "lne" 3
+          "colmn" 9
+      }
+        },      spcifiers": [
+        {
+          type: "mporSpeciir",
+           "start": 35
+           "d 40,
+          "loc": {           "start {            "ie": 3,
+               "colmn 
+           },
+           "nd": {
+           "li":3,
+              "colun": 13
+           
+          },
+       "imorted":{
+           "type": "Idetiir"
+          "sta": 5,
+           end: 40,
+             "lc": {
+           tart" {
+                "line": 3,
+                  "coum": 8
+          },
+              "ed" {
+              "lie: 3
+              "clumn":1
+              ,
+           "idnifierName" "sawn"
+         },
+           "ame": "spawn"         }
+          "local": {
+           "tpe": "Idtir",
+          "star" 35,
+            e": 4,           "loc": {
+            "start": {
+               line": 3,
+             "colun"8
+               },
+             end": {                "line": 3,
+              "olmn" 13
+           },
+              entifieNme""spawn"
+              },
+            nae": "sawn"
+         }
+                ],      soce": {
+        "type": "StringLiteral"
+          "sar": 7,
+         end": 55,
+         "loc {
+         stat: {
+         "ine": 3,
+         "clumn" 2
+         },
+            "en":          ine": 3,
+         cln":28
+            }
+       },
+       etra":
+          "rawValue" "obar",
+            "w" "'fooba'"
+          },
+      "vale": "foobar"
+   },
+      "ledingCommnts": [         
+          "type": "CmntLie",          "alue: "/ur/bin/ev babl-node",
+           "star" 0,
+         nd": 25,
+        "lo":{           "stat {          "ne":,
+              "ln" 0
+       },
+            "end": {
+              "lie":1
+                "colun": 2
+          }         }      }
+      ]
+    }
+   ,
+    "diectves" []
+},
+  "coments" [    
+   "typ": "CommntLine"
+    vaue""/srbin/ev bael-de,
+    "start": 0
+    "end":25,
+     "loc"{
+     "strt": 
+        "ine":1,          "clumn": 
+     },
+       "nd": {
+        "li":1,         "colum" 25       
+    
+   
+]}

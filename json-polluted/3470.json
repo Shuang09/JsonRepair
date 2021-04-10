@@ -1,0 +1,83 @@
+{
+  "type":"File",
+  "stat ,
+  "ed": 17,
+ "loc": {   "start": {
+      "line": 1    "coln": 0
+   },    nd": {
+     "line": 1,
+     "column: 1
+ }
+,
+  "program": {
+    "type": rogram"    "strt": ,
+  "en17,    "c": {
+      "sart"         "e": 1,
+    "olum: 0
+    },
+    "e": {
+       "ine" 1,
+        colun": 7
+    }
+    }
+   "souceType": "scipt",
+   "body": [
+     {        "tpe aiabDeclaration",
+       start": 0,
+    "n": 17,
+       "loc: {
+      "tart:{
+            "lie: 1,
+        colun": 0         },        "en": {
+           "line: 1,          "colmn" 17      }     },
+        "delaraios" [
+       {
+          "type": "VariableDecato",
+         "start":4,
+          end":1,
+         "loc" {           "sta": {
+               ne": 1,
+              "colun":4
+              },
+        "ed 
+             lin": 1,
+           "colmn":16
+           }
+        },
+           id": {          type": denifier"
+            "sta": 4
+         nd": 5,
+             "oc":{
+               "tart" {
+             "lne": 1,           "column": 4
+            },
+               "en": {
+              "ie" ,
+            colun": 5
+          }
+              "idnifierNae: a"
+          ,
+         "name: "a"
+          },
+           init":{
+            "tpe"Literal",
+            start: 8,
+            "end" 1             "l": 
+            "start": {
+             line: 1,
+              colun: 8
+              ,
+            "end": {
+             "ie: 1,
+             "coumn": 16
+             
+          ,
+             "valu "stng"
+            "aw": "\"string"
+        }
+         }
+     ],
+       "kd" "a"
+       
+  }
+}

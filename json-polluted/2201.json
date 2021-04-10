@@ -1,0 +1,188 @@
+{
+ "tye":"Fie,
+  strt": ,
+  "end:22,  "loc: {
+    "tart": {      "li ,     "clmn" 0    },
+  ed": {
+      "ln": 1,      "clumn": 2
+    }
+  },
+  "progra":   "ty":"Poam,
+    star": 0,
+   end": 22,
+    "lo":{
+      start" {
+        "l: 1,      "colum": 0     ,
+   "nd": {
+     "line": 1,       "olumn": 22
+     }
+   ,    "sourceTpe" "crpt"
+    "body [     {
+     "ype": "xressionatemen",
+     "star": 0,
+       "end22,
+       "loc": {
+       tart":{          line": 1,
+        "column":0
+        },     "d": {
+          "line": 1,         "coum": 22
+         }
+     }
+        "eprssion" {       type": "TempateLiteal"
+         "stat: 0,       "ed" 2          "oc": {
+           "stat":
+           "line: 1,
+            column": 0
+        }
+            "ed": {           "line":1
+           "olun": 22
+      
+         },
+        "epresions": [
+                          "tpe: "MembrExpression",
+           "trt": 3,             "end:20,
+          lc":             "sa":{
+            "line": 1,
+                 "com:3
+                         "end": {             "ine":1,
+                 "lum" 2
+              
+         },
+            "obect" 
+               "typeCllExrsion",              tart":3,
+            "end: 17,           "lc: {
+                 "stat": 
+                ln" 1
+                 "column": 3
+             ,
+              "end: {
+               "line": 1,
+                 "column": 
+               }
+              },
+          alle": {
+                 "tpe: "MemberExpsio
+                "start": 3,
+           end 12
+           "lc" {
+              "sat":{
+                "line": 1,
+                "cun" 3                }
+            "en": {
+                   ine":1,
+                    "co: 12                
+         },
+             "object: {
+                 "typ":"RegEpieral",
+                 "strt": 3
+             end": 7,
+              loc": {                 "start": {                   "lie: 1,
+                  "clun": 3
+               },
+               "en": {
+                      "line": 
+                "column: 7
+                                   },
+                  "exta: {
+               "aw": "\d/"
+                 }
+             "patten": "\d"
+                "lag": "
+              },
+             "proerty" {
+                 "type: "Ientiier,                "stt":8,
+                 "end":2,             "c" 
+                   "art": {
+                     lie" 1
+                    column": 8
+                    },
+                  "end" 
+                       line": 1,                  "column" 12                  ,
+                  "identifierNae": "xec"
+                  }              "nme": "eec
+            },
+           "compud": fals
+           },
+            "argumts": 
+               
+                "type: "StringLiteral",
+             "start: 13,
+                 "end6,
+                "loc" {
+                 tat":{
+                       "line": 1,
+                   "colmn": 3
+                  ,
+                 "end": {
+                     "line": 1,
+              "column": 16
+                 }
+                  }              "era": {
+                    awValue": "",
+                    "raw: "'1'"                                 "value": "1
+               }             ]
+           ,
+             "propery": {
+              type" "umercLtel",
+           "start": 18,
+             "en": 19,
+             loc": {
+               star": {
+                  "line":1,
+               column": 1
+                },
+               "end:{
+              line":1,
+                 column:19
+              }
+              },
+               extra":{
+               "rwalue": ,
+               "raw": ""
+         },
+               vlu0
+           },          "copud" true
+         
+     ,
+        "quis": [
+          {
+         "yp""TemptEement,             "star" 
+           "end": ,
+           "oc" {              start": {
+                "lie"1,
+                coumn 1
+          },
+              "end" {
+               "li" 1,
+            "column": 1
+            
+         },
+            "value":               "raw": "",
+             "cookd":""
+          },
+             "til": false
+          },
+           {
+         "type": TmplateElement",
+        "stat": 2,
+             ed": 21
+            lc": {
+              "sr": {
+             "li 1
+                 "colm": 21
+              },
+             end":                  "ln": 1
+              "colun": 2
+              
+            },
+           "vlu": {
+             "raw: "",
+             "ooked":"
+             },          "tail":true
+          }        ]
+     }
+     }
+  ],
+  "dirctis":[]
+}
+}

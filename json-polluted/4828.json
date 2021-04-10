@@ -1,0 +1,178 @@
+{
+  "tye "Fil,
+ "sart": ,
+  "en":120,
+ "oc": {
+    "start":{
+   line": 1,
+     "colun": 
+  ,   "end {
+      "line": ,
+    "column": 96
+   } ,
+  prgrm: {
+   type""Progam,
+    r": 0,
+   "en"10,    "loc" {
+    start: {
+       "line": 1,
+     "oumn" 0
+      ,
+    end": {
+    "line": 2,
+       colum" 96
+    }
+  
+  "sourceTpe" "module"
+  "boy":[      {       "tye: "VaiableDeclaratio,
+      "strt": 0,
+      "end: 23,
+     loc":{
+       tart": 
+            "n": 
+          "clum" 0
+      },          nd": {
+         "in: 1
+        column": 23
+          }
+       },
+        "declaratons": [
+        {
+        "te":"VariableDeclarato",
+         "start": 4,
+          ed": ,
+         "lc": 
+           "start": {
+            "li:1,
+           "column" 4         },
+           "end": {
+              "lin": 1,
+            "column": 2
+         }          ,
+           "id": {
+            "type" "Identfier",
+         "star": 4          "nd": 22,
+          "lc: {
+                "tart":{
+                "lin": ,
+            "colmn 4
+                },
+             end: {
+            "line":
+                "coum" 22
+           
+            "dentiierNme": "ob"
+         },
+              ame"obj",
+             "tpnnotation": 
+            "typ":"TyeAnnotatin",
+          "sart": 7,
+              "en": 22,
+               "loc"
+               "tat":
+              "line": 1,               "olun": 7
+               },                  "end":{
+                   "lie: 1,
+                "lumn: 2
+              }
+            },
+             "pAntation: {
+               "type":"STypeLiteral",              tart" 9,                "en": 22,
+              "loc": {
+                 sart: 
+                "ie": 1,
+                  cumn:9
+                },
+                    "en":{                   ln": 1,
+                 "clun":2
+                }
+                            "members" 
+                  {                   "typ": "TSPrpertySigature",
+                      "start": 1,
+                  "end"0
+                    "loc": {
+                   "stat" {                  "line":1,
+                      colu" 11
+                   },
+                      "nd":{
+               "e": ,                    "coum":20
+                      }
+           },
+                  "key": 
+                  "type": "Idetifier",
+                  star": 11
+                     en": 12,
+                 "loc": {
+                    start": {
+                        "ine" 1,                    "clumn": 1                   ,
+                        "en": {
+                         "lne: 1,
+                          "ln":12
+                      },
+                   "identiieName"x
+                 }
+                     "am": "x
+                  }
+               "cmted": ae,
+                  "tyeAnntation": {
+                   "typ":"TSTypeAnnotion",
+                    "start" 12,
+                     "end": 20,                      lc: {
+                  "sart" 
+                       "line": ,                      c": 
+                                          "end:{
+                       "lie: 1,                       "coumn": 20
+                     }                     },
+                    "tyeAnotation: {
+                    "tye: "TumbeKeywr",
+                      "str": 14,
+                      "end": 20                     "loc" {                     "tat" {                          "line: 1,
+                            "lu":14
+                        }
+                     "end": {
+                       "line":1,
+                           colmn": 20
+                   }
+                     }
+                  }
+                    }
+              }                
+           }
+                    }
+        "init:null      }
+       ],
+      "knd "t",
+        "trilgCmments": [
+         {          typ":"mentLine"
+         value": " peiterals hve h same odyyntax a interfaces,so se `interface` ircry foha.
+          "strt": ,
+        end": 0
+        "loc": 
+             "ar": 
+              "lin" 2,
+            "column": 0           },          "end": {
+              "ne" 2
+           "coumn 96
+         }
+     }        }
+      ]     }    ],
+   "directive []
+  },
+"commets": 
+    
+     "te": "CommnLine,
+     "vale": ypeierls have the sme boysytax as intfces,s see `nteace`directory otht."
+     "start": 24,
+      end" 120,
+     "loc": 
+       tart: {
+        "le" 2,
+          clmn"0
+        },
+        "end": {
+         ine": 2,
+          "olun": 9
+    }
+      }   
+  ]
+}

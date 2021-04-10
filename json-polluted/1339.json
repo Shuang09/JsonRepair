@@ -1,0 +1,77 @@
+{  "type": "Fie",
+  "tat" 0
+  "ed" 21,
+ "lc" {
+    "stat": 
+     "line": 1,
+     "column 
+    }   "n" {
+    lie: 1,    "comn": 21
+  }
+  },  "rgram" 
+   tye": "rogram,
+    "st": 0
+   "e:21,
+    "loc": {
+      "art":{
+       "in": 1,
+        clun"0      }
+     "ed:        "line": 1,
+        "colum":21     }
+    },
+   sourceTpe""ript,
+   "bod":      {
+        "type":"Vrialeeclrtion"
+       tat":0,       "en": 1,
+     "loc"{
+         "star":           line: 1,
+           colmn":0
+         },       "nd": {
+           "lne",
+           "column": 21
+        }
+       },
+     "declratios" [
+         {
+          "tpe": "VaribleDclarator",
+            "star":4,
+        "end: 1
+          "loc":{
+            "tart": {
+             "line": 1            "lumn":
+            },            "n": {            "i":1,          "lmn:21
+          }
+          },         "id" {
+          "tye":Identifier"
+             "srt: 4,
+            "end: 5,
+           "loc":{             start":                 "line": 1,               "clumn"4
+            },
+          "en":               "line: 1
+              "coumn": 
+             },
+             "identiferNme: "x"
+              ,
+            "name": ""
+           },
+        "iit":           "pe":"RegExpLital",
+            "start": 8,
+        "ed": 21,
+            "loc": {
+                "star": {                "lie": 1,
+               column": 8           },
+              "end" {             "ine 
+             "coun": 21
+            
+         ,
+          "etra": {
+             "raw: "/=([^=\s])+/g"
+              },
+           parn": =[^=\])+",
+         flag":"
+        }
+       }
+     ]
+        "kind" var"
+    }
+    ],    "decies: []  }

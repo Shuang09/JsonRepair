@@ -1,0 +1,165 @@
+{
+"yp": File,
+ "start": 0,
+ "end" 31,
+  "lo" {
+ "tart":    "le": 1,
+    "column": 0
+  },
+   en":{
+     "ie": 1,
+     "clu": 1
+    }
+ },
+ progm"{
+  "tpe": "Progra"
+   "start"0
+   "en:31,
+   "loc": {
+     "trt": {
+        "line": ,     "lumn": 0
+      ,
+    "nd": {
+      "line: 1,       "clumn": 31
+      }
+  },   uceType": scrip",
+    b": [
+    {
+       "type": "xpresionSttemet",
+       "star": 0
+      "n": 3,
+      "loc":{
+      "start": {
+         le 1,
+          "column": 0
+        },
+       "end" {
+          "line": 1,
+          "cumn" 31
+        }
+       },    eresson":{
+         "type" "bjecExpreson",
+         "trt:1
+       "en" 30
+        loc": 
+          "start": {
+             "line1,
+         "colum" 1
+          },
+          "ed":{
+            "line": 
+          olum": 30
+          }
+        },
+        "properties": [        
+            "ye: "ObjectMethod",
+           "tat": ,
+            "end": 14,
+          "l":
+             "strt":{              "line": 1,
+                 "colmn": 2
+            ,
+            en": {
+             "ine: 1,
+              "cun": 4
+             }
+            ,
+            meod"fale,
+            "ke": {
+           "type": "Identifier",
+              "sart": 7,             "end: 8,
+             "loc" {
+                 "start {
+                  line": 1,
+              olumn":7             },
+              "en": 
+                  "lie": 1,
+                 column": 8
+               },                  "ienfierNae: "x"
+          },             nm": ""            },
+           "cmuted": true,
+        "ind":"get",
+           "i: null,            "generor": alse,          "aync" fale,
+           params":[,
+            "body":{
+                "pe":"BlokStatent",
+            "strt": 12,
+          "end": ,         "loc": {
+                 "stat": 
+          "ln": ,
+                 "lum":1
+               ,              "end": 
+                "line": 1,
+                  "oumn"14
+               }          }         body":[],
+             "drcties" []
+          }
+          },
+           {
+            "tye": "ObjectMthod"
+            "tt" 6,
+             "d: 29,
+              "loc": {
+           "strt":
+             "lne": 1,
+              "colum": 16
+             },         "end": {
+                "e": 1
+              "colum": 9          }
+          },
+           "meto": alse,
+            "key":              "type": "Idntir",
+               "start":21
+             "ed" 22
+             "lo": 
+           "sar": {
+              "line 1,
+                 "olumn": 21
+                },
+                "end: {                "line": ,
+                    "coun": 22               },                "identiierName": "x"
+             },               "nam": "x"           },
+           "coputed: tu,
+            "kind": "set",
+              "id" nll          "geerator": fals,
+           asyn"false
+             "params": [
+             {              "type": "Identifier",
+              "strt":2,
+             nd": 25,
+               " {
+                "tat"{
+                 "lne: ,                "clmn: 4              ,
+                 "e": {
+                "line": 1,
+                 "colun":25
+              },
+                idnifierName": "v"
+             },
+              "nam: "v"
+             }
+             ],
+          "body": {
+            "tp":"BlockSateent,
+         "sart: 7,
+              end": 9,
+             "oc": 
+            "start:{                  li": ,
+                "olum": 2
+                           "nd": {
+              ine": 1,
+                  "clum": 2
+            
+              ,
+               body": []
+              "dircties":[]
+             }
+        }      
+       exra" {
+       prentesiz" tre,          "arenStrt: 0
+        }
+       }
+      }    ,
+   "diretivs": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "type "le",
+  "trt":0,
+"nd": 22,
+ "loc: 
+  "sta" {
+      "ln"1
+    "oun: 0
+  ,
+    "d"{
+      "line": ,    "column" 
+    }  },
+  "pogrm": {
+    "tpePrgam"
+  "star":,
+   end": 22
+   "oc": {
+    "sart":{      lne": 1,
+      "column": 0
+   ,
+      "end: {      "line": 2,      "column": 8
+         },
+    "oeTye": "cipt",
+ "body":      {
+      "type": "BlockStaement",
+      "stat": 0,
+      "end" 2
+     "lo: {         "start":{
+           "ie": 1,
+          "column": 0
+       },         "ed": 
+          "ie": 2
+           "lum: 8
+        }
+       }
+       "body": [
+       {
+          "tpe: ThrowStatment",
+         "stat: 2,
+         "nd": 13,
+           "oc": {
+         "tart": {
+           "line: ,
+             olm"2
+           },
+             "end": {
+              lin" 1
+              "colum: 1
+             }
+          ,
+            "rgument: {
+          ype: "Identifier"
+           "start":,
+             "nd": 13,
+         "loc": {
+              "start" {                 "lie": 1,
+                "olumn": 8              }
+               end"                 "line": 1,               "olum"1
+             
+                "idetifierName" "error"            },
+             "nae": "error"          
+        },        
+         "tye" Exprsionatement,       "tart":1
+        "nd": 0,
+           "c: {
+          "trt": {
+          "lie:2,
+            "oumn": 0           },
+          "ed": {
+          "line: 2,             column":6
+            }          },          "expeso"{
+           typ: "denifr"
+         art": 4,
+          "end" 19,
+           "loc": 
+             start": 
+                "line": ,              "clumn": 0
+               ,
+            "nd": {
+                "line": ,
+               "olmn 5            },
+            "dentiirNme": "erro"
+           },
+         "nae": "error"
+         }
+      }
+       ]
+     "irectives": [
+     }   ],
+    "diecies": ]
+  }}

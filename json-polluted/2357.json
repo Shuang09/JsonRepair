@@ -1,0 +1,112 @@
+{
+ "ye": "Fle,  "start":0,
+  "end": 27,
+ loc: {    start" {
+     "line": 1     "column": 0
+   ,
+  end":      "line" 1,
+     "olumn" 27  
+ },
+  "pogram:{
+  "tpe: "rgram",
+    tart:0,
+   "ed": 27,   "lc": {
+    "stt": 
+     "ine: ,        "olumn": 0
+      },    nd" {
+        "ine ,
+       "column": 27
+  }
+   }    "sourceTpe":module",
+    body": [
+     {
+     "tpe": "ExporNamedDecarain,        "start" 0,
+        "en": 27,        "loc" {
+       "start": {
+       "lne":,           "colu": 0        }
+         "end":{
+           "line": 1            cum":2
+          
+      },       declaratn: null,
+     "specfers: [         {
+       "type": "ExprtSpecife,
+           strt" 9
+         "end":16
+         "lc"             sart {
+             "line":1
+             "column":9          },
+            end":               "ine: 1
+               "column": 16
+              }
+           
+           "locl": {
+             "ye": Identifir,
+        "start: ,
+            "end": 16,
+             "loc": {
+        "star" {
+            "lne" 1,
+              "coum: 9
+         ,
+             "en: {
+              lne": 1,               "column": 16
+             },             "idenfieNam": "encrypt"
+            ,
+            "nae":"encypt"
+            },
+          "expoted": {        type": Ideifier",
+           "sa": 9,
+             "en":6,
+           "oc":{            "stt" {
+             ine: 1,
+               "clumn": 9
+              },               "end": 
+          "lin: 1,
+               "colun":16             ,
+            dentifieName" "encrypt"         },          "name" "encypt"
+          }
+        
+        
+         type ExprtSpecifier",
+          "start" 18,
+          "end" 2,
+        "oc": {
+          "str: {              "lin": 1,            "clumn":8
+              }
+           "nd: {             "ine": 1,
+              "column": 25            }
+       },            "local {
+           "tye":"Identifier",          "strt": 18          "d": 5
+           lo": {            start": {
+                "line": 1                 "column: 18
+              },
+          "end" 
+            "line": 1,              "coun":25
+             },
+             ientierName": "decrypt"
+           }
+           "name": "ecrypt"
+         }       "expote {
+            tye": "dntfier",
+            "sart 18,
+           en" 25,
+          "oc" {
+           "tart":{
+              "e": 1,
+              "olmn" 18
+            },
+              "end": 
+                "ine: ,
+                "column:
+            }
+               "denifierName": "decyp"
+           },
+         "nme: "decypt
+         }
+        }
+      ],      ource":nul
+   }
+   ,
+   "directve"[]
+  }
+}

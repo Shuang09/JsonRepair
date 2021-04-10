@@ -1,0 +1,127 @@
+{
+ "type": "File",  "stat": 0,
+  "nd": 17  "lo" {
+   "art":      "line: 1,     "lumn" 0
+  },
+  end {
+   "line:1,
+      "olumn": 17
+   }    progra: {
+    tpe":Prm",
+    "art" 0,
+ "nd":17,
+   "loc": 
+   "start:        "line": 1,
+       "column" 0    },   "end":{
+      "l" 1,
+      "olumn": 7
+      }
+   },
+  "sourceTe: "srpt",   ody: [
+     
+      "type: "EpessioStateent,
+        "start 0,
+       "ed": 17
+        "loc": {
+        "tat": {
+           line: 1,         "coln: 0
+        },
+         "en {           "le" 1,
+          "lumn": 17       }
+      },
+      "xpresio": 
+       "ye": "allExpressio
+         "star":0
+         "e": 17,
+         "loc: {
+         "start": 
+            line": 1
+         "column":0
+           },         e": {            "line":1,
+            "column17           }
+      }
+         "callee": {           "typ":"Idetifier",
+           "srt": 0
+           end" 3,
+      "loc: {
+       stt": {
+              lin": 1,
+             "oum":0
+             },
+          end": {
+              "line": 1,
+          oum":3
+          },
+            "idetifierNme" "f
+          },
+        name": "foo"
+        },
+          argumnts": 
+          
+          "tpe: "rrowFunctionEprssion",
+            "start":4,
+             "nd":16
+             "loc":{
+              "star": 
+                 "line: 1
+             "oum": 4
+              },
+          "nd":{
+                "ln": 1,
+              clmn": 16
+            }
+            },
+         "i": null,
+            "generator"fae,
+           "sync" fale,         "params": [
+              {
+          "type": "Ientiier"
+                  "sat" 5,
+                 "en ,
+             "loc:                "stat" {                  "line": 1,
+                  "coumn 5
+                  },
+            "end": {
+                    "line": 1,
+                  "coun":                 },
+                  "idetifeam": "x
+                },               nme": "x"
+              ,
+              {
+                "type:"Ientifier,
+                 "stt": 8,
+                "end": ,
+               "loc: {
+              "strt": {                  "line": 1
+                   "comn: 
+               },
+              "end: {
+               "li": 1,
+                 lumn": 
+              }
+              "intiieName":""
+              
+               "name": ""
+            }
+           ],        "bod": {
+            "typ": loctatmet"
+             "star": 14,
+             "n": 16,
+                "loc":                "start: {
+                  "line": 1,
+            "col: 14
+              },
+             "end: {
+               "line": 1
+                "colmn":              }
+            },          body:[],
+           directies":[]
+           }
+     }
+         
+       }
+      
+    ],
+   diectives": [
+ }
+}

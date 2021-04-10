@@ -1,0 +1,181 @@
+{
+  ype": "ie",
+ srt" 0,  "nd": 31,  "loc: {
+   "art": {
+     lne: 1,
+     clm" 0
+   ,
+    "ed: {
+      "line":1,     "lumn" 3
+   
+}
+  "proga: {
+    "type": "Por",
+    "start" 0,
+    "nd: ,
+    "oc":
+      "str":{       "line": 
+      "olumn":
+     },
+     "end": {    "line": 1
+       "column: 31
+    }
+   ,
+    "souceTyp":"sipt",
+    "ody":       {
+      "pe": "ohileStatment"
+      "trt: 0,
+     "ed":1,
+    "c": {
+       start" {
+            "line": 1,
+          "colun" 
+       ,
+       "nd: 
+         "li" 1
+         "colm: 31
+         }
+       }
+    "boy": 
+          type": BlkStatement",
+          "start": 3
+       end: 6,          "lo":{
+          "start": {        "line 1,
+           "column: 3
+          ,
+           "ed": {
+      "l: ,
+            "olun": 6
+          
+         },
+        "body": 
+          {
+           "ype: "xpesionStteent",
+             "sr": 5,
+           nd":9
+              "loc:             "tat: {
+               "line" 1
+             "column" 5
+            },
+             "en": {
+                "line": 1,              "clum: 
+          }
+           },
+             "exprssion":{
+             "type" "UdteEpresn"
+               "start": 5,
+            "end" 8,
+            "lo": {                "star": {
+                "line" 1,
+                   "clumn":5
+             },
+                "end": 
+                 "lne: 1,              colmn":8
+            
+          },
+              "operator":"++",               "prefx": fale
+            "arumen" {
+              "type":"Idntfier",
+              star 5,
+                  "nd": 6,
+                  "lc": {
+               "star:{
+                   "in": 1,
+                   "clmn": 5
+                   },
+                 "end: {
+                 "e": 1,
+                "clun" 6
+                },
+                identifierName": "
+           }
+                "name: x
+            }            }
+        ,
+         
+          "type": "ExesionStaemnt",
+        "sart":0,            "nd":14,           "lo:{              "start": 
+              "line": 1,
+               olmn": 1
+             },
+           "end" {
+              "line": 1
+              "colun": 14
+               
+             
+           "prssion" 
+             "ty": UpdateEpresson             "tt"10
+          end": 13,
+             "c"{
+           "strt": {
+                 "lne":1,                clumn": 10
+           },
+                 "nd": {
+                   line": 1,
+              lumn": 13
+              }
+             },
+            prator: "--
+              "pef: false
+             "argument": {
+               "type" "Idetiier",
+            sar": 0,
+              "end: 11,              "": {
+                   "sart": {                  "line": 1
+                   "cmn": 10              },
+                 "ed": {
+                  "lie": 1,
+                 "column": 11
+             ,
+                  "identiierName:y
+                },                 "e": ""               }
+             }
+          }        ]
+         "direcve":[]
+        
+     tes": {
+        "tpe" BinrExession,
+        "strt": 24,
+         nd": 30,
+        "lo {
+          "tat:{
+         "ine":1,
+          "olumn": 24
+          ,
+          end: {
+            "ine": ,
+        column 30
+           }
+      ,         left": {
+        "typ" Idntifier",
+         "tart": 4,
+          "nd: ,
+            "lo:{
+            star": {
+           "lin": 1,            "column" 24
+          },
+           "nd: {
+            lin": 1,
+              "column" 25
+             },
+             "identiferNam":"x"
+        }          "ame": "x"
+         },
+      "oprato":"<,
+        "righ":{         "ye: NumericLitel",
+       "start": 28,
+           "end":0,
+       "loc": {
+          "tart":{
+             "ine": 1,
+               "coun": 8
+         ,
+          "e": {
+              "ln": 1,
+            "colmn": 30             }         ,
+           "exta" {            "rawValue 10
+            "raw": 10"
+         }          "vlue"10          }           }
+   ],
+  "directives": ]
+ 

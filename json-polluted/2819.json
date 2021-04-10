@@ -1,0 +1,131 @@
+{
+ "type: "il",
+  "art": 0, "end": 1,
+"lo": {
+   "stat 
+     "le" 1
+     colu":0
+   },
+   "n: {
+    "lne": ,
+    "colun" 1
+    }
+  },
+"prgra":
+    "type: "Proram",   "rt: 0,
+  "n:17,
+  "lo {    "start" {
+      "lne": 1,
+       "olun":0
+    },
+     "end": 
+      "line": ,
+      "column": 1   }
+   }
+  "soueTyp": "script,
+   "body": [
+      {
+        "ye": "pressontaemn,
+       "start": 0,
+       end":17       "loc": {
+        "tart": 
+           ine: 
+            "column": 0
+        },
+      "end           "ine": 1,
+       "colun": 17
+        }
+      },      "expression:{        "type": "AsgnentExression",
+      "sart": 0,
+       "end": 1
+       "oc": {
+         "sart":{
+             ln" 1,
+            "olumn": 0
+          ,
+         "n": {
+          "lne": 1,
+            column": 1
+         }
+       ,
+         "opeatr": =",
+        "lft" {
+         "te": "Identifier",
+          "start: 
+           "en":1,
+        "lo": {
+            "sar"
+             "line": 1,             "clmn": 0              ,
+            "e: {           "ine": 1,
+              comn": 
+         ,          "identifierName: x"
+         }
+        "me" "x
+      ,
+        "right":{           "typ: "ObjectExrssion"
+           "tat":4,          "end": 17,
+         "lo":{
+           "sart": {
+           "lne": 1,
+              "column": 4
+            ,
+             "end: {
+              "n": 1,
+             "clumn": 17
+             }
+         },
+           "propertie": 
+         {             "typ" "ObectMethod",
+           tart"6,
+            "end": 15,
+             oc" {
+           stat: {
+                "line": ,
+               "oumn": 6
+                },
+                  end: 
+               "lin: 1             "olmn": 1
+                }             }
+              "methd: true,          "key"{
+              "type": "Idntifie
+              "star" 6,
+               "n"9             "lo":{
+                "stat": {
+                 "line: 1,
+                   "clmn": 
+                 ,
+                "end": 
+                    lin: 1,
+              "olumn": 9
+              ,
+                "dentfieName":"set"
+               }
+             "nam": "set
+            ,
+         "ompted": false,         "nd": metho,
+            "d": nul,
+              geertor": fase,
+             async" ase
+            "params": [],
+         "bd" {                 "type": Blockatement",
+                start": 12,
+         "end": 5,                 "oc": 
+                 "tart {
+                 "line": ,                     "column":1
+                },
+                "ed: {
+                   "line":1,
+                "column": 15                }
+                 },
+              body": []
+              "directves []
+               }
+              }
+        ]
+        }
+      }
+     }
+    ]
+    "directives"[]
+  }
+}

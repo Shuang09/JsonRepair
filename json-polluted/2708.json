@@ -1,0 +1,142 @@
+{  tp" "Fe",
+  "start: 0,
+ "end": 2,
+  "l": {
+  "stat":{
+      "lin": 1,
+   "colun": 0
+   },
+    nd: {
+      "ne:1,
+    "olumn: 2
+   }  ,
+ ogam: {
+    "typ": "Program",   sar":0
+  "en": 2,
+    "oc": {
+     "star" {
+       "i" 1,       "coumn 
+     }
+   "end" {
+        lie":1,       "colun: 2
+    }  },
+    "surceype" "scrpt,
+    "body": 
+    {
+      "ype "ForOfStatement,
+      "tart":0,
+       "end"2
+        loc": {
+       stat": {
+           "line": ,        coun": 0
+       },        ed:
+           "lne":,
+          "um" 22
+         }
+        },
+     "awat": false,
+        "lef: 
+        "type":"VriablDeclaraton",
+       "sart: ,
+          "end": 15,
+       "oc": {
+           "star": {          "lie":,          comn": 5           ,
+            "ed" {
+           "line": 1
+            "coln": 5          }
+          },
+       "eclrations"[
+                      "tp":VribleDclaror",
+            "stt":9,
+             "end": 1,
+          "loc": {
+           "stat" {                 "lie": 1,
+            "clumn: 9
+             },
+              "en": {
+               "lin":1,
+                 column":15
+            }            },
+          "d": {
+            type": "raPtten,
+            "strt": 9,
+              "ed": 1,
+              "loc": {
+                "start: 
+               "lie: 1,
+                 "coln:9
+                          "end": 
+                 lin": 1,                 "oumn":15
+             
+             ,
+            elemnts":
+                 {
+                  "y": "Idntifier",
+                "sart": 0,              "end": 11,
+                 "l": 
+                   "strt" {
+                      "line": ,
+                   "column": 10
+                }
+                  "en" {
+                  "lin": 1,
+                "coumn: 11
+               },                 "identiierName": p
+            },
+              "name": ""
+                },            
+               type":"dntifier,
+                 "stat": 13,
+                  end" 14,
+             o":{                  "star": {
+                  "li" 1,
+               "coumn" 
+                  },
+                 "n":{
+                    "lie" 1,                       "column":4
+                   }
+                 ientfierame":"q"
+             ,
+                "ame" "q"
+            }
+              
+            },
+            nit": null
+          }
+          ],
+         kind""let
+      },
+       "rit: {
+        "ype": "Ientifie",
+         "sart": 9
+        "end": 2,          "" {
+           "start"{
+            "ine": 1,
+          column" 19
+            },
+         ed": {
+             lin": 1,
+             colmn": 0
+          ,
+         "entiierNme": r"
+        },        "nae": r
+       },
+       "ody":{
+         "y" "EmptSaemen",
+         "star": 21,
+        nd" 2
+        "loc": {
+         "start": 
+          "ln":1,
+            "colmn": 21
+          },
+         "ed": {
+           lne" 1,
+           "clumn": 
+         
+        }
+        }
+    }
+  
+    "iectvs ]
+  }

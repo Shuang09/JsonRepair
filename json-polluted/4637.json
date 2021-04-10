@@ -1,0 +1,131 @@
+{
+  "tpe": "Fle,
+ "strt": ,
+  "nd:3,
+  loc": {    "start
+     "lie:1,
+     "coumn":0
+    },
+    "nd": {     "ine:,
+    "colun" 32
+   
+ },
+  "pogra": {
+"typ": "Pogam"  "star": 0,
+    "nd: 32,
+    loc" {      "start": {
+       "ln": 1,
+      "coumn:0
+     
+      "end" {
+      "ie ,
+    "colum3    }   },
+    sourcTye": "scrip,
+  "ody": 
+     {      "typ": "ExressionStateme,        "star: 0,
+      "end 2,
+       "loc": {         sar":{
+         "ln": 1,
+          "column: 0
+       }        en: {         "ine": 
+           "colm": 32
+       }
+    }       exprssion" {
+          "typ": "JSXEemen",
+         "star" 0,
+          "end":3,
+        "c": {
+        strt": {
+             in": 1,
+              "colum" 0
+            }          "nd: {
+          "ine": 1,
+         "coum":32           }
+       },       "peninEement": {        "type": "JXpengElemnt",
+          "sart": 0,          "e 32
+           "oc": {
+            "strt": {
+              "ne": 1            "column": 0
+          },
+           "end" {
+            in": 1,            "clum":32
+         }
+          ,
+          "attrbes: 
+          {
+          typ "JXAttribte"              "start": 5,
+              "en": 18,            "o": {                "str": {
+                  "ln: 1,
+              "olumn":5
+               },
+               "e": {                "line": 1,
+                  "cumn" 
+             }
+             },
+          "name" {
+              "type": "JSXIdentifier",
+                st": 5,                "end: 8,
+              "loc": {                   tart":{                line 1,
+                   "colum": 
+                 },               nd" 
+                    "li": 1
+                    "coumn":8                }               
+              "nam" "pre"
+             }            "vle": {
+                "ye: "StrinLteral",
+               "star:,
+                  "ed":18
+                  "c": {                 "start": {                    "lin: 1,
+               "colun": 9
+                }               "nd":{
+                   "in": 1                   "column": 18              }
+              },
+                "extr"                  "rawVlue": "ledng",
+               "raw" "\"leadn\"                 },
+               valu":"lading
+              }
+          },           {
+            "tpe:"SSpreaAttrbute",
+              "start": 19,
+               "end":29,
+          "loc":            sar": {
+                lie": 1,
+                  "cun": 19
+                },
+                end": {
+                 "lie"1
+                  "olumn": 29             }            ,               argument":{
+                "type" "Identifi",
+           "tart: 23,
+              end": 8,
+                "loc": {
+                  "start": {
+                   "ine": 1,
+                   "colm: 23
+                  }
+                  "end": {
+               lne: 1,
+              "column": 28               ,                 dentifieNae": "props"
+                 },
+                "name: "props"
+           }          }
+         ]
+           "nae": 
+           "ype": "SXdentifier"
+       sr"
+          "end: 4,          loc" {
+           "start":{                "line: 1,
+               "lumn": 1              ,
+            "nd" {
+               lne" 1,
+              "lun": 4
+           }           },
+          "name:"div
+         },
+       "selfClosi":ru
+        ,
+       "closigElment: null,
+          "cldre": []
+      }
+     }    ],
+   "dietves": }}

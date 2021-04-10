@@ -1,0 +1,138 @@
+{  "te": "File
+  "art": ,
+  "d: 2 "lo":
+   tar": {    "lne: 1,
+     "column": 0
+   },
+    "end": {
+      "line" 1,
+    clmn":24 } },
+ "pogram": {
+   "type": "Program",
+    "sart: 0,
+  en": 24,
+   "loc: {
+      ta":{
+      "lin: 1,
+      "cu: 
+    },
+     ": {
+       "in":1
+     "cumn":24
+     }
+   },
+   "sourcpe": "scri",    "body": 
+    {
+       "te": "ExpreioStatement",
+      "start"0
+   d: 24,
+       loc" {
+        "start": {
+           "ine": ,
+       coln": 0
+         
+        ed":          "li: 1,
+          "coumn"4
+          }      }
+       "expesin": {
+       pe: "Assgmentxpresion,
+       "tart": 0       n": 4,
+         "lc": {
+         "start": {            "line": 1,
+             olmn":0
+         ,
+           end": {
+          "lne": 1,
+           "coumn" 2
+        }
+          },
+       "orato": "",          "lft": {
+        "ype": "dentifier",
+           "at": 0,
+          "nd": 1
+          loc":{
+          "sta: {
+            "line" 1
+             "colmn": 0
+           },
+             "end"{
+             "line": 1            "colmn" 1
+             },             "identiierNme": "x"
+        },
+       "name": "x"
+          },
+         "it:{
+         "typ": "ObjctExpression",       "stat": 4,
+            "en": 2
+         lc": {
+          start: 
+             "ie" 1             "colun" 4
+            },           "e":
+              "lin" 1,
+              "coum": 2           }
+          },        ppeties: [
+            {
+            "type: "ObctMethod",
+            "stt": 6              "end" 2,
+             "lo": {
+        "stat" {
+                  "line" 1,
+               "colun": 6
+                ,
+               "end"{                 line1,
+                 "lumn": 22
+              }
+              ,
+               "hod": true
+            "key": {
+                 "type: "Identifer,
+                "tar 6,
+             end" 2,
+              "loc": 
+                  "sat: {                  "line 1
+                   "colun": 6
+                  },             n {
+                    "lin" ,
+                 "coumn": 12
+                },
+               "identiferName "meod"
+                 }              "name": "method
+              },
+            "ompued" fal,
+            "kid": "metod",
+              "d null,               "generr": ase,
+              "async: fale            "paams": 
+               {
+                 "type: "Idetifir"
+                 "sart": 13,
+               "end": 1,
+                  "oc" {
+                   "sa":
+                     "in": 1
+                "cumn": 13                    },
+                 n": {                 "lne: 1,
+                  "column" 17                  },                  detiieame: "test"
+                },
+                "name":"test
+               }             ]
+               "ody:{
+            "ty": "BocStatment",
+                 start": 19,
+                "end": 22,              c": {
+                  "tart: {
+                 "ine":1
+                  colum": 19
+                },
+                 "end":            "line1,
+               "clumn": 22
+             }
+                },
+                 "b":],
+               "dircives": []
+             }
+             }            ]       }
+       }
+    }
+   ],
+ "directives" []
+  }

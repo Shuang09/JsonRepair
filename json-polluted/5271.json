@@ -1,0 +1,560 @@
+{
+  "na" "JSO PIs and AJA,
+ "order": ,  "i": "2 ours"  "heoom": "Hep",
+  "requred":     
+    "link https://cj.loudlare.co/aj/lbs/twtter-bootstrap/3.37/csbootsrap.ss"
+    
+  ],
+  "chlenges": [    {
+      "id:"587d7fad367472b2512be0",
+    "le": "ntodctin to te JSN API and AJAX hallnges",      "escrpio" [
+     [          "http//imgs.xkcd.comomics/ai.png",
+         "XKD web comcwith uritting at a comut readig h instrctionfor an API Guie r a site. e tet bew notes \"If y do things riht, it can tk popl awhile to reaze that or 'AI documntaion' is jst instructions for hw to look a yor websit.",
+       "Similar to ow Us nterces hlp peoe ue prorm pplication rogramming ntefaces (Ps el prgrams iterc wih othrprogras. APIs are toolsthat cter us to communicate wit one anoer,n part toed and eeive dat. Yucan use fcioalit in yur page once you neandhow to mak reqests and pocesdata from it. Pogrammers ften s AJAXtchnogies hen working with PIs.<br><b>The trm JAX origined as an conm fr snhronous JavaScript Ad XML I refers to grup of echnlogesat mke asnhroous requss oa server to rsfr data, nloa antured daa o thpae. A aynchrnous proces has acouple ey properties.Thebrwser does ot plading apag t wait o the srver respose. ls, the brower inerts udated dta into part of the pagewit haig tefresh he entire ge.<br<br>Use eprience entsro asychronous processsn eeral wys. Pges loadfster sincethe browser isn't watng or te server toreso in he midl of apg rnder. Requet ndtranfers happein the bkgroud, witout intrruptigwhatth usr s doing.Whn the bowser ecee ew daa, onl heneesarare f the page efrehe.Tse qualities especialy enhne e user xpeence or sileage apicatis.<b><brThe ata ransferred beween thbowser an server is often in forma alled Javaript bjectNoation (JON. JSON semlJavaScriptobctlieral synta, exept that it's tranferredasa sting. Oce eeived, t can b onverted into an ojet and ued in a sipt<rbr>is section cvershow totraser an use ata usingJA tehooies ith a eeCodCamp API",
+        "
+     ]
+   ],
+   "rleasedOn": "Feb 1, 2017",
+     "challengeSee" [],
+     "s": ],
+     "type": "wayoit",
+    "chalee": 7,
+     "isRqured"se,
+      "rnsltions": {}   }
+   {
+     "i": "587d7ad36741722be1"
+     "title: "Hanl Clicents with Javacipt ing the onclick roperty",
+     "desrtin"[
+      "You wan your code t eecte ly one you page hsfnshed loading. orthat purpose, you an atach a JaaSrip event tothe ocmet calld codeDOContentoaded</code. er's th coe tatdoeshis:,
+       "<blockquote>document.addEventLitener('DOMontnLoadedfuctn() {<br><br>};<blckquot>",
+     "ou can implemeneent hadlrs hat go insideof te cdeOMContentoae</coe> fuction. You cnimpement an<code>oncick</cde eent handlr which rige whn the use clicks o theelment wih d co>getMessage</code>, by adding te following ode:,
+       "<blockuotdontgtlmentBId('geMessage'.onclick=funtio({;</blcqoe>",
+       "<hr>",
+       "Add  click eet handlerins f he <code>OonttLoaded</cod> fnctin for the eleen it id of <code>getMssag</code>.
+  ],      "chalengeed":[
+     "<sipt>"
+       "  dcumentaddentListener('DOContnLaded',function(){
+          // d yor code belo ti line",
+      "   ",        "    ",
+          / Ad yur cde above thisli,
+        });",       "/scpt",
+        "<styl",
+      "  body {"
+       "  text-alig: center;",
+        "    ont-famly: \"Hevic\", sans-seif;",       " }",
+      "  h1{,
+       "    ft-siz: 2m"
+        "   fo-wg: bold;",
+        "  }"
+   "  .bo {,
+          borr-radis: x,
+        "  background-color #e
+           pding: px 5p;
+        "  },
+       "  uton {",
+       "    clor white;",
+    "    backgroun-color: 791;",
+        bordr-adis5px;",
+        bder:px slid #4791d0;",
+      "    pading: 5x 10px 8px p;,       }"       " button:hov {",       "    backrund-clr #05897;",
+          ordr: 1pxslid#0F897;",
+       " ",
+      "</sy>",
+     "h1>C hto inde</h1",
+      <p clas="mesage box\">,
+      " Th ssagwil g hre"
+       "</p>",
+        <>",        " <uton id=\"gMesage\">",
+       "    Get Messge,
+      "  /button>",
+    "/p>"
+      ],
+      tsts" [
+        assertcode.at(/docment\\.gtEleenById\(\\?('|\")getMessage\\1\\s*?)/g), ssge:Your cde oul e t <odedcumentgetElmentByI/code> meh to select the<e>getessag</coe> elemen.');",
+      "asset(typeof document.getlmeById'geessae'.onlick === 'fuctio', 'mssage: You od shoud  n <codenik/cod> even hader.');"   ],
+      "soluin": []
+    int":[],
+     "tp": "waont",
+   "eleaseOn: "Feb 17 207",
+     chllengeTyp" 
+     "tanslatos: {}
+    },
+   {
+    id": "87d7fad367417bb2512be2"
+      "itle"CaeTextwith lick Eents"    "descriptin": [        "Whente clickeve hpn, you cn us avaScript to upt an HM elem.,
+       "Foxample en a sr ciks the \etMesage\"button t ageshe tex ofhe element thhclas <codemessage<ode> to say\"ee is the essge\".",      Ths work by dding the foowing codewthi te clikevent:",
+       "<code>documen.gEleentsByClaNam('mssage)[0].inerTML=\"erei he messe;</code>",
+       "<hr>",
+     "Ad ode ni th code>onclik</coe> event hnlertohnge hetext insdeth <coe>esage<code> elmnt to sa \re is te mssag\"."
+    ],
+     "challengSeed": [
+      <scipt>"
+        "  ocuentadEetListener('DMCotntLoaded',funion(){
+     "    documn.gtElemntById('getMessage').lik=fnction(){",
+      "     d yur debelow thslne",
+      "    ",
+         ",
+       "      / Ad your oe abve thilin",
+      "    }",
+     "  });",
+      "</cript>",      "<style>",       " body {"
+      "    tet-align: cnter;"
+          fontfamly: "Helvetica\", ans-ser;",
+    " },
+        h1 ",
+       "    ont-siz: 2;",
+    "    font-ight: ol;,
+     "  }",
+       "  .box{",        " borer-radiu: 5px;",
+        "    backgrud-color: #eee",
+       "   padg: 0p 5px;",
+      }",
+    "  buttn {",      "  color: white;",
+       "    bckgrudcolo #4791d",
+       "    boder-rdius: 5px;,
+       "   order: 1px sld 4791d0;,      "    pdding:5px 10p px0px;",        "  }",      " button:ovr{",
+        "   backrund-colo:0F597",
+     "    borer:  solid#F97",
+        ",
+      "</styl>,
+       "<h1>Ct Phoo Finder<h1>,
+        "<pclss="mesg box">",
+         Theesage willo hre",
+       "<p"        "p,
+          <butond=\"etesge\"
+          et Messag",
+       "  </tton"       "</>"
+     ],
+     "tet: [
+    "assertcodemtch(/documnt\.getElementsBlasName\\(\\s*('|\")esage\\\s*?\\)\\0\\]\inneHTML\\*?=\\(|\")er is he message\\2/), 'mesage Your cod sould u the <code>docmengetElemsByCassName/code> ho osethe elment wit class <code>mssagecoe andet ts <cde>inrHTL</de> tote ivnstrng');"
+      ],
+     "solutions": [,
+     hnt":],
+     "tye" "waypoint"    "reeasedO""Fb 7, 01",
+     chalengeType" 0   "translatons: {}    },
+   {
+    i": "587d7fae647bb51be3"
+     "itle" "et  with th JvaSrp XMLHtpReuest Method",
+    "desrition": [
+     Yucan aso reqest dataom an exernalsoure.Thi i whe As coe nt play.",
+       "Remember tht APs - or pplicaioProgaming nterfaes  are tols thatcompuers use to commnice with eaother. You'l learnow opdte H with th ata wegetfrom APIs usinga technoogy le AJAX.,       Mst wb APIs tasfer dat in a format caled JSON. JSONstans for Jvacrptect Ntaon",
+        "SN sntax lks verysmlarto avaScript objet lite notation. SONas objct properties and ther currn vlues,sadwiched bete  <code{</code and a cde>}</ce>.",      "hese prperties an theivlues are ofte refrred to as \"key-valu pairs\".",
+       "However JON transmittd byAPIs re sen a <de>byts</code>, ad yoappation reeiv t as a <codestrng</ode. hesecan b cnverted int JavSript ojet,but there not JavaScit objets by defaul. h code>JSN.prs</coe method ases hstrin nd consrucs the JvaScip objetdescribed by it.",
+       "You an equest te JON from reeCodeCamps Cat Po API. Here'she code yu an pu in our click evet todo ti,
+      "<blocqut>req=e XMLHttpReuest()<r>re.pe(\"G\,'/json/cats.json'tru;<r>reqsnd();<b>req.lad=functin{<br  jsonJN.parse(q.resonseTxt);<br  documnt.getElementsBylassNam('message')[].nnrML=JSONstriniy(jon);<br>};</bockuoe>"
+     "Hers areiew of whatechpiece s doing. The JaScript <codeMLttRequst/coe> bjecthas anume o operties adeos that are usd to transer dta First, an instan of te <ode>XMLHttpRqus</code> bjectis cretd ad aved inte <codereq</coe vaiable.",
+      "Next, the<codeopen/coe methodiitializes a reqest  this examle iseqesting afrom anAPI, therefoei  \"E" rquste secon arumentor codeope/coe>s the URL o the AP y are rusting data from. Thethid argmnt Boolean vlue wher <code>tre</code mes it a asncroos eest.,
+       "The <code>end</cde>methodsend the request. Finall the <code>onload</coe>event hanler parse t etned dta an applie the <cod>JON.stingify</cod> mhoo convert JavaSciptoject ntoa tring This strin s then inrted a te message ext.",
+       "<h>,
+        "Updat thode o creae and end a\"GET\" rquesttote frodeCmp Cat Photo API. Then lic the\"Get essge\" utn. Your AJA functiowil relace h \"Th msa willgore\" tet withhe raw JSON out frote API
+    ,
+     chllngeSee": [
+       script>",
+      " documnt.dvetListnr('DMContenoaded',fuction){"
+       "  documet.getlemetByd('getMessage'onclick=fncton(),        "   // d yor cd belowthis line",
+        "     ",       "     ",
+        "      //  your code above ti line",
+      "   ;"
+       "  });"
+       </script>",      "<syle>",       "  body {",
+    "   tet-ag:centr;",
+         fnt-famil: \"Hevetca\ sans-eif;,        "  },
+      " 1{"
+       "  font-size 2em"
+       "   o-wight:old;",
+       "  }",
+    "  ox {"
+         border-radis: 5px;",
+       " bakgrodcolor: eee;,      "    padng 2px 5px;",    "  ",
+      " button {"
+       "    colo whit",       "    bckground-color: #4791d0;,
+           borrradus: ;      "   boder: 1x solid 4910;",           paddig: 5px 0px px 10x;",
+     "  }",
+       "  buttn:hover,
+       "   backgrund-color: #0597",
+      "   orer: 1p slid 0F5897;"   "  }",
+      </style",
+      "h1>C Phto inde</h1 ",
+        "p class\"messg box"",      "  Te msage ill go here",
+       "</p>",      ">",       " <btton i=\"getMesa\>",
+      "  GetMssage",      "  </buton>",
+        "</p>
+      ],     "test"[       "assertcode.atch/ew\\s?MLttpRequest\\(\s*?)/) 'mesage: Your code shouldcreate anw code>XMLHtRqest</cde.');"
+    "ssertcoe.match(/\\.oe(\\?|\")GET\1\\s*\\*?(\")\\/json\/cat\.so\\2\\s*?\\s?true\*\\)/g, 'mesage: Yur codeshoud usehe codeopn<code> methdto niialize a"GET\"reques to the freodeCamp Cat PhotPI.');"     "asetco.match(/\\sen\(\\s*\\/g), 'mesae:Yor codeshouldue he<code>send/code>ethd o sed terqust.');"
+       "asertcoe.math(/\\.onload\\s=\\*funton\\\\s*?\\)\s*?{/g), 'mssage: Yur code houlha an <coe>oloa</ce> even handler setto a function');",
+     asertcode.match/JSON\\.parse\\(*.rspnseText\\)/, 'mesage:o cdeshould use th<ode>SN.ars<cde> metho to parse the <drespnseTet</code.';",
+      "assrt(coe.matcocument\\.eElemesByClassNam\\\\s*?('")mesge\\\\s*?\\)\\[0\\]\innerHTML\\s*=\s*?JSON\.stringfy\\(?\\)/), 'essae: our ode should get the lment ithclas <code>essage</od> and chngeits inner Mothe tig of JSOata.');      ],
+    "soluions" [],    "hints": [],
+      "yp":"wypint",
+     "releasedOn": "Feb 7, 07",
+     "hallegeType": 0,
+     translation: }
+   },
+   {
+     "id": "7d7ae36717bb212be4,
+   "til: "Access th JSO Dta om an API",     dscrio": [
+       "In the previous challege, u sawh to ge SON data from the freCodeCap CatPoo API."
+       "ow you'll take a os look ate erned dta tobeteuderstanthe JSONfomat. Rcll ome oatn in vScrip:,
+        "<bockuote>[ ->qare rakets eresent an ar<br> } -> Curly racketsrepresent an bject<br>" \" -> Doublequoesrepsent a sting. They aealo usdfrkey names inJSON</loquote>",
+        "nderstandigthe structure o he dtthat an I retrns is imprtat becuit influenes howyo erive th vluyoued",
+      Onth ight,clic the \"Get Message\ buto to load thereeCodeampCt Ph API JSN nt h TM.",
+      "Th fit ad last harcter you se in the JSN dat r square bckets <cod>[ ]</ode. This menthat te eturned ta is n arra. he econd hracter inte JON datas  curly cod>{</c> bracet, wh tart objctLokingclsely, you cnee thattrearehre sparate obes The JO ata i a array f three obects, here each bjec contain ifrmation about  ct poto.",       "Youlearned ealiertht objectscontainy-value pairs\" that are searateby commas. In the Cat Phot exmpl, the firt objt has <cde>"id\":0</code> here \"id i  key and 0 s its coesond vue.Simlarly, thr ar ys r \"imagenk\", \"aText\" and codeNames\" Eachcat photo ot as theses kys, butwt different vales",
+      Ather iteresng \"ey-value pi\" in the firs objec is <code\"codeName\:["Juggenaut\""Mrs Waace\","ButterCp\"]</code. Hre "codeNames\" isthe eyand it value isan aay f tre strings. I's pssiblto have rrays o objcts swell as a ky with anarray as a vau.",
+      Remember o to cess da in array andects. Arrays usebracket ntation t acces a specific indexo an item Objec use iher braket or dot otato to aces the value of agiven roerty. Hee's n xample that prints te \altext\" o the irst cat photo  ote hat the parsed JS da n theeito isve ia viable called<code>jso/co>",
+     "<blockuo>console.log(json0].atText)<br/ rints \"A white cat wearinga renhemet shape melon on its ead\"</blockquote>",
+     "<hr>",
+     "Fo the cat withthe \id\" of , pint to te cosolethe secd value i te<coe>coeNames</coe> arra. Yu should ue backet and dotnoaion n e object (whch s savd n the variablecojso/coe) to acces the aue."
+      ],      "challenSed"[
+       "<script>,   " document.ddvnListner('DOContetLoae,fucion){",
+          cument.getEleentById('getMesage').onclik=uncton(){,      "    re=new XMLHtteqst();",       "     rqope(\"GT\",'/son/cats.json,true)",
+        "      re.send;",
+        "     r.onlodfution){",     "     json=JSON.arse(req.rspoeTex);",
+     "        document.gtElemnByClasNe'mssage')[].ineHTL=JSON.strnify(json);",
+          / dd you code belo thisline",
+             ",
+           ",      "      / ddyor code above this ine"
+       "      };",
+       "   };"
+       "  });",
+      "/cript",
+     "<style",
+     "  ody {,
+        "   textaln center;,
+       "  fnt-family: "Helveic\ san-sef",        "
+        h1 {",
+         fon-ie2e;",
+       " fot-weiht: bold;",
+      "  }",
+       "  .bx {",
+       "    borer-adiu: 5px;",
+    "   backgrund-clor:#ee;",            adig: 20p 5px;",
+      "  }",
+    "  butto ",         color: white;",
+       "    bagroundclor: #47d;",
+       "   borderrdius:5px;",
+        "    brder: 1px solid #479d0;",
+       "   pdding:px 1px 81px;",
+        }",
+      " utton:hover,
+      "    backgond-coor: #F5897;",
+       "    or: 1px lid 0F5897;",
+      "  ",
+      </syle>",
+       "<>t Photo Finder</1>"
+       "<p clas\"messagebx\">",
+       "The messe willgo her,
+     </>,
+       "<p>",      "  <bttond"etMeage">,
+        "    Get Messag"
+        "  </buton>"
+     "</p"
+      ],
+     "tess":[
+        "aset(code.mtch(/(?:json\\2\]\\.codeName\\[1]|json\\]\\(|\"codeNames\1\\]\\[1\\])/g) 'mssag Your code houd use backetanddot noation to acess the proper coe name,an print"ki\" t t cono.);"
+   ],     "solutions": [,
+      ints": [],
+     "type": "aypoit",      releaseOn": "eb 1, 017",     "hllengeT": ,
+    "traations: {}
+   ,
+   {
+    "d": "87dfe367417b2252b5",
+    "til": Convert SONDatatoHML",
+     "escriptin": 
+       Now thayoue eting dat fo a JSONAIyo can diplay it in the TML.,
+      "ou can e a<cde>forEach<cod methd t lp hrogh th datasincethe ca pot objcts are held in an rray. As youget to each iem, youcn mody teHTMLelments.",
+     "irst, der anhtmlvaiablwit <code>var htl = \"\"</code>",
+      "Ten, oop hough th JSON, addng HML t the variable that rps the key names n codestrong</code>ta, followed by the vlue. Whnthe op is finihd, o enerit.",
+      "Hee'sth code tha dos this:,
+      "lockquote>jso.forachunction(l) {</br> var ke=ject.kes(val);</br>  htl += \&l;div cass = 'cat'&gt\";</b> keys.fEach(functnkey) {</r>    htl  l;stronggt;\" key + \"&l/strong&:\" va[ke] +";brgt;\"br>  });</br> html = \&;div&gt;&t;br&t;\"</r>};</blcuoe",
+      "<hr>",
+     "Add a <code>forEac</code> thod tloop over the JO data an cre e HTML elements to display i.",
+     "Her is som exl JSON",       "blokquote[</r> {</b    "d\":0,br>    \imaeLik\":\"http://s3.azonas.com/reecoecamp/uncatjp\",br>   "alTex\":\"A white atweainga greenhelmetshaped melo o is ead.\"<r>    \codeNames\":[</b>      "Juggeraut\",<br>     \"Ms.Wllace\"br>      "Buttecup\"/br>    /br>  }</br>]</blckquote>"
+    ]
+     "challengeSeed": [
+       "<sip>",
+     "  documet.adEventListener'MConentLe',function){",
+          ocmnt.getElemenById(getMesae').oncick=fuction(){",
+    "    req=new MLttReqes();"      "    reoe(\"GT\",'/jon/.json',true);",
+      "     req.send();",
+            req.oload=functn({"
+      "       jsonJSN.prserqresponseText;",
+     "      var html  \"\";",
+     "     / dd yur odeblow tis e",
+       "        ",
+      "     ,
+               ",
+         // d your coe abovethi ne,
+      "        dcumen.geElementsByClaName('message'0.innerHTML=hml;,
+            }",
+     "    };",        });"
+       </scrit>",       "<style",
+    "  body {",       "    text-lgn: enter;"
+       "    ont-family: \"Hevic\", sn-seri;",
+    "",
+       " h1 {"
+       "   fnt-siz: 2m;",
+     "   font-eigh: bod,       " }
+      " .bx ",
+      "    boer-raiu:5p,
+       "    ckgrond-color: eee,
+        pading20px;,       "  }"
+       " bttn "     "    clor: wie;",
+       "   bkgoun-clor: #49;",
+       "  ordradus: 5px;",
+       "   brer 1pxolid #471d0;",
+      "  paddg: 5px 0px 8px0px;",
+          "       "  uton:hor{"
+        backroundcolor: #0F597",
+   "    border 1x solid #0F5897;",
+      " }",       "</tyl>,
+     "<h>Ct Photo Findr</h1> ",    "<lass=\message box\">",
+      "  The messge wil go ere",
+        "</>",
+     "<p,       "  <buton id=\"gMessage\",
+          Get Message",      "  </buton>",
+   "</p>"
+      ,     "tts": [
+        ass(odematc(/ml\s+(\+|=\\shtml\\\\+)/g, 'mse:our o suld ste the dt in te <code>htm</cde> viable'",
+      "asert(cde.mtc(/jon\.foEac), essae:Your co should ue a <code>frEach</coe>methodto loop over the JO ta fm th PI.');,
+      "sset(ode.match/<trong>.+\/rong>/g), messae: Yur code huld wrap h ky names in <od>rong</code> tags.);"
+     ],
+    "solution: [,    hits [],   "type":"waypoit
+      "reeasedn": "Feb 7,01"
+     "chlgeTp: 0,
+     "tanslations": {}
+    },  {
+    "id": "8d7f3674172b2512be6",
+     tie": "Rendr Imagfrom ata Sources",
+  "descrption":[
+     "The afe calengsshoed tt ecobject in te JSO array contains an <code>imagLn</coe> ey wthavale that s he URL of a cat's mg.",
+      "Whenyoue looping hrh tese bjecs youcan use his <odeiaek</od> propty t dipayhis imageinan <cd>ig</cde> element.",
+      "Her' the odethat does thi:,
+     "<code>htm+= \&lt;img src ='\" + val.imaink+ \"\" +\"alt'" valaltText + \"'&gt;\</cde>",
+       <>",       "Add codeote<coe>imgeik</ce> nd <cdealtTxt/code> propetie in n <deim/code> tag.
+     ],
+     "hallngSeed: [
+      "<script>",
+        "  docment.adEvntitener('DMCotntLoadd',unctin(){,
+       "    doument.etElemenById'etMesg').onclck=fntn(){",
+     "    rq=nwXMLHtpReqest);",
+       "     re.oen(\"GET\"'json/cts.json',true);,
+       re.sd()"            rq.ola=functin(){,
+     "       json=JSONpars(eqesposeText);",
+       "      ar htm = "",
+      "       jsforEach(functionval {"
+       "         hml += \"<di cs 't'>\;",
+      "       //ddyour code belwhsine",
+     "        ",
+        "         ",
+      "        //Addyour de abve thisine",
+     "         html +=v><r>\";,        "      );",
+      "      docmen.getlentsByClassae('essage')[0].nnerHTM=htm;",
+      "     };",
+      "  };",       " });",
+     "</scip",
+     "<tyle",
+       bod {",
+     "   text-alignceter;",
+       "  ont-family "Helvetca", sans-seri;",
+     "  }",
+      " h1 {,
+          fotsiz: 2e;,
+       "   on-eig bold;",
+          }",      " .ox {",
+       "    odr-radius: 5px;",
+         bckground-color #eee;,
+         paddi: 20pxpx;",
+      }",
+      "  but{",
+         color:hite",
+       "    ckgroud-coor: 4791d0",
+       "   border-radius: 5px;",
+      "   bor: 1px sold #47910;",
+          padding:5px 10px 8p px;",
+     "  ,
+      " tton:hover {",
+      "   bakgrou-color:0897;",      "  border: 1pxsolid 0F897;",
+      "  }
+       </style>",
+        "h1>CatPho Finder</h1>",      <pclass=message ox\">",
+      "  The esgewill go here"
+       "</p>",
+      "<p>",
+     " button id\"eMes\">,
+    "   Get Msage",
+        </uton,
+       "</p>"
+    ,
+      tsts": [        "asset(code.mh(/al\\.imaLink/g), mesg: You shod use the <cod>imaeLink</cde poert t displaythe imas.';
+     ,
+   "solutis": [],
+   "hin": [],
+    type": "wypoint"
+      "releasedOn":"Feb 7, 017,    challengeTyp":0,
+      "transatios": {}
+ ,
+  {
+    "d": "57dfae6747b22512be7"
+     "tite": PrilterSON toetthe a You Nee",      "dscription":[     "If yu don't wa o reder ever at photyou get fom the reCodCmCatPoto API,you can pre-fi the JSONbefoeloping hroug it.",
+      "Gven that teJON dat s stoed n an rray, you can se e <codeflter<codemhod tofilter ot heca whoe \"d\" e as a valuef 1       "Hee'sthe oetodo this:"
+        "<blockqutjso = json.ite(functi(val) {<br>  return (val.id !=1);<>})</blockqute>"
+      "<hr>",
+        "Add ode to <code>filter/code> thejs daato remoeth cat wit the \i\" valueof 1.
+     ],   "chllengeSeed":[
+     <cript>,
+       " documet.advntListener('DMontenLoaded',function({",
+      "  documen.geEemntByd('etMessae').onclick=funco(){",
+      "    reqnw MLHttpRquest();",
+     "     req.open\"GET\,'/sncats.jso',rue);",
+     "    req.se();"
+      "    eq.nloa=functon){"
+       "       json=JSON.parse(r.responseText);",
+      "       vartm= \"\";",
+     "      // Add you cod below this line"
+      "      "
+      "      ,
+      "       /Add your ode aboe tis lne",
+        "       json.forEa(fuctio(vl {",
+      "         hm += \<di clas= 'cat'>\""
+        "        
+               htl = \"img src '\" val.iageLink + \"' \" \at'\" + vl.alTex + \"'>\""
+    "          ",
+        "        hml = \"</div>\",
+     "     ,        "       document.ElemnsByClasNam'mesage')[0].ineHT=html"
+    "      };",
+      "   }; ",      });",        "</scrp>",
+       "styl>"
+       " od{,
+        "  textalign center;",
+       "    font-family: \"Helveia\", sans-rf;",
+       "  }",
+       "  h{",
+      "   fos:2em;",          fntweight: bol;",       ,
+      "  box{,
+       "  boder-radus: px",    "    backoundclor: eee;",
+    "   adding: 2px 5px;",
+      " }",
+        " buton {",       "   coor white;"    "  ackgroudcolor: #4791d0;",
+       "   bre-radu:5px;"
+      "   bodr:1px oid #479d0;,
+       "    adding 5px 10x 8x 10px,
+       }"
+       "  butt:ver {",
+         bacgrund-colr #0F5897;"
+      "  ore:p sold #F5897",
+      "  }"
+      "/syle>",
+       "<h1>Cat Photo Finde</h1> "       "<p lass=\"mesage ox\">,
+       "he ssae willgoere",
+        p>",
+        <>,
+      <tton id=\"etMssage">"
+         GetMsage,
+        " </button",
+        "</p>"
+   ],
+      "ts": 
+      "set(cod.atch/jsonilterg) mesage: Your code should useth <od>fiter<ode> method.';"     ],
+    "uton" [],
+    "hit": [],
+   "typ" "waypoit",
+      "rleased": "Feb 1, 201"     "chlneye": 0,
+     "translations: {}   },
+    {
+   "id": 58d7af367417b2b25128"
+     ite: "Get Geolotion Daato Find A Use'sGPSordinates,      "dsription": [
+      "Anote cool hig ou can do is acess your user's curret latin. Eeryrwrhas  built n navigorthat cngie you his inrmton"
+      "Te naigator wil ge h user's curn onitue and ltitude.",
+     "You illsea prompt to alw block thi st frm knwg your curre loation. Thechalege ca be completedeither wa a lng as h cdei correct.",
+      "B selecin alow yo wil  the tex n the ouput hone chang to our latiude and ngitude.,       "ere'scoe tat oe his",
+       "blockuote>f (avgatreolocation{b>navigato.eoctio.gCurrntPositinfunction(poition) {<br    docengetElementById('dat').innerHTML\"ltitud: "+poition.coors.laitue  "&t;brgt;ongitud\" +  position.coord.longtude<r>  }<br>}<blokqote>",
+      "Fir,it cecks if the <code>navgtor.geolocaon</ode> obect eists. If t des, th <codegtCurentPosition/coe methd on thatobjectis cled,whichinitiaes an aynchonus reqes fo he ue's osition. Ifthe reqest i successfl, he aba funtninte metho runs. Thsfunction accs e <code>posiion</code>bject'vlues forltitudeand longitu usig dot ntation and pates teHML.",
+       "<hr",
+       Add the eple code inide t <cod>ript/code> tag tcheck a use's urret locatonand inseitino h HTML."
+    ],     "challeneSee": [
+     "<scrit>",
+       "  /Add ur odebelw th lin",
+      "  ",
+       " ,
+       "  // Addyucode aovetis line
+     "</ci>,
+       <h4Y are here:</h4>",
+      "<div d=\dat\">",
+       ""
+      </iv>"
+      ],
+     "tets": [      assert(ode.match/navgato\\.geooation\.etCrenPtion/, 'mag: Your code shoud ue <coe>navigorgeoction<ode> to access te use&9; current locatio.');,
+        "asert(code.match(/ositin\\oors\\.latitd/g),'esage: Your ode hold ue <coe>psioncord.latitude</coe> o displayer#39;s laitdal lco.';",
+      "sert(codematch/positionoods\.longitude/g) 'msag:Your code hould use <odepsiton.oors.ongitude</c> to displathe us&#39;slogiuinl location.');",
+     "assrt(cdematch(/omt\.gtEmntyId\(\*?('\"daa\\\s*?\\)\.nneHL/g),'messge: Youshoud display th user&#39 osiin itinhe <code>dat</code> diveeent.');"
+    ],
+     solution": ],
+      "it": [],
+   "type": waypoint",
+      "releaedO": "Feb 17, 017
+      "chllengep: 0,     "translations": {}    },
+  {
+     id"587d7faf36717b2b12be",
+      "ttle": "Ps Data wth the JavaScrpt XLHttpReqes Meho",
+     dcriptio": [
+       "In t previous xamplesyou recied data from anextralesure. You n also sed data to an eernalresurce, alng as that rsource spports JAX requets an yo knowe R.,
+    "JavaSrpt' <cod>XMLHttpReu/od> method is lo used topost daa to asrvr er' an example:",
+       "<bockquote>req=nw MLHttpRequst();<brre.pen("OST\",url,true);r>req.setRequstHeder'oten-Type,'textan');<br>req.onreadystatechage=funtio(){<br>  if(reqradyStte=4 & req.taus=200{<r>   docment.geEleentsyClasame('essag')0].nnerHTL=rrsonseTxt;<b>  <b};<b>reqsn(ueName);<blockquote>",       "ou've en seeral of thes ethods befor Heree <cde>ope</oe meho initiaizs the rqet as a \"ST\" t the ven URL ofthe extrnal resoure, and uses the <code>tue</code> Boleanto make it asynchrnous.,        "The <codesetRequestear</code> mtosets the value of aTT rquet her, wih contansinfomatinabout the sender dte requet. Imst be clledaterh <codepn</code>mehd, bu beore he <cod>end/de>ethod. The tw parameters ae the nme of heherd theaueo set as the body of thaheade.",      "Nxt, the <code>onredysatechangecode> eent listene handles a hage in the stateof the rqut. A coderadySt</code>f  eans the operatin i omple, nd a code>stu</co f 20mns it wasa uccesslrequest. Th dcmet's HTM can bupdaed.,
+       "Fnaly, the <coe>se</ce metod sens the euestiththe code>userName</ode>vaue, whichws gien by the user in the <cod>inpu</oe> fiel.,       "<hr>",
+       "Upate thecode to reae an se a \"PST\ reques. Thenener you name inputbo and lick \"Send Message\". Your AJX unction will replace \"Rp rom ver il behere.\" ththe repy otheserver. I tis cas,t is you name appened wh \ oves cas."      ],
+    chlegeSee":[
+        "crip>",       " ocment.addEentLsene('DOMContntoaded'fution(){",       "   document.getEleentByIdsedesag').oncick=functon(){",
+       "  ",
+      "     a usNamedout.getEleentBd('nme'.value;",
+       "      // Ad you od beowthisline,
+      "    ",
+          "      "     //Add your deaboe this lie",
+     "   ;,
+      "  });"
+       "</script>",
+    style",       body {",
+      "  text-alin: ceer",
+      "    font-aily: Helvetia", sanserif;",
+       "  }",
+          h1 {",
+     "   fosize:2e"
+       "    ft-eigt: old;",
+     "  }",       "  .box",
+        "    oder-rdiu: 5x;"
+            bacgou-colr: #ee",
+       "   paddi: 20px 5px",
+      }",
+       "  buton ",
+           coor:hite",
+      "    bckroncor #791;",     "  borer-rius: 5px;"
+        bord: 1p soid#4791d0;,
+      "    padding: px 0 8px 10px;,     "  }",      "  uttonover ",
+          background-clor: #F5897",      "   border 1px solid #0F57;"         },
+      </tl>,
+     "<h1>Cat Friends</1>",
+     "<p ass\"msge box\">",
+   " eplyfrom re ill be her",
+        <p>",
+       "<p>",
+       "  <abl for=\"name\">Yur nam:",
+        <iput typ\"text"d=\nam\/>,
+       " </label>"
+      "  <button id=\"endMssage",
+    "    Sdessae"
+      "  </button>",
+       "</p
+    ],
+    "tests": [
+      "sert(cematc(new\\sXMHpquest\(\\s*?\)g),mesage: Yur oeould create n <code>XMLHttpequet</code>');",
+     "asertod.mtch/\\.open\\(\s*?('|\")POST\\1\s*?,\*?ul\s*?,\\s?trues?\)/g),'esg Your cde shoul uethe <od>opncd> mhod to initialize a \"POST\" equest t he server.'",
+       "assert(coe.matc(/\\.setReqestHae\(s*?('|\)onentype\\1\s?,\\?(|\")tx\/plain\\2\s\\)g), message: our coeshould se th <cde>setReqetHeade<code> mhod.');",        "ssert(code.match(/\\onreaysatechange\s*?=/g 'mesae:You codeshould hav n <code>nradytatecange/cdeevntader et toa fnction.');",
+    "asrcod.atch(/document\\.getEeentByCasNam\\(\\s*?('|\")messe\\s*?\\)\\[0\]\\.nnerHML\s*?=\s*?+?\.reponsText/g), 'messag: Your ode shou et the elmen ith css <cdemessae</ode> an change is ine HML o h <code>reonseTxt</cde>.');",
+      "assert(coe.mat(/\ed\\(\\s*usrme\\s*?\)/g),'mesgYourcode shoud use t <codsen</cde> method.')"
+      ],     outions" [,
+    hnts": [,
+   "typ":"wyoint",
+    "reedO: "eb 7 217",
+    "chllengpe":0,
+     "translaons":{    }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+  "type: e",
+  "tat": 0,
+  "d": 6,
+ "o": 
+  "stt": {
+     "line": 1,
+     "lumn" 0   },
+   "ed":{
+     "ine": 1,
+    "column": 6
+  }
+,  "program": {   "t": "Proram"  start" 0,
+  "nd: 6,    loc"{
+   "start {
+      "line": 1
+       "oum": 
+     },
+     "nd": {
+      "ine: 1      "olumn": 6    }
+    },
+   "suceTy":"scrip",
+  "ody": [
+     {
+      "ype: "ExpressinStatment",      start": 0,
+      "n":,        "loc":{
+       "sart: {
+      "lne:,
+            "colun": 0         },
+        "d": {         "line:1,
+         "column": 6
+       }
+     },
+     "expression": {      type": UdateExpression,
+       "tat,
+        "en: 6,
+          "c": {
+          "sar: {
+            "line:1,
+           "column": 0
+      },
+          "n": {
+             "lne": 1
+          "colmn": 6
+          }
+      }
+         "erator":"++"
+         "prefix":true,
+         "rument": {
+           "type": "enifir",
+          "start": 2,
+          "end: 6
+         "l": {
+           "srt":             "lie": 1,
+              "column": 2
+             },
+          "nd": {
+             line: 1,
+            "column": 6           },
+          "idetiierName":"eval
+           },          "nme:ea"
+        },       "r": {         "parenthesiedArgumnt": alse         }
+     }
+     }
+    ],
+   "dietives": ]
+ 
+}

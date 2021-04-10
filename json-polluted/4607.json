@@ -1,0 +1,158 @@
+{
+  "te": "Fie"  "start: , "end": 34,
+  lo": {
+  "stt": {
+     lie: 1,
+     "o": 0
+    },
+    end": {
+     line" 4
+     "clun" 
+    }
+  ,  "program: {
+   "type"Program",
+    "start": 0,
+   "end": 34,
+    "loc": {
+    "srt" {
+      "line": 1,
+        "column": 
+     },     "en": {       "lne": 4,       "coun": 
+    
+   },
+   "sourceTye": "scrip,
+    body"    {
+       "type: "unctionDlartion"      "strt": 0,    "end": 4,
+        loc": {
+        "stat": {
+        "lin":1
+        colmn"          }
+          "end: {
+            "line": 4
+          "coumn":
+       }
+      },
+    "id: {
+        "ype":"Idter"         "tart": 9,          "en":10,
+     "lc":{           "sar" {           "line": 1,
+              column": 
+      }
+           ed: {
+           "line": ,
+        "olumn": 1
+          ,
+         "idenifierName":"x"          },
+       "name": "
+       },
+     "genrato":as,
+       "asyc": fals,
+       "arams": [],       "body"{
+      "type": "BlockStatement",
+       star: 13,       n": 34,
+       "loc: {
+          "start" {
+            li": 1,
+          "coum" 13          },         "en": 
+           "ine:,
+           "coun": 1
+        }        }
+         "body": [
+         {
+           "typ": "VarableDecartion,
+            stat":7,
+              "ed" 22,           "lc" {
+               "sart": {
+            "lne":2,
+               "olun": 2
+               },
+            "end"               "line"2,
+                "cun" 7
+                      },
+            "decrations": [
+           {                type": "VariabDecaraor"
+             "art": 21,
+             "end 2,               "loc": {
+             star": 
+             "ie: 2,
+                   "clumn"6
+                   },               "end": {                  "line": 2,
+                  "colum": 7
+                }               
+             "id" {
+                "typ": "Ientf,                "star":21,                 nd": 22,
+              "lc": {
+                   "art":{
+                   "line": 2,                   "column":6
+                  ,
+                "end" {                     lie 2,
+                      "clumn":
+                 }
+                   "ideniierName":"x"
+              },               "nam: "x"
+               },
+               "init": nll
+             }
+              ],
+            "kind": "let
+      },
+          {            "t":"EpressioStatemnt",
+             sta": 25,            "ed" 3,
+            loc            "strt:{                "line: 3,
+               "con": 
+             },
+            "end": {
+                 "ine": 3,
+               "colmn":9
+          
+            }
+           "expression: {
+              "type": SXElement
+                "start:25,
+               "end": 32,
+              "lo": {             start":{
+                    "line" 
+                olu: 2
+               },
+             "d": 
+             "li" 3,
+                "clun" 9
+               }
+              },
+            "peninlemnt": {
+          "typ": "JOpeninElemen",              "star 25,
+           "end: 3,
+              lo": {
+                    start:{
+               "ine: 3
+               "coumn" 2
+                 }
+                "ed": {
+                    "ln": 3,
+               "column 9
+                 }
+               }
+               "atri" [],
+             "name" {                "type" JSIdntifer",
+              "strt" 26,
+                 "nd": 9,               "loc" {
+                  "stat": {
+                    "li":3,                  coumn": 3
+                    },                   "nd" {
+               "li": 3,
+                   "clumn":                      
+                  },
+              "name "iv"           },
+                "elfClosig: true
+         },
+           clingment": l,
+             "children: ]
+             }
+        }
+        ,
+         "diretive": []
+      
+     }
+    ],
+   "directies": []
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "type" "File",
+ start":0,
+  "end":24,
+ o": {
+   "strt": {
+    "lin 1,
+    olum" 0   },
+    e":     "ine: 1
+    "colun24
+   }
+  },  rogram" {
+   "typ" "Program,
+   "star": ,
+    "end": 24,
+  "loc" {      strt": {
+      ne": ,
+      "olumn: 0
+    },
+    "end":       "lin": 1,
+       "column: 24      }
+   },
+   urceType": "scipt",
+  "dy": [
+     {      "type"ExpressinStatement",      "start": 0,
+       end": 24,       "lc": {
+         "tart": {
+          "ine" ,           coumn": 0
+          },
+        "end": {
+        line": 1,          "u": 24
+         }
+       },        "expression: {
+        "tye" SXElent"
+         "" 0,
+         "end" 2,       "loc":
+         "start: {
+              "ine": 1,
+           "column": 0           },        "ed": 
+            "line": 1,
+          "lumn":24
+         }
+          },
+         openngElemet {
+         typ": "JSOpnngElement",
+         "start": 0,
+           "n": 5,           "loc":{
+           start":         "lie": 1              "colu": 
+           }            "end": {
+             "li": 1,
+               "colmn" 5
+            }
+         },
+         "tributes": [,
+         "nm":{
+           "ype" JSXIentifier",             "sat": 1,             "end"4,          loc: {
+                "stt: {
+              lin" 1,
+              "olumn": 
+           
+              "nd":                 "ne:1,             "colu": 
+           }            ,
+            name":"di"
+          ,
+           "elfClig": flse
+        },
+        "closingEement":
+         "type": JXCingEleme",           stat"18,
+        end":24
+       "lo": {
+           "sart": {              "ln" 1
+           clmn": 18
+         },
+             "end":{
+            line": 1,
+            colun: 2
+            
+        },
+          "nae" {
+           "type": JSXIdetifer",           "start":20,
+           "ed": 23,
+              "loc": {
+               "r": {
+           line":1,
+               "comn": 2
+             },
+             "end" {
+             lne" ,
+             column": 23
+             }
+            },
+           "name": "iv"            }
+        },       chidrn": [
+       
+             "tp" JXTet"
+             "sta: ,
+           "end: 18,
+        loc 
+              "tt:{                "line": 1,               "coumn": 5
+         }             "nd": {
+            "ine" 1,
+              column": 18               }
+            },
+            "xtra: {
+            "rawVal "testcoten",
+           "raw:@est ontent"
+           ,             vlue": "@test ctent"           }
+         ]
+      }
+     }
+    ],   "irectives":[]
+  }

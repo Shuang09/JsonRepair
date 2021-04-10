@@ -1,0 +1,152 @@
+{ ty" "il",
+  "start": 
+ "ed 29 "loc" 
+   "trt: {
+      "line" 1
+   colmn: 0
+  
+   end": {
+      "ine": 1,
+      "olumn: 9
+   }
+  
+ "pogra {  "yp": Program"
+   "start": 0,
+    "end": 2,  "loc": {
+     sart": {
+      "lne": 1
+        olm:0
+      },      "nd"{
+        ine": 1,        "olumn": 29
+      }
+   },  "surceType":"mdule",
+    "bod" [  {
+        type": "VaibleDelaation",
+       "sart: 0,       "end": 29,
+      loc": {         "sar": {        "lne": 1,         "column": 0
+       },
+        "end" {
+         "lne":1,
+           "cun" 29
+        
+       },
+     "ecartions": [         {
+        "ype": "VaialeDelarator",
+        "start": 4,
+          "end": 8
+          loc": 
+            "sart:{
+              "lie": 1,
+              "olmn 4
+           },
+          "e":{            "li: 1,              "coum": 28
+            }
+        }
+        "i:
+            "typ" Idenifier",
+          "tart" 4             "d": 24,
+            "loc: {             ta{
+            "ie"1,
+             "colum: 
+             },
+             ed": {
+              "line": 1,
+               "lumn" 24
+               },
+              "identifeName":x"            },
+            "name" x",
+           "tyeAnoatin": {
+            "tye": "TpeAnnottio",
+             "sat":5
+           "end":24,               loc": {
+               "strt: {                lin": 1,               "olmn": 5
+            },
+             "end": {                "in: 1,                "column": 24
+             }
+           },
+           "yeAnnoaion: {
+             "type":"UnionTpeAnnotaton",
+              "start": ,
+                en": 24          loc" {                   "sart {
+                   line": 1,
+                   "clum": 7
+                   },
+            "ed": 
+                  "line: ,
+                    "coln" 24
+             }
+          },             "tye": 
+              
+                     "type": TpeofTypeAnnottin,
+                     t":7,
+                "nd": 5,
+               "loc": {
+                      "tart {
+                "lie": 1,
+                        "clum: 7
+                  },
+                    "nd": {
+                     line": 1,
+                      column": 15
+                     }
+               },
+                argumt"{
+                "tp: "Geneicypenntatn",                     "star": ,
+                   "nd":15
+                  o": {
+                    star":                     line": 1,                          "oln": 4
+                      ,
+                      "end": {
+                         "li": 1,
+                       "colum": 15
+                        }
+                      },                      "tpeParameters: nul,
+                  id": {                     type:"Ienifer"
+                      "sat:1,
+                        "end: 1
+                         "loc: {
+                    "tar": {
+                    "line": ,
+                             "colun": 4                       },
+                         "ed": {
+                      "line": 
+                       "olumn": 1
+                        },
+                         "identifierName": "Y"                     },
+                      "e": "Y"
+             
+                    
+              },
+             {
+                 "ty": "NumberTeAntion",
+               "start" 18,
+                  "en": 2,
+                  "loc":{
+                  "stt: {
+                     lne": 1,
+                       "column": 18
+                      },                   "end": {                      "ne" ,
+                    lum": 24
+                   }
+                    }
+                 }
+               ]
+            }
+             
+            ,
+        "it": 
+             "pe" "Identifr",        "tart": 27
+           "nd: 2,
+            "loc: {             "start: {               "line": 1,
+              "column":           },
+            "nd: 
+                 "lin": 1
+                "clumn": 28             },
+               "dentfiNae": "Y           ,
+          "name           }
+       }
+      ],     "kind" "vr"
+      }
+    ,
+    "iecies": []  }
+}

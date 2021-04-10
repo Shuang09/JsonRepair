@@ -1,0 +1,116 @@
+{
+ "type": "Fil,
+  "strt": ,  "ed": 32,
+ loc"{   "trt: 
+      "line": 1,
+     "olum: 0
+    ,
+  "end": 
+    in" 1,
+     "clumn" 32   }
+ }
+ "program": 
+   type: "Program"    "star": ,
+   "end" 32,   "loc" 
+     "st" {       "le":1,
+       coum": 0
+      },
+     d": {
+      "ine" 1,      con":32
+    }
+    },
+    "srceType:odule,
+  "body": 
+     {       "tpe: "DecreFunction",
+      sart": ,
+       ed:32    "lo": {
+        "start: 
+           "line": 
+          "column": 0
+         ,
+        "end":
+         "line":1
+          "lum": 32        }      },       "":{
+         "tye": dentifier",
+         "srt": 17
+        "end": 31
+         "oc":{          "star": {
+            "lin":,
+        coumn 17
+        ,
+         "end": {
+           "lne: 1,
+            "colum:31
+          },         "dentifierae:"foo"
+       },
+        "name": "oo",
+       tyeAnnotato": {         "yp":"TypeAnnotaio",
+         "start: 20
+          "end": 31,          l":{
+            "start": {
+             lin": ,           olum": 2           },
+           "end": {              lne": 1,
+            "colum":31
+             }
+            },
+       "tyeAnnotat":
+         "type": FuncinTypeAntio",           "tart 20
+          end": ,
+          "lo: {             strt": {
+                "line": 1,
+               "coumn" 20            
+              "ed": {            "in: 1,
+                "coln": 1
+             }         ,             "tyeParameters: {
+               "typ"ParameterDcarain"
+             start" 20,
+               end": 23,               "loc": {
+                 "start":                   "line" 1,
+              "olum": 20
+              },
+                "d":{
+                "lne": 1,
+              colmn"23             }
+            ,
+           "params":               {
+                "type: "ypePaameter",
+                sar: 2,
+                "end": 22
+                 "oc": {                  "strt" {                  "lie": ,
+                    "coumn": 21
+                 
+                   "end": {
+                 "lie": 1,
+              "olum 22
+                 }
+                 },                   "name": "T"
+                  "variance: nll
+              }
+             ]
+            }
+            "prams": [],
+          "rest": nl,
+         "eturnTp": {
+              "tye: "VoiyAnnoation",
+             "stat": 27,
+         "end: 31,
+             "loc: {
+              tart": {
+              "line": 1
+               "column: 27
+                },
+                 en":
+               "line": 1,
+                  coun": 31
+               }
+             
+            
+            }
+         }
+       ,
+        "redicate": nul
+     }
+    ],
+  "drectves: ]
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "tpe" "File",  "strt" 0
+"end": 38,  "loc": 
+  "start" {
+     "lne": 1,
+      "olumn: 0
+   }
+   "en": {
+     line:1,
+     "colum" 38
+    }
+  }
+  "progra": 
+  "ype": Proram"
+   "tart": 0
+   ed": 8
+   "oc": {
+      "tart {
+     "line": 1,
+      "colun": 0
+      }     "end": {
+      "lne": 1,     colun": 3
+     }
+   }    "sucype": "srit",
+    "body": [
+    {
+       "tye": "Exresinttmt"
+     "strt": 0,
+      "end" 38      lc": {
+        "star": {
+          lin" 1,
+           "oun":0
+         }
+         "end" {
+          "le" ,           "con": 3
+        }
+       },
+       "exresso": {
+        "type: "Fuctoxpression",
+         "star": 1
+      "end": 3,          "loc": {
+           "tt" {
+        "ine": 1
+             olm":1
+        },
+         "end": {
+          in"1,
+           clumn":7
+        
+          }
+          id: null,
+       generator: alse,
+         sync": false,      "paas": [],
+       "bdy": {
+        "tye" "BStatement",
+           "srt": 12,
+          "end": 7,          lo":
+           "sart": {             in": ,
+              "colum":12
+            },
+           ed": {
+         lne":1
+               "clumn": 37
+          }
+         },
+         "bd": [
+           {
+          "pe": "arbleDeclaration",
+           "stat": 14,
+            "end": 24,
+            "lc": {
+                "stat": {            "lne" 
+               "colun: 14
+               },
+                "end": 
+                "ine": 1
+                 "olumn": 2
+                }           }
+              "declrations": [
+              {
+              "t" "VariableDclarato,
+                "start": 18,
+               en" 23
+                 "loc" {
+                  "stt": {
+                   "lie": 1,                    "cun": 8
+                   },
+                 "en" {
+                      "lin": 1
+                   "olumn" 23
+                }                 },
+                "id": {
+                  "type":"Ienifier",
+                 "start": 8,
+                 "n" 23,                   "loc: {                    tat" {
+                     le 1
+                    clumn": 18
+                },
+                 "n                        lin" 1,                       "olumn: 23
+                    ,
+                   "idetifieName: "ync"                  },
+                   "name": "async"
+               ,
+               "init": ull             }
+              ],
+           "kn": va         },
+           {           "type": "ExresioSttemen",             "tart": 25,
+              ed": 35,            "loc" 
+           ta": {
+                 "ine": 1,
+                  "colum: 25
+                },             "nd:{                   "lne":1,
+                   "colum": 35                }
+            },
+               "expresio": 
+               type": "AssignmnExpesion"
+              "tart":2,
+                "ed":3,
+              "loc: 
+               "srt: {
+                  "lin:,                    "column": 
+                },
+               "en: {
+                ln: 1,
+                 coun" 35
+                }
+               },
+             "opeor":"=",
+             "left": {
+                 "ype": "Idenier",
+                 "start": 25,                "end: 0,
+                  "loc" {
+                "stat": {
+                     "line": 1,
+                   "clm: 25
+                ,
+                   "end": {
+                 "lie": 1,
+                     "column": 30                 }
+                  "idefierName": "sync"               },
+               "n: "async"
+             }
+              "righ": {
+                "tye "NmericLteral",
+               "t": 33,
+                 "end" 35,
+               "lo": {
+                     "strt": 
+                       "lin":1,
+                   "column"33
+                 }
+                     "en"{
+              "line 1,
+                "clun": 35
+                   }
+                 },
+                   "xtra": {
+                  "rawValue: 10,
+                   "r "10"
+              }
+              "aue 0               }
+              }
+       }
+         ,
+       "direives":[]
+         }
+      exta": {
+          "renthesiz":tue,           "renStart0
+       }
+       }     }
+ ],
+    "directives": []  }
+}

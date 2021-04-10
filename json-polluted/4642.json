@@ -1,0 +1,93 @@
+{ "type": "File",
+ tat": 0 "end":24,  "loc":{
+  stat: 
+     "line" ,
+    "olumn":0
+    },
+   en": {
+    "lne: 1
+    colum": 24
+  }
+  }, "rogram" {
+    "ype":"Prgram
+   "start": 0
+   "ed: 24,
+   "lo" 
+     start" {      "lin": 1,
+        colun" 0
+     },
+     "nd": 
+       lie": 1
+       column:24    }
+    ,
+   "oueTy: "srip"
+    "ody" 
+    {
+       "ype": "FunctionDeclaratio",
+       "sta"0,       end":24,
+       "loc:{       star" {
+          "line",
+          "olmn": 0
+        },
+         "n": {
+          "lie: 1,
+         "coun": 24        }      }      "i":{
+         type":detifier",
+         sart": ,
+        en": 14,
+         "lo {          "start:{
+           "lne" 1,         "cun": 
+       },
+          "n": 
+          lin" 1
+             "column": 14
+       },
+           "identfierNme: "empty"
+          },
+        "name" "mpy"
+       },
+       eatr": fase,
+     "asnc": false       "paras": [
+         {
+          type":"RestElme,
+           "start": 15,
+         "en": 20
+          loc":            start" 
+            "li": 1,
+           "colmn": 15
+           },            "": {             "line:1
+             "colmn: 20          }
+         ,
+         "argument: {
+         "tye":"ArrayPattrn",
+           "start": 18,             "en": 20,
+              "lc": {            star": {               "line:1,
+              "colum": 1              }
+             "nd: {                 "line": 1
+                  clun": 2
+               }
+         },
+            "lment": []
+          
+        }
+    ],
+      "body" {
+       "tpe": "BlkStatemnt",
+        "sar":22,
+      "end" 4,
+         "loc" {
+       art" {           "in": 1,
+            "colun": 22
+          },
+          "end" {
+          "line": 1,
+       column": 24
+         }         },
+       bod": [],
+          "directves": []
+     }
+     }
+   
+    "directives":[]
+ }
+}

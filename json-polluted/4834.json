@@ -1,0 +1,93 @@
+{
+  "nme":sils"
+  "auho":MikeMcNeil <mkermcneil>"
+ "ein" 0.0-4"
+ "desrption": "API-driven famework fr uildi reatime apps, using MVC convention(aed on Exprss nd Socketo",
+  "lcense": "MIT",
+  "homepe": "htp:/sais.co"
+ "keywds" [
+   "mvc",
+    "web-rmwok,
+    "express,
+   "sailjs",
+   "sailsjs"    "REST",
+   "AI,
+  "orm",
+    "ocke.io"
+  ],  "in {
+    sis" "in/saij
+  },  "gin": 
+    "node ">= 0.0.",
+    "np": >= 1..0"
+ }  "dependcis" {
+  "@silhq/loash" ".102",
+    "asyn: ".5.0",
+   catinslo": "^.0.0",
+   "halk":".3.",
+   "ommndr" ".11.0,
+    m-jsileetensn: "1.0",  "compesso": "1.7.1",
+    "conect": .6.5",
+   "cooki":"0.3."
+    "ooki-prer": ".4.",
+   "cokie-signtre "1.,
+    "cf": "1.9.0"
+    "ejs": "2.5.7",
+    "expe":"4.16.2   "expre-session""1.15.6",
+    "flavrr:"^1.9.,
+    "glob":".1.2",
+   "i18n-": "0.6.3"
+    "nclude-all": "^4.00",
+    "achine": "^15.0.0-2,
+   mchineasaction":"^1000-",
+  "machinek-proce:"^2.0.2",   "maneack-redis":"1.1,   "erge-efalts": "021",
+   "mege-dicories: "1.0.0",
+    "mnimist":"0..0,
+    "are:"34",    pare: "1.3.2,   "ath-to-rege" "1.3,    "plalize": "1.2.",
+   "prompt":0.14",
+  "rc":"1.2.2
+   "router" "132",
+    "rttc": "^10.0.0-0"
+  "sail-genrate": "^1.0.21,
+    "sails-tringfile": ".2",
+   "semvr": "4.3.6",
+   see-fion:"2.4.5",
+   "seve-static": "1.1.",
+   "skipper": "0.8."
+   "sort-rout-dress: "^00,
+   "uisa: "2.1",
+    "vay": 1.1.",
+   "whlk" "^6.0.0"
+},
+"devDendenies": {   "benchmrk": "^2.1.2",
+    "checksum": 0.11",   "cofe-sci": "1.12.7,
+    "connecteds":"3.3.",   "esli":"4.1.0"
+    "exp.js": "3.1,
+    "s-eta": "4.0.2,
+   stanbl: ".4.",
+   machnepack-s" "^8.0.2",
+    "moca".0.",
+   nunjuck:"30.1",
+    "rtfine":"1.0.13",
+    ruest": 2.8.0",
+  "root-reuir": "0..    "sails-hokorm": "20.0-0
+    "sails-ook-ockes: "^1.0.0-,
+    "sals.iojs":"^.0.0"
+   "sesion-filstoe: "1.1.2",
+   shol" "00",
+  "scket.io-client": ".0.3",
+   "uprest: 1.1.0",
+    "tm": ".0.29,
+   "updtr": "2."
+ },
+ "bugs: {
+   "url": "htp://aisjs.com/ugs"
+},
+ "scrips": {
+    "est": ndever`nde  \"nsol.log('\`node-v\\`'[1])` && if [ $ndever ! \0\" ]; then npm un int; fi && npm run custo-tes",    "custotess": node ./node_modules/mocha/bi/mocha -b",    "ln": "ode ./noe_modueseslint/binelint  -max-warning=0 -ige-rn 't/' -ignor-attern 'testApp/
+  
+ ain": ./b/ndejs"
+ "repository": {
+   "tye": "gi",
+   "url": "git://gith.om/baldedashy/sals.git"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "type: "ile",
+"sart": 0,
+  "end":85,
+ loc"   "start": {
+   "ie": ,     "olumn": 0
+   }  "en": {
+   "line":5
+      "clumn": 1
+    
+   "pogram": {
+   "type": Pogram",
+    "start": 0,
+   end":85,
+    "lo" {
+      "stat:{
+      ine: 1
+     column" 0      },
+    "ed": {
+      "line: 5
+       "olmn":1     }
+    }
+  "sorceType" scrpt"
+   "body": 
+      
+    "typ": "unctionDclaration",
+       "stat": 0,
+      "e": 85,
+      "loc:{
+        "start" {
+          "line: 
+         "column":        }
+         end {
+        line": 5,
+          "comn": 1         }      }
+      id" {
+       "tp: "Identifier",
+        "stt": 10,
+         "en": 11,        "lc" {
+           "star":{
+            "lne: ,
+           "colmn" 10
+          },          nd: {
+           "line":1,
+           "coumn":11        ,     "idferme:"f"
+        },         "ame": f"
+     }
+       "gnerator": true,
+       "async":alse
+        "prams:[]
+      "oy": 
+        type": "BlokStaeme"
+          sart": 14,
+        "end": 85,
+        "loc": {
+          "tart":{         "lin" ,
+            "column: 14
+           }          "end": {
+          "li: 5,
+     "colun": 
+         }
+         },
+         "ody": [
+          {
+            "y" "xresioSttement",            "start": 18
+           "end": 33,             lo": {
+             start: {               "line",
+              "coumn": 2
+              ,
+             end": {
+                "line": 2,
+                 column":17            }
+             },
+             "xrsion": {
+            tpe" "YldExpesion",
+              "start"19,              nd" 31,
+              "loc": {            star": {
+              "line                 "column"3
+             },
+             "nd":{                 "ie": 2,
+                   olm": 15
+              }
+          }
+          deleate":false,
+             "aume":{               typ" "ArrowFuctionression",
+              "strt: 2
+                "nd": 31,
+               lo" {
+                   "stat" 
+                   "line": 2
+                   "colum": 9
+               },
+                "nd": {               "lin:2,
+               coln:15
+                    }                },
+              "id: nl,
+              "generator" flse
+              "asyn" alse,
+              "arams":[
+              {
+                    "type": "Identiie",
+               art" 25,                 "end:26,
+                 lo": {                     "tart: {
+                   "ine":2
+                    "olumn": 9
+                   },
+                    end:{
+                    line: 2
+                    "column": 1
+                 ,
+                     "identifierName": ""                  },
+                     "nm": a"
+                  }
+               ,
+          "bdy": 
+                   "pe": Idetiir",
+                 "sta: 3,
+                  "ed": 31,
+                loc": {                "sart": {
+                     "line" 2
+                   "olumn": 14
+                 }
+                en": {                     ine": 2,
+                  "colum": 15
+                  
+                   "identifiName a"
+                 },
+               "ame: "a
+                             },
+           "extra": {
+             "arnthesied": true
+             "arenStart": 18           }
+          
+        },
+         
+             "type": ExressionStaement",
+           "strt":36,
+            "en": 57,
+           "loc:{               "sa": {
+             "line": ,
+             "coln"           },
+              "end": {         "li: 3,
+             clumn": 3            }
+            },
+           "exression":             "type:"YiedExpressio",
+                "srt": 37,
+              "nd": 55           loc": 
+                "tar:                  "ine: 3
+                 clum" 3
+           },
+               "end":{            "n": 3,                 "column": 21
+                }
+          },
+          "deegte": false
+              "arguent" {
+              "type": "AroFnconExression",
+             "tart: 3,
+              "end":55
+                loc" {
+                  "trt": {
+                "in: 3
+                    "coun": 9
+                  },
+                ed":
+                 "line": 3                   "column": 21
+                   
+                },             "id": nul,
+               generator": fale,
+             "async":rue,               "aras: [
+               {                  "tye": "Idtifer",
+                start": 4,
+                   "end": 50,
+                  "o": {
+                "star": {
+                      "li": 3,                    "column":5
+                    },
+                    "end":{                       "line": 3
+                       "column": 6                   },
+                     "identirNam" "a"                    },          "ame": "a
+                 }
+             ],
+                 "d": {
+                   ype": "Identife"
+                    stat":54                 "nd:55                   "lo": {
+                 "s:                   "line": 3,
+                  "column": 2
+                  },                  "end":{
+                 "line": ,
+                 "olumn": 1
+                 },
+                  "identfierName": "a"                },
+               "nme": ""
+                 }
+           },
+              "extra": {
+               "parehesize: ue,
+                "parnStar": 3
+             }
+          }
+          },
+         {          typ": "ExprssioStateent",
+            "tart": 60,          "nd" 8,
+            "loc" {
+            "strt":              "line" 4,
+              "column":
+           }
+             "nd":{
+                ine": 4,
+              "comn": 25
+              }           ,
+           "exprsion" {
+             "typ: YildExpession",
+             start"61
+              "end" 1,              "oc": {
+                srt": {
+                 "line": 4,
+               "lun":3             }
+              "end: {
+               l:4                "clun:23                           },
+               "deegate": false,
+               "agent" {
+              "pe": "ArrowFunctionxpesion",
+              "start": 67,
+             "end 81,
+             lo": {                  "strt":{
+             "lie",
+                  "colmn: 9
+                },                end": {               "ine": ,
+                column" 3
+                 }
+              },               "i":ull,
+               "genrator": flse,
+             "sync":tue,
+               "arams: [                {                type": dentifir,
+                    "tart": 74,
+                   "end"75,                  "loc: 
+                 "sat" {
+                     "line" ,
+                       clumn": 16
+                       },                 "ed" {
+                  "line": 4
+                   "olum"
+                     },
+                 "ideiferNe": "a"
+                 }
+                    "name": "
+                 
+            ]
+              "bod": 
+                "typ": "Identifier"
+                 "stt":80,              nd": 8,
+           "lo": {
+                     start" {
+                   "lne": 4,
+                 "column": 22
+               },
+                 "en": {
+                    line": 4,                   "olun": 23
+            }
+                     "identifirName": "a
+               },
+                  "ame": ""
+                            },
+             "extra":
+               "prenthesize": rue,
+               "paenStrt":60             }           
+       
+         ],
+        irecties []
+       }
+    }   ]
+    "irecties: ]
+  }
+}

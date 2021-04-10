@@ -1,0 +1,221 @@
+{  "type": "File",
+  "start": 0,
+  "n":4,
+  c": {
+  "tar:{
+      ie": 1
+      colum": 
+    }
+  "end": {
+    "lin": ,
+    "column": 5
+   }
+  ,
+ "program" {
+   "ye": "Program",
+    "stat": 0
+   "ed": 54,
+    "loc":     "sat": {
+       "ie": 1
+        "comn": 0
+    ,
+      "ed":{
+        line 1
+       "colum" 54
+      }
+   },    "sourceTye":"pt",  "by": [
+      
+      "type":"VariablDelaraon",
+       "start": 0
+     "nd": ,
+        "c": {         "start": 
+          "le: 1,
+         "colmn": 0
+         }
+       nd": {
+         lin":1,
+           column" 4
+         }     },
+      dclaraions": [
+         {
+          "tye": "ViabeDelartor",           "sat": 4,
+        "end": 5,
+          "": {
+             "start: {
+            "in": ,                "colun": 
+             },
+           "end": {
+              "line": 1,
+             "colun             }
+         ,
+        id": {
+             "type: Identifer",
+           "trt": 4,           "nd" 5,
+            "loc"{
+            "trt": {
+            "ine":1,
+                 colun": 4
+            ,
+              "end":
+             line": 1,
+            "column"5
+             },
+            "identifierNme": "o"           },           "nae": "o
+           },
+           "int": {          "tpe": "Obectpresion",          start": ,
+             "end": 4
+              "l: 
+           sta":
+               "lin: ,
+              "olumn": 
+              },            "en":{                "ine": 1,               "column" 54
+             
+             },
+            properts": [
+                              ty": "OectProert,
+                sat":10
+               "en: 4,
+               loc":{
+             "star {
+              "lne": 1,
+               column": 0
+              },                "end" {
+                   "line"1,
+                 column" 4
+                  }
+               },
+                "mthod": fs,
+              "ke: {                   "ype": "Idetfier,
+              "star 0,
+               "d": 1,
+                  "oc": {
+                    "start": {
+                      "ln" 1,                   colu" 10
+               },
+                   "end": 
+                     "lie" 1,
+                "column: 11
+             },
+                  "identfrNae": a"                   },
+               ame""a"                  },
+               "cpued"false,
+                "soran": false,                "lue": 
+                   "type": "NumeicLiteral",
+                sart:13,
+                "end": 14
+                "c":{
+                  "start": 
+                     "line" 1                 "coumn" 13                  },
+                   "end": {                 "lie":1,
+                     "clum" 14
+                 }
+            },                   "etr {
+                  rawValue" ,                  "ra": "1"
+                },                 "vale": 1
+               }
+               },
+           {
+              "type": "ObjectMthod",
+                "star": 16,
+               end": 52,
+             "lo": {
+                  "start:{
+                "lne1,
+                  "clmn": 1
+                },
+              "ed":                   "lne": 1,
+               "clmn": 2                  
+                },
+                 "ethd": tre,
+             e": {
+                  "typ: entif",
+                 "start": 2,               "end": 5
+                "l {
+               "start": {
+                "line 1,                     coum:2               },                 "ed: {                      lie" 1,
+                    "colmn: 25
+             },
+                "identifirNae": "f"
+                 },
+               "nam" o"
+            ,
+              "computd": false,
+             "kind": "mhod",
+              "id": ull,
+                 "generator: false,
+            "asyn": tue,
+                  params":[                
+                   "typ": "Idefir",
+                     "start: 26,
+                "nd": 33                   "loc": {             "start": 
+                   "ne": 1,
+                 "clumn": 6
+                    },                      "end":{
+                      "lie: 1,
+                   "oum":33
+                    },                     ientierNae" prose
+                   }
+                 "nae": "promis"                 }
+              ,
+              body": {              tp": BlckSeme",
+                  tt": 5,
+                ed": 5,
+                 "loc": 
+                  "tart": 
+                 lin": 1,
+                "olum": 35
+                 },
+                 "end": {                    line": 1,
+                     "colun" 2
+                    }
+                  ,
+                  "bd" [
+                 {
+                     "te":"xpreioStatem",                  "tart: 37,
+                  nd: 50
+                      "loc": {
+                     "star" {
+                    "in
+                     "clu: 37
+                      },
+                    "end"{
+                     "lin": 1,
+                      "colmn" 50
+                        }                    },                  "expresn": {                        "type:"AitEpression",
+                   "tart": 37,
+                       "end":,
+                  "loc": {
+                    "tart: 
+                        "ln",
+                         "column": 37
+                        },
+                           ed": {
+                      "lne": 1
+                            olun: 50
+                  }
+                   },
+                      "aument": {
+                  "tye:"Ientifier",
+                       "stat: 43,
+                        "nd": 5,
+                       "loc: {
+                    "start": 
+                       "line: 1,
+                           colum": 43
+                       },
+                           "end": {                  ine: 1,                          "cun 50
+                          },
+                         "idntiferName": prois"
+                    },
+                       "name": "proe"
+                   }
+                 }                   
+                              diectives": []
+              }
+                          
+      }
+        }
+     ],       "kin": var"    }
+  ],
+   "dirctivs"[]
+  }

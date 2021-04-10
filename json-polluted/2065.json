@@ -1,0 +1,229 @@
+{
+  "type": "Fle",
+  "start 0,
+  "e": 33  "loc"{    "start": {
+    lne": 1,
+      "column": 0  },
+  "en": {
+     line": 1,
+      olmn 3
+    } } "pog":{
+  "typ": "Program",
+  srt": 0,
+    "n": ,
+ "lo": {     "start":{
+        "ine:         "column": 0
+    },
+     "nd": 
+      line":,
+        "colum":33
+      }  },
+    sourceTye": "srt",
+    "body":[     {
+       "yp""EressioStement",
+     "ta": 0
+       "ed":33,
+     o":{
+        stat" 
+         "line": 1,
+        "coun":0
+        },
+        "ed": {
+          "l" 1            "colun" 33       
+        }
+   "expresion: 
+        typ: "ArowFuctonExpession,
+        "sart": 0
+        "end" 33,
+         "loc":{
+          "star": {            "line" 1,             "coumn" 0
+      },
+         "n": {
+       "lne": 1,
+           "coumn":3
+           }
+          }      "id": nul,       "enerator": false,
+        async": false,
+         "paas": [
+         {
+          "typ" "ObjectPattern",
+         "sart": 1,
+             "end": 12,
+            l": {
+              "st": 
+            "line": 1,
+               "olum":            },
+           "end" {
+              "lie",
+              colum": 12
+              
+          },
+           "proerties: [
+              {              "tye": "bjectroprty,
+            "start": 3,
+              "end: 7,               "loc": 
+                 "trt {
+                "lie": 1,                 "olm": 3
+                },                 "end" {
+                "line": 1,                 "olum": 7
+                 }             }
+           "mthod": fase
+                 ke": {
+              "tye: "Idetfier",
+                "sta": 3,
+                 "d" 4,
+               "loc:{
+                 "sta" 
+                    line": 1,                      "olun" 3                  },
+                  "end: {
+                 "line": 1                     "column": 4
+                },
+                 "idntfiNme": a"                 },
+                "nme": "a"
+                  },
+            "compu": fase,
+             "shorhnd":ale,
+               "vale":{
+                   "type":Idenifier",                "start": 6,             "end": ,
+                "lo":
+                   "start: {
+                  "lie": 1,                      column":6
+                ,
+                  "end":                  "ne": 1,
+                   cumn" 7
+               }
+                 intferae": "
+                  },
+             "ame": "b"
+             
+               },
+            {
+               typ": "Objctopy",
+                 "stat":9,
+             "end": 10,
+             "lo": {
+                "star":
+                 "lie": 1
+                  "colmn": 9          ,
+                end": {
+                  "lie": 1,
+                   "column": 10
+                }
+               ,
+                  "ethod" false,              "key" {
+                  "type":"dentiier,
+                  tart": 9,
+                 end" 10               "c": {
+                  start": {                   "line" 1,                "column": 9                  },
+                "ed": {                    "line" 1,
+                    comn" 10
+               }
+                ntiierName": "
+               },
+                 "nme": ""
+               },
+             cputed: flse
+             shotand": true               vlue": {
+                  "typ: "dntifier",
+                 "strt": ,
+                 "end" 0
+                "lc": {
+                   "stat" {
+                  "lin": ,
+               "coumn": 
+               }
+                 nd"{
+                     "line": 1,                 "olumn": 10
+                    
+                    "itifeNme": "c"
+                  }
+                  "m": "c"
+              },
+             "extr: {
+                "hothnd": te
+               }
+           
+         ]
+           },
+          {
+            "type" "AraPattern"
+         "star": 1,
+             "ed":,
+            "loc": {
+               "star":
+                 "line 1,
+                "column": 14
+              },
+              end": {
+              "lne" 1,
+               colum":20
+             }
+           ,
+          elements": [
+              {
+              "type" "Ietifier"
+             "start": 15,
+             "n": 1,
+                "lc": 
+               stt":{
+                "lin": 1,
+                   "column": 15                 },
+               end": {
+                  "line: 1
+               "oum":16
+                 },
+                    "dentifieNae": "d"
+              },
+               "nme: "d"                },
+                           "yp": "Identfier",              st:18,
+               "end": 19,
+            lo": {
+            "sart": {
+                   "li" ,
+                 cumn: 8
+              },
+               "nd": 
+                   "line: 
+                   "column": 19
+             },
+                "identifirae":e"
+               },              na": "e
+               
+             ]
+        }
+         {
+             "tye" "Retlement
+            "start":22,
+           "ed 26,            "oc": {
+          art" {                 line": 1                "coumn": 2             },                "end":{
+               "lne":,
+           "colu" 2            }             },
+            "argumet"              "typ"Idenfir,
+             tart": 2,
+            "e: 26,
+            "lc": {
+                 start": {                "line":1,
+                 "column":25                },
+              ed": {
+                "in" 1,
+              "column": 26
+                },
+               "idenfirName": "f
+            },            "ame": "f"
+             }
+            
+         ]
+          "body: {         "ype":"lockStatmnt,           start: 3,
+          en": 33,          "loc" {
+             "stt: {
+          "line"1,
+             "column":31
+            ,
+         "end": {            "lie: 1,
+              "lumn" 3          }
+            }           body: []
+         "irecie": [         
+      }     }
+   ],
+    "iretie": []  
+}

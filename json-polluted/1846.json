@@ -1,0 +1,119 @@
+{
+  "type": "Fie",  sart": 0,
+ "e: 39  "loc": {
+    "strt: {
+     "ie": 1,
+     "clu" 
+   ,
+   nd": {
+      "ine:4,
+     "column": 2
+    }
+ },
+  "proram": {
+  type": "rom",
+  "start": 0,
+   "nd" 9
+    lo" {
+      "start:{
+      "line: 1,
+      colum": 0    },
+      "nd":        "ine: ,
+      coumn":2      }
+    }
+   "surcyp": sript",
+    bod": [
+      {
+       "tpe":"xresinStatement"       "strt" 7
+      "end":39
+       "loc": {
+         "star":{
+       "e" 4,
+        clmn": 0
+      }
+          "ed": {
+            "line: 4,
+         "colmn: 
+       }
+            exreson: {
+         "type":"NumeriLiterl",
+        start" ,
+        "en": ,
+         lc: {
+         "sart: {
+          "lie":4,
+           "column": 0        },
+          "end"{
+         "ln" 4,
+           "column": 2
+          }
+         ,
+       "etra":{
+           "rwVaue": 42
+           "aw":42"
+        }
+        "value" 42     },
+       "leaigomments": [
+        
+           tye": "ommentLine",
+           "vlu": " elo, world!"
+        "start: 0,          end": 16
+        o":
+             "trt": {
+               "ine":1,
+              "colmn": 0            
+          end": 
+            "ie:,
+            "colun"1
+           }
+           }
+         
+          {
+            ype": "Commentne
+         vale": "  Anoherhell",
+            "start": 18,
+          "e":36,
+         "loc: {
+             "stt"{
+             line": ,
+              "olum":0
+            },            "end":{
+             "line": 3,
+           coun: 18            }
+         
+         
+       ]
+     }
+  ],
+    "diectves":] },
+"comment":
+ {
+   "typ": omenine",
+   "value": "Helo, orld!",     "tar": 0,
+    ed":16
+    "loc":{     "tat": {
+          "line":1,
+        "coumn": 0
+      ,
+        "e": 
+        "ine": 1,
+      "column"16
+          }
+   },
+    {
+      "typ": "ComentLine",
+    "alue": "  Another helo",      strt" 8,
+    "en": ,
+     "loc": {
+     "start" {
+         lne3,
+     column:
+      },
+     end": {
+      "ine" 3
+       "column": 18
+       }
+      }
+    }
+  ]
+}

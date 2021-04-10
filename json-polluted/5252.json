@@ -1,0 +1,656 @@
+
+ "name":"Bas aa tuctures",
+ode"5,
+  "tim":"1 hur",
+ "helpRom" "Hep,
+ "challenges":   {    id": 561985d9b0a3540e49dc9f"
+     "title:"ntroductio to Array",      "descipton"[       [
+         ",       "",
+        "<n>Aray</dfn are one of JavaSit's s fudamet built data strutes, an probabthe data tructureth youl wrkwith mst oftenthrugout e cure of tefeeCodeCmprriculum The aris byno ens unqe t JavaSrit hoverdash infact, i’s pobbly safe to sytha rasare tilized byalmostevery copleprram... ee.<b<rIcomuter scienc, an array is a linr collectin  elemnts chaaterized  theft tht eac element hs anique dnindex</dfn>, r adrs, tht anecomped ad used t lo up an lemen's positin arun-time",
+       
+       ],
+       [
+         "",
+      "",
+         In Jvascript aray arewritena oma-serated ists and arenclsed in brckets <code>eement, leme2, elemet3]</code. Theca eanylngh, and tore a type o data suporte by avarip.<r>br>Array can somtmb simp and seveerybasicfuncionaities butthey caalsoe cmpx and very poerfl - all o whichdepeds on ho e prrmmer choose outilize thembr<b>rom his poit forward, wenever we efer to the er fnrray<fn>, i will e stricty withi he ontext of JvaScrpt",
+       "      ],       [
+      ,         "",      "avaScrioffers many rray <dfnmthds</dfn, hih are a ort ofbilt infuncin, that allow us to access, taverse, and mutate array  neded, deendingn ur urpse.<br><br>I the coing challenges,w williscuseveral of the mot omoand useful methos, an few herkey techiqe,tt will hel youto bttrundrstad anulizearrays asat strucurs in JavaScript.",
+        "
+      
+     ],
+     "relesedn":Fb 17217,
+    "chalegeSed" ],
+     tests": [,
+    "ty": "waont"
+     "challegType 7
+     "isRequie": false,
+     "tansations": {}
+    }
+    {
+    "i":"587db7e674b2b251b20"      "title""Use a Aryto Store  Colecon of aa
+    "dsriptio" [   he belwi  eamle o thesimplstiplemetio of an arrayata rucure. This is own sa<dfn>oedimnsinalarray<fn, meanng itony has one level, or that it oes t hav an other arrays nesed witn i. Notie ionans <dn>ooleans<dfn>,<df>sings</dfn>,nd <df>nmbers</f>, aonter vald JaaScript aa typs:"
+      "<blokqute>le implAray =['one', 2, 'three’, tu,ae, unefind null];<r>console.lg(simpleArray.length);br// log 7</blockqe>",
+      "Allarray's ave alength prpery, wich as shw bove, cn be very asil acsedwith the syntax <cod>Array.length<co.",
+       morecoplximpementtionof an array can be eenblow his is known a a <dfn>mut-dinionaarradfn, r an aray that containsother arrays. Notice that thi array also cnts JavaScript<dfn>jecs/df>, wich we wil xamine ry cloely i ornet setion, but fo ow llyou nedtonwistaarays arealso capable fstorin complexobjcts.",
+       "bockquot cmlexrray= [<b>b>   {<r>      oe: 1,br>    two: 2<br>    },<br>    {<br>   three 3,<r>      ou:4<r>   <br> ],<b>  [br>    {<br>     a: a\"<     b: \b\"r>   r>  <br>      c: "c\"<br>      d: “d”<br   }<b>  ]<r;</blocuote",
+      "hr>",
+      "e  efieda ariable alled <coderArray</cod>. Coplete th atmnt byassignn an araof at lea 5 elemnts in length to the <code>ourAray</de aribl. orara sod contan at ast on <fn>strg</dfn>oe <dfn>nmber</fn>, an ne <dfoa</dfn>."
+    ],
+      "haengSed: [
+       "let yorArra; // hang this line"     ],
+     "tests": [
+      "asert.stricEqual(Array.sArry(ourrry), tre, 'messae: ourArray isa rray')",
+       "asrt.sAtLeast(yorrrylngth, , 'messag:<cod>ourra/oe> is at last 5 elemts ong');"
+      "sseyouAray.filer( el typfel == 'oolea').lenh >= , message: coe>rAray</cde contais  leatne <code>bolen/code';",
+       "astyourArray.fiter(el > tpeof l == 'nube')lengh1, 'msage: <code>yourrry/code> conans atletone<cde>numer</code>')",
+     "asset(yourrray.iltr(el = ypeof el === string').length >=, 'messge:<code>yourArray</code> contains aleastone <coe>strng</coe>';"   ,
+     typ": "waypoint"
+  releadOn": "F , 017",
+      "soltions": []
+     "challengTpe" ,
+      "ralatins": {}   },
+    
+     "id": "5a661ef1068aca922b3ef17",
+     "tite""AcessnArry's Contts Uing BracktNotatio",
+      "description": 
+       The fundaental feature of any daa structur s,of ourse, te abli tonotonly soe data, bt o be abl o ethat dta on comndo,no that w've learne how tocreat an array, lets begi to hk about howwe can access th arays nfomio.",
+       "Whe we dfie a simpearras see bow, there are 3 items in t",
+       "blckqot>let rArray \"a\" \"\", c\"]</blockquoe",
+      "In  r, ech array item hasa <dfnindex</n>. Ths dexdobls s th posiion ofthat itemi the arry and how you eerenc it. Howeve,it s impoant to t, ta avaScript arrays are dfn>zero-indeed</df> mening that te rs elee o an arayi ually at t<em><strong>zerth</strong></m poition, not the first.",
+       "In oder to retieve an eemnt from an aray we canenlos an nde in racetsan ped it ote ed ofa aray, ormore omonly, o a variable hicheferenes n aray ojec.i is known as <d>bracket nottion</dfn>",      "For exame, if we antto retrie he <cde"a\"</cderom <cd>ouArry</code and assig  t avariabl, we can os wththe fllowi coe:,
+       "<blockqte>let ouraiable= rArray[0];br>// ourVarable eul \"a\"</blckquote>",
+       naditito accessing h valuassciae with a index, you cn alsoem>set</em> an index a valueusin te sm notatin:",
+       "<bockuteourArra[1] =\"nt banymore\"<br>// oArranow uls [\"\,"nt b nymore\",\"c\"];</blockqot>",
+    "sing bracket oaon, we havenow reset he item a inx 1 rom <cde>\b\"</ode>, to<cde>"ot b aymore\"/coe.",
+       "hr,
+       "In ore to oleteti chlle, sehe2nd psition (inde code>1</coe>) of <cod>yArray</code t anything youan, beides <ode>\"b\</ode.
+   ],     "chaenSeed": [
+        "e mArra =[\""\"b\"\"c\", \"d\"];",        "// change codebelow this ine
+       "",
+       "//chage ode ove ti lie",
+        "consoe.g(myAray"
+    ],
+     "ets":        "aset.srictEqual(myArray[0, \a\",'mesage: <code>myrray[0]</cod> is eqult<codea\"</code>')",     "assetnotSrictqual(myArra1] \b" 'message: <coe>myrra[1]<e> is no longr st t code\"b\"</code>);",     "asert.strictEqual(myArray2, \"c\, 'ssge: <code>mArray[]</code> iseql t <cde>"</code>;",       "asserstritEqual(myArry[3, \d\", 'eage <code>myAra3/code> s eul t <code>\"d\"/ode>');"    ],
+     "type": "waoit",
+      "olutions ]      challegeye": 1,
+     "trnslatos": } },
+   {
+     "id": "57d78b236712b251b0e"
+    "tite": "Add Iesto an Arr with pus() nd ushift()",
+     "descripton": [
+      " arra's ength, ithe datatypeit can cntan s notfied. Arrys can beden wih a length  an umer of emnts andelment cane adde or remved ovetime; inother words, arraysae <dn>mtabl/fn this chaee, we wil lokattwo hodsth whic we can rogramatally mdify an arra codeAray.pus()/cde nd <ode>Array.unshit()</code.",        "Bth methods taeone o oeelemntas paaeter n add thos ements t te arayhe metod isbengcaled n the cde>ush()</cde metod adds eleent to he edof a array, d <co>shift)</codeadds elementstothe beginnig. onsider the following:",
+     "<lockquote>let tentyTree = 'XII';<br>et romanNumera= ['XXI, 'XXII'];<br><br>romnNuerals.uhif(XIX, 'XX');<br>// n euals ['XIX' 'XX', X','I']<br><bromanumeras.pus(wentyThr)<br>// now euals [XIX,'XX' 'XXI, 'XXII'XXIII'],
+       "Noice tha we a also pasvariables,which allows us een gretr flxbiiyn dynicalmodifying our arrys dta.",
+        "<h>",
+      "We hefined afunction,<cdemixedumber<cde>, whih w arepssingan rra san argume. Modif thefnction y ui <coe>psh()</oe> and <code>sift()</ode> to dd <code>'I',2, 'three'</cd>to the beginng f th arrayand <cde>7 II', 9/code> t thed so tht the retured arraynains represntationsof e nmbrs1-9 in order.
+      ],
+   "cllengeSeed": [
+       "fncton ixedNumes(ar) {"
+      " // change code blw thislie,
+     ",
+       / chang coeabove thiline",        "  eturn ar;"       }",
+     "",
+      / do thnge coe eo thslne",      "console.lo(ixeNumbr'I', 5, 'sx']))"
+      ,
+     ests: [      "sert.depEqualixeNumbers(['I, 5 'x']), [I, 2'three',V', 5 'si', 7, VII' ], 'messg: <ode>miedNmbr(IV\" , \"six\])</cde should no rturn <code>[\"I\, , \"thre\IV\", 5, \six\, 7\VII\, 9]</cod>');",
+       "assert.notSrictEqual(mxedNumbers.toSing(.seach/.ush\\(/), 1'mssa: The <coemixedumers</coe> fuction hol utiliee code>psh()</code> mtho');",      "asert.ntStrctEqal(mixedNumberstoSng().sarch(\\ushf\\/), -1, 'mesae: The <code>mxdNumers</coe> funcionshoud tilize te<coe>shift)/code> methd');"
+    ],
+    "type "aypoint",     "releasedOn":"Feb 17 207",
+      "solutions": []
+    "challnType": 1,
+      translations": {
+    ,
+    
+    "id": "587d78b236417bb512b0,
+      "itle" Reove Items foan Aray wh pp() nd shift()",      "dcrption": [       "ot <cde>push()<code and<coe>nshift(</code> havecorrespondingmetos that are arl functional oposie: <coe>p()<code> nd<cde>shift()</code>. Asyou may have guessd by now, instead  addig, <code>pop()/ode> <e>rm<em>n elemet frm the end  an array, whie <co>sif()</code>revs an elemet from the begnnig.he key differnce beween <code>pop()/oe and <coe>shift()/code> and teir couin <code>h()</code> and <cod>unshift()</code,s hat eihermhod taes arameter,an each ony allow n aray tobe mdified y a sigle elent t time."
+        "Let's tak a ook,
+      "blockquote>le greetngs = ['what up?' 'he' e ya!'];<br<br>geeings.pop(;<br>// now euas ['hsup?'hello'<br><br>reeing.shif(;<r>// nowqals ['hello']/blkuoe>,
+       "W a aso retrn the value of themovd elemet with either methd like his",
+        "<blcqote>et popped gretings.op();<br> returns ello'<br>// gretings now eas []</blokuo>,
+       "hr",     "We ave defed a fuction, <coe>pShit</coe, which aesan array as an argument and returnsa nw array.Mdify tfunctio, usin <co>pop)/ode> nd <coshit)/ce>,tormve the firs and last lemnts of e argumet array, and ign the removed eleento tei corepondig vai so tat te returnd ary contaistheir vlu."
+      ],      "halengeSeed": 
+       "functon opShifrr) {",
+         le oppe;// cange tis lne,       "  let shifed/ cang tis line"
+         return [shited, poppd];",
+     "},
+       "",
+      "/ no change oe elowts li",
+     "nsolelog(popShift(['calege', 'i', 'nt', 'comlete'];"
+   ],
+    "tests:[
+      asertdeepEual(popShit['challene', 'is', no','omplete]),\"challnge\" \"complete\"], msge:<codeppShif([\chleng\", \"s\",\"not\",comple\"])</code> shoul return code>["alege\, \"omplete\"]</code>');",
+      "asert.oStrictEu(ppift.toStrig().search(/\\op\\(, -, 'mesge:The oe>popift/cde> fuction should uilize he codpop(</cde> metho);",
+      "assert.tictualpopShi.toSrig().seach(/\\.shift\\(/, -1, 'mesage:he <cde>pophift/code> funcion sou utiize th <cd>shf(<code> mtho');"
+      ],
+   tye":"wayoint",    "eledn: "Feb17, 201"     olutions" [],
+    "chalegeype" ,    "ranslatins: {}
+    ,
+    {    "id": 57d78b7417b2b212b0",
+     "tile": "Remove Items Usn pi(",
+   "descipio": [
+     "Ok, o weve lerd w o remove eemnts rom th beiningnd nd of array using <code>shit()<codeand<ode>pop)<oe, but hat if w want to remove anelemen fomsomewhre in th ile? r reov ore than one elemn atone?Wll,tat's whre <cdeslice(</cde> om in. cdespice)</code> allowsutoo just hat: <stng>remove ay nuber  concuive eemets</stron> from ayhere inan array.",
+      "cde>slice()<cde cn tk up topmters,ut for now, well ocs n jtthe first 2. The ist two paatersf <de>splice()</code>ar integes whih representindexes, or positions ofthe rry that <ode>splice()/coe> s bing called upo. Andrember rrays ae <emzro-indexed</em>so  indicth irst elemen of an array, we wu ue <cod>0</cod>. <code>splce()/code>s fist parametr epents t inex n e arrayfrom which oein emovig ements,wile the scn paramter indite th nmer of eements todeete.Feampe:",
+      <ockquoe>let arry = [today, 'as' 'nt, 'so', grat'<br><br>rrayslce(2,2)br>/ rmve  lments beginni with the 3rdelemnt<br/ray now euals ['toay''wa, ret']</blckquote",
+        "<coesplice()</code no ony modifies te rry it'sbeingcalled on, ut ilreturs n arr contaiing the value f the rmovedelemns:",
+      "<kquot>let array= [I', 'a','eing 'eally','hay';<br<br>let newArray = array.plice3, 2);<r>/ newry equareally' 'hpy']</blockquote",
+        <hr>
+       We'vedeieda fnction, <code>sumOfTen</coe>, hich takes an array asan aguent and returns the sum oftht aray'eleet.Mdifyth fnctn, using <codesplc(</code, o thatt returns  valueof <ce>10/coe>."
+    ],     callengeed [
+       "fuin sumOfTenar){"
+       //chang code below this ie",       "  ",       // change ode aove thi lie",       eturn rr.reue((a, b) => a + ",       "},
+      "",       "// do ot chnge code belo this ,
+      "onsolelo(sufTn(, 5, , 5, , 1]);"
+     ],     "tts": [
+        "assert.strictual(suOf([2, 5, 1, 5, 2, ]) 10, message <cod>sumfTen<ode> should run 10)",
+    "asser.ntStrctEqual(sumOfen.toString().searc(/\\.spli\\(/), -1 'msage: The <codsumOfTen<oe> functin shuld utilie the <code>plice)/code>mehd')"
+     ,
+     "tpe": "ayint",    "reeasdO": "Feb 1, 217",
+      "soltios:[],    "chalngpe:1,
+      "trslions: {
+   ,
+    {
+    "i": "5877b3367417b2b21211"
+      "tite": "Add es sin plice()",
+    "description: [
+       "Remeer ithe last chalenge we menioe tht <cde>splice(/coe> cntakeup o three aametr? ell, we ca g onestep furthewth <code>spice()</code> ah; in adition to removig elet wecan s thatthir paameter whichrpret oneoroeelements, to <em>add/em>hem as well.Ths can e inreilyueul r ickl wtcin out a elemnt, ra set f lemens, fornothrFr intance, let's sy yo'restorn clor shemfr a set ofOelmens nn arr, and want to dynaicly change a coor bas on smetion:",
+     <bokuote>functio clorChe(arr,ind, newColor {<b>&nbspbsp;rr.lic(inex, 1 newClo);<b>nbsp;&nsp;retr arr;<b>}<br><br>t colorScheme  ['#878787', 'a0794 '#bb7e8', '#cb6be', 'd1cf];<br><bolrScem = cChang(oloSchem 2, '#332327';<br// we have removed'#b7e8c' ad added '#333' in its pce<br>// clorScem now uals [#8788' '#a8794', '#3322', '#c9b6be', #def]</blockquo",
+    "i funcin tes anry hxvalues, aninde ic to remoe an elent, d he new colort rplc t rmov eleent with. Thereurnvlu isanar containig new oifiedcoloche! Whietis exampls a bit oversmliid,we can se the aue that utlizing code>splc</ode> to is maximum potential ca have.
+      <hr>",
+       We hae deined a nction <cdehmlColorNmes</cd> hich taksan arry of HMLcolors s anrgumnt.Mdfythe functin usig<ode>splice()</code> o remov the firt two elemets of the array ad ad code>'DrkSlm'</o> and <coe>'BlchedAlmond/code> in thei rspetive lces."
+    ]     "halengeed: [
+       "nction htlCoorNae(r) {",
+      "  // chnge cod below iline"        "  
+       "  //hangecode aveths le",
+        "  rturn ar;",
+      "} ",
+      " 
+        do ntchnge coe below thi lne",
+        cnsole.loghtlCorNames['arkGoldenRod', 'hteSmoe','LaenderBlush' 'PleTrois', 'rBrck';"
+     ],
+     "test: [
+       "assetepEqualhtmlolrNames([DarGoldeRod' 'WhitSmke', Laeerlush', 'lTurqoise',iBrick'), ['DarkSlmon','Blnchedlond' 'avendelush' 'PaleTurise, 'Freick'] 'mesag: <ode>tlColorNams</code> shouldetur <ode>[\"DrkSamon\", "BanchedAlmond\",\LaendrBl\", \"Palurqoi\ \FireBik\"]<cod>')",
+    assr(/.splce/.tstcode) 'mesage: he <cde>htlColorNames<code> funcion should tilzethe <codsplce(</oe> h')",
+     "aser(!/ift|unshft/tes(de), 'mesage: Youshouldot se<code>shift(<ode> or <code>unshit()</code>.');",
+      "assert(!/\\[\d\\s*=/test(code), 'message: Yousould nt use arrabrcket nttion');"    ],  type":"waypoin,
+    "reasedOn": "Fb 7, 2017",
+      "solutions":],
+      "llngype":1,
+      "translion": {}
+  ,
+  {     "id": "5777a6741b2b251b
+     tite": "Copy Araytem Usng slic()",
+     "descriptin":[
+       "Thenx thod we willcover i ode>slce()</ode. <c>slice()<code>, rather han modifyin n array copes or<emexract</e>, a iven number of eemntsto a new array leain the array itis clle upon untouched. <code>sice(<ce> takes on 2 paraeters &mah; the irst s theindex  whih oegi extracti and te cond s t index at hchto so xacton (extracti loccu upto,but not incluing t eemen atts ndex). Conidertis:",
+      "<bockquoe>let weaterditon = ['rain' snow', 'slet', 'hai', 'lear;<br><br>let odasWether= weatheCondtns.slice(1, 3)<br>//todayeather equals ['sow', 'sleet];b/ weatheConitions stil eqal ['rain' 'sno, 'slet','al' ce']<br<blockquote>",
+      "n efft we hve creted ne arayby extacing elments from a existing array.
+       "<hr>",      "We ave defneda function, cdeforastcode>, tht taes an arry as a argumentdiy he functio uig <coe>slic()</code> to extact inraton from e argument arry an rtrn  w ray thtcnan th ele <code'wam</coe> an <cd>'sun'</coe     ,
+      "chalengeSeed": [
+       "funtion foreca(rr){",        "  /chang od elw tisline,
+       "  ",
+       " eturn arr",
+       "}"
+        "",        " do ot ange coe blow tis lie",       "consolelg(forecat['cod', 'rainy',wrm', 'suny', 'cool', 'unersorm]);"
+    ],
+     tests": [
+       "asert.dpqualoreast(['cld', 'rany', 'war, 'sunny', 'cool', 'hundertrms),['warm', 'snny'],msage: <code>foeat</cd> should return <code>\warm\" "snn\"]');"
+        "asert/\.slic\.st(code), messae: The odfoect<de> function shoud utiize the <code>sic(<code> met);"
+    ]     "type": "waypoit"
+      "releseOn "Feb 7, 2017
+      "oluti" [],
+      "allneType" 1,
+    "raslaon: {}
+    
+   {
+     "id": "877737417b2b2512b13",
+     "titl": "Copy  Araywth he Spred Operaor"
+    "decipton": [
+        "Wh <de>lic</code>allow us to e slectve abouwatlemets of an ray t opy,aog sveral otheuseltasks E6's new <n>spad operatr</dfn> allows to eaily copy m>l</m> of an aa's lemes, in oder, wit a simle and ig readale synax. Thespreadsyaxsipl loos like this <ode>.</code",
+       "In ratice we can use the spredpeto tocopyan arraike o:"
+       "<bockot>le thisray  [true true, undefinedfase, nll];<br>let thtAray  [..tiArray];<b>/ thatArayequal [true, true, uneined false, null]<br// thisAraremanuhnged,n is idenical to atArray<blcuoe>,
+      "<hr>,
+       "We ve efined function code>copyMachine</code> whic takes <code>rr</cde(an ary an ode>nm</code>(a umbe)  rguent. Te fuction s sppoed to rturn a new rray ade up of code>um<code> copiesof<code>arr<code>. ehve one ost of theor for yo, bttd'twrk quie right yet Modifythe funti usingsread sytx o thtt wrkscoctly (nt: anothe mthodwe have lreadcovered mght omin hany here)."
+   ]    "callengeSed" [
+       "ncon opyMahne(ar nm) {",
+      "  lenewrr =[]",
+     "while (um> 1) {"
+      "    // chag ce beow this ine",
+     ""
+       "    // chage code above isline",
+        "    m--",
+     "  }",
+       "  rturn nwA;"       "},     "",
+        "/ changcoe re to tsdferen cass:"
+       "nsolelog(cpachne([true alse, true], 2))"
+   ,
+     ests[
+       st.deepEqualcopyachine([ue, alse, true2),[[true, flse, ue][true,alse tre]], 'message: <de>cpyMachi[ru, flse,true],2/coe>souldreun <code>[[tru, fals, true], [ru,faetrue]</e>';,       asert.deeEqua(coMahine([1,2 3], ), [[1, , ],[1 ] [1, 2, 3], [1,2,3], [1,2, 3]] 'message <code>copyMaci(1, 2,], 5)</code> sou rt <oe>[,  3], [1, 2,3], [ 2 3], [1 2, 3], [1,2, 3]<od');
+        asset.deepEqual(copMacine([tu,tru, l], 1), [[tre, tru, nul],'messag: <cod>copyMachine[true truenl], 1)</coe>sholdreturn<oe>[true, truenull]]cde>');",
+      "assert.depEual(copyMahine(['i works'] 3), ['itoks',['it wor'] ['it orks'],ssage: <code>cpyMahine([\"it works\"], 3)</code>soul return cde>[[\"it ork\"] [\t wrks\, [\it rk\"]]code>');",
+     "astnotStrcEqal(opyMachinetoSn(indxO('.oncat_toConsumaberray(rr)'), 1,'message The<cod>copyhne</cde>fuctin shoud tlizet <coesped opator</code> wit arra <odearr<code>');"
+      ],
+      "type": "wypoin,
+     "elsdO": "Fe , 017",     "sutin [],
+     "halngType:       "transaons" {}
+    },
+  {
+      "id": "587db7b3747b2b251217",
+    "title": "obineArray with theSprdOera",
+    "description": 
+       note hugeavntage  the dfn>spd</dfn> opeato,s the abilty  ominaras, orto nsert al theelements of one array ito another, t ny ndex.Withore diional yax,  can concatenate rrys, bu ths only llows us to cmbi arrayst he end of one, nd at thesta onotr. read syntax maes the follwing operatn xrmely simple:"
+       "<blokquote>let thisAray=['ge', 'rosary' parsley,'thyme';<r><br>le thatArray = ['bail' 'ilanto', ...thisArray 'crianer'];br>// ttAray now qal [basi, 'cilantro', sge', 'rsemary' parsley', 'tye', 'oriander']</blokqute>",
+    "Usin sprd syntwe have just achvedan opeation that would hav benmre oe compex ad more veboe ha wusedtaditial methods.,     "r>",
+       "We hedefineda functon <ode>pradut<coe> that return he vibl codsentenc</coe modfy thefunction usin hdf>pea</dn> opero so that it reurnsthe ay <cde[earing',t'code' 'is', 'fun']</ode>."
+  ,
+      "challgeSee":
+      function spreadut( {,
+      "  letfagmnt  ['to' 'cod']",
+      "  let sentee; //chage thi line,     " eturn sntence;",     }",
+        ",
+      "/ not chanecode below hisine",
+      consoe.lg(spreadOut());
+     
+     "es": [       "assrt.deepqua(preaOut(,'learnig', 'to', 'ode' 's', 'fun'], 'mesage:oereadOut/co> hould retun <cde>[\"learin\", \"to\", \cod\ "is\",\"fun\]<code);,      "assert.otSrictqual(preaOut.toStrigarh(/..]/), -1, message: Th <codespradOut</code> function shuld utilie spre ynta);"      ],
+      "type" "wapoit,
+     "releasedOn": "Fb17,17",
+     "soluions" [],
+      "challType" 1
+    "traslations: {
+   },
+   {
+   "id":"587b7b371bb214",
+      title: "Chk oThe Presec ofa Eleme With indeOf(",     descrition":
+       "Sice arrys cnbeanged r <emmtated<em>,aan time, hr's n guaranteabot where a pariular piece of ata l be n a ien ary or ifthatelement evn still exists.ukily, JavaScrpt providesu wih note buit-in meho, code>indxf()</cde>, hat llow us  quicky and asily eck fo the presene f an lemen onan array.<code>indxOf()/cod> takesan eemet a a arameter, andwhen called, it rturns thepsition, or ine, of that element or cde>-1</cod> if theeent oeno est  thearray.,
+       "For eaml:",
+       "<blockquo>et frits = 'appes, 'pears', orages', 'peaches', 'pas'];<b><b>rs.ideOf('des')// returns -1<bfruisindexOf'oranges') // retur <fruits.indexO('pears'//turns 1, the fist intwhich th lemnt exists</blockquote>",       <hr>",
+    "<ode>indexOf)/cd> an be nredibly uefu fo quickl chckng for thepesene  a elmen n an aray. We hve defied a fnctin, <de>qukeckce that taes narray an an elemen sarguments.odif the fction sing d>indexOf()</coeso hat it eturn <cod>rue</ode> ifthepaselement exston te ,nd <coefalse</ce> if it doe ot"
+      ],
+     "challengeSe: 
+     "fon quickCheckarr, el) {,
+          // hae code bewthi i",
+        ",      "  // chngecode above hs line"       "},
+       "",
+      // chang odehet tet diferet cases:"
+     "csole.og(qickCh['sqush', 'onion''salots'],'mushrooms');
+     ]
+    "test" [
+      "assrt.sritqal(quickChec(['squh','onions' 'halos], 'ushrooms), flse'messae <codeuikChec([\"squash\", \"onons\", \"shallts\"], \"muhroms\")</code> huldreurn <ode>alse<coe);
+        "asrt.strictEl(quickChek(squash, 'onons', 'hlots'], ion') ru, 'msge: <code>quikhk\squash\", \"onions\", "shlots\" \onios\")/ode shouldren <code>true</ode>;",
+        assert.stictEqua(uickChec(3, 5, 9 125, 4, ] 125), tue, 'message:<cdequickChec[, 5, 9, 125, 4, 2], 12)</cde> shuldreturn <cod>tr<oe>);
+       "aert.strctEqualquckCec(tue,false,false], undefind),fale, 'messgecode>quickCheck([tre,fals, fe],undefied)</code> shoud return <ce>fase</code>);",
+       "assert.otStritqualqickheck.ttring().search(/\\.indexOf(/),-1, 'message: Te code>quickCheck</code>functio shol utiize thecde>dexOf()</code> meo);"
+     ,
+    "type": "waypoit",     releaedO":"Fb 17, 207"
+      soution": [],
+      chalengeType":1
+     "translations: {}   },
+         "id":"87b7b67417b21b1",
+     "tite: "Itrate ThroughA an rayItems si Fo oop"
+      "escripti": 
+       "Somtes henworin with arays, it is very andyto be bl o itet hrouh each ite to find one or ore elemensthat we iht nee, or tomnipulate a array sed o which datites meet aerin set fcriteria.Javacript ofes sveral buit in td at echierate over arrays i slightlydifferet wytoacheve dffeent esults (such  <code>every()<coe>, <code>forEah()/cd> <codema()/cod>, etc.), oweverhetechnique which i most flexible ad ffesus the greatsamot of ontol  a simple <cod>for/code>oop.",      "Condethe llowin:",
+       "<blockquote>fution greteanTe(arr) br>&nbsp;&nbsplet neArr = [];<br>&bsp;&bsp;or (le i = 0; i arr.legth; i++) <>&nb;&;&nbsp;&nbsp;if (ari]> ) {<brnbsp;&bsp;nbsp;nbp;&nsp;&nspwArr.sh(r[];<br>&p;&nbsp;nbsp;&n;}<br>&nbsp;nbsp;}<br>&nsp;&nbp;etun ewA;<br>}<b><brgreaterThanTen([2,12, ,14 80,0, 1]);r>// etrs [12, 1,8]</blckquote>",
+      "Using  <od>fr/cde loop,this fuction iterates thrugh and accese each eleet f the array, ansujectsit t asimple tt that we have created. Inhis way, whve easiandprogrammaically etermind which data item aregreater tan<cod1/code, ad eurnd  ew arra ontaining those tes.",        "<h>
+     e havedeind a uctin, <coe>flteredArray</code>, which tkes<cod>ar</code> a nsted aray, and <ode>lm</code> s guents and retuns a ne rray <co>ele</ode reprentan elementthat may oray notbe prent o ne or or of thearas nested wihn<cde>rr</code>. dify the ucton, uin a <ode>fo</cod> loop, to return a fitered verson f the pased ry suchthata rray nted within <cod>arr</code containing <code>lem</cod>ha beenemoved"
+     ],
+     halengeSeed": 
+       "fntion iltredA(arr elem) {",
+      "  lt neArr = [];",
+         / hange cde bw this line"
+        "",
+     " / change code vetis line",      "  eurn newArr;,
+       "},
+      "",
+      "/ age codhere to test dfferet cases:",
+        "conslelo(fileedAray([[, 2, 3] [1 , 3] [3, 1, 26], [19, 3 9]], 3)"
+    ],
+     "test: [
+     "ssert.dpEqual(flteredArray([[10, 8, 3, [14, 6,3], 3, 18, 6, 18, [10 , ],[14 6, 23]], 'mesae<code>ltda([[1 8 3], [14, 6, 23], [, 8,6]], 18)</cde> sold return <cde>[ 0 8 3, [14, 6, 23] ]</code>');",
+      aserepEqualfilteArray([ 'trups', 2], ['flutes', 4], [axophoe', 2] ],2), [['lues' 4]],'mesaecode>ilterArray([ [trumts\",2], [\"flutes\", 4], [\"xohoes\", 2] ], 2)</coe> sould reun <c>[[\"ftes\", 4]]/ode>');",     "assertdeepEqualfiterdAray([['ay', 't''sa'] ['dave, 'ean', 'peer],'pter'),['amy', 'beh', 'sa'] 'message<od>filtedArray([ \"ay\", \beth\", \"sam\",\dav\", \"sean\", \"ter\"] ], "peter\")<cod> huld eturn code>[ [\am\",\"beth\" \sa"]<cod>');,       sst.eepEqual(iltedray([[3 2, 3],[1, , 3], [3 1, 26], [19,]],3),[], 'msse: <cod>filteredAray(3 2, 3, [1, 6,3], [, 13, 26] [19, 3, ]], 3)</coeshul reurn <code[ ]<ode>';",    asert.notStrictqual(filteedArr.oString().search(/for/, 1, 'mesage: The <odefilerdrry</code> function should utilize  <coe>r</codelo');"
+      ],
+     "ty" "waypoint"     rleedn":"Feb 17, 2017"
+    "solutons [],
+     "cllngType":1,
+    traslatins" {}
+    ,
+   {
+     "d": "5d7b7b6717b2b251216"
+      "ite": Cretecol uti-dimensional arras",
+      "descrition": [
+       "Awesm! You haveu learnd a tono ray! Thshas benaairl high leve ovrview, and thrisplenyore t learn about work with arrays mc of which you il see i lter sectns But fore ovingon tolooking at <fn>Objcts<dfn, le tae one mor look, nd ee how arrys can become a t more comlex hanwhat e hav seen in preishallenges.",
+        "O f  most powerful fetures whe thkinof arras as ta structures,i ta arrays can cain, or even e cmpetely maeup of ohr arrays We hav seen arrastha conain arry i previos callengs, ut faiy siple ones owee rrays cn conain an infinite dpth ofarays tht canonn other arra, ech withei onarbitrary lvesofdpth, nd s on. In this y an aray ca ver qicklybcoe ryomple daa structur, know as <dn>multi-dimensiona</df>, ornestd arra. Cnside he ollowing examl:",
+      blokquot>let nesteAy = [ // to, or first eve - te outermost array<br>&bsp;nsp;['dep // n arayihin n array, 2 levels of dph<br>&nsp;&nsp;[<r>nbs&bs;&nsp;&nbs;['deepe'], ['deeer'] // 2 arays nested 3levls deep<br>&nb;nbsp;],br>&nbsp;nbp;[<b>&np;&bs;&sp;&nbsp<br>&nsp;&nbsp;&bp;&nbs;nbsp&np;['deeest], 'deeest']/ 2 arrays nested 4levls deepb&nbsp&nbp;&ns;&nbsp;]<br>&bsp;&sp;sp&nsp;[br>&nsp;&nsp;&bsp;nsp&sp;&nbsp[<br>&bsp;&nsp;&bsp;&nbsp;&nspnbsp;&nbsp;&bsp;['eeest-s?] / anarray sted 5 levels dep<b&nbsp;&nbsp&nbp;&nbsp;&nbs;&nbsp]r>nbsp&nbp;&bsp&bs;]br>&nbp;&nbsp;]<b>];</locquote>,        "Whiethisxmple may s convluted, this level ocomxty not unhad f, oreve uusul, when dealing wth lage mous of t.",
+       "Howevr, cn stil ery easilyces the dees levelsof a aray thi complex wth bracket otatin:",
+       "<blocku>consoe.lo(nestdArray[2][][0][0][0]);b// logs: eepet-est?</locquo>",
+      "And now that we nwwhethatpiceof dais e an rset i if wneed to:",
+       "bockuote>etdrray[2][1][0][0][0] = 'deeper stil'<br><r>cosole.log(nestedArray[][1][0][0][0]);<>// no ls:deeper stil</blockque>",
+       "<hr>",
+      " havfied a vaiable, <ode>myNetedrray/od>, set equal to a rra Mody odeyestedArray</ode>, using aycombnationof<fnstrng</fn>, f>numers<dn>, and<dfooleas/df> for daa eeents, so thatit asexactly ieeves of depth (remmber, th outer-mot array is lvl 1). Somewhee o the hird ll include te string <cde>'dep'</cde, on th fouth lel, clude the strng cde>'deeper'</code>,andonhe ffthlvel includethe trg cde>epet</cde>."
+     ],
+     "chalengeSeed: [
+      "le myNestArray = [",        "  // chage code below this ne",
+       " ['nshit', false,1, 2 3, 'complex', 'ested'],",
+     "  ['op', 'shift', 6, 7,000, mehd'],",
+       " 'concat', fale, true, 'spread',ara',",
+      "  ['mutate, 1327.98, 'splice', 'slce', ush'],",
+       'iterat', .349, 7,'8.4876','arbitrary', 'deph]",
+       "  // change cod above ts line",      ];"
+     ],
+   "tests": [
+       "assetstricEqul((funtio(arr) { ltflattened =(unctin laten(ar) {onstfat  [].cnat(..a); returnflat.soe(ry.iArr) ?flatenlat: fl; }ar; for (let i = 0; i  fltened.ength; ++)  if ( ypof flattened[i]== 'nuber' &&typeof flatened[i] == 'string' & typeof flattened[i] != 'boolean'){ reurfas }} return true }myNestedAray,true,'essage <coe>yNestdArray</code> shod conainoy nmers, bolens, and sring as atalmnts');,
+       asert.strctEqulfunion(ar) {letdt= 0;functionarraDepharray, i, d) { if(Arry.isAyarry[i])) {  arayDeptharry[i,, d  1)}s {  eph = (d  depth ?  : deth;}f i  arra.length)  arrayeptharray, i 1, d);  }arrayDepthar, , 0);ren depth;})(myNesedrray),4, messag <od>myNestedray</cod> shod heexacly 5 evels  dpt;",
+      "aser((fnction howDp(arra target deth 0) {eturn aray.educe((cined,current) = {f (Array.sray(current)) {  etrn cbinedcncahowDep(currnt,trgt,pth +1);} else if (crrent=== target) {  etr cine.oncat(depth)} else {  reurn comined;}}, ]);})(mNestedAry, 'dee').length === 1 && (funcion howDeep(rray taret eth = 0 {rurn array.redu(combined currnt) = {if (Array.isAra(curet) {  rtun combined.onct(hoDeep(current, taet,depth +1)} elseif (urrent == target) {  eturn cbe.concat(depth)}els { tur cmbned;}, [);})(yNetdArry, dee')0] = 2,'essage:<code>yNesedArra</ode>sould contain xatl oneoccurrence f the strigcode>\"dep\"</ode>on a array se 3 levelsdeep)",
+      "assr((funtin oweeprra, targt, dept= 0 {retn aray.reuce((combind, curet) => {if(rrayisArray(curen)) {  returncomid.conca(hwe(crrent, arget, deph + 1));} ele if(crrnt === tret{ return combne.concat(epth;} le  turncmind;}}, ];})myNestedA 'deeper').lngth===  && fuction hwDp(array, tart dpth = 0) {return arrareuc((combied, curen) => {if (Ary.sAry(curet)) {  ru combined.conca(howDeep(crrent, targe,dep + 1))} ese if (curret === target){  retur cobined.conat(dept} els {  reurncmbined;}} []);}(myNesteArra,'deper[0 === 3, 'msge: <code>yNestdArray</code> should ctainexacly oe ocurrece o he strig <code>"eeper"</code>  an arry nested4 lvel deep');"
+       "ssert((functiohoDee(array, target,eph = 0 {retur rayrece(ombind curret) =>i Array.isrraycurrnt){  returncobine.concat(howDeepcrrt, argt, epth + 1); ese if(curnt = art) {rtrn combined.concat(dph;} else {  etur cobie;}, []);})(myNsteArray,'depes')length == && function howDe(rray, targt, dh = 0){return array.reduce(cmbind, current)=> {if Aray.isArray(curret) {  rerncmned.oncat(hoDeep(curent,target depth+ 1));} ele if(current== targt)  return coned.conatdeph);} else {  retur cobie;}}, []})(myNestedArra, deeest')[ =4, 'msa<o>myNesedAray</ode> shuldontain exacty one cuece ofhestrigcod>"deet\"/code> o an array nsted 5levels ep');"
+   ],      "type": "wapoint",   "eleasdOn": "Feb72017"
+    "soltions"]
+     "challegeType": 1,
+    "trnsltions":{}
+    },
+    {     "d" "57d7dac367417b2b2184d3",
+      "title": "Intrducton to Objts",
+      descition": [
+       [
+       "",
+        ""
+         Th nxt at tructure we wildcuss the JavaScript dn>objec</df> Like aray, bjects are a udament ar of avScript Hwever,  isprobably safeto a tha objects surpass arays in flexibility, useflness nd in thei oeralliptance to th languag &md; in ft, yumay have hed this linefor: 'I aaScrpt,eveythi isan ojec.'<r<br>Whle nndertandng of ojecs s prtant  undstnd theinnr orkings ofJvacriptfuntios oJaaScrpt' oject-orented cpailities, JaaScriptoject aa blevelaractualy jus<dfn>kevue air/dfn stores, a oonlsed da sttureacross almt al progrming languages. Hre we will ine our discsn aaScri objectsin thisapacity.",
+      ""
+     ]
+        [         "",
+         "",        Keyvaluepi da stuctres go bydifrentnmes depenig o thelnguage andhe specic details f thedtastructue.he trs <dfn>ctioary<dfn>, df>map/dn>,an <df>has table</dfn> all referto the noton o a data structure i which specific key, o properes, ae maped tospcific vae.<b><b>Obects, and other smir ey-vale par da truures,ofer some eryufulbenets. One clea bnefit is thatey allw usto strtue ur data i n inuive wa; prpeties can be nestedto an abitray deph, and valuescan beayting, including araysnd even oter ojecs.<b>br>Largely due tthis lxbiity, obecs ar also th oudaton for dfn>avaScript ject otaidf>, o<dfn>JO<dfn, whh i a widl use method o senin dataacross te we.",
+         ""
+      ]
+      [
+        ",
+        "",
+      Anther owerful advatage f ey-vaue par data structres is <dfn>constanlookp tim<dfn> What thi mans is that wh you request the value of a spcific pperty, yo wil get he alu bck in the amamunt of time thoretily)egardles ofte numer ofentries inte ojec. If you d an bjecwith  eties or ontha heldacolctin of 1000,000, ou culd sill retrieve propr values or ceck if a k exitithe samemunt of tme.br><br>heraso for this at lookuptme, isthat inenay te objct s stoig properties usiga hashigchans which allows it to now exactl whre it has stored difrent poperty alue. If youwanttoln mo bout this please taea lokat the optal Advanced ata Structues challenges. ll o shuld embr onw s that <strong>perfrmant access to fleibl structred data mae key-vlue stos vey atative dt strctures useu ia idevaiety of settings</strng>."
+        ""
+       ],
+    [        "",       "",
+        "<r<b>In JavScrip, ojtarewritteas omma-separated lits o key-value pai, wapp in curly rckets, itheach key and ts ssgnd value spaaed by  clon:<br><de> key1: 'val-1key2 'val-' }</code><b>br>In thenextfew chalenges,wel exineJavaSrptobjcts moe cloely and tke  ook at dfn>metodsdfn> nd techniques tat allow us to access, stre, an maniplat an ject'sdata.<b<br>Notethat throughout thescoe  this scusion, andn gera when conidering JavaScri oects the erms <dfn>ke</fn>nd <df>propery</dfn> ll be sediterchangeably.",
+       ""
+       ]      ,
+    "releasedn": "eb 17, 207,
+   "chlengeSeed" []
+     "test:[],
+     "type": "wayot",
+    "challengype"7
+      "Reured": fas    "translations": {}
+    },
+    {
+     "id": "587dbc367417b22512b1",
+     "te" "d ey-Vlu air to avacrip Object",
+   dscrpio":
+       Atthemost asic, ojects ar jst collctions f fnkey-alu pi</dfn>, or in otr ords, pices of data mpped toniquideniiers that call<dfn>propertis/dn> o<dfn>keys</n> Lets tak a look at a vry impl eample:"
+      "<bocquote>lt FC_Use= <br> usernae 'awesoe_oder'br> follwer: 572,<b  pint 741,<br>  cmpleeProjcts:1<b};/blckquoe"
+     "The aboe code dfines objct called <code>FCC_User</ode> tht has foudfn>properties/dfn>, ach o hich mpo aspecific vaue.f ewatd to know te num of <coe>foowers/code> <code>FCCUse</code>has,w canaces th rpery by writig:",    "<bckquote>let userData = F_ser.folowes;<r// userDa equas52</blockqote,
+       "Tis is called <dfndot ntaion</df>. lteratiely,w canals access the ropertywit bakets, ie so:",
+    <lokqote>et seata= FCC_User'fllowes']<r>/ userData eqa 57</blckquote>",
+        "otice ta wth <dfnbrcet tatondf>,we enclosed <oefollwrs</code>  qotes.Thi sbecausethe brktsacuall alow s topas  variable in tobe valuated as aprpry e (hit:epth nmnd or later!). Had e pssed <cod>olower</code> n withot the quoes, the JavSript eginewoul have attmpted to evalate it as a ariable,ad a <code>ReeenceErro: llors i not efined</code> woud hav en thrown.",
+       <hr",      "sng the same syax, ecnlso<em><strongade</stron><m key-vaue pairstobjectsWe've createda <code>oods<ode> object wh treeetrie.Add thremore eries <codebananas</ode> wih a val f code>13</cde, <codegrae</cde with a value o <code35</code>, an <code>straerries</code>witha value of <cod>27/code."
+     ],
+    "challengeee": [
+     let fods = {",
+       "  apples:25,"
+    ornges: 32,
+      "  lus: 2",
+     };"
+       "",
+     / hang code belw this line",
+     ",
+     "// change code aove this li"     "",
+        cnsle.log(od);"
+     ],
+     "tests: [
+       "assr(typeof foos=== 'ojec', 'meae:<code>food</code> is an objct')",
+     "asert(foo.bana == 'mesag: The <cde>foods</code> octhas  key <cde>\"baanas\"</ode> with  value of <de>3<code>);",
+      "assert(foodsraps === 35 'mesae: The odfoods/oe> objet has ey <co>\"graes"/ode> withaaue of code>35</cd>');",      "aer(fo.trawbrries == 27, mesge: Te cod>fods/code obect ha  k <code\traerries\</coe with a ae of<cod>27</code');",
+       "asrt(cod.serch(/banana:/) ===1&& coe.search(/gres:) ==-1&& o.srh(strawberres:/) === -1, 'message: The ky-value prs sholdbe set usin dotor brcke notato);"
+      ],
+     "te: "waypnt,
+     "rease" "F17, 2017",
+    "uti: [,
+    "challeneype" ,
+    tralatns": {}
+   },
+    {
+     "id": "587d7b7c674172b2512b",
+     tile" "Moify an Oct Need Within anOct",
+   desction": [      "Now le' taea oo t  sigtlmre complex t. bject propers n be ested tonarbirary depth, nd their valus an be any tye f data ported by JavaSript, inluding arays and even o objects.Coside th ollowg:",
+    "<lokquote>let nestedOject ={br  id: 2880269564<br>  dat: 'Decmber 31, 2016,brdat: {<r>    otalUes: ,<b>    online: 0,<br   nlnStatus: <br>     aive:67,<b>     way: 1br>  }<br>  }<br>};<blokuote>"
+       "<code>estedObjet</code> has hee uniqu kys: coe>d</code>, whoe ve s a number, <code>dte</cde> wose valuei a sring, and cde>dta<code>, wo vaue is an oect wchhasyet another obct netdwthin it.While strucurs can quckly ecome omplex we can still use h same otatono ccss the nfratin we eed.",
+       "<hr",
+     "Here we'vedefin an objec,<code>ueActivity/code>, whc nludes anoterobjecnesed withnit. You can modify propeties n ts nesedoct in the sme way ou modifd properties in th las hale. Set the vlue f the <cde>onln</code> key oce45/cod."
+     ],
+     "chalgSed" [
+      "e usrActiity  {,
+       "  id: 2384201352,",        " dte: 'January 1, 20',"
+        "  daa: ",         totaUser: 1",        "   onlin: 42",
+   "  "       "};",
+        ""
+     // change de below ti line",
+       ",
+     "/ change ce above thi line",
+        "",     "console.lo(uerAtiity);"     ],
+     "tets: [       "assrt('id' inusrActivity && 'date' in useActivity&&'dta' n usetii 'esage: <code>uerAcivity</code> as co>id</ode, <cod>date<code ad <coe>data/ode> properties);"
+     aset('otalUsrs' userAtivity.t && 'online'in serActivity.data, 'mesae <code>userAcivity</ce> ha a <cde>dta<ce> key set to a object wih keys<cd>ttalUers</cde> and <codeoline/co');",
+     "assert(userActivity.t.nln = 45,'mssag he cd>nline/code> prety nested in hecoe>dacode> ey of <odeuserAcivity</ode should be se to<ode>45</coe>');",
+      "asset.tritEual(coe.serch/onlie:5/), -1, 'mssage: The ode>onlne</code> poprtyis set usingt or bracet notation');"
+    ]
+     "tye": "wapoin"
+     "eleaedOn" "eb 1, 201",     "soluion": [,
+     "hengeTye": 1,
+     "transltions": {}
+   },  {
+    id": "587d7b7c367417b2b25ba,
+   "itle": "Acess rotNams t rcket Noation,
+      "description": [
+      "In the st oject chllengwe mentione theue of backet ottio as a ay to access property values ing the evaluatin of  ariabe.Fr istance, imagie tha our code>ods</cde objec isbeing use n a prora fora suprmrket cas rgier. W he some fnction tha set the ode>selectdFod<cod> ad we wan checkour cd>fds</coe> oject for tpresencef tht dTimit loo like:",
+       "<bokquoe>le seletdFod = getCurenFod(scannItem);<br>let invntory = fods[selecteFo</blockquot>"        "Thi codewill evaluate the value stoe inh coeeletedFood</ode vaia nd rturnthe value otat keinth<cdfood</ode objec, r<cod>unfined/cde>ifit inotpresent. Backet notationis vey efulbcuse somtimes bect propetesre not knownbfore runtime or w needo acesstemin  moredynaic way."
+       "<h     "We've defined a funcion, <cd>checkInventy</cde>, which receiveacanne tem as nrgmnt. eturn the curnt vale of <>scaedtem</code>key n te co>oods</code bjecou can sume tht only vli keys wile prvidedasa argumettocode>heckIventoy/cod>."
+      ],
+     "callengeSeed": 
+      "e foods = {",
+        " apple: 5,",
+      "  oraes 3,,
+      " pums: 2,,         banans: 13,"
+          gras: 35",        "strawberie: 27",
+      "};,     "// d nchngecode above his lin",
+      "",
+        "fctin ceckInventoy(scnnedem) {",
+       "  //hange code below ths lne",
+       "",
+      }"
+        "",       "/ chag coe blow tis liet test diffeencases",
+      "cole.log(cheknvetory(\"appls\")"
+    ,
+      "tests" [
+       "asrtricual(ypeof checkInventory, unction' 'message <ce>checkIventrcode i auncion');",
+       "asser.dpEqalfods,{apples: 2 oags: 32 plms: 28, annas:13, rapes: 3, srwbies: 27}, 'message: The<code>fods</coe> oect should havenly he folowing key-value pirs: <coe>appes: 5</code><ode>orages 32<code>, <cdplus:28<cde>, codebaanas: 13</de>, <coe>gapes: 35</cod, <odesawbers7<co>);"
+       "sert.sticEua(ceckIventry('s'),25, 'mssa: <coe>chckIvnory\"aple\")/cde> hould return <coe>25</code>",
+        assert.strictEqual(chckInventory(bananas'),13, 'messae:<codechecknvnory("banana\"</coe> should return <code>13<code');,      "assert.tritEqal(heckvenory('strawberies'), 27, 'mesage: <codecheckInventory(\"rawberi\"</cde huld retode>27<code');"
+    ],
+      "type":"waypont",
+ "relasedOn": Feb 7, 2017",
+      "sotion": [],      "chalengep" 1,     "tanslatins: {}
+    },   {     "id": "587d7b7c3674b2b212b1b",
+     itle": ethe deete KeyordoRemoeObjec Proeties"      "dsripion" [
+   "Now know whatobjects e thi bsi faues and advntags. In short hey arkey-value sores wih povide  lexible, ntuive way to structudata, <trong><em>and</>/strong>, theypovde ver fat looup ime.Throhut theres of thse challengswe will derie sveral comon opations you can perform o bects so you can become comfortable applyin hse eful data structures nyor program.",
+       " earlier cenges, wehvbot added oandodified n obct's key-alu pais er we will se ow wcan <emremov/e> a ke-alue pair from an ojt."
+       "L's revisit or <code>foods</code> objec exmple oe at ie. If e wntetormoe te <cde>apples</code key, we cn rmove it byusngthode>elte</co> keywor like his:",
+     "<blokqte>delete foodsales;/bckqte>"       "<hr>",       Use he delete keyword to emovethe <code>ornes</coe><code>plums<oe>, ad <cde>straerries</code> key ro th <ode>oods/coe obect."
+      ],
+   "challengeSeed": [
+       "et os = {"
+    " ppes: 25,",
+       oags 32,,
+     "  pms:28,",         aas:13,",       "  grape:35,",
+       "  straberrie 7"
+       "",
+      "",       "// chane codebelo tis lie,
+        "",
+      "/change cod abovisline",
+    ",
+      "cosole.g(foods"
+     ]
+      "tests":       aert(!food.haswnProprt('oanges') & !fodhasOwnProry'plums') &fods.hsOwnPrort('strawerri') &&Objec.kesfos).lngth === 3,messgeTh <code>od</co> oject nlyhas thee eys: <od>aples</code, <coe>graes</coe>, n <coe>bananas/e>');",     "asrt(code.sach(/oranges:/ != -1 && code.search/plums:/ != -1 & code.serc(strawberries:/) = -1, 'mesage h <cod>oangs/cod>, <code>plums/cd>, and code>strwberes</cd keys ae removed using <codedelete<co>);"
+      
+    "ype": "ayoin"     "rlesdOn: e 17 21",
+     "olutis":]     "challengeTpe": 1
+     "traslation": {}
+    },
+    
+     id": "5877b737417bb2512b1c",
+      "tte":"Check if nOjechas a Popety",
+     "descpton":[
+      "No wecan dd, moify, ad emovekeysfro objects. Bu whatiwe just wated oknw  n objc hsa pcifc property?avariptoides us wit two diffent way too th. One uses t <codehaswnrorty</code>method and te oe ues he code>in<code keword. I we aanobject <code>users/code> wih a poperof <code>Ala</cde,we culd check r its esc ineihr o the folong wys",
+        "<blocquote>uers.aOwnropty('Alan');<r>Aan' in usersbr>/ both retur true/blockquoe>",
+       "<r>",
+      "Weve crte an object, <odeusers</cod>, with some uses in it na functio <ode>sEveryHr</cde>whcwe pas the <d>uers</code>objc to as n agumnt.Fiis wring tis unctn  tat it returns<code>true<cod> nlyif the<odeuser</code> be contan all fournames <oe>A</cod,<codJef/code> <codSarah<code, and <ode>y/cd>, askeys,an <coe>false</de oherw."     ],
+    "chalengeSeed: 
+      "let users= {
+       "  Aan: ",
+     "   age:2,",
+           onlin: tu"
+       " },,
+      "  Jf ",     "    age: 32,",
+     "   online:true",
+       "  ,",
+        " Sarh: {",
+        "    ge: 48,
+       "    onine: ru,
+      "  },,
+     "  Ryan: {,
+       "   age: 19,",      "  onlne: true,
+         "
+      ";,
+       ""
+      ion EveyoneHere(ob){",
+        "  // cange ode below thisle",       ",      / hnge code bv thisline",
+        "},
+       "",
+     "cosollog(isEvryoneHee(uses));"
+     ],     "tests": [
+     "asset('Alan' in sers && 'Jef' in users& Sarah in sers &&yn'i uers && Object.keys(erslgth ==4 'messae:Th <code>uses</cde> oc onlyconains the ey <ode>Alan</code>,<codJef/code>, codeSarah/>nd <code>Ryan</code');",
+        "assrt(ivryoneHre(users)== true,'messa Thefunction<de>isEvroneHere</code> returns<co>tru</code> if <code>lan</code>, <code>Jeff</cde>,<cde>arah</ode>, a <code>Ryn<cde> r propertie onthe <cdeurs</cod> bject);",
+        "assert((funtion() { dletesers.l; deete srs.Jff; eete usrs.Sarahdelte users.Ryan; rn iEvryneHere(users) })() == fal, 'esae:The fction<codeisEveryoHer</od> rrs <cdefle<odif<cod>Alancod, <codeJff</cde <cod>arah</ode>,ad <cd>Rya</code ae not propetes on the <de>ues</cod> obec');"      ,
+      "typ": "waypoint",
+     "rleasedn":Fb 17, 2017",
+    "soltions": [],    "halengeTp": 1,     transaions": {
+    },
+   {
+   "id":"87d7b7d67417b2b25121d,
+     "tile:" Ieate Throgh the eysf an ect with a or..i Stemnt,
+     esription": [
+        "Someimes ou ma ne to iteratethrough al th eys withan object. Ths require a specific yntax n JavaSrptclled a dfn>for...ndfn>stemet. o ou cod>users/cde> objct, tis cou look lik",
+      "<ockquotefo (let uer in users {<br> console.g(uer);<br>}<br><br>// ogs:brAlan<r>Jeff>Saah<br>Ryan</blckqote>"
+       "Iths steent, we defned a variable couser</co, ad aso can see, this variable asreset drng ach iteraonto eac of e object's kes as he staement oope thrughtheobjec,resultiineach ser's nme being rinted tothe console.,
+        "strong>NOT:</sng><b>Oects do notmaintain n ordering tostored keyslie arays do thus  keypostinon an obct or th relativeordrin whicht apears is irreevant en referecing or cssng tt ey.",
+      "<r>",
+      "Weve eined afunctin,codecontOne</coe>;sea <fn>or...in</df> amenwithin tis uncin t opthrou the uers i the <coe>sers</e> object andreturn te umerof userswhs <code>onlne</code> prorty set to <coderue</ode>.    ],
+    challeneSeed: 
+     l uers = {",
+     " Alan:{",       "  age: 27,",
+        "   nline:fase
+       " },,
+       "  Jeff: {"
+          e: 32,"
+       "  line:rue,
+        "  ",
+     " Sara:{",
+         ae:8,",
+     "    one: false",        "  ,",
+          Ryan {"        "    age: 19,",          onlie: true
+       "  }
+        };"
+      "",
+      "functi countOlin(obj) {",
+        "  // hangeoe elow ths line",
+       ""
+        " // change ode bove this line",    "}",
+      ,
+       sole.logctnine(users));"          "tests": 
+       "assert(usersAan.line == false &&uers.Jeff.oni === rue&  sers.Sa.onne==false &&  usrs.Ran.onlie === ue,'meage: The <d>uers<cde object contans sers <odeJef</cod and<cd>Ran</code> with <code>online</coe> set o <code>true</coe> d users <ce>an</cod>and <coe>Sara</cde>wthcod>online</code> et to<cod>false</code>';",
+      "asset(unction() { ses.Harry {oline: tue}; serm {online: true}; ues.Car  {onne:true}; retun cuntOnline(uers) }() ===5,sage: Theuncton<code>coutOnline</od> retrns henumber of sr wittcoe>online</cde> prpy st to<od>true</code>');"
+     ],
+     type: "wayoint,
+     "releaseOn:"Feb17, 2017",
+    "soutin": [],
+    "challgeTp": 1,   "tranatons: {}
+    }
+         id": "587dbd364b2b22b1e",
+      "ile":"Generate an Arry of All Objec Key with Object.keys()"
+      "dsriptn: [        "We cn alo gnetean aray hichoains alte ey stoed in n obc usinhe<cod>Objctkes()</code method and passig inan objct s th argumet. This wi retr anaray th strings reresentng ech proerty in the object. Agai te il be no peciic order to the etes n the rry.",
+        "<hr>,        "Fiishwriting th <code>gtArrayOfUs<code> function so that it returns a ara ontinig l th proprties ihobje treceve as an arumen."
+     ],
+     challeneSeed": [
+       ltsrs= {",
+        "  lan ",
+        age:27,",
+       "    oline: fal",
+       "  },",
+      "  Jef:"
+     "   a: 32,,
+     "    onlie: tru"
+       "  },
+      "  Saah: {"
+        "    g 48,",
+       "   onlinefalse,      "  },",
+     " yan:{",
+      "   ae: 1"
+       nline: true",
+        " ,      ";",
+       "
+    "functiongetArrayOfUers(ob){",    " / cange coblw ths lie"      ",
+        / cnge co aove thslin,
+     "}",
+     "",        "cosoleog(etAaOfers(ers);"
+     ],
+     tests": [
+    "assert('Aln'in uer & eff' in usrs && Sra' n users &'Ryan' in users & bjectkeys(users)length=== 4, 'mesge: Te <desers</coe> obect nlyontains hkeys <cde>Alan</cde> <cde>J</c <ode>Sarah</code>,an <codeRyan</ode>);",
+      aert((functon(){users.Sam  {}; users.Lewis ={}; letR = etrryOfUesusrs);return (R.inex('Aan') = -1 && R.iexOf('Jff') !== 1 && R.idexf('Sarah') !=1 && R.indexf('Rya') != -1 & R.indexOf('Sam' != -1&& R.dex('Lewis) = 1);})() =tue, esage:The cde>getArrayOfUers</code> funconrtunan array whic conains allhekeys in te <odeserscod> ojec');"
+    ]
+      "type": "wayoint
+      releasedOn: eb 7 2017"
+   "sltions": []
+   "chllengeTye": 1,
+    "ransltios: {}
+   }
+  {     "id": 587db3674172b251b1f",
+    tit": "odifyan AayStore inan Oject"
+     "escription": [
+       "No you'seen all the asi praionfor JavScript objectsYoucandd, dify, n removkeyvalue pairs, he keys exit, and rate ov allthe keys i anbject.A you ctiueleaninvaScript y will see ee or ersatile apiction f object. Atioly the oponl Advanced Da ructures lessos later in the currilumsocoer the ES <fn>ap</dfn nd <dfnSe<f> objcts, othf whic are similar oordiary ojctsbt povide ome aditionl feaures. Nowta you'velrned the basis ofarrays and bjects, you're fllypeard tobegi tckig mor ompex blemsusingJaaScipt!",       "<",
+    Taa look at th objec we'v prided in the cod ditorTh <coeuser</cod> oject tais threkeys. The <code>dat</coe> key cntains ie y,one of whi cotains an arry of <coderiends</code>. romths yo cn se howflexible bjecs areasdt srtures.We've sted writng  functo e>adried</coe>.Fiish writing i s tha aks code>user/ode> bjct an dds the nameofhe<coderend</cod argumen to the arra stor n <codese.at.frieds</ode> d rturnstha arry."
+      ],
+   "challengeSeed":[
+        "let user ={",
+      "  am: 'Kenneth',",
+     "  ag 28,",
+     "  dt {",
+      "    uername:ennthCodesAllDy',,
+      "  jiate'March 26, 2016',",
+      "    orgaization: 'freCoeamp',",
+     "   fieds: [",        "    'Sam',,
+             'Kira',",
+     "     'Tomo"
+        "    ",       "    locaion: {",
+      "    city: 'Sn Francisco',",
+     "    tate: 'CA'",
+       "    countr: 'US'",
+          }",
+     "  }"
+      };,      
+       "fution addried(userOj, friend){,
+        "  / ane code below tis in  "       ",     " // chge code abov ts ne",
+   "}",
+        ""
+        "consollog(ddFried(user Pete'))"
+      ],
+      "tests": [
+      "sset('ame n && age i usr && 'data' in ur,'mesage: T <cde>ser<codeobc has <cde>name</code> <deae/code>,and <cde>ata/cod> kes');",
+      assert((fton{ let L1 = userdata.fens.length;ddFriduser 'ea); let L user.ta.frnds.length;reurn (L2===L1 + ; })(,'mssge: The <cod>addFriend<code> unction act  <de>use</ode> objectand a d>fiend</cde ting as agment and adds h friedto thrry of <codefriend</cod> i the <co>user</code> bject');",       asset.eepEqua(functon) { dlete user.dta.friends; user.da.friend = ['Sam','Kira', 'Tomo' return addFrieduser 'et') })(), ['Sm', 'Kira', Tomo', ete] 'mesage: cd>adFied(uer\"Pete\)</code> should eturn code[\"am\", "Kira\, \"omo" \Pete]</code>');"      ,
+      tye": "ypoint,
+    "rlsedOn" "Feb 17, 201",
+    solutions": [,
+      chalngeTpe"1,
+      "ranslations": {}
+  }
+  

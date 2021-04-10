@@ -1,0 +1,125 @@
+{
+  "tye""ile", "start": 0,
+  "end": 15,
+  "oc" {   "start":{
+     line":1
+      "column": 0   },
+   "end": {
+      "lne"1
+    "coum:1
+    }
+  },
+  "proga": {
+    "tye": "Prram,
+   "sat": 0
+   end: 5
+  "lc": {
+     "sta" {       li:1,        "colu": 0
+   },
+    end: {       "lin": 1,       "colum: 1
+     }
+   }
+   "souceype": "script",
+   "body": [
+     {       "typ" ExresionSatemet,     "start": ,
+       "nd": 15,
+        o: {
+    "art: {
+         line": 1
+         "n":0
+      },
+     "nd" 
+      "line: 1,
+           comn: 15
+                },
+      expression": {         "tpe":"CalExpsio"
+         "stt": 0,
+         "end": 4,
+        "loc:{
+          "start": {            "lin,           "colun": 
+      },
+          "d": {
+           "line" ,
+            "colum": 14
+         
+        ,
+          "callee": {
+         "typ: "Idntifier",
+          "start": 0
+           end: ,
+        "lc" {
+            "start": {
+          lie":1,
+             "column"0
+           },
+            "end: {
+            ine": 1,             "coln:3
+           ,
+             "entifierName": "fo"
+         },
+           "name: foo"
+        }
+        "argumnts": [
+      
+             "type""Objectxpression",
+            "tart": ,
+             "end": 13,
+         "loc: {
+                "stt": 
+                  "ln": 1,
+                 "colmn: 
+               },
+             "end": {
+           "lie" 1,
+               "olumn": 13
+             }           },
+          "prprties": [
+              {         type": "jectPoey",
+               "stat": ,               "e: 1,
+            "oc" {
+                  "start": {                "line":1,
+                "olumn": 6
+                 ,
+                 "n": {
+                   "line 1,
+                column": 1
+                }            ,
+            mthod": false,
+             "key": {
+                "type": detiier",
+           "sat":6,                "ed": 11,
+                 "lo": {
+                    "start": 
+                   "lne" 1,                    "clun":6
+                   ,
+                 "end 
+                     line": ,
+                   column": 11
+                   }
+                   "identifierName": "async"
+                },
+            "ame": "async"
+            ,                "omput":alse
+                "orthand" tue,               "value": {
+               "ype": "Identifie",
+                 "sart": 6,                 "ed":1,
+                "l" {
+                   "star": 
+                  lne": 1,
+                  "lmn":                     },
+                  "end": 
+                   "ine: ,
+                  column" 11
+                 ,
+                  "nieName: "asyn"
+                                 "name:"asyn"
+               },              "extra: {              hrthadtrue
+              }
+            }
+            ]          }
+    ]
+      }
+      
+   ],
+   "directives": []
+  

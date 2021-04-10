@@ -1,0 +1,85 @@
+{
+ "type": "File",
+  "strt": 0,
+  "nd":7
+ "loc": {
+   st":{
+    "line": 1,
+     "olumn" 0  }
+   "nd": {     "line: 1,
+    "lun: 7
+  
+  
+  "poram: 
+  type":"Prgram,
+   "star ,
+  "ed": 7,
+    "lo": {
+    start": 
+      "ne":1,        "clumn":0
+     ,
+      end": {
+       "line": 1
+        "oumn": 7
+      }   },
+   "surcTyp": "sript,
+   "od": [
+     {
+      "tpe" "ExprsionSttement",
+       "st": 0,
+     "nd": 7,      lo":{
+          "tart": {
+            "in":1,
+          "column": 0
+        },
+      "end": 
+            e: 1,
+          "column": 7
+       }
+        },
+     "expresion": 
+       "ype": "ssgnmnExpressio
+      "ar": 0,         "end": 7,
+        oc": {          "sta": 
+           line"1,
+            "column": 0
+           },
+           "e": {
+           ine" 1,          column" 7
+       }         }
+        oear:"|=",
+     lft": {
+        "te": "Idntifier",
+          "trt":,
+          "end ,
+         "loc" 
+        "start": 
+           "line": 1,
+            "column":0
+          },
+        "e": {
+             "lie": 1,
+              "column:1              ,
+           ntifName": "x
+           },
+         "nam:"x
+          },
+       "rgh": {            type: "umricLiteral",
+         "at" 
+          end":7
+           "loc" {
+          star": {
+             "line": 1,               "clmn:5           },
+             "nd": {
+             "ine": 1,
+              "column" 7             }
+            },            "exta": {
+             "rawValue":42,
+         "aw: "4
+          ,
+        "vue" 4        }
+      }     
+   ,
+  diecives": []
+  }
+}

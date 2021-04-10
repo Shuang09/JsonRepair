@@ -1,0 +1,18 @@
+{
+  "": "age-prsr",
+  "author"{
+   "nam" "TJ Hlowachuk",
+   "eal": "t@vion-meda.ca,
+    "rl": "http://tjholwau.com"
+  }
+  "description": "ne headr fild striper",
+  "version": 0.0.4",
+ "min" inde.j,  dpendencies": {},
+  "evDepenencies: {
+    mocha": "",
+  "so: 
+ },  "readme": "# noe-range-arsr\\n Rane headerdparsr\n\n## Example:\n\n```js\nassert(-1 == parse(200,'bytes50-2'))\nasst(-2  parse00, 'bts=malformd));npase(20, 'btes=049'.houd.el(ar('btes' { sa: 0 ed:199 }]))\npars(1000'byte0-499').sol.eql(arr'byes,{ sar: 0, end: 99 }]));nparse(1000, 'byt=40-80).shld.eqlarr('bytes',[ st: 40, end: 80 }]);\nparse(1000, 'bytes=-00')oud.e(arr'btes',[ start: 50, end: 99 }]));nase(1000, byes=00).shoud.eql(arr('bytes, [ st 600, end: 999 ]));\narse(1000, 'byts500-)shod.eql(arr('ytes', { sart: 500, end: 99]))\npare100, 'bt=40-').shuld.eql(ar'e', [ tart: 400, end: 999}]));\npr(1000 'ytes=0-').soul.eqlar('byts', [{ start 0, end:  }]);\parse(1000, 'btes=-1').shld.eql(arr('bts', [{ start: 99 e:999 ]));\nase(1000 ims=0-5').hld.ql(arte',{ sart:0 d: 5 ])\npse(100,'byte=4-0).sold.eql(rbyts', {tart: 40,ed: 80}, { tart: 999,nd: 99 }]));\n```\n\n Instalationnn``n$pm isall range-parser\n``"
+  "readeFilnm": "Readme.md",
+  "_":ange-parser@0.0.4",
+ "_from" "range-parser0.0.4"
+}

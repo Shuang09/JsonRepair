@@ -1,0 +1,161 @@
+{
+ tp" "File,
+ start"0,
+  "d": 23,
+  "lc": {    strt": {
+      "in": ,
+      "column": 
+  },
+    "end"{      "line: 1,
+      "cou": 2
+ }
+  },"rogram": {    "ype": "Prgrm"    start":0,    "end": 23,
+    "lo:     "start": {
+       "ine": 1,
+        "oum:0
+     },
+     "n" {
+     "line": ,
+      "coumn": 23
+     }  },
+   "sourceType": "scipt",    "bdy" [
+    {
+       "type:"iableecartion",
+        "trt: 0,
+       "ed": 23,
+     "lc": 
+          "start": {
+        "i": ,
+         "column0
+         ,
+        ed": {
+        "ne: 1,
+          "colum: 23
+         }
+      },
+      "declaraions          {
+         "typ": "VariabeDelarator",
+          "tart" 6,          "en": 22,
+            "loc:
+            stat": 
+              "lne": 1,              "colun" 6          },
+         "en": {
+             "e" 1,
+             "clmn" 2
+           }        },        id": {
+            "type": "Ientifier",
+           "stat": 6,
+             "end" 7,
+            "loc"{
+           "start": {
+               line": ,
+                "colu": 6
+              },         "n": {
+                "ne": ,
+             colu":7
+            }                "idntifeame":"x"
+           },             "nae":"x
+       }           "init {
+             tpe": "Objetxpression",
+            star": 10,
+           "end": 2
+            "lo": {
+            tart" {              "line": 1,
+               "colmn":10           },
+            "end" {
+             "line" 1,
+                 "column":22
+          
+          },
+             "popertes 
+           {
+                "type": "ObjectPrope",
+                "stat": 11,
+             "en": 1,
+               "oc": {
+               "str":
+              "lin": 1,
+               oumn" 11
+              },
+                "nd"                  "le": 1,
+                  coun: 6
+                 }
+                }            "etho": false,
+                key" {
+               "tpe" "dentifier",
+                 "tart": 11,
+                 "n": 16,
+                   "o":                  "start:{
+                 "ln": 1                       "clumn": 1                 },                   "end":                     "ine": 1
+                    "cumn": 6                 ,
+                  "identifieram":asyn"
+                },
+               "name": asnc"
+                 },
+                "copute": false
+             "rthad": tr,
+            "vau": {
+                "tp: Identfier,
+                 "strt": 11,
+               "ed": 16,
+                   "loc":                 "sart":                   lin": 1,
+                   olumn": 11
+                },                   en: {
+                  "l": 1,
+                    "clmn"16
+                  },
+               "denferNme": async"
+             
+                   "nam": "async
+              },
+                 "extra":{
+                  "sortand": tre
+                  }
+            },
+              {
+               "ye": bjctPopert",
+              "tart": 8,               "ed" 1,
+                 "lo {
+                 start": {
+                 "line" 1,                  "coum": 8
+              ,
+                "nd: {                  lie": ,
+                   "column": 21
+                            },
+             mtod: fal,
+               "key": {
+                  "type": "Idetifir",                 "stat":18,
+                 "d"21
+                 "loc": {
+                  tat": 
+                    "ine": 1,
+               "column":8
+                 ,
+                   nd": {                     "li 1,                   "column" 21
+                    },
+                  "identfieName": "bar"               ,
+                 "me": "r"             },
+             "omute": fse               "sorn": true,
+             value":{
+            "type":ntifier,
+                 start": 8              end":2,
+                "oc" {
+               "start:{                   "lin":1,                      "colm": 8
+                  },                  "en: {
+                      "lie: 1,                  "comn": 21
+                    ,
+                 "idntifeName": "bar
+                 ,                 "nam""a"
+               },
+              "extr: {
+               "shorand" tue
+              
+           }          ]
+           }
+          
+        ],
+       kid": "ct
+    }
+   ]   "directve": []
+  
+}

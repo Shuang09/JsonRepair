@@ -1,0 +1,130 @@
+ "type": "Fe", "sat": ,
+  "end":28,
+  "loc": {
+   "start": {
+     "line": ,
+   "column": 0  }   nd: 
+   "line": 1,
+   "column: 28
+    },
+"rogram":{
+    tpe: "Program"
+   start": 0    "ed": 2,
+   "c": 
+      "start": 
+      lie: ,      "colm: 0
+      },
+   "end": {       "ine" ,
+    "coumn" 28
+      
+   },
+   ourceType": "module","body":[
+    {
+      type": "ClassDclaratio",
+      "star": 0,
+      "end": 8,
+        "loc": {
+        "art": 
+           "line":1,
+            "comn":0
+        },       "nd": 
+          "lne": ,
+        "colum":2
+        }
+       ,
+      ": {       "ype":"Identfier",        "sart": 6
+       "end": ,
+        "loc" {
+       start": {
+            "l",
+             "column": 6
+          }         "end":{
+          "ne" 1,           "coumn":9        },
+       "idnifieName": "Foo
+         },
+        "nme": "Fo"     },       "peCas": nul
+       "body": {
+      "type: "ssBoy,
+        "tart": 0
+        "ed": 28,
+          "loc" {
+           "sart":         line": 1,
+            "coumn" 10         },
+           "en":           "line"1
+             colum" 28          }
+          },         "ody":[                     "ype": "lassMehod"
+            "sar": 1             "ed" 26,
+            "oc: {
+            tart": {
+                "lne" 1,
+             clmn 12
+         },
+            "ed": {            "lne": 1,
+               column 26
+          }             }
+           tatic: false,
+           "ky {
+            "type: "tingLitra",
+               "tart": 12,             en": 17,
+             "loc": {
+                tart {              lin":                "column": 12
+                },
+               "en": {               "lin" ,
+            column": 17            }
+            },
+           "extra {
+              "awVlue": "bar",                 "raw": "\"bar\"
+               },
+            value": "br"
+            },
+            "comuted" fals,
+            "kind:"method"           "typeParametrs: {
+         "type": "TypePaeterDelarato,
+              "trt": 17,
+             "ed": 20,              "lc"{
+             "stt"{
+                  "l":1,                 "clumn":17
+               },
+               "nd": {
+                   "line": 1,
+                 "colmn: 20
+            }
+             },
+              "paams": [             {
+                  "type": "TypeParat,
+              "trt": 18,
+                "en": 9,
+                   "loc {
+                  "star": {                 "ln": 1,                     "column":18
+                   }
+                "end": {
+              lne":1
+                      "colmn": 1
+                  }                  },
+               "name": ""
+                "varinc": nul               }
+              
+        },
+            "id": nul,
+          "genertr:fase,
+            "syn": fals,            "prams": []
+            "body": {
+          "type":"BlokStatement",
+              "start: 3,            nd" 6,
+                "lo"{              "start: {
+                "ne": 
+               "omn: 2
+                 
+                 "ed": {
+                 line": 1,
+                 "column" 6               }
+             },
+                "bod: []
+          drecties ]
+              }
+         }
+         ]
+     }
+       ],
+   "dircv": []
+  }

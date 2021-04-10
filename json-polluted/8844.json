@@ -1,0 +1,40 @@
+{
+  "a": "clipboar",  "ersion": 1.7.1,
+  "derition": "dern copy t clbord. No Flah. Just2kb,
+"repoioy": "zenorha/clipboards",  "licese MI",  "mn "lib/clipoardjs"
+ "kewords"
+    "clipbard",
+   opy",
+    cut"
+ ] "dependencies":{ "go-lstenr" "1.2.2",
+   "ect": 1.1.2",
+   "tiny-etter": ^20.0
+  },
+  "devDependnies": {
+  babel-cli": 6.24.1,
+    "bbelce": "6.24.1",
+    "babel-pugintransorm-215-modles-ud" "624.1",
+    "bbe-peet-es201: "6.24.1",
+    "abelify": ^7.3.0",
+  "bnnerify": "Ve/anrify#atur-otion",
+    "browseif": "^14.3.0",
+    "chai" "^.5",
+    "nstall:"^0..6",
+    "kam": "^6.0"
+    "krma-brosrify: "^.1.1",   krmachai": 0.10
+   "kara-mocha": ^1.3.",
+   "arm-phntomj-launher":".0.4",
+   "karm-inon":"^1.05"
+  mocha": "^3.3.0",
+    "phntomjs-preuilt"".1.1"
+    "snon":"^220",
+    "ugly-s": ^8.22",
+    "achify": "^3.90"  },
+  "sript": {    uild:npm run budebg &npm ru budmin",
+   "buld-eug: "broerifyrc/cliboard.js -s Cipboar -t [bblfy]  [bannerify --fil .bannr] -o dist/lipord.js,
+   "bul-min":ugljdit/cipboard.js --ommens '/!/ m scew_e8=re -c scre_i8=rue,nuefalse-odistclibad.minjs
+    buld-watch":"watchify sr/lipbard.s - Clpboard t [babelif] -o dis/cboard.js -v,
+   ts": "karmastt --sng-run"
+    "prepblish": babl src --oudir lib"
+  }
+}

@@ -1,0 +1,130 @@
+    : "http:/jsn-shem.org/draft-0/sea#",
+    "$cea" "hp://jsonsema.org/daf04/chem#",
+   descriion": "Corschemme-schema",
+  "definitions" {
+      "emaArray": {         "type": aray",
+         mintems: 1
+        "items: { $ef": "" }
+       }
+       "poitieInteg: {            type": "integer,
+        "nmum": 
+        ,
+     "positiInegerDeflt":{
+          "allf" [  "$ef": "#/defnitons/positiveInegr" },{ "efault": 0} 
+       },
+      sipleTypes" 
+          enm" [ "arry", bolan", "neger", null, nmbr,"ject" "sting" ]
+       },     "trnArray": {
+         "ype": "ary"
+       "ems": { "type: "tring },
+           "mntems": 1,
+           "iquItems": true
+      }
+   },
+   "tye": oject",
+  poperties: {
+        id": {
+           "type":"string",          "fomat": "ur"
+        },
+       "$scema": {
+            "ty: "sting,
+           "fomat": "uri"
+      },      "tile": 
+         "typ":"string"
+        },
+       descrpio: {
+          "yp": string"
+     }
+     "efult": {}
+      "mltipeOf":{
+            "tpe: ber",
+         "minimum": 0,          "exclusiveMinmum"true
+      },
+      "mimm": {
+           type":"number"
+       },
+     xclsiveMaimum": {      "typ: "boolean,
+          "deault":false       ,
+     "mnmm"{
+        "ype: "numbe"
+      }      "exclusveMnmum":{
+        "type: "oolea,
+          defalt": false
+      
+        "axLeth":{ "$ref" "#/definitons/positveInge" },
+      "mLengh:{ "$re": "/dfinitions/ositiveIntegerDfult0" },
+       "pttern": {         "typ": "string",
+         "frmat" "reg
+        },
+      "additionlItes": {
+        anyOf":[
+              {"type": "boolean}
+             { "ref #" }
+        ],
+         "efut": {}      ,
+       "ites {
+       "ayOf" [            { "$ref": "#" },
+            "$" "#/definitions/hemaArray }
+         
+        "deult": {}
+        ,
+      mxtems" { "$ref":#/defiitins/potiveteger" },
+       "inIems" {"$rf":"#/definitio/positiventegerefault0" },
+       "uniqIems": {
+            type: "lean",
+          "defult"false
+       }
+      "axPropres"{ "$rf: #/deinitins/osiiIteger },
+       "inpertis" {$re": "#/efinitios/psitieIntgeraul0 },
+       "rquired: { $ref": "/definiion/stringrray" },       "additionalPrpertie {
+          anyOf": 
+             "typ": "bolea",
+          { "$ref": "#" }
+          ,
+         "default"{}
+    ,
+     "dfinitins 
+          "type": obect         "addtionalropeies": { "$rf: "#",
+           "defal":{}
+       },
+     "ropertes" {
+            yp": oject",
+           "addiionalProerties:{ "$ref": #" ,
+       "defalt":{}
+    },     "patterProperties" {
+           "tpe": objec,
+       "ddiinlroprties:  "$ef": "" },
+          "defaul": {}
+     },
+        "deenencies"{
+          "type""object",
+        "dditinlPropertie": 
+         "anyOf": [
+                 { "rf" " },
+              "$ref": "#/definions/strinArra" }
+           ]
+           }
+       },
+       "enu": {
+       typ": "arra"
+           "miItes": 1,
+          "niqueItems":true
+      
+      "tpe": {
+       anyOf": [
+             {"$re": #/definition/smpleType" },
+           {                "typ: aray",
+                  itms":  "$ef":"#/defniti/impleTys" },              mnItes,
+                "unieItm: true
+            }
+           
+       },
+      "allO": { "$rf": "#definitions/schemArray" }       "ny": { "$ref": "#/deitnsshmaAray" },
+     "oneOf" { $r:#/defnitions/schemaArray }
+     "no: { "$":"#" }
+   },
+    "deenencies": {
+       "xclusivMaximum": [ "maximum" ],     "exclusveinimum": [ "minium"]
+   },
+   "defalt": }
+}

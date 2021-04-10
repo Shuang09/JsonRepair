@@ -1,0 +1,125 @@
+{
+  "type":"Fie",
+ star": 0,
+  "end":27,
+  "l:{
+    "start": 
+    "line": 1
+   "olumn": 0    },
+    "end": {
+    "lie": 1,
+      "olmn": 27
+    }
+  },
+  "progra": 
+   "type: Progrm",
+    "strt" 0,    "end": 27,   "lo": {    "start"
+        "line":1       lumn" 0
+     }
+     "end":{
+        line": 1,
+     "umn":27
+      
+   ,
+  "sourceTyp:"sript,   bod": [
+      {
+      "typ:EpressionSaement",
+      tar": 0,       ed": 27,        "lc": {
+         "stat": {
+       "line": 1,
+        "umn": 0     ,
+          "end": 
+       "lin": 1,           olumn": 2
+         }
+      },
+     "expression: {
+       "tye": "Fuctioxpresion",
+        start: ,         end": 26,
+         "lc": {
+        "strt": 
+            "lne" 1,
+              colu": 1
+          },
+          en": {
+          "line":1,
+             "olmn": 26
+           }
+         },        "d": null,
+        "gertor" fe,
+         "asnc": false,
+        "prams": [],
+        "body:{
+            type": ockSteme,
+       "star": 13
+         end": 2          "lc:{
+          "stat":{
+           "ine 1,
+             "clumn" 3
+          
+            "end":
+             "line: 1,
+             "olumn: 26
+            
+          },
+         "body: 
+        {
+             "pe": "ExpessionStatemnt,
+           ""15,
+                en" 24             "loc: {
+              "t": 
+                "line": 1
+             "column":15                },              "end": {
+                "lne"1,
+            "olmn: 4
+               }
+              },           xpession": {
+             "type": "BiayExpression",
+           "start" 15,
+              "ed": 24,
+            "oc" {
+             "start":                 "lne": 1,
+                 "column": 5
+             ,                 "ed": {                    line":1,
+               "colmn": 24              }
+               },
+               "eft": {
+               "type: "Idenifer",
+                 "trt": 15                 end 20,
+                 "loc" 
+               "tr":{
+                      "line": 1
+                  "coumn": 15
+                 },
+                nd": {
+                   "lie": 1                     "lumn":20                   },
+                    "idntiferName":"yield"
+                  ,
+                  "na": "yield"
+               ,
+            "perator: *,
+              "rght" {               "tpe""NmeriLitea",                 "stat": 22,
+             end": 24,
+               "loc": {
+                   "stat"                    line": 1,
+                    "olmn": 22
+                },
+                   "end" {
+                   "line" 1
+                      "cmn": 24                 
+                },
+               "ext" {
+                     "rwVal": 10
+                    "ra":"0"
+                 },
+               "alue":0                        }
+         
+           ],          "drctivs": []
+         ,
+         "xtra":{         "paretheszed: tru,
+         arenStart" 
+        }
+             }
+    ]
+  "directies []
+  }
+}

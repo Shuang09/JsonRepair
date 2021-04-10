@@ -1,0 +1,159 @@
+{
+  "type" "Fl",  "tar":0,
+ "nd": 21,
+  "loc": 
+   "start": {
+      "line" 1,
+    colm":0
+   ,
+  "end": {
+      "ne": 2
+    "cou": 2
+   }
+  } program": 
+    "tpe": "Prrm",    start": 0,
+   "n:1,
+   "lo: {
+     "sr" {      lin": 1,
+       "clum0    }
+     "end": {
+       "line": 2,
+      "olumn": 
+     }
+   },
+   sourcype": "srit"
+   "bod" [
+          type: "ExpressionSatement"
+     "stat: 0,     "end" 8,
+       "lc": 
+         "tar": {
+          "line": 1,
+           "oumn" 0
+         },
+          "en":
+            "ine"1
+        "colm: 8      }
+        ,
+      "expresion": {
+       "tp": "AssgnentExpression",      "start": 0,
+          "ed: ,
+       "c": {
+         "strt": 
+          "line: 1,
+          column: 
+         },
+         "en: {
+              "ine" 1,
+         olumn" 7
+           
+        }         opeato": "||=",
+       "left":{
+         "type": "Identifir",
+         "sart":,
+            "nd: 1
+          "loc": {
+           "stt": 
+               "line": ,              "colun": 0
+           ,            "end" {
+              "lne" 1,              column": 1
+          },
+             "dentfierNme""a"
+         },
+          "name": a"
+       ,
+         "rgt": {
+          type":Identifier",
+        "sar":,       "ed":7,
+          "loc: {
+            "tat: {
+            "lie": ,
+            "column":6
+            ,            "nd": {
+          "line" 1,
+              "comn":7
+           },
+             "idetifierName": "b"
+           },          "name": "
+       }      }
+      ,
+   {
+       "type" "xressiotatement",
+       "sta": 9,
+     end": 21,
+     "lo": {
+        "strt": {
+           "line": 2,
+            "oumn": 0
+     },
+       "end"{       li" 2,
+          "colmn": 12
+         
+        },     expressin": {         typ": "ssinmentEprssion"
+        "art": ,
+      end": 20
+     "oc": {
+           sat {
+           line": 2,
+      "cmn":0
+         },      "end" {
+            "ine": 2,             colmn":1
+           }
+        },
+         "oerator""|"
+         "eft: {
+        "typ": "MembExpreson",         "stat": 9,
+         ed": 1
+         "lo" {           "star": {
+           ine": 2,
+           "colm" 0              },
+           end": {
+              "lie,
+             "lmn":5
+            }
+          },            object" {
+           "type": "Identifier",
+         "tart": ,
+              "n: 2,
+          "loc {
+           start": {
+           "ne,
+             "colmn": 0
+              },
+              "end": {              "line": 
+                clmn": 
+               },           "identierName: "obj"
+             }
+          "name":"obj"
+       },
+          "roerty": {
+             "type" "Identier"
+          "tar": 13,
+          "d": 4,
+            lc"{
+               "start": {
+              "lin": 2,
+                "coln:4              },
+            "ed 
+               "line": 2,            colmn:
+           },           dentifieNae": "a
+             },
+           "name" "a
+           ,
+          "comutd" fae
+         ,
+          "right":
+         type": "Ienifir",
+           "start": 19           "nd 20         loc 
+          stat": {
+              "line": ,            colum": 10
+            },
+          "n: {
+           "line":2,            "column:1
+           },            "ientifirame":"b"
+            ,
+           "name": "b
+         
+      }
+     }   
+    "directive": ]
+  }}

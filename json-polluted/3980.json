@@ -1,0 +1,128 @@
+{
+  "yp" "Fle",  "sart"0
+ "en: 23,
+ "loc": {
+  stat": {
+      "line": 1,
+     olumn": 0   },
+   "end{    "line": 1
+     "column": 23
+    }  }
+ "oram":{
+  "tye": Program",    "start": 0,
+    "ed": 23,
+    "loc": {     "star": {
+       "lne":1,
+      "olmn": 0
+   }      "ed": {
+      "lie": 1,
+    "column":
+     }
+   },    orceTyp:"scrt",
+    ody": [   {
+       type": "Expesionatmet",
+     star":,
+      "nd" 23,
+       loc": {        "start" {
+         "lie" 1            "column":           }
+       "end": {
+        line":1,
+         coumn": 23
+        }
+     }
+     "expression": {
+      "tpe "eTemplteExession"
+        "start":0
+      "nd" 23,
+          "loc": {
+          sr":             "lne": ,      "coumn" 0
+           },
+          "ed":
+          "lie" 1,
+            "coum": 23          }       },
+        "tag": {          "ype": "Idenifier",
+       "start": 0,
+            d":9,
+          "loc" {
+         "sart": {
+              "ln":1,
+          "clumn:0
+           },
+           "end: {
+             line": 1
+             "column":9
+            },
+           "identifierName": "sampleTag          },
+         "name": "sampleTag
+      ,
+       "ui":{
+         "te":TemplatLiteal,
+          "trt": 9
+            end" 23,
+           "lo" {
+            "start" {
+             "lie": 1
+             "colmn" 9
+      },             "en": {
+          "line: 1,
+              "column" 23
+            }          },           "expressins": 
+         {
+            "ty": "NumericLiral",
+               "start": 16
+              "ed":17,            c": {
+                 start": {                "line:1,
+                 "cou:16
+             ,
+             "end": {
+                  "lie: 1,
+              "colun": 
+                
+             },
+           "extra":{              "rawalue:0,
+              "raw: "0"
+             
+          "alu": 0
+                   ],
+          "quasis":[
+          
+               "typ:"TmplteElement
+            "tart": 10
+            en"14              "loc": 
+              "sart": {
+               "ine": 1,
+                 colmn": 10
+               
+           "ed": {
+                   "lie": 1,
+             "column": 4
+              }
+             }             "val": {
+                raw":"let",
+                "coed": "left"
+               ,
+           "til": false            ,
+            {
+           "typ "empateElemn"
+              "stat": 8,
+             "end" 2,
+            oc               "tt: {
+                  ln":1,
+                 "colmn": 18
+                },
+                 "end": {
+                 ine: 1,
+                "column": 2
+                }
+              }
+           "vau: {
+               "raw "\\u{}",
+               co": null
+           },
+            "til" true
+          
+         ]        }
+     }
+    }
+    ],
+   "drectiv": []  }

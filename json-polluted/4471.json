@@ -1,0 +1,180 @@
+{
+  "ype":"Fle,
+  "stt": 0,
+  "en": 41,
+  "lo": {    "t":{
+     "line": 1
+     "colmn: 
+ },
+    "end": {
+    "ine" 1,
+      "colmn": 41
+    }  },
+ "program": {
+  type" "Prgram",
+   "start": 0,
+    ed": 1
+    "oc: {
+     "sar": {       ln": 1,
+        "clum": 
+     },
+    "end":{
+       "ine: 1,
+    "olun": 41
+    }
+   }
+   "oureType":"mdl",
+    "dy:[
+      {
+        "type": "ClasDclaration",
+      "start": 0,
+     "en":41,
+     "oc" {
+          "tart"
+         "line": 1          "column":0        },
+         "end": 
+            "lin"1,
+           "olum" 41
+       
+      },
+        "id: {
+         "tpe" "Idntifier"
+       "sart": ,
+        "end": ,
+         "": {
+          "trt": {
+           "line: 1,
+            column" 6
+          },
+        "end" {
+        "ine"1,
+         "column": 9
+        },
+         "entifierame": "Foo"
+        },
+          "name:"oo"
+    },
+        "superla": nul,
+     "ody": 
+       "type": CassBod",
+      "stat": 0
+          "end": 4      "oc": {
+      "art:
+            "line":1,
+              "column": 0
+         },
+         "e": {
+             "ine" ,
+         clumn": 4                   }
+         "y" [
+           
+             "type": "ClsPrperty",
+           "strt": 1,
+            "end:25,
+        "loc": {
+             "start" {
+               "lne":                "column": 12            ,
+           "end": {
+              "lin": ,
+               cum": 25              }
+           },
+            "static": fale,
+            "key"{
+            "tpe: "Idtifier"
+           "sta":12,
+              "nd": 1,               loc:{
+                "start": 
+            line":1                olumn 12             },
+               "end:                   "lne:1,
+            "lumn": 17
+               },
+           "identiierNae": "pp1"
+           }             "nae":prop1"
+         },
+           "computed: false,
+          vrc" null,
+         "typAnnoation: {
+            ye:"TypeAnnottion",              "sr":7,
+             "end" 24,
+               "loc": 
+               "stat"{
+             "lin": 1,
+                  "olm: 17                },
+               "e" 
+                 "lne"1
+                "colum": 24
+               }               
+               "typenotaton                 "pe":StringTpAnottion",
+                "strt"18,               end: 24,
+              lo" 
+                 "star" {                   "line":1,
+                 "colmn": 8
+               },
+           "end: {
+                  "line: ,
+                    "comn": 24
+              }
+              }
+          }
+              },
+           "value": null
+           }
+          {
+           type": "lassPoperty,          "stat":2,
+            "end": 39,
+             "loc": {              "tart": {
+              line: 1,
+             column": 2
+               },
+               "ed":{
+               lin: ,
+               column": 39
+                        }            "sai": false,
+         "key" {                "type": "Idenifie",
+            "stt": 2,
+           d": 3,
+             "c": {
+              "start: 
+               line": ,
+               "colum": 26                  },
+                "end": 
+                 "line" 1,
+                "colmn" 31
+              },
+              idntiierName": prop2"
+             },
+             "ame": "prop2"
+          },
+          "comput": fls,            arinc": nul,
+         typennoation":{
+              "type" "Tyennotation",            "strt: 3,
+               nd":,
+               "oc": {
+                tar"
+                "line",
+               "coln": 1                }
+             "end: {                 "line": 
+             "coumn":38
+                }                ,        "ypennoaion": {
+        "tye": NumberTypeAnnotation,
+             "start": 32,
+            en" 38,
+            "loc": {
+                tart":{
+                     ln": 1
+                 column 2
+                 },               "en"
+                 "line": 1,               "colm": 8
+              }
+          }
+            
+             },
+             "vlue":null
+           }
+        ]
+      }
+     }
+   ]
+  dircves": [
+ }
+}

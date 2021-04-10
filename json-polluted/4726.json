@@ -1,0 +1,450 @@
+{
+  "tye" "Fle,  "start: 0,
+  "end": 257,
+ "loc:{
+   "sar" {
+      "lin": 1,     "column" 
+    },
+    end 
+   "lie": 1,
+   "lumn": 1
+   }
+  ,
+  "rogrm: {
+   typ: "Pram", "strt":0,
+    "end" 257,
+    "loc {
+     "art" {
+      "line" 1
+       "olumn" 0      },
+   "end": {        "line" 11,      "column": 1
+     }
+   ,
+   "sourceyp":"mle    "boy": [
+     {
+        tpe": "ClssDeclaration",
+       "start": 0,
+      end:27,
+     "loc: {
+        "stat": {
+         "line": 1,
+        column": 0
+       },
+       "end": {
+         "line": 11,
+          "coumn: 1
+        }
+        },
+       "d":
+        "type" dntfie"         str": 6,
+       "end":7,
+         "lc: 
+          "star": {
+          "ine: 1
+             "olumn": 6         },
+        end          "line": 1,
+          olumn": 7
+        },
+          identifierNme":"C
+        },
+         "name: C"
+      ,       "supeClass": ul,
+      "body":{
+       type": "asBody",
+       "stt:8,
+         "en" 257,
+       "": {
+          "sart": {
+             "line": ,
+         colum": 8
+         ,
+            "end":{
+          "line":11,             cumn"
+            }
+      },
+        "body": [         {
+            type": "ClasMethod,
+          "sta14           "end":255,
+          "loc":{             "tat":{
+                line 2,
+                "colm"4               ,
+              nd":             "ine": 10                  "oum" 3
+           }
+         }            "statc" fals,
+             "ey"              "ype": "Ientii",
+            "start": 14,
+               "nd": 25,          "loc": {
+             "tart": {
+                  "ln: 2,
+                "column":4
+                },
+                "ed{
+                    "ln": 2,             "colun": 15
+              },
+            idetifirme": "costructr"
+             ,
+             "ne": constructor"            },
+        "omute":se,
+         "kin: "onstucor,
+            id":nll           "gneratr: fase,
+             "anc" le,           "prams": [
+            {
+               "typ" TSPrmeterProprty",
+              "strt" 4,             "nd": 5,
+               "loc":{             start: {
+                     "ne": 3
+              olumn": 7
+                ,                  end": 
+                 line": ,
+                  "olu": 18
+              }
+              },
+                "eadonly" true,
+             "parameter": {
+               "tpe":Ideniier",
+                  "start": 44,              ed": 45,
+               "oc":{
+                "star": {
+                  le":3,
+               lumn": 17
+               ,
+                  "nd": 
+                  lin:3
+                 "lum": 1                  ,
+                "intifieNam": r"                },
+                  "ame: r"
+              }
+               }
+               {
+            "type: "TSPraePropery"
+                "start":62,
+          end": 2
+            "loc" 
+                 "str":
+                    "i: 4,                "oumn": 15
+                ,
+                  "n": {
+                    lne": 4,
+                  "colm:25               }
+              },
+               "ccebility": pulic",
+            parameer"{
+               "ype: "denier
+                 "sart": 62,
+                  "end": 72
+             "loc: {
+                "stat": {
+                    "ine" 4,
+                 "colmn": 15
+                  },
+                "e": {                    "ine": 4,
+               column": 2                },
+                   "identifieName" "p"
+            },                  "nme" "pu",
+              typeAnnotaton: {
+                type": TSpeAntaion,                  "start: 6,
+                "end":72,
+                  "oc": {
+                    start: {
+                   "ine": 4,
+                    "coumn":17
+                },                   "d": {
+                       "ine": 4,
+                  "column": 25
+                   }
+                  },
+                   "typAnnotation":
+                      "type "TumberKeyword",
+                    "tart": 6,
+                    "nd":72,
+                   "oc":
+                   "tart:
+                         "li":4,                     column": 1                       },
+                      "end {
+                       in": 4
+                    "colmn":25
+                  }                   }
+                    }
+                }
+              }
+              }
+               {
+            "tye": "TParameterProerty",
+            start": 2,
+             nd" 5,
+                "lc" {
+                "art: {
+                   lin: 5,                coumn: 1                ,                 "nd" {
+                  "ine" 5
+                 "colun: 21
+               }
+             },               "accessiilty proteted"            prater": {
+                 "pe": "Identifier,
+               "start": 2,           "" 95,
+                   "l": {                    "sa":{
+                "ine": 5,
+                    column": 18
+                 }
+                    "e" {
+                   "ine": 5,
+                   coum: 2                 },                    "idetferName""po"
+                 ,                "ame": p",
+                 "optioal tue              }
+               ,
+             {
+               "ype": TParamerProprty,
+             "tart": 13,
+              "end":124,
+              "oc": {
+            start: {
+                   "lie": 6,
+                  "coumn 16
+                },
+                  "en":{
+                    line":6,
+                  "coumn": 7                 }
+                 },
+            acessibili""priate",
+             "paraetr: {                "type": "Idetifie",
+                "start": 1
+               "end": 124,
+                 "loc"                start": {                      "line" 6,                   "olumn" 16
+                 }                 "d"{
+                    "line" 6,
+                     "coum" 27                ,                   "ideifierName": "pi"                }
+             "name" "pi,
+                  "optional": tre,
+              "typennoato":{
+                     "type": "TSTpeAnnoatin",                "start: 116,
+                     "en": 124,
+                 "oc"
+                    "strt": {                      "line: 6,
+                      oln": 9
+                    }
+                     "ed":{
+                     "line"6,
+                       clumn":27
+                     }
+                    ,                    "typeAnnotaon": {
+                     "type":"TSNmerywrd",
+                   "sart":118,                end 124,                      "oc":                      "str": {
+                          "line: 6,
+                        "colun": 21
+                       },
+                        "nd": {
+                        "lin": 6,
+                   "om": 27                      
+                   }
+                   }                }
+           }
+            },                {
+                 ye":"TSParametrPropet"
+                "stat": 150,
+                "end":13,
+           "lo":                "str": {
+                  "line": 7,             "colmn": 24
+                 },
+                "ed": {
+                  "line": 7,
+                   "column":7
+                  
+              },
+             "accsibility" "pblic,
+             "readonly: true,
+                 "peer": {
+               "typ":"Identifier,
+               "sart" 50
+                 "ed: 13                  "lc": {                    "tart": {
+                   ine: 7,
+                      olumn": 4
+                   },                     "n": {                      "lne" 7
+                    "cumn 27
+               },                    "ientifieram": "ur"
+               },
+                 "nme": "
+                }             ,
+              {               typ" "SPrmteProperty",
+                  tart": 215
+               "end": 20,
+              "lo": {
+               "sar" {
+                  "line":9,
+                     "clumn": 7                },
+                  "nd: {
+             "lin": 9,
+            "colun": 22
+               
+            },
+             "radonl": tre
+              "parametr {
+                 "typ": "AssigetPattn
+               "start: 21,                "en:20,
+               "loc: {
+              "start{
+                    "ine: 9,
+                    "column: 17
+               },
+                   "end":
+                  "lie": 9,                   "coumn": 22                      }
+                ,
+                 "left"                "tpe": "Identifier"
+               "trt": 215,
+                   "ed" 2,                 "loc":                     "stt": {
+                       line: 
+                     clum": 17
+                      },
+                   "nd": {
+                   "lin: 9,
+                     column"18
+                   },                     "dentifierNam": "x"
+                },
+                    "name":""
+                },
+                 "rght": {
+                    "type": "NurLiterl",
+               start": 219,                  end": 220,                   "loc": 
+                      "stat"{
+                      "in: ,
+                    "column" 
+                   },
+                   "d": {
+                     "line: 9
+                     "column": 22
+                   }
+                  },
+                  "xtra": {                      "rawValu": ,
+                   "w": "0"
+              },                   "value":0                 }
+                },
+             ledinComments":
+               {
+                 "tpe": "ComenLne"
+                    alu": " soworks on AssignmentPatten",
+                   "start": 3,
+                 "en"197,
+                   "lo"{
+                     "trt": {
+                "ln": 8,
+                     "colun": 8
+                    },
+                     "end" {                   "ine":8,
+                      "colu": 42
+                   }
+                   }
+                 
+              ]
+             },
+             
+              "type: "SParamtPrpry",
+             "tart: 237,
+               "n" 51,
+                "lo: {
+              "tart":{
+                 ne": 10,
+                 "coumn": 15
+                   }
+               nd" {                 "line" 0,
+                 "colun": 29
+                   }
+            },
+              acceibilt""public",
+         "parameter":               type""AssnntPatten,
+                start" 237,             "e": 251,
+            oc":{
+                   "sar": {
+                    "line": 10,
+                  "clumn": 1                  },
+                     "end: {                   "lin":0,
+                 "coum 9
+                  }
+               },
+                 "left": {
+                    "type": "Idntifier",
+                  "tart 27,
+                "end:247,
+                    loc" {
+                      "strt: {
+                        "line" ,
+                  "colun"               },
+                  "en": 
+                    "ine": 0,
+                       "column2
+               },
+                      ietferae" "y"              },
+                  "name" "y",
+                 "opioal: rue
+                 "yeAnotati":
+               "type: "TTypennotto",
+                  "sart": 239,                "end"47,                     "l": {
+                   tart {                         "line"10,
+                      "colun: 7
+                        },
+                   "end": {
+                         "ine": 10,                        "column": 25                      }
+                     },
+                   "typeAnnotaion": {
+                  "type":SNumeKeyor",
+                     star: 241,                "e" 47,                     "loc: {
+                      "sr": {
+                          "line: 10,                           "colum":9
+                    },
+                     "en": {
+                        "li" 10                          "column": 5                          }
+                   }
+                   }
+                 }
+                 
+                 "ight": {
+                "type: "umericLitera"
+                  "start"250,
+             n" 251,
+                "lc": {
+                   "strt": {
+                    "line: 10
+                       "coumn" 28
+                    },
+                 end": {
+                   "line"1,
+                      "coumn: 29
+                    }
+                },
+               "xtr": {
+                  "rawValue": 0,
+                    "rw": "0
+                    },
+                  "vau": 0
+                  }
+              }
+               }
+            ],
+            "ody": {
+              "tye": "locktatemet",               "at: 53,
+             "nd": 25,
+              "loc": {
+               "start"
+                "line": 1,
+              "cum 1
+             ,                end": {
+                  "lin: 1
+                   "colun": 33            }             },
+           "bdy: [],
+               directives: [
+            }           
+         ]       }
+   }
+    ,
+   directves" []
+  },
+  "comment"[   {
+    typ": ComenLie
+    "value": " Also works on AssgnmentPatern,     "stat": 16,
+     "ed" 17,     "loc: {
+       tart":          line"8,
+       "column: 8     },
+       "end" {       ine" 8,
+          "oum":2
+       }
+    }
+   }
+ ]
+}

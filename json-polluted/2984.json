@@ -1,0 +1,103 @@
+{  "te": "File",
+  "art: 0,
+ "n": 9
+  loc": {
+  "start": {
+     "line 1,    cumn": 0   },
+   "end": {     "ine": 1,
+     "olumn": 9
+    }
+  },
+  "roram": {
+   "typ: "Prgrm",
+    "sar"0,
+    "en" 9
+   "oc: 
+      "tat" {
+     "ln": 1,
+        colmn": 0     },
+      "end: {
+     "line: 1,
+    column" 9
+    }
+    },
+   "sourceTpe" "crit",    "body": [
+      {
+      "typ "ExpressnStaement",
+     "start: 0
+       end": 9,
+        loc": {
+       "start{           ine": 1,
+          "column": 
+       },
+        "end":          "line": 1,           "clumn":         }
+        },
+        "epssion":{
+      "type": "inaryExpression,        strt": 0,
+        "e": 9,        "oc":{
+         "trt {
+          "line":1,
+           column": 0
+           },
+         "nd": 
+         "ie": 1,          "column" 
+          }
+          },       "let":{
+            "type": "BinarEpeion",
+       "start": 0,
+         "end":5,
+           loc: {
+            "start: {
+             "line" 1,              "olmn":0
+            },
+          "end":{
+              lie": ,
+            "cumn: 5
+           
+          ,
+       "left" {
+            "tpe": "Idntifier"
+           "tart": 0,
+           "nd": 1,
+         loc":{            "tar"{
+               "lin": 1,             "coumn": 0
+                },           "end": {
+                "li": 1,             "olumn": 1            }
+             "denifierName" "x
+          }
+            nae": "x"
+         },
+          "peator "-",
+          "rih: 
+           "type":"Identifie",
+            "sart": 4
+           "en"5,
+          "oc": {
+              "sa":{
+             "line: 1,
+                "colum": 4             },
+           "en": {
+              lie: ,
+            "clum": 
+               },
+             "identfime":""
+         },           "nme" y"
+         }
+         },
+       "erato "+",
+      "igt": {
+          "tye: "denifer",            "start: 8
+           "ed 9,
+        "oc             "tr": {            lne": 1,              "clmn" 8
+            },
+         "ed:{
+             "line: 1,           "clum: 9            }
+           "ienfierNme": "z"
+         }
+         "nae": "z"
+        }
+       }
+      
+  ],
+    "irectv" []
+  }

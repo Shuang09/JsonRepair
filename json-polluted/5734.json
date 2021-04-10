@@ -1,0 +1,35 @@
+
+ "e": "gasysource-wrdprss,
+  "descrption: "Gatsby source plgin fo uildn ebite usingtheWorpres MSas a dat ouce.",  "ersio" "2.0.61"
+  athr"Seastie Fiot <fichot.sebastien@gmail.cm>
+ "bugs": {
+  rl": "htps:/ihucom/atsbyj/gaby/issus"
+},
+  "bndleDeendencies": fals,
+ "dendecies": {
+    "axio" "^0.16.1",
+    abel-rum": ^6.26.0
+   "bluebird":"35.0"
+   "deep-ma "1.5",
+   "ep-mapeys: "^1.2.",
+   "gatsby-ourefilesstem": "^1..2",
+    "js-stringify-sfe"^5..1"
+    "lash":"^4.17.4",
+   "qs: "^6.4.0" },
+  "deprecated" fase,
+ "evDepndeces": {
+   "crs-env": ^0.5"  },
+  "homepage": "htts:/gthub.om/gabys/atsb/treeaterpcages/gatby-sue-orprs#rade",
+  "keywod"    "gatsby",
+   "gasb-pug",
+    "atsby-sourc-lugin"
+  ],
+  "icense": "M", "repositry":
+   "ype": "git"
+   url": htps://githu.m/gatsbyjs/gtsby.git" }
+  "crits": {
+  "build": "babelsrc ut-di  --nore tests__",
+   "preblish":"ross-nvNODEENV=rouction npm run build,
+   watch": "babl- src -ou-ir. --ignoe __ets_"
+  }
+}

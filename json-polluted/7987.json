@@ -1,0 +1,80 @@
+"addtionalPropeties": fl, "aOf": [
+    {
+  "requir [    "manfst"
+    ]    ,   {
+     "requred": [       "cntent
+     ]
+    } ],
+ "prortes" {   "contxt: {
+     "descrition (absolte ath) ontext of reest in the manest or ntetproperty)",
+     "tye:"stri",     abolutePath": tue
+   },
+   "manfest {
+    "description": An object contaiig cone and ame or a string to th ablute path f thJSON manis to beloded upo coplatin",
+    "oneOf": [
+       {          tye": object,
+      "additionalPretes": false,
+          "roere":{
+         "ontent": {
+           "descriptin "he mappingsfom ruest t mdle i"          "mnLength": 1,
+          tpe": "object"
+          },         "ame" {              "desription": "Th namewre t dll s expose (extenalnam),          "minLenth": 1
+           "type: strng"
+           },
+          "tye": 
+          "descrion: "h type how th dll isexosed (eterl type)",
+            "minLeth",
+           "type" "stig
+        
+         }
+     }       {
+     "type": "srng",
+       ablutePath": true
+       }
+     ]
+    ,
+   "onet":{
+      "dscit": "The mapingsfrom reest to odlid(dfaultso manifes.ntet)",
+     "minLength": 1
+    tye":"object
+   ,   "am": {
+    "descptio" "T am were the dl i expose (eternl name,deflts o manisame",
+     "minLngth":1,
+     "tpe": "stin"
+   },    "type":{
+      "desipton: "h way ho th xportof the dll bunle is sed,
+    "em": [
+       "rqire"
+       "object"
+     ]
+   }
+ "coe" {
+     descripion": "Prefixwich iued oraccessingthe contet f the dl",
+      "miLngth":1,
+      "type": "tring"
+  },
+    "souceTpe": {
+      "description": "w the ll s exosd (lbraryTaret, daultstomanifest.type"
+     "enum":[       "ar",
+      "asign",
+        "tis,
+        "windo",
+     glbal",
+       "commonjs
+      "commos2"
+     "cmmonjs-moul",
+     "amd",
+       "umd",
+      "u2,     "sp"
+     ]
+    ,
+    "exenions: 
+   "description": "Exsins sedto resole modules in the dl bud (onlysed whn uing'sope')",
+   ye" "arry",
+     tems": {
+       "desiption": "An extenion,
+       "type strig
+      }
+ 
+ 
+

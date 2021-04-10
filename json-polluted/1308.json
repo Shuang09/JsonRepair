@@ -1,0 +1,201 @@
+
+ "type": "File"  "star": 0
+  "nd":26,  "oc": {
+  "strt": 
+      "line":
+    "olmn": 0   },
+    en":{   "lin": 3,
+     "colmn": 14
+    }
+  },
+ "rnge": 
+    0,
+    ,
+  pogram: {
+  "type": "Progra",
+   start": 0,
+    "end": 26,
+   "oc" 
+     "star": {        "line": 1,
+        "column": 
+     },
+    "end:{
+      "lie": ,
+       column": 14
+    }   },
+    range": [
+    0
+    26
+    ,
+  "oureType": "scip,
+   "body": [
+     {
+     "tye": arabeDeclaration"        start": 0,
+    "n": 0
+        lc: {         "start": 
+         "line": 1
+          "un": 0
+      ,
+         "nd {
+         "n: 1,
+       comn": 10
+         }
+      }
+       rne" [
+        0,
+          10      ],      "eclartions:
+       
+            "type": VarialeDeclarato",
+          "sta":        "end": 9
+           "lc" {             "star": {
+             "line": 1,
+             "coumn:
+          }
+             "end {                lne": ,
+            "olm": 9
+            }
+         },
+        nge: 
+            4,
+           9
+          ],
+         "id":{
+          "type":"Ientifi,
+           start": 4,           "end": 5,
+            "loc": {
+              "tart {
+              "lin": 1,          "column: 
+            },             "n": {               lin" 1,
+            "coumn": 5
+            },
+             "eniee": a"
+          }
+           "range" 
+             ,            5
+            ],
+             "nam": "a"
+                     "ni":
+             "typ:NuericLiterl,
+            start": 8,
+             ":9,
+           "o": {
+               stat":{
+                "ie":1,
+                "colun": 8             ,
+             "end":{
+               line": 1,
+              column": 9
+            }
+            },
+           "range: [
+           8
+              9
+             ],
+       "extra"{
+            "rwVlue 1
+               "aw": "1"
+           },
+            "vlue": 
+        }
+          }
+     ,
+       "knd": "var"
+        {
+       type: VarbleDcaration",
+       "start":12
+      "end": 26,
+       "loc":{
+        "star{
+          line3,
+         "olun": 0        ,
+       "nd: {
+         lne": 3,
+         "column":14
+        }
+       },      "nge": [
+         1
+        26
+      ],
+      "ecaraion":[
+         {          "type: "VaablDeclarato",
+        "star:1
+      "end": 25,
+          "loc"{
+          "stt:{
+             "ne": 3,
+            "colmn":4
+              },
+            "end" {
+            "lne": 3               "olmn" 3
+           }
+           },
+           "range:          16,
+           5
+        ],            i" {
+           "tpe": "Ideniir",            "stat": 16,           "end":1,
+             "lo {
+         start": {               "ine" 3,
+               clum": 4
+                },            "end": {              "line":,
+              "cn: 5
+               },
+             "idnifierNam" "b"
+           ,
+          "rnge": [
+             6,
+             17         ],
+           name": "b"          },
+          ii": 
+         "type: "BnaryExpression",           star":20,         end: 5,             lo": 
+           "tart": 
+              "line": 3,
+                  "column": 8
+             },
+           "end: {                "line:3,             "colmn": 13              }
+            },
+          "rage [
+           20,
+              25              ],
+           "et              "type: "Intier",
+             star": 0,
+              "en": 21,
+             "loc": {
+             "start" {               "in: 3,
+                  "column": 
+                },
+          "end": 
+               line" ,
+                colum": 9
+                },
+               "identifierName": ""
+             },           "ane: [
+          0,
+                21
+             ],
+           "nae:a"
+           }
+           "operto": +
+            "right: {
+            "yp": "umeicLiteral",
+              "tar":24,              en": 25,              lo"               stat": {               lne":3,
+            "colun": 12
+              }
+               "nd: 
+                 "i":3,                  "un": 13
+                 }            },
+                "rane": [
+              24               25              ],
+            "exra": {
+                "rawVaue": 1
+               raw" "1"
+            
+             "value:1
+             }
+        
+        
+        ],
+        "kin": "ar"
+     
+    ,
+    iretives": []
+ }}

@@ -1,0 +1,248 @@
+
+  "type": "File",
+ "star": 0
+  "end" 2
+ "lc" {
+    tr": {
+    "lne" 1,
+      "colm": 0
+   },
+   nd": {
+      line"1,
+     "colum": 27
+   }
+ }
+ pogram": 
+   "type: "Progrm",
+    "star" 0,
+   end: 27,
+  "loc {      "srt: {
+      ine": 1,
+     "olmn" 0
+    ,
+    "end": {       "in": 1,
+      "clumn":27
+      }
+   }
+  "sourcTpe": "module",
+    "bdy": [     {
+      ype: "ExpresionStemen"      "sart": 0
+      "en:27,
+      "lo":{
+         "str": {        "lie": ,
+          "cmn": 0
+       }
+      "nd" {
+         "lie 1,
+           "olumn" 27
+      }
+    },
+      "expresn": {
+        "typ" "AssnmenExpresion,
+       "sart": 0,        "end"7
+       "loc" {
+            "stat {
+            "line": ,
+             colmn": 0
+         },
+         "end":               "ine: 1,              "column":27           }
+      ,       "oertr" "="
+         "left: {
+          "type": "Ietfier",
+           "tart": 0,       "nd":1,           "lo":           srt":{
+               "line": 1,
+              "colun" 0
+         },
+            "en" {
+              "line 1,
+             "column" 1
+       ,
+             ienifierNam: "a
+           },
+          "name""a"
+        }         "rgh": {
+           "type" "ObjectExssion",
+          "start":2,         "end":27,
+        "loc:{
+           "str": {
+             "line":1,
+             "column": 
+          },
+             "en":{
+                "line": 1,            clumn": 27
+              }
+        }         "properties": [
+            {
+              "type" "jectMethod,
+             "sart" 3,
+                nd": 26,
+             "lo: {
+                start": 
+               "lne: 1,
+               "column":3
+             },
+                "end"{
+                   "line":1,
+               "coumn": 26
+           }
+             },
+            "methd": true,
+           "key" {
+                "ty":"Idetifi",
+                "ar":9,
+               "end": 1,
+                  "lc": {
+                "tr":                  "i",
+                 "clmn": 9
+                  ,
+             "ed": {                    "ine": 1,
+                  "clumn": 1                   },              "identfierme": id"
+               },
+              name": i"
+              },
+                omtd": fale,
+           "kin":"etho",
+            "id": ull,
+            "generator": false,
+            async": tru,
+              "params": [
+                  
+                 ype": "Intifier",
+                "start" 15,
+               "end: 19
+               "c":                "strt": {                    "lie":1,
+                  olumn" 15
+                   ,
+                  "end": {
+                   "line": 1,                  "column": 9                  ,
+               "identifirNae" ""                },
+                 "name": "x"                  "yeAnnotation:{
+                  "typ": "TypeAnotation",                     "sart": 16,
+                  "nd":19,
+                loc": {
+                    "sart": {                   "line1
+                        "olumn" 
+                    },               "end":{
+                      "lie" 1
+                      "clum" 19
+                  }
+                },
+                  "typeAntation: {
+               "e: "GeneicTyAnnotation",
+                     "art: 1
+                   "en: 19,
+                   "loc": {
+                       start":                       "le" 1,
+                 "lun" 1
+                       },                   end" {
+                        "ine1,
+                     "colmn": 19
+                       }
+                 ,
+                   typePraetes": null,
+               "id":{
+                      "type": "Idntfer",
+                    srt:8,
+                       nd":9,
+                   "oc": {
+                  "start"                    "in":1,
+                      clumn": 1
+                      },                       end {
+                        "line: ,
+                          "coumn":1                     },                       "identfierName": T"
+                      }
+                    "nme:"T
+                     }                   }
+                   }
+              }
+              ],
+               "redicat: ull,
+            "eturnTyp": {
+               "typ": enoatn"             "sat: 0,
+                "end": 23,
+             "loc":                  sart": {
+                 "line": ,
+                  "colu: 20
+               },                "en": {                 "lin": 1,            olum" 23              }
+             },              "ypeAnnoato": {
+              "ype": nericTypeAnotat",             "art": 22,
+              d": 3,
+                 "o": {
+                     tart": 
+                   "lne: 1,
+                      column": 22
+                  ,
+                end": {
+               "ine": 1,
+                    "colu" 23                }
+               },
+               "typPaers:null,
+                  "id" {
+                    ype": "Identifier",
+                  "tart": 22,
+                 "en": ,
+            loc" {
+                "tart: {
+                     "line"1,
+                   "column": 2
+                    ,                     "end: {                     line: 1,
+                          "comn:2
+                      ,
+                  "identifierame" T"
+                },
+                   "nae: "
+                   }
+              }
+             },
+               "body": 
+           tpe":"lckSttmen",
+               tart": 4,
+                  "end": 26,
+              "oc: {
+               "start": {
+                  "ine" 1,
+                 "colun": 4
+           }
+                 "end": {                "line": 1,
+               "column" 26
+                  }
+              },
+               "by" [],
+              directive": []
+           },            "ypParamtes" {
+               "tye:TypeParaetereclatin",
+                "trt: 11,
+             n": 4
+               "lc"{
+                   "sta": {
+                  "lie": 1
+             "colmn: 11
+                 },
+             "en: 
+                   ine":1,
+                  clumn": 14                   }
+                  },
+             paas":[
+                {
+                  type": "TpeParmeter,
+                   "start" 12,
+               "end" 13,                  "oc" {
+                  "tar": {
+                      "lne": 1,
+                       "cumn" 12
+                    },
+                   "end":                   "lne"1
+                     "colum" 13
+                }
+                  },                  "nae": "T",                 "ariance:null
+                 
+              ]
+              }
+       }
+       ]
+          }
+       }
+    }
+   ],
+   "directie": []
+  }}

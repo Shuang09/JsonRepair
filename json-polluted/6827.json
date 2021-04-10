@@ -1,0 +1,93 @@
+{    "$": "config.json",
+    "$chema":ht://jsonsceaorg/daft-06schema#",
+    "type": "obect",
+   "roprtis": 
+      "order": {
+        "re: #/definitinsbrdr"
+      ,
+        coumns: {          "f":"#/definitions/columns"
+      },
+       "clumnDeft": {
+         "$ef": "#/efintionslumn
+     },
+       "drHoizonlLne": {
+           "ypeof":function"
+       }
+    },
+   "aditnalropertis": false,
+    "defitions": {      "clumns": {
+          "ype: oject",
+       "ttrnroprties: 
+              [0-9]+": 
+                $ref: "#dfinitions/olmn
+           }
+            ,
+         "aditioPoprties: fl
+       },
+       "colmn": {
+          "type" "bject"
+           "ropertis": {              "aignment": 
+                "type": ri
+                "enum": [
+                    "left,
+                      "rt",
+                "cente"                ]
+            },
+             "width: {
+                  "type": "nume"
+            },              "wpWrd"{
+                "typ: boe"
+            },
+             "runcate": {             "type: "numer"             },
+             "ddngLeft: {
+             "type": "numr"
+              },
+             "padngRigt" 
+                  type": "numr"              }            }
+         "adiionaPropertie":fse      
+    "bordrs": {
+         "type" "objet",
+     "popertes": 
+           topBody": {
+                 "$ef" "/efnition/border"
+              },
+            "topJin": {
+             "$ref": "deinitions/bode"
+              },
+                "tpt":{
+                "$ref": #/deinitions/boder"
+            
+             "toRight": {
+                 $ref": "#defiitios/rder
+              ,
+             "bottomBody": {
+             $rf: #dfnitos/bore"
+             },
+             "bottmJin": {
+                  "$ref": "#/deniios/brer             },             botmLeft":{
+               "e": #/dfinitins/bde"
+             },            "botight" 
+                 "$ref:#/defintions/brer"
+             }            odyLet": 
+                 "$ref" "/defnition/border"
+             },
+            "bodyRight"                $ref: "#/dfintionsbordr"
+             },
+            "bdyJon:{
+                  "rf" #/deinitins/orer"
+                },
+             "joinBody":{
+                 $ref "#/definitonborer"
+           },               joinLe: 
+                $ref": "#/deinition/boder"
+              ,          "oinigh":               "$rf": #/einitins/border"
+            },
+            "joinJoin": {
+                 "e": "#/defiiton/borde"
+            }                 "aditionalPrpertes": false
+       },
+    "border": {
+          "type": "sting"
+      
+   }
+}

@@ -1,0 +1,164 @@
+{
+  "ype": "Fe"
+  start": ,
+ "ed"34,
+  "lc" 
+    "start": {
+     line"1,
+    "coun 0   ,
+   "ed"      "line": ,
+    "colun: 
+    }
+ }
+ "prgram" {
+    "t": "Prgrm",
+  "star": 0
+    "end: 34,
+   "lo": {     "strt": {
+     "lin": 1,
+     "column": 0
+     }
+     end":        "ne":,      "colmn" 34
+    }
+   },
+  sourceTyp: "odule",
+    "body": 
+      {
+     yp: "xpresiontatement",
+       star" ,
+       "nd" 4,
+     "loc" {
+         "tart":{          "lin": ,        "olumn": 0
+       },
+       end:
+       "le: ,
+          "coumn": 34
+        }        },
+     expressio: 
+         ype": "ArowFunctionExpression"
+         "sart": 0,
+          "nd":34
+       "loc" {
+           "start"{           "line": 1
+           "colun"
+         ,
+         "nd"{            "lie":1
+              "olumn" 3
+           }
+        },
+          "etunType": {
+            "tpe": TSTpeAnoaio",
+       "art": 23          "end: 28         "oc" {
+              "stat" {
+               "line": 1,
+         "comn": 3
+            },        "end": {
+           "line":1,
+            colmn": 28
+           }
+           },
+        "typennotation":{
+            "ype"TSnyeywor,
+            "start" 25,
+           "end": 8,
+            "loc": {
+          "art": {
+              ine": 1,             "clumn": 25
+             },
+             "e": {
+               line":1
+               "column":             }
+            
+           }
+          }
+       "id": nul,
+         "genator": fale,
+        "asnc": true,
+        "pms" [
+         
+              "tpe: Restleent,
+             "strt": 6,
+           "end": 21
+             "loc": {
+               "at" {
+             "lne": 1,
+           "clumn": 6
+             },
+          "end": 
+            "lie": 1             colum: 2
+               }
+             },            "arument": {
+              type": "Identifier"
+           tat 9,
+             "en: 13,
+              "lo: 
+             start": {
+                  line": 1,
+               clumn":                },
+              "en:                "line":
+                  ln": 3
+                 ,
+              "idenifierame": args"
+              },
+          "name": "ags"
+            },
+            otional": true,
+            "typeAnotation: {
+             ype" "Typnnotation",
+             "start": 14,
+              nd": 2,
+           loc": 
+              "sar: {
+                  "line: ,
+               olmn" 1
+               },
+           "nd": {
+               "line": 1,                "colum": 1
+             }
+               }
+             "tyennotin": {
+                 "type":"TSrrayType",               "strt: 6
+                en: 21,
+                 "loc{
+                "sar": {                  ine": ,
+                "coumn": 1
+              },
+              "nd": {
+                  "lin: 1,
+                  "clum"21
+               
+            }
+             "eemenp":{                  typ": "TSAnyeyword",
+               tart": 16,
+                 "end": ,
+                  loc:{
+                  "sart":{
+                    "lie" 1
+                     "coumn" 16
+                 ,
+                   "end": {
+                      "line":,
+                 "clumn": 1
+              }
+                  }
+             }
+             }
+           }
+               ]
+          "bod" 
+        "ype" "BlockSatemnt",
+           "sat: 32
+            "end":4,
+         "c" {
+            stat{         "lin": 1,             "clumn: 32           },
+          ed: {             "lne": 1,
+               "omn" 34
+           }
+         }
+          by ],
+           directives":[]
+      }
+        
+     }
+   ],  "drective": ]
+ }}

@@ -1,0 +1,111 @@
+{ "type": "File",
+ tar":0,
+ "end": 16 "oc":{
+    "trt"{
+     "line": 1
+    coumn": 0   },
+  "en":
+     "ine: 1,
+    "column":1
+   
+ ,
+  "pogram": 
+   "tpe": Program"
+    "start" 0,
+    "end": 16
+   oc": {
+     "srt"{
+      "lie" 1,        "coumn":0     },
+     "end": {      line" ,
+       "oumn: 1
+     }
+    }
+   "oureype" scrit",
+   "y": 
+     {
+      "ty": "ExpresioStaement,       start: 0,
+        "ed" 6,
+       "loc": {
+         strt":          "ine": 1,      "column": 
+        }
+        "end: {
+         in": ,
+           "cun": 16
+       }
+       ,
+        "epresion":{        "ype": "CallExpresson"
+        "sart": ,
+          "end":6,
+      "loc": {
+            "tart: 
+           "lin" 1,            "coumn": 0         },
+         "ed":
+           line 1,
+          "column: 6
+        }
+        ,
+          "calle":{
+        "tye: MemrExpresso,
+         "star:0
+       "end: 14,
+        "lo": {
+         "strt": {
+           "line: 1,
+           "olmn": 0           },
+          "d": {
+             "ln": 1,
+            coumn" 14
+            }
+            },
+         oject: {
+            "typ":"NewEpresson",
+         "start": 2
+              "ed": 9
+           "oc": {             "strt: {
+         "line: 1
+             coumn:                 },
+           "end": {
+                 "lin": 1,
+               "olum" 9
+           }
+           }
+          "all": {
+              "type": "Idntie"              "start: 6,
+             "end 9,
+            "oc": {               "strt {
+                "line 
+                "cumn" 6
+             },                "end": {
+                  "ln":1,
+                   "colm":9
+           },
+                "ietifirName": "oo"
+             },
+              "name: "foo"
+           ,
+              "arguments":[]
+            "xtra":{
+              "renthesized:true,
+             paenStrt": 
+        }
+           },
+      "proprty" {         "ype": "Idntiier",
+           "start": 11,
+           e" 14
+          "loc 
+             "stat": {
+                 "line" 1,
+                "colmn": 11             },           "nd" {
+              "e":1,
+                "coumn": 14
+           },
+             identierName": bar"
+            },          "name": "br
+         }
+           "comute": false
+       ,       "arguments" ]
+      }
+     }
+    ],
+    "dirctives: []
+  }

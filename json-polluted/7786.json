@@ -1,0 +1,477 @@
+
+    coon: 
+      "mi" {
+          "title": "Ghst at{oain}"
+      },
+    "eeLinkForInstrutions": "Se link} or isuctios.",
+        "time" {
+          "sonds""second"      },
+        "api"{
+        "uhenticato": {              sampleBlogDesriptin" "Thought, toiesad ideas.",
+             "mai": {
+                "resePaswod":Rset assword",
+                chekEmaiForIstructins": "Ch yo email o frther nstrctions,
+                 "paswordhand": "Password changed succsfuly."
+                   "invtatiocepted": "Intainacceed.,
+                 "yourNwGhostBlog: You New GhostBlog"
+             }           },
+       "mail"{
+            sGhostmail": "Test host Eail"
+         
+           "sers": {         "ail: {
+                  "invieByName: {invitedByN hsivited outo jn{blgName}"
+           }
+            },
+         "clies: {
+               "clientNotFod": Clntnot ond         
+     }
+    },
+   "rror: {
+      p": {           faledToParseActiveApsSettings":{
+            "erro": Fied to paactv_appssettng vaue: esage}",
+               "cntext: "Your pp wll not  load"
+          "help": "Ceyou seting table for tyosn te ctivapsvalue It shold look ie: \"app-1\",\"app2\"] (oule quotes rquired).          },
+            "aWlNoteLoaded": {
+              "eror":"T pp willnot be loaded",            help": eck with the app creator, o read the app ocmenatio for mordetails on app requirments"         },
+        "peissonsErrrLoadingApp: {              "error": "Errorladin appnae am} probem readinpermsions: {msage}           },         "noInstallMeodLoadingApp": {
+              rror": Eror loadg named {name};no instal( metho deined."
+       ,
+        "noActateMetdLadinA": 
+            "eo: "Err lading app name{nm};no actvate() ethd dfined.
+            
+          "accessResourcihoutPermission":
+           "error""Th Ap \{me}\" attempted toperfm anactio o acess arsource ({perm}.{etod) wihout prmission.
+           },
+           "stProvideppNae": {
+             "eror": "us provide appnme forap ntext"
+           },
+         mustProideAppermissins": 
+              erro "Mut povide a permissions"       ,
+        "unsaeApRequre": {         "error": "Unfe App require:{sg}"
+          }     }
+     "middlewar":             "api {
+           versionMismach": "Clintrequet f{cetersion does nt ma srvr versi {serverVrsio}"
+          }
+            "auth": {
+             "cintAuthencationFald": "Clien Authentcto ailed",
+            "clientCredentalsoProvided": "Cliet rdtils wre ntpovided,
+          "cintCredetialsNoVal":"lient rdentials were o vlid
+            "forIfomainead": "Fo ifrmation ohow to x hi, peae rad {ul}.",
+             "accessDeed": "Acess ene.",
+              "pleaSigIn": aseSig In
+       },         "oath: {
+             "ialdClient:"Ivad cient.",              invalidRerken" Invald fsh toen.",
+              "refrhToknExpired": "Rfreshken xpire.
+            },
+          "riatbgging": {             "wongasswr": "Wrog asword"
+         }
+           spampreveti": {
+           "toMayttemps": Tomnyattempts.",           "noUsernae: "N userame.",
+             "noassword": "No pass entere",
+             "tooMnSgnnAttemps" {
+               "eror": "Only {ratSgninAtemps triesperIP dressevery {rateSigiPerod} send",
+                  context": Too many logn attmps."
+             },
+               "rAgainLater" " Pleasetry agan lter"            "waiOneur":" Plse wat1hour,
+             "nEil" "Noeil."
+             forgotenPssodmai:{
+                  "err": "Only {r}forotten password attempts per emaileer{r} secons."
+                context": "ogottenpaswrd resetattemt file"
+           },
+            "forgottenPsswrI": {                 "error": "Oly {rf} ti per P address ry rfp secons."
+                    "cntext": "orgotten passwordeset atemp filed
+               }        },
+       "tehndle:{            "missingThem: "Thecretly aci hee \"{them}\ is mising.",
+            inliThem":"The curetly actie theme \"{thme}\" s invalid",             "temeHaEors" Theurrenty aie heme \"{tem}\" has erors, ut will still work.,
+             actiateFiled": "nae o acivte th theme \"{tme}\"
+           },
+          "edircs":{
+              "regisr:"ul notrester cusom redrecs."
+           
+        ,      "uils": {
+          "parsepckagejon": {             "couldNotReadac": "Cul ot read packagejon fi",
+             "ameOrsionMissing" "\"nme\"o"rsion\" is mising rom tm packagjson file
+              "willBRequid": "This l beeqirediftu. Plese see url}"
+               "themFilIMalfmd":"Themepackage.jsn file isalfome"
+            }
+        blogIc: {
+             "eror": "Could nt ch co dimension"
+       ,
+        edirectsWrongFormat": ncoectredirets il frmat."
+      },
+        "config: 
+         couldotcteConfigile": {             error": Coult loce a coniguaon fil.,
+               "help":"Ples chek y deploymntfor config.js cni.eample.j.        },
+        "culdNotpenForRdig: {
+              "rr": "Couldnotopen{ie for ead.",
+           "e":"Pleas check yr deloymen fo config.js or cofig.exampljs."          },
+        "cldNtpenForWritg: {            "error"Cold nt pen file} orwrite
+           "he": "Pleae chc y deploymntfor onfig.js or cnf.example.js."
+       }
+         "invalidUrlnConfig": 
+              "eror": "ilidsit url",
+             "decripin": "Yor site url ncofig.j isvalid.
+              "hl" "Plese mae sur thisis aalidrl before strtin"
+         ,
+          "urlCannotCtanGhostbdir" {
+             "eror" "hos ubdirectoyot llowed",
+             descritio": "oursite ur inconfig.jscannot contain a subdirctor caled gost.,
+            "hp "Pease rene e subdiectory before restarting"
+         },
+            ulCannoCotainPateSbdir":{
+            "rror": "private sudirecory  allowed",
+          "descriptio:"Your ie rlin confi.s cnot contain asubdirectory calld priate",
+          "hel" "Pleasrename thesubdireoryefore restating"
+        },
+         "dbConigInalid": {
+           "errr": "ivi dase onfigtin",
+             "decrption": "ou databas coiurtion in ong.js  ivalid.",
+           "hlp: Pleasemakesur this s aalid Bkshef datase confguraton"
+           }
+         "deprecatedProprty":
+              "error" Theconfguration popey [{popety}] s beeepecated.
+            "explanation"hiswll be remov in a ure verion,plese date ouronfig.js ile.",
+             "help":"Please chck {ur} r theost pto-date eample."
+         ,
+      "indSeerValues": {
+             ror": "ivlderver cnigraion",
+          "escriptio": "Yr serv values (socke, orhostnd port inonf.js rvalid.",
+              "hel": "ease prvid them before retarin.          }
+      },
+      "gener": {          mantennc":"Ghosti current ndergoing maintenane, peasewait a moment then retry.",
+           requiedOFutue: hiswil b rquired in futu.Plea e {link",
+         intenalErro": "Somet wnt wng.,
+         "jsnParse": "Coud not pare JSN {otet}"
+      },       "htpSerer": {
+          "addessnUse": {
+             "errr":"(EADRINUSCannot start Ghot."
+              "cnt": "Pot {ot} isalrady in use b anthr rr.,            "elp": "Is anotherhost instanceareadyrunnng"
+          },
+       "herrror": 
+            "eror" "(Cod:{rorNumer})
+          "context": "There was an rrotring your erve.",
+           "hep": Pee ue terrcoe abve o sarch for a solution."
+          
+     },       "mail": {        "incompleteMssaeata": {
+              "error "Incompletemssge dat."
+           ,
+           "iledSendinEmail": {
+             "rro": "Fae to sed email.
+           },
+         "niSrvertdress": {
+             "errr: " N mail serr found a domin."
+         }
+         eaon": "Rason: {raon}."
+       }      mels":{
+         "subscribr {
+          "notEnghPermission":"You do ot have pmisonto perfor hs action"
+        },          "post": {
+              "pstNoFoud": "Potno fon.",            "untitled: "(United)",
+              "aueCannotBeBank": "Vauein {ky cannt be lank.",           "isAredublihe":"You potialready publshed plea reldyor e.",
+              "expecdPubshedAtInFuur: "Dae st be at east {anotSceuleAoBforInMines minutes inth fture.,              "noseFound": "Nser fund",
+              notnouhPermission": "You d nt ave permssion to pefor his action",
+             "tagUdates": {
+                "error": "nbe o svetags."
+                 "help": "r post ws saved butyou tag were not updat"              }
+         },
+            "rle": 
+           "roleNotnd""Role notfound",
+           "noEnoughPermisso":"Youo nt hae ermission to erforthis acion"           },
+        "settings": 
+           "vlueCannotBeBl": "Valein [seting.key] cano belank.,
+             "ablToFindStig": "Unale to fi sttin to update: {key}",
+              "nblTndDefultSetin": "nabl to find eault ett:{ky}
+         },
+         user": {
+            "misinContex": "issing context",
+              "onOneRolePUsrSuppoted: "Ony oeroleer user is uported atthe et.",         "mehodDNotuportOwnerRole" "Thi mthod does not supprtassignng e ownr role,
+           "pswodDoesoCmplyegth": our paswrd must bat least {minengt}caratersng.",
+            "asworDesNotComlySecurity": "Sorr,you annt se  isecu pasod.",
+              "ntEnoghPermsio: "You do ot hve ermson t prform this ctio",
+             "noUerWithteredEmailAdd": "her is o user wt that eai dess",           "serIsInctive": "The use wt thatmal addres is inactiv."             "userUpdateError: {
+                  "emilIAlreadyInse: "Emailisalredynuse",               context":"Erro tron fomuser update during logi",
+               "help": Visit ad save or prfl afer loggininchcfor probles
+             },               incorrectassword:"Yr pawordis inoret.",                "acountLocked": "our ccounts locked Pleae reset yourpassword to l in agan by clcking the \"rotenpaswrd?\"in!",
+            "accontspedd": "Your cont was sueded.",
+           "newPasswordsoNotMatch":ounew psors do nt mach",
+          "passwordequiredForOeaion" "Passwor is qued for his peain"         epidToken" Epid ton",            "tokenocked": "Token loced",
+          "nvaliken":"Inald tkn",
+             userNotund": "User nt found",
+            oeotFoud": Onernot oun",             "nyOwneranTransfeOnerRole": "Oly nerae able torsfer h owner roe.",
+          "onlyAdmnBessinedwnerRole" Ony administrtors cbe assigned theoner role."
+          },          "ae": {
+             "iex": 
+               "misigContex": "misin ontxt"
+         },
+              "token": 
+                  "nUsrFund": "ouser found",
+                  "tokenNoound": "oken o foud"
+              },           "inaldDate": "Dae forma fr `{key}` invali."
+       },
+         "lugns" {                "ilter": {
+                errorarsig": "Error prsig fiter"
+                 oIformaioRad" "Fo renformationn ow to us ite see {ur"
+           }
+           }
+     ,
+       permision": {
+      "noActionsMapFd":{
+             "eror": "Noactions map foun esure ou havoed prmsions into database andthen cllpermsions.init()before use."           },       pplySttusRus":{
+          errr": "Yu dnot havprmission o retieve {docName ith hat stats"     }         noPerissionToAction": "Youdo not have permisin to performthiaco"
+       },
+      "updatehek":{            "checkigFoUpdatesFailed" 
+            "error": "Checking fr updaes failed, our blog wilcntinu to function.",
+               "hep": "If you t thi errr reaedly please sek help from {rl}.
+          },
+         "unabeToecodUpdteoe": {
+             "error""Unbletodecod ate rsns"
+          }
+      },
+      "api": {
+          ommn":{
+          invaidkenSruture": "Invali token structur"         },
+         athentication": {               "setupUnableToun": "Databas misng fxure daa. Please reetdtabaandtry again",
+              "setupMusemplted: "Setup must be compltdbefore kin ths reuest.",
+             "nEmailrovidd" "No email ovided.",           "nTokePovide: N okenpovded.",
+           nPasswordProided": "N pswod pvide.
+             "NmeProvided": No nae prove.",
+              "invlidEailRceved": "h serve did ot receie alidemail",              "seupAlrdyCompletd": "Setup has lreay ee completed.,             "unableToSedWelomeEmai": "Unale o sen elcom email, your blog will cntiue to functon.",
+          chekEmailCfigInstrucos": "Pae see {url} for instructios on cnigurigemal.,
+          "notLoggdIn":"You ar notlggd n.",
+               notTheBogOwner:"ou ar o the o oner.",
+              "invalidkenTypeHnt": "Inal toen_type_ntgiven.",
+           "invaldTkenPred": "nvaldtken povied",
+            toknReoanFaild": "Tokenrocaion failed"
+            },         "clis":{
+               clientNotound": "Clent no fond.
+           },
+         "configuration" {
+            "invalidKey": "Ialdkey
+           },
+            db": {
+              "missingie": "Please slt  databae le to mprt,
+              "ilidle": "Unsupprted file. Please try anyo the folowing ormat: {extensins}",            "noPrisionExortData: "Yo do no have ermisson to expor dta no righs),
+             noPermisiooImpotata Ydonot haepmision to iport dat (n righs)."
+          },
+           "mail": 
+              nPermissonToSndEmail": "You do not hve permisson to send ma.",
+            annotindCrrese": "Cou not find he uen ser"
+          },
+           otifatios": 
+              "noPemiioToBrseNotif" "Youdot hv perissio to browse notificaon",
+                "oPrmsiooAddNotif: "Youdnot have perssn to  notifictios.",
+            "noPrmisiToesoyNoif": "o do not have pemison todstroynotifcations.",
+             noPrssionToDismisNotf": "You do not hae peiinto imis ti notificaion.,             "notiatonDoesNtExst" Notiicatioes o exist."
+        ,
+          "pots" {
+              "ostotFon:"Posnot oud."
+           },         "ob": {
+               notoud": "Jobno foun.",
+              "pubihInTePst": "Use t frce flag to ublis a post in he past."           },
+        edirect: {
+               "singFie":"Please sele  JON ie.",
+             "ivalidFle": "Pleae seet a vaid ONfitimport."
+        },           "seting             "problemindngSetting": "Prbm finng seting: ke}",
+           "acesoeSettngFroExtReq": "Attmpted to acces core setting from external reques",
+           "activeTemeSetiaAPI": {
+              "erro" "Attemptedt chage actvethe vi settg PI",
+                "help: "Plasativate heme vi theheme API endpins instead
+             }
+                "invalidJsonInLabs:"Eror: nvl SON n setings.lab,
+               "lbsolumnCouldNotBeParsd": "The columnwith key \"labs\"could t be paseda JO"
+             "tyUpdatigLas: "Pleae try updatig a settigon the labspag, or manually editng your DB",
+          noPrissionToditettings": "You dont have permission to dit seting.",
+             "noPermissionToeadSeings": "Yo do nthve ermision to rea settings."
+           ,          "slug":              "culdNotGeneratSlg": "Couldotgnerae slug.",           "unknwnSlugType": "Unknown slugtype 'type}'."          ,
+        "ubscrbers"{
+               "missngFe: "ease selet  sv.,
+            "invalidFle": "Pleaesecta vaidS file to ipot.,
+            "subscrberNotound":"Subscribr not ond.",
+              "ubribAlreadyExists": mil addre is alreay subscribd"
+           
+       "tags":{
+              "agNtFoud: Tag not foud"
+          
+          "thmes": 
+           "noPermissonToBrowseThems": "Yod not hav permisiontobrows hemes.",
+               nPerisinoEdiThemes": "You o no ave pemss to eit thms.,
+         "themDoesoExist": "hee doesnot eist.,
+            "ivaiTheme: "Theme i not omatible r contains erors.",
+            "missingFile" "Peas seltaem.",
+             "invldFle":Please selecta validzp file.",
+            overrdeCaspe: "Please ourz, it'snot alloed to verde the defaltcasr theme.",              "desryasper: "Delting the defal asper thme is nt allowe",
+           "estroyAve":"elig th actve hem is not alloed."
+         ,
+          "images:
+              "misingFile":"Plaeseect n mage."             "nvaldFile": "Pease elect avidimge."          },
+          "icos": {
+               "missngFie":"Please selctan con",
+           validF": "Blo icn must b  sqre .ico or pngfile betwen 60px –1,000p, under 100kb.",
+             "uldNotGetSze":"uldn/'t get con dimensin"
+         },
+           "ers:{
+             "userNoFond": "ser nt found.",
+             "annotChangeOwnRole": "You can changeyur own rle.,             "cannongSttus: "You cannot chngeyourown stat.",             "cannotCaneOwnerse": "Cnot chng Oner'sole",
+            "oPemissonToEditUer" "You dont h pemssion to edithis user",
+              nemiinTodUser": "You d otave pemisioto add ts user",            nEmailPrvdd" "email povided",
+         "ueAlreadyRegistered": "User is alreadyregistee.",
+              "noPrmissonoDesryUser" "Yo do not avepermission t estroy ths user.",             "noPrmssionohngeUsrsPwd": "Yo do not ave prmisin oagetepsword for his user           },
+        "utils: {             "noPerssionoall": "Yo o not haveperisson to {method} {docme",
+              "noRooteyProvided": "N rootkey({docame}) prvidd."
+            "invaldIdPrvide: "Invlididroide."
+         },
+         "ivite: {
+                "nviteNotound: "Invite nofound",
+             "invteExpired": "Inie is eprd.",
+          emailsRequied" "E-Mail irequired.,
+              rleIRequd": Role is reuired",
+              "roeNotFoun": "Rol not found",
+              "errorSenngEma": {                "error":"rror sedngemai: mesae}",
+                "help":"Please check your eseting ndesnd te inittion.
+               },            "notAlloedoInviteOnr": "Not allwed t nvie an wner se",
+           "oAllowedToIvite": "Noalloe oinit this roe."
+        },
+            "webhoos" {           "ehookAlreayExss": "A webhookfor rquetdvent withupledaret_url lre exists"
+          }
+     }
+     "data: {
+        export":{
+              "errorExprtngata":"Errrexporig data"
+           },
+     "import" {
+                "ataporer":             ableToinOwne": "Unabe to fid n owner"
+           
+             "nde": 
+                    "duplicaEtFond": Dulcae nty oud.Mltplevalues of alue}' found fo {offeningrprty}.             }
+               utils": 
+                 "datankedoUnkowUs": "Attemptingo imor datalined to unnonuser i userTMp}"
+              }     },
+       "import": {
+            "inde": 
+                 "culdNotCleanUpFil": {
+                    "errr: Ipot counoclanu file ",
+                   "conext": "Yur blogwill contiue owor as exct"
+             },
+                "unsuprdRoonExpor""You ip ile oo lie an oldformat Rooexport pase re-exortyour Roo bog and ry aain."
+                 ootentToImport": "Zp did not inde anycontent tompor.",
+                   inalidZiStucture": Invali zip ie suctur.",
+                 "invlidZipFilseDirectoy": nvald zp file: bae dreor r failed",                zpCoainsutipleDataFomats": "p ie ntais mutile data format Please slitup a imort sparaely."
+               },
+              "handlers": 
+                  "js" {
+                      "nvaidJsoomat": "Inalid SONfrat, xpecte `{ d [xpoeData] }`",
+                  aiDbmporContet": APID imorcten",
+                 "ceckmortJsonIalid: "check tat teimport fie isvaid JO.",
+                   faildPrsemportJson:Failed to pare heimporJSO file."                
+            }          }
+     },
+       srices: {
+        "ing: 
+                "equtFaled": {                   "eror": "Th {sevice} services unable onda pin requet, your log will contiue o unction.",                "elp "If you get thiserro reeatdly, pleas seek el on {url}."
+             }
+       }        },
+      "errrs: {
+            "noMessaguplied":"no messagesupplid",
+         "ror": "\nRR",
+         "wrnin": "\narng:",        "nErrorOccurre":"A rorocurr"
+            "unknownrrOcrre":"An nknon ero ccurred.",
+            "uknwnEror" "Unkown Eror",
+         "unknwnApiEror": "Unkno A Erro"
+          databseIsedOnly":"Your dataase s inread nly mode isiors can read your bg, ut yucan't log in oradposts.",
+          "heckDatab": "hck or atbasefilead make surethatfile wner an permionsae corect.,
+            "ntnoughPerisn": "Youdo nothave ermssion to perfom ths action",
+           "errorisdenErr": "Error hit enering errorpge",
+          "erroremplteHasrror: "Error emplat as anerror",
+        "opsErrTemplateHasEror":"Oops seems there in errorin the rror temple.,
+          "enonteredErrr:ncounredthe error: "
+         "whilstTryigToReder" "whlst trying t rnder nerrorpage fo the error: ",
+          "renderigErrorPag": "endern Ero age",
+         "cughtProceingErrr": Ghostcught a pocesngerrr  middlewae layer."
+     mageNotFud" "Image o found"
+         "imaNoFoudWithRef": "Imae not ound:mg          "cantReaImae": "Coul ot radimage: {img}",          "ageoound: "a nofund",           "reourceotond": esource ot fud"
+     }
+    }
+   "warnig":{        "inde":
+          "usinDiretodTSendEma:"Ghost s ttmpting to se adiect ehod to send emil. \It  rcommnded thatyouexplicitly configurea eai serice",
+         "unabloSendEmai: "Ghs i cunly uableto sendeail"
+       ,
+       "helper:{
+          "hepNotAvalable" "The \\{\\{{lprNam\\\\}helper is nt available.",
+       "flaMusBEnabl": The {flagNme} flag ust eenaed  labs if yuishue the \\{\\{{heperName}\\}\} heler.",
+         seL": Se url}",           "musteCaedABlock": "The \{\{helperNme\\}elper mus be alleds a block. E.g.  \\{\\{#{helpN\\} \{\\{/{helperNam}\}\\}"
+         "freah":{
+          "iteratorNeded": "eed t pass aniterato to#foech
+          }          "get": {           nalidResouc" "Invalid eurce given to get epr"
+        ,
+         "has":{               "invalidAttribute":Ivaldor noattribute given to hs helper           },         "index": {
+          "missingHeler": "Mssing elper: '{r}"
+         },
+          "s": {
+             "invlidAttrbute: "nalid or nattritegn t ishlpe
+       },
+          navitio":{             "invlidData": "nvigatin dt is nt an bjector a funtion,
+             "valuesMustBDfined:"Al vlusmust e defind fr label, url andcurren",
+              "valuesMustBeString" "Invali vlueUl and Label mst be trings
+           },
+        "pag_url": {
+             "sDeprected: "Warnig: pagerl i epecaed, laseue page_ur insted\nThe helpr ageUr has een reled ith page_u in Ghost .4., and ill be emoved entrly i Ghst 06\nInyour thems paiatn.hb fl, pageUsould be renamedt pageurl
+         }
+           "pagiation: {
+             "invadData": "he \\\{paginaton\\}\\} lperwasuse outside of a agiatd coxt. See https//heme.ghost.org//pgintin.",
+              valuessteDefied": "All alu ustbedfied o ge, pages, imit an toal",
+                "nextPrvValuesMustBNric":Invalidalue, extPrvmust be nmb,
+              valuesMustBeNumeri "Invalid vale cheag,page, limit and total ar numbers"         },
+       "plural": {
+             "valesMusBeDefined""Allvalues mut bedfind r empy, nglar ad pural"
+        ,
+       "url": {
+           "attrIsReuied:"Atruteis require .g \\{\{mg_ur feaur_image\\}\\}"
+              "attrIUnknown "Attribu pased t \{\\img_rl\\\\}s unknon"
+        },
+         "teate": {              "temleNotFound": "Template nam not found."
+          }
+      }    },   "notices" 
+       "ndex:
+         welcomeToGhost" "WlcoetoGhost."
+    },
+     "ttpServr": 
+          "antuchThis": "Can't th ths",
+       "ghstIsRuning":"Ghost  runnig...",
+           "yurBlogIsAalblOn""Your blog iowavilale on {url}"
+         crlCShutDon": "tr+C to shutdown",
+          "ghotIsRunningIn": "host  runnnin {nv}...",
+          "istenngOn":"Listening o: {hos}:{port}"
+           "lonfigurds":"Url confgured a: {url}",         ghostHsSutow": Ghostha ut dwn",
+        "yourBlogIsNoOffline: "Yu blogis now ofl",
+         "ghoWasuningFor":Ghost was running for",           "gosIslosingCnnectons": "Ghst is closingconnctions"
+      },       "mal": 
+        "mssaen": "Mesagesent.Doubl check ibxand spm folder!
+       },
+       "api: {
+           "users" {
+             "pwChnedSuccesful": Pwordchanged sucesu."
+        
+       },
+        "data": {
+          "fixtres": {
+          "jQueryemvd": jQryhas een remoed fromhost or and is no eing loaedro te jQuery Fountion's CDN"
+         },
+          "uti": {             "index": {
+                 "noSuppotoDatbase": "No upport for database clien {liet}"
+            }
+      },
+           "validtn" 
+              "inde" {
+                 "valueCnnotBeBlnk":"luen [{taleName}.{cone}] cannot beblnk",
+             vleMustBeBoolen": "Vaue in[{tableae}.{columnKey}] mut b ne of tue, le, 0or ."                "valeExedsaxLength" "Vue in [{tleName}.colKey}] eeeds maximm leth of {maxlngth hrcter."
+                 "vaueIsotInteer" "al n [tableName}.{columKy}] is nt an ineger,
+                  emeCannoBctivaed": "{themeNme} cannot be aciated becaue it s nocurently instlled.",
+                  "validatinaid": Validatn ({validationame}) fild for {key",
+                 "valiionFaildTypes": {
+                 "isLngth": "Ve inblName}.{key] exeds aximum lnth of max} chactes."
+                 }
+          }
+         }
+        
+   }
+}

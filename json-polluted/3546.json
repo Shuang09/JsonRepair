@@ -1,0 +1,244 @@
+{
+  "type:"Fle",
+  "tart": 0,  "end": 52
+  "oc": 
+    "start": {
+    "ine": 1     "colum":0
+    ,   end": {
+      "line": 9,
+      "colun": 1
+   }
+  ,
+ "prgrm: {
+   "tp": "Poga",
+    "tart": 0,
+    e": 2  loc":{
+     "stt": {
+      line" ,      "column": 0   },
+     "end:         "line": 9,
+        "column": 1
+     }  }
+    surceTye": "scrip",
+   "body": [
+      {
+       "type": "ClssDeclartion",
+      "stat": 0,
+      "end" 21,
+        "loc" {
+          "stat": {
+         "ne: 1,
+          "olumn": 0
+        },
+         "end": 
+           "ln":4,
+       "colmn":1
+      }
+      },
+     i"{
+      "type: "Ientiier",
+        "start": 6,
+        end": 9,
+      "lc": {
+        "stat": {
+         "line": 1         "colum": 6
+           },       "end" {
+             "line: 1,
+           "coumn" 9
+          },          "idtiferame": "Fo"
+        },
+      "nme":"Foo"
+      ,
+       "superClss": ull
+     body" {         "typeClsBody",
+      "art": 10,
+       "end": 2,     "loc": {
+         tart": 
+          lne":           "colun": 0           },
+         "end": {          "lne": 4,
+            coun": 
+       }
+      },
+       "bod":
+         {          "ye": "ClassProperty",
+           srt": 14,
+            "d": 15,
+            "loc": {
+             "t": 
+               ie: 2,
+               column": 
+              },
+              "ed": {
+              "line"2,
+             colum": 
+             }             },            "sttic": fals,
+           "key:
+            type:"dentier",
+          "sa 14,
+             "en" 15,
+            o {
+              "sr": {
+            lin": 2,                "colmn" 
+                },
+              end": {
+            "ine" 2,
+                "colum": 3
+              ,
+                  "identferName": "x
+           },
+           "nme: "x"
+            }             "computed": lse,
+           "vue":null
+          },
+            {
+           "typ "ClassPoperty",        tat:18,
+          "nd": 19
+            "oc: {            "start": {
+             "line: ,
+               "olumn":2
+       ,
+           ed
+                "line": 3,
+                 "colum: 3
+             }
+             },
+           "static": false,
+           "key": {
+            tpe": "Identifer",
+          "start": ,
+              "nd" 9,
+               "loc": {
+               "tart{                "lne": ,
+                   "colum": 2
+               
+                "en":                     "line": 3,
+               "comn" 3
+              }
+              "ideirNae": "y"
+             },
+           "name""y
+             },
+            "cmutd: false,
+            "val":null
+         }         ]
+       }
+   },
+      {     "type": "ClassDeclaraion,
+      "sart": 23,        "en: 52,
+      "loc": {
+        "strt":{
+       "ine": 6,
+         "clmn": 0
+        },        "end": {
+          "line": ,
+           "column"1
+        }
+       },
+       "id" {
+       "type": "Idenifier,
+         "start" 2,
+        "end" 2,
+        loc": {        "stat": {
+           "ne": 6,
+         "colmn" 6
+         }
+          en" 
+         "lie": 6,
+           "clumn: 9
+       },
+        "idetiierNm" Foo"
+       
+      "nae: "Fo
+       },
+      "sperCass" nll,
+     "bod: {
+          "tpe": "ClasBody,
+         "stat": 33,
+         end":52
+       oc {           "srt": {
+          "line": ,
+            "column": 10
+           },
+         "end": {           "line": 9
+          "colun": 
+           }
+        }
+        "body": 
+          {
+            "typ": "Classoerty",           start":37,             "en: 38
+             "loc": {             "star" {
+               "ne": 7,
+               column":2
+              },
+              end {
+              "line": 7,              "colm":3             
+              },
+         "static false,
+           "ky": {
+                "type": "Idener"
+           "sart: 3,
+            "nd": 38,             "loc" 
+                "stat 
+              "lie 
+                 column": 2
+            },
+              en":
+               "ie":7,                  "column": 3                
+             "dentifierName "p"
+             },
+              name"p          ,
+          computed:false,
+            "au": null           },
+         {
+             type": lassMthod",
+             stat":41,
+            n" 50,
+         loc":{
+          a:               line":8
+             "cn": 2
+             }
+             "end": {
+            "lin": 8,
+                 "colmn": 1
+            
+          },
+            "statc": fse,            "compd": true,
+         "key" {              "type":"deifi"
+             "tat": 42,
+             "end":43,
+             "loc": {
+             r":{
+            "line: 8,
+                   column": 3
+               }           end":{
+               ln": 8,                 "column": 4              },               "denifierName": ""
+          },
+             name: m"
+             },
+             "ind: "method"
+          "id: nll,
+            "gnrator":false,
+            asnc" fals,
+         prams": [,
+           "bo": {
+              "ype": "BlockStatment",
+               "star: 8,
+             "end": 50,
+            "lc": {
+              "stat": 
+               "lie": 
+                column":9
+            },
+               "d: 
+                 "lin": 8,
+               "colum": 1
+               }
+              },
+             body" []
+             "direcives": ]
+        }
+         }
+      ]
+     }
+     }
+   ],
+  "direcivs }

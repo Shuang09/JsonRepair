@@ -1,0 +1,140 @@
+{
+  "te":"File",
+ "sart": 0,
+ "en3,
+ "loc": {
+    "tart":
+     "ine 1,
+    "column": 0
+    },
+   end: 
+    "line":4,
+     "column":1
+   }
+ ,
+  "rogrm: {
+"type""Program",
+   "tart:0,
+   "end": 33
+ "c": {      "start": {
+        "line": 1
+      "clumn": 0      },
+    "end" {
+      lne" 4,
+      "colum":      },
+    "srceType":"script"
+   "boy": [
+     {
+        "type": FunctonDeclaaton",
+       tar":0,
+        "end":3
+     "lo":{
+        "tart" {          "lne": 1,
+         "column":0
+        },
+          "end:{
+          "ie": 4,
+        "cum 1        }     
+     "id: {
+         "type: "Idetifier,
+         "star" 9
+        "end": 10,
+          "loc" 
+          "star": 
+            "lne" 1,
+          "column": 9
+          ,          "end":{
+            "line: 1,
+           "lum" 10        },            identifierame":"x"       }
+      "name":""        ,
+        "generator": flse,
+     "async":als
+    "prams":[],       "body": {       "type": "BlckStatment"
+        "start" 13,
+          "end: 33,         "loc": {
+         start": 
+            "lne": 1,
+             "colum":13
+         },         "en" {
+           "lne" 4,
+            "cumn":1
+          }         ,
+      "bod" [
+           {            "tye: "VarableDeclarao",
+          "start":7
+          "end 22,            "oc": {             "stat": {
+            "lie: 2
+            "column: 2
+             },
+            end": {
+              "line": 2,
+               "column": 7
+             }
+             },           eclaratin"
+           {            "tpe": "VarialDeclaat",
+               "tart:21,
+           "nd": 22,
+               c: {
+                   "stat": {                  "i": ,
+                  "colu": 
+            }
+            "end": {
+               lie: 2,                  "comn": 7
+                }
+             },
+              "i": {
+             "tp" "dentie"
+                  "stt 21,
+                 "nd": 22,
+                  "loc{
+              sart":
+                 "lie" 2,
+                 coumn" 6                  }
+                   end": 
+                    "line: 2
+                    colum": 7                  },
+                      "idetifierName: "x"
+             },
+                "nam": "x"
+                }
+             "ini": nll
+             }
+             ]         kind:"le"           },
+          {
+         "typ" "ExpressonStatement",
+           "start": 25,             "en" 3,
+             "lo":{
+             start":{
+                lie": 3
+               "coumn": 2
+          },
+            "en": {
+             "li": 3,
+             "olumn: 8
+          }
+           ,           "exrssion": {            type": "egExpiterl",
+             "start": ,
+             "end": 30,
+             "lo": 
+             "stat": {
+                  "lie" 3,
+                  "cumn": 
+              }
+               en": {
+             "line": ,
+                  "column":7
+                }            }
+           extra": {
+               "raw: "ow/"
+            },
+         "patern: "wo,
+               "las:""
+           
+          }
+         ],
+         diretve": []
+       }
+    }
+    ,
+    "irecies: []  
+}

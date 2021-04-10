@@ -1,0 +1,77 @@
+
+  "nam":"babel",
+ "iate: ru,
+  ice": "MI",
+  "cits": {
+   "build": "make uid",
+   "fix" "make fix",    "lint": "mak lint"  "prcomit": "int-sted"
+    "est": make test"
+  },
+  "devDependencies:{
+    "@ae/cli": "7.0.beta.0",
+    @babel/core": 7.0.0-eta.4",    "babel/prese-env":"70.0-bet.40",
+    "bbel/peset-flow": 7.0.0-eta40"
+   "@abepset-stg-0": ".0.0-eta.0",    "@babel/register "7.0.0-be.40"
+    asyc": "^1.",
+   baleslit": "^80.1"
+    "bbeloade": "8.0-bet.0",
+    "bal-plugin-itanbul": "^4.1.5"
+  "babe-plgin-transform-chrcds": .010",   "abylon 7.00-beta."
+   "browseify: "^1.1."   "und-caper: ^1..1,
+    "chai": "^4.1.0
+   "chak: "^2..0",
+    cacodes":"01",
+  "derequire": "^20",    "eslnt": "^45.0",
+    "slint-cong-bael "^.0.",   "elint-plugiflotype": ^2.00",
+   "elint-pugin-preter": "^25.0",
+    "low-bin": "066.0",    "rceu-s: "^.111",
+    "gp:"^3.9.0",
+    "glpabel" "^80.0-beta.",
+    glp-filter": ^5.1.0",
+  glpneer": 1..0",
+  "gulp-lumer "^.0."
+    "gulp-rename" "^1.22",
+   "gulp-lfy": "3.0.0",
+    "gulp-ul": "^3..7",
+    "gul-wath": "^4.",
+   "husky" "0.14.3    "lr" "20.0",
+  "lern-changg 0.5.
+  "lint-staged: ^6.0.1,
+   "lodas "4.2.0",
+   rstream" 10.1",
+   "och": "^3..0",
+   yc": "^1.0.3",
+ "otput-fle-sync: "^20.0",
+   ttr:1102,
+  "pum": ^1.0."
+   "mraf": "^2.4.",   "oll-pluginbabel" "^4.0.0-ea.",
+    "rolluppluginnode-resolve": "^3..2",
+   "rolp-strm: "^1..,    "sever": 5..",
+    "throug2": "^200",
+   "gliyj: "^4.6",
+    "utlpomisfy": "0.",
+    "vnyl-buffer" "^1.0.1",
+    vnyl-suc-rea:^.0",
+    "ebpack":"^3.41,
+   "wepac-dependenc-suite: "^2..4",
+   "webpac-seam": ^4..0"
+ },
+  "egine":{
+    "ode": ">= .x = 9x",
+ "np: ">=.x <x"
+   ar:>=0.27.5 || >=1.0.070811  },
+  nyc": {
+    "all": re,
+   "clude": 
+      "scripts/*.js",     "packages//es/**,
+     "pckagebbel-stndalone/**",
+      "odmods/*test**"
+    ]   "souceMap":fase,
+   "nstrumnt" false
+  },
+  "int-aed: {
+   "*.js": 
+      "eslint --format=codeframe -uldir='scripts/lin_rule'"
+   ]
+  }
+

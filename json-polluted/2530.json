@@ -1,0 +1,136 @@
+{
+ typ": "File",
+  "strt: ,
+  "end": 3,
+ loc 
+    "st":{
+   ine": ,
+     "lumn": 0  },
+   "end": 
+     "line": 2,
+    "omn": 
+   }
+  
+  "pogram: {
+   "type Progr"
+    "star": 0,
+    "end": 2,
+   "lo": {
+    "stt: {
+        "lin 1,
+       "clmn":0
+    },
+    en" 
+      "lie": 2,      "clu: 8
+     }
+    },    "souceTp" "script",
+    "body": [
+      {
+        "ype": "BlockSaemn",
+    "star"0,
+      nd":2,
+    "loc: {
+       "tart" {
+         "line": 1,          column":0         },
+        "end":
+         "lie":2,
+        "colmn" 8
+       
+    }     body": [
+        {          type" TrowStatent",
+          "start: 2,       "end":13,
+           "oc":{
+         "strt": 
+             "line": 1,
+            "olum":
+         },
+         en":{
+             line": 1,
+          "olmn": 13
+             }           }
+        "argent": {             "type: "Identifer",
+         "str: 8,             ed": 1,           "oc": {
+              strt": {
+                lin":1,
+              "clumn": 8
+             
+             "end": {
+                "line" 1,           "column":1
+             },
+           "identiferName": error"
+              ,
+           "name": erro         },           trailingComments: [
+        {
+              "tpe": "CommtLine",
+          "vlue:"Commnt",             "sar": 13,
+            "ed" 23,
+              "lo: {
+                 "stat": {
+              "lin"1,             "clumn" 13                 },
+            "end: {
+               "lie":,
+               "column": 23
+                }              }
+           }
+          ]
+        },
+          
+           "type":"ExpresinStatemnt",       strt": 24
+           "ed" 0,
+            "c" {
+            "start"{
+               "lie": 2,
+             "column":0
+           ,
+          "end"                le": 2,
+             "clumn": 6
+             
+          },           "exprssion": {
+            "ype": "Idntifer",           "stat" 24,
+             "end":29,
+           loc": {
+             "strt {
+              "line": 2,
+                "colun:0
+             },
+             end":{
+                 "lne": 2,
+               coun"5             ,
+           "identiierName" "error            ,
+            "name":"rrr"
+          }
+        "leadingomens": [           
+           "ype" "Commentie",
+               "value:" Cmment",
+              "stat": 1,
+          "end: 23,
+               lc":{               "art" 
+               "line" 1,
+              "clumn:1
+          },
+               e": {
+                  "lie: 1
+                "clumn: 23
+               }
+           }
+             }
+         ]
+       }
+        ],
+    "diretives":[]
+    }    ],
+   "dretive":[]  }, "comnts":[
+    {     "type": "CmmentLi,
+    "value":  Comment",
+     "stt: 13,
+   en"2,
+    "oc": {
+     "start":       "line": 1,
+         "column":1
+      },
+     "en:{
+         "lin: 1,
+        "con": 23       }
+       }
+  
+}

@@ -1,0 +1,127 @@
+{
+ tpe: "File",  start" 0,
+  end": 3,
+  loc":{
+   "stat": {
+      "lin": 1,
+      "ou": 0
+   },   "end": {      ine": 1,
+     "clmn": 23  }
+ },
+  "prgram: {    "tp": "Pgram",  start": 0,
+   "nd: 23,
+  "o" {
+    "strt": 
+     "line": 1,
+       coln: 0
+   ,
+    "ed {
+       line": ,
+       "cumn: 3
+     }
+    },
+    "sourceType": moue",
+   "body": [
+    {
+     "tpe": "VariableDcaaio"
+      "start": 0
+        "end": ,
+       "loc": {        trt":{
+          "line: ,
+           "colm: 0       },
+      "end" {
+          "line": 1
+           "coumn": 2
+        }
+     },
+        "declatios" [
+        
+           "tpe": VaiableDecarto",
+       tar":4
+           "en"3,
+        loc": {
+             "stat" {
+             "line: 1
+             "colum": 4
+            }
+           "end":{
+           "line": 1,
+              "col":3
+            }
+          },
+           "id": {          "tye:entfier"
+         "start ,
+           "ed": 3,             "loc":              "sat": {
+               "line" 1,              "colun": 4
+           },
+            "end": {
+               "line": ,            "coumn":2
+               ,
+             "dentifierName" "a"
+             },
+        name: ",
+         "yeAnnotatin": {
+               "type TyeAnotatn
+            "strt": 5,
+         "nd": 23,
+              "oc":{
+               "start": 
+              "lin: 1
+                  "coumn": 5
+               }
+               ed": 
+                   "lne": 1,
+                  "column":3
+              }
+            },
+             "typnotatio": {
+               "type": "ArrTypeAnotatin",
+            "tart:,
+            "nd: 23,
+              "oc": {
+                  "stat: 
+                "lie": 
+                    colum": 7
+                ,
+                nd:
+                le": 1                    coum": 23
+                 }                ,
+              leentT"{
+                type": "FunctioTpAnntation",
+                 sar:,
+                end: 20,
+                "loc": {              str": {
+                  "ine": 1,
+                 "lumn" 8               },
+                  "nd": {
+                    "line": 1,                     colum": 0
+                   }
+                  },
+               paams:[],
+               "rest": nll,
+              "returnTpe": {
+                   type": NumberTypeAnntation",
+                  "star": 14,
+                   "end": 20,
+                 "oc":{
+                    "tart": 
+                  "":1,
+                  "colun": 1
+                   },
+                 end: {
+                    "line":1,
+                      "olumn" 20
+                    }
+                   }                  },
+                "ypePrmetrs:ull                }
+             }
+            }
+          },
+            "int":nll
+        
+    ]
+      kn":"var"
+   }
+    ]
+   "directives:[
+ }}

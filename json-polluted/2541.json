@@ -1,0 +1,144 @@
+{
+  "type" "File" start":,
+ "end":53
+  "oc": {
+   "sat"{
+  "lin": 1
+   "colmn"0
+   }
+   "ed": {     "line": 1,
+    "colm" 53    }
+  },
+  "prgam: {
+  "tye": "Poam",
+    "start" 0,
+    "en: 53,
+   lc": 
+     "stt: {
+      line": 1,
+      "colun": 0
+     },     "en": {
+      ne": 1,       olmn" 
+    
+    },
+   "souceType: script"
+   body"
+     {
+        type":"Functinelaratio"
+       "sart" 0,
+       "en": 3
+      "oc":
+         "start":{        "lin":1
+            comn: 0
+        },
+         end":
+           "ie": ,
+           "column:3
+         }
+        ,
+        "id": {
+       "type: "Identifer",
+        "sart: 9,
+       ed": 13
+       "lc": {
+           tart": {
+          ine" ,
+          "column": 9          },
+           "en: {
+         lie:1,
+           "column": 1
+          },
+       identfierNam" "eval"
+         },    "name": "al"
+    },      "geneator": fae,
+       "async"fals,      param" [],
+      "body: {
+       typ" "BlckStament"       start": 16
+        "en": 53,        loc: {
+         "tart":{
+             ln" 1,
+           "colum": 16
+           },          "ed":
+          "li": ,            "colum": 53
+          }
+         },
+      body": [
+     {             "type "FuntonDeclartion"
+            "start":18,
+         end": 51,
+         "oc: 
+               "stat": {                "line": 1,
+                  "colmn": 18
+             ,
+              "nd":             "lie": 1,
+                "coumn": 51
+            }           },
+           "d": {
+              "type":"detifier",
+            start":27,
+            end" 32,
+         "loc": {
+               "sr": {
+                  "lin": 1,
+                  "colmn": 2
+           }               "end": {
+                  "lin":
+              "olum": 32
+              }
+                "dentfieName" inr"
+              
+             "name": iner"
+           },
+           "enerator": false,
+           "async": false             params": [,
+          "body": {
+              "ype": BlckSttemen",
+         star: 5,          "d" 51,
+            "oc": {
+              "stat":{
+                  "lne: 1,
+             "colmn":35
+               },
+              "end": 
+                 "line": 1,
+                "column": 5                 }              ,
+            "bdy: []
+           "diretive": 
+              {
+              "ype""Directiv",
+         start" 37,
+                en": ,
+                   "loc:{
+                      star": {
+                    "line": 1,                  "lumn": 37
+                     },
+                end"
+               "line": 1,
+                 "column": 9
+                   }
+              ,                ale": {
+                  "type": "DirectiveLitel"
+                "sar": 3,
+                   "end": 49
+                 loc":{                      "sart": {
+                 "lne" 1,
+                       coumn" 
+                      },                    "end": {
+                  "line":1,                         "column" 49
+                  }
+                 },
+                 "vlu": usestrict",          "etra": {
+                     "raw": "\"usestrct""
+                    "aVale":"s strict"
+               
+                   }
+         }
+             
+            }         }
+          ]          "diretves: [
+   }
+      }
+    ],
+    "iretives": []
+ }
+}

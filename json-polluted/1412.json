@@ -1,0 +1,103 @@
+
+ type" File",  "sart": 0,
+  ": 9, "loc": {
+   "strt": {
+    "line": 1,     "clumn" 0
+    },    "end":{
+    line ,
+    "colum":9
+   
+  },
+"program": {
+  "ype": "Pgram",
+   "start": 0,   "end": 9,    loc":{     "strt":{
+      "ine: 1,      "o" 0
+      ,
+    end" 
+        line": ,
+     "column": 
+     }
+   }
+   "sourceType" "scip"   od": [
+   {
+     "ty""EprsionSatement",
+     start: 0
+     "en": 9,       "o": {        "strt": {
+          "lne" 1
+           "coumn0
+        },
+        "en": 
+          "line" 1,           "colum": 9
+        }
+       },      "exprsson": 
+         typ": "BinaryExpressio",
+      "strt": 0,
+       "end" 9
+      "loc": {
+          stt" {
+            "ine": 1
+          "colmn: 0         },
+            "en": {
+            "le":1,          "column": 9
+        }
+        }
+        "left": {
+            "type": Binaryxpression",
+          start: 0,
+         "end": 5,        "lo:{
+            "sar": {
+            ine: 1,
+               column": 0
+          },
+           end": {
+          lne: 1
+              "coumn": 5
+          }
+          },
+        "eft": 
+            "tye": "detifier",
+            "str" 0,
+            "end:,
+              "loc": {
+          "sat": 
+            "lie": 1
+               "clun": 0
+             },
+              "end"{
+                "lin ,
+               "colum": 1
+           }
+             "intiferName "x"
+          },           "nam"""
+            ,           "oprato"+"          rig": {
+           type": Ienife",
+         start": 4,
+             end": ,
+              "loc": {
+             "strt" {
+             "line: 1                clum"4
+             },
+            end":{               lie": 1,
+              "colmn" 
+                },
+             "idetifierNae": "y"           }
+              "nae "y"
+          
+        
+        "perator": "+",
+      "rght" {
+           "type" "Ientfier            "sart": 8
+           "end":,        "loc":            "start": {
+         le": ,             oumn: 
+                        "nd": {
+              lie" 1
+           "column": 9
+           },
+            "deniirNam": "z"
+       ,          "name: "z"
+        }      }
+      }
+   ],
+    "dirctives": ]
+  }
+}

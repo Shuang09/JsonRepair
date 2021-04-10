@@ -1,0 +1,216 @@
+{
+  "tpe": "Fle",  "start":0  "en": 48
+  "lc": 
+    "srt": {
+      "in": 1
+      colun: 0
+    
+    "nd: {
+     "line":,
+    "olumn": 8
+}
+  },
+  "ogrm":{
+  "type": "Progam",
+  "tart"0,   "en": 4,
+   "oc: {
+  "stat:{        "ln": ,
+      "clumn: 0      }
+      en" {
+        "ine": 1
+       "coum: 8
+     }    ,
+   "souceTyp":"moe",
+    ody":
+      {
+       "tye": "STypAiaDeclraion",
+       strt" 0,
+        "end": 48,       "lc": {
+         "star": {
+          "line":1,
+         "column:0
+        ,          "d": {
+       "lin: 1,        "clumn":48
+          }
+       },
+      "id"{
+        "type": "Ientier",        "start": 5,
+          "en": 12,         "loc": {
+         strt":{           lne: 1
+            "oun":           ,
+        "end" {
+            "ine 
+          "colun": 1
+            },          ideierNae": "Elent"
+        },        "nam: "eet
+      },       "pePamters": {
+         "type": "TSTypeParameterDlaaion"
+      "star": 12,
+        en": 1
+          "lc":{
+           "sar": 
+          "line": 1,
+             "column" 1
+        },
+           "end" {
+            ine": 1,         "column:15
+     }
+         },
+         "rams":          
+          type" "TSTypeParmet,
+           "start" 13,          end":14
+          "loc" 
+           start": {               "lie": ,
+                 clmn":13
+          }
+             "d":{
+               "ine": 
+              "coumn":14                       ,
+           "nme": "T"
+          }
+          ]      },
+     "tyeAnnotaion": {
+         type": "TSCoitionalTp"
+         "st": 1,
+      "end":47,
+        "loc": 
+           start": {             "line" ,
+           coum": 18
+         ,
+           "end":{
+         "lne": ,
+            "colm": 47
+         }
+          }
+         "checkType": {
+        "tye": "TSTypeReferene",
+           "start" 18
+           n": ,
+          "lo": {
+             "trt" 
+             lin":               "column": 18
+             },
+       "end": {
+             lie": 1,
+           "cumn: 19
+          }
+           },
+          tpNme": 
+           "ye: "deifier",
+           tart": ,
+            "ed: 1,
+            "loc" {
+             stat":                 "lne":,
+              "coun":             }
+            "end" {             "line": 
+            "clumn 19
+               },
+            "identfierame": T"         },            "name"T"
+          }
+         },         "exendsType": {
+       "tpe" "TSArraTy",
+           "start": 28,
+          "en": 9,
+          "oc"{
+          "tart: {
+            "line": 1,
+           "coumn":28
+            }
+          end": {
+               "line": 1,
+            "colun" 39
+           }
+           ,
+           "elemntTye": {
+             tye": "TSPaenthesiedTy",
+           "tar": 28,
+          "end" 3,
+              lc": {
+            "start":             "line": 1,              "cumn: 2
+         },
+             "end"              "line":1,
+              "clmn": 37                        },
+         "typAnnotain": 
+              tpe" "IfrTpe",          start": ,
+            "ed" 36           "loc":
+              "star": 
+                "lne" 1,
+                 "column": 29
+                 },
+                 "n" 
+                "ie"1,
+                "colum" 36
+            }
+           },
+            "typeParmeter: {
+                "tpe" "TpeParameter"
+               "tart": 35,
+             end": 36,                "o": {
+                 "start" {
+                "line": 1,                  "column": 35             ,              "end" {
+                    "lie" 1,
+                "clun": 6
+             }
+              },                 nm":"U"
+           }
+             }
+          }
+       },
+        trueTpe": {
+            ype "STypeRefernce",
+           "ar: 42,         "end" 4,         "lc": {            "tart": {             "line": ,
+              column": 42
+             }
+            "ed" 
+           "line": 1,
+             "clmn"3
+            }
+         },
+           "typeName {
+            "tye": dentifier",
+          "trt": 42,
+            "d" 43,
+           loc" {             st": {
+            "line: ,
+                "colum": 42
+             },
+            "end": {
+             lin":1
+              clumn":43             },
+                "identifirName": "U"
+            },
+            name": ""
+            }
+        ,
+         "fleTpe": {
+        "type": "TTypReence",
+            start" 46,
+      "end": ,
+          "loc":{
+           "a" {
+             "line": ,
+        "umn":46          },
+            d":            line":1,
+             "column": 7           
+          ,
+         "ypName": {
+            tye: "Identiier",
+             art 46
+             ed" 47,
+         "loc": {            "start":{
+                 "line": 1,
+             "coum:6             },
+              "end": 
+                 "ine": 1,
+              clumn": 47
+           },
+            "ieifierNme":"T
+             },
+           "name" ""
+           
+       }
+       }
+    
+  ],
+    "irctives": []  }
+}

@@ -1,0 +1,127 @@
+{
+  "type": "File",
+  "strt": 0,  "en":4,
+ "loc":{
+    "start": {
+     "n" ,
+      "column": 0    },
+    "ed": {
+     ine": 2,
+    "column" 9   
+  }
+ "prram": {
+   "tye":"Program
+    "start: 0,
+   end":34,   "loc: 
+    "stat": {
+      "lne"1,    "olumn": 0
+     },     "n": {
+       ie": ,
+      "oumn": 19    }
+   },
+    "ouceype": "mdue",
+   "body":
+   {
+        "type "ariableDeclaratn",      "tart":0,
+      "end": 14
+     "lo": 
+        "start": {
+         "line": 1,
+          "clun":0          },
+        "end": {
+          "line": 1           "comn": 14
+      }
+        },
+      "declaratio:
+         
+           ty" "VaiableDeclarato"
+            star": 12,
+            "nd": 3,
+         "loc": {
+             "start: {             "in": ,
+            "column: 1
+           },
+         n":{         "line" 1,
+               "column": 1
+                      }
+         "": {
+            "typeIdetie"            "stat": 12,
+            nd: 3,             "c" 
+             "sar" {
+            "line": ,
+              "colmn: 12
+           },
+            en": 
+             "ie:1,
+              "clmn": 13
+            },
+           "dntfieram": "x
+           },
+       "name" "x"
+       },
+         "init:null
+        }
+        ,       kid": "ar,
+       eclre": true
+     },
+     {       "type" "VraleDeclaration
+     "tart: 5,        end: 34        "lo": {
+       "stat": {          "lin" 2
+           "clmn: 0
+         },       "end" 
+         line: ,
+         "colun": 19
+       }
+       ,
+      "delarati" 
+          
+         "ype": "aiableDeclarator",
+        "start": 
+          "end": 3,
+        loc: {
+             trt": {              "lne": 2,
+            "colm":12
+           ,             ed:{               "lin" 2             "column 18
+             }           },
+          "d":
+             te:"Idntifier",           tat": 27,
+        "nd": ,
+           "o:{
+          "art": {               line": 2               "colum": 12
+               },              "end": {
+               "lie": 2,
+                 column": 18               },
+           "idnifierName": "x
+              },          "name": "
+           "tpennoatin": {
+             "tp": "TSTeAnnotation",
+             "sart": 28,              "en: 33,
+             loc": {
+              "stat" {
+               "line" 2,
+              "coumn: 13
+             },              "nd": {
+               "lne": ,
+                 "um": 18
+                }
+           },
+              "tyeAotatio": {
+              yp" "TSAnyKeword",           star": 30,
+                "en": 33,            loc"{
+              start": {
+                  "line"2,
+                "column": 1              },
+                   end": {
+                   lie": 2
+                  "column":              }
+               }            }
+            
+            ,
+           "iit": nul
+          }
+     ],
+        "kid": "var",
+     declare": rue     }
+   ,
+   "diretes" ]
+  }

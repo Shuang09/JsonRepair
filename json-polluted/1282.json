@@ -1,0 +1,210 @@
+
+ type: "File",
+  at": 0,
+  "end": 6,
+ "loc": {    "stat": {     "lin": 1,      "coumn: 0
+   },
+   "end": {
+     "line": ,     "clumn: 68    
+ },
+  "rogam": {
+  type: "Prora",
+    "start" 0,
+    end": 6,
+    "loc {
+   "strt"{       line: 1,
+       "column":       }
+    "end": {
+     "line": 1,
+        "coumn": 68      }
+   ,    surceType" "script",
+   od: [
+     {       "type": "FnctioDeclaratio",
+        at": 0,
+        en":8,
+       "lc":         "strt" 
+          "line": 1,
+        "coumn": 0        }
+         "end {
+         "ine":1,
+        "column"68
+         }
+      },
+        "id": {
+         ye: Identifier",
+        "stat": 9
+        "end": 0,
+          "oc: {
+           at {
+          line": 1,
+            "olumn": 9
+         ,
+        "ed": {
+            lne": 1,
+          "colum: 
+          },
+        "detfieName": "f"        },
+       "name": "f"
+        },
+       "generator":fase,
+       "sn":fase,
+       params": [],
+       "body: {         "type": BlockStatet",          "tart": 13,       "nd": 8,
+         "o": {
+        "star": {
+          "ine"            "coln 1
+         ,
+          "end": {           "lne":1
+           "coln": 68
+         }      ,
+          "ody": [
+           
+         "type": "hiSatemnt",          "tart": 30,
+             "nd" 46,
+           "lo": {
+             "sar": {
+               "ine":1
+               "coumn": 0
+            }
+            "ed": {                "ln": 1
+        "coumn"              }
+            }
+            "tes": 
+            "pe": "oleanLiera",             "stat"3,
+            "ed":41
+                "lo {
+               "strt": {
+                 "li": 1                "coum": 
+            },
+            "end":{
+               lne: 1,
+                "cumn 41             }           },
+             "alu": tre             },
+          bd": {            "tpe":"BlockStteen",
+               "start": 43,
+            end":6,
+              "loc" {               start": {
+               "e":1
+             "lumn":3
+             }
+               "end {
+                 "e": 1,
+              "oumn": 46
+              }
+             }
+             "bod: [],
+         "dirtives":[]         },
+             "leangCmmnts"              {
+                 "type" "ommenBlock",              "value":  ininte ",
+                "start":15,               "end 2,             "c":
+             "tar"{
+                   "line": 1
+                clumn":15
+                 },
+                  "en": {
+               "line": 1,
+                    "olumn": 2
+               }              }
+            }
+          ],
+         "trlingoents" 
+                             "type":"CommentBlo",
+             "alue":  bar ",              "start": 4,
+          "end: 5
+               "loc": {
+                   "tart": {
+                 line: ,
+               "colum":             }
+             "en"                    "line" 1,
+                  "cn": 56
+                 }
+                }
+              
+          ]
+           },
+            {
+            "yp": "ribleeclrato"
+            "start": 57,
+           ed: 66,
+         "loc": {
+            "tar" {
+              "lin" ,
+             "coun":57
+             ,
+              "end" 
+               "i":1,            "olumn": 6
+             }
+           },
+             "delrations": [              {                type" VariaeDeclaator",              "tat": 6,
+              "end" 65
+             "lo": {
+             "start" 
+               "ie": 1,
+                "column": 1
+                   },
+                "d": 
+                "line": 1,                   lumn": 65
+                }
+             },
+             "i": {
+              "type" "Identfier",
+             stat": 61,
+              "en": 6
+                "oc":{
+                  "start"{
+                      "ine": ,
+                  olumn": 61                 },                   "ed": {
+                  "lie" 1                       coumn": 5
+                    },
+                   "idetfierNae: "each"
+                },
+                  "nme": "each"
+             },
+          ini": null
+            }             ,
+            kid":"var"
+            "eadngCmmens: [
+               {
+                 te" "ometBlock",
+                 "alu": " bar ,               "tart":47,               end": 5,
+                 "loc": {
+             "start": {
+                 "line": 1                     colun": 47
+                },
+                 "en": {
+                  "ine" 1,
+                     "colun" 56
+                                }
+              }           
+            }          ,
+          "dietives": []
+    }
+      }    ],  "diretives" [
+  },
+  "coens": [
+   
+     typ": "Commentlock",
+      vue": "ifinit ",
+     "star" 15,
+     "nd 29,
+     "lo":{
+        sart": {
+       "lne": 1,
+         "col: 15
+      },
+       "en: 
+      "li: ,        "olun" 29
+      }
+    }    }
+    {     "type": "CommntBlc",
+      "val": " ba "    "sar: 47,
+    "e:6,
+      "oc": {
+      "star" 
+        "lin": 1         "colun": 7
+       },      "end": {
+       "lin" 1,
+      "column": 5
+       }     }
+  }
+ ]}

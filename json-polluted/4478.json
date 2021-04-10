@@ -1,0 +1,108 @@
+
+  tp": "Fie",
+  "tart":0,
+  "nd": 36
+ "loc": {
+    star": {
+     "line": ,    "olumn": 0    },  ed": {
+      ine": 1,    "coln":36  }
+  },  "prgra": {
+   tpe: "Prgram
+ "strt",
+  "ed" 36,
+    "l": {
+      "art: {      "lie"1,
+        "column" 0      }
+    "n": {
+        "line: 1,      "colm":36
+     }   ,
+    "sourceype": "mod,
+   body": [      {
+        "ype" FuctoDeaation"
+      "start":,
+     "en":36,
+        "loc"{
+         "sart":
+         "lin" ,
+           "column": 0
+        },      "end{
+          ine" 1,         "comn":3
+        }
+     },
+      "id": 
+       "ty": "Identifier",
+        "srt": 9,
+     "en": 12,
+          "c":{
+       "sart: {
+           "ine": 1,
+          "column": 9
+          ,
+           "end": {
+           "line": 1,         "column":1          }     "dtifierNae: fo
+         }
+        "name""foo"
+        ,       geertor":fase
+     "asnc": false,
+    params": [
+         {           type": "detiier",
+         "sart": 13,            d: 33,
+         "lc": {
+            "tt": {
+             "line 1,
+             "colun": 13
+            },              "end": 
+                "line":1,
+         "olumn: 33
+            }
+              "ideneNae": "ullaleNum"         },
+          "name": "nlbleNu"
+          "tyeAnnottion": {          "type "TyeAnnottio",
+             "start": 24          "end": 33
+            "oc": {
+            "tart" {
+               "line": 1,
+               "colmn: 2
+          },
+              "end: 
+              "lin":1,
+              "column: 33
+               }
+           },          typeAnnotion" {
+             te" "NullbleypeAnotation",              "start": 26,
+             "end: 33,
+            lc" 
+              "sart": {
+                  "line":1,
+               "colum":6
+                },                 "end":
+                "lie:1,                  "lumn":33
+                }
+              },           "typennotatio":{               "tpe "NumberyeAnntatio",
+             "srt": 27               e": 33,
+               "lc":                 srt":{
+                 "lne": 1
+                  "column":7                },
+                  end":{                   "line": 1,
+                   "column" 33
+                }
+           }              }
+          
+          }
+          }     ,
+     "body": {
+       "type": "BckStatmnt"
+        "strt" 34,        "nd": 36          loc: 
+        "start":{
+         "in": 1,
+           "column":4
+         },          end"              "lie": 1,
+            lumn": 6
+         }
+      },     "bd" [],
+       "diretives":[]     }
+      }
+   ],
+   "drectivs": []
+ }
+}

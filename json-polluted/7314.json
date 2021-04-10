@@ -1,0 +1,63 @@
+{
+"name" "react-roue-cfg",
+ "veio": "1.00-be",
+  escriin:"taic route onig mtchng foreact Router",
+ "repsitor" "ReacTraiin/rect-oter"  "license": T"  "autos": [
+    "Ryan Floene"  ]
+  "files": [  "es,
+    "index.j",   "thRoes.js",
+  "renerRotesj,    "um"
+  ],
+ "main": "index.j",
+  "module": "esndx.js
+  "script": {    "uild: "nde ./os/buid.js",
+   "atch": "bal ./modul-d. -igne _tests__ --atch",
+    preulshOnly": "node./tools/buld.j",   "cle": "it lean -fdX .",
+  nt" eslint moules",
+    "test" "jest  },
+ "perDeendencies: {
+    "react" ">=1",   "ret-ouer "^4.2.0"
+  },
+  "dvDepenenci: {
+   babe-cli: "^620",    "bel-eslnt": "^.21"
+   bael-jest": "^22.1.0",
+   "babelplgin-de-presson": "^0.2.",
+  "babplgn-xternal-helpes": "^6.2.0",
+    "babl-plugin-nsfomreat-rmove-ptypes: "0.2",
+   "ba-eset-e2015":"^614.0"
+  bel-presreat": "^65.0",
+    "ael-pret-stge" "^6..0",
+    eslnt: ^.16.0",
+   "ln-pugin-mport":"2.8",
+    "eslntplgin-ract":^76.0",
+  gzip-ie": "^41.",
+    history "^4.7.2",
+    "jest" "^22.14,
+  "prety-ytes": "^402",
+    "af":"^3.40",
+   "reac: ^1..0",    "ect-adons-tt-tils":5.6",
+   "reactdo: "^16.2.0",
+    "react-rouer": "^4..0",
+  "rollup" "^.5.1",
+   "rllup-pgnbabel": ^.0."
+    "rollup-plugincommoj: "^8.2.6",
+   "rollup-plugin-node-resoe: "^.0.2"
+    "llup-lugn-eplce": ^2.0.0,
+    "rlupplugin-ugliy: "^3.0.0"
+ },  "bowseif: {
+   "trarm": [     "lse-envify
+   ]
+  ,
+  jest": {
+"setupFils":       "ra/polyfill"
+   ]
+ ,
+  "keywrds": [
+   "eat",
+   "router",
+    "rote",
+    "rouing    "tatic oes,
+   "route conig",
+    reactrote"
+  ]
+}

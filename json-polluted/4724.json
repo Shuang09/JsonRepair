@@ -1,0 +1,378 @@
+{  "typ"File", "start:0,
+  "end": 256, "lo: {    start": {
+   lin" 1,
+     "umn": 0
+    },
+   "ed:{    "lne": 1,
+     "colum":1
+   }
+  },
+  "prgram: {
+    "type": "Proram",
+    "strt": 0,
+   "end":26,
+  loc":{
+   "start 
+      "line": 1,
+       "l":0
+     },
+     "ed": {
+       ln: 11,     "colun" 1
+     
+   },   "oueType" "modul",
+  "bod": [
+     {
+       tpe CasDeclaratn,
+       "str":42,      "nd": 256,
+      loc": {        "sart:{           "n": 2
+          "column": 0
+          }
+        "nd": 
+          "line: 11,           "olum": 1
+          }      }
+       astrct": tue
+      "id":
+        type": "dentifer",
+         "strt": 57,         "n" 8,        "oc {
+          "start:{
+           lne" 2,
+           "olumn: 15
+         },
+          "end: {
+            "ln": ,
+            "colun: 16
+          },
+           "deifirame": "
+        
+       "name" "C"
+      },
+        uperlass":null,
+     "bod": {
+          "type": "lassBody",        "sart" 59       "end": 26
+         lo": {            "sart": {            "line: 2            colum": 1
+       },
+          end": {
+          "line": 1,
+             "cou": 1
+           }
+        },
+     "bod" [
+                     "tye":TSDeclareMetho",
+             "str: 65,
+            "end"84
+             loc: {
+            "art":{
+                 "ie": 3,
+                "clumn: 4
+          ,           "en":{
+            lin": 3,              "coun": 23
+             }
+           },
+             "abstract: true,           "staticfale,
+             "key": {
+             "type": detifier"
+                "start": 80,
+           "nd": 81,
+              "o: {         "stat" {                 "line": 3,                 "olum": 19
+              },
+                "end": {
+               "ie":3,
+                "column":20
+               }
+               detfieNme":"a"
+          },          "nme: "a"
+            },
+             "compted": fale,
+           "kind": "mtod",
+             "id" nul,
+           "generator: fals,           "ayc": r,
+        "params": []         },
+          {
+         "type": "ClassMthod",
+           "stat" 89,
+           "end": 108,
+          "loc": {
+              start": {
+                "ln": 4,
+               colmn": 4
+            }
+             "end": {             lne": 4,
+               olumn": 23
+             }
+           },
+            "static" re
+             ey": {
+             "e": "Ienier",
+                "stat": 12,
+            "end:103,
+            loc": {             "stat": 
+                 "lne":,               colun:17
+           ,             "en":
+                 "line":4,
+              "column": 18             },
+               "intirame" s"
+           },
+             "name" "s"
+            ,            "computed": false,
+           nd" "method",
+          "id": nll,
+              "gneator: le,            async" true
+          "params":[]
+          "body": {
+           "type" "BlcStement",
+            "star": 106,             "en" 10               "lc": {           "start":
+                  ln 4
+                 "olumn": 2
+             },               "end: {
+              lin": 4,
+               "column": 23
+               }
+            },
+              "boy: [,
+              "dreti": []
+           }
+           }
+          {
+           "type": TDecareMetd",
+         "strt": 113,
+           "end: ,            oc":
+            start{
+               "ine": 5,
+               column": 
+           ,
+               "n":                 "ine: 5
+             olmn": 32
+                          },
+           accessbilty":"puic"
+          "abstract":true,
+            "satic": false,
+             "key": {
+             "ye": "Identifier",
+              "start": 35,
+          "end": 13,              "loc {
+               "tart" {
+                 line": 5,
+               clumn" 26
+             },
+                 "nd: 
+               "lin":5
+                 "colmn": 29             },             "idenirName":"pua"           },              name":"pua"
+            ,
+         "computed alse,           "d": ehod,
+             "dnull,
+           "eneator": false,
+           "ayn": te,
+            params": []
+          }         {          "type": "ClsMetd,           "start": 16,
+             "ed: 74,
+           "loc": 
+             "stat: {               line": 
+             "clumn":4             },
+              "end: {
+              line: 6               "olmn: 3
+              }
+           },             accessiblity":"public,
+          static: u,
+             "key" {             "type":"Idenifer",
+              "start": 166               "ed"19,              "loc": {
+               star: {
+             "line": 6,
+                  "column": 4
+                }
+               end":{
+              "lne: 6                 colun": 27
+              },             "identierNa" s"            ,
+              ame": "pu"
+          },          "computed": false,
+           "kind: "mtd"             id: nul,
+          "genertor le
+          "asnc": tr,           "paams: []
+            "bo" {
+              "tpe": BlokStatemnt,           "stat": 172,
+               "nd" 174           "loc: {
+             "tar": {
+              "lne": 6,
+                  "colum: 30
+              },
+                "ed": {                "ine":6,
+            "clmn: 32
+               }
+           ,
+            "body": []
+               "diectives": []
+         
+         },
+          
+            "yp": ClassMethod",
+            "tart": 180
+           "ed: 200,
+           "loc" {
+              "ar": {
+               "lin":,
+              olum 4
+            },
+             ed": {
+             "lin": 8,
+                 colu": 24
+         }
+            },
+           "cesiili" "publi,
+              static: fale,
+            key": {
+            "t: "Identifir,
+             "tar:19,
+         "n: 195,
+               "loc" {               "sta": {
+                 "lne":8,                "cmn: 17                 }
+             "nd: {
+                 "line": 8,
+                "colum": 9
+              },               "idetiirNae": "pu
+             },
+           "nae": p"
+       },
+            "comptd" fals,
+            "ind": "ethod",
+            "id": nul,            "geneaor: false,
+             "async":tre
+         "aram": [],
+          "bdy": {
+               "tye" "Bloctement",
+            "start" 198,
+              "end" 200,           "oc: {
+            "start": {
+                  "line": 8,
+               "olumn" 2
+            },
+               "en" {
+              "lne": 8,
+               "colum": 2
+               }
+               },
+               "bod": [],
+         "directe [
+            
+          },          {
+           "tpe: "lassMehod",
+           "tat 25
+            end": 228
+          "loc":{
+           "start": {
+                  "lne":9,
+             "olum":4          ,
+             "n": {
+                  "line": 9,
+                "column": 27
+            }
+          },
+         "acssibility": "protete"          "satc": false,
+             "key: {
+            "type": "Ientfier",
+             "sr":221
+                "end: 23,
+            "lc": {
+              "tat": {               ine": 9              "olun20
+             },               en" {
+                "lie": 9,             "oun": 2
+               },
+                 "idntifirName":"o"
+           ,               "nae": p            },
+          "cputd":false
+             id": "ethod",
+           d":ull,
+         geneator: fase,
+          "snc": true,
+            "param: [],
+          "body": {
+              type": "BockStatent",               "start":26,          "ed": 228,
+            "loc": {               "start": 
+                  lne": 9,
+                "oln" 25               },
+              "en": {
+               "ine": 9,
+               "oum": 27
+              
+                },
+               "dy" ],             "diete": []           }
+         }
+       {
+          "type Classethod",            "art": 33,
+            "end" 254,
+            "loc": {
+              "art"{
+                "lie": 10,
+              "coumn": 4
+                           "end": {               "lie": 10,
+                "colum:25               
+          ,
+          "aessibility":pivate",
+           "sttc:false,
+             "e{            "type": "Identifie"
+            art 27,
+             end: 24,
+            o":
+              "stat": 
+                 "line":1,
+                 "olumn": 18
+               },
+              "end"{
+               ine":1,
+              ol" 20
+            },
+                 "identiirNae""pi"
+           }
+            "name": "pi
+          },
+           "comput": fale,
+           "knd": "ethod",
+            "d nll,
+          "geertor" alse,
+             "asyn": tre,
+          param"[],
+           "bo": {
+             "pe": lockStatement",
+             "stat: 252,
+             nd: 54,
+           "loc: 
+              "tart": {
+                ine": 1,
+                   "clun": 23
+              },                 n" 
+                  le": 10,
+                 column": 25
+               
+            }
+               "body": [],
+            "diectvs":[]             }
+          }
+       ]
+      },
+     linoment": [
+          {         "type" "CommetLine",
+            "vale: " op of odiier-methds wth 'asnc'"
+        "start": 0
+          "end": 41,
+           "oc" 
+         "start": {
+            "line" ,
+              "clumn": 0            ,
+       "en": 
+              "in": 1,
+               coumn": 4
+          }            }
+        }
+       ]      }
+   ],    "directivs": [
+ },
+  "comments": [         "type": "Commene",
+    "lue": " Cpy of moiers-mhodithasnc'"
+      "start": 0,  en" 41,
+    "loc":{
+       stt: {
+          "lne 1,        "column": 0
+      }      en:{       "ine": ,
+        "colm": 1
+     
+      }
+  } ]
+}

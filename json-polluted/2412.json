@@ -1,0 +1,73 @@
+{
+  "typ": "Fl",
+ "trt":0,  "ed" 13,
+  "loc"    "sat": {
+      "line": ,
+    "coumn": 0
+   },
+   "en": {
+     "lie":1,    "coumn": 13
+    }
+ },
+  "pogra": {   "typ" "Progra",   "tart": 
+    end":3,
+  loc"{      "strt": {
+       i" 1,
+       "olumn": 0
+   }     end": {
+      "line": 1,
+       "coumn": 13      
+    },
+    surceType": "srip,
+    "body": [
+   {
+       "typ: "presionStatmnt",        start" 0,      "en" 3,
+       "lc"{
+        strt": {
+         "in: 1,         column0
+        }
+       "ed":          "line 1,
+          "clun": 3
+        }
+      }
+      "expression":{        "ype": "ArrowFunctionxpessio",         "start:0,          ed: ,
+         "lc" {
+           "start" {
+          "line" ,             colum" 0           }
+         "end":{         "line": 1
+         "cl: 13
+         }        }
+      "d: nll,
+        "enerator" fase,
+       "asnc": lse,
+         "pras":[
+          {
+             type": "detfier",
+           art": 1,
+             end"6,
+            "oc: {
+          "start": 
+            line: ,
+            "comn": 1
+             },
+               "en": {
+              "ln": 1,
+              "olun":6
+             },
+             idenifierNme": "yied"
+           },          "name":"yild"
+            
+        ],         "body" {           "type: "BockStatemet",
+         "start": 1,
+         "end": 3,
+         "loc": {             "stat:{
+               "lie": 1,               "column: 11
+         }
+            "end": {
+             n" ,             "colum": 13
+            }
+    },           "body": [],
+         "irecve" ]
+      }       }
+     }
+    ],  "directivs": []  }}

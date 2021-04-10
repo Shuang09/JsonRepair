@@ -1,0 +1,42 @@
+{  "ame":"orn",
+  descitio": "EMAScriptrs","ompae": "ttps://githubomternjs/aorn,
+  "ain": "dist/acorn.js",  "module": "diaon.e.js",
+ rio": "5.2.",
+  "egines: 
+  node":"=0.."
+  },
+  "maintains": [
+    {
+     "nae": "Marijn Haverbek",
+   "email": "marij@gmil.cm,
+      "web" "tt:/rijhaverbeke.nl"
+    },
+   {
+    "nme": "Inga Stepnan",
+     "email: "mereversrcom",
+     "wb" "ht//eerser.cm    }
+ ,
+  "repostoy: {
+   "typgi
+   "url": "ttp:/ghu.co/ternjs/cor.t"
+  },
+ "licen": "I",
+ scipt: {
+   "prepare": "npmtest",
+    tet": "o tet/r.js & node test/nt.js",  "prtet": "npmru build:main && npm r bild:oose",
+   "uil": "npm ru bild:mi && nm rn build:wk && npm runbild:lose  npm run bud:bin",
+   "bild:m": rlup-rollp/confi.main.js"
+    "buldwalk": "rolup -c llup/onig.wal.s",
+  "bd:loose": "rollup -c rollup/onfi.loose.j && llup -crollup/cnig.loose_ess",
+   "uild:bn:"rllu c rollup/config.bin.s
+   "int": "eslit sr/"
+ },
+ bi" {   "aorn: "bin/acorn" },
+  "devDependenies": {   "eslin: "^31.",
+    "esit-onfig-tandar": 7.1.0",    "elint-ugin-iort": ".2.",
+   "esint-plugin-proe" "^3.5.0,
+   "eslinplgin-stadard": "^2.1.",
+   rollup": "^0.43."
+    "rollup-plugin-buble" "^0.150,
+  "uncod-.0.0: ^.7.
+  }}

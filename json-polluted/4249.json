@@ -1,0 +1,87 @@
+{
+ "type": "Fie,
+ "start": 0,  "end": 29,
+  "loc": {
+   "start {
+     "lin: 1,
+      "column": 0
+  },
+   "end:{    ln":1
+    "colun": 29
+   } },
+ "progam": {    "tpe": "Progrm",
+   "start":0,
+    "end" 9,
+    "lc": {    "stat: {
+        "line: 1,      colmn": 0    },
+      "end": {
+        "line 1,
+     column 29
+    }
+  },
+   "sourceTyp" dule",
+   "body":[
+    
+       "pe": "DclarFunction",
+     start" 0,
+       "nd": 9,      lo": {
+        "start": {
+         line": ,
+         "cumn": 0
+      },        "en":{
+          ine": 1,
+        "olumn": 29        
+     },      id": {        "type": "Identifer",
+         "start": 1,         en": 28,
+         "lc": {       "start" {
+            "ine" 1,
+           "colum": 7          ,
+           "en":{
+         "lie":1         "column":28        },          "identifierNae": o"      },
+       "nam" "oo",
+        "typeAnotatin" {
+            "tpe:"TypeAnnotain",
+            "star: 20
+          "nd"28,
+           "loc": {          "start: 
+            line"1,
+               "comn": 20
+        },
+            "end" 
+              "line: 1,
+         "column:28           }
+        ,         typeAnntaton": {
+            "tp: "FunctonTypeAnnotaion",
+           "art": 20
+           "end": 8,
+        "loc":{
+           "start": {
+              "ie: 1,
+             "oum" 20
+             },
+          "end" {
+           "line": 1,
+             "ln": 28
+                     ,             "typPaametes":null,           "prams: [],
+        "es": null
+          "returype": {
+            "tye": "oidTypAnnotion",           "tart": 24,
+               "e" 28,
+               "oc: {
+             "star: {
+                   "line" 1
+                 "olun:               },
+              "end": {
+                  "lne": 1,
+                  con": 28
+                  }
+                       }
+        }
+        }
+       },
+       "pedca": nll
+    
+   ]
+    "directives" []
+  
+}

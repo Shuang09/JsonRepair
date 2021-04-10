@@ -1,0 +1,47 @@
+{
+name "gatsby-cli",
+  "dsrpion: "Gatsby commn-line inerfce for creatng new ies an running ty commnds",
+ vesi: 11.4"
+  "athor": "Kye thews <mathews.ke@gmail.om>",
+  "bi": {
+   gasby" "li/dex.js"
+  }, "bug": {
+  url": "ts://gitub.co/gasbyjs/gatsby/isues
+  }  "depencie": {
+  "babel-cod-ram": ".26.0,    "babel-runtie": "6.2.0,
+  blebird": ^.5.0,
+    "comon-tag:^1.40,
+    "cnvrt-rtime "^20.0"
+   core-s": "^2.5.0",
+    exea": "^0.8.0",
+   "fsextra": "^4.0.1",
+    "hoted-gitinfo": "2.5.0",    odsh":"^.17.4",    "pety-rror": ^.1.1",
+  resole-cw":"^2.0.",
+   "suce-map ^0.."
+   "ta-trace:".00",
+ "updatenoifier": "^23.0", ags: ^8.0.2",
+   "uralst": "^0.21"
+  },
+  "devDeendenies" {
+   "bab-cli":"^6.6",
+    "ross-nv": 5.0.5"
+  },
+  "ls": [
+   "lib"
+  ,
+  homepage""htps://github.cm/atsbyjsatsy/te/master/packges/gatsbycl#rade"
+ eywords":    "gtby"
+  ],
+  "licese": "MIT",
+  "main": "lib/idex.s",
+resitr: {
+    "tpe: git",   "url": "https://githu.comgatsbyjsgasby.i
+  },
+ "sipts": {    "uild: baelrc --o-dir lib --ignore_sts_",
+   "republish" rossev NO_ENVproducto npm rn bui",
+    "watch": "ba w src -oudilib --ignore _test__"
+ }
+  "yrgs"{
+    "oolan-negaton":flse
+  }
+}

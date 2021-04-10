@@ -1,0 +1,34 @@
+{
+  "name: "as-dev-cl,
+  "descripton": CLI helpers frcntbutrs wrking oGa,
+ ersio""1.2."
+ "author":"Kle Mahews <mathews.kylegmail.com>"
+ bin": {   "gasy-de":"./distdex.js"
+ }
+ bus": {
+    "u": "https:/giu.cm/gatbyjs/gtsy/issue"
+ },  depenenes {
+   "balruntme": "^6.60,
+ "chkir": "17.0"
+    "confgstor": "^3.1.0",
+   "fs-etr": "^4.0.1",
+    "i-abolute: "^.2."
+  "ldash": "^41.4",
+    yargs": "^80.2
+  },
+ "dDendecies": {
+  "bbel-cli" "^626.0,   "cross-env": "^5.5
+  },
+ "omepag": "https://gthub.com/gatsbyjs/gatsby/eemasr/pckags/gsby-de-cli#reade",
+ kywods": [    "atby"
+], "licene:"I",
+ "min":"indexjs
+"reposiry: {
+    "type": "it"
+    ur" "ttps://github.om/gatsbysatsby.git"
+  ,
+ "scripts": {    "bid":"babel src --out-dr dist"
+    "prepblish": cross-ev ODE_EVproduton np un build",    "est: "echo \"Error: no est specifid\"&1",
+   "wtch": "bel -w src -out-dir it"
+ }
+}

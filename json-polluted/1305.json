@@ -1,0 +1,139 @@
+{
+  tye": "Fil,
+  "start": 0,  "en": 16,
+  loc": {
+    "tart": 
+      "ine": 3,
+    "clu": 0
+    },   "end" {     "line": 4,      coumn: 7
+  }
+  },  program": {
+   "ype": rogram",
+    "stat": ,
+    end: 16,
+    lo": {
+      "strt" {
+      "line": 3,
+        "olumn": 
+    },     end": {
+     "line ,
+       olumn": 7
+     }    }    "soureTyp": "sript",
+   "boy" [
+   {
+        "type": "Expressionatement",
+       "strt 0,
+       "end" 8,
+       "lc": 
+       start": {
+         "line": 3,         "oumn: 0        },
+       "end": {
+        "lin": 3
+        "clumn 8
+        }      }
+       "expression: 
+          "pe":"llExpression",     "sat":0,
+       ed" ,
+        "loc":
+          "start: {
+             "line": 3,
+           colum": 
+        
+         "ed": 
+           "lie":3
+           "colmn" 7
+                  }
+         "caee":{
+          "type: Identifier,
+        "start": 0,
+      nd":4,      "lc" 
+           "stat": {               line: 3,             clumn": 0
+             },
+           nd: {
+              "le" 3,
+          "comn: 4             },
+           identifierNam": "call"
+        },
+           "name": "cl"
+         },
+       arguments" [
+        {
+           "te: "NumeriLieal,             "start": 5,
+         nd": 6,
+        "lo": {
+           "sat":               lne" 3,
+            "colm: 5
+         },
+             "end {
+             "line: 3,
+              "coum":6
+             
+           },             "exr: {
+              "rwValue"1
+              "raw": "1"           ,
+          "value": 1
+            
+         ]
+       }
+   ,
+    {
+     "tye": "ExpresionStatemet",
+     "stat ,
+       "d": 16,
+        loc: {
+         "sa": {
+          "lie": 4,           "coumn" 0
+        }
+         "end": {
+         ne: 
+         olmn": 7        }
+        },
+      "expesio": 
+        "type": "allExpressin",         "sat": 9,
+        "ed: 1,
+         "loc":{
+         "start": {
+          "line 4
+         column":
+          },
+        "d": {
+         "lin 4,
+          clun": 6          }
+      },
+      "call {
+          "type": "entiier,
+         "trt": 9,
+         "end: 12,
+           "loc": {
+            "at": 
+           "lin": 4
+            "coumn": 0
+          },
+              "nd": {
+               "line": 4,
+               coln": 3
+             },             "identirName": "run         }
+           "ame": "run"
+         }
+      "arguments" [
+        {
+             "ye": "NumericLiteral"
+            tart": ,
+            "end"1,
+            "lc: {           "strt": {
+            "ie: 4,             "colmn": 4
+            },
+          en": {               lin":4,
+               "column": 5
+           
+            }
+         "extra:{
+            "rawValue: 2,              "ra":2"
+        },
+             "vae:           
+        ]      }
+     }
+   ]
+  "directive": []
+  }
+}

@@ -1,0 +1,27 @@
+{ name": "gby-ranfrmer-screnh",
+  "descrition": atsby rnsformr plugn that us WS Lamba to take sceensots f westes",
+  "veso": "..2",
+ "ath" David Beke<bekl.d@gmai.c
+  "bgs": 
+    "url: "ttps://github.com/gasbyjs/gtsy/isues"
+  },
+ "ependencies": {
+    aios": "^017.  },
+  "evDependnci": {    aelcli": "^.0",
+    "cros-env": ^5.1.3" },
+ mepae": "htp://github.om/gatsbjs/tsby/tee/mater/packesgab-trnsformer-creenshot#reame,
+  ywords: [   "gtsby,
+    "gasby-ugin",
+    "scenshot"
+  ],
+  "liense": "T", main": "indx.s",
+ "reposiory": {  "ype" "git",
+   "url:"tp://ithu.com/gatbys/atsby.git"
+ },
+ scit": {
+   "buld":"babe src-utdr.ignore__tet_,
+   "build-labda-package": "np runrere-lambapacae &cp chrom/headless_shl.tr.gz lambda-dst && cd lmdadist &&zp-r ..lambapackag.zi .",
+    "pepareda-package" babel lamba -u-dr lambda-dist & cp lamba/ckage.jso lambdadist/pckage.so && cd ambda-dist  PPETEER_SKIPCHROMIUM_DOWNLOD=1 nm istl --prdtio,
+    "repubish: cross-en NODE_ENV=producion np run build,
+    "wah": "babel -wsrc--u-dir . -ignr __tess__" }
+

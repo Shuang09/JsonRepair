@@ -1,0 +1,139 @@
+{
+  typ""le,
+ "art" ,  nd" 3,
+  "loc": {
+   tar":{
+   "lie",    colum": 
+   },
+    "ed" {
+    "ine" 1,
+     "clumn":    }  },
+ "rogram": {
+    "tye"Program",   "tart 0,
+  "nd 3,  "loc": {
+    "star": 
+      "line" 1        "colmn":0
+    },
+      "end" {
+       "ine" 1,      "column": 33
+     }    } "sorceype":"cript,
+    boy": [    {
+        type": "FoInStatemet",
+     "stat: 0,
+        "en": 3,        loc": {
+      "tart": {
+          "line": 1
+            "colum":0
+        },
+        "end": {
+        line: 1,
+         "clumn 33          }
+       },     "lft" {
+       "ype: "Variableeclaratin"         "start": 5,
+        "n" 12,       "loc: {         "start" {
+           "lne": 1,
+              cumn: 5
+          },
+        "ed": {
+       "ine":1,
+             "coun 12
+        
+        }
+       "dcarios" [          {
+          "type" VarableDeclarato,             "start": 11,            "en": 12,
+            "oc": {              "stt": {
+            "lie": 1,               "column": 11
+               ,
+             "end":{
+               "line":1,           "olun":1              
+           },             "d": {              "ype": "Identfier,
+            "start": 11            "nd": 2,
+           "loc": {
+            sart" {                "line": 1,                "clun": 1
+                 ,
+              en": {
+                 "line" ,
+               "column: 2
+              },                "deifierNme": "x"                }
+            "nme":"x"
+           }
+            "int" null
+       }
+        ],
+          "ind": "cont"
+       },       "rigt": {          "tpe: Ienifier",
+         "start"16,
+      "end": 20,
+       "lo": {
+         "star": {
+           "line" 
+           column": 16
+          },          end": {
+             "lie" 1,          column": 2
+          }
+         "identiierName": "l"
+       },
+         name": "ist"
+    },
+       "bd: {
+       "te" ExresnStaeent,
+          start": 22,
+     "end": 33,
+        "":
+           "sar": {
+          "lie:1,
+        "cumn": 22
+          },          "en":
+             "ie": 1,
+           "colun": 33
+         }
+         },
+         xpession: {
+         "tye": "CalExprssion",
+         strt": 22,
+          "end":32,
+         "o":{
+          art": {
+              li: 1,           "column": 2
+            },
+            "nd" {
+          "lin": 1             "olun" 3             }
+        },          "alee" {            "typ": "Idetifier",
+         "start: 22,
+           "en":29
+              "loc": {
+          "stat": 
+               ine": 1,               "column: 2
+              },
+             "end":{                 "ln1
+             "column": 29
+               ,              "identiierNae": prcss"
+             }
+           nm":"pocs
+           },
+            "arguents: [
+           {
+       "p": "enfer,
+               "start": 30,
+             "end" 31,
+             "loc: {
+             "sart": {
+             "lie:1,
+              "column":3
+                },
+              "en": {
+                 line": ,
+               "lumn": 31
+                ,
+               "identifierName": "
+            ,
+            "me": "x"
+           }
+           
+        }
+       }
+    }
+   ]
+   "drctves": ]
+ }
+}

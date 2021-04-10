@@ -1,0 +1,958 @@
+{   "versio":  major" "1", "mior":3}
+    "omas":[
+    {
+      "doman "Sema"
+      "description": This omain is eprecated."     "rated": tru,       "tps":[
+          {               id "mai,
+              "type": "objt",           "decripio "Desriptio of e rotoco dain.",
+            "prpertes" [
+                { "nme" "name", ye" "tring, "scriptin": Doman ae." },
+                  { "nae""vrsion "type": "strg", "desciption": "omi rsion." }
+         ]
+         }
+       ],      cmmands": 
+           {
+             "ame": "getDoains",
+             "desitin":"Retrns supte doains.,
+               "anders": "browser","enderr"],
+            "reurns":[
+            { "name": domans",tpe" "aray", items":{ "$ef: "omin" , descpton":"itf upotd dois." 
+                       
+       ]   },    {       "domain": Runti"
+      "description": "Runime domain expos avaScript untime by mean of remote eaatio and miror bjcts.Evaluation reults r etued as iror objet ha expoe objec type, strig rpresenttion aduniue identifiertat cn eud fo furthe objecrference. Originalojecs ar mainaied i memory unles t are either xpicitly relase or e relased along wtthether ojects in thr oject grou.",
+     yps": [
+            {
+              "id": ScrpId",
+            "ye": "string",
+           "escripto: "Unquscriptdntifie.          },        
+               "id":"ReoteObjctd",
+             ype": string"            "escripton" "Uiqe object identifier"
+           ,
+       {
+             "d" "UseializableValue",
+             "tpe": "stig",              "eum": Infiity", "NaN", "-Iniity", -0"],
+          "desription""Pimiive value whic cann be JSON-tringified."
+           }
+          {
+               id: "ReObjet",
+             "tpe" "obec
+              "srition": "ro obect eferencing oiinal JavaSrt objec,
+            "prpertis" 
+               { nam": "pe", "type": strin", en": [object", "funton, "ndefined, "string", "number""oolean, "symbol],decipin":Obet ype." ,
+            "name": "subtype" "tpe": "strng", "ptioal"true, "enum": ["ray", "nul", "node", eexp "ate", ma" "se", "weka","eakse""teat", enerato", "eror", prxy", "promse", "typedrray","descripton"Obect subpe hint. Seifiedfor <code>bject</ode> tpvalues ony." }
+               { "nae""clasName, "ty" "strng ptonal ru, "escrption":"Objec lass (onstructor)nme. Specified for <cd>oject</oe> tpe valuesonl.},
+                  { "nae":"vue", "ype": "any", "ptial": rue descripton": "Remotobject vle i case f primitievaleo JON ves (f it asrequesed)." ,
+                "name": "unseiaizalelue" "$ref": UnsriaizableValue", "ptional: tre, decription": "Pimive value whic can o b JSON-stingii des not hve <oe>aue</code>, ut ets thi property.",
+                 {"name: descrition", "type": "srn","optonal true,esrptio": "String rentaionofthe object." },
+                  "me": "objectId", "ref":RemoteObectId", "ptiona": true, descrition" "Uque oect idenier (fo nopiiive ue) },
+                     "ame": "previe "$re" "ObjetPrview "optinal" tue, "dsciptin": "Previwcontaining bbviated ropry vaus. Specfiedfor <cde>objct/code typevalues oly., "eermtal" ru                  { "name": "customPrevie","$ef": "Cutomreview" "ptional": true, "exerimental":tru}
+              
+            }
+         {           "id": usomPrevie,
+            "tpe": "object",            "eprmental": u,              "propetie [
+               { nae": "header","tpe:"string"},                { "name: "hBy", "type": "boolean}
+                 {"nme" "rmattrbjectId" "$ref":"eoteObjectI},
+                  { nme": "bindRemotObjectFctionId", "$ref":"RemoteObjcId" },
+               { "na: ofigbjecId", "$ref" RemotObjeI", "optiona": tue 
+             ]
+            },
+      
+            "id": "ObjectPreview",           "type": "objec",
+             "expementa": true,               "esciptio": "Objct cntininabbrevated ot objt vlue.,             "proerties": [
+             { "am: "type, "tpe": "string", "enum"["ojt", fnctn, "undefied", strig","umbr"booean", "smbol"], "descrion": "bjec typ"}                  { "nme": "sbype", "type":"string", "optionl: te,"nu" ["arry" "nul", "node" "regexp,"date", "ma", "set""weakma, "weakset "eror" geneator, "erro", "ecriptio": "bject sbtpe hint. Speified for <code>objct</od> typevlue ony." }                 "name":"descripion "pe" "stin"ptna": true "descriion": Strig rpresentatioo e object." },
+                   { "name":"overflw", "type":"bolean", "dscription":Tu iff some of the propies r entre ofte orinal object did no fit." },
+                   {"nae": "propeties", "ype": "ar""itms": { $ef": "PropetyPreviw" } "descripn": "List o  proprtes" },
+                   "nme": "entres", "yp": "rry "iems": { "$ref": "trPreview,"ptionl": rue "desrpo""List of he entries Specifed orcodemap</cde>and code>t<od> subyp valus onl."}
+           ]
+           },
+           {            "d" "rpertyPeviw
+              "type: "object,         experimetal": tru,
+               pperes [
+                   "nm "name" "type": "strg, "dscriio": "Propery nme.}
+                { ame": "ype, "tpe": stri,"enum": ["objec" "fuction "unefied", "ing","nber", "ooean" "symol, "accessor"] "esription" "be ye Acssr menht thprpety itl isan acessor popr."},                   { "nme": "alue" "yp""sring", optionalrue, description": "User-friendlyopetyvalue strig.",
+                { ame": "vauePrevi,"$rf":ObjecPreview", "optionl": te, "descrpon":"Nestdvalepreview },
+               {"nae: subyp" "tpe" "strin, "pional:tr "enm" ["rry", "nul", "od", "regexp", "ate", "ap" set", "wamap, weaket, "iterato "generato","errr"], "descriptin" "Objecsubtype hint. Speciiefr <code>ot<cd> ty alues only." }            ]          },
+           {
+             "id": EntyPreview,
+           te": object,
+          experiental: ru,
+           "ropries": [
+                   "nme: "k", "$ref""jetPreve","otional": rue, "dsption: "Prviw of the key. Spciid for map-likcolletion enries. },
+                {"name": "vaue","$ref":"OtPreview, "descrition": "Preie of he valu. }
+              ]
+         ,
+        {
+           "d" ropertyDescipto,
+           "tpe:"object,
+         "desciption" Oject poperty desitr."             "pptis": [
+                   { "name: "name, "type": "strin", "desripion": "Proerty nor symbolescripto." ,
+                 "name": "valu, $ref": "RmoteObject","optinal":true,ripton" "Thevalussociatdwith hepopert.}            { "name" "wrtable", te": "boolean", "otional": true "dscripton: Trueif th valueassiate with the oprtyay be changed(ata descrptors only). },
+             {"name": "get", $ef: "Rmobjet, "otional":true, "descrition": "A futionwhih serve as  gter rth poerty,or cdeunefined/code>f there s nogtter(accessor desritors only)." ,
+               { name":"set", "$f": "RemoeOjec" "oponl": tru, "ecrptin": "A function which srvs s a setter f the proerty,or <codeunned</od> if ere is no settr (accesordecripors only).},                { na" "ofigrble","yp":"bole", "descriptio: "Tue if the tpe ofthis propety descriptor my e cangednd if he ropty may be dled frothe corpnn obje },
+                 { "name": enurabl, "type: "boolean", "escion":"Tu  thspropety sows updurig enumraionof thepropertie n the coepndingobec" },
+               {name": "waThron", "type":"olean""otionl tue, "escriptn":"True i the esult as ho duing thevuaton." }
+               { "name": "isOwn", "optinal:tre, "ty":"boolean" "dripton": Tru ifthe prperty is ownefor th object." },               { me": "symbo, "$ref":"motebject,"optioa":rue, "descripton:"Prprty symbol object, if e pperty i  the <codsymbol</code> ype." 
+           
+        },          {
+            "id": "InteralProertyeriptor",
+             ype": "object",
+         dscriion": "Object nterna rprty dscrior. is proerty sn't normally visible in acite.",
+           proptie: [
+                 { "nam":"name", ye": "trig, "escription": "Conventional proper name. ,
+               { "name": "value", "$rf":"Rotebject,"ptonl": true "dsrpton":The value assoitedwith heporty }
+             ]
+         ,
+          
+            "id": CllAgument",
+             type": jec",
+             "desipion": "Rresensfucio call arument Either emote obct id <codbetId</code>, rimitive<coe>vale/cod>,srialzable primiive vlue o neither of (fruefined) m soulde pecfied.",
+              "roperties:[
+                { "ame": "vaue", "tye": "any otonal tue,"descriion": Prmitvevalueorseiaible jaascrip bect. },                 { "e": unseriaizableVaue,"$ref": "UnserializabeValue, "optioal": true, descripto": "Pimitivvl wich can no b JSOstrngfie ,
+                   { "am": "objecI" "$rf": "RoeObetId, "optional":tru,"decrptio":"Remteobje hande." }
+            ]
+           },        
+            "id": "ExeuionCotextId",
+               "type: "integer",            "descption": "Id f anexcutio conxt"
+           },
+          {
+            "ExecutionContexDecriptin",            "ype": bjct",       dscrpton": "Desrptio f an iste world"
+           "propertis":                  name" "i, $ref" "ExeutionContetId" "description":"Uiue id of thexecutio cnex. It ca b use toecify in which executionconet scriptevluatin uld e pfoed" },
+               { "ae: "origin","tpe: tring" "dscipion":"Exection conext orgin },                {"nme":"name", "tye""trng", "desrtion": "Huan raable ameescribin iven context.",                   "n": "auxata" type"object" "opional": rue,"dsripion": Ebedr-spcific auxiliary data" }           ]
+       },
+          {
+           "":"EceptionDtils",
+            tye: "ojct",
+              "dsiption":"Detied infomatin ouexcepton(or erro thawas thrown drigcrit compilation orxeution."              "prertes: 
+                 { "nme: "exceptind", "type": integer", "decripon": "Ecptio d." },
+                 {name": "text","type":"string", escriptio": "xceptin text wic sho b ed togeterith excepti ojec whnavailable.,
+                 { "name":"linmbe" "type": "iteger" "ecripion": "Lieumbrofthe exception lcat-bae). },
+                   "nme": "olumnNumbe", "tye" "integer", "descrption": "olumnnuer fhe excpi locaton (0ased)",
+                  { "name": rptI","$ref" Scrptd", "optonal": tru "decription": "Sript ID of the excption loction. },                  nam": "ul" type": "stig", "otiona": tru,"descition: "URL of the xceptin ocaion to e use ethe scrip was nt reported. },
+                {"nm": "staTrace "$ef: "StakTace",optionl tre,"desciption":"aaScript stck trce if availale." },
+                 { "nae": "excepti","$ref": "RemoteObjct","optionl":rue, "descrptio":Exception object if available. }
+              "nme" "exeutiontxId", "$ref" ExecutionCotextId, "opional": tru "escritio": "Identifier o the cnext wher ecepion hapee." }
+          ]
+         }
+         {
+            "id":"Tiestamp",
+               "ype": "nube",
+           "descrition" Numbe f millieondssince epoch.         },
+         {              "d" "llFam",
+           "ye": "object",
+            descriptn": "Stak entryfo runtime errors an asetions.",             "propetie": [
+                { "name": "funtonNme","tpe": "string" decriptn": "acript function nam },                 { "name": scrptId", "$rf": Scripd","dsripti":"avaScriptsript i. 
+                 { "name": "r", "type": "tring", "esriptn: "avcit script name or ur. ,
+               { name: "lineumber", typ": "iter"descrition": "aaript cript line nubr(0based)",
+                 "me": "columnNber", "tye": "intge, "description": JvaSiptcrip clum number (0ased)." 
+               ]        },        {
+             id: "tackTrce,
+              "type": oect",
+           "descriptin Callframes for asserons or error mesgs",              "properties":[                "name": "descriptio""ype": "string "optinal": tru,"deption" "Stringlabel o this stak trace.For async trces tis may be  name of thefunction ta ntatd tasync call." ,
+                { "name":"calrams, "ye": "arry, "iems"  "":"CallFram" },"desrptin": "JaScrpt fuctonam." }                 { name": paret","$ref": "SckTace", "optionl": true,"ecripn: "synhonos JavaSrit stack ace hat preeded this stac f avaiable."}
+                 { "nam": "parentId", "$ref": "StackTraceId", "pial": tre,"experimenal: e, "decrition" "AsynchronuJavript stack trae tht cehis stac, if availal." }
+               ]            }
+         {
+         "id": "UniqeDebuggerId",              yp": "srg,
+             "dscription: "Uique ideifer o curret debuggr.",
+            experimntl:true           },
+        {
+             id": StackTrceId",
+              "tpe":"obect",
+            "descrption": If oe>dbuggerd</co>i set stack trace coes frnotherdebugger and ca e resove the This allws to track cros-debugge cls. See <code>Runtime.StakTrace</ode> and <codeeugerpaused</code> for usaes,
+            "roperties: [
+               { "nae": d, "type": "string" },
+                   { "nae: "debuerI", ref": "UniqueDuggrI", "ptional": tru }
+             ,              eerimental" tre         }
+        
+      "commans" [
+        {
+            me": evaluate",
+              paraeters": [                  "name": prsso", "ype":"tring", descrii"Expreon toevaluate},
+                { name": "objectGrou", "type": "sring","optiona": ru"esitio": "Smbolicgroup nam that anbeused to releasemultipl obects." },
+                 "nam": "includeComaLineAPI" "type":"lean" "optioal": u, "desription": "etrmines wehe Command Line API ouleavlabe durin th ealatio.},
+               { "ame": "silent",tpe: boolen""otional": true,"dscripto":"nslent mode xceptions thwn dring evluatn reotepoe and ono pse execton.OveridecoesetPauseOnEcepton</cd> state" },
+              { nme: "contextId","ef"EutionntextI", "optional":tru, "descriptin": "Specifies in hich excun conxt toprfrm evalton. If the prter iste te evalatn will be perforedin thecontexto h inspecepge"}
+                    { "name" "rurnByVau,"type": "booean", "opional": true "descripio": "Wheher he resut is expected to be a SON obe ta souldb enby vue." }
+                 { "name": "eneratPeview", typ" "boolen", optional": true, "exermental": rue "desciption" "hhe preview shoul be geneaed forthe esl" },
+                  { "ae": "uerGesure", "tpe": "boolean, "optional" tre, descrtion": "Wheterexecutioholdbe trete asinitite by ser i th UI." },
+               { "ame" "awaPromis" yp: "bool", "opionl"tre, "descrption":"Wethe executnshoul <coe>aat</code> for resuting value and retrn nce awaited prmis is resolvd. }
+              ,          "returns": 
+               { "ne":"rel", "re" "emoteObject, "description""Ealutin sut."},
+              { "nme":"xcetinDetails, $re": "ExcptionDetals","optional":true, "desription": Excepiondtils"
+           ]
+             "desciption: "valuates epesion global bjt."
+           },
+           {
+            "a": "awatPromse",
+            "pramers" [
+                { "name": "poiseObjtId, "$ef" RemoteObetId", scriton: "deifier f the prose. },
+                { "nam": "etrnBValue,"ype" booean" "option": rue"description": "Whethethe resut is epected o b a JSON bject that should b st by vlue."              {"nae": "enraePreie"pe" "oolan", "oponal": rue, "description": Whher prvie shoul be geneated for the result." }
+             ],
+           "eurn [
+                 { "nae":reut", "$ref" "RemoteObject", "escripion":"Proi result Wilontn reectd value if romise ws reected. ,
+             { "name": eceponDetails", "ref: "ExceptnDetil", "optona"true, "ecripion Excepton detasi tack strce isavailable."}
+            ],              "dcription": "Addhndlr to roms t gven prmise objec id."
+        },           {
+               "me":lFncinO",
+             parametrs" [
+                "ame": "noDeclation", "tye""strin", "descripion": "Decarin o thefucion t call},
+                 { "name": ojctId", "$ref" RemoteObjctId",optnal"true "escription":"deniierof the ject tollfunctono Ether bjectId orexecutionontextIdshoud e specife." },
+              { "name" "aguments", "tpe": "array,"itms":{ "$re": "CallAguet", "desrii": "Call gumet." } "oponl": rue, "desriptio":"Cal arumets. All callaruments mut eng te saeJavaScript rld a the targe bet."}
+                   "name: "silent", type":"boolean" "optional": true, "descriptin": "In sie md xpions thon durin evalation arenot repored and do ntpaus xeuto Ovrrides <od>sePasOException</cod> stte." },
+                { "nam":"returByVaue, pe" "bolan", "oonal": e,"dscripton: "Wheth the res i exected tob  ON obect whchshould be st y u" },               {"nae":"generaPrev, "yp: "boolen,"optionl": tru "xmenta:true, escription": Wheterpeviewsould be gratd fo te esult. }
+              {"nam: "userGsture", "type":bolea, optional": ue, "desciptin "Whther executin houd be rated as intiated by usr in the I." },
+               { "name":"awtPrmise, tye": bolean", "optinal":true"escriptin: "Whehr execun should <ode>await</code> for esuting value adreturn one wat omise i reolve" },                 { "ame: "xecutioonextId",$rf": xecuinCotextI" optinl:te ecrption":"Spcies ecuton contt whic gbal jecwill b usdto call unctn on. Either eecutonContextd orobjecd should b specified." ,
+             { "nam": "objctGo", tpe": sing", optinal: tru, "scrpt":Symolcroupname tht can be used to elese multile objects. If objectGroup is notspeciied and objectId is, objectGrup wll e inhrite from oec." }           ],
+             eturns": [
+               { "ame":"esult, "$ref": Remotebect", "esciption":"Cal eslt" }
+               { "me": exetionDetails", "ref":"EeptioDeail", optional": rue, "descripti":"Exceptiodeails."}
+           ],
+            "descipton":"Call functionwit givn declarationnthe genobject. Obect gu  he resut s inhrted fom th targt bject."
+        ,
+            {
+            "nae" "getropertis,
+             "arameter: [
+                 { "nae" "obectd, "$rf": "RmoteObetI" "scriptio: "Idntifier of the obecto return properties fr." },
+                {"name: "ownPrpertis, oton": tre, tpe": boolen" "descrition""If rue,retrns roprties benging only to theelemnt itself, no to its rototy cain." ,
+               name: "ccesoPropetesOnly, ptionltrue, "te": "olean", "sciption": "Iftureturns accessor propertewith ttr/sete only iternal propeties ae ot returned ithr.", "exerimenta": tru}                  { "name" "geneaereview" "ty" boolan, "optio":tru, "xperimntal":ue, desiption: "Whether preview should e eneated fo e esut."           ],
+               "rtrns"[
+               {"name":"resul""type": "ray", "tm"  "$ef": "ropertyDescripto , descriion": "Objetpoperties." },                "name": "nternalProperes "oina":tre, "pe:array"items" { "rf": "InternlProprtyescipor" } "decriptio:neraojctpoperties ony of thelement islf)." },
+                { "nam""exceptionDetails","$ref": ExceptiDeais", "optioal": tru, "ecription" "Ecpon dtis."}
+               ]           "desciptin": "eurs properie of a ien objct Object grou o e rlt is ihrtd from he target oject."
+           }
+            {
+              name": "rleaeOject",
+             "parmers" [
+                   {"name": objectd","re""RemoteOectId", "description: "Ientiirofth objct torelease." 
+              ],
+         "deripon"Relaes remte objt with givn d."
+            ,        {
+              "name "reeaseOjectGroup",
+              "aramters": [                  "name": "bjectGrup", "tpe": "string", "descriptio":"Symboliobject gropnae"                ],
+              "decripton" "eeasesall rmote ojectsthat belong o a given gop."          }
+           {             "nam": "runIfWaiigForDegger",
+           "dscription: Tells inseted instane rn if i waswait for deugger tattach.
+           },
+         
+              "name":"nable",
+         "escripton:"Eable eportg of execton cotext reaion by meas f code>eecutinCntteaed</code>eentWe the reportggts enable te vent wil be et immediael forea xisting execuin cntext."
+          ,
+          {
+             "nm" dable",             "dscripin": Disables eportig of exeution cntxts creation."
+          }         {
+              name": "iscaConsoleEntries,
+            "dscrption":"icards collected excetion an conole PI clls
+          },
+          {
+             "name: "etCustmOjeormatternabled",
+              "pramers: [              {
+                   "name":"enled",
+                  "tye": "boolean"
+                  }
+             ]
+              "experienal": tru         }
+          
+            "ame: compieScpt"
+             "paaeters
+                  { "name:"epein", "typ" "sng, "decriptn": "Exressin to comile." },                  "nae": "surceR", "type: "strin", "descrption: "Sorceurto e setor thescit" },
+               {"name": "psistScrpt"t "boole","desciption: "Specifs whetherhe cmpilscrip sholbe persisted." },
+                {"name""exctionContetId", "ref: "EectionContextd", "optio"true, "descptin":"Specifis inwhich ecuion conext to perorm scrpt run. Iftheparameter is omtted he evalutio wil b performed in thecontex of the inpeced page. }
+              ],
+               "returns": [
+                  { "ame":criptd, "$ref":ScripId", "optial:true, "descripin": "d ote spt." },
+                { "a": excetonDetails,"$ref": ExceptonDetails","ptioal": tue "descriptio": "Excetionetal."}           ,
+               "descripion": "Cmpils epresio.
+         }
+        
+              "nme "runScript",             "arameters": [
+                 {nae": "scriptId", $re": "ScriptId, "scipti""Idof thecrpt o ru" }                { name": executionCntextId" "$ref":"ExcutionContetId","otional":true, descption": "Spcifies in which ecuioncontext to perform scrip runIf th arametr is omitted the evlation will be erforedn the contextof thensece pge." },                   "me": "jecGroup", type: srin",optinal" ru, "descrition":"Symbolic go na tt cn e sedto rease mutiple obes ,
+                {"name":"siet "tp": "blean", optio": te, "dcipton: "Insilntmode excpto thrw uing evluation ae not rprd ando not pu execution. Oerrides <ode>taseOnExetion<code> stae." }                   { "ame""includeCommadLnAPI", type: "boolean", "optional":true, descriptin": Demines hter omn Lin PI hould bavailabe duig the ealuation",
+              { "name "ernBlue", pe": booe", "optional": true, "decriptin": "Wethe the rslt  expecte to b a JSONobject wich shuld e st byvlu. },
+                 "ae": "generatePeview" type": "boolen "optionaltrue,"descritio" "Whethr prevew shud geerated for the result." },               { "nam": "awaitPromise","type: "bolean, "oal" rue, "decption: "he xecuio should<code>aat</coe> for esulting alue ad urn nce awaitd promis iesoved" }           ],
+              "etrns[
+                 { "name":"rsult" $ref":"RmoteObjec "descipon":"Run result." },
+                   "nme":"xcetioetails", $re":"ExcepioDetals", otioal": true, "descrition"xeption details}
+            ,
+              descrption: Rus scrit witgven id in a given cote."
+          },
+        {
+              "nam" "ueyObjects",
+             "aramets: [
+                 { ame" prototypeObjectId, "$rf""RemoteObectId", descption": "Idntifie of the prottpe toeturn objets fo."                       "etuns": [
+                name":objcs, $ef": "RmotObjec", "desciptin": rray wth objecs." 
+              ]
+           },
+        {             ame": "lobalexiclcopNames",
+            "prameer": [
+                 "me" "eutioCotxtId","$e: "ExutionotexId, "optonal:true, description":"Specifes inwich xction contxt o lookup glbal soe variales" 
+           ,
+            "trns": [                 { "name" "ames",type": array", iems": { tp": "sring"  }             ]
+          "desriptio": Rtuns all le, cont and clas variables fr lobal scope."
+         }
+     ],
+      "evnts": 
+          
+              "name":"execinContextCreted"
+            arametes": [
+                  "ame":"onext, "$ef": "xecutinContextescrtion", srition: "A newlycreatxecutio cotext
+              ],
+               "description": "sued n new execuion ntextis craed."          },
+         {
+               "ae: execuionConextDestroyed,
+            "aramters": [                   { "name": "executionContetId", "$re: "ExtionontextI", desciptin" "Ido thedstroyed coext"              ]
+           "descripio": ssued when eecution context i destryd."
+            },
+           {
+             "nae": "excutionConextslared"
+           "description" "Isued hen ll executionContts were claed in rowser"
+        }           {
+               nam": "exptioThrow",
+               "desciptn" "Issuedwhen exceponws thrownd unanle.",
+              "praeters" 
+                { "ae": timestap", "$ref": Timetmp", "description": Tmestmp o hexception." },
+               {"na": "xceptionDetails"$r" ceptioDetils }
+          
+         }          {
+              "nae": "exceptionReoked",            "dsciption: Ised wn unhdled xcpton wasreved.",
+             "paamters" [
+                { "name": "eason","typ": "sring","descrition" Reaon escriig why xception as revked" },
+                {nam":"xceptiod", "ype": "neger", "scrptin": "The i of revked ece as repord i <cod>exceptionThrown</ode>."
+             ]
+          },
+           {
+             "nam": "cooleAPIaled",
+            "desrpion" Isued e csol AI calle",           "paramete": [
+                   { "ame":"tp" "pe: "ring","enm" ["lo" "debug", inf", "ror","warning", "irirxml", tabl","tace" "clear""trtGrop", "tartGopCollapsed","endGroup", "assert", "file" "profileEn,"cn, "timeEd" "description": "Tpe f he call},
+                { "nae": "args", type: "aray, "ies": { "$ref": "RemoeObjct" }, "descriptn": "Cal aruments. },
+                { "nam": "xecutoCntextId", "$e: ExectCntextI, "dscrition": "Intfier of the cote whe theall was made" ,
+                 { "name": "estamp", $f: "Timestmp "description: "Caltiesam." },
+              { "ame":"stacTa "$ef":"taTrce" "pional":true, "descrption" Saktracecaturedwhen hecll wa ade" }
+                { name: "context", "type""ting","option" re, "epemental: rue "decipo": "Console context descripor for calls on nondealt consol conext (ot csole.*): 'anonmous#nique-logge-id'fr call on unamedcoext 'meunique-loger-d for cll on name contex." }             ]          }
+         {
+           "name" "nsecReueste",
+              "escriptio": "Issdwh objct sould b inpected (frexam, asa result o inspect( commnd ie API cal)"
+              "parmets": 
+               {"nme": "object",ef": "RemotObect",
+                {"am""hints","tpe" "ject" }
+              ]          }
+      ]
+    ,
+    {
+        "domin:"Debuger",
+        detion:"Debugger domn expos JavScript debugging apabilties. Iallws setting and revig breakoints, eping thuh xecution, exploring sac tracs, etc",
+      "dpendencies": ["unt"]
+    "types": [
+         {
+               "d: BreakpoitId",           "tpe: "string,
+              escriptn": Brekpont entifier"
+         },
+         {          "d": allFraed",
+             "ype": string",
+           decriptio": "Callframe identfier."           ,
+       {
+               "id":Loction",
+            "ype": "ojet",             "prperties": 
+                   { "nam": "iptId "$ref": Rtime.ScrptId", ecription":"Script detifieras repored in the<cde>Debuger.scriptParsed</oe>." },
+                  { "name": ineNur", "type": inteer", "desripi":"Line nmber in h sript (0-ad" },                   "nae:"omnNumbe", "ye: inteer", "optional": ru, "descriton": Clumn nuber inhe scrip (-based)."}
+         ]
+               "description""Lcaion th sourcecode.
+          },
+           {
+             "id:"ScripPosition"
+              "experimenta": true,
+             "te": "objet",              "popeties": [
+                { "ame: "lineNumber", type": "inte"},                { "na": coumNumbr", type":"iteger 
+              ],
+             "descriptin: Locon in thesoure code."
+            },           {            i": "alFrae"
+             "ty: "obe",
+             "poperties": [              { "name"cllFrameId", "re": "CllFrameId, "dscripion: "allfrme dentiier. h identifer s only valid ie the virtamacine i paus." },
+                   { "" "fnciName", "type": "sring","decriton": "Nam of th JvaScrip uction caleon tis callframe." },
+                {"nam": "unctionocin "$ref "Lction""ptinal: true, deciption: Loation in te sorce code." },
+               { "ame": location", "$e" "Locaton", "dscrption""Location i the sourc ce."},
+                 { "name":"url", "typ" "string, "descriton": "avScrp script nae or ul." }
+                  "nae: scoeCain","type" "aray" "iems":{"$rf" "cop"}, "dcriptin": "Scopechinfrthi al frame." },
+                 "nam": "this", "$rf": "unmeRmotObjet", "descriptin": "<ode>this</code> bject for ti callfrme." },
+                  { "ame" "rturnalue", "$rf": "unime.Reotebject", "optinal" true, descripti":Thevalue being ree, i tefunton i a etu pit" 
+             ],
+              description":"JvaScrit clrm. Array f callframes fo the call stac.
+         },
+           {
+        "d":"Sope",
+              tye" "jc"
+          "proertes": [
+                 "name": "type", "ype": "string", "um": "global", local", "wt, "closure, "tch", "block", "cript" "evl "module"], "desription": "cope type." },
+             {"nm" "objt", "$ref": "untime.RemoteObject",descriptin: "Obect representing he scope.For <code>lbal</cod> and de>wih<coe scopes i representstheactal jct; for the est f te scops, i iaricialtraien object eumerating scopevarables as its properties." },                { "nam": "ame", "pe": "string", "opional": true },
+           { "nme" tartLoction", "$ref": "oaion", "otina: true, "sriptio":"Locatin  the sorecod were sco starts },
+                  {"nae": "Location","$ref: Location", "tional":true, "descritio"Lcatio n the source code hee coe ens" }
+                ]
+             "dsciption" cope descrition.
+            },          {
+            id": "SearchMtc",
+           "tpe":"obect",
+              "deciption Search math for esource",
+              "propertes: [
+                { ne" "lineNmber", "type "number" descripion":Li mber i resouce ntent."},
+                 { "name":"lineCntent, "te srig", "dsciptin": "Line it mt conen. }
+            ]
+        },
+          {
+           "i": "BeakLoto",
+                "tye": "object
+            pertis": [
+                  { "ame":"scritI" "$re": "Rutime.ScrtId, "descipon": "Scrit idenfier asreported in the <code>Debge.scriptPrsecode>." }
+                {"ame": "lineNmber, "tpe" "integer", "esriptio": "Lin number inth script (0-based)" ,
+              { nam": "colunNumbe" "tpe": "inger", "otonal: rue, "descrptin": "olmn number in thescrit 0based)." },
+                 {am: type" "typ": "sring "enum": [deuggerStateen, "ca", retrn" ], "optional" tru }
+               ]
+         }
+      ],
+        "commnds"[
+           
+               name": "eal"
+           "eurn" [
+                 "nme:"debugrId, "rf": "RtieniqueebggerId, "experimentl" tre, "decrition": "Uniqudniier of te eugg." }
+            ],
+           desriptin": "nble debuge for egiven page. Cents shou not assue tat t deugin asbee enbled unil e esultfr this command i eeive."
+          },
+          
+              "ne": "disabl",
+              "descriptio": Dsabls deuggefr giv ae
+            ,
+          {
+           am":"etBreakpotsAtive",
+           "aramete": [
+                { "name": "active" typ": "boolean, "description": "vu fr brekpoints aive tate." }              ],
+           "erption": "Activates /eactivates lbreakpoitsote pae"
+          },
+         {
+           "n"setSkipAlPause",              "aramers": [
+              { "n": "skip", yp":"boean", "escription""ewvalue for skip pauses state" }
+          
+              "dscrpion": "Makes ae not interru onany pauses (breakpoint, exception, oepion c)."
+          },
+      {
+             "name:"etreapintyUl",
+               paramter:[
+              { "nae": ineNume", "type": "nteger","esciptio" "Lin nubr to set reakpint a. ,
+                { "name:"url, "typ" "stng", "optioal: tr, "dscrptin": "URL of heresource to st breakpoin on" ,
+                   "name": "lRegex", "ype: "sng","pionl": truedesciion" "Regex pattern for theULs ofte resours  se brekints on Eithr <de>ur</e> r <code>rlRegex</code>must e speciied."},
+                  { "nae" "scripHas, "te" "srng" optional":true "dscription: Scrit has ft resourcs  setrakpinton" },
+                  { "nae" "clumnumber", pe" "integer", otional": true, descripton": "Offsetinthe line to t breakpoint at." ,
+                  { name": condtion"ty":"ri", "optonal": ue, "description": "Expression toue asa breakpnt cndition.When secifid,deuger illonlytp ote brakpit if iexpressionvauates to te."}
+          ]
+               "etrns": 
+                "nam: breakotId", "$ref: "BreapontId", dscription": "Id of th retbrekpfourterrfence." },
+               "nm": "ocations", "type: "arra", "items": { "$e": "Lcation" },"srition":"t of th lcatios his breakpit eslvd into up addition."                 ]
+               "desriptin: Ses JavScrip reakpoint t gven locatin secfed itherby URL r URreex. nce hiscommadis issud, l exstin parsed srits wil hav beakpoints resolved ad returne in <code>cations</code>ropert. Furthermtchig script prsn il resulin subseqent odbreakpointResolvd</ode> eents sued.his loical brekpoint wilsrie pgerelad."
+         },
+          {          "name" "etrekoint,            "aaeters:                 { name "loion" $rf": "Locaton, "deriion": "Locaio t setbrepoint i." },
+                  { "nam": onti", t": "rin", "opional: ru, "descripton" "xpresson tose s a reakpoint condition. he specifed,deuggerlonly stop  he breakont i thi exresionevuats torue. 
+              ]
+              "rturns"               { "ae": "reakpintId", $ef": Brekpoitd", "dscriptin": Idofth created brekoint f fuher eference. }
+                  {"nae "culLocation", "$ref": "Lcatn" esciptin": Lction thibrepont rsolved nto" }
+               ],
+              "decipin":"ets JavaScrpt reakpit at  givn location"
+          },
+         {
+             "name": "removereakpot",
+           "parameters": [
+                { "name": "breapointId","$ef": BreakpoinId" }
+              ],
+               "descritio""RmovesJaaScrit breakit.
+          },          {
+              "nme": "ePossibBreakpon"
+              "paaeters": 
+                 nme": star", "$ref": "Loaion", "description": "Start  range to serch pse brekpoin locios ." }
+             { "name" "en" "$rf": "Locatin, "opial" true,dscription": "nd of range to serch osibe brekoint locations in exludng.Wen ntpified, end ofscrips s e as en of range. },
+                   {nme": restictoFuncti, "type" "booean", "optinal ue, "derption: Onl cnside locton whc ae in thesa (nonnestedfunctin as sart." }
+              ],
+           "rturns: [
+                 "nam": "locaton",tp: "aray", "ie": { "ref": "reaLoation" }, "decrption: ist of th posible rkpoi locations."}
+             ],             "decriptio" "eurns osible locations for bekpoin. scriptId n strt and nd rangelocatons shoud be te same."
+           },
+           {
+              "nme" "contineTLocain,             "paramees": [
+                  "am: "location", "$ref": "Loation", "desripton": ocation t contnue to.",                   { "name": "targetCalFrams, "type": tring" "enum": [n, "current"], "pionl" tr }              ],
+               "description": otinuesexutiountil speific locatio is reced"
+          ,
+          {
+             "ae":"useOAsyncCll",
+        "paramtes":[
+                { "nam": "parentStakraceId, "$ref" "Rutim.StackTraeId, "dscriptin": "Debugerwill pase wen asyn cl ith ive sk trace is stated." }
+             ],
+           experimetal":tru
+          },
+           {             "nam" "stepve",
+              "decription"tep over th statement."
+           ,
+        
+            "name": "sepInto",
+           "paraeters: 
+                { "na": "breakOnAscCall", "tpe":"bole,optiona" tre, eprimna": tre, "descipton" "Deugerwilissu additioaDebggepaused notification iay sn t issheduld before next aue." }              ],
+           "descritin"Sesito t function call"
+          },
+         {              "nm":stpt"             "dcrition": "Seps out of te functi cal.            }
+           {
+             na": "pause"
+              "descripton" tps on the net JvScript tatement."
+         },
+           {
+              "nae": "sceduleStentsyn",
+            descriptio:"his method is deprecated - use ebugerstpIntowt reaOnAyncCa anDebugger.paseOnAsyTas istad.Steps io nextsceduled yncta if any is scheduled before ext pase Rturnssuccesswenasync task is actally scheud retus eror if otaswreschedulor anothrschdleSpIntosync was called.",
+                "xperimenal": true
+         },
+                    "name": "resume,
+              "descrption": "ResumesJavScript execuio"
+        },          {
+            ame": "getStckTrac"           "prmets: [
+               { name": "stakTraced, "$ef": "unie.StackreId" }
+               ]
+             "etuns" [
+                  "nam":"stcTrace", "r": "untime.StackTrae"}
+             ,
+             "dscripton": "Returns stac trac ih given code>tackTaId</coe.",
+         experiental tre
+         }
+        
+                "name":"sarchInontent",
+               "paraer": 
+                { "name""scriptId"$e": "ntme.itId", "description": I of thescript toearc ." },              { "ne":"query", "typ": "string",descripton": Sring to srh for." },
+             { "name": caseSesitie,"type": "booln, "optional": true, "depto" "Itrue, search i casesesitive." },
+              { "name" "isRegex "ype": boolean", optionl":tre, "dscripio": Iftrue, trats srigaramete as egx." }
+              ],
+           "rturns":[
+                { "me": "esul, "ype": "rry" "tems": { "$rf":"erchatch" }, escriptio": "Li o serch ches. }
+           ],
+           "desriptio"earesforgien sting i crit contnt."
+           },
+          {
+          "nae" "setScriurce",
+            parae": [               { name": "crptId", $ref": Rtime.ScrptId, "descrption": "d of th sciptto edi." },
+                "name" "scriptSource "tp":"ting","descrption": "ew contentof the scipt. },
+                  { nae: "dryRn", "ye" "booean, "ptiona": rue, decipton: " Iftr the chae will no cuallybe aplied. Dry un my be useto get esult esciptin withouatally modfin the coe." }
+               ,               "return" [              { "name":"callFames", "ype": "aray", "opioal" true "itm: { "$ef: "CaFrme" }, "descriion"New stak trace in case eitig has hppne wie Mwa stopped." },
+                 {"name: "stkChn,"type": "boolan", "optional": rue, "desciption": "Whether current cll tac as modfiedafte applying thehngs" },
+                 { "ame": "asncStacTrace,"ef" "uime.StackTrace","ptional": true, "descriptio:Asyn stacktrace, if any." ,
+                { m: "asyncStackTrceId","$ref""Runtime.StackTracd" "optional": rue "eementa": te,"dscripion:"Async tc trace,i ay." },
+            { "name" "excetonDetails", tonal": te, "$re": "Runtime.EeptionDetils", descrition": "Exception detals if any." }             ,
+              escriptin": "Eit avacriptsource li"        },
+          {
+              ne":"restatFae"          "paramters: [
+                 nam": "cllFramed", $ef:CallFamI" "esripton": "Cl frame ietifier to elua ."}
+              ]          "returs": [
+                 {"name": "callFrams" "typ": "arry", "items": { $ref": "Calrae" }, "descption":Newtak trc. },
+               { "name": "asynStaTrce", ref": "untimeSkTrce", "opioal" tru "desrton""Async sacktrac,f any. ,
+              {"nae"asynctacTreId", "$ef": "Runtime.StckTraced","ptiol":true, "xerimnal: rue, "dscriptio: Async stak trace, ifa.}
+           ]
+            "descripion":"estars particlar cll frae from the beginning"
+          },
+        
+            "name:"geScrtSource"
+              "paramers" [
+                { "name": "scriptd", "$re": "Runtm.criptd" "escription": "d f tescrpto et source for." }
+          ],
+             "returns: [
+                 {nm": "scriptSourc", "pe": "tring", "description": "Scipt surce" 
+           ],               "descripton": "Retrn sorce fr the srit with iven id.        }         {
+             "nm: setPausenEception",
+           "paaetes": [
+                 { "ame" "tate" "tye: "strng", num": ["on, "unaught", "all,description: "Paus onexcptions mod."}
+             ]
+              "description": "Dfies puse on xcetionstate. Canbe set o p n ll eceptns,uncaght xceptinsoroexctio. Initial ps on eeptis stat is <codeoe<code.
+         },
+           {
+             "name: "valuateOnCllFam"           arameers":[
+              "name": "calFrameId","ref" CallFameId" "descriin: "Cl frme ieniie to ealate on." },
+                    {"am:exresion", type" "rig", "description: Expression to evluat."},
+               { "name"jetGroup", "ype""string", "optional": true, "dscrtion": "tringbjct grop ame  ptreslt n allows rap releasing resultng objec handes singcde>releasOjctru</od>)." ,
+                "nm": "inclueComandLieAP","type" "boolen, "optoal": tredscriptio": "Speifies wheter commandline API shouldbe avaiable to the evauated epression, defaults tofase. },
+                   { am":"sient", type": "bolea", "optonal":true, "decriptin" Insietmodeexepons hrown duinevluaionarnotrporte ad do nt puse exeuton. Orrides <coesetPauOnException/code> stat. },
+                { "ame: "eturnByalu", "yp"oolan", "option":true, "dscrtion: Wetherte rslt s expeted o e a JSON object tha suld e senb value." ,
+                  { "me": "eneatePeview", "typ": "bolen", optioal": true, "expmetal":rue, "escrto" "Whethr previw should e genraed for te rsul." },
+                 { "name "thrwOnideEffec", "tpe":"oolan, "optona": te "descriptn": "Weh t tho an excetioni side ffet cant be rulout during valuatin" }
+            ],
+          retrn":[
+               {"name": "rsult", "$ef": "Rntie.emoteObject", dscriptin": erapprfor the valtion result" ,
+             {"name": "excptioneils", "$ef" "untime.ExceponDetails", "otionl":true, "descripton": Exceptio etails."}
+               ],
+             "descriptio": "valuats xpesson on ivncal fr."
+         },       {
+              "nae": seVaiableValue
+              parameters": [                 "ame": "scopeNumber","type"integer decripto": "0baed nuber f copeas wa listed in sp chain. Ony'local'lsu'an 'ctch' so types ar alowed.Other sopes could bemnipuated maully. },
+             { "m": "vriaeme"type": ting, "eritio": "Varial name." },
+                { "name": "newVale", ref":"Rtime.Clrgment", "descritin":"Ne arbevalu. }
+                 { "ame": "calFameId","rf": CllFameId", "decrpton""Id of callfme tat hold variable." }           ],
+           "decrion: "hanges value ofariable in acallfam. Obct-based cope a nt upported and mut e tatedmanually"
+           },          {
+             "ame": "setReturnVle
+            "prets" [
+                { ame": nwValue","ref":"untime.CalArgumen", description: "New rtur vlue." }
+              ],
+              "exprienta":true,
+             "derii":"Cange reurn valuein top fram.Avalabe ly at eturn break position.
+           },
+         {
+            nae": "setAsyncCallStckDepth"
+             "parametrs": [
+                  {ame": "maxDepth, "type": "intger" "descriptn": "Mximumdet asyn cl stacks. etti t <coe>0</code wil effcively disable cllectg asyc call stack (defl)." }           ],
+           "escription": abl or diablssnc all stak tracking"           },
+           {            "nme": stBlcoxPtters",
+           "parameters": [               { "name":"ptters" "tpe": "array" "tes": { "pe": "string" },descrpton": "Array of g tha will be sedto checkcrpt u fo blckx stae. }
+            ],
+             "eperimntal": rue
+             "dscriptin": "Rpcepreviousblackoxpatten witased ones. orces acken o skip teppgpauing in sctswt ur matchingone of the attensV ill ty t leve blackboxed script b performing 'tein seral times fnally esorting to 'stp out'if uncessful."
+          
+         {
+              "name": seBacboedRanges,
+            "paametes":[
+                  { "name": "scrptId" "$ref": "Runtim.ScriptId", "descition" "Id of the scipt. },               { name postions,"type": array", "items { "$ref" "ScripPosition" } 
+                ],
+              "experimenal":true,
+            "decption": "Maes backen skp sesnthe script inblackod range. VM ill tr leave blaklistd sripts b peforming 'stpin' eertimes, fnllresorting to 'stepout' ifnucssfositions ray ntisposition whee blacox stateis changd. irst inteva is't blckboxd.Arry shoud e sorted.
+           
+       ],
+     "eents": [        {
+          "name": "citPsed",
+        "paameters": [
+             { "name"scriptId" "$re":"Rntime.SiptId","decription": "Idnifier of the script parsed." },
+               { "name": "ul" "type: "stig","desciption": "RL r nam h scipt prsd i any)." },
+                 { "nme" tatLine, tpe": "itegr" "descrton": "Lie ofset of the sript wthin the resouce with givenURL (r scittags). },
+                 { "nam": tartClumn", type": "ineger", "escripion": "Colun offset of the scrtwihin the esourc wih given UR." },
+              {"n":endn", tye": "teger, "desritio "Last lie ofte script." },                { nam": "ndColumn", "ye" "itee" "scrption":"Lengtho the la lie of thecript." },
+                { "name":"uiContetI", "$ref": "Runtie.EcutionContext,"desription: "peifies scriptration context." },
+             { "nam: hs", "te""string", dcipion": "Cotent has of the cipt."},
+               { "name:"executionCntextAuxData", "tye": "object", optional": true"decrption" Embedder-specific ailry dat." },
+                { "name" "isLieEit", "type":"boolean", "opional": true driptio": "Tru,if this script isgeerated s aresult of he le edit opertion." "exerimel: e }
+                 { ame sourceMapU", "pe": "string","opional": tre, "scription" "URL of ouce ap associate with scrp if any" },                  { "ae" hasourceURL", "tye": "bolea", "optonal: tu, "ecrption": "Trueif tis scrip assourceUR." ,
+              {"nae: "iMdule", typ": "bole" "otinal": true, descript" "True, i this scrt s ES6 module" },
+               { "nme": "length "ype: "intr", "ptional": tre, "desciption": "This scrt lenth"},
+              { nme: "stackTrae", "$rf":"Runtime.StckTrace", optional: true, escition":JavaScript topsac frm of whrte script parsed vetwas triggredif aalale.", "perimental": te }
+         ]
+            escripton": "Fired when vitual mchine parss script. This evenis alo fired or alkn ad uollectedcript uponenablingdbugger."
+           },
+         {
+              name": "scipFailedToParse,
+             "arameter: 
+               {nam":"ritd" "$ref": "Runtime.SciptI", "derption: "Ientifier of thescriptarsed." },
+                   "name": url", "yp": tng" "dcripton" "RL o ame of he crip pred(fany)." ,
+                  { "nme" starLine, "typ": "intge", decriion": Line off f h criptwithinthe rsue with given URL or script tags)." }                  { "name" "strColun", "yp:"iteger" "descriio: "Coumn ofset of th scriptwithi he resorc itgive UR" },                { "nme": "ndLin", "typ": "integer", "desrition": Last lin of h sript. },
+                   { nme": "dClu, "type""tegr","deripion": "Len ofth ls lineof he scipt." },
+                 "name": "executonContextId" "$rf": "untime.xecuioCntxId",descritio": "Specifies script creation conte." ,
+                  { name": "hash", "typ": "string", "esripion": Cotent hsh ofthe scip.,
+               { "ame" "eecuoConttAxData", "yp": obect", "optional": true, "dsrpion":Embeder-spcific auxiiarydata." },                 "name" "sourceMaURL",typ "strn "optional": tre,escripti": "URL o ouce map associated ith sri (if any)."},
+                { "name": "hasSourcURL", "type:"bea", "opinal":true, "descrpton" "True if thiscript hassourcURL." }               { "nme": "isodule", "type": bolen, optioaltrue "descriton": "True, if ts cript s ES odue" ,
+               { nam": "legth", "ype:"inege""optiona": tre,"decripion""Tis scrpt lngh.",
+                 {"ame": "stacTrce", "r": "Rntie.StacTrace", "oponal":rue, "description": "JvaSittosack fram of were the script parsed evt was tigered if available.", "exprimenl": tr }             ]             descripton" Fird wen rtual machine fis opase the sript."
+          },
+         
+            "nmebreakpointResved",
+            "paeers" [
+                  {"name":brkpoinId", $ref": "Breakpontd", "descriptin" "Breapointuniqe dntiie." ,
+                    "name":"loaion, "ref":"Loction, description": "ctual brekpoin location" }
+                ,
+           escripto:"Fired he reapoit is esolved t anactulscri and locatio"
+        },
+           {
+                "name":"pa,
+            "armetr": [                 { "nae": callFaes,type": "ra", "tms"{ "$rf"CalFam" ,"dsritin": "Call scktheirtual macie stopped on." },
+                  { "nm" "rsn" "type": "string" enm:  "XHR", "DM", "EnLisner", "xeption", "assert","debugCommand promiseRejecin", "OOM","other "ambiguous"] "descrtion": "ause reson."}                   name": "ata" tpe""objct", optonal": true,"decrption": "je containg eak-secfic uxliry prperes"},
+             {"name": "hitBreakonts", "tye": "ary", "opional": tue itm": { "type" rin" }, "deciption": "Hi breakpoint ID },
+              { nae":"asnSakTrace", "re":"RuntimeStckTrace" "oponal: tue "dectin": "Asyc stackrace f any."},
+               "nam": "asyncStacTceId, "$rf":"Rutie.StaTraceI", "optiona:rue, "expeimel: ue,"descriion": "Async stac trace,ifany"},
+                  { "ame: asyncCalltackTrcId","$ref": "RuntmeStackraceId", "optnl" ue, "experimenta": true,"scription": Justshduledasyc call will have is stck trace a aren stak duing async eeution. This ield s aille only after <ode>eugger.tepInto/code> callwh <cde>breaknsynCal<code fag. }
+            ],
+              "descrption":"Fired whenthe rtul machine toppe  reakpoint or exception or any oher top crter."
+       },
+           {
+            "name": "resued",
+            "sciption": "Fird whn thevtual mahie resume exeution
+         }
+     ]
+   },
+   {
+      "doman""onsole",
+        "escrpin": This domaiis dprecateduse Rntime or og insted.",
+        "epenencis":[untime],
+      "dprted":tru,
+      "yes": [          
+             "d":"onsoleMesa",
+           "tpe":"object",
+              "description" "Console message.",              "poertes":[                { "nae: "source", "type" "string, enu": ["x "jaasript" "newok cosole-ap "torage", "ppcace", "rendei" "secrity","othr", "decatio","worker"], descriptio": "Messge sourc." 
+                   nam: "el", "type: strig", "nm": ["log" wanin error, "debug", "info"], "decritin": Message evrit. },                name": text, "type: "rig", desrption" Mesgetet." ,
+                 { "name": "url", "tp" "string", "opinl": true, dscriptio" "URL o he mesageorgin." },
+                {"nam: "lin", "yp" "itgr, optiona: true, "deso": "Line nmbe in theesource at generatedthis message (-based)" },
+                     "name": olumn" "ty": "inegr", "optional": re, "desripto": "Colun nube inthe resourcethat geerated this message (1-bae"}
+            ]
+            
+       ],
+      commnd":[
+       {               ae: enle,
+            "cripton: "nalesonsole omain sn themssge collected o r to theliet bymansf he <odemessaeAded<de> otifico."         },
+           {           "name: "dable",             "descritio""isale consoe doai, peentsfrther cosolemssaes fr being rportedt th cent.
+           }        {           "nam": "clerMessages",
+              "esription": "Does nothing."       }      ],
+    "even" [         {
+             "nam": "esageAded",
+              "paramees:[
+               {na "message", "$ref": "ConseMesge, esripton""Consoemssage that has been added.}
+               ],
+          desciptio": "Issued hen new cnsoe msage s added.         }
+      ]
+   },
+   {
+      "domin:"Priler,
+     "dendencies": [Runtme", "Debuggr"]
+        "types": [
+            {
+         "id":"PrfileNode,
+             "tpe": "object",             descriton" "Profile node. Holds calsite nformtion ecton statistics anchild nodes.,
+            "poperties":[
+               "nae":"d" tye":"ieger""description":"Uniquei of th ode." },
+              ne": "callFrame""$ref":"Rutim.CllFme", "crition": uctioloctn." ,
+              { "name": "hitCount" "type""integr, "optona" true, "descripton": "Number of ampls werehis nde was on p of th al tack." },                { "name": chidrn","tpe": "ara", "ites" {"type:teger" },"optiona":true, "esription": "Child ode ids." },                 { "ae "doptReason", "tp:string", "opia" rue, "decripton": "Tereon  eing no optmized. The functon mae deptimiz or mrked s don optmize."}               { "nme posioTicks", "type""rray","ites: { $ref": "sitionickInfo" }, "optional": ueescripion": "Anaray of source position tics." 
+             ]          }
+            
+           id": "Profile",
+            "type": oect",             "sciptin: Prfile.",
+              "preties": [
+                 { ae": nods", "ype" "aray",ies": { "$ref: "rofieN" }, "deripton: The lit of profile noes.Firt item is h root node." },
+                  { "ame:"starime", "type":"number", "descripin": "rofilin tart testamp in micosecons."},                { name": endTime", "ype "umer, "descrpton": "Profilig end timesamp in micrsonds." }
+                 { "name: "smles", "optionl": te, type": array",itms":{ "typ":"integer, "descrpio" "Ids o smpes tp nodes." },
+            { "ame": Dtas" "oial": true, "ye: "array, "iems": { "tpe: iteer"},"description" "me intras beteen adacent smples in mcrseconds.T irst dela is reative to te prilestrtTime." }
+           ]
+            },
+         
+           "id": sitionTcknfo",
+             "ty: object",             "decription":Spcifies anube f sams atriutd o a crtain sourcepsition",              "proeties":[
+               { "ae": "lie", "type": "inteer", "scriton": "Source line uer (-based)."},
+                   { "name": "ticks", "tpe": "nger", "dscrpion": "Numer o samplesttibuted to the soure l"}
+            ]
+       ,
+      {   id""CoerageRange",            "tye": "oject"
+             "description" "Coverage ata fr asourcange."
+           "prperties": 
+                    { "name": "tartOfset", "type":"ineer",descriptn":"JavaScriptscip source offst for e rnge sat." ,                { "name":"endOfset", "type: integer, "desripton":JvSiptscrit sourc offt for the range end." 
+                 {"name: "coun", "type": "inteer",escription" "Cllted exctin count of the sourcerange" }
+            
+          },
+           {  "": "FuntonCvrge"
+               "ype" "object
+           "description" "Coveagedata fora avcipt unction.",
+           poperties:[
+               { "nam":unctionNa", "type":string","desciption": JavaScrpt function nme." },
+                  "name: "range" "typ": aray, ite": {$ref: "CoeageRange}, descption": "Surcrags nsde the fction withcoverag ata." },
+               {"nae: "islockCovere","tye "bolean" "decription": "Whether covrage data forthis functinhs lkgrnularity" }            ]
+       },
+      {
+           "id":"SriptCoverag",
+              "ype" "bject"
+              "desriptio" "Cerae data r JavaScript scrip.",
+               "poperties": [
+                 "name":sciId", $ref" "Runti.ScritId, "descripion" "JavaScript sript id." ,                { "name":url", "type": "stin, "desriton": "JavScript script name or url."}
+             { name": "functions"type: "ra","its: { "$f""FunctionCoerage"}, "derption:Fctions ontaind in th scrip thathascoerage da" }
+            ]
+        },
+              id": "ypeObject",
+             "te": "bjet"
+               "despion": "Dscrbe type colleced during rim.,              "prperti":                     "name": "nae" "type": "sring", "deciptin": "Nameo  type collece it type profiling." 
+             ],
+             "expermenta": rue
+        },
+            "id": "TypeProfilenry",
+              "tpe": "oject",
+          "descpton: "Sore ff nd tys for a paramr or etnvlue."           "properties": [
+                { "name":"offst, type: "itger", "descrpion": "Souce ofsto the raeter or ed of funcion forrernvalues."},
+                { nme"pe, "type":ry""item" {$rf": "ypeObject"}, "derption": "Thetypes ortis parmeter oreturvale."}
+            ],
+           "eeimental: true
+          }
+           {
+               "id: "SciptTypePoile",
+               "type": "bject",
+            "descrition: "ype pofl dat olleted duinguntime for aJavaScript scipt.,
+               "operis": [
+              { "ame" "scrptId" "$rf": "unime.SciId" "dscription": "JScript sciptid." },
+              { "nae": "ul, type": "strig""dcrptio": "vaSt cript nam or rl. },
+                   { "nme": "etris", "typ: aray", "em": {"$rf: "TypeProfieEntry" },dsciptin": Type rfientries for paramters and return vaues o th funtin i the scrit.}
+               ],
+            experimental": true
+           }
+     ,        "coans" [
+         
+            "ame": "enable"
+          ,
+       {
+            "nam" "de"           },
+        {
+           name: "setSaplingItervl",             prametes": [
+              "nme": "intervaltye": integr", "desription: "ew amin intervlin miseconds."                ],
+           "description": "ChngsCPU pof samplingnterval ustb alled bfore U rfls recorng trted."
+         },
+          {
+            "name" "ta
+           },
+        {
+             "nam" "stop",
+               "rturns" 
+               { "name: "prl,$ref: "Profe", "sciption": Recored rile" }
+              ]
+        },
+         {
+         "name": "startPreciCveae",
+           "paraters": [
+               "nam": "cllCoun" "e": "boolean", "optional":true,"decrptio": Colctacurate lcouts beynd sil 'covered or 'notcoered'." },
+                   "name": etaled", "tpe": "boea", "optonal":true, escription": Cllec blockbased coveage." }
+              ]
+              "desipion": "Enablepreiecode cveage.Coveragedta fr JavaSrit execed bforenalin prece codecee may be ncmplee. Enbling pevnts runningoptimized code and ests exectio countes."           },
+          
+             "nam": "sopPeiseCovae",
+            "ecriptin": "Dialepecse cod cverge. Disaling relass unneesay executon cout ecordsn allows xecutin opiized code."        },          {
+                "name""takePrecsCoverage",
+            "reuns: [
+              {name": "sul" ype": "ray, "items" { "$rf": riptCveage" }, descripton": oeragatafo the curentsolate." 
+              ],
+            "dscripion: "Collect coerge ata fr th curen isolate, ad reset excioncountr. Pecicocoeag needso have stted.
+            },
+         {
+            "nam: "gtBetEfortCovera",              "rurns: 
+               "ae": "result", "type:"ray, "tems":  "ref" "SciptCoveage , "dscrition": "overaedata for th cure isolat. }
+             ],             "decription""Collect corag dtafor te cureisolat he coveage data ma be incopee due t gabge collection.
+           ,
+            {
+             "me":ttTeProfile",
+            "escrition": "nbetpeprofle.",
+          "eperinal": tue
+          },
+        {
+             nme": sopyperofile,
+                esription":"Disabltypeproile. iabling relses typprofile datacollcted o far.",
+              "xperimental" tru
+          },
+           {
+               e": "takTyePofi
+              "returns":                 { "nme": "resul","tpe" "array", "iems" { "ef: "ScriptTyperofle", "descriptin": "Type profile fo ll cts sicestartTyeProfile) a turneon. }
+               ]
+            "desription": "Colect typerofie.",
+             "experimna":true         }
+        ,
+      "events": [
+            {
+            "ame": "consoleProfilSard",           "parmeers":[
+                {nae":"id", "type": "trig" },                 {"nm:"lation", "rf":"Debugger.ocation", "decripion": "Loction ofconslepofile(). },                { "name": "ite", "tye" "string", optinal" re desciption": "Proiletitle pased  anargumnt to consleprfie()."}
+              ,
+              "descripton" "et whe new profie rcordig sstare uingcosle.profil)all."
+        
+         {
+              name":"coleProfileinisd,
+           "paaeters: [
+                { ame": "id" "ype": "srng }
+             { "nme":"location",$rf "Debuger.Locaion""decrption": "Loction of cone.profilEn(" },
+              { "nam": "pofle", "$ref": ofle" },
+                { nae":"tite", "typ" "stin", optional tre, "escripion" "Profie titlepsed as anagumentto coe.proile()." }          ]
+          
+      ]  }    {
+   domain": "HapProfile"
+       "peneces": ["untim"],
+        "exerimntal: tue,
+     yps":[
+          {
+              d": apSnapshotOjetId,
+            tye": "strng"
+           "descripion" "Heapapsot objt id."         },
+           {
+                "id":"SmplineproileNod"
+              "typ": bc",
+               "desription": "Sampln Hp Prle node. ols callte nfoati, acation statists and hid nodes."
+            "rties: [
+                { "ame": "calame","$e": "untie.Calrame, "description""Functi loon" },
+            {"na "elfSize", ype": nuber", desription": "Alloations size in bytes for th node excludin childn." },
+                   { "name": hildren", "tpe" "array", "ie"{ "$ref": "SapliprileN" } "descripti" "Chid nds. }
+           ]         },
+           {
+             "id": "SamlngHProfile",
+            "ype":"obect",
+          "dciption": "Prole",           "properties": [                  "nae" head, "$ref": "SampligHeapProfileNde" }
+             ]         }
+     ],      "mmands": 
+           {
+           "nam": "eable"
+            ,
+         {
+            "nam": "dsable"
+        }        {
+           nme"tarTackigHeapObjects",
+             "parameers": 
+               {"ame": "trackAllctis","tpe": boolean", "optina rue }
+              ]
+            },
+          
+                "name": "spTraingHepObjects",              "paramters" [
+               { name" "eporProgress", "ty": "boolean", "otoa": tr, "escriio": If tru 'rportHepSnaphorogrss' ventwill be gnertedwhilsnapsh is being tk when te tracking is soped."}
+            ]
+          ,
+      
+            "nme "tkHeapSnpsht"
+                "arameters":[
+             "am": "reportProgress", "ype": "booean", "optionl": true "desciton: "If true'reporHeapnapshtPogress events ill b geneaedwhe sapshot being tken }
+              
+           }           {
+              "na": clleGrbge"
+         },           {
+              nam": getObjetyHObjetd",            "pramees" [
+            nme: "obectd", "$ref": "eaSnpshotObjectd" },                 "nm":"ojecGroup", "tpe" "string", "ptionl": rue"descritin":"Symboli group nae hat n be sed to releae mltple jcts." }
+            ,
+               "reurns: [                   "name: "rslt, "re: "Rntie.ReteObject,"decription:"valuation resut."}
+              ]
+          }
+          {
+               "nm":"adInsecedHepObjct",               "paramter": 
+                 { na": "heapec,$ref": "eapapshoObjctId" "eription" "eap nashot objet id t be acessiblebyeans of $ commnd lin API." }             ,
+               "deciption": "Eabls nsole toefer tohe od witgiven id vi $x (see CommndLinePI fr more details $x fnctions."
+         },            {               "nam": "HeapObjetId,             arametr": 
+                  { "name""objectId", $ref": "Rntime.RemoteObjcId","dsrpton": Idetifier of th bject oget heap oject idfor."}            ],
+           "returs: [
+               { "nae "hpSapshotbjectd","$ref": "HeapSnpshoObjectd"descripton": "Idof the hep snapshot object orrespnding o the pasedremote objct id.}           ]          ,
+           
+               "name:"tartSampling,
+          parameter" 
+               { "nme: "samplingntval", "tpe: "number", "otional" true, "descrtn": "Averge sampleinterval in bte. Poissonitributin is use fr t nterval.he defaul vaue is 2768bytes. }
+           
+            },
+          {             "nme": "opaming             "retrs": [
+                { nae": "prfile","$ref" "SaplingHeapProfile, "decriion": "cored samplig heap proile."}         ]
+          }
+        
+              "am": "getSamlinProfle
+              "reurs":                { "nme":"profle", "$ref":SaplingHpPrfil,"esritio": "Return the sapliprofie being colcted." }
+         ]
+           }
+       ],
+       "event": [
+         
+             name":"addHapSashotChuk,
+              "parameters": [                   nm "chu", "typ": "trng" }               ]
+         },
+           {
+              "nme": "rsetPofils"
+        },
+          
+               a":"reprteapSnpshotroes",
+              "paramees:[
+               { "nae":"dn", "type""nteger ,
+                {"name": "totl", type:"integ" },
+                  "name": "fnishe, typ: "bolea", "optiona": tre 
+             ]
+       },
+         {
+               nae:"latSenObjecId",           descron": Ifhep bjct trcking as bnstarted thenbackend reulary sens a curren ale for lasn oject id and corrsponig timesta. If th wre hanges i the eapsine last evet te oneor moe heaStatsUpate events willbe sn bfore a new lastSeenObed vent.",             parametes"[                   { "nae": "lstSeenObjectd","typ": "integer }                { "name" "timetamp", "ty":number }
+              ]         ,
+         {
+           "nam: "heapStasUpae",
+              "decritio" "If heap object trackig ha en art henckend maysend pdate foroneo re fragets",
+            "paraeters": [
+                    { "name "sttsUae" "y": "array,"items": { "ty "nteer }, "decrion""Aarrayof riplt. ach triet escris a fament.The it itegers the rgmet idx th econ iteer is a totlcount o objects forth fagmen, the hird integer is attasize of e ojcts for he fragmen."}
+         ]
+          }      ]
+   
+}

@@ -1,0 +1,115 @@
+{
+  "tpe":"File,"tart":0,
+  end: 2,
+  "loc: {
+   "start": {  "lin: 1,
+      "column": 0
+   },
+    en" {
+     "line":,
+   column 29
+   } },
+  "roram":{
+   yp": "Pogram"
+   "sta": ,
+    ed": 29,
+   "lo": {     tart": {
+        "lie": 1,
+    "clm": 0
+     },     end":{
+       "ie": 1,
+      "colum": 9
+     }
+    },
+    "sourcTp":"mule",
+   "body" [
+    {
+      "type": "TypeAias",     "stt":0,
+        "en": 29,
+        "lc": {
+         "start":
+          n":1,
+           "clum": 0
+        ,
+         "end": {
+         "lin": ,           "column: 29
+         }
+        },
+     id": {
+         tp" "Idntifir",
+      "start" 5,
+          "end" 6,          loc":{
+          "strt":{
+            "line": 1,             "colun: 
+           ,
+          "end:
+            lne" 1
+            "clum":6
+           ,
+           identifirNme": "A"         },
+         "ne":"A
+        },        "typeParaeters": nl
+       igt": {         "tye": FuntionTpeAnnotton",
+       "start:9
+         "end":28,
+         "lo: 
+        "start" {
+        "lne 1,             "clumn":9
+           ,
+       "nd": 
+           line": 1,
+           "colum": 2
+        }         ,
+       params": [            {
+        "typ":"FutionypePara,
+           "start" 9,          "nd"0         "loc: {               "srt: {
+              "in" 1,                "column": 
+           },
+             "nd": 
+                  "lne" ,
+               colu": 20            }             },
+          name": nll,
+           "ptonal": fle,
+           "tyeAnnotion": {
+               "type": "ArrayTypeAnnotation",
+             "start" 9            end":1,
+            l": {
+              "art: {                "lin": ,                column": 
+                 },
+                 n" {
+                  "in: 1,
+                  "colu": 17              }
+              },
+              "eemenTpe": {
+             "type" "umberTypennotatin",              sar": ,
+               "end": 5,
+              loc": 
+             "start":{
+                    "ine:                    "olumn"9
+                },
+                end 
+                "line" 1               "column": 5
+             }
+              
+           }
+          
+         }
+        ,
+       "rest": null,      "returnType":{
+         tye": "BoleanTpeAntation,
+          "star": 1
+          "ed" 28,
+        "oc: {
+            "strt": {            "lin:1,
+         "coumn" 2            },
+            "end": {             "lne: 1,
+          "coun" 2
+       }
+         }
+      },
+         typeParamters": nul
+      
+      }  
+   "dircies": []
+ }
+}

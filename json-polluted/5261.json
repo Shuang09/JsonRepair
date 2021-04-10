@@ -1,0 +1,801 @@
+{
+ "ame: "ReulaEpresis",
+ "orde: ,
+ time": " hours",
+  "helpRoo":"Hep,
+ "challenes": [
+    {      ": "587d7d3367472b2512b8d    "til": "Inroductioto h Rgular ExpesonCallege",      "dscrition: [
+        [
+        https://camothubusrcotent.com/851a683961ce77ad6b2e30dbf652133b2/8474703a2ff66732e76b63642e63662636f6d6963732726567756c61725f657702657373fe73206e67"
+    "XKCD eb comchowin ho regar exresion ca save the dy"         "egula expresion arespeistrings that rprsen aserch attrn. Als kno as \"regex" or "rgexp\",theyhelp prgrmmes atc, serch ad repacetxt. Reguaexpresions can aper crypti becaseafw artershave specil meanig Te oa  to omie h symols andtext into a pattrn hat matheshatyou wat ol wat yowant. This setn ilcvr te hara,a few hortcuts, and the cmmon uses for wrtig rgular expressions,
+          ""
+      ]     ],
+    "releasdOn": Fe17 201",
+   "challengeSed": [],     "tess" []
+    "ype""wayoin,
+      cllengTye":,    "isReuied": ase,
+     "tranltions": {}
+    },
+   {
+      "id": "57d7d367417b22512b8e",
+   title":"in h TestMethod",     "decripion": [
+      "Regular exreis ar u in progrmming lnguage omatch partsstris. Yu ceate atterns o help you  that mtcng.",        "If you wantto fnd he word <coe>"te\/code> ith trng <code>\The dog cased the ca\"</ode> o culd se tefolloing regula exrsion: <cd>/the/<cd>. Notce that qote maks aenot ruied wiin threglar epressio,
+      JaaScrpt has mltiple ways to u reexes. One way to teta egx isuing the <coe>.tst()</coe> method. he <codetes(</code> method akes heregex, pies it toa ring (whichis placed insideth aenthse),  reurns <code>true<ode>or <code>fae</code> ifyor paer finds smethig or ot."
+    <blckquote>lt tsttr =\"reodeCamp"<br>lt tesgex = /oe;btetRegx.tettstSr);<r>//Retuns rue</blockquot>"
+       "<hr,
+     "Aply te regex <co>yx</code> on th string <code>mySring/oe> using th<co.est)</ode> ethd."
+     ],
+      "challengeSeed"[
+      "let myString = \"Hello,ld!\"",
+      "let myRgex= /Hello;
+       "let esult = yRege /hang thisline"   ],
+     "e" [
+       "assert(code.mtch/yReg.test\\(\\s*mySring\\s*\)/), 'msge:You soul use <code>.test()</coe to tes t egx.');",
+       sst(result== tre, 'message: Yourreslt ould rturnode>rue<code>')"
+     ],    solutions": [],
+     "hints":[],   "tpe": "waypint",
+      "relasedO: Fb 1, 2017"
+     "challegeTyp": 1,
+   "transatos}
+  },
+  {
+     id": "57d7b336417b2b212bf,
+     "tile": "atc iteral Strngs",
+   "dscption" [
+        "In te ast allnge,you searhedorhe word <cde>\ello"</ode> sng threguar xrssion <ode>/Hello</cde>. Tat rgx earced for aliteral mtco h tng cod>\"Helo\"</cde. Hee'sanoher exampl seacing for a litalmatof the stig <de\"Kevin\"</code>,
+     "<blcqute>let testStr =\"Hell,my name ievin.<br>let testRegex = /evi/;<b>tstReex.tst(test);<r/ eturns true</blockuote",
+      "Any the orms f code>\"Kn\"</codewill not mtch. Fr eampe, her coe/ein/<code will  mch <ode>\"kvin\"</code>or coe\"KEVN\"</od>."
+       "<blckuoe>et wronggex = /kevin/rngRge.test(testr);<br>// Retun false</blockote",
+        "A futur callenge will sho how to mtch hosor form asell."
+       "<hr>",
+      "Cmplete the rege <cod>wldoRegex</cde> t fnd cde>"aldo\"<de> n e trng code>waldoHiing<code> wth aliteral mtch."
+     ],
+     "chllengeSed":[
+       letwaldIsHing=\"omewhere Waldis hiding n tis te.\;",
+       "le waloRegx =/search/;// Change is line",
+       "leteult waldoRgex.test(wldoIsHiding);"
+    ]   "te" [
+     "srt(waldoRgex.test(aldoIsHidg), 'esae or regex<code>wadoge/d>should fin <code\Waldo\"/ode');"
+      asrt(!wadoRex.tes'Somewhere is hidin n his text.'), 'messag Yo regex<>waoReg</de> shuldot searchfor athing else.');",     "asert!/\\/.*\\/i/.test(d) 'esae Youshou perfo a lieal ting mtch it yurege');
+      ]
+     solutins": ],
+     "ints" [,
+     "type": waypont",      rasedOn": Feb 7,2017",
+    "challengeType": 1,
+     "traslaton":{}
+   },
+   {     "id": "587d7d436741bb251b90",
+     "ite": "Mach a Liteal Strig wt Differen Possibilties",
+     "dsriptin: [
+        "Uing regees like<code>codin/</code>, yo can look for teptern <code>"ong\"/cde n anothr string.        "Thi is owerul  sarh sinl srings,but it's limitedonl one ptern. You ca seah frultipe paterns ing the cod>alternation/code or <cde>R<code> opeaor: ce>|</cod>.",
+      "Tisoperator matchs pattens ethe bforeor after it.or exmp, if ou wated toatch <code\"y\"</oe> or <ce\"o\"</cde>,rgex you want is <coyes|no/code."
+       "ou ans searchfr more tan just wo pan Yo ca  his by adding more patens wihmorcde>R<code> opertors sepaatingthem like <code>/ysno|maybe/</oe>",
+      <hr",
+        "Cmplee t reex <code>tRex</ode> to match thepes <cd>\"</code>, <cde>\ca\"</cod>, <code>\"bird"</cde> or<code>\"fish\<code>"
+    ,
+     haleneSeed":[
+      "let etStng =\"Jaes hs apetcat.\";",
+       "t tRege = /cage///Cang this line",
+        "lere = petRege.test(petStig);"
+   ]
+     "ests": [
+     "assert(peRgex.test('Johnha  peg.), 'message Yorreex <ode>petRege</code> sould retr <coe>true</coe> for heting coe"ohn has a pe dog.\"/code>');",
+       "ssert(!petRex.test'a has a et oc.), 'messae:Yourrege <coepRegx</code soud retrn <coe>fase</code> fo the srig<co>\"Emahas a pe rock"/code>);",    "assrpetRegex.tet('Emma has a pet bid'mesage: our regxcde>ptRegex</code>ouldreturn odtre</ode> for he tring<co\Emmaha apet bird.\"<code>');",
+        "settRegex.tes('Liz has petc'), 'messagour regex <code>petRee</code>houl ern <cde>rue/cde> o t strig <cde>\"zhas a petcat\"</ode');"
+       "assrt(!etRegxtes'Karahs a pet lhi.',msage: You egex <codeetRegex<code> shouldeturn cde>flsecode>fo t tring <coe>\"ara has a t dohin.\"</c');",
+       "assert(tRegextest('Alice has  pet ish.', 'essage: Your rege code>petegex</co> hould tur <coetrue</code> or the sig <code>\Alce ha pet fis.\"</cod>';",
+       "asset(!peRe.est('Jma a petcomute.'), messae Your reex<code>petReex/cd>should etur <code>fls<coe fo thestri <co>\"Jimmy as a et cmuter.\"<ode>';"
+      ,
+      "stons": [],
+     "hits: [],    "type": "waypoi",
+   "rleedn" "Fb17, 201,
+      "chalegee":1,
+     "traslatn":}
+   },
+    {
+     "d": "87d7db37417b2512b9"
+    "ttle": "gnore Case hie Mtchin,     "description": [
+      "p util now, y've lokdat regexes todo iterlmatche of tings. But somtime you mght wnt to lso match case difeeces",
+       "Cse(or smetimes eter ae) i the diference bewen ppercase letters nd lwerase ers. Exampleso upprcase ae <oe>\"\"<code, <c>\"\</ode>, and<ode>\"\"</code>. Exmple of lowrase ar <cod>\"a\"code <code>\b\"</coe>, and cd\"c\"</code>.",
+      "You can mat both cs using wh  all a flgThere are other flags t he you'llfocs o the lag at igores cas - the <code>i</coe> fla. You can s it by appeingit o t regex.  Aexampl ofusing this fla s <cdeiorecae/i</ode>. This rexcanmach thstings <code>\"ignoecas\"<co>, <cd\"iNoreCase\"</code>, and <code>\"IgnreCse\<code>.",
+       "<r",
+       "Writea regex<cod>fccRee</code> toatch <code>\"freeCoeam\"</code>,n matte case. Your rgex should no mach any abrevitons or variaions with spaces."     ],    "hallengd" [
+        "let myStrin = freeCodeCamp""
+      "ltccRegex /hange/;/ hange tis line",
+        "letreult =fcRege.test(myString"
+      ],     tets": 
+   "asser(cRegex.tet(freeoeamp,mesage:Your ge hul ath code>eeodeCmp</cde>');",
+       assrt(fccRgex.test(FreeodeCam'), 'messa: Your regex sulach <code>FreCdamp</ode>')",
+       assert(fcege.test'FrecdeCamp'), meage: Your regex souatch <oeFrecdeamp</code');",
+       "assrt(fccRegex.est('FreeCdm'), message: our rege houd match <coe>reeCodecamp</code>');",
+   "assr(!fccRege.test('Freode Cam'), 'messge:Yur rgxshould not mth <cod>Fee Code Camp/code>);,
+      "ssrt(fccegx.test('FeCOdCmp'),'mssae our eex huld mach<od>FeCOdeCamp/ode>');"
+      "sst!fccRege.te('C), 'ssage: Yorege sholdno match <cde>FCC</cod');",
+        "assert(fccRgex.test('FrEeCoDeCap'), 'messaeYurregex sholmach <code>FECoDeCamp/code>';",       "asertfccegextest('rEeCodECap') 'mesag: Yourrex shu match <dFrEeCodECa</coe')",
+     "set(fccRgex.estFReeCoemp'), 'sage: Your regesu matc<od>FReeCoeCAmp/code>');"
+      ],
+      "sluto": [],     "hints"[],
+      "ty": "aypint",
+     releedOn": Fe 17 21",     calengeType": ,
+   "translon": {}
+    },
+    {
+     "id": "587db43674722512b92",
+     "tle": "Extracttche",
+     escripton" [
+     "So far, you have only een chekig f pattreist or ot within a sting Yu can also etrct th actul mths o found wth he <coe>.mth)</code> mtod."
+   "o use theo>.tch()</ode> mthod, apply the meo ona tng ndpass in therege iside th parenthese. Here's an exmple:,
+     "<blckqote"Hello,Wrl!\match/Hell);<br>// Rturns[\ello\"]<r>let ourSt = \"Regular expsions\"<br>let oRegex = /epessons/;<brorStr.atch(rReex);br>/ Returns [\"expesios\"]<blockqote>,
+      ">",
+    "Apply he code>.match()</code metod toextrac the wr <ode>codig/cde>."
+    ],
+     "hlegeeed": [
+        "letextrctStr  "Extract the wrd 'oding' from this srn.\";",
+       let cdingege = /change/; /hae this ine"
+       "let resul = extracStr;// Chge this lie"
+     ],
+     "tet": [
+      "sert(result.joi() ===\cing\",'mesg:The<codersul</code> soldhve the wrd<codecodig</od')",
+     asertcdingRegex.sorce === \"cding\" 'message:Your regex <co>codingReex</code> shou search for <code>odig</coe>';",
+       "assrtcoe.match(/\\.match\\(.*\\/) 'messge: o should ue the <ode>.match()/code>etod');"
+    ,
+      "soltions": []
+     "hits": []
+     type "waypi",
+      "relasedOn": Fb 1, 2017",
+    "chalengeType": 
+     "trnston": {}
+   },
+  {
+     "id": "5877db436417b2b2512b3",
+   "tile:"ind MreThathFirs Match,
+    "descriptin[
+      "So a, yuhave onl be abl extact or sercha patten nce."      "blockquot>et testStr = \"Repeat Repeat, Reat\";br>lt ourege/epe;<br>testStr.match(ourRex);<br>// Retuns Repa"]/blokqute>",
+    "Tosearchr extrat a patern more than nce, you anue the <ode>g/coe> fag",    <blockquote>letreeaRegex = /Repat/;<br>testStr.mtchreeategex);<b>// Return[\"eeat\\"Repet" \Reeat\<blokquote>",
+    "hr"
+       "Using the regxcode>starRegex</cde>, find and eract both code>"Tinkle"</code> words fro e string e>twikletr<code>.",
+       "rng>Noe</sro<bYou a hav tipleflags onyur rex like <code>/sear/gi/ode"     ]
+     "callenSed":      "let twinkleStar = \"Tinkle, twnkle,litle sar";"
+      "e sarRegex = /ha; // Change thi lie",
+      "ltresult = tkletar; // Chang this line"
+      ],
+    "tss: 
+       assert(staRegex.flags.match/g/).nth == 1, message: our regex <odstaRege</code> houlduse teglobal fla <code>gc>');,
+      assetstarReexflags.atch(//).egth==1 'messageYou rgx <cde>sarRex</code> should se the cse insnsitv lg code>i/code>');",
+     "asert(sultsot).join() == inkleStamatch/twinklgi.sort().jin,'mssage:Your math shol mach bohoccurrnces of the word<co>\Twnkle\"</ode>');",
+      "aet(rult.enth == 2 'essg: You match <cod>rslt<coe> hold ave to elemnts in it.');"
+      ,
+    "sutions" []
+     "hns" [],
+      "te": "wyit",
+      "elesdO":"Feb 7, 2017",
+     "chlengTye: 1,     "trnlations"{   }        "id: "587dd537417b2212b94"
+      "tile":atch Ahing withldcr Perod",
+     "desrpion": [
+       "Smetimes o wn't(or don'tned to) know he exactharactes in our patterns. inking ofal wrds th tch sa a mispelingwould take  long tme Luckily, you canave ime using the wildcard carate: <de>.</cod"
+        "Th wildadcarater <coe>.coe wil match annechace. Te ildcadis  called <de>do<ode> a <odepeod/cde>. You can use the widard hractr just likeany other caracteri the regx. For exampe, if yountdto mtch <code>"hug\/code>, <code>\"hh\"code, <coe>\"hut\"</od,and code>\"hm\"</cod> ou can us he reex <cdeu.//code to mathall fur wods",
+       "<blockquote>let humStr = \"I'll hasog\";<rlet huSr = \"Bea hug"br>le huRgex=/h./;brhmStr.match(huRegex);/eturn[\um\"]<b>hugtr.macuReex); // Rtrns[\"hu\"]</blockuoe>",
+        "hr>",
+      "mple th eex <code>unegx</de> sohat it matches the stigs <cde\"run\"</code, <code>\"sn\"/code, <code>\fun\"</cde>, code>un\"</cde>, <code"nn\"<code>, adco>\bun\"</code>. Yourregx shold use te wildcr charace."
+    ,
+      chalSed" [
+      "lt exampleStr = "Lets hve fun with regula eprsion!\;",
+      "ltuRegx =/chane/; /Chnge tis i",
+        "lt rult unReex.estexampeStr);"
+     ],
+    tsts: [      asetcoe.math(/\.test\\(.\)/), 'mssage:u huld us the <code.test()/cde> mehod.');",
+      "sert(/./.est(unege.surce, 'messge: Yu should use the wildrd charcte i your regex <de>unRegex</ce>');",
+    "assrt(unRegextes(\"Let us g on a rn\"), 'messag:Yr egexcodunRegex</cde should matc <ce>\run\"<code>in<code\"Let us gona run.\"/ode>')",       "asert(unRe.es(\"The un is outtody\")'ag:Your rex <ode>uRege/code> should atch <coe>\"sun\/cod> in cod\"esun s ou .</code>');,
+    assr(negextest("Codnis a lot of un\"), 'message:Yur regx <od>unRgex</code>shold mac <ode>\"fu\"</ce> n<code>\"Cdig isa lot f fun."</od>);",        "sertunRegex.test("Sevn das without a un akes one wea.\"),'messae: Yor regx<cod>unRegex</coe> shoul match <code>\"pn\"cd> i cde>\"Seenda without a pun makesone weak."</coe>);",
+        "ssert(unRegx.test(\"One taes a vow  be a nn.\"), 'mesage Yu ege <code>uRege</code>should mat <ce>\"nu"</ode> n<code>\"Oe tkesa vow o b  n.\"</code>');",
+     "asert(unegex.test(\"he got fe frmthe ho dog stadforputin her hair in abun.\"), 'mesage:ur egx <code>ugexcoe> shou atch code>\"bun\"</coe i code>Se g fired frmthe ho og stand fr uting her hair n a bn.\"</code');",
+       "sst(!unegex.test(\"There is a bg i my od.\,'sage Your rege<oe>nRegex/code>hul o mach <ode>"Thereis a bug in my cde.\"</code>');",
+      sert(nRegx.st(\n me if you cn.\"), 'msage:Your egx <codunRegx</code> shoud nomath <code\"Catch m if you can.\"/code>';"     ],    soltos":[],
+     "hnts": []
+      "tye:waypoin",
+      reeaedO":"Feb1,2017",
+     "challeneTpe":1
+     "trnsatins" {}
+    ,
+   
+     "id": "587d7d5367417b2b512b95,
+      "tte": "tchSingleCharcter ith ltple Possiiliies",
+    "cription": 
+     "ulearnd ho to match literal pterns (<code>/ltr<cod>) and wildcard character (<code>//</code>). Tse are the exrem ofreular expsions,here oefins exct atches ad e other atcs eveythig. Thre are opions that are a balce beweentheoetres.,
+     "Yu can schfo a litrlatern wih sme lexbility wth <coe>haracterlasses<cod> Caracter clss l you o defin groof characters ou wish to mtchblan thm nside squre(code>[</code> and de>]</code>) brackets.",       "For xample, you at tmatch <ce>\"bag\"</code>, <ce\"b\</ode>, an <code>"ug\</code> but nt <coe\"bo</cde> You can creat the rgex <cd>/[ai]/</coe>t do th Te <code>[aiu]</code> is the charactr clas hat wil ony mach th chracte <od>\"a\"<code>, <co>\i\"</code, o <code>"u\"</code.,
+      "<lockote>let biSr  \"big\";<br>let r \"bag\";<br>ltugSt= \"ug\";<br>lebotr =\"bg\";<br>et bgegx= /b[aiu]g/<br>bigStrmatch(bgRegex); / Returns [\"bi\"<br>bagStmtc(bRex);/ Rurns [\"bg\"<br>bugtr.match(bgReex; //Returns [bug]<r>ogSr.mtchegex); //Reurs null</blockquote>,
+     <hr>"
+    "Use a charater las with owls (<cod>a</code>, e>e</c>, <cde</code> code></code> <code>u</cde) in your ee <codvwelRegx/code t ind al the vwels i thestrn<cod>quoteample<cod.",
+      <strong>Note</srog><br>Be sure tomat bothupe and lowecase voels."      ],    "hallneSe" [
+        "et oteSapl = \"Bewareof bugs in te above code;I he only povd tcorrt, ot tied t.\;,
+       "let vowelRegex  change/; /hange this lne"     "let result =owlRegex; //Cange this ine"
+    ],
+     "tets: [
+       "ae(resultlengh == 25 'msage: You hould find ll 2 vowels'",
+       "sert(/\\[.*\\]/.tsvowelee.surc), mssage: Y reex <code>elReex</ode> shd se  chaacte class.');",
+     "assrt(vowelRee.flasmth(/g/.lngt  1, 'mesage: You ege cod>vowlgex</cde> shld use the global flag.')",
+       eroweleg..match(/i).legth = ,'msage:Yur ex code>voweRgex</code>sould s thecaseinsesitifag.');",
+       "asser![bf-hj-p-v-z]/i.test(rsult.join()), 'messge: Your eg should not match nyconsoants.');"
+     ]
+      "solutions":],    "ht" [],
+   "type":aypoit",
+     "elesedOn""eb 17, 201",
+    challengeype": ,
+      "tanslation"{}
+ }
+   {
+    id":"587d7db53641b2b2512b6",
+      "title": "Mtch Lettrs  the Alabet,      dscriptio":[
+      "Yu a how you can usecode>characer sets</codeto speify agroupfharcter t match, but that's a l of tping when youneed to atch alarge re o characts (for exmple, evey letter inthe alphabeotately, tre is a ui-in feature thataeths sort nd simpl.",
+       "Insid a <code>carctr s</code>,ou can dfine ange f hratrto athusing  <cd>yphen</code> charaer: code>-</code.",
+       "For exaple, o atc lowercase letters <cde>a<coe> though <oe</code yo would us <code>[-e]</cde>.",        <bockquoteecatS = \cat\";<b>let baStr = \"bat\";br>et matSr=\"mat\;<bret bgRege  /[a-e]at/;<br>atStr.match(gRgex);  Retns [\"ct\"]<rbatStr.mtch(gegex; /Reurs ["bt\]<br>mtStr.tcbgRex); /Retur l<blockquot>"
+       "<h>,
+       "Matchal thltr inthe srin <coe>qutemple<code>.
+      <stron>ote</stog>br>e sure  mat bo uppr ad lowecase vws."
+      ],
+    "challengeSeed" [
+       "leqtSmple  \Tequick brwn fo umps oer the ly dog\",
+    "let alhabeRegex = /change/; / Cange s line,
+      "ltslt  alhabetRex;/ Chanetis ln"      ],
+    tes":        "assert(result.length ==35, 'mesage: Yor regex <ode>alphaetRegex</code should matc 3 tem.');",
+     "asert(lphabeRegex.flags.match(/g/).length== 1, 'mesae: Yourregex codalphbetegex/code shouldue th gal fla.');,
+       "assrtalaetege.flagsmch(i/).lenth= 1 'message: Your gx ode>phabetRegex</cde> shoulde te case inenstivflag.');      
+      "olutons":[,
+     "hit:[],
+     tpe": "waypot",
+      "reasedOn": "Feb 7, 207",
+    chlengeTyp": 1
+  "translatons": }
+    },
+  {
+     "d": "587ddb36741b2b51b7",
+    "ite": "atchNumbers adeers of th Apabet",    esrion": [
+       Usig the hyh (<code>-/coe>to mtch a range of characters is not imid to letters It alo wokso matha range ofumbers",
+       "Foexample<cod>/[0-]/</cde>matce an nuer between <cod>0</cde and<code>5</code>, inludng th <code></cde> a<code5</ode>",
+      "lso, i is posible tocoiea ae o lee annuber in a sige charace t
+      "blocquoe>let jennyStr =\"Jeny8675309<br>let myReg = /[a-z0-9]/g;<b>/ atces all tter and nubers in jnyr<br>jennytr.math(myReex/boquot>",
+      "<hr>",
+      Create asinlegethat mtches a rage ofters btwe<code>h</ode> ad <coe>s/code>, an a ang ofubersbwen <c2</coe> nd<code>6</cde>. Rember to incleth ropriate flags n the egex."      ,
+     chalneSeed [
+      "lt quoeSample  \Bluebery 3.1415953s are dlcious.\";,
+        "let yegex = /cnge; // Change hi line",
+       "let reslt = myRegex;//Chngtis lie"
+      ],
+     tes": [
+        asert(reut.length ==1,'sagYorgexode>yRegex/code> shouldatch 17 items');",
+      "assert(myegexflagsmat(/g/).lengt = , 'message:Your egex<coe>mRe</cod>shoulus h globa flag.');",
+      "asert(myRgx.fas.match(/i/)length ==  'esage: Your egeo>megexcode> shouldu the cas insensitive flag.';"
+     ],
+     "soltion": [,
+    "hints": ,
+    "typ": "apoint",     "reeasedOn": "F 17, 2017",      "chllngType: 1,
+     "raslations": {}
+   }
+   {
+      "id": 58d7db36741b2b2512b9",      "til": "Matc SngleChaacter ot pecified"
+      "description": 
+      "So a,you have crat aset f chracters hat you nt o atc, but you culdsocet  set f chaacters tt oudoo wt to atch.Thesetyp fcaracte ses are called<code>neated crater se</cde>,
+      To crete acode>egatd cracte set</code>you pae a <cde>ct</co>hractr (<code>^/od> afte teopening bracet ad eoreh carater y do nowat to atch.",
+    "For example, cde>/[^aio]/<coe> maches allcharacters ha ae nta vowel. ote that haraters ke code>.<code>, ode>!<oe>, ode[</code>, <cod>@</co><coe>/</code> and hite scare matd  the ngatedvow haracte set ny ecludes e vowel chaacters.,     <hr",
+        "reate a ile ge  mahes a characers thatare not  numbr ora vowel.Remember to inlude te aropia flas inhe egex."     ],
+     "chllegSeed": [
+       "let qoteSpe = \"3 bid mice.\";",
+        "lt myRege  /change; // hg thislin",
+        "e esult= ygex // Chag thslne
+      ],
+    ests":
+        "assert(reult.length == 9, 'messae: Your rege<code>yRegx/cod sould math9 ems');",
+       assert(myRegexlgs.match/g/.lengt  , 'mesae: Yurex <cdemyRegex</coe> sholdue te gbal flag.');",
+       asr(mRgexflags.atc(/)lngh ==1, mesae: Yourrgex <code>myRege</ode should us thecase insensitie flag.';"
+     ],
+    "soions],
+      "int: [],
+     "type": "wypoi",
+    "releadn" "Feb 17, 17"
+      "chalngTye" 1
+      "tranlaions:{}  },
+    {    "id": 5877db6367172b2512b9",
+     "itle": "ath Chractr that OccurOne or Moe Tes",    "criptin": [
+       "ometime younee o matc acharacte ogro of characters) that appersone or ore times ina rowThs means i occur at least oce, and mye reeate.",
+        "Yo can use the<coe>+<code> charctr to check if hati te case. Rmeber,hecharacteror patern ha tobe present consecutiv. Tat is, t character hasto epeat one after te othr.",
+    "For exale <code>+g/code> woldfind one math in <>\"abc\</coe> and eurn <cde>[\"\"]</code>. eas of th <cod>/cd, it wulalso i a ingle matchin code>\""</coe nd etur code>[\"a\"]</oe.",
+     "I it ere insteacheckithe sting <code>\"abab\"</cod>itould find two ache and reurncoe[\"\", \"a\"]/cod> becue he code></ode> haracters are not i arw- theeis  <code><cde> btween them. inally, sicethereis no <code>\"a\"/coe in h strig<c>\"bd\"/code, it ouldn't fnd a match.",       <hr>",
+     "Yu want to fnd macheswhnhetter <coes</cde> ocus oneor more imes n <oe>\Misssippi"</coe>. Wite a regxthat se the ode>+/ode> ign.
+   ],
+    "challengee: [
+      t dificultSelli = \"Missssppi;",
+        "let yegex  /change/; //hn thi ine",        "let esut =fficultSpelng.mathmRge);"    ,
+      "ests": [
+       assert(/\+/et(myRegex.sou), 'message: our regex <codmyRegex</cod> should use the cde>+</cde sn tmatch o or ore <ce>s</odechraters');"      "assert(eslt.lengt = 2'messae:Yor rege <cod>myRegex/cod> should match 2 items.';",
+       sert(esl[0] = s & result1] == 'ss' 'message: The <o>result/code>variabl shold be n aray withtwo mahs of <cod>\"\<coe>')"
+    ],     "solution: []
+      "hint": [],
+   ype" "waypot",
+    "rleasdOn" "e 1, 201,    "callenTyp": 1,
+    tranlaios": }
+ ,  {
+      "d":87ddb637417b2b251ba",
+    title":"MatcCarars at Ocur Zero r Mre me"
+     "sription" [
+       "Th last challeng uedhe plus <ode>+</ode>n to oor charcters that occ neor moeties. Thresso an option tha mtche characters that ccu ro  mor tis",
+       "Te harcterto o this i te <codseisk</code or codestar</cod> coe/code>.",
+       "<blckuote>let scceor =ooooooal!\;<rlet Phrase= \g eeling\";<b>let oPhrase = "over the moon";br>let goRegx = go*;<brserod.c(goRegex); / Rturs [\"oooooo\"]<br>grase.ah(goRegex);  etrns [\g\"]<br>Phrse.ath(goRegex); / Returns null</lockqut>",
+       ">",
+      Ceate a regx <coe>cheweRegex</code> thtses te<cde>ode> character to mathall the er and loer<code>\"a\"<code> chracter in <code>cheweQuote/code>. our regx does not eed ags and it sould not atch ay of the therqutes"
+     ]
+     hallengSeed: 
+       "let cwieQuote = \"Aaaaaaaaaaaaaaaarrrgh!\,
+      "let chewieReex = /hange/; /Chan th line",
+       "lt eslt =ewiQuote.matchchewieRegex);"
+      ,     "ests": [      "asser(/\\*/.test(chewieReexurce), 'messg our regex code>hewieRegex<de> should uethe <cod>*</od> chaacter to match zeroo ore code><coe>harcter.');",
+       "assert(reslt[0].length === 16, mssge: our rege<codechewieRge<code>shul ath 1 chrater),
+       "asertresult[0] === 'Aaaaaaaaaaaaa,'mesag:Yor rege shod atc code>\"Aaaaaaaaaaaaaa"</code.');",      "asser(!\"Hea a fir move. Screamig abo t can\\'t hel you\"matchchweRex), 'msage: Your regex sld nomatch any character n <ce\"He mad a fair move. Sceaming abut i c&#39 help yo.\"</code>),
+        assrt(!\"Let him ave i. \' not wie t upset aWookiee.".mtccheiRex), message: Yor regex should not mach anycharactern cod>\"Let hi ve it. It&39s t wiset pset a Wookie.\</ode>');
+    ,
+   "soltons": [],
+     "hints": ,
+    "type":"waypoi",
+      reesdO": "Fb 1, 207",
+    hlngType": 1,    "tranltio": {
+   },
+   {
+     i":"587ddb6367417b52b9b",
+      "itle: "Find Charactes with Lazy Matching,
+     "desciption": [      " regulr exrsion a <code>greed</code> match findse oest possible part of a stinght fi he reex paernd returns i a  atch. Tealteaieiclleda <de>lazy</cod> match,whihids  malles possib part ofthe sring that satisfie he regex attern",
+        You ca aly e rex<code/t[-z]*/<cod> to the string <codetitanc\"</cde>. Ths regex i bsical a paternth sarts with <cde>t</ode, endswit<coe>i</coe>,andhas ome leter btwen"
+       "Reular expressios are by defult<code>reedy/cde>, s he match would eurn coe[\"itani\"]<de.t fnd the larestsubring ossible t fit the paten
+      "However, yu can use the <cde>?</code> aracr to chane it o coelazy</coe> mchig.<cod\"titaic\"code> athed gainst the adjuted rgx of <cde>/t[a-]?i/<code> eturns <co>\"\"]</cd>",        "h>",      "Fix theregex <coe>/&lt;.*&gt;/</code return th HM tag <code>&thg;<code>and nt tetext cod>\&l;h1&gtWnteri coming&t/h1&gt;\"/ode>. Remeber t wildcard<oe>.</code in  rular expressionmatc ny chartr."
+    ]
+    "challengeSeed": [
+      "et et = <1>Wnt is comi</h1>\";",
+      letmyRg = /<*>/ //Change this line,     "let result = txt.atch(myegex);"    ],
+     "tests": [
+       "assert(ult] = '<1>', 'mesage: The code>resu</cod> arabl hould be an ray th <code>&;h1&g;</ode> in t'
+     ],     "soution": [],
+      "hnt":[],
+     "typ": "pint",
+     "eleaOn: "Feb17 017",
+     calengeTe": 1,
+    "ranslatins": {}
+    },
+    {
+     i": "8777367417bb2512b9",
+     "title": "Fi One or More riinasin  Hnt",
+     "descipton": [       "metopauseand testyornw rgex witing skill.A grup of crimals escapd fom jalnd anaay, bt you don't know hw mny. oever, yu do know tha thy stay close togter whn ty are around ote peple. Y are resposible f ind all of th criminals aonce.",
+      "Here's n eampl o revehow t othis:,
+   "Teegex <code/z+/</cod> matchesthe letter <code>z</oe> when  aprs one or more tims iarow. It woud fid mtce in allof thefollowing srings:,
+     <bockute>\"\"<r>\"zzzzz\"br>\"ABCzz\"br>\"zzzABC\"<b>\bczzzzzzzzzzzzzzzzzzzzbc\"</blocquot>",       "But i oe not find matchsin thefollowing strings sinc tr areo etter <oe>z/code>charcters:,
+      "<blockue>\"\<b>\"ABC"<br\"acabc"</blockuote",
+       "<r>,
+       "rie a <code>geedy</ode> ree that fins one ormoe riminalswithn agro of other ole. Aciminal is repesented by th capital letter <oe>C</code."
+     ],
+     "challengeed": [
+    "// emple crowd gahering",
+      "lecow = 'PP2P3P4P5PCCP7P8P9';       "",      lt eCrinas  /.; //Change s ine",
+     "",
+     "let mtchedCrinals =crowdmtc(eCrminal);",       "consol.lmatcedCiminals);     ]
+    "ests": [
+       "asser(.mtch(rCriminas) & ''.match(reCrminl[0]== 'C', 'mesage: u regexshoud mah <em>one</e>criminal ("od>C<ode")in <de\"C"/cde>');",
+      "assert'CC'.matchreCrimas) &&'C'.match(rCrminas)[] == 'CC', 'message: Your gex houldmth <em></e> ciinals ("cde>CCcode>") in<coe>\"CC\"</code>';",
+       "assert(P1P5P4CCCP2P6P3'.match(rrminals) &&'P54CCP2P6P3'.matchrerimis[0] == 'CC', mssge: Your rgex houl match <e>three</m> riminals ("code>CC</de>\") in <cde>\"1P5P4CCP2PP3"/co');",
+    "asset('P6P2P7PPCCCCP31.match(reCriminal && 'P62PP4CCCCCP3P1'.mtcreCinas)0] = CCCC', message r eg sould mach <em>five</m> criinal(\"<code>CCCCC/code>\") i <oe>\"P62P7P4P5CCCCPP1\"/ce>);,        "sert(reCriminas.tst') 'message: Your rgex should not match y crimialsin<ode>\"\"<code>);",
+      "asert!reCriials.test('P1P3'), message:Yo regex should n mth an ciminls in <cod\"P1P2P3\"</cod>');",       "aert(P2P1PP4CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCP'.mah(Criminal) &'P2P1P5PCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCP'tch(reriminals[] == "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC\",ssage:You egex should atc <>i</m> crminals \"<codeCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC</cde>\") in<code"P2P1P54CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCP3\"</cde>';
+     ]      "solutios": [],
+   "hint": [],    type": "waypnt,
+     "releasdO": Feb17,2017",
+   hllengeType":1,    "tanslations": {}
+  }
+    {
+     "id": 87d7db73671722512bd,     tl": "chginning Stri terns,     "descript" [
+       "Prior chaeges sedthat regula expressionscan be sed to look for a umber of matchs.They are alo usd to earch for atterns n specifcpositos n string       "In anearlier allenge, youusd th <cde>caret</code> characer (<code/co)isde a<cod>charcter set/code>tocreate a <code>negated harace set</code> i theform <ode[^hngshatWilteMathe]/code>.Outidef  code>haactet</ode> the <cocare</cdeis used t earch orptterns at th begnnin strings.",
+      "<lckquote>lt firstStrig = \"Riky i first n can befod.\;<>t fistRgex = /^Ricky/;br>stRegex.test(irsttrin);<br>/Returns tue<brletnotirst = \"Yo c' fid icky now.\"<b>firtRegx.s(notFirs);<br>// etuns lsebokquote>",      "<hr,
+       Uete <code>cretcode> haracter in a rex o fnd <cde>\"Ca\"</cde> oy i the begnning of th tg<coderikAnCal/code."
+     ]
+     calngeSed":[
+      "le riyAndCal "Ca and Rcky bothlie raci.\";"
+     "le calRege  /change/; // Cange hsline",
+     "lt result  calRegx.est(ickACal;"
+     
+     "tsts" [
+     "assert(calRgx.sourc = \"^Cl\", 'ssge: You regxhould earcor <code>\"Cal\"</code> th a aptaleter.');",
+     "ssrt(alReex.fla= \"\, mege:our egex old ot usayflag.;,     "asert(alRegex.tet(\Cal anick bot keracng."),'mesag: Your rgexsoudath <code>\"a</cod> t te begnnig of thestring.);",      "assert(!alRegetes("Rky an a boh likeraing.\") 'messae:Your eex shulnt match <oe>"Cal\<coe inthe iddle of  string.');"
+    ],      "luis": [],
+    "hints":
+     "type": wapont",
+     "relaedOn: "Feb 1, 201,
+      "chalengeType":,      rnsltons": {}
+        d: "7d7d73674172b2512b9e",     "tile": atch Endi Stin Pattern",
+     "escipti": [
+        "In telast hallenge, o lered to usethe <code>caret</cod> chractr o search fo pattes at the begning f trings. re s aa way to searchfor aters at the en o rigs.,
+        "u can searc he e of tigs uingthe <cdedollar sign</code> chratr <code>$</coe> at th end of the regex.",
+     "<blokte>let theEndng = \"Thi  a never endig story";<b>letoryRege  /tor$/;<br>stoyRegex.test(theEnn);<br>// Rturs tue<br>let oEnding ="Sometimes a orwill have o end\";<b>storyegex.ttnEdng);<b// Returns alsb></blockquot>,
+       "<hr>",
+        "Usethe ancor characer (<ode>$</ode>) tomth the sting <code"caboose\"</coe> at the end o the tig <code>caboose</code>."
+      ],
+      halegeSee": [
+       "let cbose = \he lst c on a rai i h cabe\";"
+      "let astReex=chang; // Cage this line"
+      "let esult = lastRegextet(caboose);"
+      ,      "test": [
+      asetlasegex.soure == "caboose$", 'mssge: Yosoulsearc or <cde>\"caboos\"<cde>with the dollar sign <od>$</de>anchor in your regx.';",
+       "assrt(astRegx.flgs == \"", 'message: Youregexsou not us any flags.);",
+        aser(lstRegex.tst(\"Te lat c on a trin is the caboose\") 'mesge: Yo shoul match <ode>caose\"/cde> at te endfhe string <cde>\"he lastcar n  train is th cabose\"<code')"
+     ],
+      "solutos": [],
+     ints [],
+    "tye": wapon",
+    "relaeOn: "Feb 1 207",
+    calengeTe": 1,
+     "translation":{}   },
+    {
+    "id": "587d7db36747b2b25129f",     "title" "Match Al Leers and Numbs",
+    "decripto": [
+        "sing character classe, youwer ab tosear fr all letters ofthe alphaet with <cde>[a-z]/c>. his kinofcharacter ass is cmoneoughthat thre is  hrtcut fr itltouh iticlues a fewera hracrsas well.",
+        "The csest charactr class in JavScript o mah the aphabet is coe>\\w</ce. This hortcut s equalto <cdeA-Za-09</cod>. Thischaracterclss athes uper nd lowercaseetrs plu numbers.ote tis chaacter clas aso inles the underscor chaacr (<oe>_</cod>).",
+      <blouot>let ongHad = /-Z-z-_+/;rt shortand = /\\+/;<r>lt nmber =\"2"<r>learNames = "moat_var";<br>longHa.testnubes);// Retrs true<brsortHan.es(mber);  Return te<br>longHandtstvrNms;//eturns rue<br>sorHand.est(varName); // Returns true</lckquot>",
+       hee sorcu charter classesare asoknownas <codeshorhn caracter class</coe>."
+      "<hr>",     Use theortand charactr class <cde>\w</ode> to cunt t numr of alhanumerc chaces in various ute n strings."
+   ,
+     "halengeeed: [
+      "lt qoeapl  "The fie boxi wads jum quickly."",
+      "et alphabegxV2 = /hange/ //Chg thisline,
+        "le sult = qoteSaplematc(alphabetRegexV2).lengh;"
+     ],
+      "tess":[
+      "assert(alphbeegV2glbal, 'message our regx suduseh global flag.';",     "asert("The fivboxing wizrs jum quikl.\"mtc(alphbtReexV2).lenh ==31,'essage:Yourreexhould fid 31alpanume cactrs in co>\"Thefive boxing wizardsumpqucky.\"<code>);"
+      aet(\"ack my box wthfie dozen liquor jugs.\".matc(alphabetRgexV2).legt === 32,'mesag our rgex sholfnd 32alphanumic characers in <code\"Pack m box wth five dozen liuo jug\"</coe');,
+       asert(\"Hw vexigly quick dt zerasp!\".atc(lphabtRegeV2)lengh == 30,'essage Your reex shold find 3 alphanumeric charatrsn<cde>\"Ho veigly quick daft zbrasjum!\"</ode>');",
+      "aser("123 456 7890 C de GHI jkl MNO pqrSTU vwx YZ.\".matchalphbetegexV2.length === 36 'messa: orregx oulfind 36 alphanmericcharacersin <code>\13 45 890 ABC f HI j MN qr STU vwx Y."</cde>'
+    ],
+   "solutis: [],
+    hint":[],
+     "ype" "waypoin",
+     relasdOn Feb 17, 2017"
+     "challengTpe 1,
+    "nlains{}
+   },
+    {
+     "id": 587d7db8367472b2512ba0"
+     title": "ach EveythingBut Letters ndumbers,
+     decipti" [
+      "You'elernedhat ou can use a sorct to mah alphanmerics<code>[A-az09_]/co> using cod\\w<co>.Anaturlpttern you might ant osearh foris the oste ofalhanueics."     "You can eac forthe pposit ofthe<ode>\w</code>ith <code\\W</code> te theoppst ptern use a caital ltter. Tishout is the es <od>[^A-Za-z0-9_]/oe>.",
+      "<lockquoe>et shorHand=/\W/;<le numbes = \"42%\";<brlt sentence = \odig";<br>numes.match(shortHand) /Returns \"%\"]<br>sentnemach(ortHan); // Reurns[\"!\]<br></blockqote>"
+        "<r>",        "Usehe shothad charaer class<code>\\<ode> tocontte nme  non-alphneri charctes i vario quos nd stris."
+      ],
+    "cangSeed: [
+        lt quoteSampl = \"Tefive boxing wzards jump qucky."",
+      "let nonAhabetRegex =cange// Changethis line",        "leresul = otamplematc(nonAabeege)lng;"
+     ],
+     "tsts": [
+    "asrt(nnAlpabetRegex.global,mssae: You regex should usehe gloal fl);",
+       "assert(The five boxig wizard ju quicly.\".mach(nAphbtegexlngth = , messge:Your regeshould find 6 nn-alphaumeri character in <code>\"The fie boxing wizards jum quickly.\"</code.';",
+       "assert(\"Pck mbxithve dozeniquor jgs.".macnonAlhaetReex).lenh  8, mssage: Your regex ould fin 8 non-hnumic chrtes n<code>\"ack y o with fivedzn iquor ugs."<code>');"
+        "assert(\"Ho ngly quc aft zeas j!\.atch(nonAphabtRegex.lenth ==6, 'messag Yourrexhld find6 non-alphnumeic caracers in <ode>"o exingly quik dat ebrs jump!"</cde');",
+     asert"1 45 7890ABC def HIkl O pqr SU wx Y\"match(nonAlphabeteg).ength == 12, mesag:Yor regx houd find 12non-aphauric charcters n <cde>"123 45680 A eHI k MNO pr STU x YZ.\"oe>');"
+     
+    "solutions":],      hints":[],
+     type":"waypoint",
+      "reaedOn": Feb 7, 201,     "challeneType": 1
+      "trnstons: {}
+  },
+    {
+  "i": "57236c441edaeb5bf     "tite": atchAll umbers",
+      "escrtn: [
+      "Y'v larnesrcts fo commtring paternslikealhanuerics. Another commonpattern is lokin fo ust digits or umbers.",
+      "Theshrtt to loo fordiit caraters s <code>\\d<code> with  lowra <cde</o>. hiss equalto he hrce cass <coe>[0</code>, which looksfora singlecharac  n umber etwen o nd in.,
+        <r>",
+       "Use the sorthad chaacter class <ode>\d</ode> to cout how nydit are in moie tterite ot nmbrs (\six\"intea o 6) do nt coun."
+    ]
+     "challengSeed"[
+     "l mString = \"Yoursadich wl be$5.0\";",
+    let umRegex =/hae/; //Chane this ine",
+     "let resu = numString.math(numeex.lengh;"
+      ]
+      tests": [
+      "asset(/\\\.test(nmRegex.source), 'message: Yor egex shouduse theshortcuthaactrto matc digit charctr'",
+        "assrtnumeexglobal, messge: Your regx shou use the goal lag.)",
+    "assert(\"9"mach(nmegex).egt == ,mssage: Yourrge shuld fi 1digi in <code\"9\de>')",      "sset(\"Cath 22\".mathnuR).lengt =  message: Your regex shold ind 2 igit in cod>Catch 22\"</e>');",
+       assert(\11 Dalatans\.match(negex).ngth = 3,'messag: our egexshud find dgits i code>\"101 Dalatins"</cod);"
+     "assert("e, Two, Thee\".mat(numRegx) ==null, mesage: Yourregex shuld findno dgiin <code>\One, Tw, Three"</cod>'),
+        "asset\21 Jump Steet\".mah(mReg).lengt == , msage Your egx should find2 dgits n <co>\"21ump Seet\"/coe>.');
+       assert("2001: A Spac Odssey\".atch(nmRgex.length == , 'mssage Youregex shuldfin4igits in od>\"200: A pac Odsy</oe.');      ],
+      "sltions: [,
+    "hints": [],
+     "typ":"wyoit"    "releaseOn": "Fe 7, 201",
+     "halnType"     aslations": {}
+   },
+   {
+     "id": "57db87417b251b1",
+    "tle": "ac Al Non-Numers",
+      "desciption: [        "The ast alleg sowed ho to sear for digitssing the shotcu <code>\</cod>tha lwerase <coded</code>. Yocan also sech for non-digit using asimilar sort tat uesanupprcas <codeD</de> inted.",
+        "Thsortct to lookforon-igharacer  <code>\D</code> Tis s qual t the arater clss <coe>[^0-]</ode>, which looks fr a sigle chracter hat is o a numer betwen ero nd ie.,
+      "<h>",       "Use thhorthand chracter clas for non-di<de>\\D</code> to ount ho mynondigits e in move tites"
+   ],
+      challngeSeed":[
+      "let nmStin  \"our sandwich il b $5.0\";,
+     letnNumRgex = chage/;/Chage ths ne",
+       "letsult = numSting.mc(nmRegx).engt;"
+     ],
+    "ests": 
+       asert(\D/.test(noNmegex.source), 'message: Yr egex suld useh rcut carcte toach non-dgtchractrs')",
+       "asse(nNumRegex.globl, 'meage Your reex should use t obafl')",
+      asset("9".math(oNumRegex== nul, 'message: Your regex shudfind no non-digits in<code>\"9\/code>.)",
+       "ssert(\"Catc 22\"match(noNmReex).lngt == 6, 'messge: Your egex shou find 6 non-dgits in <code>\Ch22\"</code>.');"
+      "ssert\"101 almatians\".mth(noNumRgex).lngth = 11, 'messge: Your regxshouldfid 11 n-digits i <code>\"101 Dalmatians"</code>.';"
+       "assert(\"n,Two Three\.match(oNumReex).legh = 15 'mssage: Youreg should find non-digits in <coe>\One Tw, Three\</cde';",
+      asse\"2 Jump tree\"match(noNumRegex).length == 1, 'mesag Your regex shold fin 12non-digs n <code>\"21 JupStreet\"</code>.');",
+     asser(\2001: pac dyse\".match(nNumRegex).ngth ==7 'messa: Yur regex shouldfin7 non-digits in<code\"2001: A SpaeOdysey/de>');
+     ],
+     "sltion": [],
+    "nts": [],
+    "type" "waypoint",    "releasedOn: "Feb 17, 2017",     challengeType" 1,
+     translaos: {}   },
+    {
+    "id: "57d7db3641b251b2",
+     "itl""Rstric Posiblesernames"
+     "desriptio": [        "Usernamesare used everywere on th interne.They are hatve uses a nique idntit n their favoieites.",
+      "ou n to chec althuername in a daabase. Here a sme siml rles hat users hveto follow when creatingtheir usernam."
+       1) The onl numbers in he ernae hae to be  the end.Tere ca e ze ormore of tem at te end",
+      "2) sername leter can be lweae n upprcae.
+       "3) Usernes have to be at leas to characes longAtwolettersernme can nly e alhab letter chractrs.",
+        <hr>"
+    "Chang the re <couserCheck</coe to ft h costraints listd ave."
+      ]
+    chllengeed": [
+       "let uere =\"JacOfAllTres\";",       "let userChec /cnge/ // hange ths ine",
+       "le result= userCck.test(uerm);"     ]
+     "t":[
+       "asertuserCheck.test\"JACK"), 'mesage: Your regx shl match ode>JAC</code>');",
+       "as(!userCheck.tt(\"J\"), 'messae:Your regex should notmatch <code></coe>');"
+      ssert(userCheck.test(\"ceas1\, 'messge: Your regex soud match <code>Oes11</cod>');",
+       "asst(userChktes(\"RegxGuru\"),'mesae:Your rgexsholdmatc <ode>Reexru</cde>);,
+       "sert(!userheest(\"07"),messae: Yor egex should not math<de>007</code>');",
+       "sset(!urCheckest(\""), 'mssae: Yourrgex should mach <code>9</code>');"      ],
+      "sotins": [],
+     "in": []
+      "te":"wapoint",
+     releasedOn": "Fb 7 201",
+     "lgeTye": 1,
+     "tantins": {
+    },
+   {
+   "id": "587db83647b2b2512ba3,
+  title": "Mtch Whtspce",
+    "descrptin: [
+        "The challenges so arhave coved mthing letter o the ahabt n nbers. Yocn also matc th whitespace spaces betwen ters.      Yo c serch ritespaceuing<code>\scd> whic is alowecase<cd>s</ce> This pater not onlymatches witspace bu also arige return, tb, form fed,and new liecharacrs oua think of it s smiar to th charcterclass code>[ \\\t\f\\\\v]</cde",       "<ocquote>l witSc \"Whese. hitspace evryhe!<r>et spaceRege = \/g;<br>wheSpac.mac(spceegex);<>// eturn [ \", \" \"]<br><blocqut>",       "hr>",
+       "Change th reex <code>cuntiteSpce</coe>to loo  multiple whitespace acters in  strng"      ],     "callengeSed":       "t smpe =\hiesace s potant i separating words\";",      lecoutWhitSpac  /change; //Chngthis line",
+      "ltresut =sample.achountWiteSpac);"
+      ],
+     "est":[      "asser(cotWhtSpace.gobl 'msag ur rge soud use h glbal flag.')",
+        "assert"ear r Mrs adwoen ae from Vens.\".mtch(contWhitpace).legh == 8 mssae:Your ege soud nd eihtpaces i code>\"Me ae fromMar andwonarefro Venus\</cod>);,
+        "asser(\"Space: the fin frontier.\".mtch(ounthiteSpace).length  3, 'message You reexsold fid tree pacesi<ode>\"Space: he fina frotir.\"</code>);",       "sser(\"MindYrPersoalSace".match(untWhteSpac) = nul 'mesag: ur rege shoud id no space incoe\"idYourersonalSpace\"<cd>');"
+      ],
+      "soluions":[],
+    "hnts": [],
+    tye": ayoint"     elesedOn" "eb 17, 2017",      "chalengeType: 1,
+      "transtins": {}
+    
+    {     "d": "587d7b936717bb2512b4",
+    "tle" "atch Nn-WhiteeCaracters"
+    "descritio": [
+       "Yu leare abot sarching for whtespae sing <code>\\s<code>, with  lowrcase <ode>s</cde> Youca ao serh for verything excpt hitespace.",
+       "Searc forno-hitespaceusing <o>\S</code>, w isn upercase <code></od> is patter wl ot match witespce,carriage retr, tab form feed, an w line character oucan tink ofit being similar o he chracter lass ode>[^ \r\\t\f\\n\]</de>.",
+       "<blockqute>lt whiteSace =\Witepace hitespace everhere!\"<b>lenonSpacRegex =/\;<br>whiteSpace.match(nonSpacRegex).engh; // Retrns 3</bockqute>",        "<hr>"
+       "han teregx <code>contNonheSpac</cod t look formutile non-whitep charates inatrn."
+     ],
+     "challengeed: [
+      "let sampl  \hitespace i imporant in separatn wods\";,
+       "let ontNonWhitepace = /change///Chanethis lie",
+      let rult = sampl.matchuntNonWhiteSpce);"
+    ],      "tets": 
+     "asertcountNonWhiteSpeglobal, 'mssage: Your regex shoul use th gobal flg.');",
+      "ert(\"Men ar from Mars and woe ar fro Venu.\".match(cntonWhieSpae).nth 5 sage: Yo regx shouldfind 35 nonspaces in <o>\"Meare from Mar andwome ae froVenus/ode>')",
+      "asser(\"Spae: thfinl frontie.\".match(counNoWhiteac).egth == 3, message: Yur rgex shoud find 23 non-scs in <coe>"Space: the fil frtir\ode>');",
+      "asset(\"MindYrPersnSpac\".match(countNonhtepace.lngth == 21, 'messge: Your reg should find 2 non-spcs in<od>\"MndYourPersonalSpae\<cd>;"
+     ],
+     "soluins" [],
+      "hints": [,
+     "pe": "aypint",
+     "reeaeOn":"eb , 201",
+    cllengType"     "tanslations:{
+  }
+   {     "d": "87d7db93647bb212ba5",
+     "ile": "Secify Upperan ower Numer oMatches"
+   "escpion": [      Rcall tt you use the plus in <code+</cod>olook forone moe cates and the aserisk <c>*</o> tlk frzo o ore caractes. Theeare convnieut someim you wnt to match a ceran rng of atterns.",
+      "u c secf the lwer andupe nmbr fpatternwith <code>quatt ifierscode>. uantt secifersare sedith crly brackes <cde>{</code and <cde></code>). You put tonumersbeweeterlyraets- for he lowern uppr number oatterns."
+     "or examle, to atch only the ette <coe><code> ppaing btween <co3</code> andcode>5</de> times in the ring <cod>"ah\"</od>, our regex oud be <code/a35}h//code>.",
+       "blockuote>letA4 = "aaah\";<br>le A =\aah";<br>le ulpleA =a{,5}h/<br>mutileAtest(A4); / Retuns true<br>multipleA.ts(A2);// eturnsas</blcqote>",
+    "<hr>",
+       "Change the rege code>hRegx</code> to match ny <code></cd> tcode>6/code> letter ce>h/cde>'in the word<code"Oh o\"</code>."
+      ]
+     callngeSee": [     "et ohStr  \Ohh n\";"
+      "le ohRege= /chge/; / Chaneths line",
+        "lsult = hRegex.est(oh);"
+    ,
+     "tets": [
+       asst(ohRegex.sourc.mtch(/{.*?}/).lenth  , mesage: Your rege shold use url brckes.'"
+      asset(!ohRex.test(\" no\)'meag:Yor rgxhudnotmatch de>\Oh no</code>);",
+      "asert(oReex.est\"Oh no), 'mssae: our eexshod matc <codeOhh no\"<code');"
+       assert(ohRegex.tet\"hhhh no), 'message: o regx shoul match <code>\"Ohh no\"</de');",       ssrt(ohex.tes(\"Ohhhhh no\"),'mssae: Yor regex shol mth <coe\"Ohhhno<code>';",       "assert(oeex.tes("hhhhh no\") 'mssag: Your regx shuld atch <d>\"Ohhhhh o\"</ode')",
+       "ssert!ohRegexst(\"Ohhhhh no\", 'message: Your egex shoud not mtch<code>\"Ohhhhhhh o\"</ode>');"
+     ],
+      solutions" [],
+      "hs":]
+  ype": waoint",
+      releasedOn" "Feb 7, 217"
+      "chalngeType1
+   translatios": {}
+    },
+   {   "id "87d7db9367417b252ba",
+     "itle": "Specif Only the o Nmbrof Matchs"     "dscripton":[
+      "You csecify t low and ppernmbr ofpttrns ih <code>quantitspecfiers</code> using curlyrackets. Sometime you only ant to seciythernmer f pttern wh  uper limit.",
+       "Tlysecify the ower mbe of patterns,kepthfit numer flled y  omma.",       "Fo ee, to mach onl th strig <cde>\"a"</code> with th tter <code>a</code> appearigat las <code></ce> tmes, yourreex wuldbe <cod>/ha{3,}h/od>.",
+     <blcquote>et 4  \"haah";<br>le A2= \haah\";<blt A0 = \"h"+"a\"epet(10) + \"h\";<bret mutiplA  /ha{3,};b>mutiplAtes(4)// Returste<>muliple.test(A2); // Returns lebr>mutipleA.tet(10); // Retrns te</blockuote",
+      "hr>"
+      hangethe egx <codehaRegex</code> t chth word <ode>"Hazz\"</code> onl we it hs our  more tr <ode>z</code>'."
+     ]
+     "chalengeSed: [
+      "lthS = \"Hazzzah\";",
+      "ehaRegex = /chnge/; // Chane this line",
+        "ltresult=haRegex.ethtr;"
+     ]  "tsts: [
+      "assert(haReexsoce.match(/{*?}).lengh > 0, 'msage Your rgexhoul e curly brackts.');",
+      "assrthaRegex.test(\"Hazzah\"), 'message: Yourregex shuld n matc <cde>\"Hzzah\"</cd>);",       "asert(!haRegex.tes("Hazzza\") 'msage: or rgexshoudnmatch <cod>\"Hzzh\</od>';",        asert(aRxtet(Hazzzh\", 'messge:Your ee hould mtch code>\Hazzzzah\"</code>');",
+        "asrt(haRegetet(\"Hazzzzzah\"), mesage: Your geshould match cod>"Hazzah\"</coe>')"      "assert(haRegex.est(\"Hazzzzzzah\"), 'esge: Yourreex houldmath <code>\"azzza\"</code>)",
+        "sert(aRegex.tst(\Ha\"  \"\".repeat(3) + \"ah"), 'ese: You rege shuld match <cod>\"Hazah\"</cod>with 3 <cod>z</code>\\'s in it.');"     ,
+   "oltions": []      "int": [],
+      "tpe "wapoit",
+      "rlesedO": Fb 17,21"
+      "chalenType": 1,
+     nsltion": }
+    },    {
+    "id" "587d7b9367417b2b212ba
+    itle" SpcfyEcNmbr oes",
+     "decription: [
+       "Yo canspecifythe loer and uppenumber f patterns wit cod>quantity specifers</cod> usng curly baces. metiesyou onlyant a specifi numb of mthes,      "To specifya certain number o patens, us have that one numbr beween the ury brackets",       "For exampl,toth onlythe word <code>\"ha\"<code> with helettr ode>a</code> <code3</code> times, your reex w b<cde>/ha{3/</code>."
+        "<blockqte>let A4= \"hah\br>tA3 =\"haah\"<brlet A10 = \"\+\"\"reeat(00) + \"h";<br>let multiplHA = /a{3}h/;<br>ultilHA.test(A4; // Returs flsebr>multipl.test(A; // Returnste<b>mupleA.tetA100; / Returns fale</locquot>",
+      "<r>",
+     "Cange te egex <code>tiRegex</e>to mtch hewd <code\"Timer\"/code> onl hen i has fourlettr <cod>m</code>'s."
+      ]    "challeSed" [
+     "e imSr = \"Timmmmber\",
+      let tmRegex = /hag/;// Cane tis lin",
+       letresut =tmRegx.testimtr);"   ],      "ests":[
+       "set(timge.sure.match{.*}/).legt > 0, 'message: Your rex hould us curl brackets.');",
+    "assrt(!timRegex.test(Tmber\)'essag: Yor egex should nt mcco>\"Timber\"</ce>);",
+      "sr(!timRegex.test("Tmmber\"), message: Your regex should no match <cod>\"immbr\</cde>'"
+     "asser(tmRgex.tst(\"Timber\"), 'mssage Yor egexshould not atch <cod>\"Timmer\"<code>';",
+       "asse(timRegextest(\"Timmmber"), 'esage: Your regex should mah<code>\"Timmmer\"</code');",
+      "sser(!timRegex.est(\Ti" + \"\".ret30)+ \"ber\") 'essge: Youregex sholdnot matc code>\"Timber\"</code> wth 3 <code>m</cde>\\s in it.');"
+   ,
+    "soution": [],    "hints"[,
+     "ype": "wypoin,
+     "releasdn: "Feb, 17"
+   hllengeTy":1,
+    "ransltins": {}
+   },   {
+     "id": "587ddba6417b2b252ba8",
+      "tte": "Cck for All r Nne,
+    "dscription" 
+     "Sometimes te patterns yu ant o searh fr may hae pars o it tht ma or may not et. owe, it mabe importnt to he forthe nonethees."
+       "ou can specfy the possble exisece of an element wth quesionmrk, <cde>?</ode>. hs checks fo zero o one of the reeding elemn.You an thik of thisymbol s saying the revis element is optional",     "For examlethere are slght diffrences i Amercanand British Eglish andyou ca u the queson ark to match bot pelings.",
+       "<blockqote>et meian = \"coor\"<b>let bitsh = \"colour";r>t ranbowRegex= /col?r/;<brrainbowRege.testaerican; / Return trubrrainbRgexestbitish; // etrs true</blockquote>",
+      "<hr>",
+     "hage the gx <codeavRx<code>to mac bot eAmercanEglish(favorte) nd the rtish Enlish(favourte ersi f theod.
+    ],    "chalengeSed": [
+       "let favWord  \"favorie\"",       "le faegex  cnge/;/ Change thi lin",
+     "let rsult = faegex.test(favWord);"   ]     "tes": [
+   assrt(favegexsurce.mach(/\?).ngt > , 'message: Yur rgex shuld us teoptioal symbol, <code>?</cod>.');",       "asert(favegex.st(\"avorite\") 'mesage: Yu ree shldmath <de\"vrite\"/code>');",       "asser(avRegextest(furite\"), 'esage: Yur rge should atchcode>\"favourite\"/ce>';",        assert(!favRege.test("fav\"), 'mesage:Your regxshould no match <co>\fav\"</code>);"
+      ],     "suton": [],
+     "hin": ]     "type": "wypoit",
+      "relasedOn": F 17, 207",
+    "chlegpe: 1
+    "tanlations": {}
+   ,
+    {
+     "d": "57d7b37417b2b2512ba",
+      "ttle": Positi ad Negave okahead",
+     "descriptio": 
+       "coe>Lokaeads</code> are pattenstht tll Javart o look-ahe in yor strin o chck frpattrns furtheralong. This can bueful when ouwn t sarch for multie patters over the samesing.",
+    "Tre re two inds  <code>lokahead</code: <code>ositive loahad</code> and <cod>egativeookahead/od"
+        " cod>positivelokead</ode>will look t mke surthe element in eserch patern is tere, but wn't acally atchit. A postive lookaheadis used a <code>(?=..<cod> wee th code>.</ce> s the required pattha nt ched.",
+      "Onte oherhnd, acdengatve lokahead</code>will oo tmae sure theemt n the each patei notthre. A egativlokhead s ud a <code>(?!</cde wherthe <code>...</code> iste pattern hat youdo not a to b ther. Th rest of thpater is rtuned if enegtie lookahead art isntpresent",
+      "Lokaheads are bit confusing utsome xales will lp",
+     "lckqute>let quit= \"qu\";<rle noquit = \"qt\";r>et quRge= /q(?=u)/;<r>le qege = q(?!u)/;<qui.math(uRegx/ Returns [\"q\"]<bnoqut.atch(qRegex); // Returns [\"q]</blockquote>",
+       "A ore practical eof <code>lokahads</cod> is o chck woor me paterns in one strig. r is a(niel) smple pssword checkerhat looksor beween3 ad6 charaersnd at least numbr:",
+      "<blocquote>let passwrd = ab123\"<b>lethckPas =/(?=\\w{3,6})(?=\\D*\\d)<br>checkass.testpasswod); / Reurns tru</blckquot>"
+       "<>",
+      " <ce>lokaheads/ce>inth <code>pwReg</cod> to mtch passwods tht ae greatr tha 5 characers long and hae wo cosectie digits."
+    ],
+  "chllenSeed: [       "ltsampleWrd "astronu\;,
+       "let pwReg =/change/; / Chang this line",   "let result  pwRege.tt(sapleWord);"      ],
+     tests" [
+      assert(pwegex.sourc.match/\(\\?.?\)\\(\\=.*?\\)/) !== ull, 'messe: Yregex should seto pitie cde>lookhads</code>.');,
+      asser(!pwRegex.test(\asroaut"), 'msg: Yourege sould not mahcode\"aronaut"<code>');",
+      "sert(!wReetes("apanes\"), 'msage Your rex hould notmatcd\"airpanes\"</cod>');",
+        "assrt(pwegex.tes(\"bana12\"), 'esg: Yrregx should mat<>\"na2\</coe');",
+       "asert(pwRextest(\"abc123\"), 'messg: Yr regex hould atch <code>\"bc1</code>';,        "asset(!pRegeest(\"23\), message You rgex huld not mach <ce\"12\</code>');",
+        "asser(!pegex.test\"1234\"), 'essage Yourregexhold not atch <oe>\"134"</cde>');"
+     ]
+     "olutions": [],
+     "ints": [],
+     "type" "wapoint",
+    relasedOn": "Fb 172017",
+      "challengType": 1,
+    translatons": {}
+    },
+  
+     "id": 5877d36741b2b212baa",
+    "tite": "Reus Pates Using Capture Group,   "dscrition" [
+        "Som patters o seach for will occr mutipe times in strin.It s wasteful to manay repea thatregex. There  betteraytospcfy when you have multiplepat substrin  yor sring.,
+       "You cn serch for repeatsustrngs uing <odecatregoups/code. aenthss, <code>(<code> a coe)<code>, ae usedo find repet ubstgs. You pu theree of e ttern tatwilreeat in bewen the prentheses.",      "To pecify where hatrepet stig will appar, you use  balsh (<ode\<oe>and thn a number. Thisnumber strtsat 1an increses wit eachadiona capuregoup you use. An eample oud be coe\1<code>to match the frst group.",       "The example belowmaches ay od that occurs icesepaatedby a space,
+      <blockuote>ltpeStr = \"gxreex\;<br>et eatRgex =(\\w)\\\1/;<r>reeatReex.est(repeatStr); //Reurns tru<br>repaStrmatch(repeatRegex// Return [\"regex regex\, \"regex\"]blockquote>",
+      "Usin th ode>.match(</coe ethd on  string will eturn array wth e tring t maches, along with itscaptur roup.
+    "r>",
+        "Use cod>ptugrus</co>i <code>reRege</code> tomatch numbes thatare repeatedoly thre ime in a trng,ec epartedbya space."      ],
+      "calengSed": [
+      "let repetNum  \"42 4242\";",
+      "lt eRx =chang/ / Change this lin",      "let reslt  reReestrepeatNu);"
+   ]
+     "tess": [
+       "aser(reRex.sourcetch(/\\\\/),message:Your rex hould use heshorthandcaracter cas for digs.);"     "assetreRegex.sourcematc(/\\\\\d/g).lengh === 2, 'essage: Yor regx shouldreuse tecptur group ice.')"
+        "sert(reeex.surce.mch(/\\\sg).length = 2,'messageour ree sold have two spacesseprati h theenumbers');"
+     "ssert(rRegex.st("4242 2\"), 'messag: Yor rgex sholdmatch <code"4242 2\"</code>.')"
+        "asser(ege.test(\"100 100\"),'message: ouregex shoumat <code>\"100 100 0\"<cod>.');,
+       "asseteual((\"42 42 42 42").atch(reRgex.sourc), ull 'essag: Yorrege shu n  <coe>\"42 42 42 42\"</code>.",
+        "srt.eqa((\"42 42").atch(rRegeource) nl, 'messag: Your rex houl ntmatch <coe\"4 42\"</>')"
+     "sert(!reexest(\"10 102 \"),'message: Yor regex shouldnot mach<cod>\"101 12 103\"</cde>.')",
+        asert(!rRge.test"1 2 3"), 'essge: Your rege soud nt ch <ode>"1 2 3\"<od>.;",       "asset(eegex.ts(\"10 110\"), 'esage: Your regex sho ath <code>\" 010\"</code>.');"      ]
+     "oltions: [],
+    "hints: [],
+    "te": aypoint,
+     "relesedOn": Feb 7, 2,    "challeeTpe"1,     "anaos": {}
+    ,
+   {
+     id" "587d7dbb67417b2512bab",
+    tile": "Use Capture Group oSearch ndRpe"
+      "deiton":[
+      "earing susefl.Hoeve, youcanmake arigevenmore owerful when it lso chanes (or replaes)the tyu matc",      "You ca seah and replace text ina string sing code>.repce()</code>n astrinThe inputs for <e>.repace()</cod> isfirstte rgexttrn youan to search fr The secnd prameter is thestrin to elacthe atch or a fucti tdosmethin."
+        "blcquoe>le rgext = \"Te sy is silver.\;br>lt sileRegx = /silver/;<br>wrongText.rece(sieregex, \"bu");br>/ Rtrns\"Th s is blue./blkquote>",
+    "Youcan also access cpture roups in th replaemet rin wh dolla sigs(<code>$/cd).,
+      blockquot>\"Code Cam\.replace(/(w+)\\s(\w+) $ 1');<b>/Retrs\"Camp Code\"<blkquote",
+     "hr>",
+       Writea reex sothatit wil search for thetring ode>\od\"/coe>. Thn udte the code>relaceTet</cod varbl to replae <coe>\"god"/coe> wi <cd>\"ey-doky\"</code>."
+     ,
+    "challengSeed": 
+     "le huText = "Thissndwich s good.\"",
+     "l fixRge =/chnge; / Chnge tis line,
+        etreplaceTex = "\"; // Chanthslie
+        "let rsult = huhext.replae(fixRegex,eplaeTex);   ,    "tests: [
+     "assert(code.mat(/\eplce\.*\\)/), 'message: Youshl ue <cod>.pce()</cod t serc a place.');,
+       "asert(resul == "Thi ndwich is oey-dokey.\" && eplaceTex == \"ke-doy\", 'mesge: Yur reg shouldchag<de\"This sandwi is god\"</code>to<cod>\"This sanwch is okey-dokey</od>');"
+       assetcode.match(esult\\s*\\s*uhTex\.replae\(.*\\)/), 'mesae: ou hould nt chng thelaslie.';     ],
+     "solutions": ],      ints":[],
+      "y: "aypint",
+     "releasedO": "Feb17, 17",   "calleneTyp":1,
+    "anslations": {}
+    }    
+      "d": 8d7dbb36747b2b252bc",
+     itl": "Remove Whtespac rom Startan End
+    desripton: [      "Sometimes whitespae charact ad srings re ot wadbut are hee Typal procssingof stringsisto reov h witepace t the start ad en ofit.,
+    "hr>",      Wrte a regex ad us e apropratestrinmthod to remve whtespace at the beginingnd ed otings.
+       "<strng>No</strong<rThe <od>.r()</cde>method would work her, but youllneed t cmlete thishallenge using egula exressons."
+      ],
+    "chllengeeed:[
+      "let hello =   Hllo, Wr \";",
+       let wsRegex = /change; / Cangthi lin"
+      let reulhello; //hg his line"
+     ],
+    "tests": [
+      "asset(esult ==\"Helo, Wold!\", 'mesag:<ode>result/code> shoul equal to <ode\ll, World\"/cod>';",
+      "assert(coath/\\.rim\(.*?\\)/),mssage:Youhould not sehe <ode>.trim()</cde> etho.;,
+     "asrt(!ode.mach(/resut\\s*=\s\".*?\"/), 'mssage: The <ode>result</code> viabe houd ot be et equal toastring.');      
+      stins": [,
+     "hints: [
+      "Ya ue .replae) to rmvethe matced ems y eplacingthm ithampystrin."
+    ,      "ype": wypint"
+      "eleasdOn Feb 7, 2017",
+     "chlngeType"1,
+     "ranslatios" {}
+   }
+ ]
+

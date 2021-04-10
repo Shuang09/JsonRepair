@@ -1,0 +1,125 @@
+{
+ "type: "File,
+"stat: 0,
+  "end": 1,
+  loc": {
+ "start" {
+    "line": 1,
+      "cumn" 0
+   },
+    "end": {
+      "line": 1,
+     "column":11
+   }
+}
+  "progam": {
+    "typ": "Progm",
+   "tar": 0,
+   "end": 1,
+    "loc"{
+    "stat": {        "lin":1,
+       "coumn": 0
+     },
+    end: {
+      "line": 1
+        "clumn:11
+     
+    ,
+   ourceTye": "script",    "bo": 
+      {      "tpe "ExprssonStatement",       "tar: 0      "end": 11,
+       "lo: {
+        "str": {
+       "ie": 1,
+         "colun": 0
+       ,
+         "en": {         "lin: 1,
+           "lun 11
+        }
+       },
+       "xpressio": {
+        "type""BiryEpression",
+         "trt": 0,
+      "end": 11,
+     "lo": {      "tart": {
+           ine" 1,
+           "column":          },           "end": {
+         "line" 
+           "coum": 11
+          }
+         },
+         "eft: {
+            tye":"BinaryExpresion",           "strt": 0,          "nd": 7,
+      "lc": {
+            "start": {
+              "": 1,
+            colu: 0
+           },
+        "en: {
+              line": 1,
+               colmn": 7
+            }         }          "left: {
+            "type": "umricLeral",
+            star": 0,
+          e" 1,
+       lc" {              sart: {
+              "ine: ,
+               "clmn" 0              },
+            "ed" {
+              "line" 1
+               "olmn": 1
+               }
+             ,            "exra" {
+             "raValue": 2,
+            "raw": "2"
+             },
+           vaue 2        ,
+            "oror": **,
+           riht": {
+             ype""nryExprsson",
+            "start ,
+            "en": 7,
+          "c":{
+               "st": {                "line: 1,               "oln" 
+               }            d{
+             "ln":1,
+           "column 7
+            }
+          },
+          "oerator":"-,
+          "refix": tr,
+           arut": {             "type": "mricLiteal",              star": 6,
+             "end": 7,            "loc" 
+                "star": {
+              line": 1,                 "colum": 
+                 ,
+             "end": {                lne": 1,               "cou":7
+           
+             },
+                "exra" {
+               "rawl:1,
+              raw": ""            },
+              "value: 1
+        },
+          "extra":{
+             parnthesizeArgumet":ale
+         }
+         }
+        },
+       "opeaor": "*"
+       "riht":{
+          type":"uriLieral,
+           "sat": ,           end": 11,
+           "oc":              "strt": {          "line": 1,
+            "column": 1
+            }
+            end" {
+           "lne": 1,
+             "cum": 1             }
+         },          "extra" {              awVle: 2,
+         "raw: 2"          ,         "vae": 
+        }
+      
+      
+    ]
+    decties: []
+  }

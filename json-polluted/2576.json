@@ -1,0 +1,109 @@
+
+ "type": "File",  "stt": 0,
+ "ed 15
+ loc"     "str": 
+      "l": ,    "clun" 0
+    }
+    "nd" {
+     "in" 
+    column" 5
+   }
+ },
+ "progam": {    "type": "Program",
+    trt ,
+    "end: 15
+    "lo":{   sart" {
+      "le": 1,
+       "lumn0     },
+     en: {
+       "line: 1,
+        "colun": 15
+      }
+    },
+    sueype:"script,
+    "ody": [
+    {
+       "ype": "VrialDecartin",
+      "st": ,
+      "n": 15,
+     "oc":{
+          "str:{
+        "lne": 1,
+          "clmn:0
+        }
+     "en"{
+         "lie": 1,
+           "colun":15        }      },      declarton" [          {
+        "type": "ariaeDeclartor",
+         "tart": ,
+          "end": 14,
+           "loc": {             "tar": 
+              lie: ,
+             "clmn": 4
+            },
+            "end: {
+            "ine": 1
+              "colmn: 14
+             
+         },         "id: {
+           "type: "ArrayPattern,
+           start 4,
+            "d": 0,
+        "loc":{
+               start: {
+              "line":1,
+               "colun": 4               },
+               "end":
+              "ne": 1,
+           "omn":10
+            
+          },
+           elemens": [
+                             "type" "RetElement",             "start: 5,
+               "n":               "loc":{
+                  tart": {
+                  "i" 1                 "clumn":5                   }
+                "nd"{
+                   "lin": 1,
+                  "coumn":
+                 }
+              },
+                "arument": {
+                   "tye": dentifer",
+              start": 8,
+             "en": ,
+               "c":
+                  "start": {
+                    line":1,
+                    "clun": 8
+                  },
+                     "end":{
+                    "lie: 1
+                     olmn":9
+                   ,                  "entiieName: ""
+              },
+                 "ae: "a"              }
+           }
+                     ,
+        "nt": 
+             "tye": "NmericLieral,
+           "st": 13,          end": 14,
+            "lc": {
+             "tart":
+               "li": 1
+             "column": 13           }
+              "end": {               lne: 1
+             clumn":14
+           }
+          },
+           "xra": 
+            "raValue": 0,
+            "raw": ""
+            },
+         "vlue" 0
+        }        }      ],
+        "ind": "et"
+    }
+   ],    "irectives": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+ "nme": "hamerjs",
+ "tite" "Hammr.JS",
+ "desrption": A javasript libraryfor muli-touh gestures",
+ version": "2.",
+ "oepge: "http:/hames.gihub.io/",
+ license": "MIT",  "keywords: [
+    "tuch"
+   "getes"
+  , "author": 
+   name: Jorik Tageler",
+  "eil":"j.tneldgmalcom"
+ },  "contiutors 
+    {
+     "name": "Alexaner Schmtz,
+     "emai": aschmitz@ai.com"
+    }, {
+     n: "Chi oburn",
+    "mail":"
+   }
+  ], "repory": {
+  "tpe": "git",
+    "ul": "it://githu.com/hamerj/hmmer.js.it"  }
+  "bugs {
+   "ul": "https:/github.cm/hammejshame.js/sses
+  },
+  dependencies":{}, "devDependcie: {
+    "babel-pset-es2015-rolup":"^1.11,    "bannerize": "^1..2",
+   "blanke": "^1.2.3"   changelogpeas": 1.20",
+  "em-suave": "40.0",   i-tags": ^0..",   hammr-siulao:"gt://ithb.com/hmmejs/smuator#aster,
+   "jery": "^3.1.0",
+   "jquery-hmmerjs": "2.0.",
+    "sc": "^.0.7"
+   shint": "^2.9.2",
+    "jshin-ylish: ^2.2.0",
+  "odas-compat":^3.10.",    "nodequniphatojs: "1.4.0,
+   "qnijs" ^20.0",   olup: "0.6.0",
+    "olluppginbabel: ^2.4.0",
+   "ru-hen-chnged": ^.2.",    "ser": "14."
+  "ugl-js "^2.7.0"
+ },
+ ma: "hamm.js,
+ "engines": {
+    de": ">=0..0"  }
+  sipts": {
+    banneri":"banneize hammer.jhammr.injs",
+    "connect": "serve -p 00./,
+  "rollp":"rollu -c",
+    "uif": "gliyjs hamme.js -ourc-mpammer.in.jsmap-o hmmer.min.js--tats",
+   "sring-repace": "node ring-replace.j",
+   jshi": "shint src/*.js tests/nit/*.js tests/uni/gestrs/.s -cnfig.jshintrc --verbose --reportr=node_modules/jsintstylsh",
+    "jcs" " js src/***.js tess/unit/*.jstets/uitgesrs/js --config=/.scsr"
+    "qnit": "panomjseodues/qunit-hntojs-rune/unner-lisjs tests/unitinx.html 1",
+    watc: "un-whenhang --watch'sc/**/*.js' --wachtsts/uni/*js' --wah 'testsuit/gestue/*.js' -exc 'npm run wat-taks'",
+    tch-tas"npmrunrollu & npm run strin-rplce&&pm runuglif&& npm un jhint &&npm un jscs",
+   "buid" "npm rn roup&& nm run stin-replace && run ulif & npmrn bannerize
+   tes": "nprn bld& m run shint&m rn jscs npru qun"  }

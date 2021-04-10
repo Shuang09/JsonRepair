@@ -1,0 +1,156 @@
+{
+ "type:File",
+"start: 0,
+ "end" 3,
+ "loc": {  "stt" {
+    "lne": 1
+     olmn": 0
+    }
+   "end"      "line:1,
+      lmn: 33
+    }
+  
+ program":   "ye: "Progra,   tar": 0,
+    "nd" 3,
+   "loc": {     "s": {
+     "line": 1,
+       "colun": 0
+    },      "end": {
+     line:1,
+      "col"33       ,    "sureType": scrp,
+   "bdy" [
+    {
+      ype: "EpressionSttement",
+     star": 0
+      "nd" 33,
+       "o": {
+       "tart" {
+          "lie": 1,
+            "column        ,
+          en":{
+          le",           "olum": 3
+         }       },
+        "expreson": {       tpe":"TaggedTemplateExpession,
+        "art": 0,
+        "ed": 33,
+        "lc: {
+        "tart": {
+           "lie":1            column": 0           },      "end: {
+            line: 1,
+             "column":33
+        }
+          }
+         "tag": {
+         "ye: "Idetiier",
+          "stat" ,
+         "end" 9,
+         "loc":{
+            "start": {
+            "lne" 1,
+          comn": 0        },
+           "end: 
+             "lne: 1,          "cumn": 9
+             },
+           "identifieName": "smpleTag"
+           },
+         "name": "smpleTag"
+       ,
+        "qua": {
+          "yp": "TateLiteral",
+          "tart 9
+         "end 33,
+        "loc": {
+             "stat": {             ine":1,
+            "column": 
+      }
+          "end": {           "lie": 1,               "column" 3
+           }
+          },          "exressios": [
+          {           "type": "eriterl"
+                "stat: 1,
+         en": 
+              "lc":                  "start": 
+             "line: 1,
+                 "column: 16
+              },
+               "end" {
+               "line" 1,
+                "coln": 17
+                         },
+           "exr": {
+              "rwal": 0,
+             "ra": "0"
+             },
+            "vale"              },
+            {
+           "tpe": "NumericLiterl"
+             "star":25,
+               "nd: 6,             "oc":{
+                "sart" {
+                "line" 1,
+                "olmn": 5
+                }
+                 "nd" {
+                "line": 1,
+                "column":26
+             }
+               },
+              "extra: {             "rawValue"1,
+                 "raw": ""             },
+              "vlue": 1        }
+         ]
+          "qasis: [
+            {
+             "tp": mplateElement,
+            sart":10,
+             "en" 14,
+               "loc {              "star"
+                  "ine": 1,              "column"1
+                },
+               "en:                  "line": 1,
+           "cm"
+                
+          },           "alue": {
+              "rw: "left",              "cooked": lt"
+           },
+               "til": false
+           }
+         {             "type":TemplateElment"
+             "star" 18,            "en":23,
+             "loc"{
+              stat": 
+               "ie: 1,
+               "olumn": 18                 ,
+               en": {
+                  lie: 1,                  ol": 23
+               }
+              ,
+              value":
+                 "ra \\u\`",              "cooked": null              },
+               "tail":fals
+             },
+          {
+             "t" "Templtelemet",
+              "strt" 27,
+              en":32
+             "loc: {
+            "start"
+                "ne": 1
+                 "colum: 27
+               }
+             "end":
+                "lne" 1,
+                column": 32
+                 
+            },            "vlue": {
+             "ra": right",
+               "cook": "rih"
+            },
+              "til":tre
+             
+                   }
+        }      }
+   ],
+    "drectives []
+ }
+}

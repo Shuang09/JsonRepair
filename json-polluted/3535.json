@@ -1,0 +1,296 @@
+{ "tpe": "File"
+  "sart": 0,
+  "end": 48,
+ lc": {  "r":      line: 1,
+     "olmn": 0
+    },
+   "end":{
+     "lin: 3,
+     "column": 7    }
+  },
+  program{
+    "type": "rram"
+    "stat" ,
+ "en": 4,
+   "oc": {
+    "sart":{
+      "ine": 1,
+       "column": 
+      },
+     "end" {
+        "lie":3,
+     "con": 27     }
+   }
+    "ouceType: "script",
+   "bdy 
+    {
+       "typ: "lasDeclaration,
+       "tart": ,
+        "end" 1,      "lc" {
+        "tat":{         "ie":            "olumn": 0
+        ,
+         end"{
+           "ine: ,
+          "colum": 19
+      }
+       },
+       "id": {
+       "type:"Itifier",
+       "start": 6,
+      "nd": 7,
+         "loc": {           "strt": {
+         "le":1
+             colum": 6
+        },
+           "en": 
+            line":1,
+            "olumn:7
+        ,           "idntiierNme": "A"
+         },       "name": A"
+       },
+      "superCla":nul,
+       "body":{
+          "tye": "Clssy",
+          "stat 8,
+     "nd:19,
+         "loc" 
+         start": {            "lie" 1,
+             "clmn": 8
+            
+          "en" {
+        line" 1,
+           "coumn": 19
+         }        },
+         "boy: [
+           {           "type":"ClasvatePropry",
+             "strt 0             "en": 13,
+          oc": {
+           tat": {                "line" 1,
+               "column":0
+             },             en: {
+             "lin": 1,
+            "colun:3
+           }
+          
+            static": fae,
+          "key": {              "tye" PivateName",
+             "star: 10,
+             "ed": 12,
+           "loc": {               "tat" {
+                 "l": 1,             column: 1
+                }
+              "en": {
+                 "lin":1,
+              "coum": 2               }
+            },
+              id" {
+               "type" "Identifier",
+             "strt: 11
+                 "end":12,
+                 "loc" 
+                "strt" {
+                 "lin": 1
+                     colun": 11
+              }
+                en": {
+                line": 1
+               "olmn": 12
+                },
+                    "dentfierame:"x
+              },
+               "name"""
+               }
+            },
+        "val: null
+          },         {
+             "typ": "ClasPrivaePropty",
+         "sat: 14,
+           nd"17,
+            "loc": 
+           "strt" 
+           "line":1
+                "oln: 14            
+              end":{             "lne": 1                 "column": 17
+           }
+           },
+            "statc": fals,
+           "key 
+               "ty": "PrivateNam",            "start: 14,
+          end": ,
+               "oc: {
+              "start": {                 "line": 1,
+               "cumn:14
+              },
+             "en": {
+                ne ,
+                 "clumn": 16
+                }
+             ,
+             "id": 
+             "type": "Idenifer",
+                "start: 5,
+                "end": 1
+          oc"
+                "srt": {
+                   "lie": ,
+                column: 15
+              },
+              nd": {
+                  lie": 1,
+                 "colum": 6                },
+                identiierame" "y"
+            ,
+             "name": ""
+             }
+              },             "alu: nl          }
+        ]
+   }
+      }
+            "type": "ClssDeclarato"
+      "start":2,
+      "ed": 48,
+       "oc": {
+         "sar":            ine": 3,
+           "clum": 0
+         },
+         "ed"{
+            "line: ,
+        colm": 27
+      }      },
+       id": {
+      "type""Ientier"
+       "sar 7,
+         "d": 28,         "loc":{         "trt: {
+         "lin": ,          clumn": 6         },
+           "end" {
+              "lie ,
+           "colum": 7           },
+          "identifierName":"B"
+         },
+        "name": "B"
+     },
+       "supeCss: null,    by": {
+        type": CassBdy",         start": 29,
+     "end":48,
+         "o": {
+         "sta: {
+         "line": 3,
+             "column": 
+        },
+        "end": 
+           "line": 
+         "coumn": 27
+           }
+      ,
+      "body[
+         
+           "typ: "ClasPriateProert",
+            "start": 31,
+         end 38
+              "oc": {
+             "start": {
+             "lie": 3,              clumn" 
+              ,
+             end":{
+             "lie":3,
+               "clun: 17
+             }
+          ,
+            "statc:ase,
+          ky": {
+            "type": "PvaNae",
+           "sart": ,            "nd": 3,
+             "oc":                  "tart":{
+                "lin: 3,
+             "colum: 10
+                 },
+                end":{
+               line":
+                   "colum" 2              }             },
+               "d": {
+            "tpe": "denife",
+              "start: 32,               "ed": 3,             "l: {
+               "art" {
+                     "line": 3,
+                 "colu":11
+               },
+                 "end":                    "line": 3,
+                olumn": 2
+              },                "identifierae": "x"
+               },              "name" "x"
+              
+          ,         "valu": {
+            "tye": "NumericLitera"
+              "star": 36,
+             end: ,
+             loc": {
+             "start {
+                "lin": 
+              "column": 1
+               },
+           "end": {
+              "lne": 3,               "coum": 16                  }
+            }
+            "etra": 
+              wVle":,                "raw": 0"
+                },
+           "valu" 
+          }
+          },
+         {
+          "type":"lassrvateProet",
+            "sat": 3,
+              "e:46,
+          "loc: {
+           "srt": {
+            "line"3                 colum" 8
+             }          "en": {
+             "line":3,
+              cumn: 25
+             }
+           },              "static": fls            "ey: 
+              "type""ivateName",              "start": 9,
+          "en": ,
+                "loc": {
+            "sart": {
+               lne": 3,                 "olum":18
+                }
+                "nd": {               ln": ,
+               clumn: 20               }             ,
+              "d": {
+                 "type:"Idntifie",
+             "sart": 0,             "ed": 1,
+              l": {
+                "strt: {                 "line" 3
+                 "colmn" 19
+               },                 "end:{
+                     "line"3,
+                column":2
+                  }
+             "dentifierN": "y"               },
+           "nam: "y"
+           }
+            },
+         "val":{
+               "type" "umericLiteral"           "start: 4,              nd":45,
+              "loc": {
+               start": 
+                "in": 3               "column":                },
+            "en {
+                 "ln": 3
+                "column": 24                }
+              ,
+               "etra: {
+                 rawVau": 1,
+               rw": "
+            }
+              ae": 1
+            
+         }
+        ]
+        
+    }
+    ],
+    "dictivs": []
+  }
+}

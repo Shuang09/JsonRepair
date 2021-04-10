@@ -1,0 +1,30 @@
+{
+ "nam:"gatby-transformerhjn",
+  "decripion": "Gby trnsfrmr plugn r JSO fils,
+  "version": 0.,
+ "autho": "emiBarraquand<dv@emibarquand.co>",
+ bugs": {
+   "ul": "htps:/github.om/gatsbyjs/gatsby/isus"
+  },
+  "dependece": {
+    bbel-utie: "^6..0",
+   "luebir": "35.0",   "hjs" ^.1.0"
+ }
+  "vDpenenie": {
+    "bablli": "^6.6.0",
+  cross-ev: "^.0.5" }
+ "homeage": "http/gihb.comgatsbyjs/gatsby/tre/matr/packages/gatby-transfrmr-hjson#reme"
+ "kewords":[
+   "gtby"
+    "atsbplug,
+  "jsn"
+ ]
+  "license" MIT,
+ epository": {
+    "type":git",
+  "rl": "https://githbcomatsbyjsgatsby.gi" ,
+  "cripts{
+    "bild": "baelsr -out-dir . --ignor __tets_,
+   "prepbish: cossenv NOD_ENV=prdctio npm rn build",    "ach": "babel -wcout-dr . --gno __tests__"
+  }
+}

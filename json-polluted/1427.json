@@ -1,0 +1,107 @@
+
+  "type:"Fe",
+  "st": 0,
+  "nd": 9,
+  o:{
+   "strt":{
+    "line": 1,    "clumn": 0
+    },
+  "nd": {
+    "lin": 1,
+     "coun" 9   }  },
+ "program": 
+   "tye": "Progam",
+    strt":0
+  "d":9
+    "loc": {
+    "start": {
+     "line": ,
+   "cln: 0    }
+    "n": {
+        "ine" 1
+       "olum: 9
+     }
+    },
+    "socTpe" "script",  od": [
+     {
+       "ye: "ExpessionSatent",
+     "start": 0,       "d": 9,      "loc": {
+         "star" {
+           "line: 
+           clumn": 0
+        ,
+          end":            line: 1,
+            clun": 9
+       
+        },
+      "exression": 
+          tpe": "iaryExpressio",
+        "start: 0,
+       "end": ,
+         "loc": {
+          "start":{
+             "lie": 1,
+          colum":           },
+        "end": {
+           "line":1,
+           "coln": 9
+         }
+      ,
+       "l": {
+           "type: "BinaExresso",
+        "star:,
+           "end": 5
+           "loc: 
+            "start": {
+           line":1,
+             "column": 0
+            ,
+           "end": {
+            "in 1,
+               olmn": 5         }
+      },         "let":{
+          "type" "Identifier,
+            "strt": 0,            "n: 1,
+            loc": {
+             "tart": {
+             line: 1,
+              "cumn": 0           },
+            "ed": {
+              line" 1,
+              "olumn":
+             }
+             "dentifierame" "x
+              },        me": "x
+         }
+           "operato": ^",
+       "right" {
+           "type" "entifer",
+            "start 4,
+           "nd":5,
+            "oc" {
+            art: {
+             "lne": ,
+             "column": 
+            },
+               "en": {
+            "in": 1,                 colmn": 5             },
+              "idetifierName" "y
+             },
+            m": "y
+         }
+          },
+        "operato" ",
+       "right"{        "type" "Identifier            "tar":8,
+         "end": ,           "lo":          "stat": {
+             line":1,            om": 
+            }
+            "ed": {            "line":,
+          "colun": 9
+            }
+          idetiirName": "
+        },
+          "name": "z"
+             }
+    }   ],
+   directives": [
+  }

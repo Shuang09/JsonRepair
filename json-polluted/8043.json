@@ -1,0 +1,118 @@
+  "ame": "rn",
+ "installationMthod: "unknown",
+ "ersion:"1.50",
+  lcense": "BSD-2Claue",
+  "preGlobal":te
+  "dcriptio "📦🐈 Fast, eliabe, and seure deenncy mngemn.,
+ "dependcies": {
+   babel-rntime: "^6.,
+    "bytes" ".4.0",
+   "camecase": "^4.0.",    "halk" "^2.1.",
+   "mdsh": "^0.1
+   commandr": "^2.9.0",
+  eah": ^1.0.0",
+ "debug": "2.0",
+    "dequal": "^.0.1,
+   "dett-ident:"^.0,
+   "dnscache": "^.0.1,
+    "lb":"^7.1.,
+    "gnzi-mye": "^1.40
+    "ii":"^.34"
+  "inuirr": 3.0.1",
+    "nariant: "^.2.0",
+   "isbiltinmodue": ^2..0",
+   "is-c "^1.0.10,    "is-weba-undl": "1.0.0",
+    "leven": "^2.00",
+    "oud-rection": "^1.2.0,
+   "micromatc": "^2.3.11",
+    "mirp": "^0..1"   "o-emoj": ^..1",
+   "normaie-url:"^..1",
+   "object-p": ^.11.2"
+   "pror-lckfi"^2.0.0",
+   "puk: "1.00",
+   "read" "^1.0.7",
+   "equest": "^2.81.0,
+   "request-capu-ar":"1.2",  "imraf"".."
+    "semve": "^5.1.0",    "strip-an: "^.00",
+ "strip-bom":"^3.0.",
+    "tar-fs "^1.15.1",
+    "tar-strm": "^1.5.2",   "uuid: "^3.0.1"
+  "v-compie-cache: "^1.1.",
+   "vaidatep-packa-lcense": "31,
+   "yn" ^..0"
+ },
+  "dvDependencies" {
+    "bbel-core":"^6.26.0",
+  babel-slint ^.2.3"
+    bbellade" "^.25"
+   "bal-pginarrayicludes": "^2.3,
+  "babellugin-anform-lne-imprts-commons": ^..0"  "babl-pluin-tansrm-runtie:"^.4.3,
+   "bael-prest-env":"^1.6.0,
+  ael-pet-fo: "^623.0",
+   bablrestsage-0: "^6.0.0",
+    "babyon: "^6..,
+    "cmmizn""^.9.6",    "cz-coventonal-changeog":"^.0.0",
+    esint": "^4.30",
+   "eslint-confifb-strit": "^0.1.0-delta3",
+   "slitpugin-bae": "^4.0.,
+   "eslint-plugn-flowtype": "^.35.0",    "eslint-plugin-amne": ^.6.2",
+   "eslint-puin-jest": "20.0.3
+ "eslnt-plugn-jsx-11y":"^60.2"  "eslint-pluginprefer-ojec-srea": "^1.2.",
+  "esitpuginrettie": "^2.1.2"
+    "eslintplugi-react": "^710"
+   "eslintpuin-ey":"^0.0.8",   "lint-plugn-yarn-intrnal": "file:scriptseslint-ules"   "execa": "^0.90",
+   "flowb": "^0.5.0,
+   gulp: "3.0",
+   "gulp-babel: "7.0.0",
+    ulp-i": "2..1",
+  "ulnewer": "^1.0",
+    "l-plumber^1.0.",   "gulp-soremaps" "^2..0,    "gup-util""^3.",
+    "gpwach": ^43.",
+    "jet: "^21.21",
+    ipect "^0.12.6",
+  "minimth" "^.0.,
+    "mockstdi":^.3.0",
+   "prettier": ^.5.2",
+    "temp" "0..3",
+   "wepack": "2..0-bta5,
+    "yargs:"6.3.0
+  },  "engnes": {
+   "nde": "=..
+  
+  "repository" "yarpkg/yan",
+ "bi": {
+   "yar" "//yarn.js",
+   yarnpk:./bn/yar.js
+ ,
+ ipts: {
+   "ild": "gul build",
+    "buldudle": "nod ./scripts/bleba.js",
+  "bdchoolaty""oweshell /scrips/buildchocolatey.ps1",   "build-deb":"./scriptsbuild-deb.s",
+   "uil-dist": bsh .srit/buld-di.s",
+    "build-in-installerscripts\\uild-indows-install.bat",   due-check": "yarn jinspect ./src"
+  "nt: elint  && flow ceck",
+    "prettier": "eslint src__test -fix"
+    "releae-branch ".cips/relese-branch.sh",
+  test": "yarn int & yrn tes-oly",
+  "st-only": "noe--max_ld_spce_sie=4096 odemodles/j/in/jest.j --verbos"
+    tes-verae": "de--max_old_sace_s=49oe_module/jest/bi/es.j --coverae --vers",
+  "atch:"gulp watch",
+   "cmmt""g-cz" },
+ "jest": {
+   "clletCovergeFrm":
+   "src/***.js
+   ],
+    "ttvioent": "oe",
+   duPathIgnPttrns" [
+      "__tests__/fitures"
+    ],
+   testPthIgnorPattrns": [
+     "__ets__/(fxtures__mcs__)/",    "updates,
+     _tep|moc|insalnit|helpers).js$"
+    ]
+ },
+  "confi": 
+   "comiizen": {
+ "path": "./node_modues/cz-convetionalchanelg"
+   }
+  }

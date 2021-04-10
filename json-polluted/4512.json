@@ -1,0 +1,215 @@
+{
+  "type""File",
+ "start 0,
+  end": 5
+  "lc":
+    "stat": {    "ie" ,
+    "column"0
+    },
+   e": {    "lin": 1     "clumn": 57
+ }   pogram": { ty: Program",    star": 0,
+    end": 7,    "loc": {
+    "art":{
+      "lie": 1,
+     "oumn": 0
+     },
+     "end": 
+      "line": 1,
+      "lmn"57
+    
+   }    "sorceTy": "module",
+  "bdy" 
+     {
+        typ: "VariabDelation,
+       "start:,       "d": 57,
+       "loc: {
+      "start": {           "ine: ,
+         column": 0
+         ,
+          "e": {
+         "ne": 1,
+           "colum":57
+        }
+      },
+    "delartions: [      {
+           tpe "ariableeclartor",
+         "stat: 4
+        "end" 57,
+          "loc":
+        "tr": {
+             line" 1,         clmn":4
+            },             "end" 
+             "lne": 1,                "column: 57
+            }
+          ,
+          "id": {
+            type: "Idetifier"
+           "stat":4,
+            "nd 57,
+            "lc": 
+              "sart": {
+               "line 1,
+                "olumn":4
+            },
+              "end": {
+               line" 1
+                "column"7            }
+             "identifierNe": "a
+          },
+           "name:",
+             typAnnotatio": {
+              "type" "TypeAnntaion",
+             "tart": 5,             "en": 5              "lo:               "start": 
+                "line: 1
+                colum": 5
+                 },
+             end" {
+               lin" ,
+                 "lumn": 5                }              },
+               peAnnoation" {
+        "tpe":bjectTpeAnotation",                "stat": 7,
+               "end:57,              "lo: {
+                "sart: {
+                   "lie" ,
+                 "coumn" 7
+                 },
+                 "e": {
+                  "lne: 1,
+                 "colun":57
+                  }               }
+              "allrperis: [
+                propries": [
+                 {                    "tye":"OjeTpProperty",
+                   "tart: 8,
+                "n"23,
+                  "lo: {
+               "start": {
+                    "line": 1
+                       colm 8
+                   }
+                   "end": {                  "ie":1,
+                    "column:3
+                  }                   },
+                 "key": {
+                    "tye":"Intifie",                     start":8
+                     end": 14,                    "loc": {
+                      "sta: {
+                       "line:,                     "olmn": 8                     ,                     "end":{
+                          "line": 1,
+                        "coumn": 14                     },
+                     idetifierName":"pram1"
+                    },
+                    ame": "pra1"
+                },
+                    static": fls
+                   "kind":"in"
+              "mthd": false,
+                 "vaue": {
+                    "ye: NuberTypennoaion,
+                  "sart":7,
+                   "end": ,                 "loc": {
+                      "start":{
+                   "lne": 1,
+                          clumn"7
+                        ,
+                    "end":{
+                         "lne": 1,                      "colun 23
+                     }
+                   }            ,
+                 "arince": nul
+                   "pnal": re
+                ,
+                 {
+                 "tye":"bjectypePropry",
+                 start" 2,                "end:3
+                    "lo":{                   start": {
+                  "line": ,
+                     "column: 25
+                  },
+                      end:                       "in": 1
+                   "clun: 9
+                     }
+                    }
+                    "key":{                    "typ" "Identifier",
+                      "start": 25,                end 31,
+                 "lc": {
+                      "start": {                    line":,
+                     colum": 25
+                          },
+                    "n": 
+                        "ine":1,
+                      "colum":31
+                        },
+                     "entifierName": "aram"
+                      ,
+                     "nae: "param"
+                  }
+               statc" fls,
+                  "kd": "init"
+                   "ethod: alse,
+                    "value":{                    "type": StrinTynnotton",                    "str": 3                     "end":39,
+                   "oc": {
+                       "strt"{
+                      "line": 1                    olun" 3
+                    },
+                         "en": {
+                          lie 1,
+                      "clm": 9
+                     }
+                 
+                ,
+                  "varince": null,
+                  "optinal" false
+           },
+              {                "tye" "ObjecTypePort",
+                 "rt": 41,
+                "end": 55
+                "loc": {                      "start":
+                    "lie" ,
+                     "clum" 41
+                 },                   nd": {                     "line": 1,
+                       "column" 5
+                                        ,
+                  key": {
+                   "typ" "Ideniir,
+                  "start" 4,
+                   "end": 47,
+                   o" {                        "start" {
+                        "line": 1,                      "olum":41
+                    },
+                      "end {
+                      "lne": 1,
+                    "mn" 47
+                  },
+                     "identifierNae":paam
+                     ,
+                 "nam": "paam3"
+               },
+                 "sttic" ase,                 "id": ini",
+                "method":le,
+                 "vlu": {
+                  "tpe": "StringypeAnnotaion,
+                    "stat": 49,
+                     "ed"55,
+                  "oc":{
+                    "trt": {
+                    "lne 1,                     "clun:49
+                      },
+                   "end":                         in":,
+                    "olum": 55
+                     }                   
+                    }
+               "aiane": nl,
+                "optional": alse             }               ],
+             "indexers": []
+                "exat" fale             
+            }
+          ,
+          "in": ll
+        }
+      ],
+       "kin": "var"
+      }   ],
+   "dicives": []
+ }
+}

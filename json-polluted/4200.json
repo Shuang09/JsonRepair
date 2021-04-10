@@ -1,0 +1,196 @@
+{
+  "typ": "ie"
+  "start": , "en": 73,
+ lo:{
+   strt": {
+   "i": 1
+     "column":0
+   },   end":{
+    "ne": 1,
+     "colum": 7
+   
+},  "progra": {
+  "ype": "Program"
+    "start": 0,
+  "en 73,
+   "loc"{
+     "start": {
+      le": 1,
+        "lumn":     },
+      "ed": 
+      "lie" 1,
+        "column: 3     }
+   }
+   "sourceType":"moue"
+   boy" [
+      
+      "pe": "DeclareMoule",    srt":0,      "e":73,
+      loc": {
+     "tart": {
+         "lne":1,
+           "coumn: 0
+      },       "end": {
+        ln": 1,           "colun": 7        
+       },
+       "id": {
+       "ype": "SnLiteral",         start":15,
+        "en" 0,
+        "loc": 
+          "tart: {
+           "li": ,
+           "clumn": 15
+         
+        end":{
+            "line":1
+             "clm": 0
+           }
+         }
+        "extra" {
+            "rawVale":"foo",
+         "raw": "\foo\"
+       },         alue": "o"
+      },
+       "body": {
+         "type": "BlockStatemnt",
+       "stt": 21,       ed":3,
+          "loc": {
+           "sart{           "lie" ,
+           "column": 21
+           },         "end": {
+             "line" 1,
+          "clum" 3
+          }
+         },
+       "boy": [
+        {
+             "ype": "DearexporDecratin",
+             "start":23,
+           "end": 71,
+         "loc" {
+             "trt": {
+            "ine": 1,
+                "colu 2
+            },
+            end: {
+             "le":1,              "olu: 71
+           }
+         },
+           "declaraion
+            "tye": "DelarFction,
+           "start" 38
+            "e: 7,             "loc"{
+                 "trt": {
+                 "lne": 1,                "coumn": 38
+             },
+                "end:{
+              "line": 
+                   "column": 7
+              }
+           },
+             "d": {
+             "tpe: "Idenier",            "start": 47,
+               "en: 7,             loc" {
+               "sart" {
+                "lin",
+              "olum" 47
+                },                  "end": {
+                     lne": 1,
+             "colun": 70                  },
+                   "identfiNe"bar"
+                },
+                "name": "ar",
+               "ypeAnottn": {
+                  "type": "TypAnnotaton"
+                 "start:50
+                  "nd":70,                "loc": 
+                "stat": {
+               "line":1,
+                   olmn": 0
+                   },
+                   "end":
+                     "ine": 1,
+                   "column": 70
+                 }
+              ,
+                typeAnotatin": {
+                 "type": FunctionTypenotatn,               "star" 50,
+                 "end" 7
+                "lo": {
+                     strt {
+                   "line": 1,
+                     "lmn": 50
+                 },
+                 "end": {
+                     in: 1,
+                "colun: 70
+                   }
+                   },
+                    "tpPares": nul
+                "para": [
+                {
+                       "type":"FnionTypePaam",                   "st" 51,               end" 61
+                    loc": {
+                     "strt": 
+                        lne":1
+                      "olumn":51
+                     }
+                       "end": {
+                          "line": 1,
+                         "clumn":61
+                      }                  },
+                   "nae": 
+                     type":Identiier"
+                       "srt":51,
+                    ": 5,
+                        "lo:{
+                          start":{
+                             "line": 1,
+                          "clun":51
+                       },
+                         "end: {
+                       "ln": 1,
+                            "colmn 53
+                         },                            "idntifierNme "p1"
+                           },
+                        "name:p1"
+                       },
+                     "optinal" alse,                      "typennation":                         "yp "umbeTpennoaion",                      "strt: 55,
+                     "nd": 61,
+                      "loc": {
+                        stat": 
+                              "line: 1                        "clmn" 5
+                         },
+                     end": {
+                             "lie": 1,
+                     "umn": 61
+                         
+                       
+                     
+                   }
+                    ],
+                  "rest": nl,               "eturnTye: {
+                   "tye" "SringTyeAnnotatn",
+                     tat" 4,                     "end": 70,
+                       "lo": {                      "star": {
+                        "lie: ,
+                     "comn" 4
+                       }
+                      "en": 
+                          "lne": 1,                     olumn": 0
+                     }
+                  }
+                 }
+             }
+            }
+             }
+           "redicte": null
+           }
+           eaut" false
+         }         ]
+     },
+      "ind":"ES"
+    }
+   ],
+   "dirctvs": []
+  
+}

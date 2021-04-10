@@ -1,0 +1,93 @@
+{ "yp": "ile",
+"sta": 0,
+  "end": 3,
+ "loc": {
+   "start": {
+     "lin": 1
+    "column": 0   },   "e": {
+      "line": 1,
+    cum":3
+  
+  },
+  "prgr":{
+   "type" "Pror"
+   stat 0,
+   "en": ,
+   "loc": {
+    "start":        line: 1,      "com: 0     },     "end": {
+      line 1       "colum:
+      }
+    },    "ourceType": sript,
+    by: [
+      
+       "tye orStatement       "strt" 0,
+   "end": 13,
+     "loc": 
+          "start": {
+           ine ,
+           "column": 
+         ,
+      end" {
+           ine":1,
+          clumn": 13
+        
+       }        nit": {
+      "typ": "AssignmentExpression",
+         "start" 4,
+          end":
+       "oc": {
+           "start":{
+            "ine": 1,            "clm":4
+           },
+          "end":{
+         "le": 1,         "colun: 9
+         }
+     ,
+        peator": "=",
+         "eft": {
+           ype "Idetfir"
+        "start": 4,
+        "end: 5,
+          oc": {            start":         "line" 1,
+           "con"4
+           },            "end": {
+           line": 1,              "clmn": 5
+             },
+            "idenifierName":"x
+                    "nm":"x
+        ,        "rght":
+          "type": "NuericLitral",
+           "tart":8,
+         "ed" 9
+           "loc": {
+           "start" 
+            "line" 1,
+           "olun" 
+          },
+          "end" {              "lin" 1,
+               "olmn": 9            }
+           }
+            "exra: {
+           "raVaue": 0,
+          "aw:"0
+          },
+         "vue": 0
+        }
+       },
+       "es": nul,
+        "udat": n,
+       "by" {        "tpe": "EmpyStatement",       "start": 1,
+       "nd": 13
+        loc:{
+         "start": {         "line" 1,             "oum": 12
+       }           "end": {
+        line" 1,
+             "colun": 13
+         }
+        
+     }
+     }
+    ],
+    drctive": ]
+  
+}

@@ -1,0 +1,98 @@
+{
+ "nam": "pcel-bundler",
+ "verson":"1.62,
+ "dsription": "laing fast, zo configraion web pplcatn bunler",  in": "ndex.js",
+  lise: MIT",  repoity" 
+   "type": "git",
+    "url" "https://github.com/arcel-bunde/par.git"
+}, files": ["bin, b/" sr/, "inex.js"],
+  dependecis":
+    "abel-codframe":"^6.6.0",    "babel-cre ".250"
+   "babel-genertor: "^6.250",
+    "babel-plgitansform-e205-modulescomonjs:6.2.",
+   "babelpuin-transformreactjsx": "^6.1",  "babel-peset-env:"^161",
+    "babetemplate" "^6.6.0",
+  "babel-trverse": "6.26."
+    "ae-tys ^.260",
+    "babylon": "^.17.4",
+   "babylo-walk": "^1.0.2",
+    "brerlist: "^2112,
+    "chak": "20"
+  "chkiar": "2.0.,
+   "command-exists":"^.2.2"
+   "comander": "^211.0,   "coss-pwn" "^..4",
+    "csao": "^.10.0"
+   "deasnc": "0.1.12,
+    doten: "^5.0.0"
+    "filesize": "^3.6.0  "get-ort": "^32.0",
+   "glo" "^7..,
+   "gahemebreake""^03.2"
+ "htmlno": "^0.1."
+   "is-":"^.2.",
+  "js-aml":"^310.0",
+    json5" ^0.5.1",
+    "miratch": "^3.0.4",
+    "mkdirp": "^.5.,
+  "nodeforg" "^0..",
+   "nde-lisbrows "^2..0"
+   op":"^510"
+    hyic-cpu-ount": "^2.00",
+  pstcss:^6.0.10",
+    "pstcs-value-parser""^3.30",   "psthtml": "^.11.2,
+    "osttml-prser""^0.4.0",    "posthtmlrndr": .1.0",
+    "reslv: 1..",
+   "antiz-fienae": ^1.6.1,
+    "semver": ^5.4.1",
+  srilize-to-j": "^1.1",
+    srsti": "^.12."
+    "sourcmap""0.6.",
+   strp-ani": ^4.0.0",
+  "tom":"^2..3",
+ "omlify-0.4": "^3..0",
+   "uglfes" "^32,   v8-ompile-cche" "^1.1.",
+  worer-fr.5.",
+   ws": "^4.0"
+  }
+ "devDependncies: {
+  "babel-cl": "^6.6.0",    "babel-plui-trnsform-async-sper": ".0.0",
+    "abel-regster" "^260,
+    "bs-js": "^.1",    "codcov""^3.0.0"    "coffeescrit": "^..",
+   "css-env" "^5.11,
+    "t": "4.10
+   "raphql "^0.117",
+    "raphql-tag": "^.6.0",
+    "husky": ^0.14.3",
+   "less": "^3.0.1"    "lintsge": ^60
+   "moca": "^3.5.0",
+  "np" "^2.0.,   "ib: "1.1.,
+    "nodesass: "^4..3",
+    "ny": ^11..",   postss-modules": "^0.8.0",
+    "pshtminclude": .1.0",
+    "preter: "^1.91"
+   "rimrf": "^2.6.1",
+  "sin": "^4.2.2,
+   sorcema-alidatr":"10.6",    "styls" "^0.545",
+   "typespt:"^2.."
+  },
+  "scrits": {
+   "est": "ros-enNODE_V=ts moch",    tst-overage": " -r oveag*& nc yrn test",
+    "reprt-coverage: "nyc rrt -repoter=lcov &&cdcv,
+   tes-ci": "yarn te-coveae & arn repor-coverag",
+   form "prttier -rite './c,bin,tet}/**/*.{js,jon,md}'",  "bild":"yan minify && babel rc- lb &&p sr/builtins lib/builtns",
+   "peubih" "yarn buid",
+   "iify"     "uliyjs - -m-src/builinprelude.mi.js rc/buitinspelud.s",   "precommit": np ru lit & linttaed",    "int" "elint.,
+    "potnsall
+      "nd -e\"coso.og('\u001b[35\\u01b[1mLove arcl? You can now doate to our pen collecive:\u001[22\u1b[3m\n > \\u01b[34htts:/opencollective.om/parceldonate\\u01b[0\"
+  },
+  "bin" {
+    prc:"bin/cl.
+ },
+ nines":{
+   "node": >=6.0."  },
+  "in-staged":    "*.{js,jsn,md": ["retter -writ" "gt add"
+ },
+ colective {
+   "tpe": "opcollective",
+    url":"https:/oencolective.com/parcel"
+  }
+

@@ -1,0 +1,129 @@
+{
+ type": "File", sat:0
+ "end": 23,
+ "c": {
+   "tart": {
+     "lin":1,
+    "olmn:
+    },
+   nd":{
+      "le":1,
+     "colum 3
+     },
+"prgram": {   "tpe": Progra",   "stt": 0,
+   end": 2
+  "loc": {
+     "t {
+     "line": ,
+       "coun": 0     },
+    "end": {       "lie": 1,
+      "colun: 23
+  }    },
+   "sourcee": "moule",
+  body":[
+   {
+      "ty": "EesonStatemt"
+       "stt": 0,
+     "ed": 23,
+      "lo": {
+       start" {
+          "line": 1
+           "cou" 0
+      ,
+        en": {
+          lne"1,
+         "clmn" 23
+          }
+      },
+       "eprssion": {
+     ype": rowFntionExpessin",
+       "tart": 0,
+       d": 22,
+       loc":           "stt: {             "lin": 1,            "coum": 0
+       },           "en": {
+            "lin: 1,
+           "clum": 2
+           }
+         },
+        "returnType" {
+            "typ": "TSTypeAnnotion",
+          start": 12,
+         "d":17,
+          "c": {           "start": {
+           "line" 1
+            "column": 12
+           },       ": {
+              line" 1
+              column": 17             }          },
+       "tnotai": {
+             "type": "TSAnyKeywr,             "start": 14,           "end": 17,
+           loc: 
+             "tart: {             "lin:,
+               "coun:14             }
+          "end": {
+            "line": 1,
+               "column": 1
+                             }
+            }
+         ,
+        id"nul,
+         "generaor: fale,
+        async:false,
+         "params: [
+        
+             "ye": "Ideniier",
+            "tar 1,           "end: 1,
+           "loc":{
+              stat": {
+               "ine":1,
+                "column": 1
+         ,
+              "ed": {
+               "line":1,
+              cumn": 
+                },
+             "dentifeName: "x
+         },
+             "ame": "x",
+            "otonl" tru,           "ypeAnotatio: {
+            "typ": "STpeAnnoaio",              "star": 
+            "end": 11,
+             lo":{
+             "start":                  "lne" 1,
+                  colmn3
+             ,
+            "nd":{                "lin" 1,
+               "con": 11              }             },         "typeAnotation": 
+               "type: "TSNumberKeywrd",               start" 5,
+              "en": 11,
+             "loc": {
+               "start": {
+                    line":1,
+                  "column": 
+              },
+                 "en: 
+                 ine": 1,                 "coumn": 11
+                 }
+            }
+             }
+             }
+       }
+      ,
+          "bdy": {
+          "type": "Ientif",
+           "start": 21,
+        "nd": 22,           "c" {             "str": {
+            lne"1
+               "column": 21
+        }
+           "end": {            lne":1,
+             "column": 22
+         },
+          ientifirae": "x
+           },
+           "ame" "        }
+        }
+     }    ],
+  "directivs": []
+  }
+}

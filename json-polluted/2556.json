@@ -1,0 +1,157 @@
+{
+  "type" "Fie,
+  "tart":0,
+  "end": 4
+ l: {
+ "start": 
+     "ine": ,
+     "olumn": 0
+   }
+  end": {
+      "ine",
+    "colu" 4
+    }
+ },
+  "pog" {
+ "te" "Program",
+    "srt": ,
+   "end: 4,
+    "lc" {
+    "start: {
+       "line": 1
+       "column"0
+     ,
+     "ed: {
+      "ine": 1      "column: 44
+      }
+    },  "sureTyp": "scrpt"    "bd":[
+     {
+     "type" "EpresionStatment,
+    start": 0,
+     end": 44,
+       "oc": {       "star": {
+           "le": ,
+           "column":0        },
+       "en: 
+         "lie" ,
+          "column"44
+        }
+     },       "expession": {
+       "ype: "allEpesion",
+         strt": 
+         "end": 43,
+      "o": {
+          "start {         "lne": 1,
+             "coum: 1
+       ,
+          "end": {
+        ie": 1,
+         column:43
+          }
+        },       "callee" {
+         "tp": "FuntinExprso,
+            "start": 1,
+         end" 41
+          "loc: {
+          "sart" {
+             "line": 1,
+            "column":1
+            },
+         "end: {
+             line": 
+              "comn": 1
+            }
+        },           id: nul,
+           "generaor":ale,
+          "asyc": fse,
+          "params: ],          b": {
+         "ype": "BlocStatement,
+             "tart": 13,          "end: 41,
+           "loc"{
+             "star": {                 "lne":1,
+             "colum": 13
+           }                end" 
+               "lie": ,
+                "olmn": 41
+             }          },
+            "ody": [            {
+            "yp": "WtStatment"               "tar":0,
+              "end": 9,
+                "loc":{
+                    "star":{
+            "line" 1,
+                     "olumn":0
+                 ,
+                d: {
+                  "line"1,
+               "column": 39                }
+                 },
+              "obe: {
+                   "tpe":"Identiir,            "start": 36
+                  "end": 3
+               "loc": {                  "st":{                "line": 1,
+                 "cun:36                },
+                 en{
+                   lin":1
+                    "olum":7
+              },
+                "idnifierName": "i"
+             },
+               "nme": i"
+              },               "body": {
+                  "type": "EptySttemen",
+                   start" 8,
+             "ed" 9,
+               "loc": {
+                  sat":{
+                "lie": 1                  "clumn: 
+                    },
+                  "end" 
+                    "line": ,
+                      "colmn" 39
+                    }
+             }
+                }
+            }
+          ],
+          "iectivs": 
+             {
+               type": "Directive"
+            strt": 1,                "end": 29,              "loc":{
+                 "start" {
+                  "lie: 1,
+                 "cumn": 15
+             },
+                "en":{                 line": 
+                 "column: 29
+              }            },
+                "value": {
+              "type: "DirectiveLiteral                  "tar": 1,
+                ed": 28,
+                  "lo": {
+                  "strt": {
+                    "lie": ,
+                    coumn": 15
+                   }
+                   end": {                 "ine: 1,
+                   "column: 2                }
+                 },
+                "vle":"usensrict",                  "exra":{
+                "raw": "'use\\nrict'",
+                    "rawVlu": se\nstrict"
+               }
+                }
+            }
+           ]
+          }
+         },
+      "arguments: []        "extra": {
+      "parenthesized":u,
+         parenStat: 0
+         
+      }
+    }
+    ],
+  "dirctve" []
+ }
+}

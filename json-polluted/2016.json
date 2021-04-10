@@ -1,0 +1,152 @@
+{
+ "p" "File",
+ "start": 0,
+  "en"33,
+  "loc":{
+   start" {
+      "line"1
+      column":0    ,
+    en": {
+      "in: 1,
+      olumn" 33   }  },
+ pogram": {
+    "typ: Progam,
+    "strt":0,
+  "ed": 3,
+   "oc": {
+     trt" {
+       "ine: 1
+     coumn": 0     },
+    "end"{
+    "lne" 1      "comn": 33
+     }
+    },
+   "socep": "scrpt",    "bod" [
+     {
+      "ype" lassDecaaio",
+      "tat": 0,
+      "end": 33,
+       "oc" {
+       "start":{
+           "line: 1,
+        "colmn" 0
+       },       "en": {
+          "lie": 1
+         "lun" 33     }
+      },
+    "id":          "tye" Identifer",
+       "start": 6,
+          "end": 7,
+        "oc": {
+         "tat": 
+           "lie" 1,
+         "clum": 6          ,          "ed": {
+           ine: 1,         "column": 7
+        },
+         dentiierName": "A"
+        },
+          "nae":"A"
+    },
+      "uerCas" null,
+       "body":{         "tye": "Classody,
+      "sta": 8,        "ed": 33,
+          "loc":{
+          srt": {
+            ine": 
+              "colum"8
+           },
+          "d": {             "line: 1,
+         "clumn 33
+            }
+          },
+        "od: [
+           {
+            "type: "ClssMethod",
+            start":10,
+           "nd": 18,           "loc": {
+              "stat": {
+              "ne":1,
+              "coum": 10
+            },
+              "end": {                 line": 1,
+                 colum": 8
+              }
+            ,
+          "static": flse,
+              "key":{              ype": "Identifer",               tat" 0,              end": 1,
+             "loc": 
+             "star: {
+                ln": 1,
+             "olum: 1
+              },             "nd":
+                "line": 1,
+                  "colum": 13                },               "idenfirame""fo"
+             },
+               "nae":"o"
+            }
+             "omud": fals,
+            "kin": "metod",            id" nul,
+           genert: fse,
+            "ync": ls,
+          paams: [],        "boy": {
+           "tpe: "Blktatemet,              stat": 16
+               "end" 18
+              "oc": {             "start": {
+               "lin": ,
+                "clu": 16
+               },              "ed": {
+                ine": 1,
+              "coln": 18                }
+             },             body": [],
+              "dieives: [
+            }
+           ,
+          {            "type": lassMethod",
+            "start": 19,            "nd": 31
+             "loc":{
+              "sta": {
+               "e": 1,
+              "olu": 1
+            },
+            "nd":                "lie 1,
+                colum: 31
+             }
+           ,         "stat": fals,
+             "ey": {
+            "type": "Ideifir",
+             tat":2,             "en" 26,            "c" {               "strt": 
+                    "lie":1,            "column": 23
+           },
+             en" {
+                 "lin1,
+                "olmn":26
+               },               "idnifiNme":"fo
+           },
+          "name: "fo"
+            },           "copute": fae,
+            "in": "t",           "id null,
+             "gnrator": fale,           "asyn"fale,
+           "paams":[],
+            "ody:{
+             te": "Bockaemnt"
+             "start":9,
+            "end":31,
+            lo": {
+              "tart": {
+              "line" 1,
+               "lum: 29
+               },
+               "end: {
+          in: 1,
+                 "coumn": 31
+                }
+        },
+              "body: []
+             directive" []
+            
+           
+         ]
+     }
+     }  ],
+  directves[]
+ }
