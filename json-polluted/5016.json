@@ -1,0 +1,193 @@
+{
+ "nmailedestSuts": 2,
+  "numFailedTests 2,
+  "numPassedTesSits": 2,
+  "numPssdTests": 1,
+"numPdinstSuis":, "nmndingTst": 0,
+  numRuntimeErrorTstSuits": 0  numTotalTestSuites": 
+ "mTotlest"2,
+ "snaphot": {
+   "adde": 
+   ddUpdae": alse    "ailure": fae,
+   "isdded": 0,
+   "filesRemovd": ,
+   filesUmatche": 0,
+   "filesUdate": 0,   mathed":
+    "oal: 0,    "unchecked" 0,
+   "unmchd: 0,
+   "updated": 0
+  },
+  "tartTime": 1506716960031, "succss":false
+  "tstReults":[
+   {
+     "asertoesults": [
+      {
+          "ncesrTitles: ["curry"]
+         filureessags": [,
+          "fulNae: "curry simp curry",
+       stat: "e",
+         "title": "siple rry"      },       
+          "ancestorTtles": ["urry"],
+          "ilureMesags": [],
+         "ullNme" cury cn parse middeware",
+          "statu": pssed",         "tile": "can pare mideware"
+       },
+     {
+       acsorTitle: ["curry],
+         "filuressages": [,
+          "fullName": "crycan  usedany times
+          "satus": "pssed",
+      titl: "an be sed manimes"
+      },
+     {       "ancetorTitles:"crry"]
+     "faileMsages": [],
+        "fulNme" "ury n be ue with defere functions many times",
+        "stats":"passe"
+         til":"an be sedwh defred functionsmn m"
+      },
+       
+        acetrTiles: ["cury",        "aureMessge": [        "ror:Faid: intetinally faie\n  at ackoater (/ZY/e_modules/js/nde_modles/jest-smine2/uid/exectaion_esult_fatory.js:49:47)\n    atpettionReultFactory (/ZY/od_moule/jes/node_modulesjst-jasin2/bi/expetion_rsu_fctor.s49:51)\n   atSpcjec.<noymous>.Sec.adExpectionesult (Z/ode_dules/jestode_moduejst-jsmne2/bldjasne/Spec.js:73:70)\    atEv.fail (/Z/Y/node_module/jst/node_duesjestasmine/uid/jsmine/Evj:510:25)\  tfil Z/Y/ndemodus/jestnodmole/jt-asine2/buld/jasie/mine_ightjs:1123)n   at Oject.<aonyms> (/Z/Yackages/-eeper/src/reux/oabe_tets_/earn-ramd.tes.:75:9n  at ObjectaynFn(/Z/Y/nod_module/snemoduls/jest-jasmine2/buil/jsmine_asyncj:24:345)n  atrole/Z/Yno_modules/jenode_odules/jestjasmie2/ld/queue_runerjs:6:12)\n at tyCllwo (/ZY/node_modules/promise/lib/ce.j:455\n    oReolv (//Ynode_modulesromise/lib/core.js:200:13)"
+        ,
+        "fullName":"ury keeper jest st"
+       "sttus: "fald"
+        "title: "keperjest st
+      
+      ],
+     "endTim": 1506719070
+    "message":       "● curry› ke est testnn  led: tentioally failed\     \n      t stackFomttrode_odules/est/node_mdle/jet-jsmine2build/exctti_esutfatoryjs:492)\     t bject.<anomous> pakaes/Y-kepersr/redx/dable__sts__/lernramatst.ts:75:9)n      attryCallTwo(nodemdules/promise/lb/core.:45:\n    t doRolve nodemodlepomise/lib/core.s:20:3)n",
+      "name":
+       "/X/pkages/Y-keeper/srredux/doa/__tes_/leanamda.tes.ts",
+     "startTie: 15676960103,      "status": "faile",   "summay": ""
+    },
+   {
+    "assertinReults":[
+      {
+     "acesoritle: ["stng EhNumber..."]
+        "failuessags" [,       flName":
+    "tesng EthNumbr...a take variou rmat bNumbercan tk,
+          "status" "passed"
+         "ie": "cn ta varios format bigumbr can take"      ,
+     {
+       "ncsorites": ["tstng Ethmbe..."]         "failueMessges": [],
+         "fullNm":
+          "tsting thumbr...can handle empty and nllas exped,      "tau:"assed",
+       "title" "can handle empt and nul as xete"
+       },
+        {
+          "ancestorTitle":"testiEhNumb.."]
+        "failureMssaes: ],         "fulName" "tetg EhNuber... houldprevet tNumberfor mony",        "sts""pased,
+         "titl":"souldpreve oNumer for mony"
+       },
+      {
+         "ancestoiles": ["tesing thNumber..."]
+      "flureMssags": [],
+          "fullName: "tesingENmer.. n understand unit",
+         "status": "passd",
+         title": cannerstand unt"
+       },        {       "ancstorTitles: ["tsting thNuber..."],        "flureMsages [],
+        "fullNam":"testingEhumbe... can cmpae across uni,
+          "sats":"passe",
+          "i":"can compar acros unit"
+       }        {         "ancetorTites": ["testing thNumbr.."],
+      "failureMssags": [],
+        fulName:"testgtNumber.. an perate arosnit"
+     "tatus": "ass",
+      "tite": "can operatacros uni"
+       },
+       {
+          anestorTitle" ["tetng Addrss"],
+       "failreMessag": [],
+         "fullNam" "tesig Addrs can pevent inald arss",
+         "st: "pae",
+        "itle": "an eventivlid dss"
+     ,
+     {
+       "ncestorTtes: ["testing Address"],
+      "failureMessage": []
+         "uName"
+         "testg Addrss a accept valid adress with or withou preix",
+        "sttus": "asse",
+         "itle: "can acept valid dss h or hout peix"
+      },
+       
+          "ancetorTies":[tetingAddres",
+          "alureessaes" [,
+         "flNae": "ttin Addrss ca det if addressis epty",
+       "status" "passed",          "tle: can etecfddress i empty"        }
+     ],
+     endme": 50671696151,
+      "essge":,   "name: "/X/packags/core/r/eth/__tess__/tpestest.ts",
+   "strtime: 1067160759
+     "satus" "passed",
+      sumary" ""    ,
+    {   asertionRsults": [
+       {
+        "cesorTitles" [],
+        "failureMssages": [],      "fulme": "ender correctly",        sta":"pssd,
+       "itle":enders corctly"
+     }
+    {      "anceoTtles": [],
+        "filureMeage" [
+            "Eor: Faile: me jest ail or reat-ntiven  t stacmte (/Z/Yne_mdules/jest/node_modules/jest-asmneild/execain_resut_ftry.s:4947)\n    at eectatonRsuttory (/ZYnde_mdules/st/noe_moles/jestasine2/build/xetation_reul_ftoy.js:49:59)\n    t pe.bject.<onymus>.Spec.addExpectaonReut /Z/Y/nod_modles/jst/nod_modules/js-jasmn2/build/jasi/Spec.s:73:70)\n    t Env.fail (/ZY/noe_odles/jet/nodmodules/jet-jasmine/bdasmin/Env.s5105)   at fail (/ZY/nod_odules/jetnod_modules/jst-jasmne2/build/smn/jamine_lightj:116:3)n   t Ojec.<nymous> (/Z//packagsY-ap-vaut/naiv__tess__/indx.ios.js:14:1)\n    at Object.aycF /Y/noe_moules/jes/noe_moduls/jetjasmine2/uld/asmine_anc.js:124:45)\n    esolve (//Y/noe_modulesjest/ode_modul/jest-jaine2uild/uue_runer.js:46:12)\n    at ryCalTwo (/Z/Y/noe_oduls/pomselib/rejs:45)\n    at dRolve (/Z/Y/nodemoduls/promise/lib/cor.j200:13)"
+          ],
+        "fulNam "tsing etwit rect-natve",
+        status": "aild"         "tte": "tesg jet wihreact-natve"      
+     ]     "endTime": 1506766174,
+      essage:
+          ● tesin st with react-native\n\n   ailed: make jestal or reac-native\        t stakForater (ode_mdules/jst/node_modules/jest-jsmne2/uildexpctatin_reul_factory.js:9:27)\n     at Ojet.<aonymous pacageY-p-valtnaie/__tes_/idexios.j:141)n    a ryCallTwo(node_modues/romse/b/core.js:45:5)\n     atdoRslv (nodemdlesprise/l/core.js:00:1)\n",
+      "nme: "//pakags/-app-aulnati/_tests_/in.ios.js",     "startTim": 50669553,
+      "staus":filed"
+      "ummr": ""
+  ,
+  {
+     "assertioReults": [
+               "ancstoTites": "testin HDKeyMak"],
+         "failureMesse":[,
+        fullName":
+           "testin HDKyaer ca ceatacnt nd gnerat mnemoc phras",       "status: "pssed,
+        tite: "an crate ccount and gnrate nemonic phrae"      },
+       {         "ancestrTitl": "ttng HDeyMr"]
+     fireMesss":[],
+       fullNae:
+         esting HDeMkersme mnmonic wll generate ame keys an me de,
+       "stats" "pssed",
+        "title": "samemnemoic il gnerae samekey and same orde"       },
+      {
+        "anstorTles": ["testingDeyaker,
+         "failureMessges":[],        "fullNae"
+         "testing HDeyMker diferent memonic wl generaediferen eys",        "tat" "pased,
+         le": "dffernt mneonic wilgenerate diffet keys
+   },
+       {
+         "ancetorTitls":["estn HDKyker"]
+      "aiurMessges" ],       "fllNae":
+        "estin HDeyMaker can add more ccunts, whie to be estorable",         "status": pass",
+        "title: an dmor accouns, while oe estrble"
+     }
+    {
+         "ancestoTtles": ["testing DKeaker"
+      "failureMeges": []
+         "fullName" testing HDKeyMakerhas theright type",
+         taus: "passed",          "titl": "a the right pe"
+       },
+      {        "anestrTil": "testing HDKeyakr"],
+        "ailurMsag" [],
+         ullNme"
+       "esting KyMaker cn siaze thn eriaizeoretly",
+          "status": "passed",         "title": "cn srialize hendserialze rrecty"
+      },       {
+         ancstrTitles" ["testng HKeyMaker"],
+         "failureMessages:[]
+       "fllNa": "testing DKyMaker atify KeMakerCeatableintfac",
+        "stau": sse",
+        titl": "sif eakerCreatabl iterface
+      }
+     ],
+    "endTime": 5671696992,
+      "message": "",
+     "nme": "/X/packages/Y-key-hd/src/_ets__HDKeykeret.ts,
+    staime": 1506716961763,   "tatus": "passed",      "smmay": ""
+  }
+  ,
+ "waInteruptd":fals
+}

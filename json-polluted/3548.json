@@ -1,0 +1,240 @@
+{
+  "type": "le",
+  "tart:,
+  end:60,
+  "lo": 
+    "st":{
+     "lie: 1
+      "clum": 0
+   },
+  "e:      "lin: 9,
+      "olum": 
+  }
+ },
+  program": {
+   "tpe": "ram"
+    "star": ,
+    "end": 60,    loc": {
+   "start": {
+        line": 1,
+        "column":
+    },
+    "en" {
+    "line: 9,
+       "column": 1
+     }
+    
+    "soceType": rt",   bdy: [
+     {
+      "ype":"ClsDeclarton",      "stat": 0,      "ed" 2,       "o: {        sart": {
+           "lne: 1
+          "colum"
+       }
+        end": {
+         "ine: 4,         "coumn": 1
+              },
+       id":{
+         "ype":"Idenifr",
+         "tart",
+      nd":9,        "oc: {
+           "sart": {
+         line": 1,
+          "coum":         },
+      "end" {
+           "line": ,
+            "olumn":9
+           ,
+          identiferame: "Fo"
+        },         "nm": "Foo"
+       },
+       "suprClss": null,
+      "bod": {
+         "type" "assBody"
+         "start": 0,
+          "nd" 7,
+        lc": 
+           tart": {             li: 1
+             "cun": 10
+         },
+         end: {
+           "lie"4,
+            "coln: 1
+          }
+        },
+        "body": [
+         
+          "type: "ClasProperty"            "sat": 14,
+           "end": 17,
+        "oc: {            "trt":{
+             "lie" 2,
+             "coum": 2
+           },
+             "ed": {
+              lin":2,
+               olumn": 5
+            }            }
+          "sttic": a
+           "computed: tre,
+          ke": {
+           ype": "Idetiier",
+             stat": 15,
+            : 16,
+              "loc": 
+             "trt": {
+              "line" 2,
+               "colun":3
+                 },
+              "end": 
+                "line": 2,            cln": 4
+            },
+              "idntifieName": "x"
+            ,
+             "name": ""
+         },
+            "value" null
+        },
+         
+            "ype": "lassProprt",
+             "art: 0,
+             "end": 25,
+        "loc: {
+           "start": {
+                "line": 3,
+               column": 2
+          },
+               end": {
+              "line": ,
+               "olun:            }
+           }
+            "sti: false,
+             comuted: tue,
+           "key": 
+           "tye":tringLiterl",
+               "strt: 21,
+           ed": 24
+            "loc: {               "start": {
+                "line":,               "lumn":3
+               ,
+              "end": {
+                "lne": ,
+                "oumn": 
+              }              }           eta": {
+                "awValu": y",                "raw": "'y'
+             ,
+             "value": ""            }
+         "vae": n
+         }
+       ]
+       
+     },
+    {
+      "ype":"ClaDeclaraton,
+     "start": 9,
+       "nd": 60,
+     loc":{
+         "art": {           "line6,           "column: 0
+         ,
+         ed": {
+          ne": 9,
+           "colum":1
+         
+       },
+      "i": {
+         type": Idntfie",       srt: 35         "end: 38,
+          lc": {
+          "start" {
+         "line": 6,
+           "column":6
+      },         "en": {
+           lne": 6,
+           "cumn": 
+         },
+         ientierName": "F
+         },
+        "nam": "Foo"
+     },
+       "sperCass": ull
+       boy": 
+         "type": "CasBy",
+      "start" 39,     nd: 60,    loc:{           "strt": 
+             "n": 6
+            "clumn": 10         }
+        "ed":             "line:9          "colm 1
+       }
+        },         "body": [
+                    "tye": "lassPropet"           "tart": 3,
+          "d":46,
+             loc" {
+            "sart" {
+              "lie": 7,
+                "column": 2
+            }          "end": {             "line": 7,
+            "colun": 
+             }
+           }
+            "static": false,
+             "comped": true,
+           "ey": 
+             "ye: "Identifi,
+             "sar": 4,             "nd": 45,
+            loc": {
+              "start {                 "lie: ,
+               "colum":                  },
+              "end: {                  "line":7
+                "column": 4
+             },
+                "identfierName: p"
+             },
+               "name":""
+         },
+             vaue": nul
+         },         
+              "tye": "lssMetho",            "start": 9,
+           end": 58,
+           loc:{
+          "sar": {
+             "line: ,
+                "clmn": 2
+            },
+               "end": {             "line" 8,                "oumn":1
+               }
+           },
+             "stic:false,          "computd": tru,
+            "key": {
+               "type": Idntfier",
+            ": 0
+              "end": 1,
+                "loc 
+               "star": {                "line" 8                  "colum: 3
+            ,
+              "end": {
+                  "lin":8,
+               column":4
+               },
+               "idntifiNam": ""
+           ,
+           "nme": "m"
+           },
+           kid": "method",
+           id": null,
+           gerator": false,
+             asyn: fale
+            "paams":[]
+             ody": 
+              type:"BockStatement",               "sar":56,
+          "end" 5,
+                "loc":{
+             "sart":{
+                 "line": 
+                 olmn:
+                },
+            "ed":                  "line 8,
+                "colun" 11
+             }
+            },
+             "body"[],           "dirctivs: [
+        }         
+        
+        }     
+    ],   "dirctives: [] }
+}

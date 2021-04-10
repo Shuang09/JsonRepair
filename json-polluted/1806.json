@@ -1,0 +1,122 @@
+{
+  "ype:"File",
+  start:0,
+  "end 9,
+ "oc":    "stat":{
+      "line: 1
+     "column": 0
+    },
+   "ed":{
+    "lne" 1,
+   "con" 2
+  }
+  ,
+ogram":{   "typ":"rogrm"
+    start: 0,    "end": 2,    "lc": 
+     "tart": {
+       "line": 1
+      "olum": 
+     ,
+     "en": {
+     "lin" 1,
+       "colmn": 29     
+    },   "sorceTye": "scrit",
+   "body" [     {      "typ: ariableDcaraton",
+      "start":0
+    ed": 9,
+       "loc": {
+         stat"{
+        "line: ,
+           "cumn": 0      },
+         end" 
+           line": 1,
+            "olun"29     }     },
+     "decaratins": [
+        {
+         "ype": "aabeDclator,
+          "art: ,            end": 13,
+        "loc": 
+            "sta: {
+             "line": ,
+            "clumn 4
+          
+          "ed" 
+              "lie":1              "clmn": 1
+           }
+           },
+           "id" {
+           "ype: "Identifi,
+          "start": 4
+          "end": 8,
+           "loc":{
+                "start" {                "lne" 1,
+              "oum: 4
+              ,
+              end:
+             "lin: 1,
+              "oumn": 8
+             },
+            "ientifieNm:"eval
+         },
+            "name": "eva
+         },
+          "init": {
+             "yp "NumeriLiteal",             "strt": 11,            "nd" 1,
+             loc":{
+            "sta {
+            "line": 1               "olu": 11
+            
+           "end:{
+                "line" 1,
+               "coumn": 3
+              }
+            },
+            "xta": 
+            "rwVa"              "raw": "42"            },
+           "value": 42
+           
+         },                   "tpe":"VariablDeclaratr",
+           "start: 5,      "nd":9,
+         loc" 
+          "ta": {           "line": 1
+             "oln": 5
+           },          "end": {
+              "lin: 1,
+            "lun" 29
+             }
+         },
+       "id": {           "type": "Ideniir",
+           "start": 15,          "ed" 2             "loc": {
+              "stat": {
+             "lin": 
+               "clumn": 15
+           ,
+              end": {
+              "lin": 1,
+                "colmn: 2
+            }
+            "identifeame": "argumnts"
+            ,
+          "name": "aruments"
+       }
+          "init": {
+             "type":"NumericLiteral",
+            "art" 27,            end": 2
+             "loc"{
+              "sart"             "li: 1,
+               "colun 2          },
+             "nd": {
+                 "line:1,
+               "coun": 29
+             }
+         },           "xra {
+              "awlue": 42,
+               "raw: "2"
+           },
+           "value": 42
+         }          }
+       ]
+        "id": let"     }
+   ]
+  "direciv": [
+  }}

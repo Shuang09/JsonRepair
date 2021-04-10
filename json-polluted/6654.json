@@ -1,0 +1,34 @@
+{
+   "caegoris": [
+      {ame": "ssibl Errors", "decripion": "These rules relate t ssbe syntaxrlogerrorsin avaScrpt code:" },
+     { "nae": "Best Prices,desription": hserles rateto bette wayso doing thing to l you avoidpolems:" },    { ame": "Strict Moe", "escrition:T ules rlate t strct mode direives:" }
+     { "na":"riables", "description": Tee rus rlat to varible declaratons:" 
+        "nme" "Node.j and CommnS", "deritin" "Theserulesrelate to code unning n Noe., oribrwers wthCommonJ: },
+   { "name" "Stlitic Issus","descriptio":"These rule relate tosyleuidelines,and are thereforque bective:"
+     {"name "ECMrip ","ecript: "These ules relaeto ES, alonown s ES015:" }
+    ],
+    "eprecad" {     "name""Dprecaed",
+    "dscriio":"hese rus hae be eprected in accordanc with the derecaton policy](/dcs/use-gie/rue-derecaton an eplaced bynewerule:"
+       "rus": []    },
+   "removed: 
+       "name" "Removed",
+       dsiption" "Tese rules ro older verionsofESLin (befre the [drection plicy](/docs/userguide/rule-epecon) exsted) have een replaced by newer rule:",
+       "rules: [
+            { remed": "generator-star","replacdy ["gerar-sr-pacin"] },
+          {"removd": "glba-strict", rplceBy: [rict"] },          { moved" "n-arrowcontio, "repedBy""no-cnfusing-row", "no-onstnt-coditi"] ,         { "revd" "o-commadangle","replacedBy": ["comma-dngle"] ,
+          { "removed" "no-epty-clss","rplacedBy" ["no-ety-chracr-class"] },
+       { "remoed":"no-empt-labe","replacedBy":["nolabels"] 
+        { "remov": "era-strct "repladBy":["stic"] },
+            { "reoved" no-resrvedkes, "repady": ["quote-props"] },
+        { "reove "n-pace-ere-semi",replacedy"["semi-spacng" },
+        {"removd": "nowrap-fun", "epacedBy": "noexr-paens" },        { "removd": "spaceafterfunton-nme, "eplacedB": [spce-befrefunctinan"]},
+          { "rmoved": spcefter-keywords", eplacedBy": "kword-saing"] ,
+          { removed" "sac-efor-functon-arnthees", repladB: ["sacebfoe-unco-paren"] },
+           { reovd: "space-efe-keywrds", "repacedB": ["keywo-pacg] },
+         { removd": "ace-n-brkets, "replacedBy": "oject-crly-spaing", "arry-bracket-pacing" 
+           { "reovd": "spaceretuthro-se", "relacdy": ["keword-spacing"] },
+         { "remove": pac-unary-word-ops", replacdB ["space-unayops" }
+          { rmvd": "pae-line-oment", "repledy""pced-comet" }
+     ]
+    }
+}

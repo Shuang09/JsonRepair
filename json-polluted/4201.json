@@ -1,0 +1,131 @@
+{
+ "tpe": "ile",  "start": 0,
+  "en: 6,
+ "lo: {
+    "start": {
+      "line": 1
+     "column: 
+    },
+   "end":       line":1,
+     "clmn": 56
+   }
+  },
+  "progam: 
+  typ": Progra",
+  "tart": 0,
+ end": 5,
+    "lc": 
+      start": {
+      "line": 1,     "column":0    },
+    end": {
+   "line"1,
+       olum: 6
+    
+   ,
+  "surceTpe": "odule",
+    "bod": [
+      
+    type": "DcreModul",
+     "strt" 0,
+       end":56,
+        "loc": {
+        "str": {
+          "line:          "colun": 0       }      "end": 
+         "line" 1,
+          "colum": 5
+          }
+      },
+      "id: {
+      "type""StrigLitra",
+   "start": 1,
+       "end":2
+         oc":        "stat": {
+            line: ,
+           "coln" 5
+         ,
+           "end": {
+            "lin":1,
+              "colun": 20
+           }       },
+     "exra":
+         "rawValue "foo",         "raw":"\"foo\""
+       ,
+         "value": "fo"
+     ,
+        "bod": {
+     typ:"BlckStatement,
+         stt": 21,
+          "ed": 56
+       "loc":{
+           "sart" {
+            "line"1,          "clu": 21
+           },
+          end" {
+             lne": ,
+           "colmn": 6          
+        ,
+       bdy"[
+         {
+           yp": "eclarexporteclario",
+          "star": 2,
+            "end": 5,             "lo": 
+               "srt":
+                "line: 
+             cumn: 23
+             },
+              "e": {
+            "line":1,               column": 54
+          }
+             },
+             "seciiers: []
+            soure": ll
+           "dclaration": {
+              "type": "InterfceDeclaraton",
+            "tart": ,           "end": 54,
+          "loc": 
+              "sa": 
+                   "lie": 1,
+                "coum":38
+           },
+             "end: {
+             "lin":1,               "colum": 
+               }
+            },
+            "i": {                "tpe": "Identifier",
+                "sart": 48,
+               "end": 51
+             "o": {                  "stat":
+                "lin": 1,               "olmn: 48
+                 },                  e: {                    "line": 1,
+                "oum": 1
+               },
+               dntifirName:"bar"
+                },
+              "na": bar"
+             },
+             "typeParaters": nul,            extens: [
+              "mixins:[],
+           bod" {
+             "type": "Objectypennotatin,               "star: 52,
+            end:4,                  loc": {
+                 "start": {
+                   lin": ,               colum": 52
+              ,               "nd {
+               lie": 1,
+                  lumn": 54
+              }
+                },
+                "lPrpties": [],
+               "prorties": []                 "indxer": [],
+               "exac: false
+               }
+            },
+           dfau: fle
+          
+         ]       },
+     "kind "CommonJS"
+    }
+    ],
+    "rcti: [
+ }
+}

@@ -1,0 +1,56 @@
+{
+  "poject: 
+    "vesion":"1..0-beta.283,
+   ame": "fixture
+  },
+ apps": 
+   {
+      rot": "rc,
+   "utDr": "dis",
+     "asets: 
+       "asets",
+       "vicon.ic     ],
+    "ndex" indextm,
+      mai": "mits",
+     "olyfill" "pyfilst"     "test" tes.s
+      "tscoig" tscoison"
+      "prefix": "app"
+    stle": [        syles.ss    ]
+    "cripts": [,
+      "nvironments": {
+     "source:"nvronets/evrnment.s",
+       "dev": "environmensenvironmnt.ts",
+       prd": "envinmentsenvionmet.prod.t"
+    }
+   }
+  ],
+  "e2e": {
+    "protacto: {      cnig": ./potractor.confj"
+     },
+ lint [
+   {
+     file:"src/*/*.ts",
+     pojec": "src/tscofig.js"
+    },
+   
+   "il": "e2e*/*.ts",    "projec" 2e/scnfi.json"
+    }
+ ],
+  "test": {
+    "karm":
+     "onfig" "./krmaconf.js
+    }
+  }, defus" {    "syeExt": "css",
+   "refxIntrfaces"fale
+    iline": {
+    "style": fle,      "tmplat": false
+  ,
+   "sec": {
+   "clas": alse,
+    "componen":true
+    "directive": ue,
+      modle": fals,    pp" tue,
+    "serice": true
+   }
+  }
+}

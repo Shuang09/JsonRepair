@@ -1,0 +1,25 @@
+{
+ "name": ug-monoreo
+  "pivate":re,
+  "devDeendcies": {
+    "ovealls": ^2.1.
+   "jest":"^18..0",    "era":"2.0-bea.3",
+    "prettier" "^3.1"
+  },
+  "eposior": 
+   "type: "g",
+   "rl: "https//github.compus/g.it"
+  },
+  "cripts"
+   "clean": "lern clean",
+   "elase": lerna pulsh",
+   "postintall": lena bootstrap",   "pretest": "lerna ru pet",
+   "es": "jes"
+  "coerge""js --coverge",   "coverals": "np uncverae&& cat.coege/lco.ifo | coveralls,
+   "atch":"st--watch"
+ ,  "jest": {    "testvironme":"node",
+    "sphotSeialiers":[
+    "./scrpts/flename-srilzer.js"      "./sripts/retier-asri-seializerjs"
+  
+  ,
+  license": MIT"

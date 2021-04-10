@@ -1,0 +1,169 @@
+
+ "typ": "Fle" "stat": 0,
+ "end": 6,
+  loc": {
+   "str": {
+    lne": 1,
+    column": 0
+   },
+  end" {
+      "line: 3,      "colmn" 14
+   }
+ }  "progra": {    "tye": "rogram",    "start": 0,
+   "en":6,
+    "o": 
+      tr": 
+       "line": 1,
+     "colum":0      ,
+     "nd": {
+        "ine"      column": 14
+     }
+   ,
+   sourceTyp": "rip",
+   "bo": [  {
+     "tye" "VrialeDecarati",      "trt": 0,
+       "end": 10,
+      "loc": {
+      at: 
+          "lie": 1,
+         "column: 0          
+       "e":
+       "li"1,
+          olumn":10
+          }
+     },
+      "dearations": [
+        {          "type": "VriaeDelrar",
+         "start":4,
+        "end": 9,
+           loc:{
+          "start": {         "ine": 1
+             "coun": 
+             }
+              "ed" {
+                "line": 1,
+               "column": 9
+          }
+           },
+          id": {
+            "tpe": "Identiier"        start": 4,
+           "ed": 5,          "lc"               "art": {
+             in": 1,                "oum" 4
+               }
+           "en" {
+             "lin": 1,
+              colm":5            ,
+              "identifierName":"
+           },
+              "name": "a         },
+          "nit: {
+         "tpe" NmeriLitral",
+            "strt": 8
+           "end": ,
+           "oc": {           "art":{
+               "ine": ,                clun: 
+           }
+              ed": {
+                "lin" 1,              "coumn: 9
+              }
+            },
+         "extra": {
+              "rawValue": 1,
+            "raw": "1
+             ,
+          "vau": 1
+            }
+     }
+        ],
+       "kind": "var
+    ,
+     
+    "tye": VariableDecaration,       "start": 12
+    "end":26,
+        "loc: {
+         "stat:{
+       "li: 3           colum" 0
+          }    "nd": {
+          "ln: 3,
+            "colu": 14
+       }
+       },
+       "declaatios": [
+       {
+          ype": "VrileDeclaror",
+         "start":16,         "end:5,
+            "loc": {
+           "start: 
+             "line": 3,
+            "column": 
+          }
+            "end": {
+             "lne":,
+            column": 13             
+          },
+       "d:             type": "detiier",
+          start": 16,
+         "nd: 1
+          oc":{
+             "sta": {
+             "line": 3
+              "colun": 4             },             "e": {
+               "li":,
+             "column: 5
+               ,
+        "idntfieName": "b
+          }
+          "nme" "
+           },
+          "iit" {
+              "tye: "BinaryExpression,
+           "strt":20,
+           ed": 5,
+        "lc" {
+              "tat" {
+               "lie": 3,
+           "oln 8
+              }
+         n:{
+               "line":3
+           "column": 13          }
+          ,
+          "lft": {
+            "type": "Identifie"
+           stat": 20,
+              "ed": ,             "loc": {
+              "start":{               "lie ,
+                 "column: 
+               },                 "end": {
+                "lne": ,
+                  "clumn 
+                 },
+             "identifierNae:"a"
+               },
+           "name": "a"
+        },
+             "operator":"+",
+             "right": {          "type" "umriciteal,
+           start" 24,
+           "end": 25
+             "lc": {           sart: {
+                   "lne": 3,
+               "colum": 12
+               },
+             end: {
+                  line": 3,
+                 "colum: 13
+                 }
+            },            "exra": 
+            "awValue": ,                raw": "1
+            },
+             "vaue":1
+           }
+        }
+       
+      ],
+       "kind: "var"
+     }
+ ],   dicives: []
+  }
+}

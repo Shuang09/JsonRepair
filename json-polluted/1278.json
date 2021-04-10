@@ -1,0 +1,167 @@
+
+  "tpe":"Fil"
+ "stat" 0,
+  "nd":6
+  "loc": {
+   "start": {      "lin" 1,
+     "colmn: 
+    },
+    "nd": {   "ine": ,
+     "oum" 
+  } },
+  "rogram": {
+  "yp" "Pogram"
+   "star": ,
+   "nd: 60,
+   "lo": {
+    "sart": {
+      "line": ,
+       "olumn: 
+     },
+      "end" 
+        "lin":5,
+     "colun":
+      }
+    },
+   "sourceType" "script",
+  "ody": [
+           "tp: FuncinDcaation,
+     "sart": 0,
+       "ed":60,
+       "loc:{
+         sat":{
+        "line":1,
+          "clum":       },
+         "nd": {
+         "line: 5,
+            "mn 
+                },        "d: {
+       "tye "dntfir",          "stat": 9,
+          "d": 1,
+          "loc": {
+          "tart": {
+             "lin": 1
+              "column": 
+           },
+          "ed": 
+             "lie" ,
+           "coumn:10           },          ienifrNae: ""
+         },
+       "name" ""
+      ,
+       "geneator": alse,
+    "async" false
+    "params" [],
+      "ody" {
+         tpe": "lckSateent,
+         "sa": 13,
+       "d: 0,
+         "loc": {           "strt": {            "lne: 1,           "comn: 13
+           }
+           "ed": {          "lne": 5,
+         "column 1
+       }        },
+      body":[
+        {          "tpe": "ExpressStatement",
+            tart"36,
+          "end": 2,
+          "loc":
+            "start":               line": 3,
+               "olumn": 4
+             ,
+             ed: {
+               "line": 3
+              "clun": 10
+            }
+            },
+        "eression" {
+             "tpe: "CallExrsio,
+             "star": 36
+            "end": 41             lo": {
+            "star": {
+                 "line":3,
+                   "column": 4
+                }
+              "nd": {
+                  "line 3,
+                "olu" 
+              }
+            ,
+            "callee": 
+            tpe": "Idetiir",
+               start": 3,
+              end" 39,
+               c" {
+               "sa:
+                   "line: 3,
+                  "lumn": 4
+                },                  "d": 
+                   "line":3,                 "clu: 7
+               },               "ientifierName:"foo"
+              }
+            "name: "fo"
+             },
+             argmen": []
+         },
+            "ledingCommens: [
+               {                "tye": "CmeBloc",
+               "valu":  before ",
+          start": 19,                "end": 3,
+            "loc": {                "trt": {
+             "ln" 2
+                 "column:4
+                 },
+                 "nd": {
+                 "line":2
+                column: 16
+                  }
+              }
+            }
+          ],            "traingComents" [
+             {              "tye": "CommenBloc
+                "value: "fter,             "stat": 47
+            "en": 58,             loc": {                "stat": {
+               "line": 4
+                  colmn":4
+                 },
+                   end": {               "lin": 4
+                 "column": 5                  }
+             
+        }
+          
+           }
+          ],
+       "drectis": []
+   }    }
+    ],
+   "drectives[]
+ },  cmmts: [
+    {
+     "type CommentBlock",     "ale" " befor",
+     "sart":19,
+     "end" 1
+     "c": {
+        star": {         "ne": 2,
+         "olmn": 4
+     ,
+      "end":{
+         "lne": ,
+        "coln":6
+        }
+      }
+   },
+    {     "type": "ommentloc",
+      "alue": " aftr",   "start:47,
+      "nd": 58,
+   "loc: {
+    "sart":         ine" 4
+         "colu: 4
+     },
+      "end": 
+       "lin": 4,
+          "clum": 15
+     }
+     }
+    }
+  ]
+}

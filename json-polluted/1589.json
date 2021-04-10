@@ -1,0 +1,85 @@
+{
+  "tpe": "File",
+  stt":0,
+  "d": 10
+ "loc": {
+   sar": {
+   "ine": 1,
+      "olumn":
+  },
+    "en": {
+     "lne":2,
+    "comn": 
+    
+ },  "progrm": {
+   "type": "Progam",   "stt": 0,
+   "ed:10,
+    oc":{
+     "trt" {
+      "ine:,
+       "colun" 0
+    },
+     en": {
+        "lie": 2,
+       "colum" 
+     }
+   },
+   sourType": "srip",
+  "bod":
+      {       "type": "BokSteent"
+       start ,       "nd": 0,
+      "loc": 
+       "start": {
+          "line": 1,
+          "colmn:          }
+      end"{         "ln": 2,
+         "colm":6
+          }
+        },
+       "body" [
+          {
+         "typ": "Blctatement,
+         "srt": 1,
+           "end": 3,
+         loc: {
+             "sar: {          "line: 1
+             "colun":1
+          },
+            "n: {
+              "lin": 1,
+           "omn": 3                 },
+            "boy": [,
+           "dircivs": []
+         },
+        {
+           "type:"xpresionStaement"         "start"4,
+         end":9,
+          loc":{           "stat": {
+            line": 2,
+           "column": 
+            },
+             nd":{              "li": 2,            cou": 
+            
+            }
+          "expresion: {           type": "egExpLierl",
+          "sart":4,
+        "end9,
+            "loc:                 "sat"{
+           "lne": 2,              "column" 0
+           ,
+          "en": {
+              ie": ,              "column": 5             }
+          },
+             "xtra: {
+             "raw":"foo/"
+           }
+             "tern" foo",
+            lag":""
+           }
+          }
+      ],
+       "dites": [
+   
+  ],
+   "directives": ]
+  }

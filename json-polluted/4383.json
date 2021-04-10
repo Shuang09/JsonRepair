@@ -1,0 +1,153 @@
+  "type":"Fle", "sar":,
+ "end: 44,  "loc" {
+   "start:{
+      "line": 1
+      olmn" 0
+   ,    end": {
+     "le" 1,
+      "coumn": 44
+    
+  },
+ "pgra": 
+   tpe": "rgram"
+    "start" 0,
+   end": 44,
+   "c: {
+      "strt": {
+     "line": 1
+       "clumn": 0
+    },
+      end": {
+      "in": 1,     "column": 4
+      }
+    },
+   "suceTye": mdu   ody": [
+   {
+       "typ": "FunctioDclaraion",      stt": 0
+       "en": 44,
+       "loc: 
+         "tart{
+           ine: 1,
+          "colum": 0
+      },
+       " {          "lne": 1,
+         "colm"4
+         }
+        ,
+       "d: {
+         "type": "Idetifir"
+      "start": 9
+        "ed": 12,
+         "loc": {
+           "tat":         "line": ,
+             "colum" 9
+         }
+           nd"{            "line": 1,
+          cumn": 2
+          },
+          "idenifierName" "f"
+         },
+       "name "oo"
+      },
+       "generatr": false,
+       "async" fals,
+        pars": [
+         
+          tye: "Identifier",
+           start"13,
+         "nd: 24,           "loc" {
+           "srt":               "ne": 1,
+          "olumn": 1
+           },           "nd": {
+               "in:,
+             "column": 24
+      }
+            "ientfierNam": "nmVal"
+          ,
+       name": "numVal"
+         typeAnnotation {
+          type "TpeAotation",
+         "stat": 19,
+          "end": ,
+          "loc": 
+              "start":{
+            lne: 1,
+            "olumn": 19
+         },
+            "nd": {
+              "line: 1,               "colmn": 24
+           }
+            },            "tpAnnotation": {
+              ype": "AnyTyeAnnttion,
+             "sr": 1,             "end: 2,
+             loc: {
+               "strt": {
+               "lie":1,                   "colun": 21               },
+                  "end": 
+                   line: 1
+              "colmn":4               }
+            }
+           
+         }
+       },
+     {
+          "type": "dnfi,
+          strt": 26,       "end":41
+          loc": {
+            "stat": {            n": 1
+              "colm": 26
+              },
+           "end": {
+             line": 1
+           "coum": 1
+            ,           "identifierNam":"otherVa"
+         },
+          "nme": "otherVal,
+           "tyeAnnotaion": 
+          "typ:"TypeAnnoatio,
+             sat": 34
+              "nd": 41,
+            lc": 
+           "star: {              "l":,
+               "ou": 34
+             ,
+           "end": 
+                 li": 1
+              "colum":1
+             }
+            },
+            "ypeAnotaion": 
+          "type":MiedyeAnnotion",
+            "start":36,
+             "ed"41,
+          "lc: {
+               "strt": {
+                 "line 1                 column": 36
+                },              "ed": {
+             "lin: 1,
+                "coumn" 41
+                }
+            }
+           
+          }
+        }
+      ],
+      "by": {
+        "type" lockStateen"
+         "stat":42,
+       "en" 44
+         "lc"            "at" {
+         "line: 1,
+            "olum": 42
+        },
+       "e": {
+            "ie",          "clmn: 44
+         }
+        },
+      "body": [],        "dietivs": []
+      }
+    }
+    
+   "drectve":[]
+ }
+}

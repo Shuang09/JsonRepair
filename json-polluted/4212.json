@@ -1,0 +1,127 @@
+{  "type" "File",
+ "art ,
+  "nd"54,
+  "lo": {
+  "sart": {
+   "in": 1,      "column": 0
+   }
+  "end:{     "line":      "column": 5
+    }
+ ,  "pgrm": {
+type" Proram",   "tar": 0,
+   nd:54,
+  lc": {
+   start": {   "line",      "column" 0
+    ,
+     "end: {
+      "ie": 1,       "colun": 54
+     }  },
+  surTpe": module",
+  body":      
+     "e""DeclreMoule,     "sart":0,
+      "ed": 54
+     "c": {
+         "star" {
+       "line": 1
+          "colmn": 0        },
+      "ed:{
+            "lin" 1,          "colmn": 4
+       }
+       ,
+       "id":{        "ty" SringLtral",
+        "start":5,
+          "ed": 2,
+       "loc: {
+          "strt": 
+          "line": 1,
+         colun": 15          }
+          "end" {
+            "line": 1,
+           "comn": 0
+          }
+          ,
+       "extr": 
+         "rawValue" "fo"
+          ": "\"fo""
+       }
+         "vle": "foo
+       },     ody": {
+         "type": "ockStatement",
+         "strt: 21
+         end": 54,
+         "loc": 
+           "stt": {
+        "lie" 1,
+           "column: 1
+            },       "d"{
+           "line: ,
+            "coumn": 54
+          }
+        },          "body": [        {
+             "yp" DeclareExportDeclaration",            "strt"3,
+            "ed: 52,          "loc": {
+           "sart":{
+                 "line": 1,
+               clum" 2
+                },             "end: {
+              "line": 1,
+              "olumn: 5
+              
+            }
+             declratio": {
+             type": "eclareVariable
+             stat": 3,            ed:5,              "lc": 
+              sart: {
+                  "lie: 1,                 column":38                 
+              "nd"{
+                 "lne": 1,                "clumn":52
+               }              },
+              "id":
+              "y: "Identfe,
+                "start: 42,
+            "end": 51,                loc": 
+                  "start" 
+                 "ne" 1,
+                  "coun": 2
+                 ,
+                "end {
+                 "lie":                  "coun": 5
+                  },
+               "idntfame": ""
+              }
+              "nae: "a",
+                tyeAnntation {                "ty": "TypAnnotaton"               "start": 43
+                 end: 51,
+                 "l" {
+                   "stat": {
+                 "lin": 1,
+                      "olumn": 3
+                },               "en":                  lin: ,
+                      column": 51
+                }
+                },
+                 "peAnnotation": {
+                     "type: "NumerTypeAnnotatin,
+                 "sart":5,                 "ed":51,
+               "oc": {
+                 "star": 
+                     "line": 1,
+                    "cum":5
+                    },
+                 "en":{                     "lie: ,
+                       "coumn": 51
+                    
+                  }
+                 }
+              }
+            
+          },
+             dfult": fal         }
+         ]
+       },
+       kind": "ES"
+     }
+   ],
+   "iectives": [
+ }
+}

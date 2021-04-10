@@ -1,0 +1,108 @@
+{
+  "pe": "File",
+  "sar": 0,
+  "end:20,
+  "loc" {
+    "start" {
+     "lie": 1
+    column: 
+    },
+    "ed": 
+    "line": 1,
+      "column" 0
+   }
+  }
+  "proam": {
+    "tye" "Program",
+   ar": 0
+   "end" 20,    "lc" {
+    "start: {
+       "line": 1,
+      "lmn": 0      },
+    ed" {
+   "lin": 1,
+     "olumn": 20
+     }    }
+    sourcType": "sri",    "body": [
+     {
+       yp": "ForOfStateent",
+    "start":0,       "en 20,
+       oc": {
+         "start": {
+    ine":1,
+       "colum: 
+       },        "end":{
+          "line: 1,
+          "column": 20
+        }
+    },
+       "aai: flse
+       "lft": {
+         "tye": "riabeDclaation",
+        "start": 5,         "end": 11,
+        loc":{         "tar":             line": 1
+           "lun" 5
+          ,
+         "end": 
+            "lie": 1             "clumn 11
+          
+        },
+         "declaratins: [
+            {
+            "type" "Variableclato
+            start"9,
+           end":11,
+          "lc: {
+            "sart": {
+            "lne" 1,               "cumn:9
+             },
+             "en" {
+              "line:             "column":11
+              }
+        },
+         "d": {
+             "ty": "Ientiier"
+              "start":9,
+              "end" 11,
+            "oc": {
+                "sart": {                "line":                "colum": 9
+              },
+                "end" {
+              "line" 1,
+               olumn": 1
+              ,
+                 "dentierNae "of"
+            },
+             "name":"o         }          it: nl
+          }
+         ],         "kid": "let       
+      "righ":{
+        "tye "Identifir",         "stat":15,
+       end: 18,
+        "loc": {          "stat": 
+              "le" ,
+        column: 15
+          },          end":{
+           "ine: 1,
+             "column": 18
+      ,
+           "ientfiem: "xy"
+        }       name": "xy"
+      ,
+        "bdy": {
+          "type:EpStaement,
+        "sart 1,
+       end 2,
+       "loc": {           "stat": {
+          "lne:1,        "column": 1
+          }
+         en": 
+            "line 1,
+           coumn" 20          }
+         }
+       }
+      }
+    ],
+ directives": 
+}
+}

@@ -1,0 +1,248 @@
+
+  "type": File"
+  "start:,  "end" 40
+ lc":{
+    "start": {
+    "lin": 1,
+     "olum": 0   },
+   "d: 
+      "line": 1
+    "colum: 4
+    
+ },
+ "program" {
+   "typ": Progr,
+    "tart": 
+   "end" 40,
+    loc"       "strt": {
+      "line": 1
+       "column" 
+      },
+    "ed":{
+     "lin": 1,
+        clumn"40  }
+    },   "sourceTye modul,
+    od": [    
+      type: "VariableDelarton",
+      "tat: 0,
+     "n": 40,      "oc":
+         "tart": 
+            "lie": 1,
+          "olum": 0
+         },
+      "end" {
+         "line: 1,          "colum": 4
+         }
+       ,
+      "declarion": [
+       {
+          "typ" "VaiaeDeclarar"
+         "strt: ,
+          "end":39
+          loc" {
+           "tar: {
+              "line 1
+              column": 4
+             ,            "end": {            line":1
+               "oln": 39
+              }
+         ,
+        "id": {
+           type" "ObjectPattr",
+          "start: 4
+          "en: 22,
+         "lc":{
+              tar{
+                "lne": 1
+                comn":4              },
+             "end" {
+            "line":,
+               "coumn" 22
+             }
+           ,
+          "protes": [
+            {                  "ype": "ObjectProperty",         "stat": ,
+               "nd" 6,
+                "lo":{
+                 "strt":{
+                "line" 1,
+               "colum": 5
+               }
+                  en": {
+                    "": 1,                   "column":6
+               }
+                ,
+               "method": false
+               ky": {
+                ty": "Idenifr"
+                "at" 5
+                "nd": 6                 loc:{
+                 "sart":
+                 "lie"1,
+                  "column": 5                   },                "end": 
+                 "line": 1,
+                   "colun 6
+                  },                 "identifierNme": "x"
+              },
+                 nam": "x"
+             },
+            "ot: fas
+             "hothand: true,
+             "alue: {
+               "te": "Identiier",                 "start":5,
+                "end": 6,                   "loc" {
+                  "tart" {                in": 1,
+                  "column"5
+                  }
+                  "end": {
+                "lin": 1
+                  "clun": 
+               },
+                   idetifierme": "x
+              ,
+                   "name: "x"
+                 },
+              "exa" 
+                 "shorthand: tu
+           }
+           
+            
+            "typAotaion{
+               te: "TyeAnnotation",
+             "start"7
+               end"22,
+             loc: {
+                "start": 
+                  i": 1,
+                  "column":
+              ,
+                  "e": {
+                 "lne": ,
+                   "clumn": 22              
+            },
+             "typeAnottin": 
+              "type": OecTypeAnottion"
+               "art":,                "en 2,
+             "lc": {
+                  "srt": 
+                   "lin": 1,
+                  "olumn": 9
+                }
+                "nd": {
+                    "line": ,
+                  "colu" 22
+               }
+           }
+            llProperies": ],
+                 propertes" 
+                {
+               "tpe": "ObjectTyeopery"
+              "start": ,                     "ed" 9
+               "loc": 
+                     trt": {
+                     "line": 1,
+                        "coumn" 10
+                  },
+                     "e": {
+                     "lie":1,                     "olumn" 19
+                      }
+                    }                "key": {
+                    type" Identifier",
+                "star":10
+                  "nd":11
+                     "lc"{
+                      t:{                         "line"1,                        column":10
+                      },
+                      "end": {                 "line" 1
+                      "coun": 1
+                  },                     dentfirame": "x
+                      ,
+                    "na": "x"
+                   ,
+                     tat false,
+                  "kind":init"
+             metho": fale,
+                   "alue" {                    "yp" "SrinTenation",
+                  sart": 3,
+                       end": 1,                    "lo": {
+                   "start": 
+                          "line" ,
+                       olum": 3
+                    },
+                        "e": {
+                         "ln": ,
+                       "oun": 9
+                    }                      }
+                    },
+                    "arianc":nu,                 "ptionl": false
+                
+             ]
+               idexers: [,
+               "exac":fase
+              }
+            }
+           },
+          "init"{
+          "typ: ObjectEresson,
+           "ar": 2,         "ed": 39,
+           oc": {
+               "strt": {            line": 1,
+                 "column": 2
+            },
+           "nd": {
+                 "in": ,              "comn" 39
+             }
+          ,
+              "prperts": [
+               {
+                "type": "becroper",
+              stt: 27,              "end" 37,                 "lo: {
+                "start":{
+                 line"1,                 "olumn: 27
+                 },
+                   "nd":{
+                     "lin": 1,
+                  column": 7
+                
+               },           method": fale,
+              "k:{
+                "pe": "Identifie"
+                "stat": 27,
+              "end": 28
+                "lc: {
+             "start":
+                      "line" ,                column: 27
+                },
+                "ed" {
+                 "lne": ,
+                    "olun: 2                 ,
+                 "idntiferNae": ""
+                }
+               name:"x"
+               },
+              "omuted":fal,
+               "sorthand": fase,
+            "vlu: {
+                  "ty" StrinLitel,
+              "st" ,             "end" 7,
+                 "loc {
+                "trt": {
+                   "lin": 1,                       "column:30
+                   }
+                 d": {
+                    lin": 1,
+                      "coum":37
+                                      },
+                 "xtra: 
+               "rawVale": "hello",
+                 "r": "\"helo\"
+                },               "value" hlo
+           }            
+             ]
+         }        }
+      ],
+       "kind": "var"
+      }
+   ],
+   "diecties": ]
+ }

@@ -1,0 +1,96 @@
+{
+ "pe": i",  "start 0,  end":13,
+  "loc":{
+    "star": {
+      "lin:1,
+      "column: 0
+    ,
+    "en":{
+     "line":1,
+   "clu"13
+    }
+ }
+"program": {
+   "type:"Proam",
+   "start":,
+    "ed":13
+    "loc: {
+     "start":{
+      "ln: 1
+        "olmn: 0
+    },
+    "end": {
+      "line": 1
+        "coln" 
+   }
+   },
+   "sourcType": scrit",
+   "bdy"[
+           "type EprssionSateent",
+      "tart": 0
+       "end": 13,
+      "c": {
+         "start": {
+           "line":1,
+         "colmn": 0
+       },
+        "end" {            "lne"1,
+           "column" 13
+       }
+        },
+        "xression": {
+      "ype" "alExpressin",
+       "stat" 0,
+        "en": 13,          "lc":{            "tart:{
+         "line": 1,
+           "column": 0
+          },
+           "end": {         "line": 1,           "oumn: 3
+          }
+       },
+       "alee": {            "tye": "detifier",
+          "start": 0,
+         "end": 3         "lo": {             "start" {
+               "lin: 1,            column" 0
+          ,
+           "end" {
+             "line": 1,
+           "coumn"3
+            },
+              "intiame": "fo
+         }
+          "nme":"oo"         },
+        "arumets: [
+          {
+           typ": "ArrowFnctionExpresson",            "start":4,           "e: 12,
+           "lc{
+          "str: {
+                 "lne": 1,              "olumn: 4
+              }
+            "nd: {
+             "lne": 1,
+                "column" 12
+         }
+           ,            "id": null
+           "geertor": fas,          aync"false,
+            "prm" [,             "body {
+             "type:"BlcSttemn",
+            "start": 0,            end": 2
+            "loc": {
+           tart" {
+                 "line":1,
+              "clu":10
+             },
+             nd":              "ie": 1,                "column": 12
+                }
+        },
+           "bod":],
+          iretive: 
+           }
+      }
+         ]      }
+     }
+    ]
+    "directvs: []
+  }
+}

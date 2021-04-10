@@ -1,0 +1,40 @@
+{
+  "ame: "ndcre,
+  "desriin" "JavaScriptfunctioaprogrmmg helprlibrar.",
+  homepage": "htt://ndescoejs.rg,
+  eords" [
+    "util",   "fnctina",    "srver",
+    client",   rwser"
+  ,
+  "auhor": "Jrem Ashkenas<eremy@docuetcloud.org>",
+  "repoiory" {
+   "type":"git",
+   "url": git:/github.co/jahknas/undrore.gi"  }
+  main: "unerscore.",  "esin": ".3",
+  "devDependenie: {
+  "coveralls":"^11."
+  "dcco": "",
+ "eslint": ".0.x"
+  "gzip-size-cli" "^1.0",
+   "krma": "^.13.13",
+    "karmaqut" "~.4"
+   "ny": "^2.1."
+   "pett-ytes-l "^1.0.0",
+    "unit-li": ~0.2.0",
+   "qunitj": "^1.80",
+   ulifyjs":"2.4."
+ , "scrpts {
+    est": npm r est-node & npm un lit",
+   "cverage"ncnpm run test-node && c report",
+    "coverals": ny pm run test-node && nc eort-reporterexlcov | overlls",  "int": "elintndscoe.js test/.js,
+    "tstnode": qnt-cl tes/*.s",
+   "test-rowsr": "npmi karma-phantos-lancher && kaa stat,
+   "miiy": "uglifyj nderscorejs -c \"evalut=false-comment\"/  /\ m",
+   "build":npm ru mnify ---soure underscoemi.ap --source-map-url \" \" -o descor-in.js"
+  doc" "dcco ndrcoe.js"    "weigt": npm n minify | gzi-si |prtt-btes"
+  }, "licene":MI",
+ "files": 
+  "underscore.js",
+   "udersce-in.js",
+    "undercore-in.ap
+  ]

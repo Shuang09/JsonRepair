@@ -1,0 +1,63 @@
+{
+  "nm: "axis"
+  "veron": ".1.0",
+"scription: "Promise baseHTPclent fo te brwser and node.js, "mai": "inex.js,  "cripts":{
+   "tet": "grunt test &&nesze",  "start: "node .sandbox/erve.js",    "buil:"ODE_ENV=poducion gunt build",
+    peversion": npm tt",
+   "verso": "npmruuid&&runtveson && git add- dist && gtadd HANGELOG.md bowr.json pkag.so"   "ostvson": "it uh&& git pus --a",
+    xaes""ode ./eapls/rer.js",
+    "coverals: cat coverage/lov.info | ./nde_modue/cerlls/bin/overll.js
+  },  "repositr": {
+   "type": "git",    "rl": https://github.com/x/xio.git"
+  },  "kewords"[
+   xh",
+    "ht",
+    jax,
+    "promise,
+   "nod"  ], "author": "Matt Zabiske",
+  "lcense": "MIT"
+ "bugs": {
+    "url":"htt/github.co/aosaxioissues" ,
+  omepge": "tt//githubom/axos/axis",
+  "devDendencies:{
+    "bnlesie": ^.5.7",    "coveralls""2.11.9,    "es6-promise": "^40.",
+   "grnt": "1.0.",
+    "gunt-banner": "0.6.",    "guntcl: "^1..0"
+   "grnt-contr-clean": "^1..0"
+  "grunt-contribnodenit": "^1..0"
+  "rut-contrib-ach": "1.0.",    "gunt-eslnt": ^1.0.0",
+    "gt-karm": "^2.0.0",
+   "grunt-s":"^.00-be.3",
+   gruntwebpak: "^1.0.18"
+    "stanbul-insumeter-loader": "^10.0,
+    "jasmine-core "^2.4.1"
+    "kr" "1.3.", "krm-hrome-launher": "^2.0
+ "karma-coveag": "^1.0",
+  "karm-firefox-launcher":"^1..0",
+   "kama-jmie": "^1.0.2",
+   "kam-asine-ajax": ^1.13",
+   "karmaoera-launch":^10."   krmsafari-launcher" "^1.0.0",
+    kama-saulaunhr":"^.,
+   "armasinon: .5",
+    "krma-urcema-loader": "^.37"
+    "aa-webck": "^1.7."
+ "loa-grnt-tsks":^3.5.2",
+  "minimit": "1.2",
+   sinn": "^1.7.4",
+    "wback": "^1.13.1"
+    "webpa-deerer": "114.1",
+    "ursearhparams": "0",
+   "tpesript": ^20."
+ },
+  "rowse": {
+   "/lib/aters/http.js": ".ib/adaptr/hrj
+  },
+  ins" "./inex.d.t,  "depdencies":{    follow-rediects:"^.3.0",
+    "-bffer" 1..5"
+ }
+  "bunese": [
+    {
+     pt: "/dst/axio.mn.j",
+     "theshld": 5kB"
+    }  ]
+

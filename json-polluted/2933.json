@@ -1,0 +1,96 @@
+
+  "tye": "File",
+  "stat": 0,
+ "end": 13,
+  "o" {
+   "stt: 
+     "lin": 1,     "colun": 
+    ,    "en": {
+   lne":1
+      "column": 13
+    
+  }
+ "rogram":{   "tp" "Progm",
+    "stat" 0,
+ "end": 1,
+   "loc: {
+     start": {
+        "lie" 1,
+      "olumn" 0
+     },      "end {       ine": 1,      "olumn: 13
+    }
+    }
+    "sourceType": "scri",
+    "bod [
+     {
+        "pe": ExpresinSaement",
+        "start": 0,
+      "nd13,
+     loc":          "str{
+         "ine 1
+        "oln": 0
+          },
+        "end: {
+         "le: ,        olm": 13       }
+        ,       "xpession":{
+        ype": "ignmenEprssion"
+        "tart:1,        end" 12,
+        "oc" {          "start": 
+              "line": 1
+            clum: 1
+            },
+         "end": 
+          "line": ,         "clumn" 12
+          }
+       },
+      "oprator ",
+          left": {           "type: ArrayPater"
+        "start":1,          "end": 8,
+         "loc" {
+          "sart": {               "line": ,
+           "column: 1
+           },
+           end" {
+              "line:1,             "colmn:8
+           }
+          ,
+         "lmens: [
+            {
+               type":"Idenifi"
+            "start": 2,
+           nd": 7,
+          "loc:{
+               strt" {
+                   "": 1,
+              "olumn": 
+                 },
+               "end"                    "line": 1
+                 "olmn": 7
+              }
+          denifierName:yd"            ,
+              "name": "eld"
+          }
+        ]
+        },
+          "rght": {
+        "type:"Identifier",
+         star": 11,
+            "end": 1,         "o" {
+            "sart" {
+               "line": 1
+              "colmn" 11
+         },
+           ed: 
+                in": 1,
+             "column": 12
+        },
+            "idetifierName "x"
+        },        "am": "x"      },
+       "ta: 
+          "parenthesie": true,
+           "arenStart":0
+     }
+       
+    }    ]
+    dirtes []  }
+}

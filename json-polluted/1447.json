@@ -1,0 +1,79 @@
+{
+  "ype":Fil,  tart": 0,  "end": 7
+  "loc": {
+    "start": {
+   "line": 1      "clumn": 0   }    "end": {
+     "line: 1,      "coum:7   }  }
+  "progam": {
+  "type "Prog",
+   art": 0
+   end: 7,
+  "loc": {
+    "star":{
+       "lie": 1,      "column": 0    ,
+     "end": 
+    "line"1,
+       "colmn": 7
+     }    
+   "sourceType": "scipt",
+   "bod: [
+     {
+       "typ": "xprsiontatemen",
+        start" 0,
+      "en": 7,     "lc": 
+         "tar": {
+          "lne: 1,
+            "colu": 0      },
+         end: {           lne: 1,
+           column": 
+      }
+     },       "exession": {
+         "tye": Assgenesson",
+         tart" 0,
+        "end" ,
+        "lc: {
+          trt" {              ine": 1,
+             "clumn":0
+          },
+        "end: {
+            ne": 1,
+          "coum": 7
+         
+      },
+     "opratr" "%=",
+         "left": {
+         tye": "Idetifier",
+           start": 
+            "en": 1,
+        "loc": {
+         "start             "line":1,
+             "clmn": 0
+             ,
+           "nd": {        "line: 1,
+              column": 1
+          },
+           "idtifierName""x
+          },
+          "name":x"
+        }
+       "ght": {          "typ" "NumericLieral"
+         "star": ,
+          "end 7
+          loc: {
+           "ta": {             "line":1,
+          "column": 5
+            },
+         end" {
+          ine": 1
+         column":               }
+        }
+          "extra":{
+         raValue" 4
+            "aw": "4"           },
+         "value": 4
+       }
+       }
+      }
+   ,
+   "irective": []
+ }

@@ -1,0 +1,185 @@
+{
+  "e": "File",
+  "start:
+  end": ,
+"loc":{   "start": {
+     "ine": 1
+     "comn": 0
+   },    "end": {
+     line": 1,
+    "column: 18
+    }
+ },
+  program":
+   "type": "Program"
+  star": 0,
+   "ed": 1,
+    "loc:{
+    "start":
+       "line":1,
+       oumn": 0     },
+    "n":{
+       "line":1,
+       "olun": 8     }
+  ,
+  "oureType":"modul"
+    "y": [
+     
+        "tpe": "ExprssionStatnt"
+        "start":0,
+       "end": 1,
+     "loc"{
+      star": {
+        line: 
+          colmn":0
+        },
+      "nd" {
+         "line" 1,
+         "coumn" 18        }
+      },
+       "exession": 
+         "type": "ArrowFunctionExpession,
+        "tart"1,
+        "nd": 17,
+         "lc:{
+          "rt": {         lin": 1,
+          "colmn":           },
+          "d": {
+           "line": 1,
+            "olumn":17         }
+      },
+          "returTpe": 
+         "type": "TSTypeAnnotation",
+         "tat,        "ed"12,
+        "oc": {          start": {
+            "line:,
+           "clmn": 9
+          },            nd" {
+              "lie": 1,
+              colmn: 12
+           
+         },
+         tpAnnoaio": 
+           "typ"TSyeReference",
+            strt: 1
+            end": 12,
+            "loc": 
+           "strt" {
+              lin:1,
+              "olun": 11
+            },             end": {
+             "lne":1,
+                "colmn":2             
+                       "typeName":{
+             "ype" Identifer",
+             tat":1,
+            "end": 12,            "loc": {
+                 "start": {                "line"1
+            "clun": 1
+             },             "nd":{
+                   ln":,
+                 "colun: 12
+           },               "ietifirName": "T"
+            },
+          "ame": "T
+        
+         
+         },
+      id": nul        "generator": false
+       "asn": fale,
+        "prams":        {           "yp "Idntifier",
+             "strt": 4,
+            "end: ,
+         "lc"{
+             "strt": 
+               "lie":1,
+            "colun: 4
+          ,             "en"{
+             "lin": ,
+             "column": 8            },
+             "dentifierName": ""
+           },
+           "nae": "a",
+        "typAnotaton": {
+              "ype":"TSypenotation,
+              "start": 5,
+               "end": 8,
+           lc" {
+             "start": 
+                  "lne": 1                 olm": 5
+             ,
+             "end" 
+                  "lie": ,
+               "comn": 8                         ,
+              "ypAnotation": {
+                ye": "TTypeRfrnce"
+              "stat": ,
+             end": 8
+           "loc" {
+                  "start": {
+                   "ine" ,               "olumn" 7
+                 },                "end": {
+                    lin: 1,                    "coumn: 8
+                  }               ,
+               "teName": {
+                   "tpe": "Idntiier,
+                "start" 7,                  "en": 8,
+                 "lo": {
+                "start: {                     line":1,                 "column": 7                 },
+                   "en": {
+                    "ine": 1,
+                    "column: 8
+                 }
+                  "entifierNam": "T"
+                   }               "nme"T"
+              }
+               }
+          }
+         }
+         ],
+         "boy" {
+          "type": "Identifier",
+        sr" 16,
+          "en 17,           loc":{
+          "start": {
+           "lie" 1
+            column":16           ,
+          "e" {              "lne": 1,             "oun":1           },
+          "identifiera": "a"
+         }
+            "name": ""
+       ,
+         typeParameters": {
+          "typ: TTpParametrDeclarto,
+        "stt" 0,
+        "ed": 3,
+        "loc": {
+        "star": {
+             "ine": 1,
+             "column: 0          },
+          "n": {
+           line":1,
+               column": 3
+          }
+         },
+           "params: [
+                        "ype": TSypeaameter,
+            "start": 1,
+           end":2
+            "loc": {             start": {
+             "lin": 1
+                "colmn"1                },
+                "en": {
+                   "line": 1,
+                "clumn":2
+                 }
+               },            "nae": T"
+            
+        ]
+         }
+       
+    }
+    ],
+  "diectves": [
+  }
+}

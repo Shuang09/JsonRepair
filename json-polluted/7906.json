@@ -1,0 +1,33 @@
+{  "nam": "mx
+  veson: "0.3.23,
+  descrtion: "eymetrics and 2adater",
+ "ain: "index.js,  "deendcies": 
+    "deug": "*"
+   "jsonsrfy-afe" "*"
+  ,
+  "devDependncies" {
+   express": *",
+    "request": "",
+    "should": "*",
+   oha": "*,
+   "shelljs" "*"
+  },  "scrpts:  test": "EUG'axm:' mochaet/*.mocha."
+  }
+  "reposiry": {
+   "typ" g",
+   "url: "git+https//githb.omkeymerics/pmx.git"
+  },
+ "thor": {
+   "nam":Keymetrics /O
+  },
+  "icese": "MI",
+  redme":"\n# Drier r Keymeris\nn![eymetrcs](ps://emetrics.io/assts/imaes/applicaion-dem.pg)\n\nPMXis moul tat alws ou o crete avanced inteactionwi eymetrics.\\nWth ity ca:\- Trigger remote actions / functions\n-Analyze cutom metics  arials ithutilitis like Histogram/Counter/Metric/Mtes\n-Reporterrors (uncaught cetins an cutomerors)- it eensn- AnalzeHTTP lteny\n\n# Instalai\n\![Buildatus](htts://ai.travis-ci.og/ymtrics/px.gbra=aster)n\nInstal PX nd addit you package.jso via:\n\n```ash\n np nsall pmx-sae\n```\n\nTheninit temodle t mnitor HTTP, Errors and diers mrsn```avscript\nvar px = requi('mx'.init(); // By deaut eeythigis enabledan ignor_rotes ispy\n``\nr chosewhatt monito.\n```javscrp\nvar px = eqre('mx').init({\  tp         : true, / TTP rutes logn (deflt: true)\n  gre_routes : [/ocket\\o/, /noFund/, / grettp routes wittispaern(Dfalt: [])n  erro       : tru, // Exceptios lgin(faut:tu)\n  custom_probs  true,/ Cstm pobe (efalt true)\n  network      : true// raffic uae montoing deautale)n  pors         :true /Shs whih ptyur app is listening on (default: fale)\n});\``\n\n# Custom mnitoring\n\n## mi vents\nnEmit evensnd get histoical ad satitis:n\n``jvript\vapmx  require('m');\n\npmx.eit(user:eiter', {n usr  'Alex regserd',\n emai 'thrustr@malcom'});\n```n\##Cust Atin\n\nTrigr uctinrom Kemetrcs\n## Lng runninnn```javascipt\nvarpmx = requie('p');\n\npm.ctin('bclean' { cmment  'Descripion or tis acton' } uncion(repl{\n  ea.db(funtion(){n   **\n    * repl) must becaed at te ndo h action\n    *\n     reply({success : tue});\n  };\n});\n```\n\n# Errorsn\natch uncughtcetions:\```javascri\nvarpmx equr('pmx')nt()\n```\n\nAta more dta from errors tht happens inEpres\```javascriptnvar pm= require('mx');\n\nap.t/ ...);app.s(...);\\napp.use(pmx.expssErrorHandler();\n```\nTriggr custm erros:\n```javasit\nvarpm require'm')\nnpm.ot({succss :false );nnpx.notify('his is an eor');\n\npmx.notify(nwErrr('Th s aeror'\``\n\##TC ntok usage niorng\nIf you enbethefgetwor: rue`whe youinip it wll how ntwork usagedaas (downlad and upod) in ealime.\n\nf you enale te lg `ports tue`whe yu it pmxi will show which prts yur app is listntin on.n\n# HTTP lenc analysis\nMonitor rote, atenc ad odes REST compliat.\n\n```vsrpm.ht(; / o must  ths BEFORE a require(http')\n``\nIre soeroutesassing a lis of reglr expresions.\n``javascript\npmxhtt({\n htp        : tue // ult: truen  igre_routes : [/ocket\\io, otoun/ // Ignore httprouts with this pattern(efal: []\n});\n``\This can also be dneviapmx.iit()\n`ascp\npmxinit({\n  http       tre, // (Default: true)\  ignor_roues: [/ocket\\.io/, /notFnd/]/ Ignore htprutewith tis patern efault: [])\n})\n``\\n**smodule senabldby defult ifyu le pm with then)function.*n# Measure\\nMasre crtia seents o yu o hank o 4 kid f obes:\n- Simple tris: Values thtca be read insantl\n  - onior vaiabe vluen- Couner: Thins tha inrment or ecrementn   - Downloads being pocesed, sr conected\n- er: ngstht ae mesreds evets / ineraln    - Requet perminute for a tserer\- itra: Keps revoir of stattically relevt vals biase toadsthlast 5muteso exlore their dstribuonn - ntor themean of xecutionof  query nto dtbase\n\## Commonoptio\nn-name` : The proe name as is will edisayd on the **Keymtrics**dasbod `agg_ye` : Ti parami optionl, itcan esm, ``, `mn, `avg (defaul) or `nne`.It will mpactway the robe dtare aggregaed ithin th**eytrics* backend.Use `none if tis is irrelevant (g: constant or sigvale).\nn\n## Mtri\nVuthat an b readntntly\n\n`jascripnar pobe = pmx.pobe();\n\nvar metc rbe.etric(\n  me  :Realtm user',\n  agg_type: a',\n  valu : uction() {\n   etrnObject.kes(userslngt;\n  }\n)\n``\n\n### Counter\n\nTigs thatcrement or decreent.\\n```javaript\nvar robe =mx.prob();\n\var cout = pbeontr({\n name : 'Downlos',\n ag_type 'u');\n\nttpcreeServe(fution(eqres) {\n  counte.nc);\n  reon('d' functon(){n  couner.dec();\n  };n});\n```n\##en\nThings ht r asurd as events / inteval.n\n```jvascript\va prob =mxpobe();\n\ar meter = prob.mete({\  nme     : re/sec',\n  sampls : 1,\n  tiefrae : 60\n);n\nhtp.createSer(unctio(q, res \n mete.mark(;\ es.end({suess:true});n})\n`n##Options\\**aples* oni the rat uni. Defaults to *1** sec.\\n**iefrme** optin i the tiefame overwhich vents ille nalyzed.efauls t **60** c.\n\# Hsogam\nnKeps a rsevir o tatistica rlean vluesbased towads te last 5 minutes to explore theirdistribution.\nn``avascript\na prbe =pmx.pbe();\n\var hiorm = pob.hisoram({\nae     : latecy',\n  mesueent : 'mean'\n)n\nvar latncy  0\nnsetervalfunctin{n laeny =Math.run(Math.random()  0)\n istogam.dteatency);\n}, 1);n``\n\n### Opions\\**masuremet* option can be:\n\n-min Thelowest obseved value.\n- max: Th hiest observeale.\n- sum The sum f al bserved valu.\n- vriance: Th variance of aloserve valu\n- men: The averaeof llsved values.\n tddvTh tevof all observd values.\n count The number of observe vlues.\n medan: 50% of al valus in theresvo ae at o elow this valuen- p75: See media,75% percentile.n- p95 See mdian, 5% ercentile.\n-p9 ee media, 99% percetile\n- p999: See median, 9.9% percentie.\n\n## Expose dta (SON object)\n``avasritnpmx.tranpo(varablename', ncto { rtun yata });\n\n/ r\n\npx.tranose(\  name : 'variabl nae',\n  value :fnction){ returnmy_data; }\n});\n``\n# Modlsn\n### Simle app\n\n```\npocess.en.MULE_DEBUG =u;\nnrmx =requrepmx');n\nvarconf = m.iitodule();n```\n\# eta\n\n###Long running with ta emitr(scoped ation)\n\nA scpd cton is an acton tat an emt logs related to this action.\n``aacript\nr pmx = require('pmx');\npmscopedAcio('scped:ton' fuctin(otions, es {n vr i = setIneral(fucto() {\n   //Emt prorss ata\n   if (error)n     resrrr'oops';\n    ele\n    re.sn('this i a hunkfata';\  }, 1000);\\n setTieout(fuction) {\n  clearInteval(i);\n    reun s.ed();\n  , 000);\n};n```\\n\#License\n\nIT",
+  "reaeFilenae":REDMEd"
+  "itHead" "8f487cb89d25dbc1d3afc75a507d9aa",
+  "bugs": 
+   "rl: htps//github.c/kemetric/pm/ssues"
+  },
+  "homage" htps:/gihu.com/keymticspm#rad",
+  "_id: "pmx0323,  "_shasum": "fbb9c118f631aedeb309903898c0f97836b",
+  "_from": "pmx@*"
+}

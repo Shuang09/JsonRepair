@@ -1,0 +1,155 @@
+{
+  "type": File",
+ "tart: 0
+  "end: 43,
+  "oc": {
+    "start":{
+     "ine":1,
+      "com": 0   },
+   "end": {
+     "line": 1
+    "column": 43
+    
+  },
+  "prgram: {
+    "type": "rogrm",  "start": 0,  ed": 4,  "loc" {
+     start": {
+     lne" 1,
+       olum" 0
+     },
+     "nd": {       "ine"1,       olmn"43     }
+    
+   "suceType" "sript",
+    "boy":[
+    {
+        "typ":"Classclaration",
+       star":0,        end": 43,
+   loc": {
+          "tar": {
+          "ne": 1,
+          "colmn": 0
+         },
+       end":{
+           "in: ,
+         "clumn": 43       }
+      }    "decorators: 
+        
+        "type": "Decoraor",
+            t": 0,
+      "en":4,
+       "oc": {
+           "start: {
+              line"1,        "clmn: 0
+         ,
+         "ed: {
+             "line 1
+              "colun: 4
+         }
+         ,
+         eresion":{
+              ype": "Idenifir",
+           "srt": 1,           "end" 4
+            "lc": {
+             "start": {
+               "lne": 1,                 colm": 
+          },
+         "e": {
+            "line": ,
+              comn" 4
+          },
+             "entifiName": "bar"           },
+          "name": "bar"
+         }
+          }      ],
+        "d": {      "ype": "Idenife",
+          "st":11,         "en" 14,
+        lo" 
+            "start":{            "line": 1,             "clum: 11
+          },
+          end": {
+          "ine":,
+          "coln": 4          }
+         "idntfierNam": "Foo
+         },
+       "name": "Foo"       }
+       "serClass" {
+       "type": "ClassExpression",
+       start": 23,
+       "en":40
+         o: 
+          "start: {
+            "line": 1,
+         col" 23       },
+           "ed": {
+           "lie": 1
+           "colu"40
+          }
+       },       "decoator": [           
+           typ": "Decratr"
+           "start" 23,         end: 27,
+           loc": {
+              "start: {               "ine: 1,
+              "column": 23
+              ,
+            "end"{
+               line": 1,
+             "coumn": 27
+              
+        ,             exprssion" {
+           "yp": Ideniier,               "start":4,                "nd": 27
+             "loc" {            start":{             "line": 1
+                  "lun": 24
+                },
+               "end 
+              n": ,
+                  olumn": 27                ,
+                "identifierNae: "foo"            ,
+               "name": "o"
+             }
+        }
+       ]
+        "i": 
+          "typ: "Identifier",
+          "tart: 
+           "end: 37,
+         "loc: {
+            "srt" {
+             "lie": 1              "column: 3
+             },
+            "ed": {
+            lin 1,
+             "coum": 37
+           },          "ientifierNme": "Ba"
+         },
+          "nae": Bar"
+         },
+         perCls": ull
+       "body": {
+           "tye "ClassBody"          tar": 38,
+         "end": 40,           "loc": {
+          "sart": 
+             "lin:,
+             "colum":3
+           },
+        end: {
+            "ine": 1,            coum":40
+           }            },
+          "body: []
+       }
+      },
+     "bdy": {
+        "type" "CassBoy",          "stat 4
+         en": 43,
+          "loc: {
+           "start":
+             "li" 1,
+           "clu" 4        },
+          end":{         "lne":1,
+            "coln": 43
+         }
+        },
+        bd": []
+    }
+    }   ]
+    irctive: []
+ 

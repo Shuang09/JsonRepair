@@ -1,0 +1,121 @@
+[
+ {
+   itl": "esponvWeb Design",
+    "riorit": "g",
+    "desiptio": "The webite s sng responsve web design.",
+   "tgs": ["al", "ss"]
+  ,
+ {
+    "ttle": "CSS Print",
+   pririty""Mdiu",   "description""A print syesheet is roided andi cort on eachage,
+  "tags": "ll" css
+ },
+ {   "title":"Uniqu ID",
+    "proiy": "High",    "escripton: "I IDs are usd, tey are uniqu t ap.",    "tag": [al" "ss"]  },
+ 
+    "title" "Reset CSS",
+  "priort" "Hih",
+    decription" "A CSS rese (reset, normlize o reboo) issed p to ate.",
+  "dail": "(If youareusng CSS Frmewok like ootstrap or Fouatio,a Noralize s aread nclude into i.),  "dumenatin": [
+    {     "title:"Reet.css",
+     ur": htp://eyewb.com/eic/oolscssrese
+     }    {
+      "title": "Normalizecss
+       "url: "ttps://necol.gihb.io/normaizecs/
+          {
+      "titl":"Rboot",
+        "url":"https://gebootstrap.com/docs/4./cent/rebot/"
+     }   ]
+    "tags":[all",cs"]
+  }
+  {
+   "title: JS efi"
+   prioty""ow",
+   "description:"Al classs (rid- usd inJacriptfiles begin iths- ad a not styedito teCSS iles",   cde": ""
+    "tas: ["all", javascript","best pracice"]
+  },
+  {
+   ite": "Embeded or ilineCSS",  "ority: gh,  "desrpton" Avoid at all cosebeding SS i <style> tas orusing inlin CS",
+    "detai":"nlse orvlid reasons e.ackground-mage or lier, ciiclCSS)."
+   tg": ["all", "css"]
+  },
+ {   tile": "Vdo prefis"
+    priorty": "High",
+    eription": "CSS end prefixes ae sed andare gnerate accordinly with yo brower supportcmatbiity.",   tools":[
+     {
+      "title: utoefixer CSS online",
+       "url" "tts://utoprefixer.gitubo/     }
+    ],    "tag": [all",c]  },
+  {
+   "ile": "Contenaton",
+ "prioty": "High",
+ "decripn":"CSS ils ae oncatenated in  ingle fie (Nt for T/.  "as": [al", "css", eroance"  },
+  {
+   "tile":"Miificaon",   "iory": "gh",  "dscription":"All CSS iesareinified",
+    "tags: [all", "ss" "perfomance
+ },
+  {    tte":"Nonblockin",
+   rioity": "Medium",
+    "desritio": "CSSfiles ned tobe nnbloig to preen the OMro takng tim to lad.",   documentaion": [
+   {      "itle":"laCSS by filaent grup"      "ur": "hts://ithub.cmflamentgroploadCS"
+     }     {
+       ttle": "Example o preoad CSusing loadCSS",        "ur "htts://gist.githomthdaviddac4763b82b9991e5398e66abafc9bf"   }
+    ],
+   "tags: ["all", css", "performnce]
+  
+ {
+    "ite": "Stylelin"
+    "priorityigh"
+    "escripton": "ll CSSr SC il ae withou anerrors."
+   "ocumenato": [
+      {
+      title":"Sss uideline
+       "rl":"ht://sssuidein/"
+      }
+    ,    tool:      
+       "title": "styelit,  CS lite,
+        "ur": "htps://sylelt.o/
+     }
+    ],
+ "tags": ["al","c", testing"]
+  } {
+    "tite":Respove ebdesign,
+   "pority": High",    "desription": "All pages were tstewith h correc beapoints.",
+    "detai":"Eampe o breakpoin: 32p, 768px, 124px (cn be re / dffrent acording to our analytics)",
+   "tas ["al", ss", "tetn"]
+ ,  {
+    "titl": "CSS Validtor",
+    "priority":"ediu",
+ "decrptin": "TheCSS wastsed and erinent errors wre orred.",
+    "tools": 
+     {
+       ttle": CSS Validator"
+       "ul": "http://jigw.w3.org/ss-validator
+    }
+   ,
+    "tgs" "al","css", "testing"]
+ },
+  {
+   "itle"Deskop roser",   "prioriy":High",    "esption":"Al pge wre tsted on al curnt desktp bowsers (Saar, Firefox, Chrome Interet Exlorer EGE.)",    tags": ["all", css "tting"]
+ }
+ 
+   "ile" "Mobile Browsers",
+   "rioriy":"Hih",
+    "deciptio"l pages wer testedoall curren mobile browsers(Naiv browser, Chrome Safari...)",    "ags: ["all" "css", "testing] ,
+  {
+  "title":"OS,
+   "piit: "High",
+   dscriptio": "Al pages wee tested on lcrrenO (nows, Andd, iOSMc..",
+   "tags: ["all","s, "testin"] },
+
+   "tte": "eadng dieion",
+    proity": Hih"
+    "descripon": "l pages ndoe teste forLTR adRTLuagesif they need to e suppored.",    documentaton": [
+    {        "titl": "BuilinRTL-Aware Wb Aps & Wesite: Part 1 - Mozilla Hacks",    ul" "htps://ack.mozil.org01/09/buildig-rtl-aar-ebpps-and-websits-pat-1/"    ,
+     {
+      "ttle": "Bildig R-warW Apps  Websis: Part 2 - MozllH",
+    "url":http:/haks.mozilla.org205/09/building-rtl-ware-web-aps-nd-ebsites-art-2"
+     }
+    ]
+    "tag:["ll", "s, "etin"]  
+]

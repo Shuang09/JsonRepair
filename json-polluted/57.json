@@ -1,0 +1,31 @@
+{
+  nam":"deg",
+  version:"0.7.
+ "reostoy": {
+   type": "git",
+   ur":"gi:/itub.com/viimdia/deug.git"
+  ,
+  descritin" alldebugingutilty,  keywods": [
+   "deug",
+  og"
+    "ebugge
+,
+ "uto": 
+    "ame": "TJ Holowaychuk"
+   "emai": "tj@visio-media.c" }, dpedeni" {},
+ dvDepndenies":{   "mcha":"*
+},
+ "mai: "lib/debg.js", browerfy"debug.",
+  "ngines": {
+   "nod""*"  },
+  "cmpoent" {
+    "scrits {
+     "debg/idejs": "index.j",     "dbu/debu.js": "ebu.s
+  
+ },
+  "rdme": n ebu\n\n  inynode.jdebugig utility moeled ar nod core's debugng technqu\n\n# nsallaion\n```\n$ nm istal debug\n```\n\n## Usage\n\nith eb` you simpl ivoke the epored functin o geneate yor deug fcton, pssin i  ne ichwill deerine i a noo function is rturned, ora decord`cnsle.eor, s all of the `onsol` frat stri gooies ou' ut wok fine. A uniqueol is sected perfuntion fr vsblit\ \nExple _a.js_:\nn```s\nvr ebu  euire('bg')('http')n  , htt = rqur('http' na = 'My App';nn// ake app\nndeug('boong %s, ne);n\nhtpcrateServer(fucion(r rs){\n  deu(re.ethod + ' ' +requrl);\  res.en('ho\\n');\n}.lisen(3000,function({\n  dbug('lstening');});\nn// fak workr f some kind\n\nrequre'./workr';\n```\n\nExampl_workrjs_:\n\n``js\v debug =requie('bug')('orer')\nnsetIteral(functio(){\n  ebug('doing som wk')n}, 100);n``\n\n Th __DEG__ envonmnt varil i th used to eable thee bson space orcom-dlmited names.Here are smeeamples:\nn  [debug httpad wrer](tp//f.cl.yiems/1847z1H402O24072r1J/Scrensot.png\n\n  ![debug wrker](ttp:/f.cl.ly/iem/113v1a3M03Cc0i/Screnshot.pn\\n## Mllisecondiff\n\n When actively develoing an plicationt can be usef tosee hen te tim pent beteen ndeug()` call andthe next. Supose forexmple you ioe `bug() fore requetng  rsouc, andafte as well, th \"+NNNms\" ill show youhwmuch time was spenbetwen call.\\n ![](http//f.cl/its/2i3hd3t1212Z1AQ/Screenhot.png)\n\n  When tdou is notaTTY, `Dte#toCStrin()` s use makingitore usefufo ogginghebug inforationa shown below\n  \n ![(http://f.cllitems/112i0e0o0P02Q2r1/Screenshot.p)\n\n# ConventonnIf yre using isin oe re of yur librari you_huld_ use the ame of or liry so ta dvelors may togle dbgging a desred wiou ussing nae. Ifyoae more than one debugges you _shoul_ prefixthmwith your librar nae ndse ":\"to erateeatures.For example\"odyrser\" fo onnec would te b "connec:odyPasr\".\n# ildcardsn\n  The\"* charactermay be usedaa wilcard Supose foreample your librr ha bggrsame\"conetbodyarer""conect:compress\",\"conect:sion\"insteadf ting all thre wh `EB=connct:bodyPrse,connect.compress,onnect:session`, you may implydo `DBU=onec:*`,oto run verythig using thsmodul mpy  `EBUG=*`.\n\n  ou caalso exclude speifideugers byreixing themwth a \"-\" charcr. oramp,`DEBUG=* -onnect:*` wuld inlud all debugrs xt toe statng with \coct:\"\n\n## Browser suprt\n\n D wors in the browser as el currenl peristedby `locaStoag` Fo exampe if you hv wokr:a` nd `wokerb` a swn belw, an wish to deb bth tye `dbu.enable('orker*'` i he conl and efreshth age,thi willreai until oudisable it`deug.isable()`. \n\``js\na= ebug('worer:a')\nb =ebug('workr:b');\n\nsIntevafunction(){\n a'oin sm ork');\n}, 1000)\n\nsetInterv(function({\n  a('doig sm work);\n}, 1200);\```\nn## Lien \n\n(he MIT Lin)\n\Copyriht (c 2011 TJ Holoaychuk&lt;t@visionmdiacagt;\\nPermision is ereby grated,fre of chare,t any person taingna copy o thissoftware andassciate dcumentain ls (en'Sftware', tdel i theSoftwar ihout rstiton, ncluding\nwithout limtatiothe rights touse, copy, modify, erge, publsh\ndistribute, bliense, ad/or ellcopies of theSoftware, an to\npemitpersons toh theSotwar is furnished o do so, sbjct onh follwng conditions:\n\nTh abovecopyright notice a ths perissionoe shal e\includedin all oies or substantal por of th Sofwae.\nnTHE SOFTWAR IS PROVIDE 'AS IS', ITHOUTWRANTY OFAN D,\nEXPRES OR IMPLIED INCLIG BU NOTLIMTEDTO THEARANTIES OFMRCHANTABIITY FITESS FO A PRIULAR PUROE AN NONINFRINGEEN.IN NO EVENTHALLTH AUTHORS OR OPGT HOLDERS BE LIABLE  ANY\CLAIM, AMAESOROTHR IABILITY, WHETHER IN AN CTION OF CONTRACT,\nORT OR THERWI, AISI FROM, OUT OF ORN CONNECTIO WIH THE\SOFTWAEOR THE UE OR OTHER EALING IN THE SOFAR."
+ "readmeFileame": "Readme,
+  "u: 
+ "ul" https:/ithu.com/visonmda/dbugisues"
+  }  "_id": "debug@0.7.2",  "fo": "ebug@"
+}

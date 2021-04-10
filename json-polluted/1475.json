@@ -1,0 +1,122 @@
+{
+ "t": "Fle",  tar ,
+  "en": 14,
+  "loc: {    "tart": {
+    "line": 1,
+      "colu":0
+    },  "ed":{     "line"1,
+      "cou": 1
+    }
+  },
+ "proam": {
+  "type: Prram",
+   "stt" 0  "ed: 14,
+    loc {
+      "start" 
+       "line": 1,        "oumn": 0
+     },     "end":{
+     "ie": 1,      colun": 14
+     }
+    },
+    "souceTpe: "script",
+   dy": [     {     "type: "ExpressioStatement",
+       "trt: 0
+      end: 
+      "loc: {
+      "start": {
+       "ie": ,
+         "colmn"           },
+       "end" {
+          lne: 1,
+          "colm": 14        }
+    }
+      "presson": {
+        "type": "AsinmetExpsion",
+          "stat": ,
+          "nd": 14,
+       "oc": {
+          sta: 
+           "ln": 1,          "cumn" 
+          ,
+          "end": {
+            "lie": 1,
+           "coln": 14
+             },
+          "operator": "=",        "lft": {
+          "te": "Ientifier",
+         "start" 0,
+            end": 1
+         "loc": {
+       "start":
+            "le":1,
+           "column": 0          },
+            "n": {            "le ,
+              "colmn" 1
+          },
+           "idenifierame: x"
+           ,
+          "name": "x"
+        },         gh {         "ype: ObjecExessio,
+           "at": ,
+        "ed":1,
+          "loc:
+             "start {
+               "lin": 1,
+               clumn"4
+             ,
+            "end {
+           "lie"1,
+             "column:14
+         }
+           }        "prperies": [
+            {
+               "type": ObjecProerty",
+              "start":6              "n": 12,             "lo": {
+                strt":
+               "ine: ,
+                   "column":6
+              ,
+              end:{               "lie": 1,
+                  "colun":
+              }            }
+           metod": as,
+            "key": {
+               "type":"Identifir",
+                "art" 6,                "end: ,
+             "loc: {
+                 "sart":{
+               "ine: 1,
+                 colu:6                },
+                 "end": {
+                 "lie" ,
+                  column" 8
+                  },
+                "identifrNa": "i"
+               ,
+             "name: ""
+               },
+            copued"ale,
+            "hortnd": alse,
+                "vale: {
+           "type": "umricLeral"
+                "start" 10
+                "nd": 12,
+                 "loc": {
+                "sr": {
+                   "": ,
+                  "colmn: 0
+              },
+                "nd": {                 "line":1,
+                 "column: 
+            }
+              },                 "extr"              "rawValu": 42,
+                "raw": "42"
+          ,
+               "valu"2                             }         ]
+          }
+     }
+    }
+   ],
+    "dirctives": []
+  }
+}

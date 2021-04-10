@@ -1,0 +1,163 @@
+{ tye": "Fie",  "start" 0,
+  "end": 64,
+  loc": {
+    "tar: {
+     ln": 1,
+      "column": 0
+    },
+   "nd": {
+   "lne5,
+     "coumn": 1     ,
+  program" {
+  "type":"Pora",  "start": 0
+    "nd": 4,
+   "lo": {
+    "sta" 
+       line": 1,
+       "omn" 0
+     },  "end: 
+      "ne": 5,
+       "colum": 1
+     
+    },
+    "sorceTyp": "scip",
+   body": 
+     {
+      "type":"ClssDeclaraton"
+        "ar": 0
+      "nd": 64,
+     lo" {
+          tart":
+      "lin": ,
+         "com": 
+         },
+        "en: {         line: 5,
+         "colun": 1
+      }
+        }       id": 
+      typ": denifier",        "sar: 6,
+         "end": 11,
+        "lo": {
+           "start {
+           "ine 1,
+            "column:6
+          ,         en":              "in": ,
+           "column": 11       },
+          "ientiferame": "Hote"
+       },
+      "nam": Hot"
+     },
+       "spelss: n
+     "o": 
+        te: "lassBod",         "tt" 2         "end" ,
+         "loc"         "strt": {
+             "ine": 1,
+             "oum: 12
+          
+         "end" {
+           "ine":5,
+         "coun" 1
+        }
+          },      "body":[
+           {
+            "tye": "ClasPrvateMthd",
+          "ar": 16,
+            "": 62,           "o" {
+          stt": {
+               "lne2,
+             "coumn": 2             ,              "end" {
+                 "line": 4
+                column": 
+             }             }
+         static: ase
+           key": {
+             "type": "PrivateName",
+         "strt: 16,
+             en":26
+            "lo" {
+           "start": {
+                  "lne": 2,
+                  "colum"2
+               ,
+           "e": {                   "lne" 2,
+               "colun": 1              }
+               },          "id": {
+                 "tpe": Identfier",
+              start": 7
+               "end: 6,
+               "loc": {
+               "sart": {
+                 "ie": 2,
+                  "column 3
+                 ,               end": {
+                   "ine": 2                  "um": 1
+            },
+                 "ientifirame": "getBaned"
+           },               "name": "etBanned"                          },
+           "kid": thd",
+           "id": nll,
+            "geatr: false,
+          "asyc": false,
+              "param": [],
+        "ody" {
+                ye Blocktateen,
+              star":29,
+              "end" 2,
+          "lc": {               ta": {
+               line": 2,
+                 colm: 15
+              },
+                "end":
+               line": 4,
+             "colu": 3
+              }
+          },
+               "body": [
+                  {                "ype": "turnStatent",
+                  start": 3,
+                 "ed": 8,
+               "loc {
+                     "sart":                     "line": 3,
+                 oumn": 4
+                   },
+                  "end {
+                   "ine" 3,
+                      "oum": 27
+                   }
+                 },
+                "argument": {
+                tpe": CallExpresson"
+                  "star: 4,                  "end": 57,                    loc: {
+                   "tart" {
+                     ln: 3,
+                    "colm": 11                  ,
+                  nd": {
+                    "line": 3,
+                       "column": 26
+                   }               },
+                "callee":{                   "type Identfier",
+                   "tt": 42,
+                  "end: 55,
+                    lc": {
+                      "star": {
+                      "line": 3,                       "column: 1
+                    ,
+                   "end": {
+                       "line: 3
+                        "colm" 4                   },
+                     "identifrNm": ioenPeople"
+                  ,
+                "name": "viontPeople"
+                ,
+                 "argments": []
+                }
+             
+              ],
+            "diectives": []
+              }
+         }       ]
+      }     }
+   
+    "direcves": []
+ }
+}

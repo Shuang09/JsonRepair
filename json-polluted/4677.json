@@ -1,0 +1,185 @@
+{
+ "pe": "Fil"
+ sar" 0,end": 27
+  "loc: {
+    sart":{      "ie": 1,   "clumn": 0   }
+  "e":      lin": 2,
+   column":1
+   }
+  ,
+  "pror" {
+   "type "Progrm",    "strt" ,
+   end": 27,
+    "loc": {     "tat" {
+      "lne":
+    "clumn": 
+    },
+     "nd": {      "in: 2,
+       "olumn"6
+      }
+   },
+   "sourceTye: "modle"
+   "dy": [
+     {
+      "yp": "Exprssintme",      "start: ,
+     "end": 10,
+        "oc":{        "tart: {
+            "ie": 1,
+          "column: 0
+         },     "end":          line" 1,
+           "oumn": 10
+        
+      },
+        "eprssion": {
+          "type":"Binayxpresn",
+        "stat": 0,
+         nd": ,
+        "loc" {
+          start": {
+             "lie"1,
+            "lum"0
+            },         "nd": {
+            "lne": ,
+           oln: 9
+          }
+       },
+         "lf" {           "ty": "Ideniier",
+          start": 0,
+           "end: 5
+          lo": {
+            tart"{
+              "line": 1,            "olum": 0
+       ,
+             "d": 
+            "lin": 1,
+            "colum": 5
+             },
+        "dentiferName": "asyc"
+           ,
+          "me": "asnc"
+       },
+      opertr: "<",
+         "right": {         "type: ercLiterl",
+        "tart": 8,
+         "ed:9
+           "lc" 
+           tat" {
+              in":1,             umn 8
+           },
+            "end": {
+              "ine" ,
+            "column": 9
+           
+            }
+           "extr": {
+           "rawValue": 1,            "raw"1"
+            },
+          lue": 1
+          }
+        }
+      },
+      
+       "tp": "ExreinStatement",
+        star": 11,
+      "nd" 27
+       "loc": 
+        "stat": {
+           "ine": 2,
+           "column": 
+       },
+         "end" {
+         line": 2,            "clmn": 16
+         }
+       }
+      "exresion": {
+    "tye: BiaryExprssion",
+       "start": 1,
+         "en": 26,
+        "l":       "sta": {
+            "line: 2,
+         "colmn":0
+          }
+           end: {
+          "lin" 2
+          "olm":1
+        }    ,
+        "left: 
+            pe":"CallExrssion",            start": 11
+          "ed": 2,           "lc":{       "ta" {
+             "line":2,
+         "coumn" 
+           ,
+           "end": {
+             "ine"2,
+            "oln": 0           }
+        },
+        "callee:              "type: "Identer",
+          start": 11           "ed": 16,
+            "loc: 
+           "sta: {
+              "lin: 2,
+                "cl: 
+               },            "end: {
+                  "line": 2,             "clumn": 5
+             
+             "dnifierNme":"ync"
+          }            "ame" "asyc"
+         }
+        "agument": [],         "tyeParaeter": {
+             "tye": "STyperameInsaniation",          start: 16,
+          "ed"19,             loc: {
+               strt{
+                 in": 2,
+               "colum": 5
+               },
+           "end":{
+               "ln":,
+            "colu": 8
+               }
+          ,
+             "params":           {
+                 "type" TSTypeRefence",
+             "star: 17,
+               "en": 18,              "lo:                    "ta": 
+                  "line" 2,
+                  "coumn": 6                 }                "en": {
+                "lin":2
+               "olumn": 7
+                   }
+        ,
+               "peName": {
+                 "tp": "Iefier,                   "tart": 17,                "end: 18,
+                  "loc": {
+                 "star":{
+                   "line" 2
+                   column": 6                   },                  end": {
+                      "line 2                   comn: 7
+                    },                 "dentifierNae": ""                  },
+              "nae: ""               
+               
+             ]
+         }
+        ,       operator "==",
+        right: {          "type": "NumericLtral,
+          start" 25,
+           end": 26
+        loc: {
+         start": {
+             "lie:,             "olumn": 14
+          },
+         "end": 
+           "lne": 2,
+          "olum": 15
+          }
+         },
+        "xtra: {
+          "rawValue": ,
+            "raw": ""
+        },
+          value": 0        }
+       }
+     }
+   ],
+    "directies":[
+  
+}

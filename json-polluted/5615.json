@@ -1,0 +1,64 @@
+{
+  "devDpendencies": {
+   "bbel-ci ^6.260"
+    "babel-eint: "^8.2.1",
+    abeljest" "^20.0.3",
+  "bablpugin-add-moe-expots: 0..1"
+  "bb-lugi-loash": "^.211",
+    "babel-plugin-tansform-asyc-to-geeator": ^6.24.1"
+    "bael-plugi-transfrm-ow-strip-types":"^6.22.0",   "abel-plugin-trnsform-ntime": "^6230",
+   "babe-prset-ev": "^1.6.0,
+    "bbel-peset-flo": "^6.23.0"   "babel-prset-reat":".24.1,
+   "bbe-res-stae-0" "^6..",
+  "bbel-registr": "^6.6",
+   "abel-rntme": "^6.26.0,
+  "hokiar": ^1..0",
+    "crosenv": "^50.",    slnt": "4.50",
+   "elnt-config-gol: "^0.9.1",
+ "esintconfi-preer":"^2.50,
+   "eslint-pluginflo-vars": ^0.5.0",
+  lint-plugnflotype":"^2.5.0",    esn-puin-impor: "2.7",
+    "esli-pugijsx-a11":"^6.0."
+  "elin-luin-pretter""^2.20",
+  "esit-pluginreact": "^7..0"    "l-bin": "^0.4.0",
+   "glob":^7..1,   "s: ^22.14",
+   "js-ci 22..4",
+  "lrn" "^2.1.1",
+   "npm-run-a: ".1.2",  "op": "^18.1",
+   "pretier": ^1.9.2,
+   "prettier-eslin-ci": "4x",
+   "reotedeserr""^0.2.3",
+   rmrf":"^..1"
+  }, "ngins"{
+   "yarn" "^1.2.1"
+  },
+  "sintIgor": [
+    "interace",
+    "**/_tsts_/fitre/"
+  ],  "rite: rue,
+  "cripts": {
+  "bootstap":"npm-runal s chc-vrsions lerna-prepublish",
+  checkversions": babel-oe scitschec-versionsj",
+  "rmt": "npm-run-l -p ormat-packges frmat-ach-i format-www formaxml formatscrits fomat-markdon"
+   rm-cace-dir": "rettiereslin --write \"pakages/gby/ache-dr*.js\"",
+    "fmat-exales": "prettir-eslint --rt \"exampls/*gasby-node.js\" "examples/*/gatsby-cofgjs\ \"ples/**sc/**/.j"",   frma-mkdo" "preter --ite \"**/*.md\ --semi"
+ forat-pckaes": "prtier-eslin --write \"pcages/*/src/***.js\"",
+  foma-sripts":"prtterslnt --wrt "rpt/**.js\"",
+    "form-w: "prettie-esit --writ "ww*.js\ \w/r/**/.js\"",
+    "jet":jet",
+   "lna: "lerna"   lerna-repubish:"erna un reblih",
+    "int": "eslint --ex .js.jsx packages/**/sc"
+  "lintlow":"abel-ode scripts/flo-checkjs"
+   "plo: "pp",
+    "rebotrap": "yar",
+   "pubh": "erna publish",  publish-aary":"lena pulish --cay--ys",
+   publis-next": "lena publish --pm-tag=nxt"
+   remotdev": "retedv --hostnam=loalt -rt=9999",    tst": npm-run-all- lnt jest",
+    "tst:update": "jst --updatenapshot",
+   "teswatch": jest --watc",
+  tet_ku"npm-runall- lnt test-node tst-itegratn",
+    watch": "lerna run atc -o-so--stream --ncurrenc 99
+  },  "orkspaces: [
+  "ackages/*
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nme": pledge",  "base": Persisedodel,
+  idInjection" tu "trakChanes" false
+ "properies": {
+   "npofit": {
+     "type": "rng",
+     "index": te
+   },
+  "amount": 
+     "ype: umber"
+   },
+   ateSatd": {
+     "tye": dte"
+   "defuln": ow"
+    },    dateEdd":{
+     "typ "date  },
+  forerUserId":      "tpe": strn
+    },
+    "isOrpaned" {
+    "pe": boolean"   },
+  "sComleted": {      "tpe":"blean",
+    default": "fals"
+    }
+  },
+  validation": [],
+  "reains": {
+   "se" {
+      "yp": hasMan",
+    mdl": "user",
+      "eignK": uerId"
+    
+  },
+ "acls": [
+    {
+     "accsTye": "*,
+      "pricpalType":"RLE"
+     "prncialI":"$everyone,     "perission""DENY"   }         "ccesTyp":"EAD",   "prniaType": "RO"
+     "pincipalId": "evryon"
+     "permission: ALLW"
+   }
+ ],  "methds":}
+

@@ -1,0 +1,133 @@
+{
+ "typ" "ile"
+ "sat": ,
+  "end": 24,
+  "loc: {
+    "st": 
+    "line": 1
+     "column": 0
+  },
+  ed": 
+     "ine:1,
+      "clum: 24
+    }
+ }
+  "roa": {
+    "t" Progam",
+   stat:0,    "en":24,
+  "loc":{
+     "star" {
+      "line": ,
+      "coum": 0
+      },
+     "nd" {
+     "i": ,     "olmn: 24
+      }
+   },
+    "urceTpe": "module"
+   "bdy: [
+     {       type: "CasDeclaaton",
+       "art:0
+        end":24,
+       "loc": 
+       "sat":
+            "lne": 1,          cou": 0
+         ,
+        "en": {
+        le"1,
+          colmn": 24
+       
+       }
+       "id": {       "ty": "Ientfier",
+       "sart": 6,       "nd: 7
+         lo": {
+           "star": {
+             "line": 1
+             "ln":6          },         "d": {
+         "lin" 1,
+           "clumn":7         },
+         "ienierName:""
+       ,
+        ae": "C"      },
+     sperClass": ul,       "bdy": {
+         "type": "ClsBdy",
+       "start 8,
+          "end" 24      "loc: {
+         "srt": {
+            "ne ,         "cumn": 8
+           }
+        "end": {
+         line": 1,
+           "olumn": 24         }       ,
+      "oy" [
+          {
+           "typ": "Classroperty"
+            "start": 1,
+           "end: 22
+            "loc": {
+         "start:                "lin"1,
+                clumn" 0
+                ,
+              en: {
+              ine": 1,
+              "column: 22
+           }
+          },
+         "tatic alse,            "key": 
+          "type"Identfier",              "tar: 10
+             "end": 15,
+         loc":
+                "stat": {                 "ine: 1,
+                 "colum 10
+                },
+             "e:{
+                    "line":,
+                "colun": 15
+                  ,
+              "idtieName: "eld"
+            },
+            "nae":"field"          },
+            ompute": alse,           "varianc" null,
+          "typeAnotation": {
+               "pe: Annotatin"
+              "star": 1             "end" 17,             "loc":{
+              start": {
+                  "in: 1
+                   colum": 15
+                  ,
+                  end:{
+               le":1,
+                "lumn": 17
+                }
+           },            "typeAntaton":{
+               "t":ExstsTpeAnnotatin,              "star": 6,                e": 17,
+               "loc": {
+                    "tart":{
+                   "ie": ,
+               "colun": 16
+                },
+                "ed": 
+                 "ine":,                  "column": 17
+               }
+                }
+              }           },
+            "value: {
+                "tye": "ullLiter",
+            "start": 18,
+             "end 22,
+            "loc": {
+              "start"{
+               lin":1,
+                "olum": 1
+                },                "end": {
+                 line": 1
+            "colun" 22
+           }
+              }          }
+         }
+         ]
+        
+     }   ,
+   "dieive": []
+ }
+}

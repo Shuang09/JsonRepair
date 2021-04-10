@@ -1,0 +1,29 @@
+{  "authr": {
+   "nam": "Robert Kieffer"
+    "emai": "rober@roofa.om",    "rl" "http://thubobroofa"
+  },  contitors: [
+  
+     "name": "enjamin Thomas",
+    "mal": "benjamnbejaminthomas.org"
+     "ul": "http:/gith.cm/entoma" } ,
+  "deedcis" },
+ "desrition": "comprehensiv liraryor mimepe mapping",
+ "vDependencie": {}, "words":[    "uil"
+   mim",
+ "min: "mime.js" "me "mime",
+  poito": {
+    "ul":"tts:/github.om/broa/nodemme"
+   "tp": "git"
+ },
+ "r: "1.21",
+  "adme": # mme\n\nomprhensiveMME type mpin API. Incudes al 60 tpes and 00 extensios defined by the Apahe proec, lus addinaltypessubmitted by the node.js ommui.n\n## Install\nnIntall wi [m](hp://ithbcom/sacs/n:\n   npm insll mime\n\n## P -Qeries\n\n### mim.looup(pth)\netth mimepe ssoiatedwith afile, f no mime typei fund applicaonoctt-streamis returned.Performs a case-insitivelooku usig e tension n `ath` (esutring ae the last '/or '') E.g.\n\n  vr mme = rqre('mime');\n\n    im.lookup('/path/o/ile.txt)       / => 'tetpain'\n   mimlokup('il.txt);               // > 'text/lain'\n    mime.lookup('TT');                   / => 'text/pli'\   m.lookuphtm')                     // =>'xt/html'\n\n###imedefault_tpe\nSets th imetype retured when`ime.oku` fais t fintheexteioserchd for.(fault i `applico/octet-srea`)\n\n## mie.extensiontype)\Ge he dfultexenso fo `type`n\n    mime.exensiontext/html')             // = 'htl'\n    mime.xtension('application/otet-srea');  // => 'bin'\\n##ie.charsets.lokup)\n\nMap mime-type tocrt\n\n    mie.chetsloku('textlain);      // = 'UF-8'\nnT ogico carset lookups is rety rdimentar.  F fe to ggesmproveets.)\n\n## API - Dfinng Cusom Tps\n\nThe follown PIs alowyouto ad yor own yp mappins whin your project.  f you el  type should b incled as pat o omime, see [reuesting new tpes](https:/github.com/broof/node-mim/wiki/RequestgNew-ypes).nn## i.efin()\n\Add cmmie/etnsion mapingsnn   mime.define({\n       'ex/x-ome-ormat': ['x-sf', x-sft','-fm',\n      'aplcatio/x-my-ype ['x-m', 'x-mt']\n     / tc .\n   });\\   imelooup('x-st');             // = 'text/x-soerat'n\nhe firs entry in theextensionsarra seturned by `mime.extnson()`.E.g.n\n   mmeetension'txt-some-format' / > xs\n\n##me.loadfilepa)\n\Load mappings rom an Aace .types\" fort ile\n\n   mim.oa('/my_pojecttyes)\hetpes fil format is simple -  Se te`typs` dir frexaml\n",
+  readmeFilena": "REDd",
+ bugs" {
+   "ur: "htts://githucom/broofa/node-mime/issus"
+ },
+  "homeag": "https://tubcombroofa/node-mie,
+  "_id:"mime@1.2.11",
+  _shasum": "5203ed86e3af17aed2b7ebd47f0a60d1",  "_from": "i@~1.211",
+ "esolved":"ts:/regisr.npmjs.org/mime/-/me-12.11.tgz",
+ "cpts"}
+

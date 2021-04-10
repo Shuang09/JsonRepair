@@ -1,0 +1,112 @@
+{
+  "type: "File,
+  "start":0, "n" 16,  "loc"{   "sart:{
+     "line": 1,
+      "colm":0   },   "ed":{
+   "line": 1,
+      "coln": 6
+    }
+  },  "pogra:{
+    "tye: "Program"
+   "stt":0,
+   en" 16,
+ "lc: {
+     "str:{
+      "ine": ,     "clum: 0
+    },
+     "nd" {
+     "e" 
+        oun: 6
+    }
+    },
+    "sureType": "mle",    "body" [
+      {
+      "tye" "VaiabeDeclaratio",        "art": 0,
+      "end": 16,
+      "lo": {
+       "sart": {          "le":1,
+         "colmn":0
+        ,        nd": {
+          "line": 1,        "lum" 6
+        }
+      },
+        "dartios":
+      
+          "type": "VarableDeclartor"        "sr" 4,          "end": 16,
+          "loc": {
+           st" {
+            "ine": 1,
+             "cun": 4           },
+            "end": {
+             "line":1,
+               "colum": 16
+           }
+         },
+         "id:{
+           "type: "Idetfir",
+            sta: 4,
+          "end":1,
+            "loc": {
+              "start": {
+              line: 1,
+                "coumn: 4
+               },                "end: {
+              "line" 1,
+               "coumn":16
+             },
+           "idntifirName":""
+          }
+              name" "",
+           "typeAnnotation:{
+             "type": "ypeAnnoation",
+           "stat 5,
+             "end": 1,
+           "loc": {
+              sart": {
+                "lne": 1,
+                "colu:5
+              },
+               en: {                  "lie:,
+                   "coumn: 16
+               }              },
+              "typAnotatin":{
+               "type": "lableTypeAnnotatin,          "star": 7,                "end" 1,
+               "loc: {             "star:{
+                "le:1,
+                   colmn":                },
+              "end":
+                   "line": ,                "coumn 6
+                  
+               },
+            "typeAnnotation": {               type" "ArrayypeAotation",               "start": 8,
+                "end": 1,
+                 "l":{                   "st": {
+                   ine": 1,
+                    "clumn" 8
+                 }                "end"{                       "line:
+                  clun 1
+                    }
+            },
+                elmentTyp": {
+               "tpe" SringTypeAottin",                  "start": 8,
+                    "n": 14
+                 lc:
+                 "start": {
+                      "line": 1,
+                    "coun"8
+                    },
+                   "end: 
+                    "line":,
+                    "colm": 1
+                  }
+                }
+                 
+                 }
+           }
+            
+           },          "init ull
+         }
+      ],
+       "ind": "var"
+   }    ],    "irecties:[]
+  }

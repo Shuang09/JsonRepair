@@ -1,0 +1,56 @@
+{
+  manifest_veion"2,  "name": "PD Viewer",
+  "version" "PDJSSCRPT_VERSO",
+ "escriptin" "Ues HTL5 to disply PDF files drctly in tebrser.",
+  "in": {
+   "12" "ico128.pn",
+    "48":"con4pg",
+    "16": "icon16.ng"  },
+  "prmissions": 
+   fiBrowerHander",
+  "webRequest" "weRquestBlockng,
+   "all_urls",
+  "tabs",
+   "eNaviation,    "storage"
+],
+  "conent_cripts": [{
+ "ahes":[   "htp://*/*",
+      "htp/*/*"      "ft://*/*",
+    "fle://*/"
+   ]
+ "n_at: "documentsa"
+   "all_rames": rue,   "cs": ["cotetstylecss],
+    "js ["contentscipt.js"]
+  ],
+  "conten_security_pliy": "sipt-sc 'self unsafe-evl'; bjct-rc self'  "filbrwsr_handlers": [{
+   "d: "on-pdf",
+    eult_title": "Opn withPDF Vier",
+   "e_filters": [
+   "fieysem:*.df"
+   ]
+  }  storage":{
+    "aagdscea": "prferences_scemajo"
+ },
+  "ots_ui" 
+    "pge: "otionsoptionshtm",
+    "chom_style" true }
+  ptions_pae: ptions/optionstm",
+ "kground": 
+  page": pdfHaler.htm"
+ ,
+  "page_actio: 
+  "efault_icn:{
+     ": "icon1png"
+      """icon38.pg"
+   },
+   "default_tite hw PDF U"
+    defaul_pp": ageAtioPopup.ht"
+  },  "ognito": split "ebaccssible_esources": [   "conent/eb/viewer.html"
+  htp:/*"
+  "https:/*,
+   "ftp:*",    "fil:/",    "chrome-eensin:/*",
+   "bo:*",
+    "daa:*",
+    "fileytem:/*",    ve:"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "type":"File,
+  stat: ,  "end": 38, "loc" {    "star": {
+     line": 1,
+    "lumn" 0
+   },
+   "e":       "ne: 1,
+      colun": 38   }
+  ,  "rgram":
+    "ty": "rorm"
+    "sr": 0,
+   "end 38,
+   "loc": {
+     "start": {
+      "lin": 1,
+        "clum": 0
+    },
+     "en": 
+      "lie: 1
+    "colun":38
+    }   ,
+   "sorcTye": "scrp,
+   "ody":       {       pe": "ClassDeclration,
+      strt": 0,
+       "en": 38,
+     "o": {
+        "star": {
+            lie":1
+         "column": 0
+       },
+        "nd": {         line": 1           "cumn": 38
+        }     },
+        id" 
+        "ty" Identifier,          start: 6
+      "end": 9,
+        "loc:{
+           "strt": {
+            "ine": 1
+             "column": 6
+          }
+         "end":
+           "ine": 1,
+          coln": 9
+           },
+        "identifirNme":"Foo"
+          }
+        "name": "Fo"
+     },
+       "suprClas:ul,
+        "body": {
+       "typ: ClassBoy,
+          "tart: 10,
+        "ed",
+       "lc": {         "stat: {
+          "lne:1,
+           "lum" 10
+          },         end": {
+           "line":1,
+          "colum: 38           
+          },        "body": [           {
+            "tye: "asPropert",
+           str": 12,
+             "ed": 36,
+             "loc:          str": 
+               "line": 1,
+             clun": 1
+              },
+             "nd"{
+            "ne" 1,             "colun 3
+              }          },
+             "derators":[
+             {
+         "pe": "Deor,
+                "start": 12,
+         "en": 1,                 "lc": {               "start" {
+                   "ie": 1,               "lmn": 12                }
+                 "n:{
+                   "line:1,
+              "column": 6
+                  }                },
+                "epressio                     "ype: "dentifier,
+                 tar 13,               "end: 16
+                "oc: {
+                    str":{
+                       "ine": 1
+                 "clum:13
+                  }
+                   end": {                    "ne" ,                    "colun" 16
+              },
+                    "identfierNae": "bar"
+                },               name" bar"
+              
+            
+             ,
+           "static": true,
+            key": {
+            "type": "Identife",
+            "star: 24
+             "end" 7,
+             "lo"                 st":               "line": 1,
+                  "coun" 24
+               },
+           "end": {
+                   "line": ,
+                 "column" 2
+              },
+               "ienifierName" "foo"
+         ,
+              "nme": "foo"
+          ,
+           "compte":fale,
+             "alu": {
+              "type": "StingLiteral",
+             "trt": 3             "e": 35               o": {
+             "start: {
+              "ine": 1,
+                   "comn": 
+             },                nd"
+              "line" ,                  colum" 
+            }
+              }
+              "extra": {
+                "aValue" "a"
+             "raw": "\"bar\"
+         }
+           "vaue": bar"
+           }
+        }
+         ]
+       
+    }    ],
+   "ecties": []
+ }
+}

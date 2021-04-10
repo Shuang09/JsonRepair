@@ -1,0 +1,151 @@
+{
+"type: "e",
+  "trt":0,  "end: 6  "loc: {
+  "tar": {
+     "ine: 1,
+    "column":0    },
+    end":{    "lin": ,
+   "colmn": 2
+   },
+ program": {   tpe" "Progam,
+    "sa": 0,
+    end" 26,
+  lo":
+      "tart: {
+    "line": 1
+       "lm": 0     },
+    "ed: {
+     "ne": 1,
+        column":26
+    }    },
+    "sourceTe": "du",
+    "ody": [
+   {
+       "ype":Expresonatee,      tart":0,
+      "nd: 26,
+        loc: 
+        "strt":{           "line: 1,
+          "column: 0
+         },
+        "end
+         "lin:1
+       olumn:        }
+      },
+      "xression": 
+          "typ":ssignmnxpssion",
+          "start": 0,         "end" 26,       lc":           "strt" {
+           "lne": ,           "clum: 0
+       },
+          "end": {
+         "li"1,
+            "column": 6
+        }
+       },
+         "operor":"",
+        left":          "type": "Identifier         "start": 0
+           "end": 1,
+            "l"{
+          star": {
+              "line": ,
+             "column": 
+             },
+          "end" {
+            lne":,
+                "colum": 1            }
+          idetfierName":a"          },
+         name" ""
+        },
+     "righ": {
+          "type":"Objecxpresion",          "start": 2,
+           "end":2,        "lc" {
+           "trt": {
+            "lie": 1,
+               "column: 
+            },
+            "n": {
+               "n": 1,
+               "clumn": 6
+           }
+         ,
+          "properties": [
+          {
+            "type" "ObjecMetho",
+             start: 3,
+             "en" 25,
+              "loc: {               tar" {
+                "lin": 1,
+              "column 3
+                },
+            ed":               "line": 1,
+                "clumn: 25
+             }           },
+            "methd": false,
+               "ey": {
+               "tye": "Idenifie",
+              "start": 7,
+              "end"14,
+              "loc": {                  "start": {
+                "n":1
+                   "colmn": 7
+                 },
+                "end: 
+              "line": 1,
+                 "colmn": 4
+               }
+             identiierNam": foPro"
+             },
+                "ame": "fooProp"              },              "cuted" fale,
+            "id": get",
+            ariance: null,
+            "id": null,
+              gnator": als
+              "sync": fale,
+               "params": [,
+            "preicate" nul,
+          "rturnTye" {             "type": "TypeAnottio,             "stat":1
+               nd" 23
+               "lc": {
+                 "start": {                  line": 1,
+                  "colum": 16
+                },
+                "ed" {
+                  "line": 1
+              "column":2
+                 }                },
+               ypennotation":{
+              "": "NmberypeAnotaon",
+            "start 17,               "end": 23,
+            "loc":{
+                  strt: {
+                   lin": 1,
+                    "olumn": 1
+                  },
+                nd: {
+                      "ie" 1,
+                   "coumn": 
+                  }
+                 }
+           }            
+            "body {
+               type"BlockStatement,
+                "start":23,
+             "end": 25,
+                lc": {
+                   "stat": {              line 1
+                 "clumn": 2
+                 },
+                 "end":
+                    "line:1,
+                 "colun: 5
+                
+                 },
+             "by" [],
+               "dicivs": ]
+              }
+             
+          ]       
+      
+      
+    ],   "direties": []
+  }
+}

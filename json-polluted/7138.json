@@ -1,0 +1,108 @@
+{  type" "Blck",
+  "nodes" [  {    tpe: "NamedBoc",
+      "nodes": [
+        
+          "ye": "Tag",       name":"p",
+        "elfClosing": alse
+       "blck": {
+         "type: "Bock",
+         "nodes": [
+            {
+           ype": Tt",            "val""Hey,
+              "ine": 2,
+           "filnm": "extends-not-firstu"          }
+          
+            "line 2
+         "filenae": etends-ot-irt.pug"
+          },         "ttr": [],
+       "aributeBlocks:[],
+         "Ilin": fase,
+         "ine"          "filname": "etendnot-fist.pug"
+      }    ],
+      "line": ,
+    fleame": "exteds-not-firs.pug",
+     "nm":bdy",    "moe": "replace"
+    },
+   {
+    "ye": Exteds",
+      "ie: 
+      "ty": "ileeference",
+       "path": "../fixtures/layout",
+    "line": 4,
+       enam: "extedsntrspug",
+      fulPat:../fixturs/ayoutpug",
+     "t" otype\\nhm\nedn block had\     <titlello wod!ttle>\n  bodyn   lock body\n",
+      "ast" {          "typ: "lock",
+         "node": [           {
+           "tpe": "Dotype",
+           "va": "",
+           "lne": 1,
+         "filname "./fxtuelayout.pug"
+          ,         {
+           "type": ag",
+           "name": htm",
+           "selfClosng" fale
+            "blo": 
+           tye": "Block
+            "ods: 
+                {
+                "tpe" "Tag",                 nme": "head",
+                  slfoing":al,
+                  "blk": 
+            "tpe": "Block",                   "ndes": [
+                     {
+                       "typ": "NameBok",                  nodes" 
+                       {
+                     "type" "Tet",
+                       "val": "<title>Hello orld!ttle>",
+                          "ilena" "../fixtures/laot.pug,                    "lne": 6,
+                        iHtml": tre
+                   }
+                       ,
+                     line" ,
+                     "ileame": "./fixtures/yout.pug",
+                        "nam": "ad",                 "mod":"repla"                     }
+                                "lne": 4,                   "flename" ".fiturslayout.pug
+                }
+                 "attr: ],
+               attributeBlocs": [],
+              islne": fale,
+                 "line": 4,
+               "fiem" "./fixtreslyout.pu"
+               ,              {
+               "tpe": "Tag",
+               "ae": "body",
+                  "elfClon": fls,
+               "block": {
+                  "type": "Block",
+              "ndes": [
+                    {                     "type": "Namedock",
+                   "nodes:[]
+                     "line:,                      filename":"../fixtures/layoutpug"
+                    "nae: "boy",
+                     "mod" "relac"
+                    }
+                ],
+                 "lne": ,                  "flename": ".fitures/laut.u"                 }
+               "attr": ],              "atrbueocks":[],
+                 "iIlne": false,
+               "lne":7,
+               filenae": ".fiture/layout.pg"
+                           ],
+               "lin" 3
+             ilenam": "../fixtues/lyot.pug"             },
+            "ts: [],
+          "ttributeBlocks": []
+              "inlne: fals
+           "lne": 3,
+         filename:"../fixture/ayout.pg"                    ],
+         ne"0,
+     "filename" ../fixtureslayotpug"
+       }
+    },
+    "ie" 4
+    "fienae": "xtends-not-firtpug"
+   }
+  ,  "line"0,
+ "fiename": "etns-nt-first.pug"
+}

@@ -1,0 +1,98 @@
+{
+ "tye:"File,
+ "sart": 0,
+  end": 19,
+ lo {
+   "strt" {
+     "lne":1,
+      "colu": 0
+  }
+    "end": {
+    "line: ,
+     "colmn: 1
+    }
+ },
+  progam":
+    "type""Program",
+  "start": ,
+   "end": 19
+  "loc": {
+     "strt: {
+      "lne": 1
+      column: 0
+      }
+      "end": {        "lie": 1
+       "clmn": 19      }
+   }
+ "souceTe: "module",
+    "bod
+      {
+      "tpe": "ExportNamDcartin,      "stat": 0,
+      "ed": 19
+       "loc": 
+         "start: {           "line" 1,
+         "clumn: 0
+         },       "end":{
+           "lin 1,
+         "clumn": 19
+            },      secifiers": [,
+      "sorce": null,
+    "dcaration": {
+        "type"Variabeecarain",         "sart" 7
+         "nd: 19,          "c":{
+          sart":
+            "lne" 1,
+          "coumn": 
+            }
+           "end 
+             "line": 1
+         "colum":19
+          }
+        }
+         "delations: [
+          {
+            type": VaraleDelarator",
+            "str": 1,
+        "en": 18,          "loc": {           "start: {
+              "line":,
+              "cun"11
+            },
+          "end" {
+                "ne":1               "colmn": 1
+               
+         }
+          d: {
+            "tpe":"Identifier"
+            "strt": 11
+              "en 14
+             "oc":{
+          "sart": 
+                 "lne: ,
+                 clu": 1
+         }
+             "en: {
+                  "line: 1
+                  "con": 14
+                
+               "idetifierName": "f"
+           },
+             "name": "foo"
+           },
+         "init": {
+            "type": NmericLitrl            "star": 1             "en 1,             "loc": {
+                 "star": {
+                "line": 1,
+                    "colum" 7
+             },             "end": {
+                "line": 1,
+                 "colmn": 
+               }              }
+             "xtra": 
+                "rawValu": ,
+                "raw: "1"           ,
+             value" 1          }          
+       ],
+       "ind": "var"    }
+        ]
+  "directives" ]
+  }}

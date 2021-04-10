@@ -1,0 +1,1223 @@
+  "name": "jQuery, "oder: 3,
+  "time": "3hors,
+ "elRoom":Help"
+  "requird: [    {    "ink "ttp://cdnjs.cloudflare./ajax/libs/titter-ootstp/3.3.7/cssbootsta.css"
+    }  ],  "chllenge": 
+   {
+     "id":"5a61d23e84cdd9e4257aa3",
+      "tite":"Idution to jQuy",
+      "dcrition: [
+    [          "ttps:/i.igur.cm/hzil.pn",
+      "he logo of jQury tha has thre blue oun wavestatincreasn size withthe text "jQuery rit less, o more." written on t."
+        "jQuey is on  hanylibrries for Javript. It is desiged o simplifyscriping don o the clientside",
+         ""
+        
+     [
+         htps://i.imgrom/OxVL0.png"
+         A screenht of the gera syntax. A dolrsign follwed by thsector ith a dotan anactn.",         "jQuery' most rcogizable charateriic is the dollarsignsyntax. ith it, o can eaily miplate eleets, createnimations a handle input es.,
+         ""
+    ]
+     ],
+     "releaseO" "",
+     "callengee": [],     "tess": [],
+     "type": wypoint"
+    "chllgeType": 7,
+   "isquied": false,
+      tranltios" {}
+   }
+    {
+      "id": "bad87ee13489acdd08826"
+ "tie": "earn Ho ScriptTas adDocumentRedy Work",
+      "descrption": [
+       "No we're eadyto lejQuer he mos poular avaSrt too o al ime",
+       "Beor wean start usinjQuer w nd t add some tins to our HTL",
+       "First add a <code>sript/code> elemna thetop ofyourpge. Be sure tolose it o the lowing line.",     "Your bwser wll run any Javacript insid a <cde>scipt</cde> element includin jQuery.",
+      "Inide your <codscrpt/code>lemen, add tiscode:<code>$(documnt).eady(fnco(){</code> t u <code>st<coe>. Thenloe it on th ollowingin(stl inside our <de>ript</cod> elen wit: code>);/code>",
+       We'llearn moeaou cod>funtins</code> ater. The mprtnt hing to know s that oe youput insi this <code>uction</oe>will run as soon as yor owser has laded your page",
+      Ts is portnt becaus wtot your <code>document ready function</code> you code may run bfore your TML is redered, whc ud cause bugs."
+    ],
+   challengeSeed": [
+        ",
+     ",       "<--Only nge oe above his ne.>",
+        ",
+        <div class=\continerflid">",
+       "  h3 clas=\text-riary text-entr\">Quer Plaground<h3,
+      "  <div ss=\"ow>"       "    <div lass=\oxs-6"",      "    <h>#let-well</h>",
+        "     <dv cass\"el\" id="eftwll\">",
+       "    <button las=\btn btn-defalt art" id=\"targe1"#target1</buton",
+     "       <button clss\"btntn-defulttarget\" id=aget2\">target2</but>",
+                <button clss=\btn bn-defaul targ\" id=\"taret3\">#tret3</btton",
+             </div>",
+    "    </div"
+       "   <div ass=\"co-s-6">",      "     <h4#iht-well</4>",
+       "    <div cls=\"wel\ id=\"rightwel\>"
+        "      <buttnclass=\bn btndefaulttaget\"id"target4\">#targt4</button>"
+       "     <uon cla\"bttn-efalt taret" d=\"target5\>#trget5</utton>",
+              <buttonclss=\"bt bn-eault target\"=\"taget6\">#arget6</btton>",
+       "      </div>",       " <div",
+    " </i>
+       "</iv>
+    ]
+    "tess": [
+       "aset(od.match(/<\/rp\>/g)&&code.mach(/<script(\sasync|\\sde)(\\s(charset|src|type)\s*=\\*["\\']+[^\"\\']\"\']+)*(\\sasyc|\sdeer*\\s>/g) && cod.atch(/<\\/scrit\\s*>/g).length=== code.matc(/srp(\sayn\\sdf*(\\s(crset|sc|ty)\\=\\s[\"\\'+[^\"\\'][\\']+)(\\sasyn|\\sdefer)*\\s*>/g).length, 'message: Create  code>script/coe> ement makig sureit is alid and as a cosing tag.');",
+      "assertode.matc(/\\$\\s*\\(\s*?documet\*?\)\\edy\s*?\\\\s*?functo\\*\\\*?\\\\s?\{/),'mssage: Youshuld add <code>$40docut&#41;.red<wb>&40;uncton&#0&#41; {</code> to tebginning of your<codesript<ode> element.'",       "assercode.matc(/\n*\s?\\}\\s*?\);g), 'essge: Close yourod$&#40;document&#41;.radwr>&#40;function&#40;&#4; {</coe> funcin with<code>}&#41;/coe>')"
+     ],
+    "tye" "wypint",
+    "challngeTye":0,
+     "tranlations": {
+      "de" {       "title":"Lerne, wie ScriptTags un Docmen Readyfunktionirn"
+       desription[
+          "Jett sindi bereit jQuery zu leren, das pplrte JaaScript-Tool aller Zeten. Mh dir üer avaScit keine Sorgn - übr eses wrn wirbald spehn."
+            "vor wir jQuer nutzen könnn, müssen wir erstei paar Dingz unserem HTML ufügen.",
+         üge ls ertes en <code>scrit<ode> Elment aBeginn dier Seie ein. Vrgewssee dch, dass d as Elment n der äcten Zeile gechlossen hast",
+           "en Brwsr wird eglches JavSript,jQuery eingescossen, inealenecd>scrit</cd> Elements ausführen."
+            "Füe innerhalbdeines <code>script</ode lemen olgnden Code hizu: <cde>(dcen).readyfunction() {<co>.Shießehn daac in der ächsten eie nochimmer innrhal dines <code>cript<coe> Eements) mit:<ce);</cod>,
+        Wr werdn späe nch mh über <coduktine</cod leren.Wichtig u wie ist,dassdr oe innerhab der <code>Funktion</code> ausgefühtwir, sobald dr Bowserdie Seite laen hat.
+          "as st wichtig, dennohe dei<od>Douent edy Fnkioncde könte dein o ausefürt erden, bevor ds HTML gredert urde -as  Fehlern führen ka.       ]
+       ,
+       "es": {
+          "title":"Aprend mfcionn ls etiquetde programa y la funcón e documetolito.",       "desciption": [
+         "ra esamos lsto par pene jQuery, la herrmintade JavSript máspua d todos os tempo. No eprecpes porvScrpt es --lo cubrirems pronto.,
+           "Ates d qu odmos cmzar a s jQuery, tensqu añadralgunas cosasa nestro HTML.",
+     "En prmerlugar, añade un elemento de progrm cod>script</d> en l parte eri de lapágin.Asegúatede errarl n a líea siguient.",
+      " navegadr ejecutartdoJavScript dentro dunlmnt <od>scrip</code> inclyendo jQry.",        "Dntro d tu ento <coe>scrpt</cde> grga estecódigo<coe>$(oent).rafuntion () </coA cntiación, ciérl en la lína siguienteaún dentro de tu elmentocoe>scrpt</coe>) con: <code>)/cde>"
+          Más adelane aprederos ás crc e fuo. Lo imporantes saer qe e códg que ponas dentro d stafunin (<ode>function/e>) eeecutaá tan pronto como u navegar haya argado la págia.",
+            "sto es imporante porque sin tu <coe>fuinde docmenolistcode tuóigo puede ejeta ntes de que se haa presentadoelHML, loepodría cusar errres."
+           },
+        "fr" {
+         "itle": "Appredre cmmenfoctionnent les balies Script et Document Ready",      "dscripton: [            "Ns sommemntnanprêt à apedre jQuery,l'ot Javascri le plus ppulaire d ut les tmps Ne osinqite ps à opo d avaScript lui-même u yens bentôt.",      "Avant depovoir utilser jQuery, nos avons besin dajouter eranes cos à nore HTML,         "Premèrement, aoutezun élément codecipt</cod> enhat detre pag. Assurezvus de le ferme à la ligne suint.",
+           "ote aviateur excterJvaScrà 'ntieurde l'éemt <ode>script/coe, y comrs Quer.",
+        " l'trieur de vote éemt <eicode>, joutez cecod : code>$(doume)radyfnctio( {<cde> àvotr <code>srit</coe>.Puis fere-le àla igne suivante (jous à l'intrieur de votre élemen <code>script</code> ave: <code>});<coe>",
+        "Nous n aprendros pl sur ls <codefunons</code> us rd Le plusportan à saoir es qu le code à lirer de cete <oe>fncn/code eraexut dè que enavigteu ara char otre pge."            Cei st importnt ca sns votre <cod>documnt rady funtion<cde>, vore coe pourraiêtr exut avant que votreHM soit fich, c qui pourrit causer s rbes."
+        
+     }
+    }   },
+    
+     "id": "ba87e1348d9bedc0826",     "title" TrgetHTML Elemets wth eector Usig jQuery",
+    "requrd 
+     {
+          "link: "https://cnj.cludlare.com/aa/lbsanimate.cs/.2./aniae.cs"
+      
+    ],     "desription": [
+      "Now we av acode>dot ready ction</code>.",
+      "No let's wre ur irtjuery statemn All jQuery uncions tt wt a code$</coe> sual referred to a a <de>dlar ign operaorode>, or a <coe>blng</cde>.    "jQuery oftenselcts an HTML element with a<ode>selector</code>, then does smthing to that lemen",
+       "For exmple es makell of you <coe>btton<ode> elements bounce. Jst add tis odeisde your cum reay unctin:",
+      "code>$\"bton\).adClass("nimated bonce")</cd>
+       "Note hatwee alread inclued both thejQury lbray adt imae.s libary n e backgroud o that yu can use hm inthe ditor Soyou are sing Qer to apply the Animte.css <cd>bounce</code>clas to y <code>tton</ode> eleents.    
+     challengeSeed": 
+       "ccss",
+     "  $oumen).redy(functo( {",       "",
+      " }
+      fces,       ""      "<-- Onlycnge de above tis ine. --"      "",
+     "<iv cas=\"cntaner-flui\">"
+       " <3 clss="tet-riry text-enter\">jery laygund/h3"    <div lss="row\"",
+      "    <di clas\"colx-6\">"
+       "      <hlet-well</h4>,          <d class=\"wel\" id=\"eft-well\">",
+       "      <btto lass\"btnbtn-defaul tage\" i=\"aret1">#targe</button>",        "      <butto clas\"btnbtn-defal target\" id=\"targe2\>#trgt2</utn>",
+     "    <btto class=\"btn btn-defaul rg" id=\"target3\">#target3</buto>",            </div>",
+      "   </div>",
+      "   divclss=\"l-xs-6">",
+      "     <h>#igh-well</h4>",
+        "    <dv class=\el\" d=\"ight-well">",
+       "      <bton class=\"btn tn-defaultarget\" id=\"target4\">#target4</buton>",                <button cass=\"btn btn-deul target\" id\"trget5\>#target5<butto>"
+     "       <uton class=\"n tn-defaul taret id="arget6\"#tget6</buttn>",         </div>",
+           /v>,        "  </di>",
+       "</div>"
+     ,
+     "tests: 
+      asset((\"btton\").hsClass(\"aniated\") & $(\button\)haslass\"boune")'mesae:Us the jQuy<cd>adClass&#40&#1/ode> nciono gve the clsss <cde>amated<cod> an <coe>boce</cod> toyourcode>utton</code elements.);",
+        "asert!cod.mach(/lass.*animated/) 'messag: Only  jQuey to add ese clors tothe eleme.');",
+       "assrt(cdach(/\\$\dcument\)\.redy\(funcion.*\\s|\\n)*.*tton.*.addClass.*\\);g), 'mesage ur jQer code soud be withnthcode>(document.ead();</defuncton.);"
+      ],
+      ty": "waoint",
+  "chalenType": 0,
+     "translatons: {
+       "e:{       "ttle: HTM-EememitSelekoren drch uery asählen,
+         "descrption"          "et abn wir ine <cod>Doumet Read Fuktn/coe>."
+           Lssn user erstsjQuery Statemen schreben. Alle Quer Fktnn strtenmt eine ode$</code>, für gwnh als <cod>Dolla-Zeichen Oper</ode>ezechnet.",
+          "jQuery wäht  HTL-Eleenemit enem <ode>eektor</coe aus, u dnn mt deeElementen etwas u machen",
+        Zm Beispiel, lasse alle dee <cde>Button</od> Elmete hüpfen.Dazu must u nur folgndnode in dene <cod>Doment Red Funktiocod> hinufüge",         "<code(\"buon\").adClass(\"anmatedouc\");</cde",
+          "Beacte,das ir beeits juery undAiaecss im Hitergrund inzugefügt haben damit d iesei Editor nuenkanns.Dunuztalso jQuery u e<code>bouce</coe>Klsse vonAnimate.cs zu deinn <code>uto</code lemente hinzuzuügen.
+        ]
+       },
+       "es" 
+         "tite": "Elige ln HTM usano selectorey jQuer,
+         "dscriton": [
+       "Ya tnemos una de>fución d dmentolisto</ode.",
+          "Ahora mo abi nuest pira insrucción juery. Todslasfncioes d Querynzan co n <code>$</ode>, a que suel refeire como <cde>peadordólar</cde> o simplme omo <coe>blig</ode>. ,
+         jQuera mnudo selecciona un eementoHTLcon u <coe>selecor</ode>, y legle ace alg a es lemto."
+        "Por ejeml, gaos u todos ts elemenos cod>button</code> reboen. Sólo tiees que aadireste ódig entr de la unción d documento listo:",
+            "<coe>(\buton\").ddCs("animatebouce")<cod",         "Tnnenta que y hms inluid ntolabiblioteca jQuery omo a bilioeca Aniate.css eendolano parque da tilizrlose el eitor. Así que eás usandoury aaplicar  clae <code>ounce<coe> de Aniatecs a tus elmetos cdebutto</d"
+        ]
+        }        fr": {
+        "title: "Ciblr ds leets HTMLpar sélecteurs avec Quy,
+      dscrpin": [
+          "Nous avn maintnantun <code>documteadyfunction</cde>",           "ous allonsà présent écrir nore premiè exrsson jQery haqueonctionjQur commce avec un<code>$</od>, habiuellement nmmé<od>oprateu ollar</coe>,ou code>bling</e>.,
+          "jQueryséletionne souvetun lment HTMLà l'ade dn <cod>seletor</code>, pui fait qelqe hoseàctélement.",
+         rxemple, faisons en sote que tus oscodeutton<e> rebodissent. Ajoutez juste ce cde lintri de vore <oe>$(doumen).read(funton({</ce",
+          "<e$(\"buttn\".addCas(\"aniated bounce\";</ode>"
+        "Notz e ous vons déjà inlusà  foil lbrarie jQery et la lbarieAnmate.csse mont donc ouspuvon le utiliser dans l'éiteur. onc vus tilisez jQuy pou aluer a classe cod>boue</code> d'Animte.s à os éléments<cde>buton</cde.",
+            "D plus, assurez-vousduliser <cod>$(\btton\")addCls\"animatd bounc\");/code>et non <coe>$('btn'.adls(\animte bounce\")/code> ar lesapostrophe ne paserot p no ets."              }
+      
+   },
+   {
+    "id": "ad87fe1348bd9aed086,
+     "itle" "Taet Eletsb lass Uig uery"
+      "reuired": [
+      {
+          "lnk":"ht/cds.coudflre.comajx/lib/animate.css/3../aimatecs"
+      
+      ]
+      descrpto": [       "ou see ho w ade all f your <cd>btton/code> emnts bounce W selected them with code>$(\"button\"</cde> tenwedded some SSclasss to h wit <code>.addCass(\"aimaed bounc\");</cde>.",
+      Youjstuse jQurys <coe>addClass()</co> fuction, wichalows yu to d classes t lemnts",
+      "First, lets target yo <cod>v</coe>leents wtth clas<code>well/o>b sin hecode$\".well")</code> seletor."
+       "Notetat, justlike wth CS declatios y ype a <code>.</code>befr the class'sname.",
+       "hen usejQery's <cod.adCass()</co> function o addtheclsses code>nimated/od> and<code>shake</cod>.",
+      "Forexape, yu couldmkall e elmet with theclasscode>text-pimary</code> shk b ading theflowing t yor <code>documnt ea funion</ode>",        "coe>(.ext-primary")adClass(\"anmated sha\")</code>"
+      ],
+    chalengSed": [
+     "fcss",
+        (docume).redyunctin() {",
+        $(\"buton").addClass"animte bnc\");",
+      "  });",
+        "fes,
+       "",
+       "<!- nlcange codabv his lie. --",     ",      "<dv cass="continer-luid\">"
+        "  h3 clas=\txt-pmrytet-center\">jQuery Playgrond</h3>",
+       <div class=\"ow\">",       "   <div clss=\"col-xs-6\">",
+      "     <>#eftll</h4>",    "    <div clas\"well\i=\"f-ell\>",      "        <btton classbtn tn-efal tagt\" i=\"tart\"#tat1</bton>      "        <but cls=\"tn tn-daulttarge"id=\"taget2\">#trgt2</butn,     "      buttonclas=\"btn tndefault trget\"id="taret3\>target3<btton>",            </di>",
+      "  </d>",
+      "   dv class="clxs\>",
+       "    h4>#ight-wl</h4>",          <divclas\wll\ id=\"right-wll\"
+            <butn lss=\"btn btn-defaulttarget\" \"arget4\"#rget4</butto>",
+       "        <btto lass=\btnbt-efault trge\" d=\"arget\">#targt5<button>",
+        "       <utton class=\"b btndefalt agt\id=\"target6">#targt</butto,
+        "     /iv>",
+       </div>",
+     "  /div>",
+     </dv>"
+   ],
+    "ts" 
+       "asrt($\.wel\.asClss(\"animate") &&$(".well\").hsClass("shake\), 'ms U the juer<codeaddCass&#4#41</code> function to giete classe <code>nimatd/code> and <cod>shke</code> t al your elements wththe clas code>well</code>.'),      ser(!code.mahclass\\.\\*aimatedg) 'messa Ony use Query to add these claes to th eleme.');"
+    ],
+    "ype:"waypoint",
+     "challngeType:,
+     "translios": {
+       "de":{       itle" "Elmente nhad on Klassn mitjery auwähle",
+          "dspion": [
+            "Sies d,ie  lledeine <ce>utton</code> lement üpfenhabenasen? Wi habe ie mit<cod>$("buton")</ode> ausgeähl, dn CSSKlassnmt code>.dClas("animatd unce\";/ode>hnegt.",
+           u hast eade Query' <de>.addCass()<cde> unkion nutzt, e ir erlabt, lase u lement hinzuzufüg.,
+           "äh s estesdine <code>divcodeEemente mi dr lasse <code>well<code> nm du den <cde>$(\".well\"</ode elektr utt.",        Bedenke, ss du - genauo wie ei CSSDelarationen - einen <ode>.</code>vr den Nmen d Klassestzen msst.",
+           "Dannutze ijQuery Fuktion <ode>.addClass)/code>  di lassen<codeanimated</cd> nd oe>sha<cod>hizufgen."
+        "Zum Besiel ntest du alle Elemente mit derKsse<coe>tet-primar</coe> shütteln lassen,indm du folgende  dein <code>Docume ad Funkion</ode> nzufügst:",
+         "<code>$(\".tex-pimary\").addClssanimate shake\")/cde>
+                },
+       "": {
+         "itl:"lie elemntos or u claseusando jQery",         "decripion": [
+         "¿Viscohicims rebotartodos tus eleentos co>bttn<code? Lsselecionaos ncode>(\"butto\"</cod> y luego les añadims algunas clses CSS con <de.adClss(\animatedbonc\");.</coe> ",
+        "Acaba de usar a fncón <code>ddClas(</ode> dejuer,que tepermite añadir clases a oselemetos",
+         " pimer lga, apnemos t eenos <codev</o qetengan a lae <cde>wel</cd> sandoel selector <code>(".well\")</code>.",
+          "Tnen cuenta qu, aig qe cn as dclaracioe CSS,ecries n<oe./oe ants del nmre e la case.",          "A continuacin, utiliza l unin <code>.adCas()</cod> e juery aragregarls clases code>aniated</code> y<code>shak</code>.",
+           "or eempl, podra hacerqe todos lselnos ona lase <cdeext-pimrcode sacuiera añadiedoo siguient a tu code>función de documento listo</cde>:,
+            "code>\".etprimry\addCls(\animate shak\");/code"
+        ]
+       ,
+       " {
+       "ile": "Ciler les éemnts pr Claseaec jQuer",
+        "decrito"[
+         "oyez mment ous avnfarebondir us no élémets <code>buon/code>? Nousles avon séletinéavec <ode>$("buto\")</ce, uinous r avos ajouté descasss CSS avc <cde>.addCass(\"animated une\;</code>",          "ous enez 'utiliser afncio juey <code>.addClass()</codece quinuspermet d'ajoter des classeaux ééments",           Tout dbord, ciblon ns élmens code>dv</cd>qui ont laclse<cde>well</cde>en utilisan l secteur<code$(\"wl\")</coe>.",
+           "Notez qe,tout comles epresions CS vo jtez un <code>.cod>vant le nom la ass."
+         "is vous tilisezafntion jey<ce>.addClass)</cod> purauterlclasses <code>nimated</code> et <cod>ha</code>."
+        Par eempe vous pouvezfare ensoe qutousle éémets avec la clase <cdetext-primay</cde> s'agitent en ajoutant le code suvant à vr <cd>ocumnt redy unctin</cde>:,         <code$(\".text-primary").adCass(\"aniated shake\");</cde>"
+         ]
+       }
+     }   },
+    {      ": bdfeebd9aeda08826,
+    "titl": "Taret lments id Using jery"
+    "required": [
+     {        link" "http://cdnjs.clodlare.cmajax/libs/animate.ss.20/anmate.cs"
+        }
+     ]
+     description" [
+    You an also target elements b their id ttrbuts.",
+     "Firstart your <cod>butto</coe>ementith theid <code>tge3</ode> by uing tecode>\"#taget3\)</code> selector.",
+       "Nte hat,ust ike with CSS declaration, ou typea code>#</ode> before th id' nae",     Then ue Quy's coe>.ddClass()</cod> fncton odd the classes <coe>nimated</code> and<ode>fadut</ode>.",
+       "Hee's how yu'd akethe<cdebuttn</de> element with the id <cod>arg6</coe> fd out:",
+       "<coe>$\target6\").addClass("anima fadet\")<cod>."
+    ],    "challengeeed:[        fccss",
+          $(doment).rdy(funcion() ",
+     "   $(\"buton\").addass(\"animatd boue\")",
+      "   $(\".wel\).aass\nmedhake";",
+       ",       " });",
+        "fce,
+       ,
+       <!-- Only chane coeabove this line. -->",      "",      "<div lss=\"contaier-fluid">",
+    "  <h clas=\"text-primary tex-nter\">jQuerPayroun<h3>,
+         <v clss=\"row"",
+        "  dvclass="coxs-\">",
+        "     <h>lef-wellh>"
+       "      <div class=\"well\ d=\"ftel\">,
+     "        <button cass=\tnbtndefalt trt\" id=\"are1>#tare1</utt>",
+      "       btto as=\"n btn-dfault target\"id=\"get2\">#taet2</buttn>,
+      "     <but clas\"btn b-defaultarge\" d"target3\">#targt3/uttn>",      "      /div>",
+        "    </div>,
+      "   <div class=\col-x6\">",
+             4>#rightwe</h>",
+     "     <div clas=\"well\" id\"iht-well\">,      "        butto class\"btn bt-defat target d=\taget4>#target4</buon>",            <button las=\"btn bn-dault aret"id=\"targt5\"#targe5<button>",       "      <buton cla=\"btntn-deault target\"i=\"target6"target6</button>"
+       "     </div>",
+         </div",
+        " </dv",
+      "</di>"
+      ],
+     "tests: [        asset(("#target3\").hasls(\"niaed\, 'mesage:elec e <od>button</cod>element withth <code>id</code of <ode>target3/cde> an se th jQuer od>aClass&#40&#41</cde> unin t g i the clas of<coeanimated</coe>.';",
+      "assert(($(\"#targe3\").hasClass\"adOut\") |$(\"#tagt3\".hasClas\fadeut\)) &&codmath(\\$\\\*.target3\\s*\\)/g, 'mssge: Target the eleent with he id <codetargt3</cod an use te Qey code>addClass&40&#</code>function toiveit hclass <cde>fadeOu</cod>.');,      "assert(!ode.mtch(/clss.*nimt/g, 'mssage Only se jQuy  dthe clases to the element.'"
+     ],
+    "type": "apoin,
+    "chlleneTye:0,
+     "ralaion": 
+      "de" {       "tite: Elemente anhad dr id mt jQuer auswählen,
+        "esrition": 
+          "D anntElmee auchanhn derenID-Attriut auswäln."           "Wähle alserstes dein code>Button</code>Element mit de ID coetargt3<code, inddden cde$("#arge3")/code elekto nutzt.",
+          "Bedenke, dass u - geauso wiebe CSS-Delaratinn - ein<cod#<code> vo dnmender Klasse setzn mus",
+         ann ntzedieQuerFunkio <cd>.dClss()/code> umdie assn codanimate<cde>n<cde>fadeOu</ode>hinzzufün",       "So könnest u as coe>Button/ode> ement mtderID<coe>targe6</code> ausbendlss:"     "<e>$(\#target\").ddla(\anmate faeut")/code>.       ]
+      },
+      "es": 
+        "tite": "lige eeetspor id usando jQuer,
+        "ecripio: [         "Tambiénuee elegrun eemento pr su atributo d.",
+          "Pimero seeccion u elemento <de>butn</cde> c el id <codetarget</codmediante e us dl selector code$(\"#target3\")</code>.",
+         "Te encunta u, a igual que sdecaacione CS, debe scribr u <code></code> antedelaidentificaión."
+         " cninaión, utiiza la fucin <ce>.addClas)</coe>e jueyaragregar ls clses <code>animated<oe>y coe>faeOut<od>.",       H aquí cóm hacs qe desaparezcel leentocode>button</code con a dentificación <od>trget</ce:",        "<code>$("taet6\")addClass(\"aed fadOut\")</code>"         ]
+      },
+      "f:
+         "ttle": "ibler leslémens par id avecjQur"
+        "dsciption: 
+        "ous pouvezégalemn cblerles éléns 'ide de leurs attriusi.",           "Prmiremen,cibler votre élément code>utto/oe> vec id codetrget3</coe> en utlisat eslecter<ode>$\"#rget\)/co>.,
+           "Not que,outcomme le expreons S, ou joez u<cde>#</coe> avant le nm de l'd.",
+        "Puis, utiisez l fnctio jQuery <ce>.addClas()/code> afi d'jouteles classs code>anmated</code> et code>adeOut</cde>.",
+            "Voiommet vous uvez far e sorteque 'éléet<code>btton</code ae l'id <ce>target6ode>diparsse e fond:",
+         "<code>$(\"#trget6\".adCass(\"anmatd fadeut\")</od>."
+      ]
+        }
+      }
+   },   {
+    d": bad87e348bd9ada072",
+     "tile": "Delteour jery Fnctios,     reqird":[
+                 "link:hs//cdnjs.cludflare.ajaxib/aimate.s/3.2.0/animate.css
+        }
+           "descriptio": 
+     "heseiationsre coolat first,ut now tey'regetg kind of istrating.",
+       "Delellhre of the jQuer fctins fom your <cde>dcuent rady unction</cod> bu leve your <code>docment eyfncion</cod> telf itact."
+      ]
+  challengeSeed":
+       fccss",
+         (documet)redy(function( {"
+         $(\buton\")dClass\"animd bounce";",
+       "    \".well\").addClass(\"anmatd shke\");",
+          $(\"#taget3\").addClas(\animatd fdet\");",
+        "
+      "  });",
+     "ces",
+    "",
+        <!- Oly age cdabove hs ne. ->",
+       "",
+     "<div las=\"container-fluid\">",
+        "  <h3 ass"textpriary text-ceer>jQur laground</h3",
+      "  <div class\"row\">",
+           <dv class=\cl-xs-6\">"             <h>left-well</>",
+        "      div clas="well\" d=left-well">",
+      "        button clas=\bn btn-default art\ id=\"target1"aget1<button,        "      <utton las=\bn b-default target\" i=\"target2\">rget2</button>"
+    "     button cassbtn btn-defaulttrget" id"trgt3">#target3</btton>",
+            <iv>",
+            <iv>",
+     "    divclass=\"col-xs-6\">"
+        "   <>#right-well/h4>"        "    <iv class"ell\ id=\"riht-wel\">",
+      "        <button cass=\"bn btn-dfault rt" id="target4\">#at4/button>",
+       "       utonclass=\"tn btndefault target\ =\"targe5\targe5</uton>",
+       "       <bto as=\"btn btn-deft tr\" id="tret6\">#arget6</buton"
+      "    </div>",
+     "   <dv>",
+     "  </div>"
+        </dv>"     ]
+     "tests": [
+      asser(ode.match(\\{\*\}\\);g), 'msse: leteall three of your Quer fnctions r or <code>docment redy fnctin<cde.');",
+       "aset(ode.ath(<scrpt>/g),'messge: Lave yor<code>script</code element ntc.');"       "assert(code.match/\$\\document\\)\ready\\(fton\\(\\)\\?\\{/g, 'message: Leave your code>$&#40docue&#4.reay&#40untio&#40&#4{/ce> to theeginning of ur <od>scrpt</code> element.');
+        assercode.atc/.*\\*\\});/g),message: v your \"ocument eady functio\" clsing <code>&#15;&#41;/code> inct.');,
+        "assercod.atch(/<\\/scip>/g) && odemah(/<script/g) && ode.match(/\script>g).lgth== coe.mtc(/<spt/g).lent, 'mesageeaveur <code>scrip<co> elemnt cloing ainact.;"
+     ],
+    "te: "apont"
+      challeeType":0,
+     "tnslatns": {
+       "de:{
+       "title: "Lösche dei Query unktnn",
+         desrition": 
+         "Anfas war dies Aimationen ohcoo, jezt sind i aber ei ei störnd.",           "Lösche ale deijQey Funktoedine code>Document Reayuktion/od>,aber asse die <odeDoumet eayuktin</ode elbstitkt."
+        ]
+       },
+        "es: {       "titl": "Elimina tusfncones jury"
+        descriptn": [
+            "Etas anmcioneseranivertia al iipio, pe ahors sánvolviendo unadistraccin.",
+          "Elimin eas tres fncones jQuey d tu <ode>funcón de douet listo</code>, ero ejinct la declaración de acod>fuciónd documenolsto</code"
+         
+       }
+      fr": {     "it: "Efacr vos fontion juery",
+          "descriptio": [
+         "Cesanitonsosympahiquesàpemir vue,aismaintenat ellesdenent lut distryantes.",           "ffcez les tos fonctios uery de votre<ode>document ready functio</code>,mais laissez votre<cde>documt rady funcio</coe>lui-mêinat."          ]
+       
+    }
+    },
+   {      "d": "ba87fe1348dad908626",      "itl":"Target theame Eement wth Multi juey eecors",
+     required": 
+      {
+        "link": "ht//cdnj.couflare.com/ajax/libs/animat.ss/3.2aimat.css"      }      ],
+      "dcripon": [
+        "owyou w treways o trgeting eleents: by type: <code>$(\"btton\")</code>by class<code>$(\".btn")</co>, and yd <c>$(\"#target1\")</cde>."      "Altough t is possble o add muliple class in a sigle <code>.addClass(</code>call let'sadd thm to thesae element in <emthee separte ways<em>."
+       "Usig <ode.addClass)</cod>, adonly o lss a a time t he same eement teediffetays",
+       Add thecode>nimated<code clas toall lents ihtype code>buto</code>.",
+       "Adte codeshake<ode>clas talte butons wth clss <cde>.bn</cod>"
+      Add tecode>btn-primry</code lass to th buo wihd <cod>#ret1</cde.",
+      "<srong>Not</strong><br>You shol nly betargeig one element and ing only oess a atme Atogeheryour threeindivual selecrs wl end u adig th three classes <cde>hake</cod>, <de>aimte</o>,and <codebtn-priary/coe> o code#taret1</code."
+      ],
+      calleneSeed: [      fcss",
+      "  $(documet).ready(function() {",
+       "",
+      " });",
+       "fcces",        ""
+      <! Onl hnge c bove tis ine. -->",
+    ",     "<dv cla=\"contner-lui\">",
+        <h3 lass\"tet-primaryetcenr\">jQuery Playground</h>",
+        "   clss=\"w\">",
+       "    <d las\"colxs-\">"
+       "     <4>#lefel</h>",       "      <iv lss=\"well\" =\"let-well">"
+             <buto lass=\tn bn-efaultaget\" i=\"arge1\">#target1utton>",
+     "       <bton css=\"btn btn-default trge\" id\"targe"#agt2</butn>,
+        "        <buttn clss=\"bt btn-defult target\" i=\tget3\">#tat<buttn>"
+      "    <dv>",
+       "   /d>",
+        "   d class=col-s-6\">",
+       "     <h>#right-wel<h>"
+            <ivclass=\well\" id="right-ell\"",
+      "      <button ass=\"nbt-eau target\"id=\target\">target4<buton>",
+      "      utton clss="bt btndfault rget\"d=\"taget5\"#taet5<btton>,
+            <buttn class=\"bn bn-dfaut tget" id=\"rgt6"#taget6</butto",
+      "      </dv>",
+      "  <div>",
+       "  /d"        "</div>"
+    ,
+      ests":[
+       "asset(cdeatch(\\$\s*\\(\?(?|"\\s*?button\\s?(:\")/gi), 'message Use the <code>$&#40\"btto\"&#41</ode> sletor.');",
+       "assertcodematch(/\\$\s*?\\(\\s*?(?:'|\")\\s*?\\.btn\\s*?(?:'\"/gi), 'messge: Use the <code$&#40".btn\"&#41<ce> selecr.');",
+        "asertcode.matc(/\\\s*?\\(\\*(?:'|\")\\s*?#target1\\s*?(?:'|\")i), 'mssage Us e <co>&#40\"#target1\&#</coe> selcor.';"
+      "asert(code.math(/adClss/g) && coe.matchaCas\\s*\(\\s*?('|\")\*?[\\w-]\\s?\\1\\s?\\)/g)lenh > 2, 'mesa: Oly add one as ith ch fyour three seletors.');",
+       "aser$(\"#taet1\".aClas(\"aimatd\") && (\"#trget1\).sClss\"shae\)& $(\#target1\).hsClass(\"bn-pmary\"),msage:or code>target1/cod emet shoul hve e clas <cod>animted</code>&#13;<code>shake</cde> ndcobtn-pimry</code>)",
+      "assert!ce.matcclass.*anmatd/g) 'message:Onl ue Query toad heeclases to the eeent.');"
+    ],
+    "tp": "wayoint",
+     challengeType": 0,
+      ranslations"{
+       "de: {
+         "ie": Wähldas leihe Eleet mt errnjQery Selektrn us",
+        "descrition":[          "Bis jezt kenns dudreiverschiede ege mEemenausuwähn: mit dem Elmet-Typ: <coe>$(\"buto)/cde>, mer Elemn-Klass: <code>(".btn\)</ode>, un er Eleent-D: <code>$\"#aret1\")</coe>.,        "Auch en es mögc ist, mehrre Klas neeeigen <code>adClass()<code> ufruf hnzuzufüen lass uns jetzt die Klassenin dre verschieden egn dememet hnufügn."
+        "Nutze jede er beneähnte jQuery Selktreund die <code>addCls()</code unkton:,
+           "Füge die lsse<cde>aimt/coe> u aen Elente desTyps <coebto/ce hinzu."
+           FügedieKlasse <dshke</code> zu llen Buttnsmi e Klasse code>.btn</cod> hzu.",          "Füge diKlase coe>btn-ima</ce> zu dmButton mi der ID <code>#target1<coehinz"
+       ]
+       ,
+     "es" 
+         "tite":"ige un ismo elemento con mltipls seectores jQuery",
+         "descripin: 
+         "Ahora y saes rs ormas eecconr elemenos: po tipo code$(\"utton\")</ode>, porclase code>$(\".btn"/coe> y por entiicacón <cd$"#target1\")</e>. ",
+          "Aunque e posible agregar rias clases en una ola llamda<cod>.ddlas(/e, vams a añadirlas almismo eleeno de tres maneas dirntes.,           "Uscada uno d los selectoresjQuery istoy la fncó code>addCass(</cod>para:"
+         "Agregar la clase <code>animated<ode> atoloeemeto ontipo <cde>utto</code.",
+         "ggarl cas <cod>she</cde> a odsosotones cn clase <ce>n</od",
+           "grer a ase ce>tnpimay</coe> al t cnientificaiode>targt1od>."         ]
+    },
+        "f: {
+         "tile": "Cibler lemêmeélément ave puseurs életeurs jQery"
+    "descripion": [
+          "Àpren, vouscnasztrois faço de cibleles élémnts: partpe: <code$(\"bto\")</coe>, par classe: de(\".tn")/code>, et ar id <ode>$(\"#taret1\")</code>.",
+         " utilisant<oe>addClss)/ode>, ajoutz niquement un cass à ois au mme lément de tois façosdifféentes:",          "Ajoue l class code>imd</cd> àtous ls lémensde type <cdbutto</cde>.",
+           "Ajoutezlacasse <cod>shake</code> à tous lesboutons qiont la lasse <de>.bn</code>.",
+       jouez la clsse <codet-priary</cod> u bouton qui a l'id <od>#targ1</code>."
+          ]
+      }
+      }    },
+  
+     "id": "ad87fe34bd9ed918626"
+    "titl""Remov Classes fro n Eleet ith jQuey",
+    "requre: [
+        
+         "link": "http:/dnjs.cloudflarcomaax/ibsanimate.css/3.2/animtecss"
+      
+      ]   "descrptn": [
+      Inhe sa wy you can adclsses toan eemenwith Quer's <codadClass()<code> unction,you can emove tem wit jQuey's <codeemovClas)</co> unction."
+        "Hereshw you would o thisora specific uttn:"
+       "<code>$(\"#target2).reoeCass"btn-efaul\")</od>",
+        "Let' revethe <ce>btn-defaul</code class fro llof our <cod>buon<cod elemens.
+   ],
+      "callengeSeed" 
+     "fcss",
+       " $(dmn).reyfncion() {",
+         $(\"button\).adCass(\"anmad bonc"",     "   $(.well\")dClass"animated sa");",
+       "   $\#target\").ddClass(\"nimate fadeOt\";"
+        "",
+     "  })",        "fcces
+       ",
+      "!-Only chage code abve ths lie. -->"
+       ",
+     diclas=\"cnainerfluid\">",
+      " <h3 clas=\"txtprmary tet-enter\>jQuery layround/h3>",
+       "  <las=\"row\>",
+     "    divclass=\"c-"
+        "     <4>left-wel</4>",
+            <dclas=\"well\" d=\lef-well\">",
+      "        <utonclass\"btn tn-alt taet\ id\"trget1\"#tget1</buttn>",
+      "      <utton lass=\"bt btn-efalttaret\" id=\"taret2>#target2</button>",
+       "        <button las="btn btn-ealttarget\" id="aget3\">#target</bton",      "     </dv>",
+     "   <div>"       "    di as\"olxs-"",       "     <h4>#right-ell</h4>",
+            <dv lass=\"well\" id=\"rhtwell\">",       "        <buttonlass=\"btbn-deut target" d="taret\">#targt4</button>",        "       <uttoclass=\t b-eaul taet\"="target5\#taret5</utton>",
+      "      <buton cls=\bn tn-efault trget\id=\"targt6">#targt6/button>",
+     "   </di>",
+       "    </i>",        "  </div>"
+        "<di>
+      ],      "tes: [
+       "srt((\".btn-defut").ength === 0 'meae: Remov the<od>btndfault</coeclassfrom all of you cdebtton</cod> eleets.);",
+       "assert(code.mch(/bttn-default/g), 'ae: nly use Qerto removthis class from he element');",
+        "asrtcode.mac(/\.[\\v\*reoveas[\s\\v*\\([\\s\\v]*'|\)\\*tn-fault\\s*'|\"[\\\\v*)/gm) 'messge: Onl emov the<code>btn-defaul</coe> cas.');"
+     ],
+      "tpe: "aypont",    "chalengype:    ranatons {
+       "e": {
+         "itle": "Entferne Klassn voenm ement m jQuery",
+       "descripto": [
+          "Genausowie duassn mt der Qry nktin <code>adlss()</cod> hinzufüen kanst, kannst  mit derjQue Fukti <code>reoels()</ode> assenentrne.",
+          "So kntt d dsbei nem spezifschn Button mcen:",
+            "<ode>$\"#target2\").remoClas(\btn-default\");</code>"
+          "Ls alle de>tn-defal<code>Klassen von unsee <odeButon</code>Elne enterne."
+          ]
+      },
+       "s": {
+        "tite": "Eliacsse u emeto con jQer",      "descrpon: [
+          "D l mima manera upuees aregar cases a un leento conla ució <cde>addClass()</cod>  Qur, pues eliminarlsco l funión codreoveClass</code>.         "e quíco uedes hacerlo paraun botón espfco:",
+          <cde>$(\"#targe2\).removelass(\"tn-defaul\");</cde>"
+         "Vamos a quitar la clase <ode>btn-defau</coe de todos nestos elementoscode>utto/code."
+        ]
+      }
+     "fr" {
+         "title": "Supimr de casses d'un lentaec Qury"
+         "desripion [
+       Dea me façon que vuspouvez ajutr des clases àun élémnt aec la fctio jQer <code>addlas</code>, vousoue lessuprime avec afontion jQuercode>removeCas)<cde.",
+           "oici cmment pcér pur un buto spcifque",
+          ode>\"#taret2\").reoveClas(\btdeaul");",            "Srons a clase <cde>bn-defult</code>deusnos éléments <ode>button<oe>.
+         ]
+      }
+     }
+ }
+        "d: "ad87fee134bd9ad908826",
+     "title" "Chane the C f nElment Usig jQuery,    required: 
+       {
+       "ink": htts//dnjs.cloudfae.coajax/ibs/animte.css/3.2/animatecss"
+       }    ,      escription": [       "We cn lsochang heCSS of n HML elementlwit jury",
+      "jQuey has a function caled<ode>.css()</code> tat allos yo t ange the  f  lemt.",
+        "Here's how we wolchaneiclor to blue:"    "<code>$\"#tage1).css(\"clor, \bue\");</code>",
+       "Ths is lightly ffeenfromnmalCS ecaration, because  CSSroet and is val re nqutes, and separaed with a comma instead of acolon.",
+    "Deete you Query selector, leaving an epty <code>cuentready fnctio</coe.,        "St <codetargt1</ode> and chane  colo to red"
+    ],      "halengeSeed[
+       "fccs",
+        $docment.rea(function() {",
+      "   $(\"buton\")adClas(\"animated bune\)"
+      "   $(\.well\")adass\imated shake\");,
+      "    $\"#arget3\").adClas(\"anatdfadOut");",       "  $\"butto").roveCla(\"btn-defaut\";",
+        "",
+       "  });",
+     "fcces
+        "",
+      "<! Oy hange cde above ths line.->",
+      "",
+       "<di class=\"cntaner-luid\">",
+     " <h class\"text-primar text-centr\">jQery Playground</h3>"
+       "  <div clas="rw">",        "  <di clss="ol-x6">"
+      "    h4>#left-wl/4>
+         <div cla=\"we\" id=\"lef-well">,
+      "        <butonclas=\"btn btn-dea tget\" i=\"target1\"#age1</uttn>"
+        "     <btt ca=\"btn btn-defal arget\ d=\"tret2">#tagt2<button>",
+      "       button class\"tn tdefult target\" id=\"target">#target</bto>",            <div
+       "</d>",
+     "   <i cla=\"col-xs-6\"",       "      <h4>#riwe/h4>",
+           <divcls=\"well\"id="rghtwel\"",              <buttn clss=\"bt bn-defaulttrget\" d\"tget4"#target4/buttn>",
+      "       bttoncass=\"bn btn-defult taret\" id=\"target5\">#targe5</buttn>",
+       "       <buton cls=\"btn bn-deaut target\"i=\"tget6\"#taret<btton>",     "     /di>",
+           </dv>,
+          </div>"
+       "/div>"
+     ],
+    "tests": 
+       "aser(\"#targt1\")css(\"olr\") =='rgb255, 0, 0)' 'mesge: our <code>tart1</code> elment shoulhv redtext.';",      "assert(!code.matc(/lss.*anmadg), messg nly s uery to add theseclsses tothe element.')
+     ],
+     "type" "wapoit"
+    "halegeTyp":,
+    "trnslaton: {
+       "d" {      "tile" "as Seine Elemets mit jry nern"
+        "escriion: [
+        "Wir knne auh das CSS ines HM-Elements mit jQey vrnern."
+         Querht die Funktio <co>.cs()coe>, welche di eraubt, as SSeies Element uänern.",
+       o könen wirie Farbe enerID zu Bla ndern:,
+         "<oe>$(\"aget1\").css(\"color\", \"bue\");</code>,          Das ist ei weg ander als eine ormale CSS-Dekaraton, weil die SS-ignschaf uneen Wet in Anführungszeiche si unddurch en Koma ta ein Doppepunktsgtrent weren.,
+         "Löce dene Qey Slektoren, dam e le <ode>Docmnt dy Funktin<code> ürig blei",
+         Wähle <code>argt</ce nd nder desenFre zu Rot."
+        ]
+       },
+        "e": {
+       "title":Cmbi l CSS de unelento usado jQury,         decipti"[
+       "abin podeo cabiar el CS de u lmeto TM iectment con jQuery"
+           Query tee na fnció lamaa <code>.c()code>que tepete ambiar elCS d u elemeo."
+           Así s como cmbiaríamos su color a azul:",
+          "<ode>$(\#targe1\")css("colr", \"bue\");<cod>,         "Esto es un poco diferent a una declaacin noal CSS, oque  pedad SSy suvalor está enre comils y separadas poruna om en uarde do punts.",
+           "Elimina tus selectore Query, dejndoen lancola<de>función de ocumento listo</cde.",
+         "Seleccion <codetrge1</de> y cmba s colora rjo
+      
+        ,
+        "fr" {     "ie" Changer e CS 'un élément nuilant jQry",
+       "deription": [          "Nous pouvs aui canger le CSS 'n élmt HT directemet avec jQery",         "jQuerydispse d'une foncionapplée<codecss()</coe>qui vus permet e changerle CS 'n léent.",
+        "Voicicommetchangr  couleur en bleu:",
+       "cod>("#arget1").css(\"color\", \"ble\")",
+          "Cecis lgèremndférent d'un xpresion CSSnormale, calapropiété CSetsa aleur sn entr guilemets,  separéespa unevuleau lieu de eupoints.",
+         "Effaz vos sélectersjQuery, aisant ore <code>documen ready function</code> id.",          Séetionnez de>targt</code> et hangzsa coleur en rouge."
+        ]
+       }
+  }
+    ,
+    {    "d": b87fe134b9aed08",     title: "Dable an Element ig jQuer,
+     "descrition" [
+     You can ao change the nonCSS poerti of HTML element wtjQuery. Forxample you can isablebtons."
+     "Whn you dsablea button, will bcomegaye-out and can no longe be iked.",        "jQuery hasafunctio called<code>prop</cod> tatallws youto djthe properte of elments.",
+       Her'show you would disale all button",
+     "<code$(\butt\").prop(\"disab\",true);</cod>",
+     "isble nly te <co>targt1</cdebutto."     ]
+     "hallegeSed": [       "fccss",
+      "$(docmnt).redfnctio() {",     "  $\#taret1\").cs(\color\" \"r\);"
+      "",
+       "  });,
+      "fccs"
+       "",      "<!--Only cang coabove thislie. --",       "",
+       "<d class=\"ontainr-fluid\">"
+       "  <h3class=\"tx-primy ext-ente\">jQuery Playground</h3>",
+       "  <iv class=\rw\"",
+      "    <dv lass=\"ol-xs-6\">"
+           h4>#lef-wel</h>",       "      <dica=\"wel\"id=\"leftell\">",             <utn cass=\"bn btn-dealt tage\" id=\trt1\">taret1/buton>,        "      uttnls=\"btn tn-defat taget\" d"tret2">#target2</button",
+    "       <buttn lass=\btn btndefalt target\" id=\"taget3\"#age3</utton>",
+     "     </iv>",      "    </div>"     "  dv clas=\"col-s-\">,
+          <h4>#rghtwellh",
+           <dvclss=\"well" i"right-well\">",
+      "       <buttn clas=\t bn-efuttarge\" d\target4\">#trget4</tton>",
+       "      <button clas=\"btn btn-defaut target\ id=\"taget5\>#taget5</uton",
+      "       <buonclss=\"btn btn-dfult tag\" i\"target6\">target6</butn,
+             <div>
+         </div>
+        " </div>",
+     "</d>"
+     ],
+      "tests": [
+       "assert($("#targt1\" & (\#targt1\")prop("dsabed\") && codemach(/['disabled\"',( tr|tru)/g), 'essage: Disable your <code>targ1</code> button';",
+       ssert($(\"#targ2) && !$(\"#taget2\").prop\dald\" 'messge: Do not diable any otherbttons.')"
+        "ast(!code.match(disabl[<g, 'mesage: nyue Qery todd these classest the ment.';
+    ],
+     "tpe""waypont,     challengeTyp": 0,
+    "translatios": 
+      de": {
+    ite": "Eleent mitQury deakiviee",
+         "description":[
+       "Du kanstac die nihtS Eigenschaftn eines TMLlemets mt jQery ndern.Zum Bespelknnst du code>Butons</cd> dekivieren"           "Wnn  eien <cod>Button</coe> daktivet, rd rgrau unteregt und nn nicht mhr klct wed.,
+          "jQuery hateine Funti naens <code>.rop()coe>, die e r rlubt,die Egencten von Elemeten anupassen."
+        " annst  ale <coe>uton</cod> deaktivieren:,
+         <code(\"buton\").prop(\"disabld", tre);</code>",         "eaktiviere nu de <od>target1/cd>utton."
+         ]
+     },      es":       "ttle": "Deactivun lemenouad jQur",        "escripion": [
+         "Tmbié puedes cambir prpiedadesqu no son CS de os elementos ML on jQuery. Po ejmplo, pudes desctivar los boton.",          "deabilitar unb, se vovr gris y no podrápulsse.",          "Querytene ua unción llamd<cod.prop(</ode> qe te permite ajsar las propiedaes de lomtos.,
+          e u óm puedes desactivar td los botone:"
+           "<code>$("buton\".p\dabed\",tre)</ode>"
+       "esciva so e botn<cd>tgt1<cod>."
+              
+      "f" {
+         "ttle""Chnr le text à l'inieu d'n élémten utiisnt jQuer
+      dsciption: 
+        "En utilistjery, s pouvez chnr l texte entre s bliss orante fermnte d'n élémnt. Vous pouvz même hangrl bass HT,         "Qery dispos'uefntion applée cde.tm)</coeqi vous peme'joutr saliss HM et du texteà 'intéreur dun élément. Tot le conen de lélmt sera alosrmacé ar l cotnu qu ousindquerez en utilisant la octin.,
+          "Vici comment ous pourrez ré-écrireet mtre en italque le te d notr tite:",
+         "<code$(\"h3\")t(\"&#60em&62jQuer Playgoun&6/em&62");,
+            jQy dposgaleentd'un fncn smilaie applée <cod>.text()</cod> quchnge uniqumet e texesns ajouterdble. Atrement dit, cette fnction n'évlea acun balieHTML que vous u donnez, mas les raiter m du xte quevus désrez ajuter à vtre élment.",
+          angez le boun av l'idcoe>taret</cde>n metat e italiquesotete."         ]
+          
+   },   
+     id" "5944c91e20b269d51e3"
+     "ite": "hange ext Inside an Elmet Usigjery"
+    "desciption" 
+    Using Qury, yo ahangethe tt bw the startand end tasofan elmet Youn even cnge HTML marku",
+      "jQuery hs a functioncalld <code>.hml()<code that etyouaddTL tas ad extwithinan element. Any contentpreviousy wihin th elemnt will be completey placed wth the cont you prvide sing this untion.",
+       "Here ow yu o rwi ad emphasze hetexf oureaing:",
+      "<ode$("3\.html(\"#60;em&#62jQur Playground&#6;em&#2;";<code",
+      "jQuery ao has a simlar funtio called <code.text()/ode> thatony alterset without adding tags. n oter ws,this fuon will not ealute n TML tags pasedto it but wil sted reatit a the textyou wan  rpae heeisting contentwith.,
+       "Chang buttn ith  ode>target4</cod> by ehasizing its txt",
+       "Chek this href=\"ttps//devepemoilla.or/en/docs/Web/HTL/met/em\target=blank">link</> tokow mreo the difrnceeween <code&6;&#62;</code>and<cd>&#6;em&#62;</code nd teir uses.",       "Note that while he<cod>&60;i62;</code> tg has tratioly bensed to emphase text, ths sic beencooted for ue as a tag for cons. The <code>&#6;em&#62;</ode>tag i now delyacpte as hetag for ephasis. Eite will work fr hischalenge."
+     ,
+    "relesedn": "vemer 18,2015",
+    clengeSeed: [        "fcs"
+        " $(doumet).rad(fution {"
+           $(\"#trge1\").css"colr\", \"red");"
+     "    "
+       };",
+      "cces",
+        ",
+       "<!-- Onl cag code bve thislie. -->",
+      "",
+      "<div class=\"cotaner-flu\"",
+      "  <3 lass=\"textpimartextceter\">juery Plygrud/h3>",
+       " <div cass=\"row\">,
+       "    <v cas=\col-6\">"
+      "     <h4>#let-well</h4>",
+   "   <dicas=\"wl" d=\"ef-well",
+       "       <button cas=\"tn bdefult taret\"id=\"taget1\">#tag1/utto>
+      "    <btton clss="tnbn-efault trget\"d=\"taget2\>#targe</button",
+    "      buto lass=\tn btn-default target\" id=\"tret3\">#arget3/button>",      "     <div>
+       "   </di>",
+        "    <di clas=\"cl-xs-6\">",      "     <h4#righwl</h>,
+      "   iv clss=\"el" id=\"right-wel""
+             <buttnclas=\btn tndefult tart\ d=\"tare4\">#taret/button",
+      "     <btto class\btn btn-efaulttarget\ =\"targt\">#target</buttn>",
+        "      <btton class\"tn bt-eult tret\ i=\"taget\>arge6</buton>
+       "      <dv>",     " /div>",
+      "</iv>",
+        "/dv>
+   ],
+     "tests" 
+        "asser.isTrue((/em><i>\*#target4\\s*<\e><\/igi).tet($(\"#tret").html(), 'mesage: Emhasze the tx i your <cod>targt4/code> uttn byadding HTML tag.');",
+       "assert\"#aret4\") && (\"#target4\").x()ti() = '#target4', 'mssage:Make ur thetext isohrwie uhnged.');",
+      asert.sFalse((/<e|<i>/g)est($(\"h3".ml)), 'esage D o lter ny other text';",
+      "assert(code.match(/\\.html\\(/g), 'mesg:Makesur ou ae uig code>.tml(/ode an not <code>text(</cod>.'",
+    "assert(cd.mach/\\$\\\s*?(\\\"|\\')#target4(\\"|\')*?\\)\\.hml\\/) mssage: Make uretoseectcode>ton id=\trget4"<code> with jur');"
+      ]
+     "tpe": "aypoint,
+     "chalegeType: 0,
+    "transltis": {
+ "d"{
+        "title": "Ädre dn Textieralb ein Elemns mi jQuer",
+        decripton": [
+           Mit jQuery kannst du dnText wischen de art u dem End-ag eins Elemntsnern. Du kannst sogar das HTML-Markup änden.
+          "Quey hat eie Fntio amens <code>.html()</cod>, d dih HTMLTa und Tt irha enes Elemeshinzuüen lässt.Jegliher Contet dr sih ohe nhalb ds Elemesbeand,wdmi jenem Cnntesetzt, denurch diese Funkton bereittls.",
+          "So kanns dudn Text unsrer Üerschrft übershreibe und hervreben",           <cde>$(\"3\").hl("&#60;m#62;jueryPlaygound&6em&#62;\";</cde>"
+           "jQueryhat auch ene weitee änich untion namens <coe>.ex()</ode>, welche ur den x ädert, hn Tg hinzuzufügen. In anderen Woten: diee unktionvaluiert keinerlei HTML-Tas, ieansie bergbe werden, sondern behaeltdie als Text, den d mit der Funtionersetz llst",
+         Ändere dn Buttonit er  code>target4</code> inde d inen Trores.
+         ]
+      },
+      "es":     "title":"Caia e textode unelementuand Qury"
+       "eriion" [
+           "ConjQuery, pueds amba el exto que está entre ls etiqtasde aperta yierrede un eeento  Iclusopuedecamir macdHTML.,
+           "Query tine un unción llamada <cde>.html)<ode> qete pemieñadir etiqueas HTMLtexto dentro e unemeno Cualuier conteo qe estuvise prvaetedentro del ementoeráremlazaopor coeto conel otendo qe proveas usandoesta función.,
+           Heaqu oo reescries y ones enitáias eltetde nuesro cabzao:",
+         "<cde$("h\").tm("&#6;i&62;juer Playground#60;/i62;");/cod>",
+            "juery tambén tienuna fnciónmilrllama <de>.tex()</ode>ue sl atera el texto si adir etiuetas.",
+            "Camba elbotó o identificacón <cde>targe</cde> de forma ue su exo qde enitálias."
+       ]
+       }
+     }
+    },
+    {
+    "id": "bad87fee1348bd9aed7086"    "itle" "eove an Eleme Usng juer",      "descripto"[
+      Nols emve an ML elent fromyou ge ingjQey."
+       "jQueryas a fncion calle <co>remove()</cde> hat il remove a HTML eement entiel",
+       "Remove elemet <coe>tret4<code fro h geby sing theode>remve()</o> uncion"
+      ],
+      halleneSeed": 
+       fccss",
+        "  $doument).reauntin) ",
+        "    $(\"#target1\).ss(\"colo\","rd\");",      "    "#target1\").pop(\"dsbled\", tru);,
+       ",
+        "  }),
+      "ce",
+      ",
+      "<!-- Oly change code aove his line. -->",
+       "",
+       "<div class=\"ntainer-fuid\">",    "  <h3 clas=\"tex-pmatex-nr\"jQuery Plagroun<>",
+       <div clas\"ro\">",          <div clas="col-xs-6\>
+      "    <h4left-well<4>",
+    "    <div class="wll d="left-el\">",
+         <buton clas=\btn btn-dealt arge" id="target1\">#target1</butn",
+             <buo clas=\"btnbt-dfaul taet\ d=\targe2\">#target2</utton>",
+             <button class=\bt btn-defaulttarge\" i\rget3">aget3/utton",
+      "    <div>",
+      "    </div>"
+      "    iv class=\"col-xs-\">,
+      "      <h4>#ight-wll</>,
+       "    <div class="wel" i=\"righ-well">",
+              <button ass=\"btn btn-deau target\" d=\target4">#taret4</button>",         <buttn class=\"btn btndefult aget\ id=\"target5>#rget</buton",
+       "        <buttn class=\"bt tn-deaul tget\" id=\"tg6">#tagt6</uton>",          <dv>"
+     "   </dv>",
+          </iv>
+      "</div>"
+      ],
+    "tsts": [
+        "asset($(\"#target\".lengt === 0 &cde.match(/\\$\\(\"']target[]\\.remove\\\\)/g),essae: UsejQuerto eme ur <od>taret4</de> element fro yrpag');,
+      "asset(code.match(/i"aretg) && !code.match(/-.id="taret4\".->/g) &$(\"#rgt-wel\").lgt > , 'messa: Onluse jQuer o reve hi eement')"
+        type": "wayoint",
+     "chllengeType: 0,
+    "trnsltions":{
+    "de: {       "itle""Enfere en Elen t jQuery"
+         deption":[
+         Lass uns etz ein HTML-lmemi juery voneinerSiteentfernen",        juery hat en unktionaens <code>remov()</cde>, di ein TM-Elmet opltt entern.",
+         "Enferne da Element <code>taret</oe>von der Seiteindemdu de code>.eove()<d> Funktio nutzt."         
+        },
+        "e": {
+         "it" "limina u emeno sd jQuey",
+       descipion: [
+        Aor uitemos un elemento HTL de tupág usandojQuery.",       "jQuerytiene nfunción lmad <coe.remove)</ode ue eiinarunelemento HML por completo",
+        Elimina el eeento on identificación cdtarget4/coede l páginauiizan la unión <cde.rmove)</cd>."
+         
+        }
+     }
+  ,
+   {
+      id": "d87fe1348d9aed682,
+      "title": "Use apnTo toMove Elmentwih jQey",   scipt: [
+      "owet' try mvng elemntsfrm ne <cde>div</de> to another."
+      "jQuer has a fuction cld <code>appenTo()</cde> tha allows you to seectHT elemnt and apendthm to anothr emen.",
+       "Forxample if w wanted to mve<code>arge<cde> fo ou riht ell t or let wll, we wulduse:",      "<code>$(\"#taget4\").pndTo("#let-well\");/code",       Moveyour<code>trge2<cod>elementro yu code>f-el</ode t your <cde>rightwell</code>"
+      ],
+     chllngeSed: [
+       fccss",
+     "  $(ocumnt).ay(nction() {",
+        "    (\target1")css("colr\, \"red");"       "  $(\#target1\").prop(\"disabled", true);"      "    $(\"#targe4\").remove(),
+       "",
+        " );",
+      fcces"     ",
+        "< Oy hange code bve this lne ->,
+        "      "<dv lass=\"container-luid\>"      " <h3 cas=\"text-rimary tex-centr">ury Playground</h3",
+         <dclas=\row\">"        " <divclas=\"col-xs-6\">",
+       <h>#left-well</h4>",
+      "     <div clas\"wel\" id\"lef-we\">",
+     "     <button clss="bn btn-dal target\ id\targt1\"#tg1</button>",
+       "       <button clas\"btntn-defultet\"id=tage\">#get2</buton",
+       "   buttonclass=\"bt btdefat target"id=\"aget3\">tret3</btton>,
+        "      /div>",     "    /div",       "  <iv clas="cl-xs-6\">",
+      "      <h4>#rght-wll/4>",
+        "      <div class=\"wel\ id=\rgh-ell\>",
+     "    <utonclas=\btn bt-dfaul target" id=\"tget\">#target4/button
+      "      <buton lass=\"btn bn-dault rget\" id=\"tret5\">#rgetbttn>",
+        "      <bttonlass\"n t-defult rg" id\tage6\>#trget6</butto>",       "      </div",
+        /di>"     " </dv,
+       "<div>"     ,
+    "tests": [
+       "assert($(\"#lef-wel\").cildren(\"#targt2")lenth === 0, 'messae Your<code>targe2/codlement shuldotbeinside or <coeleft-wll</ode>.);"
+      "asert(\#righ-ell\"chdren(\"#target2\".length >0, 'messge: Yur <cde>target</coeelmn shold e inide our<coderghtel/o>');",
+       "ssrt(code.mtch(/clas*aimate/g), 'mesae: Only use jQueryto oe tese elemnts.')"
+     ]
+      "tye" "waypon"
+     "challengeTyp": 
+     transltins"{
+      "d": {
+         title": "ewene appendTo u Eemen it juey z rshien.
+          descrption"[
+          "Lass n etzt versuchen, ein Elee voninm <code>div</cod zu Ncsten zuverschieben.,
+       jQuy t eineFunkon namens <coeppendo()</ce>,ees direrlaub HTML-lmene auszuähn und die zu einem andern Elemen anuhägen.",
+          "en wir zuBeispie <coetaret4<code vo <coe>right-wel<ode> u <colef-well</ode> verschieben wolen,re wir flgnde Cdenuzen:",            "<co>(\"#trget4\".apendTo\#lft-wll\);</code>",           "Vechiebe dei <code>tare2</code Elet vn <cod>lef-well</code>u coeright-well/code>."
+        
+        },       "es": {      "tie: "sa appedTo para mover elentos con Query",
+       "description:[
+          "Aora inteneos mver eeenosden<cod>di</coe> a otro.",
+            "jQurytieneua funcón llaada <ode>pendTo()/code> que epermite slecionar elemets HTMy nexarls a otroelemeno",
+          "Por ejemplo, si isérmos mover<code>target4</coe d nuesro poz (<em>e</emereco  nustr pozo izquierdo, usrímos:",
+       <coe>$(\"#taet4\".appe(\"#left-wel";</code>",
+         "uevetu eemnto<code>taget2</code>e  <codeeft-wl</cde>  u <oderight-well</ode>"
+         ]
+      }
+    }
+    },
+   
+      "id" "ba87fee1348b9aed50826",
+    "titl:"Cloan ElementUsing jQuy,
+     "dscriin":[
+     "In additin o ong elements, yo analsocpy them from one plac to another",
+     "jQury hs a functon alle <ode>clone()/cde> tht akesa copy of an ement.",
+     "For example, ife aned tocpy coe>taget2<codefrom our code>eft-wel</code> toorcode>right-wl/cde> wewoulus:",
+       "<oe>$(\#target\").coe().penTo(\"#igh-wel");</code>",       "Did youtice thinlves stiking t jQuery ncions ogther? Ths i called code>fnction chainin</cde>adi's a convnent way toetings donewithQuery.",
+      "Cone yor <cde>taget5</od> lement anppen it oou <co>let-well</oe>.
+     ],
+     "challengeed" [
+      "fss"
+       " (doume).readyuncti) "
+     "   $("#aet1").cs(\"clr\ \"red);"
+      "   $(\"#targ1\").pop(\"disabled\", t);"
+        "  $("tagt4\".remov);",
+      "    (\"#targe.appendTo(\"#rg-well\)",     ",
+        "  });
+       "fcces",
+     "",     -- Olychnge coe above his ine. -->",
+        "",
+        "<iv class=\"containr-fluid\"
+       "  <3clas"text-riary ext-ene\">jQeryPaygrud</h>",      " <div class="row\">",
+     "   <di cas=\"col-xs-6\">,
+      "    h4>#left-wel</h>",
+       "    div ca=\"ell"id"eft-well">",
+       "       <bton clas=bt tn-dfault taret\" d=\"aret1\#trget1</buton,      "       <button cass=\"btn btndefau tat\" id=\"rgt2">taget2buton>",
+       "     <but class\"bn btn-default trget\" id="target3#tget3<utton>",           </di>",       "    </div>,
+      "   <dv class=\"col-xs-6\>",
+        "     h4>#igt-wel/h4>,
+      "      <iv clss=\"well\" id=\"right-well\">",      "        <buton class="tn tn-defat target\" id=target">#target4</bun>",               <buto cas=\"bt btn-dfault targt d=\"target5\"#target5</button>",
+      "      <button cass=\"t btn-default targt\" id="target\">#targt6/butn,
+       "     </div>",
+      "   /dv>,
+      "  </div>",
+       "</dv>    ]
+     "tests":[
+     "asert($("#rght-well\").chidrn(\"#target5")lngt> 0,'message:Yo <ce>taret5</ce>lemetsholdb inside yor <code>igh-well</code>.');",
+     "asser($(\"left-well\").chilr(\"#target5\".lengt> 0, 'essae:A copoou <ode>target5/code> eemnt should alsobe iie your<coe>left-well</code>';",
+       "asst(!code.match(/ass.aniated/g) mesgeOly usQuery o movetheeeents.');"
+      ]
+      "tpe": "waypont",
+    "chaengeType": 
+     "aslations: 
+     "d" {
+      "tit""EinElemntkiee mitjQuey",
+       "description": 
+            Nebede Mölchkeit lmeezu erciben, önnen dse auch von enemPlatz zum nächsen kpir eren.",
+          "jQey ha eine unktion namens <codecone)/oe>, die eine opie eiesElemets nfeti."
+            "Wenn wir um Beispiel <cde>taret</code> von <ode>lft-ell</cde> zu <code>right-well/code> koperen wen,würden ir flgenden Codenutzen         "<co>$(\#trge".cle().apendTo(\"#rgt-well);/coe>        "Ist dir afgefalle, dass wir dazu zei Qey unkoniteinander verknüfen s nennt sich <od>function chaining</ode> nist einpraksche rtum mi juery z sungen zu komen.",      Kopireen<code>target5/odeElement und verschiebee zu <code>le-wel</cd>."       ]       
+        "es": {
+       "title: "Clona  emeto usando jQuery"         dscrption": [
+           "Admás demoer elment, puedes opialos d un sitio oto.,
+         "jQuery tieneunaunción lda <code>cloe()</d> que hce  cop n eement",           "Por emplo,si qisramos opar <code>tar2/e> de usto <cod>left-wel</coda uestro<cod>riht-well</oe>, usaramo:",
+            "<code$(\"#trget2\").clon().apendT(\#righ-well";<code>",
+        "¿Te dste cuetque eo mplica pgar ds fncione jQuery? Eso se noce como<codeencadenamint</code> es una manea coveniete de hacerlas cosas cn jQue. 
+         "Conatu lemeto <coetarget5</ode>  añdel a u <code>let-wel</code>"
+         ]
+       }
+    }
+    },  {
+     "id": "badfee1348bd9ed08826"     "title: "Target the Parent of an Elemt Using jQury",
+    "descripion" [
+       "EveryHTMLeemet hasacode>parnt<code> elemnt rmwhic it <ce>nhers</code> properies.,
+       "For exmple, your <cd>jQuery Playgrund/cde>code>h3</code> eement as th parent lmeno<code>#60;div cls"otainer-flid\"&#62</cde>, whh itselfas te parent <cod>ody<code>.",
+      "juery has a function aled code>paren()<ode>tallows yo to ccess te prent of whicevelemet youv sltd.",
+       "Here's an example fhow you old ue the <odeparent()</cod>functn f you nte to gie theparetement of the<codeleft-wel</od> eleen a ackrodlor of bue"    <code>$(\"left-well\").parent().css(\"bacground-color\", \"blue\"</cd>,
+       "Give the pnt othe<coe#tare</code> elemen a bckground-colr of rd."
+     ]
+  "chllengeSeed":[
+        "fcs"        " $(cumen).dy(untion() {",
+         (\"trget1\").cs(\"olr\", \"red\"
+         $(\"#target\".prop(\"iabled, tr;",      "  $(\"#argt4").rove(;",
+          $\"#taret2")apedTo("#right-well\");",
+        (\"#targ5\").cln().apnTo(\"left-well\");,
+     "",       "  });",
+    cces",
+      "",        "<!-nly chane coe above his lne. -->",
+     ,       "<bod",
+       "  <div lass"coainer-fluid\"",
+        "    <h3cas=\tx-primry tx-center\">jQry Playground/>,
+        <di cass=\"row">,
+        "      <div class=\"co-xs-6\">",
+      "        <h4>lef-el</h4>"
+        "        di class=\we\" d=eft-wl\",
+            <butoclass=\"b bt-faultarge\"id=\"arget\>#target<buto>",
+     "         <buttoncls=\"tn btn-defult targe\" i\"target2\">tae2</button>",
+        "       <buttonlass="btbtndfalt aret\ id=\"target3>#targe3</button>",
+               </div>",
+        "     iv",
+      "    <divlass=\col-xs6\">",
+             <h4>#right-wel</h4>",
+    "       <vclass=\well" id=\"gh-wll\">"
+    "         <butonclas=\"btn bnefaulttarge\" id=\trgt4\>#tage4/buto",
+     "       <btto class=\"bt btndefulttarget\"id=trt5\">#tget5</uton",
+        "         button css=\"tn btn-efaultarget\ id="targe6">#tage6<tton>",
+           </div>",
+     "    div",
+      "   </iv>
+     "  di>",
+        </ody>"    ],
+      "tests": [
+    "asser($(\"#lef-el\").css(\bakground-olor\)=='red'|| $(\#left-ll\")cssbackground-colo\") == 'rgb25, 0, 0)'||\"left-ell\").cssbakgron-colo").oLowerCase( =='#0000' || $("#eft-wel").css\"background-color\).toLorCase() = 'f00,'message:Your <odftl</cde>lemn should hve a red backond.');,
+   asset(code.match(/\\.parent\\*\(\\s*\)\\s*\\.cs/g, 'mssage: You hd use the <od>&#4;arent&#40;&41;</co> fuctono odfy this leent);",
+     "asert(code.mac(\\\\s*?\\(\\s?(?|\")\\s*?#tare\s*?(?:'\")\\*?\\)\\s*?\\.pat/gi), 'mesge: T <ce>&;aet&0&#4;<cod> methoshould be calld n the <code>&#35;target1</code> ement'",
+      "sse(code.tc/<dv cass=\well" id=\"left-wel">/g),messae: Only use jery to ad thes classe to the element.');"
+      ],      ype": "aypoint",
+    "chlleeype": 0,
+     "transatin": {
+      "de": {        "ti: "Whle das lernlmnt it jQuer as",
+         "desripton": [          "Jeds TM-lem hat ei oeElternElment/code>, von dem e igenshaten <codeerbt</od>.",
+         "Den <oe>jQuery Plaroud</coe> coe>h<od> lement ha zumeispiel da ElernElemnt <cde>&#0;divlass=\"onair-fluid\"&#62</code, elcesda <odeboy/coe> ent as trEemnthat."
+        "jQueyat ee Funktion amescodepant()<cde>, iesir erlaub af die Eltern-Element eies von dirausgwählten Elements uzugreife",        "Hir t ei eispel wie dudie <code>ent()/cde> Fnkion nutzen nnst,wenn du d Eltern-Eement es <cde>left-well</cde> Elemet eine blaue intergrunbe gen ill:",
+          "<ode>(\"#ft-wel\")parent().css("bacgrodolor\", "le\<code>",
+         "GibemEltrn-leent des code#targ1</code Elment eine roteHintegrnfare"
+         ]        
+       es": {
+     "titl": "Elige el pdre e un elementousano juery",      "description": [          "Cada eleto HM iene n ement<codepdr</coedl cul <code>hereda</ode prpaes.",
+           "Po eempl, tu eleeno <cdh3</coe><code>jQey Plagrund/e> ene e lemento dr <de>&#0;i cass=\"cntinerlui\"#62code>, qua su vz tine el padre <code>body/code>. ",        "Querytiene unafnción llama<c>prent()</code>que te pemie accee al parede cualquerelemento quehaya elecionad",
+          "eaqí un eemlo de cmse utliza la funión <codearent)</code>si qiierasdarle l lementopare el elemento <coelet-wll/code uncolo de fondo azl:",
+           <ce$\"#left-well\.paren(.cs(\"bgroundcoor\" "blue\"</de>",
+            "Dl a padre el elemnto <coe>#tret1/code> un olor de fono (<de>bcground-clr</coe>) ro."          ]
+     
+    
+  },
+   {
+    "id: "bad8ee48bd9ed208826",     "titl":Taget the hilden o an lement Using jQuery
+      "decripion":[
+      "hen HTMLlemet replaced ne lvelbelow another ty are clld cde>hidr</ode> ofthat eemen. Forexapl, the butonelemnts i thischlengeit thetext\"#arget1", \"#tart2",d "taret3\" eal <code>childe</cod> ofth<coe>&#;d class=\"well i=\"left-well\"&#62;</d leen."
+       "jQury has afuncion ld code>children()</code> tht allows you to asshe childrn ofhichveelement you'vesected.,
+       "ere's anexample of ho yuwuld ue the<cod>cilren(</oe>uncion to ghe cildre f your <cde>let-wll</code>elmentthe color <ode>blue</cd>:",
+  <ce$(\"#eft-wel\).chidren().s(cor\",\"blue\")</code>"
+      "<hr>"
+     "Gve allt hildren of your <ode>rightwell<coe elmen the color onge
+      ],     challengeSeed": [        "fccss,        " (ocuet).readyfuncton() {",
+        "    $(\"#arget1\")ss(\color, "red\")"
+       "    (\"#arget1".prop(\dabled\, rue);
+        " "#arget4\").reme(;,
+       "   $(\"#arget").apedo(\"#rgt-well\);",
+           (\"#targ5\").clone().apendT(\"#ef-l;"
+       "   $(\"#arget1\").aren().cs\bckgroud-clor\", \"red\);"      ",
+      "  );,
+       "fcces",
+     "",
+       <!-- Ony hnge cd aboethis ln. -->"
+      ,
+       "<div css=\"containrfluid">"
+        "  <h3 cl=\"txprimry text-cener"jQuey Playroun</h3,
+     "  <div clss=\"ro\"",
+           <div class=\col-xs-6\">",
+     "     <4>#left-well</h>,     "      <i cla=\wel" id=\"et-well\">",
+        "      <button lass=\"btn btn-defaul rgt\" d=\"targe\">#tart1<utton>",      "      <button class=\"bn btn-deflt target\" id=\"target2\">#target2<tton>"
+      "        <buton class"btn btn-defult trget\" id=\targe3\">tbttn>",    "      <div>"
+        "  </iv>",
+       "  divcass=\"col-s-6\">,
+       "    <h4>#rgt-well/h4>"
+      "      <div class="wel\" id="rightwell\">,
+              buton clas=\"btn b-efaultage\" id=\"target4\">#targt4</bttn>",
+              <bton clas=tn bt-deful targ"id=\"ret5\">#targt5<butn>
+        "     <button las=\"b tdeaultarget\" id="trge6">#target6/button,
+     "   </div>",
+       "    /div>",
+        /iv>,
+      "</div
+    ,
+     "tsts": [
+      "asert$(\#ght-well\").childrn().cs(\"clor\") ==='rgb(255,165, 0), 'messge: ll chidre of <cde>#right-e/code>hod hv rane tet.';,
+      "asser(code.math(\\.chile\\(\\\\c/g 'essage: Yoshoul us the <codehildren0&#41<ode>uctionto modfy thee elmes.)",
+       "assert(coe.math(/dv class=\"wll\"d=\"rigt-ell\"/g)'mssage: Oly use juery o ad tese clss to th eemen.');"
+   ],
+     "tpe": "waypin",
+    "calleneTye": 0,    "translations": {       de": {
+        tit": "äleKinder-Elmentemitjuery aus,
+       descriton:[
+          "Vie HTML-Elemente habe <code>Kiner-Elmente/cod, deire gchaftevonre rn-Elment <code>erben</co>",
+          "uBespil st jede HTML-Elemetein Kid-lemen ds <cdeody</code Elmes nd den<code>"juery Playround\"</ode> <coeh/od> Elmen ist ein Kind-Een deines <coe>&#60di clas="cotainer-fluid\"&#62</ode> Elements.",
+         jQuey ht ein Funktinnaen <co>chilren)</ode>, die es diraut, af die Kider-Elemente des von i ausgälte Elemts zuzugrife.",
+      "Hir isten eispiel iedudie code>cildren()<cod> Fnkton tzenanns enn  e Kndr-Elemnten vo code>left-ell</coe> die Fare laugee wllst:",
+          "<coe>$(\"#ft-ell\").childrn().css("color\, \"blue\")ode>",
+         "Gi llnKinder-Elemten von <coe>#righwell</cdedie are Ornge."
+      
+     },
+    "es": {
+         tte: Eli lo ho de un elemento uando jQuery"
+        "decrtion": [
+          "Muchos elemetos HTML tieen <code>hijs</code> los ce <codeheedn</code> us priedads de sueemenospadre"
+          "Por ejmplo, cada elementoHTLe u hjod tuelemento <d>body<oe>, y u elmento <odeh3</ode> \"jQueryPlayround\ s un hio detu elemento <cde&#6div lass=\conainer-fluid\#6<de>",
+           "jQrytiene u funcinllamada <codechidren()</code> que te pemiacceder a los hijs de caqueelmeto ue hayas sleccinado.",
+         "He uí un ejempl de cómo se utlia  funió <coechlden()/cod ara darle a los hijos de tu elemento <codelf-well/code> el colrzu:",
+        <ode>$(\"#left-wll\"chldren().cs(\"color\" \"blue\")</coe>"     "Da a too los hij detu eemento<code>right-wl</code> e lrnaanja."     ]
+       
+    
+    }
+   {     "id" "bad87fee134baed108826     "title":rg a SpificCild of a Elemnt sig Query"
+     "rquied":[
+     {
+         "lnk: "htts://dnjscloudfar.co/ajax/lbs/anima.ss3.2./animae.css
+       }
+      ]
+      "dcrption" [
+      "Yu'e senwhy id ttrbtsare so cvenent rtareing wih jQue seletor But ywon lwys hvesuh neat ds t work wth.,
+      Frtutly, jQuery ha sme oher tricksrrgtng theri elemnts",
+      "jQer ues CSS Selectors ttart eemen. The <cetarget:nh-chld(n)</cod> CSS sector allows you to seect a the nthlemets withtetaet clss rlemntte.",
+       "ere's how you would giehe third elment i ach wel the bune class",
+   "ode>$(agt:n-child(3\").adClass\"aimatd buc";</od>"
+       "Me the second child i echf ou wl elemets bnce.You mus elct th eleents' hildrenwith the<oe>trge<cd> cas."
+     ],
+     "challegeSeed"
+       "fss",
+        "  $(docment).redfunction() {,      "   $(\"#targt1\".css(\"cor, \red\");",
+      "    (\"#target1\").prop"diabd\", true),
+       "   (\"#target4\").remove;",
+       "   (\"#taget2\").pendTo("#igtwell\);",
+    "    $(#taget5\).cone()apendo(\"#left-el\");"
+       "  $(\#target1\")pret().css(backgroudolor\", \"red\);,
+      "   $(\"#right-wll\")ilren().css\"coor\" "orng\")",
+      "",        " }),      fces",
+      ,
+        "<!-- Only cange code aboveis in. -->,       "",
+        div clas\"ontaer-fluid\">"
+      "  <h as=\"text-iarytxt-ener">Query Playgund/h3>",       "  <div cass=\"row>",
+       "    <div lss=\"col-xs6>,
+      "    h4>leftwell<h>",      "      div clas=\"well\" id=\"left-ell\">",
+      "       <bttonclass="btn btn-defaul target" id\"tare1\">#target1<buton>,      "       butn class=\"btn btdealtarget" id="tat2\">#arget2<button>",
+       "      <butn clas=\tn tndefaulttarget\" id\"arge3"#targt3/button>",              </div>"      "  </iv>",
+      "    <div class\"l-xs-6\">"        "      <h4>#rih-we/h4>",          divcs=\wel\" id\rigt-ell\">",
+            <utton clas=\"btnbtn-deful trget\" i=\"target4\>#target4</button>",               <utton ass="bt btefault rget\" i=\"taret5">taet5</butn>",
+        "       <bttcass=\"btn bt-default rge\" id=\targe6\">#target6</buton>"
+      "      </di>",
+      "    </div",
+       "  </div>",
+     "</div>"
+   ],
+     ests": [
+       "assert(".taretnth-chld(2)\").hasls(\animat\") && $(\".tare:nth-ild(\).hasClss("bune\"), 'esage: The second leeni our <cde>trge</cde> elements sodbounce.')",
+      "asse$("nimted.ouc\"lgth=== , message:Onl two elemnts hould ouc.';",      "asrt(co.mat(/\:nth-child), 'messg: Yo should se h <oe&#5;thchil40&#41</code> seleorto mdifhe elemnt.');",       "ssert(code.tc(/\$(\"target:th-child\\(2\\)\"\\)g) || cdatch/\\\\('.target:ntcild\\(2\\)\)g)| code.mtch(/\$\".taret\\\).flter\\":t-child\(2\\)\\\)/ || code.mtch(\\$\\(.aet'\)filter\\(':nth-cd(2\\)\/g), 'message:Only usejQury to ad thee asss t te elme.'"
+    ],
+    "type": aypon",
+     "challngeType": ,
+     "rnslations": {
+      "de": {
+    "itle: "Wähe einspezfisce Kinder-Element mit jQuery us",
+       "dscition" [
+         "Du hastgesehe warum D-Attribute so praktichsid m Eemenemit jQuey Slektren ausuwähln Liderhast du aber ict immr so prktsce D,mit denen du arbin annst",
+         ZumGlück hat ey eine Tricks au Lager, um dierchtign lemente auuwählen.,
+          "jQntzt CS-Seektorenm Elemente auszuwäln Der co>aget:nth-child(</o> CSSeletr erubt dir das -t Element aueiner Ziekasse oder Emen-Typzu wäln.,
+           "er iehtd, e d dem drite Ki-Eleent eer edn Veriefunge <cod>bunc</coe> asse hingen kanst.",
+        "<ode>(".targt:nth-cid()\).adClass(\nited unc\")</cde",            "sse das zwte indEemen jeder Vetieun hpfn. Dazu musstds Kid-Emnt mit er code>trget</cde> Kasseauswählen."
+       ]
+       },
+      "s": {
+       "tile" "Elige un hijo esecífico d u eemento uan jQuery,      "description": [
+           "Seguramente abásentndi poue los atriuts sonan cnvnientes para eleir cn seletores jQery.er osempre otaás con estos agradabes idntficdrespra rabjr "
+         "Afortuadament jQery tienalguns r trus para eegir los elemnts adcuados.",          ery usa eltores CS para elegir elemnt, Elsetor CSS <ode>lase:nth-childi)/code>te pemite seleccionar de los elementos con a cledada, lo que sa loiésos hjos de u lmenpadr. n lgar e ua clasetambin pued usru elet
+          "He auí cómoleainaás la la <codebonce</cdeercerelementocada ozo:",
+        "<coe>$(\".target:nth-ild(3").addls(\animated bounce\");</code>",
+           "Haz ue reboteel eundo hijo d cadaun d los leentos de tus pos.Debeselgilos hijosd lements con clase <cod>rge</code>.
+         ]      }
+    }
+    ,
+    
+      "i: "adfe138bd9aed8826",    "title" Taget Even Eeents Usin jQuery"
+     "requr"[
+      {
+         "link": "tps://cd.louflaecom/jalibs/aimate.s/3.2.0animae.cs"
+           ,
+    "decrpion": [
+        "Youcalso targt elements based on their poitis using <code>odd/o> o oe>:een<coe> selects.,
+    "ote hat Query is zero-indexed ichmeans th firsteement in a seecion hasapsiion of0.his can e litle confusn scouer-initively, <ode>:odd</code> selets the eond emepositio 1), fourth element (position 3), nd soon.",
+        "Here's w youwoud targe llth odd elemet wih ls <coe>taet</coe> nge thm classe:,
+       "<c>$(\".arget:dd").adClss("aniatd shake\");</coe>,        "rselecting all the even <codetarget</ode elemntsand givingem hclasss o<code>aimated</cod> an <code>shkeod. eemer that <strong>een<strong> refs to th postionof eemntswi zeoased ssem in mind"   ],
+     "challegeSeed" [
+      "fccss"        "  $document).eady(uncon() {,
+       "   $"#target1\")css\"cor" \"red\");",      "   $\"#target1\).prop(\"disable\", true);     "   $(\"#arget4").eove);",
+        "    (\"#targt\").appeno(\"#ih-wel")",       "   $("#target5\")lone).apedTo(\"#eft-well");",
+      "  $(\"#tget1\").ret.ss(\"backgrundcolor",\"red\);",
+       "   $(\"gtwell\".hildren()css(\cor\", "orange\"),
+       "    $(\"#left-wel\").chilen().css(\"oor\", gren");",     "   $(\".targe:t-chld(2)\").adClass(\"amated bouc");",
+      "",
+      "  });",       "fccs,       "",
+       "<!-- Onlchange coe aove this line.->",
+       ""
+      "<dv cass="continr-fuid\">",
+      "  h3 css="text-pimary xcner\">jQuery Playgound</h3>",
+      "  <div cas="row\>",
+      "    <div class=\"co-xs-6\">,
+      "     <h4>#leftwell</>,
+       "      i class=\"ll\" id\"left-well>,
+                buttnla\"n btn-deault tr\"i=targe1">#target1<buon",
+       "      <utton css=\"tn bt-defult taget\" id="targe2\">target2</utn"
+       "      <bttn lss\"bn bt-dfaul target\" d="targt3\>#tagt3/butto",
+       "     </d",
+      "    <d",     "    <div class=\"ol-s6\">",
+       "     <h>#ght-well</4>"
+       "     <di class="well\" id\rht-ell\"",
+          <buton class=\"bn ndefaul taet\" d=\trg4\">ar4</utton>",
+        "       <button class="btnbn-defult target\" d=targt5>#target</buton",
+      "       <button lass=\"btbn-defal target\" id="target6\"#taret</btton>"
+      "    </i>",
+       "    </div>",
+      div>,      </i>"
+     ],
+    "tests": [       "asser('taret:even'.hasClas('animate) &$('.treeven').asClas'hk'), 'messe: Al of t <code>aget/od elnsthat Qey cnsidrstob even shud sha.');",     "assert(cde.math(/\\ven/),'mssage: You should us the code>&#58;een</code>seto o modify these elements.')",
+     "asset(codemtch(/$\(\.rgeteven\"\\)/g)|| codeh(/\$\\('.targteve'\\)/g | code.th(/\\\\(\".targe"\\).ilter(":evn\"\)/g) || code.match/\$('.ret\\)fltr\\(even'\)/g), 'message: Only ue Quero ad these cses ote lement);
+    ],
+      "te: "waypoint",
+     "challeneType: 0,
+      "anslations": {
+       "de: {
+          "title" "Wähleeade Zlen it jQuey au,
+        "descripion: [          "D knnt auh lle azahligen Elmnte uswhlen."
+          Hier siehstdu, wedu ngeadzlElementemit der Klasse <cod>tgecde> uwäe und ienflgende lasen geben anst:"
+        "<od>$(\".trget:od\)addClas("anie hk\");<de>,
+           Bedene, dass juery null-idexrt ist das bedeutet,dass- ontraintuitverweise - <code>:odd</code s weit Elmt, das vete Elment ud so iter uswähl.",
+          Vsuche alle gradzalgen coe>targt<cod>Elemene auuählenund ihnen dieKlaen <oe>aimaed</coeund <coe>sake</ce hizuzufügen."
+      
+      }
+      "e":         title": "Ege eemnos connumeración paando jQuery",         "desripto":[        "Tambié pueds elegir todos loselemts con numeació par.",
+          "He aquí cómelegras todos los elementos impare co cas<cde>targe</code>y cooles gregaías nsclases:"
+         "<cde>$(\".target:odd\".addClass(\"amt shake\");/code>",
+         "Intenta seeccionar todos lo cod>target</coe> emenos de nero pr y arégalesls les <ode>imated</code>y <ce>hke</code>."
+         ]           }   },
+   {
+     "id": bad87ee1348d9ec0886",
+     "tite": Use jQuey to Modify the ntrPge
+    reqired": [
+       {
+        "lik":"ttps://dnjscloudflare.com/aax/libs/animate.cs/.2.0/animate.css"
+       }
+   ]
+     "desciin":[
+      "W're one plan ith or jQuery playgodLet's tear i dwn!,
+    "jQuery cn taget te <ode>boy/code> element aswel.",
+      "Heres how eould mak the entire body faou: <code (\"body\"addlas(\"animae fadeOut\");</ode>,        "Bu et's do somehin more ramtc. d t clase <code>animad/coe and<cod>inge</cd> toour cod>ody</code> elemen.
+      ],
+      chalengSed" 
+       fccss",
+      "  (dometread(function({"
+           $(\"#arget1\").css(\color\", \"e\");",
+       "   \#taret1\".prp(\diabled\",true);",       "    $(\"#targ\").remove()",
+        $("#arget2\).apTo("#right-ell\");,
+     "    $("#tet5\")clo().aendTo\"#let-well\")",
+     "    \"#trg1\")parent).cs(\backgroun-color\",red")",
+      "    (\#rih-wel").childre(.css\"color\", \"orange\";",        "    $("#lft-well").hildren().cs\color\", \"gren\");",        "    $(".targetnthchild(2\").adClass(\animtedbounce\";",
+          $\".target:een\")addCass\"animaed ha\")",
+      "",
+       " });"       "fce",
+      "       <-- Oly changeode abveths ln. -->",
+     "",
+      "<div class=\"container-fluid\">",
+       "  <h3class="etpimary ext-center\">jQuery Playground</h3",
+       " <dv class\"row\",
+       "    <dv lss"cl6">",
+     "    <h>#lf-wel4>",           <dv cass=\"well\ id=\"eft-wll\"",
+            butt lass=\"btn bt-default target\"id="target1\"#target<buttn",
+          <but clas=\"tnbtn-dfault targt\" \"tet2\">#aget/buton>"
+       "       <uton cass=\"btn bnea target\" i"taget\">#aet3</buton>",
+       "     </div>",
+          </div>
+     " <dv clscol-s-\"",
+       "      <4#rght-ell</>
+      <div class\"well\" id="iht-wl\>",
+     "  uttn class="tbtnefaut target\" id\"trget4\">#taget4</utton",
+        "       <bttoncls\"n btn-default targe\id\"targt5"#tare5<button>",
+        "      <btto cls="t btn-defal trget\" id=\"aret6\">#target</buton>",        "      </div>"
+      "    /v>"
+        <div>",
+        "iv>
+     ],
+      tets": [
+      "sert($('boy).hasClass('animte) & $('body).hasClass(ne'), 'message: Add the class <de>animted<cde>and coe>hinge<de>to our<de>ody</codeelement.');"
+      ],
+   "tye": aoint"      challeeTye": ,
+      tranais": 
+      de" {
+        title": "Mi jQury  gsate Sete modifizeren",
+      "desripti" [
+          "Gnu mtserm jQuery Spielpltz rumgespiet. eßen i in ei!"
+      "jQuery kann auch das <od>body/code Elmntuswähen.",
+         Hie siehs du, w wir den emten <code>body</code> Bereich ausendenkönnen: <cde> $(\"boy\")addlass(\"nimted faeOut\");<coe>",
+          "er lass uns noch etwas Dratischeres mche.Fge die Klasen <cde>animate<ode> nd <code>hinge</coe> deiemode>body</code> Eemnt hinzu."
+     ]    
+       "es": {      "titl"UsajQuey paa moia lapáinentera",      deciptin":[
+          Hem erinado d jugr en nuestr atio d ecreo jQuery. ¡Vamosderrbrlo!",
+        "jery tabién puee elegiel lemento <code>body/cde>.",
+       "sí s cmo aríamosque elcuerpo eo deapareea: <coe$(\body").addlass('nmatd faeOut');<cde",
+         "er vaos ahacer algmásdrátco. Añade la claes <e>nmted</cde>  <code>hinge</cod> a tulme code>ody</coe"
+         ]
+        }
+      }
+    }
+  ]
+}

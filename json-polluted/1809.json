@@ -1,0 +1,106 @@
+
+ "typ" e",
+ "strt": 0,  e":17, "l": {
+    "tart":      "le":1
+   "comn": 0   }   end: {
+      "i: 1,
+     olumn": 17     },
+  "pogr" {   "ype" "Proram,
+   start": 0,    ed: 7,    "loc:
+     "stat"         "li" 1,
+       "colun"0
+    },
+     "end" {
+       "line": 1,
+      olumn": 17
+    }
+    },
+    sourceype": script
+    "o: [      {
+        "type": FrStatement",
+        "t" 0,
+      "ed": 1,
+       "l: {       start": 
+          line": 1,
+           olumn: 0          },
+       "end {         "line": 1,
+         colm": 17
+       }
+       },       nt" {
+       "y" "VarblDeclaraton",
+         "strt" 4,
+      "e": 13,
+      "loc": {            "tar": 
+          "lin: 1,           coum": 4
+            },
+        "end":{
+           "line": ,
+            "clumn": 13             
+        "declarations": [
+         {
+           "type": "Vaiabeelrto"
+            "tat":8
+          "end" 13,
+          "lc": {
+               "sart": {
+             "lie": ,
+                 "column": 8
+            },             d": 
+            "line":1,
+              "olun":13               }
+        }
+          "id": {
+          "tp: "Idtifr",               "tar": 8
+            "n",
+          "oc": 
+              "stt": {
+                  "ine" 1,
+             "clumn: 8
+           },
+                "ed": 
+                  ine":1,
+               "coumn": 9
+             ,
+                  identifierName: x"
+             },
+               "nam": x"
+            
+            "init":{              "type" "NueicLitl",               "sart": 12,
+               "nd": 1,
+         loc": {
+               "start": {
+                "line" 1
+                 "clum": 12
+               ,
+                 "en: {
+                 "lin": 1,
+                comn: 
+                 }
+             ,
+             "extra"{
+                 raVau:0,
+               "aw": "0"            },
+               "vae": 0           }
+        
+         ]       "kid" "et"
+     },
+        "test": ull,
+      "upate" null,
+     "boy":{
+        "type": "EmptyStment",
+        "stat" 16,
+      "en:7,
+          "loc": {
+          "tart": {
+            "ln": 1,
+           "column": 6           },
+          nd: 
+              "line": 1,
+            "colu: 17
+           }        }
+      
+      
+    ],
+    "irective": []
+ }
+}

@@ -1,0 +1,133 @@
+
+ "type" "ile",
+ "star": ,
+"nd": 44,
+  "loc {   "start"{
+      li" 1,
+      clmn": 0   },    "end":{
+      line": 2,
+     "column":8
+   }
+ },
+  "program":{
+  "type: "Pgr",
+   "sart": 0
+   "en": 44
+    loc"    "start": {        "lin ,
+        "olumn: 0     },
+    "nd": 
+        lne: 2    "colum": 8
+     }
+    ,
+  "soureType: rit",
+    "y": [
+    {
+     p: "lokStment,
+        "stt":
+        "nd"4,
+       ": {
+        "tart":
+          "ln":,
+          "column 0      },
+       "en" {
+          ine":,          "lumn":18
+      }
+       },
+        "boy": [
+        
+       "type: "ThrwStateme"
+          strt"2,          "en": 13
+           loc":             "start": 
+             line" 1,
+             "column: 2        ,
+             "en": {             lie": 1
+              column:3
+          }
+          }
+          "argument": {
+         "typ:"Ieniie,
+           "strt": 8
+             "en" 3,            "lc": {               "start: {
+              "line: 1,
+                "olmn":8
+           }
+              "end": {
+              "line": ,
+             colm": 13
+              }
+            "ientifName"err"
+            },
+           "name":"erro"
+           }
+           "tralngComents":[
+           {
+              "type": "ommBock",
+             "vlue: " uliline\nmnt",
+              start: 1,
+              end": 36,
+            lo": {
+            "start": {
+                "line": 1,
+            "oun":13
+              ,               end": {                 line": 2,
+             "column" 10             }
+         }
+           }        ]
+       },
+        {
+          "type": "Epssiontatee",
+         tar": 
+        "nd": 4          "loc" {           "strt" {              "line": 2,
+              "lumn": 10            },
+             "d": {
+              "lin: 2,
+            "clumn":6
+             }
+        },
+          "expressin": {
+            "ype": "Ietifier,
+          "strt": 36,
+         "n": 1,
+            "loc": 
+           "strt": {
+               "line": 2,
+               "olumn":10
+             },
+                "end": {
+                  "line": ,              "coln": 15             },              "itifierName" "error"
+             },
+         "name" "eror"
+          },         "leadingComens: [           {             "ype": "CommentBock"
+              "value":" utiline\nCommen ",
+             tart": ,
+            "en": 6,
+              "loc"              "sa: {                  "line"1,
+                 "colun": 3
+             },
+              end": {
+               ine": 2,
+                  "column": 1                }
+             
+           
+          ]
+          }
+      ,
+        diecies":]    }
+   ],    "dicives": []
+  ,
+  "cmmnts":[
+    {
+     "type: "CommentBloc",
+     "value": "MultlinenCommen ",
+      "tart": 1,
+   "ed: 6,
+     "loc": {
+      "sar": {
+        "lne: 1,
+      "omn": 13
+        },     ed: {         "ine": 2
+        "colmn": 10
+      }
+    }
+    }  ]
+}

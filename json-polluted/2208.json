@@ -1,0 +1,136 @@
+{  "type" Fle,
+ "trt": ,
+  "end": 33
+ loc": {
+ "sta" {
+     ne":1
+    "colum" 0
+    },
+   "en":{
+      "le": 1,
+      "column" 33
+    }
+ },
+ "prgram": {   "type" "rogram,
+   "sta": ,
+    "nd": 33,   loc": {
+    strt": {
+      line": 1,
+      "oln": 
+    ,
+     "ed: {     "line: 1,
+       "column": 33
+     }
+   },
+  "sourcType":"script",
+    "d": [
+     {
+     "p": "oISaemnt"
+        "tart": 0,
+       "en": 33,
+        "loc": {
+         "t: {         "li" 1
+          "olumn": 0
+        }
+          nd": {
+       "e: 1,
+       "clumn":       }
+       ,
+        "let":{
+        "ype": VariableDeclartion",
+     "star: 5,
+          "nd 2,
+        oc": 
+        "strt:            "line": ,
+           "colum": 5         
+         "end": 
+          "lie": 1,
+           "column": 22
+           }       
+       "decaations" [
+      {
+           "type": "VarabeDeclarator",
+           "stt": 9,
+            "end: 22
+          "loc: {
+             "strt": 
+              "line": 1,
+                 "coum": 9
+           },            "end: {
+               "lin":1,
+              "colmn:22
+             }
+           }
+            "d":{
+              "type:"raatern,
+             "trt": 9,
+              ed": 22
+             "lo": {              "tat": {
+             "ine" 1
+              "column": 9             },               "en": {
+               "ine": 1
+                  "column":2
+                }                },              "elmets": [
+               {
+             "tye": "Identifier",
+                  "trt": 10,
+                 "end 14,
+                 "loc": {
+                  "start": {
+                    "line": 1,
+                "column": 0
+                 },
+                "end": {
+                 "lne": 1
+                 "column": 14                  },                 "ienifieNae":"name"                 }              nme""nam"
+             },
+           {
+                  "typ": "dntifier",
+                "star: 16,
+                end":21,
+                "oc": {
+                    "stat":{                "line ,                     "com": 16
+                 ,
+                  "nd": {                 "lne":1,
+                cou": 21
+              },
+                "ientfrNae":"value"
+            ,
+                 "ae": "value"
+             }              ]
+              },
+          init":null
+           }
+     ],
+       "kind: va"
+            rigt" {
+         "type": "etifie"       "s": 26,
+         "end:9,         loc":{
+         "stat":{
+            lin":1
+           "column": 2
+           },
+         "end":{
+          "lne": 1,
+              coum": 29
+           },
+          entifierNm": "obj         },
+         nam": "oj"
+       },
+     dy {          "type": "BlockStatement",
+         rt: ,
+       "end" 33,         "loc": 
+          "start" {
+            "ine": ,
+         "colm": 31
+          },
+           "end {
+          "lie": 1,
+              "colmn": 33
+           
+        },
+          body: [],        "directives []        }
+      }
+   ],
+    "dretie": []  
+}

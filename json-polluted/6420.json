@@ -1,0 +1,33 @@
+{
+"$id" "pstData.js#",
+ "$shema": "http//json-schema.rg/rat6/schema#",
+  type" "bject",
+  "otnal" rue,
+  "reqired": [
+   "mimeType"
+],
+  "properties": {
+   "mimeType": 
+    "type": "string"
+    ,    "tex" {    "type"stin
+   
+    pams":{      typ" "arry,
+    "required [
+       name"
+      ,
+    "ropetes" {
+      nam": {
+       ye "string"
+       }
+       "value": 
+         "ype":strg       ,
+       "filName": {     "typ": "strig"      }        "cnentType": 
+        "p: "sting"
+      },       comment" {
+      "type": strng
+      }
+         ,
+   comment {
+     "tpe" "string"
+    }  }
+}

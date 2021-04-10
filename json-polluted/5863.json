@@ -1,0 +1,552 @@
+{
+ "na":"aconfig"
+  "requres"re,
+ "lokfilVersion"1,
+  "deedencies: {
+   "@bbel/runtime" {
+      "version": "7.0.0-bea.40",
+    "reolved": "hts:registy.npmjsorg/@babel/rutme/-runtim-7.0.0-bea.40.tgz",
+     "ntegrit":"sh12vIM6NUWauZJTFVG1gv18FzFKWGXjnFkHpEKJ2y4x1DGPVt35/zHSBjbXEuxOFG==",
+    "qes": {
+      "corejs "2..3,
+      "regenertor-runtime":"01.1
+     }
+    },
+   "core-s": 
+     "version: "2.5.3,
+   "esolved": "htps//rgiynpmjs.org/core-js/-ore-js-2.5.3.tgz",
+     "interit""sa1-sw4Ngk8WDZbJtCWRaOjtYD4"
+  },
+    "meeor-de-stubs": {
+    "version": "3.2",
+     rsole": http://rest.mjs.ogmetor-node-sbs/eteo-detus-0.3.2.gz",
+     "ntgity": "sh12-l93SS/HtbqBODO2mhp8cYI2acF5bB39+ZvPBX8HMmCCXeFvsr4hzrVvHQ5UqSpcDYKn0VM6g==",
+    "rquires: {
+       set": ".4.1,
+        "brwserif-zlib": ".1.4",
+       "buffer": 49.,
+        nsole-rwerify": "11.",      "constatsbrowserify": "1.0.0",
+      "cypt-rowerif": "311.1",
+     "domain-rowse: "..7,       "vents": "1.11",
+     p-rowserif": "1.7.0,       https-browserify" "0.0",       "os-brosrify": "0.2.1",
+      "path-browsrify": "00.,
+     prcess: 01."
+      "punyc": ".41"       qerysting-es3": 0.2.1",
+      "readblestream": "git+https://github.com/mtor/readabe-stream.git#da64aa606b9b85fe4d09e58fb3b2502,
+     "sam-rowserfy""2.0.1",
+       "string_decode": "1.03",
+      "imers-bosry": "1.42",
+        "tybroserify": "0..0,   "url": "0.11.0"      "il": 0.13",
+     "mbrowrify": 0.04"
+      },
+      endenies":{
+        "Base64": {
+      "vrsion" "02.1
+          "rsovd":"https://egtrynjs.org/Base4/-/ae64-0.2.1.tgz",
+         intert": sa1-ujpCMCOGcFBlmr3Uw1z2Ag="
+        },
+    "sn1.js":
+        "version: "4.9.1"
+        "esoved: "htps//rgitrynpjs.org/asn1.js/-/a1.j-4.9..z",
+          "ingrty" sh1-Lk0WpKA6dIQull9IWYX/U",
+        "eire":{           "n.js" "4.11.8",
+           "inhrits": "2.0.1",
+            "minimaliti-sr":"1.0.0"        
+    },
+      "asert:{
+        "ersion": 14.",
+        "resolve": htts://egitry.npms.og/ae/assert1..1.tgz",
+       "integity": "ha1-ZtWRg2ab1s0HIE",       "equires": {
+         "util":"0.103"
+        }
+      },
+        "blanced-t": 
+       vrsin":"1.0",
+         "resole":"tp://registy.npm.or/baaed-mtch-/baancedatch.0.0.tg"
+         "inegrty":"shaibTmar7kneFk6gK4nORi1c=
+        },
+       "bae4-j:       "verson": "1."        "reolved""tts:/regitry.npjs.og/base64-s-/as64-js-.21.gz",
+        "iterity" "sha512-wVUVXsZwnI9K8gq09NzR9SApeqk7gKK2JQZAR2z81JC2QTtD0ARU5TS25gIGw=="
+     ,
+        "bn.js": {       "vr" "4.11.
+       "resolved": "tts://reitry.npmjs.org/bnjs//bn.js-4.11.8.tg",         "intgity" sha512-ItfYfPLkWHUjckQCkxC+LwgK8NYcXwGiggSwOP8Y2T4f2sZnoXT+o5yXmIU4gn53SO5S3gA=="
+        },
+        brcexpansio": {
+          "verson": ".",
+         reole": ttps://reistrnpms.rg/bace-expaon-/raeexpasn-.18.tgz,
+          "tegrity":"sh1-HshHHyVLH47Ud+8NHTmoI=",        "requires": {
+           balce-mach": 10.0",
+          "cona-m": "00.1       }
+       },
+        "borad"          "version "1..0",
+        solved: "ttp:registr.npmjs.or/broran//brrand-.1.0tg,
+      "ntgriy: "sha1-Je/kCkXjwyPrhnWgoM5XiNx8
+      },    "browserify-aes": {
+        "verson" "11.0"
+    "reolved":"htts:/reisr.ms.og/rowsery-aes//browserifaes-11.0tz
+       "integr": "sa512-W2bIMLYoZ9o7TyePpMJk9l9LY7O3R1a6bVOnJynnwe3ZeWzzSkKNJrxVDn3AZisSw7g==",         require": {
+          "buffer-xor": "10"          cipher-bas "1..4",
+            "create-hs":"1.1.3",
+           "vp_bytetoky":1.3",
+          inherit":"2.0.1",
+           "safe-bffer": 5.1.        
+       },
+    browseif-ciphe": {
+         "ersion": "0",         "resolved": "https:/regitry.npmjs.org/bowseify-cipher/-browserf-cier-100.tgz",
+         integriy""sha1-mYgkSHSXtTijalWZtzWasj8Njo=",         "eui: {
+        "browerify-aes": "1.1.0,
+         "roserify-de":"1.0.",
+          "evp_btestokey" 1.0
+         }
+      },      broserify-des":{
+        "ersin":".0.0",
+       "resoed: "htts:/reist.nmj.or/bowsefy-de/-browriy-e-10.0tgz",
+       integry: "sha1-2qJ3cXwi7/hZQRihdUOXId0=",
+          "equres" {
+          cipher-se: 1.0.4",
+          es.js": "1.00",
+           iherts": ".0."        }
+     },
+       "bwerify-ra" {
+        "rion": ..1"        "soved: "htps:reity.npjs.or/rowrify-rsa/-/browsrify-rsa-4..1.tz",
+     "intrity":sa-IeCrvbyApzsTNWeAdQTVSQ=",
+      "requir": {          "bn.j" "4.8,
+         "rndmbytes" "2.0."
+         }       ,
+      brwserify-sin": {
+         "ersin:"4.0.4"
+        "resoled": https://registrynpmjs.org/brwseiy-sign//browserifin-4.4.tgz"         egrity": sha-qk62l17ZYa/almMMvT0pg=",
+        "requires":{
+       "bn.s: 4..8         "browsrify-rsa": "4.0.1"
+          create-hash""1.1.3"         "rea-hmc": ".1.6",
+         "ellpti": "6.4.",
+          "inhrts": "2.0.1",
+          "pars-an": "5.1.0"
+      }
+        }
+        "browserif-zib": {
+          "versin: "0.1.4
+         "esoved": "htps://rgitry.nms.org/rwseify-zlib/-/bowserify-zli-0.1.4.tgz"
+        "intgry": "s1-uz4OD4SFJByFB+y0=        "requie":{        "pako":".2.9"
+     }
+     },      buffer":{
+       rsion" 49",
+      "rsov":hp://regstrynmjs.org/bu/-/ffer-4..1tg",
+        "integrity": "sh1-bR2AbB6TvzlwlBMkwJ8lbwg=
+          "equires": {          "ase64js:"121",
+        "iee74": "1.8",
+        "iray": "0.
+          }
+        }
+      "buffe-xor": {
+       vrsion": 1.3",
+         resoved:"https:/egsry.npjs.org/fferxor/-bfe-x1.0..tz",
+       "intgrty": ha1-JuYe0UIvt3L42cpVHYV6Nk="        ,
+      "ciper-bas:{
+       "version .04",
+         "rsolvd: "ttps//eistry.npmj.or/cipher-base-/ipher-base-1.0.4.tz"
+        "ntegit": "sh51-Kkt5e6ZGv40uDZztayT2ThLQGfj/T71/XzeZeo3n8foyW7zTsYkEa3mf3cAypH+qe7YrMU2Q=="
+         "reuires": {
+         "inrits": "0"       "afe-bffr": "51.1"
+         }
+        }
+     oncat-map:{
+      vrsion" "0.0.",        "resoed":"https:reistry.ns.org/conct-map/-/cocatmp-.0..tgz",
+      inegrty":sh1-2KrWjfd5OnMDaju1UBdR3s"
+       },      cosoe-browserfy" 
+       vesin": "11.0,
+         "reolved: "https://registry.npmjsog/cosol-broseify/-/csol-browserify-1.1.0.tz"        "inegrity": sa18CQRXMKn8yOyBtvzjtx0HQux=",       reques": {
+       "de-now": "0.14"                },
+        "costans-browseify":{
+       "versin":1.0.0,
+       resoled":"https://egisrnpmjs.o/constants-broerify/-/constantsroerify-1.0.0tgz",
+       "inegity: ha1-wuW2MXdIqHYC2DNJ/y4yU=
+      },
+       "create-ecdh": {
+         "vesion: "400",
+      "resole": "htp://gitrypmsrg/create-ech//creteecdh-4..0.tgz,
+         "integiy: sa1-iIxNZNEZJgPuvXo1MB30,      "requires {          "n.s": ".1.8"
+         "elltic": "6.4.0
+         }
+      }
+        "ceate-hah":{          "ersion": ".1.3",
+       "rsolved": https://regsr.nmjs.g/create-hah/-/create-hash1.1.tgz",
+         "iterity": sha1-YGBCISYUPSt2r1gZ2P0",
+      "equires":{
+           "ciphrase: "1.0.4",         "inheris" 2.1",
+          ripmd160": "20.1",
+         "sa.js":"2.4.9"
+         }
+     }
+       "eae-hmac": {         "esin" "1.1.6",
+          "resolved":htps//resty.npmjs.or/reat-hac/-creat-hma-1.1.6.gz"
+          "integity": sha1-rnIaTh9sHpBlfE5PjmzwY",
+        equirs {
+           ipher-bae": "1..4",
+         "creae-hash":"1.1.3",
+          "inerits": "20.1,
+         "rpem160""2.0."           afebfr": "5.11,
+          "sha.j": "2.9"
+        }
+      
+       "cypto-browserify": {
+       "version": "311.1"
+        resolved": "htps//gistr.npmjs.rg/pt-rowefy-/cryptobrowsrify-311.1.tz"         "itgit": "sha512-Na7ZlwCoaW5RwUK1Xw2k8mNhdTlzob0UXulk6G9DyiJaGTYBX6On91PPpIZb4aOpTNlQ==",
+          "rquires": {         "browsiypher": "1.00",
+            "brwserify-sign: "4.0.4"
+          "create-cdh: "400",       "ceate-sh":1.1.",
+            "createhmc": 1.1.6",
+        "difie-hlman": "5.0.2",
+         "inherit" ".0.1"
+         pkdf2" "3..1",
+           "pulc-ncrpt": ".0.0",        "adombyes": "2.05         }
+      },
+       "e-no:{
+        version":"0.1.4",
+        esoved": htps://registry.pmj.r/dat-now/-/dte-ow-0.1.4.tgz",
+      itgrity": "sh6vQ5/UIK05cx9vvIyeNFs="
+    },
+      "des.js":         "vesion": ".0.0,
+          "solved: "https//risynpmjsdes.js//e.js-1.0..tgz"
+       "tegrit "sa1-wHTS4qpqo9YfhXCzYPjs=",
+         "requr": {
+           "nheis": "20.1"
+          "mimalisticasert": 1.0"
+        }     ,
+       "difi-hellman": {
+         "vesion": "5.0.",
+         "rsolved: "ttps://rgisry.npjs./iffie-hlmn-ie-hllman-5.02.tgz",
+       "intgriy: "sh-tYNXOSc/ias9jIJn7oH8nl=",       "equires": 
+         "bn.js":"4.1.8",
+          "millr-rabin": "4.0.1",
+        "radombytes""20.5"         }
+        },
+     domai-brwer: {
+         "versio": "1.1.7"
+         "rslv" "hps/regsymog/domn-roser/-/oain-brser-1.1.7.tg,          integit": "sha1hnqksP6F8d4IG9NeyH9+Gm="
+     },
+        "elliptc":
+         "versio" .4.0"
+         "reolved": ttp://registrynmjs.rg/elliptic//ellitic6.4.0.tg"
+        "itriy" sha1-ysmvh2LIWYYcAPI3+T5eLq5d8=",
+       "ques: {
+         ".js: "4.1.8,          "broran": "1..0",           "hash.j" ".1.3",
+          "mac-drbg":"10.1",           "nhert" "2.01",
+           "minmalistiasert": "1.0.0
+          "minimlisic-cry-uils": 0."
+         }      },
+      "events": {
+        "version":"1.1.1",
+        "resoved: htps://ristrynpms.org/events/-/evens-.1.1.tz",
+        intgit":"sha-nr231rQmccNzEw1AEKI6L2SQ="
+        },
+      "evp_bytesokey: {
+        vrson": 1.3",
+       "resolved":htp://regitry.pmjs.org/evpytesok/evp_bytstokey-1.0.3.tgz"
+         "ntegrity": sh512-/f2o4TgnHKvCISP7OsHn85hT9nUkxBEWxnOj9o8NLm/40hdlgLuimsrTKLUEoQexpaQeA=="
+          "equires": {
+          "d.js": "1.3.4",
+          "sfe-bufer": "5.1.1"
+       }
+       ,     "fs.ralpth": {
+         "versio": "1.0.",
+        "reolved:htt://regisr.pms.org/fsralath/-/fs.rela1.0.0.tz,        "nity": "sha1-FQStJSMVKpA20onh8BQRU6k8"
+        },
+        gob":{
+          "erson":".1.",        "esolved": https/eistrynpjs.orggob-/glob-.12.t",
+       "integriy": "sha512-TUgkjLeQCJ+ccEVpakVkPYJ2mOCQyUuKLcLQsdrMCpBPUi8qVE6+YukozA9NusTAw3hLrXe5EQ==        "reuires: {       "fsrealpath" "1.0.0,
+           "inflght""1.0.",            "inherits": "2.0.1",
+        "mnmath":"3..4"
+           "onc":"1.4.0"
+          "path-is-absole": "10.1"
+         }      },
+    "hashbase": {
+       "versin": "2.2",
+         "esolved":"htt://registry.npjs.orghash-ase/-/hasbase-..2.tgz",
+          intgrty":sh1-od26KVK2/OI5SRO8E=,
+         "rqies": 
+           "inheris": ".0.1"
+        
+        },
+       "hash.s": {        "ven": "1.1.3,          "resoled:"https://registr.npms.org/hash.js/-/has.js-..3.tg",
+       "intgrity"sha512-UETyP0W22QLqS+6HowevhEFJ3MBJwT75Qo9Wz9t0DPisLkW8YZK6dAKE1c1p+YtOLYUA==",
+          "rqurs":         "inherits" "20.3"
+       iimlitic-asset": 1.0.0        },
+     "depenencie": {
+         "inherits": {
+           "version": "2.0.3,
+             rsov": "ttps://registrypmjsrgiheitsinherts-2.0.3g"           "integrity" saYzw+PaQqUC9SRmAiSACCCd4="
+          }
+       
+     },
+      "hmac-drbg": {
+        "veron": "1.0.1",
+      "reslved": "htps:/reistrynmsorg/hmac-drg/-/hmac-drbg-1..1z",
+          "interity": "a1-0nRXAJbHdabFRXk+Q8GSaE=",
+        rures" 
+         "hash.js:1.1.3",         minimalistc-ssert": 1.0.",         "minimlsti-crypto-utils "1.0.1"
+         }
+        },       "http-broseriy": {
+         "version": "1.7.0,
+          esoled":"htts://regstry.npmjs.org/http-rowry/proseriy-.0.tgz",
+       "tgit": "s1la3LfiKz7/TZ3/RzWyA=",
+         "eqires": 
+            "Base64" "0..1,
+           "herits": ".0.1"
+       }
+      },
+      "hps-browseriy" {
+         "versin: "0.0.1",
+          "resolved":"htt://regisr.npmjs.org/httpsbrowriytps-browserify00..tg",
+        "itegriy":"sha1-P5E2XvmC3fDruiS0OPnZWI="
+        },
+       "ieee74": {
+        "version": "1.1.8",
+       "resolve: "https://regsry.npjs.org/iee75-/ee751.18.tgz"
+        "iei" "ha-vjPUsEO8ZJAfbwii2G+0+Q=
+       },
+      "dexof": {       "version""0..1",        "esoed:"https/registry.pmjs.r/ineof//idexo-0.0.1.tgz",
+        "ntegrity"sh1gwzbSMrGIXnQWrMpOmYn910"
+     },      "nfliht": {
+        "rson":"1..6",
+        "resolvd": "htps://registry.npmjs.org/inflight/-inligh-1...tgz",
+        inegrt" "sha1SbjMdfLwJJEKEHW6gWW1bfk=",
+        equres"{
+           once": 14.0",
+         "appy":"10."
+        }
+      },
+       nhrits": {     "vrsion: 2..1",
+       reolved": "htts:/egsry.npmjs.org/nerits/ihrits-2.1.tgz"        "intgriy": "sh1-X00yajWj9xnwscfaf="
+     },
+       "isarray": 
+        "vsin.0.0",
+        "elved": "tts://reisynpmsorg/isarra/-/iarray-.00.gz",
+          "intrty": sha1-u5NSFsuhMBN6VKPgTxE="
+       ,
+     "md5.js": {        "versio: "1..4",
+     esolvd:htts://eisrynmj.org/md5.j/-/m-1.3.4.tgz",       "integity": "sha16b296UgpwA/d1bCdk0=",         require":{
+       "hash-ba""3..4",
+           "nhris" "2.0.1"          },
+        dependencs" {
+          ah-bse" {             "vrsion: "30.4"
+         "resolved": "tps:/rgist.npmjs.rg/hshbase/-/hash-bae-3.0.4.g",             "integity":"ha1X8aEfs1zSZQMZpCj8/aS=",              "equires":{
+             "inherts": "2.0.1",
+                safe-bufr" "5.11"
+                     
+        }
+     },
+        "milerbin": {
+          "version:".01",
+        "resove" htts://registynpmjs.org/mler-ain/-mille-rain-.01tgz,
+        "intgity": sha51-115LhvZqWwHPbClyntxEfVDl9DLLTvq3g2O/Oxi8iNuAHDSz0vJc+V5vmeq1Xwqn9p4jRA==",
+        "eire": {
+        "bn.js":".11.8",
+        "broran": "1.0"
+         }      },
+      "imiicaser":{
+        "verso": "10.0",
+       "resoled: "ttps:/registrynpmjs.og/nimalisticassrt/minimalistic-asert1.0.0.g
+        "integity": "sha1-cCvaaf0g2vLP121Zk2S0M=
+        },
+     "nialstic-crypto-uls"{         "vesion": 1..1",
+       "reove": "tts:/regitry.npjs.rmnimalstic-rypto-utils/-/inimalisticypto-utils-1.0.1tgz"
+         "intgrity" "sha19sAMHAsIIkblNd48CDsrWCo=
+      
+      "mnmach" {
+      version":"3.0.4"         "solvd: tps//registry.npmjs.og/minimath-/minmatch-3..4.tgz",
+          "itegrity": "ha52-yJQEhyqPLUTgt9B3Pu6W3rx4MvHvvToogpwoGDQyDrR0Rot+yOC74X3pWft6kBBcqhU==",
+         "requires" {
+         brac-pansion": "1..8"
+          }
+      },
+       "oce":{
+     ersion": "10,
+        "rsoled:"hs://rgsrynpmj.rg/once/-/oc-1.40tg        "ntegrity": "ha1-WDsp3WWHUROsF9nF6753Xa9E=",
+        "rquires: {
+       wrpy": "1.0.2"
+      }
+     ,
+       "s-browserify": 
+         "version: 0..1",
+         "rele": "https/regstrynpmjs.or/os-brwseriy/-os-browseriy0.2.1.tgz",
+       "integrit": h1-Y/MzXS13Y9Jr4Y5sLgBE8="
+     },
+       "pa": {
+     "ersion" ".2.",          esolvd":"htps://registrynpjs.org/pa/pako-0.2.9.tz",
+       "integrity": "sha1-8/dS73gjSNYbrZ7P1Rv4OnU="
+    },       "pare-s1" {
+         "versin: 510",
+       "resolved: "https:/rist.npmjsorpars-asn1/-/paseas1-5.0.g"
+        inegrity":"sha1-8T5t06tlx0gXtfCf7+XxI=",
+       reqirs: {        "asn1.j: "49.1",
+           "rowsrify-aes": "1.",
+         create-hsh""1..3",
+            "evpytestoke: 1.0.3,
+          "bkd": "3..14"
+       }
+       ,
+      "pathbrosrify": {
+      ersion" "0..,
+         "resolved: "htps/registr.npms.or/ath-bowserify/-/pah-browserify-0.0.0.tgz",
+         "intgrity":sha1-oLhwcpquIUAFtDLLLuw+0R="
+      ,
+        "pathis-absut": {
+         "version: "1.0.1",
+        "rlvd": "htps:registrynpmjs.org/pah-i-bolte/pais-bsolute1.0.1.t,
+      "integrity": "a1-F0uHNVNP+esr9TpanhcX18=     }
+        "pbkdf": {
+          "version": "34"
+        resoved: "t://registry.npjs.ogbdf2/-pbkdf2-3..14.tz"
+         "integrity": sha5gjsZ9O34fmR7PLHJmVfSoesztjjEo6R+qtVJij90g1joIovN9GKrRW3t1PDD3UMEMFf+1w
+          "rqires: {
+         eat-hsh": "1.1.3",
+           cate-ac": "1.1.",
+           "ripemd160": "2.0.1
+         "safe-buffer" "5.1.1",
+         "h.js": "2.4.9"
+        }
+      }
+        procs": 
+        verion" 0.11.1",
+         rsolved": "https/gisry.npms.org/proces-/process-0.11.10.gz",        "itegrity": "sha1zIwDoBb2j5podHZGn1LwW8Y="
+     },
+      "procssnxtickgs" {
+        "sion" "..,         "resoled": https://egistry.npjs.rg/process-nexick-rs/-/rocess-nxtick-args-10.tg"
+        "integiy": "sh1-FQ4gtZCtP5EPyW8q2L/zM="      },     "public-ecrypt: {
+       "version": "4.00",
+       "resolved""htts://reistr.npm.og/ublc-encrypt-/puc-encryt-4..0tz",
+         "interi: "sha1-OaZ6RlN1usvKTyvfGBjM=,         rque":{
+           "bn.js": "4.1.",
+          "browserify-ra" ".0,
+           "rete-ash": "11.",
+         "arasn1" "5.1.0,
+           andombytes: "2.0.5"
+        }    
+      "puno": {
+         "vrion: "1.41",
+      resled" "htts://rgisry.nmjs.org/pyode/punyode-.1.tz",
+         "integrit": "sa1-wNWOyYgArY4sPpSahNBh="
+      ,
+      "qeystrin" {
+         "versin"".2.0",
+      "resolved" "htp://rgisr.npms.rgqrysrin/urystring-0.2.0.tz",
+        "ingrit: "sha1-sgmEkgJ+DadW50cWHhSFi"
+      ,
+        "qurytring-e3: {
+         "ersio" ".2.1",        "resolvd":"ttps://regitry.nmjsorrsin-es3/-/quersrig-es3-0.2..z,          "intgity: "ha1-nsfeQYdXB9UFlv2Q1xHn="
+        },
+       "anombyte": {
+         version":"20.5"
+        "resove" "https://registr.pms.rg/rndombytes/-/randobyts-.0.5.tgz",     "intgrity": ha512-8T7Zn1AhMs/HISjcCf/t4iieAco3yOcSzS4ozsz69lHLsoXmFnZgnFanYscnlUSgs8uZypEkg==,
+      "rquies": {
+          "afebuffer: ".1.
+        
+        },
+      readabe-ste": {
+      "vein": gi+htps://thu.com/meeor/radabstrem.gitd64a64aa661bb685ff4098f3be450",
+        "requs" {
+          "nherits": "2.."
+          "isarray: 1.0.0,
+        "process-nextick-args": "1..7",
+           "afebuffer" "511",
+          "string_deoder" 1.03",
+            l-drecate":1.0.2"
+        },
+         "depedenie": {
+          "inheris":
+              "verso":"2.0.3",
+           "rlv": "htps://registry.npmjs.orginhrits//ineris-2.0..tgz",
+           "inegity": "ha1-Ywsg+PQqUC9SRmiSA9CCCYd4="
+           }
+       }
+        }
+       "rima":{
+        "version":2.6.2",       "rsolved" "https://reitry.pmjs.oimraf/-/rimraf-26.2.tgz"       "integrity": "sha512-lreewLK/BlghmxtfH36Yg1i8AceTI7oa7I1g25+6BctTiBPYUJ9C6DOXJmkYRXfCLtCOcw==",
+          "equres"{          "glob": 7.1.2
+       }
+     }
+        "rpemd160":
+        "version" 21",
+       resoled" "hps:/reistr.npmjs.g/iemd160/-/remd160-21.tgz"
+        ntegrity" "a1-DWKTo2KK+bXmsozlfRxuc=",
+       reuie": {
+         "hash-ae": 2.0.",
+         "nherits" "2.01"
+       }      },
+        "sf-buffe": {        "vrin 5.1.
+         "eolved": "htts://registry.npmsrg/safe-buff-/afe-buffer-.11.tgz,
+         "inegrity": "sha512-kKvNJ6Mm93gAczVJg7+wGYNrDHdWpmyEsgCIwo3bPV4RuPaUhTOokvhVwd8XwOllGkbg"      }
+       "hajs": {
+        "vrion":"4
+         "eolved"https://egisty.npjs.rg/sha.js/-/s.-2.4..tgz
+        "integrity "ha52-8zekVqbiPHrylgewZg1RB1LDtXNUVAM4QLy8NEqtHlFXTf8VLk1Ylc7NjZTdXVX44nFaT6A==",        "reuirs"{
+       "herits""2.01",
+        "sfe-ffer: "5.1.1"
+        }
+        },
+       "stembowserify":{
+        version "2..1",
+       "resoled: "tt://rgistrynmjs.og/sramrwserfy-/strarowry-201.tgz"
+      "ntgrity": "shaZiZu59ZQKTkUUyDulyds="
+      "equires": {          "inerits": ".1",
+        "eadab-stream" gthttps://githb.com/meeor/readable-srea.git#d64a6a6061b9b6855feff4d9e8fb3b2e4502"
+          }
+    },
+     "strng_deor":{
+       "verion: "0.",
+       "rolved": "ttps://regisry.pmjs.org/sringdcoder/-/tng_decde-.0.3tgz,
+      "integrity": "sh52-4A65fzNBcH+6XDMA/BTt87skxqJO0lA3ker5zThcAxG6mKz+iGu308oPP8Dx/4JhujltR+hQ=,
+      eures": {
+       "safbufer": "51."
+         }
+       }
+       "mer-brserify":{
+       "vrsin":"1.4.2,
+       "resolved: "htps://registry.npjs.ortme-rowseify/timers-browseriy-.4.2.tgz",
+         integrity": "sha1-ycW1voQH1y14kYtO5N9B0=         "requires": {
+          "process": 0.11.10"      
+      }
+       "tty-rowserify": 
+     "vrsion": "0.0."
+        "reoved": "https//regstry.npmjs.or/ty-bowserify/-/ttybrowsefy-0.0.0.tz",
+        "integrity: "a1-oVe6C2iTpv5V/mqadUk7tQpaY=      },
+    "rl":{
+          versin":"011.0,
+       resolve": "ttps://rety.nmjs.og/url/-/ur-0.11.0.tgz",        "integrt": "sha-ODfxgUh63PFjlW/ZuKP=",
+       "qires:
+           "punycoe": ".3.2",
+           "uerysting": "0.2.0"
+       },
+        "depnde: {
+           "punycode": {
+              "verson"1.3.2"          reod": "https://registrynpmjsog/puycde-/pncode1..tz",
+            "inegrit": "sa1llOgNvt8HuQjvXM7v6jkmx0="
+         }          }
+       },
+       "util": {         "versio: 010.3",
+       "resold: htts://egistr.npmjsorgutil//util-0.0.3tgz",
+         "nterit" "sha-evsa/lCkZInj23/gTeTNqwk=,
+          "quies":{
+         "inhrit" "2.0.        
+      },
+        uti-depecae": {
+         versn": "1.0.2",
+          "eslved": "htts://registrnpmjs.or/utildeprecate/-util-drecate-1..2.gz",          "integrity": sha-R1Nyfpw3nnvvSKJgUaDM8="     },
+      "m-browserify": {
+         versio": ".0.4",       "resove": tp:/reirynpjs.org/vm-bowify/-vbroserif-0.0..tgz",
+        "integrity "sa1XX6kW77Kb/ZflUOOCofDVM=,
+         "eques": {
+           "indef":"0.1"
+       }
+     }
+        "wrpp": {        "vesion 1.0.2"       eovd htts://registry.nms.rg/wrappy/-/wrapp-10.t",
+       ntgity":sha1-tSQ9jz7BqjXxNkYFvAQNuMK8"      }      }
+    },
+   "regnerator-untme":
+     "verson": .111,
+    "resolved"ht:/egistry.pmjs.orregeeratorrutm/-/egeatrntime0.1..tz",
+    "intery": sha512-MgG95oij0QV3URfV2DYGJhJJGqvIIdCeODCT98wSWDAJ94SuVpYQUoTcGUIL6L4yN7jFHSg"
+    }
+ }
+

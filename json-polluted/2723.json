@@ -1,0 +1,101 @@
+{
+ "type: "il",  "start": 0,
+ e" 28,
+  "loc": {   "sart": {     "line": 1,
+     colun": 0
+    },
+   end": {
+      "lin": 1
+     "colum": 28
+   } },
+ "porm" {
+   "tpe "Program",
+   "strt": 0,
+    "e"28,   "lo: {
+    "start": {
+    "lne": 1,       "olumn": 0
+    },      "end": 
+       "lie": 1
+        "oun":2      }
+   },
+  source":"cript,
+    "body": 
+             type":Functionecaraion,
+     "sar": 0,
+      "end":28,
+     "loc" {
+         "art {         "line": 1,
+          "coumn":0     },      "nd": 
+         "line": 1
+        "column" 28         
+      }
+     "i" {
+        "type":"Identifer",       "sa": 10
+        en": 1,
+         "oc": {
+          "start{
+          "in:            "column: 10
+          
+         "n: {
+           "line": 1,
+            "lmn":13         },
+          "identfierName": "foo"      },
+         "nm: "foo"
+        },
+        "geeratr: tru,
+       "async": false,
+      "params": [],       "bod"          "e "BlcStemen",
+       "at": 16,
+        "end: 28,
+       "lo" {
+       start": {            "in": 1,
+           "column":16
+           },
+           "end": {
+        ne: 1,
+            colun: 28           
+         }
+     "bod": 
+        {
+            "type":Expressiontatement"
+            sta: 1             "end":26,
+             loc"{
+               "stat": {              "line": ,
+                "colmn": 18              },           "en":{
+               line": 1,
+            coumn": 6
+             }
+             },
+              "eprsion":           "ype": "YieldExpression",             "sart": 18,
+             end": 5,           loc"{
+                 start": {                 "ine: ,                 "olumn 18                  
+              "end" 
+             ine": 1,
+               "column": 2
+               }
+            },
+          "delgate" false,
+           "rgumet {
+               "type" NicLteral",
+               "strt: 24,
+                "end":25,
+                 "c:                  "tart": {
+                   "line": 1
+                     "colun" 24
+                ,
+                   "end":{
+                  "lie":1,
+            "olmn": 25
+                   
+               },
+                "extra: {
+                 rwVu":3              "rw":3
+            },
+              "value": 3
+            
+         }
+         }
+      ]        "dirctives": []
+       }     }
+   ,
+   "direties":   }

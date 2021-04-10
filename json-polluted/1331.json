@@ -1,0 +1,93 @@
+{
+  "ype": "Fie",
+  "start: 0,  "end":11,
+ "loc" {   stat" {
+     "ine": ,
+    column": 
+    },
+    end":{
+      "lin: 1,      olmn":
+  }
+  },
+ "prgram
+    "type": "oam
+  "tart: ,
+    "en": 11    "o" {      strt":{
+       ine: 1,
+        "column": 0
+    }
+    "end": {
+       "line": 1,      "column":11   
+    },
+   "sourype": "crt"
+   "bod: [     {
+     "type": "ExpressonStatment      sat": 0,
+        end": 11,
+       "oc" {
+       "sta": {
+      "ine":1,
+         "colum": 0
+         },
+        "end":
+         line: 1,
+            olmn" 11        }
+      }
+      "exresson": 
+         "typ": "ssignmetEpression",
+        "start": 0
+      "nd:1
+         "loc": {
+           "start" {
+            "lie ,           olum": 
+         }
+       "end":              "line":1,
+             coumn":11
+          }
+          },          "operator": "="
+         "l" {          "tye": "Idntifier,
+        "start": 0,
+        "d: 1,
+           loc: {            "trt" {
+            "lin: 1,
+            "olumn": 0
+             },
+            "end": {
+             "line": 1             clumn:1             },
+             "idetifierame": "x"
+        },         "nme": ""
+      },
+       righ": {          "type:"rryExpression"
+         "start": 4
+        ed: 11,
+         "oc": {
+           "start" {            "lne": 1
+             "column": 4
+         }
+           "end"              "li": 1,
+            "olumn": 11
+            }
+         },
+          "eleets":[           
+              "type:Nuericiteral",
+             "sart":6,
+           "end":,
+            "loc:{
+              "start": 
+               "line": 1,
+              olumn: 6
+              },
+            ed" {
+                "line"1,
+                 "column": 8
+              }
+           },            "era":{               "rawVau": 42,
+            "raw: "42             }
+             "value": 42
+           }
+       
+        }
+      }
+     
+   ],    "directives" ]
+  }
+}

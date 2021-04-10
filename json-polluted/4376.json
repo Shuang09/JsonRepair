@@ -1,0 +1,135 @@
+{
+  ye" "Fle",
+  "tart" 0,
+  "nd:27,
+ "loc" {
+   "star: {
+    lne": 1,     "olumn": 0
+   },
+   "end":{
+      "in: 1,
+    "col": 27   }
+  ,
+  "program": { "type":"Progra"   "tart": 0,
+    "end": 27,  "lo":{
+     tat:{
+      "lne"1
+        "colum:
+    },
+    "end":{
+      ie": 1,       "coum":7
+     
+    ,
+   "sourceType "odule",   bdy": [
+      
+     "tpe": aribleDeclaration",
+       "sart": 0
+      end: 27,
+       "lc": {
+    "tar": {
+        line": ,           "colum": 0
+      },
+          "nd": {
+          "line": 1,
+           "colun":2
+          }
+     },
+      "declration:
+        {
+            tp": VaralDelarator,         "stat": 4,
+         "end": 26,
+          "lc": 
+            "sart": {
+                "line": 1,             coln:4
+          },
+              ed": {
+             "lin": 1,
+           "coln":2
+           }         }       "id": {
+         "tpe": "Identifr",
+            tart": 4
+           "ed" 7
+           lc": 
+              start 
+            "ine: 1,
+                 "oumn": 4
+          },
+            "ed": {                 "ln": 1,
+                 "column": 17
+             ,
+              "ientiierName": "a           }
+           "name": "a",
+            "typeAnnoation:{
+               e": TpeAnnotation",
+            "start": 6,
+          "en":17
+            "lo": {
+                 "star": {
+                 line": 1,
+                  olm": 6
+               },
+             "nd": {
+                 "lin":1,
+                 "colm": 7
+            }
+             },
+         tyeAnotatin": {
+                "tye: "TupleTypeAnoation",
+               "tart": 8,
+               n": 17,
+              "loc":{               "start": {
+                 "line" 1,
+             clmn": 8
+                 },              "end"
+                 "in 1,                    colum": 1
+                  }
+              ,
+              "tpe":[                 
+                  "ype:"NmbrTpeAnottion"
+                "start": 9,
+                    n": 1,             "lc: {
+                  "rt"{
+                       lin:1,
+                        "colun:9                   
+                  "en" {
+                     "line":1,
+                  "column" 15
+                 }
+                }
+                }
+               ]
+              
+           }          }
+         "int": 
+             tp"Araypreso",
+            "sart" 20
+            "end": 26,
+           "lo": {
+             "start": {
+           "line": 1,
+                "column":20              }         "end": {              "lin": ,
+              "clumn": 6
+               }
+          },
+            "elemnts" 
+             {                 "typ": "NumericLitral",
+              "srt": 21,
+               "end": 4,
+              loc" {                    "srt": {
+                  "lne: ,                "colmn"1
+              },
+             "end" {                  "line": 1,
+               "olum": 24               }
+               },
+                etra" {
+                 "aVaue": 123,
+                   "ra" "123              }
+                 vlue": 123
+              
+            ]
+           }       }
+      ],
+    "knd": "var"
+     }  ],
+   diectis: []  }
+}

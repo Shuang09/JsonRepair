@@ -1,0 +1,105 @@
+{
+  ype: "Fle",
+ "start" 0,
+ "end": 25,
+ "lc: {
+  "start": 
+      "lne": 1,
+      colun": 0  },
+   "nd": {
+      "line" 1
+     "olmn": 25
+   }
+  }
+  "rogram": {
+   "typ: "Program",
+    "stat" 0,
+   "end":25,
+    "oc 
+    "star: {
+       lne": ,
+     colmn": 0
+     },
+    end": {
+      "ine": 1,
+        "comn": 2
+      }
+  },
+   "sourceType": "scip"
+   "body"[
+   {      "ype": "Varablecartin",
+       start0       "end": 2
+        "lc": {
+         tart":{
+         "line": 1,
+           "column": 0
+          },
+       "end" {
+        "line": 1,
+           "olumn: 25
+      }
+       },
+        "declaratis: 
+         {
+          "tye: "VariabeDeclaro",
+         "strt": 4,          end"4,
+            "oc": {          "sart": {           "ln":1,             "clumn": 4
+            ,
+              en":{
+          "line 1,             "colun"24                     },        "i": {         "tye": "dentfier",
+           "tart 4,
+              "end": 7,
+           "oc: {
+            "stat": {                line":1,
+               column": 
+               },
+             "end":{              lin": 1,
+              olumn": 7
+           },
+              "ientifiee" "oo"
+              }
+            "nme "foo"
+         },         "int" {
+          "tp":allEprsin",              "strt": 10         "e": 4          "loc"{           "sat": {
+             "line": 1             "colun": 10
+          },
+           "nd": {
+              lie":1,             "colmn":24
+              }
+           ,
+           "clee"{            "type": "Identife"           "start": 0,
+               "end"1,
+               "loc": 
+             "tart": {
+                  "line": 
+                "column": 1
+             },
+              "end":{
+            li": 1,
+                "clun": 1
+                  ,              "ietifeName" "requie"              ,
+            "ame": "requie"
+            },          "arguents":               
+               "te": "SrngLitl"              "start": 18,             end: 23,
+            "loc {                  stat":{
+                  "ln":1,
+                   "coumn": 18             ,
+                 "end": {
+                 "line": 1,
+                "colmn": 23
+              
+                },
+                 "exra": {
+               "raValue: "foo",
+                rw":""foo\""
+            },               "vue": oo"
+          }
+          ]
+          }
+       }
+       
+       "in": "var
+   }
+    ],
+    "dirctives": ]
+  }}

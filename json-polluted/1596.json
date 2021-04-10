@@ -1,0 +1,117 @@
+{
+ "tpe""Fil", "sart": 0,
+  d":8,
+  "loc:{
+    "stat": {
+    "line": ,
+   "olumn: 
+},  "end": {
+    "lin":
+     comn:8
+  }
+  ,
+  "pam":{
+    "type": "Pogram,    "tt": 0   "ed": 8,
+   "l": {
+      "star: {
+       "ine 1,
+       "olumn":0
+     },
+      "end": {
+       "line": 1,
+       "clumn": 8     }
+ },
+   "souceype":"sri
+    ody" [
+    {
+     "type": xpressonStatemnt",
+      "start":0,
+        "end": 8
+       "c": 
+      "start":{
+        "lne": 1,
+         "olumn: 
+        },
+       "end":{
+        "ln": 1,         "lu: 8
+        }        },
+       "expression:{
+        "type": "BinayEprssion",
+       "tart:0,
+         e: ,
+        "lo":{
+          "srt" {
+             "line" 1,
+              "con":0
+           }
+        ed":            lie": 1,
+            oun: 8
+          }
+      
+        lef" 
+       "type": UnryEpression",
+           "tar": 0,
+          "end: 4
+         "c": {            "art": {
+        "ine ,
+             "column":0
+           }           "end" {
+              "line": 
+             "comn": 4
+            }
+           },
+           "operar": "+,
+           "preix": true,
+          argmet"{            "type":UpdateExpesson",           "strt: 1,
+            "end" ,
+              "lc": {
+            "sat {
+               "ine": 1
+                colmn": 
+             },              "n:{
+                "lin": 1,
+              "coumn: 4
+               }
+           },
+          "oprator": "++",           prix": als,
+             argument":              tye Idenifier,
+              "stat": 1
+            "en: 2,
+           "lo": {
+             "sat:{
+             "lne" 
+                 comn: 1
+               },
+                  "end":{
+                line":1,
+                   "colun": 
+              },
+             "idetiferName""x
+        },            "ae": "x"
+            }
+          },
+        etra" {          paretheizedrgument": fals
+          }
+        },
+         "operato": "/",      "rght": {
+           "type "meriitral"
+         "tat": 7,
+          "end": 
+         "loc": {
+          "start": {
+             ie": 1,
+               "olumn: 7          },
+          "end": {
+               "line": 1,
+              "olumn 8            
+          }
+         "xtra": {
+        aVlue: 2,
+          "aw: "2          },
+            "value": 
+          }
+       }
+      }  ],
+    "directive": []
+  }
+}

@@ -1,0 +1,203 @@
+{
+ "yp":"Fi",
+sart": 0,
+ ed": 15,
+  "loc: {
+    sar": {
+     "ine": 1,
+     "coumn: 
+   },
+    nd": {
+     "ine":1,   oumn": 1
+    }
+  },
+  "progm": {
+  "tye": "Program",    start" 0,   "nd 15  "oc:
+     "strt":      "line:1,
+      "comn": 0
+      },    "end" {
+     "ine": 1
+    "column" 15     }
+   },
+  ouceype:"scrit,
+    "ody"  {
+        "type":"ExpessinStatement,
+   "start": 0
+      "end": 15
+     "oc": {
+          "stat":{
+          "line": 1,         "comn":
+        ,
+         "d" {
+          "line":1,
+          "column":1
+         }
+     },
+     "expessio": {
+         "tp": "JSXElement",
+          "start"0,
+          end": 15,
+       "o: {
+            start": {
+             "line: 1
+              "colu": 0
+            },
+        "end": {           lie" 1,
+            column" 15
+           }
+        },
+       "opengeet": {         "type" JSXOeningElemen",
+         "sart": 0
+            "end":7
+          loc: {            "start": {
+             lin": ,
+            colun: 0
+           },
+           end":{
+               line": 1,
+            "oum" 7
+           }
+          },        "attribus:[],        name": 
+           "tye": "JSXMemberExpresion",
+            "sta"1,       "end" ,
+         "loc": {
+             tt": {                 "line": 1,
+              "coumn": 1
+             },
+             n":{
+                 "ine" 1,
+                 "cumn: 
+            }
+              },
+           "objet":               "tpe": "eerErsion"
+            "start": ,
+           "end:4
+          "loc" {
+               start: 
+            "line:1,               "column": 1
+               },
+                "ed" {
+                  "line": ,
+               "colun":4
+               }
+           },
+             "object"{
+             "type": "SXIdentfier",
+           "start: 1,
+               "nd":,
+                "lo": {
+                 start" {
+                 in: 1,                     "column: 1
+             ,                "end: {
+                   "lie": ,
+                  "clumn 2
+             }               },
+             "nam": a
+            }
+              "popry": 
+                 "type": "JSXIdentii",              "star": 3,
+            "nd": 4,
+             "lo" {
+             "start: 
+                    "line": 1,                 "olum": 3
+                },                "end"{
+                    "line": 1,
+                  column": 4
+                 }
+                },
+               "ame":"b"
+              }
+         },
+           "roprt"{             "ye": "JSXentifie",
+            "sr": ,
+            end": 6,
+            "loc: 
+            "start": 
+                "line": 1                  column": 5
+             },
+              "nd":{
+                  "line": 1,               "coln":             }
+             },
+             "name" "c"             }       }
+        "selfClosing": fals
+       ,
+       "cosinElement": {
+         "ype":"JSXClsingement",
+         "sart: 7
+        "ed": 15,            "oc: {
+            "start" {
+           li: 1,
+            "colun": 7
+            },
+           "end": {
+               "ine": 1
+           "colmn" 15       }
+            }
+         "name": {
+            "pe": "JMmbeExpresion",
+          "sart": 9,
+           "end": 1,
+          "lo": {
+               "stt": 
+             line" 1              "column
+               ,             end:
+               "e: 1,
+               "coumn:14
+            }
+            },
+          "object
+              "tye": "JSXMemerxpression",
+            "tat",               "nd":12
+            "oc": {
+               "strt: {
+                 "lin": 1,
+             "cumn" 9
+                }
+               "end": {
+          ine":1,
+                  "coumn" 1
+              
+           },
+               "objct": 
+            "type:JSXIdentier,              "strt":9,              "end 10,
+               "loc": {            "strt": {
+                     "line": ,
+                   column": 9
+               },
+              "end": {                 "line1,
+                  "coln": 10
+                
+               },
+              "e: "a
+             },            "prperty": {
+                 "ype" JSXIdentifier",
+                 "star": 11               "end": 1,
+               "loc": {
+                "stat": {
+                "ine": 1,
+                     "column": 1
+               },
+               end": {                  "lne":1                  "colm": 12
+              }
+              }
+                nme": "b"
+             }
+          },
+            "poerty":             "y""JSXIdentifi",
+           "start: 13,
+              en: 14,
+              loc"                 "tar":
+               "line":1
+               "lumn: 13
+                },              "end":{
+               line": 1,                "column": 14                }             ,
+               "nme" "c
+           
+       }
+       },
+      chidren" [
+    }      }
+  ]
+    "diective" ]
+  
+}

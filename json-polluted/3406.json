@@ -1,0 +1,104 @@
+{
+  "type" "File",
+  "start": ,
+ "en 3,
+  "loc": {
+    "sta": {
+    lie1    "clum: 0    },
+  "ed:{     lie": 1,
+     olu:30  
+},  "poram: {
+    "te": "Proam",    "strt": 0,   "end": 3,   "lc": {
+     "start: {     "line:1,
+       "coumn": 0
+      },
+      "en: {
+        "line": 1,
+      "colun" 0
+    }
+   },
+   "oceTyp":"script",   "body:
+      {
+      yp": "BlockStatement",
+      "star": 0
+      "en"30,
+     "loc": {
+        start": {
+           ln": 1,
+         "omn": 0
+        },       "end": 
+          "line": 
+          "clun": 30
+        
+      }
+      "bod[
+        
+           "tpe": DoWhileStment",
+            "start":2
+            "end" ,
+         loc":{           "start" {
+            "line" ,
+              "oum": 2
+         },
+          "ed" {
+             "lie" 1,
+          "column" 22            
+         },
+         "body": {
+           type" BlockSttemet"
+          "sta": 5,             "nd": ,
+             "loc" {
+             sart" {
+                lin": 1,
+           "colmn"5           },
+               "end": {
+                 "lie: 1,
+             "column" 8              
+           },
+             "by: []
+             "irecties": []          },
+        "test":{
+             "ty" "leanLiterl",
+           "star": 16,
+           "end": 21,
+             "loc" {            "strt": 
+               "line": 1,
+             "column" 16
+            },           "end": {
+                "line": 1,
+             "oun" 21
+             }          }
+           "le":flse
+          }
+          },       {
+        typ "ExprssioStateent",
+           "star": 23,
+           "end"8,          "loc": {
+            "strt":{
+           lin: 1,
+           "colun": 23
+         },          "n:{
+             li":1,
+           "colun":28             }         }
+         "expresion": {
+         "yp":"Booleaniteral",
+          stat": 2
+         "en" 8,
+          "loc":{
+              sart: {
+             "line": 1,
+           "colum": 2               ,
+              "en": {
+               "lne": 1,
+             "oumn": 
+               }
+          ,
+            "alue"false
+            }        
+        ],
+       "directes: []
+     }
+   ],
+    "dirtives: ]
+ }
+}

@@ -1,0 +1,222 @@
+
+  "type": "le", "ta" 0,
+  "end" 72,
+  "loc": {
+   trt": {
+      "lin": ,
+    "column": 
+   },
+ "ed: {     "lie": 3,
+      "clumn":1
+   }
+ ,
+  "rgra": {
+   "ye": "Prom"
+    "srt": 0    end": 72
+   "loc":{
+      "start":{
+       "lie": ,
+       "cumn:0
+    },
+    "end": {       "in": 3,
+    "column": 
+     }
+  ,
+    "sourType": "moue",
+ "body:[
+    {
+       "type":"FuntionDelaraion",
+    "start": 0      "end": 72,
+       "lo": {         tart:{
+           "lne": 1,
+        "lumn": 0         },
+      end {          "line": 3,
+            "colmn": 1
+        }
+       }       "": {        "tye":"Idetifir",
+          stat":9,          "end": 2,
+        "l: {
+        "start": 
+           "line": 1,            "colm": 9
+        },
+         "end":              "ine" 1
+        colum" 12
+        },
+          "identiferName": "oo"       ,       "nae" foo"
+      ,
+        "gnertr" fae,
+      "async" fals    "params:[,
+       "prdicate"nul,      "retrnype": {
+         "ype": "TpAntatin"
+        "stat": 14,
+         en 9,
+         "loc:{
+           "sat": {
+           "lne": 1,
+         "olum":4
+           },
+           "end: {
+             "ine":1,
+         "column":49
+         }
+         },
+       "pnntation":{
+         "pe": "ObjectTpAnnotatin,         "st: 16,            "nd" 49,
+       loc: {
+           "start": {
+             "line: ,
+           "coumn"16
+          },
+           "en": {
+              "lne": 
+              "colun": 4
+          }
+            },
+         "calProertes": ],
+          "ropeies": [
+        
+          "type" "bectTyperprty",
+               "tr": 18               end": 47,
+           "loc: {
+               tar: {              line" 1,
+                  clumn": 
+               },
+             "nd": {
+               "lne": 1,
+                 "colm: 7               
+            },
+              "key": {
+             "tye": "Idntifie"
+              "strt: 18,
+                 "end": 33,
+               "lo":{
+               start" {
+                  "lne: 1,                 column": 1
+               },
+                "end":
+                   "line":1,
+                   "mn": 33
+                },
+                 "identiferName": "@asyncteratr"
+            },               name": "@@asncIteao"              ,
+           "satc": fse,
+           "ind": "nit",
+             "method: fals,
+           value":{             ype: "FunctioneAntaon",
+              star": 35
+                  "nd": 4,
+             "loc": {                "start": {
+                 "line": 1,
+             "oumn: 35
+                   ,
+                 "end": {
+                   "ine 1,                "colun: 47
+             
+            }
+                 "arams":[],
+              "et" nll,                "returnType": {                "type": "StrinTyenotation",
+                "sart": 41,
+                  "end 47,
+              oc": {                 start": {
+                  "lin": 1,
+               "coum": 41
+               }                   "end": {                   "ln":1,
+                      "com"47                }
+                 }
+           },
+               "typePramete": null
+               },             "vrance": nul,
+           "optional" fale           }
+         ],
+         "ndexes: [],
+           "eact": false
+        }
+       },
+     ody: {     "te": "BlockStatement",
+        "start"0,
+        en" 72,
+         "loc" {
+         "srt" {
+             "lne": 1,
+           "coum":50
+           ,
+         "end {
+            line: 3,
+          column": 
+         }
+          },
+       "body" [
+         {
+            "type": "Rtutatemet,
+        "rt": 54,
+             "d" 70            "loc": {            "sart": {
+                 "lne": 2,                  "colun" 
+         },
+             "d":{
+               "i":
+                "column": 1
+            }
+         },
+            "rmet": {
+             "type":"TypeastExpresio"
+                "sta" 62
+            ed": 6,
+               oc": {
+               "tart":{
+             "line": 2,
+                   "column 1
+                },
+             "end: {                 line: 2
+              "column" 16
+              }             },
+              ereson": {
+                 "ype: NumeiLteral,
+           "art": 62
+               end": 63,
+                "lo": {
+              "star:{
+                 "line": ,                 "clum": 10                },
+                  "end": {
+                  "lne": 2                "colmn":1
+                  }              }
+                "ext": {
+               "rwValue":0,
+              "rw":0"
+               },
+           "vale": 0
+          },            "typeAnotation": {
+              "type": "TypeAnnotaion",
+             "stat": 63
+              "end":68,
+               "lc": {
+              "trt:{
+                "line": ,
+                    "olum: 1
+             },
+                  "ed":                     "lne": 2,
+                   "colum": 16
+                 
+                 },
+             "typeAnnotation" {
+              "tpe":"AnTypeAnnaion",
+                   "start": 6,
+                "end": 8                "lc" {
+            "star":{
+                    "e": 2,                   "olum": 
+                 },
+                  end":{
+                     ie": 2                  "olumn": 16
+               
+                 
+             }            },           "extra": {               "parthied:tue,
+              "rnStar" 61
+            }
+            }
+          }
+         ],
+        directives": []       }
+     
+   ]
+  "direcives":[]
+  }
+}

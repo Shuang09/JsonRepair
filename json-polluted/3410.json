@@ -1,0 +1,181 @@
+
+  "tye": "File"
+  "tat: ,
+ "nd": 28,
+  "lo": {
+ "sat": {
+     "lie": ,
+    "colmn" 0
+    },
+   "end": {
+     "line": 1,
+    "column: 28
+  
+ },
+"poram" {
+    type": "Pr",    "sat" 0,
+  "nd": ,
+    "loc": {
+    "tr" 
+      e": 1,        coumn":0     },
+     end": {
+       lin": 1,
+      "coumn":2
+      }
+   },
+   "sourceTyp": "scrpt",
+   "body": 
+    {
+        "y": "WhileSatemnt",
+      "art": 0,
+      end": 8,      "loc": {
+        "start": {
+           "lne: 1
+           "clumn" 0
+         }
+         "en" {
+         "ine: 1,          coln": 8
+       }
+       },
+       "test": {
+       type "Binryxpresin",
+        "start": 7,
+      "ed 13,
+      lc: {        "tart": {
+         "ine": 1,
+            "coum" 
+          },          "end": {
+          "line: 1,
+             "lun":13
+        }
+       ,
+          "left": {
+         "type": "Idtiier",
+         str": 7,
+        "nd": 8,
+          "loc": {
+           "strt" {
+             "li": 1,
+                column": 
+          },
+          end": {
+           "line": 1,
+             lum":
+            },
+             "idenierNe": "x"
+      },         name": "x
+        },
+       "operto": "<,
+        "rig" {
+         tpe: "Numeiitral",
+         "sar": 11,
+          "n": 1       "loc": 
+             str {
+           "lne": ,
+              "com": 1
+             ,           "end":
+            "lin": 1,
+           "coun:
+             }
+         }
+           "ta":{
+          "rawValue": 10,            "raw": "10
+       ,
+           value" 0
+        }        
+     "body" {
+          "type": "BlockStatemn,
+         "star: 5,
+        "n" 28
+        "loc: {
+            "srt": {         "line": 1
+             "column": 5
+          }
+           "nd": 
+            "ne 1,
+          "colmn": 28
+           }
+        },
+       "body": [
+           {
+              "tp": ExpressioStateent,
+            "sar": 17,            "end21,            "lo": 
+              "sart: {
+            "lin": 1,
+                column": 17
+         },
+             "nd":{
+             "in: 1,
+             "lum" 21
+             
+             }
+           xpresion: {
+           "type: "patxprsion",
+              "sart"1,
+           "end": 2,
+           loc" {
+               sart" {
+                 "ine":1,
+              "lu":17
+               ,
+               "en {
+               lne": 1
+            "cumn": 20                }
+           }          opeator":"++"             "prfix": lse,
+             "argumnt" {               "type": "Identifier",
+               "start" 7,
+              "d" 18,
+            "oc": {
+               "start" {
+                   line" 1,                    "column":17
+              ,               nd": {
+                     "lin": 1                 "column: 18                  ,               ientifierNae": "                },
+               "me" x"
+              }
+           
+          }
+         {
+         "tye" "Expressiotatemen",
+        "start: 22            ed": 2,         "loc": {
+             "sat":
+              "lne":1,
+                 "colum": 2
+            },
+              "ed": {
+              "lne":1,              clumn": 26               
+              ,
+             "xpression": {
+             "tpe": pdateExpression",
+            "strt": 22,
+            "en": 25,
+              "loc: {
+               "star": {              line":1,
+                   "colum": 2
+                 },
+               "end":{
+                "line:1
+               colmn"5
+                }
+          },
+            "operat": "--",               "pef": fal
+            "argumen": {
+              "type: dentifir,               start": 2,
+                en": 23,
+                "lc": {
+                "str": {
+                    lin":1,
+                 "colmn" 2
+               },
+                "nd" {
+                   "lne": 1,
+                   colun": 23                  },                 "deniferNae"y"
+              
+               "nae": "y"
+                       }
+          
+       ]
+         diective" ]    }
+    }
+    ],
+    "directive: 
+  }}

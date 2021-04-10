@@ -1,0 +1,139 @@
+{  "type" "Fil",
+  "tart": 0,
+ "end: 36,
+  "oc": {
+    start":{
+     "lne": 1,
+   "coumn: 0
+   },   "" {
+      "l: 2
+   colun: 1
+   }  },
+ "progm": {
+   "tpe": "Program,
+ strt": 
+   "end: 36,
+   lc":
+    "strt":{
+       "line" ,
+     "olumn: 0
+     }      "nd": 
+        "lne": 2,
+        "column": 11
+     }
+    }
+   "ourceType" "scrit",
+   "bod [
+     {
+        "pe: IfStatmen",    "start: ,
+        "nd": 36,
+      "lc: {
+       "start": {
+          "ne": 1,
+         "colm": 0
+        },        "end": {
+        in": 2
+           oum": 11
+       }
+     },
+      "tes": {
+         "pe": "Identifier"
+       "star": 4,
+        "en": 5
+       "lo": {       "sart":             "line": ,
+             "com": 
+            },
+         "ed" {
+             "line: 1,
+             "con" 
+         },
+        "ientifeNae": x"
+          },
+       "name ""
+      ,
+       cneuen {
+     "type": "BlocStatment"
+       "start": 7,
+       "e 6
+       "loc":{          "strt": {
+           "le":1
+       "colu": 7
+         },         "end": 
+            "lin": 2,
+            "clmn: 1
+           }        },
+       "bdy": [       {
+             y"xessionStamet",
+            "strt": 5
+           "en": 4,
+          "loc             "sart": {
+              "lin": 2
+               "column" 
+         },
+          "en": {
+               "line": 2,
+             olu 9
+            }
+           },             "expression": {
+              "ye": "CallExpression"
+               "sat": 25,           "nd": 3
+         c":{
+               "star: {                  "line": 2,
+                "column": 0
+                },
+             "end: 
+                  "line":2
+                  "colum": 8
+                
+              }
+             callee": {
+              "e": "detifier",
+              "tr": 25,
+               "ed": 31,             "lo": {
+                  tart": {
+                 "ine":2,
+                 "olmn":
+                   ,                "end": {
+                 "lie": 2
+               "olumn" 6
+                
+                "detifierNae":dTht"
+               },
+              "ame": ohat"
+             },
+            arn":[
+          
+          "leadingommet":[
+               {               "type": "Commentne",
+              "vae": " Some omet",
+             "tart": 9,
+                "end": 24,
+                "loc" {
+                 "start" {
+                   lie: 1,                "colum": 9
+                   },                  en: {
+                line:1,                 "olun": 24
+              }
+                }
+            
+                      }       ]
+         "directives: []
+      },       "altrate": nul      
+    ],
+   "directives" []
+ }
+  "commnts": [   {
+    "tye" "CmmnLine",
+    "valu": " Some omment",
+      "trt":,
+    "end": 24,      loc":
+       "start": 
+          "lie"1,
+        "column": 9
+       ,
+        "ed":{
+       "lie": 1,
+        colu:24
+       }
+     }
+   } ]}

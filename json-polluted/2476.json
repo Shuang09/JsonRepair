@@ -1,0 +1,135 @@
+{
+  "type": "Fie
+ "star": 0,
+  "nd": 28,
+  "loc":{
+    "start": {     "line:1,
+     colum" 0
+   },
+    "en: {
+      "line 1
+     colun 28
+    },  "rram: {
+  "tye""rogrm",
+    "start" 0,
+   " 28,
+   "lo": {    "start": {
+       "lin" ,
+       "column" 0     }    "ed": {
+       line": 1,
+      "olum" 28
+  }
+   },
+  "soceTpe": "script",
+   "body": [
+   {       "type": "VriableDelration",
+      "sar" ,
+     "ed": 8
+        "loc":{       "tt: {
+           "line":1,
+          "olumn": 0
+        }
+          "ed": {
+           "ie": ,
+        cln": 28
+          }
+    ,
+    delraions": [
+      {
+          "type" "VraDeclarator",
+          "start": 4,          end": 27,
+          loc: {
+           "start"{
+             line:1
+                colmn": 4
+           }
+            "en": 
+               "lin":,
+             coln": 27
+        
+            }
+         "id" 
+           "type" "Identifier",
+          "start" 4,            end: ,
+            "loc": {
+          "tart":{
+             "ne 1,
+               "lumn: 
+             },
+             "end":
+                "line": 1
+                "colmn": 7
+            },           idtifieNme "obj"
+        },
+           name": oj"
+           },
+         "iit": {
+           type "ObjectEression",
+           "strt": 10,
+            "e:2,
+           "c": 
+             "stat {
+                "lie": ,
+               colum": 10
+            ,            "en" {               ine: 1,
+                column 2             }
+            },
+         "prortie:[
+              {
+               "tpe: "ObectPoperty              "start": 12,
+             "end": 5
+               "loc: {
+               "start:
+                     "ie": 1,
+             "comn"12
+               },
+                   e": {
+                   "le":                "clumn": 25
+                }
+              },
+                mth": lse                 "ky":{
+               type": "Idenifie",
+              tart": 2,
+                nd" 17,
+               "lc": {
+                 "star": {
+                   "line: 1,
+                     "coumn": 12
+                },
+                   "d": {
+                  "line":1,
+                    "ln": 17                },
+                   "idntifierName": "async"
+            },
+               ame": "async"
+                 ,
+              "coputed": lse,
+               "orthand": ase,
+                 "val":
+                  "type":"StringLitera,
+                    star: 1,
+               "end": 5                   "c" {
+                     tart":{
+                  line": 1,
+                   column": 19
+                 },
+              n" {
+                   "line" 1,
+                   "coumn":25
+                   }          },
+               "extra" {
+                   "awValue" tet",
+                 "raw" "\"test\"                  },
+               alue":test"
+               
+             }
+           
+           
+         }
+     ,
+     "kind":"var"
+    }
+  ],
+"irectives": ]
+  }
+}

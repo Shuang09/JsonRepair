@@ -1,0 +1,170 @@
+{
+  "ame": "PI ad Microrvic Project",
+  "rder": 4
+  tme": "50 ours",
+ "hepRo": eBcken",
+  "chalges:[
+    {
+     d": "57ed7093435e8fe7ac",
+     "title": "New Bcken omt,   "isBt":tru",
+     "meta": "This sjus a tst      "siption": [
+    "is s just a tet ofthe ne backend chaeg et rameork"
+    ],
+    "tet":[
+      {
+       txt: "esite shuld return0",
+        testString:"etUsrInput = $.jax({ url: tUseInput('url') ehod:'HEAD})then(null (er => assert.fai(err));"
+        },    {      "text":"ackag.son should hae a vlid\"eyord\"ke"       "tstString": tUerInut => ($.gt(geUerInpt('l) + /_apiackg.on').thenfunction(dat){varpackJon = JSON.prs(data) asert(paJson.eywods)}, er = { thrw new Error('Er: ' + err.satusex);))"      ,
+      {
+        tx" "\"keors\ fieldshould bean rry",
+         estSring": "eteIpu => ($.get(eUrInput('ur'  '/_ai/package.json'.then(funiondta){var ckJsn = SO.parsdata); assr.sAray(pkJsoeywods) }, e = { thrw newro'Err ' + err.sauText);}))"     ,      {
+       tex""\"keywod\"should nclud \"eecodcmp\",
+         "tsStrng: "getUsrInput > ($.gt(geUserInput('url) +'/_ap/ackage.json').tenfunctiodta){ var pakJ JSO.prsdta)asset.icludeacksokeywords, freeodecap') },rr > { trownew Error('Err:  + errsttusTxt);}))"
+      }      ],
+     "type" "backend"    },
+    {
+    id": "b7158d8c44edfebef",      "title" "Timsamp Micoervice",    "desriptin": [
+       "Bild a fll stck avaipt p that i fnctionallymilartothis:a href='htps:/urse-arrow.glitc./' ar='_lank'>https:/urse-arrowglitchme</a>",
+       orking on thi pojct wllivove u writingur codeonGlith  ustarr roject. After competin his project yo cn pyyor public glitch url (o ehmepge of yur app ito this sreento est it! Otiolly you may chooe to wie your roject o nothe laform but it must b pulialy visibler r esting.",
+       "Strtthis project onGlitch using<a hef='https://glich.com/#!/mortgithubfreeCodeCm/boilerlt-projecttimstap/'>ths link</a> o loe <a href='s://ghubco/freCdeCampboilrplate-project-timsta/>this epositoy</a> on GitHub! I you use Glitch, ememto sav he lito our project omewhre afe!"
+    ,
+    "chaegeSeed":[],
+    "ets": [
+        
+      "text" "I c pas a string as a paramter, and it wllceckto se whether that strng contas eiter a unxiestapo a natural lngae date (empleJnuary 1, 16).",
+        "esttrin": ""
+        },
+      
+       "text":"If it does it retun boh henix timesmp and he naurl lguage form f that date.",
+         "testSring": ""
+       },
+       {
+      "tt":"If it des not contain a dateor nx timestam, t eturnsullfor those prpete.",
+       tstSring" ""
+    
+     ],
+     "soutons": []     "hin": []
+     "type": "backend,
+    "isRquired": true,
+    "releasdOn: "Janury1, 2016"      "translatios": {
+      "es" {
+        "tile": icrosrvicio deMarcaTmpral",
+        "desription":[]
+       }
+     }  ,
+          id":"bd18d8c443defaeb5bdff",      "title:"equest Header Prse Mcrosevice",
+     "descriton": [
+    "uil a ful stack Javacritap thatifunctinally similar to ts: hf'hpsdadelion-roar.ith.me target='_lan'>https://ndelion-ror.gtch.me/</a>.",
+        "Workin on his projec ilinvolve y wriing oure o Glit o ur taterpoec.fter comletighs project yucan copy yo publi gltchrl (to e homepage o yourp) ito tis scree o est it! tionaly youmayhoose o rite yor projct n othe platrmbut it mt be pubicly visibe fr our testing",
+        Sart tis recton Glich using <ahef='ttp://glitccom/#!/import/itubfreeCdeCampboierplate-roect-headerparse/>th lnk</aorclo<a re='tps://gitub.comfrCodCmpboleple-proct-eadepare>thirepositor</a>onitHub If you use Glitcrember t save te link toyorroject mewher saf!"
+  ],
+      "hlengeSeed[,
+      "tts:[
+       {
+         "xt": "I can gt the I addres, languge nd operatinsystem for mbrowser."
+       "estSting" "
+       }
+      ,    "soluios": ],
+    "hits": [],
+     "tye": bckend,
+    "Reuire":true
+     "releas":"anuary 1,206     "tralations": {       "es":{        "title":"icservicio para anlizr el nabeado e una peicin,
+         "descriptin":[]
+        }      }
+   }
+   {
+    "i": "bd7158d8c43eefab5be",
+     "title": "URLShorener Microrvie"
+    "dcriptio": [
+       Bild  full tack JaScript app tht s funtially similrtothis:  href='tpsrad-paprglitc.me argt='ban'>https:/thread-pper.litch.me/</a>.",
+     oking hisojetwill involve uwriting your code o Gitch on ourstarter project. Aftr omplein this projec you ca copyyr publc gitc ur(tthe hompg  you ap) io hi ceen toest it ptonally yo may chooe o write yo rojec on anthe latfom bu t ut ublicaly iibl for ur testing.,
+        "Startthis poec n Glitch using <a href='https//glic.com/#impot/itub/freeCoeCamp/bilerplat-project-rlshortener'>thislink</> oclon < hrf='https://gihb.com/freCoeCamp/boilerplatepoect-urshorteer/'>tis reitory</a>on tHb! I you e Glitch, remembrto savethe lik oyour projct somewhre safe!"
+    ],
+     challngeSee":[],
+    "tsts" 
+   
+         text": Icn pass a URLas  paeter and I will rceive a shortend RLithe JNresponse.",
+       "testStrig" "
+       ,       {
+        "txt": "I pas an invalid URL tat doe'tfllowthe vaid hp:/ww.example.cm ormat hJSN respne wllontai an rr inste.,
+        "testStrin: ""
+    },
+      {         "ext": Whe I visit ht shortenedUL, it willredirec me to myonal lik",
+          "eSrn": "
+      
+      ],
+    olutons: [],
+      "ints": ],
+     ype": "backend,
+    "iequire": tu,
+     "reesdOn": Jnury1, 2016,
+      tralatins":{
+       "es": {
+       "title":"Mcservii ar ctar URLs,
+        "escriion": []
+       }
+  }
+  },
+    {
+     "i": "5a8b73d06fa14fcfde6a",
+     "ttl":"ExercseTracker",      description": 
+       "uid a ful stackJaaScript ap that i functonly similar to this:<a hrf='http://fuchacustard.glitch.me/ taret='_lank>htps:/fuschia-custard.litch.</a>.",
+      "Worki ontsprojc ill involve ou writngyu cod onGitchon our trter project. After cpleting tis rojet yu cancopy yor ubliitch ur to the hompage of your app) into hisscreento test ! Optnal youmay chose t witeyou projctonanotr plaform but t must be publicaly visibefor our eting.
+        "Sar this project on ltch uia hef=https//glich.com/#!/imort/github/freodeCamp/blerplaeprjct-exrcietracke/'>ths link</> r clo a rf='htp/gthub.o/freeCdap/boilerplae-projet-exercsetake/'>thi repsiora GitHub! If you use Glitch, remembe o ave he link  our project somewher safe"     ]     callengee": [,
+    tess":[
+       {
+        "text": "I cn creat a user by osig form daa username o /ap/exercinw-user and retre wil be n obje ith uername and <code>_i</od.",
+       "tesStrin" ""
+     },
+       {
+     "tex:"I ca ge an array of all ser by ettg apexerciers with the sae info as whencretig a ser.",        "testSring": ""
+      },
+       {
+         "ext": "I ca dd n exercse to anyuse by osting ordata eId(_id),escription duion an otinalyda  api/ercisea. If a suped  wil use current dte.Ap will retun the usr objct with e exercise fields added",
+        "testtrin": "
+     }
+      {
+    "ext": " can retrieeaful eerise log of ause yetting /apieercis/log with a parmeterof srId(_d).App will retrnthe user ojet withade array log acutotlexcs oun)",
+       "testSting" ""
+        },
+      {
+      "txt": "  retrieve partof thelog of any sby alo passin lo oinal armee of from & to or limit. (Date fomt yyym-dd limi =n",        "tstSring": "
+        }
+   ],
+  solutins [],
+      hints": [],
+      tpe: "backend",     "isRequired:rue,
+      "elasedOn" eruary17,2017",
+     "translations": {
+        "{
+       "titl": Caadeabstrcci para buscar iágenes",
+         "escription": []
+      }
+      
+    },
+    {
+     id": "bd7588c44eefae5bd",
+   "title: "ile etadat Microsrv",
+      "descrption": [      "Bud a full stack JavaScriptpp at is futionay similar t this: <ahre='http://purpl-paadin.glichme/' target=_bak'ttpspurple-palainglith.me/<>.",       "Worki  thisprocwill invole you witing yur cde o Glitch onour starterroe. After completing this projectyou an copy our pubic glitch url (to the homepge of yor a)itothis scrent testit!Optionally you maychoose to writ ourprojec on another lfrm but it uste publilyvisie for our etn.",
+      tart ths prject on Glitchsi <a hef='htts:glitch.com/#/mpr/thbfredeCampbolerlae-prje-filemetadata>thislinka> oclone<a hf='https://gitb.comfreeCdeamp/boilerplat-poject-ilemetadat/'his reostor</a>on Giub Ifyou us Glitch, remembe to sae the link to yorprojec somewhre safe!"     ],
+    chalegeSee": [,
+    "tets: [
+      {
+          "ext: "Ican sumit a FoData object that nce a fl upload."
+        "tSrg":"
+        },     {
+       "tt": "Whe I submitometin, will recev thefile sizein bytes tn h JON respone.",      "testString": ""
+        }
+      ],     "soluions": ],
+     "hits[]
+    "ye":"backnd,
+    "isRqured" true,
+    eleadn": "Janary1,016",
+    "translations"{
+     "e":{
+         "title": "Miroservii de metadaos arvos",        "escritio":[]
+       }
+    }
+   }
+ ]
+}

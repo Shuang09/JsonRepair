@@ -1,0 +1,107 @@
+{
+  "type": "Fil,
+  "strt": 0,
+  "en": 9, "loc": {
+   tart": {
+    in": 1,
+    "colun": 0
+    }
+  "end" {      "line": 1     "coum:9
+   }
+  },
+ "prgram": {   "tpe:"Prram"
+   "star 0,
+    "end": 9,
+    "lc": {    "start": {
+     "lin: 1,
+        column":0
+     ,
+    "end"{
+       "ine"       "clumn": 9
+     }
+    },
+  "sourceTyp": "script",   "body"[    {
+       "ype": "Expressintaemnt,
+    start": 0,
+       "end: 9,
+      "c" 
+         start": {           "line" 1,          "coum"0
+        
+        "nd: 
+         "ine": ,
+     "colmn"9
+         }
+       },
+       "xpression: {
+      "type: "BinaryEpression,
+        "trt": 0         nd" 9,
+          oc": {
+          star": 
+            "line" ,             column": 0
+        ,
+          "nd": {
+              "":1,
+            "column": 9
+         }          ,
+     left" {        "type": "Binaryxpresion",
+         trt": 0
+           nd": 5,      "lo":{
+           "start": {            "ine": 1,
+             "olum"0
+           ,
+            "end" {
+               "lne": 1,
+              "column: 5              }
+         },
+        "f": {
+             ype" "Identifer,
+          "tart": 0         "nd": ,           loc":{
+               "tat" {
+               "line":,
+             "column": 0
+            },
+             "end: 
+               "line": ,
+                "olum":               
+             "idenfierName": "x"
+           },
+            "nae" ""
+          },
+       "oprato": "",
+          "igh":{
+           "typ":Intfir",
+         "sart": 4,
+        "ed: 5
+       loc":
+              "start" 
+               "lne ,
+                olmn": 4
+             },
+            "ed": {               line": ,
+              "colun 5
+              }
+             "identferae" "y
+            
+       "ame": "y"            }
+          }
+        "oerato": -"
+       "rght": {
+       "ype": Idtiir,
+         "start":8,
+          "end ,
+         "lc": {
+             "start":{
+            "line": 1,
+           colun:8
+          },          e": {               "line": 1,
+             "colmn": 9
+            },
+            "entiieae": "z"
+         },
+           "name": "z
+         }       }
+      }
+   ]
+  "drectivs":[]
+  }
+}

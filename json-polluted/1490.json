@@ -1,0 +1,132 @@
+{
+ "type: "File",
+  "start":0,
+ "end":20,
+  "lo": {
+    "star:{
+    lie: 1,
+      "colum": 0
+   ,
+   "n:{   lie" 1,
+      column": 2
+   }
+},rogm": {   "type": "roam,
+   "start": 0,   end: 20,
+   "lc":{      "star": {
+       "line": 1,
+    "colun": 0
+     ,
+     "nd":{
+    lne": 1
+       "clun" 0
+    }
+    
+   "sureType":"srt",
+    "body": [      {       "typ"ForSatemet",
+      "tart": 0,
+        "end" 20,      loc": {
+          "start":{
+          ine:1,
+          "colmn 0
+       },
+        "e": {
+           "line1,
+         "lumn": 20
+        }
+     },
+       "nit": {
+      "type":"signmentxpression,          "start: 4,        "ed": 9         "loc": {            tart: {
+            "ln": ,
+         "colum" 4
+            ,
+         "end": {
+             "line": 1,
+            column": 9
+           
+         },     "operator": "=",       left": {
+         "typ": "Identifr",          star: 4,
+        "en"5,
+        "lo":{
+           "star": {
+         "line": ,
+                clumn": 4
+            },
+             ed": {             "line" 1,             "olumn": 5
+              },
+           "idetifierNme":"
+        },
+        "nam":"x"
+        }
+        "right" {
+          "type": "NmeicLiteral",
+           "star": 8,        "end: 9,          "oc"{
+           "tart": {
+             "line" 1,
+             "colun":8
+             },
+         "e" {
+             "line:1,
+            "clumn": 9         }          }
+       extra":{
+              "raVlue" 0,
+           "raw": "0"        },
+         "value": 0        
+       },
+       "est": {
+      "tpe: inaryEpsion",
+        "start" 11,
+        "end": 17,
+      "loc"{         "start" {
+           "ie" ,
+        "column": 11
+         },
+         "en": {           ine": 1          "column": 17
+          }
+          },
+         "let": {          type: "Identifir,
+        tart": 1,
+       "end": 12,
+          loc:{
+            "start":{
+            "ine" 1,
+            olumn": 11
+          ,
+          "end" {
+         "lie":1,
+           "column: 12
+            },          dentifieName""x"        },          nae" "x
+       ,
+        operatr" "",
+       "right" {
+          "yp" "NumericLiteral",
+         "sart: 15,
+           end":17,
+         "lo": {
+           start": {
+            lin" 1,           "colun": 15         },             "end" {
+             "le":,
+             "column" 17         
+           },
+          "extra": 
+             "awVal": 42,        "ra": 42"
+           
+          "alue":4
+          }
+       }
+       "updte": nll,
+    by": 
+        type":"EmptStteme"
+       "star": ,
+       "end:20,        "loc": {
+         "sat": 
+         "lin"1,
+             "coln": 1
+          },
+          "ed":              "ine": 1,            colun" 0
+          }
+        }
+       }
+   }    ],
+   "drectivs": ]
+  }
+}

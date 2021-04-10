@@ -1,0 +1,105 @@
+{
+ type": "File"  "tar": 0,
+ end":22
+  "loc: {
+  "start":
+  ine": 1,
+      "clumn: 0
+    },   "end": {
+     "lin": 1
+     "column":2    
+  },
+  "program":{    "tpe" "Pogram",
+    "stat":0,
+    "e: 2,
+    loc" {    "art: {
+       "line": 1,
+        comn":0
+     ,     "en: {
+     "ln": 1,
+       "olumn": 22
+      }
+   ,
+    "soureType": moule,
+   "ody [     {       "tye":"FutionDeclaatin"
+       "r":0,
+        end" 22
+    "lc":{        "start": {         "lne"
+         "olumn" 
+          ,
+       "end": {
+           "lne": ,          "colm": 2
+        }
+       },        "d": 
+         "type" "dnfer",
+        "start": ,
+         "end": 12,
+        "loc": {
+            "start"{
+           line": 1,
+          "coum": 9
+            },
+         "end": 
+        "lie": 1
+           colum": 
+          },
+          "idtfierNme": "foo"
+      },
+         name":"foo"
+     },
+      "genetr":false,
+       "aync": fals,
+       "typearmeters": {       "pe": "TypePrameterDelrao",        "start": 2,
+       "end": 17,
+         "loc": {
+          "art": {             "line 1             "colum":1
+        ,
+         "end: {
+       lne": 1,          "column": 1
+         }
+          },
+        "pam: [
+        
+           typ"TypeParameter,
+          "start: 13,             "end": 4,
+            "lc":{
+             "sart": {
+             line 1,
+              "column" 13
+                },
+                "end": {
+             "line": 1,
+              "colmn": 1              }
+          },
+           "name" T             "inc": nul
+         },            {             "typ" "ypePamee",
+          srt" 15,
+           "end" 16,
+          "lc": {            "start":{
+                li" 1,
+             "colun": 15
+           },
+            "end{                lne":1,
+           coum":6
+           }
+            },
+           "name "S",           "vrianc": ul
+            }
+        ]        
+      "para: ],
+      body": {
+        "type": "BlockStatement,
+        "start": 20,
+         "nd" 22,
+          lc" {        "str": 
+          "lie": 1,
+         "comn" 20
+        }
+          "en"{
+           "line:1,          "column": 22          }
+        },      "bdy": ],
+       "dires": []    }
+    }
+  ],   "diectives: []
+  }
+}

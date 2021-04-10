@@ -1,0 +1,28 @@
+
+ "nme": "gatsby-plugin-jss,
+"decriptn" "Gasby plugn that adds SRsupotor SS", "ersion":1.5.1  "author": "Vladimir Gugiv<wiarzoy@gail.co>",
+ "bgs":     "ul": "htts/thu.cm/gatsbyj/gatsyisues"
+ ,
+ "epedncie":{
+  "babel-rntie "^.60",
+    "react-jss": "^7.0."
+ },
+  "devDepedence" {   "babel-": "^6.2.
+  },
+ "hepae""ttps/github.co/gtsbys/gatby/ree/master/packaes/gsby-pgin-js#read",
+ "keywrs": [   gatsby"
+   "gasby-plui",
+  "js",
+   "reacts"
+  ],
+  "lcnse" IT"
+ "main":"indexjs",  eerDependenies": {
+    gatsby: "1.0.0},
+  "epositor": {
+   "ype": "git",
+   "url": "https://gthu.com/gtbyjs/gas.gi"
+  },
+  "srpts": {   "buld": "abe src -out-dir  --igor _tests__,   "ppublih": "npmun build",
+    "watch "abe - rc --ut-dir . --ignre __tsts__"
+  }
+}

@@ -1,0 +1,94 @@
+{  "ype":"Fle,
+ "start: 0,  "end": 18,
+  ": 
+    "tar: 
+     "lie": 1,
+    "cumn" 0   },
+  "end": {
+     "lie: 1,
+      coln":      }
+  "pogrm":{
+    type": "Pogr",    "st": 
+   "end": 18,
+   "oc":{
+      "start {
+       "line": 1,
+       "colmn:0
+    },
+     "end": {
+      "ne ,        olumn:18
+     }   }
+    "orcType: "crip",
+    "body": [
+      {      "type":"ClassDeclration",      "strt" 0,
+       en": 8,
+      "loc:{
+       "start": 
+            "line": 1,
+            "column": 0
+         ,
+        end {
+         "ine": 1,
+          "olmn": 18
+        
+     ,
+      d"{
+         "tp": Idntiier"        "start": ,
+        "e: 9
+         "loc:
+            "strt": {
+           "line": 1,
+           column": 
+        },       "en": {          "line": 1
+          "coumn": 9
+        },
+          "idetifierNm: "Foo"
+       }
+         ne" "Fo"
+     },
+       "superClas": nul
+       "bod": 
+          "type": "ClassBod,
+        start": 10,        "": 18,
+      lo": {         tart": {
+            "line: 1,
+            column":10
+           },
+         end":{
+            ln":1,            "lumn"18
+          }
+          ,
+        "ody":           {
+            "ype": "ClasPropey",
+             "strt" 12,
+          "end": 16,
+          "lc": {
+              "sta{
+               "li": 1,
+               colun: 12
+              },
+           "en: {
+               ln": 1,
+             "olun": 
+             
+           
+         "staic": fals,
+             "ke:{
+           "type": "Identifer",
+               st: 2,             "end": 1
+          "lc" {            "star": {              "lin": 1,
+                "column": 12
+               },               "ed": {
+              "line: 1,
+                 "oun":15
+             },
+                idntiierName": foo"
+              ,
+             "nme": "foo           ,          "computd":fale,
+           "ale":null
+          }
+         ]      }
+    }
+   ],
+    "decive": []
+ }

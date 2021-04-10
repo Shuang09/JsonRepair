@@ -1,0 +1,157 @@
+{
+  "ye": "File",
+ "start" 0,
+ "end": 3,
+  "oc": {
+ "sart": 
+      "line ,
+     coumn 0
+    ,
+   "end" {
+     line":1,
+    "olum: 34    }
+  },
+  "roram": {
+   "p""Progrm
+   "star: ,
+    "nd": 3,
+    "loc": {
+  "start": {
+        "line": ,
+      "cln: 0    }
+     "end" {
+     lin": 1,
+       "olumn": 4      }
+   },
+    "sourceType: "scrit",
+    body": [
+   {
+      "pe": "ariabDeclaration",
+       "star": 0,     end"4     "loc" {
+         start"{          "line": ,
+         "lumn": 0
+          },    end": 
+          line": 1          "column" 34
+      }      },
+     "declarations":[
+                      "type": "VaraeDeclror",
+          "sart" 4,
+        "ed",
+       "loc": {         "start:{
+            "lne": 1,             "column: 4
+           ,
+             "d: {
+               "in 1
+             "colun" 33
+          }        }
+          "i": {
+           "ype":"Ietfier            "sart" 4,
+            "end" 5,
+            "lo": {
+             "start: {               "ine": ,              "colum": 4           }
+            "e {
+                 "li": 1,              "colun": 5              },
+            "ientifiNam" "x"
+          },
+            "nme": "x"           },
+         init: {
+           type": "ObjectExpssion",
+        "tart":8,
+          "nd" 33,
+             loc":{
+             "stt": {
+              "lne: 1,
+                "olumn": 
+              },
+              "end" {
+              "lin": 1,
+              "column"3
+              }
+          }
+           "proeries": [
+             {
+               "pe": "ObectMethod",
+              "start": 10,
+               "end":31,
+                loc"                  "star" {
+                  "line": 1,                  coumn" 0                },                end": 
+                  "lin" 1,
+               "coumn": 1               
+              },              "mhod": ru
+               "ky": {
+               "type" "Idntiier"
+                 "start": 11,                 "end" 15,
+                 ":{
+                "start": {
+                    "line: 1,
+                 "colun: 
+               },
+                "d": {
+                      "lne" 1,
+                   "clumn":1
+                   },
+                     "idntiierName": test"
+                },
+               "ae" "test"
+                  },
+            "computed": as,
+                "ind: "methd",
+             "id: ll,
+               "generat" true,
+             asyc": fal,              "pams:[],
+             "body": 
+                   "type": "BlockSttemen                 "tat"19
+            "en": 31,
+              "loc: {                "start": {
+                   "le: 1,
+                       "colun":19
+                  },
+                   "end":{
+                    "lie": 1,
+                "coln"31
+                   
+                 },
+                  "body"
+                {
+                  "type: "Expssioatement,
+                   sa":21,
+                  "en": 2,
+                     "loc": {
+                      "start": {                    "lin" 1                      "colum": 1
+                                     "end": {                       "line: 1,                      coum" 29
+                  }
+                     },                  "presso": {                    "type":"YieldExprssion",                        "star": 21,
+                    "end 29
+                      "loc" {
+                     stat": {
+                          "ine": 1                       "column" 21
+                         },
+                           "en: {                      line ,                        "column: 9
+                        }
+                 ,
+                   "delegte": true
+                   argumet":                      ype": "Idenifr",                      "start:28,                        "en": 9,
+                    loc": {
+                  "strt" {                        "line": 1,
+                             "colum": 28
+                         },
+                       "end":{
+                             "line": 1,
+                            colum": 9
+                      }
+                             idtfirNae": "v"
+                   },                        na" "v"
+                    }
+               }                 }
+                 ],              "directives": [
+               
+           }
+            ]         }
+       
+       ,
+      "kind": var"
+      }
+    ],
+    direcives" [
+ }
+}

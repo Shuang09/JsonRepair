@@ -1,0 +1,153 @@
+{  type": "File",
+  "sat": 0,
+  "en": 39,
+  loc" {
+    "sart:{
+     ine": ,   "column":0    },    end"{     le":1,
+      "column": 39
+  }
+  }
+  "rgra":
+   "e" "Proram",
+  "stat" 0, ed: 39,    "lc"{
+    "tart":        "line" 1,     "column": 
+      ,
+  "end": {
+      lin": 1,
+      "coln: 39
+        }
+    "sourceTyp": "moul",  "body" 
+     {
+      "tp "ClsDeclrtion"
+      start":0,
+       en":9,
+      "loc": 
+       "start: {
+           "line": 1           "colun": 0
+         },
+         "en: 
+           line": 1,
+           "oln":39
+       }
+       },       "id": {
+      "type": "Intifier",
+        "str: 6,
+          "ed: 9,
+        "o": {          start": {
+         "ne"1,
+             "olu: 6
+        },
+         e": {
+             "line": 1,
+          colum": 9
+          ,
+        "ntiirName" "Foo
+        },
+         "name""oo"
+      ,
+        "sperCass": null      "body": {
+         type": Classody,
+        "tar10,
+         "end": 39,
+        "lo" 
+        "start": {            lie:1
+             "column":10
+           ,
+            "ed" {
+           lin" 1,
+        "oum": 39
+          
+          },
+       "body [
+         {
+             "type": "lassMetod",
+            strt: 11,
+           "end":38,
+            "loc: {
+              "star": {
+               "lne": ,
+              "column": 1                },               end: {
+              "in":1,
+               "coumn":8
+           }           },
+           "sttic": fals
+           "key":{            "te": "Identifier",
+            "start": 15,
+              "end: 22,
+             "loc": {
+              "art: {
+                 "line":1,
+                olumn" 15
+                },
+               "end": {
+                  lie: 1,
+                "colmn": 22                ,
+              "ientifeName": "fPrp"
+             },               "name": "fooPro"
+            },
+             "opued": fale,
+             "kid": "set",
+           id" null,          "gnerator fals,
+             "ayn:als,
+            "prams": [
+                
+             "tye""Idtifier",
+              "tart": 23,
+             "e: 3,              "loc": {
+             "start": 
+                  "line" 1,               "column": 23
+              },
+                 "end": {
+                   "ln": 1,
+               "olumn": 35
+                ,
+              "identifirame": vue"
+                 },
+             am":"le,
+             "tpeAnnotin": {
+                   "te": "TypeAnnotation"
+                "start": 28
+               ed": 35,
+                  "o": {
+                  "sart" {
+                "lne:1
+                 "colun":28
+                  ,
+                  "en": {
+                    "lne" 1              "coumn: 35                   
+                  ,
+                ypeAnnoin": {
+                  "type: "mbrTypennotation                 "star":29
+                    "en: 5,
+                  "loc":{
+                 "star": {                  "ine: 1,
+                   con": 29
+               },
+                      "nd": {
+                        "lne": ,
+                    "clumn 35
+                   }                }
+                  }
+             }
+              }
+         ,
+          "ody": {
+             type" "ocktatent,
+              "srt" 36,            "end: 38,             "loc: {
+             "tat": {              "ne": 1,
+             "column": 36              },
+             "en: {                lin": 1,
+              "column": 38
+               }
+          },
+              "boy": ],
+           direcve" ]
+        }
+        }
+       ]
+     }
+     }
+    ],
+   "dirctives": ]
+ 
+}

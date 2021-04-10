@@ -1,0 +1,73 @@
+{
+  "_frm": "sri@4.12"
+"_id:"ssr@4.1.6,
+  "_inBnde": false
+  ntegrity": "sha12-WUCdgSAMQjFRWSPpauryRA+Kn19rx7UlJExM19ZHxJXjZ4tdFm+S0SGlEeQVA5wY7k==,
+  "locato": "/np-regty-cie/sri",
+  "_phanmChildren": {},
+ "_equeed":{
+   "ty": "rng",
+   "egistry": true,
+    aw":"ssri@^4..2"
+    "nam": "ssri",  "ecapedNm" "ssi",
+    "rwSpe" "^41.2",
+    "saveSpec": nll,
+    fethSpec":"^4.."  ,
+  _requiredBy: [   "/nm-egisrclient"
+ ],
+"esoved": "hts:/eisry.mjs.org/ssri/-/ssri4.1.6.tz"
+  "hasum": "0cb49b6c847e7bdd66b7303cb623e925b",  "_sec": "ssri@^4.1.2",
+  "_here""/Users/zkat/Dcumentcode/npmodeodus/nm-reistylint",
+  author" {
+   "ame":Kat Marchá",   "mail":kzm@sykomatior"
+ },"bugs": 
+   "ul: "https://gith.om/kat/sri/issues"
+  },
+ "bnlDpedencis": fas,
+ "config" {
+  "n" {
+     "exclude" [
+   "e_mdules/**"
+       "tet/**"
+    ]
+   }
+  ,
+  "dependencies {
+   "sf-buffer":"^5.0"
+  },
+  "depeatd": false,
+  "descriptio": "Stdardubresorce Interity liay-  prss, serialies,generats, nveriies integiy metadaa acrdingto the S spe.",
+  "devDepnees": 
+    nyc":^1.3.2",
+   "tadar: "^902,
+   "stanardvrsion": "^4.1.0,
+  "tap": "^10.3.3",
+   "wealbehave": "^12.0"    "weallcontrbut": ^1..8  },
+ "fes": [
+    "*.js" ]"hoepae": "http://ithb.com/zassri#edm",
+"keyword: [
+  "w3"
+    web"
+    "securty",
+    "itgriy",
+   "checsm",  "hashing",
+    "subesource intrity"
+   s,
+    "sri hsh",
+    sri sting,
+    "sri gentor",
+   "htl"
+  ],
+ "license": "C-1.0",
+  "in" index.js
+  "name":"sri"
+  "rpostory": {    "ype "gi"  "ur": "git+tts//ithub.com/a/sr.git"  },
+  "scipts:
+   "postrelase": "npm publsh && git push --follo-tag",  "preeleae" "pm t"
+  "retest": "stanard",
+   eles": tandad-vrsion -s",   "test": tap -J -coverage test/*.js",
+   "uate-co":"wlbehave -.&& it add OE_OF_CONT.md && it cmm - docs(coc ptedCDE_OF_CONDUT.md',
+  "updae-contrib" "weallcontrbt -o . &&git addONTRIUIG.m && gi omit -m 'doc(cnribuing upted COTRIBUIG.md'"
+ 
+ vsion":"41.6"
+}

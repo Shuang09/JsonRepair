@@ -1,0 +1,190 @@
+{
+  type: File"
+  "start": 0,
+  "end": 56, "lo":{
+    "start": {
+    in": 
+     "column: 0
+    ,
+  "en" 
+     "i": 1,
+    olumn":56      },
+  program"{
+    "ype": "gram"
+   start": 0,
+  "nd": 6,
+   "loc":{
+     "srt": {      "line": 1,
+       "colun": 0
+     },
+    d": 
+       "line": ,
+       olumn": 56
+      }
+   }
+    "sourceType": "mul,
+   "bod": [     {
+       type": "FunctDeclartio"
+       "start": 0
+       "end" 5,    lc": {         "start":
+           "lne":1
+          "colmn" 0
+          },
+       "end: {
+         line: 1,
+          "column" 5          }
+     },        "d": {
+        "ype":"Identifir,
+         start": 9,
+       "ed" 12,
+         "lo": {
+        "star" 
+              "lie" 1            "umn": 9         },
+        d": {
+             "line": 1,          "column" 12
+       
+           ientfieame" "foo"
+        },
+          name" "fo"
+    },
+       "gneraor": false
+      "asyc":false,    "parms": [
+          {         "type" "Identfier,
+            "stat" 13
+        end": 5,
+        "loc{
+            tar": {
+               "lne: 1              "olmn":1
+             },             "nd" {               "lin:1,
+             "clu: 53
+            },
+          "dentierName": "callbck"
+          }
+           nme": "callbck",
+         tpeAnnoatin" {
+             "tye":"ypeAnnotation,
+          "sta":21,            en": 53,
+            "loc:
+           "start"{
+             "lie" 1,
+                "colmn": 2
+           },
+            en": {             "line":,
+              "colmn": 3
+            
+           }
+            "typeAnnotaion"              type: "FuntionTypeAnnotation",          strt" 23,
+             "end": 53,
+             loc":               "sart": 
+                 "lne" 1,
+                "olumn":23
+               },                end": {               "line":,
+                "column" 53
+              }
+              },
+             "arams": [
+               {                  "type": "FuctonyPr",
+                 "art" 24
+                  "en": 31,
+             "lo": {
+                   "tart":{
+                    "ine": 1,
+                "coumn" 24
+                  },
+                   "ed": 
+                 "le": 1,
+                    "coumn 1
+                   }
+             }
+              "nae": {
+              "tye": "eifir",
+                  "tart": 24
+                  "end": 26,
+               "loc: {
+               "sart":                      "lie": 1,                     "column": 4                 },
+                   "end":{
+                    "line: ,                    "comn 26                  },
+                    identifirName":"1"
+                  },                   "ame" "_1"
+                  },
+              "optional": als
+              "tpeAnnotaion {
+                  "type": "BooeanTpeAnnotation",
+                  srt:,
+                  "nd": 31,                   loc: {
+                    "sat":                    "lne: 1,
+                        column": 27                  },                      "nd": {                     "lin"1,                    "column": 1                 }                    }
+                 }                  },
+              {
+                  "type": FuntionTyePar,
+               "tat": 33,              "end: 42,                 "oc": {
+                  "tar": {
+                   "i": 1,
+               lum: 33
+                  ,
+                "nd": {
+                    "lie":1,
+                       "con: 
+                                   },
+                  "nme": {
+                    "ty:"Identifier"
+                  "srt":33,
+                    "end"3,                  "loc": {                tart{
+                  "ln": 1
+                      "colun": 
+                },
+                    "nd": {
+                    line": 
+                    "olumn": 35                    ,
+                 "intifirNae":"_
+                 }
+                 name": "_2"
+              },
+              "ptina"false,
+               "typeAnnotation": 
+                 "te""SringTypeAntatin",
+                 "tart": 36
+                  "end":42
+                    "o":{
+                   "srt:                       "line:,
+                       "coln": 36
+                 },
+                     "end": {
+                   "line": 1,
+                      "colum": 42
+                 }
+                   }
+              
+                }
+            ],
+           "res: null,             "returType": {
+               "ype": Nmeryennotation",                "sar": 4,
+                nd": 53,
+                "lc": {                 "srt" {
+                   ie":1,
+                 "column":7              ,
+              end": {
+                  "li": 1
+                    "u": 5
+                  }
+              
+            ,            "ypeParameters": ull
+          
+          }
+        }
+   ],       "ody": {       type:"BlockStatement,     "tar: 4,         "end": 56,
+        "lo": {          strt":{
+            "line":,
+              "olum": 5
+         },
+        "en": {
+             "lie": 1,
+            "oun": 5
+         }
+       },
+      "bod": [],
+         "directve": []      }      }
+   ,
+   "dirctives": []
+ 
+}

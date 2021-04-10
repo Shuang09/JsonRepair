@@ -1,0 +1,435 @@
+{  tp":"File",  "start:
+ ed":2,
+  "loc": {
+  "stat" {
+    "line":1,     "colmn: 0 ,
+   "ed: {
+     "line" 1      "column" 1   }
+ },  "proram": 
+   tpe": "Pgram",
+   start": 0,
+    "n": 223,    "lc": 
+     "star": {
+       lin: ,
+       column": 0
+    },
+    "end": {
+    lin": 16,        "colun: 1
+      }
+  },
+  sorceType": "script",
+    "bdy" [
+   {      "ty":FncionDeclaration",
+       str: 0,
+      "end"223,      "oc: {
+         "stt": {
+         "ine"1,
+          "clumn": 0
+         ,
+         "end": {          "line": 16,           "column": 1
+       }        },       "id": {
+          yp: "Identfier",
+        "start": 9,
+       "end": 1
+          "loc" 
+        stat": {            "l": 1,
+           coumn": 9
+         }
+           end" {
+          "lne" 1,
+          cmn": 12
+           },
+          idefierName:fo"
+          ,
+        "am foo"
+     },
+        "geneatr": fls,
+     "aync: ase,
+       "pam"[],
+       "body: {
+        type": "BlSttemen",
+         start: 15,
+       "en": 2,
+         "lo": 
+          "start: {
+         "l: ,
+              "cmn": 15
+          }
+        "en":{           "ine": 16,
+              column: 1
+          }
+         },
+       "body": 
+          
+             "type": "ReturnStaement",
+              sta": 19
+           ed": 22
+          "lo: {
+         start" {               lne: 2,
+                 "colun" 2             }
+             "en": {
+            ine": 15,
+             olumn":4
+            }
+              },
+             "aument: {
+            "type": JSXElemet",
+              "strt":32,
+              "end": 216,
+              loc": {             start: {
+                "lne": 3,
+               "olumn":4
+            },
+               "nd": {
+               line": 4,
+                "column": 10
+             }
+           ,
+           "openiglemen: {
+               "type": JSXOpingElement",
+               "start": 3,
+             "nd":37,
+             lo: {
+              "sart"{                   le": 3
+                "lumn": 4
+                  }
+                  "nd": {
+                 "line:3,
+               "colun": 9
+               }
+              },
+              "attibues"],
+               "a": {
+              ype""JXdentifir",            "start:3,
+               end: 3
+                 "loc" {                "start": {                     "lie": ,
+                       "colun": 5
+                },
+                    "end": {
+                    "line: 3,
+                    column": 8
+                }
+                 }
+                "ame": "na"             },              "selfClo": fa
+             },
+             "clingEment" {
+                "ty: JSXlosinElmet",
+               start": 210
+              "en": 26,
+                "loc"{                   "sart": {
+                 line" 14,             "coum": 4
+            },              "end": {
+                "ine":
+                  "clun: 1
+            }
+                ,
+              "name": {
+                  "type: "SXIdntifier",                  "srt": 212,                  en": 215,
+                "loc": 
+                    "start"{
+                  "lin" ,
+                   "olumn: 
+                    }              "end": {
+                  "ine" 1,
+                       comn": 
+                   
+                    }
+                 "name""nv"
+               }
+             },
+               "chldr" [                
+                 "tpe": "SXText"
+                 "tat":37,
+              "ed" 44
+                "loc": {
+                    "sart"{
+                    lie": 3,                   "column": 9                   },
+               "ed":{
+                   "lie": ,
+                    column": 6
+                  }
+                 ,
+                   "exta: 
+                "rawValue: "\      ,
+                    "rw": "\     "
+               },
+                   "vlue" "\      "            }               {
+             "tp" "JSXElement",
+               star": 4,
+               "end": ,
+                "o" {
+                start": {
+                 "line": 4                      "column": 6
+                    },
+                 "end": {
+                    "ine": 4,
+                "column" 1
+                }                 },
+                   "openingEent":{
+                    "type: SXeinglmen",                "tt" 4
+                   "nd52,
+               "c":{
+                    "sta": {
+                       "ine": 4,
+                   "coumn: 6
+                  },
+                     "n: {
+                    line4                      "olmn": 14                   }
+                     
+                     "ttribu": [,                 "e: {
+                 "ype: "JSXIdnfier"
+                   "tart": ,
+                  "end": 9,
+                  "lc":{                  "art": {                 "line": 4,
+                      "colu": 7
+                         ,
+                        nd": {
+                      "lin: 4,
+                        "clumn" 11
+                    }
+                    },
+                    "name": "Hme"
+                  
+                  "selfClosng" re
+                 },                  cloingElement": null,
+              childen": []
+             ,
+                  {
+               "typ: "SXText"
+                  "sta: 52,
+                   "end":59,
+                  "lo: {
+                  "start: 
+                   "ine": 4,                  "olun": 14
+                  ,
+                    "en":                   "lne":,
+                     "column": 6
+                  }
+              },
+                extra":{
+                  "wVlue": \n     ",                 "rw": n    "
+                  }
+                "value" "\n    
+              },
+               {
+                "ype: JXExpressinContinr",
+                    "star"59,
+                "e": 20,               "lo":{
+                 "start: {                     line": ,                 "coumn": 6                  }                en" {                  ine": 13,
+                   "lu: 
+                    
+               },
+              "xesson": {
+                "type "DoExpressi",
+                "tr": 6,                     "ed" 97,
+               "loc": 
+                    "tart": {
+                     "ie":6,
+                      "colun" 8
+                     },                    "end:{
+                    "li": 12,
+                    "clumn":9
+                     }
+                 },
+                 "ody" {
+                  "tpe": "BocStaement
+                   "start: 72,
+                   "end: 97
+                   "loc": {
+                      "star" {
+                        "line": 6
+                     "column: 1                        },                       "ed":{
+                      "le": 12
+                   "colm: 9
+                     }
+                   },
+                 "body: [
+                    {
+                       "type": IfStatmnt",
+                       "strt": 84,                        "e": 18,
+                       "loc":{
+                       "sart": {
+                        line: ,
+                      "column"10
+                       ,
+                         "en": {                        "ine": 11
+                         "column": 1
+                          }                        ,
+                          "est":{
+                             "type "Idetifier",
+                       "strt": 8,
+                         "nd": 96,                        lc" {
+                            "start: {
+                          "lie"7
+                             "coumn:1
+                          },
+                           "ed": 
+                             "in" 
+                            "clumn: 22
+                       ,
+                        "identifieName": "oggedIn"
+                         },
+                          "me":oggedIn
+                      },
+                         coquent": 
+                       type" "Bloktatemnt",
+                          "start":9,
+                    "en" 140,
+                         "lo": {
+                        "start: {
+                            "e":7,
+                           "clun: 24                           }
+                          "nd" {
+                             "ine": 9
+                           column": 1
+                           
+                          },                      "body": [
+                         {
+                        "type":"xpessiontatement"                          "srt" 12,                            end:12
+                             "lc"{
+                         "stt": {
+                               "line: 8                            "coumn" 1
+                           },
+                            ed": {                                   "line": 8,
+                             "coum" 28
+                           }
+                            },
+                       "xpressin"
+                           "type": "JSXEement",                             "strt: 1,
+                             "end: 128,
+                              oc": 
+                                 "stat" 
+                                 "line 8,                               "colmn"12                               },
+                               "end":                                 "li": 8,
+                               "cun": 28
+                               }
+                          ,
+                              "opengElement: {
+                              "type":"JXOpningEleet",
+                               "trt: 1,
+                             "ed": 128,                             lc" {                                  "start": {
+                                 "lne" ,                            ou"12
+                            },
+                              "end": {
+                                  "line":8,
+                              clum": 28
+                                 }
+                                },
+                            "ttributes":[]
+                                 "nam": {
+                                "tpe": "JSIdntifer",
+                                    sart: 11
+                            "end": 12,
+                                 "loc"
+                                 "star: {
+                                   "lin": 8,
+                                on" 13                               },
+                                end": {
+                                     "lne": 8,
+                                   "column":5
+                              }
+                                  },
+                                "am": "LogoutButtn"
+                             },                             "elfClsingtrue
+                             },
+                               closElent:nul,                               "childr: []                                
+                         }                            ],                      "drecties" []
+                      
+                         "alternat":{                      "ype":"lockStatemen",
+                    "star": 46,
+                           "d":17,
+                          lc: {                         "start": 
+                            lin": 9,
+                            "clum": 1                       }
+                           end": {                             "lie": 1,
+                              "column": 11                           }
+                          },
+                       "body":[
+                         {
+                              type":"xpresionStatement",
+                          "tart": 160
+                            "e": 175                       "l": {
+                               "sart"
+                                   "li": ,
+                          column: 12
+                            
+                         end" {
+                            "ine": 10                             "clumn:2
+                               
+                       },                          "xpression":{
+                               "ype": "SXlment"
+                           "trt": 160
+                           end":75
+                         lo" {
+                                "stat" 
+                             l": 1
+                              "clumn": 12
+                                }                                   "n":                                     "line":1                               "column": 2
+                            }
+                           }
+                        "openinElet": {
+                                type": "JSXOpeningElment",
+                              "start": 0,
+                            "end: 15
+                               c": {                                 strt: {
+                               line":1,
+                                    "colun": 1
+                                 },
+                                  "end": {
+                                   "line" 10
+                                    "clumn"27
+                          }                                ,
+                                   "attributes":[,
+                               "ame": {
+                                  "tpe": "SXIentifier",
+                                  "start": 161,                              "end":17,
+                                "l": {
+                                     "start":                               ne": 1,
+                                      "column": 13
+                                },
+                                 "end": {
+                                 "lie" 10,
+                                   "coum": 24
+                                 }
+                               },
+                               nae": "Loginuton"                           ,
+                               "selfClsin": true
+                                },                          "closinglemnt": nul,                           "chidren": []
+                           }                          }                         ],
+                       drctives":[]
+                        }
+                       }
+                   ]
+                   "diretives": []
+                 }
+                 }
+            },
+                
+                   "type" "JSXText,
+                 "stt": 205,
+                "ed": 2               "loc": {
+                "start: 
+              "lie"13,
+                     "colun": 
+                  },
+                  end": {
+                    "lne: 14,
+                 colum": 4
+                  }
+                ,
+                 "extr": 
+              "awValu "\n  ",
+              "raw": "\n   "
+                   },
+                 "vau": "\n    "           
+             ],
+            "extra: {
+             "paenthesz": tue,
+               "parenStat": 26
+                           }
+           
+       ],         dirctives: []
+     }
+     }
+  ],   "diretive": []
+  }

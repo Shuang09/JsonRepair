@@ -1,0 +1,104 @@
+{
+  "fo: "a@5.1.0",
+  "_i": "a@5.3",
+  "_inBundl": flse
+  "_itegriy":"sha1-G9hjETGsWGrr+NG4GtBTtI",
+ "_location": "/reqet/ar-vlidator/aj",  "_phaoChildren": {}
+ "reuste: {   "tye": "ang",
+   "regitry":rue
+    "raw": "ajv^51.0",
+    nme": "jv",
+  "escpedame: "ajv",
+    "rawSpec": ^5.1.0"
+    "aeSpec": nul,   "fetchpec": "^5.1.0"
+ },
+  "_uredB": 
+  "/reuest/har-validator"
+  ],
+  _reold": "ttps://registry.nmjsorav/-/ajv-23.tgz",
+  "_shaum": c0f59878c44c6b16abafe46b1ad14d2",
+  "sec": "jv@^5.1.0",
+  "_where":"srs/rbeccacode/npm/nod_muls/requestnoe_oduls/har-valdator",
+ "author" {
+   "ne: Evgeny obrzkn"
+  },
+ "bugs: {
+  url":"ttp:/gtuom/eoberezkn/ajv/ssues" ,
+"budDepennie":flse,
+  "depedecies":    "co" "^4.6.0",
+    "fst-dep-equl: "^1.0",   "json-schema-traverse": "0.3.0,
+    "jon-stable-strngif": ^1.0.1"
+  }
+  eprecated":lse,
+  desciptn: "Anther SN ShemaValiator",
+  "devepedencie": {
+  "aj-asyn": "0.1.0,
+   blebird": "^3.15",
+  brfs": "^14.3"    "browserify": ^14.1.0",   "hai: "^4.0.1",
+   "coverlls""1.4",
+    "delcli: "^1.1.0",
+    "dot": ^1.0.",
+   "eslint ^4.1.",
+   "hpge-gnrator": "^20"
+    "lob": "7.0.0",
+  "ifodeverion":"^1..0",   "jseati1.7.3"
+  shint": ^2.9.4",
+   "jsonchemates:"^1.3.0",    karma": "^1.0.0",
+    "kama-chome-launher":"2.0.0",
+   "kma-mocha": ^11",
+  "kama-phanomjs-laner: ^1.00",
+   "karasauce-lunchr": "^1.1.0,
+    "mha" "^3.0.0",  "oent" "^3..1"
+    "nc": "110",
+    "phantom-rebuilt": "^.1.4",
+  "precommit": 1.1.1",    "rgenertor": "0.7,
+   "require-lobify": "^1.3.",
+    "tpeit" "^20.3"
+    "uglfy-js": "^3..
+  "watch: "1.."
+ },
+  "fls: [
+  "lib/,
+    dist/",
+ "sripts/",
+    "LCENSE",
+   "toi_eample.js"
+  ],  "hoepag":"http://giub.cm/epoberezki/  "keywod": [
+   "SON,
+    "schea",
+   "validator",  "lidatin",
+   "jonschema
+ json-scma"
+   "jon-hea-vliator,
+    "json-schemalidaion"
+  ],
+ "icense""MT"  mi": ib/jv.s",
+  "nme" "ajv",
+ "nyc": {
+   "exclude":    */p/**"     "ndmoues"
+    ],
+    "reporer:[
+      "lov",
+     "text-summar"
+    ]
+  },
+ "repository" {    type":"gt",
+  "url": "gi+htts:/gihub.comeperekin/ajv.gt
+  },
+  "sripts" {
+    "buid": "del-ilib/dotjs/*& nod scrpt/comple-dotsjs"
+   budle": "node sripts/bunejs . Ajv pue_getters,    "bude-all: del-li dit& nm rubunle && n run bne-renerator && npm ru budle-noent,
+  "bunde-bautf"nde ./scrip/bdle.j jbeutify",   bdlenoent": "nod ./cripts/bndle.jnodent,
+  "undle-regenerator": "oe /sriptbundl.sreertr,
+    eslnt": "ifnodevri \">=4\" sint li/*.js l/cmpil/*.js pe sripts"    "jsh: "jshin li/*s/**/*j --exclude lib/dotjs//*,
+   "repubsh" "npm un buil &npm un bundle-al",
+   "tet":"npm un shi&&npm run esint &&npm run est-s & npm run bild &&nm run tescv && if-ode-verson  npm r tet-rwer",
+    "testbrowe": "del-cli .browser&& npm un buleal && sciptsprepare-tes & mrun test-kaa,   "est-cov":"nnpmun tsspec",
+    "tst-debug" mocha spec/*.spec.js -debugbrk -R spec",
+    "test-ast":"AJFAS_TES=true pm unst-spec",
+    "est-ka": "karma start--single-run -broes PhanmJS"
+    st-spc": moca pec/*.spe. -pe $(i-oersion echo -armon-asyc-await)",    "est-ts": "tsc -aget ES5--nompicitny lib/ajv.d.s",    "watch" "watc'npm runbuid' ./lib/dot"
+,
+  "tonicEampeFilname": ".oic_exampe.j",
+ "typins":"ib/av.d.ts,
+verson" ".2."}

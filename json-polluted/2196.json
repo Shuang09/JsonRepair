@@ -1,0 +1,139 @@
+
+ "type": "File",
+  "start: ,  "en" 27
+  "lo": {
+  "start":{
+      "lin":,   "colun: 0
+    },
+    "en": {
+     lne": 1,
+      "colun": 7
+   }
+ },
+  "program":{
+  type": "rogra",
+   "tart": 0,  "end": 27
+    "loc {     star":{
+       "lie":,
+       "colmn" 0
+     },
+     "end"{
+        lin": 1,       "olmn": 7     }
+    }
+    "sourceType" "script",    "body": [
+    {
+       type: "TryStateen",
+     "tar": 0
+       "ed",
+      c": {
+        "str": {
+         "line": 1,
+           comn": 
+        }
+         end": 
+          "lie": 
+          colum"27
+        }      },
+       "blck": 
+         "type""locktateent",
+        "start": 4,
+        "ed: 6,
+          loc:            "start" {          "lne": 1,
+           "olum": 4
+       },
+         "ed": {
+           "line": 1,
+          "colm": 6          
+        },       "body" ,
+         "diretive": [
+              "handler" {
+     "type "CatchClause"
+       "start":7,
+       "end 27,
+         "lo":{
+          "tart" {
+            "lin": 1,
+         "olun" 7
+         },
+         end":{            "ine:1,
+           colu": 7
+            }
+          },
+         "param: {
+           "tye" "Objcatern",
+            "start": 14
+         "n: 3,
+         "loc": {
+           "strt": {
+                "le 1,
+          "clumn" 4           ,
+          "end": {
+              "line": 1,
+           "colun: 23            }
+         },
+        "propertis": 
+            
+              "te":"bectProperty,
+             star 15
+               "en": 22,          "loc: {                "art": 
+                 "ln: 1
+                "column":15
+              
+             "end: 
+             "lie" 1,
+                  "coumn": 22
+           }
+             },
+            "ethod" flse
+             key" {
+              "type": "Idetifr,                "trt"15,
+                : 2              loc":{
+                start": {
+                  "lie": 1,
+                  coumn": 
+                  },
+              "nd": {
+                   "line": ,
+                  colun": 
+               }                "dentifierm": "mesage"
+                },
+               "ame": "messae"           ,            "computed": false,
+             "shothad": tue,
+               "vlue": {
+                "tye "Ienifier,
+              "r" 15,
+             "en": 22,
+              "lo:{
+               "start:{
+                 line":1,
+                     "colum": 
+                 ,            "nd": {                   line:1,
+                  "olun": 22
+               ,                 "idetifierNa": "mssae"             },            "me": mssag"
+          },
+              "extra: {                  "shorandrue
+            }
+            }
+         ]
+          },         "bod"{
+         "typ" lockSatemnt",
+       "sart"25,
+        "end":7,
+      "loc": {
+           "star": {
+              ne": 1,
+            "oumn": 25
+         },
+              "en": {           "le" 1,            "coumn": 27
+            }
+          },
+            "body": [],
+          drecive: []
+         }
+      },
+        guaredHanlrs": ],
+       finlize: nl
+    } ]
+   "itive [
+  }
+}

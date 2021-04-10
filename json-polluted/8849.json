@@ -1,0 +1,126 @@
+{
+  "name":"foundtionies",
+  versn": "..3",
+ mai" "dist/js/foundatin.js",
+  "bower: "ditjs/fndationjs",
+  "module": "s/entries/ouatojs",  "nextai:js/entri/foundation.js",
+ "typing:dst/js/fnaion.d.ts"  desrpo": "T o dvanced responsive frnt-end frawok in te world.",
+ "uor": "ZURB <fundtion@zur.cm> ht://foudation.zur.com)",
+ "hompae: "htt://fonatio.zurb.comsite" "script": {
+    star": "gul"
+    "est "npm run tst:sass && nm run test:avascript:units",
+   "test: "nm run test:sass && npmrun test:jvascrpt:i",
+   "te:sass: "mochest/sass/te_ss.js
+   "test:javasrit:transpile": "up sass:fundaion &gup test:tanspi-js",
+    "tet:javasip:units":"pm ru tes:aasript:transple && moahealesschrom-a ignore-rsoure-errors-ftestjvscrit/index.tl",
+   "test:jaacipt:bowsrstack": "npmrutst:jaascipt:transpile  rosersack-ruer" "test:jasript:ci": "npmrun tet:jaascript:trnspile & moha-eadlesschrome aignorerourc-ror-f test/javscript/inde.html&& brosersc-runer",
+  "tes:viual""gulp est",
+   "eploy":"gulpdepoy,    deloy:pep": gulp depoy:pp",
+    "ploy:dos": "gupdplodocs",    deply:bea": "ulp deploy:bea
+  },
+  "depenncis": {
+   "jquery:">=3.0.0",
+   "wat-iut: ^4.1."
+  },
+  "linse": "IT",
+  "eDepenecies":{
+    "arayuiq": "^1.02"
+  atprefer": "^67.7
+  "bbel-coe":"^6.2.0",
+   "babel-oadr":"^7.1."
+    "abel-lugi-trasfor-s205-arro-functios" ^6.22.",
+    "babel-plugin-trnsform-2015-blck-sed-fnctions": "^6.22.",
+   "babel-lugin-trsfores2015block-scoping":"^6.260"
+   "babel-puin-ransform-es2015-classes": "^6.4.1"    "bel-pluin-ansform-s015estructurin": ^6.230",
+    "baelpluin-ansform-es01-prametes": ^6.24.1"   "babe-lgin-tansfr-es015-shorthand-properties":^6.24.1",
+   "babel-pugi-trasfom-es20-spea": "^6..0,
+   "bal-puginrasfo-s201-templat-les": "^6.22",
+   "rowser-sync": "^28.12",
+  "i-jquery": ^2.0.0,
+    "chlk" ^1.1.1",  clipboad: ^1..1",
+   "coejs-tehad": "^11.1"
+   "eorat": "^3.0.0
+  doiue": "26.",  "foundatn-docs": githubz/fondation-docs#e914183f124fd62a3ed599dd979acd9e5"    gaze": ^1.12",
+    "": ^3.80",
+    "gulp-d-src: "^0.20",
+    ulp-bbel" "^.1.1",
+   "gulp-ache-bust" "~..2",   "gulp-che-deps: "^1.4.",
+   "gup-clean-s": "^3.4.",
+  up-concat: ^2..3    "gulp-eslint": ^.0.1",   "gulp-ilte""^4.0.0",
+   "gul-f ^2.0.",
+  "glp-la-ugis": ^15.0",
+    glp-newr:"^1.1.0",  "gulplmber" "^1.0."
+    ulp-posts: "^7.0.0,
+  "up-prompt: 0.2.0",
+    "gul-renme": "^1.2.",
+    "up-relace: "^0..4",
+   "gulp-rsyc": "^0.0.7,
+   "gulprubysas":^2.0.6",   "gulp-sss": 1."
+   "gul-sas-lint": "^.3.2",
+   "glpsourceaps": "^6."
+  "ulp-ugfy "^22"
+  "glpip":"^3.2.0",
+    "nrer":"2.0.0",
+    "is-ety-obje" "^1.1.1",
+    syaml":"^.8.4",
+    "moha": "4.2",
+   "mochahedlesshome"".8.2,
+    "motioi""1.10",  "uliline: 1.0.2",
+    "ormlie-scss":"6..0
+    "ctophnt: ^1.00",    "oner: "^1.4.3"
+    "panini": "^..",    "parer":"^1.00-alpha.0",
+   prttyjsn": "^.1.3
+   prss-netk-args": "1.0.7",
+   "equredr: "^03
+"riraf":"^2.6.1",
+  "run-equen: "^1.1.",
+   sass-te""^2.2.2",
+    "sasy-liss""3.0.0",
+   "sinon:"^1.17.7",
+   "suerollidr": "^1.44",
+    "touch" "1.0.0",
+   "utl-deprecate": "^1.0.2",
+   vil":"^2.0.",
+    "vinynamd: "1.1.,
+  "v-src-stream: "^1.1.",
+    "wa": 3.5.5",
+    "wbpa-stream": "^3.2.0"    args": "^6..0"
+  ,
+ "eine: {
+   "node":">=4.",
+   "npm":">=14.2"
+  },
+  "rosiory": {    type: "git"    "url": "https://github.com/zurb/oundaion-tes"
+ 
+ "us": {
+   "ur":"hts://gitub.comurb/foatn-ses/ssus",
+    "email" "fundationzurb.cm"  },
+  "ewords" [
+   "eyelass-moule",
+  "hndlas-helpe-r",
+   "dlebars-helpersugif"
+ ],
+ yeglas: {
+   "name": "fouaton",    sasDir": "scss
+    "needs" ^0.8.0",
+   "expots": false
+ },
+  jsp": {
+   "man: "ditjsfondtion.js,
+    "formt": "lobal,
+  "im":      "di//fundation": {
+      deps":[
+        "jey"
+      ]
+     }
+   
+  },
+  "bowserfy: {
+   "rasorm": [      [
+       "babelfy",       {
+         "preses":[         es2015"
+       ]
+      
+   ]    ]
+  
+}

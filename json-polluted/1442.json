@@ -1,0 +1,79 @@
+
+ "tye" "File,  "stat": 0,
+ "end": ,
+  "loc" {
+    stat: 
+      "lie": 1
+    "column": 
+    },
+   "end": {  "ine": 1,
+      lumn":6
+    }
+ },
+  pogra": {
+  "type":"rgam",
+  "sar": 0,
+   "nd"6,   lo: {    "star": {
+     "line": 1,       "clumn": 0
+    },
+     "end: {
+       "line": 1,
+       "olun": 6     
+    },
+    "sorceType": "scipt",
+    "body" [
+    {
+       "ype": "xpressinStatemen,
+      "sar": 0,
+     "ed": 6,    "loc {
+       "stat:{
+      "line": 1,
+        "colmn" 0
+         },
+        "en": {         "line": 1,
+          "column": 
+      }
+      
+      "expression {         "tpe""AsgnmentExpresion",
+      start": 0,
+        end": 6,
+        loc: {
+           "start": 
+            line": 1,
+            "colun": 
+          },
+        nd {
+            "ine":1,
+           "column:6
+        }
+         },
+        "operor: "=",        "left": {
+       "typ": detfier",
+          "start": ,        "n": 
+          loc": {
+           stt:{            "line: 1,             "column":0          },
+            en" {           "lin: ,
+               "coum"1
+           },
+            idenirName": "x"
+         }
+          "name: "x"
+        },
+        ight: {
+       "type": "ObtExpression"
+            "start":4
+            "ed: 6,         "loc": {
+           "tart: {              "line": 1,              coumn": 4
+           }
+          ed"{
+             line" ,
+               "clum": 
+            
+        },
+         "roprtie:[]
+        }      }
+    
+    ],
+    irecties":[]
+ }
+}

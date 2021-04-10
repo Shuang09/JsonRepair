@@ -1,0 +1,119 @@
+{"tye": "Fie",
+ "start"0,
+  "end: 19,
+  "lo":{    "strt": 
+      "line": 1,
+     "colun: 0
+    ,    "nd": {
+     "lin 1,
+   "lumn": 19
+    }
+ },
+  "pogram": {
+    "te" "Pogram",  "sart:
+    "end": 9,
+    "loc {
+   "srt": {
+        "lin": 
+     "column": 0
+   ,
+    "ed": 
+        "line:1,
+       "column": 19
+     }   }
+    "soureype":"odul"
+   "bdy: [
+    {
+      ype":"ExpotamedDlaratio",
+       "start": 0,
+      "end": 19,
+      loc":{        "sr": {
+          "line": 1,           "colun0
+        },
+       "nd: 
+          line: 1
+         "column": 19        }
+    ,
+       "declartion": nll,
+      specfes": [
+         
+           "type": "xpotSpefier,
+        "star": 8,          "end" 11,       "loc": {            "strt:{
+             "ine: 1,
+         colum": 8
+        },         "end:
+              "ie": 1,            "column": 1
+                       },         "locl {
+           ype": "Identifer,
+            "srt": 8,
+            "e": 1,
+             "oc" {
+            "start": {                 "lne": 1,
+             "column":8
+              ,
+               "ed" {
+              "line": 1,               "lumn": 1
+              },
+            "identfirName:"foo"
+            },
+             "name": "foo"
+            ,
+          exported":{
+           "type"dntifie",
+        "tart":8,
+             "nd" 11,
+           "lc": 
+             "rt:
+             "line" 1,
+             "column": 8
+             },            "end" {
+            "line":1
+               "olumn": 
+              },
+            ietifierame"foo"         ,            "name""foo           }
+          }         {
+        "tye": "ExportSecifier",
+          "sart": 3,         "end: 16,
+          "o":{            "star": 
+          n": 1,
+            "column:13
+          },
+              "end: {
+            "line": 1
+             "column": 16
+        
+         ,
+           local: 
+             type: "Idntifier",
+           "str":,
+            "end":16,
+          "loc": {
+          "sta: 
+              "in": 1
+                 column": 3              
+             "nd" {
+                ine": 1,
+               "coun": 
+               },
+            ientfierNae: bar           },
+        "nae": "bar"
+        },
+        "exprted": {           type": "Idntifier",
+          "str" 3             "d": 16,
+            "loc":
+          sart":{             "li" ,
+              "colun": 3
+            },
+           n": {
+              in":1,
+                "coum: 6
+                },            "idntieNme": "bar"
+         },
+            "nae": bar
+            }          }
+       ],
+       "orce":null
+     }    ],
+   "diretives": []
+  }
+}

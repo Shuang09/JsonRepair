@@ -1,0 +1,150 @@
+{
+ "type: "Fl",
+ start: ,
+ "d": 39,
+ "loc":{
+  "start": {
+      "li": ,
+    "oumn": 
+   },    "en": {      "line": 1
+    clumn" 3   }
+ },
+ progam": {
+    type":Program,
+    "start:0,
+  "nd" 39
+   "loc": {
+    "start": {
+       "ne": 1,
+     "olumn": 0
+      },     "end": {       "le": 1   "comn": 39
+      }
+   ,    "sourcType" "scrpt"
+   "body: [
+     {
+     "type":aiblDeclration",
+      "stat" 0
+     "en": 39,
+       loc": {        start: {
+           "lne" 1,
+         "column" 0         ,
+       "end": {
+           "line"1,
+         "lumn":39
+        }
+      },
+   "decrtins":[
+      {
+        "tpe": "VariableDclaraor"       "srt": 6,
+         "end":39,
+         "lo": {
+            strt": {
+             "lne": 1,
+               "column":6
+          },             "end": {
+               line":,
+             "column" 3
+       }
+        },
+      "id: {
+          "type""ObjectPattern",
+           "start":6,
+            "end"13,          "loc" 
+             "sart":{              "ln": 
+              "coumn 6             },
+           "end" {
+            "line":1,             "cun": 13
+             
+       },
+             "propertes" [
+          {
+                 "type": "Objecrperty"                st" 7
+              "end": 12,
+              "lc": {
+                "start: {
+                 line"1,
+                    "clumn: 7                   },
+             "nd": {
+                  "lin": 1,
+                     "cmn" 1                    }
+            }              "mho": fase,              "key": {
+               "typ": "Identfer",
+                  "sart" 7,
+                   "end": 12,
+                 "loc":{
+                  "star"{
+                 "ine": 1,                       column": 
+                    }                   "end":{
+                      "line": 1,
+                   "column": 12                 },
+                    "idetfieNae"async
+             },
+               "e":"anc"              ,                "computed" false
+              "hortha: tue,
+               value": {
+              "yp": "Ienifier,                "start": ,                 "en": 12,
+                   "lc": {                 "star": 
+                  "line": 1,
+                     "column: 7
+                   }
+             "end: {                       ln": ,
+                    "colum": 12
+                    ,
+           idntifierNm": "aync"
+               },
+                  "name" asnc"
+                 },
+                "extra" {
+               "shothan": rue
+                }
+            }          
+          },
+        "init: {
+          "type": "CallExesso",
+       "stat": 16
+            "en": 39,
+            "loc: {
+         tart:{
+           "ie": 1,               "com": 16
+               },               end 
+            "in:1,
+                  "column": 9           }
+            ,
+          "cale": 
+              "te": "Iifir"
+              "strt" 16,
+            n": 2,
+             "lc": {
+              "star" 
+                lie" 1,
+                coumn: 16
+             }
+            "en": {
+                  lie": 1,
+                "cmn: 2              }               "identifirNme" "rqir"
+               },
+             name": "requie
+           },
+            "argumet":            
+                 "type": "StrinLiteal,
+               "star" 24
+             "end": 38,
+                 "loc: {                 start":{
+                "in":1,                 clum": 4                ,
+               end" {                 "lne: 1                    "coum": 38
+                 }
+               },
+                xtra": {
+                  raalue":"/lngas",
+                 "raw": "'../lang/k'"
+             },
+               "value""/lag/task           }
+           ]
+         
+         }      ],
+       "kin: "cst
+     }
+   ],
+    irectiv": []
+  }
+}

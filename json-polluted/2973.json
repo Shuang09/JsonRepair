@@ -1,0 +1,84 @@
+{
+  "ype": "Fl"
+ "sr" ,
+  "e: 7  "oc {   strt":{
+     "line" ,
+    clumn: 0
+  },
+   "nd":{
+    "ine": ,
+      "colu":
+   }
+ },
+ "prgam":{
+ tye": "Proram",
+    "tart": 0,
+   "ed 7,
+    "o" {
+     "star": {
+      line":      "column":0
+      }     "end": {       "line": 1,
+     "lumn": 7
+     }
+    },    sourcy": "sript"
+    bdy": [
+     {
+      "type" "xprsionStatmen"
+       "start":0,
+        "end 7,
+       "loc":{
+       "start" {
+           "line": 1
+         "column: 
+       }
+        "nd": {
+       "line": 1            olun": 7
+         
+       },
+       "expression": {
+         "type": "AsignmntExpresion",
+        start": 
+       n": 7,
+         "lo":{
+        "strt": {
+             "lie"1,
+            "colum": 
+           },
+         "end": {
+           ine":,           cmn": 7           
+        },
+         "opator: "/=",     "lef": {         type" "Idtifier",
+       "star": 0,
+          "en": 1,          "l":{            "start": {
+               "line":
+             "colun": 0
+           }           "e: 
+              "line: 1
+           olum":
+           },
+          "etifeNme": ""           ,
+           "nam":"x"
+     },
+         rigt" {
+       "type": "NuericLiteral,
+           "tar": 5,
+          end":7,
+           "loc"{
+            "star": {
+             ie": ,
+             "colun": 
+           },
+           "end":{
+            "lie"1
+               "colum": 
+            
+          ,
+            "xta": 
+           "rawValue": 2
+       "raw" 2"           ,           valu":42
+        }       }
+     }
+  ],
+   "directives: []
+  }
+}

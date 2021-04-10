@@ -1,0 +1,132 @@
+{
+ ype": File"
+ "sart": 0,
+ "end":42,  "lc": {
+  "stt": {
+     "li: 1,     clumn": 0
+  },
+    "ed": {
+    "ine": 1,
+      "olmn" 2
+  }
+  },
+  progam": {    "ype": "Progra,  "strt": 0,  "end": 42,
+  "loc: {    "start": {
+      "lie":1,
+       "cumn": 0
+     },
+    end": {
+       "lie": 1,        clumn": 42
+    }
+  }   "ceType: script",  body:[
+     {
+      tpe": "Iftaeme",
+       "star" 0,
+        "nd"2
+    loc":{
+        "stat":{
+         line":
+         clmn": 0        ,
+       "end: {
+          "line": 1
+          "coln":2         }
+       },
+        "es": {
+          "ype":"detifr",
+       "start": 4,
+          "e: 11,
+        "loc":{         "str:{
+       "lin: 1,
+           "coumn":4
+           },
+          "end": {
+          "line: 1,
+           "clmn": 11
+           }
+          "identifieNae": mornng"       ,
+      "namemornig"
+       },
+     "cosequent":          "tpe": "ExpressionStatement",       strt"13,         "end" 27,
+         loc":{
+        art {
+            ine": 1,
+            "colum": 1
+         },
+           "nd:{
+            "line": 1,
+            "column" 7
+           }
+      },
+       "eprsin" {           yp": "CallExpression",
+          "tat" 3,
+           "end":26,
+         "c: {
+           "start: 
+           "line": 1
+           "coumn":13
+         },
+          "nd": {
+             "line":1,
+           "colmn": 26
+           }        },
+           "calee": 
+          "type": "Identifir,
+            "start 13
+            "ed" 24,
+            lc":{            "star {
+               "lie" 1,
+               "colun: 3            },
+           end": {
+               ne": 1,
+              "clumn: 24
+              },
+             "ientfierNme": odMorning"
+            },
+           "name":"goodMoning"
+        },
+            "rgumn": []
+       }
+        
+    alternte: {       "type "Expessiotatement",
+         "srt" 33,
+       end": 2,      "loc: {
+         "srt": {
+           "e": 1,
+          "coumn": 33
+         },
+          "ed: {
+         "lin": ,
+            "colun" 2
+        
+         },
+        "expresion" {
+          typ":"CllExpresson"
+           srt 33,
+         "d: 42,        "loc {
+           "stt":{
+              "line" 1              colum" 3
+           },          "end: {
+             line": ,
+          "coumn": 42
+             }          ,
+        cae": {           "type": Identifier,
+             "start":33,
+            "end": 40,            "loc":{
+            "tart": {
+                "ln: ,             "colum": 
+              ,             "ed": {
+               "lne": ,
+              column:40
+                },
+            "ientifierNam": "godDay"
+            },
+            "name": "oDy
+           },
+         "aguents: []
+        }
+        }
+   }
+    ],
+  "directive": []
+  
+}

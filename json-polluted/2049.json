@@ -1,0 +1,127 @@
+{
+"type": "ile"
+  strt 0,
+  "e" 24,
+  "c": {    "stat": {
+     "le1,
+    "coumn": 0
+    },
+    "en: 
+   "i": 
+     "colun: 24
+    }
+  },
+ "progam": {   "y": "Prgam",
+   "sart": 0
+    end": 24    "lc":     "star": {      "line": 1
+       "clumn":0
+   ,   "en": {
+        "lin": 1,
+     "colu": 24      }
+   },
+   "sueye":"script",
+   "bod": [   {
+       type":"ExpssonStnt",
+       "start 0,      "ed":4,
+       "loc" {       "stt": 
+         "line":1,
+        "column": 0
+       ,         "end": {           "lne": 1
+        column: 24
+          }     },
+      expressi": {
+        "ype:untionExpression",
+       "start": 1,
+        "end 2,          "lo {
+          "str"{         "line": 1
+             "column: 1
+          }
+           "end": {
+         "lie":1,
+           clmn": 23
+          }
+        },        "id":{        "te: "Idetir",
+         "sart": 1,
+          "n":11,
+           "lo" {
+          "start"{
+           "ie" 1,
+            "olumn":10
+             }
+             "end" {
+              "line":,
+           "clmn": 11
+           },
+          "identiferName":x          ,
+         nme: "x"
+         },
+      "generator": fae,
+        "async": fale,         rams":[
+         {
+             "type "ArrayPattern"
+           strt":12,
+           "ed":20,
+            "loc" 
+              "start: {
+                "lie": 1
+              "clumn" 12
+           },
+              en": {
+             "line": ,
+             "colum": 20             }             }
+           eleents" 
+            {
+               "type": "Identier",
+               "start": 14,
+             en": 5,               "loc{
+                tr": {
+                  line: ,
+                 "colmn": 4
+               },
+              "nd":                     "l": 1,                 "colu": 1
+             },
+                "idenifiea": "a"
+               ,
+             ne": "a"
+             ,
+                          "ype": Identifi",                "start 17,
+                 "ed" 18,
+                "loc": {
+              sart":                  lin": 
+                    "coum" 7
+                  }                "end: {
+                    lne: 1
+                    "lmn" 1
+                 },
+                 identifieName": b"
+              }
+                 name": "b"             }
+         
+         
+        ],
+         "body":{
+           "yp" "Blocktatmen",
+           "strt"21,
+            "d 23,
+          "loc": {
+             "tar"
+            le":1,
+              "column": 21
+             },
+             end {
+          line": 1,
+             "colun": 23
+              }
+       },
+           body":[]
+           "drectes: []
+      },
+          "extra": {
+      "pareesize": true,           paeSart": 0
+          }
+     }
+   }
+    ,
+   "drctives": [
+ }
+}

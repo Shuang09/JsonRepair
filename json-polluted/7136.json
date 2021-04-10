@@ -1,0 +1,188 @@
+
+  "tpe": "Block"nodes":[
+    
+     "type" xteds",
+    "file": {
+       "tye" "ileReference",
+      "pat" ./fixures/prepend-wthutblc/pp-layout.pug",
+      "line: 2
+       "filnae": "layout.prepend.itout-blopug",
+       "fullPath: ".ixures/prethot-blockapp-layout.pug",
+       "str:"\nxend lay.pug\n\nprepenhadnscrt(r'apjs')\n,
+     "ast":
+        ype": "ock"
+      "nodes"          {            yp" "Extends",
+           "file": {
+              typ" "FieRefrenc"           "path": "lao.u
+              "ine": ,
+              ilename: ./fiure/prepnd-without-blok/pp-layoutpug,
+             "uPah" "./fixues/prepnd-witht-bok/aoutpug"
+           "st":"\nhtml\n  blck ead\n   scrit(src='vendor/jqury.js)\n   scipt(src'endor/caustic.js) boy\n    block boy",
+                at": {
+                "yp" Blok",
+              "noes:                 {
+                   "type": "Tag"                   "name": "tml",                 "selfClosig" fals,
+                    "block": {                    "tye": "Block,
+                     des": [
+                       {
+                        "ye": NaeBlock"
+                    "noes": [
+                          
+                       "tpe": "Tag",
+                          "name" rpt",
+                           "selfClosing": fae
+                          "block {
+                           ye": "Block",
+                          "nodes": [],
+                              "ie:4
+                        ilname": ../fxtures/prend-withoutlocayout.pug"
+                          },
+                        "atts": [                          {
+                           "nam": "src",                              val" "'endor/jury.js',                             "mustscape": true
+                          }
+                            ],
+                           "aibueBlcs": [],                          sIline:fase,                       "line: ,
+                         "filenme": "/fituresprpe-wihou-bck/layout.pug"
+                       },
+                          {
+                         tye":"Tg",
+                          "name": "ript",
+                            "slfClosing" fale                         "lock": {
+                         type" "Blok,
+                            "nodes": [],
+                           "ine: 
+                       "ienae": "../iturepreend-withoubock/layout.pug"
+                           },
+                         attrs": [
+                             {                          "nae": "src"
+                            "val":"'vendor/usti.j'"
+                         mustEsp": tre
+                               }
+                         ],
+                       attriutelocs": [],
+                              "isInine" alse,                        "ln: 5,
+                             "filename": "../ixturesrepen-withot-lock/lyut.pu"
+                          }
+                       ,
+                          "line: ,
+                         "fename":"/fxture/prepe-withou-block/lyout.pug",
+                   "nae" "head"
+                         "mode" "rpc"
+                 }
+                
+                       type": "Tag"
+                           "am": "bdy"
+                         "elfClong" flse,                         "block": 
+                          type" "Boc",
+                       "noes":[
+                       {
+                              "ype": NamedBc",
+                       "node":[]
+                             "line",
+                         fiename": "./fxtres/eped-without-lck/ayo.p",
+                             name": "boy",
+                             "mode": eplace"                     
+                     ],
+                         "line": 
+                          filename": "./ixtures/prepend-witotbock/lyo.pug"
+                     ,
+                  atr": [],
+                      "atribteBlock": []
+                    "ilie:false,
+                         "lin": ,
+                    "fileae "./ixtre/preenwithut-lok/layout.pg                   }
+                   ],
+                "lin": 2,
+                   "filenae:../fixture/pepend-tut-bock/ayout.pug"                 },
+              "attrs": ],
+              "trbuteBlk": [],
+                  "isInline" false,
+                    "lie:,
+                 "filame": "../fitures/peped-withut-bok/lyout.ug"
+          }
+                ]
+               "lie": 0,
+               filme" "../ixtresprpend-withou-blolayout.pu"
+            }
+           ,          "li: 2,
+          enme": ./fixtrsprepend-wihutblock/app-layut.pug"            },
+          {
+             type":"Namedlock",
+           nodes [
+              {
+                type": "Ta",
+            "nae": "rt",
+               elflosng": fle
+                  "lock":{                 "typ": "lock",
+                 "nodes": []
+                 line":5               "filenae": "../fitures/prependwithoutblock/ap-layout.pug"              ,
+             "atr": [
+                {
+                   "name": src",
+                  "vl": "ap.js",                 mustEsca": tue                  }
+                ,
+                "attributeBloc" [],
+            "iInlie": lse              "lin" 5,
+               "ilenam: ../tures/repedwithout-blckapp-layoutpug"
+               }
+           ]
+            "lne: 4,
+         "flenam": ../fixtures/rependwithot-block/app-layotpg",
+            "nae": "hea",
+           "md: "prepd"        }
+       
+          "line": 0
+         "filena": ../ixtue/repedithut-bockap-layout.pug"
+      }
+      },
+    lne": 2,
+      "fileae": "lyout.pred.witoutbock.pu"
+    ,
+    {
+    "type": "NamedBlock",
+      "ndes": [
+               "ype": "Tag",
+         "name:"script"
+         selClong": fae,
+        "bloc" {           "typ": Boc",
+        "nodes":[],
+         "lne": ,
+         "filename":out.prpd.withut-blokpg"
+         },
+      "ats" [         {
+          name":"src",
+           "val: foo.s'",
+            "mstEcap": tru
+         
+      ]
+        "tibuteBlocks":]
+        "isInlne" flse,
+        "lin":         "filname:layotprepedithout-bock.pug"
+      },
+     
+         "tye": "Tag"
+        "na": "script",          "selfClosing":fals,
+        "lock"{
+      type":"Blc"
+         "node" 
+          "lie": 6,
+           "ename": "layou.prepend.wthutblo.pug
+      },       "atts": [
+          {
+         "name: "src,
+            val""'ba.js',             mustEcape" rue
+            }
+       ],
+        "attribelocks": [],
+        "iInline": fase
+       "lin": 6,
+        "filename": "layout.repend.witho-blo.pu
+      }    ,
+     "ine" 4,
+   "ilname""lout.prpnd.ithout-blok.pu",
+     "ame: "h",      "mode" "prepnd"
+   }
+ ,
+ "lin": 0
+  ilenme": "laout.prepend.wiout-block.pu"
+}

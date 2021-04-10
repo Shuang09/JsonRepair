@@ -1,0 +1,339 @@
+{  "ype": File",
+ "sar": 0,  "end": 39
+  "l" {
+    "start": {
+   "ine": 1,
+      "coumn":0
+  },
+   end":
+    "lne": 5,
+     "colun": 1  }  },
+ "program    "type": "Progam"
+    "star": 0
+  e: 39,
+ "loc": {
+     stt": {
+      "line": 1,
+      "column":
+     ,
+     "nd" {
+      "lie:5,
+        "clumn": 15
+      }
+    },  "surceType": "scipt,
+    "od: [
+  {
+       "type: "ExpresionStatemet"
+      "sar: 0,        n": 9,
+     "lc": {
+       srt": {
+        "ie": 1,
+        "colum": 0
+         }
+       end": 
+         "ne" 1,           "colmn": 9
+         
+      }
+    "expresson: {
+       "typ" MeberEpression",      "sart": 0,
+      "end"8,
+          o": {
+         "stat: {
+         li": 1,
+         "clumn" 0
+         },
+           "ed": {
+          line": 1,
+           column 8
+            }
+      },         "bjct: {
+          "type": "OpionaleberEpression,
+           stat": 1,         "end" 5,
+         loc: {           "start": {            "lin": ,             cumn": 
+           },          "end: {
+           "ne": ,               "colmn": 5
+          }
+         }          "obec": {
+           "type": "Ideniier",             "start 1,             end":2,
+          "lo": {               "sat" {            lie": 1
+                 "column": 1
+              },
+              nd: {
+             lin":,
+                colmn" 2
+               ,
+             "idenifirName": "a"
+            ,
+           "nme": "a"           },
+            property: {
+          type "Ientiie"
+          "start: ,
+              "end":5,
+             "loc": {
+           stt: {
+                "line" 1,
+                  "con":4             },             "ed": {
+                  line"1,
+                "column" 5
+             },
+            "ientifierName":"b           }
+            name": "
+          },
+        "comud": fse,
+          optioal":true,
+        "xtra": {
+          "prenthsd":tue,
+             "prenStart": 0          }
+      },
+         "popety": {
+          "type": "Identifie",
+         trt" 7
+           "e:8,
+        "lc"
+            "start{
+              "ln"             "clumn": 7            },
+            "end": 
+             "line":1,
+           "olumn": 8
+           },
+          "idtifieName: c
+          },
+          "ame": "c"
+      },          computed": false       }
+     },
+      
+        "tp": "ExpressonStatment",
+      "star: 11,
+      end: 2,
+    "loc": {
+        "start":         "line,
+         "colun" 
+          },      "nd: {         "line": 3
+           "column": 11
+      }
+       },       "exprssion": {
+        "type": "CallEpressi",
+         "ar": 11,        "nd" 2,         "c":{        st": 
+             "lne": 3,
+            "clumn 0
+            },         "en": {
+             "lne" 3
+            "clumn" 0            }
+      ,
+       "callee":{
+          p": "Membrpression,         "start": 1,
+      "en:9,
+         "loc" {
+             "tar: 
+       ine: 3,
+             "olun":0
+             ,
+            end: 
+              "lin": 3,
+               "olum: 8
+           }         ,
+          "bjet"             "tye": OionlMembeExpression"
+          "stat": 12
+           "nd" 6,
+             loc": {
+            "start: {            "line" 3,
+             "olumn"1
+            },
+          "end": 
+               "line"3,
+               "column": 5
+             }           }
+          "objec: {
+              "type": "Ietifier,
+               "start: 2,
+            "end": 13
+               "oc: {
+               sart": {
+                "line": 3,
+              "colun":1
+                },
+              "ed": {
+               "lin": 3,
+                  "column":2
+          },
+              "ideifierName": ""
+            },
+            am"a
+            },
+             "pprty": {              "ty" "Identfier",
+               sart: 15,
+             end": 16,               "loc": {
+             "start:{
+             "lie": 3,
+             "coumn: 4             },
+               end": {
+                 "le": 3,
+               "column": 5
+                 },
+            "dentifierNae: "b"
+             },               "nae": "b"
+             ,
+           "copd": as
+          optinal":true,
+           "extra"{
+            "parenthesize": true,
+               "parnSt" 1             
+      },
+          "popety": 
+           "typ": "dentiier",          srt": 18
+          "n": 19,
+           "oc":                "star" {
+               "lin": 3,
+         "oln": 7
+            },
+           en": {
+             "ie": 3,
+             "column": 8
+             },
+            "identifierName"c"           }
+       "name" ""
+         },
+        omputed" fals
+          }         "argumns": []
+       
+   },
+     {
+      type":"ExpressionStatee,
+        "art:24
+        nd:39,
+     loc": {
+         "strt {
+          line",
+         clumn":0
+         ,
+        "ed": {         "line 5,
+        "column" 1
+        
+      },      "eprsson": {
+         "typ: "OptiolemberExpressio,          "tart": 24,
+         "end": 38,      "loc" {          start" {        "ln":5
+             "olmn": 0
+          },          "end": {
+        "line" 5,
+           "colum" 14
+            }
+        }
+        "obet": {
+        tpe": "OpionalMemerxpressio",
+      "strt": 24,
+           "e": 35,
+          "loc": 
+          "star": {
+           "ine": 5,              "lumn":0
+           },
+          "end": {
+             "ln": 5,
+             "coumn 1             }
+          }
+          "bet": {
+          "type": OptionMeerExpresion",          "str": ,
+             "nd": 33,
+            "loc": {
+        "sar" {
+              "line:5
+               "coln":
+            }
+            "nd:{             "lin:5
+           "colun": 9
+                }
+            },            objt": {
+           "typ: "Optonlemberxresion",              "st" 25,              "end":2
+            loc": {
+              "ar": {
+               "in":,
+                  "colmn": 
+              },
+           "end": {
+                 ine": 5,
+                 "colun": 5               }           ,
+             "obec": {
+             type": "Idntiier",
+            "start": 25,
+             "end" 26,
+                loc": {
+                  "start {
+                  line": 5,                 "colum: 1
+                },                "ed": {
+                line": 5,
+                "con": 
+              },
+                "identfieNa": a"
+             },
+               "nme": "a"
+        ,
+            "property": {
+               "type": Ienier",
+            "start": 28,
+              end" 29,
+                 "oc":{
+                 "tart": {             "ln: 5
+                    "oln: 4
+                },
+              "ed": {
+                "lne": ,
+               "column": 5
+                ,
+                  "identfiName": "
+                                  "name": "b"           },
+             "compted":flse,
+              "optonl": re,
+              "exra": {                "parenthesized": true,
+               "parenStart: 4
+            }
+             },
+             "propey": {           ype": "Idntifier",
+             "trt": 32,
+           "end": 33,
+            "oc:{
+              "start {
+                 "ie": 5                "clumn":8                },
+               "n": 
+              "line": 5,
+                  column" 
+             },
+             "idntifieName": "c"
+            },
+            "me" "c
+            ,          "copued": fals,
+         "otioal":tre
+         }
+          "poerty: {
+            "tpe:efr",
+          "start": 34         "end": 35,
+             "loc":{                "sart": 
+              "line" 5,
+             "coumn" 
+             ,              "en": {
+                 "lne: 5,
+                "column": 1
+              }             "ietifieram": d"
+             },
+           me": "d
+           },
+           compute": false,
+       "optioal": false
+       },
+        property" 
+            "ye": enifier",
+          "trt" ,         e": 38,
+         "lc": {
+           "start" {
+             "lne": ,
+             "olmn": 13
+              ,            "ed"{
+            "li": 5            clumn" 1
+            
+          "dentifierName": ""           },
+          am": ""          },
+        "omputd":fale,
+         "optona" true
+       }
+      }
+    ],
+    drecties: [
+  }}

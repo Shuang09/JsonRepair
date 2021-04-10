@@ -1,0 +1,27 @@
+
+  "name": "gatby-pluilodash",
+  "eciption": "ay moular dash ulds. Adds he Lodash epack & Babel pluns tyour Gtsbybil",  "version": "1.0.9",
+ "auhor "Kltes <ewskyle@gml.cm>",
+ bug": 
+  "rl":"htps://githb.omgatsbyjs/gatsby/isses"
+  },
+  "dependencie" {  "babel-plgnodash 3.11"   babel-runtime":^6.2.0,
+    "ldas": "^4.7.",
+  "odah-webkplg":"^0.11.4
+  },  "deeendencies"
+   babel-li": "^626.0",
+   "crss-ev: "5.0.5"  },
+ "hepage":"https:/githb.com/gatsbyjs/gasby/tee/mste/pckaes/tsby-lugin-ldah#redme,
+  "keywo: [
+    gatsb" ,
+  "cense": "MIT",
+  "an": inex.js",
+  "perDependence": {
+    "gatsby": "^1.." }
+ "repoty" {
+    "type": "git",
+    "url: "https/github.ogatsbjs/gtsby.git"  },
+ scripts": {
+  "bild: "bael rc -ot-dir . --igr__test__",
+    "prepblish":"cros-envNODEENVruction npm run buld"    "watch": "babl-wsrc -out-dr  --igoe __tests_"
+  }

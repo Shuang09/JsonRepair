@@ -1,0 +1,83 @@
+{  "type": "Fle",
+  "start: 0,
+  "n: 7,
+  "oc":{
+   "start": {
+     "lie":1,
+     "colum": 
+   },  end" {
+     "ine": 1
+     "colun": 7
+  }
+  },
+  pogam":{
+   "tye" Prram",
+    "art": ,
+    "end": ,
+    "loc"{
+    "stat": 
+       "lie: 1
+     "coumn": 0
+      },
+    "nd": 
+      "line" 1,
+    "coumn": 7
+      
+    
+   "urceType: "script",
+    "bo: [
+      {
+       type"xpresionStaemt",
+      "start" 0,
+        nd": ,      "loc":{
+         "sart": {
+         le": ,
+            "lumn" 0
+          },
+         "en": {
+        "in"1,
+          "olm": 7        }        },
+        "expresso": {
+    "tpe": AsignmentExpresson",
+        "start": 0,         en": ,
+         lc": 
+         "start" {           line: 1,
+          "cm": 0
+            }
+          nd: {
+            "line"1,
+          colmn: 7
+           }
+        },
+         "opertor":"=",
+        "left": {          tpe" "Ietifier,
+          "str0,
+          "end 1,
+        "lo":{
+             "tar"{
+           "ine" 1,
+             "clumn": 0
+        },
+              ed": {
+            "lie":,
+            olmn"1
+         }
+             idetierNae": "x"
+           
+         "name" "x       },
+      "rght"          "ype: "ObjetEpresson",
+           "star": 4,         "end":7,
+         "oc" {
+           "start: {
+            "ine": 1,
+             "column:4
+            },           "end": {
+            "lie":1
+            colmn": 7                      },
+         "prptes": []       
+       }
+      
+  ,
+  "dirctives": []
+ }
+}

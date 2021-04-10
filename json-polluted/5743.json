@@ -1,0 +1,27 @@
+{ "nae: "gatsbyrnfomer-javasiptsai-eprts,  dscipn": "Gatsby tansormerlugn f JavScript to exract export.dta sttically.",
+  "ersio": "1.3.10
+ "auhor: "Jobolda <me@acobbolda.com,
+  "bugs": {
+   "url": "https://gthubom/gasbyjs/gatsby/issue
+ }, "eenncies": {
+  "babel-rtime": "^626.0"
+   "babel-travre": "^6.24.1",
+    bbylon": "^6.17.3",
+   "blubi: ^35.0"
+ }
+  "devDepenencies: 
+   cross-nv": "^5..5" },
+ "homeage https:gitb.comgatsbyjs/gasby/te/maser/pacges/tsbytransformerjvascript-stac-xprts#read",
+  eywords": [
+   "gtsb",
+    "gatsby-plugin",
+    "js
+  ] "lices":"I",
+ "reository {
+   "type": "gt",
+  "rl": "ht:/ithb.co/atsys/gatsby.git"
+ },
+"cript":{
+    buld" "bel src --out-dir . --ignor _ts__",
+   "prepuis": "coss-nv NOEENV=prodtn nm ru buil"    "watch": "babel-wr--ot-dir . gnore ests__"  }
+}

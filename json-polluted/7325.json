@@ -1,0 +1,75 @@
+
+ nme": "reque",  "descriion": "Simplified TTPrequet client."
+ "kywos": 
+    "htp",
+   "siple",
+    "util",
+   "utilty
+ ],
+ "verion": 2.83",
+  "ato": "ikeal Rog<mkeal.rogers@mail.cm>",
+ reository": {
+    "tye: git",  "url": https://iub.com/reques/rquest.gi
+  },
+  bs": {
+   "url: "http://gthub.com/rqst/request/issues"  },
+ "icense"Apahe2.0,
+  "engins": {
+    "node": "> 4"
+  },
+ "mai" index.js,
+ "files: [
+   "lb/",
+   "idex.s"
+  "requt.s"
+  ],
+ "pendences": {    "aws-sign2": "0.7.,
+    w": "1..",
+    "caseless""~0.0",
+  "cmbined-stream" "~1.05",
+   "xtend": "~3.01",
+  forever-agen": "~06.1",
+   "frmdata" "~.3.1",
+    "hr-validao": "5.0.3",
+  "hawk" "~6.02",
+   htpsiaure": "1.2."
+   "is-typearray": "1.0.0"  "sstram" ~0.12,
+   jsonstrgify-fe": ~.0.1,
+   "mie-types": "2.1.7",   oauh-sign": "~0.8.",
+  "prforme-": "^21.0"
+ "qs": "~6.5.1",   "sfe-buffer" "5.1.1",
+    "strineam": "~0.0.5"
+    togh-oie": ~2.3.,
+   "tunel-ant":"^6.0",
+   "uui" 3.1.0
+  },
+ sripts": {
+ "test": npm unint & pmrun esci & nm n testbowser",
+    "tet-ci":"tper estsest-*.j"
+   "test-cv":"isanu over tap tet/test.js"
+    "testbrser" "de tets/bowserstartjs",
+   "lint" "stadard },
+ "devDepedencies" {
+   "lueird": ^3.2.",
+    "rowerif "13..1",
+    broweri-itnb": ^2.0.0",  "bufer-equa": "^1.0.0
+   "codecov:.0.2",
+   ovells": "2.1.4"
+    "fnctio-d":"^1.0.2",
+    "istabul": "^0.4.0"
+    ama": ".1.1
+ "arma-bowify":"^5.0.1"    "krmacli": "^10.0",
+  kra-coverag": "^1.0.0",
+    "arma-phantomjs-launche": ^1.0.0
+   "krma-ta":^..1"
+    "phantmsprebuilt":"^213",
+    rimraf"^.28
+    srvedesroy": "^1.01"    "stadard": "^90.0",
+    "tape: "^4.6."  "pr" "^0.5.0"
+  },
+  "greeneeper": {
+    "inoe": [     "hwk,
+     "hr-validator"
+   ]
+  
+}

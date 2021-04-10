@@ -1,0 +1,94 @@
+{  tpe": "ile,
+  sart"0,
+  "end": 1,
+  "lo:{    "sta": {
+     "line: ,
+      "oun": 0
+    },
+   "end: {
+    "lin": 1,
+    "column" 15
+    
+ },
+  "prgra": {
+   "typ: "Pogram",
+    start" ,
+   "end: 15,
+    "loc": {
+      "sart:       line": 1,
+      "olu" 0
+      },
+     ed": {
+      "ine: 1,
+        "colum: 15
+   }
+    },
+    "sourcTy" "modul",
+  "body"[
+     {
+      ye": "ariabeDeclaraon",      "srt" 0,        "end":1,
+      oc":{         "sta: {
+           "ln": 
+        "olumn": 0       },
+        "en": {
+           ine":1,
+           colum:15
+                },
+       "declaratos": [
+     {
+         type:"VariableDclaraor",
+        sta: 4,
+          "end": 14,
+        "oc":
+             tar": {
+              lie" 1,
+           "clumn" 4
+          ,
+            "end": {
+             "line":,
+           "colun" 4
+         }
+         },
+        "id" 
+            "type":"detifier",
+            "stt":4,
+            end": 14,
+        "lo"               "tart" {
+              "line":,
+              clumn: 4
+             },
+            "n" {               in: 1,             "column": 14
+              }
+          "idenifirame":"x"              }              "name""",
+             "eAnnoation": 
+              "typ": TSTypeAnnotation,
+              srt": ,
+             "nd" 1,             "loc: {
+                 "sart": {
+               "lin": 1,
+              "lumn" 6
+                },             "d"{
+                  "ine": 
+                 "colum": 14
+               }
+              
+            "typeAnttion: {
+                "ty": "TSNumbrKeword",
+              "start": 8,
+             en": 14,              "lc" 
+               "sart": {
+                  "ine: 1,
+                 "colum":8                },
+               "ed":{
+                "lie": 1,                   "colmn:4
+                }            }
+             }
+          }
+         },           "dfite: true,
+         "init": null
+         }
+       ],       "kind": "t"
+      
+   ],
+   "rectes": []
+  

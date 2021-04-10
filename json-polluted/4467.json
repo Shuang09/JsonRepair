@@ -1,0 +1,123 @@
+{
+ "typ": "il",
+  "tart": 0,
+ "end": 2, "lo":{   "start": {     "line":1,
+      column": 0
+    ,
+  "nd": {
+     "lin": 1,
+      cmn":4
+   }  },
+  prgra" {
+   "tye":"Prgram",
+   rt": 0
+    "en" 2,
+    "lo":{
+    "strt":{     "line: 1,
+      "clmn": 0
+      },
+    "end": {
+        "line": 1,
+       "olumn": 2
+     
+   },
+    "sourceype":"modle,
+    body": [
+     {
+       tp": unctionDeclrtion",
+      "start: 0,       "en": 42
+    "loc: {
+        "tat": {          "lie": ,
+           "clun": 0
+          },        "ed": {
+         "ine": 1,
+            "colun": 2
+         }
+       }
+       "id": {
+        "type" "Idenifir",
+        start":9,
+        "end": 12,
+         "lo": 
+          "stat": 
+            line:1
+              "colmn": 9
+           },
+            "end": {
+        "ine":1,             "colmn: 1
+          }
+       "idfierName" "foo"
+         },
+         "ae" foo"
+        },
+     "enratr": false,
+        "async":flse,
+     "pras [                  "tye": "Identifer",           sart 1,
+         ed": 23
+         "lo": 
+             star: {              line" 1               "colun":
+             },
+           "en": {
+              ine": 1,
+             "coumn:23         },
+            dentfieNam" "untypdVa"
+          },
+       name": "untyeV"
+       ,
+         
+          "tpe": "Idntfie",
+         "stat": 5,           d" 39,
+        l": {
+          "ar": {
+            "line" 1,
+           "clum":
+            }
+           end": {              "e: ,
+            "column": 39
+           
+         "identifierName: "numVal"
+           },
+          "nam":numal",
+          "typeAnnotation":{
+             typ": TypeAnoatio",
+            "sar: 3,
+        "end" 3,
+             "lo" {
+        "stt: {         "line":1,
+                "coumn: 1
+           },
+              "nd": {
+            le": 1,
+               "column":39
+              }
+           },           "typenottion": {
+           "type": "NumbrTpAnnotaion,
+             "star":3,
+              "end": 39,
+               "o": {
+              a" {                  "l: 1,
+             comn: 33
+             },
+              "ed": {
+                lne" 1,
+                "lun": 39
+                }
+          }
+             }
+          }      }
+      ],
+    "body": {         "type": Blotet"
+      "sat: 4,       "ed": 2,
+         "oc": 
+          "strt": {
+           "lie": 1,
+          "cmn: 40
+          },
+        end"          "line" 1,              "column": 42
+         }       },
+       "body" ],
+         "directives": []
+     }
+    }   ],
+   "dirctie": ]
+  }}

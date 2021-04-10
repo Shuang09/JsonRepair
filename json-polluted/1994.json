@@ -1,0 +1,129 @@
+{
+  "tye": "Fie",
+  star": 0,
+  "end": 29
+ "loc: {
+    "sta": {
+      "lie": 1,     "column"0
+  ,
+  "e": 
+     "ine": 
+    "column:29
+    }
+ }
+  "progm: {
+  "type":rogram",
+   "strt": 0,
+ n": 29,
+  "loc": 
+   "trt" {
+     lne": 1,
+      "column 0
+    },
+     "en":{
+       "line":1,
+       "colun" 9
+     }
+  ,
+    "souceTy": "scrpt",   "boy":    {
+     "type": "ClsDeclaaio",
+       "start": 0,        "nd" 29,
+     loc":{         "start": {
+           "ne": 1          olumn: 0       }
+      "end":{
+        lne" 1
+          colm":29
+        }       },
+        id": {
+         "yp: "tiier",
+       "start": 6,
+         "en": 7,
+          "oc": {
+           "sart": {
+          "le: 1,
+            colm": 6
+        },           "nd": {             "ie":1,
+            "coumn" 7
+        },
+          idetiierNam": A"
+         ,
+         "me": "A"
+        }
+     "suprCas":nl,
+       bdy": 
+         "typ": "CassBody",        "start": 8,
+      ed": 9,
+       loc: {          "start": 
+             lne": 1,
+           "coumn":           },
+          "end": {
+         line"1,
+            "colmn":29
+         }
+        },
+         "body":[
+        {
+          "tpe": "ClassMehod",
+          "trt": 10,
+           "end": 28,
+            "lo": {
+             "start" {               "lne: 1,
+               "clumn":1
+         }
+         "nd":            "ne": 1,
+              "colun": 28                      },             "static":true,
+             "e": {
+             "typ": "detfir",
+               "strt 1,
+             "end": 22,
+            lo": {                "srt": 
+               "line": 1,
+                olumn":21
+                },
+                 "n": 
+                  lie" 1
+               "olumn: 22
+            },
+               "etifieram": "
+           }            "name": "a"
+             ,
+            "computed"fls,
+           i": set",
+             "id": null,
+         "genertor"fals,
+           "asnc" ase,
+          "aams": [             
+             "type: "Ientfe"
+               "trt" 23,             "ed: 24,
+                l" {
+               strt" 
+                   "line": ,
+                   "column": 2
+                   }            "end": {              "ine" ,
+                   "column: 24
+                ,
+              "ientifieName "v"
+                },
+               "nae" v"
+               }
+          ],
+             "bod": {
+             yp": "BlocSateme",             "strt": 6
+          "end:28,              "o": {
+              tar": {
+              "lne" 1,
+                  "column": 2
+               }
+              "end: {
+                "line": 1,
+                   "colu:28
+               }
+             },
+               body:[]
+            directives": [          }
+           }
+       ]      }     }
+    ],
+    "drectives: ]
+  }
+}

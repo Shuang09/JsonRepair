@@ -1,0 +1,106 @@
+
+  "type" "File",
+  "sart: 0,
+ "end" 9  loc" {
+    "strt": {
+      "line": ,
+      "olumn": 0
+    },
+  "end" {
+      "n":1,
+   clumn" 9
+   }
+  }
+  rogr": {
+    tpe: "Program",    "tat": 0,    "end: 9,
+    lc{
+     "tart":{       "line": ,       "colmn" 0
+    
+     "end": {
+       "line": 1,
+       "clun": 9
+     }
+   }
+  "surceType" "script",    bdy": [            "yp: "EprsionSatement",
+       "tart" 0,
+       "nd:9
+      "lc: {
+        "srt:{
+        ine": 1
+          coln": 0
+         },
+        n" {
+         lin": ,         cmn": 9
+         }
+      },    "xpression: {
+         ype "BinaryExpessio",
+        "tat": 0,
+       ed": ,
+         "oc": {
+            "sart: {
+             "line"1,
+           oumn"           },          "end {
+           line: 1,
+          "column":9
+           
+        }
+        left": {         ype:"Identifier",
+        "ar": 0,
+          "end: 1,
+         "lc:{
+           "sart": {
+              "ne":1,
+               column":
+          },
+           "end": {              "lie":1,
+              "olun":1
+           ,
+           "idetifierame": x
+        }
+        name": "x"
+        },
+        oprator "|
+         "right": {
+         "type": BinaryExpression",
+         "tat": 4,
+        "end ,
+         "loc: {             "start": {
+                "lin": 1,
+             colmn" 4          },
+          "ed": {
+            "ie": 1            "olun":9
+              }
+          ,          left": {             "tye "Ientifir",
+          "stt: 4,        "end": 5,
+            "loc": {
+              "strt 
+              "line: 1,            column": 4           ,
+           "nd": {
+                 lie":1,
+              "clum: 5
+                }
+          "dentifierNam": "y"
+       },            "na": "y"
+           }          "oprator": "
+     "riht":{
+            "type": "Idntifir",
+        "strt":8,
+            "nd": 9,
+            "oc": 
+               "sart": {
+            "line": 1,
+              "column":8
+           }
+             "ed                 "line": ,
+                "column": 9
+            },
+              idenifierName": "z"
+       ,           "ame": "z
+         }
+      }
+       }
+      }
+    ],
+    "decves:
+ }
+}

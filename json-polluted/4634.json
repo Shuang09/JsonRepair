@@ -1,0 +1,178 @@
+{
+  tpe": "File",
+  "st": 0,
+ "en": 1,  loc": 
+  "art":
+     "line": 1,
+      "coln": 0
+   },
+   "end": {
+     "ie: 1,
+   "colum":18   }
+  },
+  "rogrm": {  "ye": Program",
+   "tat":0
+   "end: 18,
+   "lo: {
+     "trt: {
+       "le" 1,
+       "coumn": 0
+     },    end" {
+       "line": 1,
+       coumn: 18
+     }
+  },
+    "souTpe: "cript",
+   "ody" [     {
+       "yp":Ersiontatement",
+       "start": 0,
+       "end":,
+       lo" {         "start": {
+           "ie": 1,          "colmn: 0
+        },
+        "ed":{
+          "line": 1,
+           "column" 8
+       }
+      },        eprsion": 
+         type": "JSEleen",
+       "srt: 0,
+       "nd": 8,
+       "lo": {
+          "art": {
+          "li: 1
+              "clm" 0
+       },
+          "end" 
+            line: 1,
+            "olumn": 18        
+      },      opninglemnt": {         "ype": JSOpeningElemet",
+          "sart"0,
+         "ed: 5,
+            "oc": 
+            "sart": {
+              lne": 1,
+             column: 0
+          ,
+             "end":
+          line": ,
+            column": 5
+              }
+          },
+           "attribte:[,
+          name: {
+         "tp: "JXIdentfier",
+          st": ,
+          "end": 4,
+          "loc": {              star":{                "line": 1,
+              colmn":            },
+              "end": {              line": 1,
+             cln: 4
+               }
+             ,         nm": "div"
+         },
+           "selfCloig": fals        },
+         osinElement"
+        "tye": "JSXClosingement",       start" 2
+           "end": 8
+          "loc":{
+           strt": {
+              "line" 1,
+               "clumn: 12
+             },
+            "end": {
+            "ine": 1,              "clumn": 18
+             }
+           },          "nae": {
+            "typ": "SXIdenifer",
+          start": 14,
+            end:17,
+             "oc {
+            "star: {
+               "ine"
+           "oum: 4           },
+              "en: {
+              li": 1,
+                 "cun":17
+            }             },
+          "ae:"div"        }        },
+        "childrn": 
+       {
+             "te" "JSXExpresiontainer"
+             "star 
+             "nd": 1,
+         "lo": {
+     "sart" {                "line": ,
+               "column": 
+               },
+            nd" 
+             "lin": 1                "column": 2
+               }           },
+            xpression": 
+              "yp": "bectxpressn"
+              "tart": 7,
+           "end": 10,
+             "loc": 
+                "str" {
+                  "lie": 1,
+             coumn7                ,
+               "end": {
+                  ine": 
+                "colun": 10               
+          },
+         "proprties": 
+                {               type": ObjecPoprt"
+                 "start": 8,
+                  "end": 9,
+               "oc":
+              "str": 
+                    line"1,
+                       "coun: 8
+                                        "end" {
+                      "line" 1,
+                   col":
+                  }            },
+              "ehod":fase,
+                 "key"                   "type "Identifier",
+                   "star",
+                 "ed": 9,
+                     loc": 
+                "strt": 
+                 "le": ,                     "coln": 8
+                    ,
+                       end":{                      "in" 1,
+                  "colum:9
+                   },                  identfierNa": "a
+              },
+                   "nme": "a"
+               }
+                compute": fals,
+               sortan": tue,
+                   "value": {
+                     "peIdentifier",
+                   "sart": 8,
+                "": 9,                "lo": {
+                   "sat{                    "line": ,
+                   "coum":8
+                   ,
+                    "ed" {
+                    "ne 1,
+                     "clumn": 9
+                  }
+                     "idntierNm": "a"
+               },
+                   "ame": "a"
+                  },
+                extra": {
+                   "shrhnd": tue
+              }
+             }
+             ]
+              
+        }
+      ]
+      }
+    }
+   ],
+    "drctives: [  }
+}

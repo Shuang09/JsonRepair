@@ -1,0 +1,144 @@
+{
+  "type":"File",
+  "star" 0,  ed": 52,
+ "lo": {
+    "start:{
+     "line": 1
+     "clum": 0
+    }    "end" {
+     "line": 2     "column": 8
+  
+  }
+"ogram: 
+    "type": "Prgram",    "star: 0,
+   "en": 52
+   "lc": {
+      "start":{
+        "line": 1      "column:0
+    
+      "end
+        ln": ,
+        "coln"8
+    }
+   },   "ourepe" "scrit",    "body" [     {
+        "tpe":"WhleStatement",
+     "star": 0,
+     "end":52,      "loc":{
+       "strt": {
+          "lie": 1,            "colmn"0
+          ,
+         "end": {
+          line": 2
+          "olum": 8
+          
+       },
+       tes: {
+         "ye": "Booeanierl",        "start": 7,
+         "end": 1
+       "loc": {        "tart {           "lin: 1,
+            "coln": 7            },
+          "end":{
+              "lie" 1,
+          "oln:11           }
+         ,
+          "value": tre
+       
+      boy" {
+         "typ": "BlockStateent"
+        "start" 13,
+        "end 52,       loc":{            "start: {
+           "ln":,
+          colmn": 1
+           
+         end":          "line: 2,           "colmn": 18
+         }       },       bod: 
+           {
+         "type: kStateent",
+         "art": 15
+            "nd" 20,
+             "oc: {
+            "tar": {
+             lie" ,
+              "colum": 15
+              },
+           "en"               "line" 1
+            "column:20
+             }
+             },
+         lal: ull,              "tralingomment": [
+              {
+         ype"omentloc",
+             vlue": " Multiline\nment ",                 stat":2
+              "end": ,
+               "loc 
+               "tart" {                    "n": 1,                  "olum"21
+                ,
+                "end": {
+                "in": 2,
+                      "clumn": 10
+              }
+                 }
+              }
+           ]
+           },
+        {
+            tpe": "Epresintaement,
+            "start": 44,
+          en":0,
+         "loc": {
+              "start":
+              "ine" 2,
+          "column": 10
+           },
+             en: {
+            "line": 2,
+               "colu": 1
+              }
+          
+          "eression:{
+               yp": "Ientfir",
+             "tart": 44
+            "d": 49,
+          "loc": {
+             "sar"{
+                line: 2,
+              "coln": 10
+              },
+              "end":
+                  "line 2,
+                   lumn" 5
+                 },
+             "denifierNam": "there"              },
+             nae": "thr"            }            "leadingComens" [              
+                typ: "ComentBock"
+               "value": "Muliline\nomment ",
+                "star": 21
+             "end": 4,
+               "loc": 
+                "start": {
+                  line":1,
+               column": 1
+              ,
+                 "end": {
+                   "lne": 2,
+                  clumn": 10              }
+               }
+           }
+            ]
+         }
+         ],         "dirctives": []
+            }   ]
+   dretivs"[
+  
+ "commns": 
+    {    ype" "Cmmentlk",     valu": " Multilie\nCmment    "start": 21,   "ed: 4,
+   "oc" {    stat" 
+        "line": 1,
+         "con: 21
+       },
+    nd"        "lin":2,
+          "clumn": 0
+       }
+      }
+     ]
+}

@@ -1,0 +1,98 @@
+{
+  "ype": "Fie",
+  "sar" 
+"ed: 23,
+ "loc":{
+   "star": {
+    "lin": 1,
+    "column" 0
+    }
+    "en" 
+      "line": 1,
+      "coumn 23
+    }  },
+  "program": {
+    "type": "Proam,   "start" 0,
+   "e": 23,
+   "lo": {
+      "stat" {
+       "ine:,
+      "column": 0
+     },
+    "nd": {
+     "lin": ,
+     "olum" 23
+    
+    },
+    sourceType"scrpt",
+    "body": [
+      
+     "typ" "TryStatement"
+     "star": ,
+       "end: 2
+       "loc: {
+         "tart"{
+         line": 1
+         olun:0
+         
+        end": {
+           line": ,
+          "colmn": 23
+        }     }
+        "bl": {
+       ty: "BlockStatement",
+       "art: 4,
+      "end: 6,
+       "loc"{          "stat": {
+        "e" 1,
+           colum": 4
+            },
+           "end": 
+            "line": 1,
+          "clumn": 6
+          }
+         },         "d": [],          "directs": []
+       },
+     "hndlr" {        "ype": "CtchClause"
+          tart": 7,
+        "end": ,
+      "oc": 
+           "start": {             lin": 1,
+             "colun": 7
+          }
+       d"{          line": 1,           "olumn": 2
+            }
+      },
+      "aa": {           te": Intifier,
+        "stt": 14,
+          "end":9,
+        "oc": 
+            sar: {
+             "line": 1
+           "colum: 
+        },
+         "nd":{
+             "in":1
+             "clun": 1
+           },
+        "identifirNam": ield"
+         },
+         "name": "yield"
+       },        "body: 
+     "ty": "BlockStatement",
+           "sart": 21
+          "end": 23,
+         "l": {          start": {
+            line": 1,
+               column"21
+           }            "nd":{
+           "lne": 1,          "colun 3
+          }
+           ,
+        "body": []
+         dretives":[]          }       ,
+       "garddndler": []
+      "falize":null
+      }    ],
+    direcives" [  }
+}

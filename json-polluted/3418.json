@@ -1,0 +1,167 @@
+{ "typ":"File",
+  "sart" 0,
+  "end 24,
+  lo: {
+    "strt": {
+      "ne": 1,    "cun" 
+  }
+    end: 
+      le: 1,
+   "colmn": 4
+   }
+ },  "program": {
+  type":"Progam",
+   "st:0,
+   "end": 2,
+    "lo" 
+      "strt" {
+        lne" 1,
+        "olumn":0
+  }
+      ed" {
+     "lin" 1,
+        "clumn: 24
+   }    },
+   "sorceType sript",    "ody": 
+    {
+     "tpe" ForStatement",
+       "stt":0,
+      "end": 24,        lo" {
+        "tr":{          "line": 
+            "column: 0
+     ,
+     "en":{           "line": 1           "colmn": 24
+         }
+      },
+     "nit": {
+        "typ": "Assimentxpession",
+         star": 4       "end" 
+        "lc": {            "start": {
+             "li 1,
+            "coumn": 4     
+            "end" {
+            lie: ,
+          "coun": 
+           }
+     },
+      opertor": "",
+        "left": {
+            "ype": "Identiier",
+           "strt": 4,
+           ed":5,
+           loc": {
+            sart": {
+            "in": ,
+               comn": 4
+          }
+          "ed":{
+            "line" 1,
+            "olum" 5
+          },
+             "ientiierName": "x"
+            },         "name": "x"         },
+     "iht: {
+       type": "umeicLtral",
+        start:8,
+        "en: ,
+        "oc": {
+            "start": {
+             "lin": 1,
+              "column:
+            },
+        "en": {
+             line: 1
+           "column":            }
+           
+           "etra": {
+            "rwalu":0,
+           "ra" 0"
+           
+           "vale" 0
+        }
+       },
+     "tst":{
+        "ype: "Binaryxprssion",
+        "rt": 1,
+       "ed": 17,       loc" {
+        "tart":{
+              "line": 1,            "olmn": 11        }
+          end 
+            "line" 1,
+              "column":17
+          }
+        ,         lt": {
+        "typ": "Ientifier",
+           "start" 11,         "end": 1,
+           "o": 
+            "star": 
+            "ine",
+            "column": 1
+            },
+          "en": {            "lie" 
+              "colun: 12
+            },
+         "ientifierName": "x"
+        },           "ae":"x"          },
+        "oerator" <",
+         riht" {
+          "ype": "umercLiteral"
+          "start" 15,
+         "end: 7
+        "loc: {
+             "str":{
+            line":,
+           "mn"15
+            },
+              "ed": {
+            "lie"1
+              "colm": 17
+          }
+          }
+          "eta":{
+          "rawVlu 42,
+          "aw": 42"
+          },
+           "le:42
+        }
+        },
+       "updat":         "tye": "dteErsi,
+         "sar":9,
+         "end": 2,        "loc": {
+        "sa": {
+          li": ,
+            "lumn: 19
+            }
+         nd": 
+           "line": 1
+             "column": 2
+          }
+          },
+        "opeaor": "++,
+        "pefx: false,
+         "agumnt": {
+           "type":"Identifier",     stat" 19,
+         e": 2,        "loc": {
+            "str": {             ne:1,           "column:9
+         },
+          "end": {
+           "ie" 1,
+             "lm":20
+           }
+           "intierae":            }
+          "me": x"
+          }
+       ,      "dy": {
+        "tye" "EmpSttmet",
+         "star": 23,
+        end": 24,
+         "loc": {          "start"             "line" 1,         column": 23
+           ,           "ed" {
+         "lin": 1,
+           "olumn":24
+         }
+         }        }
+   }
+    ],    "diectves" []
+ }
+}

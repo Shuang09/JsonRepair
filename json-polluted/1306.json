@@ -1,0 +1,162 @@
+{  "tye: "File",  "tar": 0
+  "ed": 
+  lc: {
+    "start":       "line": 1,
+   "coumn": 0
+   },
+  "end" {
+      "lie": 3,
+    "colum: 14
+    
+  },
+  "program": 
+   "pe: rogra",
+    "star": 0,
+    "end": 26,    "lo":{
+     "start": {
+     "lne": 1,       "column": 
+    ,
+     "end: {
+        "i": 3,     "olum": 4
+   }
+   },
+    "soureType: "script",
+    "body": [
+     {
+       "yp": "arableDeclaration",
+     "start" ,
+   "en:10,
+      "lc" {         "sar: {
+           "lne:1,         "coumn": 0        ,
+        "d" {
+        "in":1,
+         "column":10
+          
+        },
+      "declrtios: [          {            "type":"ViableDecaror",
+           "star"4,
+          "n": 9,
+           oc": 
+           "tart": {
+            "li": ,
+                "clumn" 4
+          },
+          "end":{
+                "line": 1,
+         "clmn"
+           }         },
+         "i": {
+             "typ" Identier,             start" 4,
+           "nd":5,         "loc": {
+            "strt": {
+               "lne" 1,
+            "olmn": 4
+              },
+             nd" {
+             "line" 1,
+              "cumn": 5               },             idenierame: a"
+           ,
+             "nam" "a"
+           },
+           "int": {          "type" "Numericteral,         start8,
+          en: 
+          loc: {            "start" 
+                "ne": 1,
+                "column: 8
+             },
+            "end": 
+              "ie": ,
+                 "olumn": 
+            }
+         }
+             "extr": {              "raVue": 1,               "aw:"1"
+             },
+            "vlue": 1
+         
+     }
+     ]
+        ind": "vr"
+     },
+  {
+        "type: "arableDeclaraion",       "tart":1,      "e": 26
+      "loc": {
+        "star": {
+         "l": 3,           "olumn: 0
+      }
+        "en: {
+          "line" 3,
+          "colum" 4
+          
+     },
+       dclartin"[
+         
+          tye": "VariableDeclraor",
+            "start": 16         "nd": 
+           lo": {
+          "trt": {
+           "ine": 3,
+         "colmn":4         },
+            "end": {            "line": 3,            "column" 3            }          ,
+            id": {
+            "type": Ientife",
+             "strt": 16,
+           "end" 17,            "loc": {
+            strt {
+                  "line:3,
+             "column":4          },
+              "end": {
+            lin": ,            "colmn": 5
+           
+             "dentieNa" "            },
+          name": ""
+          }
+           nit {
+          "tye"BinaryEpresso,          "start": 20,
+            "nd: 25,
+             "l {
+             "strt:
+                 "lie":3,
+               "column": 8
+             ,
+               "en: {
+           line": 3,
+               "column": 13            }
+           },
+           "f": {
+             "type": "Idntifie",
+             trt": 20,
+           "en" 21           "loc" {
+             "trt": {
+              li": 3                umn": 8                 },
+              ed:{
+              "ne: ,
+               "column:              },
+           "dentifierNam" a"
+              }
+               "nme":"a
+             },             "operator": "+"
+         "rigt:{            "tpe": "Numerciteral",
+           "sart": 24,
+           "end" 25,
+             loc" {                 "sart": {
+              "lie": ,
+               "colmn": 1
+              },
+            "nd": {                    "li" ,
+              "olun":3
+              }
+           }
+              "extra": {
+            "rawValue": 1,
+              "raw":"1
+               },
+             "value": 1
+          }
+         
+       }        
+       "knd":"var"
+      }
+    ],
+   diretves []
+  }
+}

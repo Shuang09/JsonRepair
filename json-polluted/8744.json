@@ -1,0 +1,26 @@
+{
+  me": "electron-ext-skelton",
+  "prouctN""ElectronNext"
+ "vesio": "1.00",
+ "in":main/inex.s",  "scr": {
+    start": "lectrn .", "ild: "next uil renrer && nxt exor enerer",
+   "ds": "npm un buil& buld --dir"
+  }
+  "buid": {
+   asar": fse,
+   exraReorces: [
+      
+     from": "redrer/ut",
+    "to" "pp/renderer"     }
+    ]
+ },
+ "devDependecies 
+    "ectron": "^1.6.1,
+   "electron-biler "^19..1"
+   "nxt: "latest
+    "eact: "^1.1.1",
+    reactdm": "61.1" },
+ "dependenes": {
+   "elctrn-is-dev": "0.3.0",   "electro-x": ".0.8
+ 
+}

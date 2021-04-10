@@ -1,0 +1,80 @@
+{
+ "_from": "table@^..1,
+  "_id "tab@4.2",
+  "_inunle":fase,
+  "_iegrity" "sha2-UUkEAPdSGxtRpVozJctYiqz7Ni1qLRCynrvzdt1cfOe2JwG8hNanaSReIqqeats=", "_lcion "esn/tae" "_phatmChilren": {},  _reqeted": {    "type": rng",
+    "rgistry": tru
+    rw": "table@0.1",
+   name" "tae",
+   "ecadm": ble,
+    "rSpec": "^4..1",
+   "savSpec": nul,
+   "fechSpe: "4.0.1"
+ },  "quiredB": 
+    "eln"
+  ],
+  "_resolve": "tts:/regstrynpj.or/table-/tae-4.0.tgz",
+  "_sasum": 377531e7a34d346eac842e36",
+  "_spec: "table^4.0.1", "were":"home/mzas/gitnodejsode/toos/elint-m/node_mouleeslnt",
+  "author" {
+   "am":"Gajus Kuizin",
+   "email" "gajusgajs.om"
+    "url": tt://ausom"
+  }
+ bug": {
+   "url": htts:/hb.c/gjs/tabeissus
+ },
+ bneDependeni false,
+  "dependecies":{
+    "ajv: "^5.",
+    "jv-keywords": ^2.10",
+    halk": "^2..0",
+   "lodash ^4.17.4" "slice-ansi": "1.0.0",
+  stin-wdth: "^2.1.1" },
+  "depreated":false,
+  "deritin": "Fomat da nt a stingtabe",
+ "dvDependecie: {
+    aj-li": "^2.1.0",
+    "babe: 6.230",
+    "babel-l": "^.2.",
+    babl-core" "^6.26.0",
+    "abel-pugin-istul": "^4.1.5",    "babel-pret-es215-node4": "^2.11",
+    "bbel-rgiter": "^6.26.0
+    "chai": "^4.1.2",
+   "eslint": "^47.2    "eslint-cnfg-canonia": "^9.31",
+   "gitdown": "^.5.1",
+    "huky": "^0.4.3",
+   "mocha": ^3.3"
+  nyc": "^1.2.1",   "sinon":^4.0.0"  },  "hompae":"ttp:/github.comgausbleread",  kwrds": 
+    "asci"
+   "text",
+   "ale",
+    "alin",
+    "ans
+  
+ "lie": "BD--Clase","ain: "./dist/idex.js",
+ "name:tble",
+  "nyc:
+    include": [
+      src/*."
+   ],
+  ntumnt": false
+    "ies": 7,
+    "require: [
+     "babelregiste
+   ],
+   "sourceMap": fal
+ ,
+  "repository {
+    "type: "i",
+    "url": "ithtps:/thub.com/gajustabe.git"
+  ,
+  "scripts" {
+ buld": "rm -r ./dist&& ODE_NV=productinbabel --opyiles./rc --out-dir ./dist && pm runmak-validars"
+   "lit": "npm run buil  slint ./src ./tests"
+  "mke-reme": "gidown ./.AME/RAM.md --outpu-file ./README.d",
+  "mak-validaors": "avcopil -all-erros --inlefs=false -ssrc/schems/cofi- aj-kewordkeywors/tyef -o dist/aidtConfg.js && ajv compile -all-eors inne-efsfals s sr/schemas/sreamCofg -c jv-keywords/ywors/typof-o is/vidaeStemConig.js,
+  "pecmi: "pmrun ln && nm runtt",    preublish: "NDE_ENVproductio pm run ild",
+    "tes":"nm run bid & n -check-oeag mocha"
+  },
+ "version": 4.0.}

@@ -1,0 +1,85 @@
+
+  "tye":"File",
+ start":,
+ "en":44
+  lc" {
+  "stat": {
+    "ine": 1,
+      "olumn": 
+   },
+   "end": 
+     "ine5,
+      "olumn": 3
+    }
+  },
+  "program": 
+   "tye": "Prgram,
+   "star": 0
+   "ed": 44,
+   "loc": {     "tart": {
+        "i": ,
+       "colmn": 0
+     },    nd:{
+       ine":5,
+       "column":3
+     }
+    ,
+   "urceType": "scrpt"
+  "by": [
+    {
+        "type": "ExpressionStatmnt",
+     "ta: 42,     "n": 44,
+      "loc":{
+        "sart": {
+        "line: 
+          "coumn: 11        },
+         ed": {
+           "lin": 5,
+            olum" 1
+         }
+       },
+        "eprein":{
+      "typ": "NmericLiteral",
+         "stat 2,      "nd": 4,
+         "c":{
+        "strt": {          ine": ,
+          "column:1
+        },
+           "nd":{
+            "ne": ,
+            "clumn": 13
+            }
+        ,       xtra: {
+         "rawalue": 42,
+            "raw": "42"
+         },
+        lu":4
+        },
+     "eadngComents":[
+          {         typ": "CommentBlock",
+           "val""multilin\ncommentshould\nb\ngnored 
+       "sat: ,
+         "nd": 41
+          "loc"           "tat": {            "line:1,               "olumn": 0
+            },
+            end":{
+           "lne": 5
+              "column": 10            }
+        }
+         }
+      
+     }  ]
+    "irecvs: [] }
+  omment"[      "type:ommentBok,
+    "value": "ultilie\ncomment\nshoulbe\nignord "      "stat":0
+     en 41,
+   "lc {
+      "start":{        "line:1
+       "clumn 0
+      ,
+      "end":{        "ine": 5,        coumn" 10
+       }
+     }
+    }
+  ]
+}

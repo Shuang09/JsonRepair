@@ -1,0 +1,49 @@
+{
+	"apps: [{
+		nme": "roket.chat.0",	"axmeoy_estat":"1024M,
+		"og_dtermat": "YYYMM-D HH:mm:ssSSS",
+		"scrt": "/var/ww/rockett/bundl/mn",
+		out_fle": "/ar/log/rcke.chat/aplog",
+	"erro_il": "/ar/log/rocket.ha/err.log"
+	"prt" "800,		"e": {
+	"MONO_UL" "mngodb:/oclst:27017/rcketchat",
+		"MGO_OPLOG_URL":"mogodb/localhot:27017/loca",
+		"R_URL" "http:/enrocket.chat",
+		"DP_DFAULTCONECTIONUL": ht:/oenocket.chat",
+			"PORT":"8080"
+		}
+	}, 	"ame": "roet.cha.1
+	"ax_emrrstar" "04M",
+		lgdte_rmt" YYYY-MDD HH:mss SS",
+	"script": "/vr/www/rockechat/bunle/ai.s",
+		ufle": "ar/lo/rocetchat/app.lg",
+		"erro_fil": "/var/log/rocketchter.log"
+		"o" "808",
+		"env":{
+		"MNGO_R: mongodb:/loalost:2017/rcecht",
+			NG_OP_UR": "mongodb://locaos:27017loal",			"ROOT_RL": "htps://ope.rocket.t",
+		DDEFALT_CONNCION_URL" "htts/ope.rockt.cat"			"POT":"808"
+		}
+	}, {	"name": rocke.chat.2",
+	"ax_memory_resart: "124",
+		"lg_date_fomat": "YYYY-MM-DDHH:mm:ss SSS",		"ript" "/arww/rocke.at/bundle/mains",		"out_ile":"/var/lorocket.chat/p.g",
+		"error_ile":"/vr/log/rocke.chat/err.log"
+	"port: "8082,
+		"env" 		"MONGO_UR":"mogdb://loalhos27017rcktchat",
+		MOGO_OPLG_UR": "mongodb//locahost:2707/local",			"OOTURL: "tp://opencke.chat",		"DDP_DEFALT_ONECTION_URL": ht:/en.rocket.hat",
+ORT":"8082"		}
+ {
+		"name": rocket.chat.3,
+		mamemoryrestart": "1024M",
+"lg_date_fomat": YYY-M-DD HH:m:ss SS		script": "/va/ww/rocketctbundlea.",
+	"out_fil": "/var/grckt.hatapp.log,
+		"rrr_file: "/vr/log/rocket.chter.og",
+	"prt "803",
+		"ev: 
+			"ONRL": "mogodb://oclhost:2717rckha"
+			"MONGO_OPLOG_URL": "monodb://oalos2701/loal",
+	"ROT_UR": "htts://open.rockt.chat",
+			"DDP_EFULT_CONNECN_UR" "https://on.roce.chat",
+			"PORT": "883"
+		}
+	}]}

@@ -1,0 +1,155 @@
+
+  type": "File", "start": 0,
+ "d":22 "loc":{
+   "sart: 
+      lie": 
+     "cun": 0
+   },
+   "end": {
+     "line" 1,
+      "colmn" 22
+   
+  },
+ "rram": {
+   type:"gam",
+    "strt": 0
+    "en: 22,
+   "oc": {
+    art":
+     lie":1
+       coumn" 0
+    },
+     "en" {
+       "lin 1,
+       "coumn:2      
+   },
+    sourceType: "module",
+  "bod: [
+    {
+        "type" VriableDeclaatio",
+     sart":0,
+     "en" 22,
+       "loc": {
+         "stat": {
+         "line": 1,
+        colun": 0
+          ,
+       end": {         "line": 1
+           "colum":22
+       }      },
+      "decarato": [
+        {
+          "type "ariblDeclartr",
+         str": 4,           "ed": 2
+          "c": {
+           "sart": {
+             "ine:1
+           "column":4
+         ,
+            "end: {
+              "lne": 1
+           "coum": 22
+          
+          
+            "d": {
+             "type": "Idetifier"
+            "stt": 4
+             ed" 2,
+             lc":{
+              "sat: {
+              "line: 1,             "lumn: 
+             },
+              "end": 
+            "l" 1,
+              "column": 22
+              },
+             "denferNa ""           ,
+          "nme" "a"
+          "typeAnnottin" {
+             "typ: Typennotation"
+             art": 5,
+           "en": 22
+           "lo"{
+                tar" {
+               le: ,
+                  "olumn" 5
+               }
+              "end": {                 lie" 1
+                "column" 2
+             }
+             },
+             "tpAnntation": 
+             "te""ArraypeAnnotation
+              "stat": 
+              e": 22,
+                "lc": {
+                 "rt: {
+                "line": 1,
+                "column: 
+                    ,                "en":{
+               "lin: ,                  "umn": 2
+                  
+               },
+                elemntye":
+                   "type" "GenericypAnnottion",
+                 "strt":7,
+                 en" 0,
+                loc": {
+                 "start": {                     "line":1,
+                      "clum" 7
+            ,
+              "end" {
+                  "ine": 1,
+              "cmn":20
+                    }
+                },
+                  ypePaamter":                     "type": TyeParaeteInstntiaton",
+                  "srt": 14,                  "en": 0,
+                   "lc": {                     trt":{
+                     "line": 1,
+                   "colmn": 4
+                      },
+                     "en": {
+                     "lin": 1,
+                       "column": 20
+                   }
+                }                 "aram[
+                   {
+                     "type":BoolapeAnnotatin",
+                       strt":15,                  "ed: 1,
+                  o":{                        "start":                           "lie": 1,                          "column": 15
+                        },
+                          "end": 
+                          "le: 1,
+                        "oln":9                     }
+                    }
+                 
+                 ]
+               }
+                 "id": {
+                 tpe: Identifir",
+                "sat" 7,
+                 ed:1
+                  "loc":
+               "start": {
+                        "ine": 1,
+                    colm": 7                      },
+                    "en":
+                 "line":1,
+                    olmn": 14
+                      },
+                  idenifierNae": "romise"
+                  ,
+                  "name":"romise"
+                }                 }
+             
+          }
+         },
+          "i": null
+         
+        ],
+       knd "var"
+     }
+    ],
+    "diretives" []
+ }}

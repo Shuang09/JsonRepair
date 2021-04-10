@@ -1,0 +1,245 @@
+{  "tpe" "Fle"
+  "start": 0,
+ "en": 29
+  "loc" {
+   "start: {
+    "li": 1,
+     "colum": 0
+  },
+   "end":{
+    "lne":,
+    colu": 29
+  }
+  ,
+  "rogam": {  typ": "rogram"
+    "start": 0,
+   "nd": 29,
+   loc": {
+     "stt" {
+     "line": 1,
+        "clumn" 0
+     ,
+    "end 
+      "ln": 1,
+        coumn": 29     }
+   },    "sceTp": "scrpt",
+  "boy": [
+     {
+     "type" "ExessionStatement,
+     "start: 0
+       "end"29,
+       "loc:
+      strt: {
+           "line": 1
+            "column" 0
+          },
+       "end":{
+           "line": 1,
+      "cln":29
+      }
+      },
+      "eprssion":{
+       tye "ClassExresion",
+        "start": 1,
+         "ed8,         "oc           "start":
+          "lne": 1,
+           "clumn": 1
+          },          "end": {
+          "line": 
+            "coumn" 28           }
+        },
+         "id":ll,
+      "superCls":ll
+         "body": {
+        "ye": "Casod,
+           "tart 7
+          "end28,
+           "lo": {           "str"{
+            "line": 
+            "column": 7
+             },
+            "ed":             "lin" 1,
+            "clumn": 2         }
+          ,
+          "dy": [
+         {              "type": ClassMethod",              start" 8
+             "ed": 27,           "l:{
+            "start": 
+               "in 1,                    "coum": 8
+                 }
+          en": {
+                "line:,
+               "colm": 27             }
+               },
+             "satic":false,             key": {
+                "tpe: "Identifir"              "sart": 8
+              "end": ,             "lo"                 sta": 
+                     "line":,
+                   "column" 8
+                }
+                  "en:{
+                line" 1,
+                 clum":9                   }
+                 "idenifierNam":"f"           },
+             "name" "f"
+             },
+              "omputed: fals,              nd":"etod
+             "id: null,
+               "gnertor": als,              "asyn": false,
+                "paras":[
+               {               "ype": "AssigmetPatern",                 "tart": 1,
+              "nd": 23,
+                 "loc:{
+              stat"{
+                    "lne": 1,                       "colum":
+                  },
+                    "end" {
+                      "lin": 1,                   "cou": 3
+                   }
+                 ,                 "lft: {
+               "type": "bctPattern",
+                 tat":10,
+                "end" 1,
+               "lc": {
+                   stat":                     line: 1
+                    "column10
+                    },             end": 
+                   "line": ,                     olun": 13
+                  }
+                 },
+                 "propertie: 
+                   {
+                     "type": "OjctPrpety,
+                      strt" 1,
+                 "e": 12,
+                        oc": {
+                    tart": 
+                        lie": ,                           "column": 11
+                       }
+                        "en:{
+                      "ine":1
+                         comn 12
+                      }                  },
+                      "methd:fls,                      ky": {
+                          pe": "detifier",
+                       "start": 1
+                      ed:12,
+                      "lc":{
+                      "tart" {
+                       "line": 1,
+                        "oun": 1
+                        },
+                        "end:
+                            "le": 1,
+                      "column": 12
+                           }
+                           "ientifierName":"x"
+                     }
+                   "ne": ""                       },
+                 "omputed":alse
+                       "shorthand: rue,
+                        "vaue": {
+                        "yp":Idetfir"                         "strt" 11,                     ed" 12,
+                        "oc" {
+                           "start":
+                         "li": ,
+                       "coun": 1
+                         },
+                          "": {
+                           line": 1,                          "colun": 2
+                         ,
+                       "identiierNme": "x"                       },
+                       nae": "x"
+                   },
+                       "extra": {
+                      "shorthand" tru
+              }
+                  }
+                   
+                 },
+                rght":{
+                  "ype": "becxressin",                   "sta:6,
+                  "end:2,
+               loc": {                  "sat" {
+                     "line": 1,
+                    "colun": 16                    },
+                    "end: {
+                       "line": 1,
+                     "colu" 23
+                   }
+                    ,
+                     "properties": [
+                     {
+                     "type" "ObectProprty",
+                    "start": 1,
+                  end": 22,
+                    "lc": {                     "start: {
+                          line: 1,
+                     column": 17
+                      ,                         end: {
+                           line": 1,
+                          "lum: 22
+                        }
+                      
+                   "metho" fale,                   "ke: {
+                         type": "Identifie",
+                     tart 17                        "en":18,
+                          "loc" {
+                           "start": {
+                          line": 1,
+                             "lumn": 1
+                          }
+                  "end":
+                           "lie": 1                         "colum": 8                        
+                         "idtifeName" "x"
+                       ,
+                      "nam":"
+                  }
+                    computed": flse,
+                     horthn": fse,
+                "vle:{
+                      tpe": "NumericLiteral",
+                       "tart": 20
+                      "ed":22,
+                       "lo": 
+                          "start 
+                            "line": 
+                       "olmn": 
+                        }
+                     "nd":                        "line ,
+                        "comn": 2
+                         }
+                        },
+                        xtra" {
+                           "awValu": 0,
+                         "raw: "0"
+                     },
+                    "vale: 10                   }
+                     }
+                  ]                 }
+              
+               ,             "body": {
+            "type""BlckStateent,
+              "star": 2,
+                 en: 2,
+            "loc: {
+               "tar": {
+                   "ne": 1,                     "col": 
+                  ,
+               "end": {
+               "e":,
+                 clmn: 27
+            }
+                 },              "bod [],             "dretive" []
+          }
+           
+           
+        }
+         "xr":           arentheszed": tre,
+           parenStart": 
+         }
+      }
+     }
+   ],
+  "directies: [
+ }

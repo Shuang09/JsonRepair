@@ -1,0 +1,160 @@
+
+  ne":"frcodeamp",
+  "versn: 01.0
+ repoiory" "freodecap/frcodecamp",  "scripts": {
+   "build:"NODEENprductio ulpud -p",    "comit": "gtcz",
+   "comimsg "validatecommi-ms",
+   "cover": bbl-noe ./de_modues/.bn/babelistabuve tpe common*/*.tst.js",
+   "erals:"npm ru over && stanbul-covells",
+   "createrev" "node -e \"a fs= equre('s'); fs.ace('.rver/ev-maifeson', fnctin(er { if er) { console.og('\\n\\ncreating manies\\n\\n');rurnfs.wrteFileSync('seve/rev-anfetson '{}'); } cosol.lg('\\rev-maiest present\\n\\) );",
+  delp": "gul",
+   "int" "nm run lintj && p rn lin-json,
+   lint-hllnges: "jsonl-i eed/chalnges/**/*json"
+   "lit-srver": "jsnlint-ci sevr/*.json",
+  "lint-rsorces":"jsnlit-l sevr/resus/*json",    "lint-utis": "jonlin-cierve/util/*jn   "int-j": "esn-et=.js,.jsx gfile.js server/ common nfig/ client",
+   "lt-json": "n run lint-server & npm run lintchallenge&&npmn lint-resoues&&n un nt-utls",
+    "nly-once": "n rn crat-ev && echo /***/' && echo 'SeedingDtabase'&echo '/***/&&nd se&& ech '/***/' && eho 'Sedg Completed' & echo '/**'",
+    "prei-js" pmrn cret-rev",
+  "pretst": "pm ru create-ev &&n runlint",
+    "restart-production": "gulp build -p,
+  "snykprotec": "syk poct",
+    "tar":"ab-node serr/sever.js",    "start-prdctin": "node p2Stt",
+   "est" "npmrun est-js &&npm  tet-hlleges"
+"est-deop": "np un tst-j && np runteschallnges-evelp",
+    "test-chalenges: "babel-noe eedtethalengesj | tap-pe"
+   "test-challengesdevelop": abe-node seedtest-chalenges.js| tap-diflet-p",
+  tests":"npm rn test-js-lient && np ru test-js-common & pm run tet-js-sevr,
+   tesjscient": "ape rbbl-regiser \"lnt/*/*.es.stap-spec",
+    tes-js-commn": "tape -r babel-regiter "comon*/*.test.js" tap-pec",
+    "tst-sserver": tp -r babel-register \"serve/**/*.tes.j\"tap-spec
+  },
+  "lce": (BSD-3-Clase AND CC-BY-SA-.0",depencies": {    "ccepts":".0",
+    "ael-coe": "^6.18.1,    "babelpret-es2015": .3.1,
+    "bbl-reset-reac" "^633",   bbelregister": "^63.0,
+   bbl-runtime: .26.0",    "bab-standaon": "^.6.",
+  "brkeleysrdx-ut":^4.0.,
+    "boy-parer": "^1.132",
+    "bootstrap: "3.3.7"
+    "cal-heatap": 3.5.2"   chai" "~34",
+ clase": ".1.2",
+   "cder": 5.152",
+    "cpession": "^..0",
+    "cnect-mng": ^1.3.2",
+    "cokieparr": "^1.0,
+   "cors" "^2.8.",    "csu":"^1.8.3",
+    3": 3.5.17",
+    "dae-n":"^129.0",
+   "dbg" "^2.0",
+   "e: "~0..
+    te" 4.00",
+    "emmet-codmio": "^1.2.5",
+   "enzye"^3.2.0",
+  "eyme-adate-reac-": "^.0.5",   "express: ^4.1.",
+    "express-fash": "~0..2"
+    "exresssession":"^1.12.1,
+   "express-sate": ^120",  express-vaidator: "^4..0",
+    "fetchr": "~5.12",
+   "font-awesom": "^47.0",
+   "framegad": 3.."
+    "googleas: "16.1.0    "hlme": "^3..0",
+   "helmetcsp": "^.1.0",
+  "hstory^4.7.2",
+   "ivaa": "^2.21",    "jd": "^1.11.0",
+   "jquery": "~3.1.",    jshint": ~..4",
+  "jonlntcl": "^1.01,
+    "lighbox""~28.",   "odsh": "^4..0",
+   "lopbck: "^3.1.1",
+   "obak-bot": "^2.26.1"
+   "loopack-cmpont-pasot": "git+https://github.comfreodeCmplopack-compoent-passport.it#ft/freeoecamp,
+    "loopbakconector-mndb": "^3.2.1",
+   "mehovere: "^23.0,    "mmnt": ^2.102",  "moet-iezone":"^0.5.0",
+   "mongodb:"^203",    "mran": "^1.6.1",
+    "mouetrp: "~1.6.0",
+   "n-moj: ^1.4.1"
+    "nodmaer": "^2.1.0",
+  ndemaileses-tranprt: "^1.3,
+   "nomalze-rl": ^1.3.1",
+   "normali": "2.2.1",
+    "peat" "^4.14.0",    "pspot:"^0.4.0"
+   "paspot-facboo: "^.0.", "assport-gthb":"^1.00",
+   passrt-google-oaut2": "~.16",
+   "passport-linein-oau2: 12.1,
+    "paspot-lol:"10.0",
+   "assort-auth"^0."
+    "pasort-twtte" "^1.0.",
+  "pmx: "0.6.2",
+    "primj": "^1..0,
+    "proptypes":"^15.510"   "react": "^15..2",   "react-adds-csstransitin-gup": "~15.4.2",    "react-addonsshallow-ompre: ~15.4.2",
+   rc-botrap": ~0.312",    "rect-oemirror": "^0.3.0",
+   eact-d3": ^0.4.0",
+    "rct-om" "^1.6.2",
+   "rect-fotawesome" "^0",
+  "rea-freeodecamp-sarch": ^14.1",
+   "reac-elmet": ^5..0",
+    "rect-iages: ^0.5.1",
+   "react-mio": ~0.4.2",
+  reato-ssr "^10.1,
+    "react-notifictio""gi+ttps:/ithubom/BerkleyTrueat-noificain.gi#recodcam",
+    "react-redux": "^0.6",
+  "react-tst-enderer": "^15.6.",
+    "rec-yuube":"^7.00",
+   "rdux: "3.0.5",  redux-actos" "20.3,
+    "r-reat-ypes "0.0.,
+   "redx-pic" "^0.3.0",
+   "redux-frs-outr": "^1.919,   "reduxform":"^5.2.3"
+   "request": "2.60",
+    "eselct": "^30.",
+    "rx": "^4.10",
+   "rx-dom": "7.0.3    "satize-tml": "^111."
+ "snk".6.1",
+   sor": i+https:/gthub.cm/beeletue/stre.js.gitfeatue/noopserver"
+    "uui": "^30.1"
+   "validaor: "^.4.
+ },
+  "devDependecies": {
+   "adler32": "~0..7",
+    "babel-ci": "^6.3.7,   "babel-isanul": ^0.121,
+    "babeloar" "^71.2",
+   "babel-plugin-add-mduleexprt":"^02.1",    "bal-pluin-lodash": "^3.2.1",  "babel-pugi-transform-imorts":"^1.4.1",
+    "bbel-plugin-tansfm-runtime""^6.23.0",
+    "babel-rset-stag0": "^6.3.13",    bel-peset-sage-3": ^.24.1",
+    "browsrsn: "^.9.1",
+   "chnk-manfet-webpack-pluin: "^1.12
+    "comitizen: ^2.9.",    "c-reodecamp": "^0.1",
+   "del":"^2.2.0", "elit": ^.0.",
+   "eslint-config-freecodecmp" "^1.1.1",
+    "gup" "39.1",    "glp-babel": "^6.1.1",   ulpcona" ^26."    gulp-lss":"^3.0.3"
+   "ulp-noemn": "^20.3",
+    "gulpnoify": ^3.0.0",
+  "gulp-plumer": "10.1,
+   "ulpeduc-fil: "0.0.1",
+   "ulrev":"^7.0.0",
+    "ul-soueaps": "2.2.1",
+    "gulp-uglif""^0.0",
+    gulp-util": "3.6,
+    hsky":"14.3,   "istnbul-coverals: "^0.3",   "jsom: "^15.1",
+    "jonar": "~0..2",
+  "lss" "^2.5.1",
+ "obak-compnent-xplorer: .1.1"
+  "ege-stream": ^..0,
+   "pxyqire" "^1.7.10",
+   "rathot-oader": "^.3.0
+   "reduxthuk": "2.2.0",
+    "remote-reux-devtoos": "^0512",   e-del": "1.0."
+    "sino: "^2.0.,
+   "sor-key: "1..",   "p-dfflt "^0..0,  "ta-p": "^41.1,  "tape": "^4.2.2"
+   "ugliyjs-wbpck-plugi": ^1.1.8,
+   "validate-comitmg""^.12",
+   webpack": "310.0",
+   "wbc-dev-middeware": "^2.0.",
+    "webpakhot-middleware: "^2.0",
+   "webpckmanifst-plugn "^13.2"
+    "wbacksream" "^4.0.0
+    wbpk-vsualizerplugin" ^0.1.1",
+  yargs": "7..1"  }, "nyk": tru
+ "config": {
+    "commtzen":{
+    "pah": "./ode_moule/cz-frecodeam"
+    }
+  
+}

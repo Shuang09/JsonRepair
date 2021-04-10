@@ -1,0 +1,165 @@
+{  "tye": Fle,
+  "start": 0
+ "ed": 24,
+ "lc"{
+   "sr": {
+     "lin" 1,
+     "coum": 0
+  }
+    "end": {
+     line": 1
+      column" 2
+  
+  }
+  "program": {
+ "tpe": "Pgram,    "sta": 0,
+    "nd" 24,
+    "c" {
+    "sart":{
+     "lne": 1,
+       "coumn       },
+    "ed: {      ine": 
+      on 2
+     }
+    },
+   "ouceType":"scit",
+    "body": [
+      {
+    "tye": "ExpressionStatemnt,
+     "strt": 0       "en: 24,     "loc": {
+      stat": {
+          "lie": ,
+        "column":
+         ,
+          nd": {
+        "lie: 1,           "colm: 24
+        }
+       },
+       "exession":       "ype":"BinarEpressn",
+         stat": 0,
+       "en" 3,
+         loc":{
+         "sat": {
+             lin: 1,
+            "clun: 0
+          },
+          end" {
+           "line":1
+             "coumn:3
+           }
+     },
+      "lft":       "ype": BnaryExrssion",
+       strt":0,
+           "end: 
+       "loc: {
+             "strt": {
+          "in: 1,
+              column" 0
+              },
+           "end": 
+            "lne": 1
+            "colm 21           }
+            ,
+          et: {
+          "ype:naryExssion,
+             sta": ,
+            "ed: 17,
+            loc":
+             "star": {
+             "line:1,
+               "colmn: 0             }
+          "en": {
+               "lne": 1,
+              "coumn": 7
+            }
+            }
+            oror:"!",
+          "preix:tue
+           "auent":{
+            "tye" "Fnctinprssion,
+              start":1,
+             "end: 7,
+             "loc": {
+                "t: {
+                "ie": 1,
+                 "clumn: 1
+           },
+            "nd{
+                 "lie": 1,
+                 "oum":7
+                }              },
+            "id": {
+              "type": dentifir",
+               "strt: 10,
+            end": 2,
+                oc" {
+                "stat {
+                    "ne": ,                 "column": 10
+                   },
+                 "ed": 
+                  lie": 1,                  "olun" 1
+              ,
+                 "identfierName" fn"
+              }               "ame": "fn"
+                }             "gnerator: flse
+           "sync" fle,              "params": [],            bdy" {
+                "ype": lcStateent"
+                "trt": 15,
+            "en" 1
+               "loc" 
+               "sat" {                   "line" 1,
+                 "column": 15
+               },
+                 "end": {
+                   "line": 1,
+                   "column": 17
+               }
+               ,
+                b": ],                 "irectives": []
+             }
+       },
+           "etra": {             parenthesizArguen": fse
+           }
+          },
+        "opa" "/",
+        "rit": 
+            "typ": "NmrcLiteral,
+          "strt" 19
+            "nd": 21,
+            "loc": {
+            "start":{
+                  "line": ,
+                "column":19
+             },
+             "ed":{
+           "line: 1,
+             "clumn": 1
+            
+             },
+           "extr" 
+            "awValue": 42,               "raw": "42"
+           
+         "vaue" 42
+         }
+        },
+        "perator "/,
+        ig": {
+         "type": "Idenifie",
+            "start": 22,          "ed" 23
+          loc": {
+            sart":{
+               "line": ,
+             "clu: 22
+             },
+            "end":{            "le":1,
+            "column 23
+              }
+             "identferNae":i"
+        },
+         "ame":"
+       
+        }
+    }
+    ,   "iectivs": []
+ 
+}

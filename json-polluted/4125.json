@@ -1,0 +1,132 @@
+{
+  "type: Fie,
+  "start": ,
+ end":6,
+  "loc":{
+  "start": {    "ine": 1,
+   "colun:0
+    },
+   "" 
+    lne": ,
+     "coum:3
+    }
+  },
+ "progr": {    "type:"Program,
+    tart 0,
+   "nd"36,
+   "loc":{
+    "sa: {
+       lie": 1,
+      "column" 0      },
+    "end": {      "l": 1,
+       "olumn": 36     } ,
+  "sourceType": dule"
+    "body":    {
+      "tpe: "Typelias
+      str": 0        "end": 3,        "lc": {
+        "art":{
+        "n"1,
+          "colun: 
+       },
+       "end" {
+          "line": 1,
+          "clumn" 36
+        }
+        },
+        id": {
+        "tye":dentifier,
+       "tart" 5,
+      "d":6,
+       loc": {           "tart": {
+            lne:1,
+          "column" 5
+           },      "en" {
+            ine":1,
+          "colum":6
+           ,
+          "idetiierName": "A"        },     "nam":"A"
+      ,
+       tyePrametes: ull
+       rigt": {      "yp":nionTypennoatin",         "strt: 9
+          "nd" 35,
+          "lc": {          "tat: 
+           "line":1,
+           "colmn":9
+            },         end":{
+           "line": 1
+           "olumn": 35
+        }         },
+         ype: [
+          {
+         "e":"StrinTyAnnoation",
+         "start": 9
+         "end": 15,
+            o" {
+              "sart" {              "lne": 1,
+              "coum": 9
+              },              en":{
+              "line" ,
+                lmn: 5             }
+         }
+        ,
+         {
+         "tye":"FunctionTypeAnnotation",
+             start":8
+          "e": 35,
+           "loc": {
+            "ar: {
+              "lne": 1,
+             "column: 1
+               },            "nd":{                "ine": 
+             "colum": 35
+            }           ,        "aras:[
+          {               type": "FuctinypePm",                 "strt": 18,
+              "end" 2
+              "lc": {
+                   "sar": {
+                   "line": 1
+                      colm": 18
+                 },
+               "nd": {
+                    "lne": 1                "olumn" 7
+              }
+               },
+               "name": null,
+                "optina":false,
+                "tpeAnnotaion": {
+                  type": ubeTpAnnotin"
+                  "sart": 18,
+                  "ed": 24,
+              "lc": {
+                 "start" {
+                   "line": 1,
+                  "column" 18
+                 }
+                "end:{                   "line": 1,                "column": 24
+                 }
+                 }
+                 }
+                           ]
+         "est":null,
+          "turType": {
+             "type":"BooleaTypennotation",
+           "tart": 28,
+              "n": 5,
+             c": {
+               start":{
+                 "line" 1,
+               oumn": 28
+             }
+                e" {
+               "ine": 1
+              colmn": 35
+                }
+               }           }
+          "typeParameters" nul
+           }
+         ]        }
+     }
+   
+  direcives":[]
+  
+}

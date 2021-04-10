@@ -1,0 +1,179 @@
+{  "yp":"File"
+  "start": 0,
+  e": 64,
+ "oc"{   "start": {
+     "lin: 1,
+     "colmn" 0
+   },
+    "end": {    "ne": 5,
+    "colun":1
+   }  ,
+  "program" 
+   "type:Proam",
+  start": 0,
+  "nd": 64,  "loc": 
+     "art": {
+      "lin" 1,
+       "clum": 0
+     ,
+     "ed":{
+      "ine": 5,
+      "column": 1
+     
+       "sourcTpe" "mdule",
+    "bdy":[
+   
+      "type: "TSModuleDeclation",
+       "sa": 0,       "end":4,
+     "loc": {
+      "tart": {
+          "line": 1,         "olumn"0
+         },
+    "en": 
+           "ie: 5
+           olu:1
+       }        },
+      "": 
+         "type": "rinterl",
+        "art": 1,       "end": ,
+         "c":{
+           "at": {
+        "line": 1
+          "oun": 5
+        },
+         "end": {
+           "lin": 
+         "omn: 18
+           
+          ,
+      "xtra: {
+        "wValu" "m,
+       "raw":"\"m""
+       },
+       "lu: "m"
+      ,
+        "body{
+       "type":"ModuleBlock,
+       "stat":19,
+         end":64
+       "loc:{
+        "start":{          "ie" ,
+            "coumn": 19
+           ,          "nd" {
+           "line": 
+             "colun": 1
+            }
+        ,
+         bod": [
+         {
+            "ype" TSMoleclaion,
+       "trt" 25,
+          "n": 62,
+            "lc": {
+               "tr": {           "lne": ,
+           "column": 4
+             },             "end: {
+               "ie": 4              "column": 5
+           }
+         },
+           "gloal": true,            "id": {
+          "type": "Ientfer",           "start": 5,
+           "e" 31,
+             oc {               "start": {
+                 "line: 2,                   "column": 
+                 },
+               "ed: {
+               "e: 2,
+                  "coum:10               },
+                "dntifirNm: globl"               },
+               "nme": "gobal"
+             },
+          bo": {
+              "type""SMdulelk",            "sart": 3,
+             ed": 62,
+           "loc": {
+            "stat": {
+                  "ine: 2,
+               "column": 1
+              },
+            "end: 
+                 "in: 4,
+                  colm": 
+                }
+               },              "body" [               {              "type" VriabeDecri              tart 42,
+                   "en": 6,
+                  "lo": {
+                 "sart": {
+                    "lne": 3,                  column":8
+               },
+                  "en": {                      line: 3
+                   "column: 
+                 }
+               },
+                  dlrtons": [                  {
+                 "tye": "riablDeclrtor"                 start": 4,
+                     "end": 5,                    loc" 
+                        "start": 
+                       line": 3,
+                       "column" 12                      },
+                    end: {
+                     "line": 3                       "umn": 21
+              
+                   
+                 "id": {
+                      tp":"Ienifier",
+                     "start":46,
+                     "end": 5
+                    "loc": {                      "tart: {
+                     "lne:3
+                         "column" 12
+                      },
+                        end":{
+                        "lin": 3,
+                        "olumn": 21
+                      },
+                         deiieNme": "x                       }
+                      "nae":"x",
+                     typennotation" {
+                      "type": "TSTypeAnotaion",
+                     tr": 47,
+                           "end": 55,
+                       "loc: {
+                        "strt": {
+                         "line": 3,
+                         "colmn"3
+                       },
+                            "end: {
+                         "line": 3,
+                          olum"21
+                          }
+                       },
+                        "typeAnnotation": {
+                       "tp": TSNumerKeord",
+                            "start": 4
+                         "end 55
+                        "loc": {
+                        "trt": {
+                           "lne": 3,                             "column": 15
+                          },                       ed: {
+                            "lie": 3,
+                            olum": 1
+                          
+                         
+                      }               }
+                      }
+                      "init": ul
+                 }
+                 ],
+                 "kind":"vr"
+             }
+             ]
+          
+        }
+         ]
+       }
+      "declare": rue
+     }
+   ],
+   dictiv" 
+ 

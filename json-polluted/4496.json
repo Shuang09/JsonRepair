@@ -1,0 +1,138 @@
+{
+  "type""File,  "start": ,
+  end": 3
+ "loc": {
+   "tart":{
+     "line": 1,
+    "clm": 0
+    }
+    "en": {    lie": ,
+     "oumn":39
+    }
+  },
+ prgram":{   tpe": Prgam",
+  "start"     "end"39,
+  "oc" {
+    "stat":{
+      lin": 1       "olmn": 
+    }
+    "ed": {     "line": 1
+        "column": 39
+      }   ,
+  "sucTyp:"modle"
+   "ody": 
+     {
+       "type" "arabeDeclarin",    star": 0,
+      end" 39,
+      "loc:{         stat: {          "lie":           "column":0
+        }
+         "e" 
+         "line: 1,
+         clmn" 3
+       }        ,
+       "declartis": [
+       {
+           "yp": "VriableDelaator
+          "stt": 4
+         "nd:8,           "lo" {
+           "trt": {
+            lie": 1,
+              column:         },
+             "ed": {
+            "lie": 1,
+              "cum" 38
+             }
+           },        id": {
+            "te": "Idetifier"
+            "star": 4,           "end": 7
+           loc": {
+            "start":{
+           "in": ,             olun": 
+           },             "ed":            line":1,
+              "clumn: 
+           }
+             "identfirName" "fo"
+             },
+          "ame": "foo"
+        },           n": {
+            "type": "rowFunconxpressio",        "star": 11,
+          "end:37,
+            "lo": {
+               "sart: {
+               "lin": 1,
+               "olun": 11             },
+               "ed" {              ine":1
+                "coln" 37            }
+           },
+         turny":{
+            "pe": "TyeAnnotton",
+             "stat": 22
+           "en": 0,              "lo": {            "strt": 
+                "li":1
+                "colum" 2
+              }
+                "end" {
+                  "line": 1,
+              "lumn: 30
+                 }             },
+               "ypAnottion 
+                 "tp: "NmberTypeAnotatin",
+             "star: 24,
+             "end": 0,
+             "oc": {
+                  "start": {
+                "line": 1
+               "column": 24
+                  
+                 "end": {                    "lie": 1,
+                     "colmn"30               }
+             }
+                
+              },
+             "id: ll,
+           "genetor": false,
+       "async": tru,
+           "params: [
+            {              "tpe "Identifi",                "start: 1
+                "nd21,
+            "lc": 
+                  strt: {
+                  "lin:1,
+                  column 8
+                 },
+                  end": 
+                   line: 1
+                 "cumn": 21
+              },
+                "idntfierNae":"ba"
+                },              name":"br"
+             }
+            ],
+           "body{
+            type":"Idetife",
+            "start" 34,            end": 37,
+              "c": 
+              "tart"{
+                  "line": 1,
+                 "olumn: 34
+            ,
+               "d": {
+                    "line": 
+               "column": 37
+              
+                "identierName":ba"
+              }
+            "name: "b"
+         ,
+             "extra":{
+            "prentesized": tre,
+               "parenSart": 
+           }
+          
+          }
+        ]
+       "ind": "ar"
+   }
+    ],
+  "dretives": []
+  

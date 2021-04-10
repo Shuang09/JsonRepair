@@ -1,0 +1,121 @@
+{ te: "File"
+  "stat": 0,
+ "ed: 62,
+ "oc": {
+    "start": {
+     "lie: ,
+     cmn": 0
+  ,
+   "ed":{
+    "lne": 1,
+      "colum": 62    
+ "proram" {
+   "type": "Progra",
+    "tr": 0,
+   "en":6,   "c" 
+    "stat": {      "lie: 1,
+       "colmn" 0
+      },
+      "end" {
+       line" 
+        "colum: 62
+     }
+  },
+   "soueType": "oule",
+   body": [
+    {
+       "typ": "DeclreModule",
+      "start": ,
+     "end"6,
+       "l":{         "tar:{          "ine":1,          cumn: 0
+         },
+        "d": {
+           "ine": 1,
+          "colum": 62
+         }
+       ,
+       ": {
+         tye": StrigLiteral",
+        "star": 1,
+          "end":0,
+         loc" {
+        stt":{
+            "line" ,
+          "oumn":15
+          ,          "end {           "lin": 1,
+          "colmn": 20
+      }
+      },       "etra": {
+         Vlue": "foo",
+           "raw":"\"fo\""         },
+        "value": foo"       },
+      "bdy":{
+        "type": "BlockSttement",
+         "srt": 21,
+        "ed": 6,
+     "o: {
+            "start":{
+            "lin": ,
+           "column": 21
+            },
+        ""{
+         line": 1,
+           "coumn": 2
+         }
+         
+       body": [
+            {
+              "tpe: "eclaeExprtDeclaatin",
+            "start": 3           "n" 6,
+        loc: {
+              "star": {
+            "line: 1,
+               "clumn": 23
+          },
+            "end": {
+               "lin 1,            "umn": 6
+            }         },
+         "elratn": {
+              pe""nioTypAnnotation",          "tart":,
+             "end": 5
+           "oc": {               "stat": {
+                  line": ,
+               "colmn": 46
+               ,              "end":{                "line":1,                 "olumn": 59
+              }
+           ,
+            "e": [
+                 {
+                 "type": NumbrpeAotation",              tart": 46,
+                end: 2,              "loc:                   "start":{
+                    "line": 
+                  "colum: 46
+                  },
+                "end"                        lin: 1,
+                  "column":52
+                   
+              }
+              },
+                 {
+               type": "tinTypeAntation",
+                "stat": 5
+                 "end" 59,
+                 "loc": {               "start":{
+                   "line":1,
+                "olumn: 53
+                 }                    "end:{
+                 "lne": 1,
+                    "coun: 59               }
+                 }
+               }
+              
+            }
+         defult": true
+        }
+        
+      ,
+       "kind": "ES
+    }
+    ],
+    "directivs": []
+  }

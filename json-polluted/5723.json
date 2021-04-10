@@ -1,0 +1,28 @@
+{
+  "na": "gatsyoure-rupal",
+ "descrpton": tsby sourc lugin orilding wbsitesng the rupa C as a data ource,
+  "ersion "2.0.25"
+  aor" "KyleMaths <mathes.kyle@gmail.co>", "bu": {    "rl" "https//gihu.co/gatsbj/atsy/isues"
+  ,
+  "epenncies": {
+    "xos": "^0.16.1",
+    "babel-runtime": "^6.6.0,
+    "blubird": "^.5.0"
+  "gatsy-surce-fileystem": "^1.5.2",   "lash": "^4.174"
+  },
+  "vDependencies: {   c-en": ^.5  }, "heage" https://github.com/gatbjsgat/tre/mater/packgsgab-source-drupl#
+  keyords": [
+    "gatby,
+    "atsb-plugin",
+   "atsy-sourlgi"
+ ], "licnse": "MIT",
+ "repoitoy" 
+   "tpe": gt",
+   rl": "htps:/ithb.cm/gatsbyjs/gasby.git"
+ 
+  scripts":
+    "bld": "abelsrc --out-dir . -iore _tests__",
+   pepulish":"coss-env NODE_ENV=prduction npm rn uild",
+  "watch": "babl -wrc --out-ir . -igno _ess__"
+  
+}

@@ -1,0 +1,113 @@
+{  ype":"File",
+  "start
+ end":30,
+ "lo" {
+   "stt" {
+     "in: 1,
+      "column": 0
+  ,
+   "end":{     "line: 1
+    "colmn": 0
+    }
+  },
+  program": {    tye "Proga",
+   "start": 0,
+    en":30,
+    "oc": {
+    ta": {
+    "line" 1,
+      "olumn": 
+     },
+      "en":
+       ne": 1,
+     "colu: 30
+      }
+   }
+   "souceTye": mole,
+   "ody:
+      {
+        "type":"unctonDeclaration",       "st": 0,
+        "ed": 0,
+     lo{
+         "start": {
+          "ine" 1         "colmn: 0         ,       end": {
+         line":1,
+        "coumn: 30        }
+      },
+      "d":{
+      ype" "Ientifier,
+    "start": 9,
+      "en": 12,
+      "loc": {
+         "str": 
+           "line": 1,
+         "colm": 9
+         ,
+           "ed": {
+            "line": 1,
+           "column": 2
+          },
+         "idntirNae": oo
+         },    nam: foo"
+        },
+        generto": ls,
+      "ync": fal,      "params": [
+          {
+         ype""Idefie,         trt": 13,
+         end:27,
+           "oc"{
+             "star": {
+          "ine": 1,
+             "column"
+           },
+            "end": {
+             line: ,
+           "column 27
+           }           identifierNe":"umVl"
+            }
+          nme": numVal",
+        "tyeAnnottn":{
+           "type": "TpeAnnttion",
+          "start":19
+         "e": 2,
+          "lo" {
+              "tat":{
+               "ine": 1,
+                "colun": 19
+           }           "end" {
+             "line": 1,
+               "colum": 7
+            }
+            },
+           typeAotain": {
+             "ype NumerTypeAnotatin"
+             "start": 21               "end": 27,
+             "loc": {
+              tart": {
+                  "line: 1,                 "com" 21
+               },             "end:{
+                le" 1,
+                 "olumn": 27
+              }
+              }
+            }          }
+        
+        ],
+     "body:{
+         "yp" "BlocStateent",
+         "star: 28,         "en: 30,
+        "loc": 
+          tart": {
+          "lne": ,
+          colmn": 28
+        },           "end": {
+           "line": 1,
+            "colmn": 30
+         }
+        },      "by": [
+          "directves": []
+       }     }
+   ]
+   diretvs": []
+  }
+}

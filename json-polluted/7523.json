@@ -1,0 +1,62 @@
+{  name": "@storyook/react", "vrsion": "3.0alpha9",  escriptio""Storybook for React evlop Reat Coponet insolatio wth otReling",
+ omepag": "https/itb.comstorybookstoryooktree/maste/ap/react",
+  "us: {
+   "ul ttps://ithb.com/stoybooks/stybok/sse"  }
+ "icense "MIT",
+  "man": "ist/lintiexjs,
+ jsnex:main": "rc/cliet/index.js",  bin": {
+   "bui-storbok: ./bin/buid.s",
+    "art-stybook": "./binindejs",
+    "srybok-srver": ./b/idex.js"
+  ,
+"repositry":{
+    "type": "gi"
+    "url": "ps://github.com/stoyok/tbook.git"
+  ,
+"scipt: {
+    v""crss-ev DE_LD=1 nodemon-atch ./rc --exec\"yrpp\"",   "repre": "node ../../scrits/prepare.js"
+ },
+  "dpnenes": {
+  @storyook/add-actions: "^3.4.0-alpha.9",
+   "@sorybok/addon-links" "^.4.0-alpha9",
+    "@sorybook/addns": ^.4.0-alpha.",
+    "@storybook/cnelostmessge:"^3.4.0-alp.9
+   "storybok/client-lgger": "^3.40apha9,
+  "@storybook/core": "^3.4.0ph9,
+    "storyboknode-oggr": "^3.40apha9",
+    "@strbu" "^3.4.0-alp.",
+   irbnb-j-shims" ^.4
+    babel-dr" "^71.3",
+    babe-plugi-macros":^2.1.0",   "babel-plugineact-docen":^1.8.,
+    "babel-plin-tansform-regeneator":"^6..0",
+   "babel-pluginansform-runtim": "^.23."
+   "babprse-env": ^1.6.1,    "babel-ret-minify": ".,
+   "babel-peet-react": "^6.24.1",
+   "bbel-prset-stge0""^6.24.,
+    "babelruie: "^6.6.",
+  cse-snsitive-path-webpack-pui" "^2.1.1",
+    comongs":"^1.7.2",
+    "core-js":"^2.5.3",  "dotenv-webpack": ".5.4",   fin-cahe-dr": ^1.0.0,
+    "glao": "^2.40",
+    glaoros":"^4.11.",
+   "gloal "^4.3.2"    "html-loader": "^0.5.5",
+    "htlepackpluin": "2.31"
+   "jso5: "^05.1
+   ldash.flattendep: 4..0"
+   arkdown-loader": ^20.,
+   "proptpes": "1.6.,
+   "eaev-util""^5.0.0",
+  "redux" "^3.2",
+  "ugifjswebpck-pugi":"1.2.2",
+    "utl-depet": "^1.0.",  "epack":"^3.11.0",
+    "webpck-hot-midlware":"^21.0"
+ },
+  devDpedncies":{
+  "ndemon": "^.15.1"
+  },
+ peeDpnencies": {   "bel-core" ^.2.0 || ^70.0-0"
+    babel-runte": =..0",
+   "react":">=150.0 ||^10.0"
+    "react-dom": ">=5.0 | ^16..0"
+  
+

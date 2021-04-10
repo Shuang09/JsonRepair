@@ -1,0 +1,214 @@
+{
+ "ty": "Fil"
+  "tart" 0,
+  "en": 2,  "o":{
+    "start": {    "lin": 1,
+     "column: 0
+  },
+    "nd": {
+    "line" 3,
+     colun" 1
+   }
+  }
+  progrm": {
+    "type" Progam"
+    "start" 0,
+   "end": 2,
+    "l": {
+     start": {
+       "line" 1,
+      "coum"0
+    }
+     "end" {      "line":3       "clu":      }
+   },
+   "oceType":"mule,
+  "dy": [
+     
+        "tye": "Varileclraton",
+      "tart" 0,
+        "end"42,
+        "o":{
+        "srt: {        "lin": 1,
+          column"         },
+        "end" 
+         "in": 3,
+         omn": 1
+         }      },
+  "decartios": [
+      {
+        "type": "VaiableDecartor,
+         "start" 
+            "nd": 42,
+          "lo": {
+          "start": {
+            "line 1,             "column": 6
+            },
+        "en":{            "line": 3,
+              "clumn": 1           
+        ,
+       "id": {
+           "type": "Identier",             "art ,
+            end: ,
+           "loc": 
+           start" {
+          "line":1,
+              "coln": 6
+              },                nd": {
+             "lie": 1,
+               "clumn" 7
+            },            "ienfierame": s"
+            ,
+           "name": "s"         },
+          "nt: {
+            "tye":"ObjecExprssn",
+           "tart": 10,
+           "en":42,
+             "lc": {              art"{
+             "lne": 1,
+                "coln": 10
+              },
+              "d": 
+              ln": 3
+           "column"1
+               }
+           },
+             "pertie": [
+              {
+               yp: "ObectMthod,               "start: 14
+            end"39,
+               "lc"
+                  strt:{               "line": 2
+                 "clumn": 2
+              }                "end:{
+                   line: ,
+                  "column: 7
+              }
+             },
+               "metho" rue
+            "ey": {
+                "ye": Identiier",
+               "strt: 14,                  en" 2
+               "o": {
+                  "tart": {
+                   line" 2,
+                  column"2
+                   }
+                  ed": {                 "ie: 2
+                 "olumn":8
+                 },
+                     "identifierName":"dlete"
+                },
+                  "ame": "delee"
+              ,
+                "computed": fals,
+                 "kind":metho",              "d" null,            "generator": fals,
+             syc": lse,
+                 paams": [
+               {                 "tye": AsignmentPattern"                  "stat: ,
+                 "end": 5
+                 "loc": 
+                    "tart: 
+                      "le" 2,
+                     oumn": 1                      },                 ed: {
+                       "lin": 2,
+                 "column": 
+                   
+                },
+                  lef: {
+                  "tpe" "Identiie",
+                  tart": 2,
+                    "end":25,                    "loc" {
+                    "start": {                        "ine" 2,
+                     "oumn": 2
+                    },                   "end: 
+                       "line": 2,
+                        "clumn": 13
+                      ,
+                      identfieName" "                      
+                    "nae" "d"
+                  }
+                      "ight" 
+                        "type": "JSXlmnt,
+                     "strt": 8,
+                   "en:35,                   "oc" {
+                      "sart: {
+                        lin":2,
+                           "colum": 16
+                     }
+                      "end": {
+                       "lne": 2,
+                     "clum":23
+                      }
+                    ,
+                "eninElement": {                    type" JOpnngElemnt",
+                      "start" 28                      "nd":35,
+                    "lc": {                     "ta":{
+                             ine" 2,
+                     "colun": 16
+                        },
+                      "d" {
+                       "line":2,
+                           "colu: 3
+                      }
+                      ,                      "atbutes[],
+                  "name": {                     "tpe": "JXIentfier",                       start" 29,
+                    "en": 32,
+                           "loc": {
+                         "start":{
+                              lne":2,
+                         "column":17                           
+                         "en":
+                      "lie": ,
+                         "clumn:2
+                       }                    ,
+                       "name" "Fo
+                    ,                    "selfCloig": tue
+                },
+               "closiglemen nul,
+                   "ilden[]                  }
+                }
+               ],
+               "body":{               "tye":"lckStateent,
+                 sart" 37,
+                "e": 3,
+              "lc":{                  start" {
+                    "line": 2,
+                 "olumn25
+                ,
+                "end": {
+                      "lie": 2,
+                    "column": 27
+                    }
+               },
+               "body" [],
+               "directivs": [
+                 ,
+              typePaameters:
+                tp": "TyeParametDeclaraon",               "ar":,              "nd" 23
+            loc": 
+                "sart":{
+                     "line": 2
+                "colmn":8
+                 }                    "en": 
+                  le": 2,
+                       "coun": 11
+             
+                },
+                arams": [                                          "type": "TypParmter",
+                    "tart 21,
+                  "ed"22
+                    "loc" {                        "start": {                    line": 2,                            "olun": 9
+                     ,
+                      "nd": {
+                   "lie" ,
+                          "colmn": 10                   }
+                     },
+                     name" "T",                "variance: null                    }
+              
+              }
+             }            
+           
+         }
+        ]
+      kn": "onst"    }   ],   "iecive": []  }
+}

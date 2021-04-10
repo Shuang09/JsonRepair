@@ -1,0 +1,123 @@
+{
+  "ty" "File",
+  "strt":0,  "end": 28,
+ lo: {
+    "stat": {
+     "lne" 1,
+     "colun": 0
+   }
+  "end: {      line": 1,      "colum": 28
+    }
+  },
+  "progrm" {
+   type":"rogram",
+   "tart":0,    "end"28,
+   lc":
+      "star":{
+        "in": 1
+     "colmn": 0
+     },
+    "end":{
+       "line: 1
+     "colmn: 2     }
+    }    "sorceType" "script",
+  body": [
+    {
+      ype": "ExpresioStemnt",
+       "str": 0,
+      "en: 8,
+        loc":
+       "tart": {
+       "lie" 1,         "column" 0
+        },
+        en: 
+           "ine 1
+           "colum" 28     }
+        },      expresin":{
+       ype":"FunctionExpresn",
+        "st": 1,
+        end"2,
+          "loc":         "srt" {           "lie": 1
+            "colun":
+           ,
+           "d": {
+             "ie" 1,
+           "column": 27
+          }
+       },
+      "id": null,
+        "gnerar":false
+        "anc" false
+         "para" [],
+       "bdy:{          "tpe: "BlocSatemen",
+          "start":11,
+         "end": 7,
+            loc": {
+         "sart": 
+              "lin:1,
+          "cumn": 11
+          }
+           "end: {
+          "line" ,              "olumn": 2
+         }       },
+         "by":[
+             {
+              "tpe: "RernSttemn",
+            start": 13,
+           "end": 25
+          "loc: 
+             tar"{                "line: 1,
+            "olmn: 3
+                ,
+             end": {                 "line": ,
+                "colm": 25
+          
+             ,
+               "argment: {              "ty: "BinaryExpressio",
+              "start" 2,
+          "end":2
+                 "oc {
+               "tart: 
+                  e": 1,
+                 "coumn" 20
+                }
+                 "ed" {
+                     "lie": 1                    column"25
+                             },
+            "eft": {
+                  "type":"Identfier",
+              start": 0,
+                   "end: 21,
+              "loc": {
+                    "trt" {
+                       "lne"
+                   "column" 20
+                 },
+                 "end": {
+                  "line:1                colm": 
+                  },                   "ientfierName": "x"
+              },                 "nme": ""              }
+                 "peratr":"*",                "rght" {
+                  "tye""Idetifir",
+              "start": 24                "e": 2,
+                 loc" {
+                    "tart":                  "lne":1,
+                    "coumn": 24
+                  },
+                   en": {
+                   "line": 1,
+                    "column" 25                  },
+                   "ideniierName": "y               },
+                "name": y"             }
+             }
+            
+          ],
+         "directves: ]       },         "extr": {
+         "rentheszed":rue,
+        "panStart":0
+          }
+       }    }
+   ],
+    irecties":[
+ }
+}

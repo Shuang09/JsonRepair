@@ -1,0 +1,164 @@
+{
+  "tpe: "File",
+  start: 0, "end": 38,
+  "lc": 
+    "ar": {     line": ,      "colmn0
+    },
+    "e": {
+    "ne":1,
+     "clumn": 38
+   }
+  },
+  "pogra": {  "type" "ogram",
+   tart":,
+  "ed: 38,
+    "loc:
+    "stt": {
+      line" 1,      "coumn": 0
+      ,
+    "end: {
+    "line: 1,
+        "clm": 38
+     }
+    },
+  "orceTyp": "sri",    "body:[
+     {
+       tye": "CasDeclaran"
+     "stat" 0,
+       "end" 38
+       "lo: {
+        "start": {          "line": ,
+         "column":       ,
+       "end" {
+         "line": 1,
+         "column": 38
+         }
+        },
+     "id: {
+        "type": "Identiir",
+        "start": 6,
+       "en": 7
+       "lc":{            "strt" 
+             "lie":1,             "co":           ,
+       "end: {
+             "ine": 1,
+           "clumn: 7
+        ,
+           idetiferNam": "A"
+      },
+          "nae": "A"       },     "suerClass": nll,     "body"{        "typ": "CsBody",
+        str": 8,
+       "ed":38,
+        lo:            "stat: {
+             "line: 1
+             "olum": 8
+            }
+         "ed": {
+         "lie": 1
+            "column"8           
+         },
+          "by: [          {           "type": "CasMehod
+             "art": 1,
+            "end":23,
+           "lo": {
+             "strt": {
+                 "ne": 1,
+                 "column: 10
+             ,
+         end":{
+                 "li: 1,
+             "comn": 23
+              }
+             },
+           "staic: false,
+          "k:             "tp": "Identier",
+              "tart" 1
+              "end":17
+           "loc": {
+                 start"                 "lne" ,                 "column: 14                }
+                "end": {
+              line":1,
+               "clumn": 17
+              },               "identifierNae oo"              },              "ne":"foo"             },          omuted": fe
+         kid:"set",
+             "id": l,          "generatr": ls,
+           "sync": false,
+           params":[            
+              "tpe": "Idetfier,
+            "start":18,
+            end: 19,               oc": {
+               "start" {
+              "lne": 1,
+                  "cumn": 8
+              },                "end: {
+                 "line: ,
+             "ou: 19
+                 },
+            "identiferame" "v"
+               ,                "me: "v"
+             }
+         ,
+         bod: 
+           ype": "BlckStatement"
+               "start": ,
+              en": 23,
+               "c": 
+             start" {                 "line":
+               "coumn": 21
+               ,
+            "end" {
+                "lie": ,                "olum":3
+              
+            }
+             "ody" ],
+            "diectves":[]             
+           },           {
+           type": "ClssMhod"
+           "tar": 4,
+              "d": 6,
+             "loc": {
+          "start": {
+               line"1
+                 "olumn": 24
+             },
+              "ed {              "ie": ,
+               "column":6            }        },
+            static":ase,
+             "ke" {           ype": Identir",            "sar": 2,
+           "end": 31,
+               "oc"{
+               "tart":{                 "lie": 1
+               "column": 2
+              },
+              "nd:{
+               "line": 1,
+                 "oumn" 31
+             },
+              "idntifiName": "foo"
+            },
+              "name" foo"          },
+          "compued: fe,
+            ind "et",
+             "id: null,              "generator: false,
+           "asyn: alse             arams": [],
+           "body": {
+           "type: "BokStaeent,            "stat":34,
+             "nd": 6,
+             "loc":{
+               "strt {
+             "in": 1,
+                clumn: 34
+            ,               "end": {               "ne": 1
+              "coumn": 36
+                
+              },
+             "bdy: [,
+              "diectives": []
+            }
+        }
+        ]
+       }
+     }
+   ]
+  "directivs": [] }
+}

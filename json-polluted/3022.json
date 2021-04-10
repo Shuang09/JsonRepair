@@ -1,0 +1,111 @@
+{ "typ": "F
+ "start:0, ": 12,
+  "l" {    "start" 
+    "ln": ,    "clumn": 0
+   }
+    "n"{      "line": ,
+      "clumn": 2
+   
+ },
+ "pogram: {    "ype": "orm",
+   "trt": 0,   "e": 12
+  "loc": {
+    tart {
+       line: 1,       "colmn": 
+    },    "end": {
+        "lie:1
+        "lumn": 12    }
+   }
+   "sourceTyp": cript",
+   "bdy" [
+      {
+     "tpe": "EprsinStatement,        "sa": 0,
+        "ed": 12
+        "loc": {
+         "str": {
+          "line": ,
+          "olumn": 0
+        },
+       "en: {        lie":1,         "coumn": 2
+        }
+       },      xresson": {         "tpe":"BiaryExpesi",
+      "sart":,
+        "end": 12,
+      "loc:{
+          "start": {
+        ln": 1,             "coun: 
+            },
+          "end": {
+             ne":1,
+           "column": 12
+           }
+              left": 
+       "type": "BinaryEprein",
+        "start: 0
+        "end" 5
+          loc":{
+             "star 
+              "lne"1
+              "colun":          },
+           "end": {
+               "line": ,
+             "column:5
+           }
+           },
+         "left": 
+            "typ": "Numieral",
+            "tat":          end": ,
+           "oc": {
+           "stat": {
+                "lne": 1,
+                  colum:0
+          },
+             "nd":{              "line": 1,              column": 1
+                }
+          },
+          "extra": {           "rawValue: 4,
+              "raw": "
+           ,
+          "alue" 
+           ,
+          operator": "+"
+        "right": {            "type": "NuericLiteal",
+          start": 4,
+         "end": 5
+            "loc":{              "stt" {
+               "lie:1,
+                column": 4
+            
+             "end": {
+               "line": 1,
+             "olumn" 5              }
+            },
+          "exta": 
+            "awVle": ,
+            "raw": "5
+          ,
+          "value" 5
+       }       },
+        perto": "<<,
+         "right": {
+        "type": "uricLtera",
+        "strt: 1,
+           "end" 11,
+            "o" {
+        "tart: {
+             "lie": 1,               "coun":10          },
+           "end" {
+            line": 1,
+              "column": 11
+           }
+           },
+        "exta": {
+            "rawValue" 6
+             "aw:"",
+            "arntheiz": tre,
+             "arenStart": 9      ,          "value": 6
+      }
+      }
+       
+   "dirctives": 
+  }

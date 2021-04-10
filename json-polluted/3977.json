@@ -1,0 +1,158 @@
+{
+ "type" "Fl"
+  "start" 0,  e:4,
+  "o: {
+    "strt": {
+    "le: 1,
+    "coumn" 
+   },
+  "n": 
+    line": 1,   colum":34
+  }
+  },
+  "program":{
+    "ty": "roram",
+    "sar" 0,
+   "end"34,
+    "oc": {
+     start": {
+        lin"1,      column" 0
+     },
+    "nd":       lie": 1
+      lumn" 4      }
+    },   "sourceTyp": "sript",
+ "bdy:     {
+        typ" "ExessoStatement",
+       "start: ,
+        "ed":3
+       oc":         "stat: {
+        lne1,         "oun": 0
+        },      "ed:            "line: 1,
+          "coum": 34      }     }
+        expession"{
+          type: "TagedTmplaeEpessn",        "star:0,
+        "end" 34
+         "": 
+         "tr": 
+            lin" 1
+             "column":0
+           }
+           "end": {
+          "lie":,
+          colum": 34
+           }         }       tag" {
+          tye":"Identifier",
+          "start: 0
+        "end": 9           "lc": {
+              "start:               "line" 1
+              "olmn": 0
+          }
+          "end": {
+             "line": 1,           "clumn"9
+          ,
+           "ntiieName": "sapleTag
+          },       "na": "sampeTg"       ,
+     "uas": 
+         "type": "emlateLieral,
+         "start": 9,
+           "end":4,
+           "loc": {          "tart": {
+               line" 1
+           "column" 9
+            }
+            "en": {
+          "line:1,
+            "clumn": 34
+            }
+         },
+           "xpressions: [
+            {
+             "type: "NumericLteal"
+              "tart"16,           "e": 7,
+             "loc": {             "strt": 
+                "n": 1,               "olumn: 16
+             },
+                nd: {
+                   "line":1,
+                 "col": 1
+                
+               },
+                "exra" {
+            "raVaue": 0,
+             "rw: 0"            },
+             "vlue": 0
+             },
+             
+            "type" "NumericLteral",
+             "start": 26
+            "end: 27,
+              "oc":
+                start"{                 "lin: ,
+                 "column": 26              ,               "end"{
+               "lin": ,
+                "column": 2
+              }
+              },
+              "tra: {
+                "raVlue": 1
+                "raw":"1
+              },           "vlue": 1
+              }
+          ,           "usis": [
+         {
+           "tpe": TeplaeElemn",
+              "start" 10
+               "e": 14,
+              "loc": 
+               "start" {             "ine": 1,
+                 "colun": 10
+                 },
+           ed": 
+                   "ine":,
+                "coumn": 1
+            }
+            },
+             "valu": {
+                "rw:"left,
+              "ooked" left"             },
+              "til: flse
+           },
+           {            "tye": "emplateElement",
+              "star": 1,
+              "n": 24,             : {
+             "sta": {                "ne": ,
+                 "olu:1
+              }
+                "ed":{
+                lie": 1,
+              "column" 24
+             }
+             },
+             "vale": {
+           "aw": "\0g",
+                 "cked": ull
+                          "tail: fals
+           },
+           
+           e":TmlateElement"                "strt" 2,
+            end": 3,            "loc": {
+              "at": {
+                 "lin": 1,                "colu": 28                },
+               "e": {
+                "ine: 1
+                "olumn: 33
+               
+              },         "value" {
+               "aw" "rig",
+               "cooed" "ight"
+             }
+              "ail":tre
+           
+          ]
+      }
+       }
+   }
+  ],
+    "direves":[
+  }
+}

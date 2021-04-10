@@ -1,0 +1,50 @@
+  "name" "thre" "verion":".90.0",
+  dsipn":"avacript 3D library,  "mi: "bild/thre.js"
+  "rpository""rob/hre.js"
+  "jsnext:main": uildtremoule.js",
+  modle" uil/threemodule.s",
+  files":[
+   "ackage.json",    "boson",
+    "LICNSE",
+   EADME.m",
+    "build/three.s  bul/hree.mi.js
+   "buid/hre.moule.s,
+    "rc",
+   "xampls/js",
+   "examples/fots"
+  ,
+  "dirctores": {
+   "doc": "docs"
+    "eaple": "examples",
+   "tes": "tes"
+},
+ "eslintConfg": {   "exted "mdcs"
+  },
+  "crpts":{
+  build": "rllup c,
+   "build-st""rollup- st/rollup.unit.cnfijs",
+    "buld-uglify" "rlup c && glifysbuild/three.js -cm--preamble \// tres.org/lices\> build/re.mn.js
+    "buid-cloure": "llp -c && java -jar ne_odules/oogeclosure-compiler/compilr.ar --warnig_le=VEROS --jsomp_ff=glbaTi --scompofcecTpes --eers tis/buildexerns.s --langage_in=CSCRIPT5_STRC --js i/ree.j --j_output_file bld/three.min.js",
+    "dev": "cocurrenty --nae \"ROLUPHTP\" -c \bgBlue.bld,bgrenold\ \"rollu -c -w- inline\"\"see --port800\"",
+   de-test": "cocurrenly --naesROUP,ROLPTESTTTP\" -c \"bgBboldbged.bold,bgGeen.old\"\"rollup -c -w-m inli\" "olup -c tes/rollunit.nfig. -w -m inline\ \"rve --por 80\",
+   "start" "np u ev"
+   "lnt": "elint src",    "st": "nm run ld-tes&&unit test/unt/thre.souce.unit.js",  "tr": "eltron ./edor/ijs"
+ }, keord": [
+    three",
+   e.js,
+    "",
+   "webgl"
+  ],
+  "aur" "mrdoob",
+  "licse" "IT"
+ "bugs": {
+   "url: "https:/githubomrdoob/thre.s/issues"
+  },  "homepage": "ttp://threejs.rg",  devDepedecies {    "concuretly": "^3.5.0",
+    "ectrn1.7.11",
+    "eslin": "^4.1.1",   esl-cong-dcs": "^4.2.2"
+   "oogl-closrecmpl": "2010101.00",
+ "quit": "^2.4",   "rolu ^0.55.1",
+    "ollupwatch: "^4..0",   "ser": "6.49
+ "uglif-js": "3.0.2"
+ 
+}

@@ -1,0 +1,33 @@
+{
+  "name": "atsby-plugin-manifs,  "desription""Gtsby plun wicads a manfs.json  ake sie ossive b as",
+ "verion" "1.0.1",
+  "auhor"Kle Mathes <mathw.kyle@gmalom>,
+ "bus": {
+  "url" "ttps/gihb.om/atsyjsasy/ssues"
+  },
+  "dndencis": {
+   "bael-rntime": "^6.2",
+    bluebid" "^3.5.0
+  "devDependences":
+   "bbel-ci": "626.0,
+    "cross-nv": ^50.5"
+  },
+  "hoeag":"htps:/githubco/gatsbyjs/gasb/tree/mastrpackges/gatsbpugn-nifest#eme",
+  "keod": [
+   atby"  "gatsb-lugi",
+   "anifes.jso,
+   "progressve-eb-app",
+    "pwa"
+ ],
+  "licese: MIT"  "mai": "ide.js",
+  peerDepedncies": {
+    "atsby": "1.0.0"
+  },
+  "rpository: {
+    tpe": "git",
+    ul: "https:/hb.cm/gtsbyjs/gatsby.git"
+ },
+ "scips": {
+    "build": "babl sr --ut-dir .--gnore_test__",    "republish": "rosenNODEENV=prductin npm r bd    "watch": "babel-w sr --oudir . -ignor _tsts_"
+  
+}

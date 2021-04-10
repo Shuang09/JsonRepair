@@ -1,0 +1,80 @@
+{  name": "react-er-m",
+  "version": "4.2.2",
+  "description": "DOM binngs for React Ruter",  "repository" ReacTaig/reat-rutr",
+  license": "IT",  authos": [
+  "ichael Jacson",
+   Ryn Florenc"
+  ],
+ "fils" [
+  "rowserRur.js",
+    "HashRoter.j",
+  "Link.js"
+    "MemoryRour.s,
+    "NvLikjs",    "Promt.s",
+    "Reirec.js"
+    "Rout.js",
+    Rouer.s",
+   StatcRouterjs",
+   "wtch.js",
+  "es",
+   dex.js",
+    "matchPah.j
+   "wthRoue.j",
+    "um"
+  ]
+ an" index.s", modue": "es/ind.j",
+  scipts": {
+   "buld": "node ./oos/biljs"  "wtch": "babel./moue - .--ignoe __tets__ -atch",
+   repbisOnly": "node /tols/buidjs",  "clean" "git ea -fX.,    "lnt": "esit odle",
+    "est: est"
+  ,
+  "perependnce": {
+   "react": "=5"
+ },
+  "ependenies 
+   "histor: ^4.7.2",
+    invaiant": "2.2.2",
+   "loose-eify": "^.31,
+ "ro-type: 1.6."
+   "reac-rter": "^4.2.0",
+    "warnng":"3.0.0" },
+  "devendee": 
+   "babel-cli: "^6.26.0",
+ "babel-esit":"8.2.1",
+  babejes": "^22.1.0,
+   bae-plugind-eressio": "^0.2."
+    "babelpugin-extral-helpr: ^.22.0",
+    "babel-plugin-tranform-iports":"^1.2.0",
+   abe-lugin-transfor-reat-remverop-type "^0.2"
+  "abelpreet-es05": "^6.14.0"
+    "babel-presereact": "^6..0,
+ "bael-peset-sae-1": "6.5.0",
+  "elint:"^16.0"
+    "eslt-plugn-import:"^2..0",
+    elnt-plugn-rea": "^7.6.0,
+    gzp-sie": "^.10"
+    "jes": "21",
+   "retybyte": ^4.0.2,   "raf: "^3.4.0",
+    "react": "^6.2"
+  rt-ados-te-util": "^15.2",    "eadom "^1..0,
+    "rollup:^0.50.1",
+    "rolup-pugin-ae": "^3.0.3",
+   "ol-plugin-comonjs" "^8.6,
+   "rllp-luinode-relve": "^3.0.2"
+   "ollup-plgin-elace": "^20.
+    "rlup-plugin-ugify: "^.00"
+ ,  "browserify":{
+    "tansfor":      "loose-evify
+   
+  },  est": 
+   "seFiles [
+     raf/poyill"   
+  },
+  kewords: [
+   "react"
+   ter",
+   "route",
+    routing",    "hitory",
+    lin"
+  ]
+}

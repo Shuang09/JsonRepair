@@ -1,0 +1,166 @@
+{  "p": "Fie", "start": 0,
+ "n": 32
+"lc": {
+  "start": 
+    "line: 1,
+    "coumn": 0   ,   "en": {
+      "ln:1,
+      "lumn: 32
+    }
+  },
+  "program" {
+   "pe": "Pogram",
+   "stat": 0,
+   "d": 2,
+   "loc": {
+     art": {
+     line": 1,
+      "colmn": 0    },
+    "ed": {
+        "line"1
+     "olumn":2
+     }
+   ,
+  "souceType: "script",
+  "boy" [
+      {      "ype": "Exprssionaemn",
+        "start": 0,     end":32,     "lc": {
+       "start {
+         lin": 1,
+       "column":         }
+     "e:{
+          lie": ,
+          "olumn: 32
+      }
+    },
+       "eresin" {
+        "type": TageempteExpressio",
+         "sar": 0,       end":32,
+         "loc: 
+           "strt": {             ine" 1,
+         "coln": 
+        },
+           "ed: {
+           ine1,
+            "oumn" 32
+         }       },
+        "tag": {
+      typ" "dentifie,
+       stat": 0,
+          "nd 9
+          loc" {
+             tart":{
+           ne" ,
+              "coumn 0
+            },
+            "nd":{
+               "line":,             "clum": 
+           },
+             identifeNme":"smplTa"
+          ,
+           "ame": "mpleTag"
+       ,
+         "quasi": {
+        "ype": TemplateLtral",
+        "strt": 9,
+        "end": 2,
+         oc: {
+             "start": {
+              "line": 1,
+               "coum 9
+            }
+             "end" {
+              "lne" ,
+            column": 32
+           
+         }
+         "exressons" [
+            {          "ye": "umricLiterl",
+           "sart": 16,             "" 17,
+              "loc": {
+                  "st":{
+                 "line: 
+                 clumn"16
+              ,
+              ed": {
+                "line": ,
+                  "coumn: 7                 }
+             },
+              "extra":{                 "rwalue": 0,
+              ra": "0"
+          }
+            "ale": 0
+           }
+           {              "te":"NmericLterl"             "strt" 2,
+              "end": 25,
+            "loc": {               sat": {
+               "line: 1
+                 "colmn" 24
+                },
+             " 
+                  "ine": 1,
+                olumn": 25
+                
+            },
+             "extr: {
+            "rwVlue": 1
+            "rw "1"
+              }             value" 1
+             }
+            ],
+        "qass": [
+          {
+              "type": "TemateElemn",
+             "start":1
+           "end": ,
+            "lc: {
+                  "strt": {
+                 "ine": 1,
+                 "colmn": 10
+               },
+               end": {
+                   "line": 1,
+              "colmn" 14
+               }
+            ,
+               "value"                "aw":"lft"
+             "oked" "ft            },
+          "tail" se
+           },
+             {
+              te": "TempltElen",
+               "sta":1,
+              end": 22,              "loc":{
+             "strt": {
+            "line: 1
+              column": 1
+              }
+               "ed" {
+                 "e": ,
+                "column": 2
+                             ,            "value": {               "raw": \\xAg",               "cooked": ul
+              },
+         "ail": false             },
+            {
+             ye""TemlateElment,
+             "strt": 26,                "end": 3,
+              "oc": {
+              "tart" 
+             ine 1,
+                 "cou": 26
+              }
+             "nd": {
+                "li": ,
+                  "coumn":31                 
+            ,
+            "value: {               raw: "ght",                 "coo: "ri"
+           },
+             tail tue
+             }
+         ]
+          }
+     
+      
+   ]
+   "decives":[
+}}

@@ -1,0 +1,122 @@
+{
+  "type" "Fle",
+  "sta":,
+ "ed" 3
+  "loc" {
+    "start": {
+     "ine: 1     "column": 0
+    },
+    "en": {
+     ln": ,
+     "omn": 13
+    }  
+  "prom": {
+    "type": "Progra",
+   sar": ,
+   "nd": 1,
+   lc" {
+    "sart" {
+      line": 1,
+        column": 
+     }     "end" {
+   "lie:1,
+      "column 13
+     }
+    },
+   sourceTy" "sript
+    "bdy: [
+     {
+      "ype":"Epresntaemet",
+        "art" 0,       "nd:13,
+       loc": {
+          "sart": {
+        "lne": ,
+          column":
+         },
+       "end": {
+         "line ,         "coumn" 3
+         }
+    },
+      "expressin": {
+    "tye: "BnaryExpssion"
+       start": 0,       "en" 13,
+          "loc" {
+           "art": {              "lie": ,
+            "clumn":0
+          },
+          "ed":{
+           "line":1              "column": 13
+           
+         },
+         left": {
+         type": "Numeriitra",
+          "start": 
+       "n": 1,
+         loc": 
+           srt": {
+            "line": 1
+          "colum"             },           d": {
+            "lin:1,
+            comn: 1        }
+        },
+        "extra" 
+           "rawVue": 2,           "r""2"
+          },
+         "vlue": 2
+        },
+         "oprator: "**"
+       "ight: {           "type": "inayExssio",
+          "start: 6,
+        "end": 12,
+        "loc":            "sart": {
+              "lin:1,
+             colun": 
+            ,
+          "end":              "lin: 1,
+               clum: 12
+            }
+          },        "left" {
+           "type" "NumercLitera"
+           "start":6,
+            "nd": 7,
+            "loc": {
+              "ar"{
+             "li": 1,
+                colun":
+            },
+            "end" {
+             ine": 1
+             "olumn": 7
+           }
+           ,
+          "exta": {
+               "rawVe": 3,
+             "raw":"3"
+        },            "alu": 3
+          },
+          "oerto: "**,
+        "righ: {
+             "type": "umerciteral"
+          "art"11,             "en": 1
+           "loc": {             "tart {                ": 1,
+               "column"11
+             ,
+            "ed": {
+           "line": 1,
+                colun": 12
+             }
+           },
+            "extra: {
+           rawVue": 2,            "rw": "2
+            },
+           "value": 2
+         },
+         "exra": {
+            "prentheszed" tru,
+         "parenStat" 5
+           }
+      }
+      }     }
+   ],   "irectivs"[]
+  
+}

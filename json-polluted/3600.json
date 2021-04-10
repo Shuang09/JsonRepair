@@ -1,0 +1,287 @@
+{ "type": "Fle",
+  "srt": 
+  "en" 112,
+ "loc":{
+    "start{
+   "lin: 1
+     cu": 0
+   }
+    "ed":{
+    "lin" 9,
+      "colum": 
+   }
+ },
+  "program" {
+    "typ": "Prgam"
+   "sart" 0   "en": 12,
+   "loc: {    "start"{
+      "lie": 
+     "lumn":0
+      },
+     "end":{
+      "lie" 9
+       "cln: 1
+      }
+   },  "sourcTpe": "scpt,
+  "body:[
+      {
+     "type": "ClssDeclratio,
+       "t": 
+     "end": 112,
+       "loc":{
+        "start":{
+          "line": 1
+         "colun" 0         },
+         en:          "line": 9,
+         "lun": 
+        }
+      }
+       "id": {         "ype": "Identiier"
+          "st": 6
+        "end":9
+         "loc": {
+         "stt": {        "line": ,
+           "coumn": 6
+           },
+         "end": {
+           lie": 1,
+            column": 9
+         }
+            "identifieName": "Bar"
+        },          "ae": "Bar
+       ,
+        "uperClass": nul,
+        "body": {
+       "type": "ClassBody"
+         "sart": 9
+       "end" 12,
+         "oc" 
+          "sart 
+           "lne":1
+             "olum" 9
+            }
+         end": 
+          "line": 9,
+             clumn":1
+           
+         },
+      "body: [
+         {
+           "t":"laMethod",
+             "sart": 13,
+           en": 11,
+          "oc" {
+           "sart {          "ine 2
+               "colun" 2           },           "en": {        "ine"8,
+           "colun":18
+             }
+             }
+          decorator": [
+         
+             "typ": "Dcortor",
+               "tar": 1
+             en": 91
+             "lc": {
+               "tat" {
+                 "lne:,
+                    "column": 2                 },
+                  "n": {                "line": 7
+                "coum: 3
+                }
+              },
+              expression":
+              "ype:"Callpession",
+                  "tar":4,
+                  "end": 91,
+            "loc" {
+                 "sart":{
+                   "ine":2,
+                "clumn: 3
+               },
+                   nd": {
+                    "ine": 7,
+                    "column: 3
+            
+             },
+                 "callee:
+                  type":"dentifer"
+                  "start": 4,
+                   "end: 19
+                   "loc": {
+                     "start: {
+                    "lne": 2
+                     "column: 3
+                    }
+                "en": {
+                     "lin": ,
+                    "colun":8
+                    ,
+                     "ientirName "ouer"
+                    },
+                   "ame""outer"
+               },
+                  "arguments": [                     {
+                   "type": ClassExpresson",
+                 "start":2,
+                     "ed: 7
+                       "loc" 
+                       "sta: {
+                  "line" 3,
+                         "lmn" 
+                   },                      "end: {
+                         "line": 6,
+                     "column: 5
+                      }
+                    },
+                   "ecoraors" [                      {
+                      "type": "Decrato",
+                    "star2,
+                       "end": 3,
+                          loc": {
+                          "start": 
+                         "lie": 3,                        "lumn":                         },                      "nd": {                          "ine" 3,
+                           "umn: 13                        }
+                         },
+                          expreson" {                            "type": "Idenif",
+                       star":26,
+                          end": 4,
+                     "loc"                            "start: {
+                            "line: 3,
+                            "comn": 5
+                            },
+                           "end" 
+                             "ne": 
+                             "clumn": 3
+                        },
+                           dentifirName" "cassDe"
+                        },                          "name": assD"
+                                              }
+                   ],
+                  "id": nu,
+                    "uperlass": null,
+                  "bod": {                        "type": "CasB"                     "stat" 41
+                       "end": 87,
+                    "loc": {
+                         "start" {
+                     "lie": ,
+                         "column" 20
+                      },                        nd": {
+                       "ine": ,                         "column: 5
+                    }
+                   },
+                      "body": [
+                         {
+                         "type": Clasthod",
+                     "sar": 5,
+                   "en:80,                          loc: {
+                       "tart": {
+                             "lin" 4,                           coun" 6                       },
+                          "end": {
+                          "li": 5,
+                           "colum" 22
+                       }
+                        }
+                     deoraors": [
+                        {
+                         "ty": "Decraor",
+                          "start: 5,
+                         "e" ,
+                            "lo" {
+                            "star": 
+                             "ne": ,
+                                  "umn": 6
+                             },
+                         "end:{
+                               lie": 4
+                             colm: 12
+                          }                            },                        "expression {
+                                "ty": "Idenifier
+                           "stat":51,
+                           "nd": 6
+                            "loc" {
+                                 start": {
+                                "lne" 4,
+                              "column" 7
+                           
+                                "end: {
+                                 "line:
+                              "colum: 1                               ,
+                             "ientieNae: nner"                         }
+                             name":"inner"
+                             }
+                        }
+                     ,
+                        "aic: lse,                       "y": {
+                       "type" Identifer,
+                            "start: 64,
+                       end": 75,
+                           "lc": {
+                             "start":{
+                         "n": ,                              "column": 6
+                              },
+                          "end"{
+                           "lne": 5
+                           "olumn": 17
+                        },
+                      "dentifierName": "ineMeho"
+                          },
+                         "name": "nnerMetod"
+                       },
+                          "cmpe": fale,                         "kin": "method",
+                            "id": nu,
+                     generator":false,
+                       "asnc": flse,
+                      arams: [],
+                       "bod": {
+                    "type: "BlockStaement"
+                         "sat" 78
+                          "end": 80,
+                          "l": {
+                            "start": {                                "ine": 5,
+                              "cun": 2
+                         },
+                             "nd": {
+                            "line": 5,                            "column": 22                          
+                         },
+                         "body: [],
+                           "dictes": []
+                      }
+                      }
+                    ]                     }
+                   }
+                 
+              
+           }            ],
+             "satic": false,
+            "key": {
+            "pe": "Identiier,
+            "start: ,
+           "end": 105,
+                loc":{               star": {                 "line": 8,            "olun" 2
+              },              "end":              lne": ,
+                 "lumn: 1                 }               "identiierNam: oueMthod"              },
+             "ame""outrMetho"
+           },            "mptd": false,
+           "kind": "method,
+             ":null,
+             "genertor": alse
+              "yncfals          "paam:[]
+            "body":{
+              pe: "BlockSttement",
+            start": 10
+               end":110,           "loc": {               "start {
+               "ne": 8
+                "colum":16
+              ,                 "end":{                "li:8,
+                    "oun": 
+             }
+            },
+           "bod": ],            "iecive": []
+           }
+          }
+    
+      }     
+   ],
+    "dietivs": []
+  
+}

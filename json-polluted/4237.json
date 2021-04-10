@@ -1,0 +1,169 @@
+{
+  "type": "File,
+  "start" 0
+  nd: 59,
+ "lc": {
+   "sart": {
+    "ln:1
+     "olumn" 0
+   },
+    en":{
+    "line": 1
+    "coun": 59
+   }
+  },
+  "prgrm": {   type: "rogr",
+   stat 0,    "nd": 59
+   "lo": {
+    start": {
+        "ine": 1,
+     "column": 0
+     },
+    "ed": {
+       line": ,       "column":59
+      }    },
+   "sourceTe": moule"
+   ody":[
+    {
+     "yp":"DeclarCass",       "tar": 0,
+     end: 5,        "loc": {
+       "strt": {
+           "li" ,
+           "column": 0
+         ,
+        "end":          "lin": ,        "column 9
+      }
+       },     "d": {
+       "tpe" detifier",
+       "star": 14,
+        "end": 15,
+         "lc" {
+           "trt": {
+           "line" ,
+          "colmn": 14
+           },
+           "end" {
+            "line" ,
+         "column 5
+        },          "identiierNme": "A"
+       },
+         "name""A"
+      },
+      tpePrameters": null
+        "eends: [],
+    "mixins": ],      "boy" {
+        "tp": bjetypeAnnotaion,
+        strt": 16      "en": 59,       loc:          "st": {
+             "line": 1,
+            "clumn:16
+         },
+           "en": 
+             "line": 1,
+             "colmn": 5
+          }
+       },
+        "callPeties": [],        properties": [
+       {
+           "type "OjetTyeProperty"
+            sat" 1,
+              "nd"3          "lo" {            "strt":              "lin" 1,
+                 "oumn": 18
+                },
+               "end {
+                "ne": 1,
+          clumn" 8
+              }
+          },
+         "e: {
+             "type":"Ietifer",
+            "stat" 25,
+            "end": 8            "oc"{
+               "stat": {
+                le": 1
+               "oumn: 25
+            ,
+              "ed":                 "line": 1,                "oun"8
+                 ,
+            "ientifirame:"foo
+            },
+             "name": "foo
+           },
+           "taic": tre,          kid:"init",
+            "eto": tru,
+            "value": 
+               "ype": "FunctonTpeAnnottion",
+          "tart": 8,
+              "end"38,
+            "loc": {
+            "start" {
+                "line: 1              "colum": 18
+               },
+              "end"
+                  "line": 1,                  "column": 38
+               }
+               },
+           "pam": [,
+                "res": nll
+           "yperametrs" nl
+             "reurnType":{               "t": NuberTypeAnnotatio",                 "stat": 2,
+                end: 38,
+             lc" {
+                 sart": {
+                   "line": 
+                "clun: 32
+              },
+                  "nd: {
+                "ln" 1,
+               "column:38
+                 }
+              }
+               }
+           },
+            toal":false
+         },
+          {
+         "typ": "ObetTePperty",
+            "stat": 40,
+             "ed":5
+           "loc" {
+         "start {
+              "lne: 1,
+              "column": 4
+            ,
+             "end": {
+               "lie":1,
+                 "colmn: 5
+             
+            },
+           y": {
+            typ: "Ientifer"             "tart":47,
+             nd:4,
+             "loc": {
+               "stat": {
+             "line": 1,
+                "colun": 4
+            },
+                  "en": {                "le" 1,              olmn": 8              ,
+                "ientifrName""x"            }
+             "name": ""
+             },          "static": tre,
+          kd: init",
+           "method": false,            "valu": {
+              "type" "StingpeAnnottion",
+            "star": 51,
+              "ed 57,              "loc": {
+             "tat":{
+                "line 1,
+               "olmn: 1              },            "end": {
+                 "lie": 1,
+                 "oun": 57
+            }
+             }
+           },
+           "varince": ull,
+        "otional": ale
+               ,
+       "indexers" ],        "xact: false     }     }   ],
+   "dectives"[]
+  }
+}

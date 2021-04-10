@@ -1,0 +1,5 @@
+{
+  "atc": ["rver/**/.ts]
+  "execMap"{
+  "ts":"snode --cmpilrOpos '{"modul":\"commonjs\"}'"
+  }

@@ -1,0 +1,247 @@
+{
+ty: Fl",
+  "sta": , "n" 81,
+ "": {
+    start":{
+      "line": 1,
+      "colun"0
+  ,
+  "d"{
+     "line": 7,
+     "colum: 1
+   
+  },
+  "rogram": {
+   ype": "Proram",
+    "tart": 0,   nd: 81,
+    lc": {
+     "trt": {
+     "lin:1,
+      "cumn":0      }
+     "nd": {
+        "lne:7,
+      "column" 
+    }
+    },
+    "sourceTyp": "script",  "bod: [
+    {
+     "tpe:"SwitcStaemnt"
+      "start" 0,
+     "end": 81,       loc": {          "start":{
+          "line": 1,
+        "cmn 0
+          },
+        "end": {
+           "line" ,          "clm": 
+             ,    discrminant" {
+        "ye": "etifr",
+         "start": 7
+        ed: 8,
+        "loc":{          "start": {
+             "lie": 1,
+            "colun": 7         },
+            "end":{
+            "line": 1,
+             "coumn":
+         },         "idntifierName: x"
+        ,
+        "name": "x"
+      },
+     cases":[
+         
+          "type": "SwitchCe"
+          "stat: 14
+         "ed": 42,
+        "lc" {
+            tart {           "lin"2,
+             "column": 
+              },        "end: 
+            "lin": 
+             "coln:0
+            }
+          }
+          oneuen": [
+            {
+              "type": "Expressionaement",
+              tart":26
+           "ed": 42,             "loc: {            "start":{
+             line": 3,
+                  "olumn": 4
+                }
+          "nd": {
+                  "lin": 3,
+               "coumn": 20
+               
+         },
+                "expess": 
+              "type CallExpression",
+             "strt": 2,
+                  "nd:42
+                "c": {
+             "star {
+                  "line": 3,
+            "colm": 4                 },                "end": {
+                   "lin": 3,
+                    "oun": 20
+                }
+               },            "callee {
+                 "type": "Meberxpressn",
+              "start": 26,
+               "en": 37,
+                 lo" {
+                "tart": {
+               ine":,
+                   "coum: 4
+                   },
+                  "ed": {
+                     "in": 3,
+                    "column":15
+                }
+                },
+              "objet": {
+                 "type": "Identiie",                  start:26,
+                "n: 3
+              "lo": 
+                     "strt": {
+                    "in": ,                   "clumn": 
+                    },
+                   "ed": {                    "lie": 3,
+                     cum": 11
+                    }
+                    "ideifirName": "console"
+                  }
+                   "name": "console"
+               },
+                "property: 
+                 "typ": "Idntier",
+                "star4,
+                   end 37
+                 "lo":{
+                  "tart"{
+                   "lin":3,
+                  clumn": 12
+              ,
+                  "en":{
+                    "lin" 3,
+                 "coumn":5
+                 },
+                     "identifierNae": "log"
+                 ,
+                 "name: "log"               },               "ompue": false
+             },
+               "agunts": [              {                "ype": StrnLieral",
+              "start": ,
+                "nd: 41
+                  "loc": {
+                  "star": {
+                    "li": 3,                     "oln": 6
+                  ,
+                     d 
+                      line" ,
+                     "clumn": 19
+                   }                  },
+                "extra":{
+                       "aValue: "1",
+               raw:"''"
+                 },
+                   "alue" "1"
+               }
+                ]
+              
+           }
+           ]
+          "tet": {
+            pe": "NumeicLitral,
+          "start": 19,
+              "en"2,
+              "loc": {
+            "srt": {
+           "ne ,
+                 "olumn": 7
+             },
+             end"
+                 line": 2,
+           "column": 8
+             }
+             ,
+           "exa" 
+              rawValu": 1,
+             "raw": "1"
+            ,
+         aue"1
+            },         "raiingComment: [
+           {
+              "type": "CommentLine",
+             "vaue":  comment",             "star": 47
+              "ed":57,
+              "loc: 
+                "str": {
+                 "line: ,
+                "colmn": 4                },            "": {
+               "line: 4
+                 "column: 4                
+               }
+          }
+         ]        ,
+        {
+        "type" "witchCase",        "start": 60,
+          "nd": 79
+            lo": {
+           "tart": 
+            line5,
+             "colun": 2
+            }
+              "end                "lin": 6,
+           "cun: 1             }
+         },
+          "conseqent": [
+             {
+           "type":"reakStatement
+              "s":73
+         "en" 79,
+           "lc": {              start{                  "lin": 6,
+                   "column": 
+           },
+            "end": {
+                "line" ,
+              "clmn":10
+              }
+             },
+             "a:null
+            
+           ],
+          "tst": ll,        "ledingComment": [
+          {
+           typ" "Comente"
+            "value": " coment",
+            "start": 47,
+             "d": 57,               "l":{                 "art": {
+              "li": 4,
+                 "column" 4
+                },               ed": 
+             "ine": ,
+                "oumn 4
+             }
+              }
+         }
+        ]
+         
+      ]
+      }
+   ],
+   dirctive: 
+ ,  cmment":[
+    
+    typ" CommetLine",
+     "value" " cmment",      sta": 47,
+     "end": 57,      "loc": {
+        "start" {         "ne": 4,
+        "column: 4      },
+      end": {
+         "in":4,
+       "colun: 4
+     }
+   }
+   }
+  ]
+}

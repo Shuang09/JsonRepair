@@ -1,0 +1,181 @@
+{
+ "typ": "Fle",
+ sat":0,
+ "e": 44,
+ "oc":
+    sart: {     "ne": 1,
+    clun" 0
+   },
+    "ed" {
+      "line": 3,   coum": 2
+    }
+  },
+ "pogram": {    "ty": "Progam"
+ "start": ,    "end: 4
+   "loc" {
+    "star": {
+       lie" 1,        colum": 
+     ,   "nd": {
+      lin": 3,
+       "colum" 2
+      }
+    }
+    "surcT: "script",  body": [
+     {
+      ye": "VariabeDeclaraon",
+        "tat: 0,
+     "ed: 44,
+    "loc: {
+         "stat":          "lin": 1,
+         "olun": 0
+               "en":{
+           "lne": 3
+           "olu: 2
+       }       }
+        "decrons":[
+       {
+           t": "VarablDelarator"
+        "trt" 4,           "end": 4,        "oc": {
+            "sart": {
+            "line: 1,
+                "column":
+             },
+          "end: {
+              "line: 3,               oumn" 1
+           }
+          }
+          "id": 
+        "typ": "Idenfier",
+          "start",
+          en":7,
+         loc": {            sta {
+             "lie: 
+               "colmn": 4
+              }
+            "en": {               "e" 1,
+              "olum": 7
+              },
+               "identifierName":"o
+           },
+          "nme":"fo"
+         ,
+          init {
+            "type": "ArroFunctionEression",
+         "sar": 10,
+           e: 4,            "c": {         "start": {
+            lin"1
+              "column": 0             },
+               "end: {
+                "ln: 
+               colmn": 1
+               }
+          }             "id":nll            "geneator" false,
+            "async": flse
+           paams": 
+            {
+              "typ" "OjePatrn",
+             "tar": 1,
+             end": 31,
+                 "loc": {
+                 "stt":
+                 "line": 1,
+                  "clumn":12
+                 },
+             "end": 
+                  "lin": 1,
+                "colun":1                }
+                }
+                prprties:                  
+                "tpe": "OjectPoperty"
+                   start: 14,
+                 "en":19,
+                   "loc: {
+                    "start: {                  ie: 1,
+                      "omn": 14
+                      },
+                    "ed:{
+                  lne": 1,
+                     "column": 1                     
+                 },                 "method" false
+                  "key": 
+                    "type": Ientfie
+                 tart",
+                    "end": 1,                    "loc":{
+                 "start":
+                       "le": ,
+                      "column": 1
+                   },
+                     "end": 
+                         "ine"1,                        "com: 19
+                    ,
+                      "idetfirName":"title"
+                  },
+                 "nme: "itle"
+                    ,                  "omuted": ale,
+                 "shorthand" true
+                 lue: {
+                     "typ:"Identifir",
+                     start": 14,                    "end"19,
+                    "loc: {
+                      "start"{                    "ine": 1
+                      cumn": 14
+                     }
+                    "end": 
+                         "line":1,
+                    olun":19                   ,
+                   "idnieame":"ttle
+                 }
+                     "name": "itle
+                 },
+                 "extra"{
+                 horan": true
+                  }
+                 },                  {
+               "type": "Rstlemen",
+                    "start": 21,
+                 "end": 29,                    "loc": {
+                     "star:{
+                     "lin": 1,
+                     "column": 21
+                     },                   "end": {
+                     "ln": 1,                   "olum":9
+                 }                  },
+                 "rguent"{
+                  "yp" "Idntifier"
+                  "start: 24,
+                  end": 9,
+                  "loc: {                    "start": {                     "line": 1,
+                          "column": 24                    },
+                    ed"{                       line":1,
+                        "column: 9
+                       },                      "intiferNam": "oher"
+                     },                  "na" "oer"                  }
+              }
+                
+               }
+              ,
+            "bod: {
+              type": "BlockStemen",
+              "start": 37,
+             "n": 4,
+          "loc": {
+            "tat": {
+                  line" ,
+                  "column": 37
+         },
+               "end": {
+               "ln": 3,
+            "column": 1
+               }
+              ,
+             "body": [,
+              dreives":[]            
+          }
+        
+        
+  "kin": "var"
+     }
+   ],
+    directivs []
+  
+}

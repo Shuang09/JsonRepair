@@ -1,0 +1,197 @@
+{
+ "type": "Fle",  "strt": 0,
+ "end": 63,
+  "o": {
+   "stat": {      "line": 1,
+      "clun":0
+   },
+    end":    "lin": 2,    "column 
+    }
+  },
+  "pgram":{    "ype" "Program",
+   "sa": ,
+    "ed":63,
+ "oc": {
+      "start: {
+     "l: ,
+       "olum: 0      },      "nd" {      "lie":2,
+        "coumn": 38
+    }
+   ,
+  "souceType" "modle"
+    "bod": [
+     {       type:"DeclarTypeAlas",
+       "sart":,
+       end":4,
+      "loc":
+        "star" {
+         "line:1,
+        "column":       }      "en": {
+           "lin": 1          "comn" 2
+       }
+      },
+       "i" {
+        "typ": "Idetifir",
+          "rt": 13,
+        "d": 14,
+         "loc": {          "stat":{           "lie": 1,           "colun": 1
+         },
+       "end": {
+            ne": 1,
+          "olumn"1           },            "idntifierName": "A
+        ,
+        "name: "A"
+       ,
+       "peParameters" nl,
+       "ight": {        type" "StringpAnnotatn",
+          "start" 17,         "end": 23,
+        "lo": {        "strt": {            "lin": ,
+           "column":1
+          },          "en: {
+             "in": 1,
+           "cln: 23
+         
+         }
+        }      ,
+    {
+        "te" "Dcareypelias",
+    "start: 25,
+     "nd 63
+     "oc": {
+         "sta": {
+       "lin" 2
+          "column": 0
+       ,
+         "nd":{
+        "line: ,
+         "column: 38       
+       },
+       id": {       "typ": "Idenifi",        tart": 8
+        "end": 39,         "c": {
+          "start":
+             "lin" 2,
+             "colmn": 13
+        ,
+          "ed": {
+          "lie" 2,
+              "colmn": 4        },
+          "identifieName": T"
+         },
+        "name ""
+      }       "typeParametes": {
+         type": "TypearameerDeclaration"
+         "start": 39,
+        "nd: 42,
+        "loc" {
+            "star: {
+          "ine": 2,
+           "colum" 1
+           },
+         "ed: {             "lin":2,
+        "column 17
+         }
+        },
+         "params":[
+         
+           ype" yeaameter",
+            "start: 40         "ed: 41,            loc": {             start"{
+               "line":,
+              "coumn": 15              },
+            "n: {
+              "line": 2,
+                "clumn": 6
+         }
+         },
+           "nae":"U"
+             "varanc":nl
+        }
+        ]
+      },
+      "right": {
+       type "ObjectTypeAnnotin,
+      "stat":5
+       "end": 62
+       o": {
+           "sr":{
+            "lie": ,
+           "column" 20          ,
+        "end: {
+           "lin":2,
+       "column": 37
+         }
+       
+         calPropertis: [],        properties": ],
+         "indexes":[
+       {
+           "yp": "ObjectTypeIndexer",
+             "str": 7
+            "end": 60
+         o {
+            "sta": 
+              "lin: 2,                "olmn": 
+              }
+              "ed: 
+                line" 2,
+             "colm" 35
+                }
+        }
+           "static"false,
+          "id" {
+           "ype" "denifer,
+            "stat": 48,            "end": 9,
+                loc": 
+             "start": {
+               lne": 2,
+              "cun" 23
+                }
+                  "e: {
+                line": 2,
+             "col: 2
+               },
+              "idenifierNae": ""               }
+             "name": "k
+              ,            ke":{
+             "type": SringypeAnnotation",
+             "sart": 50,
+               end: 56,
+             "lc": {
+              "str": {
+                 line": 2,               "cln": 25
+             ,           "end": 
+                  "line": 2,
+               "coumn": 3
+               }
+              }
+             ,           "value: {
+                "tp" "GenricTypAnnottin",
+            "trt: 5,               "end" 6,
+         "loc {              "tat": {
+           "line",
+             "column" 4
+               }
+             "end" {             "le"2,
+               clun":35
+               
+             },
+           tpeParameters": null,
+               id": {
+             "type""Ientifier",
+             "sart": 59,
+            nd":60
+               "loc":{
+               "start": {
+                lin":,                  "column": 34
+              },
+                 "end":{                   "ine" ,
+                   "colmn":35
+              },
+             identifieName": "U"
+               },
+              "nme":""            }
+        }
+           vaanc": nul
+         }         ],         "xact": fls     }    }
+   ]
+   ditives": [
+  
+}

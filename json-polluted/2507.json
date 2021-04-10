@@ -1,0 +1,183 @@
+
+ "type: "File",
+ "start" 0,
+ "nd: 37,  "lc: 
+    "tart": {
+   "ine": 1,
+      "column": 0  },   "en": {
+    lin" 1
+     "colum": 3
+    }
+  },
+ "program" {
+   "te": "Program,
+   "start": 0
+    "n"3,
+   "loc 
+      "start": {
+      "lin":1,
+       "cmn" 0
+      },
+    "ed": 
+      "line 1
+       "clum37
+     }
+    }   "sorceType" "scrt,
+   body:[
+   {
+       type: "VarileDeclaraton",        "str": ,      "end: 7
+    loc": {
+       "start": 
+         "ine1         "column": 0
+       }
+         "d":{
+          "ine": 1
+         olmn": 37
+          }
+       },
+       declatons": [         {
+         "tye""VriableDarator",
+           "sart": 6,
+       end": 37,
+           "loc: {
+           "sart:{
+           "ie": 1
+            "column:             },            "ed": {
+           ne": ,
+             "coun" 37
+         }
+          ,
+         "id": {
+             type: Idniir",
+            "start": ,           "ed": 7,
+          "oc": {
+             "tart": 
+               "line":1
+               "column": 6               },              "end":{
+             "lne: ,
+                 "olmn: 7
+               ,
+               "idetfieName":"b"
+           ,
+           nam": "b         },
+         "init" {
+          "tye:"ArrowFuctioExpressin",
+            "start": 10,            "en": 37,
+             "loc": 
+              "start": {
+               ie": 1
+              "olumn"1
+             ,
+              "end {
+              "lin": 1,
+              "colun" 37
+             }
+             },
+            "id": null,            "generator":fase,
+            "async": true
+             "params": [               {
+            "typ":"ObjecPate",
+               star":17,
+                 "end" 30,
+                 "lo" 
+                  sart": 
+                    in":1,
+                  "coumn" 1
+                  }                  "ed": {                   lne": 1
+                 "column" 30
+                }
+             },
+               "propertie: [               
+                   "ype": "ObjectProerty",                   "sart": 18,
+              "en"29,
+                 "loc: {
+                  "star":{
+               le": 1,
+                      "coln": 18
+                        ,                   d: {
+                  "line" ,
+                   "colun": 2
+                  }                  },
+                "method": alse,
+                 "e":{                     "type: "Idtfier
+                   "tart":18,                  en": 2                      "oc":
+               "sat": {
+                        "ln": 1,
+                       "column": 18
+                    },
+                      end": {
+                           "line":1,
+                    "colun" 
+                     },
+                     "identifierNae""ba"                  },
+                    "name": "ar"
+                   }
+                computed"false,                 "shoha":r,
+                     valu": 
+                   type": "AsigentPatern"                "start": 18,
+                   "end: 9,
+                     "lo: {
+                      "tart: {
+                     "lne: 1,
+                        olun": 18
+                    }
+                       "end": {
+                     "lin":,
+                         "column": 29
+                     }
+                    },
+               "let: 
+                     "tpe": "Idntifier
+                       "start: 18,
+                       "en":21
+                  c": {
+                      "start"{
+                       ine": 1,                      "column": 18
+                          }
+                   "end": {
+                       "ie": 1
+                            "column": 1                   },
+                        "eniieNa": "bar"              ,                         nme": "bar"
+                    ,
+                 "right":{
+                      "typ": "StringLitral,                      sta": ,
+                     "nd": ,
+                   "lo": {
+                       tar: {
+                      "line"1,
+                "colmn" 2                   },
+                       "end: {
+                    "ln": 1,
+                          clun": 29
+                      }
+                    },
+                   etra": {
+                       "rawValue": bar",
+                        "raw": "\"bar\"
+                  },
+                      "ale":"br                    }
+                    },
+                  "exta: {                  "hrthand"true
+                    }
+                 }             ]
+              }
+       ],           "ody" {            "type":"Blocttent"
+           start" 35,
+             "nd": 3,
+             loc": {
+               "stat": {
+              "line": ,                 "colum:35
+                 },
+             "n: {
+                  lin: 1,
+               "clumn":37
+                 }
+           },
+           bod" ],
+           "directies":[           }          }      }
+      ],
+      "kind":"onst"
+   }
+  ]
+   "iecives":[]  }
+}

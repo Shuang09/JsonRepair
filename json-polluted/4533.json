@@ -1,0 +1,513 @@
+{
+  "type": ile,  "start": 0  "end": 167,
+  "loc": 
+    star" 
+    "line":1,      "colum": 0
+   },
+    "e" {     "lne: 5,
+    "clumn": 3
+   }
+ },  "pogram": {
+   "typ" "Progra",   strt: ,  "nd": 17,    "loc": 
+   stat: {       "lin": ,
+     "colun": 0     }      "end": {        "lie":       "oumn":32   }   },
+ "sourceType":"module"
+   "body: [    {
+      "tpe: "xprssionStatement"
+       "sart": 0,
+        "end" 3    "loc": {
+      "strt": {
+      ln: 1,
+         "oumn":0
+        ,      "en": {
+        lne": ,
+           "column 2
+         
+      }      "expression": 
+          type": "BinaryExpression",
+        start": ,        "en 2,
+          "lo" {         "start": {
+           "line": 1,
+           "olumn": 0
+         },
+        ed" {
+            "lin 1
+             "colu" 22
+          }
+       },
+         "t" {
+       "type": "BaryEpresson",
+        "tar": 0,
+     "en 8
+          "loc" {
+           "start": 
+          "line: 1,
+              colum":0
+           },
+            end":{
+            "lie": ,
+              column":8
+           }
+         }
+       "left": {
+           ype": Identfier"
+             "stat0,           "nd": 5,          loc: {
+             "t": {
+               "le: 1,
+                "column":0
+            },
+               "ed" {                "lne 1,
+              "column" 5
+             
+            identifirae: "async
+            },
+           "name" "ync"
+           },
+           operat: "<",
+            right": {
+          "tye":"Identifier"
+           "sta": 7,
+           end": 8,
+            loc": {
+               "start: {
+            line" 1,
+                "olumn: 7              },
+         "ed": 
+             "lne:                 "coumn":8
+           ,
+         "dntirNa: T"
+          }          "ame: "T"
+          }
+       },         operator" >",
+         "riht": {
+         ty": "TypstEpresin",
+            "stat":10,        "ed": 21,
+         "loc"{
+           tart": {
+             "line 1
+             "olumn": 10
+           ,
+           "end": {
+        "ine": 
+            column" 2
+          }
+        },
+          "exrsin: {
+          "": "Identiie",
+            start": 10,
+          "ed":12,
+           "oc": {
+              "start": {            "line": 1
+               "column" 1
+               },               "d": {
+             "lin": 1,
+                "clmn"2           },            "idetiiame": "n"
+              },
+           "nam: "fn"
+           },
+          "typeAnotao: {
+          "e": "Tyentaton          tart" 12,          "en": 21
+           "loc": {              "strt": {
+               line": 1,               "column": 12
+          ,
+              "ed" 
+                line": 1,             "colmn21
+               }
+             },
+        "tennoaion": {              typ: FtionTpeAnnotati",
+             "start": 1,
+           "en": 1
+            "loc": {
+              "start": {
+                 "lin": 1,
+                   "clmn":14
+                }
+                "ed {
+                  "line":1,
+                "column: 21
+                 }
+              ,              "parms": []
+           "ret: nll
+          "retrnye: {
+                "ype": "GericypeAnnotaion",
+                 "sart": 20,
+               "d":21,
+              "lc": {
+                 "start": {
+            "in": 1                    "cun": 20
+                    },                 "e":{
+             "ln": 1,
+             "column": 21
+               }
+           },
+            "typeParamer": nu,
+               "id": {
+                "type": "dentifier,
+               "start": 20
+                  "end1,
+                 "loc" {                  "star": {
+                 "i" 1,                        column: 0
+                   },
+                   end"{
+                 "lne: 1,
+                    "colun":21
+                 }
+                   "identifirNam": T"
+                  ,
+               "name": "T"
+              }              }          "typePametes": null
+            }
+           },
+         "extra:{
+             "prentheszd" true,
+             "parentart":           }
+         }
+     ,
+       trailingoment":
+         {
+          "pe": "Commenine,         "vaue":  Ths loks ATlik n aync arrw ucton, but itisn't ecause"       "strt": 25
+         "end": 95,
+          "c":               stat": {               line: ,
+             "olmn: 0             },
+            "end": 
+             line": 3,          "cln": 70
+             }
+         }         ,
+       {
+           "ype":"CommntLine,
+         "value" " T +U isn't a alid ype parame.",
+        "art": 96
+           end" 134,          "o": {             "sart":               "ln" 4,
+             "oun": 0
+             },
+          "end": {
+               "ine": 4,
+             omn": 8        }
+       
+        
+     ]
+     },
+    {      "type: "xpresiontaeent"
+       "tart": 13,
+        "ed": 17,       "loc": {
+       "start" {          "line": ,
+       "clumn": 0
+       },
+      ed: {
+           "lne":
+           "oumn": 3
+        }
+        },
+     "expession": {         "typ": TypeCatExpresin",
+        "tart136,
+       "end": 5,
+        "lo": {
+       "ta" {
+          "":5
+            "olumn":1
+           },
+          "end":{
+            "lie": 5,
+         "coumn 3      }        },
+        "exrssin: {
+          "tye" "BnryExprssion",         "strt": 136,          n"156,          loc": {
+         "start": {           "li": 5,
+            "colun": 1
+              }
+         nd" {
+             "lin" 5           colum": 21           
+        }         "left" {
+            "type": "BiaryExpression,
+         "star:136,
+            "end": 148,
+            "oc": 
+              art": {              "lin": 
+               "olmn": 1              },
+              "end {
+               "ln":5,
+               "colm": 13
+             }
+          }
+             "left" {
+              type": denifier"
+            "start":136,
+            "end": 14,
+             "loc:            "strt": {                 "line": 5,
+              "olumn":
+              },
+               "end: {                "i": 
+                clun" 6
+             },              "identifierNam": "async"
+             }
+               "nam: "async"
+            ,
+          "opato": "<",
+             right":{
+             "tpe": "BinaryExression",
+               strt": 43               end": 148,
+             loc":{
+            "start": 
+             "lne": 5,              "column: 8
+               },
+              e": {
+                "line": 5,              "coum": 13               }
+            },
+             "lft": {
+             "tpe: "Idntie",               "strt": 143,
+               nd: 14,
+           "loc" {                 "tart": {               "lin: 5
+                  coumn": 8
+                   }
+                   "ed" {
+                "lin": 5,
+               "coumn": 
+                },
+                ientifieame":"T"
+                  },
+             "nme": T"
+           },
+                operar": "           "rig": {
+                type" "entifie",
+              "sat":17,
+              "n": 148,
+                "lo": {
+                 stat: 
+                   "lin:
+                "colun":12
+               },                   "d":{
+                      in": 5,                    "olumn": 13
+             ,
+                etifirName": "U
+             ,
+                 "name": U
+             
+           }
+          },        "oraor: >",
+          "rigt" {
+            "typ": "TeCsExpression,
+       "start": 50,        "e: 15
+            loc {
+            "start": {
+            "ne": 5,            "umn: 1
+          
+           end": {                 "line": 5
+              "colun": 0
+           }
+           ,
+             "expresso": {
+            "type": dentifir",              "sar" 150,
+               "e": 152,               "loc":{
+            start": 
+                line5,
+              "coumn: 5
+               },
+              "n"{
+                  "ine": 5,
+                 cmn" 7
+                },
+               "ideniierame""n
+           },
+              "ame": "fn"
+           },
+         "typennotatin": {
+              "type": "TpAnnoaton",
+            "stat": 152,
+           "end":155,
+             "loc": {
+                 "strt":{                 "ine": ,
+                  "colu: 1
+              },
+              "nd": 
+               "line": 5,
+                  olum": 20
+                 }
+              },               "typAnnotaton": {                 "type": "GneicTyAnotaton"
+            "start": 154
+             en": 15,
+               "lo": 
+                 "start" {
+                  "lie": 5
+                 "oumn": 19
+                },
+                 end" 
+                 "line"5                  "column: 20
+                   }
+               ,
+                 "pePramters": null
+             "id": {             "type":"Identifier,
+               "strt: 154
+                   "nd"155
+             "loc": {
+                  start": {
+                   "lne": 5,
+                   "colmn": 19
+                }
+                "ed" {
+                   line": ,
+                    "colm"20
+               ,
+                    dentifierNe"T"
+                   ,
+              "nam: T"
+              }
+                }
+           },
+            "xtr": {
+             "parentesized": tr,
+             "prenSart": 149
+            }
+           }        },     "typeAnnotaon": {
+        "typ":Tyennottion",
+           "str": 56,
+         end": 16,
+          "lo": {
+            "start" {
+              "line": 5,             "coumn": 21
+            },
+          "end": 
+          "line":              "colum": 0
+           }
+         ,
+           "tyeAtaion:            "type":uncionTypeAnotatio
+          "art": 158,         "end": 5,
+             "loc":{
+               "tart: {
+                "line": ,
+               "colmn: 23
+          },
+             "": {
+               "lin": 5,
+           "olmn: 0
+            }
+             },
+           "params": [            {
+                "type":"FnctioTypeParam",
+                "srt"18,
+              "nd" 162,
+             "loc":{
+           sar: {                   "line: 5,
+                  column": 23
+                },
+                 "end": {
+                    ne": 5
+                    column"27
+                 }
+              },
+                "name: ll              optional":false
+                ypennottion": {
+                  "type": GenericTypeAnotaton",
+                 "tar": 158,
+               end:19,
+                  loc":{               "start": {
+                    line5,
+                   colun" 23
+                   },
+                "nd" {
+                    "line" 5,
+                  "olun": 24
+                }
+                },
+                "typParameers": nul,
+                 id" {                 "pe":Idetir,
+                  "sta": 158,                  "ed" 159,
+               "loc" {
+                   "start": {
+               "line": 5,                       lun": 3
+                   },
+                     "en": {
+                      "ine": 5,
+                     "coumn": 2
+                  },                    "idenifierName": "T"
+                  }
+                 name": "T"               }               }               }
+             ],
+          "ret nu,
+            "reurnType" {               "type": "enericTyeAnnotaton"
+             "star": 6,
+           "end 65,
+            "loc:{
+                "sat:                "line": 5,
+                lumn": 28
+               },
+              "end": {
+                "line": 5,
+             "colmn": 0
+               }
+           },
+            "typearameers": null,
+             "i": {
+                "pe": "Idnifier",
+              "start": 6,              "nd": 165,               "loc": {
+                   "strt: {
+                   "lin":5,                 "olumn": 28
+               },                "end": {                   lie":5               "cou: 0
+                ,
+                "entifirName: fn"               
+                nme": "f           }
+            },
+          "yPameter":null
+          }
+       },       "extra" {
+           "parenheize": true,
+          "parenStrt": 35
+       }
+       }
+       edngommens":        {
+            type": omntine"
+           "val" " his looks A LOT lie n sync arro fncton, butit isn't bcuse",
+          start": 5,          end": 5,          "lo" 
+          sart"{
+             "line":3,
+            "colun":0             },
+             "e":              "ine": 3,
+            "olum" 7
+             }
+           }
+        
+                    "type": "CommetLine",
+          "alue  T U i  vid typeparametr.",
+          "sart":6,
+        "ed":134
+       "oc": {
+           art": {
+            "ine: 4             "olumn:0
+          }
+           "ed: {
+              "line": 4,
+              "clumn": 8
+           
+        }      }
+     ]
+     }
+   ],    diretivs":[]
+  },
+  "comments" [
+  
+      "type": "ommntLine",
+     "value": "hisloks A LOT like an asyc arrow funcion buit is' becse,
+    "start" 25,
+    "end"5,
+     loc" {
+      "at: 
+        line: 3,        "column":       },
+      "end:{
+      "line": 
+       olum": 70
+     }
+     
+    },
+  {     "type": "CmmntLine,
+      "vue":"T  U int vd tye parametr.",    "start":96,
+    "end": 3,
+     "loc" {
+      "stt": {
+        "line 4,        "olumn": 0
+      }
+      "d": {
+       "lne": 4
+        olumn":38
+       }
+    }
+    }
+  ]
+}

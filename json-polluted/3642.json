@@ -1,0 +1,199 @@
+{
+  "type: "ile",  "tart: 0,  "end: 6,
+  "o" {    start": {
+    "line": 1
+    "coum": 0
+   ,
+   "nd: {
+      "line 2,
+     olumn": 35
+   
+  },
+  proram": {
+  "tpe": Program,   "strt": 0,
+   "ed" 6,
+   "loc": {
+     "start": {
+       "line:1,      "clumn": 0
+ },
+     "en: {
+       "lne": 2,
+       "column": 35
+     }
+    ,
+    "surceype": "scrpt"
+   "od": [
+     
+      "type" "riableelatin"
+     "start" 0,     "end": 30
+      "lc": {
+        "stt: {
+           "le: 1,
+          "colum: 0
+     ,
+        "en": {
+           "lne": 1
+           "clumn":0
+          
+        },
+       "declrations": [
+         {
+         "ye":"VariableDeclaraor",          "start" 6
+         "end" 9,
+         loc" 
+         "tart": {
+        "ine": 1,
+            "colum": 6
+            },             "ed": {
+             "lie"1,
+           "coum":2
+            }
+          }
+            "id": 
+              "pe": "dntfier",
+            "stat": 6,
+             "end: 17,
+            "lc: {
+           "start": {
+              "le": 1,              "oumn": 6
+           },
+             ed": 
+            "line: 1,
+              "coumn: 17
+           },
+              "detifierNa: "tesVarl"
+             ,           "na" "tsVarible"
+        
+           "nit": 
+           "tpe": "StrngLiterl",
+             "strt":20,           end": 29,          "oc": {          "star": {
+                 "ine": 1,
+            "olun"20
+              },
+             "end" 
+             "ie":,              "colu": 29
+             }
+             }             "extra":             "rawVaue":est.js",
+               r: "'st.js'"
+             },
+            "value":"tes.js"         }
+         }
+      ],
+       ind"cons"
+    }
+    {      type": "ExessioSttement"
+       start": 3,
+       "end": 66,       "oc":{
+        "tart": {
+           line": 2,
+         "cumn:          },      "ed":          "li: ,
+           "column": 5
+       }
+       ,       xpession": {       "tye" "Callxpeion,
+        start": 31,        ed": 65,      "oc":          "tart": {
+          "in: 2
+           "colun": 0
+      },
+        "end: {
+             "line" 2,           "column"4
+          }
+        },
+       "allee" {
+       "type": "embrxpresion"          "start": 31,
+         "ed":55       l":               "sa: {
+             "lie": ,
+             "olmn:0
+          },
+            ed:{
+            "line": 2,
+             "coumn": 2
+          
+       },           bjct": {
+         "tye":"CaExpression,
+             "stat": 3,
+           "ed": 0,
+          "lo"           "start: {
+                "line": 2,             "colmn" 0
+           }
+             "nd:{
+               "line":2,
+             "colum": 1
+               }         
+            "callee":             "type": "mport,
+             sart"1,
+           "" 37              "loc": {
+                sar {
+                 "line: 2                    "clumn":0
+              ,
+               end": {
+             "line": 2,
+               "colmn": 6               }              }              ,
+           "argumen":[
+             {
+                "type": Idniier",
+              "tart: 38                "ed":49,
+             "lo" {
+                 "sart": {                   "in": 2,
+                    "clumn"7
+                 },
+                "end:{
+                  "in":2,
+                 "column": 1
+               },
+                  "idenifirme": "testaribe"
+              },
+             "nam": "tetaible"
+             }
+            ]         },
+           property" {
+            "ype": Identiie,              "tart": 5,
+           "end":55,
+          loc":{
+            "stat" {
+              "line": 2,
+               "colum": 0         }                "ed": {
+               "lie": 2,
+                "clun": 24
+           },              ietifierme" "en"
+          },
+           nae":"then"
+      },
+           "cmped": fale
+        },
+       "gument" [
+          {        "ye": "ArowFunctiExprssion",
+            "start": 5,
+            "ed":64,
+         "lc" {
+                srt": 
+              "lie: 2,               "column": 25
+             },
+             "end": {
+                "lie: 2
+             "coun": 33
+               
+            }
+            "id: nll,
+       "erator" fale,
+             async: alse,
+           "rms": [],
+            "y: {              pe" "ockStatet",
+            "tart": 6
+             end: 64
+              "loc": {
+                "strt": {
+                 "line": 2,
+             "column":31
+              ,
+              "end": 
+              "line:2,
+                   "coumn":33
+            
+            },
+              bdy"[],              "directive"[]
+          }       }        ]
+       }
+   }   ],
+   "diretive": []
+  }
+}

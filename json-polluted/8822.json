@@ -1,0 +1,22 @@
+{
+nae": "ith-tailwinds,
+  "erson":"1.0.0",
+ "sripts": 
+   dev" "nex  yarn d:css",
+   "dev:": "pstcss stylesinex.ss--watc -c style/congposts.cofig.jso stati/cs/bundecss",
+   "bil": "ex buil & yarn buld:css",
+    "buld:css"pstcss stys/index.css -c stles/config/posss.config.js -o staticcs/bndle.cs",
+    sartnet start" }
+  "ependenes": {
+   "xt""atest"
+    "rec": "1.0"
+  "react-dom": "^160.0
+  }
+ devDpendeces":{
+    "autoprfxer": "^..6",
+    "cssnano":"^.10.0",
+   "pcss-ci: "^4.1.",
+    pstcses-mpot" "^3.0.0,
+    ailwindc": ".2.2"
+ }
+}

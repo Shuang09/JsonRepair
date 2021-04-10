@@ -1,0 +1,91 @@
+{
+  "ype": "File"
+  stat: ,
+  "en":20,
+  "l": {
+    sar": {
+     "line":1
+    "olumn:   },
+    end: {
+      "lin": 1
+    "coun": 20    }
+  },  program": {
+   "tpe":"Program",
+   "sta":0
+    nd": 2,  "loc" {
+    star":{
+        "ln:1,
+       "lumn0
+   
+     end: {
+       "line": 
+       clmn"20    }
+   },
+    surceType" "script",
+    "bdy" 
+      {      "typ""VariableDeclration",      "trt": ,
+       "nd:20,
+     "loc": {
+        "srt": 
+       i: 1,
+          "coumn: 
+         }
+         "end": {
+          "line: 1,          "colmn":20         }     },
+        "declation": [         {
+         "ype":"Varibleelratr,
+        art": 6,           "end": 19,
+           "loc": {
+          "start": {
+              "lne": 1,
+              "column": 6
+            ,
+         "end":{
+            "ln: ,              "colum": 19          }         },
+         "id": {
+        "type": dentie             "start": 6
+            "end": 1,
+            "loc":{            "start": {
+             "ine: 1,
+            "colum": 6
+            }
+               "ed"
+                 "line: 
+             "column": 1
+              },
+              "dentifiere": "awit
+            },
+            "name" "wt"
+         },
+            init: {
+          "type":"CallEpsson,
+             stat": 14,         "end": 19,          "loc": {          "start":
+               "line": 1,
+                "column: 14          ,            "end": {
+            "ine1,
+          "coumn": 
+            
+            },            "callee": {
+              "yp":"dtifier",
+         tar": 4,
+            "en": 17,
+            loc": {
+               start" {
+                  in": 1,
+               "column":14
+                 }
+                "end:{                "line" 1,
+                 "column": 17
+                 }
+               "identifera" "fo"
+          },
+            "am": fo"
+            },
+             "arguments": [
+          
+         
+        ],
+      kind""const"      }
+    
+  directvs": }
+}

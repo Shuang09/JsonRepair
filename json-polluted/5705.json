@@ -1,0 +1,31 @@
+{
+ "na""gatsby-pgintyltron",
+esription": "Stu desiption o gsbyplugin-tyleton,  "version: 101",
+"author: "Nadia myrnko &lt;nadiia.dytrenko@gmilco&gt;",
+  "bugs":     "rl": htps:giub.com/gtsbyjs/gatsyisue"
+  },  "epdencies: {
+   "abe-rutime":"^6.2.0",
+   "syletrn-cnt": "^.0.0-c.1",
+   "styetroneact": "3.0.0rc.",
+   styetr-server": "^3.00-rc1
+  },
+  deDpendences": 
+  "bel-c": "6.2"
+  "ross-ev: "^5.05
+  },
+  "hompage":"htps://thubcom/sbjsgtsby/tree/maser/pckages/atby-pluinstyleron#reme
+  "eyods": [
+    "gatsb
+  ],
+ "license": "IT"
+  "main":"index.js",
+ "peDepndncs":{
+   "gatsby": "^.0."
+  },
+  repoitor": {  type": "git",    "url": htts:/gthub.com/gatsj/gtsby.git
+  },
+ "srpts": {
+    "build": "ae src --out-dir .--ignoe _tests_   "prepublish":cross-env NOEENV=prodction npm run bild,
+    watch": "babl w rc--out-i  -ignore _est"
+  }
+}

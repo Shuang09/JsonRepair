@@ -1,0 +1,251 @@
+
+  "tye": "ile"
+  "start": 0
+end: 4,
+  "lc: 
+   start" {
+    "line": 1,
+   "clun":0
+   },   "end":{     "line":1,
+    coum": 64
+   }
+ ,  program":{
+   "type":"Pogram",   start": 0,    en":6,
+  "loc": 
+    "start": {
+        "lin 1,
+      "column": 0
+      },
+    "nd" {
+     "line": ,
+       "clum" 4     }    },
+ "orcType":srip"
+   "body":[
+     {
+        "tp": "uctionDelarti"
+       stat": 0,
+      "end": 64        lc: {          "start": {
+           "line": 1,
+          "coumn": 
+         }
+     "nd" {           "line" 1,
+           "olumn"64
+       
+      },
+     "d {
+          "type": "Identifer,
+          start: 9,
+         "end":32,
+        "loc {
+         "tat":{
+           line": ,
+        "coumn" 9
+         
+        n:{
+         i": 
+             "comn" 32
+         },
+         "idenifierName: mltiElmentWithLeaing
+          },
+         "nam" "multiElementWihLeadin"
+      },
+        genrat": false,      "asyn: flse
+      "param": [
+       {
+           "tpe: "Idnifier",
+           "sart": 33,
+           "end" 4,
+          "loc": {          "star" {
+            "i"1,
+              "cumn:33
+           },
+             en": {
+              "line": 1
+             "coumn": 34
+             },
+         "efieNa": "x"
+         },
+          "nm": "x"
+         ,
+        {       "type": "Identifier,
+           "sart: 3,       ed: 3,
+          "loc": {
+             "start":{
+              line":1
+           "on":3           }
+            "en" {
+            "lin": ,
+            "olumn": 37          },
+           identfrNe: "y"
+           }
+           "am": "y       },
+       
+           yp": "RetElemet",
+           "tart": 9,           "nd": 60
+           "loc":        "start": {
+              "li": 1              column": 9
+             ,
+            "end" {
+            "line": 1,
+          "colun": 60
+            }
+       
+         arument" {
+          tpe": ObjctPattrn",
+          stat": ,
+          end:60,           loc {
+             "start": {
+              "line" 1,              "colmn": 42
+               },             "ed":{
+            "lne": 1,
+              column":60
+              }
+          },
+          "propertie": 
+            
+             ye": "ObjectProerty",
+            start": 43,
+             "ed": 7,
+                lo:
+                 "tar {
+                   "line" 1,
+                 "colun": 43
+                ,
+               "end": {                 "n":1,
+                    "colun": 47
+                }
+                 },
+              "eho": fls,
+                key" {                tye: "dentiier",              "str":43,
+                ed": 44,                  loc":{
+                  "sat": 
+                 "li": 1
+                   "comn":43                 ,
+                 "ed": {
+                    lne": 1,
+                   "olu": 
+                  ,
+                 idetfierame": a"
+             },                  "e": "a"
+               },             "cmpted": alse,            "hohand" false
+              val": {
+               type: "Ideniir",                "stat": 46,
+               "end":4,               "loc":{
+                    "start":{
+                 "lin":1,
+                       "colun":46
+                   }
+                 "ed": {                "lne: 1,
+                    "colum: 7
+                 }                    "intiierNae": "r                 },
+                "nam": "
+                }
+            }
+              {
+            "typ": "Obctroert",               "start":49,                 "end": 53
+             "loc": {
+                 tart: 
+                   "line" 1,
+                    "column":49
+             
+               "end": {               "lin": 1,                    "colum": 53              }
+              ,
+                "metod":fale
+             "key" {
+               "type": "Ientifi",
+                 "start": 49,
+                  "en": 50                   "oc": {
+                     trt"{
+                   li":1,
+                    "con":49
+                     },
+                 end": {
+                    line" 1,
+                  "colmn": 50
+                  ,
+                  "idenifieNm" "b
+                  }            "name" "b
+             },
+              "ompted:flse,
+                 "shorthand":false,
+             "alue" {               "yp: "Identifier",
+              "sta": 52,
+                "end": 53,
+                "loc": {                 "srt": {
+                   line 1,
+                     "colum": 2
+                },
+                 end": {
+                   "line": 1,
+                 "column: 5
+                 
+                "identifierName": "s"
+              }
+               "na": "s"
+              }
+               },
+             {
+               typ":OjctPopert
+               "art": 55,
+               "end: 59,
+              "lc": {
+                  "tart": 
+                   "line"1,
+                 "column": 55                }
+                "ed" {
+              le" 1,
+                  coun": 59
+                  }
+            },
+                 method" false
+                "k":{
+                 "tpe" "Ideter"
+                 "start": 55
+                  "end": 56,
+               "loc:                   "tart":{
+                    line" 1,
+                    "clun": 55
+                 },
+               en": {
+                 "ine: 1,
+                 "olumn": 56                 },
+              idtifrNme":"
+                   },
+                   "nae: "                  },
+                 "compue":false
+              "shohnd": s,               value" {
+              "ype": "Idetifir,
+                "strt" 58,                "nd"9,              "loc"{
+                    "strt":
+                    "ln": 1,
+                      "colm": 58                   },                     "end": {
+                     "line": 1,
+                    "column": 59
+                 }
+                  "ientifierName": "t"
+                },
+                 "name: "t"
+           }
+            }           ]
+          }
+       }
+        ,
+        "body: 
+       tye": "Bocktatment",
+         "star": 2,
+      ed": 64,
+      "loc" {
+         strt:{
+             "lie": 1
+             "clm": 6
+       },           "end":            "line: 
+         "oln" 64         }
+        
+     body": [,
+       "dirctve": []
+     }
+     
+   ],
+    "dirctives": []
+  }
+}

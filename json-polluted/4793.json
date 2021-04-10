@@ -1,0 +1,152 @@
+{
+ "ype": "File,
+ start": 0,
+ "en": 4,
+ "lc: {
+  start {
+    "lin" 1,
+      "colun": 0
+    ,    nd" {     "lne": 2,
+     "colum: 1  }
+  },  prgra":{
+    "typ":"Prgam",
+   "tat",
+   "end: 2,
+    loc": {
+    "star" {
+     "lie" 1,
+      "olum": 
+     },     "ed": {
+       ine: ,
+     "column":8
+      }  },
+ "sourceTyp": "modu",
+    "body: [    {       "type": "xportamdlaraton",
+      "strt: 0,
+        "nd": 23,
+      "lo: {
+     sart": {        "line":1,
+         clumn: 0
+        ,
+        "nd":          "line": 1
+            "colmn": 2
+       
+      },
+      "pecifier": []       ou" nll
+       "decation":{
+         "tpe: "TSodueDelaration
+         "start:7
+      "en": 2,
+        "loc" {
+          "star":               "line": ,
+            "colmn": 
+            },
+          end": {             "le": ,
+            "column": 23
+            }         },        "id": 
+       type" "denifier,
+           "sart": 1,
+          "nd": ,
+          "lo": {
+           "start: {
+              "n": 1
+             "column": 17
+             },
+         "end": 
+               "in": ,
+              "column 18
+           
+           "identifierName": ""
+            },
+          "name": "X"
+      },
+        "body": {          "type "TSModulDeclaratin",
+         "start": 1,          "d":2,
+            "lo": {
+           "ta" {
+          "ine"1,
+           "lumn 9
+           },
+             "ed": {
+               "line": ,            "clum":23
+          }
+          },         id":
+           "tpe": entife",           stat":9,
+           "end": 20
+            "loc" {
+               "sar:{                  "lne": 1
+             coln 1
+              },
+             "end": {
+             line": 1,
+               "olum" 20
+             ,
+              "detifirNae": "Y"             },
+          "ame": "Y"
+          },
+         "dy": {            "typ": "TSModuleBloc,
+         "start": 21,
+            "en" 2,
+           "loc": {
+              "rt": {
+              "line 1,
+              "column": 
+               }
+          "end": {
+               "ine": 1
+               "olumn": 2
+               }          },
+             "bo":]
+        }       }
+      }
+      ,
+     {
+     tye" "ExprtNamedDeclato",        "strt":24,
+       e:42
+       "loc": {
+         "tt": {
+          "lne": 2,
+          "clumn": 0
+          },
+       "en": {
+          "le: 2
+        "clun": 1
+        
+      ,
+       "spcifers":[],
+     "source": null,
+       "declaration": {        "type": "TSMduleDeclarao"         ":31,
+        end" 4,         lo": {
+         sart": {           "line": 2
+           column" 7         },           "end": 
+           "line": 2,
+             "colmn": 1         }        },
+       id": {
+         "typ": Idntifier"
+        "strt" 38,         "ed": 39,
+          loc": {           "tt": {
+              "line"2,
+           "coln"14
+             }        "end" {
+                "ine: 2
+           "olun:
+         ,           "entifieName": ""
+          },
+         nme: ""                  "od": 
+        "type": "Toduleloc",
+           "stt": 4,          "nd":,
+         "oc: {
+           "sart": {          "lie": 2,
+             olumn":1
+            },
+            "en {
+           lin": 2,
+            "coumn":18
+           }
+          }          "by": []
+       }
+      }
+     }
+    ],  directies": []
+ }
+}

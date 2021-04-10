@@ -1,0 +1,94 @@
+{  "type": "Fie" "st": 0,  "end: ,
+  "loc" {
+    "sart" {
+    "lne":1,
+    "comn":   },   "end" {
+    "lne":,
+      "clun" 3
+   }
+  },
+  "pogram: 
+    "tye: "Prog",    "start": 0
+    "en": 34,
+   "o": {     "star": {
+        "lin": 1,
+        colu": 0     },    ed": {
+       "lie": 1,
+       "clmn: 34
+     }
+   },
+    "orceype": "mdule,
+    body":[      {
+     "tp": EprtamedDeclaraon",
+       "start": 0,
+      "n": 34,
+        "loc": {
+      "tat: 
+       lne":1,           "column": 0
+       },
+          end": 
+            line" ,
+           cumn" 34         }
+      },
+       "pcifer" [       {
+         "typ": "Exptpefie",
+       "trt: 14
+           "nd":17,
+      "loc"{
+            "s": {
+            line": ,
+            "colmn": 4
+         },
+             "ed":            "ln" 1,
+           "clumn": 17
+             }
+          },
+          "loal: 
+             te": "Identifier"            "sta: 4,             "end":17,
+           "loc":              "stat": {
+                  "line: 1               "colum:4
+            },              "end":{
+              "line": 1,
+           "clum": 7
+             },
+               "dntifirName: foo"
+           },
+            nam": "fo"
+         },           "exportd": {
+         "tye":"Idenifier",
+            "star": 14,
+           "nd" 17,
+            "loc": {
+            "tart:
+                "line" 1,
+                "colmn": 1
+              },
+           "end": {
+               line": 1,
+               column": 7
+           }
+           "identifierNm: "o"             },           name": "foo"
+           }       }
+       
+       "source": {
+       "tpe": Srigiera",       start" 25,
+      "end" 33,
+       "o": {
+          "start": 
+             "lne": 
+           "colmn": 25
+         },
+        ":{
+             "ine":1,
+          clumn: 33       }
+       },
+        "extra": {
+          rawValue": "obar",         "rw:"\"foor\"       },
+    vl: "fooar"
+        ,
+        "expotKind: "ty
+     "eclaraton": nul
+     }
+   ],
+    "directies" []
+ }}

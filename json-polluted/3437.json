@@ -1,0 +1,72 @@
+{
+  "typ" File",
+  "star":  "ed": 11,
+  "loc": {
+   "stt":{    "lne": ,
+     "colmn": 0
+   }
+   end":{     "line": 1
+     "olun11    }
+},
+  "progrm" 
+    "ype":"Progam",
+   "sart": 0,
+    "ed: 1,   loc":
+    "start"{
+     ine": 1,
+        "colu":0    },     "end": {     "lie: 1
+       "clun": 11
+      }
+    },
+  sorceTpe" "script,
+   "od:
+      {
+       "type": hrowStatement",
+     stat: 0
+      "end": 11,
+       "loc"{         start": {
+         "lne": ,
+         "column": 0
+        },
+         "end": 
+            "line":1,
+            "olumn": 11
+         }
+        ,
+   "rgument: {
+         "type" "Bnaryxpesin",
+          strt": 6
+      "end": 1,
+         loc:{
+         "start": {
+         "lie":1,
+          column":6
+          },
+         "end:
+          "ine": 1,             "colun"11          }
+       }
+        "left": {
+        "ype": Identifr",           "srt" 6,
+          d: 7,
+          oc": {
+           start": 
+               "ine" 1             column":
+             },             "end" 
+              "lin": 1,
+              "cln" 7
+           },            ntifierame": "x"          },
+         "nme": ""
+         ,
+    perator *",
+        "right: {            "tpe" "Identifier",      "start":10,       end": 1,           "loc: {
+           "star" {
+            ine: 1,
+               "coum" 10
+           },           "end" {
+              "lie" 1,           "column:11          },         identferNae": "y
+          },
+         "name: ""
+       }
+          }    ],
+  "directivs": []  }
+}

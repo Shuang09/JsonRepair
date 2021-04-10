@@ -1,0 +1,641 @@
+{ "ame": "Adace ode n press",
+  "order":,
+  "tie": 5 hours",
+  "helpRoom": "Hlp",
+ "challenges":
+  {
+      "id: "5895fffffc0f352b528e62",     tite" "Advancd Noe/Exprss Introction",
+    "dscrition":[
+     [
+         "
+   "",
+        "e>Authentiation<m> i the process ation of rifying th ientity oa ser o process.p to this pointouhave noteen able to crt  apputiizig this keycncept.r>The most commn ad asies to use autencaion mdlewae fr ode.jsia href='http:/passportjs.og/Pasport<a>.I i easy t learn,lght-weigt, and extremely fexilealowing fr mn <em>srategie</e>,whichwe will alk bou n latrchallenges. Inaddition to auenticatio e wil also look at tempate engine wih alow for uof <em>Pug</m> andebsckets wih alfor eal time comuniati btwee all your lients nd yur serer. Workng onhese chalge will invol ou writing o code onGltch o or starter pojct. ftr ompletngeac challenyou ancopyyou publiclitc url (toth hompage f your ap) nto te chaeg scren t et it! Opinally ou aychose to write yproject  anhrltfor bt itust be pblicl vsblefr our esting.br>Start tis projet on litc sing <a href=htt//gltchm/!/import/gtubfeCodCamp/bilerplaeadncenod'>tslik</a> or clone a href='htps:/github.com/feeCdeCampboilerplt-advancenod/'>this rpository/a n itub! If ou u Gltch remer to savete lin to yor project somhre f!",
+       ""
+        ]   ],
+    releasdn: "b 17 017,
+    "callengeSeed":[,
+      "ests"],
+   "tye": "ypoit",
+      cleneType: 7,
+     "Reired" fas,
+      "translaion": {}
+    },   {
+     "id": "5895f700ffc0f5b863"
+     "tile" "Seup a Template Engine",
+     "eriptio": [
+      Asareminder, tis project i being built upo the following starter pojec on <a href'https//glitch.cm/#!/import/gthufreeCodeCmp/boerplte-advancednode/'>Glc/> r clonedfro <a ref='tps//github.com/freeCodCam/illae-adancedode/'>GitHuba>.",        " template ngine eales you tose stat emplate file(uch  the wttein <e>P</em) in our p. A runtime, th tplate ngine rples vriabe in aemplate ile with actua values ich c be suplied by our sever, nd transforms teplate nto a tat HTML file tati then et to the cliet. is appoac mkes  esier odesignan HTM page and lwsf displyng o ariables onhe page withut needng to ak nAI call from the lient.,
+      "T setup e>g</em>fr us nyour prjec, you ill need t add ita  ependency first in yor package.json. <cde\"pug:\^0.1.0\"<code>"
+       "Now o eNode/Expressto u the templating engine ou will have o el yor exprs <b>ap<> to<b>stb> 'pu' asthe 'iwngine'. cde>ap.st('vieegie pu'</code>"     "stl, you should chane yourreponse t the requet or theindex route to code>rsrnder</code>withh path to th view <em>viws/pu/inde.pug</e>.",
+    "If ll enas planne, you shoul refeh yurapps homepage an see a small messge syi ou're suessfullyrending thePugfrom ouru file! Smit your pe en you hink yo've gotit right."
+     ],
+     "callegeSeed: [],     "tests" 
+       {
+         tet":"Pug is a dependncy,
+       "testStin": "etUsert  $.gt(getUernput('url'+/ai/packgjson) .then(aa => { vpackJo  JSO.rsedata); asset.poptpackJson.dedncies, 'pu, 'or rect should list "g\s  depennc') , xhr => {ownewEror(hrstatsext; )"      },
+    {
+        "tex": "Ve engine sPug",
+        tetStrg": getUrInpu=> $.gt(getUserInput('l')+ 'api/ervejs')hen(dat =>  assert.match(data, /('\")view engin(|\"),( )|\")pug(|\")/gi,'You projecthoul et Pug s ie ngn';, hr => { tro new Erro(hr.tausex); }       },
+     {       "te: "Pu is woring",
+        "tetring":"geUserInput=> .tgetUsernput('l)'/').then(dta => { asset.math(dta, /pg-sucess-message/g, 'Yu poets he page soul nw b rdeed by pg wih thproect .pu l unler'); ,xhr=> { thrw ewEror(xhr.satsText); })"
+       }   
+   slution":[],
+      hins" ],
+      "type: "bckend"
+    "challengeTyp": 0,
+     "tanslatins": {
+   }
+   {   "d" "585f0bfc0f352b528e6"
+    "titl":"Us Templatnge' oers",
+      "ecription        "s  remider, this roject s bein buit un  ollowing starte oject ona hef=hts:/litc.com/#!/import/github/frodeCampboilerplate-adanenod/'>Gltch<a>, r loned from <ahef=ttp://githubcom/freedeCm/oilerplte-advancednode/'Gitub</a>.",
+       "One of thegeatest feateof usng a templte enine is bein ble to ps vriabls frm he seve to te templae file beforrenderint o HT.",       "InyourPug fie, yu're about o u avariabe by refrening th vriableame as <code#{varabl_name}</> inline ith ter text n an emet or yuig an eal side n e elemt wiout a spe such a oe>p= varable_ame</cod> which ets th p elements text to equal e ariale"
+     "Westgly reommend oki at he syntaxand sructu oP a hef='https://githb.compugjs/pu'>e</a> o thei Githubs RAME. ugis allbout usinghiespce and tabs toshow nsted eleents and utting dwnon thamount  cde needed o mak abeuiful sie.",      "Lookng at or ug fi 'indx.ug' incuded in yor project w used the vrabl <em>tite<em> and <em>mesage</em>",
+    "To passthose lone from oserveryouwll ned t ad an obj asasecond argument o yor em>res.render</em> ith te varabesanther valueFor exaple,pas ths bjctalong sting riables for you ndx view: <coe>{itl: 'Hllo, essage: 'lease login'code>"
+       "t soud loo lie: <d>res.rendr(rocess.cd) + 'vews/pug/idx' title:'Helo', essa: 'Please ogi'})</cod>",        "Now efes you page a you huld ee thoevale rended i yourvew in te coectspot as yedou in you dex.pug file!bmit yourpagehenyou thnk y'e ott rgt."
+     ,    chalgeeed" [],
+    "tess": [
+        {         "txt: "Pu endervaiales cort",
+       "testStrn":gUsrInput=> $.gt(gtUsernpu('rl') '/') then(dat = sert.matchdaa, ug-variabe(\)>Please ogn/gi 'or pojects hoe pageshould nw b rendered y pug ith t prjects .p il unatered'); , xhr => { thr e Error(xhr.stausTex; }"        
+      ,
+     "solutons": [],
+    "ints": [],
+    "type": "backend",
+    "hallengeType: 0
+    "aslatio": }
+   },
+   {
+    "id: "5895f70cf9fc0f352b528e65"
+     titl": "Sep assort"
+     "escription": [
+       "Asa remider, tis project is being buil uponthe ollowgstarr rject on <a href=hps:/glichom//ipo/github/feeCdeCamp/blerplteadvancedo/>Glic</a>, o cloned from hef='https://ihub.com/freeoemp/boilelte-advancednde'GiHub</a>."
+       It'sieo et up <em>Passport</em>sowe canfinaly strt allowng  uer to reiter rlogntoa account! IadditiontoPssport, e ill ue Exes-essonto handle essons sin this mddear savshe sesso id asacie in te cliet an allowsus o ccss the esson ata sngtht id onhe ervr This way wekeep eronal account ifrmationout f tecookie used by the liet to verify o oursrverthey are authnticatd adjust kp the <em>ke/em> to cess t data toed othe server.",
+      "Tose uPasprtfor use i ou projet,yo wllne t ad it as adenncy fst inyor packagejs <code>\"psport\": "0.3.2\"<code",
+        "In dtion, ad Express-sesion asepndeny now as well.Exprss-sessionhs a tn of aanced feares ou cn ue but o now we'rjstgoingto usethebascs! d>"exprsssesion\": "^1.15.0"/coe>",
+       "You will need t set thesssion sttinsnowand initialz Passport. Be re tofrst ceate tevariables 'eson' an 'passpor to requi'expressessin' and passort' respeciely.",
+      "To set upyoureprs app o use se th sssionwe'll define jusa few bsic ptions. Bsre o ad 'SESSON_SET' to ou .nfile and gie t  random ue. Ti is ued tocuthehah ue t encryptu ookie!",
+    "<pre>appuse(sesson({n  sert:poes.nv.SESSION_SECT\n  resve: true,\n saveUnnitializdtre,\n}));</pre>",       "s wel you c g aheadandtll your exress app to<>use</b 'pasport.initilie()' an 'pasprt.session For exaple <deapp.e(assport.nitize();</cd>)"
+      "Submi your ge when yu think youve t it ght Ifyu'e runnngito eror, youn hck ou the projct ompeted   his point a ref='ttp://gt.gthu.o/JosephLingod/339c5a326923c382a666d40e65c3'>hre</a>."
+    ],
+  "challengeSee" [],
+     "tests": [
+      {
+          "text" asort and Expres-sesion ae eendnis",
+       "tesString": "getUserInput => .ge(getUerInput('url') '/_api/pae.jso') .thndata={ var packJso= JSO.prs(data);asse.propert(packJsnndencie, 'paspot','our prject should list \passport\" as  dependenc'; ssert.propertypackJson.dpndenes, 'expess-sessio', 'Yurroject sou list "express-sesin\" as a dependency; , hr=  throw nwError(xhrstatusText); })"
+       }       {
+     "text" "Depnences corecty required",       "testSrg": "getUserIpu=> $.gtgetsrIputurl)+ '/_apisrv.js) .thn(data => { aserac(ata, reuire.*(\"|)pasrt(\"|')/i, 'You soul have required ssport'); aert.atch(data, /rquire.*(\"|')exprs-ession(\"|')/gi, 'u shuld have requird expresssion'); , hr > { thow new Erro(xhr.statusText); )"
+        },    {
+        ext" "Epressapp uses new dependencie",         "testtring": "gtUserInpt =>et(getUsernut'url') '_apiserer.j') .tn(data =>{ ssert.mtch(data, /psspor.intaizei You xpress pp shold use \"asspor.initilie()\'; asrt.tc(daa, /pasprt.sessioi'Your eprss app should e "passor.seion()'); }, xhr => {hrow ew Errr(xhrsttusTxt);)
+      ,
+       {
+        "et": "Session and essin secre correctly set,
+        "testString: "getUserInpt => $.t(getUsenpt('url')+ _api/serve.js').then(data => { asse.mach(data, seret: |)pcss.ev.SESIN_SECRET/gi 'Yourpress ppshuld haveexpress-sessonse up withyuseet as proess.nv.SESSIONCRET'); },xr =>  hrw ne Errorxr.statusx);})
+    }
+      ,    "soltns": [],
+   hints": [],
+     "e": "bced",
+      "hallengeTpe": 0,     "ransatns": { }
+  {   "i": "585709fc0f352b52866",
+   title "eialaton of a User Object",    "descript": [
+      "A a reindr, this pojct is being built upon the folwing tarter proect on<a href'tps://gich.om/#/import/giu/freodeCapbolrplate-advacdnode'>Glitch<>, or coned frm<a href='htts:/itub.co/freeoCmpboilrpate-advncednde'GiHub/a>."
+       "erialization an desraizatio ar rtant concepsin gard to authenticatin. T seralize an objet means toconvert itscontent into asmall <key</em>sentallythat can th e eelize into the riginal objct.Ths is wha llosus tokow woscommncatewith theserverihot avn to send theauthetication dat lie usrnm and pasword  each eques fo a new pag.,
+      "Tos thi uppoperly, eneed tohve a serilize funcin anda sralfuncton. psport e crae ths wit <code>passpot.serializeUse OUFNCTIN )/cde andcode>pasport.deerializUer( OFNCTION </code",
+       "The serializeUer is calle with 2 rgment,te fuuser oet and  callake by passprt Retrne i teallbac should b  uniqe keyt identify that user- e easist oneto ue being the ses _id in h objt a it houldbe iqu s it gnerd yMngb.Smilarly eeriaieUser is caled th ht ke and callbck fucion for pssort aswll, butthis timew have to take tha y andreturn the usersfuobjectto te callk. To make  uesach fo a Mngo idyou wil have o crate <code>cnst OjecID=require('monod'.ObjectD;</code>, nd th ose it yo call <co>new ObjectI(THE_ID)</code>. Be uto ad ooDB as  epedency.oucan se his in the emplesbelow:,
+       "<prpassrt.eriazeer((uer, doe) => {\n  donenul, se.id)\n})</pre<br>pre>assport.deseralizeUsr(idde) => {\n        .collection('users').findOe(\n         {_id:ne ObectID(id)},\n           (e, oc) = {\           done(nll doc)\n       }n       );\n    );re",      "NOTE: Thi deserializeUser willthro an eo unil weset up the DB inte exstep so cment ou h whole block n ustcall <o>n(nul, nll)/code> in tefuction deerializeser."
+      "Sumit yourpa whe  tnk ouvegot itright."    ],
+    "halleneSeed: []
+      "tsts": 
+       {
+         et":"Seraze user uncio rect"
+        "testStrin "getUserInput => .gt(getUserInpt('url')+'/_apierver.j) .then(data  { assetmatch(data /asprt.serialiUerg, 'Yushoul hav cetd yorasspot.erialeUsr unction'); se.matchdaa /nll, userid/gi, 'There hould be acbak n your seriazeUer with(nl, usr._id) } xhr => throw new Errr(xhsttText);})"
+      },
+     {         "text":"Desralize sr function correct"
+        testStng" "etUerInput => $.t(getUserInut('rl')+ '/_pi/svr.s').thedta => {assertmatchdat,passprt.desraizeUser/gi, 'Yu shoud he reated youassprtserialieUer function) asrt.macdaa,/ul( ull/gi, 'Thee shuldb acalbac n youreseialzeUser wih(nul, null) frnw); }, h = { throw new Eor(xh.tauTex); })
+       },
+       {
+         "tex": "ongB is  dependy"
+        "testString: "geUsernpu => $.get(etUserInput'ul')'/_api/package.json' .the(ta =>{ ar pckJson =JSON.pars(daa); assert.propery(packJson.dependence, 'mongd, 'u roject sould is \"mongodb" a a dependeny');}, xh >  thow new ErrorxhrstatsTxt )"
+     },      
+        text": "onodproprly eqire including teObjecId",
+         "tesStrng": "getseIpt=> $(getUsInut'url')+'api/serverjs') .hen(daa => assert.match(dta, requir.(")mongodb(\|)g, Yousould ave required ogod'); assert.match(data, /new OecID.id/g En thougtheblock i cometed out, yu should use new OjectD(id) fo whn we dd ttabse);  xr => { tro new Error(xh.stsText);}"
+     }
+   ],
+    "souons: ],
+    "hts": []
+   ype": "bakn,
+     "hallngeype: 0,
+    "translton" {}
+   ,
+    {
+      "id: "585f70c9fc0352b528e6",      "tite": "Impemt heSeialization f a Psspot Use",     "descriptin: [       "s reindehis project s being built po the ollowing starteprject on <aref='https://glitch.com/#/ipor/hubfeeCodeamp/oilerplat-adancednod/>Glich</a or oned fm<a href=tp:gthu.com/feodeCamp/boilerpatedvacednod/'>itHu</a>.",
+       "Rgh ow we're not oadngan actuallyusrs obect ince w aven' set up our database. This can be dneaydiffret ways, bt fropojct we wl connet tohe dataas onewhenw start the servr and kepa persisent coectio rthe ll lifeyle f te ap.,
+        "To do his, add ogoDB as a depnncyand reqire it in ou ve. (<code>const mong = quire('mongod').MongoClie;/coe>",       "Now wewantto the onnectto our atabase then start lsenigfo requess The puos of this isto not allw reuestsbefore or dabae is conneced orif he is a databse error. Toccomlih you wilwat to ecompas your erialization and you p lstner i th fllwin:",       "<pe>mog.connectocess.en.DAABASE, (err, db) > n    i(err {\n      cosoelog'Database rror: ' + err);\n  }else {\n      cnsole.lo('Sccesful dataase cnnetin');\n\n       //seiliaion and app.litenn\n}})/r>",
+      "Youanouncmmn tebock in deserializeer nemov youcod>dne(null, null)</cd>. Be urto e e>ATABASE</em> in your .env le o yor ataase's onetionstrig (r eample<codeDTABAE=mogo:/din:pss@mlab.c:12345/y-project/coe>). You can tupa free abase on < hre=https:/mla.cmlcome'mLab/a> ograulations- youve fnished setn up srialization!",
+     Subit youpagwhen you think u've gt it ri. I you're running into ers, u ca checkou theroect complete p t ts poit <a efhttps://gt.gib.cmoeLivenood/e192e89d27cb8dc2c346b7477'>hre/a>."
+      ]    "challegeSeed:[],
+     "tets": [
+       {
+          "e": "Dataase cnneo  preent",       testring" "tUserInput => gt(getUserIpu('ul')+'/_ap/serr.s')he(data=> { assert.tch(ata,/mongo.cnc/gi'Youshould avereted a connciono your tabae'); asser.atchata/mno.onnect^]*app.ite[^][]*i,Yousould have yor app.listn netd t wthin yourdatabas conection at bottom'); },xh = { tho nw Error(xhr.satusTex) })       },
+      {
+          "text":"Deserilization is now corrctly usingte B and <coedone(ull, nul)<cd is rasd",
+       "tstString": "etUserInut => $get(getUsrInpu'url') '_api/server.js') hen(ata=> { ssert.notMathdata, /ull)nul/gi, 'Tecallback n deserializeser o(null, null) shoud b cmetely reoved for the db block ncommented ut'); }, hr => { thrownw rror(hrstasText;})"       }
+      ,     "soutions" []
+    "hits": ],
+      ype": "backe",
+    hallengeType": 0      "translaions: {}
+   },
+    {
+      "id: "5895f0dfcf352528e68"      "ttle" "Athetiation Sraeies",
+     "descrition" [
+       "As a reinr, thi projects being uilupo the folowing start projecto a href'hs:/gitch.com/#!/import/githubfrCodeCmp/boilerpat-advancednde/'>Glich</a> or cone frm <a hrf=https:/itubm/freeCodeCamp/bilerpae-adancednode/'>GitHub</>.",
+    "Asrategy is a wayof uthenticatinga r. You can e a strategyfor allong uers t auhentcat bsed on ocally sved inomtion i you hae thm regiter fist) ofrom a vity of poviers such s Googe r ithu. or tis project w will set u a lo sratgy. T see a liof th 100'softrategie, visi Passports site a href=p://pssportjs.rg/'>r</a>.,
+    "Add<empassport-lcal</m> a a epenenc nd addit to yor server as follws: <ode>cons LocaStrategyreqie('papr-lca);</coe>",       "Now u will hae to tll ssport obu/>n nstntiated LocStartegy bject with a f sttingsdend. Make ue ti as well a everything fr this point on is encapsuatd  the dabase onnetion since t relieson it! pre>ssport.use(neLolSratey\nncion(uene, pasord, don) {\   dbcollctin('users).findOn({ userne usename }, fuction (rr, user) {\      onsle.lg('sr '+sernam +'atempedto og in.);\n      if (err) { return don(rr) \n    f (!us) {return one(nul flse); }\    i(asor! use.pasor) { retur dn(null,fase); }\n   retur done(nul,ser);\n    });\n  }\n));</pre> Tis s deining theprocs t take whe try to authencatesomone lcallFirs it ries to find a user inour abas wt he userae enered,hen it checks fthe psworomach, thenfinally i n rrors have poppd p that we checkd for, like anincrrect assword thuss object s returned aney ar utheniate.",    "Mystrategies ar se up uing dierentsettings, grl it i eytosetit up based on theREADME i tha strategie repsiory houg. A goexample o thisshe Github stategy whe we dont ned to wrraboutuseram orpasswodbecuse the user ill be sent oGihub's auth age o authenticate a as ong  they re loggedin and agree then Github rtuns their profil fo sto s."
+        "n the next tep we will se up how  actually cal he authentictio strategyto validtea serbased o form data Submit orpage wen you thik ou've gotit right up to his pnt."     ],
+      "challenged":[],
+      "tess [
+    
+       "x": "asport-locl sa dependncy,          "testStrin":  getUseIu =>$.ge(geUerInu('url')/_api/akage.jso') .ten(ta > { varpackJ =JSN.pas(data); asrt.propert(packJson.epeneis, pasport-locl', 'Yorprojct suld list "pssportloca as adependency); }, xr=>  thow ew Error(x.statusTex);)
+      ,
+     {
+       text": "Passprt-local crect required ndsetup,
+        "estSrin": "gtUsenput=> .get(getsrnt('ul')+ '/_api/serve.j') .tnda => { ssertmatch(data require.*(\"|)passprt-local(\|)gi, 'Yu uldhve requred asot-local'; assert.atch(data/new ocltategy/gi, Youshould hae tod passortto e  nstagy'; assert.mtch(ata, /idOngi, 'Yournew local tateg ould us te fndOe query to fid a usernme se o he iuts');}, xhr => { thrw newrror(hrstatusText); })"
+       }
+      ],
+    luios": [,
+    "hint":[],
+    tyebackend"
+   "challenType": ,
+     tranlations": {}
+   },
+    {
+     "i": "5895f70df9fc0f35228e9",
+    title": "Hw t Use PassprtSratees"
+      "eciptin: [
+      "As a ede, this project s eig bupon the folowing strter ojec on a href'http://litchcm/#!/iprt/gthb/freeoeCamp/boirple-adancednode/'>lic</a>, or loned fro <ahref'ts://ithb.c/freeodCam/bilerplat-advacednode/'>itb</a>.",
+     I theinex.pu file splid theres actully logi rm. It has previouslybenhe bcause of he iine aascript<od>if shwLogin</coe> ith th orm indented fter it. efoeshowLogns a variabe was never efi, it neer endered e cd blck conainin th for. Go ahead and on the res.rende forha ae add a new variable the objec<oe>showLoi tru<coe>. enyu refreshyour ge, you shou then see te orm! This form set up  <bPOST</> on <em>/logi/em> sotisiser e shold set up to ccept the POST ad autheicate the usr.",
+     "or ths legeou should dd th route /ogin o acept a POT reuet. Toauthenticae o this roueyou ned t add a middleware to o so eforhnsenng aresonse.Tisisdone by just pssng noerargumntwith the mideware bore your<codefncioreq,res)/ode>with your reponse! The midlware to use is <code>paspor.entite('ocal')</code>.,
+        "<em>psspot.uhentcte</e can also take some otions as an argumen uch s:<code>{ failureRedirect:'/ }<cde> hich is icredily ueul so be sre toaddthatin awell. As a esonseater using th middlre whih wll nly b called i the auhentication middlewae passs su be to edrecheuser to <em>/prof</em>and that route shoulreder he iew profile.pg,
+       "Ifhe uthenicaton was successful, heuse oc wil b savedin <emrquser</em>"
+        No a this pit ifyou ener ausrnam nd passwod in the fr tshould reirc tothe home page <em></em>and i the cseofyour serve shou be 'Uer {SERNME} attmpted o login.' sine wecurrentl cnot login a ser ho s't registred."
+      "Submi your page wen you think you've got t rght. If yue runnng into errors, you can heckut he projectcompltdp tths point <a hre='htps://st.githbc/JosephLvengod/8a335d1a68ed91da029d5b15'>here</>."
+     ],
+      "halengSed": [
+      "tets": 
+      {
+     "tet": "Al eps orrctlyimentd inthe serve.js,
+    tesStrg":" getUserIpt= .get(gUsern('ur'+ '_asever.js').then(daa >{astachda, soLgin:()tue/ 'You ouldbe pasnt varibl \"showLogn\" as trueto younder unction f thhomeag'); assert.match(dta, falreRirect |)('|\")\\/(|\")/i 'Your codeshuld nclue aailureedirect t te \"/" route');asert.math(data, ogin[^]post[^]*local/i 'You shoudhave  roue frogin whic accptsa POSTandassporauthenticaes loca')}, xhr > { tho ewError(xhr.statusText; })
+     ,
+       {
+         "text": "A POS eqeto/log correcl edires to /",      "testString": "getUserput > $.pos(geerIput'url'+ '/login).thn(a => { asser.math(ata, /Homepae/gi, 'A loi ttmp at his pointshoudrdiret tote hmepg sic  d not haeay registerd sers); }, xh=>{ throw new Error(xr.tausext);})
+      
+      ,
+    "oltins": [,      "hits": ],
+    tpe" "bcked",
+     "challengeTyp": 0,
+    "translations: {}
+   },
+   {
+      id": "5895f70df9fc0f352b528e6a
+      "tile" Cree New Middlewae",
+     "dscriptin": 
+        "A aeminde, this proct is ben built upon th folowing startr proecton <a he='https://gtchcom/!/import/ihufreCdeCamp/boilrplatadvacednode/'>lit</a> or cloned frm <a hrf=ttps://gthb.co/reodeCamp/boilerpa-advancednod/'>itHub/a>.,
+       As in, an use can st g to profile wethe the athntictdor nt by tng in theurl. We wnt  prevnt sbychckig if teuseris athenticatedirst beforeenering the pofile page. This is the erfet examof wen to reatea mideware.",
+     "The chllee hee is crti the midewre functio <ode>ensruthenticated(req res, next)</cod>, hi wil cek if aue i autenticte by calingpassports isAuthntaedon the <eequet</emwhihin urn cs o e>eq.user/e> istobe efne. f itis te <m>next()</m>ho  called, otrs wecn jusesond t the request wiha redirect t ur heagto login. A implemntono thismidlewa is:",
+     "<r>functinnsureAuthenticate(req, res nex) {\n if (req.sAuhentcated()) {\n      reur net(;\n }\n res.rdirect('/');\n};</pe>",
+        Now add <em>ensureAuthenticae<em>as a ddlare to he reest fr the prfile page efore th argumet to he et reqst contaighe futon thatreder thepag.",
+      "<pre>app.route('/profi)\n .get(ensureuhenticated, (req,re)=>{n      res.rener(proc.cwd() + /iews/ug/profile');\n  });pre>",     Submi yor pag wn u think you've got it ight."
+      ],
+      "chlleSed": ],
+      "tests"[
+      
+          x: "Middlewar ensureAuthenicated should be impmntedad on our /profile route",
+        "tetString": "gtUserIpt$etetUserInput('url')+ '/aiserver.js')theata = { assetmatc(a /eureutenicted[^]*reqsAutetiated/, 'Yur ensuAuhentcatd idlewre shoul be defie an utilize the req.isAtheticated fnctio; asser.mth(data, /proil[^]*gt[^]*nsureAuteicate/gi, 'Your nsureAuthetcaed middleware soul be attached o the /pofile rt'; }, hr =>{ throw nw Errorxhr.stusText); })"
+        ,
+       
+       text":"A Get equest to /pofl orectly reres to/sice were n theicate"
+         "tstString": "getUserInput =>$get(etUerInput('url)'/profile' .thendata > {ast.mch(data, Home age/gi, 'Aatemptt  t te profil atthis oint shuld redirect to the hoeag ice e are nt lgged in') },xhr  { throw neError(hr.statusText); })"      }
+     ],
+      "solutions" [],
+   "hnts]
+      tpe": "backed,
+     "calleneType":0,
+    "transltons": {}   ,
+   {
+      "i": "58570f9fcf35b528e6b",
+    "te": "Howto Puta Profil ogeter",
+      "description: [
+      "As aminder, thi projetis being biltupon the folowng taerprojet on <a hef='https:/glith.cm#/imo/thb/freeCodeCamp/boilerplate-adancednode'>Glic<a>, rloned fr <a href='htps:/git.comfreeCode/bilrplate-advanednoe'>GitHub</a.",       Now ht we can ensre he ser accessing he <m>/proil</em> is authnicaed, we can use the nforao tained i 'eq.user'onourpage",
+       "Go head and pass th object conainig the vrable <em>username/em> equaing 'req.userusernam'itote render metd oh profle view. Then go toyoprofile.pgiewandd th line <cod>h2.ceterwelcomeWecom, #{usrname}!</code>ratn the h2 elemet it he cla cete' adi 'welcoe' containing the text 'elcome ' and he userame!",
+       "Als nthe profl,add a lik o <em/lgout</em> Tat routwil hot te logic touuhenticae a usr. <ce>a(hef='loou') out</code>,
+        "ubmi yor agewhn you hink youe goti riht.
+     ],
+    "chalngeSee" [,
+     "tsts: [
+        {
+        "tet: Cocty de  Pug reder aribleo profile",
+         "testStrg": "getUsrnput => egetUserInut'url'+ '_api/server.js') .then(at =>{asermath(data, \/vews\/pug\rofie[^]*username:( )req.ser.username/g,'Yu shuld be assing the arile usernme with req.user.sernme nto hrender nction of h rofle age'); }, xhr = { thow new Errorxh.statusxt )"
+      }   ],
+     "lutios":[],
+    "ints": [,
+   typ": backen,    "challengeTpe": 0,
+     "tanlatins": {   },
+   {
+   "id: "58965611fc0f32b286c",
+   "titl" oggin a User Out,
+     "descripton": 
+       "As a minderthis rojec is beig uiltpon te olowing starter roject a re'https:/lich.cm/#/imprt/github/freeoCapoilepate-adanednod/'>Gih</a>, o clonedfromhref='https//github.com/freeCdeCamp/ilrplate-advancenode/'>itHu</>.,        eaing he logout logcis easy Teroute shoul just nautencat thse ad rdiecto the home pae insead orenerig ny view."      "Inpassprt, uauhenticatin a ser i as asy asjs clin od>e.logot);</coeefore ediectn.",
+     "preap.roue/logout')\  get((req, rs) => {\n    req.logut();\      res.redirc('/');\n  });<pre>"
+      "You ay hav nticed w also e're not handlingmising pages 404), the commo ay to handlethis n Noeis with th folwing ddlware. o head nd add thi n fter all your other rutes:",
+        <pre>app.use((q, res, ex)= {\n  res.stats(44)\n    .type('txt\n  .en('Nt Found');\n});</pe>",
+       Subit yo p wenyou hnk you'vegot itright."
+     ,
+     "chaeeSee":[]
+    "ess" [
+     
+        text": "Loou rute"
+      "testStrig: "gUserInpu => $.gt(getUserput('r)+ '/_api/servr.js') .the(a => { assert.machdata, /req.logot/gi, Yo shuld becalre.logout() i your /ogout rout);} xhr > { hrow newError(hr.sttusT); )"
+       ,      {
+         "te" "Logot shouldediret to the oe page /",
+         "estting": "gsrIput =>.getetUsernput('ul')+ '/lg') ten(da => { assrt.at(da,Home page/gi,When  user lgs outteyshould b eice to h hepage') }, hr=> {throw n Error(hrstatusTe); })"
+     
+    ]
+      "slutns" [],     hint"[],
+    t": "backen",
+  "challngeTpe": 0,
+    "translatin":{
+    },
+   {
+      "id5866a17f90f3528e6d",
+   "title" "Rgistrato o Uses",
+      dscrition": 
+       "s  reminderthis rje is beingbuit uonthe followigstrte pojecton  href='hts://gch.com/#/mpot/giureCdeCamp/boilerplate-avancede'Glith</a>, o cloned fm <a href='ttps//gthu.com/feeCoeamp/bolplate-dvancedod/'>GiHu</a>.",
+       "w e n t llow a ew ue on r site o reis an acout. nthe resrener for thehomepagead a new ariabe o theobject passed alon- <ce>shwReitration: tu</coe> h you efresh our page,yu shud thensete reistrai formthat was lead craed n yourindex.pug file! This form iseu <b>POST</> on<emregstr</m> so tis is where w sho set up o acept the POST  cetethe user oect the dtabae.",       "The logic f the restration oue suld e as fllws: Regisrhe ew user > Authetcate the w sr > Redirec to profie",
+       he logic of sp 1 rgsterg the new user, hould e s ollows: uerydatbse itha indOne comn > if ser i retrned hn t xiss nd edirect back to home em>O/m f user is unfed andoerror cursthe 'instOne' int heatabse with eusername ad passwor and a long as no errocurheall<next</em> togo to step 2, autheticinghe new er, whic wev ald ritten thelogicfor inur POST /logi ou",
+     <pre>app.ote(/egiter')\n .post(re,res,nxt) = {\   db.collectio(users'.ndOne({ username: req.bod.usernam }, funcion (err,uer\         if(err) {\           ext(er)n        } else if user) {\              res.rdirec('')n    } ls{\n            db.collection'usrs'.insertn(n              userne: reqbdy.username,\n           passwod: e.body.passwor}n             (err,dc)= n                   if(err {\n                    res.redrc('/';\n               }else {\n                    extnull, sr);\n              }n           }\n            \n         \n    })},\n  passport.utheticate('local',  ailreedirct: /' }),\n    (req, esnxt > \n       res.redirect('profile');\n    }\n)</pre",
+      "Submit yourpae weyo tk yuv got it right. If yo'e running int errorsyoucn checoutte poject copleed uto tspoit a hef='hts://itgithb.cm/JosehLivengd/6c47be7d34df9f1182080608071ed'>hre</a>.      ,    "chalee": [],
+     "tets": 
+    
+         "ext: "giserroute nd dsplaon home,       "tstString: "geserInput >.getgetserInpu('url' '/_ap/server') ten(data => { assrtmatch(data, showRegitraion:( |)tre/, 'Yu hould b pssing tvariable \shwRegsraion\"s tru to yourenderfuctionfor themg'); asset.match(daa, /register[^pot^*inOne[^]*srnae( |)eq.bod.usernm/gi, 'You ould avea route accepta pot eue on rgitertquery the db th finone an thequery i \"usrnme:rqbody.ename\"'); }, xhr > { hw ew Er(hratusTx); )
+       },       {
+         "text" "Registering shou wrk,
+       "tetStrng etUserInpt => $.jax({l: getUserInut'ur')+'/rgsr',ata:{usernme 'reeCodeCmpTester', paswrd: 'freeCodeCmpester'},crsDoman true, t: 'POS',xhrFields: { withredetils: ru }} .hen(data > { assert.mac(dta, /Prole/gi, 'I shuld be ae orgiter ad it drct m tomy profle.LERYOUR DATAASE if t tet ails (eah timeuntlits riht!) , xhr => {thrw new ror(hr.tatset); })
+     },
+       {      "text:"Loin shouldwork",
+       "testtin" "UrInpu > $.ax{url: etUserIput('url)'/lo'a: {usrnam 'freodeCameser', passord: 'freCodeCampTese'} ye 'ST, xhrFild:{ withCredentals: true }}) .h(ta => { assert.matc(data Profile/gi, 'Loin shulork if previoustswas doe sucessfl a rediretsucessfuy to he rofle.Check ou ord clearyorB');ssrt.mtch(a, /freCoeapTestr/gi, 'he profi shouldrpey isplay the elco to he user logen')},xhr => { thrownewError(xr.statsText); }"        },        {        "text": Logout sould wok,        "tetString": "etUernput =$jx({url: eUserInut('url')+ 'logout, type: 'GET',xrField:  ithCredentals: tre }) .tendata =>  assert.match(data /oe/g, 'Lothuld rdirect  hoe');}, xhr > thow new Eor(xhr.statTxt); })"
+       },
+      {
+        "ext": "Profileshouldno longerwr afterlu",
+        "testSing": "getUerInput=> $.ajax({url: getUserIn('url') 'pofile', type: 'GET'rosDomain: te,xhrFields { withCrdentia: tru }}).then(ta { ssert.match(daa, /Home/,'Profile hould dirc to homewhen we are oged out nw again' } hr => {hrow n Error(xhstatusTe); )
+       }     ],
+      "solutin": ],
+      "hint": [],
+   "ty: "bacend",
+      "chalengeyp" 
+    "translations": {}
+  },  {
+     d": "58a2c989cf352b28e7f,
+     "itle": "Hashng our Paswords",
+    "dscrto": [
+    "A a remind thisprect is beng built uponthe following strter prjct  <a hrf='https:/glich.om//impt/gtub/freeCdeCamp/boilerlae-adacdnde'>Glitch</a or cloned fro <a href='htp://githubcom/freeCdeCamp/oerpla-advacedoe/'>GitHub</a>.,
+       "Gogbac to the information ecurity sction you myremember that sting laintext paswords is <em>nevr</m> ok. Now itis time to implement BCrypt to sol this sse.",
+       "<hr>dd BCryps apendenc drequire it in yur server. You will need o hnde hashingin 2 eyareas: hereyou hanle egistrin/sving aewacount n wenyoucheck t seetat passwordis corect n in",
+        "urrenly on our registertio route, you isert a user's word ito he dtabase lie th folowing: <code>passwrd: redy.ssorcode. An asy y to implementsavig a hashinstads tod the llwingbfore our atbae logic <code>var hash  bcypt.hash(reqbdypassord, 12);/coe> ad replaing the cde>req.bypaswor</code> in h dataase vig wihjust <ode>paword: hash/code>",
+      "Fnllyo our athenation statey we cec or the fllown in our code before cmpletigthe ocess: <cod>f (asswd == use.password) { retn done(nll,alse); }</ce. After making th preious hanges,nw ceuser.asword/code> isa hs Beore aknga change toth exing cod, ntice how th staemet is checkng  te assordis NO equal hen retn non-autencaed. Wih ti inmnd your od ould look as foows to propery ceck the passwod ntered aastthe hsh: code>i !bcrypcpar(aor us.pasod)) { return donenull,ae) }</code,
+       "That is allt tak to implementne he most mpotnt security features when ou have to tore pswords! Submt yo page whe outhiko've ott right."    ],
+    calleneSeed": [],
+     "ests: [
+       {
+       "text":"BCrypt is adepenenc"
+         "estStrig": "geUsrInput>$.gt(getUserInpu('ur')+ '/ai/kgeson') .ten(ata > { varpackJson = JSN.pare(da); assert.propery(packJsondepedences, 'crpt', Yur projec soul list \bcrt\" a a dependency') }, h>  how new Ero(xrstatue); })"
+      ,       {
+       text" "BCyt orrec required and implemented",
+        testStn": "geUsernput => $.get(getUseInput('rl')+ _api/srv.js' .the(aa=>{ assrt.match(data, /reuir.*(\"|'cypt(\|)/i,'o should ave requiredbcypt'); asrt.match(dat, /cypt.ash/gi, 'You should us ash thepasword in theregstain');assrt.atch(data, cypt.cmpare/g, 'You hould compare h passwordo th hshi yor strateg');  xr >{ throw new Erro(x.tText); })"
+     }
+     ],
+     "solutions: [],
+      "hnts": [],
+   "type": "bkd",
+      "challengeType"0,
+    "tranlaons": {}
+    },
+    {      "id":"56906f9fc0352b28ee",
+    "title: "Cean U Your Projt with Modes"      "dsciption": [  Asa rinder,tispojects being ult upn th followingstaterprojecton <a href=hts:/glitc.c/#!/mport/githu/freedeCamp/bolerlateadvacdod/'>lit</a or clnd from <a href='ttp//ithub.comfreCodeCamp/bolerplae-advancednoe/GiHub</a>.",
+     "ght now everthing yu hve is in your sererjs file. Tis can lead tohard to mge cde that isn't very expanable",
+     "Crate2 new files: Routes.js and Auth.js",
+        Both shouldstar ith the foloing code: <pr>module.eorts = fnctioapp, db) n\n\n}</pre>",
+     "Nw in th opof you ser ile,euire thse ieslike sch <ode>consrutes = require('./rutes.js);</code,     "Right after you etabish a sucesfulcnnetwth he dataas isttteeah of themlik ch: <code>roues(app, b)</code",
+       "inaly, tae al of h ruts in ourservr ndpaste the into o ne fils and removethe foourserver i. Also take he enurAuthenticat sinc e ceaed that mddleae fnction fr rouing specicaly. You willave to n corectly ddthe denencie in tat areused, sh aso>cnst passpor requre(asspot');c>, at the veyop ove theexpor line in y routes.jsfile."
+      "Kep adng the util no ore errr exist, ad your erver file nonger has any out!",
+        "Nowdo the same thin in your ahjs fil with all f te thigsrelaetoutheticaton ch a h sralizio an the setinguof heloca strategy an erasthem frm your serverie. Bere to addthe epedencisin and call <code>auth(app,db)</cde> n the servr in the same spot.e sure to have <code>auth(app, db)<code> befoe <cde>routs(ap,db)/co>sinceour rgiration ruteepndson passrt being initiaed!",    Corauations you're a t end f this section  Advaced Noded Exrsandave some bautiful cod to show for it! Sbmi your pagehen youthink you've got it igt. If you're rnninginto rror you anhec ot anxampleof the cmletedproject <a href='htps://glich.com/#!/project/delico-herg'>here<a>."     ]
+     "challengeSee": [,      "tests" [
+      {
+       "text": "Moduespresent",
+         "testing" geUeInput> .gettUerInput('ur')+ '/_ap/serv.js') .hen(daa => { assert.atch(daa, /reqir.*(\"|').\\rous.js(\")g 'You shoul have euired your ne files'; asertmatc(daa, /moo.connt^]*ros/, 'our new modules shoude clledafte y cnnectin to the atabase');  xhr => { thrw ne Erro(xhr.stausText); })"
+        }
+     ]
+    oltin": [],
+     "its": []
+    "type": "bcken,
+     "hallngTe": 0
+     "trnslatins": {
+    },
+    {
+   id" "89af5f9c0f3b5286f,
+     ttle": Socia Authentiation hOAuth,
+    "descriptn": [
+     
+       ""       ",
+          "OAuth 2 i e idust-standard uthoriztin nd s usedacross the internt fr social login such as lttng you loin t freeCoeCampwith your Githubaccount.<b>Implemntng ocil login ith passport usingOAuh is extreml easyt do beause f the a href'ht:/assportjs.org/'>300+ mdls</alra on npm fr adinnew srategiestoyo p. In adion t the easeoinstalaion, t islso sierto use ecaue oudo not hae to ea with  seprat <em>registraton</m> or n useriput.br>Stt this rject on Glitc using <href='https://gitchco/#!/imort/githu/feeCodeCamp/bolrpte-socialauth/'>thi link</a> or clone <a refhttps/ith.com/frCoCpboileplate-socilauh/'>this reository</a> on GitH! I yo us ith, reember to ave the l to you project somewere fe. Be se to entr yu datbase i e n ie- t nbe th same onefromst proect ne you'll be usina new colction!",
+         ""        ]
+    ],
+      "releaseOn""Feb 17, 217",
+      hllengeed":[],
+    tests":[,
+     "yp": "waypont,
+      "chaengeType": 7,
+     "Requird": false,
+    "trnslatios": }
+    },
+  
+      "d": "89a6959c0352b52870,      "tile": "Implemenatioo Socil Auteticatio",
+   "description":[
+      "s a reminder,tis project is being buit uponthe follwing strte rject on < rf=tts://gichom/!/mort/ithub/reeoeCampboileplte-soalaut/'>lich</a> or clned from<a hre='ht://github.com/freCodeamp/bilrplate-socilau/'GtHu<>.",
+       "The basc at tis kn of auhentcatio il ollowin our app is ol><li>erclicks a uono link sending them to or rte to authentcateusing a spcificstratey(EG. Gtub)<l><li>Your rute calls code>sport.uthentce('github')</cd which redcts them to Github.<l><l>The page the user lnson, on ithu,allows the t lgi if they aren't aredy ten ask hem o aprove ccso theirprofe from our ap.</liliTeuserthen eturned to our appat a speciic allback url ith heir ofle if they appove.</><i>They are nw athnticated andyu aphul check if it i areing profile r save i in yurdatabas if it i not.</l</ol>"
+      Straegieswth uth rquire yo o have at lat a <e>CientI</em> and a <em>lent Seret<em> whchis a ayfor them overiy wo te authenicationreqtis comin fom an i it is valid.hes re otaied fromthe it you are tri timplemet authenticaton with, uch as Github, and are ni toyour app- <b>THEY ARE NO TO B SD</b> andshold never b uloaded o apublic reostor or itn irty n ur cde.  como ratceis o ut the inyour <m>.ev<em> fie ad rfernce the lie: <ode>pocss.env.GITHUB_LIENTID</code>. Frthis challen we'e oigtuse the ithu sraey."
+       "btaig y em>Client ID ad ecrt<em> fro Githbisdone i yo act rofe settiunde 'eveloe ttings', thn 'a hre='htts:/gth.comsetings/velops>Auth applications</a'lck'Register a nw alication, nam your ap, pastein the url t yr lith homepage (<b>Nt the projc code' rl</b>) andlasy for thcallback url pte tesame url as te homepage ut with augithub/calbak add on.This s here sers willb reiected tofous thandle aer auencaing on Github. Save the rturndifrmatio  ITHU_CLIEN_ID' and 'GIHUB_CLIENT_SECRET' inyour .e file,
+       "n your remxed proect,ceate 2 rtes accepig ET eqests /uthgihu and/athgith/calbck. T irst sholdonlcall pasort  authentice 'githb' ah second shoud all psprt to auhenticate 'itub'wih  failr redirectto '/' nd hn if that is succssflredirctt /pofil' (imilar t ou ast pojec).",
+      " example how '/auth/gitub/callbck' shold lok s siiar to owehanded  normal logn in ourlst pojet:<p>ap.route(/login')\n postpaporauhentcate('loca', {freRedct: '/' }),re,res) =>{ \    res.redrec('prfil'); \n });</pre>",
+       "Sumi your age when ou thinkyouv gtitrigt. Ifyou'rerunngino errorso can chck out theprojecuptotis ont <a href='tts:/gist.githu.m/JopLveood/2ea2ce7e1dc6a57fc42d98731'>ere</>
+     ],
+    "hallengeeed: ],   "tsts: 
+        {
+       te: "Rout /au/github corret"
+       testSring "etUserInpu =$.e(gsenput('url')+ '/_ai/ervej') .the(daa => assrt.matc(ata, /('|\")\\/uth\\/github('|\"[^]*get.passportautheticatithub/gi, 'Rot auth/gthub sould nly call pasporauhetcat wihithub'); }, xhr > {throwne rrr(xr.satusext) )"
+      },
+       {
+        "text": "Rute /authgithub/cllbac crrect",
+       "estString: "etsrInput => $.get(etUrInput('url')+ '_api/sver.js .hendaa > {asrttcata, ('|")\\/aut/thb\\cabck(|\[]et.*psport.uthenticate*gihb.*faileRdiect: |)\"|')\/(|')/gi, Route ahithb/cllbac shod aceptg reustn callpasort.utentate for github with afaiur rdiret t ome');}, xhr=>{ thrw e Error(xhr.statusText; )
+        }
+      ]
+  "soluins": [],    "hints":[],    "p:"backend",
+    "chalngType":      "tranations": {
+    },   
+  id: "58a69f5f9fc0f352b528e71"
+     "title": "Implmetaion of Socil Authenticatin II"
+      "desciptin:
+       "As a mide,ti project is bein bilupthe folowingstarer prjet n a re'ttps://gith.com/#!/imort/github/freeCodeC/boilerlasociauth/'Glich</a>, or coned from <aref='https://github.cm/freeCodeCm/bolerlate-socilut/>GiHb</a>.",
+     "The st o settig uyurithubauthentication is to create he sratey itslf For tis,you will ed tad thedepenncy of 'passport-githu' to yor pjec an require it as GtubStraegy like <codecon GitHbStrategy= reuire(pasp-githb')Strtegy;ode>.,
+      "To set up th Github strategy,you hae to tell <bpssort/b> t <buse<b> anistantiated <b>GitubStrategy</, whi accepts  arguments: A bjec (cotainng<em>lientID</e em>clientSecret/em>, an <em>calbackRL</em>)n  fcto to b calle whna use  uccssful uthntiated which we will detineiheuser is newand what fels t ave intialy in h ser's dtbase objet. hi i comon acrss man statgiesbu some may require mre iformtion as ouined in tha specific stratgy's githb README for eample, ogle equires a mce<e>as wellhich determin a kindof informto your euest isaskig returnedandsks the er t appove sucacce. hecurrensrategy we are impemnting s ts usgoutlined here</a>,bt we'e gong though it al right hre n freCoCam!",
+     "er's hw yr newstategy should lok ahis point:<pr>papot.se(ew GHubSrtegy({\n   clienID: proces.env.GITHUB_CLIT_D,\    clietecret: process.env.GITHU_CLEN_SECRT,\  cllbacURL:/*NSERT CALLBK RL TERE INTO GITHUHERE*\  }n  functon(acessTokn, efreshToen, profile,cb){n     console.logrofie;\    //Dtabae ogic here ith allac cotaiin our ser ojet\n  }\);</pre>",
+     Your auhenticatinon'besucessfl yet, and atul throw anrror, whot the database logiandcallac, but i shuldlog t your cnsole your Github profile f y tryi!",
+      "Submit yourpage heyouthink you've go t rigt
+     ],
+     "chaleneSeed [],
+     est 
+      {
+      "text" "Dependency aded",
+          esSting: "gUsernput > $.get(getUput('url')+ '/_api/pacage.json').tn(data=>{var packJsn = SON.ps(ata;asert.roety(packJson.ependencie, 'pssportithub,'Yur projectshouldlit \asprt-git\ as a dpden') },xhr =>  thr w Eror(xhr.statsTe; })"
+        ,
+     {
+        "text: "Dependencyrequied,
+       esttrin": "gtUserInpt = $.gt(gtsIput('ul')+ '/apisrver.js') .thedata => { assertatch(data, /requre*(\"|')pasport-githu(\"|')/gi, 'Yoshoud hve reqid passor-github');} xr => { throw ne Errorxhr.satusext); }"
+      }
+       {
+         "xt: itu sregysetup corrctly thus far
+       testSting": "gtsrnut =$get(getseInput('url')+ '/_api/svrjs') .hen(data> { sset.mathdata, /assport.ue.*newGiHubStrae/gi, 'asprt should usea newitHubStraegy');sst.matc(a, /calbackURL:(|)(\|').*(|)/gi,'o sould havea calbackURL; asert.mach(data, /procs.env.GTHUB_CLEN_SECRET/g, 'Youshu se proces.env.GIHUB_CLIN_SERET'); asrtmtchdata, /rocess.env.GITHUB_CLIENT_ID/g, 'Youhul userocess.nvGITHUB_CLENT_D'; } xh => {thro new Erro(x.satusext) })
+     }
+    ]     "lution: ],
+     "in [],
+     "ype": "backend",
+    "chllengeTpe":0,
+     "rasltion: }
+    },
+    {
+     "id": "59a8e3f90352b528e72,
+      "title": "Imeetinof Social henticionIII"
+     "descripton": [
+       "As  eminder,this prjec isbeng built upnhe folowng stae poect on <ahre=tps:/glitc.com/#porgthubfreeCoCp/bilerlate-socialth'>Glitch</a>, or cloned fr ahref='htps:github.comreeCodeCampblrplatsocialauth/'GitHub</a>.",
+        "Te final pat o te sttegy is andling the profie returnedfrm Githb. We ed o loadte ers database oec if i exists or crete oneif i dosn' andpopulte te fields frm te rofilthen reur thuser' object. Gthb upes us a unique <em>id</e> wtin each ofil wch weca us o searc with to seril theuser with (alrad imlemetd Below is a xampl impmenation ou can us inyour project- it ges withi the futin thtis te secon gumentforhe new traegy,riht below t <cde>nole.ogproie;</code urrenly is",       "<pr>d.collecton(socialses').findAnddfy(\n  {i: prfile.id,\n  {},\n    {etOnnse\n     id: ofile.id,\n      name:profie.displyName | 'hn Doe',\n       pht rie.phots[.vale| '',\n       eail profile.mails[.u|| 'No ublcmail',n       creaeon: new Dt()\      provider:profilepride |''\n    },$se:\n        last_logn: e Date)\n    },$inc:{       login_co 1\   }},\n   {upsertrue, new: tue},\n   (er, doc) = {\n        returncb(null, dvle);\n    }\n);</pre>",    "With a findAndModify,it alowyo to searchfor an object and updae a wll as upsert he j if i oesn't exsadrecie the nw obect back echtme i or calck funtion.  his exampl,we alway st th lat_in a now, wlay incrnt the loncou by 1, and nly hen we ser a new obec(new user) dowe popuatethe ajority of he fids. Somthing to noticals is te seof efat alus.Sometimes a pofle retured wo havallthe iormation file out oritwill have been chosen by he user to remi rite; so i ths casewe haveto anle it to prevent an erro.",
+      "ou shol e e o logi to your app now tr it! Sbmit your pge when you think ou've ot t right.Ifo're runi into errors, youcan chck ut anexaple of this mini-rojects inishd ce <a hef='htts://litch.com/!/prjec/guttral-birch'>hee</a>."      ,
+     "challengSeed":],    "tsts" 
+      {
+        "text Github srateg setu omplet",
+      "testSrng":"getUsrInput => $.gtetUserInput('ul')+ '_ai/sever.js') .then(aa=>  asert.math(data, /GitHubSratey[^]*d.cleon/gi 'Srategy shold usew  the databaeto earch for theuser'asert.atch(data,/GtHubStty[^]*ocialue, 'atey ould use \"scialuses\" as db olctin'); asert.match(data/itHubSrtegy[]*eturn c/gi, 'Strategy should rturn te allbcknctin \"c\'); }xhr =  thw ne Error(xhr.stausext) })
+        }
+    ],     "solutions": [,
+      ints" [],
+     "tpe":"backnd,
+      "hallengeTyp" 0,
+      "tranlatons": {}
+    },
+  
+    id": "89c820f9c0f352b528e7",
+     "itle": "Soce.O Introuction",
+      desription" 
+       [
+        "",
+          "",
+        "<df>SocketIO</dfn> enables real-time, eliabe, speedycommunition betwn your srer andclets fr al evices ad brosers t litens fr onets on your servr that cme frm te clentwhic cnects with asingle javascripstatement. The ole library is bsed o emiting, bradcasting, and recievn eventsha contin an evnt nand soe dat wich an ncude things li strins, objec, arays, an eenobs ie fiesor ieo. This is used f l sots of urposes includingintnt mssagigonlne ral-tieanalyis, strng nd ocument cllboatin<br>Start this projet o Glitchuing<a hef='https://glich.om#!/prt/gtubfeeCodCamp/boilerplate-sokeio/'>ths link</a> or clone <a hef='https/gihub.com/freeCodeamp/boileplte-ockti'this rostory</> on GitHu! If yo use lich,remembe t sav th inkto yourprojctsomewhe sfe,
+        "
+       ],
+      [
+      "",
+        "",
+       "To set uptis proect to ge tard nw n teenl:l><liCreae  adom sesnsecrt</li><li>ll in the atbase(it may b thesame as heast few projecs sincethis will use a new coletion)/<>Obtinanother setof Gitb OAth cedentals with the callback once again ptdat '/uth/gthub/clbac' and ad it in/li><ol",
+        ""
+       ],
+       [         ",
+       "
+        "Aw changesavebee me to thissarter<br>Insted of <ode>appliten</o>,  n have <pre>onst http =requie(htp'Srer(app;\nhtt.liten(pess.evPORT || 300);</pre> This is reqrd because for the inital handhake etween te server an lient, htti use. Seting up or server like this alow s t have th proessesus aingle por.<br>Als we av declred <code>nst sessionStoe =new sessonMemoryStoe;</code> and sd<code>sesintoe</cod> s the to inoureprs session. n ourprviousapps we have not done this beueby efault it is dne automttically. t s not thiswa so wecan reerencse the <code>sessoStoe</code> in other pats of or de now. I additon, we'vegivenour soa keytferenc i esier.",
+              ]
+     ]     releasedOn": "Fb 7,2017",    "hllengSeed":,
+    "tst": [],
+     "typ":"wapont",
+      "chlleneTpe":7,
+    "iRequired":fale,
+     "titleEs": "",
+    "descrpions": 
+      []
+     ,     "tileF": "",
+     "derptionr" [
+       []
+     ],
+   titeDe":"",
+      "ecrptionDe": [
+      ]
+    ]
+   },
+    {    "id": "58f839f0f32b528e74",
+      "ttle" "et uptheniromn",
+      "description":         s areminder this proect is ein built upon the folwng tarter projeto <are=htps:/glich.co/!/mport/ithub/eodeamboilplate-sockeio/'>Glitch</a>, or clond rm <a re='htps://gihb.omfreeodeCap/bolepat-cketio/>Gt/a>.",
+       "Add SocketIO as  deendency ad require/intaciate it in yur servr dned as 'i' ith the httpserveras n arguent. codcontio  reure('scket.io)(tp);</ode>"  Th firstthing needing to behaled islisteingfo anew connecion from thelient. The <dfnon</df>eyword des just hat- isten for a sefic event. It ruires 2 agumn:astrin containingthe title of th eet tats eitted, anda functio with wichte is ssed thou. n th cse f ouconection lisener, we use <msocke</em> t deie te d in the songumetA socket is an indivial lient wo isonnected.",
+       "Foristeing for connecos oor serv, adh followig between thecomments in your oject:<pre>io.on('connion, sockt => {\  consle.lo('A ser as onectd')\});</re>,
+      "Now forthe lieno conct, you jut ee to add te followng to youientjs whichis ldd by t pageafer ou'veatheticate <pr>/gobal io/var sockt  o);/preThecoment spresses the error you woud normallye since 'o' i notdefined in thfle. e've aledyadded  relbl CDN to t Set.I lray onthe page in cat.pug",
+      "Now ty lodng up yorap n uhenticate ad you shold se in yur rer cool'A user has cnnctd'!",
+       "tong>Note<strong>br><e>io()</code> woks only whn conecting to  socketostednthesame ur/server For conntingtoa external sok hosed elewhere, ou wouldue <coe>i.connect('URL;</o>.",        "Sbmit your page when you think ou've got irght"
+      ],
+      "halgSed" ],
+    "tests": [
+       {
+        "text": "SocetIO isa ependncy",
+       "tesString: eserIt => $.etetsrIpt('ul')+'api/pacag.json)thendat=> { va packson = ON.pare(data assrt.proprt(pakJso.ependeci,'ckt.io', 'Yor pojectshuld lst \soket.io\as a dpenenc'); }, xh => { hrw newErr(hr.stausText); "
+       }
+       {
+        "te: Socket.O has beenprperly requird and instaciated",
+     "testStrng": etUserInput = $.e(getrInput('url'+ '/api/sererjs)ten(data=> {aser.atch(ata, /io.*=*require.*('|\")socket.io('|\).ht/i, You soul cecly rquirndnstanciate setioas io.');}, xhr  { thrw new Error(xhr.statusext) })"
+        },        {
+      "text": "SocktI suldbe lteni fo conntios,
+       "testString""eteInut= $.get(etUserInut('url')+'/_apiserver.js') .h(dta => {ssrt.atch(ata, /io.n.('|\")oection('|\").*ockt/,'io shudisten f \"connection" ad ocket should be the 2 aguments varabe'); }, xhr =>{ throw new Eror(xhr.satusTet); })"
+        },
+      {
+        "":"Yourcit shuld conect to you server,
+        testStrin":"getUeInpt => $.get(getserInput('url')+ '/plic/clint.j'.then(data >  asset.match(data /oet.*=.*io/gi, 'Your liet shuld be conectioosrver with he conecion defed  sockt');}, xhr =>  throw nw Error(xhr.sttusTex); })"
+       }
+     ],
+     "solutions": [],      nts": [],
+     "ype" backnd",
+    changType":,
+     "ranslations": }
+ },
+   {
+    "id":"589fc831f9f5b2e75",
+    "tle: "omuncate by Emitti",
+      "descrption": [
+       "As a reidr, this ject i beng but upo ellowngstartpojecton < href=htt:/glith.com/!/imporgithub/freeCeCamp/boilrplate-soceio/'>Glitch</a>, or clonedfrom <a href='https://itub.om/freeCodeCamp/boileplatesockto/'>tHub</a>."     "dn>Emit</dfn> isthe most commn wayof communictg yo will s.When you emit somethgfrom the erver to 'io' u nd an events ae and dtato al th connected ocket. A goo exapl of this ocet wuld beemiin the current cun ofconected useseach ti a w use connects!",
+       "<hr>Strbyading a vaiabe o eep track ofh usersustbefor were you are cuently litening f onnections.codevar currenUser = ;</cod>",     "Now wen somonenncts you should inremnt the cnt oreemtingthe contso yu will wantto addthe inremente within teconnction listenr. <cod>++ureUsers<cod>"
+      "Fially fter icemntnt ount youshuld eit hevent(stillithinteconncto listener). Th event shuld be named 'user count' ad thedata shold just b t 'crrensrs'. <co>io.et('user cut',curntUses);<coe>        <h>Nw youcan implemnt a way for our ient to lten for hsevntSiilaly to listening for cnncti on th erryou wilusethe <e>on</m> eywrd. <pre>socet.o'er coun', uction(dt){n  conl.lgata;\n});</pre"
+       "No try oading upyour app and uthenticate ndyou huldsee n our lentconsle 1' representng the current usr ont! ry lodin moe lientsu d autenticating toeetheuber go up.",
+     "ubmityor page when you think ou've gotit rih
+      ],
+      "challeneSee": ,   "tet": [
+        {
+          "x": currtUsersi efined",
+         "tetStrin: eUseIut=> $.get(getUerInpu('ur')+ 'ai/sver.js).then(data => {assert.match(dta, /curenters/g, Yu sholdhve arble urenUsersdefed);} xh = {thrw nw ErorxhstatusText)})"
+      ,
+      {
+        "ext": "erve mit th crrntuer c atah ne cnnection",       testString" "etUsInput => $.g(geterInput('rl')+ '/_p/server.js')he(a =>{ ssert.atch(dt, /iomit.*('|\"ser ont'|")*currntUser/g, 'You hould emit \"r ount\"with dat urenses') }, xh => { thwnewErrorxhrstatuText); })"
+      ,      {
+        "tt: "or cln i listening for 'ur cunt' ee"
+         "esrig" "getUsernt =>$etgetUsernp('ul')+ 'publilient.js') .thndaa =>  assert.match(at,scket.on.('|\")uscoun('|\")/g, 'Yourclint hould be cnnectiontoservrwih the connecion dfieas ockt'); }, xh> { throw eError(xhr.tusText) })"
+      }
+      ,      solutons": [],
+  hins":[],      "tye" "bcd"     "challengeTyp:0,
+  "tranlions": 
+ },
+    {
+      "id: 589fc831ffc0f3528e6",
+     "tit" ndlea Dsconnect"
+     "escripton":[
+     " a remider, this pojec is big buil upn thefollowingsrer prc on<a h=htps//glichcm/#!/imort/iu/freCdCa/boilerplate-socketi'>Glitch</a>,  clnd rom <a href'ttps:/gthbco/freeCodCapboilerplatesocktio/'>itub</a>.,        "You may notc hat upto no you haveon een increasingthe user cou. Handlng user dsconnctingis just as esyashandinghe itial connet xcept thedifernc  you hve listn for i on achsocke versus on the wole erver."
+    <hr>To do his ad in o yr exstig connec istner a liseerthat lisens o 'disconct' on he oet withno dta ps hruh. Yo ca tethis fnctionalty by justloggin to the conle a user hsdisconnected. desocket.on('iscnnec ()=> { /anything you wat odo on sconct/ });</cd>",        "omakue client cntinosl hae theupdatdcountof curnt uses, you shoudecea te currentUsesy  hnhdinnet happensthen emi th uer cunt'evnt with te updae coun!",
+    "<strng>Note</stron<b>Justlike 'isconnect',ll other eensthat asoktcn emit to te ervershould be handed withi the coetinistener hr we have 'soket define,
+       "Subit ourpagwyou thnk yo've ot it rgt."
+     ,
+   "callegeSed": ]
+      "tets":[
+        {        "text: Svr hndleheeve dsconnect fom asocket",
+       "estring": "geserInput => $.ge(etUseIpt'url')+ '/_ap/sever.js) .then(data => {assert.machdata, /soct.on.*('|")dsconnc('|\)gi '');}, xhr = { thrw newror(xhr.statuTxt); })"
+      },
+       {         "tex" "Yur e ilisteningfor 'uer count' event",
+         "estString": geUserInut => $.et(getserInpt('rl'+ 'publi/lients') .then(data =>  assert.mach(data, /socket.on.*('|\")er cont'|\"/gi, 'Yor ientuld beconnection to sever wth hecnctiondfine s scket'); }, xhr => {throw ne Error(xhr.statusText)}"
+      
+     
+     "solutions": []
+     "hnts":[],
+    ype: "and",
+      "callegeTe",     "transltin": {   },    {    id": "89c8ff0f352b5287",
+     ile": "Auhentication witocktIO",    "description [
+       "As armind, this pojet isein built upon t following strtr roject on <a ref='htts//glitch.com/#!/importgithb/freeCodpboileplate-sketi'>litch</a, or clonedom <ahre='http//gitub.cm/feeoeCapoilerpate-scto/'GitHb/a>.",
+      "Crrenty, you cnndeterine whis onecte t yu eb socket. While 'eque'conanershe ur object,thas only hen youue interctsth t web server an ith eb soketsu haven req(reques and terefor no user aa.On way tosolvethe problemof knowig whis concted to yr web soc is by asing ad dcoin he cookietat contains th asspot sesion then sialig it  obtn the s jecLuckily te is pakae on NPMjstfor t thatturna onc cmplex task intosomhinsimpl!",      "<hr>dd 'pasport.socketio' as a depenency and equirit  'pasotockto'.",
+        "No we st have o tllSocket.IO to use it ad et the pions.Be surethiss dde beforete xisting ocketcdeandnot inte existinnection istenr. For our erver i shol look as folows:pre>o.u(passorScetI.authorie{\n  cookiearer cookiePrsern  ey          'xpres.sid',\n  ecret:    roces.en.SESION_SECRT,  store:       sessionSor}));</pre>You canaso optial pass 'cces'an fai'wit a tion hat ill e cle after t authenictn pces completes wen aclientrys oconect"     "Te ser objectisnow ccesabe n yoursoket objct as <codeske.euest.user<cod>. For example, now yoan add the folowin<coe>consolelog('user' + soet.request.user.name+ ' conect');<code> and t wil lo to hserve cnole ho hascnected",
+       "bmi our paewhen you think ou'egot it rigtIf ur runig into erors, youa chec out tepoect pto this pnt <a href='htp://gs.gihu.om/JosphLivengod/9e6ff91375005171293241f5'>here</a"      ,
+    "chaleneSee": [],
+   "tests": [      {
+     "tex: "passporSocketI is depnency"
+        "estring:"getUsrInput=> $getetUserInput(url')+ '/ai/packagjson') .thn(ta => { var ackJsn  JSONpre(at); asert.popery(packJon.depndeces, psspoSocketIo', Yourprjet souldlist\"pasportocketI\"s a dependncy'); }hr=> { thrw new or(r.statuTt); }"
+        }
+       {
+        "ext": passpoSktIoispoprly reqired",
+     "tsttrig":"geUseIut > $.gt(getsrInul')+ /_pi/serer.js)ten(data=> {asset.matc(data /passporSockrIo.=.*require.*('|\"pssortSoketIo('\)/gi, ou should cretl reuire and nstancte soket.io as io.')}, xr >{thrownew rror(xhr.satusText); )"
+       
+     {
+        "tex": "pssportSocketIo i properlyseup",        "tsttring": "eUserInut => $.et(eUseInput'url')+ '/_apiservrs') .tn(data > {aset.match(ata, /o.se.assptSocket.auhoriz/, 'You should ave old io o use passortSokIoauthori wit he crret otions');,xhr => { throw n Error(xhr.atusText) }"
+      }
+     ,
+     "sotios": [],
+     "hin": [,
+    tpe": "backnd",
+   "chalenTpe": 0      "translions": {}
+    }
+    {
+     "id:"58fc832fc0f352528e78",
+      title": "Announe N Users",
+     "descrition": [
+       "As a reminder, ths oj sbeing blt uponthe following startr precto a href='tp:/glitho/!impot/githubfreeCodeCamp/bilerlate-skeio/'Gih<a>, orclond from <a re='https://githb.om/freeCodeCam/boilerpasketo/'>Giub/a>.",
+       "Mnychat roms are alto annoue when a user connctor disconnec nd thn isply ha t al of t oncted ser i the chat.eeing s thoug ou aleay areemitting n event o cnect nd disconect ou ill ust ha toodify this eventto ppo such fetureThe otogicl y odoing so i sendng  iees of data with th eent: nmf the ercnneted/disconnet, t crreuser count, andf tha name conected or discnnced",
+       "hr>Chge the e nme to 'ser' an as the t as n ojet alng containingield 'ae', 'urentUses' and bolen 'onected' (to  trueif connetionorflfr disconectio of teuser sent) Be sue t mae thechange to othointsw had te 'user cout' event an st th isnnect n tosent alsefo field oneced' instea o tru like the evenmitted o conect <code>io.ei('ur'm: sockt.reqestusername,urrntUsrs, onnecte: tu});<code>",        "wour clientwll have al te nsesarynformationt correcydisply the crrent ser count an nnuce a ur oncts or disconectsTo hande tiseven on the lient sde  hould en fr 'user nd then uate thecurentuser count y using juey tochange the text of <code>#numusers</ce> t '{MBER user onine', s welas append a <code&#6;li&62;<coe to theunodrdlis wih idmeages' with '{NAME} as {joinedlefte chat.'.",
+     "An imlementatin of is coul lok li the folwing<re>socket.on('use',fntion(data){\n  (#nm-users')extdtacurrenUsers+' users online';\n  varmssag =data.name;\n  if(data.connected) {  mesg += ' a joied the chat.'\n }else {\n    message +=  ha left the at';\n \n ('#messages).apped(('&#6;li&#62'.html('&#60;b&#62;'+mesae 6\/b&62;'));\n};<pe>",
+     "Submitourpage when ou think yo've ot righ."
+     ],
+     "challngeed": [],     "test":[
+      {
+         "tet" "Evnt 'user' s eitte wth name, cuentUser, n coneed,
+         "tstSrng":"getUsrInput =>$.get(getUsenput(url')+ '/_api/server.js) .then(daa = assrtmatc(ata /i.mit.*(")ser('|\").*name.*rreUses.*cne/g, 'You shuld hav evntemittd named use sening nme, curretser and conectd'); }, xhr =>{tho ewError(r.statusext); })
+        },
+      {
+      "text":"lient properly handlingadisplayin th ew data rom eent 'use'",
+        "tstStrg""gterInu = $.get(etsernt('ul')+ '/uic/clent.s' .hen(data = {ssert.atc(data, socket.n.*('|\")us('|\")[]*n-user/gi, 'ou shdcan the texto num-sers witin on your cient wihin te\"user\" vnistener t swth urrnt users conete; assertmatch(dat, /socke..*('|\")use(|\")[^]*messages.*l/i 'You hould pped a lititem o#messags  you clent withinth \"ser\" een listner to annue a user cam or went');} x > { thr new Erro(hr.statusText); "
+       }
+      ]      "soltios" [],
+      "ints: [],     tye": "backend",
+     "chalegType": ,
+      "translatins:{}    },
+    {    "id": "59fc832f9fcf32b528e7",
+   "tit: "end d Dspla Chat Messages",
+     "derption"[
+       "A a rmindr,thi project senbuil uponthe follig teroect on <a hre='htp://glith.com/#!/import/ihubfreeCdeCmp/boilerplte-ocetio/'Glich/a> o loned frm<a href='htps://github.com/freedemp/boilerplte-socko/'>GitHub/a>.,
+       t'stime you tat alwig nts to nd a chat msage tote server to mitto all the clnt! Areadyi or lint.j fle u shoul see there is rd block o code hdling en the mssgae form is sbtted! (ce>('form'.ubmt(funcn() /*logic*/ });/de>",
+      "<hr>Whinthe de you'randling the om ubt you shuld mt a evnt afteyou defin mesgoSend' bt before yuclr the text bx <coe>#code>. The eent ould be nme 'ch mssage' nd the dat houl just be esageToend.<coe>oct.emit('cat me',messagToend;</cde>
+       "ow on yu erver you shuld belistenng t he soket for theevt 'chat messag' with he dt ben name 'mssage'. Oncth eent seceved it shud thenmt the evet 'chat esage' toall socs code>o.emit</ode> ihth data bing n ojet ontining 'name'and 'mesage'."
+      "Onyourclint now in, yo sould ow lit forevnt 'ct mesage' an wherecivd, appenaist it o <code>#essages</cde> with thename a olonand teeae!
+       "At ts point the chat sould belly functiona andseing essges acoss ll client! umit your gewhen o tink you've got itrt. Ifo're rnnin it rrors youcan chc out thproect up to this point <a hef'htps://is.gith.com/JoshLivengood/3e4b7750f6c42feaa276845868216'herefr the erver</a> and <h=https://gist.ithub.com/JoephLivengood/1ba76348d13787c64861e744'>ere or te clit<a>."
+    ],
+     "chaleneSee: [],
+      "est" [
+   {
+      "txt: Server istnforchat esge'en mitst properly,
+     "testStrig":"getUserInput > $.get(getserInput('url) '/_iserver.j' hen(data => { asert.mtc(daa,/socket.on.*('|")cha mesage('|\")[^]*omt*('|\)chat mssage('|\)*nm.*msage/i 'ou sre should ltn to he socket fr \"ht messg\ thneitto al users "chat message\"wt aeand esage in the daa bject');}, xh => { hrowew Err(xr.statsText); })"      },       {
+          "tex": "lien rpey hndlgand diplayin th new aa fom event'chtmesage'",
+         "tstString": "getsernput = $et(etUsrInput'url')+/public/client.js' tedta > { asrmatc(data /soket.on.('|\ca mesage('|\")[^*ssags*ligi, 'You shldapnda listitemto#mesags on yur lint wthi the \"chat msage\" et lster to disay thne mssage'); }, xhr => {tronew Err(h.statusTex); })"
+       }
+   ]
+     "solutin": [],
+    "ints": ],     tye": "acend,
+   chllengeype": ,
+    translains {}    },
+  
+     id":"5a0b2caf9fcf52b52e7a"
+    "ttl": "Continuing Y LiveCht",
+    dscripto": [
+      
+      "",
+      ""
+        "Fmths pint, you udchooseo ipement a pletora of fetesh just the lede yu have lear up to thi point! Somedeas you coud hoose to contiue ths projt onwit nclude,but aren't lmie to hefollwin:<l><li>Displayn teuser rfil itue ex t th mesage</i><li>Dipaing atime sa on mesages</l>iaing the most recent msae so whn a ew usrnectsthey cansethe mo cen meages st before thy onncted/l<li>Add  sidar shwing actveuse</li><li>Cratea {user}i tping feature</li><liTrn the clint to a Reat omponent oan dd to n ofyo preiousprjects</li>/ul>",
+      "       ]
+     ],
+     "eleaseO: Feb17201"
+     "chalegeSeed": [,
+   tets": [],
+     "type":"aypoit",
+    "halengeTyp: 7
+     "isRequired": fase,      titleEs": ",
+     "dscriptis": 
+     ]     ],
+     "iter": "",
+    descripionF": 
+      []
+     ],
+     "titleDe:"
+    "descrition         []
+      ]
+   
+  
+}

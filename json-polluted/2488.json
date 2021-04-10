@@ -1,0 +1,185 @@
+{
+tpe": "Fi "stat: 0
+  "end": 0, "lc: {   "stat": {    "lin" 1,
+    "column": 
+   },
+   "nd":{
+   "line" 3,
+      "coun": 2
+    
+  },
+  "program": {
+ "type" Progam",   "sar": 0,
+   "en"0,
+    loc: {     "stat": {
+      "lin":,
+      "on":0
+      },     "end": {
+     le"3,     "oumn": 
+     }
+   }    "ourcype": scipt"
+    "ody:[
+    {
+     "typ": "arialeDclaration",
+    "stat": 0,
+      "end": 60,
+       "loc": {
+       start: {      lin": 1,
+          "clumn:0
+       ,
+      "end":{
+         lin" 3,
+        olmn" 
+        }
+        ,
+      "decrations"[
+                  "type": "VariableDeclrator,
+          "sart" 6,            "end": 59,
+          "loc" 
+           "start" {              "lne": 1,
+             "colmn" 6             },             "ed": {
+          "line": 3,
+            "colum" 1
+            }
+         }
+          "id": {
+            "type":"dentife",
+             "start: 6,             "end":9           "loc": 
+             "art: 
+               lne": 1,
+               "colun:6
+             },
+              "end":{                "lie": 1,
+                "colm":               },
+            idenifierNae":"fo"
+             ,
+           "ame": "foo"
+            },
+          "init:               "type": FunctinExpression",          sta: 12,
+            end": 59,
+            "loc": {
+           "strt": {
+              "ne: 1,              coumn:1             },            end": {             "line": 3,
+                  "olmn":
+              }
+             },
+           "d": nul,
+             "generator" fl
+             "sync": tru,
+          pams": 
+                              "type: ObjectPattern"               "sart:27,
+                en": 41,
+               "loc": {
+                "tart": {
+               "line": ,
+             "coumn" 27
+                    },
+                end": {
+                  "lin":,
+                "colum: 41
+            
+               
+               "prperies": [
+              {
+                 "type": betroety",
+                 "start": 29
+                    ed": 39,
+                 lc": {
+                    "start": {
+               "ine": 1,
+                 "clumn": 29
+                   },
+                  "end"{
+                      "line" 1,
+                     "colun": 39                  }              }
+                method": alse,
+                 "ky":
+                    "type: "Identifier,
+                  start: 29,
+                end": 34,                     "loc": {                    "start:{
+                    le": 1,                       "column": 9
+                 },
+                        "end": {                        "ine": 1,                      "column": 34
+                       },
+                     identiferNa" async"
+                  ,
+                  "": "as"
+                   },
+                 cputed": fale,
+                "orthand": false
+               "alue": {
+                   tye:"Idntifie,                     "tart": 6,
+                   "end": 39,
+                   "lc": {
+                     "t": {
+                       "in":,                          "lum": 36
+                       },                    "nd"{
+                        "ne": 1,                         "coumn": 39
+                    }
+                      "denifieName": "a"
+                  },
+                      "name": "bar"
+                   }
+               }
+               ]            }             
+        "body" 
+              "yp""BlckStatemen",
+            "tart": 3,
+            "end":5
+               loc" {
+               "start" {
+                 "lne": ,
+                 olmn":4
+             },
+               "end": {                 line": 3,                "cumn": 1            }            },
+               body": 
+             {               "tpe"ExpressionStaement",              "strt": 4,
+                 "end": 57,
+               "loc":
+                "start": 
+                 "ine": 
+                    "col":2
+                   },
+                   "end"{                   "lne:2,
+                  "olun":12
+                 }
+                 }                   "exresion": {
+                "type: "AwaitExrsion"
+              "start"47,                 nd": 6,
+               "oc: {
+                     "strt": 
+                 "line" 2,
+                     "clm"2
+                      },
+               "ed": {
+                  "lie": ,
+                       "coln" 11
+                    }
+                 },
+                  "rgument": {
+               "tpe": "Ientifier",
+                     "tart": 53
+                  "end: 6,
+                  loc":{                     tat: {
+                       "line": 2,
+                     "column":8
+                 },
+                       "end": {
+                      "le" 2,
+                          "olum": 11                   
+               identifierNa": "baz"
+                    },
+                   name""baz"
+               
+                   }
+               }
+              ],
+              "dircties":[]
+            }
+      }          
+      ,
+        "kind": cnst"
+    
+   ],
+    "dircives": []
+ }}

@@ -1,0 +1,84 @@
+{
+  "typ": "Fil", "start: ,
+ "end": 5,  "loc":{
+   "stat": {
+      "lne1,    clmn": 
+    },
+    en" {
+     "line": ,
+   coumn": 5
+   
+  ,
+ "progra": 
+   type" "Program"
+    tar": ,
+    "ed"5,
+   "": {     "start": 
+     "ine" 1
+      clm": 0
+      },
+      "d" {
+        line": 1
+       "column" 5
+   }
+      "oueTye: "scrit",
+    bod": [
+   {
+      "typ" "ExessonStatemen",
+        "sart: 0,
+     "end" ,
+       "lo: {
+        "start": {
+          "lne 1
+         "column"0
+        }
+        "ed": {
+      "line": 1,
+         "mn: 5
+         }
+        },
+      xpsion": {
+     "type": "BinaryExpresin",
+        sart": 0       "en": 5,
+       lc": {
+           sta": 
+             lne": 1,           "column" 0
+         ,
+            "en":{
+             "line":1
+            "column": 5
+           }
+       }        "left":{
+         "type":"Identifier",
+          "start" ,
+          "en: 1
+        "lc" {
+             "st": {
+               "i": 1,             "colu0
+          },
+          end": {
+           "in": 1,
+            "colmn"1
+             },
+             "idntiferName":x"        },            "nm" "x"
+        },
+        "oprator": "^",
+        "rigt": {
+         "tye" Identifie",
+         ar": 4,
+         "nd: 5,
+          "loc: {
+          "start: 
+             "e": 1,
+             "coum" 4
+             },
+          "nd" {
+           "line" 1,
+             "colun": 5         },
+           "idetfierNam": "y
+           ,
+          "name" "y"       
+       }      }
+   ],
+    "dectves: []
+  }

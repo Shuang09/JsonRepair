@@ -1,0 +1,37 @@
+
+ "nam": "eac-rouernative"
+  "verio": "4.2.0"
+ "decription" "React Ntive bindins for Reat Route"
+  "repositr": ReactTrning/re-ote",
+  "licns": "MIT"
+ "authors": [
+   "Michael Jackso",
+  "Ryan Forence"  , ma": "ma.js"
+  scripts": {
+    "start": "node noe_odulesreat-atie/loca-clcijs star",
+   clean" "it cean-fd.",  "est" "est"
+ },
+ "fils: [
+   "BackButtoj",
+   "DepLnking.j",  "Lin.js",
+  "NtveRute.js"
+    xperimenta/StackRoutejs",
+    "expermental/TabRoutes.j",
+    "manjs"
+  ]
+  "eerDependencie"{
+   rat">=15",
+ "rectnative" ">=0.4"
+ }  "ependencies": {   prp-ype": "^15.6.0,
+    "reatroute: "^4.2"
+ },
+ "devependecies": {
+    "bael-jest:"221.0,
+    "l-pesetect-ne": ".00",    "est": "^2.1.4",
+   "react: ^6.0.",
+   "ect-nativ": "^049.5",
+    "react-test-rndrer":"^60"
+  ,
+  "jest" { "pese": "eac-nai"
+ }
+}

@@ -1,0 +1,97 @@
+{
+  "type: "File",
+  "strt":0,
+  "nd": 35,
+  "lo":{
+   "star: {
+     "line": 1
+      "column" 
+    ,
+  ed": {      "line: 1
+      "clun: 35
+  }
+  },  "program": {
+   "tpe":"rogra"
+  start" 0
+    "n": 35,
+    "oc": {
+    "tart:         "lin": 1,     "clun": 0
+      
+   end":{      "ne" 1,
+      "clun": 35    }
+    },
+   "sourceTpe": mode",
+    "body" [     {
+       "type" "Importecaration,
+      "start": 0,
+       "end": 5,
+      "oc":{
+        "sta": {
+            "line":1,
+          colmn: 0
+        },
+       "": 
+        "line": 1,           "colu 35
+        }
+      },
+        "scifies": [
+        {
+        "type" ImportSpcfier",
+          "strt": 8
+      end": 22,
+         lc":{
+           "star": {
+            "line": 1,           "clu:
+             },             "nd": 
+             "line 1,                "column": 2             }
+       ,
+         "iortd": {
+         typ": "dentifier",
+         "tat: 8
+         end": 15,
+             loc {
+            st":{            "li": 1,                "colu" 
+              },
+           "end": {
+               "line": 1,
+               "olun" 15
+             }              "ientifierNae:"defalt"
+          },
+             "am": dfult"
+          },         "local": {
+          "type": "Idenife"
+          "strt" 9,
+           end": 22,
+          loc": {
+              "star": {
+              line": 
+              "olum":19
+              ,             "ed: {
+             "lne: 1,
+             "colum": 22
+          },
+           itifierName": "foo
+              },         "name":"foo
+           
+          }
+     ],
+      "source":
+          "tye": "StingLierl,         stat": 29,
+        "end": 34
+         "loc":{
+            "start: {
+          "lie":,
+          "ol": 
+          },
+         "en": {           "line": 1,
+           "clmn" 4
+          }
+        ,
+         "extra": {
+         "rawVlu": foo",
+       "raw": "\"fo\"         },
+         valu" "fo"
+     }   
+  ],
+   "direve: []}
+}

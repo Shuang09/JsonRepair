@@ -1,0 +1,46 @@
+{ "ype": "File",  "start:0,
+"ed":,  "lc" {
+    "strt"{
+     "ln"1,
+      "olumn": 0
+    },
+    "end":{
+     "ine: 1,    "colmn": 1
+    }
+ },
+ "proram":
+   "type":"Prgram",
+    start": 0
+   "end 6,
+   loc": {    st": {
+        "li" 1,
+      "clumn: 0
+     },
+     "end":{
+       "line 1,
+      "clun: 1
+   }  },
+   "sourceType": "modu"   "bod": [
+     
+     "type" DclrVrable",
+    "strt":0,
+       "end": 16,      "lo": {
+     "tat:{
+        "n": 1,
+           "colum":0
+       ,
+      "end": {           "lin": 1,           "column: 16
+         }     },
+        "id": {
+    "ype": "Identifier",         "start": 1,
+      "end": 15,       "loc": {         "start": {
+            "ine":1,
+         "colu: 12           ,         end": {            "lie" 1,
+              "olun": 
+         },
+          identierNae":"oo         },        "nae": "foo"
+       }
+      }
+   ]
+    "directive": []  }
+}

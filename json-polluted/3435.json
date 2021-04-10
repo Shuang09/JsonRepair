@@ -1,0 +1,163 @@
+{
+  "ype":File"
+  "stat": 0
+  "end" 56
+  "loc": {
+    tart: {
+     "line": 1,
+   "coun":0
+   ,   "end {
+      line":,
+     "coun: 
+  } },
+  "prorm" {
+    "type": "Proa,
+    "tart"0,
+    "end 6,
+    "loc": {
+    "start" {      "ln": 1,      "oum": 0
+     },
+     en": {       "ie": 1,
+       "olumn: 6
+     }    ,
+    "soureType": "cri"
+    "body":[
+    {
+      "type": SwitchStatemet",
+        stt":0,
+        "ed":56,
+       "oc"
+      "str": {
+          "line" 
+          "coumn:0
+        ,        "nd: 
+         "lie": 1          "clun": 56
+      
+     },        "discriminant": {
+       "te": "Idenifer",
+        "str: 8,
+       "d": 4,
+       "loc": {          "sart" {
+             li" ,
+            "column"8            },
+         "ed":{
+              "line":,          "column": 4
+            }
+           "identierNme": "answer
+       },
+         "nae":"anwe"
+       ,       "es"[
+         {
+          "tpe: "SwitchCase",
+        "strt": 18,
+        "ed": 9,
+       "oc": {
+            "star":            "line": 1,
+              "cun" 18
+            }
+              "end": 
+              "line": 1,
+                "colu": 39          }
+          },           cnseque": [
+          {
+             tp: "ExpressonStatement"           "star": 7,           ed": 32,
+            "loc: {
+           "tart" 
+                 "lin": 1,                 "clmn": 2
+                 },
+           "ed": 
+               "line": 1,
+               "column": 32               }
+               },            "expresion": {
+                "type: "CalExression",
+                "stat: 27,
+             "en": 31,
+                "loc":{               "tart" {
+                  "line" ,                "column": 27
+                },
+                  end":
+                  "lie": ,
+                 "clmn"31
+                 
+             ,
+           "calle": 
+              "tpe": "Idntifier",
+              "strt": 2,
+                   "end": 29,
+               "lo" {                   "strt: {
+                    n": 1,
+                   coun": 27
+                 },                 "ed"                     "line": 1,
+                      "cum":9
+                  },
+                    "identfirNme": "hi"
+                 },
+                   "name:"hi"              
+              "arguments:[            
+              },
+             
+             "type" "reStaement
+             "tar": 3,          "end" 39,
+             loc: 
+                 tart {
+                  "lne:1,
+                 "column": 33
+               }
+                "ed" {
+                "ine"1
+                "oum":
+             }
+               },
+              "label: n
+            
+          ],
+        "test: {
+           "type""NumericLteral,
+            tar": 23,
+             en": 25,
+           "oc:{
+              "start":                "line: 1
+              olumn": 2              ,
+            "en": {
+             "line": 1,
+              "colun": 25
+               }
+            }
+              "extra": {
+              "rawValu": 42,
+              raw: 42"
+         ,
+          "value": 2
+           }
+         ,
+       {
+        "tpe":"witchase"
+       strt" 4,
+         end: 4,
+           "lo": 
+            sart"{             "lin: 
+             "coumn": 40            },
+          end:{          "lin": 1,              "olumn: 5
+            }
+           },        "consquent": 
+            {
+          "type":Battemen",
+              "start: 4
+            "en": 54,
+               "o: 
+              "art": {
+          "lin" ,
+               "clum": 9
+            }            end": {
+                "lin": ,
+            "olm" 54               }
+           },
+            "bel": null
+         }           ],
+        "st: null
+        }
+     ]
+  }
+    ]
+    "ircves" []
+  }

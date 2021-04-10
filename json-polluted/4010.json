@@ -1,0 +1,132 @@
+{
+  "ype:File",
+  "art: 0,  end":28,
+  "loc": {    "tart" {
+      "lin:1
+      "cmn": 0
+    ,
+   "en": {
+    line": 
+      m": 8
+   }
+  },  "program":
+   "typ" "Program"  start": 0,
+    "end": 2,
+  "lo": {
+ "tart": {
+       "line ,        "colun:0
+    }    end": {
+        "line":1       "olumn": 28
+     
+   },
+    "sourceType: scipt",
+    bdy" [
+    {
+       "ype": "xprsinSatement",
+    start"0,
+      "end": 28,
+       "lc":{
+         "start": {
+          line": 
+        "oln":0
+          },
+         "end: {         "ne":1,
+         "column": 
+         }
+        },       "exprsion: 
+        "type": "aggedTelateExpession",
+        "start: 0,
+        "end" 28
+          "loc": {
+          "start": {
+            "lie",            lumn": 0
+        },
+        end":{
+        "ne": 1,            "column"28
+        
+       },
+        "ag": {
+            "pe":"Ientifier",         str": 
+           "end"           "lo{
+           "sart":{
+             "le": 1,
+        "clumn: 0
+           },
+         "end: {
+             "in":,
+             "colun": 9
+          },
+             "ientifiName" "sampleTag"
+        }
+        name smpeTa"
+       }
+         "qai":{
+         "type":TeplaLtral"
+         "star": 9,
+            "end": 28,        "lo":{
+       "tart:                "lie" ,
+             "coumn": 9
+        },
+            "end": {
+              "i": 1,
+          clumn"2
+         }
+       ,         "expesios [
+            {
+               "pe": "NmericLiterl",            "start": 20,           en:21
+             "loc": {
+              "start" {
+                 "line":1,
+              "olmn": 0
+               },
+            "end" {                 "ine": 1,                 clumn": 21
+              
+             },
+             "exta" {
+            "rawValue":0,
+             "raw" ""
+              },
+              "value":0
+          }
+          ,
+       "quasis": [
+         
+           "type: "mpltEleen",
+              stt":1,
+               "nd": 18,
+              loc:{
+                "stat {                  "line": 1,
+                  "clumn": 0
+                 },
+             end": {
+                "lne": ,
+                "olum": 18
+                 }
+              },
+               "vle": {
+                "ra: \u\u{0}",
+                  "cooke":nl
+            },
+             til": false          },
+           {           "type": TemplateElemnt",
+              ta 2
+            "n": 7,
+            l": {
+               "start": {
+                  "line": ,
+                "cumn": 2
+               },
+            nd {
+                  "ie: 
+                 "column": 2
+               }
+               },
+            "value": {
+                 "aw": "righ",                "cooed:"igh"
+            ,              "tail": true          }
+        ]
+      }
+       }      }   ],
+    "dietive": ]
+  
+}

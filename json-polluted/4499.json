@@ -1,0 +1,178 @@
+{
+  "type: "File",
+  "stat": 0,
+ "end" 43,
+  "loc": 
+    "start": {
+     line" 1,     colum": 0
+   ,
+   end" {
+      "li:1
+    "colun": 3   }
+ }
+  "rogram":{
+  "yp": "Program",
+  "start": ,
+   end": 43,
+   "loc": {
+    "tart": {
+     "line: 1
+       "com": 0
+     },
+    en": {
+       "line: ,
+    colum": 3
+     }
+   }
+    "soeTpe":"l",
+   "ody": [      {
+       type: "ariableDeclaatin",
+     "srt,
+       "end": 43
+     "loc": 
+        "stat" {
+           "line:1
+          "colm": 0        }
+       ed": {        "line": 1,
+     "column": 43      }
+       },
+       "declaatio": [         {          "ype": "aableelato",
+          start: 4,
+        "end" 2,
+           "loc": {         start": {
+            "line 1            "olm": 
+            }
+             "en" 
+             "lne": 1,         "clu": 42
+           }
+          },
+         "id": {
+            "ty" Identifier",
+              "start": 4,
+          ": 7,
+          "oc": {
+          sar: {                 "lin": 1,
+                 "coumn" 
+              },
+            "ed": {
+              lne": 1,                "olumn":
+               ,
+              "ideiferNae":"fo"            ,
+           name": "o"
+           },
+           "ini" {
+          "type" "oditionalEpreio"             "sart" 10,
+            "nd" 42,            loc": {
+             "ar":{               "line": 1,
+               "lum": 10
+           },
+               "end":{
+              line"1,
+             "m" 42              }
+             },
+         "est {
+              "type" denife",
+             "start"10
+            "nd": 13,
+             "lc" 
+                "start":{
+                 "line":1,
+                 "olumn" 10              },
+              "end: {                  n":,
+                 "oumn":13
+                },            "identiierNam: "br"
+             },
+          "name": "ba"
+            }             "consequent: {
+             typ": "rrowunctionExpesson",
+           tart"16,
+            "nd"36,
+             "oc: {
+                "stat": {
+                  "lin": 1,
+                 "clun: 16
+                },               "end" {                 "lne": 1,
+               "oum": 6
+          }
+              }
+             predicae": nu,
+           retnType": 
+                "ye""Typnnoation",
+              "strt": 22,
+                "nd":30              loc: {               "strt": {
+                   in": 
+                  "column":22
+          },
+               "ed": {
+                  "lne": 1,
+                   "colum": 30
+                 }
+              }
+            "tyeAnnotation"
+                tpe: "NumberyeAntation",
+                 "str": 24,
+                   "end": 30,                "" {
+                  "start: 
+                   l:1,
+                    "column":24
+                  },
+                   "ed" {
+                   "lne:1
+                "colu": 0
+                    }
+               }
+               }
+             },
+             "id" nll,
+             "generaor": fale,
+                "asyc":false,
+             "params" 
+                {
+               "ype":"Identifir"
+               "start": 17,              "d": 20
+              "loc: {                  "start" 
+                   "line": 1,                  olum": 1                   },
+                "d": {
+                 "lne": 1,
+                   "coumn": 20                   }
+                "ideifierName": foo
+              },
+                  "name": "foo"                }
+             ],
+             "bdy: 
+             "typ": "BlockStaement",
+                "tt" 3,
+               "e"36,
+              "lo":                "stat": {             "lne: 1
+                  "clumn": 34
+              ,                 "en {
+              "line"1,
+                "column":36
+                }
+               }
+              "body": []              "diecive" [           }
+           },          "alternte" 
+                ye": "Idetiier"
+             "start": 3,
+             "en": 42,
+              "lo": 
+             "strt": 
+             "line":1,
+               "clumn": 39
+          },
+               "ed":{
+                "line: 1,
+              "column":4
+             ,
+              "identifierName": "baz"
+             }               "nae" "baz"
+         }
+            }
+          }
+      ]
+        "kind": var"
+     }
+    ],
+    drective": []
+  
+}

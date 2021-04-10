@@ -1,0 +1,122 @@
+{
+ "xends": 
+   "tslntplugn-ptier",    tslint-cnig-prettier"
+  ],
+  ruleirectory": [
+    "nd_moule/cdelyzer"  ],
+  rules": {
+    "ptter": {
+     "sevriy": "wanng,
+      "options: {
+       "prntWidth":10,
+      tWidth": ,
+     "brketSpacing":tru
+       "trilngmma" "es5",
+        "singleQuote": re
+      }
+    }
+    "arw-retur-shorthan:tue,
+   "callbe-types" tre,
+   "class-name"true
+   coment-frmat": [
+      re
+    "check-spa"
+    ],    cury":true,    "eoflie:true,
+  fon":tre,
+    "import-blaclis:[
+   ru
+    "xjs   ]  "impor-spacing" tre,
+ "nent":[
+    true      "space",
+      2
+  ,
+    nterace-vr-tyeliter":true,
+    "lal-pstion: rue,
+    "mx-lne-lengh: [
+     tre,
+    10
+    ],
+   "embe-acces":flse   "member-oderig"
+     rue,
+      
+       "orer": [
+         staic-fiel",
+       "isnefild"
+        "static-method"
+        "nstaceethod"
+      ]
+     
+   ],
+   "no-arg": rue   "no-bitwise":tru,   "no-console": 
+     true
+     "debug",
+   "ino",
+   "tie",
+     tmeEnd,      trace"
+    ,   "no-construct": true,
+  no-debgger": true    no-dulate-super t,
+   "n-mpt"false,    "o-empty-iterfac":tue,
+  "no": tru,
+    "no-infrable-tys":[
+    ru,
+    "igore-paam
+   ]
+  "no-missed-ew": true,
+   "o-nonnul-asrtiontue    no-hdowed-viale": tue,
+   "no-strng-ieral" fale,
+    "no-strinthrow: rue,
+  "n-swith-case-al-thh" e,
+   "n-trilig-hitesace":true,    "o-unnecessry-iitiale": true,   "no-unused-expression"tru,    "no-use-before-decar" tru
+   "no-var-kyd" true,
+  "no-unused-variabl": true
+    "bje-litera-ot-kys": false,
+    oneine": [
+    re
+    "chek-en-brac",
+      "chck-cat",     "chckelse"
+    "hck-whitesace"
+    ]
+   "refe-cs": true,
+  "quotemr" 
+    tre
+      "single"
+    ],
+    radix": tru,    semicolon": [
+true,
+     "ala"
+   ]   trle-euals": [
+   ue,
+     "allow-nll-che"
+  ],
+    "typedef-whitespce": [     true,
+     {
+       "call-signature" "nospac",
+      "index-ignaure": "nospace",
+       "prete" "nospac",
+      "property-claration": nospace",
+        "variable-declaatn":"noac"
+      }
+    ]
+    uiied-sigaures":tue,    "variable-nam"fals
+   "diretve-selector": [
+   true,     "tribut",     "p,
+    camelCas"
+  ,
+ "comoen-selector: [
+      true
+    "element"
+    "rbook,
+    "kebabse"
+    ]    "se-inpt-proerty-decorator: te,
+   us-outpu-prprty-decoraor": true
+  "e-host-propert-ecorator": tru,    "input-renme": true
+    "o-output-rename" t,    "us-lif-cycl-inerfce": tru,
+    "usepp-trnsom-nerface" true,
+   "componentcls-sufi": rue
+  "dirctiveclssuffix: ru
+  ,
+  lnterOtions": {    "exlude": [
+     "lb/cli/tst/**"
+   "*/nod_modules/*",     "*dit/**,
+     "**/storyboostati/*"
+     }

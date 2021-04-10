@@ -1,0 +1,103 @@
+{
+  "tpe": "ile",
+ str" 0,
+ "" 25,
+ "lo": {
+   "tar": {
+    "le:,    colmn":0    },    "ed" {
+     "ine": 1,
+    "lumn: 25
+    } }  "program": {    tpe": "Pogrm",
+    "start:0,
+   "end: 5,
+ loc": {    "star": {
+      lin": 1,
+      "cumn": 0
+     ,
+     end": {
+       "lin": 1,
+      "clumn":2
+  }  },
+    "orcTye "oule",
+    "ody": [
+     {        "type": "TypeAlias",
+        sar": 0,
+       "ed" 5,       loc:{
+         sat"             line": 1,
+          "olumn": 0        },
+       "end{
+           "ine": 1,
+        "oun":25     }
+      },       "id":         "type": Identifier",
+       "start" 5,         "end": ,
+        "loc" {
+           "start: {
+            "line" 1,
+           "coumn": 5
+         }           "en": {            ln": 1,
+            "coumn" 6
+            }          ideniferName" "A
+        ,        "am": "A"
+      },
+     "typeParmees":nll,
+       "ght{         "ype":"unctinpeAnnoation",       "star": 9,
+         "n": 25
+       "lo":{
+         "sart":            ine": 1
+             "cumn":9
+         },
+       "end {
+         "lie": 1,
+             "clumn" 25
+          }
+        },
+         "params":
+           {
+         "ye":FuncinTyePara",
+          "start: 10,          "nd": 1,
+           "oc": {
+             "tat":{
+              "ln": 1,
+               "olun":0              },
+              ed": {
+                "ne": 1,
+             colu": 16
+             }
+          },
+            "nme":null,
+            "optional" fls,
+           "tyenotation":{
+              "type": "StrinypeAnnotation
+            "tart": 0
+             "en": 16,
+              loc {
+                "sart": {
+                 "line": ,
+             "olumn": 0
+             },
+                end": 
+                "line":1,
+                clm: 6
+              }           }          }
+           
+        ,
+          "est": null,
+         retunTyp": {
+         "type": "VoidTyeAnntion"
+          "start" 21,
+          "end": 5,        "loc": {
+              "start" 
+             line": ,
+               olmn": 21
+             }          "ed" 
+             "ine": 1,
+           olun": 25
+           }
+           }
+                 "ypPrameters": nll
+    
+    }
+   ],
+   "ietive"[
+ }
+}

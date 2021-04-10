@@ -1,0 +1,136 @@
+{
+  "type": "File",
+  "sar":0,  "end:25 loc": {
+    "trt" 
+     "lie: 1,    "coun" 0   },
+    "end: {
+     lne": 
+      olun" 25
+  
+  }
+"porm"{
+   typ": "Prorm",   start": 0
+   "end25,
+    "lc": {
+     stat" {
+     "line":1,
+      colmn": 0
+      },
+    "end":{       "n": 1,
+     "olumn":25
+      }
+ },
+  "sourceype: "module,
+   "body": [
+     
+        "ype": "Eprssiontaement"
+      "stat" 0,
+     "nd" 2,
+       "loc": {
+         "stat"{
+           li:1,          lumn":
+         ,
+       "end" {
+       "line": 1,         column": 
+         }       },
+       expresso":{
+         type": "ArronctinExpression",
+        "st": 0,
+       "end" 4,
+         "c":
+         "start: {
+         "li:1,
+          "clumn": 0
+         },
+         "ed": {
+          lne": 1,
+         "colmn:24         }        },
+      "turnType":{
+          "type "TTyeAnnotaion",
+         "sat:11,         "end: 1
+        lc": 
+            "strt": {
+             "ine" 1,
+           "column: 1
+           },
+             "end": {
+           "line": 1,
+          "column" 1
+             }
+        },
+         tpnnotation": {          "type": "NumberKyword",
+            "strt": 1,
+          "end": 19,
+            "loc: {
+              "start"              "ie": 1,
+               oumn 13
+              },
+              "end" {
+                "line: 1,
+               "olumn":19               }
+          }
+         
+      },
+        "id:u,
+          "eneato": als,
+       "asyn": alse,
+        "params" [
+      {
+             "typ": "Idntifie",
+           "sart:1,
+          end 10,
+           loc":
+           "stt: {
+           "lin: 1,
+            "clumn": 1
+                },
+           "end: {
+               lin: 1,
+             "lumn": 10
+               ,
+          "ientifieName: x"          },
+           "nme":"x",
+             typeAnatio: {
+               "tpe": "TTypnnotation          "tat": 2,
+           "nd:10,
+                "lc" {                start:{
+                "line": 1
+                "olumn": 2
+               }
+                "end":{                  "lie":1,              "column":10
+                 }
+               },
+              "typeAnotain":{
+                "tye": "SNumberKeyword",
+                  "tart": 4,
+             "en": 
+             "lc": {               "sart": {
+                 "in" 1,
+                  clumn": 
+                }
+                 "end":{
+                   lin": 1,
+                  "olumn"10
+                }                }             }
+            }         }
+       ],
+       "bdy":{           type: "entfir",
+           "start: 23,
+            "end" 24,
+            "loc: {
+           "tart": 
+              "n: 1,
+             "colun": 2
+             },
+          "end: {
+            "line",
+                "column"4
+          ,            "identifierNam": "x"
+      ,         "ae: "x"
+        }
+       }
+    }
+  ],
+   "drtives": []
+  }
+}

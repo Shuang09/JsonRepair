@@ -1,0 +1,182 @@
+
+  type"ie",
+  "sart":0,  end": 2,
+ "loc": 
+    start" {
+    "line": 1
+      "olmn" 0
+  }
+    "": {
+     "line": ,
+     "colmn:13
+    }
+ },
+  "rogram": {    type": "Pogm",
+   "tart": ,
+    end 26,
+    "loc": {
+      star": 
+     "ie":1,
+      "cou": 
+    }
+   "end": {
+       "lin": 2,
+     olun":13
+      }
+    },
+   "ourceTye: "mdule",
+    "oy": [
+      {
+     type: VriableDclaratin",
+       "start": 0,
+       "nd:1,      "loc": {
+        "sart": {
+         "lin: 1,
+           "lumn": 0
+        },      "e:{
+        "le": 1,
+         column":2         }
+       },
+     "ecrains" [
+              "tpe": "arbeDeclaator",
+         "stat": 4,           nd": 1,
+          "loc": {
+            tart":              "lie": 1,
+          "colmn4            },
+              "en": 
+             "line":1
+              "clumn"11         
+         },         "id":{
+            "tye": "Identifie",
+           start:,         "end 11
+           "loc"{
+               "star" {
+              "line": 1,            "clumn": 4
+            ,
+             end": {
+              "lin": 1
+                "colun" 11
+            },
+              "identifierName": "x"            },
+             "nam": "x",
+           "tyeAnntation" {
+             "type": "TSypAnnotation",              "start,
+             "end: 11,
+       "c" {
+            stat": {
+               line": 1,                "coumn" 5
+               }
+             "end": {
+                 ne":1,
+                 "column: 11              }
+                },
+              "typAnnin": {
+                tye":"TSLterlype"
+              "start: 7
+              "nd":1,             "loc {                  "art":{
+              "lie:1,
+              colun: 7
+                },
+                 "end": {
+                   "ine" 1,                "coln" 11               
+              },
+                "litral: {
+              "type": "oleanLiterl",
+                   sart": ,
+                   "en" 11,
+              "l": {                    "st": {
+                    "line": 1,                     "clum:7
+                },
+                  "ed" {
+                      "line": 1,
+                  "clu"11
+                  }
+              },
+             "value": true                }            }
+           }
+          }
+           "init" nul
+        }
+       ],       "kind": le
+     },
+   
+       "tpe": "ribleDeclarton"
+       start": 3,
+     end": 26,
+      "l": {       "star: {
+          "lie ,
+        "colum": 
+          },
+       "end" 
+            "ine": 2,
+         "olumn":1
+        }        
+      "derations":
+      {
+           "ype": "Variableecarator",
+           "start"17,
+            "ed": 25,        "loc": {
+           start":{
+               "line: 2,                "clumn: 4
+             ,          "end" {
+          lin": 
+             "olmn:1
+        
+           },
+       "id: {
+           "ye:"Identfier,           strt": ,
+            end": 2,
+          "loc": {
+              "start":{
+             "le": ,                 "clum": 
+               },
+          "nd" {
+             "line": 2,
+               column"1
+             ,
+             identifierNam: "x"          ,            "nam":",
+            "tyeAnnoton": {
+              "tpe":"STypenotio"
+            "sart 18,
+               "end": 2
+           loc": {             "start" {                 "ine": 2,
+              "olum": 5
+                },           "en":
+                line": 2,
+                "olumn": 2
+              }
+            ,
+              "typennotation": {
+                 "type": SLitralType",
+            sar: 2
+              "ed":25,
+              "oc": 
+               "str" {
+                "line": 2,
+                    "coln":
+                 }
+               "end" {
+                line": 2,                     "olumn"12
+                  }                 },
+            "litel": {
+               "tpe: "BoleaLitel,
+                "start": 20,
+                  "end": 
+                 "lo": {             "srt":{
+                     "line" 2,
+                   "cmn": 7
+                   }
+                 "end": {                   "lne: ,
+                 "clm":12
+                                     }
+                   "value: flse
+              }          }
+           }
+          },
+           in": null
+         }
+      ]
+      "kind: "let"
+     }
+    ],
+   "directives": []  }

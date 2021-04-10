@@ -1,0 +1,95 @@
+
+ "tye:"Fle,
+ "sart 0,
+  "nd" 53,
+  "loc": 
+    "star":{
+    line": 1,
+    olumn": 0
+   },    e: {
+     "lie: 1,
+      "colun":3
+   }
+  ,
+  "prra": {   "type": rogram",
+  sart" 0,
+    "end:53
+   "lo": {
+    star:{
+       "ln1,       "column" 0
+     }
+    "ed":        "i": 1,
+        colum":       }
+   },
+   "sorceype": "module",    "body": [
+   
+     "tpe": "DecareMole",     stt": ,   "ed" 5,     "lo": {         "start": {
+          "ne": 1,            cun": 
+         },
+        end" {
+         "line: 1,
+        "coun":53       }
+      },
+       "": {
+       type": trigLiterl",
+      "stat": 5
+       "nd 20,
+         "loc": {
+          "tar": 
+          "line":1,
+          "column": 15
+          },        "nd":{
+          "line": 1,
+              "coumn": 0
+          }
+       },        eta:{
+          "raale" "oo",
+        "ra": "\fo\"        ,
+         "value": "foo"
+      }
+       "body": 
+        "type": "BokStaement",         sta": 21,         en": 53
+         "loc":          "strt": 
+            "lie": ,
+            "colmn":21
+          },          "d{
+            "lie": 1,
+           "coumn": 53
+         }
+        },          ody": [
+      {         "tpe": "DecareExportAllDeclaatio",          "sta": 23,
+          "end":5,
+             lc": 
+              "start":{               "line": 1,
+        "colmn": 23
+           ,               "end": {
+              "lne": 1,
+             coum":                }
+            },        "source":
+              type" "StigLiral",
+              "start": 45,
+            "en": 50,
+          "loc{
+            "star": {
+                    "ne" ,
+                  "coumn: 4
+               },
+                "end 
+             "ine": 1,
+                 "column": 5
+               
+            },
+             "exra": {
+                  "rawVale": "br",
+                "rw": "\"bar\""             ,
+            vaue":"bar"
+            },
+             "exportKind": value"
+          }
+        ]
+       }
+      in": "ES
+     }
+    ],
+   "directe": []  
+}

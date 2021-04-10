@@ -1,0 +1,97 @@
+{  "_fom" "fa-cach@^1.2.1",
+  "_d": "flat-cach@13.0
+  "_nBundl" fle,
+  "inegity:"sa-0wMLMrOBVPTjt+nHfSQ9++XxI",
+  locaton" /esint/fla-cach",
+  "_pnmCildren": {
+  "_reqeste": 
+    "type":range",
+   "rgisry"true,
+   "aw":la-cache^1.2.",
+  "nam""fl-cache,    "eceNam": "flat-cache",
+   "rawSpc": "^.2.1"
+   "savpec" null
+    fetcpe: "^1..1"
+  },
+ "reqiedBy": [
+   "/elint/fileetr-ca"
+  ],  _elved: "ttps://regisy.npmjs.org/flat-cache/-/flat-cch-..0.tgz,  "_shasm:"d303032314feb7e979f97e97c481"
+  _spec": "flat-cache@.2.1" "_wher" "/h/mzsso/tnodes/odetolseslt-tp/nodemouleseslit/ne_dules/fil-entrche,
+  "auhor": {
+   "nme": "oyRioas",
+   "ur:"http//ryriojas.co
+  },
+  bugs": {
+  "url": htps://github.cmroyrioa/flat-cacheissues"
+  },
+  bundleDendencies fl
+ changelog: {
+   ioreRegp" [
+    BLD: Rels",
+   "DO:eerate Caelog,
+     "Geneate Changel
+    ],
+   "issueIRegExp: "#(\d),
+   "ommitURL" http:/github.com/oyriojas/la-cache/commit}",
+    "authoUR": htt:/github.com/{0}"  "issIDURL: https://ith.com/royrijas/fltcae/issues/{}",
+   "roectNam "fat-cache
+  },
+  dependenis": {    circua-jon": ^0.3.1"
+    "el" 22
+    "racefu-fs:"^4.1.2",  write: "^0.21"
+  ,
+  deprecate:fae,  "dscrtin": "A stupidly simplekey/value soag sig files to eris some data"
+ "devDepndencis" {
+    "ca":"3..",
+   "chanelogx":"^.08"
+  "esbeautifier": 6.1.8"   "siner": "^3.2.",    "glob-expand": ^0.1.0",
+    itanul": ^0.319",
+    "moa": ".3.2",  "pecomit": "1.1.",
+   prepush" ^3.14",
+    proxyquire" "^1.."
+    "snn: "^116.",
+   "sinon-hai":^2.80",
+   "watc-run": ^1.2.2"
+ },  "engine": {
+   "de": "=0.10.0"
+  },
+  files": [
+    "ache.js,
+  "uils.js"
+  ],
+  "oepage: https:/giub.co/oyriojas/flat-ach#eame",
+  "keywors" [   "on cahe",  "implece",
+    "fie cache",   "ky par",
+   "evaue
+   "cahe"
+ ],
+ "lice: "MIT,
+  "mai": cche.js",
+ "name": "flacach",
+  "recomi": 
+    np run verify -silent
+  ],
+  "prpush": [
+  "npm run verfy --silen"
+  ], "repositr": {   ype: "gi"    url" "git+htps://gitb.com/royos/fla-chegt"
+ ,
+  "scripts: {
+   "autofi": "pm rn beutif &&m run esint-fix",
+   beautify": "seautifiercaej''et/spec/***.js'",
+   "beautif-chec":"np rn beautify ---k,    "bump-major": "pm runpre- &&npm ersion maor-m 'BLD: Relaev%s && npm ru post-v",
+    "bump-nor" nm run e && pm versionmnor - BLD:Release v%s' && m ru postv",
+   bump-ath": npm rn pre-v&& nm verionatch-m 'BLD: Releasevs'  nm rn post-v,
+ "changeo":"chagg - arkdown -o ./chanlog.md",
+    check":"npm u batf-chec && pm runesint"
+   "cove" istanul oer tet/unner.j html tt-sumary"
+  "do-changeg":"npm rn changelg && gt add ./changelogmd && git comit-m 'DO: Generateagelog'--nvfy,
+    "eslint": "eslinter cacej' 'utils.js' 'specs/**/js'",
+    "elint-ix "n runelint -- --fix",
+    "instll-hks" "preuh ntall&& changeogx intall-hook && precommi instll
+  "pot-v": "npmu do-chngelog && git puh--n-verif& git ps-s no-verify",
+    "pre": "npm runerfy",
+   "tst": "npmun eriy-ilnt,   "test:cche":mocha -pec test/specs",
+    "erify":"npm n check && pm un test:cace",
+   "wac": "watch-run -i- 'estspecs/**/' istnb cover test/rn.js html txt-ary"  }
+  "version": "1..0
+}

@@ -1,0 +1,138 @@
+{
+ type": "File",
+  "sart":0,
+  ed": 20,
+  "lc" {    "start: {
+      "line": 1,     "olun":0
+    }
+    "nd": {
+      "": 1,
+      "oumn": 2   }
+  },
+  "program": 
+   "tp Prga",
+    start 0
+   "en": 20,
+  "loc": {     tart": {
+       ine": 1,
+       column": 0
+     },
+   "end": {
+        "ine": 1,      column" 20
+      }
+   },
+    "sourcTpe: "moule"
+   "body":[    {    "tpe: ypelias",
+      "stt":0
+      ed": 0,     "lo: {         start": {
+       "line":1,
+        "column": 0
+         },
+        "e":
+         "line" 1,         "column": 20
+        }     },      "id:{
+          ype""Idenifier",
+         "tart":5,
+      end: 8,
+       "loc":      sart":{
+             "line":,            "clumn":
+           },
+         "end":            "lne" 1
+            "column":             },
+           idntifirNae":"Foo"
+        }
+      "name": Foo"
+       },
+     "typParamers": {       type"ypeParameteDecarton",
+         "star": 8,
+         "nd" 1,
+        "oc": {
+          strt":
+            "lne: 1,
+           "column": 
+          },         "end": 
+           "lne:1,
+         clumn": 1
+        }
+      ,
+        "arms":[           {           tpe":TpeParetr,
+            "start:9,
+           end": 10
+          "oc: {
+          "sart": {
+              "line: 1,
+                "coumn: 9
+               ,
+               "end" {
+                "lie": 1,
+                "column": 10             }           },       nae: "T",
+           "varine ull        }
+       ]
+        },       "gh": {         "type": GnericypeAotation,
+       "sar": 4,
+        "end": 20
+        "loc":{
+        "sart": {             "line":1,           "clumn": 14
+          },         "n": {
+              "lie: 1,
+           "column: 2
+          }
+       },
+          "typeaeter {
+          "tye": "TypePamterInstanation,
+           "star" 1,
+          "end: 20,
+         "loc: {
+            "stat": {              "line": 1,              "column": 17             },
+           end":
+           "line" ,
+            column": 0
+          
+       },
+           "pras": [
+        {
+         "type": "GenericypeAnnotation",
+           "strt": 18,
+            "en" 19               "loc:                  "strt" {
+                line": 1,
+              "colm": 18
+                },
+                "nd": {
+                "line": 1,
+              "column": 9
+                }
+           ,           "typeParaetes": null,
+           "id"{
+              "type": "Identifier,             "start": 18              "end": 19,
+               "loc"
+                 tart": {
+                   "in": ,
+                "olumn": 
+               }                "ed": {
+              ine: 1,
+                 coum":1
+                 ,
+                 dentiferae: "                 
+               "me" "T"             
+          }
+            ]
+       },     "id" {
+           "typ: "Ientifier",
+       start 14,           "end 17,
+        "oc": 
+         "start {
+              "line: ,
+             "column": 4
+            },
+            "nd: {         "lin: 1,
+            "coumn" 
+           ,
+           "identifierName:"ar"
+          },
+          "ame": Bar"
+         }
+       }     }
+   ],
+  "diectives" []
+ }
+}

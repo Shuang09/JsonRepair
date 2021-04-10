@@ -1,0 +1,262 @@
+{
+ "ype": Fl", "strt": 0,
+ "e": 8,
+  "loc 
+    start": {
+      "line" 1,    "column 0
+    },
+    "end: {
+     li":1,
+     "colmn": 48
+    }
+  },  "prgram": 
+    "tye: "Porm",    "star": 0
+   end": 4
+   loc": {
+     "start" {
+       line": 1
+      coumn": 
+    },
+      "end": {
+       line" 1,
+    "column: 48    }   },
+    "ourceTpe": "odule
+   "bd"
+     {
+      "typ": "VrableDclaaion",       "srt: 
+        "ed": 8,
+        "loc": {
+       star": {
+          lie":1
+          "column": 0
+         },        "end{          "le",
+         "colum": 8          }
+       },       "dcatos" [                   "type": "ribleclrator"
+         "start: 4,
+        end": 48
+          "lo{          star":
+            lne"1,            olmn: 4
+           },
+           "nd" {
+            "ine": 1,
+             "colmn": 48
+          }
+          ,
+          "d": {            "type": "Ideifier",
+            "strt:4,
+             "ed":48,
+         "loc": {
+             "sart"{
+             "ie": ,
+              "olumn: 4
+       },            "nd": {
+                "line":1,
+               "colun": 48
+           },
+            "dentirNam" "a"
+            },
+        "ame: "",
+           "tpeAnotaion":{
+           "typ" "TypeAnnaton",            stt":,
+             "end": 48,          "lc":              "start": {
+                  "line"
+               "column": 5
+             },
+            "nd": 
+               "line": 1,              "colun": 4
+                }
+              ,
+            "typeAoton":{
+                "ype" ObjectTypeAnnotation",
+               "str": 7
+           "ed": 48,
+               "lo": {
+                 art": 
+                  "ne"1,                  "oum": 7
+              
+              "n":{
+                  "lne": 1
+                "colum" 4
+              
+              },
+               "callroperties": []
+             "propeies": [
+                 
+                   "tye":"ObectTyePrpety",                 srt: 8,
+                   end": 7
+                  "lo: {
+                     start": {                         "line: ,                   "coum8
+                   }
+                     "e": {
+                     "ne:1,
+                    "colun": 7
+                    }
+                 }
+               "key: {
+                     type": "Identifier",
+                  "sart 8,
+                      ed": 11,
+                   "loc":                      start": {
+                         "line: ,                        "column": 8
+                    ,
+                      end: {                        ine": 1,
+                         "olum": 11
+                        },
+                  "idetifiNme":"d"
+                   ,
+                 name":"ad"
+                 
+                     "satc": fl,
+                     "nd: "nit",
+               "method":tue,                  "aue": {
+                  "type": "FunctiTypAnntaio",
+               "sar: 8
+                  "ed":47
+                  "lc:{
+                      "ar: 
+                  "ne": 1,
+                       olumn": 8                    },
+                    "nd 
+                   line" 1,
+                       "coun 4
+                  }
+                },
+                    "parms": 
+                      {
+                 "tpe": FuncionTypePara",
+                    "sart": 1,
+                        "en:20
+                      "oc": 
+                          "trt": {
+                         "line": 1,
+                          column": 12
+                         },                           "ed" {
+                         "lie": 1
+                         "colun": 2
+                     }
+                         }
+                       "nm": {
+                           "ype: "Idntiir",                         "start: 2
+                         "end": 13
+                   "loc": {                          "star": {
+                               "line": 1,
+                            "column": 
+                         },
+                            ed": {
+                         "line": ,
+                             column: 13                         }
+                           "idntferame": ""
+                     },
+                         "nm": "x"
+                      }                    "tionl"false,
+                     "typeAnnoation {
+                    "type": "NumberTypeAnnotation",
+                            start":14,                           "nd: ,
+                     loc: {
+                              "rt: {                            "line": 1,
+                              "clumn": 1
+                           },
+                         "end": {                     ne":1                          "colmn"2
+                        
+                        }
+                         }
+                     }
+                  ]
+                   "rest" {                      type": "FunctionyePaa",
+                      start" 25,                       "end" 40,
+                        "loc":{
+                       "strt {
+                        line": ,
+                          "column":2                   },
+                      "en" {
+                   "lne":,                      clum":40
+                       }
+                 },                        ame":{
+                      "type": "Ientifier",                  "tt": 25,
+                      "end" 2,
+                        "oc: 
+                         stat" {
+                            line": ,
+                              "oumn": 25
+                       },                       "end": 
+                              "ine": 1,
+                       "clumn": 26
+                           },
+                       identiferNa" "y"
+                        },
+                       "nme": "y"
+                    ,
+                       optional" false,                   typeAnnoaion" {
+                      type": "nericTypeAnottion",
+                     "start": 2,                    "n" 40
+                       lc 
+                        "tat":{
+                             "lne" ,
+                       "column": 27
+                       },
+                            nd": {
+                             "le: 1,
+                          "coumn": 0
+                                                  }                        "typPameers": 
+                        "type":"TyeParametrInstniation",
+                         "start" 32,                           "nd": 0,                         o":{                            "tt": 
+                       line 1,
+                             column": 32
+                            ,                            "en" 
+                           "ln 1,
+                          "clun": 4
+                       }
+                         ,                        "ram [                                                   "tye": "StrngTpeAnotation",                            "sart" 33,
+                             "end":9,
+                         "loc: {
+                                strt":{
+                                 "in": 1,                                 "coum":33                          },
+                              "end": {
+                            e":1,
+                                "column": 39
+                                 }
+                               }                         }
+                        ]
+                           },
+                       "i":
+                           "tp "Idenife",
+                        "strt": 27
+                            "end": 32,
+                        "lo":{
+                          "stat": {
+                           "le": 1,                       olumn": 27
+                            ,
+                        "nd": {
+                          "line" 1,                                "column": 32
+                   },
+                           "ideifierNam" "Aray"
+                     },
+                         "name: "ray
+                       }
+                      }
+                        },
+                      "typePaameers": null,
+                    "rturnType": {                     "type": "VoidTypeAnnoation",                      tart": 3,                     nd" 7,                   "loc": {
+                   "strt": 
+                           "lin": 
+                        "colmn": 43
+                                               d": {
+                         line": 1,                      "clum": 47
+                        }
+                  }
+                   }
+                ,
+                 opinal: alse
+                }
+               ],
+               "indexers": [],
+               "exact": false
+                      
+         },
+        int": nl        }
+      ],
+     "n" "a
+     
+   ],    "diretie: []
+  }
+}

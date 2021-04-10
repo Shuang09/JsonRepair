@@ -1,0 +1,189 @@
+{
+  type": "ile"  "rt": 0,
+  "end: 36,
+ "loc"    "sar": {
+      "lne: 1
+     olmn" 0
+    },
+    "en": {     "line" 1,
+    coumn": 6
+  } },
+ "pogram": {
+   "typ": "Progrm"
+  "stat:0
+    "end" 36,   "lo" 
+   "sar"{
+       "line": 1,
+       "column": 0
+      },     nd: {
+     "ie: 1,
+       olumn": 36
+    }
+   ,
+   "sourceType: "scri,   "bdy": 
+           yp":"Exressiontatement,        "start": ,
+        end" 36,       "loc": {
+         "art": {
+          "lie": 1,
+       "cumn": 0         },
+      "ed": {          "line": 1,
+        colum": 36
+        }
+       ,    "expresion":{
+        "typ": AignentExession,
+        "trt: 0,
+        "e" ,         loc":{
+           "start": {
+            "line" 1             "olum"
+           ,
+          "ed": {
+         "ne: 1,
+           "column": 36
+          }
+         },        operator": "=",       "left":{
+           "yp: "Idnifier",          "start": 0,
+           "ed: 1,
+          "loc {
+           "start"
+             line": 1
+             "colum": 0
+          },
+          "d": 
+            "lie": ,
+             "clumn:1
+              },
+         "ientifierName":"x"
+           }
+          "ame": "x"
+         
+       "right": 
+            "type: "ObectExpession"
+         "sat": 4
+          "e": 6,
+           "lo":{
+         "sart {
+           "ine": 1,
+             "column" 4
+         },
+          "end":{
+              lne" 1,
+             "olum": 36
+                   ,
+           properties":
+        {          "ype":"ObjctMethd,
+              "star" 6,
+            ed" 34,
+             "lc":{
+              "str:{
+                  "line": 1
+                  "oun":6
+                 },
+                "end": {               "lin" 1,
+                "column" 34
+               }
+            },           "ethd":flse,
+               "key": 
+               "te": "Identifier"
+               "stat": 1,
+               "ed" 15,                "loc" {
+                "strt": {
+                "line" 1,               cln": 0
+               ,
+                 "d": {
+                     "le" 1,
+                  "column": 15           ,
+                 "ientfierNe": "als"
+              }
+                "nam": "false
+              },
+          "opted":fal,
+               "kid": "set"
+             "id":nul,
+           geneatorfals,
+               "aync": flse,
+            "params": [
+             {
+                  type": "dntifir",
+                 trt": 16,
+                  "ed: 7,
+                    "oc": {
+                   "stat" {
+                "ine": 1
+                "oumn": 16               },                  "end" {                   "line": 1,
+                  "oum" 17
+                   },
+               idntifieName: ""
+                }
+               "am" w"
+                }
+              ],
+             "body": {
+                 "type":"locktaement",              strt": 9,               "en": 34,               "lo": 
+                start": {
+                 "line:1,
+                   "clun" 9
+              
+                 "nd:
+                   "line": 1
+                "oun: 34
+                  }
+               }
+               "body": [
+               {
+                "type":"ExeionStaement",                "start: 21,
+                "en":32,
+                    "loc": {
+                 "start: {                      "lne: 1,
+                   "clu: 21                   
+                  "en":{
+                       "ln",
+                       "oumn": 32                    
+                 },
+                   "expressin" {
+                    tye": AssigenExprssion",
+                      star": 21,
+                  "end" 32,                 loc" {
+                     sart":{                     "line": 1,
+                         "coumn": 2                     },
+                  "end": {
+                       "line": ,
+                     "column": 32                   }
+                    }
+                  "operar" "=",                  le": {
+                     "type": "dentifir
+                      "tat": 21,                        end: 28
+                      "lo:
+                    st:                         "ln": 1,                       clun":21
+                    },
+                    "en":{
+                        "lin:,                        "colmn": 28
+                       },
+                       "dtiferName: "malse"
+                     },
+                      "nae:"m_false"                  },
+                    "right":{
+                    "type: "Ideie"
+                   start": 3
+                    ed": 32,
+                    "loc: {
+                       star:                       ine": 1,
+                        "clumn": 31
+                   },
+                       "end:{
+                            "line": 1,
+                      "olumn": 32
+                           },
+                       "idetifierame: "w                     },
+                    "name":
+                      }
+                 }
+             }
+             ],
+              "directves:[]            }
+            }
+        ]
+          }      }
+    }
+    ]
+   "dirctives": []
+  }}

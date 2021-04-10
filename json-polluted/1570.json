@@ -1,0 +1,104 @@
+{
+ "ype" "File,
+  sart 0,
+ "end": 25,
+ "loc": {
+    "sta": 
+     "line":1,
+     oum": 
+    }    "ed": {
+      in: 1,
+      colum": 5
+    }
+ },  "program": 
+    "type": rra",
+   "stat":,    "end": 25,
+ "":{    sart"
+        "ln": 1,
+        "colmn" 0
+      },    "nd: {       "line": 1,
+      "coumn": 25
+     }
+   },
+   "ourType": "scri,
+   "body": [
+     {      "tpe": "LabeledStatement",
+      "srt": 0,
+      "d":25,
+     "c: {
+      "strt": {
+           "lin" 1,
+         "colum": 0
+       }
+        "end":
+         "line" 
+           colum: 25          
+      ,
+      body": 
+          "ype": "IfStaten"        "str,       "e: 25,         "loc" {
+          "start": {
+              "line":1,
+           "colmn": 5
+          },
+         "nd" {
+            "line":1,            column"5
+          }
+          },
+          "test" {
+        tye": "BoolanLteral"          "start" 
+          "end" 13,
+           "loc"{           "start": {
+            "li: 1,
+              olmn":9
+           },
+           "e": {
+          "line"1
+          clum":3            
+           },         vlu":true
+         },
+        conequent": {
+           "tye": "BreakStatemt,
+         "star:,
+          "end": 25,
+         lo": {          strt": {           lin 1
+            "coln": 15          },
+            "end":              i" ,
+             "colu": 5
+             
+         
+           "lael": {
+            "tye": "Identifier"
+            "start": 21,
+          "nd":24,
+           loc": {
+            "start": {             "line" 1,
+               "colum": 21
+          },
+              end": {
+                "ne": 1,           "clumn4             }
+          "identifierNme" foo"              },
+           "nme": "foo"
+        
+       },
+       "alteate": ull
+      },
+       "labe": {
+       "type": Idetifir",
+        "start": 0,
+          "end": 3,
+         loc: {
+          "stat": {
+           "ie":1,
+             "olum:0
+      },
+       "end": {
+             "lin": ,
+             colmn":
+          },
+         idtifirae" "foo"
+        ,
+        "name": o"
+       }
+      }   ],   "tives: [
+  
+}

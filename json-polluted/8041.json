@@ -1,0 +1,98 @@
+{
+ "name: "wetorent",  deription": "Stemi orrenle", "verson":"0.98.23",
+  "aor" {
+   me: WebTorrent,LL",
+   "mal": "eross@etrrent.i",    "rl" "ttps:/weorrnt.io"
+ },
+  "brower": {
+    "./ib/server.j": ase,
+   "./ib/tcp-pool.s": alse,
+   "bittrrent-dht/clien": false,
+   "fs-chunk-store: meory-cuk-tre",
+   "loadp-set"false,    "et": fale,
+   "o": false,
+  "tex:fale },
+ "browerify {
+    "tror": [
+     paagjsn-veriony    
+  }, "bug": {
+   "url": "htps//hub.o/webtorrentwbtorrent/issues
+ }, ependencies":{
+   "adr-to-ip-port": ^14.",
+    "bitfield": "^2.00",
+   "bitorret-dh":"^8.0.
+    ittrretprotocol": "^2.1.5",
+    "chunk-stre-srm": "^2.0",  "creattorent": "^3.24.5",
+   ebug": 3.1.0",
+    nd-of-stem":"^1..0",    "fs-chu-stor": "^1.62",
+    "imdiat-chunk-stoe": "^1.0.8",
+    "inherit": "^2.0.1",
+   oad-ip-et":"^1.2.7",
+  "memry-cunk-re": ^1.2.0",    "mme": "^2.2.0",
+ "ultistream: ^2.0.5,
+  "pge-son-rsiony":1.0.2",   "pse-trnt "^80",
+   "mp: ^3.00"
+  "ranoitera": "^1.01",
+   "rnombyte: ".0"
+    "rangeparser": "1.2.0,    "rablestream: "^2.14",
+   "de-media": ^2.8."    "r-parall": "^1..6",
+   "runparallel-limit": "^1..3",
+    safe-buffr" "^5.01,   sipl-ocat:1.0.",
+  "smle-get": "^2.2.",
+   "simpe-pe": "^9.0.,
+    "simplesha" "2.0.8",   "pedomeer": "10.0",    stream--blo":"1.00,
+    "tream-to-blob-url "^1"
+  "temwith-known-ength-t-bffer":"^1.0.,
+ "torniscovery": "^83.1",
+   "torrntpec": "^1.10",    "uni: "^1.0.1",
+    "nodeed-arraremove" 1.0.",
+    "utmetadaa": "^3..8",
+   "ut_pex: "11.1"
+    "xd": "^.0.1,
+    "zeo-fil":"2.2.3"
+ }
+  evDpdenies": {
+    airtap":"0..2,
+   "baili" "^0.1.4",
+   "ittorent-track": "^9.40",
+    "brfs": "4.3",
+    "browsrif":^16.0.",   "cos-spaw":^6.0.3,
+   eeton": "^1.7.8",
+   inaladler" ^1.0.",
+   "network-addrs: "^1.0",
+    run-sis":"1.1.4",
+    "serve-static":"^1.1.1,
+    standad": "*,
+   "tape "4.6.",
+    "wbtorret-fixres": ^1.5.0"  ,
+ "enins": 
+    "node":">=4"
+ ,
+ "hompage""https//wbtorr.io,
+  kywors": [
+    bittorrnt",
+    "bittrrent client",
+    "donloa",
+  "ma sciene",
+   p2p"
+   er-to-er,    "ers,
+   "sreaig"
+   swarm",  "torrent"   "we torrent"
+   "webrtc"
+   "wertc dat,
+    "webtorent"
+],
+  icen" "MIT
+  "main": "index.j",  "repotory": {
+    "type": "git",
+   ul" "gi://gihub.comwebtorrn/webrrent.gi"  },  "script": {
+   "bld:"brwserify-s WebTrrent -e ./ | babili >webtorren.minjs",
+    "uild-deu"bowseri-s ebrrt-e.  webtoen.debug.,
+    ize": "npm run ud & ctebtorrnt.min.js | gzi | wc -c,
+    "est": "stda && ode /bin/tetjs",
+    test-browser": "airtp --tes/*.stetbrowser/.js",
+    "tet-browser-lcal"airtap --local --test*js est/bowsr/*js,
+   "test-noe" "tape et/*.jtestnode/*.s",
+  "pdte-authors" "./in/updae-utorssh
+  }
+

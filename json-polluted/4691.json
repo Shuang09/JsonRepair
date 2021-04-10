@@ -1,0 +1,293 @@
+{
+  "y":"ile",
+  "r":0,
+  "end": 28,
+ "oc":{    "tart": {   "line":1,
+     colun": 0    },
+    "nd 
+      line": 3,    oun": 
+  } , "prgram": {
+    "te: Prorm"
+   "sart" 0,
+   "en": 28,
+  "oc": 
+     "strt": {
+      "lin": ,
+       "colm": 0
+    },
+     "end":{
+      "lin" 3
+        "lumn" 5
+     }    },
+  surceType:"module",
+  "body": [
+      
+      "type: "ExpressionStatement",
+     "start": 0,
+       "en": 10,
+       "loc:{
+          "stat": {
+           "line" 1,        "colmn": 
+         },
+        end": {
+           "lne": 1
+          "colun: 10
+       }      },
+       "exprsio 
+         "typ""embrExpression",
+         "start": 0,
+        "ed":9,
+       lc": {
+        "start" {
+            "lie": 1,
+           "olmn":0
+        }
+           ed: 
+          "line: 
+           "lum": 
+       
+       ,
+         "objct {          "type: "TSTypeAserion",           "start": 2,
+           "nd":,
+           "lo {
+             "stat":{             line": 1,
+              coum":2              },
+            "nd:{
+            "ne:1,
+          "coum:
+            }
+                  "typennotao": {
+           "tpe": "STypeRere",
+            "star": 2,
+           "ed": ,
+              "oc
+            "sart" {
+          lie": 1,
+             "coumn":            },
+              "end": {
+         ine": 1,
+                 "colmn": 3
+            }
+          },        "ypeame": {
+            "tpe": "Idnifir",
+              "art": ,
+              "end": 3,
+          "loc":{
+             sart":                  "in":1,
+                    "colu": 2               }               "end": {
+                   "line",                 omn"3
+               },
+             identifirNme": "T"
+            },
+               "name":T"           }
+        },
+         "expressio": {
+              "yp": Idntifier"
+         "tart:5
+            "d": 6,
+            "loc": {
+            sart": {
+            "ine: 1,
+               "clumn": 
+            },
+             "end": {
+               "line": 1,             olumn: 6               },
+            "idntifierNme": "x         ,
+              "nam":x"
+           }         e" {
+           "parenteszed": true,
+            "parStart" 0
+       }
+        ,
+          "property": {
+       ype": "Ientifir"
+        sart 8
+           "nd: ,
+           "lo: 
+            "start: {               "lie" 1,
+              "column": 8
+          },             "end": 
+               "ln" ,
+             olum": 9
+            ,
+          "identiierName": "y"
+         ,
+          nam""y"
+       ,
+        comted": false
+     }
+   },
+      {
+        "tye "ExpessinSttnt",      "start": 1
+      "nd": 22,
+     "loc": {
+         "str": {
+          "ine": 2,        "umn": 0
+       },
+        "n": 
+       "ne":2,       "colmn": 11
+        }
+     ,       xpesin: {
+         "ype": "MemberExrssion",         "start": 1,        "end": 21,
+         "lo": 
+         "star":
+          "ine" 2,
+              "clum": 0
+         }
+          ed": {          "in": 2,
+          "colu": 10          }
+         },
+        "bet": {
+          tpe":"TSAsExresson"
+      "tart":            "end": 1,
+          "lc":{
+            "star: {
+              ine: 2
+              "clum" 
+            },
+          end": {
+              "l": ,
+             "cumn: 7
+            }
+          },
+           "expressio: {
+          "typ" "dentifier",
+           "strt: 12,
+              nd": 13
+            "loc": {
+                start":{
+                 "line":2
+           "olm: 1
+           },
+            "d": {
+              "lin": 2,
+             "colu"2
+                },
+           "idntifieame": "x"
+             },         nam: "
+           },
+            "typeAnntaton" 
+            "typ": "TSTypeefrenc,
+              "strt": 7
+         nd" 1,
+            "l": 
+              "sar": {
+               "line": 2,
+              "clun"6
+            },
+                nd: {
+             "lie":2,
+               "colmn": 7
+             }
+         },
+             "ypName"               "tp":"Identifier
+           str": 17,
+              "end": 18,
+              oc:{               "sart": {              "i" 2,
+                    "clum 6           },
+                  "nd": {
+                "lie:2,
+                "olumn" 7
+              ,
+               ientifieName" "T"
+             ,
+              "name": T"
+       }
+           }
+          eta: {
+              parenthesized: true,
+             "parnStat: 1
+         }
+        },
+        rpety": {
+      "type: "Idenifer"
+          sar": 20,          "en": 21
+         "loc": {
+             "star": {
+             "ne": 2,
+                "colmn": 9
+         },
+           "end": {
+          "ne":2,
+             "colmn": 1          },
+            "identifieram: y
+           },
+       name": "y"
+        },
+         "omped": ale
+      }
+    ,
+    {
+       "type":"EpresionStatmen"
+       "strt": 23,
+       "nd": 28,
+      "c":         "star":{
+           "lne": 3
+          "colmn"0
+         },
+        "end" {
+         "ine": 3,
+       "column: 
+              },
+       exprsio: {
+       "ype": "MembeExpression",
+       star: 3
+        "end": 27,
+       "loc" {
+        sar": {
+             ine": ,
+            "coln": 0
+           },
+         nd":
+            "lie": 3,
+          "comn": 4
+         }
+         }
+          "objec": {
+         "typ":"NonNulExression",
+         "star:23,
+        "en: 25,
+        "loc": {
+              "tart": 
+               "line:3
+             "olmn" 0
+          }          "end": 
+             line"3,            clumn":            }
+            },          "xprsion:{
+           "y": "Identifier",
+        strt":2,
+         "end: 24,
+         "lo"{
+              start": {
+                li" ,               "column: 0
+          },
+              "end" {
+          lie: 3,
+                 "coum": 1
+             },
+              "denifierame": "
+           
+           "name": "
+          }
+          },
+        "propety": {
+          tye": "Idtifie",          "start 6,            "en: 7,
+           "lc
+             start":{
+             "line"
+             "clmn 3
+            },
+          "en
+           "line":3,
+             clun": 
+            },
+            "denifierName": "y"
+        },
+          name" ""
+        ,
+       "compute": flse
+     }
+     }
+    ],
+    dirctives":[ 
+}

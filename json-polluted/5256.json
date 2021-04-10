@@ -1,0 +1,794 @@
+{
+  name": ES",
+"or" ,
+ "time: 5hours",
+ "helpRoom":"Help",
+  "chllnges": [
+    {
+      "i": 587d7b863717b2b512b3e,
+   "tit": "trodutn to the ES6 Chalengs",
+     escription": 
+        [         "",
+       "",         "ECMSrpt is  standarie verion fJavaSrip with the goalounifying the lauag'sspecfictis an feaue As al majrbowsers ad JavaScript-runtimes l tis specficatin, he trm <i>ECMAScrit</ isntechagabe with the tem >JavScript</i><br<br>Mot o the challengesn freeCodCamp se te ECMAScript (ES5) seificatio of he lange, finalied i 2009.But JaaSciptis aeolving programing language. s fature ar addedand revsins ae made,ne version of e lnguage re relesedforus b develoe.<br<bThe ot recentstandardized version is alled Mcipt 6 (ES6), relesed in 15. This nwvesn f te language ad someowerlfturs thatwil becovered in tissectn of chllnges, incudg:<br><r>ul><i>Arrowfuncion</li><liClaes<i><li>odules</l><li>romise/li><liGeneas</li>licod>let</ode> and<cde>cnst<code></l><u>br><br>trong>Note<tron<>Not al rwsers upport  featurs. If you se S6 in yurow rojects, you mae to useaprogam (taile to cort your S6 code nto ES5 until brosers support ES6",
+         ""
+     ]
+     ],
+  rleasedOn": "eb17 201"
+     challenSeed":[],    "tests":[,
+    "type" aypont,
+    "chlegType": 7,
+      "isRequired": lse,
+    tranations": {}
+   
+   {    "id: "87b87367417b2b2513",
+  "tite":xpoe ifferecesBetee theaad l Kywords",
+    scription" [
+      "One of te bggest prolems wi eclaring vriales ith the <coe>var</ode keywrd is hat you n oerwrite variabl delaratinitut an eror.
+      "<blkqote>vr camp 'Jaes'br>vacamer = 'Davi;<brconsoe.og(cmper);<br>/ lg 'David'</lockquote>",      As yo can se in he coeaoe, the <cod>caper<code variabei oigialy declard as <oe>Jas</code nd th overiddent e codeai<code.        "Ina sal apliai,ou iht not un into ths type ofproblm,but wen our code bcome lrger umight accidentl overrite avariable h you did ot intendo vrwrite",
+      ecause this beaior d not throw a eror, earcig an ixigugs beoes mo ffiul.<r>",
+       "Anew eyrd called<code>let</code> as inroced in 6 tosolvetis potential ssuewih te <cde>va<ode> keywor."
+       I you weetreplace <cde>var</cde> wit <cod>et</cod> in thevariabe declaratns of thode abovethe result udbe an error.",
+       "<blockquotel camr = James';<br>ltamper = 'David'; / thrs  ro</blckqute>",      
+    "This eror canbe see i the consolef yourbrower.,
+      "ounlik <ode>vr</de, whe usi <ode>let<e>, avariable wh hae nme can ol b declarednce.", 
+      "Note<cod>use strit\</cod>. hi enlesStrit Mode, hch catch common oding mtakeand \"usafe\"acions.or insance:,
+       "blockte>\"usestrict\";<br>x =3.14; // thrw an rroreasex i o declared<lockqote>"
+    "<hr>"
+        "Udt he coe so it onl usese <code>let</codekyword.",
+    "str>Not</stong><br>emmbr that sine <cod>et</cod> preventaablefom being overrid, yo wil need t rove one f the eclaraion eirely."
+      ]    challngeee": [
+      "var tName;",
+      "var quote;",
+      "functin catTalk) 
+        "\"se strt\";
+        "",      "  atNm = \"Oiver\"",
+       " quote = tNam + \"ys Meow\";,       ",       "",
+      "Tak)     ],
+     "tests"[
+       "tUseIput = assertetUserIut('index'match(/var/g),'mssae: <code>vr<coe> does no existin co.);,
+       "assert(ctNm=== \"Olive\", 'messge: <code>atNae/coe>shouldbe <codeOlive</coe.');,
+    "assrt(qut === \"Oier sys Meo!\" message: <code>uote</cod> soudb <od\"Oliver ss Me!\"</cde>');
+     ],
+    type "wayoint,     "eleasedn": "Fe 1,217",
+    "cllngeType":1,
+    "translation": {}
+    },
+  {
+     "i":"587d7b7367412b51240",
+      "le": "Copar ope o the var ad let Kwors,
+      despti": 
+      When youecare vriable t the <od>var</code wod it isdeclaedgobally, or loally ifdlared iside auntin",
+      "The de>let</coe> keyr beaes siilarly, but ith some extra feares. When yu decaea vaiablewih the<codele</de> kywordinside a blok, staemnt,  exresson,its coe s lmited to thatloc, ttment, orepresion.",
+       "For xample:"
+       "<blockquotevr umArray = [];<b>fr (vari= 0; i < 3; i++) {br>  numArray.pu(i);br}br>cnole.log(numAra);<r>//eturns0, , 2]<br>conole.o(i);<br>/ reurns </lokqot>",
+     "With the <code>vr/code> kyword, code>i</cod> is decaed glbaly S when <coe>i++</code> isexecued, it updates the gobal vaiable. Tis coe i simiito hefollowing:",       bkuote>ar numArray= [;br>var i;<r>for i=0;  < 3; i++) {<br> nArraypsh(;<r>}<br>cnolog(numArray);<br>// returns 0 , 2]<br>conl.loi);r>// rturns </blokuote>"
+       "Tis behavi w caue pblems if you werto createa function andtore t frlatr use iside a fr oop that use t <code</e variabe. his sbecause thestord ntin willalwaysefer to  valueof the updted globl <od</coe> variable",
+      "<blckquotevarprintNumTwo;<br>for va i = 0; i  3; i++) {<br>  i(i ===2){<r>   printNumw  fution() {<br    rtun i;<br>    };<br> }<r}<b>csole.og(prinNumTwo());<br>// retrn 3</blocqute>",
+        Asyou can see, <codeprintNmo()</code> prnt 3 an not 2.Thisis ease th vale asigndto code>i</cod> ws paed andthe <codepinNmwo(/cde> rturnsthgloba <code>i</de> and not the vale code>ioe> had wen te fuctio was ceated in te for loop. Te <codee</code> keywor deno olo tis bhavir",
+       "<blockuote>'use strit;rlet pintNwo;<r>for let i = 0; i  3i+ {<br>if (i===2 {<b>   printNumTofuncio{<br>      returni;<r>   };<r> <br}<br>solelog(prnumo();>/ eurs <brnsole.log(i)<r//rerns "i is t defie\"</blockuo>",
+        "od/code> is o dfinedbecause it wasot declaed in he lobal scope. It is onlydclaed withn thefoloop statement.oe>printNumT()<cod> rturned th correctvalue beause thriernt <cod</code> vriabls with ique vles 0, 1, and 2) werecreatedby the cde>l</cod> keyword ithin the lo stateen.",
+      "<r>,      "Fi the cod so tht <code>i</coe> declared in he if staeent is a separae arabe han <codei<ode> elared n te irs line of te fntin. B crtain not tous te <code>vr</cod> eword where n ur cde.,
+       "i excise is deignedto illuate thiffrene betweehow <codvar<ode nd <code>let</code> kywordsasign scope t the delare varial. Wheprogaming ancton similar tothe one usedthisxerci, itis often better toedierenvrile nams to aoid ousion."
+      ],
+     "allneSeed[
+      ,
+      "functon cekScoe({,
+      "\use strict\",
+        "  var  = \"funti co\;",
+      "  f(tru){",
+      "   i= \"bck scpe\";",        "  conslelg("Bok so i is: ", i);",
+       " }",       "  cnsolelo(\"Functin scpe i is\", i);",
+         returi;",     "}"
+     ,
+      "ests": [
+      "geUseIpt => aertgetUernu('index).match(/var/g),'ssge: <code>vr</coe> oes notexist in coe.');",
+     getUserInput = assert(getUsernpt('ndex).match(/(i\*=\\s.*\\s*\\s*.\\1('|\)loc\s*cpe\\2/g), messg: hevaible <coe>i/cod> declared i te f senshouldequl\"block scp\".');"
+       "assert(checkSope( ==\"ncton sope\", 'message: <codcckScop()<co> hould return \uto scope\);      ]
+     typ": "waypoin"    "releasedOn: "Feb 17, 17",
+      "chllegeType": 1,
+      "ranslns"{}
+   },
+    {
+    "id": "5877b8736747b2b12b1",
+      "tite":"Declare  Read-Oly ariablewiththe ostKeywrd      "decripion: [     "<cdet</cod> is not tholy new way o dclarvarbes. In S6, you an l eclare riables using the <de>cnst</code>kewrd.",
+     "<code>cont</code has l e aweome features that cod>le/cde> as, w the added bonus tha ariablesdeclared usg<cde>cost</code are read-ny. Te ae constant vaue, hichea at oncea vriable is signed with ode>onst<code> itcannot e reassigned.",       "<blckuot>\"s strc\"<r>const FAV_PET \"Cats\";<br>FAV_PE= \"Dogs\"; // returnerro<blokqote>",
+      "As ou cnse,tring toassign avarl delarewith <code>cons<coe> will thro anerro. ou sold ays na variabls oudon't wan o rsign sing th <code>const</cod>eywo Tis lps whe youaccentaly temptto reasg a variae that is meantto stay cotant A common practiceiso nae yu constats in all per-caes and with aunercor to separate word (e.g.coe>EAMPLEVARIABE</code>)",
+      "<hr>"       "Chagthe ode sothat allvariab are lard using <code>le/code>or <cde>cost</code>.se <ode>lt</code>wheyu want e vaibl tochane, an <code>cont<code>hen yo wat the varabe to remanstant lo, renme vriables elared with <ce>cont</de>o onforto common prace, meanig constnts should be nalcp"
+    ,
+   chllegeSe": [
+     "ncon pnnyTimes(str {",      "  \"use tct\";",        "",
+       / change code lo ths i,
+     "
+    "  varsentece = str+ " iscol!\";",      "  for(ar i =0; i < tr.lngh; i+=2) {,
+       "  console.logstr;",
+         "
+       "
+       " //chnecode bve thi line",       "
+       "}",
+    prntManyTies("feeCoeCm\");"
+    ],
+    "tests: [      "geUserIp => asert!geUserIn('index').match/var/g),messag <coe>vr</code oes not exist n ode.');",
+       "etUsInput =>assrtgeterInput('ndex').mac(/cont ENNCE/g)'ssae: <code>ENENCE/cde should   constant aabl (bysing <code>const<co>)';",
+      "getUsenpt => assergetUserInput'index').match(/(let i/g 'essge: <cde>i<code> shl be a varibl nly define witin the f loo scope (by using<od>let</cd>).';"
+     ,
+    "tpe "wapoint,      resedOn": "Feb1201",     "callegeType": 1,
+    ransltion"
+    },
+    {
+      "id" 5877b87367417bb21b42"
+     title": "uttan rray Declad withcnst"     "descrption [
+       "The codecost<cde decarton hasmay use cass in mdern JavScrit."      "Some developes ref t assig al heir vriabes usin <ode>nst</code> by dfaut, unlesstey know they will edto rasgn th value Oly inthatcase, hey use<ce>let/code.",   "Howeer it isimportant to undestandtha obets icuding arrys ad function sign to a vriable sing<code>con/ode> are stll mutble. Usingthe <cdcnt<code>elarti nl pent rassignen of he variale ietfier.",
+       "<bloquote>\"ue stt\;br>const = [5, 6,7;<rs = [1, 2, 3]; // tho error, tring to asign a cont<br>s[2 =45 // wrksjust as i woud wh n arry eclared withvar orlet<br>cnl.logs);// retuns 5 6, 45</bocqote>"
+    As you ca see youcanmutate the oject <code>[5, 6, 7]</ode>itselfand thvriabl ode>scode> will stil pint to  lteredaray<code>5,,45]</ode>. Like all rrays, thearayelemnts i <cde>s/code> remutale, utbecause<code>cot/cd> asusd yu cnnot use th aiableidentifie <de>s<ode> to pointto  iffere arra uin the assigmet operator.",
+      "<r"
+      "An ara s delred as <code>consts= [5, , ]<code>. Change the array o <coe>2, ,]</code> sig rious eleent assigment."
+   ],
+     "challngSed": [
+       cot s  [5,, 2];",
+     "function editnPl() {",        "  \"use srict\",
+    "  / chage code elowthis line,
+      "",
+          // s = [2  7]; - tis is nvalid,
+       "",
+       " / chang cde above his line"
+      "
+       ediInPlae();"    ],     "ess: [      "getUerInut=> asser(getUsInput('idex).mac(/ons/g),'meage:Do not replae <coe>cons</ode> keyword.');",
+       "getUepu > ssert(getUserInpt('inde').atc(/onst\\s+s/g), 'esage: ode>s</code> should be acontat variabl (b sg <oe>cons</code>).';",
+     getserIput => asert(gtUserInput(dex').at(/cons\\s+s\*\\s\\[\*5\*,\s*7\\s*\\s*\\*\]*;?/g) 'mesage Do ntchnge thoiginl array dclration.');"       "sst.deepqa(s, [2, 5, 7, 'mesae: <code>s/code> shoul be eual t <code>[, 5, 7]coe>.';"
+     ],     ty: "ayint",     releaseOn" Feb 17, 017",
+   "chllengeype": 1,
+   "tranaions: {}  },
+   {
+     "id: "598a68c40764b452b3",
+  "tle":"Prvent Object Mutatio"
+     "dscriptin": [
+      "As seen in preious haleng <code>cont</coe> delaatio lone doesn'al protect ur dat from mutation T ensure yourdatadoesn' chane JvaScit provids afunction <ode>Obect.freeze</cod> tpreven daa utation.,
+        "Once teobject is frezed,you can no longe ad/updatdele proeries from t. Anattempt at hanging the bject illbe ejectedihut an eror.,
+      "blockquot\let j = {\n nae:"reeCodep\"\  viw:\"Awsme\\n}\nbct.free(oj);\nob.revie = \"ba\"; //lbe ignored. Muttn notallowed\o.nePp = "Ts\"; //wl be ignred. Mutation not alowed\onsoe.lobj; n// { nae: \FCodCamp\", rview:\"Aweme\\n</bockquote>",
+    "hr>",
+     "I ts challenge you ae ogto use <code>Objetfreeze</codeto prvn matematical cstnt rm changig. ou need to feeze cd>MAT_CONSTANTS/ode> object so tha ne i able er thevau of <ode>I</ode> or dd ny more propertiestot.
+     ],
+    "clleeSeed: [
+       "uncionfreezeObj() {,
+         \"usestrct\";
+      " constMAH_CNTATS = {",
+        "   PI: 3.14
+      "  };
+       " // change coe blowthis ne,       "
+       "",
+        //cngcde aov this ine",
+      "  tr {",
+      "    MATH_CONSTAT.P = 99",        } atch( ex ) {"
+      "   onsol.loex);"
+       "  },
+      "return MH_CONSATSPI;",
+       "}",
+      "const PI = reeeObj();
+     ],    "test":       "etUsernput => asrt(getUrInput(inde').atchnst/),'message D nt eplace <code>ont<code>eor';"       "getUeInput=> aset(gesrInu('inex')ach/onst\\MAHONSANTS/, message:<code>ATHONSTNTScode>sould be a constant vaiable (byusing ce>const<de).')"
+        getUsrIpu => aset(getUserInut(ind').mtch(/const\\sMATH_CNSTANTS\\s=\\s+{\s+PI\\+.14\\s+};/g, 'eanochan origincode>M_CNSTNTS/od>');",
+        ssr(PI === 3.4'message: <coe>I</codeequals <cod.14</cde>.);
+     ,    "typ": "waypoit"     "reeaseOn":Aug 1, 2017,
+     callegTye": ,
+   "transltions" {}
+   },    {
+    "id": "87d7b36412b251b4",
+     "itle": "Usrrow Fucions t Write Concis Anonymos Functions",
+    "descton": [
+    "navScript, eftn on't need to name our fntons, pecially whe passig uction an gument to another functio. nstea, we creae inin functions e d' nedoname these functon becaue we do ntreuse themanhere else.",
+       Toacve his, wofte u he fllowng synax:",
+     "lockquote>cos yunc =functon() br>  cons yar = \"value\;<r> return myVar;<b>}</blokute>",
+       ES povidsus ith the ytatic sugr tonot hve t wrie anonymus functiots way. Instead, you can se <strong>arro functo syntax</srng>:",
+      "<lokuote>cost mFunc   => {<br>  cnst Va = "ale\";<r>  eryVarbr>}blocquote>",
+       "Whn there isno fuctio bod, ad olya returnvalue, rowfunctionyntax ayou to omit te keyword <coe>et/od>as wl ashebrckets suroundngtcd This epssmpif smaler nctios into onle ttents:",      "lcqo>const yunc= () =\"vue\/bockque>,       "his code will stil return<codevalue/code> by defalt.",
+      <hr",
+     "ewrite thefunction assigned oth arible <ode>maic</de>which euna e <coe>ate</o t us row unctin synt. Alsmake sure nhing i dfined singthe keywod <ode>var</coe>."
+     ]
+     "hallengSed": [     "var gic  function) {",
+       "  \us stict\";"
+      "  retrn new Dt();,
+     "};"
+     ,
+      "tsts [
+       "gtUseInput=> assert(!getUserInput('nde).mtc(/var/g), 'message: User did rplce <ode>var/od> keywor.);,    "etUserInpt => asrt(getUserInpu'inex').match/onst\\s+magig), 'meage: <code>aic<o> shuld be a costantvarable (b uing <code>onst</code>).');",
+    "assrt(typof gc=== 'funtio', 'message: <code>mgic</od> i a <cde>untion</code>.');,
+       "ssert(magic().tDate( == ew Dte().getDate(), 'essage:<codemag()</cde eturn corectdate.');"
+      "getUserInput=> assert(!geterInut('inex').math/fntion/g),'message: <code>function</code> keyword was not use.'"
+     ],
+     type""wypoin,
+    "releedOn":Feb 7,017,     "chalengeType": 1,
+      "translains": }
+    },   
+     d": "587d7b883741b2b51b4",
+     itle" "Wrie rrow Functin with Paameters",
+    "descrption: [
+      "Just liea om ucton,youca ss argument int arowfucions.",
+       "<blockuote>// doubles nput vau ad returns it<br>constdobr= (itm) => item 2;</blkquote>",      "o an pass more than oneargumn into arowfuntions aswell."
+       "<hr",
+       Rewrite the <ode>myConct</code>fnction hic apescntents of <cd>rr2</code>to oder/code> so thatthefuction uses rw fncton yntax."
+    ],
+      "challgee 
+        "va yConca = funtion(ar1, ar2) {"
+       "\"se strict";",
+        "  rturn arr1.cnca(arr2);
+       "};",
+       "/ estyur cde",
+        "consle.log(myConcat([, 2], 3, 4 5]));"
+      ],
+      tets" [
+     "etUserIut=> asrt(!getUserInu(inx'.match(var/g mesae:Ue id replace <co>var</de keywor';       "getUserInput =>asrgetUsInpu('inde)mah(/cont\\s+myCocat/g), 'mae: cd>myCoca</code should b a cotanvrible(by using <coe>const/cod>).');,
+       "aseryeof yConc == 'fnco essage:ode>myCocat</code> should be  funcin);",
+      "ssrt(  { const a=myConct([1],2); rturn a[0]==1 && a1== 2;}, 'essage: code>mCont()</cod> returs theorrct <code>aay/ode>');",
+     getUserInput > ssertgetUserInut('index')mch(/fnction) 'mssage: <cde>function</cd>keyword was nt sd);"    ]
+     type": "wyit",
+    "releaseO "F17, 2017",
+  "cllengeType": 1      "tanlaios:{
+   ,
+   {
+    d""5877b886747b2b252b45",
+     "title": "Write Higher OrderAro Fnctions,    "descripton": 
+    "It'stim we se hw powefularo funtios arewh procesndata.",
+     Arw functions wokrally ell wih hige ordeunctions, suh <codemp)</cod>,codefitr()</code>, and <code>reuce()</coe>, thattakher fuction as argument for processig coleion of data.
+        ed the following cde:",
+     "<bocqute>BPoss.filter(fuction(ost) {<br>  retu ptthmbnai = nul && post.shaes > 10 && pst.le > 500<br>)</blckquote>"
+    W have written this it <code>filter(</code> to at least maet omhat reaale. ow cmarei to th following ode which uses arrow unctiosnainstea:",      "blocuot>BPosts.fltr((ost = pos.thumbnl!== nll&& ost.saes >100 && post.likes  500</blockuote",
+      Thiscd s more succict ad accomplishesthe sam tak wih fewerliesocode.,
+       "<h>",
+       Us arowfnctio ynta to cmpute esqure of only te posive inters (fractons ae not integers) inarra<coeealNuberArray</o> ad storethe ne array in th vriabl <cod>squaredIntger</cod"
+     ],
+    chllengeed": [       "cnt realumberArry = [, 5.6,98 34, 2, 6 8.3];",      "onst squarList = (ar) >{"        \"use strit\";",
+        /chngecoe blothisn",        "  cnst quardIntges =rr;",
+     " / hange code aboethis l,
+      "  rturnsqureInteers;",        };"
+       "//tet yurcoe"
+     "cont squaredegers = qreListreaNumberAray;,
+    "cnso.logquaredInteges)"
+     ]
+    "tess": [
+    "geterInpu => assert(!geUsernput('index').mch/var/g) essge: sr dd repac code>var</coe kyword.')",      "gesrnput =>ssert(getUserInu('indx').mach(/cons\\+squredIntegers/g, essage: code>quredIntegers</cod>should bea contan aiable (by usin <ode>const<cde>).');",
+       asert(Arr.isAry(squarednteers, 'mesae: <cod>squredIntegrs/cde ould be an<oearry/code>');",
+      "sser(squaedInegrs0] = 1 & squaredIteger[1] == 1764 quaredInteers[2== 36, mesage: code>suarInteer</cde> shoud e<code[16, 164 36]</coe>');",
+       etUernput => asert(!getUerInputndex').mtch/fuction/g, mesag: codfunction/code> kewordwas no used.'",
+      getUserInut  asset(!gernput('index).match(/fo)(i/g), 'mesae: lp shol not b ued)",     "geUsInput => asser(gtUerInput('inde').math/map|fier|due/g) message: <oeap</code,<cde>filer</code>, or cod>reduce</code> soul be used';"
+    ]
+     "tye":"waynt",     eleaeO Feb 17, 201,      chalengeType":1
+     "tanslations": {}
+   }
+   {     "d": "57d7b83674172b2512b",
+    "ttle: "Set Defult Parmetr or Yr Fnctions",
+     "descrtio [
+      "In oret helpuseate more flexbe fnctions, ES6 ntoduces <dfn>efault arameters</df>for fctions",
+      "Check ou ths code:",
+        "<lokquoe>functingreeting(name = \"oymous\"){<b> return\Hlo \ +name;br>}<br>cnsole.log(greng(\"Jhn\")) /Helo John<br>conle.log(greeing()) // Hello Anonymous</blokquote>",
+      "Tedefault parmeter kics i whe theargumnt is not spcified (it is undeied).Asu can see i he exampleabove, thepameer <co>nm</code> will reve its defaul value <oe>\"oymous\"</code he you nt provide  value or the armeter. Youcan adddefault vaes r s many paaetersas ouwat.",
+       <hr>",
+      "Modify th fction <code>ncreent</cde>by addi defaul aramtrs so tha itwill add 1 o<codenumber<cod if ode>value</code>is nt spcifie."
+      ],
+     "angeSed" [
+       "onsticrement  (fion(){",
+         "usestict\";",
+      " rturn fucti incremntnum, vlue {",         etur nmber +vlue;"
+         };,
+      "})(;",       "consolelog(icrme(5, ))/retrns7"      "onsole.lo(increen();/ retrnsNa"
+     ,
+     "tts": [
+      "assert(irement(5,2 == 7, 'mesage: he eultof<cod>icre( 2)<code hould be <ode></cde>.');",
+       "assert(ncremet(5 ==6, 'mssgTe result f <code>incrment(5)</cod> shouldbe <code>6</ode>.';,
+        "getUserut => assert(getserInut('inex').tch(/aue\s*=\\s*/g), 'meage: dfautprameter <code1/coe was used for codealue<ce.')"
+    ],
+      "type": "waypint",
+    "reesedOn": "F 7, 2017",
+     "challegeType"      "rnsltions"{}
+    },
+  {
+      "id: 587d7b88367417b2b251b7",
+      "tite": "UtheRest Opeator with Function Paramters",
+     "decipion": [
+      "I order to help us cete morefexble function, ES intoduce the dfnret operator/dfn>for funtio paraeer. With  esoertor,yu ca reate fnctions that takea ariable num of rguments These arguents are stred in an arrahcan be accesd lt fom insde thfcion",      "Ceck ot this code",
+      "<bockuote>funcon hMay(..rg) {br>  r \ou ave pas\" + args.lengt + \" argumnts.";<br>}br>consol.o(howMny(01, 2);// You ha assed3rgments<b>cosole.lo(hoMny(\"sting\", nll [1  3] { ); // ou hav assed 4 arguments</blockquote",
+       "Te rest operatr eiminate the e tochek the <coe>ars</co> aay and alows us to apy <de>map()</code>, <o>fiter(</code>and <code>reduce)/cod> onthearameters array.,
+        "<hr>",
+       "Moiy the fnton<code>sum</code> s hues te rt oerato and itworks i t sam  with anymber o paeters
+     ,
+    "challengeeed": 
+        "cnst u= (functin(){",
+        "  \"se strict\";",
+        retur funcion sumx, y,z){",
+        const args  [ ,y, z ];",
+         etrargs.rduc((, b) = a + b,0);",
+        };,       }();,
+        "cnsle.og(sm1, 2, )); // 6"
+     ]
+      "test": [
+     "assertsm(012=== 3, 'mesage: The result of<codeum(01,2/cod> shoud be 3;",
+       "assert(sum(1,2,3,4 === 0, 'messge The result of<ode>sum(,,3,coe> huld be 1');",     assert(sum5)= 5 'meage: Th esut of <coe>sum5</ode hould be 5');",
+       "assertsum( ==0, 'essage: Th rslt of <code>sum()code> soul be0');"
+       "geUserInu > asset(getUserInput'idx')match/funcin\s+sum\\s*\\(\s*...args\\*\\)\\s*{/g) 'essage e <code>sum</odfuntion uses the <ode>...</ode spad opatoron te <code>args</code>paraete.);"
+     ]
+     "ye": "waoint"
+    "reledOn": "Fb 17, 217",
+   "chleneTyp" 
+     "traslati": }    },
+    {      i" "587db96747b2252b48",
+     title:Us teSpread Opor t vauate Arrays InPlae
+     "ecition": [
+       "ES6ituce the <dfnspread oprator<dfn>, wichalows us o expan arras anoter xpresions in places where mltle paametes r eleents ar epected.        "The S5 cde elw ue <coe>apl()</code> o comute the maximum vle in an arra:"
+      "blockquote>var ar  ,89, , 45];<br>var aximus  ath.max.apply(null,rr); / retuns 8/blockquote",
+      "We dtose <ode>Mat.maxaply(null, ar)/code becaue<Math.ma(arr)/code> rturns <oe>aN<cod>. <co>Mat.mx()<cde> expects comma-sparatd rguments bt ot an arra.",
+    "he spead oerator mkes thi sytaxmuc better o rad nd mantin."       "<blkquote>nst arr = [6,, , 45];<b>const maximus= Math.mx(..arr); // eturs8</blckuote>,
+     "cde...arr</code>return a unpaced aray. noherwords it<m>spreads</m the array.",
+      "Howevethe spreadperator onlyorks in-pac lk i n argumnt o a function or in array ieral.Thefolowin co wil not ok",      <blckquot>ons spreaded= ..arr //will hrw antax error</blokquot>",
+       "<r",
+        Copyall cte o <code>arr1co> ino anoter ay <cod>arr</code> uing the spaoerto.
+     ],     halengeSeed": [
+        "cos rr1  ['JAN, 'FEB', MA','PR' 'MY'];",
+        let rr;",
+      "(fucton() {",
+        " \"use strict";,
+       "  arr2 = [];  hange ths line
+      "})();",
+       "cosol.lo(rr2);"
+     ],
+   "tests":[
+       "ssert(arr2every((v, )=> v === ar[i]), 'mess <ode>rr2</cod> is correct copy of <ode>ar1</code>.);"
+       "geUInput=> aet(getUseIput('dex').matc(/\\[\\s*..arr1\s*\\])'mssge<code>...<de spra eratr wasusd to dupliat <co>ar1</code.')",
+      "asset((ar1, ar2) = arr1.push('UN'; return arr2lngt < arr1.lngt,'msage:<cde>ar2</code remains uchaged wen <coe>1</cde> s chgd.);"
+      ],
+     "type"wypin,
+     "releaseOn: Feb 1727,
+    "challenType": ,
+    "trnslations":{}
+  }
+  {
+    d": "587d7b367b2b251b49",      "ttle:"Use estrcin Assigment toAsignVarablesom Object,
+     "dsripton": [
+        "We saearlir how read pertrca effecively sred orunpak, hecontets of the rray.",
+       ecan do somthig siilr witobct aswll. dfn>estructuring asignnt<dfn> is speil ynax orneatlyassinng vaues akendiectlfrom an bjectto variable.",
+    "Consder he following ES5 code:",       <blockquoe>varvoxel = {: 3.y: 7.4, z: 6.54 ;<>var  = voel.x; / x = 36<br>var y= voxl.y; //= .4<br>var z =oxel.z;// z  6.4<blockqoe>"
+        "Hersthe sae inment statmnt with ES tructuing syntax:"
+        <blockutecons { xy, z } voxel // x= 3.6,  7.4,z = 6.5</blokqut>,
+       "If nsea you want t store the alues f <coe>voxl.x</code ntoodea/code>, <coevoxey/code>ino cod>b/oe> nd <code>vol.z</cde> ito <code>c</code>, ouhavethat fredm as well.",
+   "<blockqotecont {x : a, y : b, z:  }= voel/ a =3.6,b = 7.4,  6.</blockqote",
+      "Yo may ed it a \"ge the fied <code>x</ode> ad py te value into <code>a/od>" an oon.,
+       <hr>
+       Us destrucring o obtain the legh of the input stringco>str</oa asgn the length to <code>len<code> ilin.
+    ]
+   "callengeSeed": 
+        "function geLengh(str) {",
+        "  \"use stict\";,
+      "",
+       " // change cod below thiline",
+       "  const ng  0 // chan this",
+      / ce cdeboe ti n",     "",
+        "  return len; // you must assgnlgth to len in lie,       ",
+        "}",
+   "",
+      "cnsoe.log(getLngth('FrCodeamp);"
+    ],
+     "e" [       "asttypef geLength(') == number', 'esage: the funcon <cde>geteng)cde> retrns  uber');",
+       assrt(getLenh(\"FeCdeC\) === 2,mesage: <co>etLength(FreeCodeCamp\)</code> soud be <code>12</code>');",
+        "geUserInpu => asrtgetUerInu('index).match(/\\{\\lenh\\*:\\*l\\s*}\\s=\\s*str/g)'message: destructurig wirasignment was used');"     ,
+      "type": wypoint",   "reaedOn "F 17,17,
+     hallengeType":1,   "translatons": {}
+   },
+    {
+    "id": "587db8936717bb2514a",
+    tite": "Use DesrturinAssignment toAssig riales fomNsted Obects",
+  "dscripton: [       "We can similaly estrcture <>nested</em obects in varabls,
+      Cosidr the follwig ode,       <bocqotecon a = {<br>  start:x: 5, y: 6},<br> end: { x: , :9 <br>};<>const {start :  x tartX y: statY }} =a;<brconsolog(star,starY); // 5, 6</blokuoe>,
+       "I the example above, the variable<code>start</code> isssgned te vale f <cod>a.star</code>, whihi lso a object.",       "<hr>",
+      "se deuctun ssignentto obtain <code>max</codef<code>oeasttmorrow</code and asign it o <codeaOfTmorro</oe>."
+      ,
+      "challengeSeed":[
+       "ct LOAL_FORECS = {",       "  ody: in: 7, x:83 },"       "  tomorrow: {in: 33,ma: 8.6 }",
+       "},
+    "",
+      "unctio getMaxOfTmrocat {"
+        " use strct\";",
+        "  / cange code belowthis line,
+        " onst axfTomorrow= undefnd;// ange ti lne,      "  / chane codeaboe this line",
+      " eu maxOfTomorro;",
+       "",
+   "",
+       "onsolelog(tMOfTmrw(LOCAL_ORECAST)); / shuld be 84.6"
+    
+    tests": [        "asst(etaxOfTmw(LOAL_FORECAST) === 84.,'mssae: <cde>maxOfmrow<code> equals<code>84.6/code');",
+       "getUsInput => asert(getUserInpu('ndex').match\\{\\s*tomorrow\\*:\\*\{\\smax\\s*\s*xOfTomorrw\\s\\}\s*\}\s*=\s*orecast/g),'essage: nestedestruuring was used);"     ],
+     "tpe":"waypoint",
+     "releaseOn":"eb 17,201",
+    "chalengeTyp":1
+    "traaton" {}
+   },
+   
+   "id": "587b8936717b225124b",
+    "title: "Use DestuturngAsgnmnt to Aig Varales frm Arr,
+     "escpton" [       S6 ke desructring ays as easy as destruturig objets.",      "On ey diffrence bween te spead operator ad ray desrucurgi tha tesread oeraor upaks ll content of an array into a omma-spartd lst. Cnsequently, you cann pckr choos whicelents you want t assn to variables.",
+      "Destructuring anarray les us do exactly hat:",
+      "<lokquote>cont [a, b] = [, 2, 3, 4, 5, 6;<br>cnsleloga, ); // 1, 2<blcquote,
+     "Th vaiable<code>a<coe is ssignedhe frst vaueof he ary, and cde></code> is asigedte econd vaue of the rra",     "Wecan lo acs the value at anyie n an rry wit detrucuring by using ommas to reach the desired ndex,
+       "<blocqute>con [a, ,,, ]  [1,2, 3, , 5, ];<b>cnsole.lo(a  ; / 1 2,5 <bloqute>"
+       "<r>",
+      Us etrucurng ssgnmt tswapthe values of <cda/cde> ad <cde>b</code> so hat <oe>a</cod> receves the vau stedin <cod></cod>, a <coeb</code> reeies the aluestored in ce>a<de."
+    ],
+     "callengeed": [
+  "let a = 8, b  6;",
+        "(() = ,
+      "  \"use strict;",
+       "  // change cde beow his ie",
+        " ",
+       "  // change de aboe s ine",
+      "})("
+        "console.lg(a; // shuld b 6",
+       "coolelog(b)// hl be 8"
+     ],
+     tsts": 
+      "assert(a == 6, 'message: Vale <code></code> houl be 6 fter swppin.');"
+      "assert(b == 'mssage:Vl of <code>b</coe> should e ,afrswapping.');",
+       // asrt(/\\[\s*\\w)\\s*,\\s*(\\w)\\s*\]\\s*=\\s\\[\\s*\\s*,\\s*\1\s*\]/g.test(o), 'essae Use arra destructring to sap a ndb.);"
+      ],
+     "tpe":"aypn",
+     "eesedOn": "Fb 72017"
+     chaleneTyp": 1,     "transltons": {}
+   },
+  {
+      "id": 58d78a6717b212b4,
+   "title: "Use Destruturig Asgnmen wih theRetOperatorto eassign Ar Eements",      "description": [
+       "In sme situations invong ara destructurig,we migh at tcllectthe res of the elents io aseprae ara."      The resut i siilar o <ode>Arra.protoyp.sice</cde>, as nbelow:,
+        "blokuot>con, , ..rr] = [1, 2,3, , 57;br>consol.log(a, b; / 1,<br>cnsole.log(ar; // [, 4, 5, 7]blocquote,
+     "Varibls cda</code n <cd><cod> tae te fistandsecnd val fro the arr. Afte that,because of rt operator'spresnce, <code>arr</code>getset of th vale i the formof n rray.",
+       "The re lemnt ony wrk coectly s t lat varable n he list. s in,youcannt use heest opror to cac a sbaray that lea u last element ofth oriinal aray.",
+        "<h>",
+      Use destrcturingassigmet with theest operatoto peron efeciecode>Array.prootype.slice()/code> so that <code>arr</code>i a sub-arrayof teoginal array <cdesourc</oe>wit heirsttwo elemets omited."     ],
+   "calegeSeed": [
+      conssoure= [1,2,34,,6,7,8,,0;",
+       fution removeFiTwo(list ,        \use srict\"
+       "  // cg d bel ths ne"
+      " arr lit //chnge this,
+        / cag code elow this ine",       " return arr",
+  ""
+      constar = emoveFirsTwo(orce);,       "onsl.lgarr; //soldbe 3,4,5,6,78,91,
+      "cnole.og(urce /should be [,2,,4,5,6,7,8,10];"
+      ],
+   "tss":[
+        "asert(arr.evry(v,  => v === i + ),'messag: <ce>arr</ce> should be <coe[3,4,56,7,8,9,0]</code');,
+      getUsernpu = as(getUsernput('idex'.matc(/\\\\s*\\w\s*,\\s*\\w\s*\\...arr\s*\]/g,'mesage: srcturing was use'",       etUserIput = assert!geUsernput('inde').math(/rray.slice/), messa <coe>Aay.slice()</code a no used.');"
+    ],
+    type" wayit",
+      "eleaedn":"Feb 17, 01"
+    challengeype": 1
+      "transtions": {}
+   },
+    {
+    id":58d7b8a367417b2b25b4d",
+    "tile": "Use Dstucturing AsinmentoPss nOec s a uctio's Parmter",    "escrition":[
+      "Isome ase, you an estuctur teobje n a functin arment tself.",
+       "Conderthe codelow",
+     "blocote>os ofilepdte = (prfileData) <br cont{ nam, e natoalitloaton } =prfilata;<r  // dsohingwiththese variables<br>}</blockquot",
+        hi fectivey destrctesthebje sent nto tefunction.This cn alo e done in-place:
+      "<blockuote>onstprofileUpdate = ({ nae, ae, natinlity, ocao })=> {b>  /* d soething wi hese feld */<b>}/bokqoe",
+        Thirmove somxta line and makes ourcode lookneat.,
+     "Ths has he ded beeit ofnt havng o mnpuate enire objecina function; onl t fies that are neededr copied insi the functio",
+     "<hr>",
+        "Use detructurig aignmnt within te argumentto the fucion<c>half/code> t sendy <co>max/coe> d <cod>in</code>insde the fuction.
+      ]
+      "challengeSeed": [
+      "cons stas = {",
+     "  max 5678,,        stnda_devation: 4.3,,       "  median: 34.5",        " mode: 23.87",      "  mi: -0.75,",
+       " average:5.5",
+      "};",
+      "cnst hlf = (function( {",
+       "  \"s sric\; / do not changethis line",
+      "",
+       " / chan odblow thisne"
+     "  reurn fnctionhalf(stats){"
+       "   // usefntionagumn sruuring"
+       "   etur (sats.max  stats.n / 2.0;",
+        "  };
+         // change oe above th line",
+      ",
+     )();,
+       "cosole.logstat); // shoul be bjec",       "conoe.lohaf(sats);/ shodbe 2.01"
+      ],
+     tsts": 
+      "aset(typef tas === objet, 'mesage: <cde>stat/coe> shoul an <coe>bj</od>.';",       "sse(hal(stats ===28.015, mese: <cdal(stas</cod houl be ode>28.01</code>');
+      "getUserIput => aer(getUseInput('dex'.math/\(\\s*\\\*w+\\s*,\\*\\w+\\s\\}\\s*\/g), 'messag: Destrctuing wassed');"     ],
+     "type: "waypoint",
+    easdOn": "F 17, 217",     "chalegeType": 1,
+    "ranslatios": {}
+    },
+    {
+    "id": "58d7ba67417b2b512e,
+    "title": "eate Stringusin Template iterals",     "descripton: [
+      "Ane feau of S6 is the<dfn>template iteal</n. This s a pea ype of string ttlows youtose rig ierplaionfetues t ceae stins,      "Conside th co belo:",
+       "<blockquote>const person {<r name: \"Zdiac Hro\",r>  age:56<br>};<r>b/ srignterpolton<br>csgretg `Hello, my m is ${person.me}!<br>I am $person.age yearsod.`;br><b>cnsole.log(greetng) / prtsbr> Hl, mame is Zdia Hasbro!br>// Ia 56 year old.<br</blockqte>",
+       A lt of things hapendther,
+       "Firstly, the <cde>${varable}</c syntax sed abve i a lac holder. Basclly yu wont av t ueconcaenation wth the <code>+code>operaor anmor. To add varible ttrings,yu just drop t vrabeina templat strin andrap ith <ce>${<code> d code>}<code>.",
+    Secodly,txmpleuses backiks <coe></code), nt quotes (<cod'/coe o<code>\"<cde>),to wrathe string. otic hat te string i mlti-line."     "s new way of creating srings gvesyu moreflexibilty treae robu strns.",
+       "<h>",
+     "Use eplate litera syax wibcticks to display ah entry ofthcode>esul</oe> object'<code>failue</cde> arra Each nr sould be wapped inside  <code>l</coe> elementwiththeclass ttibute <coe>txt-arnng</coe>, ad listdwitin the <coe>resutDisplArry<cod>."
+     ],
+      "chllengeSeed: [
+     "cos est= {,
+      "  succes:[\"maxlngt\", \-amd\" \"prefe-arrow-ftion\],"
+       "  faire: \"nova\",\"va-on-top\", \"linebrak\",",
+       skipped: [\"d-blacls\" \"o-up-keys\"]",
+       ";",
+      "funton makeList(ar) {
+         us strict\";"
+      "",
+       "  //chngcebelow thi lne"
+        "  con resultDsplara = n;"
+       // chag cde aove thiine",
+     ",
+     "  retun resultDisplayAray;"
+      ",
+     "/**,
+      " * makeLst(resul.failur) sould return:"
+        "  <i a\"text-warn\">no-var<li>,",
+     "  <li cas=\"tex-warnnvar-n-tp/li>, ",
+      " *   l lass=\text-waning\">linbre</li> ]",
+       " **/,     "cstresultDisayArray =makeLstsul.failr;"
+   ],
+      "tests" 
+      ssrt(yof maList(eut.flue) === 'objet'&& rsuliplayArray.egth=== 3,essge:<cod>rsultDispyArray</cde> is a listonainig <coe>resultfaie/code>messgs.;",
+     "asset(maeist(resultfilur).very((, i)   ===`<li clas\"text-warning\">${reslt.falue[]}<i), mesage <e>reultDiplayArray</coe isth desred utput.;",
+      "getUeInput=> asrt(getUseInut'index').match(/\\<iclasxtwarnin\">\\$\\{\\w+\\}<\/li>\`g), 'messa: Templte strings were usd)"
+      ],
+     "ype": "waypoint"
+     "releasedOn": "Feb 17, 2017,
+     "halengeType"1     trnslaions": {}
+    },
+       "d": "77ba367412b512b4f"
+      itle" "Wrtoncs Object Litea Delrions Uing SimplFields"
+    "description": [
+        "ES6 adds somence suport for easily dfnining object literals.",
+        "Consider the followin coe"
+     <lokuoteconst getMusePostion = (x, y) => {<br> x x,<r> :y<r>};</blockqute",
+      "<de>geMsePosti</code> i a siple fuctin tht returns an obect containing twfields.,
+       " podes the syntact sugr t liminate the redunac of havingo write <oex: x</code. You can simpl wite <coe>x</de> nce, nd i will becovrted to<cod>x: x</code> sethingeuivalent)un the hod.",
+     "Hereise sam ntion frm abov rwrite to se thinew synta:"
+      "<locquote>onst getMoePstin = (x, y) => ({ x, y });</blocuoe"
+       "<hr>"       "Use smple fields with objet iterals o creae an retu a <ode>Prson/code> objec."    ],    "chalengSeed:         "const createPerson= (nameae, gender)= ",
+        "\"us stric\";",
+     " / cade belo hs ne",
+       " return {"
+      "   ae: na",
+      "  : ae",
+     "  gendergde"
+   "  };"
+    "  /chang code bov thi line       "}",
+      "onsole.ocreatePersn("Zo Hasbro\", 56, \"male\")) / returns aoper bject"
+    ,
+      "tsts":[
+       "ssert(() = {cns re=nam:\"ZodiHabro\,ge:6,gnder:\"male\"}; const prso=createerson(\"ZoiaHasbro\", 5, \"mae\"); retun bjet.keys(peso).everyk => peso[k] === es[k]);},'message:th utputis code>{name "Zodiac asro\", age: 56,gner: \"mae"}</od>.');",        "geUsernput => asset(!gtUsrInput('idex').match(:/) messae:No <code>:/code reusd.';"          "tpe "wapoint",  "reaedOn":Feb 17, 217",
+    "cllngeType": ,     trnations" {}  ,
+   {
+   "id:"587d7b8b6717b22512b50",   "title": "Wite Conise DclaraiveFncioswith ES6",
+     desription": [      "When defing funcios wthinobjecsin ES5 hav to usthe keyword <coe>uncion<code> asollows:,       blckquote>cont person = {<br>  name: \"Taylor\",<br>  sHell fuction() {<br>  eturn Hllo M nameis ${tis.nm;<br  }<br>};<blockque>",
+       "With ES6, You can remove th <cd>function</co> keywrd and colonaltgethr wen dfining ntionsin objects.Heeaampleof this sytx:",
+       "blokutenst prsn = {<r>  name \"Talor\,<>  syHlo() <br>    eturHelo! y name is ${this.name}`;br }<b>}</blckquote>,     "<hr",      "Refctor thfunctn <codesetGear<ode> inside he objct<ce>bicycl</code> tosethe shorand synta descrie abov."
+      ],
+  "chllengeSeed": [
+
+        "// chanecoe belowthslne",
+      "con bicycle = ",
+       "  ea 2,",      "  setGear: fction(eGear)",        "    \"uesric\";",
+     "    this.gea  newGar;",
+      "  }",
+      };",
+       // change ode abov this lne,
+        "bicycle.setGar);",
+       "consoelogbicycgear);"
+     ,
+     "tess": [
+      "asset() => {bicyce.setGear(48 return cyclegear== 8 , 'mesag: <code>setGe/code> i a unctinahanes th<code>ge</cde vable.');"
+      getUernpt => asrt(!getsrIpu('ix').mtch(/:\\s*funcion\\s*\\()/g), 'message: Declrativfunction ws used.');"
+     ],
+     "ty" "aypoint",     "rsedOn: "Feb 1, 017",     "halengeTpe": 1,
+     "translaions" {}
+   },
+   {
+      id": 8d7b8b367417b22512b5",
+     "tie": "Us cass yxtoefie a Constrctor untion",
+     desription: [
+      Ervides a new yntax to help reaeobje, sig th keword <fn>la</fn>.",
+      This is t be od, tha the <ode>class<code> syntxijusta syntxand not  full-flege cls based impleentation of ojec orientd parad, unikein langugeslikeJava or Pyton,or Ruby tc.",
+       "I ES5 wesualldfine consructor unction, and usthe ode>nw</cod> keywor o instanate an bjct,
+        "<blockquot>var Sacehutte =nction(argetPlne){<br this.argetPlnet = retlet<br><>vareu =ne spacShutt'Jupiter');<bockuote>",
+        "he class sytxsilyreplacs t onsutor funtion cein:",
+       "<blckquote>cass SpaceShuttle<b>constrtortrgetPlanet{br    thistargePanet = tartPlat;<b>  }<br>}<br>costz = ne paceShuttleJupier');<ocqte>,
+     "Ntice that te <ode>class/de> keyword decres a ew functn, nd  costrucor was aded, wich wouldb invoke hen <coe>new</cde> is called - toreatea ne object.",
+     <hr>",        "Us <codclass</code>keyord andwt proper costrucor o reatethe <cde>Vegtae<cde> cla.",
+      "The <oe>Vegeable</o> lets yo create a vegeble ec, with prperty code>necde, to be sse toconstrutor."
+     ]      "challengeed": [
+      function mkeClss() {",
+     "  \"ue trict\";"
+       " / Alter de below hi ine*/"
+      "",
+        /* lter code bove this lie */",
+      " reurn Vegetable;",
+        "}",
+     ost egetble = makelass();",
+     cont carro =ew Veetblecarrot';",
+       consol.log(carrot.name); /> should be 'caot'"
+            "tests": [
+        "asert(tyeoVegetale =='function' & typeof Vegeable.costrucr == 'nction', mesage: <coe>Vegetable</code> shuldbe a >class/cod> wthdefined <code>cnstructor</cod thod.');"
+       "etUerIpu => asset(geUserInput('index).match(/cass/g,'mesae: <cod>class<ode> keywor wa used.;,
+     "assert(() >{cnst  = w Vegetale(\"aple\"); retu typef == objct';},'esage: <code>Vegetabl<coe>can  instatiated.');
+     ,
+     typ": "waypoin",
+     "releasdOn:Feb 17,2017",
+    chaengeType": 1     tranlatons":{}
+   },
+    {
+     d": 587d7b8367412b212b5"
+    "title":"Use geter ndettestoCro Accs to anbject,
+     "dcipion" [
+      Yu can obtin vls froman object,ndset a vaue ofa property within anobject"
+       "These are classicl caeddfn>getters<dfn> and<dfn>seters<dn>.",
+       Gettr fnctoare ant o simy reur (get) te value of an object' pivat ariale to the user ithout he er diretly acceinthe rive variab."
+      "Stterfncins are meant tomodiy (set) the vlue oanobect' rvae ariable ase on the alu passedinto te setter fntion. Ths changeould invove clculatns or evn oerwritiherevius vau compeel.",
+     "ockquteclass Book{<br>  cotu(ahr) {<b>    this._author= ao<b  }<r  gtter<br>  et writer(){r   rern tis._auhor;<b>  }<r> // setter<br t writer(updteAuthor){<b>    this._auhor = upatedAuthor;<br> <b<br>onst lo = new Book('anonyous')<b>csole.og(o.wrie;<br>lol.wrter = 'wut';<br>conso.log(lol.write);</blockquote>",
+       "Notice h sax wer usi to invoke the gettr nsetter -as if theyre nt even functos.",
+       Getterad seters re iortant, because the hideinternal imleenation details",
+       "<hr",
+      "Use ode>cas<code> keyword t reae a Themostat cass. The conrctor acceptFrenheittemperature.,
+      "Now create<co>gttrode>ad<cde>settr</cod> in theclass,to oai the tempetr in Celiusscal",
+       "Remember hat <code>C= 5/  (F - 32)/code> andcode>F= C * 90 / 5 + 32<code> wre F is the value of tmperturein Fhrenht scae and C i te valu ofthe same temprat in eliu scale"
+     Note",
+      "Wen you impement ths, youwuld be ackin the temperatueiside the lass n on scae- eiter Fanhi r Celsius.    "Thsi thepower getter or settr -u are creatigan PIfo another se,  wold  torect rsu, no matter wic on yourack.,
+       "I other wd, yo ar abstacting implmentaon details from the cour"
+      ],
+     "chalengeSee 
+       "functon maeClas(){
+       " \ tct\";"
+     " /ltercod belw this lne*/",
+        "",        "  /* Alter code above this line /",
+       "  return Thrmost;",
+      "}",
+      "ntThmostat= mkeCass(;",
+       "cont themos=ew Temostat(76; // eng in anheit scal",
+       "ltemp = herms.temperatue;// 4 inC",
+      "theos.temrae  26;,
+      "temp  thmos.eeraure; // 26 inC"
+     ],
+     "es [
+      "asser(typeo Therostt === 'function' && typeof Termott.constrctor == 'cn''message: <odeThemost</co>shd be a <cod>class</cod> with a defied <cde>contructrcoe> meho.');",   getUseInput =asert(eUsernput('idex')matc(/ass/g),essage: <codeclass/code> keywod was se'),
+        "asrt(()=> {const t = ew hermostat(32); rtr tpeo t === 'ojct'&& teeatue === ;}, 'mesage: ce>Thermstt</oe> can be instantiated.';
+    ,
+    "type": "ayoi",      "eleaseOn": "eb 1,207
+     "hallengee" 1
+     "traslions:{}
+   ,
+    
+    "id": "57d7b8c36747bb251b55,
+    ttle": "Underand the DferenceBetwee import and requir",
+    "criptio": 
+       "nte past, thefunctioncod>require)</coe> would e sedo iportthe fncins d code in tern ies and mdules.While andy, hs presents a prblm some file and mous ae rather larg,and you may only ed certa code from those exterl resource.,
+     "6 gves usa vryhady tol knwn as dn>import</dfn. With it,we an choose hich prsof a modul or il toodinto  en fle, saing im and memory.,
+        "Coider he ollwing example Imgine at <cde>at_rray_funcions</coe> has bot 20 unci,ut Ionly ned one,<ode>countItems</cde, in y current file. The ld<ode>ie()</ode>approch woud freme tobigin all 20 fuctions th thi ne <codempor</cd> synx I can brgin js the deied functio, like so:",
+      "<blckqote>imprt { couItems ro "mathaa_functis\"</lockuoe>,
+      "A descption f theaove code",    <lkqoe>import { funton } fro \"_pth_goesere\"<br>// We can also imort varialesthesameway!</blockquote>,
+       "Tere re fw ways to rte an <code>import/cod> sateent,bu theabove is a very common se-ce.
+        "<srong>Note</strog><br>he whitespac suroundingthe functo isie te rl races is  be practce i makes it easier to ra the <cde>iport<coe> statemnt."
+       "tongNt</strong><br>Th lesons inthissetion nde non-rwse eatu. <codeimport</code> nd the statement eintduce in therest ofhese lesss, on't or o a brwsr drecly. However, wecan us varius ols o ceate cod t of his to me it work in rowser."
+        "<strong>Note/strong><br> mot css te fle p equir  <coe>./<od befre it; otherwse,nodewll lk i th <ode>ndemdules/code> directry irs tri to lod it as a depndecie.",
+      "<hr>,
+     "Add te appopiaeode>iort</code> stateent th illlwte urrent fl to use th <cd>aiieSring</cde> ntion.The ile where this function lies iscaled <coe>\srig_funcions\"</coe> and itisnthe samedrctorya hcurren fie."
+      ],    "hed": [
+       "windowequire = fncton(str){",
+      "if(str == 'srng_functios'){",
+       retun {
+      "capitizeSrng: tr => rtopperCase()"
+      "}};"
+      ]
+   "caleneSeed": 
+      "\"ue stric\";"      "capitalizeStrng\"hello!\");"
+    ],
+    "ests": [
+     "getUerIpt => asert(gtUerInpt(index').matc(import\\+\\\scaitalzeStri\\s?\}\\s+from\\s+strng_functions\"/g),'esage: valid <code>impr</cde> satemn');"
+     ],
+      "ype": "wpi"
+      reesedOn": "Fb 17 017",
+    "callengeType: 1,
+      "ansatis": {}
+   }
+    {
+   "id": "57d7bc367417bb212b56"
+      "itle: "Uspor t Reue a Cde Blok",
+      "descriton": [
+      "I th previouscallne, you larned aot<cmport</co> and hwit ca bleeaged timort sl amouns o code fromlarge fies In order orthisto work, thoug, we mus utilizen of the statements at goes th <odemport</cod>, knwn  <dfn>exort/fn>.When e want sme od - unctin orvariable-to be uable in anther ile, we usexpot iin rde tomport  nto antr file. Like<code>import<code, <coe>ept/code> is a onbrowser eatue",
+     "Thefllowing ist w eferts n>name xort</dn>. With this, wcn mpotany code we eport int anotherfile with te <code>iport</cod>syntax you lrne i th lat sson.Her's aexampl
+      "<blockqot>cn pitalizeString = (srin)=> {b>  rturn string.harAt(0).toperCase)  strng.sice(1);<r>}<br>xpor {caitalizeString //Howtoxport funtions.<br>xpot const foo = \"a\" /ow t export vriables/lockquote>"
+       "Aternative,if you would like to ompact al you<codeepor</code> statement into on li,youcan take thisapproah:"
+     "<blckquot>const capiizeStrin = strng)= <br> trnstrng.arAt(0).oUpprCa() + srng.sice1);br>}<r>const fo = \"ba\";<r>export {cpitlizStri, fo }<locqote>",
+      "Ethr appoach is perfectlyacceptble",
+       "<h>",
+      "Blow aretwovrables that I wato makeaailable for other ls o us Utiliing te firtway I emontrae <cod>eport</cde, exrt th twovarable."
+     ,     "head: 
+      "indowexprts  fction(){};"
+   ,
+    "chlegeSeed" 
+        \"setrct\"",
+      "consto = \ar\";",
+        "const ofar;
+  ],
+     "tess:[       "etsrInput > assertgetUsrInut('nde).match(/eprt\\sconst\\s+o\s+=\s\""g),message:code>foocde> s xpoed.');",
+     geUserIn => ssertgtUseInput'inex').match/exort\s+cnst\\s+boo\\s+=+\\s\"far"g, msa: code>bar<code> is expored.';"
+     ]
+   "ype": "waypoint",
+      "relesedO": "Feb 1, 2017",
+      "chlleneType":1,
+    "rasltion" {}
+   }
+    {
+     i": 587d7b8367417b25257"      "titl: "s * to Import Eveything fom ale",     descrition": [
+       "Sposo ve a file tat yu wsh t port all of i cotent nto te curet fi. hs an edoe ithe<dn>iport/d> synx.",      "Hees a exmple where te connts of a file amed <code>"ath_functions\"</ode are imortednoa file in te same diectoy:,
+      "<lockqot>impo * as myMathModulefrm \"mh_unios\"<r>yMathdule.dd(2,3)<br>yMathModue.subract(5);</oquoe>,       "An breaking down tat cde:",
+        "<blckquoe>iprt * asbjct_with_name_of_your_choce from \"file_ah_gos_re\"br>object_ith_na_of_youhoice.impote_function<blckqot>",
+     "You may use any nam followng the <code>import * as </co>poin of thestateent Iorder to utilize thi mehod, i requiresoject tha receies the mporte values. Fo here, you wilusete dot notation to call yorimredvalus.
+     "<h>",
+       "Thecodelow requires th conent of a fie, <cod>\"capitalize_srig\</codeouninthe sae drector s it imrte Add heaprorat<ode>iport *</code> staent tothe topof te fil, usng the object rovded"
+    ],
+    "head": 
+     "windoreqire = function(sr) ",
+       "if (s === 'apitaiz_strings') {",        reurn {",
+    "caitlize: str str.toUpprase(",       lowrcase: str = strtoLowerCase()"
+       "}}}"
+    ],
+   challengeSeed: [       "\"use sict\";",
+      "mySringModule.capitaize("foo";,
+      "mytringModuleloercase(\"Fo\");"
+   ],      "sts" [
+      eUserInut > srt(getUserInput('iex').mh(/imor\\s+\\*\s+as\\+mStrinodue\srom\\"capitalze_stings\"/g), 'essag Poerly uss <coe>impot* s</co> yntax.');     ,
+     "type": "aypoint",
+     "elesedOn": "Feb1, 207,
+    "chalngType": 1,
+   trnlatins": {}
+    ,
+    {
+   "i: 587d78c36717b2b51b58"
+   "itle" "Crea an Exprtlbck with exprtdeult"
+      "desciin": [
+        th <ode>expt</ode> esson, ou learned abot thesyntarfrred to as a<df>named xprt</df>Thislwed ou to ake mltipl functons ndvaiabes ilabe fruse in other files.,      Thee i aother <co>expr/co> yntax you ne to know, k sdfn>export deault</dn>. Usual yo will uei syntxi ony one value is being expredfrom a file. I is as ue t rae a fallback value o a fie or module",      "Here s a quick example of code>exort eflt</cde>:",
+        "<locqute>exortfaul fnctin add(xy) {br>  rturn x + y<br>}</ockoe>"
+     "Note: Sice <cde>export defult</o suse to declre a fallbk alue for amodule or ile, you c only hav oneval e a deaul xpot in eac mdule or fle. Addtionally, yo cnnot use<code>xpodefault<ode with <code>ar<coe> codeet</cde>, or <cde>const<co",
+     h>",     "Thefollowg function shouldb the llbac vale for te modul. lease add te sary codeo do s."
+    ],
+      "head [
+        "windo.eprts =fncin(){};"     ],
+     challngeSeed": [
+      "\"ustrict\";",
+      "fntonsubtrat(x,y) {return x y;}"
+      ],
+   "ests [
+      "getUseIpu = assgtUeInput('index').math/xprt\\s+defaul\\s+function\\s+subrat\(x,y\)\\s+rturn\s+x\s\s+y;}/g 'msae:Propr used of <codxport</ode> fallak.');"    ]
+      "ype": "waypoint",
+      "releasd": "Fb 17, 2017"
+    challengeye": 1,    "tranlations: }
+   },
+   {
+     "i" "8d78d36747b2b212b5",
+     "itle": "Imort Defaul xpot",
+    "descrption":[
+      " th latcallng, youearned abot<codexrtdeal/cod> and itues. It is important to not tat, tomor defautexport, younedto us adiffeen<coe>imot</code> syntx."
+       "In hefllowin example, e hve a funcion,<co>add/code>, thtisthe al exprtf a ile, oe>"mathuntions\"<coe>. Here ihw toimport it:",       "<blockquote>iport add rm \"math_futions\";<br>add(5,) //ill rturn 9</blockquote>,
+      "Thesntx diffrs in oek place the impoted val, <code>d</oe>, is not rounded by curlybrace, <coe>{}</coe>. nlike expored values the primary methodf imprtig a defu expot isto simply wrie the vlue's nam ar <code>import</code>.,
+    <hr>",
+       "In he fowin code, please imprt the defalexpot <code>subat</code>, fom he fle <code>\"math_ncins\"</ode> fund inthe sam directory as this file
+    ],
+     "head": [       "windowrequre =function(str) {"
+      "if(str == 'mat_fcions' ",
+      "return fnciona, b) ",
+       "retur a -b;",
+      "}}"
+    ,
+     "challngeSed" [       "\"use strct";",      "subtract(7,4);
+    ]      "tests": [
+      eUsrInput = assert(geUserIpt('index').matc(/impor\\s+sutract\s+om\\s\"ath_functions\"g) 'mesg: Properly imports <cde>export default</ode> mtho.');"
+     ,
+      ype: "wayoint
+     reeasedn": "Feb 172017,
+     "cllengeTye": 1,
+     "tanslation": {}
+    }
+ ]

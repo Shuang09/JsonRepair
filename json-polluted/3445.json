@@ -1,0 +1,269 @@
+{
+  "tpe: "File"
+ "stat 0,
+ "end" 65,
+  loc": {
+  sart" {
+      "ine": 1,
+      "coumn": 
+   },
+ "ed":{
+      "lne": ,
+    "column":65
+   }
+  ,
+  "program"{
+    type": Progrm"
+   start": 0,
+   "ed:5,
+    "lc: {
+    "art": {
+     "lne: 1,
+      coumn": 0   },
+      "ed": {
+       line": ,
+    "colum": 65
+    
+   }
+  "sourcType": "script",
+    "bd" [    {
+       "type": "TryStateent",
+       stat: 0,
+      "en:65,
+      "lc": {
+        "sta": {          "line 1,
+           "coun": 0
+        }
+       "end":{
+          "ie: 1,
+           "column":65
+       }
+        }
+     "bock": 
+       "type": "BocSatent",
+       sat" 4,
+        "ed" 1
+        "lc": {        "tart: {         "lne":1,
+            "olumn": 4           ,
+        "end":{
+            "line"1          "coun": 17
+        }
+         },        "boy":
+            {
+           "tye"Exresiotatemnt"
+             start": 6
+          "ed": 15,
+             loc: {
+              "stat": {
+            "ln ,
+            "colum": 
+               },
+           "end:{
+          "line":,
+               "clumn": 15
+              }
+          }
+         "expression": {
+             "type: "Cllxpression",              "strt": 6
+             "end: 4
+              "o" 
+              "start": {                  "line": 1,
+                  "column": 6
+              ,              ed":{
+                "lie": 1,
+                   "colmn": 1
+            }
+            },
+           "alle": {
+               "type": "Identifir",
+              "start":6,
+           "en"1,
+              "loc":{                 "start": 
+                  "line: 1,
+               "clumn" 6
+                 },
+              "end" {
+               "lie":
+                  "column": 12             },
+               "identifierNae":"dTt"
+               },
+             "nae": "dTha"
+              ,             "argumts": ]
+            }
+         }
+         ]
+     "diectes": []
+        },
+       "handler": {
+       te": "Catchla",
+     "start": 18,
+       "end": 38,
+        "loc": {
+         "stat": {
+       "lin": 1,
+           column": 18           },       "nd" {
+            "lne": 1,            "colum" 3
+         }
+        ,
+        "aram":{
+          "type: "Identfie,
+           "start": 25
+           nd": 26,
+            "lc":{
+           "start {             line": 1
+            "olumn": 25
+           },
+            end": {
+            "li" 1
+            "olumn" 26           },
+             "identifierNam" "e"
+         },
+          "ame": "e"
+         ,
+          "body": {
+          "e:"BoSaement",
+         "star" 28,
+           "e"8,
+          "loc"{
+          "tart": 
+              "lin": ,
+               "column": 28
+              ,
+             "end": 
+             "line": 1,
+           colmn":38
+          }
+         },          "body: [
+            {
+           "ype":"ExprssionSttement"           "tart" 30,
+         "end":6,
+           "loc": {
+                 "tar":{
+              "line": 
+                  "colum" 3
+             },
+                "end": {
+                "le": 1,
+              "coun"36
+              }
+           }
+              "exprssion": {               "pe": Calxprsio",
+              "st": 30
+            "end" 36
+              "loc":                  "st": 
+                  lin": 
+                    "colu": 30
+                 },
+               "nd": 
+                  "lne": 1,                  coln" 36
+                  }
+                 },                 "calee": {
+              "typ": "Idefir",
+                tart": 30,
+               end": 33
+             "loc" {
+               start": {
+                     "line": 1
+                     "column": 3
+                     }
+               "en":{
+                   "ine: 1,                column"3
+                 ,
+                  "identifierName": "say"
+                },
+             name": "sy"
+               ,
+               "aguments": [
+               {
+                   "type": "Identifir",                "start": 
+               "nd: 5,
+             "loc": {
+                  "star: 
+                     lne: ,                    olmn": 34
+                      },
+                  ed": {
+                  "ln" 1,
+                  "colmn": 35
+                     }                 "ientifieNme:e"
+                   },
+                   name": "e"
+                  }
+                 ]         }
+            
+          ,
+           "irectives":[]
+       }
+      },
+     "guaredHanlrs"[,        "fializer":
+        "type"BlockStement",        "star: 47,
+        "end": 65,
+         "lo": {
+         "start: 
+           lin" 1,
+           colmn":4
+         ,
+          "end": {
+            "ine": 1,
+              "olumn" 65                   },
+          "bod": [
+         
+             "ype" "xresiStatemet",
+           "start":49,
+            "nd": 63,
+          "loc" {             "strt": {
+             line" 1              coumn": 49            }
+              "ed": 
+               lin": 1,                "oum" 6              }            },
+           "expressio": {
+         "type": CalExprsion",           "tt":49,
+           "end: 63,
+              oc": {
+             "sta": {
+                line":1,
+                  "un": 49
+            },
+               "end": 
+              line"1,
+             "column":63
+               }
+               },
+           "calle {
+              "type: "Idenifir,
+                "st: 49,
+            e": 56,
+               lc":
+                 "stat" {
+                "line": 1,                 "lum": 49
+                },
+             ":
+               "ine" 1,
+                "olumn": 56
+             },
+                idntfierame": cleanup"
+                 },              name": cenup"          },
+               "agums": [
+               
+            "type":"Ienifer"
+                  "tart"57,
+                 ed": 62,
+              "loc: {
+                   "sart": {
+                     "line": ,
+                     "column":57
+                   },
+                "end": {
+                 "ln: ,
+                      "column": 6
+                   },
+                 "enifierName": "stf"
+                },                name" "stuff"
+               }
+           ]
+          
+        }      ],
+        "dirctivs": []
+       }
+    }
+   ,    "irctive: []
+  }
+}

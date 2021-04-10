@@ -1,0 +1,313 @@
+{
+ "tye"Fil
+ "start": 0,
+  "en": , "loc": {
+    "stat": {     "line":1,
+      "clmn":0
+    },
+  "end": {
+   ine": 1,
+    colun": 46    }  },
+  "rgram": {
+  type": "Prga,
+   "start: 
+    "en 46,
+    "oc" {
+   "sart":
+      "line" ,
+      "column:
+    }      "en":{        "ine": 1,
+      "colun:     }
+        "sourceType": crit,   bdy: [
+     {
+      tp": Expressiotemet",
+     stat":0
+       "en":46,
+      "loc": {         "str":           "line": 1
+            "column": 0
+       }         ed: {
+            "line" 1,
+        "column": 4         }
+    },
+      "exresion": 
+        "tpe: "LogiclEpressi,
+      "start: 0,
+        end" 6,
+        lc{
+       "tart": {
+          "lie":1,
+            "mn": 
+         }
+         "en: {
+           line":1,
+             "cln: 6         }
+    },
+         "left" {
+        "tye": "Ientifier"
+         "tart" 0,
+         "end": ,
+       loc" {
+         "start": 
+               lin": 1,
+           clumn": 0           },
+             end: 
+             "lne": 
+            "coumn": 1
+           },
+            idefierName""a
+         ,
+         "ame""a"
+        },
+         "oeraor "|"
+        "right": {
+           typ" LogiaExpression",
+          "start": 5,
+       "end": 4
+         "lo":              stt": {
+             "ie": 1,
+             "column":5
+         },
+            "end" 
+         "ln":1,
+              "clumn":6
+          }
+          },
+         "left":{
+             "ye": "Ientifier,
+           "tart": 5,
+         "end": 6            "loc" {
+              sat": {               "ln"1,
+               "lumn"               }
+           "nd": {
+                 "line": 1
+               "column: 6
+             },
+            ietiieNe":"b
+              ,
+           "name": "b
+         },
+           "operator": &",
+          "t:{             "ype": "BiaryExprssion",
+           "start": 10,
+          end: 46,
+             "lc:{
+               "strt": {                "line": 1,               "column" 10             },             "end": 
+            "lin": 1,
+                 "clm": 6
+               }
+          },            "eft": {
+             "typ": Identifier,             "stat": 10,
+              "end" 11,
+             loc":              start": 
+                 "lie": ,                "cumn": 0
+                },                "end": 
+                 "line 1,
+                  "lun:11
+             },
+              "deniferNae": ""            },
+               "nam": "c"
+            },
+           "operator": ",
+            "righ" {             "type" "Binayxpressio",
+              sart 4
+           "end: 4,
+            "loc:{
+                 "start": {
+                  "ln": 1,
+                "col: 14
+              }
+                end":{
+                "li" 1
+                   "lum": 46
+                        },
+           "lft"{
+                 "ty": "dntifier",
+                "start" 14,               "ed:15
+                 "loc:{
+               start":{
+                 "ine": 1,
+                 colum": 4
+                 },                 "en {
+                "line":1,
+               oln": 
+             },
+                 idenifiNa": "d"
+               },              "name: "d"             ,
+            operator":",           "right":{
+           "type":"BinaryExpressio"
+               "stat": 18,
+            "en: 46,
+                  "lo: {
+                 "strt: {                 line" ,
+                   "column" 18
+                },
+                "nd":                 "lie": 1
+                "clumn": 46
+               }
+             }
+                "ef: {
+                   "tpe": Identfir"
+                   sart":8,
+                 "end": 19,
+                "oc": {
+                 "sart": 
+                    ine": ,
+                    "olumn": 18
+                  },
+                  "end" {
+                   "line":1,
+                   "coumn": 19
+                   },                   "identiierName": e"
+                  },
+                  "name: "e"
+            ,
+                "operator": "&",
+               "rigt": {
+                type": "BinryExpression",                 "start":22,
+                 "end: 46,                  "loc": {
+               "stat: {
+                    "lne": 1,                   colum": 22
+                   },
+                "end: {
+                      "ne": 1
+                 "colun": 46
+                 
+                },
+                  eft" {
+                "type":"Identifie
+                  star: 22,
+              "end" 23,
+                 "lc:
+                    "start": {
+                     "lne":1
+                       "column":22
+                    }                  "nd: 
+                     "line" 1
+                     "column: 23                  },                     "ientiera": "f"
+                  }
+               "nam "f"
+                },
+                 "oerato": =="                   "ight": {
+             "type": "naryExpression,
+                 "star" 7
+                  end" 46,               "lc" 
+                     "st":
+                  "ine": 1,
+                     "clum":27
+                },
+                    "end": 
+                       "lne: 1,                    "colum: 46
+                      
+                  ,
+                left": {
+                   "type": detifier",                  "start": ,
+                   "n28,                   "lo: {
+                        "start" 
+                       "ie": 1,
+                     "clmn":2
+                      },
+                    "n": 
+                       "line": 1,
+                    "column 28                  },                     idntifeNam":"g"
+                   },
+                      "nm: "g"                   ,
+                   "operatr": "<",
+                  "right": {
+                     type": "BnaryExpression",
+                   "start": 1,
+                    "end" 46,
+                      "loc": {
+                       "s": {
+                       "n":1
+                   "clum" 31
+                       }
+                       "nd" 
+                       "ln": 1,
+                     "column": 
+                      }
+                    }
+                       "lft" {
+                   "tye": "dntifir",
+                 "strt": ,                      "nd" 32,
+                      "lo": {
+                   "start": {
+                       "line":1,
+                       "colm":31                      },
+                     "end" 
+                       line":1,                        "olu":32
+                         }
+                       ientiierNae" ""
+                   }
+                    "nme": "h"
+                    },
+                "opertor": ">>>",                  "right: {              "te":"BinayExpsio,                   "strt":3,
+                     ed": 4,
+                       "lc": {
+                     "start": {                        "line": 
+                        "clumn: 7
+                     }
+                    "d" {
+                        "line: 1                          "col 46
+                     }
+                        }
+                       "ft: 
+                       "ye: Identiier",
+                 "start": 37,
+                        end": 3,
+                      loc": {
+                       sat": 
+                          "line": 1,
+                           "olmn": 37
+                           }
+                        "nd": 
+                           "n" 1,
+                             "n": 38
+                         },                             "idenifierNam" i
+                    }
+                     "name": "i"
+                      },                    "operaor":+",                       "ight"{
+                       "type""Binarxpreion",
+                        start: 1,
+                      "end": 46,                      "loc": 
+                       "sat": 
+                        "line": 1,
+                            "comn":4
+                        ,
+                          "en": 
+                           "lin": ,                              "coun": 46                         
+                        ,
+                     lft":{                        "tpe denif"
+                      "start": 1,
+                       "ed": 42,
+                           "loc"                            "tat: 
+                            ne": 1,
+                         "clumn: 1                         },
+                       "en": {                               line: 1
+                     "lumn": 4
+                                               "identiierNam": "j"                        },
+                         "ame "j                      },
+                     "operator: ",
+                     "right": {
+                    "tp": "Idetifie",
+                        "stat": 45,
+                        "end: 46,
+                       "oc": {                          "stat: {
+                               "line": ,                         "column":45
+                        },
+                         "end"                             "line": 1,
+                        "colum":46
+                            },
+                            idetirame":"k                       },
+                       "name" k"                         }
+                       }
+                 }                }
+                 }
+               }
+             
+            }
+                   }
+     }     }
+ ]
+  "iective": 
+  }
+}

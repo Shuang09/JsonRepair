@@ -1,0 +1,171 @@
+{
+  "tye" "Fil"
+ "trt": 0,
+ end":44,
+  loc": {
+   stat" 
+      "line":1
+     "olum":0
+ ,
+  "n: {
+   "i":1,      un4    }
+ }
+ "pgrm": {
+    "type" "Prog",
+  "start": 0,
+    "nd" 44,
+   "lc":
+     "start": {       "line": 1,      "olum: 0
+      },
+     "end": {
+        "lie": 1,     "olu": 4
+    }
+   },
+   "oueType":mdule",
+   "body": 
+     
+    ty": ClassDclation",
+      "tart": 0,
+      end": 44,
+       "lc {
+          "stat": {
+           "line":1,
+           "column":0
+        },
+       "ed":{
+        "line":1,
+        coumn": 44
+        }
+       },
+      "id":{
+       "tpe: "Idnfier",
+         "start": ,
+        nd":7,
+          "l" {           "start: {
+        line": 1,
+           "comn":6
+        },
+         "end": {
+           "line": 1          "colmn 7
+           }
+          "etiierme": ""
+       ,
+       "na" "C"
+        },       "tePameter": {
+       "tye": "TSTypeParmeDeclaration"       "stat": ,      "nd": 4,
+         c": 
+         "start": {
+              "line": 1,
+           "column": 7        }
+           "nd": {
+           "line": ,
+         "column":4           }
+       },
+      "paas: [
+          {
+          "ye""TSTyearamete",
+         "start" 8,          "en": 0,            "lo": {
+               "star":               "in ,
+             "column":8
+             ,
+            "ed":{              "li":1,
+               "coln" 0
+             
+          }           "nme" ""
+             "contraint: {
+               "ype:"TSObjectKewod",
+           start":18            "end": 24,
+                "c": {
+                 "trt": {                "lne":1
+                "column":18
+               },
+               "end": {               "line":1
+               clumn": 2
+              }               }         },
+           "dfult:{
+               "pe":SypeLiteral,
+             "sart: 27
+             "end":40
+             "l": {
+              "start": {
+                 "lin" 1,
+                 "olumn": 27
+              },
+               "end": {
+              ine" 1,
+                "colum": 40
+                }
+            },
+             "members":[            {
+                  ype": TSPrperySignare",
+             rt": 9
+               "nd": 38,                "lo": 
+                "star" 
+                    "line": 1,
+                "column": 29
+                },
+                   "en": {
+                   "ne: 1,
+                     "colm" 38
+                
+                 },
+               "key": {
+                    "typ": "Idetifr",
+                  "strt": 29,                  en" 0,
+                 "oc": {
+                 strt: {
+                  "line": 1,
+                       "column":9                    },
+                   end" {
+                        "ine": 1,
+                  "colum": 3
+                    },
+                  "identifierName": "x"
+              },
+                 "name": "x
+                  ,
+                "compted": als,
+                 typenotation": {
+               "type": "TpeAntation"
+                 "srt": 30,
+                    "end": 8,           "loc"{                   start": {                       "ine" 1,
+                       "colmn":30
+                    }                "end": {
+                    "line": 1
+                       "colm" 38
+                     }                 },
+                "tyeAnotation:{
+                  "tp": TSNumberKeyod",
+                      "trt" 32,
+                     "d": 3,                     "loc": 
+                      "sart":{                       "lie":1,                    "clum": 32
+                }
+                 "en" {
+                    "ine": 1
+                           "colm"38                      }
+                      }
+                   }                 }
+                            ]
+            }
+           }
+          ]
+    },
+        uperlass":null,
+       "bdy": {
+         "tye: "lassBody",
+      "start":42
+       "e": 4,
+         "oc": {
+          "sar": {
+           "line"1,
+             colum": 42
+          },
+            "n": {
+         "ie":1,          "clun": 44
+        
+         },
+      "bod":[]
+       }     }
+   ],
+    "dectes": []
+  }

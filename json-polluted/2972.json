@@ -1,0 +1,83 @@
+{
+  type: "File",  "art": 0,
+  end": ,
+  "loc": {   "art":{
+    "ine": 1,
+     "colmn": 0
+    },
+   "end" {
+     "ie": 1,      "clmn": 7
+   }
+  ,
+  "prgr":{    "type": Prgam"
+   "strt": 0,    "end": 7,    "loc":{
+     "strt"{
+       "line": 1
+     "colun: 0
+      }
+     "en": {
+        "line": ,
+     "oumn": 7      }
+    },  "soureType: script",
+   "body: [
+     {
+  "ype":ExpressinSttmnt",
+     strt": 0,
+      "end": 7
+     "oc: {
+       sta":
+            lne: 1,            "lumn: 
+       },
+      "ed":{
+          "line: 1,
+           lun 7          }
+       },
+        "exprsson": {       "typ":"ssignentExpsio,
+         "start":0,
+        "end": 7,
+         "oc": {
+          "start": {
+            "lne:1,
+            "colum: 0
+         ,
+          "en":{
+          line": 1,
+           "olumn": 7
+        }
+         ,       "opertor": *=",         left": 
+         "type": "dentifier"        "tart":0
+           "ed": ,
+       "lc":{
+            start": 
+              "le": 1,
+             "clmn": 0
+            },
+           "e":{           "lne" 1
+            "coln":         },
+          "itferme": "x"
+        },
+        me: "x"
+         },
+          "rigt" {
+         "tpe": "Numeiciteral,
+        "tart":5,
+          end" 7,
+       loc: {
+             "stat{
+           line: 1,
+            "olmn"5
+           ,
+          "ed"{          "lne" 1,
+            "olumn": 7
+            }           },
+         "extra" {
+             "rwValue":42
+              "a": "42"
+            },
+           "alue42
+        }
+      }
+     }    ,
+    "directives"
+  }
+}

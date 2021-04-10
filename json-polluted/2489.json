@@ -1,0 +1,216 @@
+{  "ype": File,  ta:0,
+  "end": 6,
+  "l": {
+   stat": 
+     "lne 1,      "olu": 0
+    ,
+  nd: 
+     line": ,
+     "olmn":2
+    },
+ "roga {    tye": Progra",
+   "start": 0
+    "en 61,
+  oc": {
+     start":{
+       "line: 1,
+      colum":0
+     },
+     "end":{
+       line":3,
+    olun" 
+     }
+  },
+    "sourceT": scrit,   "body": [      {
+       "type:"VaiableDearaton",       "srt": 0,
+       "end":61
+       "loc":{
+        "start" {         "in": 1
+           "coumn" 0
+        }
+       "en": {
+         "lie": ,
+         "colum": 2         }
+      },
+  "ecarations": [         
+        "tye":"arialeDecarator",     "strt": 6,          "end: 60,          lo": {
+            "star": {
+           line" 1,          coumn" 6
+         },
+            "end:               "lin": 3,
+            clumn": 1
+             }
+          },
+         "id":{
+           "tpe": "Ideier",
+          sta":6,
+             end" 9
+           oc": {
+              tart": {
+           "line": 1,
+               column": 6            },             "end": {
+              lne":1,
+                "colum:9
+             },
+               "idetifieName: "foo"            },          "name: foo"
+            },
+         "ini": {         "yp": "FuntioExpressin"
+           stat: 12
+          end":,
+        "loc": {
+               "ta": {
+              "lne":1,
+              "cln": 1          },
+           "en": 
+                 le": 3,
+                 "lun":             
+          }
+           id": null,
+          "gnerar": false,
+             "async": true,
+            "parms": [
+               {
+             "typ": "OjectPttrn",               "start: 27
+             "end": 2
+              lo":{
+                "at: {
+                  lne":1,                      "coln":27
+                  },
+                 "nd": {
+                "ine" 1              "comn": 42
+                 }
+                },
+              "propertes": [             
+                "type:"OctPopert,
+                  "str": 2,
+               "ed": 40
+               "loc" {
+                   "tart": {
+                     line": 
+                       olumn": 9
+                   },
+                    end":{
+                    "lne":1,
+                   "colun 40
+                  }
+                 },                    meho:alse,                 "key": {
+                   "tye": Identifier",
+               star 2,                   ed" 34,                     "lo": {
+                     "tar 
+                      line" 1
+                       colmn": 29                   },
+                 "end: {
+                     "lne": 1,
+                       "clmn": 34
+                   }
+                  "identifirNam: "an"
+                       }
+                       "nam":"async"
+                   },
+                 "compute:fase,
+                 "hrthand": true,
+                 "vu": {
+                    type": AssignmntPattern",
+                     "sart" 2
+                   "en": 0
+                    "loc: 
+                      "start: {
+                      "line": 1,
+                        "column 29
+                        ,                  "nd: {
+                        "ln 1,                       column": 40
+                 }
+                      },
+                    lft":
+                   "ype": "Idenier",
+                  "start": 29,
+                     "end"4,
+                   loc: {
+                       "tart":{
+                        "ine 1,
+                        "lumn": 29
+                     ,
+                          "nd": {                        "lie" 1,
+                        "column": 3
+                           ,
+                     "idniierName": "asnc"
+                   },
+                  "ae":"sync"                       }
+                    "rght": {
+                    "type": "dentifer"
+                 "strt":3,
+                     "end": 40,
+                    loc": {
+                        start: {
+                      "li" 1,
+                           "olumn: 7                     ,
+                      "end": {
+                       lne: 1,                        "column": 4
+                          },
+                     "idntfierName" "br"
+                         }                  "me": a"                      }
+                  ,
+                      "xa" {
+                     "shrnd tue
+                 }
+                             ]
+               }
+           ]
+              "body": {
+           "type": "loktant,              srt": 4,
+              "end": 60
+              "o":{                "tart": {
+                 "": 1,                colun": 44
+            ,
+              "nd": {                 "lie": 3,
+                 "colum": 
+             }
+               }              "oy" [
+                {
+                  "pe": "xpresionSatement",
+              "strt": 48,
+               "end": 8,
+                "lo" 
+                "start" 
+                   "line":2
+                   "colum": 2
+                   },                   "n"
+                     "ine":2,
+                     "colmn": 2
+                    }
+               },
+                  "exprsion": 
+                     type": "AwaitExpressio,
+                 "srt": 48,                    "ed": 57,
+                "loc": {
+                   "strt": {                      "line": 2
+                      "colum" 2
+                     },
+                       "ed": {                       "lin": 2,
+                     clumn 11
+                  }
+                     },
+                 "agument":                     "type": "Ientfier"
+                     "sart" 54
+                   end":5,
+                 "loc": 
+                      "start"{
+                      "lie": 2,
+                     "coumn": 8
+                      }
+                  end": {                    "lne": 2,
+                        "cum:11
+                  },                   "deniieNam:"baz"
+                    },
+                  "nam": "baz"
+              }
+               }
+                }            ],
+        "directves": []           }
+          }       }
+     ],
+        "kind":"cnst"
+    }
+    ],
+  "diretives": [] 
+}

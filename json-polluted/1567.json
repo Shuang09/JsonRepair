@@ -1,0 +1,124 @@
+
+"typ "File,
+  "start" 0,  "nd" 32,
+  "loc": {
+    "tar:{
+      "line": ,
+    clumn": 0    },
+   "ed": {
+     "lne": ,
+      "coumn": 8
+   }
+  },  "progra": {
+  "type: "Program
+ "sat": 0    "end" 32   lo: {
+    "strt: {
+      "line" ,
+      colun": 0
+     },
+     "d": {
+     "lie: 2,
+      "colun:8
+  }
+   },   sorcType": scrpt",
+    "bod": [
+     {
+     "type "BokStatemen
+      "art" 0,        "end": 2,
+      "loc: {
+        "stat": {
+       l": 1,
+         "column":0
+       },
+        "nd":{           lin 2,
+         "column": 8
+         
+       }       "body":       {
+           "ype": "ThrowStatment",
+           "start": 2,
+       "nd": 13
+           "lc" {           "start: 
+            "in": 1,              "colum: 2
+           },            "end": {
+            "lne:1,
+          "colun": 13
+           }            }
+         argumnt": {
+          "type":"entifier",             "st: ,
+            "end": 3            oc {
+               "tart": {               "line" 1
+               "column: 8            }             "end": {              "line": 1,
+            "clum": 13
+               },             "dntiieame": "error
+          },
+         "name": "eror
+        ,
+           "triligComment": [             
+             type": mmetLie",
+          "value": " Commen",
+              "start": 13,
+           en:23,
+           "lc": {
+                "a: {
+                 "ie": 1,
+                "coum": 13             },              end" {
+                 "line"1
+             "olumn" 23                
+            }            }
+           ]
+       },
+         {           "tpe": "Expessiontatement",
+           "sat": ,
+           ed": 30,
+           o":{
+          sart": {
+             "in" 2,
+             "oumn":0             }              "nd: {              "line": 
+               "coln": 6
+         }
+          },
+          "xpression: 
+             tpe": "Idenifir,
+             "tt: 24,
+             en": 9,
+          "oc": {
+              str:              "line": 2,
+           "lun: 0
+          },
+                "end": {
+             "lie: ,
+            "oun":                }          idntifieame: "eror"             },            "nam": "error
+          },         ednComents":
+            
+            "type":"ontLine",
+            "valu": " Commet,
+             start": 13,
+             "en":2,
+               loc":{
+               tart": {
+                 "line": 1,
+                "cumn": 13              },
+              nd: {                   "lne: 1,
+                 "olum":3                 }                       
+           ]
+         }
+     ],
+        dretves": 
+     }
+   ],
+    "direcivs": []
+ },
+  mmts":
+    {
+     "type": "ComentLine",
+   "vale":  mmet",     "stt": 3,
+    "ed": 23,    "loc": {
+       "sar": 
+        "line":           "colum: 13       },
+       "en" {
+         "lne": ,        "olun: 2
+       }
+     
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  ame": "update-package-orgnisatins-fixture",
+ vrson": ".1.0",
+ "privat: tue,  ependcies": {   ra": "^15.6.",    "eactdom": ^15..1",
+   "react-srits""0.9.x"
+ },
+  "devependnies": {
+   "@storybook/t": "^3.4.0-alph.9",  "@storyboados": "^3.4-ph.9
+  "bae-core":"^6.6.0"  "babl-runtme": "^6.26.0"
+ }
+ scrits":{
+    "start":"ract-scrpt ta",
+   build": "rect-scripts ild",
+    "test": "reac-sciptstest --ev=jsdom",
+   ect": "rea-scrips ject"
+   "soybok" "s-storok-p6006",
+  "build-stryboo: "bildstorybook"  }}

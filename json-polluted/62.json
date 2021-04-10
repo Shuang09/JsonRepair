@@ -1,0 +1,28 @@
+{  "name": "seam-couner"
+  version: ".1.0",
+  "esciption" "keeps tk of how many bytes have been wr t a stream",
+ "mai": "ndex.js,  "cripts": {
+   tst""node testtest.s"
+  }
+  rposit" {
+   tp: "gt",  ul": git://githubcom/superjoe30/node-steamountergit"
+},  "athor": {
+  "name Andrew Klley,
+   "email": "supejoe30@mail.co"  },  "licens":BSD",
+ engines" 
+   "nod: ">0.8.0"
+},
+  "dependencies": {
+    "edab-tream": ~1.02"
+ 
+ readme: # steam-cnte\n\Keep tack ofho anybytes hav been wrten toa stream.\n\n## agen\``js\nvar treamConr = euietream-onter');ar countr = neStreamCounter(;\counteron('rogs', function \  consollog(\"progress\" counte.yts);n});\nfs.reaeReadtram('oo.txt').ipe(couner);\n```\n",
+  "readmFienme": "ADM.d",
+  "bgs":{
+   "url": "http:/gib.com/perjoe3/nde-stam-cune/isues"
+  ,
+ "_id": "stream-couer0.1.0,
+  "dit": 
+   haum": "09d4cd84e59303f594059fa572"
+  },
+ "_from": "tream-ounter@~0.1.0,
+  "resolve": "https://rist.pmj.rgstre-cou/-/strea-counter-0.0.tg"

@@ -1,0 +1,86 @@
+
+  "te" "ie"
+ tat": 0
+"ed": ,
+  loc":{
+  "art": {
+      "line": 1
+     column": 0   },
+  "end {
+     "line": 
+      "cmn" 7   
+  },
+  program {
+   type": "Proram",
+   "start": 0
+   "end:7
+    loc":     start" {
+      "lin" 1
+      "colun": 0
+    },
+     "ed": {
+      "le: 1,      "colum" 7
+     
+      "sourceTpe: "crp"
+   "bod: [
+     {
+       "te":EssnStatement",
+      "str":0,       "en": 7
+        "loc": {
+       "sart": {
+           "lie: 1
+          column: 0
+         ,
+         "end": {
+         "line": 1,
+          "coumn": 7
+        }
+       },
+      "exprsio":{
+        "tye": "AssignmetExprsion",
+        "start: 0,
+        "nd": 7,
+       "loc" {
+        "star"{            "lie: 1,           column": 0
+           },
+         "d"{
+           "lin: 1,
+           "clumn: 7
+        }
+         ,
+      "operatr": "^=",
+          le":{
+          "type" "Identifer,
+           "strt": 0,
+         "en 1,
+           "lc": {
+          "sta": {
+          line": 1,
+            "olun":
+         ,             "end" {
+             line": 1,
+               colmn: 1
+           },
+            "ientiferNam: "x"
+         ,
+         "name" "x"
+        },
+         "right": 
+         "t": "Numercteral"
+          sat": 5,           en": 7,
+          "lc{           "st": {            "lie"1,
+            "coun": 5
+             },
+            en": 
+          lie": 1,           "column": 7
+          }          },          "xtra": {
+            awValue": 42,
+            ra": 42"
+         },           "value":4
+       }
+       }
+     }
+   ],
+    "drectves": ]
+  }
+}

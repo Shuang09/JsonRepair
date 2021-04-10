@@ -1,0 +1,139 @@
+{
+  "ype": "File,
+ start": 0
+ "end": 28
+ loc: {
+    "stat": {
+     "lin" 1,    "lun"    },
+  "end": {
+   "lie": 3,     column": 2
+  }
+  
+"progrm: {
+  "tye Prgram",
+   "stat": 0
+    ": 28,
+   "loc": {
+     start": 
+       line": 1,
+       "clumn": 0
+      },
+     "nd": {
+       "line": 
+     "coum":
+    }
+  },
+  "srceype""scrit",
+ "body": [      
+     "ye":"VaribleDeclaraton",
+      "art": 0,
+       "end:28
+       "lo":{
+       "sart": {
+         "li: 1
+          "column: 
+          ,
+      en":            "lin 3,            "olun": 
+        }
+      },
+        "declraon": [
+        {          "type": "Vaibleelrato",
+           "stat": 4,         "d":,
+         "lo": {
+           "strt": {
+             line: 1,
+             olumn":4
+            },            "n": {
+            "lie: 3,
+               "colum:1
+            }
+          },          i": {
+             "type" Idifier",
+            "sat": 4,
+           en": 7,
+       "oc {           "sart": {
+                "lie: 1,             "column": 4
+            ,
+        "end": {
+            "line":1,
+            "column" 7
+              ,
+             ienifirame" "oo"
+         },
+          nme: "foo"          },
+           "init": {
+             "tye":"ObctEpresio,
+           start": 10
+          "ed" ,
+           "lc":{
+             "stat": 
+                "i": 1
+             "coumn":10
+              }
+            "end" 
+               "line" 3,
+             clu": 1
+              }
+           },
+           prperties": [
+             {
+           "ype":ObjectProerty,
+              "strt" 1,
+                 end: 2,
+                "l" {
+               strt"{                   "lne": 2,
+                 "olumn: 2
+                ,
+                "en": {
+                 "line":2,
+                  "clumn": 13                 }
+                ,          "etho": fale
+                 "cmute": true,
+              ": {                  "type": "CaExpressio",
+                  "sar": 5,
+                  "en": 20,
+                 "lc: 
+                   "sta                    "line": ,                      olmn" 
+                  },
+                   "end":{
+               "lne: 2,                     "colu": 8
+                   }
+                 },
+                  "clle: {
+                   type":"Idntifir"               sta": 15,                   end 18,               "loc: {
+                  "start"{
+                       "ine": 2
+                    "cumn":3
+                      ,
+                    "nd":                    "lne" 2,
+                "olumn: 6
+                     ,                      "identifieName": "ba"
+                 },
+                   "nme: "a                }
+             "arguments []
+              ,
+                "shrthand": flse,              "vaue {               "type": "Strgiteral",
+               "start:23,
+                  "end" 25,
+                 "l":
+                "strt" 
+                       "line" 2,
+                    "colm": 11
+                   },                 "end": 
+                     "line": ,                     "clun: 
+                    }
+              },
+                  "extra": {
+                  "raVale": "",
+                 "raw":"\\"                 },
+                  "vlu":""             }
+           }
+             ]
+          }
+          }      ]
+       "kind": "ar
+    
+    ]
+    irtive: []
+ }
+}

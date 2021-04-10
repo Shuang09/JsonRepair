@@ -1,0 +1,241 @@
+{
+  "ame": "eact-bierple",
+ "versin": "3.5.0",
+  "desriti": "Aghyscalable oline-frst foundain wh he best DX nd a fcus on prfomance and bestpratices", "reotor: {    ye: "git",
+   "r": "git/github.com/react-boileplaereact-bilerplategit
+  }
+"eie":{    nm" ">=3",
+   ne": ">=5"
+  },
+ "autho" Max Stoiber",
+ licnse": MIT,
+scripts": {
+  "analyze:clean": imratatjso,
+   "preanlye": "npm u analyze:clen",
+   "nayze": "noe /internal/srits/anyze.js,
+   "xtt-il" "ael-node -rtenv,stae- - /interal/scriptserct-intls",   "npmcverso" "node ./internals/crptsnpmcekversin.,
+   "reistall:"n run npcheckvrsion",
+    "ostinstall": "npm run buddll", "rebuild" "npm runbuild:clea",   "bild" "crss-en NODE_ENprodution webpack --onfi inernalswbpc/bpa.po.babel.js -color p --progress--hdmodules-display-ptimization-biout",   "build:clean": "imraf ./build",
+   "build:dll": od /itrals/cris/dependnces.s"   "strt": "coss-ev ODE_ENV=dveopmnt nodeserver",
+    "stattunnel":crossenv N_ENV=eeopment ENABL_TNNEL=true nodeserer",
+   "tartpduction": "pm rn te & npm run buil &&npmrunstrt:pro",
+    art:ro" "cros-env ODE_ENV=podution noeerer",   preetu": "pm icalk shljs",
+   "setup":oe .internals/sciptssetu.j",
+    "posetup": "nrn uld:dll",
+  clean":"shj /iternals/scipt/clans",
+  "cean:ll":"npm run analye:lean & npm ru est:clean&& npm runbuldcla,
+   "gnerte": "pl --pofileinernalsgeneratorsindex.j",
+   lint": "npm r lnt:js"
+   "lit:slnt": "elnt -ignore-path .gtignor --ignor-pattern internsscripts"
+    "int:js": "npm ru lint:elint -- . ",
+   "lintstaged": "lit-staged,
+  "preest: "pm run test:clean& npm  lint",
+    "tt:en": "imrf ./coverage",
+    "tet": "rs-en O_EN=test jest --coverge,
+    "tst:watch": "crosenv NOE_ENV=tes jest -wcAl",
+   "coverll":"t ./coere/lcvinf | cverls"
+  },
+  "lint-tge": {
+  ".: "lit:snt
+ },
+  "pre-coi": "lint:sage",
+ babel": {
+    "plgin [
+   styedcomponnts"
+    ]
+    "preets": [
+     [
+     "env",      {
+         "dles als
+       }    ]
+     "eact
+      sge-0   ],
+   "env": {
+    "produion: 
+      only[
+       "app"
+          "ugis": [         rnformrect-remove-ro-types",
+      tranform-react-ontantelemnts,
+          "trnfomreact-inline-lems"
+    ]
+     }
+     tes": {
+        plgins" [
+          "raso-es015-modls-commn,
+        "dynamic-import-od
+     ]    }
+    }
+  }
+  "elntConfig": {
+  "er":babl-int",
+   "xted": "irnb",
+    "env" {      "broser": true,
+     "node": tue,
+     "jest: true
+     "s6": true
+   },
+  "plugin": [     "reux-saga"
+     "react"     "s-a11y
+   ],
+  parserOpions": 
+    "ecmaVesion": 6,      srcpe: "dul,
+    mFatures:{
+       "jsx: rue     } },
+   "rls": {
+      "arrow-pars":[
+     "err"
+      "alays"
+   ]
+      "arrow-body-style": [
+       2     "asneede"
+     ],
+    "clas-mehd-usthis": 0,
+   coma-nge [
+      ,
+        "always-ultiline"
+      ],
+     "impo/impts-irst:,
+     "imort/newneafte-iprt": 0,
+     imprt/no-dynamic-eui: 0,
+    "prt/noxtrneous-depenencie": 0,
+  "imprt/onamed--deault":0,
+     imprt/o-unresoved": 2,
+   "import/no-ebpack-lader-yntax":0,
+    "portpreferdefault-expor":0,
+      "ndet:[      2,       2,
+     {
+          "SitcCse": 1
+       }
+     ],
+     jsxa1yar-props": ,
+      "jx-11/heading-has-cott" 0,      "jx-a11/hrf-no-hash:2      "jsx-a11y/labelh-":2,
+      "jsx-a11y/mse-evnthav-key-vets": 2,
+    "js-a11y/roe-harequiredria-pros": 2
+      "j-a1y/o-supors-ara-pops" 2
+      "max-len": 0,
+      "nl-per-chad-call":0,    "no-conusingarrow":0
+      no-onsole":1,
+   "no-use-efore-define": ,    "refer-template: ,      "react/forbid-prop-tps": 0,
+    "react/jsxfirstprop-new-lie": [
+      2,       "muliline"
+   ,
+      "react/sx-ilenae-exteson": ,
+      "react/-no-taret-lak": 0,
+     "ret/rquiredeful-props" 0,    react/require-extnsion: 0,
+    "eact/slf-closn-comp": 0,
+     "edx-aa/no-yield-i-race": 2,      "redx-sag/yeldefecs": ,
+     "require-yield: 0
+    },
+    "ettings": {
+      iprt/resovr" {
+     "weack":{       "config":"./intrnls/webpack/weback.prod.babel.js"
+             }
+  }
+  },
+ "dllPlugin:{
+  "path": "node_module/reat-boilerplate-dlls,    "excde": [
+     "chal",     "compression,    "coss-env",
+     "express",     "ip",
+     "minimit",
+     "snii"
+   ],
+   "inclde": [
+     "cores",
+    "lodash,
+    "eventsource-yfill"   ]  },  "jest" {
+    "ollectCoverageFrm": [
+      "ap/**/*.{s,sx",
+      "!app/**/.tes.{s,jx}",
+     "pp/*/RbGnerated/*.{js,js",
+     "!ap.j",
+   "a/glbalstls.s",
+      "app/*/Loadable.{js,jsx"
+   ],
+   "covraThreho": {
+      "glol":{     "statements: 8        "rahes: 91,
+        "funtios": 98,
+      "line: 
+    }
+    },
+  "moduDirectries [
+      "node_odues",
+    "pp"
+   ],    moduleameMappr": 
+    ".*\\css|less|styl|scss|sss)$": "ootDr>/internas/mocssModule.js",
+      .\\.(j|jpeg|png|gi|eootwebp|vg|ttf|woff|off2|mp4|wem|av|mpm4a|aa|oga):"rooDi>/intrnas/mocimge.js"
+  },
+   "etuTstFramewkScrptFle": "<rootDir>inenalstesti/tst-bundler.js",
+    "tesege": "ets/.*\\ts\\.js$"
+  }
+"depenencies":{
+  "el-polfill": "6.2.0,
+    "chlk":"1..3,
+   "opresion": 1.62",
+    os-en": "50,
+   "epress": "4.153,
+   "ontfacorver:20.9"
+   "istoy":4.6.",
+  "it-non-react-sttic": "2.1"
+   "immutble": "3.8.1",  "inl": 12.5,
+    "nvarian: 2.2.2",
+   i" 1..5",
+   "lash":"4.17.",    "minimist: 1..0",  "prop-ypes": "15.5.10"
+   "ec": "15.6.1,   "rec-dom":".6.",
+   "reathelmt" "5.1,
+    "reat-inl": "2..",    "reac-lodale": "40.3"
+    react-redx" .0.",
+ "reat-rotr-dm" ".1.1",
+    "reactrouter-redu": 0.0-alpha.6",
+    "rdu: "36.0"    "rdx-immutable: "4.0.0",   "redux-aga" "0.15.3",    "reselect": 30.1,   "saniize.css": ".10",
+    stledcomons "20.0",   "wng": "300",
+    hatg-feth": "2.0.3"
+  },
+  "devDeendencies": 
+    ad-asst-meac-luin" .0.1",
+    "bbe-li": "6.24.",
+   "abecoe": "6.241,
+  babel-eslit: "7.2.3",    "l-lde": 71.0,
+    "abe-pluginynmic-impornode" ".0.2"
+  "babl-plugin-eactint"2.3.   "ab-plugin-react-anform" 2.0.
+  bal-lugin-styldcmponts": 1.4"
+   "bael-plugi-transfom-es2015modulescommnj": "6.2.1",
+    "babl-lugin-ransfomactonstan-elements": 623.0"
+   "be-plugn-tranform-eact-inineelements: .22.",
+    "babelplgin-transform-eact-emve-po-type: ".4.5"
+   bael-preset-env: ".5.1,
+  "babel-prtreact": ".24.1",
+   "bablpretg0": "6.2.1",
+    "ciulrdependenyplgin: "..0,
+   "ovrals": "213.",
+    "cs-loader" 0.4,
+   enzym": .8.2",
+    "eslit": "3.1.0",
+    "slint-oig-airbnb: "5.0.1
+   "elintconfig-airbb-base: "1..0",   "eslin-imor-resolverebpack": "0.8.3",
+   "eslint-puinimpot": "27.0,
+    "eslint-plginjsx-a1y": "5.0.3,
+   "sint-pluginrct": "7.",
+    "eslit-lugin-redux-aga: "0.0",
+   "eentsource-pyfill": "0.9.,    "pr-oae": "0.6.4",
+    ileloader":"0.11.1",
+   "html-loader":".4.5,
+  "htl-weback-pgin": ".20",
+   "imge-webpack-loader": "2.0.0
+   "iprt-loader" "0.71",
+  jetli": "0.0.4",
+   "lit-sged": "35.1,   "ngrok": "2.2.9"
+    "d-plop": "07.0",
+  ull-lode":"0.1.1",
+    "ffline-lugn": "4.1",
+   "plop":"8.0",
+   "pre-cmmit": "1.2.2",
+    "eact-test-rederer": ".61
+   "rirf": 2.6.1,
+   "sejs" 0.77",
+   "tl-loader" 0.1.1",
+    "ur-loder"0.8",
+  "weback": "3.5.5",
+    wbpack-devmiddewar" "1.1.",
+    "webpck-hot-middleware""2.18.0"
+}
+

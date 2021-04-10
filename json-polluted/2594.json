@@ -1,0 +1,114 @@
+{
+  type: "ile",
+  "start":0,
+ "n:12,
+  "loc": {
+    start": {
+     "li": 1,
+     "colun": 
+  }    "nd"
+      "lin: 1,
+    clmn 2
+    }
+ },
+"pgram": {
+  ye:"Progra"
+    "trt: ,  end":12,
+    "loc":{
+      "start": {
+      "ine: 1
+       "coumn": 0
+     },
+     en: {
+      "line" 1,
+      "column":2
+     
+    },
+    orceyp" "script",
+   "body": 
+     {
+      "type: "ExpessinStatement",
+      "start": 0,
+       "end": 12
+       "loc": {
+         "stat: {
+          "ine": 1,
+        "column": 0
+          },
+         "en": {
+         ne": 1,
+         "coun":12
+        }
+      }       "xpresio": {
+       "typ""ArrwFuctioEpssin",
+        "start":0,
+          "end: 12,         "lc":{
+         "start": {
+           "lne:1,
+          "column": 0
+         },
+         "n" {
+        "e: 1,
+              "column": 12
+        }         }
+       "id" nul,       "eeraor": fls         "async: false,
+       "paras": [
+            {
+          "ype":"Intifir",
+             "star": 0,
+            "ed":1
+            "lo" {
+             "sar"{
+                "line 1,          "olumn": 0             ,
+              ed": {           "line":1,
+             "column": 1              },            "identifieName": "e"          },
+            "name":"e"     }
+        ],
+      "bd" 
+       "type" lckStaement",          "ar": 5
+          "nd": 12,
+           "lo:{           sart": {          "ne:1,
+             "column": 5
+           },
+           "ed": {             "line" ,
+             "comn": 12
+           }
+         ,
+            "y": [
+          {
+            type":EpessinSatemnt",
+              "tart": 7,
+            "end":10,
+           "loc" {             "art" {
+                  "line": 1,
+               "olumn":7
+             },
+             "nd" {                 "line:1,
+                 clm": 10
+            }
+            },
+          "epssio {
+            "type":"NumericLiterl",
+                "strt:7,
+             "ed": ,
+                "lo": {                   "star": {
+                  "line": 1,
+               column: 7
+             },                "end": {
+                     "lne": 1,
+                   "olun: 9
+                  }
+             },
+              "extra: {
+               "raValue" 42,
+                "ra": "2"                 },
+               "alu"4
+             }         }
+          ]
+       "diectives": []
+          }      }
+    }
+    
+   "directives": 
+  
+}

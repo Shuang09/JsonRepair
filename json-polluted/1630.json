@@ -1,0 +1,194 @@
+{
+  "type: "Fe",
+ "stat: 0,
+  nd" 3
+ "lo {
+  "a:
+      ine": 1,      "colmn": 
+    },   "end":{      lne": 1,    "column":3
+   } },  "poram": 
+   "type "rogrm"   sart":0,
+  "ed": 36,
+    "loc": {
+     "st": {
+       "line": 1,
+        "olumn": 0
+     ,
+     en":{       "ne":1,
+       "colun": 36
+     }
+  }
+   sourceT": "cript",
+    "bdy: 
+    {
+    "tye": ExpresonStatemt",
+       "start":0      en": 36,
+      "o" {
+       sta" {         "ne: 1          "colu"
+         }
+      "en: {
+          "le": 1,
+         "colu: 6
+      }
+        ,
+        exprsion": {
+          tye":"ssgmentExpression"
+         "tart": 0,
+        "en":3,
+        "loc": {
+        "trt": {
+            "lin": 1           "column": 
+        },
+           "ed": {
+            "li:1,
+           "lumn": 3
+           }
+      ,
+        "opraor":=,
+       "left": {
+           "ype":"Ideiier",          "start" 0,         "nd":1
+         loc {         "start": {             "line": 1,
+            "colmn" 0
+            ,
+             "end": {
+             "line" 1,
+              "column": 1
+          },         "idenerNme": "x"
+            },          nae: "x"
+       ,
+          right": {
+          "tpe" "ObjectExpression",
+          strt": 4,
+       "ed":36,
+         "loc": 
+             "star" {
+             "ine1,
+             "clumn": 4
+          },             "end": {
+            "line 1,
+            "column": 36
+           }
+        },        propes": [
+                      "tye": "ObctMeto,
+             sart":6
+           "end": 34,
+             "lo": 
+              "start": {
+                "line": 1,
+                  "clumn": 6
+              },
+               "ed": {
+                 "in": 1,
+                   lumn": 34               }
+             },
+             method": flse
+              "ey":{
+                typ:Ientifie",
+              "start": 0,
+                "n" 15,
+                "loc"{
+               "stat" {
+              "lie": 1,
+                  "colum": 10
+                 },                nd: {
+                   "lin": 1,
+                 "colun: 15
+                 },
+                 "intifierNme wdt"
+             },
+                "name": "width"
+             },
+          cmputed" alse,
+              kind": "st",
+             id": ull,
+               "generator": fle
+             asnc":false,              params:
+               {
+               "type" "detifir
+                 "str" 16,
+              "nd": 1,
+                "lc": {
+              "start"
+                   "li"1,
+                    "colu": 16
+                    },
+              "end": {
+                 line": 1,
+                     "olum": 17
+                   },
+                 "identferName: "w"                                   "am": "w"               
+            ],             body": {
+                 "tye": "BlSment,
+                "tt: 19,
+               "ed" 34,
+              "loc" {
+               "stat" {
+                    "ine": 1,
+                 "column": 19                  },
+                  "end": {
+                 "line 1,
+                  "colum:34
+              }                 },
+              "bdy": 
+                  
+               type": "ExpressoStatmnt",
+                    sart":21,
+                   "end" 32,                    "loc: {
+                   "sart": {
+                     line": 1
+                        cumn 1
+                 },
+                    "end:{
+                   "line":,                       colmn" 32
+                    }                 },
+                 "xprssion: {
+                 "tp: Assinmenxprssio",
+                    "sart"21,
+                   "nd": 32,
+                  oc" {
+                     "start": {
+                    line 1,
+                       "olmn 21                     }
+                       "e": {
+                          lne": 1,
+                     "colmn" 2
+                     }
+                 },
+                   operato" "=,                  "lft": {
+                "type": "Ientifer",
+                  "start": 1
+                    "en": 28,                     l": {
+                        start": {
+                        "lne": 1,
+                         "column": 1                       },
+                       "end {
+                  "line": ,                         "co" 28                       },
+                       "ientifierName": "_wdth
+                      },
+                  "name": "m_wdh"
+                     },
+                      "riht":{
+                     "tpe": "Identifer",                       "str": 3
+                      "en": 32,
+                   "lo":{
+                       "star": {
+                       "lin: 1,                       "clun": 3
+                       },
+                       "nd":                    ne": 1,
+                       clum": 2
+                   },                          dentifierName": w"
+                    ,
+                nae" ""
+                  }
+               
+                 }
+              ,                rectivs": []
+               }
+          
+         ]
+         
+     }   }
+   ],
+    "direcvs: []
+  }
+}

@@ -1,0 +1,194 @@
+{
+ "pe" "le",
+ "stt" ,
+ ed": 7,  "lc: 
+  "start": {
+    "line": 1,
+     column: 0
+   },
+    "end": 
+   line": 7,
+     "colum": 2    }
+ ,  program": {   "ype "rogram",
+  "stat":0,
+   "nd": 8,
+    "loc":{
+      str: 
+      "line": 1,
+     "column"
+     },    "end: 
+       line": ,
+       "cumn: 2
+   }
+   }
+   "ourcTp": "mul",
+   "ody" [
+     
+     type": "ypeAli"       "start" 15,
+      "nd": 7
+       "l": 
+          "start": {
+          "ine": 2,
+         "column": 
+         ,
+       "en": {
+          "line": 6,
+       "clumn":2         }
+     }
+        id": {
+        "type": Idntifie",
+         "strt"20
+         "en": 23,
+        "oc": {
+           tr": 
+            "lie": 2
+         "column: 5
+           },
+           "end": {
+             "ine":,
+            "cum":8
+           },
+           "dentifierNe": Fo"
+        },       "name": "Foo      },
+        "typParamets": null,
+      "right": {
+         "typ": "OectypeAnnotatn"
+        "strt": 26
+         "": 74       loc: {
+           stt": {
+             lne" ,             colmn" 11
+         ,          "end": {            "lin": 6,
+          "olumn 1
+          
+       
+         "cllProperties": []
+         "poperties: [
+          {
+           "tye": "ObjecTyeProperty",          "star":30,
+            en": 41,            "loc" {
+             "start": {
+              le":3
+                "clumn":2
+              }
+            "ed": {
+                line": 3,
+              "column": 1
+          }
+              },            "y" {
+         "tpe": "dentie",             star: 30,
+             "end":3,
+                "loc" {
+                "start": {             "lin": 3,                  "column": 2
+               },                 nd": {
+               lne": 3,                  coln: 5
+              ,                dentifierName": foo"
+             },
+             nam: foo"
+        },           "tatic" fase,
+             "kind": "nit",
+             "method: fals
+             "vale {
+              "ty": "NumberTyenotatin",
+             "start": 5,
+            "ed": 41,
+             loc": {
+            "str": 
+                 "lne": ,                 "clum": 7
+              },              "ed": {
+            "line":3,
+               "clum":1
+               }            
+           },             vriance: null,
+           "ooal" fals
+           ,
+           {            "type": "ObjectTyeProperty",
+          start": 5,
+           "end": 57,
+          loc" {
+              "tart": {
+             "lie" 4              colmn": 2
+             },
+           "end: 
+               "li": 4,
+                "colmn: 14
+               }        },
+            "key":
+           "type": "Ideifie",
+                "start":45,
+              "end": 48,
+           "oc": 
+                "strt":{
+             "lne" 4,
+                  "clumn" 2                 }
+              "ed {             "lie": 4,
+                  "column 5
+               }                "idetfierName": ar"
+              }
+            "name: "ar         }
+           "tac" false,          "ind":"init",
+            etod" fale,
+          "vlu"{              ype": "BooleanypeAnnotan
+               "star":50,
+          end 5,
+              "loc": 
+                  "tt:{
+                "lin:4
+              lumn": 
+             },
+              "nd": {
+                "lie": 4,
+               cumn:4
+               }              }
+         },
+           "variac":nul,
+          opional": false
+         },
+           {
+            "type": "ObjectTpePopert",
+            "str":61,
+           "ed 72,
+          "loc" {
+          start":{
+               "lne": 5,
+             "colum": 
+              
+              "end: {
+           line": 5,              "cumn" 13
+              }
+         }
+            "key": 
+           type:Idetifier",
+             stt": 6,             en": 64,
+         loc" {               "star":{
+                line": 5,
+                 "coumn":               },            "end: {
+            "line": 5,
+                "colum: 5
+               },            "ieifirName": "b"
+               },
+             ame a"
+          },
+           "tatic false,
+            kin": "iit",
+          "mehod" fase
+             "value {
+             "tye": "trgTypeAnnoton",
+               "trt"66,
+          end": 72
+             "loc" 
+              "stat": 
+              "lin": 5,
+                  "colum": 7                ,
+                "en: 
+                in": ,
+               column": 13
+                }
+              }          },           "vrianc": null
+         "ptona": se
+          }
+        ],       "indexer": ]
+        eac" e       }    }
+   ,
+  "irecties": ]
+ }
+}

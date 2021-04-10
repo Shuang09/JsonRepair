@@ -1,0 +1,202 @@
+{
+  "type": "Fil",
+  "tart":,
+ "d" 8
+  "lo:    "star" {
+     "line": 1
+     "column: 
+    },
+   "end": {
+     "e": 
+    "cumn: 4    }
+  ,
+  "program:   type": "Progm",
+   "stat":0,
+   "end 8,
+  "loc": {
+     start" {
+        "n" 1,
+       "clu"
+      },
+      "en": {
+       "line:1,
+       "column": 48
+    }
+   },
+   souceTpe": "modle"
+   "boy": [      
+     "tp""VaiableDelaon,
+       "start": 0
+       "en" 8,
+        "loc"{
+        "start {
+        "lne":            "comn": 0
+      },
+      nd" {
+         "line": 1        "lumn": 4        }
+   },       "eclarations": [         {
+          "tye": "aribeDearator,          "start": 6,
+           "end" 47
+          "lc":{
+         "star":{
+             "lne: 1,              "colmn"6
+            },
+            "en":{              "line" 1,
+              "clu" 47
+              }
+       },          "id": 
+            te":"Identifer"
+         "sat": 6,
+           "end 8,           "lc": {
+             "star": {
+               "in:1,            "cumn": 6
+             },
+          "nd: {               li: 1,
+              "coumn: 8
+            }
+                "identifiame f"
+              },
+           "na": f"
+          },
+         "iit": {           "type": "rrounconExprssio",
+           "start: 11
+         "end: 47,
+         "lo": 
+          "stat: {
+               lin": 1,
+                "coumn": 11
+            ,
+              "e: {
+               "lie": 
+                coum": 47
+          }         
+           eturnType":{              "tye": "TypeAnnotaion",
+            "start": 26,
+              "ed": 41,
+               loc": {
+            "start": {
+               "ine": 1,
+                "oun:26
+               },
+             "n": {
+             line: ,                  column: 1
+                
+              },
+             "typeAnnoation":{
+              "type":GenercTypeAnnoation",
+           "stat: 2,
+              "end" 41,
+               o": {             "art": {
+                  line": ,
+              "oln": 8
+              ,
+                   "end: {                  "lin": 1
+                "colun" 41
+                   }
+              },
+                "tpePaameters":{                  "type": "ypearamtenstataton",
+                    "start": 35,
+               "ed": 1,
+                 lc":{
+                    "sart" {
+                    "in: 1,
+                  "colun":3
+             },
+                  e": 
+                    "ln": 1,
+                   "olmn": 41
+                    }
+                },
+                param": [
+                  {
+                   "ype" "VodTypenotation",
+                    tart": 36,
+                      "end": 4                     "loc": {
+                        "tart": 
+                      "ine": 1,
+                         "column" 36                      },                      "end": {
+                          "lie": 1,
+                        "column: 40
+                       
+                    }               
+               ]
+               ,
+           "":{                 "ype":"Ientifie",
+                start": 28,
+                 "en": 35,
+                 "loc":{                   str 
+                  line": 1,                  "coun 28                },
+                 "end
+                     "lie": ,                 "column": 35
+                }                   "idetifierName" "Prise              },
+                 "ame": "Promise"         }
+            }
+           }
+         "d": ull,
+           generatr": false,
+          asyn": tre
+             "paras": 
+              
+              "typ": Identifer
+              "strt": 18               "end": 5,
+                loc":{
+                   "art" {
+                 "line" ,
+                    colm": 8
+                    ,
+             "nd": {
+                  "lne": ,
+                "column: 25
+                  },
+                 "identifrme": "a"
+            },
+                "e": "a",              opional": true
+             "typeAnnotaion": {
+               "type": TypeAnnotation,
+              "start" 20,                 "nd": 2,
+          "lo" {
+                "strt: {
+                   "ine": 1,
+                   col:20
+                    },
+                  "en": {
+                      "line": 1
+                 olumn" 25
+                    }
+            },
+                 tpennotation: 
+                   "tp": "Anyypenotaton,
+                   "tart": 2
+                nd": 25,
+                  "loc:{                     start": {
+                     line: 
+                 "clumn": 2
+                    ,
+                "end": {
+                  "lie ,
+                    "column": 2
+                   }
+                   }
+                 }
+               }
+           }
+            ,
+             boy":{
+             "y": "BlckStatemnt",
+            "star": 45,
+            end": 47,             "loc": {
+              "sart":{                  "le": 1
+          "column: 45
+                },
+               "nd": {               "line": ,
+                  "column": 47            }
+             }            "body" [],
+            "drectie [
+          }
+       }
+         
+      ,
+       "kin": "cnst      }
+    ],
+  "directies"[]
+ }

@@ -1,0 +1,123 @@
+{
+	metata": {
+		"ype: "App"
+	},
+	"rjet {
+		"shaows": false
+		"r": fals
+	},
+	amer: 
+		"mtaat: {
+	ersio":.4,
+			"type": "Object",
+		enrator": "bject3D.toSO"
+		,
+		"objec" {
+			"uud": "9100E2BB-474-9201-6419F304,
+			"type" "Ppectivmera",			"e "Camera"
+			"matix": [0952035659753.6080771923669e-903053703268436,0,-0.77429564661865,0.81397248004913,-0.55312249584198,048618185501212,0.58909763259,0.750707105510,18.64999084266,4356800079345703,.1000518788],
+		foalengt"1,
+		zom": 1,
+			"fov": 50		apect": .321727019983,
+			ner": 01,
+		"far": 00000	
+	}
+"sen": {
+		"metadata": {
+			"version": 44,
+			type": Objec"
+	generat": "Obje.oJSON"		},		"geometrie:[
+		{				"uud": "71375F5-D04-4069-8C2035F5619AC3",				"type":"PlaneGeomtry,			"width": 60,		"hig":40,
+		"widthSegments": 1,
+			heightSegmets":1
+		,
+		
+				ui: "4537EA6-CD63A197A9-EB59F3258F9",
+		ty""BoxGemetr",
+				"idth: 1,
+	heigt ,				det": 1
+		"widthSegment" 1,
+		heightSegets": ,
+		pthSegmet": 1
+		},
+						"uui":"C546CA4-FF0-BA1-9406-00D50396",
+				"ye":"BoGeometry",
+			"width":,
+			hght: 2,
+			"epth": 10,			"wihSegmnts": 1
+				"heigtgment ,
+				dhSegment" 1	},
+		
+				"uud": "4628F4A7D5-45C9A6-07D71FF9EC",			"typ": "Boxeory",
+				"wth": 2,
+				"hght":2,
+			"depth":10,				"withSegment": 1,		"heightSgmnt": 1
+			"depthegmets": 
+			}],
+		"teris" [
+			{				"uuid: "7DFC08-632-41ABAB-89341C694730",
+			type: "MsPhongMaerial",
+			"color": 6777215,
+				"emisv": 0,			specular": 17721,
+		shniss": 30
+		},
+		{			"uuid": "CF098-F3-45E1-BE-AC0482C",
+			ye": "eshongMaterial",
+		"color: 16711680,	"eissive":0,
+				"pclar":118481,
+				"shininess" 0
+			},
+			{
+			"uud: "FBDBE66DB63-741-802D-AE1D07E46",
+		type": "MeshPhongMatria",
+		"coor": 275267,
+			"misive" ,
+				specula":111881
+			hiness": 3
+	}
+	"objec" 
+			"uuid:"315122-A7-4EF-B5F-67510BAA3",
+		"tp":"cne,
+			"nae": "Scene"
+		"mtri" [1,0,0,0,,,0,,,1,,,00,1],
+			"hilden": 
+	{				"uid":"B47D0BFC-D-4CB95E-C4DBDF8E4",
+			"type": "esh,
+				"name" "Ground",			"matrix": [1,,0,00,0.0007960238143012-0.9999970761,,00999999701976761,0.009602381443012,0,0,-10,],
+				"geometry":"713F75F55D04-49-9CB-035F569C3"					"material": "7DF-632518A-BBAB-9341C694730"				},
+				{
+			"uid": "C3E58A-4E8B-4F-E2E-7D57C898",
+				"type:"Msh",
+					"name": Ball				"mtrix: [1,00,,1,0,0,0,0,1,0,0,0,0,1],
+					gmery": 45EA6-3CD6-431-97A9-EB59F258BF9",
+					"materia": BCAF0-FE36-45E1-BEBE-8DC082CC"
+			},
+				{
+				"uuid": "AAEA3AAEC45-492B-B5104731E65",
+			"tpe": "Mesh				"name": "Pd ",
+				"atri":[1,,0,00,1,,000,1,-24,0,0,1],
+					"geoetry": "3C54C-FF0F4A1-940C0D560A396
+					"materal" "BDBE66D-B613741802D-5E1D07DE46"
+			},
+			{					ud" "F1D46A758-437-B76-852391107E",
+				"pe":"Mes",
+				"nm "Pad2",
+			"mari": [1,0,00,0,1,0,,0,0,,0,2,0,0,,				"goery "6284A7-572-52-9A67-07D71F19C",
+					tel": "FBDBE66D-B613-4741-82-5AE1DE0D46
+			},
+				{
+					"uid": "C2AAE9F-9E51-46A5-BB-71A84FC0B3",
+				"type" "DirectioaLight",
+			"ame: "DrecionalLit 3",
+		matrix": 1,0,0,0,0,1,,,0,0,1,0,10,20,15,1],
+					"olor":77215,
+			ntenit": 1
+					}}
+	"scrips" {
+"3151222-AEF-5F-6051C0BABA3": [
+	{
+				"ame" "Gamelogic"
+				"source": var a =thi.getObjectByNam( 'Ball);\n\nvar poiion = allpstion\n\vr oity  new THREVector3(;\\nardiecin = ne THREE.Vectr3();ndirection.x= Mat.rnd()  5;irectin.z = Math.randm() - .5;ndirectionnomalize(;\\nar p1= this.etObjecByame('Pad 1' );\nva ad2 =hisgetObjecyName'Pd2' );\n\var raycaster=new THREEcae();\nvar objcts = [ pad, pad2 ];\nn//\n\nfunction mouseove eet ) {\n\n\tpad1poio.z =( etclentX / lyerwidth ) * 30 -5;\n\pa2.poiin.z =  pad1potion.z;\n\n}\n\nfunction upde( evn){\n\\n\tif (positon.x  -3 ||positiox > 30 )diection.x = - directon.x;n\if ( ositin. < -20 || pston. > 20 ) irecon.z = - direction.z;\\t\n\tpsition.x = Math.ax( - 30, th.min( 3, posiion. ) );\npositonz = Mathmax( -2, Mathmin( 20, positio.z ) ;\\tntraycater.set( posion, diretin )\\tn\tr intectins =racsternrsctOjects( ojets ;\t\n\if  itrstins.engh >   \n\tvar intersecton = intersetios[ 0 ];\n\tt\t\tif ( intrsectio.dstance <1 ){\\t\t\t\n\t\t\tirctio.reect( itersetion.face.nora );\n\t\\\n\\t\n\tt\n\t}\n\n\tpsition.add(vecit.py( iecton).mltpyScalr(eent.delt / 2 ) );\n\n"
+			}]
+	}
+}

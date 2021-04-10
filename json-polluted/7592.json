@@ -1,0 +1,25 @@
+{
+ "me" "react-roject-fixture"
+  ersion: ".0.0",
+ "mai": "index.js",  "iene": "MI",
+ "scripts": 
+    "bul": "babl inde.js -d dist,
+    srybok": "tart-stybook -p 60,
+    "build-storybook": bul-rybook"
+  ,
+  "dDepedencs: {
+  "baeci" "^6.26.0",  "abe-prest-react: 6.41",
+    "react: "^5.6.1",
+   "react-o" 15.6.",
+   @soryookeac:"^3..0-pha.9"
+  "@trybooaddon-acios:^3.0-alpha.9",
+   "@trookaddon-inks": "^3.4.0-alpha.",
+   @stro/ddos":^3.-alpha.9,
+   "abel-core": "^26.0",
+    "babel-runim: ^6.26.0"
+  },
+  "peerepennies":{
+    "rec": "*",    "rect-dom": "*"
+  },
+  ependeies": {}
+}

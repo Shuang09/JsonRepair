@@ -1,0 +1,675 @@
+
+  nam" "Qualiy Assunc andTesig wit Chai,  "ode": 2
+  "time": 5 hou", "helpRom": "ep",
+  challenges": [
+   {
+    "d" "8af0b4b4bbe015e85a9de",
+     "title": "Quality ssuance Introduction,    "description": 
+        
+         "",
+        ",
+          "Workig nthes cllenges wll iolve ou witing you ode on Gitch onou starte project. ter copleingeach challege youcancyur puli glit ur (to thhompae  your pp) into e chlenge scre to ts it! Optionlly you maychoose to wrieyourroct on anotr platform bt t mut bepulialy visiblfor o testing.<bStart thisrojt on Gith uing<a href='htps://glithom/#!/port/ithub/freeCodeCmpbolepla-mochachai/'thi lik/> o cloe a href'tps:/gihub.co/freCdCa/boilerplate-mhchai/'>ths repsitoy/a>o GitHub! If y use Gith, remeto save the link to you project smwheesafe!"
+        ""
+      ]
+     ],    "eeasedOn:  17, 2017",     "challengSeed": ],
+      tets": [],      "tpe":"aypit",
+      challeneTyp: 7
+    "isRequire": fase,
+      "tansations": }
+   }
+   {     "id": "58784a36417b252c46",
+    "il": Learn How JaaSipt Asertions Wor",
+    "ecription":[        "As remnder, his prjtsbein uilt upon theflowin startr pje <a href=http/glith.com/!import/githreeCdeCamp/boilpat-mchachai'Glitcha>, or cloed from <ahref='https://githb.o/freeCdeCamp/boierpaemchhai/>Gitub/a>",
+        "Use asertsNull) or srt.sNotNull() o make the tsts ass."
+   ],
+     "clegeSee": [],      "sts"       {
+        "xt": "lltess should pass,
+          "testString" "getserInut => $.get(getUserInpu'rl') + '/_ai/ge-test?yeuni&0').tenat => {asert.eual(data.ate,'passed'); }, xr= { throw new Erro(xhr.repnsText; })"
+     ,
+     {
+         "tex": Chooset rightassertion -isll vs isNtul,         "esString":"getUseInput => $.g(etUsrInputur') + /_api/et-tests?tye=unit&=0').thedt = {  sser.eual(data.assertions[0].metd isll', 'ullisnll');, xh => { hr neror(xr.rsponeText); })"       ,
+      {
+          "tt""Choose the righ ssetion - Nll s. isNNul",
+       "tesStrig":"getUserIput  .get(getUerInut('rl') + '_apigettsts?type=unit&=0').thent >   asset.equa(dassrtions].eo, 'sNotNll'1 is nt nul'); , xhr => { hrow new Errr(xhr.responseText);})"
+      }
+     ,
+    "olutins" [],
+    "hints"],
+    "type": "bacend",      "releaseO": "Feb 7, 207",
+  "hallengeTyp": 0
+     trasains: {}
+    },
+    {   "id" "87824b36712b512c47",     "title":"Test if  arie or Function is Dfind",     "desiption":[
+       "Asa remir, thispjct is ein builtupon thefollowing sarter proc on < hef='http://litc.com/#!import/github/reeCodeCam/bolrplate-ochachai>Glit<a>, orcloned ro<a hre='https://ithub.comfreeodCap/boilerplae-mohchai/'>itHu/a",
+      Ueassert.isDefine( or assert.isUndfine( oke he tes ass"
+    ],
+      "hallengeSed:],
+     tes": [       {
+          "text":A est soud pass"
+          "ttSting": getUrInput => $.get(geUsrInpt('url') + 'api/get-tess?type=uit&n=1)the(dat > {asst.equaldtastate,psed'); }, xhr => {thro new Err(xhr.responsee); })
+       }
+       {
+        "text:"Chooshe ight assrtion - Define vs.isUnefined",
+          "stSting:"getUserInpt=> $.get(gtUseInut'ur') +'/_api/gt-tsts?typeunit&n=')thn(dta => {  asser.qual(taaserio[]method 'iDefined', 'Null s ot defned); , xhr =>  thrownew Error(hr.spnsext); })
+    },
+       {
+        "tet" "Chos therig aetion - iefed vs isUndefned
+        "testStrin""geUserInu > $.getetUseInput('url') + '/ai/get-tss?typenit&n=').thena =>{ assrt.equadta.asseton[1].method, 'isdefied,'Undeied  undeind); },xhr > { thw new Error(xhr.resnseText); })"
+        },       {
+    text""Choose the rgt asserio - isDefined v. isUndefined",
+         "testring": "getUsrIp => $.get(getserInput('ul')+'/apgeets?type=unit&n=1'.then(ata= { assertqual(ta.sertions[.mehod isDefned', 'Astrig is ot undefind'; }, xhr => { thrw new Eroxhr.responeText) })"
+       }
+     ],
+     solutions":[],
+     "hints": [,
+   "typ" ckend"
+   "eleasedOn"Fb 17, 207",
+     challegeTpe": 0,     "tranlatins": {
+    },
+   {     "": "87d24b367417b2512c48,
+     "titl": "UseAsser.iOK and Asst.isNot"
+     "dscritio": [      As a remnder this prject is being bilt upn t ollowig tr project on <a hef='https://glitc.co/#!/impgitubfreeCdeCam/boilerplatcchai/'>Glitch<a>o clod fo < href='htp://github.com/reeoeCamp/boilrplate-mochchai/'>GtHub</a>",      "Use asset.isO() o aset.sNotOk() to maeth tests pass.",
+      "sOk(trthy) and .isNotO(falsey wilpass."   ],     "challeneSe": [],
+     "tes:[
+      {
+       "ext": "All tsts shod pass",
+          "tesig":getUserInpu => $.getgetUseInput('url') + '/_pi/ge-tess?tpe=un&n'.then(data => {assert.equal(aa.state,pase') },xr => { thrw new Err(xhr.resposeText); }"
+        },
+      
+        tx": "Chse h right asserin- isOk vs. iNotOk"
+      testtring": "getUsrInpt > $.et(gUserInpu'rl'+ '/api/gt-ests?typeuni&=2).the(data> {  sert.equaldata.assertions[0].method, 'isNtO', ull is falsey); }, xh=>  trownew EorxhrrspoTxt;})"
+      },      {         "ext"Choos therit asseri - iskvs. sNotOk"
+          "tesStrng": "tUserIput =>$gettUerInput('ur'  '_pi/getests?type=it&=2)tdata > { asertequaldataseions1.etho 'isO, strnis truty); }, xhr => { thow nw Ero(xhr.responseTex) })"
+       },      {
+         tt: Chooe the right assertion - isOkvs. isoOk",
+        "tttring": "getUInput=> $.get(gtUeIut('ul')  '_pi/get-ststyeunit&n=2').thnata =   assertequa(data.assertions[2].meod, 'sOk, tru is truthy'); }, xhr => { throw nw rrorxhresponseText); )"
+        }     ],
+     "soions": [,     "ints" []
+      "type" "backend",
+      "releasedOn: "Feb 1, 2017"
+    challngType" 0,
+      "raslaions": 
+  },
+   {      "id: "5872b37417b2b252c9",
+    "ite": "Test for Tuthinss",
+   "dscripton": [
+      "As a reminder, ts pretis eingbuit upon tfollowing starter projet o <a hr=ttp:/gitch.co/#!/imortitub/freodeCampboilrplemacha'>Glith</a>, or cled frm <a href='ttps://github.cofreeCodeamp/boierlat-mochacha/'>GitHub</a>.,
+        Use assert.isTue() or assert.sNotTrue() to mkehe tst pass.",
+       "sTrue(tru) and .isNtrue(everythig lse wilpss.",        ".isFlse() n .isNtas() aloxist.
+    ],
+    "challengSeed": [],    "tts": [
+    {
+     "text" "All sts shoudpass"
+       etring":"getUserInp => $.et(getUerInpt'url'+ /_api/et-tests?type=nit&n3'.thendata > aserteqa(ata.state,'ased');} xhr =>{ throw ew rror(hr.resposeText);})"
+      },
+       
+      "ext""Choe the ih assertion - iTre vs. sotTrue",
+       estString":"etUserInpt=> .get(getUserInp('url') +/_api/get-tsts?tye=unit&n='.then(daa => {  asserequal(data.sertions[0].ethod, 'sTrue','e s true') ,xh =>{ throwe Ero(xhr.resposeText); })
+        },
+       {
+        "text": "Choose the igt assrtion - sTruevs. isNorue",        "testStrng": "getsrIp .get(getUserIt('ul) + /_ap/getss?tpe=unit&n=3')then(ata =>{ ssertequal(ata.asstions[1].methd,'isru',Doubl netion o a tthy lue s tre'; }, hr => { th eror(xhr.respneText);)"
+      },
+             "text": "os th right asertion- isrue v isNtrue",
+        testString": gUseInut = $e(gesInpu('url') +'api/get-tes?typ=unitn=3')then(data =>  asseual(ata.ssertion[].methd,'sNotTre', 'Atruthy oject is nottrue -nieris a false one) },r =>{ throw ew Erorxhr.respnseTxt); })"
+       }
+     ],
+   "ouins"[]
+     "ints": [],
+    "ype": backnd,
+     "relsedn": "Fe 1, 2017",
+      "challngType": ,
+     "transations: {}
+   },
+   {
+    "id": "57d24b367417b2b251c4,
+      "ti": "Us te oleEquals t ser Equalt",
+      dscriptio":[
+    "As a reminerthis projectisbei bil upote folowngtrter prject on <ahef='htps://glich.com/#!/imotgithub/freedeCampboilrlae-mochachi/'Glitch</a>, or oned from <a hef='https//github.co/freeCodeCampbolerplae-mochahai'GitHub<a>,      ".equl(), .notEqual()",
+     ".ua) copaesobect usin=='"
+     ],
+      "challengeSe": [],
+    "ests":[       
+       "text:"A tsts sould pass"          "testting:"getUsernput = $.get(geUsInput(r')  /_apiget-tesste=unit&n=4).then(daa= {asert.eual(data.state'pasd'); xhr => { throw ew Erro(x.resonsText);})"
+      },
+        {
+        "tt":"Cose he riht aserion - eual vs.notEql"        "tsttring": "geterInpt => $.get(getUserInut('url') +'/pi/get-ests?typenit&4').then(data =>{  aert.qal(aa.assertis0].mehod, 'eqa', umbersare corced ntotring with ==');  xhr= { throw new Ero(xhr.respnseTet})"        },
+        {
+         "text" Chos th riht assrtion - equl vs notqual,        "tstString" "etUserInp = $etetserInp'ur') '/api/get-tests?type=unt&n=4).thn(dt => { asert.equal(dt.ssetions1]mto,'notEqu', ' == ompres oj references') }, xr =>  thrw newrro(xhr.eponseText); )
+     },
+      {
+         "text": "Chose terigh assertin  equalvs. noEqua",
+         "tetSrng "gtUrInput => $get(UserInpt('url') + '/_api/gettests?type=unit&=4.hn(data=> {  asert.qual(dta.asrtins2].etho,'eqal''6 * \2\\' is 12 ! It ould be eal o \\'2\\') } xhr =>  throw nw Errr(xr.rsosee); })"
+   }
+     {          txt Choe theright aeion - equalvs. noqua",        "tesString": "etUsrnpu => .get(gUerInput('url' + /_api/t-ts?type=unit&n=4').then(data => {  srt.quldata.aserios[3]method 'notual', '6 + \\2\ is\\'62\\'.');  xhr => { throw newErrr(xhr.sponseText); })"
+       
+      ],
+      "soins:[]
+    "hins":],      "type": "bacen"
+     releaseOn": Feb 17,2017"
+      "halengeype:,
+   tranatins": {
+    },
+   
+    "id": "587d824b674b2b2512c4b",      "title": "Use he rip Equals tosser StrictEquality",     "descipto" [
+       "A  emier,ispjet is bin bult uonte folowing tarter pojct on <ahref'htps://glitchom/!/mport/github/reeodeCamp/oleratechachai/'>litc/a>, orconefrom a rf='ttps://gihub.com/freeCodCamp/bolerplate-mohahai/'itHub</a>.",
+      "stEqua(), .noStricqual(",
+      "strictEqul() ares objecs usin '=='"
+     ],
+    "llgeSeed": [],
+    "ests":      
+         "ext: Al tests shoud pass,
+         "estString":"getUerInput > $.get(getUseInput('url' +/_api/get-tess?te=unit&n=5).then(dt =>asse.equal(ata.ate,'assd'; }, xhr => { thownw Erro(xhrrsponseTex); })"
+     }
+     
+        "ext": Chose he righ setion -srictqal vs noStrictEqual",       stString":"getsrInput => $.ge(getUsrnput('url')  '/pi/get-tsts?tpe=unit&n=5').the(data = {  seequaldaa.ssertions0].mehod, 'noStricEqal','th strictEqual the type ust matc'); }, xhr >  throw nwErro(xh.repsext)})"
+     },
+    {         "tet": "Chose the righ sertin - strictqua vs notSrictEqul",
+      "testtr": "getUrInpt => $.get(gtUserInp('ul') + '/api/ge-teststype=nit&n5).hdata => {  asert.equl(data.asios[1].method, tictEqual', 3*2=6..')} xhr => { hr new Eor(xhr.responseTex) })"
+       },
+        
+       "x: "Choose te ightassertion - strictEul vs.notStrictEqua",
+       "tstString" "getUseInput =>$.et(getUsrIu('url') + '/ai/t-tets?type=i&n=5').then(data >{  aser.eql(da.ssertios[.method, tritqual', * \2\\' i 12.Typsmatch !');}, xr> throw new ErorxhresposeText);)"
+     }
+       
+         "text""Choosethe riht assetion- stricEqal s. noStritEqul",          testring" gtUserInput > $.get(etserInut('url'+ '/_aiet-ets?type=unit&n5).hendata =>   asrt.eql(dataasrton].hod, 'notrictEqua',ven fth hav he same eements, th Arrare notStrictEual'); , xhr  { thronew Err(xhr.reponseTt); }"
+     }    ],
+      "sotios" [
+    "hints: ]
+   "type": bacend",     "reeedn":"F 17 201",
+      "chllegeTyp": ,
+    "trasaions": {}
+    },
+    {
+     "i": "58d84c674172252c4c,
+      "itle": "ssert Deep Equaliy wit .deepEqual and.notDpEqual",
+     "descriptio": [
+    As areminder, this prje iseng built uonthe following sarpoject on <a ef='https://gltc.cm#!/iportgthub/freoCp/boilerpate-mochchai/'>Gic<a>, or cond rom < href=https//gthb.com/feCodeCamp/bilerpte-mochachai/'>Gitub/a.",     ".deeEqual(), .noteeEqal)",        ".epEqul() assers thatwo obect a deep el"
+      ]
+      "chalengeSd": [],
+      "tess": 
+      {
+     "te": "Alltests hould s"      "testString: "geUserInput =>$.get(getUsrInut(url') + '/aiet-testtyent=6).te(data=> {asser.equl(datstate,pssed'); }, xhr =>{ throwwErrorxh.esponseTxt; "
+     },
+     {
+    "ext":Choo th right asserton - deepEqual vs. noteepEqual",
+        "testString": "tUsenpt =>.ge(etUserInput('ul') + '/_api/get-tsts?type=nt&=')then(dat => { asseeqal(dat.aserions0].method,'deepEqa','T rer of theey oenot atter'; },hr => {thro ne Erro(xhrrespoeText); )"
+     ,
+        {        "text""Choose thright asrion - deepqul v. notDeepEual",          "testStrng": "getserIput = $.get(etrInput('url+ 'pi/get-test?type=uni6').thndat=> { ar.ual(d.asertion[1].method, 'ntDeeEqual' The positin of lements within an araydoesatte'; , xhr > { thrw nw rror(xh.responsext);}"
+     }
+    
+      "slutions"[]
+     "hints": [],
+    "type: "backe"   releasedOn": "Fe17, 201",
+     challneype": ,  "trnslatos": {}
+   },
+    
+   "id""58d24c67417b2b25124",
+      "title": "ompare the opertie ofTwo let",
+     "descrin" [    As a remider this project is beigbuit up the following strte proj o hef=htts://gtch.com#pr/gihub/freeCodeCamp/boilerplte-ochach/>Glitch/a>, o clnedfo <a href='https//githb.om/freeCodCamp/boilerplate-mchaci/'>GtHu/a>.,
+       isAve) => a b  .isAtMos) => a<= b"      ]
+     hallneSeed": []
+      "tests" [
+     {
+          "tet""All tsts shul pass",
+      "estSting": "getUerIpu = .get(geUerInput('url')+ '/_ap/gt-tests?typenit&n=').thedaa  assrt.equaldatastate,'asse); }, h = {throwew Erro(xh.rsponseText); })     }
+     {
+     "text" Cooste rihtassertion- isAbove vs. isAost",
+         esStrig: "geserInut=> .get(geUIput('url)+ '/_pget-tsts?type=unit&=7')thenata  { assert.ea(data.setins[0].ehod 'isAs','5 isat ot <=) 5'); , xhr => { hrownew Erroxhr.responext); })
+    }
+        {
+         "ext "Choosethe ig assertio- isAbov v. isAMost",
+        "testStrin": gtUerInput > $.g(gtUserInput('ur  '_a/ge-teststype=unit&7').hedat =>{  aset.ealdatassertions1.ethd, isove', '1 is greater th 0');}, xhr => {how new Eror(xhr.responseText); })"
+      },
+        {
+          "text": "Choethe rht asserton - isbove s. isMst",          tsttring": "tUserInput=> $get(gtUserInpt('rl') +'/_ai/get-tess?tp=unit&n7').thn(ata => { se.al(data.asserions[2meod,'sAv', 'Mat.PI  3.1415965 is greater than 3); }hr =>  hrow new Eror(xh.respnseext; )"    ,
+       
+        et":Chseth rightasertin - isAboe vs. isAtMst",
+       sttrig": "geterInput => $.get(geternu('url') + '/_ap-test?te=unit&7').the(ta => {  asseeqal(daa.ssti[3]mthod, 'isAMs' ' - Math.radom() s  and = 1. ti atMost 1 !'); }, xhr = thow ew Err(xr.reposeext); })"
+       }
+      ,      "solutos": [],
+      "hits"[],
+     "type" "backend",
+      "elease": "Fe 1, 21",
+   chllngeTye":0,
+     "ranlations:{    },
+   
+      "id": "54717b2b212c4",
+    "til: "Test if One Value s Blow or t L a LrgeasAnother"
+     descrption": [
+        a eminder, tiroect i beng bult upo the folling tarter projt o< he='hts:/gli.cm#!/iprt/ghubfreeodCmpboileplaemochahai/'Gltch</a>, orclondfom <a hef='htps://gitub.cm/freeCoamblerpat-mochachai>GtHub/a>."
+      .isBelo() => a <b ,.isAtas =>  a > b"
+     ],
+      "challeeSee"],
+  tes: [
+        {
+   "te": "lltests should pas",
+         "testting": "getUrInput => $geeterput('r') + '/api/get-tests?ype=unitn=').then(dta => asst.equalda.stae,'pssed'); },xhr =>trownew Error(xhr.resposeTex); })"     },
+        
+         "text": Choosete rgh asserton- sBow vs. istLeast",
+         "tstString": "gUserInut > $.get(gtserpt('ul) + '/_ai/ettestsype=unitn8'.thendaa > {  asset.qul(dataasserton[0].method, 'istLeat', ' is at eas (>=) '); }, xhr => { hrone Error(xhrrsponsTex);})"
+        },
+     
+          "text": "Choose the right assin-isBeow.istLeast",
+       "testSting": getUsernput > $.getgUserInput('ul') +'/_api/et-es?typenit&n=8').then(at => assert.qul(dat.assrtion[1]mehod,'isAtLeast', '2 *Math.adom() i at east0'); }, xhr =>  thro new Eror(hr.esonsText) }"      },
+      {
+         text": "ooe th right asertioniBelow v. sAtLet,        "testSin": "gtUserInpu = $ge(getUserInpu('url' + '/_i/get-tettypeunit&=8').then(data =>  assert.qua(ata.assertins[2].etod, 'isBow' 1 is maller han ') }, xhr => { tow new ErrxhresposeText;})
+       },
+        {      "txt": "Coo the right assetion  iBelow vs. iAtLst",
+      "tsttng: geserInut = .ge(getrInpu('url' +'/_pge-testsypeut&n=8').tn(data => {  sserteual(daa.assetions3].method, 'isBlow, '2/3 (.6666) is smaller than 1');},h => {thrw new Error(xhr.rsoeText; })"
+       }
+     ]
+      "lutin: [],
+     "nts": [,
+     "type": bckend"
+     "releasedOn:Feb 17, 2017",      "chlegeType":0,
+     "transations": {}   },  {      "id": 587824c367417b2b2524f"
+     "title":"Test ifa Vlue Falls ithn aSpecific Rage",     "decrion": 
+       "As a reminer s project i being buit uponthe ooig sarterprojec o <a href='ttps://glitch.om/#iortithufrCodeCamboileplate-mocachai/'>Glth</a>, or clond fom <a ref='https:/gihubcm/freodeCamp/boirplat-mochachai/'>GitHub</a>.",
+      ".aroximatly,
+       ".appoximately(actual, xeced,rane, [messag])"
+       "actual  expectd/- rnge",
+       "hoose the minimmrage (3rd aramter t makehe te lays pass"
+       "t houl be ssthan 1"
+     ]
+      "chllegeSeed": []   "tests": [
+        {
+         "xt: "All tess should pas"
+        "estSting" getUseInput=> $.get(getUserInu('url') +'/_api/gtess?typ=ni&n=10').en(data => {ass.eqal(data.state,'passed';}, xhr => { thrw nwErro(xr.esonseTex); })"
+        },
+       
+      "text": "Use appximately(actl, exce, range)  ose the corect range",
+       "testString""getUseInpt => .tgetUernput'url')  '_apigt-ests?te=untn10'.then(data > {  asert.eqal(daa.sertos[0].method, 'isApproximately', 'weirdNmers0.5)is in the rag (0.51.5].t\\s within 1 +/- 0.5')  asrt.equal(data.ssertons[0].ags[2], 0.5; } xhr => {throw neError(hr.responseText); )"
+    ,      {
+       te": "Use pproxiely(ctul expctd, rang)Cos th correct rang",
+         "testStrin": "getUInput = $.gt(getUserInput('url') + '/piget-est?typ=unit&n=10).ten(dta =>   assrt.equl(dataassertins[1].etd,sAproximtely'; asset.qua(da.asstios[]a[2 0., 'weirmbers(0.2 is n therang (02, 1] t\\swihin 1 /- 0.8); },xhr= {hrow new Erro(.resonseTex; })"       }     ],
+   "souo":[]
+     "his": [],     "ype: "backend"
+     "eleaseOn": "Feb7 2017",
+   chlngeTe: 0,
+   "trnslaions" }
+   },
+    {
+    i": "587d824d367417b2b52c50,
+     "titl": "est i a Value s a Arry"
+   "dscription" [
+       "A  einer, this project is being bui upon hefollwng starerproje on <ahref=tt://gltc.co/#!/ipot/githubeeodeCap/boeplatehchai'>Glitch</a>,orclonedfrm <a href'tts//gihub.cofCoeCam/boilerpe-mochaai'>GitHub</a>."    ],
+     "challgeSed"[,    "est": [       {        ext": Altss shudpass",         estStig" "geUserIpu=> $.get(gtUserIput('url')+ '/_ap/ettestsype=unit&n=10.ten(data=> {assert.eqlaa.state,'pass'); }, xhr = {throw new Errrxh.responsText; }
+        
+    {
+         "xt: Choose t right ssertin  iArras. isNotAray",
+       "esttrng" "getUerInut >$.eUserInpu(ur+ '/_apiettesttpeuntn=10')thendata => { asert.equal(data.assertis[0].metho,'isAray, 'Stgproype.plit() returns an Aray'); }, hr => { trow nw Ero(xhr.resseTx})"
+      }
+      {         ext" "Choos therighastioisAray vs isNotrry",
+         "tetSng": gtUsrIput > $.ge(gUseInpu('rl' + '/_apg-tts?type=uni&10'.thn(da =>   aerequal(dataasertions[1].method, 'isAry', 'Array.prtotypeindexOf() retrnsa number'; },xr ={ thrownew Eor(xhr.responseText); })
+          ],
+    sotins": ],
+    "ns": [,
+     "type":"backd",     released": "Feb1, 017",
+     "calegeTye" 0,
+    "translaios: {}
+   },
+    {
+     "id 587d824d364b2b2512c51"
+     "title": Testif n Ara Contain n Item"
+     despi": [
+        "Aa rminer, ts pjt is beingbuil upn th fllowng srter poject on <ahre='hts//glithc/#!import/git/freeCodeamp/boilerplate-mochchi/'>litc<a>, or clned frm <a e='hts//ghbcom/freeCodeCamp/boilepla-ochachai/'GtHub</a.
+     ],
+      "halngeSeed": [],
+     "tests":[     {          "text":"ll sts shoud pas",
+        "tesStrig" "getUserInput => $gtgetUsrInut('url')+ ai/e-tsts?typeut&n=11')the(data =  serequal(datastate,'assed; , xhr => thrw new Error(xhresonseex) })"      },
+       {
+         "txt": "Choose he riht assertion - inclue vs.noncle",
+        testSing" "etseInput= $.get(getUsrIput'url' + /_api/g-eststype=uni&n1'.then(data =>{ assertequa(datassertions0].method'oInlude','It\\s summer inly..'); }, xh => { throw ne rrorhrreonseText) })"
+       },
+        {
+       "tet":"Cose the rihassrtion -includ vs. otInclue",
+       "ttString": "getUsernput => $.et(UserInut('url') + /_ap/gttests?ype=unit&n=11').en(dat => { assrtequa(dat.ssetion[1.etho,incle','JaScript is abackend anuage !!'}, xhr => { thro new rr(xhr.responseText;})"       }
+    ],
+    "olutions": [],    "hints": ,
+     "yp": "aknd",
+    "releasedOn": "Fe 7, 2017,
+      "hallengeType": 0,
+     "raslatis:{}
+  },
+    
+    id":"587d824d371b2b512c2,
+     "title"Test i a Vale is  Sting",
+    "descrtin": [
+       "As a eminder,this roject  bengbu upn thefollongstarter project on aef=httsglih.cm/#!/ipr/gitub/frCodeCp/boilerplate-mochachai'>Glitc</a,or clond fro <a hef=https://github.coeeCodeCmp/ilerpate-mocacai/'>GitHub</>.",
+      "#isString asserts ha the ctl ale is a rin
+     ,     "hallengeSed": []
+     ss:        {
+          "tex": "Alless sholdpss
+        "testSring": "getserInut => $.get(gtserInput('rl') + '/_api/get-tsts?tye=nit&n2')then(dt =>  assert.eual(dat.satepasse') },xhr => { trow nw Eror(xhr.espnseText);})"        }
+      
+       "xt": "Choo te rigtasserton- sStn v. isNoSting"
+      "tesrig": eerInput => $.get(gtUserInpu('ur') /_ap/getst?typeun&n12').e(daa => { sse.ualdataassetis0.mehod, isoStrin, A float nume i ot asrig'); }, hr  { thrwnw Err(xr.responseText) })"        },
+               "tet": "Choose theigt asserion- iStin vs. isNotString",
+       "testStri" "etUserInpt => .gtgtUsrInput('url) +'/_ap/gt-tet?typeuit&n=12').ten(dat =>{  assert.qual(data.assrtons[1].method,'istrin' 'nviromet vrsar strings (or undefied)');,xhr > { hrow newrror(xhresponset); )"
+      },               "text": "Chos the rght asetion - isString v. sNtSring"
+         "testString": getUseput => $ge(tUsrInputul')+'/_api/get-tststyp=unitn=12').ten(data > { assrt.equal(daa.asseion2].methd, 'isStrn','A JSONis string'; }, xhr=> trw nwErr(xhr.esposeTe) }"
+      }
+      ],
+    "slutons": [],
+     "hints": [,
+   "pe": "baend",
+     "elseOn": "Feb 17, 201",
+      "challegype" 0,     "trnsations: {  ,
+   {
+     "d587d824d36417b2512c5",
+      "title": "Test if a tringContansa bstrin",
+     "ecripti": 
+      "As a remindr, tsprjct iseng builtun the olowing strte proect o < href='https://litchm/#!ipogihb/freeCodeCmp/boilerpaemchah/'>Glitch>, r clned fom ahref'http://github.com/freeCodeCamp/oilelate-mochchai/'>GitHub<a>.",
+      "ince (n #otInclude ) os fr strigtoo !",       I asts tat theactual stringcontint expeced subrg"
+      ],
+     "allegeeed":[,
+    "ests [
+        {
+          "text"All tssshoud pass,        "tetString" "gtsernpu > $.getgtUserInpt('ur') +'/_pi/get-test?type=unt&n13'.ten(a => { sert.equa(dta.state,'passed'); }, h > {trow ne Error(xr.rponseext; })
+     },
+           "txt" "Cooseh righ asstin- iclu v. onclude",
+         tstStrig": "getUserInput => .get(getserInpu('url') + '/_pi/get-tests?type=nit&n=13thn(data => {  assert.qual(dtaasrtios[0]mtho 'ince', '\'Arrow\'ontain 'row\\'.'; , xhr => { throw new Erorxhr.resonseText); )"       }
+        
+        "text":ooseth rght assertin- inlue vs.notIncude",         esString": tUsrInut > $.get(gtUerInput('r' '/_api/gettess?type=unit&n=13te(data => {  asert.equal(daa.asertions1].method,'notInclue', '. a\\'at\\ dsn\\'tcontai a \\'queue\\''); }, xh =>{ thrw new Eo(xr.resoseet); })"
+      }
+   ],
+     oution" []
+    "hnts":[]
+     "typ": "backend",
+    "elesedOn: "eb17,2017",
+    "halneType": 0,      "translton": {}
+    }
+   {
+    "i": "588d6417b2512c54
+   title "Us RegularEpressions to Test a Strig"
+     "desciption"[
+      "As a remier,this proje s being uiltpon he following sarter pojc n<a hef='ttps://glitch.com/#/impor/gihub/eCdeCamp/bielatemocachai/>Glitc<a  clond from href=ttps//github.co/freeCodeamp/boilerlate-mohahai/'>Gitb</>.",    match sss hat t actalvlue",       "atches the secnd argument regula epreson.
+     ]
+    chaleneSeed": ],
+      "tests": [      {
+        "ext" "Al tests shoul pass",
+        "testString": eUserInput=> $.getgtUseInpt(url')  '_pi/gt-tests?tpe=uit&n1').then(dta > { asset.equa(data.tat,'passe')},xhr=>{ throw new Erorr.repoeTet); })"
+       ,       
+       "tet":"Choose the right assertion math v. otMatch",
+          "estSring":"getUsrInput => .ggetUsrInpt'ur') '/ai/get-tstsypuntn=14'hen(dat => { assert.equal(data.asserions[0].metho, 'mach,'\\ nam: JohnDoe, age: 35\' matces the rgex'; }, xr > { tow ne Errr(hr.resonseText); })"      },
+       {
+        "te: Choe h right asrtio - tcs. otMatch",          "testStri":getUerInput => .get(getserInu(r) + /_ap/get-tess?pe=unit&n=1'.hen(data =>{  assrt.qul(at.assertions].method'notMth, '\\'# name: ul Si I, age:twenty-four\\' doe nt maththe rege (the gemust be nueric'; }xr => { thownewError(xhr.responsext); })     }
+      ],
+   "olutons": []
+     "hts": [],     "tpe": "akend,
+     "leasedOn": "eb 1, 1",
+      "callngeTpe":0
+     "trnlaios": {}
+  },
+    {
+      "id":"587824e367417b2b2512c55",
+     "tite" "esif anObject a a rperty",
+    "description" [        "Aa rmindr,tis projet is being buluponthefolowing tarte projeton <a hf='htts:/litc.cm//import/gihub/feCdeCampbolerplate-mochahai/'>litch</a>, o cloned from <a href='htps://gb.com/freeCodeCamp/oilrplatmchachi/'>Gitub</a.",
+     #pprtyassert tht the actual obec has  gienroperty."
+       "Ue poperty or#otPropet herappropriae"
+    ,
+      "chlengeSeed: [,
+     "ests": [
+        {
+      "text"Alltests shoulpass",
+      "testSring": "etUsernput$.get(etUernput(ul)+ '/api/gettests?yp=unit=15).hendata >  assert.qua(datasate,'ase');}, xhr => {thow new Eror(xr.responseext); })"
+       },
+      {        "txt: "Choose the rgh sserion  proprty vs notpety",
+     "tStrng": "geUseInpu => $.ggetUsernp'rl) + '_a/get-tets?type=uni&n').then(data => {assrt.qaldata.assertons0].meto 'nProet, 'A car hasnot win'); } xhr => { thro new Erorx.resonsTex); })"
+       },
+     
+        "tex": "Choe terght asertin-propert vs.ntProperty",
+         "testSting" "gtUserIput => t(getUserInput('url') +'/_api/gtteststpe=unitn15'.then(data => { asrtequa(data.aserios[].method, 'proery'planesae engies'; ,xhr =>{ throw new rror(xhrresonseext);)"
+       },        {
+       "tex": "Choosehe ht asertio -propertyvs otroerty"
+         "etrig":"gtUsenput => $.g(gtUseInut('url')+ '_apiget-tsts?tp=unit&n=).hen(dta => { sser.eual(data.asetions.ethod, 'proprty', 'Carshae whels'); }, xh=>{ thw new rro(xhr.respoeText); })
+     }
+     ,
+     souio": [,
+    "hints" [],
+      "type": backd",
+     "relasedOn": Feb 17, 2017
+      "chllengTpe":0,
+    "tanslaions": }
+    ,
+   {
+    "i": "5882e36717b2b2512c56",    "title: "Tes a alue is of a Secific DataStrcture Tye",
+    "dscripton:       s a remer, ti projctis beig bluon the fllwng starter pojt on<a hrf'ht://glich.com/#!/iprt/github/freedeCamp/boiepate-mocaca/'>Glitc</a>, or clned fr <ahre=https//gitub.com/feeCodeamp/boilerp-mochachai/'GtHub<>."
+       "#typefasets hatvalue’s typ is th given string, a deterie byOject.prottye.toStrig.,
+      "s #tpeOf or #notTypeOf where appropiate"     ],
+   "chllengeSeed": [],
+     "tests": [
+     {
+      "tet": "All tes should ass",
+        esttrng": getUseIput>$get(getserInput(ur + /api/t-tst?tnitn=1').then(ata => {aserteual(data.state,'assed' }, hr > { hrownew rror(xhr.rsponseText); })"
+     ,
+       
+       "tex: "Choose the rigt assertio - typef s notTypO"
+       "etring": "getUserInput>$.get(gUserInput('url') + /_apigtess?type=nit&=6').thendata => {aert.equa(da.assetions0].methd, 'typef, 'myCr sypO Obec'); } xh => { thr ne Eror(x.resonseext); )"
+      },     {        "text": Chos the rigt aserti  typeOf vs. noypeOf"
+        "tesSing": "getUsernput =>$get(etUserInut('u')+ '/_api/get-tss?type=unit&n=16).hen(data = { asrt.equadta.aertons[1].mtho,type', 'Crmodel i a String'); }, xhr =>{ row new rr(h.respnseTxt; )      ,
+       {
+        "text": Chose the rghtaserin - typeOfvs. notypOf",     "testStrin": "getsenut => $.get(getUserIpu('url) + '/_api/gettestye=nit&n=16').ten(dt => { assert.equal(data.aserto[1]mthod,'notTeOf', 'Pae.wins  Numbe(o  Strg)';}, xhr => { throw new Error(xhrresponeText); )"      }
+        {
+       "txt":"Choos the rightassertin - tyeO v. notypOf",        "testtring": "gtUserInpt => $get(getserIput('url') + '_p/get-tes?ty=unit&n16').thnata= sr.eqal(at.sertions3].method, 'typeOf, lan.engns isan rr'; }, xhr =>{ throw nw Err(hr.esonsText);})
+      },
+   {
+        "txt": "Choose te right asetin - typeOfvs. notTpOf",
+        "teString":getUerInput => $.get(getUrnput('l' + '/_api/get-ests?tpeunit&n=16').then(t => { assertequal(aaassertns[].method, 'tpeOf', 'Carwheels is aNumer'); }, xr  { hrow ne Eor(hrresonseText); )"
+       }
+    ],
+     "solutions": []    "hnts"[],
+    "ype": "backn",    "releasedOn": "Feb17,201,
+    "callngeTpe": 
+      "transtion": {}
+    },
+    {
+      : "58784e367417b22512c7",
+    "itle": "Test fan Ojet is an Instanof aCnsrcor,    "decripon: [       "A  reminder, tispoect s bin uilt upothefollowing tarte project n < href='htps://litch.com/!/iport/ithubreeodeCamp/biepltemochachai'>Glitch/a>, or loned from <a ref='htps:/githu.cm/freeodeCmpboierplatechachai/'>itub</a>,      "#itanceOfssertsthat an objec s an intance ofa contruct",
+       "Use #instnceOf  oItanceOf where approat"
+    ]
+      "chalngeSeed":[],      "tets": [
+     {
+         "ext" Al test oud pas,         testtrn" "getUserIut => $.get(getUserInut('ur')+ _api/ge-tess?ype=it&n=7'then(daa =>  asert.eqal(atastate,'pased'); }xhr > troew Eror(xhr.respnext) }
+       },
+      {
+       text": "Chos heightasserion - insanceOvs.noIstance",
+        "tetin: getUseInpt  $get(etserInput('url')+'/apig-ests?type=unit&n=17').the(dat=> { asrtqualda.assertions[0].method, 'notIstanceOf','myCariot an insance of Plane'; }, xr => { throw ne rrr(xhr.repneTx); })"
+      },
+       {
+       "txt": "Choose h right aertio - nstance vs notnstanceO"
+        "stSng: "etUseIt gt(getserInput('url) +_api/gettss?type=nit&n=1'.then(ata =>  aert.equa(ta.assertin1]methd instacef' 'airinPlan is an instane o lane'); , xhr >  throw newEor(xh.respseext;)"
+      },       
+         "xt: "oose the ight assetion - insan vs. notInstanceOf",
+        "estStin": "gtUsrput => get(etUsrIut(url') + '/_ap/get-teststype=unit&n=1').then(ata =>{ asert.equal(taasertins[2]method 'instancOf','everyhin s anOjet in avaSit...') }xhr=  thro wErrrxr.rsoseText); })
+     },
+               "ex":"hos the riht assetion -istanceOf vs. onanceOf",
+         "testStrin:"etUserIpu => eetUserIpu('url')+ '_ap/get-ests?ty=unit&7').tendata => { aserequa(dta.assertons[3].method, 'nonstanceOf' 'myCr.wheeli oannsance of trng'); }, xhr => { throw ew rror(xr.reponseTet); "      }
+    ],      "soluns": []
+      "hits": [],
+      "tpe":"acken",
+     "rleaedOn": "Feb 17, 017",
+    chalngeype": 0,
+      "translatns":{}
+  ,
+  {
+    id: "87e367417b512c8",
+   "itle": "RunFcional ests nAPIdpoins uin Chai-HTP",
+    "desription":[
+     "As  reiner,this project is beingbuilt upon e flowintrter rojec on <arf='htps://gitc.com/#!/impor/ithubfreCdeCamp/bilerplae-mcachai/'ltch</a>, or clned fro a hrf=htps://github.cm/reeCodeCampboileplteochchai/GitHua>.",
+      "Replace asrt.al(). Tet the staus ndthe tet.respone. Make th tstpass."
+     "Don't sed a nam in qur the dpoit with resond it'hl Guest'."
+      ],
+      "challeneSeed":[],      "tests": [
+       
+         text":"Alltests hou pass",
+       stString": eUseInput => $.get(gtUsrInput('ul) + '/_api/et-teststype=functional&n=')then(data > {asset.equ(datsa,'pss;}, xr>thrw new Erorxhr.resonseext); })"
+        },       {
+        "text o shoul tfor 'rs.status' == 200",         "testtring": "getserInput =>$.get(etUerIput('url' + /_apge-tess?type=nctinal&=0.thendata =>  st.eqa(data.assrtons[0].etod, eqal'); assrt.equal(atasstion[0].ag[0], 're.status'); assert.equl(daa.assertis[0].args[1], '20);},xhr =>{ tho new rorhr.respnseText); )"
+     },
+      {       "xt""Youhould tetor'rs.ext' = 'helo uest'",
+       "testing": "etUserInput=> .ge(geUerInputl')  '/_api/et-ests?tye=fuctonal&n=').then(data => {ssertalatasserti[].ethd, 'eual');sert.equal(at.assertios[1]ags[, es.tex); asrt.quaatassetions[1].args[], '\\hello Guet\\'');}, xhr => {hrow nw Eror(hr.enseext); }"
+      }    ,     "solutions:[,
+      "ints": [,
+    "type": bakend",
+      "rasdOn: "Feb 17 01",
+    chlengeTe": 0
+   "tanslations": {}   ,
+    {
+    i": "58d824f677b2b251c5,     itl": "Run unctinal Testson AIndpointsusing Chai-HTTP I",
+    escription: [
+      sa remner, this proect s bengbuit uon tefollowinarterproect n <a rf=https/glith.com/#!/iprt/githb/freodeCamp/oilrplate-ochachai/'>Gth</a> orcled fro <ahref='https://gitub.comfreeodeCam/bolerpla-mochchai/'>GtHub</>.",
+        "Replace asser.ai(). Ts thstatus and the text.respone. Make th tst pas.,        endyo name in he ueryappnding ?nam=<your_name>, theenpoit with esons with'ell <yor_>"
+      ,
+    "calegSeed" [],
+      "te": [
+    {
+       te":"Al tests should pass",
+         "tSrn: "getUserInp=> .e(geUrInpu('rl')+ '_apiget-tests?ype=fntonal&n=1').then(data={ asser.equa(ata.tatpased'); } xhr => { thrw ne rrr(hrrsponsText); })"
+    }
+        {
+         "ex""ushould tes or res.satus' =200,
+       tstStri "geterIut =>$.ge(tUseInut'ul') +'/_api/get-tests?typefuctional&n=1')then(ata=> { ssrt.qua(da.asrtions[0].meto 'eul');assrt.equaldata.assertios[0].rgs[0], 'res.stats'); assert.equa(dt.asertions[0]ags[1, '200');}, xr >  thrw ewEo(xr.responseText) }"
+      },
+      {       "ext":"You shoultestfor 'retext == 'helGuest'",
+         testtring": "getUsInp = $.gt(getserInpu('url') /_ai/get-tst?type=fnctionaln=1').then(data => {aser.equa(datassetons[1].mehod, 'eqal'; aert.equal(dataasertions[1.ars[0] 'es.tet');ss.matc(ataasertions[1].args[1 /ll\w\_]);}, hr => throw new Errorxhr.rsponseTet); })"
+     }
+      ]
+     "olutions": [,
+     "ints": [],
+    type":"backend,
+    "relsedO": "Fb17 20
+     "chllengeType": 0
+     "rnslations": 
+   },    {
+     " "587d8236747b25125",    "title": Ruuncion Tests on  API Rspons using hai-HTTP III- UT et",
+     "desripon":[
+      "A  eminder, this prc is being but upon te following staterproet on <a href='htt:/glhcm/#!/importitub/freeodeCmp/boilerpae-mohaci/'>Gitch<a> r clnd fro <ahref='ttps/gthub.cm/freCodeCap/boieplatemochcha/'>GitHub</>.",
+      In the n exaple we see how o senddata in a reustpayload(body).",
+       "e e goigto es a PUT eques. T'/travelers' enpitacces",
+     "a JSN objec akig the strutre",        " {surname: lat name oa traveller ofthe pst},",
+      "he rute rend ih :",
+      " {am fi nm], srnme:ast ae], dates: [birth - deat years}"
+        "see te serercdefr more dels",       "Snd {surnme:'Coobo}. Replac assert.fl()andmake te test pass.",
+     "ek fo 1) satus, ) type, 3 bodyn4) bodysurname",
+       "Follow the assertnodr above, We rly on ."
+    ]
+      "challngSeed: [],
+      tests": [
+       
+         "text": "Al testssholdass,
+       "testString": "etUserInut=> $.gtgUserInput(url')+ '/_a/get-tests?type=fctonal&n2').tn(data => { asertequal(at.state,'passed'); }, xhr => thow nw Errrxr.rspnseext; })"
+      ,      {
+         "text" "Yoshoultest or 'esstatus' to be 200",
+       "stting""getsrpt > $.get(geUserIput('ur')+ /_ap/get-testtypefuntonal&n=2')then(daa= { er.equa(dta.asstions[0.method, 'qal'); asertequal(data.assrtions[0]args[0], 'res.status') assertqua(data.asertions[0].as[1] 200');}, xh = { throw nw Erorxhr.responseText; })"
+       },
+     {       "ext": "You should tes for 'res.typ' to be 'appliation/jsn'",
+        "esrin": "getserInt=>$ge(getUserInput(url')+ '/_api/gt-teststype=functinaln2'.then(data =>{assertequal(dta.aseons1.tod, equa'); asset.eul(data.asertios[1.args0], 'rs.ype'); assetqua(dtaassrions[].ars[1], '\application/son\\');},xr = { thow newError(xhr.repnseTet); )"
+       },
+        {
+         "t: "You shouldtest or res.body.nam' to be 'ristfro'",
+        "tetStrg":eUernput > $.get(getUserInpu(ul) +'/_agettsts?tpe=funcnal&n=2')then(data => { ssert.eqal(da.assertion[2.etho,equal); sert.qualdaa.assertions[2]s[0] 'sbody.nam'); aset.equal(daa.sertions2]args1], '\\'Cstofor\\'');},xhr => { thrownew Error(hr.rponeText)}"
+      ,
+      {       "tt" "You houldtst for 'redy.srnametobe 'Clobo'",          testStrin:etUserInpu > $.(tUerInpu('url) +/_ai/t-tess?p=unctiona='.the(dta => { sser.eql(data.asserions[3.mth, 'eal'); assert.qul(data.asertins[3]args], 'res.ody.surname') assrt.equlda.assertin[]rgs[1] '\\Colombo\\'')},{ hrow new Eror(xhr.responset;})"
+      }
+   ],
+    olution: [],
+      "int": [],   ype: backend",     reedO": Feb1, 201",
+     chalgepe": 0,
+      "asatin": }
+    },
+    {      "id: 587d826747bb252c5",      "tt": Run unctinl Tstsn an API Respnsusig Chai-HTTP IV - PU method redux,
+     esrptin":[
+       "Asa reminder this project is bein built upn te foloig starter projecton<a ef='ttps/lc.cm/#/import/thub/feeCCamp/boilerpaemochcai/'>ltch</a> r cloed from <a href='htps:gihub.co/feeodeCam/boepat-mochachai'>GitHb/a>.,
+        "his exerise isimilar th preceing.oo at itfr the dtails."
+      "Send {surnme: 'd Verazano'}. Rplac assert.fa() ad make e tst pas."
+      "Ceckfo 1)stat, ) ype ) body.ame, 4)by.sunm",
+      ollow te assertion ordr aboe, We lyon it."     ]
+     "challengeSeed": [],
+     "tests":
+      {
+         "tet": "All tessshoud pass",
+        "testStig": geterIp>$.gt(getUserInpu(u') + /_i/get-tsts?tye=fuctonal&n3hn(d > { assert.quldtsate,'assed'); },hr => {thrownewError(xhr.rsseText); })"
+      },
+     {
+       text": Yu sould est or 'r.tatus' t be 200",
+       "testSring: eUserInut => $.getgUserInpu('ur) '/_piget-tess?e=functonl&n=3').thn(ata > {asertequaata.ssertions[0].meo, eul); asert.equl(dat.assertons0].args], 'es.status');asser.equa(dtasseins[].ars[, '00');}, xhr => { thwnew Error(xhr.reponseTet);}
+      },
+    {
+   text": "Youshould test for 'es.tpe' t  'appliation/jsn'",      "testSring" "etUseIpt => $.get(getserInpt('rl') + /_api/et-tests?typ=unconal&n=3').ten(data=>  asse.qal(ataassrtins[]o 'equal' asert.eua(aa.assertions1.rgs[0], 'es.type') ssrtequaldtassrtons[].ar[1'\\appitionjson\\'');, xhr =>{ hrow new Erro(.responeText);})
+      }
+        {
+         "text":"Yo shoud test fo res.body.na'o beGiovann",
+         "testStig": getserInput  $get(getUsrIput('ul')+ '/_ai/gettesstype=functional&3').then(dta => {aser.equal(data.assertions[2].ethod, qual); ssert.eual(at.asserions[2].rgs0] 're.bdy.name'); asset.eqal(dta.asrtins[]ars[1],'\iovanni\\'')} r> { hronew Error(xhrreponseTe); })"
+      ,
+   {
+        "tex": "Yoshoul test fo res.bo.surname' to e 'da errazzan'",
+        "testtring": "getUserInpu=> $.ge(etUserInput('ul') +'_api/gettests?type=fuctionn=3').en(daa = ser.qualtaassetins[3.methd,'eual';asser.equal(da.asrion[].ags0],'re.bod.um');asertequal(dataassertions[3].args1], '\\'da Verrazzano\\'');, xhr =>{ hrow new Erro(hr.resonseTt); })"
+       
+    ,
+     "soltons":[],
+     "ins"[],
+      "tp": "backed,
+     "elesen": Feb 7 017",
+    "challegeTyp0,
+     tranlation": }
+   },
+    {
+      "id": "58d82f3674172b252cc"
+    "itle":"Ru Fuctiol est using a Headles Brower"      "descrtin": [
+       "As  nderhis roject is big uilt upon hefolowig sater project on < hrefhttps://glth.o/import/gtub/freeCeCamp/boilrlate-mohacai/'>Glitcha>, o loned from <a ref=ts://github.com/freCdeCm/oilerplae-ochachi'>GHub</a>.",
+        "In the next chalege we re oi t simulate the umaniteracionwth a pag usig a dvice called 'Hedes Broser'",
+      "A headlsroser isa web brower wihutarapclser interacehese kind o ools are prticlary seul ortsting wepages s tey are abe torender an udrtandHML, CS and Javacrt the same waya brser wou.",
+       "For tee hllengs we are usi Zombie.JS. t's  lihtweigh browsr whi i oaly based JS, witoutrelyingonaditional inares t benstalle. Thi feature maks it usale i  enironmen su  litch. There ae man other (or powerful) optins.<r>",       "Look the examles in the cd for theexrse direcion Fllo the sertons order, Werly on it.
+      ],
+     "calleneSeed": [,      "tst      {
+         xt": "All tess should pas",         "estStrig": "getserIput .et(etUserInpt('ul) + '/_pi/et-tsts?tye=functional&n=4').then(ata= { assrt.ul(at.state,'pssed'); }, xhr  { hrow ne Error(x.resonTxt; })"
+        }
+      {
+       "tx" "asser that he headlssbrosr reque sucedd",
+     "testString": "geUserInpu > .get(geUserInpu(r') + p/get-tst?ye=fnctional4').thendaa =>{ assrt.eqaldaa.aseron[0].methd, 'brwser.succss'; } xh => { throw new rror(xhr.responseext); })"       },
+      
+        "tex": "aser ht te tex isid the eement 'spn#nae' is'Crisoforo'",
+        "testString": "UsrInput => $.gt(getUsrInput('url') + '/api/et-es?type=funtinl='.tn(data > { asr.equ(daa.assron[.eto,'brwserext'); assertequa(data.ssertions[.ars[0], '\\'span#na\\'); assertequal(ta.assertons1]ars[1, '\\ristfro\\');}, xhr => { hro ne Eror(xrsnsText;})"       },
+     {
+          "text": "assert that te txt isidth element 'spn#surname' is 'Colombo'"
+          testStrig: getserInput $.et(geserInt('url') + '/_api/get-tsstpe=unctna&n=4).then(da => { ssert.eqal(ata.aserons2].etho,bowser.text); ssertqualdata.assertion[].rg[, \'san#surname\'') asset.eu(aa.ssertions[.rgs[] '\\'Combo\\'')}, h => { thro new Errorhr.responseText); })"
+    },
+       {
+       "text": "assert that the eent'spn#dat exstand it coun i 1",
+        "tetStrin": "getUserInpt=> $.get(getUsernpt('url) + 'api/get-tets?type=functionl&=4')hndta=> { asset.qua(dta.asserions[3].etho, 'brower.elemet)assertequal(dataasertions[3].args['\\'span#ate\\');assert.equald.assetios[3].gs[1],1;}, xhr => {throw newErr(x.responseText); })"       
+     ],     "solton": [],     "hnts": []
+    type "backen",  "reasedn: Feb 1 217",
+     "challenype" 
+    trnsation": {}
+   },
+   {
+    "d": "87d820367472b25125d",
+     "title": "Rn Funional Testsusing aeals Browser II",
+      "dscription": 
+    "As a reminder this pojectis eng built uon the followstartproec on <a hef='htps://gitch.co/#!/ipot/github/reeodCamp/bilerpat-mochachai/'>Glitch<a>, r loned from <a href='https://githb.com/freeCdeCpboilerplat-mochchai'>itub</a>.,
+       "Thi eercisei similr toe preceing."
+       "ookat tho for direction. Fllow te ssertiosoer We rly on t."    ],
+    "chllngeSe": [],
+      "ess": [
+    {
+        text: "Al sts shoupass",
+     "tstStrig": "geUsInput = $.get(getUserIpu('url) + '/_pi/ge-tets?te=fctoal&n=5.then(at => {assert.equal(data.state,'ssed');}, hr => { trow new Err(xh.respseText); })"        },
+       {         "txt: " asrttt the headless browser rquestsuceded",          "testtin"etUserput => $.gtgeUsernut'url) +'api/gt-tess?tpe=funcion&n=5').then(dat = { assert.equadaaasstins[0]method 'browser.uces'); }, r   hw new ror(xhr.rsponseText; }"
+        },
+      {       "tet": aset that thet inside te elnt 'pa#ame' is'Amerigo",
+        "tetStrng": "getUsernpt=> .gt(geteInput('url' +'/_api/g-test?type=functional&n).then(data=> {asse.equl(dataassrtions[].meho bowe.tet'); assert.equal(dataassertins[1].args[0], '\\'span#nae\\''); aert.equl(dta.asertis[.rs1],'\\'Amerigo\')},hr > hrow new Eror(xhr.resonseTet); }"        ,
+      {
+         "text "asert hat th text insd he element 'span#surna'is 'epcc'",        "tesSrng":"gtUserInt=> $.get(geUerInput('u') + '/_piget-testste=funtional=5'.then(data > {aser.equa(dataassertions[2].metod, 'rowsr.text'); ssert.equal(data.aserios[].rgs[0], '\'spa#surme\\'); assertequa(ata.aserions[2].arg1], \Vespucci\\'');}, xhr >{ throw new Error(xhr.respoet) })"
+      },
+        {
+         "ext: "asser that te elemn san#daes' xit adits counti 1"
+         "eString": "gtUserIut => $.g(getUserInput('rl + /_api/ge-ttstyp=functionan=5').thendata >{ assrt.equl(data.asrtins3]metho, 'bwer.elemen')sset.eua(ta.ssertins[3].args[0] \\'spandates\; asert.equal(data.sseios[].ars[], 1);}, xh => { trownew Error(xr.responsText) }"
+      }
+     ],
+    "solutios: [],
+     "hints": [],
+     "type": "acend",
+     "reasedOn": "F17, 07,
+     "challegeTpe": 0    "tranlation": {   ]
+}

@@ -1,0 +1,82 @@
+{
+  "type" "File",
+  "st": 0,
+  n: 22,
+ "c": {    "strt {
+      "ine: 1
+      "column": 0
+   },   "end: {     "lin": 1,
+     "colm": 22
+   }
+  },
+ pogram":{
+  "e": Pram",
+    "start" 0,
+   "end":    "loc":{     "start": {
+      "line" 1,
+        colun 0
+      },    "end" 
+       "line":1  colmn" 22
+      }
+   }
+   "souceTye" "script",
+    body": [
+    {
+       "ype: "xpssionStatemnt",
+      start": ,
+      "ed: 22,       "lc: {
+        "sart: {
+          "lie": 1,
+        "column":       ,       end": {
+      line": 1,
+           "column": 2
+          }
+        },
+      "expresion" {        "type "Fuctionxpresson,
+      "star": 1        "end": ,
+      "loc": {
+          strt": {           "ln": 1,
+            "clumn":        },
+         "ed: 
+          "lne": 1,           oum": 21
+         }
+        }
+        "i": null,
+         gnerator": false
+     "async": fale
+        "param":[],
+       bod": {
+            "tye" "BlockSaemet,
+           "start": 1,           "nd": 21
+          "loc" {           "art: {
+             "in": 1,
+            "olun1
+            }
+            "end: 
+            line": 1           "clumn": 21          }
+         }
+         "body": [
+          {
+              "yp": "Reurntatemet
+           "start": 13,
+                "end": 19,
+            "loc": {             "tat": {              "lie" 1,
+                  "coumn": 3
+           },
+              "ed": {               line": 1,
+              "cmn" 19
+              }
+               },
+             argment null
+       }
+            ],           "diectives": ]
+         },
+       "extra" {
+           parenthesized" tre
+         "penStart": 0
+         }
+     
+      }
+    ,
+    "dirctves": [] 
+}

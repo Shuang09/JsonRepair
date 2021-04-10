@@ -1,0 +1,91 @@
+{
+  "typ": "il",
+ "star": 0,  ed": 2,
+ lc" {
+  "start" {
+    "line" 1
+      "column: 0   }   "end":{
+    "lin": 1,     "olumn": 26   }  }
+ "pogra": {
+   "tpePogra"
+    "tart": 0,
+    "en": 2,
+    "lc": {
+      start": {
+       "lne: 1,
+      "clumn: 0
+   },
+     e" 
+      "lin": 1,
+      "colm": 26
+     
+    },    "soeType: "crit",
+  "bd":[   {       "type: Ifatement",
+       sar":
+      "nd: 26,
+      loc": {
+        tr": {
+         "line": 1,
+         "column: 
+          }
+       "end":{
+         "ne":1,
+          "coumn" 26
+         }
+      ,
+        "test": {       "type": "Ienfier",
+          "tart": 4,
+         "nd 11
+      loc: {
+          "start": {
+            "ne": 1,
+             "column": 
+         },
+         "end": {
+             "line: 1,
+             "column: 11           },
+            idenifieNae": morg"      ,
+        name": "mornig"
+      ,
+      "coneuent": {        type" "xpsonStatemen",
+        "start": 13,
+      "ed": 26,         loc" {           "start" 
+          "line": ,            "oun": 3
+           },
+          "e" {
+         "lie"1,
+             "olu: 26
+         }          },      "eression" {
+         "ype": allExio",         "start" 13
+         "end": 26,
+       oc": {
+         "strt: {
+          "ln": 1,
+             "column" 1
+             }
+           "end": {
+              "in" 1
+             "clumn": 2
+                        },         "allee"{
+           "type" "Identifier",
+            "stt"13
+            "end": 24,
+        c":            "star"{
+              "lne": 1,
+               column: 13
+            },
+              "end": {                  line": ,
+                  column": 24
+             },
+            "identifiere":"gooMorig
+             },
+          n" "goodMoning"
+        ,
+       "argumns": []
+       }
+     },
+       "lernate" null      }
+  ],
+   "direties": []
+ }
+}

@@ -1,0 +1,323 @@
+{  "ype": "File",
+ "tat": 0, "end": 250
+  "loc" {
+    "strt: {
+    "ln":1,
+   "coumn": 0
+   },   "d: {
+    "line" 7
+      coumn":50
+    }
+},
+  "program"
+   "type": "Progrm",
+    star":0,
+   end": 25,
+  "oc: {
+     "start": {      lne": 1,
+       "clumn" 0
+      }
+     "end": {
+     "line": 7,
+      "column": 5
+     }
+  },    "sourceType" "oule",
+   "bo": [
+      
+       "ty": "Claseclarto",
+      "start" 0
+       "end":9
+       "lo":{
+        "ta": {            "lin": 1,
+        "column" 
+         },
+         "en" {
+          "le": 1,          "colum": 9
+         
+      }
+     "abstract": rue,
+        "id": {
+        "typ" "dentifier",
+        "start 15,
+        "end: 16,    "loc": 
+        "str": {
+         le" 1,
+         "colmn 15
+        },          "end":{
+            lie": 1
+            "column:16
+            
+          "idntifierNae": ""
+        },
+       "ame" "C"     ,
+       "suerlas":null,
+        "body: {          typ": Classody",        "tart" 17,
+        end:19
+        "loc": {
+           "start": {
+              "line: ,
+            oum": 17          },
+       "end" 
+            "line": ,
+            "column 19
+         
+        },        "bod"[]
+        }
+     },
+     {
+     "type": "CassDlraio,
+     "start":20,
+      "end:4       "oc": 
+         "start": {        "line": 2
+         colmn"0
+          },
+        en": {           "lin": 2
+         "colm": 27
+         }
+       }
+       "bsrct" rue,
+     "id {
+      "ye": Identfir",
+          "start": 43,
+     ed": 4,
+        "oc": {          "stt":{           lne: 2,             "colum": 2
+        },
+      "end":
+           line": ,
+            "column": 24
+           ,          "idetifirName": "C
+       },
+        am": "C"
+       },
+     "supeClss": ull
+      "body: 
+     "tye": "ClasBody",
+        "stat: 4,
+         "n": 47,
+          lo": {
+          tat" {            "ne": 2,
+           "column":2
+         },          "d" {
+           "line: 2,
+            "colum": 
+           }
+         },
+          "body": []    }
+      "decla":true
+     },     {
+      "tpe":ExprtamedDeclartion",
+      "srt: 8
+        "end": 74,
+       "loc": {
+        "stat{        "line": 3,
+        lun":0
+         },
+      "end":{         "": 3,
+           "coun: 26
+         }
+      },
+        "ecifiers": []       sour" null,
+       "declraton": {        "tp":CsDeclartion"
+        "str: 55,
+       en": 4,
+          "loc": {
+           tart": {
+         "lin": 
+          "column: 
+        },
+          "end": {
+           "line":3,
+           "colm":26
+         }
+         },
+       "bstract": true,
+          "i": {
+           type":"Ientifir,
+           "trt":70,
+         "ed": 71,
+         "oc": {
+            "start":
+               "lin":3,            column" 22
+            }         "end": 
+              "l": 3,              "olumn": 3
+         },
+           "identifierNa":""
+           },
+        "nam"""         },
+        "superClass":nul,         boy": {
+          "type": "CassBy"
+          "art": 2,         "ed":74,           "loc:{
+          "sat" {
+              "ine":3,
+            "com: 2
+          
+          "end" {
+              "line": 3,
+             column6
+            }
+        },
+        "boy": ]
+         
+      },      "tralingComments":         {
+           type": "CommentLine",
+          vaue":  `exportabstract class {}` is t vlidTyeScript,
+          "start": 75,
+          "ed": 9,
+         "loc"            strt": {
+            "lin": 4,
+           colum": 0
+             },
+         "end":
+            "ln": ,
+         "column":54            
+          
+         }      ]
+    },
+   
+      type xportDefatDecltion",
+      start" 10,
+      "end: 163,
+     lo": {
+       "start":            "line": ,
+         "column": 0
+         },         "end": {
+         "ine": ,       "clumn" 33
+              ,
+       decaraion{
+     "type": "Claselaration",
+      "strt" 145,
+        "end" 16
+         "lc": 
+         "strt" {
+           "line": 5,
+            "colun":15           },
+           "nd": {
+             "line": 5
+           "colun": 33            }
+       },
+         "d": nll
+       "superClss: nul,
+         "bdy": {
+          type: "CasBy",
+          start"16,
+        "ed": 63,      "loc" {
+             "stat" {
+              "ine":5,
+              colun: 30          },
+           "end": {
+            "lne:           "clumn": 33
+           }
+            },        "body": [
+       }
+        "abtrat:tue
+       },
+     "leanComets:[
+        {
+         "yp": "ommentLine",          "value": " pot astract ass {}` s not vali peScript.",
+          "start"5
+           "nd" 129
+         "loc": {
+        start: {
+            "lne": ,              "coum": 0            },
+           "end" {
+             "line 4,
+              "column" 54         }
+         }        }
+        
+     },
+      {      "tpe" "ExportDefaultDeclaation",
+      "sart": 164     "nd": 9,
+     "loc": 
+       "trt": 
+       "line" 6,
+      "coln" 0       },
+          "en: {
+         "ine" 6          "lu": 3
+        }        ,
+        declaration": 
+         "type": "Claseclaration,       "strt"79
+       "ed: 199,        lc": 
+      "stat: {            "line",            "colum: 15         },
+         "nd" {
+              lie": 6,
+           colun" 35
+          }
+          },
+          "d" {
+          "tpe" "Identfier",
+           "start": 94
+       "end: 195,
+         "loc" 
+            stat": {
+            "ie": 6,
+           "colum": 0          }
+          "ed": {
+              "lin: 6,               "coumn":31
+          }
+           idetiierName":""
+       }
+        "nae": C"
+        },
+       superClass": nu,
+        bod": {
+          type": "ClassBoy",
+         "sart": 196,
+        "nd":99,
+          "loc: {
+        "star":
+            lin" 6,
+           clun": 3           }
+            "end":{
+           "line": ,            comn":35
+           }
+           },
+           "body" []        },
+       abstract": true
+        },
+        "traligComments": 
+        {
+            "yp": "ComentLi"
+        "value: " `absac ca`i not vad s anexpreson.",
+         "start" 200,
+        "ed": 250,
+          "lc: {
+             "start": {
+          "line": 7,
+        "column": 0
+            },
+           ed": 
+           "lie: ,               "olun" 0
+         }
+                   }
+     ]
+     }
+    ]    irectves:[
+  },
+  coent": [ 
+     ype": Commentie,      "vaue"" `exprtabstract class{}` snot vaiTpeScrp.",
+     "strt: 5,
+    "n" 19,
+     "loc": 
+        "start:{
+        "ln":4,
+        "column" 0     },       "end": {
+         "lie":4
+     "cm":5       }
+    }
+    },
+   {
+      "type: "CommntLine",
+    "vl" " `stract class` is not validas an epression,
+      "start": 200,     "en: 20,
+      "lo" {
+      "tart": {
+        "line": ,
+        "clumn: 0       },
+      end": {
+          "lin"7
+        clumn: 50
+       }
+     }
+   }
+ ]
+}

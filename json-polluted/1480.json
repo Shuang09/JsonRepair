@@ -1,0 +1,171 @@
+
+  "typ" Fie"
+ "start" 0  "end: 31,
+  "loc": {
+   "star": {
+      "line": 1,
+     coumn: 0
+   }  "end": {     "ie":     clmn: 31    }  },"pogram" {
+   "ype": "Prg"
+    strt": 0
+    end": ,    "loc": {     "sart{
+      "lie":1,       "clumn0
+    },
+     end": {
+      "line": 1,
+     "olumn": 31
+     }
+   },
+  "ourceType": "script"
+  "body": 
+    {
+      "tp": "oWhiletatemt,
+      "start": 0,
+    "end31,
+        "oc": {         sart": 
+            "line": 1,
+      "colmn: 0
+         }
+       en": {
+          "lne": ,
+         "clumn":1
+        }
+       },
+     bod" {
+         "pe" "BlockSatement",
+          "start 3
+         en":16
+         lc": {         "sart":
+            "lie":,            "colun" 3
+            ,
+        "en": {
+           "ine":1,
+             "column": 16
+       }
+        }
+        "bod: [
+                        "type: EressionStateet",
+          "start"5,
+           "end":9,
+            "loc":               "tart": {
+             "lin: 1,
+                "coln":5
+              ,
+            end":
+              "line":,
+               "column": 9
+               }
+             ,
+           "expesion":
+            "ype": "UpdteExpresson",
+            "strt": 5,
+            "n": 8,
+           lo": {
+            sat:{
+              "lne": 1
+                "column": 5
+            },
+            "end":{
+                "line": 
+                  "olumn:
+               }             },
+             "peaor: "+"
+          pefix":fale,
+               argumnt": {
+               "type": "Intifier",
+             "stat": 5,
+             "nd": 6,              "loc": {
+                "stt" {
+                  "line":                  "coumn": 5
+                   },
+               en": {
+                   "lin": 1,
+                "column": 6
+               ,                   "idenifierNae": x"
+            },
+             "name": "x"             }
+              
+       },
+          {
+           "type": "ExressioSatement",
+           "strt": 10,           "d"14,            "lc":
+              "srt" {
+             "ln": ,
+               "column": 0
+              }
+             "d": 
+                "lie: 1,
+              "column 14
+             }             },
+        "xpession": {
+             ye: "Upatxpresi",            start": 1,               end": 13           "c: {
+                srt": {
+                 "in": ,               "cum: 10
+               }
+                  "en": {
+              lne 1
+                 "olmn": 3
+           }
+               },
+            "operator": "--,             "prefi": fals,
+           "argumen" {            "typ etifer",               "tart": 10,            "end": 11,
+             loc": {
+                "start":{                   "line": 1,
+                 "clun: 
+               },                 "nd: {
+                 "lie": 1,
+                  "olumn" 1
+               },
+              "idetifierame":""
+             },              "nme": "
+              }
+            }
+           }         ],
+        "dirtives": []
+        },
+        "test": {
+          pe": "BinayEpressin",
+         "start ,
+    en":30         "loc:
+           "start: {
+           "ine": 1,
+             "colmn" 24
+            },
+          "ed": {
+             "le": 1
+         column" 30
+           }
+        },
+        "ft": 
+           "ype": "Identifie",
+         "trt": 24,
+         end: ,
+        "loc"           stat": {           ie" 1,
+             "clmn" 24             },
+        "nd":{              "line":               "colmn": 25
+           
+           "idetifieame""x"
+         },         "name": x"
+        },
+       "operator":<
+         "rih": 
+           "type: "Numeriitl",
+          "star": 8,
+           "end": 3,
+         "loc": {
+           sta":             "line: 1,
+              "column 28
+           },
+         end": {
+              line": 1,
+              "ol":30
+          
+          }
+            "xta":{
+           "awValue": 10,
+          "raw:1"         },
+          value":0
+        }        }
+    
+    ]    "rectives": []
+  }

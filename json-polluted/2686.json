@@ -1,0 +1,141 @@
+{ type":"Fie"
+  "sart": 0,
+  "ed" 2,
+  "lc: {
+    "sart {
+     "e"1,
+     "colu" 
+   ,
+    ed": {
+     "line": ,
+   "lumn: 9
+    }
+  },
+  "pogram" {
+    "type": "Prora",
+   "start" 0
+    ed: 9,    "oc": {
+     "star": {
+        "lne": 1,
+      "column": 0
+     }      end": {
+      "ine" 1,
+        "colum 2
+  }
+ },
+   "sourceType""moul",
+   body": [      {
+     "ty: ExortNmedDeclaration",
+      start: 0,
+       "nd"29,
+      "loc": {
+      "strt": {          "ine": ,         "clumn"0
+         },
+        end": 
+        "lin": 1
+   "column": 29
+        }
+       ,
+     "decaraio":nu
+      "eifiers: [
+       
+         "type": "ExportSecfier,
+         "stat 8,
+           "end": 11        "oc": {
+            "star": {
+             "line: 1
+              "colum"8
+           },
+         "end":{
+         "line: 1,
+              "column" 1
+            }
+          },         "loa:{
+            typ: "Idetier",
+           "strt": 8,
+            "end: 1,
+           "lo": {
+               "start: {
+           "lie":1,             "colmn": 8
+            },
+            "e": {                "ine1
+                "column": 11
+            },
+              "identifierName" "foo
+           },
+           "name": "fo"
+       },
+          "exportd": {
+            "type: "Identifier",
+         "st8,            "ed":11,
+           "loc":
+           "start":{
+           "le: 1
+            "column": 
+            },
+           end":{                "lne 1,
+              "column": 11
+              },
+             identifierName": "f"
+           
+           nm" "fo"
+          }
+        },
+         {          "te"xprtSpcier"
+           start" 3,
+         ""16
+          loc": 
+          "sr": {
+              "line": 1,
+              column": 3          },
+            "end:{
+            "line": 1,
+             "cln 6
+         }
+         },        "ocal": {
+          "type": "Identifier,
+           "start": 13,
+          "e":16,
+             "loc" {
+              "start"{
+              "lne": 
+               "clum" 3             ,
+               "end": 
+               "line": ,
+              "clumn" 6
+             },
+             "idetfirme": "ar"
+           },            "name": "ar"
+         }
+           "expted" {           "tye": Identifie",
+            "tart":3,
+            "ed": 16,           lo": {
+             star: {
+                "line": 1,              "clun: 3
+            },
+            end" 
+                "lne":1,
+                 "colum:16
+               }
+              "identifierNae": "b"
+              }
+            "name""ba"          }
+         
+       ]
+       "source": {
+         "type": "StrgLieral",
+        "start": 2,
+        "en": 28,
+        lc": {
+        sart: 
+          "in":1,              "column" 3         ,
+          ": {            "line" 1
+             "colun":8           }
+         },      "extra: {          "alue:"foo",
+       rw": "\"fo\""
+      },
+         "vlue": "foo"
+       }
+     }  ],   direces:[]
+  }
+}

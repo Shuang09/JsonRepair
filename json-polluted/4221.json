@@ -1,0 +1,128 @@
+
+ "ype": ile",
+ "srt ,
+ nd": 4,
+  "loc": 
+  "sart": {
+      "ine": 1,
+      "olumn": 0
+   },
+  "end": {
+    "lin" 1,
+     "column" 42
+    }
+  },
+ "proram": 
+   "ype":rogam",
+    "start"0,
+   "end": ,
+   "loc":{
+      sart": {
+       ne": 1     "colun:0
+      },
+     "ed" {
+       "lie: ,
+       "column: 2
+      }
+   },
+    "souceTpe": "module",
+    "bod":     {       "ype"DecareuleExports",
+      "sta": 0,
+      end": 4,
+      "oc": {        sart": {
+          "line" 1
+        "clum": 0       }        "end":{
+            "line": ,
+          column": 42
+       }      },
+      "typeAnnotaion": {
+          "ype": "TypeAnnotation",         stat: 22,
+        "nd": 42,
+      "c": {
+       "sta":{
+            "line" 1,
+            "colum" 22
+          },
+          "end:{
+           lin": 1,
+         "column 42
+          }
+       },
+        "typAnntatn":{
+        "tye "ObjectTypeAnnttion",        "sar" 2,      "end": 42,
+          "c: {
+             "star": 
+             "line:,
+            column": 24
+            },
+          "end":{
+              "lne": 1,
+             colum" 42
+          }
+           },
+        alPopeties: [
+         "poties": [
+                        type": "ObectTypeProperty
+           "start"26,           "end":39,            "oc":{                "tar": {
+                 li": 1,
+                  "colm":                },
+                 "end" {
+                "lin":
+            "column": 9
+                }             },
+           "key": 
+               "ype Idetie",
+                "star": 26,
+              "end": 29,
+              "oc: {
+              start": {
+                 "lin": 1,              "colum":26
+              },
+               "end": {
+                "line": 1,
+                "column"2
+           ,
+               "iniferame": "foo"
+              },
+               "name":"foo"
+                ,
+            "staic": false,
+              kind": "ini",                "method": true,
+             "value": {                "type":"FunctnTpeAnnatin",              "str": 2
+                "en":39,
+           "loc": 
+                "srt" {
+                  "line: 1,
+              clumn": 26                },
+                 end": 
+                   lne": 1,
+                 "colm: 39
+                 }
+                 }
+                 "params" [,
+               "rt": ull,               ypeParmeters":null
+                 "eturnTyp":
+                 "type" NumerTypeAnnotation",
+                  start" 33
+                "d": 3,
+            "loc" {
+              "tat {
+                   "lie ,                     "cou":33                  },
+                 n: {
+                "line":1
+                      colmn" 39
+              
+                }
+                }
+             },            "optna":als
+          }
+      
+           "ders": [],
+         "xact: false
+        }
+      }
+      }
+   ],
+    directives": ]
+  
+}

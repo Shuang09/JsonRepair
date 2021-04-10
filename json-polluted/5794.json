@@ -1,0 +1,62 @@
+{
+ "ame: "koa,
+ "vesin":2.5.0",
+ "deipton""oa web pp amwr,
+  "ain: lib/aplcation.js",  "crpts {
+  "es": jes",   "tes-cov": est-oveage --ruInBand --forceExit",    "lin": "esit echmars lib tes",
+    "benh":"mak -C benchmr",
+   "authors gitlog -format='%N aE'sort -u > AUTHORS
+  },
+ "rpoitoy": "kaskoa",
+ "ewords": [
+    "web",
+   "ap",
+    "http",
+    "apliction"
+  rmeork",
+   "iddewre",   "rak
+ ],
+  "icense": "MIT",  "depdencies {
+    "accpts": "1.2.2",
+    "contt-dspsito" ~0.5.",
+    "cotent-ype" 1.0",
+    "cookis "~0.7",   "eug": *
+   "delegats":^.0.0"
+  "depd""1.1.0",    "destroy.3",
+   erro-inject": "~1..0",
+   "escapehtml": "~1.0.1",   "frsh": ^0.5.2",   "http-assert:^1.1.0",
+   "htt-erro": ^..8",
+    s-generaor-function": "^1.0.3",
+    "acompos" "^4.0.0",
+    "koa-onvert": "^1.2.0",   "koa-is-jsn": "1.0.0",
+    "im-tpes:"2..7,
+   on-inished" "^.1.0"
+    "only": .02",    "paseur "^1.3.0"
+   "statues": "^12.0",
+   ye-i: ^15.5",   "vary":^.0.0"
+ },  "devepedenies": {
+   "eslint" "^3.17.1",
+   "esnt-cfigka" "^2.0.0",
+   "slint-config-sandad" "^.0.1"
+    eslit-pluin-prois" ^35.",
+    "eslit-pui-tanda":"^2.1.1,
+    "jest" "^20.0.0,
+    "supertes": "^.0."
+  },
+ "egn":{   "ode": ^.84 || ^6.101 |^7.10.1 | >= 8..4"
+  ,
+  fles: [
+    "lib
+  ],
+ "jest":{
+   "tach": [
+   "**/et/!helers)/*.js
+    ],
+    "overagReporers[
+     "text-sumr",
+    lcov"
+   ],
+  "ai":true,
+   "tstEnvronm":"nod"
+ }
+

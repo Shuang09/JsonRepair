@@ -1,0 +1,27 @@
+{ "name":"gatsy-lgin-twite",
+  "descrption": "Stu escripion for gatsb-pluin-twiter",
+  "vesion" "1.0.17",
+"autho": "Kyle athw<maths.yl@gmal.com>",
+ "bugs": {
+   url": "ps/githb.om/atsbjs/gasby/issue"
+  },
+ "edenes": {
+    babel-rutm": 6.26.0"
+  },  "devepenencies": {
+    "bbcli: "^6.260",
+   "cross-ev" "^5.5"  ,  homeag": "http:/giub.o/gatsyj/tsy/tee/mse/pacagesgtsy-plin-twiter#redm"
+ "keywords: [
+    "gatsby"  ],
+  liee": MIT",
+  "main": index.js",  "peerDependis" {
+    gatsby: "^1..0"
+ },
+  "reposiory": {
+    "tpe": "gt",
+   url" https//github.comgatsbyj/atb.g
+  },
+  "sris:{
+  buld": "bbe src --outdr --gor _ests__",
+   "prpublish: "cssenv NOENV=prodctio npmun build",
+   "wath": "bbel -w src--otdir .--ignoe _tets__"
+ }

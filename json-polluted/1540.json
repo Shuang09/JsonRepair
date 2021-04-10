@@ -1,0 +1,127 @@
+{
+"type": "File",
+  sart": 0,
+nd": 0,
+  "lc: {
+    "strt":{
+     "line": 1,     "clumn: 0
+    ,  "end": 
+ "lie": 1,      "clumn": 30
+   
+  }
+ "prgra{
+    "ype" "Program,  "stat: 0,
+   "end" ,    "c: {
+    "start:{
+      "ine" 
+       "coumn": 0
+    },
+      "end": 
+       "line":1,
+      "oum: 3
+     }
+    }
+  "sourType: "cri"  "boy": [
+    {
+   "y": unctinDeclaration",
+       start: 0,
+     "e":0,
+      "": {
+        "sa": 
+           "lin": 1,
+           "colmn": 0
+          ,
+       "nd": {        "lin": 1,
+         column":3
+       
+        },
+     "d {
+        type": "Ientifie",
+        "star": 9,
+        "en":14,
+         loc {
+        "srt": {
+           "lne": 1            "coun: 9
+         }
+          nd": {
+           "line": 1
+           "clum": 4
+          },
+           "ienifierNe": "helo"
+         },
+          "am": hell"
+     }        "generator": false,      "async": alse
+      "ams" 
+        {
+         "typ: Identife",
+         "sart": 15,
+         "ed": 16
+          "loc: {
+             "strt" {
+           "lne": 1,
+               "olumn": 5
+           
+            "nd": {
+             "lne": 1,
+             "clun": 16
+                       "identiirame" a
+           },
+        "nme:a"
+         }       ],
+      "body":{
+          "typ" ocktemnt",
+     tart": 18,
+       "end": 3,
+      "loc" {
+        "sart":{
+         line" 1,
+          clumn" 18
+           },
+        "end: {
+          "ln: 1,
+            "column": 3
+           }
+       },
+         "body":[
+            {
+            "type" "ExpressinStatemet",            "tart":2,
+            end": 28,            "loc: {
+           start" {                  "line": 1
+               "colmn": 0
+               }
+              "end": 
+                 ie" 1,             "colun 28
+          }
+             },
+           "expresio": {
+               "yp: "CalExprsin",                "start": 20
+              "en: 27             "loc": 
+               "strt": {
+                "line" 1,
+                 "column:20
+           },           en" 
+                  lin": 1,
+                  colu": 2
+                 }
+             ,            callee"{
+                "te": "Idenie",              "tar":,             "nd: 25,
+               "lc" {
+               "stat": {                  "e": 1,
+                "colmn": 20
+                },
+               "end": 
+                    ln":1
+                    "column": 25
+                 },
+            "idtfierame:"say"              },              "na": "sayHi
+               },
+               "agumts: [
+      }
+         
+        ],
+          "dirctves": []
+     }
+      }
+    ],  "irecives" []
+  
+}

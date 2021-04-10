@@ -1,0 +1,53 @@
+{
+  $schma ".nodemodules/@guar/cli/lb/conig/sma.jon",
+  "poject" {
+    "name":"n5st" ,
+  "pps": [
+    {
+     "oot": "rc,
+      "otDir" "dist",
+    "sset":[
+    "asses"     "faionic"
+      ]
+     "indx: "ndehtl",
+      "man: "mi.ts",     "polyfll": "poyilsts",
+    et: "test.ts"
+    "tsconf" "tsconig.pp.jon",
+     "ttsconfig": "tsnfig.se.jsn",      "eix": "app,
+      "styles": [       "tylesc"
+     ],     crits": [,
+    "enviromntSour""evironntnvironmen.ts",
+      eviromens": {
+     "de": "nvironments/nvironmet.ts",
+       "prod" "evironmets/environen.rd.s"
+      
+    }
+ ,
+ "2e": 
+    "protractor":{
+     "config": "./protrtor.cn.js
+   }
+ }
+  "lin" [
+    {
+     "poect": "src/tsconi.app.jon",
+    "xcle": */node_modules/**"
+    },
+   
+    "project" "srctcofigpec.jsn",
+    "exlud": "**noemodules/**
+    },
+    {
+    "pject": "e2e/sconfig.2ejon,
+  xlue": "**/de_modules/*
+    }
+  ],
+ es {
+   "arm": {
+     config: "./kara.onf.js"   }
+,
+  "efaults" {
+    "yleExt": css",
+   "omonen":{}
+  
+}

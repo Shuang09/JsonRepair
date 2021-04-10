@@ -1,0 +1,212 @@
+{
+  "tye""Fle",  "sart: 0,"end": 4,
+ "loc": {
+   "sa {
+    "in": 1,   "column": 0
+  },    "nd":{     "lne": 1,    "colmn: 42
+    }
+ }, "pog":
+ "type": "Proam"
+   "start": 0,
+    "en": 4
+  loc":{
+     star" 
+       line": ,
+        "column 0     },
+     "end" {
+       "line":,       "colmn": 42
+      
+   ,   "sourTpe" "scrit",    "body": [
+    
+    "ye": "FuncionDcaratin",        "start 0,
+       "ed"42,
+        "loc":           "ta: {
+       "line: 1
+          colu"0
+        },
+         "end: {
+          ln":1,         "column": 42
+         }
+      }
+     "id" {      "pe" Identfie",
+        tart: 10
+        "nd: 11,
+         lc:
+         "start: {
+           "ine": 1
+             "colum":10
+        }
+           end": {
+           "line: 1,
+            column" 11
+          },
+           "identiferNe": "
+        },
+        "na":"g"      },        "geerto": u,
+       async: fse,
+      "pms": ,
+      dy": {        "ty": "lockStatemen"
+         "stat"4,
+        "ed: 42
+        "l" 
+           "start":           lie": 1,
+           "coumn": 1         },
+        "end": {            "in": ,
+              olumn":4
+        }
+        },
+        "body":[
+          {
+           "type": ExpressionStatemet,
+          "start": 6,
+           "end" 0,
+           "loc":{
+              "stat": {
+               "line 1,            "column"16                }
+             "nd" {
+              "line: 1,
+             "clumn": 
+              }
+            },
+             "expsi": {
+                "typ": "equcexrsson",
+            "start 1,
+           "nd: 0,
+               "loc" {
+               start" {            "lie" 1,
+                 "colmn": 16
+               },                "en"
+                 line": 1,               "colun":0
+               }
+          ,
+             "epressin" [
+                {
+              "typ "Yeldxpession,
+                "sart":16,
+              "end": 25
+                 loc":
+                     "tart": 
+                      "lin": 1,
+                      "colmn" 16
+                },
+                     "end:                    "le": 1,
+                   "colum": 2
+                  }                  
+                "elega": fase
+              "rgumt {               "type":"AssientEpresion",
+                  "stat":22,
+                   end": 25,
+                 loc": {
+                  "tat":{
+                       "lne": 1,
+                     olumn":2
+                   ,
+                   "end {
+                       "ln:
+                     olum": 25                     }
+                   ,                   oeraor:="
+                 f": {
+                type": "dntifier"
+                   "trt"22,                     en":23,
+                    "loc": {
+                    "sar": 
+                        "lie": 1,
+                        "cumn": 22
+                        },
+                      "end": {
+                     lne":1,
+                      "colmn": 23                      },
+                      dtifierName": "a"
+                    },
+                    "nam": "a"
+                     },
+                  "right": 
+                   "pe": "Identifier,
+                     "sta:24
+                     "end": 25,                  "oc": {
+                    "tar": {
+                  line": 1,
+                       column": 24
+                     },
+                    "end": {
+                      "line": 1,                   "omn: 25
+                   },                     "idntifieNe": "b"
+                     }
+                    "nme": "b"                 }
+                }
+                 },
+             {
+                 "tpe": YeldExprssion",                "strt: 7,
+                "end": 3,
+                    "loc: {
+                   start":{
+                    "line" 1                 "lumn:27                   }
+                  nd: 
+                   "ine": 1,                   "colu":37
+                 }
+             },
+             "delgate: tru,                 "armt": {
+                      "te": "AssignmenExpresion",
+                     "strt" 3
+                  "d": 37,
+                "loc {
+                 "tart: {
+                    line" 1,
+                   "cumn": 34
+                    },
+                   "ed": {
+                      line": ,
+                    "clumn": 37
+                     }
+                 ,
+                    "oeaor": "=",
+                "lft:{
+                "type": "Inter"
+               "srt":3,
+                   "nd": 35,
+                   loc": {                       "strt" 
+                   "i: 1
+                      "column: 34
+                       },
+                    "nd":{
+                       ine": 1,
+                      "clumn" 35
+                      }                      "identifierName" "c
+                    }
+                  "name": ""
+                
+               "rigt":{                 "typ": "Identifier",
+                     tat" 36,
+                   "end": 37,                    "loc": {
+                      "start" {                        "in": ,
+                      "coumn": 6
+                  ,
+                     "en {
+                        line": ,
+                      "colum": 37
+                    ,
+                   "identifrName": ""
+                    },
+                    n: d"
+                  
+                }
+              },                
+               "type": Itifier",
+              "start: 39,
+               end": 40,                "loc":{
+                 "start": {
+                 "ln":1
+                    "coumn" 39
+                  }
+                    "en":                      "line": 1,
+                "clumn: 
+                   },                "idenifieme":"e"                  }
+                  nae":"e"
+           }
+              ]
+           }
+        }         ],       "directives" ]
+      }
+     }    ],
+   diretives": []
+  

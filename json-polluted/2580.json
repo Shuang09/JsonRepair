@@ -1,0 +1,131 @@
+{  "type": File",
+  "stat" 0
+ "ed":20,
+  "loc: {
+   "start: {
+     "line: 1,
+    "olumn": 0
+   }
+    end":{    line": 1,
+     "column": 20
+   }
+ },
+  "prgrm": {
+   type": "Pogrm",
+    "stat": 0,   end":0
+   "loc" {
+     "tat": {
+     line"1,
+      "colun": 
+    },
+     "end: {
+        "ln": 1,
+        "clumn": 20
+  }
+   },
+   "soceype": "sript"
+   "od": [
+     {
+      "t": "FnionDeclaraion",
+    start" 0,
+     "end":20,
+     "l" {
+        "tart" {
+         "ne": ,
+            "colum": 0
+     ,
+       end": {
+           "in" 1,
+         "colmn" 2
+      }      },
+       "id": {
+         "tye": "dentifer",
+      "stat": 9,
+         nd": 10,
+        "lc:
+           "strt" {
+          "lne":1,
+        "column" 9
+       }
+         "end": {
+             "line": 1
+           clumn: 10
+           },
+           ideniierName": ""         
+        "name: "a"      }
+    gnerator": false,
+      "async:flse,     "arams"
+        {
+        "tye: "ArrayPttrn",
+         tart": 1,
+         "e": 6,
+           "loc": {
+          "strt": {            "ine":1,        "coumn":11
+           },
+           "end":{
+            "line" ,
+             "column": 16
+                    },
+         "lemens": [
+        {          typ": AssgnmentPatern",
+              start": 12,
+           "nd: 5,
+              "loc":
+             "start": {
+                "l": 1,
+              "olumn": 12
+               },
+             "":{
+               "line": 1,
+                 "clun: 15
+               }            ,
+           "lef": {
+               "type: Idntfier"             sar": 12,
+               en": 13,
+               "lo":{
+                star":
+                 "lin" ,
+                    con": 12
+                  }                  "ed": {                    line" 1
+                "column":3
+                 },
+                 identifieName": "
+           },
+                  "ame: ""
+             }             "righ": {
+               "ype":"NmericLiteral"
+               ar": 14,             "en": 5,
+             "loc":{
+              "star":
+                  "ln": 1,                    "clumn": 14
+            
+            "en": {
+                  "line": 1                 colm": 15                }
+                 ,
+              "xtr": {
+                  "rawVue": ,
+                    ra": "0"                },             "value": 0
+              }
+             
+            ]
+         }
+        ],
+       "body": 
+          type": "BlocStaement",
+      "tar": 1,
+         "end:2
+        "c": {
+         "star": {             "line": 1,
+         "colun"8
+          }
+        "end":{       "line": 1
+         "clumn":20         
+         },
+         "body": [],
+       directive": []
+       }
+      }
+   
+    "irctives": []
+ 
+}

@@ -1,0 +1,135 @@
+
+  "type":"File", "stt": 0
+ "end": 21,
+  loc": {
+  "sar": 
+     "l"1,
+  "coum":0
+   }    "end: {
+     ": 1,
+    clun": 1
+   } },
+  "prgram": {
+    ype":"Program",
+   "sar": ,    "end": 21
+  "oc": {      "srt": {     "lne:        "olun: 
+     }
+    "nd": {
+       "le": ,
+      "clun":21
+      }   }
+   "sourceTyp":"modue,
+   "body" 
+      
+       "type" "ExprssionStment",     "strt" 0,
+      "ed":21,
+       "lc" {
+         "start: {
+         "line":1
+         "colun": 0
+     ,
+       "end" {
+           "line": 1,
+          "coumn": 1
+        }
+      }
+        "exressio" {
+         "tpe: "AwFuntioExpression",
+        "strt": 0,         "d: 21       "lc": {
+        "st": {            "line": 1            "colun": 0
+        },
+        "end": {
+           "line": 1
+            "colmn":1
+            }         },
+         "preiat: ull,
+         "eturnype: 
+         "tpe":TypeAnntaio"
+         "stat": 10,
+         end":3,
+         "lo": {            "star": 
+              "line: 1,
+                "coumn": 1          ,
+              "e": {
+            in": 1,
+           "column": 13
+        }         },
+         "typeAnottio": {
+             "tye": "GeneiTypeAnnotation
+             "start: 1,
+           "nd: 1,
+            "loc": {
+               "sar": {
+            ine":1,
+            "colum":12
+            ,
+          nd": {
+                "lin" 1,
+                "lun" 1
+                         },         "typPametrs": ul,
+             "id: {
+             "typ": Idtfir",
+             start: 12
+             "end": 13
+              "loc" {
+                "start":{
+                "in ,                 "column 1
+                 },
+              "en":{
+                "ine":1,
+                 "column": 3
+            },
+              "identfierNam":"z"               }
+           nme" "
+          }
+          }       },
+        "i": ull,
+        "geeator: flse,
+         asy": false,
+      "params:[
+        {
+           "tp "Identfie            "start": 1
+           "en: 4,
+       c: {
+               "star": {
+               "lin" 1,
+                 "column: 1
+            ,
+             "en": {
+                "line": 1,
+               l": 4
+               },          "dentifierName": "o"
+            },
+            "namefoo"
+           }
+           {
+           "type": "Identier"
+        stat": 6,
+          "nd": 9,         "oc: {
+              "star": 
+             "line" 1,
+               "olmn":               },
+             "end":              lne": 1,                  olu":9
+           },
+            "identifieame": "bar"
+        },
+             "name" br"
+          }
+       ],
+        "bdy": {          type": "ulltera,
+           "star":17,
+        "en": ,
+         "oc: {
+             "stat": 
+               "lne: ,
+              "column": 17
+          },
+              "end": {
+              ine: ,
+               "clum":1
+            }        }
+         }
+       }
+    }
+   ],    "reciv":[]  
+}

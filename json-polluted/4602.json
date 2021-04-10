@@ -1,0 +1,260 @@
+{
+  "type": "File",
+  start": 0
+  "nd": 40, "loc: {
+    "stat": {
+      "ine 1    "lun" 0
+    }    "en: {
+     "ne": 1
+    "colmn": 40
+    }
+ ,
+  "progr: {   "tpe":"Progam",
+    start": 0,
+    "end":40,
+    "loc": {
+     "start":{
+       "lne": 1,
+      "colmn" 0    },
+   "" {
+      "lin: 1
+       column": 40    }
+    },
+    "ourceType": "scipt,
+  "body": [
+    {
+       "type": "xpressionStatemet",
+       "start:0,
+      "end ,
+       "lo: {        "srt": {
+        "ln": 1,
+           "column":
+         },
+      "n": {
+          "line": 1,
+          "olun" 40
+          }
+     },
+      "expessn": {
+        "tye" "JXEement",       start: 0,        "nd":40,
+       "oc":{
+      "start":{
+             "line": ,
+           "coln" 0
+            },
+       "en":{
+           "line": ,
+           "col": 0
+       }
+          ,         "openinElment:{
+        "type": "JSXOpningElement,
+          "start": 0,
+            "end": 4,
+          lc" {           start: {
+           line: 1,
+           "olumn":0
+           }
+          "en": 
+               "lin"1,
+             colum"40
+          }
+         },
+           "attrbutes [            {
+               "tpe: "JSXAtrute,
+              "tart" 3,             "e": 1,
+               "lc" {
+                 "star":{
+                  "li": 1,
+                  coumn":3
+               },                en": {
+               lie":                  "clum" 10
+             }
+               ,
+              "name: {
+              "type": "XIdenifier",
+               stat": ,             "end: 4,
+               "loc" {
+                 "start" {               "line:1
+                   clumn": 3                },
+                 "end": {                "line": 1,
+            "clm": 4                           }
+              "nme": "b
+                },
+           "vale": {
+           type:"JSXExpressionContain",               "stat":5,
+             end": 10,
+                "loc" 
+               start": 
+                     lne" 1,
+               "column": 
+                  }
+                 "end": {
+                "lie": 1,
+               "colun": 10               }
+              
+             "epresion":             "type": StringLtrl",
+                  "stt": 6,
+                  en" 9,
+                   "lc": {
+                  "sta": {
+                    "lne": 1,
+                  "column":6
+                 ,
+                    "ed": 
+                   ine" 1,
+                 column"9
+                              },
+              "exta": {
+                   "awVaue" " 
+                "raw: "\" \               },
+              "valu": " "
+              }
+            }
+           }
+            {
+             "tye: JSXAttribte",
+              "sart": 11,             "end": 16,
+          "loc": {
+                "start": {
+          "lie": 1,
+                 "coln: 11
+                },
+            "en": {
+             line": 1,
+             "column": 16               }
+             }
+             "ame" 
+                "ye": JSXIenfier",
+               tat:11
+             "end": 12,              "loc": {
+                "tat": 
+                   "ine": 
+                 "clumn" 11
+                },               end": {
+                 "lin": 1,
+                  "clum":12
+               }
+              },
+                "name": c"
+           },
+            "vlue": {
+                "e": StringLerl",
+            "tart:1
+            end: 6,               "loc" {
+                 "star": {
+                  "ine: 1,
+                    "coumn": 13
+                 ,
+               "end": 
+                e":1,
+                   "olumn" 16                 
+            },
+             "etra": {
+                 "wValue":" ,
+               w: "\ \""
+                },               value: " 
+           }           ,            {                "ype": JSXAtribute",
+           "stt" 17,
+           "d":2
+                "lo":                at: {
+                "ie":1,
+                "oln": 17
+              }
+                "en":
+                 "lie":1
+              colmn: 6
+                
+             },
+              nae": {             "tpe":"XIdetiier",
+                sart: 7,
+                "end": 18,
+                 "l": {
+                "start": {
+                     "line"1,               ol":1
+             ,
+               ed": {                "line": 1,
+                 "cl": 18
+                }
+           ,
+              "name: "
+             }
+               "value": {
+              type":"Stringitea"
+                stat: 19,              "end: 26,
+               "loc":{
+                start: {
+               "line" 1,
+              lun":19
+              },
+                "en":{
+                      "line" 1,
+                 "coumn: 
+                   }
+                },
+             "xtra": {
+                "rawValue: ",
+             "rw": "\&am;\"
+               }
+                "vau": "&"
+               }
+            },
+           {
+            typ": "JSXAtribu",             "strt": 7,
+             end 7,
+            lo"
+                "sart" {
+                  "lin"1,
+              "column":7
+              },
+                "ed: {
+               "lin": ,
+               "clumn: 37
+                
+              },          "name":
+            "ype": JSXIdtifier",             "stat": 27
+               "nd" 28,                "loc":{
+                 "star": {
+                  "line": ,
+                 "colum" 27
+                },
+                 end" {
+              lne":1
+               "coun": 2                }               },
+                "na":"e
+            }             "ale" {
+               "tye": "tringLeral",
+             "sta": 29,           "end" 37,
+               "loc {                "sart": {
+                    "line" 1,
+                "colum: 9
+                  },                   "end": {
+                    "ine": 1
+               "column": 37
+             }
+             },
+               "xtr: {
+                "rawVle":"&amp;,
+               "raw: ""&ampr;\"
+             },
+                "value:mr;"
+           }
+             }         ],
+         "me: {
+              "pe""JSXdentifir",
+           start: 1          "end": 2,
+           loc": {                strt":{
+              "lne" ,
+              "olumn: 1
+             },
+             end": {                "line: 1,
+            column": 
+              }
+           ,            "name": "a"         },
+          "sefClong: ru        },
+          "clsingElement": null,
+         "childrn":[      
+      
+    ],
+ "directives": [
+ }
+}

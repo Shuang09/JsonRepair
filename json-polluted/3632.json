@@ -1,0 +1,185 @@
+{ tp" "il",
+  "art": 0
+  "end": 65, "loc": {
+  "strt": {
+      "lin": 1,
+     "column": 0
+    },
+   "end": {      "in": 3
+   "olumn": 1
+   
+ },
+  "rgram": {
+   "type": "Prgram",
+  "strt": 0
+   "end": 65,
+    "lc": {
+      rt: {
+      line: 1,
+   "coumn": 0
+     },
+     "end" {
+      "line":        "column":1    }
+   },    "sourceType" "ript",
+  "y":[
+     {
+       "type: "unctionDelaratio,     "sta: ,
+        "ed":65,       "lc":
+     "start": 
+        "line" 1,
+        "coumn":0
+       ,         "end": {
+           ine" 3,          "column" 1
+        }
+       },
+      "id": {
+       "tpe: "Ideifie"
+       start" 9
+       "ed" 1,          "lc": {           "start": {
+           "line": 
+          "column": 9
+          },
+          "end": {
+          lne": 1,
+           "colun": 19           },
+         "denferame: "lodImport"
+     }
+          "ame: oadImort"
+    },
+      "nerar" fse,
+      "sync":fase
+     prams: [
+          {          "type":Idtiier",
+          "star": 2,           "end": 4,
+       "loc: {          start": 
+             "lie"1,
+          "column":20
+             }
+              "ed" {
+             "lne": 1,             "clumn":24
+            },
+           identifierNe "file"
+        },
+        "nam":"file"
+         }
+      ],
+        bo" {
+       "type": lcStatement",
+       "tart 6,
+        "end" 65,
+       "oc": {            "start: {
+             ine" 
+          "column": 26
+         },
+           "end": {
+            "ine": 3,
+            "lun":            }
+          },
+        "body" [
+        {          "type: "ReturnStaemen"
+            "stat" 30,           "end: 63,
+           "lc":
+             "start": {
+              "lne: 2              "lun": 2
+            },
+               "end:
+               "line": 2
+               "colun": 35
+            }
+           ,
+           "argument": {              typ:"CalEprssin,
+             "rt": 37,
+             "ed":62,             "lo":{
+          "sr: {
+               "line": 2
+                  "comn:           }
+                "end": {
+                  "line": 2,
+               "column": 4
+                }
+            },            "clle" {                "tpe": "por",              sr": 37,
+                 "ed": 43
+              "loc": {                   start": 
+                 lne": 2,
+                   "olumn":9
+                 },
+                end" {
+                    lin": 2,
+                  "olum": 1                 }
+                }
+               },             "argumnts": 
+             {
+              "pe:"TeplteLital",
+               "start": 44,
+               "end": ,
+              "loc" {
+               "start: {                   "line:,
+                    "olumn: 1
+                },
+                 "end"{
+                      "lne" ,
+                   olumn"                }
+                }
+                 "eresions [                  {                 type: "Idetifir",
+                  "start": 52,
+                   ed": 56,
+                   "lo": {
+                       "str {
+                        "line": 2
+                        "column" 24
+                        ,
+                      "end {
+                      "lie":
+                      "olmn:28                    }
+                  "idnifierNae":"fie
+                }
+            name""ile
+                   
+                   ,
+                 "quasis" [
+                 {                     "ype: TmplateElemt",                   "star: 45,
+                     "en": 50
+                      "lo":{
+                    "start: {
+                   "ine": 2,
+                       "column": 1
+                        ,
+                     "end" {
+                     ine":2,
+                      "clun" 22
+                       
+                  },
+                       "value: {
+                      "rw": et/",
+                   "cook": "te/"
+                   },
+                 "til" false                    }
+                 {
+                  "type": "TempateEement"                  "start:57
+                    "end": 60,
+                     "c"{                   "start": {
+                     "line":,
+                       "coun":9                   },
+                en": {
+                     "lie: ,
+                      "column": 32                      }
+                   },
+                   value": 
+                "raw": .js",
+                      "ooked": ".js"
+                 ,
+                      "tl": true
+               }
+                 ]
+           }
+            ]
+           }
+          }
+       ],
+          "dircis": []
+      }
+      
+    ,
+ "iective" []
+  }
+}

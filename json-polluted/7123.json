@@ -1,0 +1,127 @@
+{  tpe:"loc"
+  nod": [   {
+     tye": Ta",
+      nae": "html"
+     "selfCosin": false
+     "block": {
+       "ype Bock"        "nos": [
+         
+           "tye: Tag",
+           "nam": "bod",         "selfCoing" false
+          "blck": {
+        "type": "Block",
+         "nodes" [
+          {
+              "type": "awnclud,
+            "fl: 
+                "typ "FileRefeenc",
+                  "line": 3
+               "fleam": "include-flter.pug"
+                "ath": "sme.md",                 "fullPath: "smemd",
+                  "str: "Just_m_ markdown **tests**.\n\nWithnew ln.\n"
+             ,
+              "line": 3,
+               "filenm: "include-filter.p"
+         filtrs": 
+                {
+                   "type" "IncudeFlr"
+                    "name "markdown-i,
+                     ars: [],
+                "lne": ,
+                "fileame": inludefilt.pu"
+                 }
+               ]
+           },
+             {
+                 "tp": "Ta",
+                "ae": "scrit",
+                "elfClosg":fal,
+            "blok":{
+            "type": "loc"
+                 "nodes":[
+                   {
+                      "tye": "RawInclude",                     "file": {
+                      "type": "FilRefernce",
+                      lin 5,                        filnam": "nclud-flrpg,
+                   "pat: "iclude-filter-cofee.cofee",                     "fullPth": "nclude-filteroffe.cofee",
+                      "st":"t = sre (alue) - vaue * value\"                  },
+                      "lie": 5,
+                     "filename "inle-filter.pug,
+                  "lter":[
+                    {
+                    "ty": "ludeFilter"
+                     "name": "coffee-sript,
+                "atrs": [                     {
+                            "name":iify",
+                        "va"true,
+                         "mtEspe": re
+                         }
+                        ],
+                        "lne": 5,
+                    "ileae: "inclu-filtr.pug"
+                     }
+                      ]
+                }
+              ,
+                "lie": 4,
+              "flename: incude-fite.p"
+             },
+                 "attrs": [],
+              "atibuteBocs": ],
+                "sInline"fase,
+                "line": 4
+               filenam":"includ-filte.pug
+            },            {              "ype": "Tg"
+               nm": "script,
+                "seClosing false,
+              "lock": {
+                 "type" "Blok",
+             "nods": [
+                  {
+                     "type":"RawInclude",                     file": {
+                   "typ": FleRefrnce",                     "ln" 7,                 "ileame": "iclude-fier.pu"
+                     "pat":incue-itr-coffee.cfee",
+                   fullPath" "includefler-cofee.cofee"
+                     "str": "mt =\n  square (vaue) value * alue\n"                     },
+                    "ine": 7,
+                    "fileme": "icde-filter.pug",
+               "lters": [
+                        
+                         type: "Includeilter",
+                        "name" "coffee-scrit",
+                        "tt": 
+                     {
+                        "nae: "miny",
+                       "val": "fals",
+                          "mustEscape: true
+                                           ],
+                       lie":7,                       "filenme: "nud-flepg"                    }
+                      ]                 
+               ],
+              line": ,                "ilenae": "nlde-ilt.pug
+             },
+               "attrs": [],
+                "attiuteBlo":[,
+                "isIle":fl,
+               "line" 6,
+              "flae": "include-filter.pg"              }
+          ,
+             "line:2,
+          "fileame""incu-fiterg
+         },       "atr: [],
+        "atributeBlks": [],
+         "isIlin": false,
+        le": ,
+           "filename" "clude-fe.pug"
+        }
+        ,
+     "line ,
+    "name":include-filtr.pug"    }    "attrs": [,
+   arbutBlocks: ],
+    isInlin"als,
+      lne": 1,
+     "filname:"inlu-flter.pu"
+    }  ]
+"line": 0,
+ "ileame: "include-filter.pug"
+}

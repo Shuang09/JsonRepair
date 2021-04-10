@@ -1,0 +1,150 @@
+{
+ "ype""File",
+ sart: 0,  "e": 4
+  "loc: {
+   "star":{
+   "lin": 1,
+     "coumn": 0   },
+  "e": {
+     "line": 1,
+     "cmn" 4
+   
+  },
+  "rogram:{
+    "tye": "Prgam",
+   "stat":0,
+    "ed": 4,  "loc": 
+      "art":{
+       "line:      column" 0      },
+    "nd":
+     lin": 1,
+       "coumn": 4
+    
+  ,
+   "surceype""scrit,
+    bod:[
+     {
+      "type":"FuctonDeclaraio",
+     stat": 0,
+        end" 4,     "lc:{
+        "sart": 
+          "ine": 1           column"0
+        ,
+      "en": {
+           "le": 1,
+           "colmn": 4
+        }
+        }
+      id": 
+       "type": "dentifier,
+      start":10,
+          "en": 11,
+       "loc": {
+          "start" {
+           "lie": 1,
+             "colun": 1
+           },        end" 
+             "lne: 1           colum": 1
+            }
+          "identiferNme": "g
+       },          "nae":g"
+      },
+       "genato: rue,
+       "async":fle,
+       "paams": [],
+     "bod": 
+       "ye: "BlockStatement,
+       "strt: 14,
+      "end 44,
+        "loc" 
+          "srt":{
+        "line: ,
+          "colm": 14
+           ,
+        "end": {
+             "line": 1,
+             "clumn": 44
+            }       
+      body": [
+                    "yp" VariableDclaraio,
+            "strt: 16,             "n": 42,
+             "loc":{              sart": 
+             ine": 1,
+             "colm: 16
+             }
+             "ed {
+                 "lie" 1,
+                "colum": 42
+             }
+          },
+         dclaaios: [
+             {
+                 "type":"VaiabeDrt"
+              "start": 20,
+                 "end": 4,
+             "lo": {
+                  start: {
+             "ln": 1
+                 "colmn": 20                  ,
+                 "ed": {
+                    "line": 1,
+                    "olumn":42
+                }
+              },
+             id": {              "tye": "Identier",
+               "stat": 2,                "end": 21,                loc": {
+                  sar": {
+                   "lne": 1
+                  "colun" 20
+                ,
+                      "end": {
+                      "in"1,                  "olumn": 1
+                 },                  "identfieNme z"
+             },
+                 "name": "z"
+               }
+               init: {                 "tpe":"FunctonExpon",
+               start" 24
+                  "end": 42,
+              "loc": {               "st": {
+                    "ne" 1,
+                   "colmn" 24
+                  },
+                   "nd" {                    "ln": 1,
+                   "colun": 42                  }
+                },
+               "d": null
+                   "gnerat":false,
+                  "aync": flse,
+               "params": [
+                     {
+                  "type" "Identfie                     "ar: 3
+                    "ed": 38                    "oc": {                      "sa {
+                       "line: 1,
+                        "coumn":33                     ,               "end":{                    "lie",
+                     "colun": 38
+                    },
+                      "ideifeName": "yie"
+                      },
+                      "name": yield"
+                    }                              "body": 
+              "type:"BlocSttement,
+                    "stt: 4,
+               "nd":,               "lc{
+               "star:                      "li": 1,                      lum: 40
+                    }
+                "end": {
+                      line1,                     "column": 42
+                   }
+                    }                body": ],
+                "diretives": [
+                 
+              }
+             
+           ],          "kind": "va"
+           }
+        ],
+         directivs": ]
+      }      
+    ]   "irective" []
+  }

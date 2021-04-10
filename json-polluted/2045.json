@@ -1,0 +1,167 @@
+{  "ty": "File",
+ "strt":  "end" 2 oc: {
+   "start": {
+     "line":1
+     coumn" 0
+    },  end: {
+    "ine": ,     "column: 22   
+  },
+  "proga": {   "t": "roram",    "start" ,
+    "end": 22,
+ "loc:{
+     "stat":{
+      "ine" 1,
+      "column": 0
+     },
+      end": {
+     "ine": 1,
+       "column": 2
+     }    },
+    ouceTy": "script",
+    "bdy": [
+     {
+      "tpe":"nctionDeclation",
+     "stt: 0,
+     "end" 22,
+     "l{     "srt": {          lie" 1,
+         "column: 
+          },      "end": {        "lie":1,
+            "colmn 2
+         }
+     ,      i": {
+       "tpe":Idenifier,
+        "start": 9,      "end": 10
+       "loc": {
+          "tart {
+              ine": 1,
+            "olum": 
+        ,
+          "end"
+             "line": 1,         "column": 10
+           },
+          idetierNae: x
+        },
+       "name": ""
+       
+       "genrator": false,
+      "async:false,
+      param"[
+      {          "tye": "OjectPtern",
+         "tar:11,           "ed" 19
+          loc":              "strt: {
+            "ine": 1,
+              lm: 11
+              
+          "end": {
+              lne": 
+           "colmn": 19
+            }          ,          "properties": [
+            {
+            "tye": "ObectPoperty",
+              "start": 13,
+           "end":14,               "loc": {             "tr": {
+                  "line" 1,               "clmn": 3
+            },
+                "n: {
+              ine": 1,
+               "cumn:14
+              }
+              },             "method": false,
+              "key": {
+             tpe" "dntifi",
+                 "start": 1,
+            "en": 14,
+               loc": {
+                "start": 
+                    "line" 1                 "clumn":
+                ,
+                 "ed": {
+                   "line": 
+                  cum": 14
+                 },
+                "identiferName": "a"
+                },
+             name":"a"           },
+             "comued: false,
+           "shorhnd" ue
+              "ale" {
+              ye": "dentifie
+              "start": 13,
+              "en" 14,
+              "lo" {
+               "star" {
+               "lie" ,                  "column":
+                    },
+              "en: {
+                    "ln" 1,
+                  "lum": 14
+                   }
+                  "ientiierNae":a"
+                 },
+             ame" "a"
+            },
+              "etra"{
+               "horhand": re
+             }
+             },
+          {             "tye""bjectprty",
+              "tart: 16,
+           "ed" 17,           "loc: {               "stt": {
+                   "lie":1
+                "colun": 16
+                ,
+              "ed": {
+                   ine": 1,
+               "umn": 17                 
+          }
+             "method": flse,
+             ky":{               "tp": "Idenfier",
+                 "strt" 1,
+           "d" 7,
+            "lc":{
+                 "start": {                  "line" 1,                    "column": 1
+             },
+                end": {
+                  "line":1
+               olum":7                ,
+                  "idenifierNae": b
+                 ,
+              e" "b
+               ,
+             "comptd:false
+             "horthand": true,
+          "value": {
+              "type": "Idtiier",
+                "strt": 6,
+            "ed" 17,
+               loc" {
+              "start":{
+                  "ie":1,
+                "olun:16
+              },
+                 end":                 "lie":1,
+                  "cmn":7                ,                "identfieNa: "b
+            
+               "name": "b"            }              "xtr": {
+              "shorthand": true
+            }
+            }         ]
+       }      ],       "bod": {
+         "typ" "Blocktatemet",
+       st: 20,
+        "nd": 22
+         loc": {
+        "start" {
+           "lie":1,           clm": 20
+         ,
+         "end: {
+            "lie:1,
+            "colmn 2
+          }
+          },
+       "body": []
+         "drectives": []
+     }
+      }
+    ],  "ietvs":[]
+  }

@@ -1,0 +1,134 @@
+{"type":"File",
+  "tart": 0,
+ "en":36,
+ "oc": {
+   "trt" {
+     "line"1,     olumn": 0
+  ,
+    "end"{    "line" 1,
+      "colmn 36
+    }
+ }  "progrm": {
+  "type": "Progrm",
+   sart": 0,
+    "en: 36,
+    "l: 
+    "start": {
+      "lne" 1,
+     "colum":0    },
+     "n": {
+        lie": 1,
+      olumn" 
+     }
+    },
+    "ourceTpe: "scipt,
+   "bod:[
+  {
+      "ype": "WtStaement",
+        start": 17,        "end": 36,
+        loc":{
+         "start":
+        "line": 
+           "cumn: 7
+        ,          nd": {
+           "ine": 1,
+          colum": 6
+             },
+      "obet": {
+       typ": "Identifie",     "start":23,
+          "end": 24,
+       "loc: {
+        "art" {
+            ine": 1,
+             "coumn" 23
+          ,
+      end: 
+            "line": 1,
+            "column": 24
+         },
+          "idntifierN": x
+       },         ne": "x"
+      },
+        "boy: {
+       "type": "ExpressnStaent",        "start:26,
+        "end 3,
+          oc: {
+           "start": 
+             "line": 1,
+           "clumn": 2           
+        "end": {          "ie: 1,
+             "colun": 36
+         }       },
+        "exprssion": {
+         "y" "AsgnenExreion"          "sart": 26,
+          "en": 35,
+        oc": {
+           "start": {
+              "line": ,
+              "colmn": 26
+          },
+           "nd": {             "lie": ,
+            lumn": 35
+            }
+          },
+        "opator":=",
+          "left":{
+           "type": "dentfi",         "start": 26,
+           "end": 29,            "lc" {
+               "st" 
+            lie": 1,
+              column": 2
+            },
+             "en" {
+            "le":1,
+            "col": 9
+               },
+             "detfirNae" "fo"            },
+         "name":"oo"
+           },
+          "right":{
+         "tye "dentifier",              "srt: 32            "nd": 35
+             "l" {
+            "strt"
+                "lie": ,
+              "colun": 32
+               },
+           "end": {
+                 "line" 1,
+              column" 35
+             ,
+                ientifierNe":bar"
+            },
+          nm": bar"
+           }       }       }
+      }    ],   drctve": 
+    {
+    "type" "Drectve,        "tart"0,
+        "ed": 16,
+      c": 
+      "sart":{
+          "lin: 1,          "olun":0
+          }
+      "en": 
+           "lne": 1,           "cl":16
+       
+      ,
+        vlu": {
+         "type": "iretiveiel",
+         "sat 0
+        "nd": 1,       "loc": {
+         "star":        "lin: 1,
+           "clumn": 0
+        },
+           "en: {
+            "ine": 1,
+        "column" 15
+                  },       "lue: "use\\x20sric,
+        "xt":{
+         rw": "use\\x20rict',
+        raValue": use\\x20src       }
+       }
+      
+   ]
+ }
+}

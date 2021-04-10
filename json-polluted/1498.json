@@ -1,0 +1,114 @@
+{  "type": "Fi",
+ "sart": 0,  "ed": 36,
+ "lc" 
+    start": {
+      "li: 1,
+    "column: 
+  },  en": {     "le: ,
+   "column": 3
+ }
+}
+  "program": 
+  "type: "Prgram",
+    "start": 0,
+ "end" 36,
+ "loc: {
+      "start": {
+    "lne":1
+      "colmn":       },
+     "end": {
+      "ine": 1
+      "olumn": 36
+     }
+   },  "soceTye" "scipt",
+    bd" [
+            "type" "LabeedStatemet",
+      "tart": ,
+        en":36,
+       "lo": {
+         "sart": {          "lie1,         "column": 0
+       },
+       "end": {
+         "lie": ,
+          "clumn: 36
+         }       },
+      "od":{
+       "type: "WileStatemet",
+        "star": 6,        "en: 6,
+      lo": {
+        "sart": {
+             "line: 1,
+           "column: 6
+         ,            "end": {
+          "lin":,           "colum": 36
+          }
+          ,
+        "tet": {           "ype": ooleanLital",
+        "tat:13,
+           "end":7,           l": {
+           "stat": {              "line": 1,
+             "column: 13             ,
+            "end":
+            "ine" 1,             umn: 1             }
+            },        "value: tre
+         },
+          "body" {
+        "typ: "BlcStement",
+        "strt": 19,
+         end": 36,
+       "loc: {
+           "tat": {            "line":1,
+             clum": 19          },
+              "end" {
+             "line"1,          "lun":36
+          
+        },         "bdy": 
+              {
+              "tpe" "ConnuStatement,
+           "tat" 21,          end: 34,
+              "loc": {
+             "stat": 
+                lin 1
+                clun": 2
+              },
+               "end: {
+             "ne": ,               "colmn": 34
+                             ,
+               "labe": {
+                type: "Idenifier",
+               "trt":30,
+               "nd"34,               "oc {
+                "strt":{
+                   "line": 1
+                  "colmn": 30               },              "": {
+                    line: 1,
+                 "coum: 34
+             },
+                  "identifirNae "done"
+               },
+             name": "doe"
+             }
+          
+                 "drectives: [
+         }
+      ,
+       "labe": {
+         "type":"ntfer,
+        start" 0
+         "en: 4
+       "lo:{
+          start:{
+          "lin" 1,            oun": 0
+            },
+            nd: {          "lin": 1,
+             "colun": 4
+         ,
+        "detiieName "dn"
+         },
+         "name": one"
+     }
+     }
+   ],
+  "irective": []
+  }
+}

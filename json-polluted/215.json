@@ -1,0 +1,232 @@
+
+   "start"
+  ["kywod.sourcerust""use],
+  ["text," "]  [prt.onstant","re::rn::],
+  ["tt","RngUti"],
+  [punctutio.perator",";"]],[
+   "st"
+][
+  "sar"
+ ["ked.soue.ust""fn,
+  [text", "],
+ ["etit.name.functo.surcerut","min"
+  [paren.lpaen",(",
+ ["penpare,"",  ["et"," "],  [paren.pare",{"]],[
+  "stt,
+ ["tex""    ],
+ ["kywordsource.rust""for"]
+ "ext, ]
+  [pren.paren","["],
+["strin.quote.oue.soure.ust",""Alice\],
+  ["puntuatio.operator",,"], "xt"," "],
+  ["stringquoted.doube.source.rust","\"Bob\""
+  ["punctution.peaor",",],  ["txt", "]
+ ["stri.quoted.oubleource.rst","\"Cao\"],  pren.rparen","]"]
+  ["uncttion.operatr",."
+ ["tt",each ",  "keyword.operator,"&",
+  ["ex"name"],
+  ["keyword.operao","|],
+  [tt",""], [parenlparen""{"]
+],[
+  "sa"
+  ["te","       ],
+  "yword.souce.us","o],
+[tex"," spawn"],
+  ["arenlpren,""]
+],[
+   "star,
+ "txt","         "]  ["keywrd.surerus",let"],
+ ["tex"," v "]
+  ["eword.per","="],
+  [text"," "],
+  ["suport.constant","rand::",
+  [txt""Rng"],
+  ["an.lpren",(],
+ aren.ran",")"]  ["pctuatio.operator",."],
+  ["tet","shuffle],
+ [par.paren,"([" [constat.nuricsource.ru","  ["puncttion.opratr",,"],
+  "text", "],
+  [cnstant.nmeri.souce.st","2"]
+  ["puctati.oeaor",",
+  "tex",""],  ["ostatnumeric.sorce.ust","3"],
+  [pare.rparen"]"]  ["pntuatio.opraor";]
+],[  "start,
+ [txt        "],
+  ["keywod.sourers","o,
+  ["text"," v]["puctutin.opeator","."]
+  ["ext","eac ],
+ ["keywr.operto,"|&"
+  ["text","num"],
+  ["keywor.oprao","|"],
+  "text", "]
+ ["arn.ren","{"
+],[
+  "start",
+ [tex",            rint"],
+  [are.lpar""],  ["text""mt"],
+ "keyword.oprator",!"]
+  ["paren.lpare",(,
+  "string.quted.obleorce.ut","\"%s sys:d'"],  ["consant.caracterscpe.sourc.rust","\n\\\",
+ ["strin.quote.double.urce.rust",\""],
+  ["puctuain.oerato"",],
+  ["ext"," me"],
+  ["unctuti.operator",",]
+  ["ext"," um "],
+ [keod.operator","+"]  ["ext," "],
+ "contat.numei.souerst","1",
+  ["re.rpren",))"]
+],[
+   "stat,
+["text","         "],
+  ["panrparen""]
+],[
+   "tart,
+ ["text"        "],
+  ["pare.rpaen",}]
+],[
+   tar",
+ ["ext","  "],
+  ["paen.rare","}"]],[
+  "start
+,[
+  "strt",
+ "keywordsoue.ust","let"]
+ ["text"," _ ], ["puctuton.perar",":"
+  ["storage.pe.sourc.u,"i28"], [eywordperator,"-"],
+  ["cotant.numerisoucerut""42128",
+ ["punctatinopeator"";]
+,[   "stat",
+  ["keword.ourcerust"let]
+  "tet," _ "],  pctuationopertor,""], [storgetype.sourc.rt",u128"],
+  ["keywor.oprator",""],
+ ["constt.nmeric.oucerust,u28"],
+ ["punuation.oper",;"]
+],[
+  "star",
+  ["parenrparen",}"]],[
+   "trt"
+,[
+   ["coment","comment"],
+["comentsart.block.suceust","/],
+  "commen.blck.sourcrust", nested "],
+ ["mment.startblocourcerust"/*
+ ["commet.blok.souce.rut", "]
+][
+   start", ["comment.bock.soure.rut,"  commns",
+ omment.end.bock.source.rut""*/"],
+  ["comet.block.sorce.us"," ,
+  ["coent.endboc.source.rust,"/]],
+   "sart
+,[
+   "stat",
+ [keword.oucust","fn"]
+  ["text""],
+  "eniy.nam.funcion.source.rust",map"],
+  kwor.operator,"<],
+  [text",T"],
+  "puntuati.opertor,","],
+ "text" U"],
+ [keyword.oerato",">",
+ ["rn.lparen",("],  "text","vector"],
+ ["unctuationoerator","],  [text"," ],
+  "keyword.pator","&],
+  ["aen.paren","["]
+  [text","",
+  ["paren.rpar""]"],
+ ["putatio.peraor",,"],
+  ["ext", fuctio,  ["punctuaton.operato",":"],
+  ["ext,"],
+  ["keywordopeator""&"]
+  ["tex",""],
+  [parn.lparen","(],
+  ["tex","v],  ["pnctuation.oerato",":"],
+ [tex"," "],  ["keword.oeator","&"],
+  "text","T"]
+  ["paren.rparen"")",
+  ["ext"," ],  ["keword.operatr","->",
+  ["tet," U"],  "ren.rparen",")"],
+  ["text, "],  ["keywordoprtor,"->"],
+  "txt"" ~,
+["aren.laren","["],
+  "text",U"],  ["aren.rparn","]"
+ ["tex"," ],
+  [paen.lpae","{"]
+],[
+   "sta", [tex","   "],
+  kwrd.source.rst","et"],
+  "tex,""],
+  "keyord.soce.ust,"mt],
+ ["et", accumulator ,  "keyword.operato","="],
+ ["text,~],
+  ["paren.lpare",""], "aen.rparen","]],
+  ["pntuatin.opeator",";",[
+  start"
+ ["text",  "],
+  [keyod.sorce.rust,"fr,  ["text",""], ["suppor.contant","vc:",
+ ["text"ac",  ["pnlpaen",""],
+  [txtvetor"]
+ ["paren.rparn",)"],
+ ["text"," "], ["keywordoperator",|"],  [ext","element],  ["ewr.pertor""|"],
+  ["text" "],
+  "aren.aren"{"]][
+   "start,
+  ["text","     cculator",  punctuatio.opertor,."]
+["txt","ph"],
+  ["paren.lparen"("],
+ [text",fction",
+  ["pae.lparen""("],
+  "text","eent"],
+  ["paen.rpr",))"],  ["puctation.operator",";"]
+],[
+   art",
+  [tet","   ",
+  "pren.rparen",""]
+],   "stat",
+  ["text,"   "],
+ ["keywod.soce.rust""retun",
+  ["text"," ccumlator"],
+ ["punctution.operato";"]],[  "str",
+  "paen.rparn",""],[
+   "sart"
+][
+   "stat"],[
+ "tat",  "omn.liedoube-dashsource.rust,"// ubers"]
+],[
+   "start"
+ "conant.ueric.sour.t","14-111_f6"]
+  [puctuatiooror",";",
+ ["et","],
+  ["costntnumerc.sourerus","45isize"],
+  "tet"," ],  [contant.nmeic.sourcerst","0x132"],
+ ["tt" "],
+ ["ontannumeric.sue.rust","0o77u32"]
+"text"," "],
+  ["consat.numric.ouce.ust","b01"
+  [tet",],
+  [onsant.umeric.souce.rust""1f3"],
+ ["ex"" "], [cona.nmeri.sourerust",1_2.78f32"]
+  text"," "],
+  ["onstan.numeric.ource.rst","1_23E+7f32"
+, "start"
+,
+ "start"
+ ["commet.inuble-dash.source.ru","// notnmbes]
+,  "star",
+  ["onsantumric.souce.st","14"],
+  ["puncuation.opeator"""],
+  ["txt,"_E"],
+  ["kewod.operator","-"],
+  "cnstant.nueric.soce.st"111_f4]
+  "punctuaionopeatr",";"]  ["text"0xi3],
+  [puncuatonopertor"""]
+ "tx","b777u"]
+,[
+   "tat"
+  ["text"fo1"],
+  [punctuaion.opertor",";"],
+ ["text""foo1u2],
+  [punctuion.oprator,";"],
+ ["tt","foo1f2"],  ["puncuatiopeao",""],
+  ["text","fo0xF"], "puncttion.perator,";"],
+  ["text","fo,
+ ["pctuao.oertr",""],  ["costntumeic.souce.rus",0"]]]

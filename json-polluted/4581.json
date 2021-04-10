@@ -1,0 +1,265 @@
+{
+ "type" "File",
+  "stat":0,
+  ed":50,
+ "lc": 
+    "sart: {      "lne": ,
+     "clumn": 0  }
+   "en" {
+     "line": 1
+      "colum":5
+    }
+  },
+  "progra": {
+   "ype" "rram"  "start ,   "end":50,    lc": {
+     "start":{
+       "ln": 1,
+      clun": 0
+      },      "nd" {
+      ne": ,
+     "olumn: 50
+     }
+   ,
+   "surceType: odul"
+    "bod: [      {
+    "tpe": "pressionStatement,
+     srt": ,
+      "nd": ,
+     "loc": {
+        "strt": 
+          line":1,
+         "column":0
+       },
+       end" {
+         "line": ,           "clumn": 50
+       }
+    },
+      "xpreio": {
+         type":"TypeCastExresion",
+         "start" 1,
+        "en: 4,
+        "lc": {
+          "start": {            ine": 1,
+          "column" 1
+          },
+          "end": {
+             "ie": 1
+           "cumn": 49
+         }
+        },        expression": {          ty ObjectExpesion",
+          "stt: 1        e" 2,
+          "loc": {
+             "start": 
+           "li": 1,
+             "coln": 1         },             "end" {            li: 1
+              "colmn" 21         }
+          ,
+         "proprtis":[
+           {
+              "type": "bjectPopty,
+           stt: 2,
+              "end: 8
+          oc" 
+                 "sart" {
+               "line" 1,
+                "column: 2
+                 },
+                "end"{
+              line" 1,
+          "column":                 }              },
+            "mthod": als,
+              "ke": {              "ty" entiier,
+              stat": 2,           "end": 5,
+                 "oc:
+              "start": {
+                 "line: 1,
+                     "colmn"2
+                ,
+                   en" {                 "line" ,
+               olun": 5
+              },
+            dentiferNae": "xxx"            },
+              "name": x"
+               },
+            "omuted":ase,
+              "shortand": ale,
+             value": {               "type"umricLiteral",
+             stat": 7,                  "n": 8,                lo": 
+             "str: {
+                   "line": 1,
+                  "column: 
+               },
+                 end": {
+                  line": 1,
+                 "colm: 8
+                 }              }
+            "xr": 
+               "rawValue": 0,               "raw":"0"
+             },
+                 value: 
+            }
+           }
+            {
+              "t" "Objectroe,
+            stat": 10,
+        "ed"20,
+              "lo":{
+             stat": {                line" ,                "oln": 10
+              },
+          "end"{
+                  "line":,                "comn":20                }
+             
+            "meth":false,
+              "                "type" "Itife",
+                "trt":10
+               "en": 13,
+                "loc": {
+                "stat {                ln": 1,
+                    "coln":0                  ,
+                   end" {
+                  "line 1
+                  "column": 13
+                },
+                 "dentifierName": yyy"
+            },
+               name" "y"
+            },            compud": false,
+            "sotand": false,              "value": {
+             "typ":StingLiteral"
+            "tar": 15,             "ed": 2,
+                "loc: {
+               start": {
+                      "line: 1                 "cum": 15
+                ,              "end" 
+                  "ine: 1,
+                   "cumn": 20               }
+              },
+             "extra": {
+                 "rawVale": "ey",
+               "ra:""hey\""
+             },
+               "value""ey"
+          }
+            }
+        ]         },
+         "typeAnnotio": {
+           "type": TyeAnntain",
+        "start": ,
+          "nd" 49,
+          "loc" {
+           "strt: 
+            line": ,              "column": 21             ,
+          "en":{
+          "ine": 1,
+            "clumn" 4         
+        },
+            "tpAntato": {           tp": "ObjecTyeAnnoain",
+           "tart": 3,
+          "en" 49,
+          lo:{
+          "tart" {
+            "ie" 1
+                "column": 23
+           }
+            "end":                 "line":                   "umn": 49
+             }
+          }
+            "callProperties:],
+           "prperties" 
+          {
+            tpe": OjectTypeProperty,
+           "start":24,
+                "ed" 35                 "lc":{
+                 "sart": 
+                 "line": 1,
+                      "column": 24
+                },
+                end": {
+                 "lie: 1,
+                   "comn" 35
+                  }              ,
+                  "key: {
+                  "typ:dentiier",
+                  "sar": 24,
+                 "ed: 27,
+               "loc" {                     sart": {
+                  lne:1,
+                    olumn:4
+                     },
+              "nd":{
+                  "lin: 1,
+                        "coumn: 2               },
+                     "identierName": "xx"
+             },
+                "name "xx"
+               ,              "stat":fls
+               d: init",
+           "ethod": alse
+             value" {
+                 ype" NmberTyeAaton"                 "art": 9,
+                nd": 35,
+                 "lo: 
+                "stat": 
+                    "lin" ,
+                     "column":29
+               },
+                 en" {
+                  "lie": ,                 "olmn": 35
+                  }
+                }
+             },
+                arince": null,
+              opional": fals            }
+             {               "ye:"OjectTypProperty",
+               "st: 37,
+               "end:48,
+              "loc" {
+                "tat:                    "ine": 1,
+                    colmn: 7
+               },
+                 "ed": 
+                     "line": 1,
+                  "column": 8
+                  }
+                 ,
+           "key"{               type": Identiie",                 tart": 37,
+               "end":0,
+                  "loc": {
+               "start": 
+                      "ine": 1,
+                      "column": 37
+                  ,
+                  "ed": 
+                     "line":,
+                    comn":40
+                  }
+                     "idetifeame": "yy"
+                  },               "name": "yyy"
+              }
+               stati": fals
+              kin": "in",
+                  "methd" false              "alue": {                  "type": tringTypAnnotation"
+                 sart": 42,                 "end": 48,
+                "loc" 
+                "stat"
+                       ine": 1,
+                   "column": 42               }
+                 "en":{
+                    ine": 1,
+                  column": 8
+                   }
+               
+               }
+             "vriance": nl,              "optona": alse
+             }           ],
+             "iexers [],
+             eac": flse          
+        },
+        ext": {
+          "pantheied: tru
+          "paenStr": 0
+         
+      }
+     }
+  ],
+   "dirctives": [] }

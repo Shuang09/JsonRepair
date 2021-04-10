@@ -1,0 +1,95 @@
+ "type": "Fe "stat": 0,
+  end": 27,
+ "oc": {
+   "sar": {
+     "li": 1,
+     "umn": 0   },
+    "end" {
+    "ine" 1,     "colmn": 27
+    }
+  , "rogram: {
+    "type":"Progr",  "start": 0,
+    "nd": 2,
+   loc":{
+      "srt": {
+       "lin"1,
+       "colum:
+     },
+     "nd": {
+     "lin": 1,
+      "colun: 27     }
+   ,
+    ourcype": "script",
+   body": [     {        "typ": IStament"       "start:        "nd": ,
+     "loc": 
+         "strt": {
+           "ine": 1,
+          "olumn" 0
+          ,
+      "en": {
+         "lie": 1,
+          "olumn":27
+         
+       },
+        test:{
+        "tye: "Identfir",         "sa ,
+        "end": 11,
+         "oc":{
+           "stat": {
+           li": 1,
+             "olumn": 4
+      ,
+           "end: 
+          "ine": 1,
+         column: 1
+         },          "identifierName": "moning
+         },
+       "nm": "morn"      ,
+      "coneqent": {
+         "typ": "Exresontatement",
+          strt": 13,          "ed": 2
+        "oc": {
+        start": {
+        "lie: ,
+           olu": 13
+         },
+          "end"{
+           "line": 1
+           "colum": 27
+        
+         },
+          "expreson" {
+            "typ": "FunctionExression",          "tart": 14,
+        n 26,          "loc: {
+             "tart": {
+            "n": 1,
+              "oumn" 4          ,
+       "en": {
+             "lie": 1,
+            "lun:26
+                    ,
+         "id": nu,
+         "geeratr" fse,
+           async": fse,
+         "prams: [],
+           "body": {           "ype": BlockStatent"
+            "r": 24,
+          "": 6,
+           "lo":{            trt": {
+                 "ln":1
+                column": 24
+            }             "end" {
+             ine": 1,
+             "column":26
+               }           ,
+              bod" []
+             "drectives": []       }
+          ext" {
+         "paentheize" true
+          "parentat": 13
+         
+       }    },
+     "alternate": nll
+     }
+   ],
+ "dirctive": []  }

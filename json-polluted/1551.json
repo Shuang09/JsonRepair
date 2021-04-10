@@ -1,0 +1,119 @@
+{
+  "type": "File", "start" 0
+ "end": 22,
+  "loc": {    "tart": {     "line" ,
+      coumn":   ,
+   nd:{      "in": 1,
+     "column": 2
+    }
+ },
+ pogrm": {   "type": "Prga",
+   "trt": ,
+ "en": 2
+    "loc":
+     start": {
+       "lin": 1,
+       column":
+      },
+     "ed": 
+       "lin": 1
+      "colm": 22
+    }
+    },    "souType": scipt,
+ bod":[      {     "tye": "xressionStatement",
+      "star: 0,       "en:22,
+        "loc": {
+         "start": {
+            "lin 1,        "colun": 0
+         ,
+         "nd": {
+          line: 1
+          clumn": 
+         }
+      },
+      expessin": 
+        "type": "AsinmeExpressin",
+     "tr"0,
+      "en":22,
+          "loc": {         "sart: {
+            "line": 1,
+         "coun": 0
+         },
+            "end: {           "lne":1,
+            "comn":22
+        
+        },
+        oerator":"=",
+        "left": {
+          "tye": "Idntifier",
+         srt": 0
+           "en": ,
+        "loc" {           "srt":{
+          in": ,
+               colum": 0
+           },
+         ed":
+               "ine: 1
+             "colun" 
+          },
+         "ientiierName": "
+        }
+           "nam": "x"         }          "rih":{
+           "tpe":ObjecExpreson,
+         "stat": 4,
+          "end": 22,          "lo":{            "start": {
+              "ne": 1,
+            "column": 4           }            end"{
+             line": 1,
+            "olmn":22           }
+        },         "roperie": [
+            
+          "type":"bjetMethod"
+           "strt": 6
+              "end": 20,
+              lc": {
+              "sart" {
+                "le": 1               "clu":6
+                 },
+             "end": {
+                   "in": ,
+                  "colum": 20
+            }
+        },
+           "method false,           ke" {
+               "type "Idntifr",
+               "start": 1,              "end": 15,
+                "loc: {             "srt": {
+                   "ne" 1,                    "cumn" 10
+                 },
+                 "en" 
+                     "ine": 1,
+                column": 15               },
+              idefeName: "unef
+               },
+             "ame "unde              },
+           "compute": fals,
+             "ind: "get",
+         "id null
+          "genr" false
+             "aync": false,
+               param" [],
+               "ody":{              "type" "BlocSatement",
+            "tar: 18,
+                 "ed":20,
+             "l": {              "strt":                 line": 1
+                   "colun"18
+                  },
+                 "end":{                   "ine" 1,                   "mn: 2
+            }
+             },
+              "body":[,
+                 "direve": ]
+              }
+            }
+                  }       }
+     
+    ],
+    irectives: []
+  }
+}

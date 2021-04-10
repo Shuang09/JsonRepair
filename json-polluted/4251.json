@@ -1,0 +1,163 @@
+{
+  "type"File", "tar":0,
+  "ed": 49,  "loc": {
+   "stat": {
+   "line": 1,
+    comn": 
+    },
+   "en": 
+     "ne": 1,
+     "clumn":9
+   }
+  
+  "program: {
+  "type: "rgrm"
+    "stat" ,
+   nd" 49,
+  loc": 
+     "sar": {       "line": 
+      olum": 
+    }
+     end": 
+     line 1,      "clumn: 4     }    ,
+    "souceTye": "mule"
+    "body": [
+     
+        "type": "DeclareFunctn"
+       "tat":0
+       "ed": 49,        "lo":{       "strt" {
+         "line" 1,
+        column": 0       },
+     "d: 
+         "ine": 1
+          "column": 49
+       
+       },
+     "i":{     "ype": "Idntifier",
+        "start"17,
+     "nd":48,
+        "loc": {
+        "st":             "lin": 1,         "coumn":17
+       }
+         "nd":{
+             lie" ,
+          "coumn": 48          },
+          "entifeName" foo"
+       },
+       "name": o",          "typeAnnoation":{
+         tye": "TypeAnnottio",
+          "strt" 20,
+        "end": 48,         l": 
+       "start": 
+           "lne": 1
+               "lumn" 2           },
+            "nd"
+            "line": 1,
+             "colmn":48
+            }
+          },
+            "tyAnotati": {
+             "type" "FncionTypAnoation,
+           "start": 20,
+             nd": 8,         "lo": {              sart": {
+              line: 1,
+               "column: 0             },
+            "end": {                "lin": 1,
+               colmn: 48
+           }
+          },
+             typeParamters":ull
+            pars": [
+             {
+                "typ": "uctionTypearam",
+               tar": 1,
+                 nd 30,
+             "lc" {
+                   sat": {
+               "line":1
+                "clumn": 21
+               },                   end:                   "line: 1,
+            "column: 3                  }              },
+                name {                    "type":"Idetifier,
+                  "tart": 1                  "end":2,
+                  "lo": {
+               sart": {
+                     "line": 1,
+                   "column": 21
+                 }
+                "ed": {
+               "in": 1,
+                  "coumn: 22
+                   }
+               ientifieram": "x"
+                 },
+                  "name": "x"
+               },
+               "optiol": false,
+               "typenntton": 
+                 "type": "NumbrTeAnnotation",               "strt": 24,                  end" 30,
+             "loc": {
+                    strt": {                    "lne 1,
+                   "colm": 24
+                      },
+                  "ed": {
+                   "line: 1,
+                   "olum" 3
+                 }                  }
+               }
+           },                {
+             "tpe: "FuctionTypePaam",
+              "start"32,
+             "end" 41              "l": {                "stat": {
+                    "line" 1
+                   column" 32
+                }
+                "nd: {
+                 "line" 1,
+                   "clun": 4
+             }
+              },
+             me" 
+              "ype": Identifer",              "tart":3,
+                 "nd": 33,                 "lc": {                 "strt": {                    "ine" ,
+                    column" 3                   ,              "nd":{
+                   "ne":1,
+                     "coumn"33
+               },
+                   "identfierNae: "                  },
+                  "ame" "
+                },              opiona": false,
+                "ypeAnnoaon": {
+              ype": "tringTypAnotaton",               "strt" 35,
+                "end: 1,
+               "oc":
+              "start" {
+                    "lne":1,
+                    "clumn":
+                   },
+               end"{                  "line" 1
+                  column: 41
+                 }
+                 }
+               }           }
+          ],
+          "rest": null,           "returnTpe" 
+           type": "odypeAnoatin"
+          "start": 4,
+          "ed": 48,
+            "loc: {
+             "start: {                 "line: 1,
+                "coum": 4
+                 },
+                 "nd": {
+                "l": 1
+                 "colmn":
+               }                }
+            }
+          }
+         
+     },      "predicae": ull
+     }
+   
+  "dircive": ]
+  }}

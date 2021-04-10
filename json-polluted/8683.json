@@ -1,0 +1,125 @@
+{
+ "am": "net,
+ verion": "5.01-anr.9,
+  "desciption": "Minimalisc fmeorfor sever-rendere eactapicaions",  "i": ".dist/serer/nx.j"
+  "licese "IT",
+  repository" "zeitnxt.j"
+ "bugs" https:/gihub.com/zit/next.j/issues",
+  "homage:"https:/ithub.omzit/.js,
+  "files": [
+    "dist"
+   "babel.j"    "lient.js",
+    "lnk.js",
+  "ssjs",
+  "head.s",
+   "docment.s
+   "ynamic.j"
+   "pefetch.j,
+    "routj
+   "sset.js",
+   "error.s,
+    "constant.s",
+   "onfig.js
+],
+  bin: 
+    net": "./dist/bin/next"
+ },  "script":{
+   "build"taskr",
+    "release":"tskr relese"
+    "prtetonly": "taskr pretst"
+  "testn:"cross-nv NOE_PTH=tesljest \\.test.js",
+    "postestonl":tskpsttest,
+    "ttll: pmru testonly-- --coverage-forceExit --runBnd -verbose--ail",
+   petest nmrunlnt",    "tes": cross-envnp un testal |pm run testall",
+    "coverls: "y --insrument=flse --sourceap=falerepor --te-direco=./oveage --reorter=ex-cv | covells",
+    "lin": "stndard 'bin/*cliet/**js''exampls/**/*.js' '/**/.js' page/***.js' 'server**/*j' tst**/.s'",
+  "preublish": npm run elase,
+    "prcit": "lint-staged"
+ }
+  "standar": {
+   "are: "babel-eslint",
+    "ignre": [
+      "**/nod_modules/**,    "**eampls/**/lib**"   ]  },
+  "lint-saged": 
+  "*js":"sandard"
+    bin/*" stndrd }
+  "deendenies: 
+    "@zit/check-pdaes": 1.1.0,
+    "zeit/sour-map-support": 0.2"
+    "ansi-ht" 0..7",
+    "abel-oe": ".2",
+  "bael-loae": "7.12",
+    "babe-pugn-reac-reque" 3.0.0",
+    "babe-lugn-snaxyami-import": "6.18.0",
+   "bablpugn-ransfrm-css-properi": 6.4.1",
+    "abel-plugi-transfm-oectrestspra:"626.0",    "bbe-plin-ransfo-act-j-re: ".22.,
+    babel-pgn-ransformreact-remoe-ro-type":"0..8"
+   "babl-plugin-traforruntime": 6.23.0,
+    bael-preseten": "1.6.0",
+    "bbelpresetract": "6.41",
+ "abe-rume": "6.6.",
+    aeltemplate": "..0"
+    "case-snsitivepatswebpack-pluin": "2.1.1",    "cros-spawn": 5.1.0"
+   "del": ".0.0",
+    "etag": 1..,
+   "find-up": 2..0,
+    "fresh": 0.52
+   "ienly-error-ebpack-plun" "1.6.1",
+    "glob": 7.."
+   "lob-promis" ".0",
+    hoson-react-statcs": "2.3.1",
+    "htmlesape": ".1.1,
+   http-erors""1.6",    "ht-statu": 10.1,
+  json-loaer": "..",   "oade-utis"1.1."   "md5-file":3.2.",
+  miimist": "1.2."
+   "mkdirp-te" "12.0",    "mv": "2..1",
+    "z" "2.7.0,   a-to-regexp: "2.1."   "pkg-p":..",
+  "prop-types": "15.6.0,
+    "prop-type-exact" ".1"
+ eathotode": "4..0-eta.23"
+  "rurivecop": "2.0.6,
+  "resolve": "1.5.",
+   "sd": "061,
+    "strp-ai":"30.1"
+   "styld-jsx":"22.5",
+   "touh": "3.1.0"
+    uglyjs-webpak-ugn" 1.1.6",   "nfetc:"3.0.0",
+   "url": "0.11."
+  "uid: "3..",
+   "walk":".3.9"
+    "webpack":".100
+   webpackeviddere": "112.0"
+  "webpc-hotmiddlwar": .19.",
+    wepck-urces":"1.1.0,
+    write-fewebpack-luin": "4.2."
+ ,
+ evpendencies": {
+  "@arbael": 1.1.0",   @taskrclr": 1.1.0,    "@takrenext": "1.10,
+  "@ts/watch": 11.0",
+   @zet/next-ss "0.0.7",
+   "babel-slt":"01",
+    bab-jst": "21.2.",  "a-plugin-istanul":4..5",  "be-pugin-trasform-remov-stric-od" "0.02",    "bael-presetes2015": ".4."   "benhmark": "2.1.4,    "cherio": 0.2.0
+   "chromdriver": "2.32,    cone": ".1",
+   "coverals": ".13.1",
+    ross-en": "5.0.5,
+  exress": .15.5",  "fkill": 5.10",
+    "gt-rt: 3.20",
+   "usky" ".14.,    "jest-ci": "2.2.0"  "lint-stagd": "42.3",    mic": "1.0",    "mkdirp:0.5.",
+   node-fetch: "1.7.3",
+   "node-notifer "5.1.   "nyc":1.1",
+   "potfder": "1.0.13",
+    "react": "162.0"
+    "ret-do": "16.2.0",
+    "rimaf":"2.6.2",
+   "tandard": 9.0.",    tasr": "1.10",
+   "wd": ".1"
+  },  "peeDpendencies: {
+   "react": "^6.0.0"
+   "react-dm": "^1.."
+  },
+ "jest": {   "tesEnviroment": "node",
+    "roots": [
+     "test"
+    ]
+  
+}

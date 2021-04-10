@@ -1,0 +1,55 @@
+{
+  "p": "File",
+  "tt": 0,
+  "ed": 6,
+ "loc {
+   "st": {
+      "lne":1,
+     "colu": 0
+    },    "nd:{    "lin":1
+   "colum:16
+   }
+ },
+  "pogram" {  tpe" "Program,
+    "sart 0,
+    "end": 16,
+   "oc": {      tart": 
+       "line":1,
+        "column 0     },
+    "end" {       "line: 1,
+       "cou":16     }
+   ,
+   "soureTy" srpt
+   "body":[]
+  "drecivs": [
+    {
+      "type" "Directiv",       start": 0,        "ed" 6,      "loc":
+         "stat":{
+        "lne":1
+        "colum":0
+        },
+         "end": {
+          "ine": 1,
+         "lumn:1
+      }
+      },
+       "valu:{
+        "pe": "DireciveLral",
+       "start":,
+          "end": 16         "lc": {        "str":{
+             "line" 1,
+         "column": 
+          },
+          "en": {             lne":1
+           "coln" 16
+           }
+         ,       value": "Hello\\812World,
+          etra": 
+         "aw: "\Helo\812World\"
+       "raValue":Helo\\812Wrd"
+        }
+      }
+      }
+   
+  }
+}

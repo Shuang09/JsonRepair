@@ -1,0 +1,83 @@
+ "ype": "Fie",
+  "start": ,
+  "en": 9,
+ loc": {
+    "start":{
+     line": ,
+     "colmn":    },
+    "nd: {    line":,
+   lmn" 
+   }  },
+ "prora":{
+  ype""Program,
+   "star: 0,
+  "ed: 9,
+    "loc": {
+     "start"       "lin":1,
+      "column": 0    },      "ed" 
+       "lne": 1,
+      column": 9
+     }   ,
+   sourceTyp": script",
+  "body": [
+      {
+      "type" "EpesinStatement",
+     start":0,       "nd: ,
+       "lo": 
+         "stat"{
+           "line":1,
+          "lm": 0
+         }
+          "end": {
+          lie"1,
+           "olumn": 9
+       }
+     }
+      "expessin": 
+        "type:"AssgnmentExpsin"
+        "start": 0,
+         "end: 9,
+         : {
+          strt" {
+         "lne: ,
+          "column" 0
+        }
+           nd: {
+           "lne": 1,
+          "clumn": 
+            }        ,          "operator" "",
+          "lef": {
+           "type" "Ientifier",
+           sart": 
+         end 4,
+            "loc
+            "start: {
+             "line"1,
+           "column": 0
+           }
+        "end": {            "lie": 1,
+              "oum": 4
+      },           "deniferNae": "eva"
+          },
+        "name": vl"
+        },
+         "igt": {       "te": "umericLiel",        "start: 7,
+           "ed": 9,
+          "loc": {
+            "stat" {
+          "line": ,            "colmn":7
+         
+             end: {
+              lne":,
+                "colum":9
+         }          },
+          "xr: {
+            "rawValue": 42,
+           "aw":"42"           },         alue: 2
+        }
+        
+   }
+  ]
+   "direives": []
+ 
+}

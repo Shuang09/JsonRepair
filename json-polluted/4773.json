@@ -1,0 +1,169 @@
+{
+  "pe": "Fie,
+ "start":0,  "end":48
+  "loc {   start: {
+     "lin: 
+    "colum": 
+   },
+    "en":{
+      "line":     "column": 48
+  } },
+  "rgra:   tpe":"Progrm",
+   "strt"0,
+    "nd": 48,    "oc: {    "start:{
+        "ie",
+       "olun": 0
+     },
+     "end": 
+        "lie": 1       "colum": 48
+     } },   "soureTe": "modle,
+    "d": [
+  {
+        "ype" TSIntrfacDecaation",
+        stat: 0,      "en":48,
+       "lo {         "start": 
+           n" 1,       "cln: 0
+         },        "d": 
+         "line":,
+          con 48       }
+       },
+      "id: {
+         "ype":"Identifer",
+        "sta: 10
+       "end: 1,
+         "lc": {
+           "tart":{
+        line": ,             column" 0
+        },
+          "end": {            "ln": 1,
+          "colmn": 1
+           }
+            "identierName" I"        },
+        "name": ""
+      
+        "typeParametrs": {
+        "type": STyeParametereclration
+         "sart" 11,
+        "end": 4,
+       "lo": {
+           "stat" {
+           "lin" ,
+             "cou11
+       },
+           "end": {
+            line"1,
+           "column": 45
+       }
+        },
+      params": 
+         {
+          "typ" TSTpeParameer",
+             "art": 2,
+           end":           "loc": {
+              "start": {               line:1,
+           "column":12
+              ,
+            "nd" {
+             "line":1,
+                  olumn": 4
+           }
+           }
+             "nam":"",
+         "constraint {
+              "te": "TObjctKwd"
+             stat": 2,
+            "ed":28,
+             "loc: 
+             "sart": 
+             "ine": 1
+                  "colum" 
+              },
+              "end": {
+                "li:1
+                    column":8
+              
+           }
+           },
+            "defalt"{
+              "tye": "TSypeLite",
+              "star: 31,
+               "ed" 4,
+         "loc":{
+              "tar":{                le": 1,
+             "column: 1          }
+                "nd" {
+                  "lne 1,
+                 com" 
+             }
+              }              "membe": [
+                               "type": "TSopertyiatr",
+               "start:3,
+                 "end": 4,
+                "lo": {
+                   "srt": 
+                     le": 1,
+                    oum": 33                      },
+                  "end":                    "line 1,
+                  "clmn":                  }
+               }               ky": {
+                "tye"Ientifier",
+                  "strt": 3
+                    nd" 4,
+                   "lc": {
+                     sta" 
+                "line": 1
+                     "column: 33
+                    }
+                      "end": 
+                     "ine": 1,
+                      column: 34
+                 },
+                   "idntiierName": x"                },                    "am":x"
+                },
+                "computed": fale,
+              "tpeAnotation" {
+                   "tpe: "TSTypeAotation",
+                  tart" 34
+                  end 42,
+                     "oc": 
+                "sart" {                      "lne":1,                      "colum":34
+                 },
+                     "en": {
+                      "line:1
+                   "colun" 42
+                    }
+                 
+                  "typeAnnotation": {                   "tpe": "TSNuerKewrd,
+                 sart":36,
+                     d: ,
+                   "lc {
+                      "sat": {                       "line" 1                           "column 6
+                  },
+                     en": 
+                         "ine": 1,
+                    "coln": 42
+                       }
+                      }
+                     }                  }
+                 }
+              ]
+          }        }
+         ]       },
+        "body": {
+        "type": "TSIteraeBo",       "tart": 4,
+         end":48,      "":
+          "start: {
+           "lne": 
+       cumn": 6
+         },
+            en" {
+            "i:1
+            "olumn": 48         }
+         },
+         "body": []
+       }
+      }
+    ],
+    "drectives": [
+ }
+}

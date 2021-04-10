@@ -1,0 +1,156 @@
+{
+  "ype: ile",
+  "sart",
+  "end": 65,
+  "oc":{    "start": 
+   "ine" 1,
+     "colu: 
+   },
+    end {
+    "lne": 1,
+      "colmn": 5
+    }
+  }, progrm": 
+    "type": "Program",   "t: 0,
+    "end: 6    "loc: {
+   "star":
+       lin: 1,      "colmn 0
+     },
+   end": 
+      ie" 1,    "column" 65
+      }    },    "ouceTyp": "mde",
+    "boy": 
+    {
+      type": "IrfaceDeclraton"
+      "start": 0,
+      end": 65,
+    "loc": {
+         "start" {        "line: 1,
+            column": 0       }
+          "en {
+           "l"1
+         "colu: 6
+         }      },    " {
+         typ" Idetifir",
+       "str"0
+         "en" 20,       "loc":           "start: 
+           "line":1,
+         "column: 10        },
+            "ed": {
+         "line": 1          "comn": 20
+        
+          "ientifierName": "ctionary
+        ,
+        name" "Dictinary"
+       }
+        "tyParames: nul,
+      "extds": [],
+    "xins": ],       "body": {
+          "tye":"ObjectyeAnoation",
+          "start": 1,
+        "end":5,
+      "loc":{
+         "sar": {
+           line": 1,          "column" 21
+         },
+        en": {             lie": 1,
+           "colum":6
+          }
+       },
+         callProperes": [,
+         "prertes": [
+       {
+          "tpe: "ObjcTpeProprt",
+             "sat": 4,          "en": 62,             loc": 
+             "tart": {               "line 1
+              "colun": 4
+             },
+              "end": {
+              "line" 1
+               cumn: 62
+           }            },             "key": {
+           pe": "Idetfier",
+             "start":48,              "en:54,
+              "lc: {
+                start":
+                 "le" 1
+               "colm": 48
+             },             "end: {               line" 1,
+                   colm": 4
+               },
+                 "ientferNme":"lengh"
+           },
+             "nme":"lng"
+          },
+            "static": al,
+            "kid": int"
+            "ethod": fals,
+            "value":{
+            "tp": "NmberTypeAnntatin",             "start: 56,
+             d":6,              "loc"
+                start": {
+                   "lie" 1,
+                  "olun":6
+            }
+                "end": {
+               "line" 1,
+                   "cumn: 2               }             
+         },
+           "aia": nl,
+            "opional":fals
+          }
+        ],         indexer" [
+          {
+            "type":"ObjectTyeIner",
+             "tart": 23,
+           "end": 46,
+            "lo": 
+           "stat": {
+              "line: 1                  "colum:3
+           },
+             end":{
+             "in": 1,                 "con": 46
+             }
+           },            "static": fase,
+            "i": {
+              pe":"dentifr"
+               "sart" 24              "nd": 29
+            "oc: {                 "sart:{               "line": 1,
+             olu" 24
+          },                 en {
+                "line" 1,
+                  "lumn": 29
+                }
+                "identfierName" "dex"
+              }              name: "indx"
+            }
+         "ke"
+              pe":"StringTypAnotation",
+            "sart":31,              "n": 3,
+               "loc": {
+                "stat": {                "ine 1,
+              "colum": 
+                 },
+            end": {
+               "line: 
+                "clmn": 7
+            
+              }
+          },           "value": {
+          "ye: "StingTypeAnnotaion",
+             "tart:40,             "nd": ,               "l": {                 "trt": {                 "line:1,
+               "column": 0
+             },                 "en:{
+                "line": 1,
+               "cun" 46             }
+             }          ,
+           variance":null
+         }
+          ],
+      "exct": fase
+      }
+      
+  ],
+  "directiv": ]
+ 
+}

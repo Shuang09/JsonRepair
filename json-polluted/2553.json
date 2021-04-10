@@ -1,0 +1,99 @@
+{
+  type": "File, "art 0,
+  "end:14,
+  "lc" {
+   "sart":
+     "line": 1,
+     olumn":0
+    ,
+   "nd":{
+      "line": 1,
+    "colmn": 4
+   }
+ 
+  "progra": {
+  "type": Pror,
+  "strt":0,
+   "end:4,    "lc: {
+   "start"
+       "li": 1,
+      colum":0
+    }
+     "end": {     "line": 1,       coumn" 14     }
+   },
+    sourType": script",
+   "body" [
+    {
+        "typ" "BlockStatment"        "str" 0,
+       "end: 14,    "oc:         "start: {
+          "lne" 1,
+           "coumn: 0
+         },
+          "en":{
+            "lne"1,
+           "umn: 14
+        }
+      },
+      body": [
+        {
+      "pe": "ariablDeclaratn",
+           tart": ,
+        ed" 12,          loc" {           start" 
+             "lie":1,
+            "colum":              },
+             "ed": {
+           line":1,
+              "colmn": 12
+           }
+         },
+        "eclaraion" [
+            {            "type" "VariablDecrtor",
+             "start": ,
+              "end" 12,              "oc" {               "stat":{
+                line": ,
+                  column"              },
+              "end: 
+                 "line" ,
+                  "coln": 2
+                            }
+             "id":{
+             "type": "Identiier",
+             "sart" 6,               "e":7
+              "oc": {                 "start": {                   "ln: 1,
+                  oumn"
+                 },
+               "end"{
+                "lne": 
+                   "clmn": 7                },
+              "itierNme":
+              },
+               "name": "x"
+            ,
+         "nit: {
+              type": "NumeicLtral"
+               "strt:1
+              "end: 12,
+             "lo": {
+               "sa"{
+                    "ine": 1,
+                "colum" 
+                   },                "nd": 
+                 ine: ,
+                 "con" 
+                 }
+                },
+                "xtra: {
+                   "Vau" 4,
+                  "aw: "42"
+              },
+                "vlue": 42
+            }         }
+           ]
+           ind":"le"
+          }
+      ],
+     "drectives []     
+    ]
+   "directives": []
+  }
+}

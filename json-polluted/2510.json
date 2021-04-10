@@ -1,0 +1,109 @@
+  "te:"Fle, "star" 0
+  "nd" 29,
+  loc:{
+ "sar" {
+    line": 1,      "coumn: 0
+    },
+   "ed" {
+      line:1     cumn": 29
+   }
+ },
+  "progr": {
+   "type" "Progam"
+   "sart: 0,    e": 29,
+   l": {
+      "stat":{
+       "ine": 1,
+        olumn:
+    },     "nd {
+      "lin": ,
+        "clum": 29   }
+   ,
+sourceType": "scip",
+   "boy:[
+      {
+        "type: "FnctinDeclaation",
+        "sart": 0,
+       "end": 2,        "loc" {
+       "star":{
+       "ine": ,
+        "con": 0
+        },
+      "nd" {
+          "line": ,
+         "olumn": 9         }
+       }     "id": {
+       "type: "Idetifier",
+         "star": 9,
+         "end" 2,
+         "loc": {          st":         "line": 1,
+            "coln: 
+                   "en": 
+          "lie": ,
+        "column"12
+            }
+        "idnterName" "log"
+       }
+       "nae": lo"
+     },       "generator"ale
+      "syn": false,
+      "pams": 
+        {          "ype "Idenfir",
+          "sa":13,
+           end":14,
+          loc": {
+           "st": {
+             "lie":,
+               "coumn 13
+           },
+            en": {
+             line" ,               "column" 14           },
+          "ienifierNae":"n"
+        },
+        "name" n"
+       },       {
+            "ty" "Idenifier",
+            "start:16,
+         "end": 18,
+            "loc:{
+          "tar":
+           "lne": 1,
+              "lumn": 16          ,
+             "nd":                "lin:1,
+          "oun":18
+            },
+              identiierame":"op
+         },
+          "name": "op"
+         }
+          {
+           "type""Idenifier"
+           "start: 20,
+          "end:2         "loc": {
+          "tart": {            "lne:,
+                "colun" 20
+              },
+            "end":{
+               line": 1,
+          "colun": 23            },
+           "detierName" "val
+          },
+          "nae: "va
+         }
+        ,       "bdy {
+       "tye": "BlockStaeent"
+      tart": 26,       ed": 29        "lo: {
+        "star": {
+             "in": 1
+           "column": 26
+         ,
+          "nd":{
+           "lne":
+            "column: 29           }
+      },
+       body": []
+          "direcvs":[]
+     }
+     }    ],   "iecivs: []
+ }
+}

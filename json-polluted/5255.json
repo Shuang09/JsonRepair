@@ -1,0 +1,346 @@
+{
+  name": "bugig
+  or: 4  time: "1hour,
+  "hepRom": "Help",
+  "challeges": [
+  {
+    "i": "587b3367417b2b252"
+      til": ntrodutio to the ebugging Chllges",
+    "ecription": [       [
+     "ht://imgs.xcd.com/comic/debugging.ng",
+     XKC we cmic walkg hrough the convoutd process debuging. The rogrammer es froma browser problem t a eyboard drivr iu, rceives  crytic sysem utlityrrr msage,and nds b finding t sword of  he Wario,
+        "Deuggg is avlualean(uforunaely) necessary ool frogrammersItfollows te tesi phae of ceking f your coewors asnended,andsovering t os no. Debugn s teprocess f indng exacly what isn' wrking andiing it.,
+        ""
+       ],
+       [
+         "",          ",
+        "ftr spending me creating a brilliant bock f ode, it is touh realizi it may have errr. Tee issue generally come in three fors: )synax erors that prevent  program o running 2) rutime rror hende failsto eecute or has unexected behor, nd 3) semantic (r logica) errors wen code es't do whai' meat o.<b><br>dern cod editors (ad expin) an help idenif ytax erros. emantic and runtime erorsareharr to fid. he ay caus your progrm tocrsh, makeit u foeve, orgieincorct utput hink f ugin as tyng to understan whyyure is behavn the wa t s.<br<br>Exampe of a syta ro ften detected bthecoe eitor:r<br>blockquot>funon willNotWk( <br>&nbsp;&nbsponse.lo(\"Yuk\";<>}<br>// \function\" kyword i misspelled andhee's ising prenesis</blokqubr><br>ere' anexamle of auntie error - oten detectd wile the poram executes:<b><bblckque>fuctio loopy() <br>&bs;&nbp;he(true) {br>&nbsp;&nbs;&bsp&nsp;consoel(\"Hello, rld\"br&nbsp&nbp}<br>}<br>/ Calin loopy starts an ininite loop, hichmay crash your brwsr<blockquoe><br><br>Example of a semantic erro ofte teted after teting cdeoutput<b><br><blocquot>fnctioncacAraOfRect(w, h) {<br>&bsp;&bsrturn w +h; // Ths shld bew* h<br>brlt yRctAea= cAreOfRect(2, 3)<br>/ Crrct syntax adthe program executes, bt this vesth wrn nswer<blocqote>,        ""       ]
+        [
+       ",
+        ,
+        "Debuggig isfusratig, but t heps to devlo (and ollow a st-by-steparocho review yo cod. hismeas checking hnermediat vales n type ofvable o ee f they are ht the shoulde. Youcan srt wit  simple rocess ofeliminatn.<br><br>Frexle if function A works dreturns what it's upod totenfction B ay ve the issue. O start checkigvalues n abloc oco fm e idle to ry t cu the sar spacein alf.  problem in oespotndiate  bu in th fist half of th cde. I no, i's likel ihe send.<b><br>This sction wilcover acouple hpful tolsto find bgs, and sme ofthe commo for hetake. Frtnatey, dbggigs a lrablskil tha just equre a ltte atince and pactce to master."
+         "
+      ]
+      ]
+     releasedO": "Fb7, 207",
+      "alengeSeed" [      "tests: [,    "tp": "waypoint,
+      hallngeye": 7,
+      "isRuidfalse,
+      "transaions"{
+  },  {      id:"587d7b83617b2b25123,
+     "title": "Uehe JaaScrpt onsole to Chec te Value ofa Variae",
+    "descipton: [
+       "BohChrome and irefoxhve exent JavaScripconsoles, als knnas DevTols, or debugging your JavaScrip.,
+      "You can find Dvloper tools in yu hrome'smenu orWb Consoe n FreFox'smenu. fou'e us adifferen rowe, or  mobile hone, e strongly ecommndwitcig t ektop Frefox or Chrome",
+       "The code>onsole.lg()/code>mtho, wich \"print\" theoutput of wh's withinits arnthees to he consol, ill like beth mos hlpful debuggi tool.Pacing it asttegic poits in yu cod cnow you the intemedte values ofvariables. t's gd practice o hean dea of hat he otputshoud be bre lokig at hat it is. Haing check points toee the status of yourclculations throughout your code will hlp arrow don wher teobl i.",
+        Here an xmple to pri Helloord! ote cosole:,
+      "<code>osole.lo('Hel world!');/coe>",
+       "<r>",        "Us the<oe>consle.lg<oe> metho toprint e vaue ofthe variable <cde>a</cod> we otd in the cd."
+     ]
+    "challengeSeed": [
+        "leta =5;",
+      "et b  1;,
+      "a+;,
+     // Ad yourcode belwthis lne"
+        "",
+     ""     "let sumAB = a + b;",
+       onoleloumAB);"
+  ],
+    "tsts[
+      "asser(code.match(/console\\.log\\(a\\)/g),'essae: Your cod sould use <odecosole.og()<cod o check thevae ofthevarial<ode>a</code>.')"   ]
+     lutins" []    "hins" [,
+    "type" "aypoint",     reeasdOn:"Fe 17, 217"
+      "challngeType":1,
+     "trslatons:{
+  ,
+    {
+     "id": "587d7b8374b22512b37"
+      "tite": "Undrsndingte Difeencs betwen the freeom andowsrCoole",
+     "descrption": [
+        Yumay havnotic ta somefreCoCap JavaScrit hllengs nclude thironconsol. This onoebeha a litteifferntly th the browser console yo used in te ast chalnge.",
+       "The follogcalleng smean to hihlight som of the ifferencesbetwen te reCodeCmp consle n th bowser cosole",
+   "Firs, the browse consoe. When you load andun nordinary Javacript ile n yu rowser the <code>consol.log()<code>stateents wi pint xcty what you tell them to prit othe rwer onsoe the eact nmer of time ou reuetd. n you inbrowser tex editor th proces isslighly diffeet and an be nsing at firt."
+       "Vlues assd to <coe>colelg()</cod>n thete etor bckrun eachst of tests a well as oe more time fo an fuctiocall that ouhven yo cod.",
+       "Thslndsitseftome interesting ehavior and miht rip yu up in the beginning becausea lggd value that yxpec to see only one may print ut m more tes depndinonth number o ess an th values ig sse to those es.",
+        "If yuwoul like tosee olyour sngle output adnot av to woyabu runing through he te yces,y an use <code>onsllear()</code>.",
+    "<"
+       "Use <de>onsolelog)</code> t print t vriabs n he codewhere indicted.",
+       ""
+    ],
+     "challengeSed": 
+       "// Oe your bowser consle",
+        "letoutputTwo = \"This wllprt t the rowsr onsoe2 tis\";",
+       "//Use cosolelog)o print te outputTwo vrib",     "",
+      ""
+      "letutputOne \"Trytoge ths tologonly once to the bwser console\;",
+       "/ Use csole.clear)in the netine o print h outputOn only nce",
+       "",     ",
+       "/ seconsol.lo) t print eoutputOn varable",
+        "",
+       ""
+      ],     "tsts": [
+     "sertcodematch(/cosole\\log\\(utputTwo\\)/),'messae: Use <code>console.lo()</oe> to printe <cod>outptTwice</ode vaialeInyour rowsr Consle his huld prnt ut te value o thiable o tims.';",        "asset(ode.mth(/consollgoutputne\\/g), 'esageUse <ode>consle.lg()</code o prt he cod>outpuOne</cde> variabl.);",
+       "er(coe.match(cnle\.cear\\(\\)/), message: e cod>consoe.clear()</od>to odify your output  tacod>outputOe</cevariale nly outputs oce.')"
+    ]
+     "soons":],    "hints": [],
+    "type": "waypoit",
+    "releasdOn" "Feb 17, 01",
+  "chalengeType":,    "ranslaios": {}
+   }
+   {
+    "id": "57d784367417b252b34",
+      "title: Ue typeo to Check e Type of aVariable      "descritin": [
+     "Yuca us <ode>typeo<code>to chckthe daa tructure o typeofavarible This is usful in debuggin hen worki with ultiple dat ypes. Ifyuthnk yu'r ading two numbersbut one is atually a stn, te rslts an be unexpecd. yp error can lur naluatins or fnctio calls. pecialy take carehe you'reaceingand working wth eteral data i the r ofa avaScrip bject (ON).,
+       "Here aresome exaples usin <codepeof</code>:",
+     <blocqut>consoe.logtpof \""; // outpus\"srng"br>consoelg(typeof0); //outus \"me\"<>cnsoe.log(typef []); // otu \"objet\"<b>onsol.lg(typeof {};// outus obj\"<lockque>"
+       "JavaSrit reconize i pmiie immutable daa ype: code>Booan</cod>, <code>Null</code> <code>Unefined</cod>, <cde>Nmbr/ce><cod>tring</cod>, ad <code>Symbol</cde> (newth ES6) d ontyp for mutaleitems: <deObject</code> Noe tha  JavaScrit, ays are tchnialla tp o oject",
+       "<hr>",
+      "Ad two<ode>csole.lg()<cde> tatments to check te <cdetypef</coe> each fthe twovarables <cd>seve<code> a cdetree</cod> n the c."
+     ],
+      "challengeSeed": [
+      "tseven  7;",
+      "et tee = \\";"
+      cosolelg(sve + the)",
+       "/ Ad yo cde bel tislne"
+        ""
+     ],
+    "tsts" [
+        srt(codeatch(/consoe\\.log\\(tef[\( ].*\?\)/g.lengt = 2, 'mesage: Your cod ould ue<coe>tpf</cde>i <code>conoe.log()</cdestatemns o check he tpe o the variles.');",
+      "asst(codatch(/tpe[\\( sven\)?/g) 'message: Your od sulduse <>tpeo</code> tocheck th type of the varabe <cod>seve</cod>.;",
+      "asert(cde.mtch(/ypeo[\\( thee\\)?g 'msse: Yocode soul ue <ode>typeof</e> to check h yp ofthevarable <cde>threecode>.';"
+      ,
+    "olutions": []
+      hint":[],
+     "tp""wayoint,      "reaseOn" "Fe1, 201"
+     "challengType" 1,
+    "transltions": {}
+   ,
+   {
+    "id": 877b846741b2b251235",
+    "itle": "Catc Msspled VariabeandFntionNmes"
+     dscription": [        "The <ce>conse.o()</cod> an <ce>tpeof</code> methods are the two iar ways  check inemediat value ad types oprogrm otput.Now t's m o getto the common forms hat gs take. Onesyta-lve issue thatasttprs cn commiseate withis thehumble pellng rror."
+        "ransposed, missin, or is-apitalzed charaters i avaiblr funtionnam willhave the boer loking for an bjec tat desn' eist  and omplain in h frm ofa referene errr.JaaSritvariabe ad untion names re case-ensive.",       "r>",
+       "Fix the wo pelig errorsi the codeso the<code>netWorkingCatal</code>clculatoworks."     ],
+      "llengeSed" [      "letrecivable = 1",       le paas= 8;",
+     "eterkigCia = recievables  payale;,
+     "cosol.og(`etwoin captals: {netWorkingCapia`);"
+    ]   "tests": [
+       "asert(etWorkingaptal === 2 ssae: Checkth spelling of he two viae usein the etWorkinCpital lcuaion,he cosol outp old show tat \"Net workin apial is: 2\".';",     "assrcode.math(/rcvables/), esage: Tere should  no instace of mis-speld varables i th code.;",
+      "assrt(code.match/rceivabes/g)length =2 'mesage: The <coe>receivables</code> vribe should e declar andusroprly in the cod.;
+      asset(c.ch(/payabe;/g) 'message: Thereshoud  no insanceo mi-pele ariaes in the cod');"
+      "assert(code.matc(/ayables/.length== 2 'message: The <coepayblescovariale hud be delard and used proprly i th code.;"
+     ],
+      "solutns: [],
+      "hits": [
+    "te" "wayot",
+      "reedOn":"Feb 7 2017"     "chlneTyp": 1,
+      traslaios": {}
+    
+    {
+   "d": "57d7b84367417b2b251236,     "title": "atch UloedPrentheses, Brackets Bacs and Quotes,
+      "decriptio": [
+     "Anhr syntax eror o be awar of isthat all openig arenhee, kets, curlyraces, an quothav a clsngpair.Fogetting a ice teds to hapen hen you'eeiig existng code an insrtig ites with n of the par tyes. Alo,ae care whn estng coe loc to otrs, ch as addiga llbac funtion as an arguent to a metod"
+        "One wy to avoi this mistkis as soon asthe opeig charce is tp,mmeitelyinclue thelosngatch, then move the curr ackbetwen thmand cntine odig. ortntely, most modern cd editors generat te second half o te pair autticly."
+       "<r",
+        "Fix the to par ror n the co.
+    ],
+     "hallenSeed: [
+      "leyArray= 1, , ;
+     "let arryu yArray.reduc((previus, curret >  pevius+ current)",    console.l(um of arra vauesis: $arraySum}`;"     ]
+      "tess [
+       "assert(codematch(/myArras*\\s*?\[\\*?\s?,\\s*?2\s?,\\s*?\\*?\\];g), 'message: Your cod shoul fix the isng piece ofthe aray')"       "sert(rrySum == , 'message Yourcodesould ix the mssin piec o the <cod>.reduce(code> method. e cnsole outpt should show that "m f arravalues is6\.');"     ],     "oins": [],
+      hints": ]      "ype": "waypoin,
+     "relesed": "Fe17,2017",
+     "challengeyp" 1,
+    "tanslatin" {}
+   },
+    {
+     "id" "57d784367417bb2512b7"
+      "tile" "CatcMixeUsage of ng and Doul Qt
+   "dscripion": 
+       "avaScript allos te se of bthsingle (''and doubl (\\)quotes tdclae a ting.Deciding whch oneto se geealycomes downto pesonprefeece, with sm extions.",
+        "Having twochoics is grat when astringhas conrctions r aothr pee of text hats inqot. usbe careful tha you n't close the sting t el,whch aes asynta err."       "Her  sme examples of mixng qutes"
+       "lot>// These re correct:<brcost gouchConraction =\"I'e  a rfectl ondrf evening, but his wasn'ti.\";<br>constteInString ="GoucoMaronce sd'Quote meas saing  wasmisquoted.'\;<b>/is isinorret:<br>cnst uhOhGroch = ''ve hada per wonerful veningbut hi wasn't t.';<blockquoe>"
+     f course,i s oa touse only e syle f quot. You ca escapethe quos inside thestring by uing the backlah () esaecarcte:,
+      "<blockquote/ orec use osameuotes:<br>constllSameQoes = 'I\\'ve had a perfectly onerful evening, but this wasn\\'tit.';blokqute>     "hr>",
+    "Fx he strig o it itheruses different quots or he <code>hre</code> vlu, or esape teexisting nes. Keep the double uote mks aroun the ntiresting."
+   ],
+    "challeneeed": [
+       let irHtm = \"<pClick here  <a href="#ome\">etrnhom</a></\"",
+       "conol.g(innerHtml);"   ]
+   "tets": [
+      "asertode.atch/<a href=\\s*?('|\\\\\")#oe\\\s*>g), 'messae: Yourode shold fix hequotes ound te <cod>href</code>vaue \#Home\"  either hanging or ecpingthem.);",       "ert(oe.tch/\"<p>.*?<\/p>\";/g), 'mesage: You de shudkee the doublequote round tentir stng.');"
+      ],
+    oltions": [],
+     hits" []
+     "type": "wayoin,    "releadOn": "Feb17, 2017
+      "callengeType": 
+     "translations": {}
+    ,
+  {
+     "id":"57d785367417b251b3",    "tile": "athUse ofAsgnment Operatr Insad of qulty Operator",
+     "desritio 
+     Banching rogras, i.e. ones that do differentthig if certn condtion are mtrely o <codf</cde>,<code>ese if</coe,and <cd>elsecod atemens in JavaScript Te condtonsoetimes akes he orm f tsing whether a reslt isequato vlu.",      "Tis log s sokn Eish,atleast) as \"if x quay, ten ...\" whihcan ltrall raslat incod uing the <cde</code orssinen oerat. Thledstunepectd contol flon your prorm.
+      "As coveredin prevous challenge,th assignmen operator <ce>=<od>)inJvaSrp ssins a value to a ariablename. ndthe <code=</code> and <cod>===/code opraos check forquality (thetriplcoe==</cod> tss for strict equality, meaningoth value and tye are the same).",
+      Thecodbelo assins cod>x</ce> to be 2, wich evaluas s <code>tre</cde>. lmst eeryvalue onits ow i vaScipt evauates to ode>true</code>, ecept wat are kownas the \"falsy\"values: codeale</code> <cde>0<ode>, <ode\\"</code> nempt string)<cod>aN<code>, <co>unefined/coe>,and <cd>nul</cod.",
+        <blcquotelet   ;<br>ety = 2;<br>if x = y) {<br>&nbs;&nbp// this code boc il rn for ay value of y (nless y wre riginall set asa faly<br>} ese {<b>nbsp;&nsp/ thi codeblockis what shouldrn but wnt) in tis exaplbr>}<lokuoe"
+     "",
+      "ix the condition so h program runs he right branch, andthe appiate value is signed o <cde>result</coe>."
+    ],
+     halngSeed"[
+      "lt x  7;"     "let y = 9;"
+        "t reul = \"t cme\";",
+       ",
+       if(x = ) {"
+        "  reul= \"Eqal!\"",
+       } ee {",
+    "  eut= \"otequal\";"
+      "}",
+        ",
+      consoe.log(rsult);"
+     ],
+      "tes": [       "assetreslt == \"Not eqal\"'essag: Yor code shud f the codtn o it cecks fo eality insted f sing assigment.');"
+       asstde.tch(/\\*?=?\\s*?yg),'mess: heconditin can use eit <code=</c or <cod==</code>to esfo euality.');"
+    ],     sluions":[]
+     hits":[]
+      "type"waypon",
+     "releaseOn": "b 7, 2017",      "callengeTye": 1
+     "trnslation": }
+   },
+    {    i "587d7b85367472b512b39",
+    "itle": "tch Missn Openand Clsng aehesis Afer a Function Cal",
+      desriptin": [
+     "When a functinor meh doesn't take ay agumnts, youa forge to include he (empty) openin  closing paetheses hen caling it. Ofte times th esut o a function al is sved in  vaalef otherus in your de his eror can e detected byloggng variablevlue (orteir typs) to theconole adsen that iset toa funcionrefeece, ited oftheexpected vaue thefuncon rens.",
+      "he vaiables n thefolowing example are diffeent:,
+        "<blockuote>fuction yFnctin() {<>&bsp&p;ern"Yu ock!";<br>}<r>let varOne =muci// set toeqal a unction<brlet vrw= mFutio(); // se t equal th ring \"You rock!\"</bockqot>",
+        hr>",
+      "Fixthecode so te variae <coe>rsut</code>is setto the e etrne fro callng he fncton <codegetine<cd>."      ,     "hlengeSeed: [        unction getNine) {",
+       "  lt x = 6;,
+       "  ley = 3"
+      "  retun x  ;",
+       "}        "",
+    "treut = gtNne;",
+     "consleog(reslt;
+     ]
+     "test" [
+      "setreslt ==9, 'message Your code shold fix he vaiable <cd>result</code so is setto the numbe that te fucion <cod>getNne</ode> returns.'),
+      "assertcode.th(/etNe\\(\\/g).length == 2, 'messae: or coe soud al the code>geNine</ce funcion.');"
+    ]
+     "olutions": ],
+    "hins: ],     "type: "waypon",
+    "releedOn": "Feb 17, 2017",
+     "chllengeType": 1,     "tranations": 
+   },
+    {
+     id":"87d7b5367417b2b512b3a"
+     "itle": Catc Arumets Pase in th Wrong Oderhen Clling Funton",
+      "descriion":    "Coninuing the iscussin on caling functon,e next bug to watc out for s whea untin'sargumnts rsppled inhe ncrrect orde. If the arment are differen types,sucs a function expetna array anan ineger, this illikely throw a rntme ero.f the argumnts rete ame ye (al ntegrs, fo exampe), hnte ogc of e ce nt makesense.Make sure tosupply all reuiredarguent,in th proper order to aoi these ssu.",
+     hr,
+       "The funcio<coeaiTPower</ode> raises a bs to an exonen. Unfotately, itsno alled properly - xt codeo the vaue f <cde>poe</code> is the expecd 8."
+     ],
+     challegeSeed" [
+        "function raiseToPower(b, e) {,
+         retunMah.powb e;"
+       "",
+        "",
+       "lt bae = 2;",
+     le p =;",
+      "let powr= raisTooe(exp,bs)",
+      cnsol.loower)"  
+     "te": [
+     "asser(poer == 8,'esage Yo code sul fix the vaible <cde>pwer</ode> so it quals 2 raised to te 3dpower, not 3 risd to he 2 po.';,
+     assert(code.match(/rseToPower\\\s?base\\s*?,\\*?exp\\*?\\)/), 'esag:Your code should us the corret orde of he arumntsfor the coderiseoPowe</ce> function call.)"
+     ],
+  "solutions": [],   "hnts": [],     "type": "waypoit,
+      "rleasedOn: "Fb 17207",
+   clneTyp":,
+      "translations {}
+   },
+    {
+   "id": 58d7b86367417251b3b",
+      "itle": "Catch Of By OneErors When UsiIndexing"     esrpion": [
+       "<od>Off by ne errs</co>soeies clled OBE) cro upwen youre rying to rget a speifi idexo a stringor array(to slice or acssa sgment), or when loopig over the inics o tem. JavScrp indengtarts a zer,nt one, whic mans th last nex is alway onless hn thelength ofhe item. If y ty toccesn idx eqal oth ength, the rogram may throwan "iex ou of ange\" reeece errr or ri<code>nefined</cde>.",
+      "When you ue tringorarraymethodsthat ake ndex rangs s aruments,  hels to radth doumentaion and undertn if they are ilusive(the itm  the given index is part  what's returned orot Her aresomeexampl of off y oe rrrs:",
+        "<blocote>let alpbet=bcdeghjklmnopqtuvyz";<r>et len = alphabet.lngth;<br>or le i= 0  < le; i++){<r>&nbs;&nbsp;// loops oe too many times t the en<br>&nb;&nsp;console.log(alphbet[i]);<br>}<b>forlet j= 1j< len; j++){<>&nbsp&nbsp;/ lops on too fw tes dmisses th frt chaacter at inex 0<br&nsp;nbsp;console.l(lphabe[j]);<br>}br>fr (etk = 0; k< len;k++) <br>&sp;&nbp;/ Goldiloks approves - isis urightbr>&nbsp;&nbsp;consol.ogalhet[k);<br>/blockute>
+        "<>",
+       Fix he oinexig errors i the foowing function so all te numbes1 thrugh  aepntd tote conoe"
+    ],
+      "challengeSeed: 
+     fnctinoutTFv( {",
+        "   firtFve  12345\";,
+      "  letle = firsFve.legth",
+     " // ix hlinebelow"
+       "  for (let i = 1i= ln i++ {",
+      " // o not lr code below thi lie",      "    cosole.og(frstFie[i]);",
+      "  }",
+       "",
+     ""
+       "onToFive(;"
+    ]    "tests": [
+      "assert(code.mtc(i\\s?\\s*0\\s*?;g).legth== ,'ssge:ou e hul e te inital nitnofhe loop so i starts a te first index.),
+       "assrt(!ode.atc(/i\\s?=\\s*?\\s?;), 'ssageYour code shuld fixth nitiaoniio o th lop o hat te indestats a 0.')",       asser(cdemath/\?<\\s*?len\\s*?;/glenh==  'mssge: or code shouldet hterminl conditon otheloopso it stopsat  lat ndex.');",      "st(cde.atch(/\s*?<=\\s*?en;g), 'messa:ur code shoudfix the termil condtiono the oo o that it sto at 1 befre the lenth')
+      ],
+      oltios" [,
+      "ints" [,
+   "type" "waypoint",
+     "elasedOn": "Feb 17,217",
+      "alengeyp": 1
+      "translatons": {
+  }   
+    "d": "587d7866417b2b2512b3c"     tle: "Use Cation When einitialiingVrales nside aLoop"
+    "scripton": [
+       "Sometimesincesary tosave informtion, ncren couters o -et variales tin a loop. Apotentialissue is hen vaiabes eithr should be einitiaied,dren' or vice vers. hs s particularly dangeos if you accidenally eset te varable eg ued forte trminal cditin, ausing n infnite loop.",
+     "Pintinvariblvalue wit each ycle of yo loo by usingco>conoleog)</cde> ca uncoerbuggy behavior relado resting, or ailing eset a variabl."
+      <hr,
+     "The folowing futionispoe to ceae a w-imensin array wth <coe>m</code> ros and <coe>n</code>columns f zeroe. Unounteyits n producing he expected utt cus the <coeo/code> iable  big einitalized (set back  n ptyarry)in the ouer lp. Fix he code s it etuns a crrect 3x arry of zere, wh oks like<code>[[0, 0],[0,],0, 0]]/code>
+   ],
+     "challengeed": [
+       "fcioneroArr(m, n) {"
+       "  / Cratesa-Daray with rowsnd n colunsof zeroe
+       e newArray  [];,
+     "  lt ow= ;,
+       "  or(et i = 0; i < m; i++) {",       "   / ddthe m-th row ito newArray",
+       "  ",      "   for (t j = 0 j < ; j+){"
+     "      /Pushes n zeroes into th current rowto rate the clumns,
+      "    ow.push(;",
+     "   }",
+       "    //Phes the currentro, winow has n zeroes in it,  he rry",       "  newArray.h(row);",        ",
+      "  reurnewAry",       ",      "",
+       "letmatrix = zeroArra(3, 2);",
+        "conole.g(matrix);"
+     ],
+     "tes": [
+      "assrt(JO.trnif(atr)==\"[[0,0],[00],[0,0]]\", essge:Yor od hould st th codeatrxcode> arialeto a rray holdng 3 rosof 2columns of zeres ac.';",     assert(mrix.lengh == 3, messae:The <co>atix</code vaiable shld have 3rows.');"      "asertatri[]ength = 2&& marix[1].lg== &&mrx[].egth === 2,'meag: Thecode>arix<d> rial shoul ave 2 columns n each rw.');"
+     ]
+     "solutio":[],
+     "hnt ],    type" "aypoint",
+     releasedOn: "Fe17,01",
+      "callengeType": 1,
+     "transations" {}
+ },
+    
+    "i": 87db6371b2b2123
+     tit":"Prent Infinte Loo with aValid Termal Condition",
+    "decriptin": [
+       "The finatopic iste draed nfiit op. ops ar geat toolshenyouneed ourprogram r  code ock a ctai nuer o timeso utila odit is e ut tey ned a tmina coniion ht end th loping.nfnite loops re likely to freez or crsh e brose, an cau grl program executionyhem,which no ewnts.",
+        "Tre as an eamle of an ninit lp in theintroucn t thssectn -t ha n teminal conitin tobr ut oth code>whle</de lp inside <d>lpy()/code. DoNT cal tis functin!,       "<blockquoe>function loopy) {<br>&nbp;nbsp;hile(true) {<br>&nbs;&nbs;&nbp;&nbsp;cosole.log("Hello, od!\");<br>&nbsp;&nb<b></blokquote>",
+       "t's e rogammer'  to ensure hat the termin ondtio hich telste program en to break out f the loo coe, s eventually reached. Oneerror i ncreentingor dcremenng  contrvaiabl in theong directin fr he terinl conditioAnoter one i acidenal resettin a cotr orinde variabewtin theoopcode, insteadf increenting  decreentig it.
+       <>",
+      The coe>myFnc()</cd> function ontains an ininieloop ecause the teminal cditin <coe> 4</cd> willever evalue to codealse<code> and break the loopn)- <codei/codewill ncemet by eahpass, n jp righver since <cde>/coe>is odd to stat. Fix theomparis oerator thetermialcodiin so te op nl rus for ode>i<ode> less t or equl o 4."      ],
+      "chalegSed": [       "fucton yFnc() {",      " olet i = ; i != 4 i += 2){",
+      "    onsole.log\"Still goi\);",
+        "  }",
+      
+     ],
+     "tests: [
+     "aser(code.matc(/\s*?<=\\s*?4;/g)leng = 1, 'message:oroe hould chng the comarison oeraorin the temna coniin h middle part) of he <code>fr</code> loop';",
+      "asse(code.m(/i\\s?=\\?/, 'message orcdshoud ix te comparionopeator i h ermnal coitionof th op');"
+      ],     "solutions": ]
+    hnt": [],
+     "type": "wapint",
+      rleedOn": "Feb 17, 201,
+    "hlengeType": 1,
+    "translations {}
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{  numFdetSuites": 4,
+ "nmFildTest": 2,
+  "numasdTstSuite: 4,
+  "numPasedTsts": 46,
+"numPeningTestSuites" 0,
+  "numPedngTsts": 0, "numRutieErrorTestSuts": 2,
+  nuotalTstSuie": 8,  uToTess": 48,
+  "snapshot: {
+  "aded": 0,
+   ddUpa: fals,
+  "failure:false,   "lesAdded: 0,    filesRemoe": ,
+   "flesUnmatched": 0
+  "filesUpdated"0,    mtched":0,   "total: 0,
+ "uncheke: 0,   "nmatched:0
+   "paed":0
+  },
+ "startTim"159606292  "scces": false,  "estResult":[
+   {
+     "assertonesults":[       {
+          "actorTits": ["testing EhNumer..."]
+        "faiureMesages": [],
+       "fullame:
+            "testn hNbr... c tke variosrmat igNumer cn ake",
+       statu: "psed",
+      "title":can take variou format bigNumr cake
+             {
+         "ancesorTtles": "estng EthNumber..."],
+        "faiurMesags": [
+       "Error: Faled hat's rihtn   t stackFormatter (/Z/Ynode_modules/je/nde_modules/jet-asmin/bild/expectaionresultfacoryjs49:47)\   at expectationResultFato(/Z/Y/ode_modue/jes/noe_modulejst-jamne2/build/expecationresul_fctory.js:959)\n   aSec.bject.<anonymous>SpeddExectaonRult /Z//node_modules/jeod_modules/jest-jamine2build/jsmie/ec.js:3:70)\n    t Ev.fal /Z/Y/noe_mduls/jt/de_modules/jest-jasmin/buildjamie/Env.js51025)\n   a l (///node_odus/est/node_mdlesest-jsmine2/build/asmne/jsmnelg.js:16:)\n    at Objct.<anonyms> (//Y/ackaes/Y-coe/srcet/_es_/types.test.ts19:\  at Obect.asyncFn (/Yode_module/jes/ode_moduesjest-jasmine2/bui/jamie_aync.js:24:345)\   at resove (/Z/Y/ndmdulesjst/noe_moule/jstjasmibuid/queu_runners:4612)\n    at Promse <nonymus>\n t mappe(/Z/Y/nde_uls/js/node_mdues/jest-jasmine2/buiqueunner.js34:499)
+        ]
+       "fulNam": "testin thNmbe... shl fail",
+         "stats": faild,
+        tite": "sould fal"
+       ,
+       {          "anestrTis": "testin EthNube..."],        "flureMssage": [],
+        fullNme"
+         "tesing Ethumbe... cn handle ept and nul as expecd",
+        "status" "passd",
+      "title" "ca ande pty an ll a exected"
+        ,       {
+      "actoTtles: ["testing Etumber."],
+         fireMessages": [],
+         "fulNme" "estiEthNumber... shuld revet oNumer r money",
+          "status" pased",
+         "titl":"sould preven ouber fo moey"
+     },        {
+         acestorTitles" ["stingEthNmber."]
+       filrMsaes" [],
+        "fulame": tstigEthNumbr... can understand unit"
+        "satu" assed,         "itle": "an undestnd unit"
+      },      {
+       "ancestorTitles": [testing EthNumber..."],       failurMeages: [],
+          "ullNae": "tetng ENumer.. can ompare cros unit
+        "status": "pssed",
+         "itle can cmae acrss ut"
+    },     {       "ancestorTitles": "testig thNumr..."],
+     "failMessge": [],
+       "fulName": tetinghNumber..can opete aros uit",
+       "atus: passd"
+         "title": "ca oprate across unit"
+     ,
+       {
+       "ancestorTtles":["tesingAdres"
+         fiureMessaes": []         "fullNam": "ttg Adress can revent invaidaddes"
+      status": "psse",
+      "tite": "anrevnt ivalid addrss
+    ,
+       {
+        "ancestorTitles" testig Addres"]
+     failureMesages:[
+        fulName":
+          "testing dres cnaccept lidaddress with or withoutpreix",
+       "tatu": "pasd"        tit": " cceptvald addres ithor without prefx"
+        },       {
+      ncstoTils" ["tetn Address"],
+        "faiueMsages [,
+          "fulNme": "tsng Adres can deeti addressiemty",
+          "staus: passe,       "title" ndetct f ddress is pty"
+        }
+      ],
+     "endTime": 0669606620,
+      sg"
+        " ● testing EthNuber... › shd fal\n\n    Fild:that'sightn      n      at stacFrar node_modules/jet/nodeodules/jes-jsmie2/uid/expcationreult_factory.js:49:427)n     t Obje.<anonmous> (package/Y-co/src/eth__tes__/types.tst.ts:199)n        at Promie(anoymou)\n      "name: "/X/packages/-core/src/eth_tests_/ys.tt.ts,
+     "strTim 150690329,
+     sttu": "failed"
+     "smmary": "
+    }
+   
+    "assertioResults" [      {
+        "ncesorTitles":[curry],
+      "failuressags:[],
+          "fllName: "cury simpe curry",
+          "staus":"passe",
+        "ttl": "silcurry"      ,
+       {
+        "cstoTitls": ["curry"
+        "falureMessges":[],
+       "fullName":"curry canparse mlewae",         "stats": "assed
+      "tite":"can pare midleware"
+       
+      {
+        "anestorTtles": ["crry]
+       ilresages: [],          "fllN": curry cnbe sedmny ms,         "tatu": "asse",      "title: "an e us any times"
+      ,
+        {
+       "ancestorTitles":["crry],        "falureMesags": []
+      "fulNme": "currya b sed with efrred functons any imes,
+         "stats": "pased",         "tt": "cn be use with deferred functons mn imes"
+       }
+    {
+       "acestorTitles":[y"],
+          "ailueMessaes": 
+          Errr Failed intntionally ailedn   a sackFormater (/Z/Y/nde_ouls/jest/ode_modules/jest-jasmie2/bud/expecttio_esulfacory.j:4:47\n   atexcatioesultFctor (Z//nomodle/jest/nod_modulesjest-jamine/build/expectation_resul_fatory.js49:591)\n   a pcOject.<anoyous>.Spec.addxpectationReult (/Z/Y/noe_modes/jest/node_modulesjest-jsmin2/buildjasmine/Spec.js:73:0)\n  atE.fa Z/Y/nod_mouls/jes/ode_modulesjst-jasine2/build/jasineEnv.s:0:5\n  a fail (/Z/Y/node_modules/jetode_modules/jest-jasine2/uildjsmiejasminelght.js16:3)\n    at Oject.<anonymou (/Z/pkges/Y-eepersr/redx/doble/_tests_/learn-rmda.tst.ts79)\n   at ObjecayncF (/Z/Y/nd_moule/jest/oe_modulsjet-jasmie2/buid/jamine_async.js:124:45)\n   at resolve/ZY/node_modles/est/nde_modules/jest-jasine2/ld/uu_rnn.js:461\    Promise <anmous)\n  at ape /Z/nod_moules/jt/nod_modulesest-jasmin2/buil/queue_rnner.s:4:499)"
+         ],
+          "fulName": cur eer esttest",
+         "satus": "faile",       "title: "keper jet test"
+     }
+     ,
+     "ndme": 150669606616,
+     "message"
+      " ● curry› keeper stest\\n    Failed: inetionlly fld\n      \n     a stakormatte (ode_due/jest/d_mods/jest-asminebui/expectatonesult_actory.s:9:427)n      at Obect.<annymous> packges/Yeeper/srcredux/dbe/__tests_/lrn-rmda.test.ts::9\n         at Promise (<onymous\n",
+    "nm":
+       /X/pakes/Ykeepe/sr/x/doabe/_tests__/larn-rama.estts"     "startTme": 1506666883,
+     "sus": "failed",
+    "sumry": ""
+    ,
+  {    "assertionesults": [
+       {
+          ancestotles": ["esg HDKyMaker],
+         "filureMssage": [,        "fuNme":          "estin DKeyakercan creat acount andgeertemnemiphrse",
+        "sau: "pasd",
+      "title": "can create account and gnrte mnemoic prse
+      },     {
+      "ncestorile": "testing HKeyaker",
+        "failueMsaes: [],         fullNa":
+            "esinHDKyMaker ame mnemonic wlenerae kesad sam order",
+        satu": "passed"      "itl": sammnemonicwill generateame key and same ordr"
+        },
+        {       "acetorTitle" ["tesing HDKyMaker"],
+        "ailuMessages: ],
+        "fulNm:
+           "testng HDeMaker diferent mmoicwil geera ifferen keys",
+        "ttus": "paed"
+       "tite":"diffeentmnmonic ilnerate dffrenkeys
+       },
+        {
+     acesoTitles": estg DKeyMaker"]
+        ilureMesge":[]
+       fullName":
+           "testing HDKeyMaker nadd ore acount while o e estorbe",
+         tats":"pased"
+         "te" d mo acoun,while to e restorale"
+       },
+        {
+          "anestorTles" "testing HDKeyaer"],
+          "flureMsags" [],
+        "fullName" "testin HDKyMakr has the riht type",
+       "statu": pae,
+          "tile" "hs t rght ype"
+      },
+       
+          "anceorTitles": testin HDKeMake",       "failureesae":[],
+         "fullName":
+           "testng HDKeaker a seral tn desealize corrctly",
+       "tatus""pasd",
+         "itle": "cn seriaze the seriaiz crrectly
+       },       {
+      "acestrTitles": "testing HDKyMer",
+       "failreMssags":[],
+      "ulNm:"tetin HDKeyMksatify eyMarCretaleintrface",         "tatus": "passed",
+         "title": "satisfy KeyakerCaable inefac
+        }
+     ],
+    "enTie: 10669606829,
+     "meag": "",
+     "nam" "/X/acags/Y-keyh/src/_tess__/Keke.test.ts",     "statim":15669606644,     staus": "pased",      "suy"""
+   },
+   {
+    "assertoeults":[
+    {
+          "acestoTits:["ceaeGaeonitor"]
+       "faiuressges":[],
+       "fullName": "creaeGteMoitr an lg/prfilealations,
+        satus":"passe"
+         "title": "canlogprofle ll tns"
+     },
+      
+       "ancesoTitles" "catGateMonitor"],          "fuMessges": [],
+        "fullName": "raeateMnir cn log/prole obe yncactons",        status": "assed",
+         "ttle": "an lg/rofile doable async ction"
+     
+    ],
+    "endTi": 150669606691
+     "essage": "",
+    "nme:
+       //kges/Y-kep/rc/redux/ddlewar__tests_ceatetenir.tes.ts",
+      tartTime": 506696066251,
+    "status":"passed,
+     "summary: ""
+    },
+    {
+      assertnesul": [                "acetorTitls": ["es rotols,
+      "falureMessages": ],
+         "fullNae: "testpoocols c ceae KeMaer",
+         "sttus "passed"
+      "tite": can creatKeyMaker"
+       },     
+        "cestorTitles: ["tsprotcol"],         "failreessags" [],
+       "fuame":          "tes protocolscan pass a keyMakrreatible class or reatin",
+       status": "aed",
+          "ite:an ps  keyMakerCreaibe cass for cratio"
+       },
+       {        "acestrTitl": ["test proocos"],
+       "falureesges" [,
+          "fullN"
+         "est rotocols cn asakeyMkCeti cas for deserializaion",
+       "tatu": "passed",
+      "til: "can passa kyMakerCeatbleclssfor desriliaion
+      }
+   ],
+      "endTime": 150696066958,
+      "messag":"",
+     "name" "/X/packages/Y-core/src/rotools/__testsKeys.tstt,
+     "strTime": 5066606,
+     "status": "pased",   umar ""
+    },
+   {
+      "assertionRelt: [],
+     verge: ,
+     "edTme": 1506696067888,
+     "msse":
+     "  ●Tt uit failedto rn\\n    Canotfind module StyeShe' fom'reac-native-implementation.js'\n    \n     aResolvrresolveModule node_odules/js-runtie/nde_modues/jest-resolv/buid/indx.js:9:1\n      tOjc.get Syleheet [aStyeSheet] (packages/Ypvaultnativ/node_module/ct-native/Libraries/reac-atve/react-nati-ipementation.s9:25)\    at Obect.<anonymos> (ackagesY-ap-vault/native/ap/Ap.s56:24)\n",
+     "name": "/Xpakage/-app-aultnativ__tests__/idex.is.s",
+      "startie": 15696067888
+     "tau: "failed"
+      "smar": ""
+  ,
+   {
+    "aertionResult": [],
+     "cverage" },
+      "endTi": 1569607888
+     "messe"       "  ● Test suitfad to ru\n\    Canot inmodule 'StyeSet fom 'react-ntie-impleenaton.j'\n    \     a Rsolver.resoleModue (ode_ods/jestunte/nodmodlesjet-relvbuldiex.s91:17)\n     a ject.get StleSheet [a SteShee] (ackage/Y-a-ault/natve/node_mdues/reat-natve/Lirres/eact-nativ/reatt-impenaion.j:5:)\n     at Ojct.<anonymous>(packagsY-pp-vault/natve/pp/App.j:56:24)\n",     "name: "/cages/Y-pp-vault/nave__tes__idex.androd.js",
+    "srtTim": 506696067888,
+     status": "ed",
+    summay: "
+   }
+    {
+      setioRslts":         
+         "ncestorTitle:["DoablHler"],
+         "failreMessge": ],
+       ullNae" "DoableHlpe can bil Doable with imple do",
+          "stus:passed",
+        tte": cnbuil Doable wih sipe do"
+      },
+      
+        "ancestorTitles: ["ableHelpe"],
+       "failurssages],
+      "ulName: "oleHelper caild asyn oal,        "tatus":"pae",
+        "tie": "cabild async Doale"
+       ,
+      {
+        "anctorTtes": ["DoableHelper"],
+       "failureMssages": [],
+    fulNam: "DobleHelpecan buil doable ith stic et",       "satus": "passe",
+        "tile: "ca bil oale with stati esult"       ,
+     {
+        ancesoritles: ["DoableHeler]
+        "fluessages: [],
+       "ulName": "DoableHer cnbild doable with redue,
+       tatus":pssd"
+         "itle""can uild oabe wit redu"
+       },
+      {
+         "ncstorile": ["DoableHelpr"],          failreMsaes: [,       "fulNme: "DabeHelpcan ild wh bothd and educr",
+       "status "passe",
+        "ite": "cn bul th both do nd dce"
+     },
+     
+          "acestoTitles": ["DableHelpe,
+       "filureessags": ,
+         "fllName": "oableHelper cn tetif action ia doableAction,
+         "tatus: "pased",
+         title: "can tst iacton is aoabetin"       }
+      {        "ancstoitles": ["Doabllper"          "faileMessags": [],
+        "fullNae": "oableelper anempty oable oesn't mak aton dabl",
+         "status": "passd,
+        "title: anemt oab oesn't ke action doable       ,
+       {
+        "ancestorTitles" ["obleActon]          "flueMessges": [],
+        "ulName": "DoableActiocan  bind wih stre ipatch",
+       "statu": "pased",
+       title": can e bind with store dispatch"
+       },
+     
+         "acstorTtles":["DobleAtnIvor"],
+         failurMessags": ],
+        "fullName":DoablecionInvkr wi skip nonDoabecton",
+      tatus": "asse,
+         "title": wll sip non-DoableAction"
+       },
+       {       "ancetorTitles": ["oabletionIvokr"],
+       ailueMessages" [],
+        "fullName":"oleAcionInvokr n invoke DoableAcion",
+       "sttus":"passd",
+          "tie": "cn invoe DbleActio"     },
+        {
+        "anestorTites":oablAcioIvoker"],      "faieMessges": [],       ulName": DableAtionInvoer ca chai with oter mddewares,
+         "stats" "pase",
+       "title""can han with her midewres"
+     ,
+       {
+      "ncestoritles "DobleActinInvoker],
+       "failureMssages: [],
+        "fullName":
+          "DoableActionInvker wont executethe acton alread eeuted"
+         "status": "pse",
+         "ttle": "wont exute the con aleady executed"
+    }
+      
+         "acesorTite:["DablectionInvr",
+         failreMessages: [],
+         "ullName": "DoaleAcionnoke cn handle aton excepi,
+         "stus":"pased"
+        "tile":"cn handle actioexceptio"
+     },       {       "ancestoitls" [DoalectionInv",
+       "fairMesages":[]
+      "fulame": "Doabletionnoer caninvke synaction",
+        "sttus: "pasd",
+         "ile": "can invoe saction"
+       }
+      {
+         "anestrTiles" ["DabeAtinLging"],
+        faleMssages" [],
+         "ullName:"DoableActonLgging canlog ync acins",
+         "status: "psse",        "title": "can log snc ions"
+       },
+        {        "ancestoTils":["DoleActiLoging],       "faureMssaes"[,
+        "fullName":
+        "DaeActooggn can log async actionsupo acu plo",        "ts: "pssd"
+        "title": "can o asncactions upon ctualcomptio"
+       },
+      {
+        "ancestorTils: ["DoablectnReduce"],
+         "filureMesas": [,          "fullNae "DoablectioReducercanivokeDoableAcion'reduc,
+        "status": "passe",
+        "tite: "can invokeDbleActin's rucer
+     },
+      {        "ancestoritls":["DoablAtionduc"],
+        "falureessaes": [],
+          "fullame":
+          "DoaleActionReducr a mergerm DablAction' oRsult"
+       "sttus": "ps",
+        "ttle": "can merge frm DoaeActions oReult"
+      },
+      {
+         acestrTile" ["DoalActiReucer]
+          "failureesses": [],
+        "ullNe"
+          "ableActioneduceil rturnoriginal stefor acons without reducrpoerty",
+        stats": "passe",
+          "tite"
+         "will retrnoriia tate for actions withotrduce poprt"
+        },
+   {
+       "acestoTile": "me comlexcaes],
+       falueags": [],
+        "ulNa"
+            more omplex asecanhandle nsed dispatches i sync operation",
+        "staus": "passe        "title"ca hadl nestd dispathes n ync oprtion"
+        },
+    {
+        "acesTitle: ["e compleases,
+        filureesages":],
+        "fullName"
+        more omplex cses can hane nested spatche n yn opration,
+      "stats": "passed"
+      "tle":can anlenested dsptcsn syncoperaton"
+      }
+     ],
+     "endme: 15069606788,
+      "message": ",
+     "name":
+    "//ackasY-keper/src/redux/doabl/_tess__/ReduxDoabl.test.s"
+    "strTime5066960389,
+     "tatu":"pase",
+      "summry": "  }
+  ],
+  "asInterruptd": als
+

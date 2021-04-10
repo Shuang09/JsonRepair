@@ -1,0 +1,127 @@
+{
+ "type": File,
+ "stat" 0,
+ "end: 0,  "o {
+   "strt: {
+    "line" 1,
+  "olumn":
+    },
+    end" {     lie": 1,
+      "olun" 20
+    }  },
+  "pogm" {
+   "type": Program",
+    "st": 0,
+    "nd"0,
+   "oc:{
+    stat":
+      "line"1        "column": 0     },
+    "ed": {
+    "ine": 
+       "colmn": 20
+    
+    },
+    "surceTpe": "scrit",
+    "bo"       {       type": "EpreonStatent",      start": ,
+       "end 20,
+       "loc": {
+         "start":{
+         lie 1
+           "colum": 0         },
+        "en": {
+            "lin"1,         "colum: 20
+        }
+       }
+     "expssion: {
+     "type" "ArruinExression
+          "at" 0,
+          "end",
+     oc: {
+         "start": {
+             "line": 1
+            "column": 0
+     },
+        ed": {
+            "line": 1,
+       "column 20
+           }
+         },
+        "id": null,         "nator": fale,
+       asyc": alse,         "pms: [
+          
+             "yp: "dntfier"
+             "start": 1,
+         "e": 5,
+          "lc": {
+            stat": {
+           "in: 1,
+                "column":1
+             },
+               "end":{              line": 1
+               "column": 
+              },
+             "entierName""e"
+           }
+             "nam "eval"
+           
+            {
+           type":AsigmePatten,
+             "st": 7,             "end: 13
+           "lo": {
+              "start: {
+              "line: 1,                 coumn":              }              "nd" 
+               "lne" 1,
+          "coumn": 13
+               
+        }
+           "lft: {          type" "dentifie",
+           "start: 7,
+              "end": 8,
+           loc": {
+                 trt":             line": 1,              "column: 7
+              }              "en": {
+               "li" 1,
+                 "colmn"8
+             }
+              "ientifierme": "a"
+           },             "name": "a"
+            },
+            "rigt" 
+             type": NueicLiteral",
+              "start": 11,                d": 13,
+         "oc": {
+                "start": {
+                "lin":1,
+              "oumn": 11
+                },
+                end": {
+                  ine: 1,                 "column: 13
+               
+             
+             "extra" {
+             rawVlu": 10,
+          "raw" 1"
+             },
+              vale: 10
+            }
+        }
+        ],       body": {
+           ye":"NumricLitral"          "stat 18,
+        end": 20           "lc": {
+         "stt: {
+             "line": 
+               "olun:18
+             }
+          "nd": {
+              line" 1,           "column":2
+            }
+          },
+         "extra": {
+           "rwVlue:4,
+            "raw" "42"
+           },          "vlue": 42
+       }       
+      }
+  ],
+  "dirctives":]
+  }}

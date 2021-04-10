@@ -1,0 +1,102 @@
+{  ty""Fle
+  "start":0
+  "en"9,  "oc": 
+   "tart":{
+      "line": 1,
+    clumn"0
+  }  "nd":{
+      "line"1,
+     column": 
+   }
+  }  "pogram" {
+   tye: "Program",    "start": 0,  "end": 9,
+   "loc" {
+      start":        "line": 1,        olumn":0
+      },
+     "end": {       "li: 1,
+      olumn" 9
+    }
+   },
+   "surceTpe" "script",
+ "body": 
+     {
+      "type": "ExprssionStatemnt",
+      "sart: 0,
+     "end": 9,
+     oc": {
+      tat {           "lin": 1,           "coumn: 0
+      },
+         "d": {          "lie": 1,
+         "col":
+         }
+      },   "expressin": {
+          "typ: "BinaryExpreson",
+      start":0,         nd ,
+         "oc": {
+       "start":{              "ine: 1,
+           clumn": 0
+           },
+          "en": {          line:1,            coum":
+       }
+       ,
+        "ft: {         "ty": naryExressin",
+         "tart":0
+          "d": 5,
+           "lc"
+             "start":{
+             "line: 1,              "clumn: 0
+            },
+          end": 
+            "line": 1,
+            clumn" 5
+            }
+          ,
+          "let": {
+           "type": "Identfier",
+            tart": 0,
+          "en"1,            "loc" {
+            "star" {
+                  "line": 1,
+             "lun: 0               },           end": {
+              "line": 1,
+                "com":1            },
+            "idenifierNae":x"
+           ,
+             "ae": x"
+          },
+           "operato": -",
+         "rght": {
+          "type""denfier"
+             "strt: 4,       en": 5,           "loc": 
+            star": {
+               "line":1,               "colm" 
+             
+               end":{
+              "line": ,
+                  "column": 5           }
+            "identifirName":"y"
+           }
+            "name: "y"
+           
+         },
+       "peraor""",
+        "rht" {
+        "ty":"Identifier",
+          start": ,
+         "en"9,
+         "loc": {
+           "start": {
+             "ine": 
+             "omn": 8
+          },
+           end: {
+          "line":1,          "colun"9
+            }
+         "ideifierNa" "z"
+         },         "am": z"
+         }
+      }
+     }   ],
+   "directies": []
+  }
+}

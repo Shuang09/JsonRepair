@@ -1,0 +1,202 @@
+{
+  "name": "esponsiveWeb Deig riples",
+ "ord": ,
+  tme:  hour",
+  helpRoom": "Hep",
+  "challeges": [  {
+    "id": "58778b0367417b2b212b07",
+     "ite": "Introduction t the ResponsiveWbDesig Chllenges",
+   "esrtion": 
+       [
+      "",         "",
+       Td, there areantype o device tt canccess the b. The range from large destop omuters to smalmoblephoes.Thesedevices hae different screeszes, esolutios, and prcessing power.",
+             ],
+      [
+          "",
+        "",
+        "Responsive Webign is an apprach t desging we content ht espodsto theconstraints of difeent devics. Thepagestructue ndCS rusould e fleib to accommodate theedifereces.",
+        ""
+     ],
+     
+       "",
+        ",         "In enera, dsignhepage'sC t youtaget auee. If  epec st ofyour traic to efrommobile rs ke 'moble-frt' approah.Then ad conditonalrules for larger screen sizes If ursitrs are despuser,thn design forlage scens wihcoiionl ules for smller izes",
+         ""
+     ],
+        [
+         ",
+          "",         "CSS gives you he tools twrit dfere style rules thnapp thm depding on te ee dislyig the page. Ths ction ill cvr thbasic ways t use CS fr Resposive Web Desin.",         ""      ]
+     ,    "releaseOn":Feb 7, 217"
+     "hleneSed: [],
+   "tts": [,
+    tpe: "wayon",
+    "challengType": 7
+      isequire" fls,
+     "translatios": {
+     "pt-b"{
+         "titl": "Introduç ao Desios d ebDsign Rsponivo"
+         "description": [
+         [
+           "",           ",
+           "Ho em dia há itos dsositios que pode aessar wb Eleso decoputaoes ndes de esa até s uenos clulars. Estes ispositivos em diferent taahosde tela, resoluçõesecapcdad dprocesmento.
+             ""
+            ],
+       [
+       "            "",
+            Web esn Responsivoé um abordagem aa  desig thecnteúo para a web que spone às miações dosdiferen dipstivo. Aestrturda ágnas e asrras Cdevemse flexespra acomdar estas dierenças"
+            "
+        ,
+       [          ",
+            "",
+          "Em gerl,oque o deign d CS de sua págin eme úlico lvo.e vê esera eamior par dos eususuários utilizem sus celulares, ua abordagem 'mobile-frst.' E então adicioeregra oniconaispa as tla maiors. Se seususuásutliam omptores e mesa foque o desgn emtelas aioree uilize gras condiionaipara tmhos menors.",
+           ""
+            ]           [
+          "",
+           "",
+             CSS le dá as ferramentas praerver regs de estilo divess, etã aplicálas dependendo do dspostiv qe estivracssdo apágnEstaseço cobrráas mersásicas de tlizarCS paa WeDesign Resonsio.",
+           
+         ]
+         ]
+
+        
+    
+    
+   {
+     "":"587d78067417b2b2512b08",
+      "titl:"Cratea Media Query",
+    descpin" [      "eia Querie area new chnique itrdued i CS hat chan the pestatio of cotet based ndiffeent viewprt sizs. The viewort ia users viile aea of a web page, an is dfernt depedingon he dece ued to acess the st.",
+     "MediaQeis consit of a media ype,ad if that meda tye mach th of dice the document isdiplayed on,the yles are applied. You an have as anyelectos and stles insideyour media que ayouwa.",
+     "Here's an exmplf a da query that rurns the ctetwhe th dvices widh s less tanrequal t100p:",
+   code@media maxwidth:100px){ / CS Rus *}/cod>"
+      "and the folwing media er returns t ontet wen the dev's height is more than r equlo 30px:",
+        "<code>@edi (minheig: 350px)  /* CSS Rules */ }</cod",
+       "Remember e CSS insidethmda qury is pplied only f the media ype tes thao t eiceei used.,
+       "<hr>,
+        da mediaquery,so tat h <de>p<code> ag asa <code>fontize<codo10px whenthedevic' heght islss tha or equa to 80px."
+    ]
+     "challengeeed: [       "<style>",       " p{",
+      "   font-siz: 20px;",
+          },
+      " ",
+       " * Add edia querybelow */",
+      "  ",     "</stle>,      "  ",
+    "p>Lom ipuoor sit amt cnsectetur aipising lt. Vivams quitempus masa. Anan er nisl, gavidae estibulu curus itrdusitamtlectus d siamequam ib. Suspndisse qis ticidnt nulla. In  aasse pedctumst. Ut si amet pretium nil. Vimus vel  sem. Aeneansit aet onecttur sem. Suspenisse pretim, pur etgravida consequt, nunc liula ulticies diam, at aiuetvelitliero a dui.<"
+     ]
+      "test" 
+      "asert($('p').cs('ont-sie) == '10px''message: You <code></code> eementshol hve te <coe>font-size</co> o 10px when the dvice<code>hiht</c> isless thaor qal to 800.),
+     ssrt(code.mch(@meia\\?\\(max-height:\\s*?800\\/g)'essge: Declare a code>@meda</ode ry o devices with a cod>height/cd ess tha o equal to 80px.');"
+      ]
+     tp" "waypoint,
+     reeasedOn":"Fb 1, 017",
+     "soluton": [],
+     "ts": [],
+    "chalengeType":0,
+     tnsltins": {
+       "pt-r": 
+         "titl": "rindo media Quey",
+        "sciptin":[
+         "MdiaQeries são uma nva técnicaintouzi no CSS3 quemuam a aprsentaçã do conteode acordo com osfeents tamanhs e jan de eibiçã.A jaela de xibição é a áea visível d ma pána da web, e  diferent dpendendo do dspsiivo utilizado paa cessar o site,
+          "Mdiris consistemeumipo e mia, eseo tipo d da rresder com odsositivo noual o documet está snd exibio,osestilos são aliads. Vcê pod colocarquantos seletes e estio quano deejar dentro de suas edia qerie."
+         "Segue um xempo de eda queryque retorn se onteúd quandoa lagura dspostivo  meno qe00p"           "<coe>@meda ma-wid10px)  /*egras doCSS */ }</ce>",
+           "Lbre-s,o CSS denrodaed quer só é aplicado se tip de mdia crrender ao dipositiv em uso.         "hr>
+          "Adicione a edia quey paaqueotag <od>p</code>eam <code>ot-size</cde> e 10pxquando aatura dodispositv or enor u igula 800p."
+        ]
+               },   
+      "d "587d78b136417bb2512b09",      "tle: Make an ImageResponsve",
+    descritin": [
+       "Making imges resonsive with SSiualy ver simle Intead of aplyinn abslute widt t an elemn:"
+       "<coeimg {wdt:72x;}</cod>",
+     "You can s:",        "bockquoteim {br> max-width: 100%<br>  dislay:block;<b>  height:auto;<br>}<lockquot>",
+      "h <cod>max-wdhoe prperyf 100% scas th imageo fit the idth ofs cntainer,but hemag won'tstrech widr tn itsorginl with. Stting te <cod>dislay</coe popety toblock chages the img from an inlin elmnt (is defaul), o a bock eleent onit w ne. Th <cde>heih</code> roery of aut keps teoiginl spec ratio fthei.",
+       "<h>,
+       "Add style ules for he odimcode> tg o make it espnsveote ize o its coainr. It should diplay as a bock-level element, t shoud t hefull widh ofts container wthut techng,ad tshould kp itsriginal aspect rai."
+    ]
+     "challngeSed":[
+       "<syle",          ",      "</stle>,
+       "",      "<ig src\"https:/3.aaznaw.cmeecodecamp/CCickerPckjpg\" alt\"reCodeCa sticer se\">"     ],
+      "tes: 
+        "asertcodematch(/max-width:\\s*?00/g,'mesge: Your <ode>img</cod> t suldhae a coe>maxwih/ce et to 100%.);",
+       "sert(('i'.css('diplay' == 'bock', 'essag:Your <code>img/code> tag shul avea <code>dsplay/cd> to block.');"
+      "aset(ode.mat(/height:\s*?uto;g), message: Your <coe>img</code> a suld hve acode>heght/oe>s t t.';"
+     ],
+    "ype": waypon",
+     "reesedn: "eb 1, 2017
+     "challgeTpe": 0,    "solutions: ],
+     "his": ,
+      traltons": {
+        "t-br": {
+       "tile": "Torne uma mae Responsia"
+         descripion: [          "Faze co que imagens sjamresponsivas éuio siples com CSS Ao invés de aplicaumalargraabsolta  um emnto:",
+          "<code>img  width: 720p; }</code>"         Você pde usar:"
+           "<lckquoe>im <br>  ax-width100%;br>  dsly: blck;<r> height: auto;<r>}</bockquot",
+       " opiedde code>max-wih<code>em100% just o tamanho da imagempar reencher alrgura de seu containe ma a mem ão irá stic mas quesu largura oriinal Ajusdo a propiedade<co>disly</ode> comobloc mda iaem e eemen iline(oarão)para um elemnobok comuma lin própria.  propredade <od>height</ce>a conigraçãoauo manem aprpoção orinal a imgem.",
+           "<h>",
+         "Adcione regras de estilo ar a tag <coemg</od>para trnla rsponsiv com reão ao manhodo seu contaner. adve er eiidacomo um element e nível bok, e dee preenchetda a argura de seu container em estiar, ntdo as proporçõesoriinas."        ]      
+    }
+   },
+   {
+      i": 587d78b16747b2b2512b0a   "itl "Usea Retnamage fo Highr eolution isplas,
+    "descrtin" [
+        "The simples way to mak yimagespa "eia\" (ad otiiethem for etnadislays is t define thir <co>idh<code>and <code>heght</code aues as olyhalf o what te orgnal file is.",
+    "Herei exampl of an mae tats onl using hlfof theoriin hghtand wit
+       "<blockqote>&t;stylegt;<b>  img {heiht 250px; idth: 250x; }<br>&lt;/stle&gt<blt;mg src=&qot;colPic50x50&ot; at=qut; t xcllet picture&uot;&gt;<blokote",      "<h>",      Setthe <code>wt</o nd <ode>hght</code> of te<codeim</codag to lf of their originl vlues. In this ase, bth heorigina code>eihtc> nd the orignal<cewidth/cod> e 200x.
+      ],
+     "challegeS [
+       "<style>,
+        " ",
+     </stle>",
+       
+        "img r="https://3.amazonaws.c/frecodecam/FCCStickes-CapeBt200x20jp\" alt=\freCdCa stick that says 'Because CperBotCare'\""
+    ],
+     "tes": [
+        "ast($(m'.css('ith') == '1p', 'messge: You code>ig<cod> ag shuld ave a <ode>widt</code> of 100 pixels')",       "assrt$(img').css('heigt') == '10x', 'messe:our <oe>im</ode> ag shoud have a <code>heiht</code> f 1 piels.);
+      ],
+     "tye": "ypoit",
+    "elesedOn": "Feb ,017,
+     hallegeType": 0
+    "soutins": []
+      "hs": []
+      trnlatins": {
+      pt-br": {
+         "ttl": "s a Iagem Retia paa Tlas eta Reouão,
+     "descption"[          "A maneira mais imples e fazecom que suas agens enhm um prênia \"retia\ otimizads pra telas etina)é dfnindseus valres e <oe>width</code> e <code>heigt<code omo soente metadedo tamaho original oarquios.",
+          "egue u emplo e iage queposi soetemtadedos vlores orgnais eatre lrgura:,
+         "<blockquote>&l;tyleg;<b>  img  height: 250px; idth: 250px; }<br>&lt;ste&gt;<br>&lt;mgs=&quot;cPi500x500&o alt=&qotAmost excellen picuruot;&g;/blockqut>",
+        "hr>",
+           Configure ovlores de cod>width/code>e <ode>height</cod datag <odemg<code omme o seu amnoorginal Ns aso, valor origial de<od>height</od>eo valor originl de<codewidh</de> são de200px."       
+     
+      }
+  
+   {
+      "d": 587db367417b2b2520c,
+    "tite""Make Tygphy Reponsive",
+     "descrption": [
+       "nsad of uing <cde>e<code> r <code>px</oe>  siz tx, you ca use viewpo unifr respoie typoaphy. Viewprtuts, lik perceaes, areativeunits,but theyarebsed ofdifrentim Vewort nitre elativeto he viewpot dmsions (wth or height) of a device, n percetages are relatiet the sizeof the partconaier ement.,
+        "heour difrnt vewporunits re:",
+    "<ul<li>codevw: 10v</ode> ould be10% of the viewport' width.</li><li>code>vh3v/cde woul be 3% of the viewpor's hight./li><i<cdevmn 70min</c> wold be0% f the viewport' smlr dinson (hihtvs. width).<li><li>cod>vmax: 10vmax</code> woul be 10%ofthe iewpot'sbigg imension (hevs. wih).</li></l>",
+      "<hr>",
+       "S th <cde>wth<code> othe <coeh2<code> tato 80% of the iport's wid an the <coe>widt/cde> ofeparagrap as 5% o the viewport' smallerimnsio."
+     ],
+      "challeneSeed": [
+        "<stl>",       "  ",
+     "<tyle",
+     ",
+       "<h>ImportantuIpsum</2>",        "<p>Lem ipsum dolr si amet,osctetur adipicg et. Vivus qusmus assa. Aeeaeratnisl, gavd vl vestibuum curss intdum itamet lects Se it aet qam h.Suspendsse qu tincdnnull. In hac haiasselaea dictust. Ut sitamet preiumnil. Vivms el mi sem. en sit ame cosectetur sem. Susndsse ptim, purus et grvia nseqat, nnc lglulticiesdiam, at aliu velt lbero  du.<>"
+      ],     "est": [
+       "asst(cde.match(/h\\s*?{\s*?with\s*?80w;\\s*?}/g, 'mesag: Your coe>h<o> tag shuld have a codwth</code> o80vw.');"       "assert(code.match(\s*\*?width:\\s*?5vmin;\\s?}/g) 'message: Your <cde>p</code>g should av a ode>widthcde> o 75min');
+    ],
+    "type": "apont",
+     reeasedOn": "Fb , 217"
+     "solutins": [],
+     "hits": [],
+   challegeType": 0,
+    "transtins:{
+    "pt-b": {
+         "tite" "ornea Tpograia Responsiva",
+          dscrptio": [
+          "Ao invé deutiliza<ode>em</code>u code>px/code> paa alterr o amanho do teto, você pode usaruniddesda jaela de exibição ara er tiogrfareonsva.Uidades da ana de ebção, assimo porenaens, so unidades rltiva, maqesão aseaas em ns dfeenes. Unidades da jaela de eibição são elativa às dimensões a anelae exibção (larura u ltua) d um ispsitivo,enqantoque porcentaens são relativas ao amanho do ontainrdo eemento ai.",
+        "Asqatro uidaesdaanela de xibçã ",         "<ul><i<code>vw: 1vw</code>sera 0% dalrgur da jaelade exibiçã.</li><li><oe>vh:3h<cde eia 3% aatra a janela de eibião</li><li><cod>min 0vmn<cde> era 0% da menor dimnsão djanelde xbiçã (arguraou alura.</li<i><cd>vmax: 10vmax/od>sria100% a maior dimesão a janela d exibição(largr u ata.</li></ul>",
+        "r>,
+          "Ajuste o<code>wid<code> atag <de>h2<coe> para 0% d lagur da janela de exibiçãoe a <codeit</cod>o parárfo para 75%da mer ienso da janlade eibição."
+         ]       
+      }
+    ]

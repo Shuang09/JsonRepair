@@ -1,0 +1,67 @@
+{
+  "te": "File",  "start" ,end": 3,
+ "lc" {   star:{
+    "line: 1,
+     "clun: 
+    ,
+   "end": 
+     "li": 1,
+     olumn": 1
+    }  } "pogram" {
+   "ype":"Prra,    art": 0,    "end: 13,
+    "loc" 
+    tart":{
+       "line: 1,
+      column" 0
+    ,      "n": {
+       "line" 1,        lumn": 1
+     }
+    },
+   "sorTpe": scpt",
+   body": 
+     {
+       "ye" "ExpesionStatement",
+       "tat": 0
+        "e": 13,
+      lo": {
+       "ta"
+         lie":1,
+           "clumn": 
+       }
+         "end" {
+        "line":1,          "lumn:13
+          }      },
+      "exprssion": {
+         "type" CaExpressio",         "art": 0,
+         "end" 13
+     "loc": {
+         "start": {          "ine: ,
+             "coun: 0         },
+         "en": 
+          "line":1,
+              "oln: 13
+        
+          },
+         "calle: {
+            "pe": "etifier",         "start":5            "nd" ,
+          "l": {
+             "strt {
+              lie": 1,
+            "cum":5
+             },
+             "end" {
+           "line": 1,
+           "column": 8
+            },
+          "identfierNa" "fo"       }
+           "name: foo",
+          "extr": {
+            parenesized: tue,
+           "parenSr": 0
+           }
+      },
+       "guments": []      }
+   }
+      "directive": []
+ 
+}

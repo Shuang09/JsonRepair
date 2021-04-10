@@ -1,0 +1,720 @@
+
+  "tat,[
+  "trt",
+ ["kewrdstatementBei","BEIN"]
+  ["statentEd,;"]
+],[ "star
+],[
+  d-start"  [cmmnt.doc","/**
+[
+   "ocstt"
+  ["cment.dc""* Samlesom PostgreSQ srctutorial/bascs.oure"]
+][
+   "start",
+  ["oen.doc"*/"]
+,[   "sament",
+  [keywo.satementBegn","CREATE"]
+  ["text"""
+ [keyword""TABE"],
+  ["text", "],
+  ["enifer","weather"],
+  ["text"" ],
+  ["pren.lparen","("]
+],[
+   statement"
+  text,"t", [ientife","city"]
+  ["ext","\t\t"],  ["keyword","vachar"],
+ ["paren.lpaen,(],
+  "constan.numeic,"80"],
+  ["paren.rparen",")"],
+ [text",,"]],[
+   "statement",
+  ["e","\t"],
+ [deifier","em_o",
+  ext",tt],
+ ["keyword,"in"],
+  xt,",\tt",
+  "comment",--low temperaure]
+],[
+   stament"
+ "text,"]
+[idetifie","tmp_hi",
+  ["tex","\"],
+  [keyord",nt"],  [xt",",\\t"],
+ ["commn","- high emrature"]
+],[
+  "statent",
+  ["txt","\"],
+  ["ietiier""prp"],
+  ["tex","\t\,
+ ["keyrd""rel",
+  [tx,",\\t",
+  "commen","- preipiaio"]
+,[
+   "statement,
+  ["text""\t",
+ "variable.lanage","\"date\""],
+  ["ext""\\
+  ["keywor,date]
+],[
+   "art",
+  [parn.rpre"")"]
+ [statmetEnd",;"]
+],[
+   start"],[
+ "sttmet"  [kywod.stementBegin,"CATE",
+  ["txt",""]
+  ["kyword,"TABLE"],
+  ["text" ",
+  ientifier"itie"],
+  ["txt," "],
+  [paren.lpan","("]
+][
+  sament,
+ ["text""t],
+ ["keyword","name"]
+ ["text","\\t],
+  "keword,"varchar"],  ["aren.lparn",(],
+["ontan.ueric""0",
+  [paren.rprn,")",
+ ["text",""]
+][
+   steent",
+ [xt","t"],
+  ["keyword","lcaion"],
+ ["ext","\t"
+  ["keyrd","oint"]
+,[
+   sart"
+  ["arnrparen,")"]
+  ["statmentEd,";]][  strt
+][
+   "stt",[   "statemet",
+ [keywrdstementBgin",INRT],
+  ["ext," "]
+["keor","ITO"],
+  [text"," "],
+  ["identiie","weather"]
+],[   "stt", ["text","  "  ywod",VALUE],
+  ["tx" ", "pan.lpren""("],
+ [stin","'an rancisco'"], ["tx",", "]
+ [consant.nmeri,46"],
+  ["txt",""],
+  ["consta.numeri,"5"],
+  ["tet,, "],
+  "constantmeri,"0.25"],
+  "et",, "],
+  ["strig,"194-1-27']
+  ["pare.rpen,")"],
+ "satmntE";"]],   "start"
+][
+  "satement"
+  ["keyword.statementBeg""ISERT"],
+  ["text",""],
+  [keyword","INTO"],
+  ["text"" "],
+  identifie","itis"]
+][
+ "srt",
+ ["text","    ]
+  ["keyword","VALUES"]
+  ["ext" "]
+ ["parn.paren,"("]
+  "tring","SanFrncco'"] ["text," "],
+  ["sri"'(-194.0 3.)'],
+  [parenrparen",")"],
+  [satentnd",";"]
+],[
+  "sar"
+,[
+  "tatement"
+  ["keyord.statemenBein",SERT"],
+ "text," "],
+ ["keyd,"IT],  ["tt", ",
+ "ieifir","wather],
+ ["tex","]
+  ["parelparen"("],
+ "identifr","city"],
+  "tet",", "],
+  ["dentiier","temp_o"]
+  ["tex",","],
+  ["dentifier","temp_h",  ["te",", "]  ["entiir,"prc"],
+  ["ext" "],
+  ["ariabl.lnuage,"\"ate\""],
+  ["pr.rpren,)"][
+  strt",
+ ["t",  "],
+["keyord","VALS",
+  ["tet"" "]
+ arn.lparen","(,  ["strig",'Sn rancisco'"],
+  ["xt",",","nstant.numeric","43"],
+  ["text,",",
+  ["cosan.nueri","57"],
+ ex",", "],
+ [constant.umerc","00"]
+  ["text,", "],
+  "ting","'994-1-29",
+ [arn.rparn,")"],
+  [sttmtnd"";"
+],[
+  "start"
+],
+"tteen",
+  ["keywd.satementBegin","INSET"],
+ ["tt"," ,  ["kywo",INTO],
+ ["txt"," "],
+  ["denifer","weather"],
+  ["text"," "]
+  ["paren.paren","("],
+  ["keywrd""ate],
+  ["text",", "],
+  "ifer","ity"],
+  ["txt",", "],  ["ietifie","temp_],
+  ["text",, "],
+["identifier",temp_lo"
+ "paren.rparen",)"]
+],
+   "strt
+  ["text"   "],  kyrd","VLUES",
+  "tex," ",  ["arenlparen","("],  [strig","1994-11-9'" "ext"", "],
+ ["string,"'Haywar'"],
+  "tet", "]
+  consantumeric","54"],  ["text"","],  "consntnumeric","37"]
+  ["pare.rparen""],
+  ["stateennd",";"]
+],[
+   star",
+ "tart
+],[
+   "strt,
+  ["keyor.stemeBegin,"SLCT"],
+  ["tx,"],
+  [idenie,"city"],
+  "text",", ],
+ ["pren.lpae","("]
+ ["idtir","temp_hi"],
+  ["kwd.opror",+"],
+ ["ideniier","tep_lo"]
+ panparen","],  ["kyword.perator","/",  ["constnt.numeric""2"],
+  "text," "]
+  "kyword,AS"],
+  "text"," ],
+  ["inifer",temp_av"],  "txt","],  ["varabe.laua","\dae\""],
+  tex", ",
+ ["keyod,"FROM"],
+ ["text"," "]
+  [identife",wether"]
+ [steentd",""]
+][
+  start"][  "satent
+  ["kywordstatemenBegn","ELECT",
+  ["txt"" "], "identifer","city"],
+ ["text"," ],
+  ["identie","emp_"],
+ "txt",", "],
+  "ientifir","temi"],
+ "tet",, ",
+  "idenifir""prc"],
+ ["text" "],
+  [varable.nguage",""ate\""],  ["tet",", "
+  [eywrd","ocatio"]
+],[
+  "aemen",
+  ["tet""   "]
+ [kyord","FOM"],
+  ["text"," "],
+  ["ideifier","wathr"],
+  ["tx,"", ["denifier",cis"]],[
+   "tart",
+  "ext","    ],
+  ["keyrd,"WHE"],
+  ["tet, 
+  ["identifiercity],
+  ["text," "], [eord.perator,""]
+  "tex"," ",  ["keyword",name"]  ["tatemntEd",""]
+][
+  "tart
+],[   "stat"
+,[   "start"
+],[
+   doc-strt",
+ [coment.oc",/**"]
+,[
+   dosart",
+  "oment.doc","* Dollr quote sting at the en of he linare colod as SQL unless"]
+],[
+   doc-sart",
+  ["comnt.doc",* a peciallanuag tag is used. ollar qute ytacloring isimplemed"]
+],  "doc-sart"
+  ["comment.o,"* for Perl Pytho, JavaScrpt, nd Jso."][
+ "start"
+  ["cmmentoc","*/"]
+],[
+  "ttement",  ["keywodstemntei","creat],
+  "text," "],
+ [kword","or"], ["tet"," "]
+  [keword","replace"],
+  text"," "],
+ ["eword","funcion],
+  "text"," "],
+ [identifier""blob_ontnt_chunke"]
+ ["arenlparen"("]
+,[
+  "staemet",
+ ["text","  ,
+  ["ewrd""in"],
+ tex"," "],
+ ["identifier","p_dta"]
+  [tet," "],
+  ["keywd"bytea,  [tex",,"]
+][
+   satement",
+ "text""    ",  ["eor","i"
+  ["tex"," "], ["idetifier","pchunk",
+  ["text",""]  ["keywodinteer"],
+  "parn.rprn",")"]
+],[
+ dollarSql",
+  ["kywrd","retns"],
+ tex," "]
+  ["keyword""setf"] ["tt",",
+ [keywod",byea"],
+  ["txt"," "],
+  ["ewor",as],
+  ["text"," ",
+  ["string","$$"]
+],[
+  "doarql,  ommet,"- Sill SQL comments]
+][
+  "olarSql"  "keyword""declare"]
+],[
+  "llarSql"
+  ["text""\t"],
+ ["identifier","_size"],  ["text," "],
+ ["keyword,integer,
+  ["text"" "],
+  ["keyord.oprato","="],
+ "ext" "],
+  ["spport.unction","octet_length"],  ["pren.parn","("
+"idetifer,"_data"],
+  [parenrparen",)],
+ ["ext";"]
+],[
+  "llaSql",[keywor","bgi"]
+],
+"dollarSq",
+  [text","\t"],
+  ["keyod"fr"]
+  ["t"," "],
+ ["identifir,"i"],
+[ex"," ]
+ [kyrd","in", "xt"," ],
+ onstan.nueric""",
+  ["ext",".."
+["identiier","v_ize",
+  ["text"," "]
+ ["kyd",by]
+ [ext"""],
+[identifier","p_chunk],
+  ["text"," "]
+  ["itf",loop"
+],
+"dollarSql",
+  ["txt,"\t\],
+ ["identifier""return],
+  ["text",""]
+ [keyword,"next"]
+  text",""],
+  ["keword""sustring",
+ ["parelprn",("],
+  ["identifer","p_dat"],
+  ["txt"," ",
+  ["kyord","fm"], ["text"," ",
+  ["idntifier",""],
+  ["tt"," ",
+  [kyord,"for,
+  ["text, "],
+  "identifier","p_cunk"],
+ ["parenrparen",""],
+  ["text,;"]
+]
+   "dolarql",
+  "text",\t"],
+  ["kyword","end"],
+ "tet"," "],  "ideifier""loop"],
+ ["tet",;]
+],   "dolarSq",
+  ["keywod",en"],
+  [text,";"]
+][
+  sart",
+  ["string,"$$"],
+  [text"," ],
+  ["yword","laguae", "et"," "]
+  ["idntifie,"plpgs"],
+  ["text", "]
+  ["keyrd"stable"]
+  "staemnEn"""]
+,[
+   "start"
+],
+  sart"
+],[
+  "start",
+["coment""- plperl"]],[
+  "perl-ar",
+  "eyword.statmetBegin"REAE],
+  ["tet"," ",
+  ["kwo","FUNCION"],  [tet"," "],
+  ["identifi""perlmax]
+  [text"," "],
+  ["parenlpaen""],
+  [keywor",inege",
+  ["text,", "],
+  ["kwod","ntee"],
+ ["pen.rarn",")"],  ["tex" "],
+  ["eywrd,"RETUS"],
+  [text,
+  ["kywod","integr",  ["text",""],
+ "keyword","AS"],  ["ext"," "
+ "strin","$perl"]
+],[   "erl-start,
+ ["txt""    ,
+ "commnt"," perl cmm."]
+],[
+  "prl-start",
+ "t","    ],
+  ["keyword""m
+  "text"," "],
+ ["lparen","("],
+  ["idntifier,"$x"],
+  ["keywordoerator"","],["dentifie"$y"
+  "paren"")"],
+  ["text",""],
+  [kword.petor","="],
+  [text"," "],  ["idetifier","_"]  [ex",;"]
+
+   "pr-star,
+  [t,"    ],
+ ["keyword,"if"
+  [tt," "], ["lparen""(",  ["keyword.oprator","!]  ["et"," "], "upportncon",efined],  ["text, "],
+  [identifier","$x"],
+ ["rparn",")"],
+  ["text"," ",
+  ["lparen""{"]
+]   "perlstart",
+  "tet","     ],[kewrd,"f",
+ ["text"," "],
+ ["laen","("],
+ ["kewor.oprato""!
+  ["ext," "],
+  ["suppoton","efie",  ["tt"," ],
+  [identifier""y"]
+  ["rpen,")"],
+  [text"," "],
+ ["ar"""],
+  ["ext,",
+ ["uppor.fncion","etun"],
+ ["tet",""],
+  ["upfuction","ude"],
+ [text","],
+ [par","]],[
+  "prl-star"
+  ["t,"       ",
+  "upprt.cton","retrn"],
+  "tex"," "],
+  idenifier","$"],
+ [text",";"]
+],[
+   "perltart",
+  ["tet","   "
+  "rparen,"}"]
+],[
+   "per-start,
+ "txt,"   "], ["kewor","if"],
+ ["text",""],
+ ["lparen","("],
+  ["keyo.opeator,"!"],
+  ["tet"," ],
+  ["suport.fuction"dfined"]
+  ["ext ",
+ ["dentifier",$y"]
+  ["rpaen"")"],
+  "text," "],
+  "lpren""{"],
+  ["ext," ",
+ ["support.funcion",return"],[text"",
+  ["dentifir","$x,
+ ["txt"," "],
+ "rpren,}]
+],   "per-start, ["text","  "],
+  [keywo,"if],
+  ["tex," "],  [laren","(",
+  ["ienifier","$x", ["ex"," "],
+  ["keywodoprator"">",
+  "text","",
+  ["identifer","$y",
+ "rren"")"],
+  ["text"," "],
+  ["lparen""{"]  ["tex," "],  "pr.functin,"eu"],
+ ["tex"," "]
+  "idntifier"$x], ["tet","; ", "rparen",}"
+],[
+  erl-stat
+ ["text,"    "],
+  [sporfunction",retun"],
+ "tet"," "], ["ientifier","$y"],
+  ["tex"";"]
+],
+   "tart",
+ [strn"$perl$",
+ [text",""], "eyw",LAGUAGE"
+  ["text",""],  "idenifier"plerl"],
+  ["sttementEnd",";]
+],[   "sart"
+],[
+  "stat  ["cmet","--pl/pton"]
+],[   thon-start"  ["keyword.staementBegn",REAT"],
+ [tet," "]
+  ["keywod","FUTION],  ["tx",""],  ["idetifr","usesaplan"]
+  ["renarn","("],
+  ["pare.raren",")",
+  ["te"" ], "eywor","RETURNS",
+ ["ext, ",
+  ["yword","trggr],
+ ["te"""],
+  "keywrd",AS"]
+  ["text"" "],  ["string$ython
+],
+pthon-sart",
+  ["text","  "],
+  ["commnt","# pythn comet.."]
+[
+   "python-sart"
+  ["txt,"   "],  ["eywor"f"], ["text, ",
+  ["idntifier","SD"],
+  ["te",".]
+  identifer,hs_y",
+ ["paren.lparen,"("],
+  ["rin",""pan\"",
+ ["parenrparen",")"],
+  "text",""]
+][
+  "pthonart"
+  ["text","       "
+  ["idenife","plan"],
+  ["tex" "],  "keywor.oato",="],
+  [tet", "],  ["dntifer","SD"]
+ ["parn.lparen""["],
+  [string","\"plan\""], [pare.rparen","]"
+],
+   phon-start,  ["et","  "],
+  "keywo""els"],
+  [text":
+,[  "python-sart",  ["t","     "],
+  ["idetfir","plan"],
+ ["ext"""
+ ["keyword.opator","],
+  ["xt"," ],
+  "deifier""plpy"],
+  ["text",""],
+ [detifer,"prepare],
+  ["paren.lpaen""("],
+  ["string,"\"ELECT1\"],  ["aren.rpare,")]
+],[
+   "phonstart,
+ ["text","       "
+  [ientifier","S",
+  ["paren.laen","["]
+ [string",""pan""],
+  ["paen.rren",],
+  "ext",""],
+  kyord.operator,"="],
+ text" "],
+ ["idenifier","ln"
+,[
+  "sart"
+  "sring","$pyton$",
+  ["tt"," ",
+ ["keywor""LNGUAGE]
+  ["tex"," "],
+  ["identifer","ppthou"],
+ ["sttmntEd","]
+],[
+  "start"
+][   "tart"  commet"," pl/8 (avasrip)"],[
+  "avascripttat",
+ ["keywor.taemenBgin,"RTE"]
+  ["text"" "],
+  ["keywor",FNCTIO"],  ["text," "],
+ "ientiier","plvtest"],
+  [parnren","("]  ["idetifie",keys"]
+  ["tet"," ],
+  ["eyword","txt],
+  ["tex","[] ],
+  ["dnifier","vals"],
+  ["text"," "
+  [kewrd","text"],
+ text,"["],  ["r.rparen")",
+ ["text," "], [ewrd""RETURNS"]
+  ["ext"," "  ["kewod""txt"],
+  ["txt, "],
+  [keywor",""],  ["text"," "]
+ ["tin""$vascrit$]
+],[
+   "javascript-start",
+  ["storage.yp","vr"],
+  ["te",""],
+  ["dentiier""o"],
+  ["text" "],
+ "keyord.oprao""="],
+  ["ext," ",  "arn.lpan"{"],
+  ["paren.rren""]
+  ["puntaionoertor",";"]
+[
+  "javascrip-star",
+  "keyword","for],
+  [parelpare"]
+  [strage.ype","var"],
+  ["e," "]
+ ["identfe","i", ["eyooerator",=]
+  ["ostant.nmeri","0"]
+  [puncaion.oprato",",
+ ["text," ],
+ "inier","i"],
+  ["keyword.operaor,"<],
+ ["idenfir","kys"],
+ ["utuatio.operaor","."],
+ ["suppt.consn""lenth"],
+ ["puntuan.opaor,";],
+ ["te","] [identiiri"],
+ ["keword.ero""++"], ["paren.raen,")"],
+ ["pen.laren","{"]
+],[   "jvasript-star",
+  ["ext"," "],
+  ["idetif,"o",
+ ["ren.lpaen","]
+ "idntifie","kes],
+  ["prenlparen","[" ["ietifier"""],
+  ["pare.pare","]]"]
+  [tex"," ", keord.operatr","="],
+ ["t," "],  ["idniier",vas],
+  [parenlparn","["],  "identifier""i"],
+  ["paren.rparn,]"
+  ["punctuaionopeator",";"]
+,[
+  javascript-o_reex",
+  "paenparen","}"]
+][
+   "javasptstart", ["eywor","reurn],
+ ["txt"," ],
+  ["vaable.lngage,JSON"],
+  ["pncuation.oprator",."],
+  ["identifie""tringfy"],
+ ["aren.lparen""(", [ntifier,"o"],  [paen.rpren",")"], ["punctuation.operator,";"]],[
+   "tar",
+  ["tring",$javacrit$"]
+ "te",""],  ["keyword,"LAGUAGE"],
+  ["text","", ["identfier","plv8",  tet","],
+  ["eyword","IMMUTALE"],  "txt" "]
+  ["eyword","STRICT"],  "statemenEn",";"],[
+ "stt
+],[
+   stat",
+ "commn",-- json"]
+],   json-sta"  ["kewrd.statemngin,"select"], ["tex", "],
+  [keywod.oerao","*,
+  ["text"," "],
+  "keywod","from"],
+  ["et",""],
+ ["support.fution","json_jec_key"
+  ["prn.lparen""(",
+  ["sting""$jsn$"]
+],
+ "jonstat",
+  ["parenlparen{"],[
+   json-stat",
+ [text," "]
+ ["variable","\"1\""],  ["text,""],
+ ["constn.umeri","5],  ex,""]
+],[
+   "json-start,
+  ["tex," "],
+ "varible,2\""],
+  ["ext",": "]
+  ["sting",\test"],
+  "text",","]
+[
+   "jn-start",
+  [text"" "],
+  ["riale"\f""],
+  ["text",": "],
+ "paren.lpre""],  ["prenrpaen","}"]
+],[
+   "json-start"
+ "arn.raren","}"]
+],[
+ "start" ["strg",$jso"]
+  [parenaren",")],  "statmentEnd",""]
+][
+   "tart"
+,  "strt"],[
+  "s,  ["omment","- sqlcommand"]
+],
+   "stat",
+ ["support.buldin","\df cas"]
+],[
+   "star"
+],[
+  "trt"],[
+   sat"
+ "comment","-- Some ting samples.]
+],
+ "stat,  ["keword.staemntBegin","eet"],
+  [text" "],
+  ["string",do''t dt ow;'",  ["txt," ]
+  ["ywordoprto"|",
+  ["et"," ],
+  "sri","'ybelte"],
+ ["tatmentEn",";"]
+]
+   art"
+  ["kyword.statemeBegin","sle",
+ [txt"," "]
+  "ientfier""E],
+  ["string"'dt\\'t o i'"]
+  ["statementEnd",";"
+][
+  "tart,
+  ["keywodstamentBei",slct",
+ ["tx"," "],
+  ["supportfnction,"lengh"],
+["panlparen","("  "sting","'som other''s suf',
+ ["text," "],
+  ["keywd.operator""||",
+  ["txt"," "],
+  ["ting","$$cat inat'sstuff$",
+  ["parnre",")"],
+ "stateetEnd",";"
+],[
+"sart
+],[
+   "dollStatementStng",
+  ["keyword.statemetBegin","select"],
+  ["et", "],
+  [sring","$ strns"]],
+   "dolaSttementtig",
+  ["sting","over mltiple "]
+][
+  "dollarStamentStrin",
+ ["string,"lis - usedollarquotes]],[
+  start",
+ "stri","$$"],
+ "sttementn",";"
+],[  "stt"
+,
+  "tar" ["keyword.statementegin","END"]
+  [statemeEnd,";]
+],[
+  tar"
+]]

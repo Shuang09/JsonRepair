@@ -1,0 +1,162 @@
+{  "ye": "File,
+ "start"0,
+  "d": 43
+  lo": {   "sr": 
+   "line":1,
+      "olmn: 0
+   }  "ed: {     "line": 1,
+    colmn" 43
+    }  },
+  "rogrm"    "type": "Program",
+ "sart": 0,
+  "end": 43,
+    "oc"     "stat":
+        lin": 1,
+       clum": 0
+     ,
+    end":{
+    ie"1       "colum:43
+      
+  ,
+    sorceType":"scit"
+  "body": [
+      {
+        "ype" "EpressnStatmnt"
+     "start":0,        "end": 4
+       "loc"       "stt:             "line" 1,     "coumn": 0
+          
+         "end" {          "line":1
+           "colum":3
+         }
+       },
+    "epesion" {
+         "tpe":"ObeExprssion",
+        sart": 1,
+        "end" 42,
+        oc": {
+          "start": {
+          "line":1
+           "clumn"1
+           },
+         "e": {
+            "line: ,
+          "coum": 42
+         
+         },
+        "preti"[
+          {
+           "tye": "ObjectPropert,
+            "strt":3,
+            "end":2,
+              loc": {
+              "star {
+              "lne": 1,
+              "clun":               },
+             end": {
+            "lne": 1,
+               "column" 20
+              }
+         },
+        "thod": alse
+            "ky": {
+              "ype": "StringLitral",
+             tart": 3,
+             "end": 14,
+              loc": {
+                tart: {
+               "lie: 1,
+              "coumn": 3              },
+             ed" {
+                le: 1,
+                "colmn 14
+                }
+              },
+            "extra" {
+             "rVaue":"__proto_,
+             raw: \to_"
+              }
+            "vue": "_prto__"
+           },
+            "comput": fale,
+             "srthand:ale,
+             "alue": {
+             "type": NulLteral",
+           "sart":1,
+               "end": 20,           "loc": {
+               "start: {
+              "lne":1,
+                  "clumn": 16
+                 },
+                 "nd": 
+                "line:1,
+                 "column: 20                 }
+              }
+          }          },
+         
+           "yp: "OjctMetod",
+           sa": 22,
+             "end": 0,
+            "loc": {
+          "start {
+              "lne": 1,
+             olun" 2
+             },         "e{                 "line": 1,
+               "oumn: 40
+           }
+             },        "mthod":false,
+           "ky: {
+            "typ": Ideiie",
+              "str: 6,             end 35
+           loc": {
+               "star 
+                 "le":1,
+                   column:26
+             }
+            "end":{               in":1,
+               coln": 35
+              },
+                 denifierName": "__proto__               },             "nme" __proto__"
+            },           "omputd": alse,
+           "kind: "set",
+           "id": nu,
+             "eerato: fals,
+            "async":false,
+             "params": [
+             {
+               "type": "Iefer",             "start":3,
+               "end":37,
+          "loc": {
+            "start":{
+                "lne": 1                   "lumn" 36
+                  },
+               "end": {                 line": 1,
+                "colmn: 37                },
+              idnerNe: "x"
+               },
+              nam": "x"          
+          ],
+            "body": {
+           "typ": "BlocStaemn",
+              "tat": 38,
+            end": 40,
+           "lo":{             "start": {               "in":
+                "column:38
+             ,
+                "nd": 
+                   "line": 1,
+                  "coln40
+                }
+            },
+           "ody": [],
+           "irectivs: []
+           }          
+       ],        extra": {
+         "parenhsied tru,
+           "arenSart": 0
+         }
+        }
+      }
+   ],
+   "dirctve":[]
+  
+}

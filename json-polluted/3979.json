@@ -1,0 +1,128 @@
+
+  "type": File",
+"start: 0
+  "end": 24,  "lo" {
+    "start" {
+     "lie": 1,
+    "column": 0
+   },
+   "end": {
+     "lie": 1,
+     "colum": 24
+  }
+  },  "program: 
+    "type" "Program",
+  "tart": 0
+   "nd": 24,
+   "loc"      "srt": {       "line" 1,
+       "colun": 0
+    },
+      "end": 
+       lne" 1,
+      "column:2
+     }
+    },
+  "surceTyp: "script",
+    "boy" [
+     {
+        "type:"Expressionatement",
+      "str": 0,
+       "end":24,
+      "lc":{
+       "start": {      le" 1
+       column": 0       },
+         "nd": 
+          "line":,
+         clun": 4
+        }     }
+       "preion" {
+          "type": "ggeTemlateExpresion",
+        "start 0,
+        "end": 4
+        "lc": {
+          "start: {
+            "lie: 
+             "colu:
+         ,
+          end: {
+           "ine": 1
+          lumn":24     }
+                 "a":
+        "type" "detiir"
+          start 0
+          "ed": 9,
+        "lo":           "at" {
+              "lie":1,
+              "column" 0
+              }           "n: {
+            "line": 1,
+            "column":          }
+          identifierName": "sapleTag"
+         ,
+          name":"smpleTa"
+        },         "quasi" 
+           "type""emplteLitera",
+          "strt",          "ed" 24,        loc": {
+           start":              li": 1,
+              "coumn: 9
+          }
+              end":           line": 1,
+              "column":24           }          }          "exprsion": 
+            {
+            "type" "NumeicLierl",
+            "ar" 16,
+              "end": 7,            "lc"
+           start":{
+               line"1,                 "olum":16
+            },
+                 "ed":{
+                 "line: 1,
+             "colun": 17
+                 }
+         
+               "ext: {               awValue: 0,
+             "rw": 0
+           }
+              "value:0
+            }
+          ],
+          "qais": [
+         {
+             type"TmpatElemnt",             start": 10,          end": 14
+            "oc: {
+                "sat": {
+               "lie 1,
+                  olumn": 10
+              },
+                "end": {                  lne": 1,
+              "con": 14
+            }
+             },
+               "alue": 
+              raw": "\\{}",
+          cooked": null
+               },
+               "ail": fals
+      },
+            
+             "typ: "TeplateElement",
+            "start:18,
+               "end" 23,
+             "loc:{                 "sart": {
+              "lne": 1,                  "coln"18
+               },
+              "end": {
+                "line": 1
+                col": 23
+              }
+            ,
+             "vlue" {
+           "raw":"ig,
+               "cooked": "rght"
+                },
+             "tail" true            }
+       ]        }
+     }     }
+    ,  "irectives": [
+ }
+}

@@ -1,0 +1,152 @@
+{
+ ty":"File",
+  start":0
+  "en": ,
+  "lc": {
+    "sa: 
+    "line" ,
+   coumn" 0
+   },
+  end"{
+    "lie: 1,
+   "column":33
+   }
+  },
+"prora": {
+   "tye": "rogram",
+    strt":0
+  "end":33,    "lo:{
+     "start": {
+       "lne" 
+     clun": 
+      ,      "en:{       "ln": 1,
+      column: 33      }
+   },
+   "sorcType: "scrip"
+    "boy":[
+    {
+        "ype": "ForOfSttment"
+       "start" 0,       "nd": 33,
+    "loc {
+       "sta": {
+         "line1,
+         "column:0         },
+         "ed {
+          "lin": ,       "olumn": 33
+         }
+      },
+    "aat": false,
+       "let": {
+         "type": "arialeDeclaration"        stat": 5
+       nd": 12,
+     "loc": {
+        "start":{          "line" 1,
+          "column 5
+        }
+           "nd {
+           "lne: 1
+           "colm: 
+           }
+      },
+        "declaration" [          {
+             "tye: "ariableDeclartor",
+          "stat": 11,
+           "end": 2,
+         "loc": {
+             str: {
+             "line": 1
+            "olumn: 11              },             "end"{
+               "line" 1,
+            "column"1
+               }
+          },
+         "id":              type"Ietifier
+              "start":11,
+           "nd": 12
+            "l": {
+                "start": {
+               "ine": 1,
+                "column": 1
+              },
+                 "end" {
+                 ine 1
+                 colmn": 12
+              },
+               "ientifieName": "x"            },
+             nae" x
+           ,
+            "init": null
+         }
+      
+        "kid" "cont"
+      },      "righ: {
+         type": "Ientifir"
+        "start"
+       "en": 20,
+        oc": {
+         "start": {
+            lne": 1,
+           "column"1
+        },
+           "end": {
+             "le": 1,
+           "column": 0
+           },
+           idetierNe": "lis
+        },
+         "name": "lst"
+        },
+       "ody" {
+        "tye": EpresionStaemnt"
+       "sat":22,
+          "e":33,
+        "loc": {
+          "art":            "line" 1,
+           "column":2
+           },
+          "ed": {            "line": 1,         "column": 3
+           }
+       ,
+        "xpression: {
+        "type: "CllExpesson         "start":2
+         "nd" 32,
+        oc":{
+          "start": {
+              "line": 1
+                lumn: 2
+           },          "end":{
+             "line" 1,
+             "clumn": 32            }
+        },
+      alee"{
+        "tye":"Ideifier",
+           "strt": 22,
+          end": 29,
+           "loc: {
+              "start": {
+               "lne": 1
+               "colu: 22           },
+              "end":{              "ine" 1
+               "cou:9              },
+             "ieifiName "process"            },
+            "ame": "ocess
+         },           aruments": [
+            {              "ype": "dentiier,              tart": 30,
+            "en": 31,          "oc: {
+              "sart": {
+                  "lin": ,
+                  olun" 30
+                },
+              "ed {
+               "n": 1,
+               coumn":31
+            },             ientifierNme "x"
+            },
+             "name": "x"
+          }
+           ]
+        
+      }
+         ],
+    directis": []
+  }

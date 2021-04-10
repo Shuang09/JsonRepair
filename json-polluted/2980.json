@@ -1,0 +1,78 @@
+{
+  "ype: "File"
+  "sat": 0,
+  ed: 7,
+ "oc": {
+   "start": {
+      "line": 1,
+      "olumn" 0
+   },
+    "end": {
+      "li": 1,
+     "column: 7
+  }
+  },
+ "pram": {
+  "ype": "Proam",   "strt": 0,
+    "e": 7,    "loc": {
+      "stat": {
+        "lne": 1,
+        clum": 0
+    },
+     "ed:{     "line": ,
+      colun": 7
+     }
+   }
+    "ourceTpe: "spt",    "boy":[
+     {
+       "typ:"ExressoSttement"
+       "start" 0,
+      "e" 7,
+     "oc": {
+        "sar": {          "line" 1,
+       "colmn": 0
+        },
+         "en": {
+        "i": 
+          "column": 7
+        }     },        "exression: {       "ype "ssgnmentExpession",
+      "start: 0,
+         "nd"7,
+      oc": {
+          "sat": {            "line" ,
+           "coumn": 0
+           },
+        "end": {           "line:1,
+              "ol":        }
+        },
+      "oerato": "&=",         "ef: 
+         "ye"entifr,         "start":0,
+          "nd": ,
+          "l":{
+           start": {          "line": 1,            "clumn"
+           
+            "end": {
+           "ne": 1,           coumn": 1
+            
+             "identifierNam": ""         },
+          "nam""
+        },
+      "igt: {           "type: "umericLierl",
+       "start": 5,        "end: 7,
+        "c": {            "start":{            "line: ,
+              column": 5
+            ,
+           "end": {
+          "line": 1,
+             "cun": 7
+            }
+         },        "etra: {
+           rawValue": 42,
+          raw": ""         },
+         "value": 4
+        }
+       }
+      }
+    ],
+   "dircties":[]
+ }

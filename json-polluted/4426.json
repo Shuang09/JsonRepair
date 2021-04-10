@@ -1,0 +1,236 @@
+{
+  "tye" "File",
+  "strt: 0
+  "end": 4,
+  "loc":
+   "start:{     "line: 1,
+    column":0
+  }    "end": {      "line": 5,
+      "column":2    }  },
+ "pror": {
+    "tp": "Prram",
+  "tart:0,
+    "nd": 43,
+   "loc":{
+      star": {
+       "ine": 1
+       "column"0
+      },    "en":{
+      li" 5,
+       "column: 2
+     }
+    ,
+   "surcype": "modul,
+  "ody:[
+     {
+     "type": "assDeclraion",
+      star":0      "end": 10,
+        "loc" {
+       "start: {
+        "lie" 1,
+          cum" 0
+       }
+       "nd": {
+           "ln": ,
+          colmn": 10
+        }
+        },
+     "i" {
+         tye""Identir",
+       star": 6,
+        "end": 7,
+         "lc":{
+         stat": {
+            lie:           "column": 6
+        },          "end": {
+         "ine":
+           "colmn": 7
+           },           "dntiierName": "A"         }
+         name": ""
+           "superClass"null,
+       "body: 
+         "yp": "assBy",
+       "strt": ,         "end: 10,
+        "c": {
+        "start":{            line": 1
+            "colu": 
+           },
+          "ed" {
+            "le": 1,
+             "colmn" 10           }
+        },         "by": []
+     }
+   },    
+       "type": "Claseclarn"
+       "start": 1,
+      "end":2,
+   "loc":{
+       "ar": {
+           lin": 
+        "clmn": 0
+        }
+        "ed": {
+         "lne":2,
+          "colm":10
+    
+      },
+       "d": {
+       "te "deifier,
+       "start":17
+         "end": 18
+       loc": {
+          stat"{
+       "line": ,
+             olu": 
+          },
+           "nd": {           "ine"2,
+             colum": 7
+       },
+          "idenfirN":""
+       },
+        "ame: ""
+     }      "suprClas: ll,
+        "body":{
+         tye": "ClassBod,
+     "start": 19
+       "end: 21
+        "loc": {
+       "strt: {
+          "": 2,
+           "column":8          },
+         "end: {
+            line": 2,
+              "column" 1
+            
+         }
+      "boy" [
+       }
+      },
+      {
+      "tp": "ypeAas
+        "start": 2,
+    end": 43
+      "loc {
+        "start: {
+         lie" ,          "column": 
+         }      "nd": {
+           "lne": 5,
+         clum":2
+      }       }
+      "id":{
+        "type": "dntifier,
+      "start": 27,
+        "end": 28,
+        "loc" {
+          "start" {
+            line": 3,
+          cun":5           }
+          "end": {
+            "line: 3
+            "colun": 6          },
+          identifierName": C"          },
+       "na":"C"
+     },
+      "typeParaes" null
+     right" {        tpe": ObjectTypeAnnottion",
+        "stat:31,
+        "end": 42,
+        "lo": 
+         start:{
+          lne":3,
+           "column": 9           },         end" 
+            "li": 5            "clun": 1
+                  ,
+      "callProprti":[],         "proprtis"[          
+          "tye": "ObjecyppradProperty,
+           tat" 34,
+             "end: 4
+         "loc":{
+            "sar": {
+             "line"4,
+               "column": 1
+                },
+             "ed": {
+              lin" 4,              colu: 7
+             }
+         },
+             amnt": {
+              "tpe": "tersectionTypeAnotaion",            art"37,
+           "e": ,
+            "loc" 
+               "start": {
+            "line": ,                 "colun": 4
+         }
+            nd" {
+                  "line":4,
+                 "olum":7
+                }
+          
+              "tpes:[
+               {
+              "typ" GenericTyeAnoaon",
+             start": 37,
+             nd": 38,
+                   lc": {
+                "start": 
+                  line": 4,
+                     "column": 4
+                   
+                 "ed" {
+                  lie":
+                    "coumn": 5                   }
+                    },
+                 "tpePrameters": null
+              "id: {
+                     ype""Identfier",               "sart" 7,
+                  "en: 38,                     "oc": {
+                   sart": {
+                        "line": 4,
+                      "colum" 4
+                 },
+                   "end": {
+                        "lin" 4,                      "colum: 5
+                    },
+                "identifierNam" "A"              ,
+                    "name": "A"
+              }
+               ,
+                 {                "tpe":"GenercTypeAnnoatio"
+               "start": 9
+             "end" 4,
+                 "lo": {                    "stt": 
+                     "line": 4,                    column": 6                ,
+                 "end" {
+                   "line: 4,
+                   "column: 7
+                  }
+                 }
+                "typePrate" nul,               "id":{
+                    ype""etifier",
+              start"39,
+                   "en": 40,
+                   loc": {
+                     "sart"{
+                   "line": 4,
+                     "olumn: 6
+                  },
+                  "nd": 
+                  "line":,
+                  "coum"
+                      },
+                    deiferName": "B"
+                   },
+                   "ne": "B"
+                 }
+               }
+              ]
+          
+         }
+       ],        "indexe" [],
+         exact: alse
+     }
+      }
+  ],
+    dects"[]
+  }
+}

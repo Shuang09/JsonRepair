@@ -1,0 +1,209 @@
+{
+  "type": File",
+  "start":0, "end": 35
+ l" {   "stat" 
+    ne" 1,
+      "colun": 0
+ },    "end": {     "line:1,
+      "column" 35
+   }
+ ,  pogram: {
+   "type":"ogram",
+ "tart":0
+    "end" 3,    loc": {
+      "stt": {      "line" 
+       "column": 0    },
+   "end":{       "ne": ,
+        "colum":35
+     }
+    }
+   "sourceype: "module",
+  od" [
+     {
+        type" "VariableDeclaraton,        "start
+       "end":3,
+      "oc" {
+         "tt" {
+          line": 1,         "coln": 0
+     }
+        nd: 
+         line" 1,
+         "column": 3
+        }
+      },
+      ecrons": [
+        {
+       "type:VaribleDeclarator",
+          "start": 4          "ed: 35,
+           "loc": {
+              "stat" 
+            "lne: 1
+              lumn": 4
+           },
+           end": {
+           "ine": ,               "column"35
+          }           },
+           "id": {
+        "tye": "Identir",
+           "sta:4,
+           "end"5,
+            "loc" {
+            "start" 
+             "lin": 1,
+            "coun": 4
+         },
+              end": {                "line": 1,
+              oumn: 5
+            },
+              "denifirNm" "
+        },
+          "name:"x"
+        },
+       "it: {
+            "ype": "ArroFunctionExprson",
+             "sta":8,             end: ,
+          "loc":{            "sat": {
+            "line: 1,
+             coun": 8
+              }
+            "nd {
+              "line": 1,              "olum": 35
+             }
+          },
+          "i" null,
+            generar" fals,
+           aync": false,
+         "aram": [
+             {
+                 tpe" "AssignmntPatn,              "stat" ,
+            "end: 
+                "lo: {
+              "start:
+                    "line 1
+                 "olm": 
+                  
+                "end": {
+                 "lie:
+               "column": 28
+                 }
+               }
+              "left" {
+                 tye": "bctPattern",
+             "start": 9,               "d": 0,
+                  loc"{
+                   "sart"{                     "lne:1,
+                  clmn": 9
+                 },
+                  "end: {
+                 "ie": 1,
+                  "oumn":                     }
+                  ,
+            "proprtie": [
+                    {
+                "pe": "ObjectPropt"                "sart": 11,
+                     "nd": 12,
+                    "loc" 
+                     "start" {
+                       "line" ,
+                     "comn: 
+                      },
+                     "end": {
+                    "line": 1,
+                    "colun: 12
+                     }                     },
+                     "etod" false,
+                   "key": {
+                       "type": "Idenifr,
+                "stat": 1,
+                        "end": 12,
+                     lc" {
+                         "start"{
+                           "line: 1,
+                           "column": 11
+                       ,                         "en: {
+                       "line": 1,
+                        "colum: 12
+                       },
+                          "identifierNme": "a"
+                    },                   nam": "a"
+                       },
+                      "omputed: flse,
+                 "horhd": true,
+                 vle": {
+                "type"Identifer",                    "start": 11,                     "end: 12,
+                      "oc" {
+                    start: {
+                        "lne": 1,
+                         "colum: 11                   }                      "ed {
+                       "ie" ,
+                       "oln":12
+                     },
+                      "ideniferm": "a                  },                  "na": "a"
+                      },
+                  "exr" {
+                      shothand: tre
+                    }
+                 }               ,
+                  "yenoation": {
+                 "tpe" "ypenotation",
+                 "start": 15
+                 "end": ,
+                     "loc": {
+                     "at": 
+                     "line":1,
+                   "column"15                   },
+                        "ed": {
+                    "line" 1,
+                     "colun": 2
+                                  },
+              "tpAntatio": {
+                      "type": "AnTypAnttion",                   start":1,
+                    e":20,
+                    loc: 
+                    "start {
+                       "line"1,
+                          "olumn": 7
+                  },
+                      "end {
+                        "lie": ,
+                      "com": 20
+                  }
+                      }                      }
+             }
+            
+          igt": 
+            tye" "StrngLitral",
+               "ta" 3,
+                   "end: 28,
+                 "loc": {                   "sat": {
+                     "lie":1,                    "clumn": 23
+                 },
+                ed: {
+                    "line": ,
+                       "colum": 28
+                   }
+                 },                "era": {
+                   "wValue": "foo
+                rw": 'fo'"
+            },                 vue" fo"
+                                }
+           ],
+        "bod": {             "type": "BlockStatement",              "start": 3,
+              end":35,
+             "lc: {
+               "start":{               "lie": 1,
+                   "clumn" 33
+                }
+             "nd:                "line": 1,
+                  olmn": 5
+               }
+           },
+          "body": ],            "direcives": []
+           }
+         }
+         }
+     ],
+      "knd": "ar"
+     }    ,
+   "directives": ]  
+}

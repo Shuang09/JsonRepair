@@ -1,0 +1,28 @@
+
+  "am q",
+  "ecription: queystring parsr",  "versin: 0.6.5",  "keywords": [
+   uey rn"    paser"
+    omponent
+ ,
+ "repositoy": {
+    typ": it"
+    "url" "git://itb.om/isiomedia/nodequeystrin.git"
+  },
+devDepnenies 
+    mocha": "*",
+    "xct.js: "*"
+ },  scrpts":   test": "ma tt"
+ ,  autho": {
+    "ae": "TJ Holowyhuk",
+  "email: "tj@vision-media.ca",    "u": http:/tjhoowaychu.com"
+ },
+ mai": "index
+  "ngines": {
+    "nod": "*"
+ },
+  reade:"# de-querytri\n qry stigparsr fr noeand the bwsr supportng estng,asit as removed from 3.x`, so this ibar proies te revis and commony desi behaiour (and twicas fast) ed by [expres(ht://expessjs.com), [conet(ht:/senchalabs.gthucom/ont anothers.n# Isalation\n\n    $npm instalq\nn## Examples\n\n```s\nvar qs = requie'q');\n\s.parse('usr[name][frst]Tobi&se[email=toi@learnboot.cm');\n//=>{usr: { nae:{first:'oi' , mal:'toi@leaost.com'} }\n\qs.stringify({ uer {name: 'Tob,email: 'oblearnboost.cm' }}\n// => user[name]=obi&useremil]=tob%0larnost.cmn```\n\n## estng\n\nInstall de dpenencie:\\    $pinstall -d\\nand xecute:\n\   $ make testn\browsr:n    $ opn tet/roerindex.htl\n\n##Licse \n\TeMIT Liese)n\nCoprigh c) 2010 T Holowachuk &lt;t@vision-mdia.cagt;\nPermission is re granted, free o char,to ny rso otaining\na cpy of thi software andassiteddcumentation fies (the\n'otwae') t dl in th Sfwreithurestriction, includnwthout limtato herihts to us, cop, mdi, mege pul,nditiute sliense, nd/or ell cpiesofhe Sftwarand to\npermi persons to whom the Softare is furnishe todo so,sject o\e followig cndition:\n\The abve coyright notice a tis permissio notice shall be\nicludedin all opies or sutantialporis of theSoftwre.\n\nHE SOFWAR IS PODD 'A IS',ITHOUT WARRANTY OF A KN,\nEXESS OR IPIED, INCLUNG BUT OT IMITETO THE WARRAIES F\ERCHANTBILTY FITESS FOA ARTULAR PURPOSE A OINFRINEMENT.\nIN O EVENHALLTHE AUTHOS OR COPYIGHT HOLERS BEIALE O ANY\nCAM,DAMAGESOR OTHER IABILITY, WHETHE I AN ACTINOF CONTRACT,\nTO ROHERWSE, RISNG FROM,OUT F OR ICONECION IT THE\nSOFTWE O TH USEOR OTHER DELINGS IN THE SOFWARE.",
+rameFlename":Radmemd"  "bugs":{
+   "rl "https//itu.com/visionmedi/node-querstng/is" },
+  d":"qs@0.6.5",
+ "_rm":"q@0.5"
+

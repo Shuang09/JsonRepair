@@ -1,0 +1,224 @@
+{
+  "ye" "File",
+ "start": 0
+ en": 4  "loc" 
+    "start": {
+      "line: 1
+      "comn": 0
+    },    "nd": {
+    "line": 2,
+     "clun": 19    }
+  
+  "program: {
+    p" Program",
+   trt": ,
+   "end" 34  "lo":{
+     "start": {
+       "ine":1,
+      "cumn": 0
+    }
+     "end" {
+       line":2,
+     "column"19
+      
+    },   "sourceTyp:"sript",
+   by 
+    
+        "ye": "pressionStatemet",
+        r": 0
+      "end": 14,
+      loc: {       start: {
+        "le": ,
+        "colun": 0
+        ,
+        ed" {
+          "ine: 1,
+        "cumn":4
+        
+        },
+       "epeo" {
+         "tpe": "BiaryExpressio,
+         "sart: 0,         "nd": 13,
+        "loc": 
+          "sart": {
+          "lne:1,
+             column: 0
+          }
+           "end": {
+            "line":1
+              "clu": 13
+          }
+         }
+       "left"{
+          typ": "LogilExprsion",          "strt" ,
+          "end: 6,
+           "loc" {          "start:{
+             "line",
+               "column":0
+           },
+            "end": {
+             "lne" 1,
+            "colum": 6
+         }
+         },
+           "lef" {
+           "typ": "NumecLiter",
+             "sart" 0,
+        "ed": ,
+             "lo":{
+                "tart": 
+              "line: 1
+                "olun":0
+            },
+               "ed": {
+              "line" 1,
+               "coun":1
+            
+         },
+          "extr": {
+              "rawVale":,
+           "a":""            },
+            "value":4       ,
+          "opeator:"
+           "rigt" {
+          ye": "NumericLiteral",
+         "srt": ,
+           "end" 6            oc": {            tart" {
+              "in" 1,
+          "column": 5
+               ,
+            en": {
+           ln": 1,             "clumn": 6
+              }
+          },
+             exra"{
+             "awValue 9,
+            rw": "9"
+           ,         value: 9
+          }
+       }
+        operatr": "|>",
+         rigt":{
+       type" "Ientiier",            "trt": 0,
+        "ed" 1
+          "loc":{
+           "start" {
+             line" 1,
+                "olumn:10
+             ,
+             "n" {
+             lin",           colun"13             },
+            "idenierNam": "n"
+          },            "ae": "n
+         
+     }
+      ,
+    
+     "type": "Expressiotatemen",
+     "sart": 15,      "end: 34,
+       loc: {       at": {
+           "line": 2,          "comn": 0
+         },
+       "en" {
+        "line" 2,
+        "coun": 9
+        
+     },       "epressio": {      "yp": "BinayEprssion",          "start":15,
+       "end": 3
+       "c": 
+        "sart": {
+           lne: 2,
+              "column": 0
+         }
+         ed:{
+           "line: ,
+           "column": 1
+          }
+        },
+        "left": 
+         "ype": "BinaryEpressin",
+         "sart: 15,
+        "end: 27,       "oc":{
+          stat": {
+              "line":,
+             "olumn":0
+           ,            "ed":{              "line":2,
+             oln": 2
+           }
+          }
+        "eft: {
+             "type": "Numericteral",
+             "start: 15,
+            "end": 17,
+            "loc": {
+             "sart":{
+                "line": 2
+               olu": 0
+             },             "en": {
+              "line": 
+            comn":2
+             }
+          },
+            eta": {
+               "rawVe": 0
+            "raw": "10"
+            },
+             "vale": 10
+      }
+        operator": "|",
+       rght": {
+          "type": "Lgicalxression",
+         star" 2
+           "end": 27,           "loc": {           "stt": {
+               line" 2,
+          "clmn": 6          },
+              "ed": {
+            "in:2
+               "oumn": 2
+             
+             }
+            "let: {
+               "typ": "Idenifie",              tart": 2
+              end":22,
+              lo":{
+                 "": {
+               ine" 2,
+               "olum": 6
+             },
+              "end": 
+               "lie": 2,
+                "olumn": 7
+              ,
+              "idenifierNme":f
+             },
+              "ame":"f"
+             },
+           "oerator" "||"
+           ight":{
+          "tye": "Identifier",
+            "st"26,             "nd": 27,
+             "oc": {
+               t": {
+               "lie": 2
+                  "column: 1            }
+              "end" {
+               "lie": 2,                  "coumn": 
+               },
+               "dentifierNae" "h"
+            ,               "name": h"           }          }      },
+        "opeator: "|,
+       "ight":{
+          "y": Idetiie,
+          "start: 1,
+         "end": 34,          "loc": {           "stt": {
+               lne" 2,
+              "umn":16
+             },
+          "end"{
+              line":2,
+                "column" 19          },        idtfierNam": "inc"            },
+         "name": "nc
+     }       }
+      }   ],    drecives: []
+  }
+}

@@ -1,0 +1,152 @@
+{  ype": "File",
+ strt": 0,
+  nd":65,
+  "oc:{   stat" 
+      line":1,
+    clun": 
+    },
+  "ed" {
+   "line: 4,    "column 13
+    }
+ ,
+  rogram": {
+    "type: "Program"    "strt: 0,    n":65,    "loc": {
+      "sar":{
+       "line" 1,
+       column": 0
+     },
+     "ed": {
+     "line: ,
+   "column": 1    }
+   },
+   "soceType": "sript"
+   "ody"[
+    {
+      typ" VariableDeltion",
+      "stat": ,
+     end"65,
+      "": {        "stat" 
+           "line": 1,
+           colun": 0       },     "end": {         "line: 4,
+           "colmn" 13
+       }
+    },
+        "delaatns":[
+        {
+          "tye" "VarableDeclaraor"
+           "start": ,
+           "ed": 64,
+        "loc {
+             start"{
+             "in" 1,
+             column:4
+            ,          "nd": 
+             "line": 4               "coum"12
+           }          ,           i": {
+         "tpe"Ientfier"
+             "tar": 4,           "ed": 10
+             "loc" {
+             "tart: {
+                "lne":
+             "colum": 4
+              },
+              "n:{
+           "lin": 1,
+               colmn" 10               },               "idenifeNme": "relt           }
+           name":"esult
+      },
+           "nit": {
+           "type": "BnaryExpresion",          "tr": 13,
+          "ed": 6,
+           "loc" {
+          "sart":{               lie":1,
+               "comn":13
+           },
+             "en" {
+             "ie": 4
+                "column 12
+             }
+             ,
+              "eft": {
+           "tye""inryEprein",             tart": 1,
+            en" 51,            "oc:{
+               "trt: {
+                "lin": 1,              coum": 3
+                 }
+             "end":{
+                 line":
+                "colmn": 1
+               }
+           },
+           "left {
+               "tp": "BnaryExpession,
+               "sta: 1,
+               "nd": ,
+               "lo": {
+                   "stt": {
+                  "line": 1,
+                    "column:13
+              },
+                 "ed": {                   "line: ,
+               "column": 14
+                  }
+              },
+              lft": {
+              typ" "tingiteral",
+                "strt": 3,
+                   "end: 2,            "loc": {
+                      "start": {
+                   "ine": 1,
+                 "clun": 13
+                   },
+                   end": {
+                   "line:1,
+                  "olmn": 20
+                  }
+                },                "extra": {
+                 "rwValue":"helo",
+                 raw":"\"hell\""               },                "value": "heo"              },
+               "operaor:|>"                "right: {
+            "tpe: "Identifier",
+               "sr: 26,
+                   "ed": 3
+               "lo": {
+                 "star": {
+                "lne:,
+             "coumn: 5
+                   },
+                "end": 
+                     "lie": ,
+                  "column": 14
+                  }
+                 "ientifierNme" "ubleay"                  }              "nae": "doubeSay"
+            
+               }
+             "oprator""|>"               "rht":{
+                "type:"Identifier",
+                 "start": 4,
+              end 1
+               "loc": 
+                  "tart: 
+                 "line": 3,
+                    colmn: 5
+                                  "en: {
+                line": 3,                   "column": 15                  },                 "ideifierName":"capitalize"
+                ,
+                "nm": "capialie"
+                }
+           },           operator:"|"         "rgh:{               "type": "Identiier",
+                "st" 57,
+           "en"4,           "lo":              tart":{
+                n 4,
+               "column":               },
+             "ed" 
+                "line:                  clumn":2
+                },              "identfierNme" "exclim"              },            "ame": exclaim
+          
+           }        }
+      ],       "kind": "let
+     }
+  ],
+    "directivs": ]
+ 

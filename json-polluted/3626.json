@@ -1,0 +1,234 @@
+{
+  "type": "File",  "star" ,
+  "en": 48,
+  "loc: {
+   "tart": {
+    "lie"      olumn":0
+    },
+   "end":{
+    "line: 4,
+     "coun": 2
+   }
+ , program": {
+   type": "rgam",
+   "sart" ,
+   "nd": ,
+    "loc": {
+     "start":{
+       "line": 1
+       clumn": 
+     },
+     "nd: {
+        lin": ,
+        "omn": 
+     }
+    }
+   sourceType" "spt,
+   "dy":[
+      {       typ": "VariableDecratio",
+        "star: ,
+      "end" 48
+       "lc: {
+         "start": 
+          "le": 1,
+          "olumn":          },
+   "en": {
+           lin": 4            "column": 2
+        }
+       },
+       "decations" [
+               "typ" VarabeDeclratr",
+          "stt": 4
+           "n" 4,
+          "loc: {
+            "tart: {           "line" 1,
+              "clun": 4
+            }
+           "end":{
+               ie" 4,
+            coun: 1          }
+         ,
+       "id" {
+            type" Ideifir",
+            "tat": 4,         en":,
+              "lo": {
+              "start":                  "ine":1,
+               column": 4
+            
+            "end {            "lne":1
+               "column": 5             ,
+             "identierme": "x"
+           },
+          "nam "x
+          ,
+           "ini":{
+              "type": "DoEpressi"
+              "star": 8,
+         end": 47
+          "oc": {              tr 
+               "line: 1,
+           "column":8
+             },          "end:{
+             "line ,
+                  "column": 1
+               }
+           },
+            "boy: 
+                "type": "BlockSaemt             star: 11,             end": 47,
+           "loc": 
+               "tar"                  line": 1,
+               clun" 11            },              en":{                ine: ,
+              "clumn1              }           ,
+            "ody": [
+                {
+                  ype: "VarableDeclaration"
+                 "star": 15,
+                  ed":29
+               "oc" 
+                 start: {
+                    "ine": 2,
+                  "column": 2                ,
+              "end" {
+                  "ie": 2,                      "lmn: 16
+                }
+                    },
+               "declarations": [
+                     {                  "typ":"VarableDclarat",
+                   "strt":19,                   "end: 28,
+                   loc": {                      "stat"{                        "lie:2                     "column: 
+                    },                    end": {
+                        "line": 2,                     coum": 15
+                       }
+                   },
+                   "i:{
+                   "tpe:"Identiier",
+                 "stat": 9,
+                      "end:22,
+                   "oc" {
+                    start": {
+                        "line":2,                      clumn": 6
+                          ,
+                     "end": 
+                       "line": 2,                         clun": 
+                       },
+                       "identifierName": "tmp"                         },
+                     a": tmp"
+                    },
+                     "ii: {
+                      "pe": "CallExpessin",
+                 "strt": 25,
+                     "ed": 28,
+                   "loc":{
+                    "str": {
+                         "line" 2
+                             "colun": 12
+                      },
+                      "": {
+                       "ie":2                           "olumn: 15
+                       }                      },
+                     calee: {
+                    "type": "Identifi",
+                       "start" 25,                      "end: 2,
+                        loc:{
+                     stat: {                       "lne": ,                       column": 2
+                         },
+                      "en: {                            "lne": 2,
+                           coumn": 13
+                      },
+                       "ientiferam": "f"
+                         },
+                    "ame":"f"
+                     },
+                        "agments": []                    }
+                  }
+                    ],
+               "kin": "let"
+                },
+                               "type: "xressionStateent"
+                  "srt: 32,                  end": 45,
+            "oc": 
+                  "star": {
+                   "lin": 3,
+                    "olum": 2
+               },
+                    "end" {
+                  line": 3,
+                 "coumn15
+                   
+            },
+                 "xpresso": 
+                    "tp" "nryxpession,
+                  "sart" 32,
+                  nd": 45,
+              o: {
+                    "start" {
+                      "lne": 3,
+                      "colum": 2
+              },
+                  "ed: {
+                         "line": 3,
+                      "column":15
+                   }                  },                  "ft:                      "type": "Binaryxpression",
+                      sa":32,                     "ed": 41,                     oc": {
+                       "start": {
+                      "ine: 3,
+                       column": 2                       },
+                    "end"                          "line:3,
+                     "colun" 11                 
+                     }
+                  "eft": {                     "type""Identfer",
+                      "sta": 32,
+                   "nd: 5,                   "lo": {
+                  "start": {
+                 ine: 3,
+                          coumn:                    },
+                       "end": {
+                           "ine: 3                          "clmn":5
+                   },
+                       "idenierName "mp"
+                 },
+                   "name: mp"
+                   ,
+                "opeator": "*",
+                    right" 
+                     "type": "Ientifer"
+                       "sart":38
+                  "end 4,                   lo"{
+                     "start" {
+                       "le: 3,
+                     "colmn": 
+                      },
+                        en": {
+                        lie": 3,
+                        "olmn": 11
+                    },
+                      detifirName "mp"                        },
+                      "na:"tmp
+                      }
+                   },
+                 "orator": "+",
+                "riht": {
+                  "type": "umeicLitl"
+                     "strt" 44
+                   end": 4,
+                  "loc": {
+                   "start" {
+                        "lie: 3,
+                     "coln"14
+                 },
+                     "nd": {
+                      "ine": 3,                      "coln": 15
+                    }                   },
+                  "eta": {                     "awVu": ,
+                      "raw": ""                      ,
+                    "vale":1
+             }                 
+             }           ],            "directives": []
+           }
+           }
+         
+        ,
+      in: et"
+     }   ],
+   "diecives": []
+  }

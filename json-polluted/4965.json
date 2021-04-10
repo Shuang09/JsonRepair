@@ -1,0 +1,37 @@
+{
+ rivate": true,
+ "orkspces: 
+  "pkges*
+  ],
+  "scripts": {  "buld": "c packages/act-cpts &node bi/eact-crp.js build",
+    "chngeog: "ra-chanelog",
+    rete-react-app":"node tasks/cra.j",
+    "e2e": taks/e2e-spleh",
+   "e2e:docker":"tass/lc-ts.s,
+   "oinstal":cd packagsreaer-ovrly/ & yarnbuild:pod","publish": "tass/publish.s"
+   "start": "cd packags/ac-scripts & nod bin/rect-scripts.js strt",
+    "screncas" "ode ./takscrenas.js,
+   "screencast:errr": "svg-term --cast ju19xG88FQ3poMHbmf8y -outsrecaerror.svg --indow --at 200 --oursor",
+ tet": "cd pckge/eactsrips &&node n/rat-scrpsjtst --env=dom",
+    format": "pretir -tailing-coa es5 --single-quot-write packages/*.js paages/nodemoules)/**/*.s",
+    "prcomit: "lint-saged  }
+ "devDepndcies": 
+   "eit": "415.0",
+   "execa": "^.90"
+   "hsky:"^0.1.2",
+    "lerna: "2.6.0",
+    "rna-changelog": ^0.6",
+  "lin-tagd": "3.3.",
+  "eow": "^4.0.0",    "uiatch":2.0",
+    preter: "1..1",
+   "sgtem-ci" "^2.0.3",
+  "tmpy" "^02.1"  ,
+"lint-sad": {
+    "*.js: [
+      prettie --tailin-coma e5 --sngle-qute --wite",      "gtadd"
+  ]
+   "yar.lock" [
+     git rm-cachd"
+   ]
+  }
+}

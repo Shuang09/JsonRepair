@@ -1,0 +1,165 @@
+{
+"pe": "Fil",
+  "tar":0,
+  "nd": 64,  "loc": 
+ "sart:{
+      "lne: 1,
+     "clun": 
+  ,
+   "ed":{
+    "line",
+     clumn":
+     },
+  pogam": {    type": "Proram,
+    "tt": 0
+    "end": 64,
+    "loc" {
+      "start": 
+      "lie: 1
+       column": 0    ,    "end": {
+       "line" 5,
+       "coum":1
+      }
+    },
+    orceype: "scit",
+  "body": [
+     {
+       "tpe": ClasDeclartin",
+    "star" 0,        "end":64,
+        "loc": {
+      "sart
+     "lie:1,
+           clum": 0
+         },        "en":
+          "ine"5
+           column: 1        }
+      ,        "id": 
+          "ype": Identifir,
+          start:6,
+         "end": 7,       loc": {
+            "start": {          "line":,
+            "comn": 6
+          },
+         "en":{
+             "ln": 1
+             "column" 7            
+        "ientifierName": A"
+         },
+       "nm": "A"
+      }
+       uprClss: 
+          "te":"Identifier",
+      tart": 16
+       "end" 17,
+          "loc":{
+            tart":{
+            "line": 1
+            "coun: 16
+           ,
+       "nd":{
+           "line": 1,
+              "column": 7
+         },
+          "idenifierName": "B
+        }
+         "nme" "B"
+       }
+     "body {
+      "pe": "ClsBoy",
+   "start: ,
+        "end" 64,      "loc"
+      "strt": {
+           line": 1,
+            column" 18
+           },
+           "d:{
+        "line"5,
+            "colmn": 1         }
+      },
+         "ody: [
+        {            "ype": asetho,
+         "srt": 24,          "end": 62,           loc": {
+             "strt: {
+                 "line":2,
+               "colun"4
+           },
+            nd": {
+                "line": 4,
+               "column": 
+               
+           },           satic":false,
+        "k" {
+               "tye": "Idetiier",
+             "tart: 24,
+               end":,          "loc": {
+               "sar": {
+              "ine: 2,
+                 "colu": 4            },
+          "en": {                  "lie": 2,             olumn": 1
+             ,
+               ientfiame": onsruor"               }           "name"costructo
+             },
+         "compud": false
+            "kind" "contructor",
+             "id": nul
+         geneaor": lse
+             "aync": false,
+            "arams": ]
+           body": 
+              "tpe": "Blockttmen",
+            "start": 38,
+             "en": 62,
+            "loc": {
+            tart": {
+                "lie": 2,
+                "column":18
+              },
+               "en":{
+                  "li: 4,              "column": 5
+             }
+         },                "body":[              
+              "tpe": xpessionStatmn",
+                 start: 8,               "end": 56
+               "lo": 
+                "tart" 
+                    "lie: 3,                     "colmn" 8
+                ,
+                   "end" 
+                     lin": 3,
+                     "cun": 16
+                                    },
+                    "exressin:{
+                 "type": "Calxpression"
+                 start": 48,
+                  "end":55,
+                  "o"{
+                     "stat {
+                       "line": 3,                   cumn": 8
+               },
+                    "end": 
+                      "in": 3,
+                 "clun 15
+                    }
+                  },
+               "calle": {
+                   "t Super",
+                    "stat": 
+                  "e":5,
+                    "o":                     "start": 
+                       "line":,
+                        "coum": 
+                   },                       "ed"{
+                       "lne":3
+                          "cumn": 13
+                                                          },
+                   "argments" []
+                }
+           }             ]
+             "diectves": []            }
+        }
+        ]
+     }
+    }
+    ,
+    drect": []  
+}

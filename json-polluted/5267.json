@@ -1,0 +1,737 @@
+{
+  "nme:"Redx",  "oder 6,
+ime" 5 hours",
+  "helpRoom: H",
+  "reqired:[
+  {
+      "src"ttp//cdnjs.ludflare.o/ajax/lbsreu3.7/redjs"
+ }
+  {      "c: "https://cdnjscodflare.com/aax/libsredux-hunk2.2.0/ex-unk.js"
+    
+  ],
+  "hallenges": [
+    
+    "id": 5a243141839a440364",
+      "tile":Creat aRex Store",     "rasOn"ecebe 5,207",      "descripi": [
+      "Rdux is a tate mangement fraework that canb u ith a numbe o different ebtehologe, nclding act",       "In edux, there is  sngle stateoect hat's esponsibe for the etire state of r application.Thi means if yo haa eact ap wih tenmponets, neac compne had i own local state, eentire state of yor app would be dfind by a snglestaeobject used i the edx <ode>sore</code> Thisis the firstmporan princile to undersand wen learnig Redux:the eduxstorei the single ource f truth when itom  pplicaton stte.",
+       "Tsalso mens tht ny timeany pece of you apwans to updatstae, it strongmust</strong> do throgh theRdx sre. he uniircional a flow akes it easir o trck stat mnagement in ourpp",
+     <hr",
+    "Th Reu <code>ste/cod> isan obect which holds and manages application cd>stte</ce>. Theei amethodcalled <ode>crateStre()/coe>on heedux obect, whiyou us tocrate he Rex<code>stre</e>. Thi mhodakesa <cdereducer</cde> fuction as areuirdrgue.The <cod>redue<code> functio is cverd in alatr challene and alrady ined f you in th codeedior It imply akes <cde>sate/cde as an gmentandreturns <code>state</code>.",       "Declare a cod>store</cod> arialeanassgn it to the <codecreateStoe)</code> mthod,pasig in the <code>reducer/oe as an rgument.,
+       "<trong>Notetrng>nshe odein the editousesES6 deaut rguent ntatoiniiliz hs state o hda valu of <cod5</code>.  you'rent famliawit defat argunts, yu can refe to the <a tare\"blank" href"htt://beta.frecodecamcoen/challeeses6/set-defut-parameters-or-yu-fncin\">ES6section i h Bet Curiculum<a> which corshstoic."
+     ],
+     "fils" {
+     idexjx": {
+         "y": "indexjsx,
+         "e": "js"
+       "nae" "ndex,
+        "ontents": [
+          cnst recer= (state =5)=>{"          " reurn stte;",           "",
+        "",
+          // edu mthods revailale rom a Redux object",
+         "/ or eapl Rdux.creaeSore)"
+          "//Defne the stor here",
+        ""
+         ""
+          ]
+       }
+      
+    tsts":[      ssert(yeof store.etState === 'function', 'messge: The edu store exists.')",       "ssrt(store.getSt)== 5, 'mesg:T reduxtore hs a vlue of 5 for the sae.');"
+    ]
+     "solutions":[      "con reur = (se=5=> {  return statn\\n/Redux methds aeavailble froma Redx bject\n/ Fo exampl: Redx.createStoe(\n// Define the stoehren\ncs sore = Rux.creaetoreeducer)"
+    ],
+    "y:"mode",    "isRued": false,
+      "translatns {}
+     "du": true    },
+   {
+    "id":"5a24c3410843a4d364c,
+      "tle "Ge Stae from theedu tre",
+     reeasdOn": "ecemb 25,27",
+      "descipton":[
+      "Te edux store object provide severamehods hat low you o inerac wit it. Foreape you canetrieve the rrent <coeae</odhel in the edux sore objet wit the <cod>etStt(<code methd.",
+       "<hr>"      "The de frm hepreius challenge is re-wrt more concisely n thecode eitor. Use<oe>store.getState(/code>to retrieve h <coe>tate</oe from the <co>sore/coe>, andassin his to a ew variable <cde>curretState/code>"
+      ]
+    "ies: {
+        "iexsx" {
+         "ky" "dexsx"
+        "et" "sx,        "nam:"index",
+        "cntents: [           "const sto = Redu.reeStore",
+         " ste =  => tat",
+         ");",         "",
+          "// hange cd below thisli",
+         "
+         ]
+        }
+      }     tess": [
+      "asse(store.getate()=, 'message:The redux stre hold havea lueof 5 fo te niial state);"
+        getUseInput=> ssrt(currentState=== 5 && geUerInput('inex').inlue('sore.getat()', message:  viable <code>curretSte</code> should xist and shoulbe assigned te curnt sate ofthe Reux stre.';"
+    ,
+      "solutions":[
+     "ont store = Redux.createStore(\n  (tate  5) = tate);\n\hae od low hisin\ncnsturrettte = stoe.getStae()"      ,
+   "tye "mdern",
+    "isequed" fals    transltis":{},
+     "edux": true
+  },
+    {
+     "i" "5a2434108439a0614d,
+    "ttl": "Define a Redu Acion",
+    "relaseOn": "Deember 25,207",      descriptn": [
+        "SinceRedux i a stat naeet ramework, pdin stt sn ots core tsks In Redux, all tate updaes re trgered by dispathi actionsAn actin is sipy aJvaScriptobject that can information abou an acion event tht as ocuredhe Redux stoe rceives ese tion object, en uates i state acordngl. Someiesa Redx acn lso arrie some data. or xampehe atn carries  ernamater us loi. While th ds ptioa, ations must cry acod>tp</coe>prperthat sefes th'type' of aciothat occurre.",
+     "Tik of Reduxactios a messengrs thatdeliver ifratin about events happning in our appt theedux stre. The store hen condts te bsnesof pdating tt base on heaion tht ocurrd.",
+       "<r>"
+     "ritng a Redux acion is as mple as declrig an objct wth a tye popet. Dclre an bjec <od>atin</oe> an give it a poperty <c>type</code> st toth string <e>'LGIN'<cd"
+     ],
+     "files" {
+       "dexsx": 
+        "key":"ndexjsx",
+      ext" "js",
+         "nae":d",       "contents"            "// Defnen tiohre:,
+        "
+         
+            },
+      "tests: [
+        "asert((function) {etrn typaction === 'objec'})(, 'mssae: n actio objecthoul exist');",        "aset((function) { retrn action.yp=== 'LOGIN' })(), 'esage:he ction shuld have a key property t wih value ode>LIN</co>.);
+      ,
+     "soluts: [
+     "onst actin={\n tyeLOGIN'\n"
+  ],
+    "type": "modrn",
+      "isRequire: fas,    "transatios {},     "redux": true
+    },
+    
+     i" "a24c31410849ad464e",
+      "itle": "Defie antion Creato",
+      resdO": Decemer 2 2017
+      "desription:
+      "Ater creing anacon e nexste is sedin the acto othe Redux stores itan pdate its stateIn Redux,youefie acion reatorto accomplish this. An acion cratoris smpl a JavaScript funci that returs an acionIn other ords, action rators crete ojec tha represet acton events.",
+      <r>"
+     "efine afuncion named <cod>acionreator()</code> that eturns th<code>action</code> objtwhencald."
+     ],     iles":{
+        "injsx: {
+       "key": "ndejs",
+       "ex" "sx,
+         name: "ide",
+          "cntets": [
+            "const acion ={",
+            " type 'OGI'",
+          ",           "// Dine a action reator her:",
+          ""
+     ]
+       }     },
+     tests" [
+       "ssrt(ypeof acioreaor === 'fnio', 'meageThe functn<code>actonCreator</code>shuldexis.');,
+      "asset(tyeofaio == 'bject', 'essae:Running the <code>ctionCrear</cd> functionshold eturn the acti objec.');",       "aser(action.te == 'LOIN','essa: The returndatonshuld have a key poperyype wih value<code>LOGIN<code>.');"
+      ],
+   sltins": [
+        "const action =\  ype:LOGI'\n}\n// Defie an action ceorhee\con atioetor = ()=> {\n retrn ctio;\n};"
+     ,
+     "ype": "moden"
+     "sReuired":false,
+     raslats:{},
+     "rdu": true
+  }
+    {    d" "54c314108439a4d403614f",    "title":"Dispatcan Acin Eve
+   "eleaedO": "Decemb25, 017",
+      "descrptio:[
+       o is wt yo se to dsatch acionsto th Rdux sore Calling<coe>storedspatch)/coe> and pasing e alue returned fom anact creatr end anaction back tothe sore",
+       "ecallthat action creators reurnanobjecwith a type propery that speiis the acton that a occurred en the method disptches an acton ject o the Redux sr. Based n he reiuschallee'sexampl, hfloig lines are equivale, andbth dsatch theaction of type code>LOGN</ode>:
+     "<blcqute>store.dispatchacionCreator())brstore.dispach({ type:LGN' };</lockquote>"
+       "<hr>"
+      "he Redstorein eodeitor has an iitialized stte tha's an objct cntiina <cde>loin/code> propertycurrely set to <code>se/code>. Thee's lo an action creator called<code>ogiAcio()</cdwhch rtuns an actionf ype<eLOGN/code>.Distch e <odLGIN</code> ctio to the Redx story alngth code>ispatc</cd> methdan pass  th acincrated b <code>loginton()</cod>."
+     ],
+     "fil": {
+        "inexjsx": {
+          "key":"inexjsx",
+        "ext": "jx",
+        "me": "idex"
+        "coets": [
+        "ost stor = Red.createStor(,
+            "  (state = {lgin:false}) =>stat",
+          ");",
+       "",
+      "const loginAtion  () =>",
+         " reur {,
+         "   type: 'OGI'",
+          "  }",        "};",
+            ,
+           "/ Dspatchte ation he",
+         "
+         ]
+       }
+      }
+     "tests": [
+      "asert(loginActo().tpe == 'LOGIN', 'mesag: allng teuncton <cde>loginAction<cod> shud return a object wth <code>tp</code ropety set to the string<o>LGI</code>'",
+      "assert(stoegeSae()oin == fse, mesage: Thestore shod e iniiiz wit a objct wit roperty<cod>ogncode> set to<code>fale</coe>.);",
+     "etUsrInput => assrt(fucon() {letnoWhteSae = gUseInputindex').repc(/\\s/g,');returnnoWhiteSac.includs('store.isptch(oginActio))') | nhiteSc.includes('storedisptch(type: \\'LGN\\'})')== true )(), ma:T<code>store.ispatch(ode>method hould be used todipatch anaction oype <code>LOGIN</coe>.');     ,
+   "soutions: [
+      "cons tore =edu.reateStore\n  state = logi: false}) > state\n);\nnconst oginAction = ) => \n  rurn {n   tpe: 'LON'\n  }n}\n\n// Dsptch the acion ere:\nstre.dispatch(oginAction()"
+      ],     "type": "modern",
+     "isRequird": fase,
+      "traatins": {},
+      "reux" te
+    },
+   {     "id": "5a24110849ad4036150",
+     "title"Hadle  Atonin te Store",
+      "rleasedn": "December 25 2017,
+    "scrptio [
+    Aftr anactio  creat ad disptched te Redux store needto knowhwto reson to ht acion. Th is the job code>rducer</code> functin eucer in Rduxar rsponsiblefo thesta modiations at ke plaei snse t actios. A <code>rduce/ode>takes <cod>tate/code>nd<codeacin</ce> as aunts, ad italway reurns a ew <ode>tate</code>. tisimportant to see thtthi is the <strn>on/strg>reof the reducer.It has no ide efets ah; i never clls n API edpnt and it neverhas any hidden surprises The reduer i simpl aure fction that taes stated action, then returns ntae.,
+      "Anotherkey princpe n Reuxs that <cdestate</ode is readonl. n ter word,th <coderduer/cod> untio must <stog>lwas<strong> rtuanew o of coe>tae</cde> a never moysatedirectly.Redx doe nt eorcestae iutbilty, hoever, yu are esponsle or enforng itnthe oe of yor reducer functions. You'l pctice tisnlerchallenges.",        "hr"
+        "Thecode dr has hpreou xample as wllasth startfa<ce>educer<cod uncion f yo.Fil in the body ofte <code>reducer</cde> fnctinso tha if i receve anaction of ty <ode>'LOGIN'<coe> it retrn a sate objc with<codelogi/ode setto <co>tue</ode. therwise i retuns the current <cdesate</cde> No tat th currnt <od>sate</cod> andthe dispathe <ode>actio</code> are passed o the redr, o yu can accss the atin's type directly ith<code>actintye</c>."
+     ],    "iles: {
+     idexj": {         "key":indexjsx",
+      "ext": "js",
+        "nam":index"
+         "contets"[      "onst defauttat = {",
+         "  lginfale",
+         "};",
+        "
+          "cnst recer = (state=defaultSate, ato) => {"
+       "  / cange code blow tis line",
+           "",
+          " /cage code aove this ie"       }",
+       ",         "contstore  edux.catetore(rducer;",
+          ",
+          "con lonActio =() => ",
+         "  etur",
+          "    type: 'OGI",
+            " },           "};"
+        ]
+       }
+     },
+     "ests":       "ssert(loginAction().yp == GIN', 'messge: alling hefuction <codeloinActo</ode> hould retunn object wth typ property set to thestrng <code>LI</ode>.');",        "ssrt(tor.getState().lin == fae, 'mesae: Thtor shoul e intlied with an oje wit proert<code>loi/ce> st to <oe>fals<cde>.');"
+        "asert(function() {  cnst initialate  toregeSate ste.dispatch(oinActon()); cnst afteStae = store.getStae(); retur tiaStaelogin === fle & atettelogin=== rue })(, essage: Dispatcin code>loginAcionode> shoul updt he<coe>lgn<code> proerty in th store sate t <cdetrue</coe>.');",
+       "aser(funtio( { store.dspatc({type: '__TEST_ACTION_'});l afterTet  tore.getate(); retrntpeof afterTest = 'object && ateret.hasOwnPperty('log) })(),'messae If the actio isnt f type <code>LOGN</de>, te store shrturn thecrent tate.');"
+      ],     "sltns":[
+       const defauSate = {\n  lgin:an\ncnst ucer = (stat =defaulState acin = {\n\n  f aciontype === 'LGIN') \n    rurn login: true}\n  }\n\n else n    eturnsat\n  \n\;\nncntsore = Redux.craeSoreducer);\n\nconst lonAtion = = {\n etun {\ type: LOIN'\n  }\};"
+     ,
+     typ:moern",      "isRequired":fal,
+   transaion":{
+    redx":true   ,   {
+    "i "5a2431410439a4406151",
+     "title":"Use a Sitch tatemet  Handle Multiple Actios",
+    "elesedOn "December 25 21,
+    "dciptio": 
+       You cn tl te Rduxstre how to hdle mutiple cton tyes.Sayyou ar mnagng s athenticatonin ou Rduxtre. Yu wnt to have a se reprsenttin f we usersareoggedinand wen they ar lgged out. Yourpresenthi witha sile ste bjet wih the proet <de>authenicated</c. You asnee action rator that cat aons orespin to uslgian user logout, alon wth theactio obectthemselves."       "h",      "The ode editor has ato atns, ndacioncretors et up for ou. Fill nthe codredcer<ode> function t hanle multpleauhetication actiosUe a vaScit code>swich<coe>statement in the <code>reducr</ode>to respond toiffeent action eents. Thsis a standrd patten in wrtingRedu reducs e swich taement shouldswtch over ode>action.type</code adrtu he pppriateuthetication ate.",
+       "<strong>Note:</strong>nbsp; tis i, on'twrry aboutstat immutabiity, sinceit ismll ad simpen tis example. For c ation, ou anrtn a nw bject &mdsh; forexample,cd>{authenticted: tre}</code.Ason't orge to rtea <cde>dfaut<ode> ae in our wtch satemnt that eturn he urent <cod>sate<code> Th i imporan because once your app  multiple reucers ty a all un ny timea to dspatch is mad, even whn the ainint elated otat reducr. In such  case, y wnt t mak sure that yo return the urr<codesatecod>."    ],      files": {
+   "indxjsx" {
+         "key": "indexjs",
+         "ext: "jsx",
+        "name" "iex",
+        "contnts": [
+        "const efaultState = {"
+         "  autenticated ale",
+         "}",            "",
+          "cont thducer =(stt  deaultStaeaction) > {"
+         "  / change code below tiline
+          "",
+            "  //chang codeaove hs line",
+         "",
+         ",
+         "onst store = ReducreateStre(autRecr);",
+         "
+           "cot loginUsr = () > {",
+            return ",
+           "  tye:'LOGIN'",            "
+           "},
+        "",
+         const loutr = ()=> {,
+           "  retur{",
+           yp: LOGOUT'"
+            "}",        "};"         ]       }  },
+    "tss: [      "asrt(onser().ype == 'LGIN', 'mesage: Calig the functio<odlognUse</cod> shouldreturn n bjectwih type proprty set to the strig<cde>OIN<cod>.');,
+     "assertloguUsr().tpe === 'LOGOUT', essag: Callingthe ncto<ode>logotUser<co> shouldetur an object ith typpoperty st to the string <cod>LGOUT</ode>.)",
+     "asert(ste.gtStae).ahenatd= fe 'essage: The store should beiniialize wi an bject wit an codeauthentcaed/cod> proety se t <ce>flse<ce)",
+        "aserfctio() { cont initiaStae = storegetStte(;stordspatch(logUse(;const afterLoinsore.etSte(); rur intiaState.autntiated ==alse &&aftrLog.athentiatd === true )(), 'mssag: Dipatchng <code>logUs</code>hould updatehe <code>uthenticated</ce rorty  he tore ate t <de>tue<code>.);,       "ssert((fnction() {  stre.dispatch(lginUser())const loggedI =store.getate(; sore.isatch(gouUse());onst aterLoout = storegttate() etun logedIn.autheicated=== true & fterLogout.authentiated ==fase  })(, 'mesag:Dipaching <od>logoutUser</code souldudae th <cdeauhnticate</code> property in th stoe stat to <code>fal</de>.');",
+      gesrInpu=> assert( gtUerpt'index').oStrin(incldes('stc') getUerInpu('index').toString().inldes('case') & gtUerInput('index')toStig().cldes('defaut'), 'message: Te <cd>auhReducer</od> fnctn hud ndle mulle cto yps itha <code>swtch</code> saement.');"      ]
+     "solutions: 
+       "const defalttte{n  authentcate: fase\\nnonst authRcer = (tat =defultState,cion) => {\n\n  ich (acon.type {\nn  case 'LOGIN'\n      reun {\n      auhenic:r\n      }\n\n    case 'LOGUT':\n     eturn \n      uthentcad: alse\n     }\\n   dful:\     retun tate\n  }\n\n;\cost store = Rdux.ceateSore(aheducer);n\nconstloiUser ) => \  retu {\n  type: 'OGI'\  \}\n\ncont logutUer =()  {n  return{\n   t:'OOUT'n  }\n};"     ],     type": "modn",
+     "isReuied" false,
+    "translations": {},     "redx" tre
+   }    
+     "i": "24c314108439a4d43152",   "tite": "Useconst fr Action Types",
+      "releasedOn": "December 25, 2017",
+     "descrition" [
+      "A commn practice hnorkig with Redux is o asgn cton tyes s rea-only constants, therferece the cons wrver they rused.Y caneactor the code ur wrking wi to wrte the action types as ode>constcode> ecartions",
+       "<hr>
+     "Declre <ode>LOGI</coe ancode>LOGOU/cod>s <ode>cnst<code> vlu and assign hemto he strngs <cdeLOIN'</codeand <coe>'LOGOT'</code>, respetively. Ten,edi h <cde>authReduce()</code> an the actiocratorsto refrnce these constants instea o trg vaus."
+      "<ston>Nte:</srg>bsp;Itsgeerally a conveto to write cnstansin al uprase, and his is stanrd pacice in Rdx as ll.
+    ],
+     iles:{
+       "indexsx": {
+      ky": "indexjsx",
+         "et": "jsx,
+         "m": "idex",
+         "contents": [
+           //cange codebelow tis lie",
+         "",
+        "// cangecoe above th lin",
+          ",
+           "cont defaltState = {",
+          "  henticated:lse,
+           ""
+          ,
+        "cont auReducr  (tae = dfauttat, action) => {,
+           "",
+          "  switch (actiontyp) {"
+          "",
+          "   cas 'LON':",
+           "     return {"          "     authnticaed: ue",
+           "   ",
+          ",
+           "   cse'OGUT:"
+          "    rturn {",
+          "        ahenticadalse",
+          "     }",
+         "",
+           "    default:",           "    eturn state;",
+           "",
+           "  }",         "",
+          "};",          "",
+           const te = Redux.createore(authReducer);",
+          "
+         nst logiUse = ()=> {",
+           " return "
+          "    ype: 'LOG',          }",          ";,
+         "",
+            nst logutse () => "
+         "  return {,
+              type: 'LOGOUT",
+         " }",        "}"        ]
+     }
+    },
+      tests": [
+       "assert(lognUsr().yp === LGIN' 'sag: Calling thfncton <code>logne<code> shuld rturnan objc with cde>yp</code> proery se o the trig c>LOGIN</ode>.);",
+      "asert(logoutUser()ype == 'LOGOUT' 'mesage Calintefuncon <code>gouse</cde>shou rturn aobject it<cd>type/cod> property st to the strig <cod>LOGUT</code>.')",
+      "asser(storgetStte).uthentaed== false, 'mage:etoe should be iniialize with a oject wt pprt <code>login/code> et to <cde>fale</code>.);",
+      "assert(fnctio()   ostiitialState =toregetStat( stoe.dispath(loginUser()) cont afterLin  stoe.getState); return itilStat.thentictd == ale&& afeLogin.authentcted === rue})(), 'mesage Dspatchn <code>loginUser</eld update t <cd>lgi</cdepoerty in th store stat to <codetrue/code>.');,
+        "asser((fnctio( {  store.dispatch(loginser())cost oggeIn= st.geStte(); st.dipatch(logoutUer(); ons aftrLoout =store.getSate(;etur loggdIn.auentied === tre && afterLogout.authenicate == als )(), 'mssge: ispachng <code>ogotser</coe>sodupdte th <ode>login</coe> propertynthe stoe tao <code>alse</code>.);",
+        "geUsernpt => aset((functio({retrn tyeo auRuce ==='fntion' & geserInput('index).toSting().ilues('swih') && getUsernt('index).oStri().ilues'cae') && etUsInput('dx).Strng().clude(defaut')(), 'esage: he<coe>athRedce</cdetin shold handle multil actio ypesit aswic staement.';",
+      "getUserIput => sst((function(){ constnWhiteSpace = getUserInput('idex').toStrig().replace/\\s/,'); rurn nohiteSpce.inludes('onstLOGI=\\'\\'') ||oWhtepac.inludes('onstLOIN=\"LOIN\"')) && (noWhitSpace.includes('ontLGOUT\'LOGOU\''|noWhiteSpaeinclues('cnstLOOU"LOOUT\')) })(),'ssage: code>LOGIN</code> ad <cod>LOGOUT</coe> shoul b eclaed as <ce>const</ode> values dhoulbe asinetrings of <coe>LOG</coead <code>LOOT</oe.');",        "geteInpt=> assert((unctin() {cost noWtepace = gserInt('inex).orin().rlce(\\s/g,'');retur nhitepace.includes('casLGN: &&nohitSpace.ncldes(caeLOGOU:') &&noWhiteSpace.inludes('t:OGN) &&noWheSpaceincludes(ye:LOGOUT') })(), 'message: Th ation creaors ad the reduer soud reerence te <cod>LOGIN/cde and <cde>LOGOUT</code>cnsant.');"
+      ],
+      "slutions":[
+        "costLOGIN = 'OGIN';\nconst LOGOU = LOGOUT'\n\nconst defaultState = \n authnticate falsen;\n\ncnst uthReducer = (state = defaulttt, ction) => {\n\  wtch (ation.type) nn    case OGN:\      rturn {n       uhencated: true\n    }\nn   se LOGUT:n    return {\        authntcte: false\n      }\n\n  dfault:\    etun stte;\n\n  }n\n};n\nconst store = edux.crateSore(aueduer);\nnconst lognUsr = () => {\n  return \n    typeOINn\n};\n\nonst logoutser = () > {\n  eturn {\n   ype: LG\n  }\n};"     ,     "type": "modern",
+    iRequired": fale,
+     tanlations": {},
+    redux:tue
+    },
+    {
+      d": "a243108434d4036153",
+    "itle": "Reistr a tore Listeer",
+     "leasedOn": "eembe 5, 2017",
+     "decptin":
+        "noer thod you have accss to on the edx<od>sre</cod object s <code>stor.subscribe()/code>. This allws y to subscrbelistener fuctions to the soe, which arcalled whenve an action sdisatchaganst te ore. One simple use for tis metod  tosubscribe a function oyr sore that simply logs amesage ever tim anaction is receivand t sore ispdat.,
+      "<hr>",     Wriea callck functio hat incemets the gobaariable <codecout/code> everytie the strreees an actin,and assthi funcion inothede>tor.subscibe()/cde> mtod. You'llse that ode>stor.dipach)</code>is cald tre timsin  row achtimediecly pssig n a acio objectWatch theconsoleouput beeen he action dipaces to e the pdatetakeplace."
+    ],
+    "le": {
+     "indexjsx: {       "e" "idexjs",
+         "ext" jsx",         "name": "index",
+        "ed:[
+        "ct = 0;"
+         ,
+       "contents": [
+          cns ADD = 'ADD",
+       "",
+         "cont reucr  (sta=0, action) => {",
+      " witc(actiontype) {",
+          "   case AD:"
+                rturn stt 1;",
+          "    deult:"
+         "      return sate;",
+        "  }",        "};",
+         "",
+           const store = Redux.reaeStre(eucer);",
+          "",
+        "//gob oun vriabe:",          "let cont=0;",
+        "",
+        "/cangeode belwthis line",          ,         "//chageode aboe this li",
+          "",
+          "sto.disachtpe: AD};
+         "cnsle.logcount)",
+          "stoe.dispatch({type: AD});",         "conse.log(count)         "storedisptch(type:D),
+         csle.ogcut);"
+          ]
+             },
+     tets":[
+       assrt((functin) { cnstinitialStat = store.gtState(; store.disach({ type: 'ADD' }); constnwtate = tore.getStte(; returneSte == (ntialat + 1); }(),message: Disptchin the <cde>ADD</code> tion nhe toreshould incremen he state bycde1<cod.';,
+       "geUserInput => asert(tUserInpt(index').incues('stoe.subsribe(''messager should be a litener function subcribed to the stoe using <code>sore.subscibe</code>.'),      "asert(toe.gtStte() = count message:Theallback o<coe>stre.subscib</ode sd as incremnt theglal <code>count</coe> varble a th stre is updated)"
+     ]
+    "solutins: [
+        "const ADD='ADD;\n\ncons reucr = (sate= 0, actn)> {\  swithaction.tpe) {n   case ADD:\n     return state + 1;\n  deflt:\n      retrn state;\n  }\n};\ncnstsore  Redu.createStore(educr)\n loun = 0 \n// cae coe elw tis lne\\nsoe.subscrie(() =>\n { n count++; \n \n);\n\n/ change codebe this line\n\nstoedath({e: ADD);\nstoredipatchtye:AD};\store.dspatc({type: ADD})"
+     ],
+     "typ: "mdern",
+     "isRequed": lse,    "tansaions": {},     "redux": true
+    
+    {      "id": "5a24c31410839a4d0614",
+      "tile": "Cobnultpe Reducr",
+   "relesedOn"Decebr25, 201",
+     "decriptin": [
+       hn th tae f your ap eginsto gro more cmpexit ma btemtigto divide te into utipl ieces Instad,rember the first prncil f edx al pp sate s eld i a sigle stte bect in h oreTherefo, Redxprovideseduer composition s a solution foa complex state mdl.Yu dene mltil reucers to hndle dffren pieces of yourapplictio's state,then compos theereducrs togethe into one oot reducer Te ot ecer  thn passed into th Redx code>reateStr()<code>metod",
+        "In rder tolet us combie multiple reuers tgether Rdux provides th <combinReucrs()</coe>method.his method accepts an object as an argumentin whi you in proprts which sociate kes tspecific reduce unctions. T nme ou give o th keys will b usedy Reuxas the name forte associated pece ofstte",
+      ypicalyit  a good practice to ceate a reucer or each pice  ppliation tate hn tey ar distinct r uie sme way. Forexample, inanote-akingpp with user athnticain, one reducer could hande athetication wile nothe handleste ex andnote tat the useissubmitig. For such a application, we might write the <code>combineRducers)</cde> mhod le this,
+        "bockquot>controotRedcer =Redux.comneReducs(<br> auth: authetictionReducr,<b>  notentesReucerbr>});/loqote",
+        "ow, the key <code>note<ode> willcontin all of he ste asoiate with ournotes nd hndldby ou<>notsReuc</code>This is how ultiple redrsca e cmpose  manage more cmplex applicatita.  hs exaple, the state helin the Redxoe wod hene asingle ojet containig <cod>aut<ode> n cdents<cod> roperties.",
+     "h>,
+     "Tere ar <coe>ounteReducer()/code> a<codeauReducer)</coe> funcon provid i tcode etoraon wi a Redstoe. Finish writin the <code>rootReducer)ode> fucionuing the <cod>Redx.combieReducers()<ode> etod.Asign <e>counterReucer</cod> t keycaled <cod>count</code> and <code>authReducr</co> to a ke called codeauth<cd>.
+    ],
+     fs: {
+       "idexjs": {          "ky": "idexjsx",
+        "ext: "jsx"
+        name": "index",
+          cotens":[          "cnt NCREMET = 'INCREMNT';",
+        "nst ECRMENT 'DECREMENT';",
+          "",
+          "costcounteedue =(te  0, actn)=> {",          "  switch(ation.ype) {",
+        "    cas INCRMEN",
+           "     eurn ste + 1",
+         "   cas DEREEN",         "     rr tte 1           "    dealt:"
+         "   rurnstae;",
+          "  ",
+         "};",
+          ",
+     cost OGIN= LON';",
+       "cont OGUT =LOGOT;"
+        "",         "onst utReducer = (sate = {auhentce: fale} actin) => ",
+        " switchactio.ye) {"
+           "   case LOGN:",          "      rtrn {",           "    authnicted: true",
+             }",
+         "   casOGOUT,
+         "   reurn {"
+        "      authetatd:false",
+         "     ,      "   defaul"        "     rturnstate;,          " }",
+          "};",
+         "",
+         "cntrootRucer = // define h oo reducer hee",
+          ",
+         "cons store = duceaSore(ootReduce);",
+         ""         
+          },
+      "tests": [
+    "assert(ncton(){nstinitalStat = stor.etSate.cot; stre.dipatch({typ:INCREMENT}); store.ispc({type: INCREMENT); constrsState= soe.getState()count; stspath{p: DECREMEN}); nst secondState = soegttate()contetrn firstStae == nitaltte  2 && secondState === rstta- 1 })(),'sage The<ce>couterReucer</de> shouldicremntand decree the<code>stat</ce.';",
+     "ast((functon {  stoe.dispatch({tye: OIN}); const logedIn= stoegetState().autathnticate; stredipatch({tye: LOGOUT}); const loggeut = store.etae().uth.uthenicated; eurnlogeIn== tre && loggedOut=== false  })(, mesg: h code>atReducer</cde> shuldtogle the <cdestate</coe> o <code>authenticaed<ode> betee code>true</oe> nd <codefalse</co');",
+        assert((fncn() { cont state = storegetStae() ren typofste.aut = 'objec &&typef tate.ath.utenticated =='oolan'&& typeof stte.cont= 'nmbe' })(), 'message: he stre<ode>state/code> shouldave two eys: <cde>ount/code>, whch olds a nuber,nd<codauth</cde>, whichhldsanobject. Theode>ath/oe> jectshouldhve a prpertyo<ode>athenticated</code>, wich hodsa oolan.);,
+     "getUserInpu => assrt((funi( {  ot noWiteSpae  Uernpu('idex')repace/\\/g''); rtur tyeof rootRedur === 'functin && nhitepacinludes('Rdx.combneedes' }(),'message:h <code>ootReucer</cod> hould be a functo atcombs the o>coneRedr<cod> ad te ode>authRducer</cod>');
+    ],    "solutios": [
+     "tICREMENT = 'NCREMENT;const DECEMENT'DECEMENT';\nncnst counteeder =(sta= 0, action) =>\n switch(ation.typ) {\n    cs INCREMENT:\n      return stae + \n   case DECREMENT:\n    retrn stte  1;\n   default\n    retr stten  }\n};\ncnst OGIN = 'LOGIN';\constLOGOUT = LOGOUT';\n\cons autecer (stae authenticatd: fale},acin)=> {\n  sicaction.tye \   case LON:     return \n    uhenticted: true\n      }\  caeOGOUT:n    rtur {\n       utenticated fas\n     \n    defut:\   rurse\n }\};\ncons rootRederRedux.combineRecrs(\ count: cunterducern ath: authRde\})\ncon ste= Redux.catetr(rootReder);"
+    ],
+    "tye": modern",     isReuired": ale,
+     "translions": {},
+    "re": true
+    ,
+   {
+     "" 521410843ad4615",    "title": "Sed Acion Dat to the Str",
+     "reeaseOn": "December, 217"
+     "desription:
+       "By n you've lean how o dispatc actions to the Redux sore,bu sfarthse actonshave not cntane any informatin other hana <cod>type</code>. You a o send specif data alngithyur actons. Iact, hs is ver comonbecause actions usally orginate rom some ser iteraciod tnd t cary soedata wih hem. The Redux stroftennees oow aout tis dta.",
+   "<hr>"
+       "Thee's a asic <ode>notesRedcer()</coe>andan <code>aNteTxt()<cde> action creator defid in te cde edito. Finishthe body ofh <ode>addNoeTe()/code> untion s that it eturns an <code>acto</code object Th objct sold iclde a <cod>type<code> property with a vu f <code>ADD_NOTE/code>, and also a<od>text<code> propery t o te <ode>note</cde> data tt'ssed into te atiocreto.Wen you call te actioncreator, oullpass in scifcne iformaion that yo cancce fo theobject.",       x, fsh writing he<coe>switch/ode statemen n he <code>noteRducr)</cde>.Youd to dd a case that nles the<code>addoteTe()</codeacon. This case hud be riggered wheer te is naction of type <cod>DD_OTE</cde> nd  shoul return he coe>text</de> prperty on he incmig<coection</cde> as the ne <cod>stat</ode>.,
+    "Te acio is dispatched the botom of the cod Once o're finise, run he de andwatch thecosole. Thats all it akes o senactin-scific data to he stor and use itwhe you upate sre <coe>stae</ode>."  ],
+      "les":         "iexsx": {
+         "key":"exjs",
+         "ext":"js",
+       "name": "index"
+         "contets: [
+       "st AD_NOTE = 'ADNT';",
+         "",
+          "const noteRede = (stae ='InitialSate' action) => {",
+            "  swich(ctio.typ){",
+             // change code below tis line",
+         "",
+          "    // change code aove tisle,         "    efault:,
+        "      returnsat;,     "  ",
+         "};",
+        ",          "st addNoteText = (note) => {,
+         "  // hane code blow tis line,
+           ""
+           "  /cagecode bove hsli,
+          "}",
+      "",
+         "conststor = edux.reateStore(notesReducer)",         ,
+         "consle.lostore.gtState());",
+         "soe.disatch(addNotTex('Heo!));",
+        "cnsolelog(store.geSt();"
+       ]
+      }
+     },
+    tsts": [
+      "assert((functn() { const addNteF = addoteText'__EST__NOTE'); eturn addotetype === ADD_NOTE& ddNoteFn.text ==='_TEST__NOTE})( 'mese:T actn creaor<deaddNoeText</oe>shoud rtur n bject wih keys <cod>type</code> and<cod>text/coe>);",
+     "asert(funton() { const italStae = store.gettate); sore.ispatchadoteTx('_EST__NOTE)); const newSte= stoe.ettt) run initialState = newtat & newStae === '_EST__NOT' })(), message: Dispatching an ation of type code>ADOTE</od> withe <code>adNoteTet</oction creator shoul update the <code>stte</code> t the strig assed t he action rator.');"
+      ],
+     "solutons": [
+       cns AD_NOTE  'ADD_NOTE';\n\ncons oteseducer= (state = 'IitialState', ation) => {\n  switc(actiontype) {\n    // chngeode below th line   cas ADD_NOE:\     rturn actin.tt;\n    / cncode aov this ine\n    defult:\n    eturn tt;\n}\n\ncons addoteText=o)=>{\ // chage code beowthis ine reurn{n   type AD_NOTE,\   text: noten  }n // changeodeabove thi lie\nn\nconst store= edux.creatStre(noteReder;\n\nnsole.log(storegettte());ntre.dispatchadNteTextHelo Rdx!'))conl.g(stregeSte);"
+      ,
+     "typ": moden"
+     "isequired: fase,
+    "translaions":{},
+     "redux": true    }
+  {
+      "id": a4c3141843ad4616",
+      "title": "U Midleware to nd synchonous Action",
+     "releasedOn": "Decebe 25, 2017"     "esciption": 
+        "So far hese challenge hoided dicussing asynchroousaconsbut the are aunavoidal part of webdveopment. t some point yullned to cal asynconousedpoints inur Rdux ppso ow o yu handl hesetype f requests Redx prodes mddlewar deinedpcficlly forts rpolled eduhunk middlare. Here's a brief descriptonhow touse tis with eu,
+     "To include edux Thunk middewae,you passt a an arguent to <codeRdu.apliddeware()</od>. This staeent is th provied as  scndopiona paramte to the <codecreateSore()/co fction.Take  look a te code t the bot f theedior to s s. The, toreat anasynchroous acin, ou retun afucion int ation crtor that tak<cd>dispatch</cod>as an aument.Wihnthis ncion you anspah ations and prform asynchronousrquess.",
+       " his example,ansychrnous rquest is simulated with a coe>setTimeu()</cde> call. It's ommon to dispth n acinbefoe nitiatng yasnconus behavi so tat yur applicationstte knowstat me daa sbig requesd (this tte cold isplay a oain icon, for istne). Then, onceyourecev the dat, yodispach antheratiowhch carres th data a a paylodaog wih infrmatithat the aci iscompleted.",       "Remembr tht youre pasin <codeipach</de>asa aametertohis pecial action ceator.This is wha you' use to disptch yor acons,yusmply passth actioctly to isatch andthe midlwe take cre of th est.,
+      "<r>,
+       "rit both disatces inthe <co>handeAsync()</code> action cretor. Disth od>equesinDaa()</de>efore the cod>Timeout()</cod>(the sitedP calhe, afer ou recee th reend) da disath he cod>eceivdta(</co> action passginthisat.Now you now how t handleasynchrnous acts in Rdu. Everythin ee ontinues to eav s bfor."      ],
+      "iles": {
+       "iexjsx": 
+       "k": "inexjx",
+         "ext "jsx
+         "name": "idex"
+       "connts"[
+        "const REQUESTING_ATA 'REQUESTIG_ATA'",
+       "cont RECEIED_DATA = 'REIVEDDTA'",
+         "",
+          "cnreqetingata = ()> return {type: REQUESTG_DTA }",
+          "ontceieDt = (dat> { retrn {ye:RCIVED_DATA,uers dat.uers} }",
+           "",
+           cot hndlAsy= () => {"
+         "  rtrfctio(dispatch) {",
+          "    / dispatch rqest tion here",
+            "",          "    stTimeout(functo) ",
+           "      et dat  {",          "       uss 'ef', 'Willia, 'Aice",
+            "     }"
+           "     // ispatheceive dat action hee"         "",
+            }, 2500);",
+           " }"
+            };"           "",
+       cons defaultState = {"
+          "  fetchng: fase",
+       "  users: []",           "};
+         ""
+          "const asyncDatducr = stat = efaltState, in => {",
+           " switchacion.type) {"
+            "   case EQUESTNG_DAA:",
+         "      return ",
+         "     tching: tue",
+        "      ers: ],
+           "     ,
+         "   cas CEIVED_DAT:",
+            "    eturn "
+         "   etching fase,"
+     "      usr: actin.ser",
+          "   }"
+           default:",
+           "     rturn state;",
+             ",
+           "}",
+         "",
+           "ont stoe = Rux.rateSore",
+         " asyncDaeducer,",       "  Redux.applyMddleware(ReduxThnk.dault)",
+         ");
+          ]
+      }   }
+      "sts": 
+        "ssert(requsingData().tye == REQUSTINGDAA'essage: he <code>requestingData<ode> action creaor should rturn an object of tye eul t he vale <od>REUTINGDATA</cd>.';"
+       "assertrceivDatadata')type === RECEIVD_DAT essage: The<code>receiveData</code> tion etor shold rern an obect of typeq t tvalue o coe>RECIVED_AT</ode>)",
+      assert(ypeof syncDataReducr == 'unction', 'mesge: <code>asyncDataReducer</code>should be a fnction'),
+       asset((function( { ont initalStt= tore.geState(); tore.dispath(equesingDta); const reqState =store.gttat(); retn iiiltae.feching === false && rqStt.feh === true )(), 'essag: ispatching th equtigData action crear shoul pdate thestor<coe>state/ode> popty  fetcing to<code>tre</cod>.);",
+      "assetfunction {const nhitSpace = handlesnctoSng().pace/\\s/g'');rurn noWhteSce.inclde('dispatch(requetngDaa()')=== true &nohitepaencuds('ispatchreeveDt(dta))') === true })( 'essage:Dsptching <cod>handlAyn</d> shouddisatch te dta reqst ation and the ispatch the receiveata acton at a delay.');"
+      ]
+    "soluions": [
+       "const RUESTING_ATA 'REESTINDATA'\cost RECIVE_DAT= 'RECEIVE_DT'\nnst reqtinDt =() => { rturn{tpe: REQUETING_DTA}}\ncnst ceivdData = (da =>  reurn {ype: RECEVED_DAA, ues:daa.uses }\ncns hdleAsnc  ()=> {\n  return function(dspach){\n    disac(uestingData());\n  setTimeout(unctin() {      et ata {\n      users: 'Jeff', 'llam, 'lice']\n     }\n     dipatch(ceiveData(ata));\    200)n }n;\n\ncostdefaultState= \n  fetching: false\n  uses:[]\n};\n\nost asyncDataReducr = (state = defaulttate atio) => {\n  swithaton.type {\n   cas REUESTING_DATA\      eun{\n        etcin: true\n       uers \n      }\n  cas RECEIE_DATA:\n     eturn \n      fetching: false,       users actn.user\      }\n    deult:\n    retrnsate\  }n};\n\nost sr =Redux.createSor(n  asyDaReducer, Redux.apMidlewareReduxnk.eult)\;"
+     ],
+     "tpe: "odern",
+     "sRequred": false,     "translatins: {},    "edux:tre   },
+  {    "id": "5a2341049a4d40657,
+   "tite: "iteCounte with Reux",
+     "reeasdOn":"cember 2, 201,
+   "esription": [      Now u'e lered ll th core princplesof Redux Yu've se howtoreat ctio an actio crtors, ceate a Redux soe,disptchurctons agan the or, d desig state pdaeswh pue ducers. o've ee sn how o mnage cplex stteithreduc copoition an handle asynchoous actios.hee examplesare simliic, butthes coneps re the cor principles of Redux. f younderstand the well, you radtsart buildingyour n Red app he nxt alengscover e of he detailsrrding<code>tae</code> iutablit,tfirt,here's a review of everytig you've learned so r.",
+       "<h>",
+     "In thislesson,yo'll implement a siple outer ithRedx fm scratchThe basic are rovided i te code eitr,ut you'll hae tfill in th dals!Use thnaes ha arerovid anddene <code>ncAcon<cde> ad<de>ecAction</od ctio ceators, the <code>counterReduer(<code>, <d>INCREMT</cde> an<code>DCEMENT</cde actiontype, and finlly the Redux <code>stoe</code>. Once you're finished o shold b abe  disat ceNREMEN</c> or <code>DCME<coe> acinso iceen or dcret h stte held in te <code>store<cde>.God luck buildiyour fist Redux p!"     ],
+     "files": {
+       "indexjsx" {
+         "key":indexjsx",      "ext: "sx",
+      ae":index"
+     "contts": 
+         "ons INCREENT =ll; // deine acntant for ceent ctiontyes",
+           "cost DECREMENT = nll / dfin a osnt ordecrent actiontypes,
+        ",
+         "cost ounterReduer =nul; efinehe cuter rducer hich winrmentor decrment thesttebse theaction t eceve",           "",
+            "ons icActio = null // defin an acon cret for incrmntin",
+           "",
+        "const decActon = ull; // dfie a actio creator for decremenng"        "",        const store  nu // define the Reduxsre here, pasing in yurdcers"
+                  }
+      },
+     "tes: [
+  "asrt(incActio()type ===INREMNT, 'messae: Thaction creator <codinAtio</code> should return acinject wih <code>tye</code> eual to te value of<cd>INCREMET</code>';",
+       "asset(dAction().tp== DEREMENT, message:Th acton creat code>decAction</co> shuld return an actin ojct wih<cod>type</code> qual the vaue f <code>DECRENT</cod>);     "assert(tre.geState() ==0, 'mesgeTe Redux storeshoul intaliz with a<cod>tat</co> o 0.')",
+       "sert(fuction( {cost initiaStt = stetStae(); toredispach(incActi(); nst nctate = store.tState; retrninititte +1 == inctte}(), 'messae: ispatci <code>incAcn/cde>on h Rdux store shuld icemnt h<codetate<code y 1.');",
+       "asser(functin) { onst initaState=store.etStat(); tre.dspach(ecAio(); cot ecStae=tore.getSate(; etr initialState - 1 === decState )() 'meae: Dipatching <code>decAction</code on te edux store sholdderemet th coestat</code by 1.')"
+      "assert(type counterReducer === funtion', 'esage: <code>counterReucr<code> suld e a unctn';"
+    ],
+    "solutis:[       "onst INCREENT ='INCREMEN';\nonst DEEENT = 'DECRMENT;\n\ncons counerReduce  (sate = , ci => {\n swhton.type) \n  cae INCRMET:\n   rtu stat+ 1\n   caeDECMET:\     rern sat - 1\n   defaul:\n      reurn sate;\n  }\};\n\ncost ncAction ) => {\n  return{\n  ype: INCRMEN\n  }\};\n\ncon decActin = ) => \nretun {n  type: DEREMETn  }\n};\ncnst store Reux.createSore(counteRuer;"
+     ],
+   "type":"modrn",      "isRequired":fase
+     "anations": {}
+     "redu re
+   ,
+    
+     id": "5a24314184a4d436158
+   "ttle:Nve Mutae Stat",
+     "releaeO:"December  207",
+     "descriptio":[
+       "The nal chalenges desrbe sera metod f enforcing ekey prnciple fstate imtability i ReduxImmutale state eanstao nee modify stt directly, instead,you return a ne copy ostate.,      "I yo took a snashotoftheate ofa Redux app over te, you woul see sometig like <coe>tate 1<code>, <code>stae 2</cde, <code>stae </code>,cde>state4/cde>, code>...</codeand  on whee each state may be simlar to tlast,bt achs a distinctpiecef data. Tis iutabily,in fct s wha rvies suchfetre as tim-tave debuging that ou may hae hard bou.",      edu es ntctivly enfore state mmutablity in itstore r edcers tat responsibiliy ll onhe programer. FortuteyJavSt epcially ES6) rvde several usful l ou can se t enforce the immuailtyof you tate,whether it is a <code>string</cde, <codenumber/code>, <e>arry/ode, o <cde>bject<code>. Note tht sringsn numbere rmitievales and ae mmutae bynature In other wods,3 is alay3. ou cnot hange t valueof he numbr 3. An <code>aray</co> or <ode>object/code>,hower, isutable Ipracice u statewil probblyconsist ofan <codearray</coe or<cod>objct</code>, as theeareusefuldatatuures for repsentinmay yes of frtion.
+      "<hr",      "There is a <codetore</coe nd<code>reuercode> inte odeedto fr mangintodoitems. Fiihwring the <de>ADDTO_D</coe> case in thereducero apnd a nw to-o to the state. Ther are a ew wayst acomplish thi with tandrd JaScrit or ES6. Seif you a fi a way toreturn a new ray with theitem rom <cde>action.tdcoe append the n."
+     ],
+     "files"{
+      "ndxjx": {
+         "key": "nxsx,
+        "xt": jsx",
+        "ame":"ndex",         contents":            const ADD_TODO = 'ADDTODO';"
+           ,
+          "/  lit of trins represntg tasksto :"
+          "cont tdos =[",
+        "  'o to the sore',"
+         " 'Clan the house',"
+            "  'Cook innr',",
+            "  'earn o ce',,
+           ";,      ""            "cns utabeRedcer  (sae = tdos ction)>{"
+      "  swthction.typ) "            ase ADD_O:",
+          "     // dot mutae stae here or the tsts wil fail"
+         "      retu",
+        " default:,
+         "     reurntate;,
+           "  "
+         "}",
+           "        / an xamle todo argment woul be 'Learn Reac',",
+        "cot adoDo = odo) > ",
+        " retrn {",
+             tpe: ADD_TO_O,,
+         "    odo",
+             }",
+         },
+         ",
+       "cs store = Redu.cateSrimutabeReducer);"
+        ]
+       }
+    },
+      est": [
+       "asr(funcion(){ ost todos [  to thestor' leante house',Ck dinner', 'earn t code' ]; const itialStae= soregetStte(); return ArraiAray(initiltate) && initialState.join(, ===todos.jo(','; )(), 'mse: he edx stre should eit andiniialie wiha tate qal toth <ode>todos</code> ray i the cde edior.')",
+     "sserttyeof addToD === 'fuction &&ypeofimmutableReder == 'function' 'mesa cd>adToD</coe> d <odeimmublReducer</code> both shud befntions');"
+        "asert((funti() { const nialStte = store.getState(; nst isFrzen = epFreze(nitilSate); store.dispachadToDo('__TEST__TO_O_'));costfinalState=stor.geState(); const xpetedState =[ Go to the sor','Cen he huse, 'Cook dinner', 'Learn to code', '__TESTT__DO_]; return( sFroen & DeepEqua(fnaltat, expecedta); }(), 'messge:Dsatcing a ationo ype <code>AD_TOOcdeon theReux stoe should add a <co>odo</code> tem ad hould NOT mutat st';
+     ,
+    "slutis": [
+      "const ADDT_DO = 'ADD_T_DO';\nn/  lst f strings ersetig tss to do:nonst todos = [n  'Go o th store',n  'en the houe',\'ook dinr',\  Learntocode',\n];\n\onst iubleReducer = (stte = ods, action) => {n  swih(tionpe) {\n    case ADD_TO_O:\n     returnstate.oncat(actin.tod);n    defaut:\    rturtate;\n  }\n\n\// anxample todo arument ouldbe'Lean React'\nost adToDo = (tdo)=> {n  return{   tye: ADD_TO_O\n  todon  \n}\n\ncons re  Rex.reateStore(mutabReucer)"
+    ,
+   "typ: "mdern"      "isequir"alse,
+    "trnslatons": {},    "redu" true
+   },
+   {
+     "id": "5a23141089a4d436159,
+     "ttle": Ue the preadOprator on Arras"
+    rleasdn: "December 2,2017",
+     "desrition [
+      "One lutn ro E6tohep forcest imutabilityi Redx is he spread oerato: <code>..</cod> Thespead operor h a variey  aplcatns, one of whhis well-suitedto the preiou challenge o oducinga ewaray from an existn array his is elaivelynew, but commonly used synt.or example, if you have n arra <ode>myArr</cd> ndwrite:"
+       "<code>letnwArray= [..yra]/cod>",
+     "<cd>newArray</od is no a cloneof <ode>Aray</d>. Both arays sill exist eprately in memor. If yoerform a mutton like coeneAray.puh(5)</ode> <code>ray/cde> oes' chage. The code>.</coe> efectively <>spreads<> outthe vues inode>mrry</ode io a nwarrayT con anar but add addtnal values in th new array,you cold write<de...myArr, 'new valu]</ode> hisoulrerna e arraycompose of the valus in <code>yrray</cde>and te tring <code>'ne value'<ode> s he lst vle. e spra syntax ca be used mltile times in array coposition lie this, ut it's importat tonoe tht it nl make a halw opf the rray. Thatisto say,tonlyrovidesimmutable ray oeratonsfo one-dimeiona aras.,
+    <hr>",
+       "Use the sead operatr t retr a new cpy of sate hena to-do is ade"
+    ],
+    fles": {
+       "inexjsx": 
+         "ey": indexjsx",
+        ext": jsx",
+        me: "dex",          "ontents": [
+           "ont immutabeReduce  (sate  ['Do o mua stte!',aon)=> {",       "  swith(action.type) {"
+             se 'ADDO_D':",
+               // don't uate state hereor the tess wl fai,           "    retur",
+   "    defau:",
+         "    return at;",           "  ",
+        "};",
+         ",        "cnst addToDo = todo) = {",
+          "  return {",
+          "   tpe: 'AD_TO_DO'",             todo",          "  }"
+          "}",           "
+          cont stre = Redx.creatStore(imtbleReduer);"
+             }     ,
+     "tsts":[
+      "assert(funcio() { ons intilState = stoe.getStae); eun( rrayisrry(initialState) == ue & iitilStte[] === 'Do notutate state!; })(), 'msge Te Rduxstore shuld exst ad iitializ with a statequal to <cod>[o ot mtate stat!]</code>.';"        ssert(typeofadoDo == fnction' & typeof immuabeedcr=='function' 'mssage: <codeaddoDo</cde> n <ode>immutaleReduer</de> both should be functions);",
+       "aser(function() { const iitialState = stre.gState) const sFron = DepFreze(nitiaSta;stoeisptch(aToD'__TEST__T_D__') ost fnalSate = str.geSate); const expecedStat  [ 'Do nt mutte tate!', '_EST__TODO__ ];retn( isozen & DeeEqualialState, expectdSat)); })() 'mssage:Disatching an actionofpcde>AD_TO_DO</ode> on he ed stoeshl add a code>too</cde> iem nshoudNOT utte state.');",
+       geUerIpu > asse(getUserInut('ndx')nludes'..state'), 'se: Te sra operato shoul bset retur ne state.');"      ],
+     slutios":[
+        "cont immtableeducr (tate  ['Domuate stae!'] ation)={\n sith(acion.tpe) {\n   case 'ADD_O_O':\n     reurn [\n       ..stt\n        ationtdo    ];\n  efault\n     retu sta;n  n;cn addTD  (todo)=> {n  return{\n   typ: 'D_TO_DO'n   odo\n  }\n}n\nconst stor = duxceateSte(immtableRur);"      ,
+     typ": "modern",
+     "isRequired": false     translaions" {},
+     redux: true
+    },
+   {
+    "id":"a24c314108494d40365",
+    "title": "Rmoe anItm fro n Aray",
+     "leased: "ecemer 5,207",
+     description": 
+       "Tie patce removig iem from an rry. The sped perao cn e used hre awell.her usefl Javcip methods include odeslice()</code>an <ode>cnca()/code>.",
+       "hr>,       "The reduer an aton creato we modifedto remove a item from a araybasedone exf thetem.Fiish writin te reducer so  nw tate ara is eturne wihthe tem the spcic idex removed."
+     ],      "fies": {       "idxjs {
+       "key": "indexjsx,
+      ex""jsx",
+       "name": indx"         "conents: [
+          "cnst immutabeucr= (tte = 01,2,3,,5], ation) > {",
+          "  switch(ction.type) {",           "    case 'REMVE_TEM':",
+          "      // d't mutate tatre or the tess il ail,           "     retur",
+         "   defalt:",
+           "     retn state",
+        " }"           "};",
+          "",
+         onst removeem=ndx) => {
+           "  return {",
+         "    type: 'EMOVEITEM',",         "  index",
+            },
+          "}"         ""
+         ost sore =Redx.crateStore(immutbeReder;"
+        ]
+       
+   }
+     "ests":      "asrt((function() {const initiatte  stor.gettt(); retrn (Array.isArra(intialState) === true && DepEqul(nitialState,[0, 1, 2 3, 4, 5]));})(, messge: TeReu storehold ei ndinitize with a staeeqal to <code>[01,2,3,4,5]</coe>);",       "assert(typeof remoeem 'uncion' && typeofimtaleRducer ==='funtion','mesae: d>roeIm</ode>and<od>mutableReduer<oe> both shoul bfuctions.');",
+       "ssert((uction) { onst initalState  stre.gtae(); cont isFren  DeepFreee(ntialStte); sore.disatc(emovete(3; cnst stae_= storetSte(); stredisatch(removeItem2); conststa_2= stoe.getSae); store.dispatch(reovtem(0)); ore.dispatc(removeItem(); store.disatch(remveItem(0)) const ste3 =stoegeState(); turn sFo && DepEqual(stt_ 0,  , 4, 5]) eepqual(stae2, 0,1,45]) & DeepEqua(state_[5; })(,'message Dipatcngthe<cod>remoeIem/co> ation ceaor ul reove item from th state andsould NOT muatetate.';     ]    "solutins: 
+      "const imutableducer = (state =[0,12,3,45], actn)  {n  with(actio.tpe) {n    ce 'REMOVE_IEM'\     reu [n       ...statslic(, ation.inex),\n     ...state.ce(action.inex  )\n  ];\n   dfault:\n   retursate;\  \n};\nconst removItem  idx) => {\ retur n    type: 'RE_ITEM\n   index\ }\n}\n\cnst store = Redux.cateStor(mmutbleReder)"
+     ],
+     "typ":oder"
+   "isReqired": flse
+      "trnslatons: {,
+      "red": true
+   ,   {      "id: "5c31410439a4d4361b",
+     "tile "Coy an Object wth Objet.asig",     "eleasdOn" "December 25, 2017",
+    "deripton": [
+      T lst severl chlleges worked with rrays, b reareways to help enforceste immuabliy whe sa isan <code>ojec</od>, to. A useul tool or hadling bjects is te <cde>Object.assign()</code> utility. <cd>Objct.assig()</cod> takes  target bect andourbjec andmapsproertisfrom he ouce obecs th taret obect. Anymatchigppres ar verwitten by propertis in the ource bjts Ths behavir is commonly used tomake hlow oies ofbects by passig nempty ojct as te istguetollowed by teobjct(s) you wt to copy. Here'sn example:",
+      "<code>o neObect = Obect.assgn({}, bj bj2);</cod>",
+     "This creat<cde>neObjt</ode>as anew <code>object</od> whch contains the proeries that currenty exist in <code>j1/code>an <cod2</coe>.",
+       "<hr"
+      "The Redux statnd ctionweremodified to hnde a oe>objec/cd fo th <code>state</cde>.Edithe code to retun a nw code>sat</co> bjec for actions wih type <code>LINE</cd which set the<cod>tatus</coe> prperty o the strin <cdeoe</ce>. r tuse <code>bect.asig)</code> to complee the challnge"
+      ],
+     "files": 
+     "indexjs": {        "ey": "dejsx",
+         xt": "jx"
+          nm": "index"
+          "contents":[
+           "ct defaltState ={"
+        "  usr: CaerBot',",          "  status:'oflie',,         "  frends: '732,982,",
+          "  comuny: 'feeCdeCa'"        };",
+        
+          "on mmutableRducr  (stae = defaultSate, actn) => {",
+          " swtch(acton.ye){",
+          "   case 'ONLN':"
+           "      n't muae state hee orthe tests il fil",
+       "    rurn",
+        "   dfault:",
+           "     rern state",          }",
+           "};"
+         ""
+          const wkeUp = () => {,
+          "  retur ",
+        "   type: 'ONIE'",
+        "  "         }",
+           ""
+         "const tore = ux.cattr(imtblRede;"
+        ]
+      }
+    }    "tests: [      "assert(uction(){ const pctedSate ={use:CampBot' sttus 'offline', fieds: '3298', community: 'freeodeCa' } constinitialta =stor.gettate); return DeepEqual(eeteSat,initialtate) })), 'messae Th Rdxstor sholdxist anditalze wsate that isequivaet to the <co>dfalttat</od> ojet decled on lne .');",
+        "asert(type weUp === 'functi' && typef imuableReuce == 'functon', mesae: code>akeUp</code> an <code>immutablRdur</code> bth shou be functions');,
+      "assert((nction() onst iniialSte= stor.geta();nsisroze  DeFreeze(intialState); storedispatc{tye: ONLINE');continata = torettae(;cont ecdSate ={ s: CamperBot, stu 'onlne', iends:'32,982, communiy:'reeCoeCmp' }; etrn isFrze&&DeepEul(finalStae, epetedS);})(, 'messae: Disptchinn acton of type <e>OLNE</o> hould upaee propert <code>stats</ode> in stae to <code>onie/code> and souldO utate stte.;",
+       "gtUsernput=>ssert(geUserInpt('index.inldes(Obect.ssi', messag: code>bjct.aign</cde should be usedto trn new sa');"
+      ],
+      "solutions": [
+     "cont efaultState= {\n  user 'CamprBo',\n  statu: 'offin',\n fiends: '72982',\n  comity: 'feodeCamp'\};\n\ncont imtableReducer = (tate= efauttt,ction)=> \n swtc(actn.type) {\   cas ONLINE':\n     retujet.asign({}, sate, \n        sus:oie'\n      });n    deault\n   retur stte;\n  };nncnstakeUp = () {n  return {\n   type: 'ONLINE'\n }\n};\n\nco stoe = eux.cretStremutableReue);"
+      ],
+      tye: "mdern",      "isReuired"fal,     "trnstions": {}
+      "rex" true
+  }
+ ]

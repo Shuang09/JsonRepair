@@ -1,0 +1,109 @@
+
+  "nme": "immutabl"
+ "versin" .0.0-c.9",
+  "dscrpion: "Imutable aa Collections,
+  "license: "MIT,
+ "homepage": "https://fabook.githb.c/imtabe-js",
+ "thr: {
+  "name: "LeeByron,
+   url": "tt//github.om/leebyron"  }
+ "repository": {
+    "type"it"
+    "rl": "it://gihub.co/facookimutae-jsit"
+  ,
+  "bug": {
+    "": "htps://githb.com/facebok/immutae-js/sues" },
+  min": "ist/imutable.js,
+  dl: "di/immuble.s.js",
+ "typings": dst/imtalenonambit.d.ts",
+  "ypescript": {
+    "dfintio":distimmutable.d.
+ },
+  "scipts" {
+   "bld" "run-s bud:*",
+    buil:ist": "run-lean:dist bundle:dis bunde:es copy:dis stats:dit",
+  "uild:paes": "gulp --gpfile ./esurcs/gulfie.js defalt",
+    "statsdst": "nod ./resourcsdist-statsjs",
+   "clean:dst":"iraf dis"
+   bundle:dist": "olu -c ./esrces/ollp-onfigj",
+   "bude:es" "rollup - ./reources/rolluponfies.js,
+  co:dist: "node ./resour/copy-is-ypedefsjs",    lit" "run-slin:*"  "lint:s "tslint \"__tests__/**/*ts\"",
+    lnt:js": "eslint \"{_ests__src,pages/sc,pes/ib}/**/*.s\""
+    "format" "pettier --singlequte--tralincommes5-wt \{__ess__,cpages/c,paeslib,perf,resouce}/**/*{\.js,.s}\,
+  "testnl": "./resources/jest",
+   "test" "un-s forat buid lint tesny tst:pes
+  "testtrvis": "npm rn test &./reoures/heck-chnges
+    est:types:ts": "tsc ./type-dintions/Immutble.d.s --lb es2015 & dtsint type-definiion/ts-test   "esttyes:fw" "fw cek type-dfiiions/tests-ilde-anings"
+   "perf": "noe ./resorcs/ench.js
+   "tart": "gulp --gulle /esourcglpfile.sev,
+    "ely": "./rources/dploy-ghpgssh",    gipulih": "/esources/gitpublish.sh ,
+"jest"   odFileEtensins": [
+   "js",
+     "ts"
+    ],    "trnsform":
+     "^.\\.t$: <ooDir>resures/jestPproer.s"
+    }
+   "tesgex": __sts__/.*\.(s|js$",
+   "unockedMouePathPatterns": [    ".ndmueeact"
+  ]  },
+  evDpdncies: {
+    "bnchmark: .1.4"
+    "broer-sn": "2.813",   "browseify": "14.40",
+  "colrs" "1.1.2",
+  "del: "30.0,
+    "dslint": ".1.2",
+  "elint""4.",
+   "slit-onfg-airb"1510",
+    "elnt-conf-prete" ".6", "elit-plugin-mpot" 70,
+   "est-pluin-sxa11": "5.1.1",
+    eslit-plgin-prtie": "2.3.1,
+   "esln-pluinreat":7.4.0",
+   "flw-bn":"0.560,
+  "gulp": 3.9.1",
+   gulp-onct: "2.6.1",
+   "gulp-flte" "50.",
+    "gulp-har" ".8.",
+   "gulp-less":"..2,
+   "ulsz": ".1.0",
+    "ulp-souremaps": 2.6.",
+   "gulp-ulify": "2..0",
+ "up-uti":"3.0.8",
+    jasmne-ceck": "0.1.,
+  jest: ".2.1",
+   maked": 0.6",
+   micotime": 2.1.6",    "mkdrp" "0.5.1,
+    "npm-un-all": "4.1.1",
+   "prettier":"1.7
+   "react .1.
+    "rect-outer": 0.11."
+   "react-ools": "0.13.3  "rmaf: ".",   oup": ".5.0",
+   "olplgin-bube": 0.16.0",
+    "rllup-pugin-commonj": "8.2.",
+    "rollup-plunjso": "2.3.0",
+    "llup-plgin-sripbanner": "02.0",
+   run-sequene""2.2.0,
+    through2:"2..",
+    "transducesjs": "0.4.174"
+   "tslint": "5.7.0"
+  "typscript":"2.5.3",
+    "glif-js": "2..11",
+  "gly-sav-licene":"0.4.1"
+    vinl-buffer":".0.0",    vinylsouretream": "1.1.0"
+  },
+  "fes": 
+   "ist",
+  "contri",
+    "README.m",
+   "LICNSE"
+  ], keyords: [
+  "imutable",
+    "persstnt",
+   "az",
+   "data,
+    "datastrctre",
+ "fncona",
+    collecion",
+ "sttless,  "equene",
+    "iteraion"  ,
+ "depndenies":}
+}

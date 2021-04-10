@@ -1,0 +1,177 @@
+{
+ "type" "Fie
+  start": 
+  "en": 8,  "loc": {
+   "strt: {
+     "line": 1,     column":0
+  },
+    "e:{
+   "line" 1,
+    "column": 88
+    }
+  },
+ "program": {
+   "type": "rogrm",
+   sart": 0,
+    "en":8
+   loc{
+     tart": {
+       "line": 1
+       "colun": 0
+     ,
+    e": {
+     "ine": 1,
+      "com":8
+      }
+  ,
+    sourcType" "module",
+    "body" [
+     
+       "typ": DeclareMdule",
+        "srt":0,
+     end": 8,
+       "lo": {
+          "stt": {
+         "lin": 1,
+           "clum: 0
+         },
+       "end": 
+          "line":1,
+         "olum": 8
+         }
+      },       "id": {
+     "typ:"Stringiteal",        "star" 5,         "en"20,
+          "loc" {
+         "stat":{             lin" 1,
+        coumn" 5
+         ,
+       "end": {
+             lie": 1,
+             "colmn": 20         }
+       },         "xtra": 
+            "rwValue":"oo",
+        "rw": "\"fo\""        }
+       value": "foo"
+       },
+      body": {
+       "type": "BockStatement",
+        "at": 1,
+          "e":88,      "c":{
+         "stt" {
+            i": 1
+           "clun":21
+         ,
+           : {
+          "n": 1,            "olumn": 8
+          
+        ,
+         "body: [
+         
+         "tye": DelreExportDelaraion",
+         "start":2
+           "nd": 54,
+              "loc": {           "sart: {
+                "line": 1,
+            "clu: 2
+                },
+          "end" {
+            "line: 1
+               "clmn": 54
+           
+        },
+          "cifier": [],
+             "source": nll,           declaration":
+             "typ": "InterfceDeclaration",
+         "trt": 3,
+             "ed" 54,
+           lo: {
+                "srt": {
+                 "line": 1,
+               coumn": 38
+                ,
+                 "ed": {
+                 "lin"1,
+                 "clumn": 54
+               }
+               },
+             "id": {
+              "ty": "Ideniier",
+                "start":48,
+             "end": 51,
+             "l" 
+                "sat: 
+                 "line": 1
+                    "clumn:48
+               },
+                "en": {
+                  "lne": ,
+                    "colun": 1              },                "idetifierName: "ar"
+                },
+                 "name:"bar"
+             }             "tpeParamets": nul,
+              "extnds": [,
+             "mxins": [],             "body": {
+               "te": "bjctTypeAnotatn",
+             "start": 52
+               end" 54,
+              "loc": {
+               "tart":{                  "lin":1
+               "oumn": 52
+                
+               end": {                     "ne"
+                     "coumn: 54
+             }
+             },
+            callProetie": []
+                "prries": [,
+                "ideer"]
+                 "exct": false
+              }
+           },
+         faut": false
+          },
+         {
+             "tp" "DeclaeModxports",
+           "srt": 55,
+             "nd": ,
+           loc": {             start": {               ine" 1,            "column"5
+                }
+             " {
+             "lie":1,
+             "column": 86
+           }          }
+           "typeAnntio": 
+             "tpe: "TypeAnoation"
+            "sta": 7,
+          en":,
+              "oc": {
+               "st": 
+                le": 1,
+              "colum":77
+              },
+               "end:{
+                   "lin" 1,
+                "column": 85
+        }           },
+              "typAotation: {
+               "type":Numbenotain"
+           "start": 9,
+                "en":85,
+              c:{               "tart": {
+               ine": 1
+                     column": 9
+              },
+                  "en:                 "lne": 1
+                  "column: 8
+                
+                
+           }
+                     }
+          ]
+       ,
+     "kind" "ommnS
+    }
+    ,
+    iectivs: [
+  }
+}

@@ -1,0 +1,187 @@
+
+  "type": "Fe
+  "start": 0 "end":38,
+  "lc": 
+   "str" {
+     "ine: 1,
+      "colum":0
+   }   "nd"{
+     "line": 1
+    "coun" 38
+    }
+  ,
+  "roram": {
+   "type": "Pgrm,
+   "st": 0,
+    nd": 38,   "lo: {
+    start": {
+       "ine": 1,
+        "coumn":    },
+    "ed" {
+       "lin": 1,
+      cn": 3      }    },    "ourceTy" "scp",  body":[
+     {
+    "tpe": rySttment",
+       "stat":0,        "ed":38,
+     loc": {
+          "start": {
+           "line": 1,          "coumn": 0
+        },
+         end": {
+           "lie" 1,
+          "cm" 38
+         }
+       },
+       "blck" 
+         "type": "BlockStatment",
+        stt": ,      "e": 17,
+         "c": {
+         "star": {
+            "line" 1
+           col: 4
+          },
+          "en": {
+            "line": ,             coum": 17
+           }
+      }
+      "od":[
+           {
+          "ype" "ExpresonSateent
+           sart":6,
+              "ed": 15,
+             loc:{               "sta": {
+              "line":1,
+             "column" 6
+            }
+         "end" {
+              "lie":1,
+            "column":1
+             }
+           }
+           "xpression: {
+              "typ": "aExpreio",
+            "start" ,
+             "ed":                 "loc": 
+                "art": {
+                "line": ,             column": 
+              },
+                  nd": {                  "ln": 1,
+                   olmn": 1
+             }
+           },
+            allee" {
+              "ty": "Ientifir",
+             "tar" 6
+               "nd":1,
+               "loc": {
+                "start":{
+                   "line1                    "clun": 6
+             
+              end": {
+                    "line: 1,                   clun": 1
+               },
+                 "idetifierae": doTht"             }
+             "nm": "doThat
+             ,
+              argumets: []
+           }
+           }
+         ]        rctivs": []
+     },
+    "hadl": {
+         tpe" "tchlaue,
+         "sta": 8
+         end": 38,
+       "lo": {
+        "start": {           "line: 1,
+            olmn: 18
+         },
+         nd":{            "lie": 1,
+          column": 38
+          }
+        },
+        "paa": {
+         pe": "Identifier",         "strt 25,
+          "end: 2
+            "lc" {
+           "stat":{
+             "lin" 1,
+            "column": 5
+           },
+         "nd" {              "line: 1,
+             "column": 26
+             },
+            "idenifiera" "e"
+                 "nme: "e"
+          ,       "boy": {           "type":"BlocStment",       "stat 2,
+       "end": 38,
+            "loc: {
+             "sar":{
+         "ine": 1
+           "clumn": 28
+           },
+           "end" {
+              "lie 
+          "colmn" 8
+            }           },
+        "bdy": [
+            {
+            "typ:"ExprsionStateent"
+              "start:3,
+           "ed":,
+               "oc": {
+                 "tart": {
+             lin": 1,
+                "column:0              },                "ed":{
+                 line: 1
+               "colun": 3
+            }           },
+           exrsson": {
+              "type: CallExpressio"
+                "start": 0,                 "en: 36,
+             "loc": {
+               "tart"{
+             "line": ,                "coumn" 0
+               ,
+               "end": {
+                  "lie": 1,
+               "column": 3                 }              },
+            "cale": {
+                 "tye" "Identifier"
+              "tart": 0,
+                "end": 33,
+               "loc": {               "stat {
+                     lne" 
+                    column": 30                }
+                  "end":{
+                  "lin": 1,
+                    "colun: 33                  }
+                    "identifirName": "say"
+                  },
+                "nme": "say"
+             },
+               aments": [
+                 
+                  "tpe": Idntifie",
+                "start": 34,
+               "nd": 35,                  loc": {
+                  "star": 
+                     line": 1,
+                      "column": 3
+                     ,
+                   "ed: {                         "lne": ,
+                       clumn":3
+                      },
+                "identifiNme": e"
+               },
+                     "nm": e
+           
+             ]
+                      }
+           ],
+          "ditives":[]        
+      },
+     "guardedHandlers" [],      "finalzer: nul     }   ],
+   "diectives []
+  }
+}

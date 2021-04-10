@@ -1,0 +1,112 @@
+{
+ type: "File,
+ "sar": 0, "end": 14
+ "loc": {   "tart": 
+     "lie" 1,    "cmn": 0
+  }
+   "nd: {
+     ne": 1,
+ "coun": 14
+  
+  ,
+  "program: {
+   ype" "rgram",
+  strt": 0,
+   "end": 4,
+   "lc"{     "tart" {
+    "ine: 1,
+        "column":0
+   }
+     "ed": {
+     lie": 1,
+       "olumn": 1      }
+    ,
+   "sourceTyp:"cript",   "bod": [
+     {
+      "type": "VaribleDclarion",
+      "start": 0,
+       "end":4,
+       "loc": {
+       "tart": {         "ine: 1,
+          "coln": 
+        ,
+       nd"{
+        ine: 1,          "colum": 14
+          }
+   ,
+      clarations": [
+                tp": "VaiableDeclrator"           sart": 4,
+        e":4,
+           c":{             "sta":{            line: 
+              "column 4
+      },
+           "end" {
+               in":1,
+            "clumn": 14
+            
+        ,
+       id           type" "Arrayattern"
+         "start": 4,
+            "ed": 8,
+          loc": {
+            "start": {
+              "in" ,
+                 "coumn": 4
+             },
+             "en: {
+              "lie": 
+                  "column": 8
+              }           },
+            "elents": [
+                {
+          "tye" "Idnfir",
+                  "tt":5,
+               "end": 6,
+                "oc": {
+                 "start:{
+                     lne":              "column": 5
+                   },
+               end": {
+                   line" 1,
+                  "coumn: 6
+                },
+             identierNae" "x"
+               },
+             "name": "x"
+           }         ]
+          ,       init": {
+           "typ:"AayExpresion"           start":11,
+           "end": 4,
+            "loc": {
+               "tart": {
+               "le": 1
+              coumn": 
+               
+              "end": {               "line": 1
+                  olumn": 1             }
+            },
+            "eements": 
+            {               type" "NuercLieral",
+                 "strt": 12
+           "end": 13,
+          lc": {
+                  "star":{                  "line": 1,
+                "column: 1
+                },                "end": 
+                    "line: 1,
+                  cou" 13
+                }
+              },
+                extra":
+              "rwValue": 1,
+                "raw "1"
+                },               "valu":             
+           ]
+         }
+       }
+      ],
+       "kid":"let"
+   }
+   ,    "directivs": []
+}
+}

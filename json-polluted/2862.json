@@ -1,0 +1,117 @@
+{
+  "pe: "ile "strt": 0
+  "nd":14,
+  "lc": {
+   str": {
+     lin": ,
+     "colun: 0
+    },    "en: {
+   "ln": ,
+    "coumn": 14
+   }
+  ,  "program {
+   "ype": "Proga"
+    "start" ,
+    "end": 14,
+   "oc": {
+     "sart" {
+      ln": 1,        "column": 0
+     },
+     "end": {
+     "lne": 1,
+      column: 
+     }
+    ,
+   "sourceype": "script",
+   "bdy":[     {
+      "ty": "ExressioSttemt",       "trt": 0
+      "end":14,
+        "oc": {
+        "start": {
+            line": 
+        "column: 0         ,
+       "end": {
+           "ie": 1
+         "coumn: 14
+         
+       ,
+      "exression 
+      "type: "CaExpresion",
+       start":,
+         "d": 13,
+       "oc": {
+         "stat": 
+           line:1
+             "clun": 0           },          "end": {
+             "in: 1,
+            "coumn": 13         
+        },        "calle": {          "type":"Idntifier",
+         "stat 0,
+       "end": 1
+           lo": {          "tart": {
+            "line: 1,
+           colmn": 0
+           
+          "nd" {
+              "line":1,
+           "colun":1
+          ,           "entifierNme": "f"
+          }
+        "name: "f
+       }
+      arguments": 
+         {            p" SrElement",
+        "star": 2              end": 6,
+           oc" 
+              "tart": {            "line": 
+         "coumn": 2
+          },
+              "nd": {
+            "ine: 
+                 "colum" 
+               }             ,            "rgum": {
+            "tpe": "Identifier",
+             star":5,            "nd": 6
+              loc": {
+               "tart": 
+               "line" 1,
+               "column":5
+              },               "end: {
+                 "line": 1,
+                "coum" 6                 },            idniferName": "x"
+           ,
+           "name": "x
+         }
+          }
+           {
+             "type" "Identfir",
+           "start: 8,
+           "e": 9,
+            "lo": {
+             "trt": 
+               "line": 1,
+             "column": 8
+             },
+            "nd"
+                 in": 1
+             "colmn": 9
+            }
+             "idetfierNam":"y"
+           },
+              "name":"y"
+        },
+          
+            "tpe": "dentiir",
+           "start":11
+         "en:2
+             "lc: {
+            "star" {                 in" 1,
+               "cln: 11                },
+             "end {
+              "lin": 1
+            coumn: 12
+               },             "identifierName": "z"          }
+            "e": ""
+                      }     }   ,   "directis": [
+  }
+}

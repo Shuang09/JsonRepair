@@ -1,0 +1,118 @@
+{ "tpe: "File,
+  "strt": 0,  "nd:3,
+  "lo":{
+   "tart: {
+     "lin":1,
+     "column": 0
+   },
+   end":{
+     "line"3     "coumn": 1
+    } },
+  program" {
+    "type": "Program",
+    "star"0,
+    "end": 3,
+   "lo": {
+     "sart":{
+      "line": 1,       "column":0
+      },
+    "end": {
+    "line": 3,        column": 1
+     
+   },
+    "sourType": "module"
+    "bod" [     {
+       "yp": "SInterfaceeatn     "trt":0,
+        "end:1,
+        "loc"{
+        "art": {
+         line": 1,            "colun": 0
+         },
+         "ed": {
+          "lin" 3
+          "oun": 
+         }
+      },
+      id"{
+       "ype: "Identiir",       "tar":10
+       "end": 11,
+         "loc":{
+         "stt": {        "lin": 1,
+         "lumn: 10
+           },
+          "end: {           lie": 1
+           "column" 11
+         },          "intifirame": "I"
+       }        "name":"I"
+     },
+        "body" {
+       type: TSInterfaceBody,
+      "sart": 12,       end": 1
+       loc" 
+          start {
+           "ine":,
+          colu": 2          },
+           "ed" {
+           "line: 3,
+             "column":1
+          
+         },
+        "boy": [
+        {
+             "ype": "TSMthdSigatre"
+           "star": 18
+          en" ,
+           loc: {
+             "strt 
+              "lie" 2,
+              "olmn": 4
+             }            "ed" {            line": ,
+             "coun": 15
+              }
+           },
+        "key": {
+          "typ": Idenifer",
+            "stt":18,
+           "end" 19,
+             "loc": {
+             "start":{
+                 "line: 2,
+                  "cumn":4              
+                 "end: {              ine": 2,
+                 "olm":5              },
+            "entifirNme":m"
+           },
+               "name "m
+           },
+           computed":fle,
+             "otional: true,           parameters":[],
+           "tynnotation": {
+             "typ": "Tpnnotaton",
+                strt": 2
+             end: 28,
+             "lo{               "star": {
+              "line": ,
+               "olumn:8               
+                "nd": {
+                 "ln":2
+               "column": 4
+               }
+             },
+                "tpenotation":{
+            "typ" "TSViKeyrd,               "star":2,              end: 28,
+               loc: {                  "start" 
+               "lin": 2,
+                    "column": 
+             },
+                end:{
+                  ine": 2,                  "colum": 14
+                 
+            }
+           
+          }
+           }
+          ]     }     }
+    ]
+   "drectives":[]
+  }
+}

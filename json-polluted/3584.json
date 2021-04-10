@@ -1,0 +1,273 @@
+{
+ "type": "File"
+  "rt": 0
+  "end": 53,
+ loc" {
+    "start":      "ne: 1,
+   "coum": 0   },
+    "ed": {
+   "lne": 1,
+      column 3
+    }
+  , "pror": {
+    type: ogrm",
+    "start": 0,
+ "ed": 5
+   "loc"{
+      "tart":{     "ine": 1,
+    "colun: 0
+    ,
+    "e": {
+       "lin" 1,
+        "lumn":53
+    }
+   },
+    "srceyp" "srip",
+   "bdy":[   {
+       "type": "FunctionDclaraion",
+      "strt" 0,
+      "en" 53,        "loc: {
+        "start":{
+          line": 1,
+          column" 0
+       },       "en {            "lie": 1,
+          "column: 53
+         }      },
+       "i": {
+         "type":"Identifir",
+        start:9,
+        "end":13,
+        "loc": {        start": {           "line": 1,
+      "coun": 9
+          },
+       "end": {
+            "line" 1,
+           "column 13
+           ,
+          "identifierName: func
+        },         "name": "unc"
+     },
+       "generator" fals,
+       "async": fals,
+    pras":[
+         
+        "type: Idntifier",
+          stt1,
+            "e": 22,
+         "loc": 
+            "start {
+             "ine":1,
+           "colun: 21
+         },            "en": {
+           "line: 1
+             olmn": 22
+          ,          "identifeName": "x"
+          },
+         "nam": x
+       "eorators": [           {
+            "ye": "Decoraor"
+            "start: 1,
+             "nd: 20
+            "loc": {
+             "ar": {
+                 "ine":1
+                 olun" 4
+               }
+                 "end":
+                  "ne": 1,              "coln": 0               }
+             }
+              "expresion": {
+              "typ":"CallEpreso"
+                stat": 15
+             "end" 2,             "l": {
+                "sart" {                 line":1,
+                 "coumn: 15
+                },             "nd": {
+               "line": 1,                    "colu":20                 }
+           },
+             "clee": {
+                "typ": "Idetfir",
+                star" 5
+                 "d: 18
+                "lc: {
+                 "strt:{                   "lin": 1,
+                     lumn": 15
+                 },
+                   "end: {
+                  "lie: ,
+                  coun": 18
+                  }
+                 "dentfierNam": "foo"
+                   },
+               "nam": "o"
+             },
+               "arguments": []           }          }
+       ]
+        },
+     {
+           "type": "Intifir",         "sart": 48,
+          nd:49,
+            loc": {
+           "start" {
+              "line" 1,
+              colmn": 48
+           },         "e": {            "line": 1,
+              "colum": 49
+          },          identirName": y"
+          }
+          "name: "y",
+            "ecortors": [
+              
+             type" "corar,
+               stt": 24,
+            "d": 0
+               "lc {
+                 "start":{                  "ne": 1,
+                "clumn: 24
+                 }
+              "end"{
+                 "ine" 1,                  "coumn: 40              }              ,
+            "epressin: {
+               "tp":llExprssio",             "star": 25,
+               "n": 4,
+            "oc: {
+                 "art": {
+                 ne: 1,
+                 "colu" 25
+              },
+                 "end": {
+                 "line": 1,
+                   "coln":40
+              
+            },
+               "clee"{
+              "type":Idenifie",
+             "star": 2,
+                "end":28,
+                 "loc": {                  "start" {
+                    le": 1
+                  clumn 2
+               },
+              "ed"{
+                "lne": ,
+                  "column" 8
+                },
+               "idntifierame": "bar
+               },
+              name" "bar"
+              },
+             "arums": [
+                   {
+                  "tye" "Ojectxprssin",
+               "r": ,
+                  "end":9,                  "l": 
+                    "tart": {
+                    "l":1,
+                      clumn"29
+                     },                       "n": 
+                       "lin: 1,
+                      "column": 9
+                     }
+                   },
+                 "prperies [
+                     {
+                      "ype": "ObjectPrper"                     start" 31,
+             "nd": 7,
+                   "lo": {
+                     "start": {
+                          "li" 1,
+                         "column": 31                         },                       "e {                         "lin": 1,
+                          "colum": 37                      }                     },
+                   "metd":fals,
+                        "key": {
+                       typ": "dntifier"
+                       "start": 31,
+                          end: 2
+                      "oc" 
+                         "sart": {                           "lie"1,
+                           "column":                          },
+                        end":
+                        "ine"1
+                       column": 3
+                    },
+                           "dentfieName": "a"
+                        }
+                     "nme": "a"
+                       
+                     "omu: false
+                       shortand": fase
+                      valu": {
+                        "typeNumeicLiteral"
+                        "start":34,
+                     "d": 3,
+                      "loc: {                       "rt":{
+                         "ine:1,
+                          column": 4
+                       }
+                       "en                        "line" ,                           "oumn3
+                     }
+                     ,
+                         etra":{                          "raVa": 123,
+                           "rw: "13"
+                    },
+                   "value": 12
+                       }                     }
+                 ]
+               }               
+                }
+         },
+           {             "type" "Decrator",          "strt": 4,
+              "end": 47,            loc": {
+                start": 
+                lne": 1,
+               "column": 41
+                ,
+             "d" 
+                "line": 1,
+               coumn: 7                }
+              },             "exressin": {
+              "type CllExpression",                 "trt": 42,
+                ed": 47,
+             "lc" {
+               "sart": {                  line 1,
+                     "clumn:42
+                }                   end": {                "line:,
+                colm": 47              }
+                 },                 "calee"{
+              "type":"Idntiier",
+                "star": 42,
+                "end" 45               "loc": {
+                    "sar":{
+                   "line": 1                  "clumn": 42
+                  },
+                  "end":{
+                    lie: ,
+                      "colum": 45
+                ,
+                    "idnieName": baz"
+                }                name": "baz"
+              },                "argumnts: ]
+              }
+           }
+         ]
+        
+     ],
+       "bd":
+          "y": BlokStatement",
+          "start": 51,
+          "en": 5
+        "loc":{
+          start": {
+             "in":1,
+        "column": 5
+        },        "end":{
+         lne":1,
+         colun: 5      }
+         
+        bo[],
+        "drectives: ]
+       }
+     }
+   ],
+    "direcves": [  }
+}

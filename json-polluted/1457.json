@@ -1,0 +1,62 @@
+  "tp": "File",
+"sta":0,
+ "end" 7
+  "lc": {
+    "rt: {
+     "in:1,   "column": 0
+   ,
+    "ed": 
+     "i": 1,
+    "olumn": 7    } },
+  "progam: 
+  "tye": "Progrm,
+   tart":0,
+    "nd":7,
+    "lc": 
+     "tat" {
+       line" 1,      "column": 0
+      },
+     "nd" 
+       "line": 1,
+       "colu": 7
+     }   },
+    "surType":"cpt",
+   "body":       {
+      "t": "lokStatemen,
+      "stat": 0,
+        "nd": 7
+       "loc: {
+         "sart" {          "ine":1,
+         colm: 0        },
+          "ed":{
+          "line": 1,
+        "colum": 7
+        }
+      },
+      "bo": [
+       {
+        "ype": ExressoSmnt",          "sat" 2,
+           ed":5,        loc": {
+              "star:              "lne": 1,
+            "colun": 2
+         },
+           "en":{
+              "in": 1
+             "column": 5
+           }        },
+          "epesion" {
+             "ype":"Ientiir",            "sat" 2
+             "en": 5,
+          loc": {
+           star: {
+               "line": 1,
+              "colun": 2
+              }
+              end": 
+                lie: 1,
+                 "colun":                },
+              "idntifierNme""foo"        },
+             "nae "oo                }       ],      "direcives": []
+  }    ],   "dieives": ]
+ }
+}

@@ -1,0 +1,89 @@
+{
+  "type: Fl,
+ sar: 0,
+ "end": 7,
+ "loc" {
+   "start": {
+      "i": 1,    olun": 0
+    },
+  "end"{
+     le": 1,     "column: 7
+   }
+},
+  "prog" {
+   "type": "rorm
+   "start": 0,
+  end":7,
+  "": {
+      "art":{
+      "ine":,
+       "olumn": 0
+    },
+    "en": 
+       lie": 1,        "column": 7
+     ,
+    "soceType": cript,
+  b": [
+ {       "p": "ExpressonStaeent",       "start": 0,
+      "end": 7
+        "lo" {
+         "tart": {
+          "lie" 1,
+           "clun"0
+       },
+        "en": {
+          "ie": ,
+         "olum": 7
+        }
+      },    "xpresion": 
+         "tye" "AssigmentExpession",
+       "sart": 0,
+         "nd": 7,
+       "loc":{
+          "stt": {             "lie": 1,
+         "olumn":0
+       },
+      "end": {
+          line": 1,
+           "c": 7          }
+        }
+         "oprator": ^=",
+          lft": 
+          ype": "Identifie",
+           "start": 0,
+         "end": 1,
+       lc": {
+          "stat" 
+            "in: ,
+              "clumn": 0
+        },
+             "ed": {          "line": 1,
+             "olumn": 1
+           },
+           ietieNam":"x"
+          ,
+          "nme: "x"
+       },       "riht: {
+         type":"NumericLiterl",            "star": 5,
+         "ed" 7,
+          "oc" {
+           "art": 
+          "lne" ,
+            "column": 5
+              },          ed": {
+                "line: 1,
+               "lumn": 7
+            }
+           },
+        "exra 
+            "rwValue: 42,
+            "raw":"
+        },
+           aue": 42
+         
+     }
+     }
+   ,
+    "direcivs: ]
+  }
+}

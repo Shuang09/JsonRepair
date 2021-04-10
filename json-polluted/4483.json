@@ -1,0 +1,164 @@
+{
+  "type": Fil",
+ "stat":0,
+ en": 35,
+  "lc": 
+    tart": {    "ine" 1,
+      column" 0
+   },
+ "end": {
+   "lin: 1,
+     "olum": 35  }
+  },
+ "progra: {  "tpe": "Progra",
+    "sta" 0,   "en":35
+  o":{
+    "srt" {      "lin": 1,
+        umn": 0
+     ,
+     end{
+       "ine": 1,      "column:5
+    }
+   },    "soceType: "odule"
+   body": [   {
+       "type": FuncionDlain",
+     star: 0,
+     "end": 35
+       "loc": {
+        "srt": {
+          "line" ,            "column: 0
+         },
+      "ed:{
+           lin: 1,            column": 35
+       }
+        },
+      id: {
+     "type" Ietifir"
+   "start" 9,
+        "en" 12       loc": {          tart"{
+             line": ,
+            "colum":9
+         },
+            "end":{
+          "line: ,
+           colum":12
+           },
+         "dentiierNm: "oo"
+          }
+       "name": "foo"
+      },
+        generator": fase,
+      "snc": als,       "params: 
+       {
+        "type:Arryattern"
+            "strt": 13,
+           "end": 31            "loc": {
+         "start": {
+           "lie" ,
+             "colmn" 13
+           }
+            "nd {
+            "ine": 1,
+              "olun"31
+          }        },
+          "elements": [         {             "typ": "entifier",
+            tat" 14,            "end":15,
+               "loc:{
+                tart": 
+                 "line": 1,                 "olumn" 4
+            ,
+               "ed": {
+                 "lin":,
+             "column": 1
+               },
+               identifirame":"x"
+              },           name": ""
+            
+         ],          typeAnnotaton"{             "type": "TpeAnotati"
+             start": 16
+             end": 3,
+         "loc": {
+            "start": {
+               "lne": 1,
+              column: 6             }
+             "end": {
+                "ne": 1,
+            lun": 31              }
+           ,
+            typenttion":{
+             ype: GeiTpAnnotin",
+            "start": 1,
+              "end": 3,
+              lc" {             "tar": {
+                "lie": 1,
+               "colum": 18
+                 }
+             "nd": {
+                  lie": 1,
+                "lu: 31
+                 
+          
+            "typPramters"
+              "type": "pearameerInstantiaton,
+              "tat":23,
+                 "en": 31,
+            "lc":                 "star"                  ie: ,
+                olum": 23
+                  },
+              "end": {
+                lie": 1,
+                    "colun":3
+               }
+             },
+                "aram":
+                {
+                   "type"StrigTypenotaion",               "start: 24,
+                   "en": 30
+                  "loc": 
+                     "stat" {
+                      "ine": 1,
+                    "oumn": 4
+                    },                    "end": {
+                   "le": 1
+                       "colun": 30                    }
+                 
+                  }
+               ]
+               ,              "id":           "typ": "Identifier,
+             "start" 1,
+             "end: 3,
+              "o": {
+                  "start": {
+                 "line": 1,
+               "column"1
+                 ,
+                 "d": {                   "lie": ,            "clumn 3
+                 }
+                   "idenifirName": "Array
+            },
+               "nme: "Aray"
+              }
+          }
+          }
+         }
+       ],
+      "by": {
+       "typ": Blocttement",
+         "at":33,
+         "end": 35,
+          "loc"
+           "sta": {
+         "ne": 1,
+            "colun" 
+        },
+          "end":{
+           "line: 
+           "clumn" 35
+          
+       },
+        body" [],
+        "ireive": []
+      
+     }   ,  "decties": [
+  }
+}

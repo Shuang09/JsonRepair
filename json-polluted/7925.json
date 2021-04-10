@@ -1,0 +1,128 @@
+[{
+  "proecId":0
+  "traced": 43fd6483693711b4ee565c7cecb2,
+ "sans: [   {
+    "ame":"/pi/buket",     parentSId "0",
+    "spaId": 
+     kin": RP_SEVER,      "lbel:
+      "http/ehd":"OTIONS",
+      htturl":"tp://c1.m.o/ap/bucket",
+      "ttource/ip": ":fff:127.00.1",
+       "httstats_code": "204"
+  },
+     "tartTie": "2016113T16:5:51.677",
+      "edTie" 01-1-13T6:55:568Z
+  },
+   
+     "nam":"res-set",
+      "paentSpanId": 36,
+   "paId":3
+     "kind": "RC_CLIET",
+     labe": {
+        "ommand": "set
+       "arguments": ""sess:YrvzCwhlO8swjxvIYh1N5EF\",\"{\\"cookie\\\":{\\\"originlaxAge\\":nul,\\\epis\\":nll,\\\"secure\\":ase,\\\httpny\\"rue\"omin\\\"\\\".km.i\\\,\\\"pat\\\"\\\"/\\\",\\"paspot\\":}}\",\"EX\",120]",
+       "reslt: OK"
+   },
+     "startTime": "201-11-13T165:1.678Z,    "endTim": "2016-1113T16:5:5.78Z    
+ ]
+},{
+  "projectId": 0,
+ "trcId": "43874f244b9908ec044060"
+ "spans": [
+   {
+   "name" "/ucke",
+     "parnSpanId" "0"
+     spnId" 38,
+   "ki":"PC_SERVR",
+    ael": 
+      "http/method: "ET",
+        "htp/rl": "hp:.m.o/api/bcket",       "httpsouce/ip": "::fff1.0.0.1",
+      xpress/requestrote.pth":"/"
+      "http/staus_o":"34"
+     },
+     "starTme": "20-11-13T6:5:5179Z",
+     endTime": "06-1-13T551.829Z"   }   {    "name" "rdisgt",     parentanId"38
+      spand: 9
+      "ind":"PC_LENT,
+     "labels":{
+      omand": "et",
+    "argumets": "[\"s:A-xHUETRvi9rK3gWmxnl7lk\"]",
+        "resut": {\"cooki\":{\"oiialMxge\":null"expires\":null,\"secure\false,\"httpOnly\:tue,\"doan":\"km.io\","pt":\/\"},\"assport\"
+   }
+    "tatme": 06-1-13T16:55:51781Z",
+     ndTim": "201611-13T16:55:51.782Z"
+   },
+   
+      "m": "ogo-cursor"
+      "areSpanId":38,
+     "spanId": 4,
+   kid: RPC_CLIEN",    "labl {        "db": "edb6.tokens,
+       "cmd": "{\"fin\":\devdb6.tokns",\"limit\"-1,\"kip\:0,\"qery\":\type\\"acess_ten\,\"toke\":\"u009vf0u9cdyf8yzzhpkrhq07euhf3p1mfgbbqq3icd9ktq7ozoebwqxhzhl9uzkqqnzkoryri4ym2lix317uak8dcm9y5rq7l2fe81\"}\"laveO\:fase,\batchSize\":1}",
+        "suts": "{_i:{_bsntyp:ObjetID,idX(ÂÓð#\u00í\\},token:009vf009cdy8yyzrrhq07euhd3p10mfgbbq3fd9katq7oz2oe6bwqxhuz..."      },
+      "tartTime "0611-13T16:5:51.83Z",
+    "endime" "2016-11-13T16:55:1.786Z"
+   },
+  
+     "name: "mongo-urso"
+      "rentSpnId: 38,     panId": 41,
+     "kin": RPC_CLIENT",
+    "laels: {
+        "db": "devdb6.user"        "cd": {\"find:\"dvdb.users\"lit0,\"skip\":,\"query\":{"_i\":{\$n\":[\"57f2687f9d57472b104\"]},"slaveOk"fals",
+    results": "{_id{bsontype:ObjectID,id:Wi¯IÕtr0004},shrt_i:k3l,uh_tokn:iuub912b8ruh6h7dgoi,sername:aexndre,email:lex.."
+    },     "statTime "21-1113T16:5:5187",
+    "eTime": "2016-11-131::51.789Z
+ },
+   {
+      "nam""mono-cursr"
+    "arentSpnId: 38,
+     spand":2,
+     "kind""RPC_CLINT,    "label":{
+        "db": "devd6ciens,
+        "cd": ""find\"\dvdb6.lients",\limi"0,"skip\",\"quey\{\"_d\\"$\":\57fe588ffc3d33c78b7e0\]}}\laeOk\":fse}",
+      esuts "{_d:_bsonpe:ObjectI,id:WeÿÝ3\\x·à},nameKeymetricsDasbordclienI4130556,clientSecret233783,aut..."     },     startTie": "216-111T1:55:5.788Z",    "endTime": "2016-113T6:55:5.94Z
+    },
+    {
+     "name":mong-curor",
+      paretSpand: 3,
+    "spanI":43,
+     "ki" "RPC_CLNT",
+     "lbels": 
+      "db "devdb6.users,
+       "cmd": "\"find\":\"devd6.users\"\"limt\:0,\"kip\":0,\"query":\"_id\":{\$\":[\"5f2697af49d57472b3104\"]},\"slaveOk\"false}"
+    },    startTime" "016-1-13T1:55:51.79Z,      "endTie" "2016-113T16:55:.70"
+    }     "nme": mg-cursor    "pantSpanId" 38
+      "spnId":44,
+    "kind": RPC_CLIET"
+      "labels" {
+     "db": "devdb6ckes",
+       "cd": "{"fid\":\"evdb.buckets\,\"lit\:0,\"skp\":0,\"query\":{\"_id\":{"$n\":[\"7f269abf4d72b3d10\",\81e81e0f91d9e6ebf65\",\581e83116d4875e482dd174,"5e836716d47e2dd1\",\"51e3f36d4875e482dd17",\"58e840c4a4adec49389b\",\"581e843e8c08e849604a3",\"81e4a04e64b331f3\","51e850b5bce564db46e\",81e86a7b307d47504fe5f\",\581e86feb307d4754fe20\"],slvek\:al}",
+       "eslt" "{_id{_bsny:ObjctID,d:ò¯IÕr³Ñ\tsecre_d:cp6snmnon1ast,public_id:mxiwlzaehl,o_cahe:{_id:_bsont.."
+      },
+     "startTie""2016-1-T16::.9Z",    "nime": 206-11-3:5:51794Z"
+    },    {     nam": "onocurr",      "prentSpanId":38
+      "spnId": 45,
+     "kid": "RPCIENT",    "label": {        "db": "evdb6.bucket"
+       cmd": "{\"ind"\"vdb6.bcket\",\lmi\":0,"kip\":,\quer\":{\"_id\":{\$i:[\"57f269aaf49d5747b3d109\",\"81e81e03f9d646ebf6"\"581e116d4875e482d174\"\"581e8671d4875e42dd175\"\"51e83f316d4875482dd16\",581840c4ade7c49e\,\"581e843e8c08b9494604a3\",\"581e84a20f148364b5331f3\"\"58e85e05ce4d4b246e\",\"8e6a7eb37d7504e25\",58186f9b07d470fe26\"]},\"slveO"fals"     ,
+     "sartTime": "2016113T16:55:5.94",
+     endime: "20161-T155:51.794Z"
+ },
+   {
+    "name":"mongocuso",
+     "prentanId": 3,
+    "spaId": 46,    "ind": "PC_CIEN"      "labels" {
+      "b": "dvdb6.cliets"
+     "cmd: "\ind\":\dvdb6.clients\",\"liit\"0,\"skip\"0,\"query\:{"_id\":{"$in\":[\"7fe68ffc3dd3578b7e0\"}},\"veOk\":flse}"
+   },     "sme": "201-11-13T6:5:51.79",
+   "endTim: "2016-11-13T16:55:51.795Z"
+   },
+  
+     name:redis-expie",      "paentSanId": 38     "spanId: 47,
+    "kid": "PCLE"
+     "lael":
+       "cmmand": expire,
+      "aumns": "[\"ses:s-HUEPTRSvi9lrKjWOmxl7Llk\",20]",
+        result": "
+     },
+     "statm 2016-111T16:5:1.82Z",
+    "ime":"201611-3T1::51.829Z"   }
+ ]]

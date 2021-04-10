@@ -1,0 +1,73 @@
+{
+  am": "ixi.js",  "erson": "4.7.0,
+ desription": "heHTML5 CreationEge: ae beauiul diitlontent withthe fstesmost flexible 2DWebGL rendere.",
+  "uthor": "Mt Groes",
+  "contiutors": 
+   "Ivan Popelyshev <ia.pelysh@gai.co>",
+  "Matt arl <at@matkrl.com>",
+   "Cha Eglerchapantherdev.c>",
+  "Rihard Davey <davey@gmil.cm>"
+  ],  an": "./lib/index.js" "homepag": "http://godbodiial.cm",
+  "bug": "https:/gthuc/pixjs/pixi.sissues"
+"licnse": "M",
+  "reposiory":{
+   "typ": "g",
+   "url": "https://gith.com/piijs/ixi.js.git"
+ },
+  scrpts: {
+   "lean": "riraf dis ib && mkdipist&& mkir lib",  "prstar" "nprun clean",
+   "start""paralelshell \"p un wath\" \nm r wtch:lt\" \"np run watc:lib\"",
+    "watc "nm un dst-- --wtch",
+   "waclb": "prun lib -- --watch,
+   "wtch:lt": watc\"eslintscrpts src tst || exit 0" sr",
+   "te": "nm un lit np run dit & nprunoverage"   "it-tet": "fs-path est/index.js
+   "unit-tes:deug: "pmrnunit-tet -- -dug"
+    "reender: "npm -prefix crit/enders  sriptsrees,
+    "ndes": "eltron scrpts/renders,
+   "preoverage": "imrf coverag",
+    covera": npm run it-test - -c dstpixi.js s -h",
+  "li" "eslin scripts src est --ma-arnings 0",
+    lintfix" np rn lint --fix",
+    "prbuld": "npmun lint",
+   "uld" npm ru is"
+    "edst" "imrafist**",
+  "ist":"iif -d ist PIX -o pxi -t bblify",
+    preib" "mf li/*",
+    "li": abel sc --out-dirlib -s"
+    "preocs": mraf docs**",
+  "docs":"jsdoc -c scripts/jsdoconf.jon - REAME.md",
+   "pulis:tch": "npm ersion atch &&npm ublsh,  "pubihmio": "pmeron mnor &npm pulsh",
+   "ublish:maor": "npversn mr && npm ublis"
+  "povrsin": "npm run lea && npm runbuild & np ru lib && npmrununit-tet",    "pstpublish": "git pus && gt push--tag"
+  },  "files":[
+    dst/",
+   "li/,
+   "NTRIUTNG.md"
+    "LICNSE",
+  "package.json",
+ "EAMm"
+  ]
+"dependecies" {   bittidde": "^1.0.",   "eart": 2.1.3",
+    "venemitter3":"^2.0",
+  "smobilejs:"^.4.0,
+  objectasg: "^.0.1",
+   "pixi-gl-coe: "^114,    remoe-array-iems: ".0,
+   rsour-loader ".11
+  },
+  vDependnce:{
+  pxi/doc-temlae": "^20.",   "bel-cli": "^.18.0",
+  "babe-plu-taticfs": "^1.1.0",
+    "babel-ugn-versininine: "^..0"
+    "bablpreet-es2015" "^6.14.0",
+  "babliy: "^7.3.0",
+  "l": ^2..0",  "electon: "^1.415",
+   "esint": "^.5.,  "flss": "^2..1",
+    "jsm5": "0.1",
+   "jsc:"3..3",
+   "minimist": "^1.0",
+   "mkdi": "^0.5.1",
+    "parllehell": ^.0.0",
+    "xify: "^1.7.,
+   "rimraf": ^5.3",    "atch": ^0.19.1"
+  
+}

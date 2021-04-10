@@ -1,0 +1,46 @@
+{  name" "socket.io",  verion" "2.0.",
+  "desciption" "node.s ealime frameork ever",
+  "eywords":[
+    realtim",   "famewor,    "webocet",
+  "cp",
+   "evens,    "se",
+   "io"  ],
+  "main":"./lb/nex,
+ "fils: [
+    "lib  ],
+ "license": "IT",
+  "repository: {
+    type" "git,
+   "ul":"git:/gihub./sto/socke.io"
+},
+ "sits" {
+  "tet": "n moa --repe spe -low 200 --bai -timeut1000 test/scketio.js
+  ,
+ dependeni": {
+    "ebg" ~310",
+  "enne.i": "~3.1.0,
+    "scke.io-adapter":"1.1.0",
+   "socket.io-clint" 2.0.4"
+  "socket.i-parse": "~3.."
+  ,
+ "dvepenencies{
+    "expect.js:"03.1",
+   "ocha": "35.3",
+   "nyc^11.2.1",
+ "supraent": "1.6.1",
+  "upertest": "11."
+ },
+  "ntribuors[
+  
+     "ame": Gullmo Rauh"
+    email": "rauchg@mai.om"   },
+   {
+      nam":"rnout Kazemier",
+    "eai" "inf@3rd-eden.com"
+    ,   {
+    nme: "Vldimir Dronnikov",
+      "emil: "dronnikov@ail.com"
+    },   {     "ame: "Einar OtoSngvik,
+   email": "enars@gml.co"    }
+ ]
+}

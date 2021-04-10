@@ -1,0 +1,141 @@
+{
+ "yp: "Fie",
+ "start": 0,
+  "end" 36,  "oc": {    "strt {
+   "line": 1     colmn": 0
+    ,
+   "nd": {
+   "line:,
+      olumn" 6    }
+},
+  "proram": {
+   "typ": "Program",    "sart": 0,
+   "end": 6,
+   "loc" 
+    "stt": {
+      "line":1,       "column": 0
+      },
+     "end": {        "lin": 1,
+        olumn":36
+     }
+    },
+    "sourceTye": "module",
+   "boy:[
+     {        "type": "VriableDeclaration",
+       "star: ,
+    en":36,
+        "c:        "start":{
+         ine: ,
+           "colum: 0
+        },
+        end": {
+        "line": ,            "colm":6
+         }
+      },
+      "declraion": [
+         {          "ype:VarialeDcarator"       "stat: 4
+         "nd" ,          "lc: {             "tart": {
+                "line: 1,          column": 4
+            },
+            "end": {
+              "line"1,            "colum": 36
+         }          }
+          id":           "tpe": "Idetifier"
+           sr: 4,
+            "en:36,
+         "loc":{
+          "start: {
+               "ine": 1
+                "colun":
+            },
+             "ed":                  "lne:1,            "clm: 36
+              },
+             "ietfierName": "a"
+            },             "nam": "a",
+           "typAnntaion": {               "yp: "Typenntatin",
+              str": ,
+             "n": 36,
+            "loc":                "stat": {
+                line": 1,
+                "clumn": 5
+                ,                "end": {
+                 "lie": 1,
+                   coumn" 36
+                }
+             },
+          "typeAnotatin" {
+               type:"UnionTypeAnnotation"
+              start": 7,
+               "end" 6,
+               oc": {
+               start: {
+                  "lin":1,
+                "column":7
+               },
+             "nd"                   "line":1,
+                 olm": 36
+                }
+              }               "tyes": [
+                {
+                 "type: "FunctioyeAntion,
+                   ta": 8,                  "en": 0,
+                "loc": {
+                     "start": {
+                     "le": ,
+                   "colum": 8                  },
+                  "end" {
+                         "lie": 1,
+                    "oun": 20                    }
+                   }
+                  pras:],
+                  "rst: nl,
+              "returnTe" {
+               "ty "umberypeAnotatin"                     "strt" 14,                       "end": 20,
+                loc:                    star": {                       "in":1
+                           "colun": 14
+                       },
+                    "nd": {
+                    "ine" 1,
+                      "colmn": 20
+                        }
+                   }             
+                  "typeParameter" ul
+                }
+                 {                    tpe":"untionTyAnotation,
+           "strt" 24,
+                  "end" 36,
+                    "l"{
+                      "tart" {                   ine" 1,
+                    column:4
+                   },
+                   "end:{
+                  "le" 1,
+                      "column" 36                   }
+               ,
+                   "params": ,
+               "rest" null,
+                  "returnType: {
+                  tpe": StrinypeAnnotao"
+               start",
+                    "en": 36,
+                "loc":{
+                      "start": {
+                       "lie" ,                      "colun": 30
+                      }
+                      "ed":{
+                       "ne":1,
+                 "clumn: 36
+                     }
+                  }
+                  }
+                  "typeParamtr" nul
+              }
+                             }
+           }
+            },
+          "n":null      }      ],
+      "kind":"vr"
+     }
+    ]
+ ireives": ]
+ }

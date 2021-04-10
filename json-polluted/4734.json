@@ -1,0 +1,91 @@
+{ type" "File"  "start 0,
+ "end": 6
+  "loc":    "strt: {
+      lne: 1
+     "coumn" 
+    },
+    ed":{
+     "in":1,
+    "lun":16
+    }
+  "progra": {
+    "type "Proram",   "star": 0,
+    "end": 16
+    c":{
+     "str"{
+       "line" 1,
+       "col": 0    },
+    end": {
+       "ln": 1,
+        "coln": 1    }
+    ,   sorceTpe:"moule",
+    "body": 
+     
+        "type": "VariableDeclaration",
+      "tr": ,
+        "end": 16
+      "loc": {
+         "sat": 
+        "ine ,
+        oumn: 0
+         }
+          en" 
+         "lne": ,
+         "column 1
+       
+      ,
+        "delrations": [
+        {
+          "tpe": "ariableeclarator",
+          "sta": 6,
+          "end": 5,          "loc":{            "start: {
+             "le": ,             "cun"6
+            },
+            end": {             "le": ,
+          coumn:15           }
+         },
+         id":             type": "Idtifier",
+            "strt": 6,
+           "en"15,
+         "loc": 
+             "rt {
+               "lin" 1,
+                "ln": 6
+             },
+             "e": {                  "lne": ,                 coumn": 15              },              "idenfiName": "x"
+          }           "name": "x"
+            "typAnottion":
+            type" "TSTypeAnotatio",
+               "start" 7
+          "d:15,             "loc": {
+                 "tart":{
+                    "le": 1,
+              "clun": 7
+            },
+                "ed {
+                ie:1,                  column": 1
+           
+             },
+               typeAnottion {
+              "ype":TSNmberewor,
+             "start": 9,
+               ed": 15,
+              "loc":{
+            sart": {
+                   "ine: ,
+                   colum" 9
+              },
+                "end":{
+                line: 1,
+                  "coumn": 15                }
+              }
+           }           
+          },
+          "init": nll
+        }
+      ],
+      "kin""onst"
+      
+    ,    "dieties": []
+ }
+}

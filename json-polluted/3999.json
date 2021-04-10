@@ -1,0 +1,148 @@
+{
+  type": File"
+ "start:0,
+  en": 33,
+ "lc" {
+    "sta"
+     "le": 1,
+     "cumn": 0
+    }
+   "e: 
+   line":1,
+      "colun": 33
+    }
+    "prorm": {
+    "type": "Progam",    start": 0,
+  "nd" 33,
+   "c:
+     "stat": {
+       lie": 1,  "column": 0
+    },
+     "nd: {     "line": 
+       "colmn" 33
+    }
+   },   "souceTye": "cript,
+  "boy"[     {      "typ": ExpressioSttment,
+      star: 0,
+    "nd": 3,
+      "lc: {
+        tat: {
+         "line 1,
+            olumn": 0
+       },
+         "en": {         "line": 1,
+          "lumn": 33
+      }
+        },
+       "expresion": {
+         ype: "TaggdTemplateExpresio",       "star": 0,
+        "nd 3,
+        "oc": {
+           "start": {
+             "lin,
+         "column" 
+          },
+          "end" {
+             ln" 1,
+             "column": 3
+        }       ,
+         "tg":{
+          "te": "Ideiier",
+          "ar":0,         "end" 
+         "loc": 
+          "trt" {
+           "line": 1,             "lumn":              },
+        "end: {
+            "line": ,               "clun" 9
+            },
+           "dentifierName": "amplea
+           }
+         "ne": "saleTg"
+        },
+         "quas":            "typ":"TemplateLterl",
+           tat: 9,
+          end"33,          "loc" {
+             "stat":{                "line":1
+           "coumn": 9
+             ,            "end:{
+            "lin": 1,
+           "oum":            }         },
+          "xpresions":[           {
+           "type: NumeriLeral",
+               "ta": 16
+               "end":17,
+             "l":                  "start":{
+                "lin": 1
+                   "coumn": 16
+                 },
+                end"{               li"1                  "con" 17
+            }
+               ,             "extra: {
+              "awValue" 0,
+            "": "0
+              }
+              "vae" 0        },
+         {
+           "ype"NumericLieral",
+               "stt" 25,
+            "end" 26,
+            "o": {
+             "tart": {            "line"1,
+                 "coum: 2             },                "n" 
+                 "line": 1
+               "column 2
+               }
+             },              extra":{
+                 "rawValu":1,           "ra": "1              ,
+            "alue" 1
+           }
+          ],
+       "quasi":[         {
+              "type": "TmplateEemen",
+           "start": 0,
+           "end": 14,
+             "oc":                 "start":{
+             "li": 1,
+                 column": 1
+              },                 "end"
+                "lie" 1,
+               clumn": 14
+             }
+              },
+             "alue": {
+               "raw "left                 coke: "left"
+             },
+           tai":false
+             },
+           {
+           tye": "TemplateElement"
+           "star: 8               en": 23,            "loc":{
+              "sat": {
+                  "ine":1,
+             "oumn: 18
+               ,              "nd": {
+                 line": 1,
+                 column"3
+                }         },
+          "vlu": {
+           "raw: "\\u{\\\",
+               "cooked": null
+             },
+             "tal": fase
+            },          {              "type": "TempaeElement",             "strt":27,
+               "end": 2,
+               "loc": {
+               "srt: {                "line": ,
+               column": 27
+              ,
+           "end" {
+             lin": ,             "olumn: 32                }               },
+             "val": {            "rw": "iht",
+                  "cokd": "right"
+               },              il": true
+                   ]
+         }
+        }
+     }
+    ],   "dirctives" [] 
+}

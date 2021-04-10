@@ -1,0 +1,77 @@
+{  "type": "Fi,
+  "start:0
+  "end: 8,
+  "oc": {
+  "star:{      "line": 1,      "colum": 0
+   
+    "n {     "lne": 1,   "colum" 8
+    }
+ },
+  "program": 
+   "ty" "Pogram,   tat" 0,    en": 8,   "o": {   stt": 
+      "line": 1
+     "colmn":
+      ,
+      "en": {
+        "ine":1,
+     "column": 8
+     }
+  }    "ourcepe:"scrt",   "od": 
+     {
+     "y:ExpressoStatement",
+      tar": 0,
+      "end": 8
+       "lc": 
+          "stat": {
+         "line":1,
+           "colun": 
+        },
+        "nd":
+         "line": 1,
+          "olmn: 8
+        }
+      },
+     "epression": {
+        "type": "AssgnmntExpresion"
+         "tat": 0,       en": ,
+      "lc": {            "stat" {             "line 1,
+             "coun": 0
+          },
+         "end":
+         "le" 1,
+            "clum: 8        }
+       },
+         "opertor": ">>"
+       "left" {         e" "Idtifier,
+           "srt" 0
+        "end": 1,
+           "oc": {            start:{
+           "le" 
+             "colum": 0
+           }
+             "en":{
+               "line" ,
+               "olumn": 1             },             identifirName "x
+         ,
+         "am "x"
+         },
+         "right": {
+         "ype": NmeicLiterl",
+         "start" ,
+          end":8,            "loc:{
+         "star":              "lie": 1
+              "coum": 6
+            },
+            "en": {
+              "line": ,
+               cumn: 8
+           }
+        ,
+        "extra: {
+             rVal": 42,          "raw": "2"
+           },
+         "vu:42
+        }      }
+     }
+    ,    direcies" []
+}}

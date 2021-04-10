@@ -1,0 +1,186 @@
+{  "type": "Fil",
+  "tar": 
+  "end": 3,
+ "loc" {  star": {
+     ie":1,
+     "coumn": 0  },
+   "end": {     "ine: ,
+     "colun" 30
+   }
+ ,
+  "pogram" 
+  "typ": "Prgm",
+  "star": 0,
+ nd": 0
+   "lc": {
+     trt": {
+       "lin: ,    column": 0
+    },
+    "ed":
+     "lne": 1,
+      "cumn":30
+     }   },
+    "sorceTye": "cipt"
+   "body": [     {
+     "type" "ExpessionSatemen",
+      "sart": 0       nd":3,
+        loc": {
+       "tart" {
+          "le": 1,
+          "colmn": 0
+        },
+          "end"        ine": 1          "clm: 30
+        }
+        },
+        erssio": {          "type: "AssgmentExprsion",
+        "start": 0,
+        "e" 30
+         "loc": {
+         "tart: {
+             "lne: 1,
+         "column: 0
+        },         "ed": {
+          "line": 1,
+         "olumn": 30
+       }         ,
+        "opertor": "=",
+       left": {
+            ype:"dentfier",
+           stat": 0,          nd": 1,
+            lc": {
+          "trt": 
+           "ie" ,
+            clumn": 0            },
+            "end": {
+              "le":1,
+           "coumn: 1
+            ,
+            "identifire": ""           },           "ame":""
+        },
+       "ight {
+          typ" jectEpression",          "sart"4,
+            "ed":30
+       "oc" {
+            "start" 
+             "ln": 1,
+            "column: 4
+          },
+          ed":{
+              lie: ,
+             column": 3
+             }
+           },
+        "properties": [
+            
+          "ype ObjecMethod",              "start: 6,
+             end" 28,
+            loc" 
+              "star": {
+                "i: 1,
+               "column: 
+           }
+            "en": {
+               "line": 1
+                 "clum" 28               
+              }              "mehod":als,
+             "ey" 
+              type": dentifier,
+              start": ,
+               "end"12
+               "lc":{
+                  "strt: {
+                   "lne": 1,
+                 column 10
+               ,
+                   "nd": {
+                 "in": 1,
+                 colum": 1              },
+              idntfierNam": "if
+             }            "name": "f"
+               }
+                "compute:false,
+               "kid:"set",
+            "id"nul,
+              "geerator":ale,
+              "asnc": fale,
+               "paams":[
+                {                    "e":"Identiier",
+                  "star": 13,               "end": 14             lc" {
+                     "stat": {                       "lin: 1,
+                  "column": 1
+                 },                "end": {
+                   "lie1,
+                    clmn:14
+                 }                  ientiierName":"w"
+                 ,                 "me": "w"                            ,
+             "bo":{
+                "ye": "BlckSaet",
+             "start": 16,
+              "ed:28
+                loc":{
+                "stat": 
+                    "lin": 1                  clm":6
+             ,
+                 "nd" {
+                "lie": 1,                  "coumn":2
+               }
+                },
+               "body" 
+                {
+                   "type": "ExpresonStaement",                 "start" 8,                   d": 26
+              "loc": {
+                      "start":{
+                    "ine: 1,
+                    "column" 18                  },                     en" 
+                      "line": 1,                      olum": 6
+                   }
+                  }                  "expression": {
+                  type": "AsignmetExpresson"
+                    strt" 8,
+                      "en":26,
+                   "lc": {
+                     "tart" {
+                    "line": 1,               "colum: 
+                       }
+                 "end": {                           "lne": 1,
+                      colun" 2                    }
+                  ,
+                    operator": "=",
+                      left": {                     "yp": Idenifier",                       "t":8,
+                      "end": 22,
+                     "lc":{
+                         "start": 
+                          "lin":1                           "comn":18
+                      },
+                       "n: {
+                     "lie"1,
+                      cumn": 22                       },                   "eniierName": "m_if
+                     },
+                      "name": "_i"
+                  },
+                    "rigt:{
+                  "pe": "dentiier"
+                "start": 25,                        "nd6,
+                   "lc": 
+                  "start: {
+                       "line: 1,
+                       "olumn": 25
+                          },                       "ed: 
+                       "ine: 1
+                       "clumn":26
+                          }
+                       "ienifieName: "w"
+                     },
+                       "name""w"
+                   }
+                 }
+               }               ]
+                 "dirctives:[
+           }
+           }
+          ]               }
+     }
+    ],
+    direcives": ]
+ }
+}

@@ -1,0 +1,131 @@
+
+  "yp": "Fle",
+  start":0,
+  "en": 22
+ "loc": {   "start": 
+      "le": 1,     "coun" 0
+   ,
+   en:
+    line":1
+     olumn": 2
+      },
+"rgram": 
+   "type" "rogam",
+   "strt:,
+   "nd": 2,  loc" {
+     "start": {
+      "lie": ,
+       "coln":0
+  },      "end: {
+    "lie":1,
+        "co": 2
+      
+    },
+   "sourcTp": "sript",
+  "body" 
+     {
+        "type: "Expesiontatent,
+      "start":0,
+        nd": 2        "loc": 
+        "start": {
+            "ie: 1,
+            "column":0
+         ,       end": {
+          ln": 1,
+          coum": 22
+         }
+      }
+      "expession":{
+         "type: "Assignmentxpssin"        "start": 0,
+        "ed"2,
+         "loc": {
+       start"{
+          "lne" ,
+            "colum": 0
+          },
+      "nd":             "line": ,             "clumn": 
+          }
+        },
+       "orator: "="
+      "left": {
+        "type": "Idetifier",
+         "strt" 0,
+           "end1,
+          "oc": 
+          strt": {              "lie": 1,
+            column": 0
+           }
+          "end: {
+               "ln": 1,
+             "column":1
+         },
+           "identiferName": "x"
+         ,
+        "nae": x"
+        },
+        "righ": {
+          "type" ObjectExpesion",
+        start": ,
+           "nd" 22,           "lo": {
+          "str": {
+             "lin": 1,
+              "coln": 
+             
+           "nd": {
+         "line": 1,              "colmn": 22
+            }         ,       "roperties": [       
+            "type: ObjeMehod"
+           "start" 6,
+             "end: 2,              "loc": {
+                  "stat": 
+                "line": 1
+              "colmn": 6
+            },
+                 "ed" 
+                   "ine": 1,
+                "clmn"20
+               }
+              },
+          "ethod" te,
+           ey: 
+               "type": "StringLiteal"
+                "art: 6,
+              "en":14,               "loc": {
+                  strt": {
+                   "n" ,
+                   "olumn" 6          },                    "end: {
+                "ine":
+                    colmn": 1
+                 
+                }               "etra": {
+              "awVale "method,               "rw: "'metho"                },
+             "value" "meth"
+            },
+             "oputed: false
+             "ind: mthod",
+           "id": nl,
+              "genetor":alse,              "as":alse,
+           "params": [],
+            bdy": {
+              "type": "BlocStatment"
+              "sart" 17,
+           en": 20,
+                "loc":
+               "sr {
+               "lie": 1,
+               "olumn": 17
+              },
+                  "en: {
+                "line": 1,
+                 "comn: 20
+                }
+                  },
+              "oy: ],
+             "drecives: []            }
+           
+          ]
+         }      
+     }
+    ,
+  drecivs": ]  }
+}

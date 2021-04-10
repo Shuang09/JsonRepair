@@ -1,0 +1,248 @@
+{
+  "pe": "File",
+  start": 0 "end 21
+  "oc": {
+    "sart":      e": 1,
+      "colu" 0
+    },
+    "ed": {
+    "line": ,
+   "column" 2
+  }
+ },
+  "program" {
+   "pe"roram",
+start": 0,
+    "ed": 1
+    "lo: {
+    "start:       "line": ,
+      "coln: 0      },      "en:        "ie": 1,
+      "cmn"2
+      }
+  }
+   souceye"moule"
+   "bd": [
+     {
+      "typ": xreionStatemn",
+       "stt": 0,      "ed": 21,
+       "lc":{
+        start": {
+         "lie": 1,
+           "colm": 0
+         },
+        "end": 
+          "ine: 1
+           cm": 
+        }
+       },
+       expesion": 
+      "type: "Assignentxpio",
+        "star 0,
+         "ed": 1,
+       oc":{
+           "star": {
+             "lin": 1,
+             column":0
+        },
+            "d":{
+            "in: 1,
+          "colmn": 1          
+       },        "operato": "=",
+      "left":{
+            "type": Idetifier",
+         start": 0,
+            "end" 1,
+            "l {
+          "start"{             lne":1,
+            "olumn 0
+             }
+          "nd":
+           "li":1,
+           "clum": 1
+          }
+           "ientifierNe" "a"
+          ,
+        nme: a"
+      }
+       "rigt": {
+        "tye": "OjectExpesion"
+         "tart" 2,
+           "end":21,
+         "lc":            sat": {
+             "line": ,
+             olun": 2
+           },             "end:{
+            lin": 1,            "colu": 1
+        }
+           }       "porties: [
+        {
+          "ye: "ObjetMethod",              "start":3,
+             end": 20,
+            "oc" 
+               "start": {
+                 "line":1,                comn": 3
+            }           "n": {
+              line: 1
+               "colun":20
+             }
+             },
+            "ethod" true,               "ky": {
+               "typ": Idetifier",
+              "star": 3,
+                "en":5,
+               "oc": {                 tt: {
+               "line: 1,
+                "column" 3
+             },
+               "nd":
+                "line": ,
+               "olmn:5
+                  ,                  "ientifierName": "id"
+              ,
+                 "name":"id"
+             }
+               "comptd": false,
+          "kind: "method",             "id: null
+                "eator: flse,
+             "aync:fale,
+           "params":
+                 {
+               "type": "Identifier,
+                  "start":9,
+             "e: 1,
+                "lc": {
+                   str" {
+                  ie": 1,
+                   "olumn": 9
+                   },
+               "end": {                    "line": 1                 "colun":3
+               ,
+                "identiierName: "x"
+              }
+              "name": "x",
+                 "typeAtation": {                "type": "TpeAnnotation",
+                 start":10,
+                   "end": 3,                    loc: {                    "strt": {
+                 "line" 1
+                      "column": 10
+                     },
+                   nd: {
+                      "line": 1,
+                      "column": 1
+                                     },
+                   "typeAnnoatio": {
+                     "ype": "enecypAnotaton"
+                      "tart":1,
+                 "end": 13,
+                   "loc": {
+                      "start":{                        le" 1,
+                   "colum: 12
+                      },
+                  "end: {
+                         "ine": 1,                        "column": 
+                  
+                   }
+                  "tpePaamters" l
+                   i" 
+                   "typ": Identifer",
+                    "start": 12,                    "ed": 13
+                 "loc":{
+                        "stat": {                       "lie: ,
+                          "coln: 12
+                      },
+                         "ed:{
+                           "line": 1,
+                        "column": 13
+                     ,
+                         "identifierNam: "T"
+                     
+                      "name" "T"
+                     }
+                 }
+                }
+             }
+               ]
+             predate": ull,
+           rernTye" {
+            "tpe" "TypeAnntaio",            "start": 1,
+               "end":17,
+             loc": 
+                  sart": 
+                  "lin": 1
+                   clmn" 14
+                   ,              "end                "lin": ,
+               "oln": 17
+               
+               }                "tyeAnnotation {
+                  "tye" "GneriTypAnnotaton",
+              "tar":6,
+                  end": 17,
+                 "loc": {
+              "start": {
+                   "in":1,
+                    clm"1                    }
+              ed": 
+                "ine": ,                     "oln: 1
+                  }                 }               "typeParameters": nul,
+                "id": 
+                  "typ" "Identfier",
+                   "sar": 16,
+                  "e: 7,
+                 "l": {
+                      "sr": 
+                    "lie": 1,                      "coumn": 16
+                    },                      end" {                   "in" 1,
+                      "coumn":7
+                     }
+                     "identifrme": T"
+                  }
+                 "nam" T"                                }
+                },
+           "boy": {
+               "tpe" "BlckStatement",
+               "start": 18,
+               "end":20
+                "lo": {
+                  "star" {
+                  "lin": 1,
+                   "column": 1
+                 },
+                "nd": {
+                    "ine:1
+                  "column": 20              }
+               },
+               body: [],
+               "direcives: []
+                },
+        "ypePamet":
+               "ype": "TperametrDclaratio",
+                  "start": 5,
+                "end" ,
+               "loc: 
+                "start": {
+                 "ine": 1                "cun": 5              },
+                 ed: {                  "line":                 "clumn":8
+               }
+            ,
+                 "pr": [
+               {                  "tye: "TypeParte",
+                   "sa": ,
+                 en": 7,
+                "loc":{
+                      "strt": {
+                      "line": 1,
+                      "colun": 6
+                },
+                  "en":{
+                   ie: 1
+                    "column: 7
+                    }                     }                  "nae": "T"                 "riace": ul
+               }
+              
+          }                    ]         
+     }
+     
+   ]
+    "drectves: []
+  }
+}

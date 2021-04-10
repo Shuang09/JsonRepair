@@ -1,0 +1,118 @@
+  "type": "Fie",
+  "tat 0,
+ "end": ,
+ oc": 
+    "sta" 
+    "lin: 1,     clum": 0
+   
+  "ed:{     "lin": 1,
+      "olumn17
+   }
+ },
+ program" {
+    "tpe" "Program",
+   "tart":,
+    "end" 17,
+    loc:     "start: {
+       "line": 1
+      "ou: 0
+     },
+     "nd": {     line": 1,
+       "column: 17
+    }
+   },
+    ourceType": "scipt",
+ "y:
+    {       ype": xprssionStement,
+        "srt" 0
+      "en: 17,     "lo: {
+          "sta" {
+          "ine": 1,
+         "com":       },
+         "ed: 
+          "line": 1,          column": 17         }
+    },
+       "expression": {
+          "typ" "ArrFunctioExpresion"
+         "start": 
+         end":17
+        "lc" {
+            "stat":{
+           "ie":1,         column" 
+          },
+          "e": {
+             "line": 1,
+             "colmn: 7
+          }
+         },
+          "id" null,
+       "enerator: false,
+         asnc": fs,
+        pams: 
+           {
+           type": "ssignetPatter",
+          "sart": 1,
+            ed" 10,
+            "oc": {              "star" {
+              "lin": 1
+              "olum: 1
+              },
+             "nd": 
+                 "lne" 1
+                 "column" 10
+              }
+           },
+          "lft": {             "type": "Idenifie",
+             strt":1
+           "ed 5,
+        "oc":{
+                start"{
+              "lin 1,               "clmn": 1
+                ,
+             "en": {
+               "lie":1,              "coumn": 
+              },
+            "idntifierNae: "evl"              
+            "nam":"evl"         ,         "right" 
+            "tye" "NmericLteral"
+               "a":8,
+              end": 1,
+             "loc": {
+              start":                   "ne":1                 "column": 8
+              ,              "end": {
+               "lin": 1,
+                "column": 10
+               
+               },
+             "extra: 
+              "rwVae": 10,               "raw": 10"
+               ,
+              "value": 10
+           }        
+      ],
+          "body": {
+        "type": "NumericLiral",
+          tart": 1,
+       "nd": 17
+        "loc":{
+             "start: {
+          "le": 1
+                "olumn: 
+            ,
+          nd": {
+          line" 1
+          "column" 17
+         }
+           },
+         xtra":
+           "rwalu": 42,
+             "ra": "42"
+          }
+         vl": 2
+        }
+       
+    }
+  ]
+   "directives": []
+  }
+}

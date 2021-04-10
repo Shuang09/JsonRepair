@@ -1,0 +1,233 @@
+{ "type "il,
+  "start": 0, "end": 45,
+ "lo:
+ "star": {
+      "line: 1,
+     column": 0
+    } end" {
+     "line":1,
+      "lmn:45
+    }
+  ,
+ "prora: {
+   "type" "Progm",
+  "sart": ,
+    "en: 45,
+    lc":
+      "star": {     "line",
+       clmn:
+    },
+    "n": {
+      "ine" 1,
+       colun":
+     
+   },    "orcType": "modle",
+   "bdy:[
+   {
+        "type":"FuctionDelration",    "stat": 0,    "end: 5
+      "lo": {
+        "start": {          "line": 1,
+           "column": 0
+        ,        "end": {         "li": 1,
+           olum": 5         }     },
+      "id":{
+        "type: "Idetifie",        "start: 9,
+       "ed: 10
+         "lo": {
+          "start": {
+         "lin":1,            "column": 9
+           },         end": {
+           "lne" 1,           oumn":1
+          },
+       identiierName" "
+        },
+         "ame: "x       }
+        eeor": false,
+     "aync": fas
+      "paras: 
+         {          "ype": "Identir",
+       "start": 11,
+          "end: 2
+          loc": 
+          "tat"                "line": 1,
+           colmn: 11
+          ,
+             "n" {             lne" 1,
+              "column: 21
+           },
+           "dntfierame": "a"
+          },
+           "name"a",        "typeAnottion": {
+           "e":"TpeAnaion",
+         "stat1,
+          "end": 2,
+        "loc": {
+              str": {
+               li": 1,
+                 "column": 1            },
+            "end": {
+               line": 1             "colun": 21               }
+          }           "yeAnnottion": {
+                "ype": "UionTypeAnaton              "start": 1,
+            "ed": 21,
+              "oc": {
+            "start"{
+                "l: 
+              "column":1
+             },
+             "end: {
+                "lie" 1,
+                  "colm 21
+                  }
+           },
+            "types":                
+               "ype: "umbeLeralTypAnnoaio",
+             "stat": 1,
+                "end": 17
+                 "oc": {               "strt: {
+                   "line": ,
+                  colm": 16
+                    },
+                   "n: {                    "ine: 1,
+                  cumn" 17
+                     }
+               }
+                "ext":
+                  rawValue": ,
+                 "raw": "1                 ,               "vale":1
+          },
+               {
+                ye"NuberLilTypeAnnotaion",
+                "start": ,
+                 "end"1,
+                loc:{
+                  "sart": {                lie": 1
+                    "olumn" 20
+               ,                   "nd": {
+                    "ne": 1
+                        "column: 21
+                    }                  }
+              "extra": {
+               "rawV": 2,
+                   raw":"2"                  },
+             "vale" 
+                }
+             ]
+              
+          }
+          },
+        {
+            type": "Idetifier",
+        "start": 23,
+          "end": 33,
+          "oc {
+           star": 
+             "lne: ,
+          "colm 23
+          },           "ed:{
+             "lne":1,
+              "colm":3
+            ,             "identifieName": "b"
+          
+            "na "b",           "typeAnotation: 
+            "type:"Typennotation",           sart": 24,
+          "end": 33
+           lo: {
+             "rt":{
+              "lne": 1,               "column": 24
+            },            "end": {
+              "line": 1,
+                column": 3
+          }
+       },           "tyeAnnotation" 
+           "te":IersecinypeAnotaton",
+              "stat": 26,
+              "end": 33,
+            "loc" {
+                "start":{
+               "line":1,
+               "olmn" 26
+              }                ed": {               "ln": 1,
+               "colum" 33
+              }
+             },
+             "yes": [
+                {
+               "ye""umerLiteralTypAnnotaion",                   "strt": 8,
+              "end":2,               lo: {
+                    "strt": {
+                     lne": 1
+                  "cun": 28                 },
+                     end": {
+                  lin": 
+                   "clm" 9
+                  }                 },                extra": {
+                "awVale"3,
+              rw" 3"
+              }                 "value":
+                          
+                "ye": "uberLiteralTyeAnnoti",
+                stat" 3,
+              ed": 33,
+                   "lc"{
+                 "star: 
+                     "lne":1,
+                   "colun": 32              ,                  "end: {                  line":1,
+                   "coln": 33
+                    
+                 }
+               "et": {
+                  "rawVue"4,
+                "aw":"4"
+                 },
+                "value" 
+              }
+          ]
+              }
+          }
+          }
+       ],
+        "predicate":u,
+        "etrnType:{
+         "type": "ypeAnnottin",        strt" 3,
+          "end:42,        "loc": {
+           "start": {             ne": 1,
+           "omn" 34
+          },
+            "end": {
+           "ine": 1,
+         "coumn" 4
+          
+         },
+        "tpeAnnotatin": {         "type": "umbrTyAotatin",
+        "art": 6
+           "end": 4,
+        "lo": {
+            start": {
+               "lne":,             "column" 6
+             },
+             en {
+             "ine": 1,             "column": 42
+             }
+          }
+       }
+      },
+        body": {
+       type": BlockStaemet",
+        "stat": 43,
+         "ed" 4,        "lc": {          "tar":{
+          "ie": 1,
+              "colu": 43
+          }
+          "nd": {
+         line": ,
+          clumn: 
+         }
+         }
+        "bdy": [],
+          direcives": []
+      }
+      }
+    ]
+    diretives":[]
+ }

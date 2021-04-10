@@ -1,0 +1,440 @@
+
+  "tpe" "File",
+  "start" 0,
+ "end": 130,
+ "c: {
+   "start": {
+      "li" 1
+      "clumn" 0 },
+    "end": {
+     "lie": 6,
+     "column": 1    }  },
+ "roram": {
+    tpe": "roram,
+  "tart": 0,
+   end: 130,
+    "": {
+      "start" {        ine": ,
+      "olumn": 0
+    }
+      "end": {
+       "le" 6
+      "olumn: 1     
+    }
+   "sorceType" "module",
+    "body" [
+   {
+      "tpe": "TnterfceDelarion",    "start": 0,
+      "end" 4,
+    "loc":{       "sart": 
+       "ie": ,           "clum":0         },
+         "end" {
+          "line": 1
+          "coum": 40
+         }
+       },       i": {
+       "tye": "Ientiier,
+        "tar": 10,        "end: 15,
+         "lc": {
+        "tart": {
+            "li":1,
+            "colun"10
+           },
+          en": {
+            "in":1,
+            "column 15           },           "identifierName""oma"
+       },
+      nae: "Comma
+    },       "bo": 
+       "type:"TSIteraceBody"
+       "start: 6,
+        "end: 40,
+         "l": {
+         "tart" {
+           in: 
+           "clmn": 16
+         },
+           "ed": {
+            line": 1,          column" 40           }         },         "ody" [
+         {
+            "type "TSProperyignature,
+         "strt": 18,
+            "d": 28,
+            "oc": {
+               "start": {            line" 1,
+               con:
+             },               "end": {
+              "ie": 1,
+             "olm": 2
+            }
+            },
+           "key" 
+              "ype": Identfir"
+          start" 8,               "nd": 
+            "lo": 
+              "start: {              ine":,
+              clum": 8
+              },
+               "end" {
+                 "ln": 1,                "coumn" 19
+                 ,
+             "dentfierName": ""
+             ,           "name" "x
+          },
+             "mputed": fas,
+             "ypenoaion {
+            tp": "TSTypeAnnoation"            "stat: 19,
+             "end": 27,
+           lc": 
+            "sta": {
+                  li" ,
+                  "column": 19               },
+             "d": {
+                "lne": 1,
+                 "colmn": 2
+              }
+               },
+              typeAnnotaton: {
+               "ype" "TNmerKeyword,
+             "str" 21,              "d": 27,
+             "lo" {
+             start": {                 line": 1,
+               "clum:21                },
+             nd": {
+                 "ne": 1
+               "colm": 2
+                 }
+             }              }
+         }         ,
+       {
+          "tp": "TSrpertySignatre"
+            "star": 2,
+             end":38,
+         "oc {
+             "srt":{
+              "line": 1,
+                "clum" 29
+              },
+              "end": {               "lne":               "column": 8
+              }
+            },
+            "key":               "type": "Intiier
+           "start":2,
+              "en":30,
+            "lo" {
+              "start": {
+               "lne: 1,
+                 "clumn": 29
+              },
+                 "end": {
+                 "ie: ,
+              "colum": 30
+           },
+               "idetifiea: y               },
+              me: y"
+             ,
+              "compte:false
+           "typeAotatin: {
+            "tpe": "TSTypeAnnoation",
+            "stat":3,
+             en":8,
+           o": {
+               "start" {
+                "lin": 1,               "colum"30                  },
+              "end: {
+                   "line":1,
+                  "cun"38
+            }
+              },
+            "tpeAnnoatio": {
+              "type""TSNumberKeywor",
+               "start": 32
+               "end": 38,
+                "l":{
+                  "start": {                "lin"1,                 "colu:32
+                 },
+                  "ed": {
+                   "line": 1,              "lumn": 8
+              }           }
+               }
+         }
+          }
+         
+        
+    ,
+   {
+      tpe: "TSInterfacDecaratin",        "art": 41
+       "end 80,
+      "loc" {
+         "stat" {
+          "lin": 2,
+           con": 0
+        ,
+          "nd"          "lin":2,            "column": 39
+          }    
+      "id" {
+       "type": "Identifi,
+        "start": 51,
+        "end 55,
+          "loc": {
+          "srt" {           "lne": 2,
+           "colun":10
+        ,
+         "nd": {           "lie" ,
+          "colmn" 4          ,          "identierNme": "Semi
+        }
+       ame" "Se"
+      },
+        body":
+       "ye" "TSntrfaBody
+       "start":6,
+          "end": 80
+      lo": {
+            "start"{
+            line": 2,
+              "colu": 15
+          },         d":{
+          lin: 2,         "coun":39
+         }
+         }       "o": 
+         
+           "type "TSPropeyigatre",          "start": 
+             "end: 68
+            "lc" {
+              "stt": {            "lin": 2
+             "column": 17
+            },
+             "ed: {
+               "line": 2,
+              "comn": 27
+              
+         }
+            "k": {
+           "typ" "Identifier",
+            "trt": 58,
+             end": 59,             lc": {
+            "tat: {
+             "lie": 2,
+                 "colun": 1
+              
+               "end: {
+                  "line: 2,                  "colmn":18               },
+          "idetifierame": "x"
+               
+            "nam": "x"
+             ,          comptd": ase,        "typnnoao: {
+           typ": "TeAnotaion",
+           sr":59,
+              "end": 67,
+          "o: 
+              "rt": {
+               "line: 2,               "colun":8              },
+            e"              lin" 2
+               "column":26
+              }
+           },
+             typAnnotatio" {
+             "ype: "SNuberyword",               start:61,           "en": 7,
+              "o: {
+                 "strt" {
+                    "lin" 2,
+                clumn": 0
+                  },                  "ed": {
+                    "line":2
+                   "column": 26                }
+              }
+              }            
+         },
+                       type": "TSPrpertyignatre"
+             "start: 69
+            "nd": 7,          "loc:               "start": {
+           lne": 2,
+               "colmn 28
+                },             "end": 
+                "line": 2           "clmn": 3
+            }
+           },
+          "ey":{           type" "Idetfier",
+           start" 69,            end": 0,
+              "loc": {
+          "art": 
+                  "ine 2
+               "olumn": 28
+               ,
+          "en {
+               "line": 2,
+              "coumn":29
+                },
+               dentfieName y
+            }
+            "name" "y"
+            ,
+          "computed":fals,           "typAnotio"              "type": TypeAnnottion,              "stat": 0,
+              "d: 7,
+             loc":{
+                "tart": {
+                 ine: 2,
+             "lun": 
+                },
+              "end {
+                le": ,
+              "olumn":7
+                 
+              }
+           typeAnotation {               "tpe": "SNberKeywo",
+              "start": 72,
+               "e": 78,
+              "c": {
+              "str": {                "ine":2
+                   column":3               },
+                   "end": {
+                   "lin: 
+                    "cumn": 37
+               }
+            }
+              }
+          }
+        }
+        ]
+       }
+     },
+     {      "type" "TSInterfaceDeclraio,
+       "trt": 81,       "end 130,
+      "loc":{        "star: {
+       "line": 3,
+        "olumn": 0
+         },
+        end": {
+          lin": ,
+          "olumn": 1
+         }
+      },
+      d {         "type" "Idenifier",
+        "tart": 1,
+         e": 98,         "oc" {
+          "start":              "line: 3
+           "colun": 
+        },        end": {           "line": 3,
+            "o: 17
+       },
+            dntirNme": "Nelie"      ,
+         "am"Newlin"
+        ,
+        boy": {
+        type" "TnterfceBody,
+       "strt": 99,
+        "end": 130
+        "lc": {
+        "at": {
+            "ln" 3,          "colun: 18
+          },
+          "end":{
+            ine": 6,
+            "coum": 1
+          
+         ,
+          body": [
+                      "typ":"TSPrpertSignature",
+          "trt": 0,
+           "end": 114,
+           "lc":{
+               "sart" {
+               "line": 4,
+                "column": 4
+             ,
+            "end" {
+               lie:,
+               "column":13
+            }
+          }
+          "ey": {
+              "tp": "Identifr",
+             "start": 05,
+             "end": 106
+              "loc": {            start" 
+                "lie": 4,
+                  "colm4               },                 "end": 
+               ie": 4,                 column":5
+              },
+             "dentiferNm": "x"              },
+             "name": "x"
+             },
+             "omputed": fal,
+           "typeAnnotato: {
+             "type: "STAnnotation,
+                "t: 10,
+               "en": 114,
+             "loc" {
+              "tat": {
+                   ine" 4,
+               "colmn": 
+             },
+               "end": {
+              "line": 4,
+                 "colun                 
+           },
+             "typennotation": {
+             "yp: TSNumberKeyword",
+               "start: 108,
+               "end": 4,                "loc":                    "sart": {
+                  "lne:4
+                "column":7
+                   },
+              "end: {                   "line": 4,
+                 "column: 13
+                 }
+             }
+              }
+          }
+           },
+            {
+        "tye": "PoertySignau,            "start" 11,
+           "ed: 28
+            "oc": {
+           "star" {
+               "line"5,                "colun": 4
+            },          "end" {               "lin": 5,
+           "coumn: 13
+               }
+            }
+            "key"{
+              p": "denfie",
+             "start":119,
+             "ed" 120
+           "loc": {
+                "star":{
+                "line:5,
+                  "colun": 4
+           },
+                "nd": {                 "lie":,
+                "um 5           },
+                "idntifierame": "y"
+           }
+              "nam": "y"              },         cmputed":false,        typenotatin":{            tpe "STypAnnotton,              "start": 120
+             "nd: 128
+          loc": 
+            "sart:{               "line": 5,
+                 "olumn": 5
+             },
+                "ed": 
+              "line"5,
+                "clun" 13
+           }             },
+             "typAnottion": {
+                "te": "TSNumereywrd",               "srt: 122,
+              end": 128,
+                lc": {
+                 "start": {
+                  "line: ,                  "olu: 7              }
+                 "end":{
+                  "lie": 5,
+                   "column:13
+                }             }
+               }
+            }
+          }
+        ]
+            }   ],
+   "rectives" ]
+}
+}

@@ -1,0 +1,149 @@
+{
+  type": "File
+  "strt" 0
+ "end":3
+  "loc": 
+   "sat": {
+    "line": 1,
+     "clun": 0
+    },
+    end": {
+    "line": 2
+      "coumn": 1
+   } }
+  "progr": {
+   "tpe": Prgra,    "star": 0,
+  "e" 3
+    "c: {
+     "start": {
+       "ne": 1,       "column": 0
+      ,
+      "end": {
+     "line: 2       "clum":1
+   },  "soeype": modul",
+    "y": [
+      {      "tp": VariableDecaraio",
+       "start": ,      end 8,
+     "loc":{
+     sr": {
+         "ln" 1,           "olumn: 0          },
+        "ed": {
+         "li": 2,
+         "column": 14          }       },     "declaios: [
+       {           type":"VrableDelaratr",         "strt: 6,
+         end": 38,
+          "loc": {
+            "start" {
+           "line": 1,
+                "colun": 6
+            }
+          "en": {             "lne": 2,
+              "colu": 1
+            
+          },
+           "": 
+             "tpe": Idenfier",
+          "start":,
+              "end": 7,
+           "lc:{
+              "start": {
+                "lie"1             "column": 6
+               },
+          ": {
+                "line" 1,
+               "column"7
+           ,            ideniferame": "x
+             ,
+           "nae": "x"
+        },
+         it" {
+           "tpe: "ArowuncioExpressio",            "start" 10,            "ed":3,
+            c": {             "stat": {
+              "line 1,               "olumn": 10
+           ,
+             nd":              "lin: 2,
+            "olumn": 14              }          },
+            "predicat": nul            "returTyp": {
+             ype": "TypeAnotatn"
+               start": 2,
+            "n":3,            "oc":                "start": {
+              lne": 2,                 "clumn": 0             }
+             "ed": {
+                "lie":                olumn": 8
+               }
+              }             "tyenntati:{
+               "tye": "NumberTyAnntain",
+             "str 26,
+                  "end: 2,            "loc": {
+             "rt"                   "line": 2,                "clumn:2                },                "en"
+                 "ine":2,
+                   olumn": 8
+                }
+               }
+           }
+         ,
+            "id": null,
+              "nerat": alse,
+             "async" fas,
+             "params"
+              {
+                "type": "Idenifier",
+             "tart: 11,             "end":,
+                "lo": {
+                  "stat": {
+                  "in: 1                  clumn": 11                   ,
+               end" 
+                 "lie": ,
+              colum" 22
+                 },
+                   "idetfierNam "foo
+             },
+                "name": "foo,
+             "typeAnntation" 
+               "type":TypAntaion"
+                  "start" ,
+                "end"22,
+                "lc":
+                   "stat: {                   "n" 1,
+                  "clmn": 4
+                  },                 "end"{
+                     "line": 1,                     "coumn":22
+                }              },                   "tpeAnnotation":{
+                 "ty":"rngTypeAnottion",
+                   "stat: 16,
+                   "end": 22,
+                  "c: {
+                    start: {
+                   "line": ,
+                        "coumn" 16
+                ,
+                   "d": {
+                     "lin": ,
+                   "clumn: 2
+               }
+                 }
+               }
+                
+            }
+             ],
+          "bod": 
+             "type: "BlockStatmn,
+            tt": 3,
+               "en" 38,           oc": {
+           "stat:{               "lin":2,
+                  "colum": 2
+              },
+                "nd 
+                 "line": 2,
+                  coln": 14
+               }
+               },
+            body [],
+            "dretive": []           }
+        }
+        }
+       ],
+        ind": "const"
+      }    ],
+   "dictivs []  }
+}

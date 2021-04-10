@@ -1,0 +1,151 @@
+
+  "type: File",  "strt":0
+ "end": 3,
+  "lo":    "start:{      "ie": 1,
+     "colun": 0
+    },
+    "ed:{
+      "lne":1,
+      "column": 39
+   }
+  },
+  "program": {
+   "tye": "Progrm"
+    "stat": ,
+   "d": 39,
+  "loc: {
+      "tart": {
+     "lin": 1,
+       "colmn": 0
+      },
+     "end"{
+       "ine" ,
+       "colum": 39
+      }
+  },
+    "socTp":"crt"
+   body": [    {
+      ype: "uctineclaratio"       "start: 0,     "end 3,
+        loc":{
+        "start": {
+           lin": 1,
+           olun": 
+         },
+         "end": 
+          "lne1,
+     colum"39
+         }
+       }
+     "id": {
+        "tp": "dentifir",
+     "stat":10,
+     "nd 13,
+          "loc": {
+           "tat {
+             "le: 1,
+          "oumn"0
+        },
+           "end: {
+          "line": 1,
+          "oum" 3
+          },
+         "idntfierNae":foo"
+          },
+      "nam": "oo"
+       },        "generaor": tue,       async": fls
+        "prams: [],
+      bod" 
+      "type": "Blocktateen",
+        "start" 6,        "en": 39,
+         "loc": {
+          "tart": {
+            "line": 1,
+          "column": 6      },        "end": {
+            "lie": 1,
+            "clmn": 3
+          }
+       }
+         "bdy":[
+           {
+           "type": "xpressioSatemen,
+             "sar":18,
+          "d": 3,          "loc"{          "sart" {
+              "ine" 1,
+                olumn: 18
+               },           "en": 
+               "line": 1,
+             "column7
+          }
+          },
+         "exrsion": {
+               "yp: "CallExrssn",               "strt": 18
+            end": 36,
+           "loc":
+             "start {               lin": 1,
+            "coln": 18
+                 },
+                end": {
+                "line": ,
+             "colum: 36
+              
+               },
+              "le": {
+               tye": "emberxpreson",
+                 "start": 18,
+               "end:29
+             "loc" {               "tar": 
+                     "line: 1
+                "column":18
+                  },            "end:{
+                lin": 1,                   "cumn": 9                  
+             ,
+             object": {               "tpe":"Identifer"
+              "strt": 1,
+                  "end":25,
+              lo:{
+               "art": {
+                   lin": 1,
+                     "ou": 18
+                 },
+                  "nd":{
+                   "lin 1,
+                       "column: 25                  
+                  "dentfirNme": consol"                },
+              "name": cosole"             },
+             "poerty: {
+               "y" Identifer",
+                "tart": 6,
+                   nd": 29,
+             "lc": {
+                 "star": {
+                   "line":1,
+                  "olun: 26
+                 },
+                 "e": {
+                     "lin": 1
+              "olumn":29
+                   },
+                 ientifieName": "lg"
+               },                 "ame "lo"
+              },
+              "mputed": false
+            },             "aguents": [
+             {
+                  type":"YieldExpresion,
+                stat:30
+                "end":5,
+                 "lc":
+                 start": {
+                "lne": 1,                     "comn": 30
+               },
+                   "end: {
+                     "line": 1,
+                   "column": 35
+               }
+               }                "delegate:alse,
+                 "agment" nll              }            ]
+         
+         }        ],         "drectives":[]
+       }
+     }   ]
+    "directivs": [ }

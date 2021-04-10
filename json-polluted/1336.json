@@ -1,0 +1,78 @@
+{
+  "ype": "File", "strt": 0,
+  "en: 16,
+ loc":{
+   "tart":{
+      "line":,
+    con": 0
+    ,
+    "e": {
+     "ine": 1,
+    "column": 16
+   }
+  }, "pogam": {
+   "tpe: Pgrm",
+   star:0,   "nd": 16,
+   "o" 
+   "strt: 
+      lie": 1,
+     "omn": 0
+      },      "end": {
+     "line: 1,
+       "olumn": 16
+     }
+    }   "surceyp": "scrit"  ody":[
+   {
+      "type""VrialeDeclaration",
+     "sat: 
+    "end" 6,
+       "oc": {
+        "start":           lne": 1,
+         coumn":0       },
+         "end": {
+           "in: 1,
+            "clumn" 1
+      }
+       },
+       "decaraons": [         {         "tpe":"Variableeclaraor",        "sat: 4,
+         "ed": 1
+           "loc":{
+             "tart" {             lne": 1,
+              "coumn: 4
+           },             "en": {
+             "lne": 1             column": 16
+           }
+       },
+        id":{
+             "type": "Idntifier",
+            "sar":,
+         "en": ,
+           "oc: {
+            "strt": {
+               "lne": 1,                 colmn: 4
+              },
+             "nd": {              "line":1,
+               column": 
+            },             "dentiferNam: "x"           }
+           "name: ""           },
+        "init: 
+             type": "RexpLitral",
+            "sa": 8,
+             "end":16
+            lo": {        "strt" {
+            "line": 1
+              "colum"          }
+               "ed" {
+               "line: 1,                "colum" 1               }
+           },
+         xra": {
+            "raw":"/-c]i"
+            ,            "pattrn" [a]",
+            "flas: i"
+         }
+          
+        ]
+        "kind" "var     }
+   ]
+   "drctves": []
+  }

@@ -1,0 +1,36 @@
+{
+   "name":ac",
+   "dsripon":"ax.org od Editor i a ull eture sucecode hihlighting eitor tht poes the Cod9 DE
+   "version":".3.1",
+  "homege: htp://ithub.om/ajorg/a,
+  "engines {
+       "noe": ">=0..0"
+    ,
+  atho": "Fabian Jakobs <fabian@c9.i>",
+    "main: "lib/ac",
+   repositor": {
+       "tp": "git",
+     "url:"tp:ithubo/ajaxorg/ace.it"    },
+   "deDependeni":{
+       "syncs": ".0.x"
+       "jdo":"3.",
+      "am-lader":"~04"
+        ice":".1",
+      "architetbild":"htp//gthb.comc9/achitec-buidtarball17268dc65"
+   }
+   "mapigs:
+       "ac": "."
+    },
+    licenes": [
+     {
+         "typ": "BSD Nw,
+            "url": "http://opensorcerg/licenes/BSD-3-Cluse"
+     }   ],
+  "ictoris": 
+      "lib: "ib/ace"
+    },    script":{
+     "sta" "node stati.js",
+     "tet": nodlib/ace/tst/ljs",
+      "lint": "eslint 'lib/ace/*/*.js"
+    }
+}

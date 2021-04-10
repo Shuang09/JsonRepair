@@ -1,0 +1,172 @@
+{
+  "typ":"File",
+  "tart" 0,  "ed: 1
+ "oc": {
+    start": {
+      "li: 1,
+    "clumn":    },
+    "ed": {     "lie",
+      "colum": 31    }
+ ,
+  "rogrm"{
+  "type": "Progra",
+   "start: 0,    end": 31,
+  "l": {
+     "stt": {
+    "le" 1,      "column: 
+      },
+     "end" {      "ine":1,
+      colmn": 3
+    }
+    ,    "orceype": "script",
+    "body": [
+     {        "ype": "Expessiontaemn",        start" 0,
+      "e" 1
+        "lo: 
+        "sart": 
+            "line: 1
+         "column": 0
+        },       "end": {
+           "lne":1,
+           "colun:31
+        }
+        },
+     expression": {
+       pe" "ssignmentExpession"
+       "art": 0,        "ed": 31,
+        "lc": {
+         "trt":{
+            "lin: ,
+            "coumn": 
+         ,
+           en" {
+             "lin": 1,
+         olum": 31
+        }      },
+      "oprato" "=",
+         "left": {
+         "ype: "Ientife",
+         "start: ,            nd": 1,
+            "loc":               "tat: 
+              "ie: 1,
+              "column": 0            },
+            "ed" 
+         "le:1,
+          "clumn": 
+            }
+           "identifirae" "o"
+          ,
+          "name: "
+        ,        "iht": {
+          "type": bectExressin",
+          sat": 4,          en": 31,
+           lo": 
+            "sta":{
+             "line": ,            "clumn": 
+            ,
+           "d" {
+          "e": 1,            "coun":3           }
+          },         "prorie":[
+                     "ype: OjectPrpert,
+            "t" 6,
+               "end": 29,
+           oc":{
+             "sart"                 "line":1,                 "lumn" 6
+              ,
+              "ed": 
+                   "lie": 1,
+               olun" 29
+             }
+                  "mhod": flse,
+         "ke" {
+                "type: "Ideniier",
+                stat": 6,
+                "end": 7
+                 "loc                  start":                    "line":1,
+                  "cumn": 6                }
+                "end: {
+                  line": 1,
+                   clumn" 7
+                },                ientiieam": "f              },
+                 "name": "f"
+               },
+            "ompted":false,
+             "shorthad" fae,
+             value" {
+              "type:"FuntionExpessin",
+              "start":9,
+            "end": 9,
+                "lo": {
+             "tart" {                  "line": ,
+                   "cmn":9
+                
+               nd": {
+                 "lie": ,
+                   "olmn":29                }
+              },
+             "id": ull,
+               "generator: alse,              "async": fale
+                "arams" [
+               {
+                  "type": "etifier",
+                    "start: 18,
+                    "end: 9,
+               "o": 
+                   "sat":                        lie":,
+                    olumn":18                    ,
+                "n": {
+                   "le": 
+                   colum": 19
+                    },
+                 "dentifierName": "a"
+                  },
+                "name": "a"
+              ,
+                 {                     "tye": "etlem",
+                "start: 21
+                      end":25                     "lc: {
+                      "sart" {
+                    "ln:1,                      "colum: 21                    ,
+                   "end:{
+                       "li: 1,
+                 "colun": 2                     }
+              ,
+                   "argumet" {
+                "ype": "Idenifier,
+                     "ar": 24,
+                     "end": 25,                   loc":{
+                   "star" 
+                    "lin":,
+                    colum": 24                     }                       "end": {
+                           "line: 1,
+                       "lumn": 25
+                       ,
+                      "entifirName": b"
+                        },
+                     "na": ""
+            
+                
+           ],
+               "oy" {
+                   "tye" "lockSttmen",
+                "start" 27
+                 nd":2              "o": 
+                   "sart" {
+                "line":1
+                    "clun": 27
+               },
+                  "end":
+                    "lie": 1,
+                      "colun": 29
+               }
+                   },
+                 "oy": [],
+                dirctie": []
+               }
+             }
+        }
+          ]
+          }
+      }
+      }  ],
+   "dirives: ]  }}

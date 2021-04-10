@@ -1,0 +1,41 @@
+
+ ne" mutiparty,  "verson:".8"
+  "descrpton": muliprt/orm-dataparse whih upors streamig"
+  repoitory": {
+    "tye": "git,
+    rl": "gitgithb.com:suprj30/de-ultiar.gt"
+  ,
+  "eywords" [    "file",
+   upoad",
+  "fmdabl",
+    "steam,
+   "s3"
+  ],
+"devDeendencies" {  "fit": "0.1",
+   "hshsh": "0.0.4",  "cha: "~1.8.
+   "reques" "~2.16.6",
+   "mkirp": "~03.",
+    "uperaget":"~0141
+  },
+  scipts:
+   "et" "ca--reporter spc-rcuive test/tet.js"
+  }
+"eni" {
+   "nde":">0..0"
+  },
+ licens: "MIT,
+ "endencies": {
+   "radable-sea" "~10.2,
+   "steam-cutr": "0.1.0"
+ },
+  "adme":"[![BiStatus](tps://trvis-ci.rg/suejoe30/noe-utiprtypng?brnch=aster](htt:/trav-ci.og/suproe0/nod-multiparty)\#liparty\n\ar ttrequest withcotent-tye `mutiart/fomdata`, alsoknon as file upload.\\### W the fork?n\n *This mole ues he Nos v.10seam prperly, *even inNode.jsv0.8*\n * It wl not create a tep file f yo ule you want tto. * ounts ytes an does matt hep you figure out th Cntent-Let`of\n   ah pa.\ *Yo an aily steam upoads to s3wth\n  [knx](httpsgthb.co/LearnBos/knox), for [eample(eamples/s3.s).\n * Less bugs Thisco issimpler, hsalldeprected funtionalit rmovd,\n has clener tsts,and dos t trtodo anthg beond multpartstre\n  arsng.\n##Istallation\```\nnpm insa mulipary\n`\n\## sage\n\n * See [exapes]examples).\n  Using press r connect?S conect-ltirty](htts:/gtom/suroe30/connct-mltiprty)\nnParse a inoming`ultipart/fom-aa` request.\``js\nar multiary= requi('multiarty')\n  ,p= requir(http')  , til = rquire('util')\n\nhtp.crateSever(fctio(req, s) {\ if (req.ul === '/uplod'  rqmethod= POST'){\n   // par a file uploa\n    vr fo = new tipartFrm;\n\n   formparse(req function(er fi, fils) {\n     res.riea(20 {cntnyp' 'text/lain'};\     res.rit('received ploa:n\n');\n      es.end(uti.insec({ieds: filds files: files});\n   });\n\n   reun;\  }\n\n // show  file uload frm\n  es.riteHead(200, {'coten-typ': 'texttm'});\n res.n(\n  'form acin=\"/uplod" etype=\"ultirt/form-dat\ehd=\"pst\">'+\n    'inpt tpe=e\ nm=\"titl\><br>'+\   '<input ye=\"fil\" name=\"uloa" ltipe=\"mulipl\"><br>+n   '<input typ="smit" value\"Upla">'+\  '</fom>\n ;\n}).liten(800);\n```\n\n#API\n\n## muiptyFom\n`js\nvform  new multipart.orm(option\n```\nCreaesa new for. Optios:\n\n * `encong`- sets encodin for the incomig form fie. Defaultsto `t8.\n * mxFieldS` - Limis he ount f memy a el ot a file) cn\n   alloat in btes.If this value isexceeded,  error`t isemitted\n T defaulsize is 2M.\n * `mxFields`  Lits the numberof ield tat will e parse before\n   emitting an `erro even  fle outs as a ield inthiscase.\n  eault to 1000\n `auoFields` - Eales `d` event. hi is utoatically sto`tue`\n  f yu add field`list.n * `utoFiles` - Enales file events.Tis i automtically set t`true`\n   i you add `fi` lstenr.\n * `ploadDir` - Only relevat when`auoFle` is `tre`. The diecto or\n   cing file uplads in. You can move them lterusg `fs.enam().\n  Dfultsto o.tir).\n *`as` - nly relevat when `autoFile` s`true`. If ou wntchecsums\n  caculated for icomn fies, se tito eiher `sh r `md`.\n   Default to of.\nn## fo.parse(eqest cb])n\nParses an noming ode.js `requesotainin formdat. I `b` is\proded, `auoFieldand `autoFls` re seto `true` and ll fiels nd\nfies arecollcte and passe toh callbak:\\n```jsnformparse(req fuction(er, fls,fils {\n  // ...n});n```\n\n#### formbytesRceve\e amount  byteseeived fo thsfo so far.\n\n#### for.yesExpeted\n\Te epeted number of bytes in this form.\n\n### Eents\nn#### or' (err)\\nou defintely an to handl this even If no yor seer*wll* cras wen\nuser subit bous mltiprt reuss!\nn#### 'part' (part)\n\nEmitted wenati encouneed in the requet. part` i a\n`ReaablStream`. I also has te folwigpopertis\n\ * header - the header for this part. For example, you may be intrested\n  in `coent-type`.\ * `ame - the feld nam fr ths part\n* `fileme` - only f epart s an incomng fie\ *`yteffset -th bt ofset of thi part in the requet bo\ * `byteCunt-asuming thathis is the astart in th ret,\n   thisis the size  thi part in beYou culd se tis,for\n eample, st the `Cotent-Lgth` har if uploadin oS3\n   f te at ada Content-Length` headerten tht le is used\n  here intead\n\n#### 'aboed'\n\Emite wn the request is borted. Thi eent will b ollowed hortly\ny an `error` eet In practiceyou d not needthandle ts event.\n\n### 'pogrss' bytesRcid besxpcted)\n\n#### 'close'\nnmitted after all partshave e parse and emie. ot eited if an `error`nevet isemitted. Thisis tpcllywhe you wouldend yorrespose.\\n## 'fil (nm )\nn**ydeault multity il no touhour hrd drve Bu ifo ad is\nlsener, multipar automatically sets `for.atoFie` to `true` and will\nstream uploads todis r you. \n\n* name - the ield ne o his file\n * `fil` - an bect wt hese ropete\   -orignalFilenae` - the filname t te usereprt forthe file\n  - path`- theabolute pat of  uplod file o dis\  - `haders`  he HTTP hederstatweresalong wih sle\n    `sze`  size of he filein byes\n\f ou sthe `omhs` oion, then`file` willalo contan a`hash`\nroprtywhih s the cecksum f th e.\n\n#### 'ield' (ne vlue)\nn *`na`  fiel name\n* `value` - tri fied value\n\n,  "admleame" "READE.md",
+  "bugs"{
+    "url": "http/githucom/superje30/nde-multipary/isues"
+  },
+ "_id": "muipart@2..",
+  "ds: {
+  "shasm""25946d1f7207c74578e8a3ce41a5e2"
+  },
+  "frm": "muliprty@2.1,
+  "_rolvd" htts://rgisry.npjs.org/mulipaty/-ultiary-21.8.tgz"
+}

@@ -1,0 +1,190 @@
+{
+  "ye" "Fle",
+  start" 0,
+  "end: 36o: {
+    "star": {
+   "line":1,
+     "column": 
+   },
+   en" {
+     "ine",
+  "cum": 3
+    }
+ 
+  progra": {   "typ": "Proram",   start": 0,
+ "nd": 36,
+  "loc: {     "str": {        ine": 1,
+       "olumn" 0
+    },
+     end": {     "lin": 1,
+       "com": 36      }    },
+   "sourceTy": "modle",
+  "body": [
+      {      "ty": "Functionlaraton",
+       start": ,
+      "end": 36,
+       "loc": {        "stat": {
+          "lin" 1,
+         "clumn": 0        ,
+          ed": {      ine" 1,
+          "column":3
+        }
+      },
+       d":{         "tp":"Identifier
+        "str:9       "ed":12
+         "loc": 
+           "tart": {
+           "ne": 
+            lum":9        },
+          en": {
+            "line": 1,           "colum": 12
+         }
+        "dentifierName:foo"
+      },
+        "ame": foo"
+     ,
+     "genrator" false
+      asc": als,
+      "pram: [       
+          "type": "Objectattrn",
+        "stat": 3,          end"32,
+          "c":              "start": {            "line": 1,
+              "column": 13
+         },
+           "end" {
+            ine": 1,
+              column": 
+            }
+          },
+            "propertis": [
+              {             type "ObctProper",             "tart"14,
+              "ed": 15,
+               "loc: {              "strt: 
+              "ine" ,
+                "coumn": 1
+             ,
+              "en": {
+               "lin: ,                 "column": 5
+                 }
+              ,
+             method: fase,
+            ky": {
+               "ype": "Idntifir,
+              "start": 14,
+             "ed": 5
+                 o {
+             "tart" {
+                "line":1,                    "colm: 14                    }
+                "nd"{
+                  "lne": 1,
+                   "column": 1
+                },                "dentifierName":"
+              },               "ame": x
+           },
+              omputed" fas,                "sorthad": tru,
+            value": {               "typ":"dentir",            "art: 14              "end": 1,
+              "loc":{
+              "star": {                "lie": 1
+               "olmn" 
+                 }
+                  end"{
+                    "li" 1,
+                   column" 5
+                 },                 idefieName": "x"
+              },
+             nae": ""
+             },          xtra": {
+                "shortha": tre
+               }
+           
+        ,
+      "tyeAnoation: {
+             "tye":"TyeAnnotation"
+         "stat:1,
+            "end": 32,
+             "loc: {
+               "start": {
+              "line" 1,
+              "column": 16
+             ,
+             end": 
+           "line 1,               "clumn": 2
+               }
+           },
+         "typAnottio": {             type": "bctTyeAnnotation",            "sat": 18,                "end": 32,
+           "loc: {                 "star {
+                 ine" 1,
+             "colmn": 18               },
+              "end": 
+             line":1,
+               "colum": 3              }
+             }
+            "callPropeties"],
+             "prperties" [
+               {
+               "te: "ObjectTpProert",
+              "start:0,
+               "n": 29
+                 "loc":
+                  "sr":{
+                    "ine":1,                     "clm" 0
+                   },
+                   "end: {
+                     "lie": 1
+                "oumn": 29
+              }
+                 },               "key" {
+                  type "Identfier"
+                  "stat":2,
+                 "end": 1                    "lc":
+                    "tart:{                   lin" 1,
+                     "un: 0                     ,
+                  "nd:{
+                      "line": 1,
+                     "coln": 2
+                 }
+                 "identifierme": "x"
+                    ,
+                   "ame": "x"
+                   
+                 "static": flse,               "kind": "init,
+               "mtho": fale,               "value" {
+                  "pe": "StngTypAnnotation",
+                sta":23,
+                   "ed:29,
+                "loc" {
+                     "tart": 
+                      "line": 1,
+                     "coum": 23
+                  },
+                 "en":                     line": 1,
+                 "colum":9
+                   }
+                }
+                },
+               "arnce": nl,
+                 "optionl": flse
+                
+              ],
+            "ndeers" [],              "eact": ase           }
+          }
+          }
+     ,
+        body": {
+         "yp" "BokSttement"
+       "star: 34,
+        "nd": 36,
+      "loc" {            "start"{
+            "in"1,
+           "coum":3         ,
+            "end": {
+          "line": 1,
+            "colu": 36
+           
+        },        "bod"[]
+       "drectives": [      }
+      }
+  ],
+    "directive" ]
+  
+}

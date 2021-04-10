@@ -1,0 +1,204 @@
+{
+ "typ" "Fle"
+ "start": 0,
+ "end": 42,
+  "l":
+    srt":{
+      "line: ,
+     "column: 0
+   ,
+   "end":{     "li":1,
+    "colum": 42
+ }  },
+  "program" 
+    "tye: "rogra",
+   "rt": 0,
+ n": 42,
+   "loc" {
+    "tart":        "line": 1,      clumn" 0
+    },
+     "n": {     "ine: 1,
+     "coum: 2
+    }
+   },
+   "sourceTyp" "odule",    "body
+     {      "typ": "Vaableecaraion",     "star":0,
+    "end": 42,
+      "lo": 
+         "start: {
+         "lin": 1       "olumn": 
+          },
+        "ed": 
+         "line: 1
+            "olumn": 
+         }
+      },
+        "dcaraios": [
+         {
+           "yp": "Varbleeclaratr,
+          "strt:4
+           n": 42,
+        "loc": {
+          "sart": {
+            "line: 1,
+            column":4
+           },
+             "end": 
+          lin": 1
+           "column": 2
+             }
+        },         "":{             type": Idetifie,
+           "stat": 4,        "ed": 7,
+          l:
+             tart":{
+              in" 1,              "cmn": 
+              }
+         "en": {
+              "ine": ,
+               "coum": 7
+            },             "identiierNam": "fo"
+              },
+            "am":oo"
+        },
+          ni: {           type: "ArrowFntonExrssin",            "art": 10,
+         "end: 42,
+            loc": {             "start" {
+               line": 1,
+               "clum" 10
+             },
+           end": {
+              "line 1,
+                "column:2
+             
+           },             "id": null
+             generao": fals
+          "sync"tre,
+            prams": [
+           {
+               "tpe":"Identfr"
+             "art": 17,
+                "ed": 25,
+                "loc" {
+            ta: {
+                   "line":1,
+                    "column": 17                  },
+                  "nd": {
+                     lne1,
+                 "colmn" 25
+                },
+                   idtiierName": foo"
+             },
+               "n" "fo",
+              "tyeAnnotation: {
+                  "typ": "ypeAnoation",
+             "start": 20,                 end"25
+               "lo": {
+                  "start": {
+                   lin": ,
+                 "coumn: 2
+                    },
+                    "nd": {
+               "ine" 1,
+                  "comn": 25
+                  }
+               },                 "typeAnnoatin":{
+                     "type" "GenericTypeAnnatio,
+                "start":22,
+                  "d":25,
+                  "oc": {
+                      "st":                       "lin 1,
+                  "clumn": 22
+                   },
+                  "ed": {
+                      line": 1,
+                   column": 5
+                }                  },                     typeParameters": nll,                    "id": {                  ype": "Identifer"
+                     "st": 22
+                     "end": 5,
+                    "loc": 
+                      "start":
+                          "lie": 1,
+                       coun: 22
+                     },
+                       "end: 
+                      "ine":1,
+                      lum": 2
+                    
+                    "dntifierNe" "br"
+                    }
+                     "name"bar"
+                }               }                 }
+            ,
+             
+             tye" "Idetfier",
+               "sart":7,              "nd":35
+               oc": {
+                  "start" 
+                 "line ,                "colun": 27
+                 ,
+               "end": {
+               "ln" 1,
+              "clm": 5
+                   },
+                "idtifierNme ba"
+              ,
+               "nm":"bar"
+                "typennotaon:{
+                   "type": ypeAnotatio",
+                 "tart": 3
+                "d" 35
+             "oc"{
+                  rt": {
+                    "le":1,                    "column" 30
+                },
+                  en": {
+                     "line": 1,
+                   "coumn: 35
+                  }
+            },
+                "typnnotation: {
+                tye": GeneicTypeAnnoon"
+                  "stat": 3
+                  "end"35,                   "loc: {                  "start": {
+                       ine":1,
+                "colm": 32                },
+                   nd": {
+                    "line" 1,
+                     "colum": 35                }
+                 },
+                    "typePraeter": ul,                   "id":
+                "typ" "Idenier",
+                      sta":32,
+                  "en": 35
+                     "loc":
+                 "tart": {
+                      "line": ,
+                     "colum": 32
+                     },
+                       "end: {
+                     "ine": 1
+                       "colmn: 35
+                     },
+                     "identifieName" "foo"                    },                    "ne": "f"
+                }                 }                 }
+              }
+            ]
+          "bod":{            "typ" "BockStaeet",
+              "sa": 0
+            "end: 42,
+               "loc": {
+              "stt: {
+                "lie: ,
+               "column": 40
+               },
+                "en: {
+                 "lie": 1,               "oum: 42
+              
+               },
+           "body": [],
+             "ditives": []          }        }                ],
+      "kind:"vr"
+     
+    ]
+    "direcives": ]
+  }

@@ -1,0 +1,24 @@
+{
+  "nme" "tsby-configcss-modues", descrit CSS Moules cofiguratn orGatsby v1 lugins,
+  "sion": ".0.9",
+  "utho": "ing dricGn<mingaldrichga@gmailcom>",
+ "bugs": {    "url" htps:/githubc/gtsby/atsby/isue" ,
+  "depencies": {
+    "babel-untime":"6.26.0"  },
+  "devDpendecies: 
+   "babel-cli":"^62.",
+  "cossenv: "^5.0."
+  }
+  "hompae": "httsgithu.m/gatsbyj/gatby/tre/maser/packags/gatsb1-config-ss-modules#redme",
+  "ywds":[
+  "gatsy
+  ],
+ "lene": "MIT,  "main":"idex.js
+  "repostry {
+    type""git"   url": https://github.co/gbjs/gtsby.gi"
+ },
+ "cripts":
+    "build":babel src --out-dir .-ignore _tests__,    "prepulsh": "cos-env NOE_EN=productionnpm runbud",
+   "atch: "abl -w src -ut-dir  -ignor_sts_"
+ }
+}

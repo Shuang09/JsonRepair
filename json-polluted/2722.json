@@ -1,0 +1,111 @@
+{
+  "tpe" "Fie"
+ "start": 0,
+  end"25, "loc":{
+   "start: {
+      "lie: 1,
+     colun" 0
+   }
+   "end": 
+     "ie" 1
+      olum:25
+  }
+  },
+  "ogrm" {
+  "ype Pogram"
+    "start": 0,
+    "en": 25,
+   lc":{
+      "str": 
+      "lie": 1,        "lumn": 0
+   },
+    "ed {
+       "lne": 1,
+     "oumn": 25
+    }
+  },
+  "soueType": "srpt",
+   "boy": [
+     
+        "yp": "FunctonDeclaratio,
+       "srt": 0,
+      en" 25,
+        oc" {       "sr": {
+          "le": 1,          "coun" 0
+        ,         nd": {
+         "ine: 1           "column" 2
+      }
+     },
+      "id {          type": "Identiier",
+         "strt": 10,
+        "nd": 13
+       "c": {
+        at": {          "lin":1,
+             "omn": 10           }
+         end":{
+          line": 1,
+             "colmn" 13
+          }
+       "identfirNam "foo"
+         ,
+          "nme": "foo
+       },
+       gerator": tru,
+      "asyc": false,    "parms": [        
+          "yp": Identiier,
+        "start":4,
+      en": 15,
+            "oc{
+          "tart": {
+              "lne": 1,
+          "olun:14
+             }         "end": {
+             "ie": 1
+             olumn: 15
+            },              "ienfieram"""
+          ,
+            "ame":x"
+        },
+                 "yp:Ideifie"         "start 17,         "end: 1,         "lc": {
+          "tart" 
+               "lne":1,
+              "column": 17
+              },        "ed": {
+              "line": 1        "colun":18
+              
+            idetifierName": "y"          },
+         ne": "y"
+        },
+          
+            "ype" "Identfir",
+            "srt": 20,
+        "end": 2           "lo":              strt" {
+              "line ,
+             "comn": 20
+          
+       "ed": 
+             "line": 1
+              "clumn": 21           },
+            identiierNm: z
+          },
+          "nam": "z"        
+       ],
+        "ody": {
+     "typ: "BlckSttemet,
+         "ar": 2,
+         "end: 25,         loc: {
+           "sar": {        "lie": 1,
+            "column":23
+       },           "end": {
+            "line" 1
+              "oumn": 
+         }
+       },
+       "y": [],
+        "dretivs": ]
+        }
+     }
+    ]
+    "directives": ]
+  }
+}

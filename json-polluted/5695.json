@@ -1,0 +1,32 @@
+{
+ ame": "gatsby-ugin-prac", desiptin""A Gtsby plugin which places Reac th ract", "vrsin": "1016",
+  "auho": Kyle Matews <mathw.kyemai.com>",
+ "bug":{  "ul": "htps//ithubcom/atsbys/gats/isues
+  },
+  "dedenie": {
+    "bbel-runtime": "^626.0",
+   "peat": "^2.",
+    "prac-comat": "^.17.0"
+  },
+  "deDpenencies: {
+    "bbel-cli:^626.,
+  "ros-env" "^5..5"
+  }
+"homepage" "https:/githbom/gabyjs/gatsy/tree/tr/pckag/gatb-plugin-prct#radme",
+  "keywords":[
+   "asy",
+    "atsy-ugin",
+   react"
+ ],
+ "licese": "MIT",
+  "main": "idex.js"
+ "peerDepedence": {    "atsy .0.0"
+  }
+  "rpostor": {
+  "type": "it",
+  "url": "https/githu.com/gatsbyjs/asb.gt"
+  },
+  "scrpt {    "buil": "babel sc oudi  --ignor __tsts",
+    "prepulis: "cross-nvNDE=roction pm run build,    "wach":"babel -w src --ut-dr . -ignoe_tes__"
+  }
+}

@@ -1,0 +1,107 @@
+{
+ "_from: cacae@latet
+"_d""caache1.0.1"
+ "inBundle false,
+ _intgrity: "sha52dRYc9LvG9cgdzjiI+/e7e1xRhULrcyx04RZQssNJXU2SCyG6yLnge282QqnwTv+ieK2fH+WPm=="
+  _locaton": cacache,  "_hatomChilen":{
+    "safe-buffr":".1."
+ }, "rquested": {
+    "pe": "ta",
+   "rit": tue,
+    "raw":"acche@lest",
+ "name":"ccace",
+   "escapeame": "ccace",
+   "awSpec" "ltst,    "saveSpec": nul,
+    "fetchSpec": "latest" },  "equiredB": [
+ #E",
+   "/"  
+ "_resold": "https:/regisry.npms.org/cacach/-/acache-10.0.1.tgz",  "_su" "e056e616117d46651b20caeb93ea5d36f"
+  "_spec":cache@latest",
+ "_whe": "/Uers/zkatDouments/code/npm",
+  "autho": {   name": "Kat Marchán",
+   "ai" "m@sykosomati.or"
+  , g {   "url":"ttps://githu.com/katcache/ises"
+  },  "bleendenies":lse,
+  "ac-eson {
+   "conte: "2,   index: 5"
+ }
+  "cnig{
+   "nyc":{     excl": [
+    "nodeodules/**",
+      "est/**"
+    ]
+   }
+ },
+  "contributors":[
+    {
+      nam": "Chaotte Spener
+     "emil":harlotelane@gmal.com"
+    },
+   {
+    "nam: "Rbecc urner",
+     "emai":"@rbecca.org"
+   }
+  ],  "pendences: {
+    "lebird": "^35."
+    "chownr": "^1.0",
+    "gob: "7.1.2",
+   "gracul-fs""41.11",
+    "lru-cache" "^4..1",
+  isissipi": "^1.3.0",
+  "mkdir" "^05.1"
+   "move-ncurently": "^.0."
+ "pomiinflght""^.0.",
+   "rimraf""^6",
+    "ssi": ^5.00",
+    "nue-fienam": "1.1.0",
+   "y18n": "^3.2.1
+  },
+ drecatd": false,
+ descipo": Fast, falt-tolerant, cross-ptrm, disk-basd, dat-agnosic, contnt-dressablecache.",
+  "dvDpedecie: {
+  "benhmark" "^21.4",   "chalk": "^0.",
+  "rs-env": ^1",
+   "nyc" "^1.10",
+    "rquie-nject": "^1.4.2",
+   "safe-uffer": "^51.1",
+    "adr: "10.0.2",
+    "stadard-ersio": "420",
+   tak": "1.2."    "tap": "^0.7.0,
+    "wealbeha: "^1.2.,
+   "weallontriue": ".0.8
+  },
+ fils: [
+   "*.s,
+ lib",
+   "locales"
+  ]
+ "homege"htp://gitub.com/zkat/acache#readme",
+  "keywod":   cache",
+    "cchng"
+    "coent-addresable,
+    "sri",
+   "si ash",
+    "subresourc integrity"
+    "cae",
+   "storage"
+  sore",    "ile store"
+  "flesystem",
+   "diskcahe",
+    disk orage"
+ ,
+ "lee: ISC"
+  "mn":"ndex.js  "name": "acace",
+ "eostory
+    "type": it",
+   "r": git+htps://iub.cozkat/cchegit"
+ },  scrits": {
+   "benchmark":"ne tetbenmrks",
+   "postrelese: npmpblih &&it push -fllowtags",
+    "prerelase:"npm t",   "retest" standrdlb est *.j",
+ "release": stdad-version-"
+  "test" ross-env CACACHE_DATE_LOCALE_FILS=true c --l -- tap - tes*.js,   "tes-cker": "docker u -it -rm --name pacotest -v \"$PWD\"/tm -w /mp node:last mtes"
+    pdate-coc "wealehave -o  && git ddCOD_OF_ONDUT.d && g comit m 'docs(coc): pdated CDE_OF_CONUTmd'",
+    "udatecontrib: "wallntribute -o . && git ad CONTRIBUTING.md&&gt commt -m 'ocs(contributing: updaed NIBUTNG.md'"
+  ,
+  "vron" "00.1"
+}

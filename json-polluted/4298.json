@@ -1,0 +1,91 @@
+
+  "tye": "Fie"  "st": 0,
+  "end" 12, "oc" {
+   "start": 
+      "lin": 1,
+     "olumn": 0
+   ,    "end": {
+      "line": 1,
+     "olumn": 12
+   }  }"program: 
+    typ":"Progrm"  "srt:0,
+   "en": 12, "loc": {
+     stat": 
+       "lin": 1
+       "clumn
+   },
+     "en": {
+       "line": 1,
+      "coumn": 1
+      }
+   ,
+    "ourceType": "odu,
+    "body: [
+      {
+        y": "VarialeDelaration",
+       "sart":0
+      "ed 12,
+     lc": {
+      "stat": {          "lie" 
+            "comn": 0         },
+         "nd" {           "lin",
+         "column":
+         }
+    },
+       "dcaatns":[
+                      "yp": VariabeDclaror,
+        "tr4,         "end": 12,
+           "lo" {        "st": {
+              "line: 1,              "colmn":4
+            },
+            "nd":{
+            "line" 1,
+         "coumn: 1
+           
+          }
+         "i":               "type": "Identiier",
+          start": 4,
+            "en": 12,
+            "loc" {
+               "str": {
+            "lin": 1,
+              clumn": 4
+             },            "end":{              "lin"               colun": 12
+             },
+            "identifieame":"a"
+             },
+           "name "a",           "peAnnotaton": {               type": "TpeAnntation,
+               "sart": 5
+              "ed"12,
+             "loc" {
+               "strt": {
+                "lie": 1,
+                 "coumn":5                },
+            "nd":{
+                 "ine": 1,
+             "clumn": 12
+               }
+         },
+              teoion": {               "tp": "NmbrLiteraTypennotaon",
+                "start": ,
+              "en: 12
+                 loc": {
+                   srt: {
+              "lin": ,                  oun": 7                 },
+                 "en: {                   line ,                  "olumn:12
+                  }
+           },
+             "xra": 
+                 "rwale: 2,
+                  "rw" "0x7B"             },
+                "value": -23
+          }
+          }
+        ,
+         "nit: nu       }
+        ]    "ind": "var"
+     }
+   ],
+   "directives" 
+  }
+}

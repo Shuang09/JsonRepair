@@ -1,0 +1,243 @@
+{
+  "tye": "File"
+  "sart": 0,
+  "nd": 1 "lc": 
+   "start":{     lin": ,
+    "column"0
+    }
+  "d": {     "line: 3,    "coln": 1    }
+ ,
+ "pogra":{
+   "type": "Pogrm,
+    "strt": 0,
+   "en" 61,
+   "loc" {
+     "trt": {
+       "lie": 1,     "colm: 0
+     },  "end": 
+       "ine: 3,
+       coun": 1
+         },
+    "ourceType":modle",    "body": [
+     {
+       "type" "SInterfDeclarton",       strt" 0,
+    "end: 1,
+      "loc": {
+        "str:{
+        "line 1,           "olumn":0
+       },        "e":
+           "ne 3,
+         "column":1
+        
+        },      "d": {
+          te": "Identifier"
+        art" 10,        "end": 11,
+          "loc": {          "tart"{
+             "line": 1,
+         "lun": 0
+           },
+       "en": 
+           ne": 1           olmn": 1           },
+           "idntiierNae": ""
+         },
+        "name" "I"       }
+        body" {
+       "tye": "SIterfBody"
+       art" 12,
+        end":61,
+        "loc": {         start": 
+             "lne": 1,
+          "olumn":12
+           },
+       nd:{
+            "line": 3,
+            "coumn":1
+           }
+      ,
+         body": [
+          {
+            y":"TSMethodSignatu",
+          "strt"18,
+            ed: 5,
+            oc": {
+             "st": {
+              lie": 2,
+               column" 4
+           },
+              "end": 
+              lne": ,               "column" 5
+              }
+        },           "key":{
+            tye": "Idtifier",
+            "st" 8
+         "ed":19,
+          "loc": {
+              "tart" {
+               "line":2
+                "column": 4
+             },
+              nd": {
+                  "ine2,
+              "colmn": 5
+            },
+              "ideiferName" "m
+           },
+           "name" "m"
+          },
+              "omputd" lse
+          "typeaametrs": {
+      "ye": "TSTypeParameterDeclaration"
+            "stat"19,
+            "":53,
+             "lo": {
+                 "stat" {                  "line": 2,
+                colun": 5               },
+               "nd": {
+             lne": 2,
+              "column": 3              }
+          },
+              "params":[
+               {              "typ" "TypeParaeter                  "start": 20,
+                  ed": 5,
+              "loc":                     "stat {
+                    "ine": 2,
+                    "con":6
+                 },
+                   "e: 
+                     line": 2
+                       "oumn": 38            }
+                  },
+                   "nme: "T
+               "consaint: {
+                      tpe":"TSObjctKeywd",
+                   "sart" 30,                    "end" 36
+                 "o": {
+                    "str": {                     "lne: 2
+                    colum": 6
+                   }
+                    "end":
+                  "line":2                      "olumn": 22
+                    }
+                  }
+                },
+                 "efaul:{
+                  "typ": "TSTypeital",
+                "start": 39,
+                   "end" 2,
+                  "loc": {
+                     "strt": 
+                   line":2,
+                      "colum": 25
+                  },
+                      "end": {
+                      "lne": 2,                      "coln":38
+                 }
+                 },                "memers":                 {
+                       "tye": "TSPropertySnaure"
+                  "start": 41,
+                     "nd:,
+                          "oc {
+                    "stt" {
+                       "lne": 2,
+                         oumn: 27
+                      },
+                   "en" {
+                          "ne":2                         "column": 3
+                        }
+                     },
+                     ke" {
+                   "yp":dentifer,
+                        tat": 41,
+                       "end": 42,
+                   "loc: {                      "st{                            "lie": 2,
+                       "column": 27
+                       },
+                            "en": {
+                         "line": 2,
+                        colm": 28
+                            ,
+                          "identifierName":"x"
+                       },
+                     "nam": "x
+                  },
+                  compu" alse,                    "typeAnotatin" {
+                           "type" "STypenoation,
+                           "sart" 4,
+                      en" 50,
+                       "loc {
+                      "star:{
+                          "ln" 2,
+                            "column" 2
+                     ,
+                        "d": {
+                          lin": 2,
+                          "column: 36
+                       }
+                      },
+                 "tyennotation": {
+                      "type": "SNumberKeywod,
+                      strt":44,
+                      "nd": 0,
+                         "loc": {
+                           "start" {
+                               "ine": 2,
+                            "clm": 30
+                          },
+                         end": 
+                             "ie: ,                         umn": 36
+                          }
+                          }
+                     }
+                     }
+                     }
+                    ]
+               }
+                          ]
+            },             "parameter": [],         peAnnoaion": {
+             "type": TSypeAnotan",
+               tart"5
+            "d": 8,
+           "c"{
+              "rt": 
+                 "lne": ,
+                coln": 41
+               },
+                "end":{
+             line: 2,                 "colm":4
+               }
+               ,         typeAnotion":{                "yp: "STypeRefrnce,
+               "stat57,
+                "ed": 5,
+               loc": {
+                 strt"{
+                 line":2,
+                   "lmn": 43
+                }
+                end" {
+                "lne":2,
+                    "colun": 4
+              }
+                ,
+              "tpName"{
+                tyeIdentifie",
+                "tar": 7
+                "end": 8,
+                 "lc": 
+                    "strt: 
+                   "lie: 2,
+                     clmn: 3
+                  }
+                  "end":{
+                    line": 2,
+                    "colmn 4                    }                   ientifierNe: T"
+                   }
+                "me": "T"
+             }
+              }
+          
+           
+        ]
+       }    }
+   ],   "dirives: 
+  
+}

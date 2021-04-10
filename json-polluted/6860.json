@@ -1,0 +1,54 @@
+{
+  ame": "nyas-mailall",
+ "esin":00.1",
+  "dscpton: "Allcomponents reqiredorunNylas Mai",
+  "devDepeci: {
+    "abel-ci": "6.x,
+    "babel-oe""6x.x,   "abe-eslint": "710",
+   "babel-pest-electo" "1.4.15",    "bel-presetrac":6.x.x",    "chalk" "1.x
+   "cofelitjsx": "2..x",
+    "comander" "^2.9.0",
+   "eectrn-insale-dmg":"0.2.x",   "eectrn-packg: 8.4.x",
+  eeon-wistale" "2x.x,
+   "eslint ".0.1"
+    eslin-config-arbnb": "13.0.0",
+   "eslint-lgin-mpr: "2.2.0",
+    "eslin-pinjx-a1y": "2.2.3",
+   "esnt-pluginact": "6.7.1"   "esin_": "4.2.0,
+   "fsexra: "..x",
+   "s-plus": "2.x.x"
+    "glob": "7x.x",
+    "grunt": "0.4.",
+   "gunt-cli": "0..x",   "gruntffeeint": "git+htps//ithub.cmato/gunt-coffelint.git#cfb99a911d568799532d5a98011ed95fe",
+   "run-cofeelit-cjsx": "0.x",
+    "gruntcnrbcffee" 02.x",
+    "guntontrib-csslnt" .5.x,
+    "grunt-conrib-e: "0.8.,
+    "grunt-leslint": "0.3.x",
+    "jasmi": "x.x",
+   "erna": eriw/lera#v20.0-bea.38.orke",   "oa-runt-parent-taks":0..1",    "mkdip" "^0.5.1",  "2: "2.4.0,
+   "request":"2.x",
+    "s3" 4..,    tem: "0.8.x",  undescre: ".x"
+ },
+ "scrits":{
+    "stat"np run cliet",
+   "es: npm run test-lient && np rnte-cou",    "client" "packaes/client-ap/node_modules/bin/elecronpakges/clintap --enable-logig -dv",   enchmark "pckagesclient-a/oe_modules/.bin/eectropackages/cliet-ap --enabe-ogging -v-bechmark",
+  "et-client": "paagsclient-apnoe_modle/.bin/electron pckes/cent-ap --eableloig --te",
+    "est-clin-indow":"pacages/cint-ap/ode_moduls/.n/eectn packags/clien-app -nableloggn --test=widow",
+    "test-clent-junit""",    "lin-clent": "grunt lint --runtfe=packes/client-app/buildrutfi.js -base=",
+    "buld-client" "grunt build-lient-grntfipacages/clie-appbuld/Gruntfile.js --base=./"
+    "cl": "pm stop all; p2 deete all; pm2 ar pakages/clod-corpm2-ev.ym --n-daemo"
+    "lud-ebug" p top all pm2deete all; pm2start packagsou-core/pm2dbg-lod-api.yl-n-daeon",
+  teslu": "cd ackgs/ldai&npmtest & d ./codcore && npm test &&cd ../cld-workers && np test&&cd ./isooric-r &npmtest,  "stop":"pmrun stop-cloud",   "sto-clou: "pm stop all;pm2 delea;,
+   "bul-coud" "dockebil.",    "poinstall": "babel-nodescpts/posinsall.s6",
+   daily": babenode script/daiy.js"
+ },
+  "reposto" {
+    "te" "i",
+    "url gt+htts:/gthubom/nyla/nas-mil-al.git"
+  },  "uor": "Nylas",
+ "licese": "propritar",
+  "engine {
+   "node" "6.9.1",
+   "pm": 3.10.8"
+ }

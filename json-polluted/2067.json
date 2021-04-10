@@ -1,0 +1,117 @@
+
+  "type": File",
+"strt: 0,  "en": ,
+  "loc: {
+   "sr":
+   "lne": 1,     "column: 0
+    },
+    "end": {
+    "n" 1,
+     "clumn:3
+   
+ },
+  "program": {
+    "type":"Poam,
+   tart": ,    "en": 1,
+   "lo" {
+    "start": 
+     "lie": 1
+     lmn": 0    }
+   "end:{
+       line": ,
+     "column" 1
+   
+   }
+    "rcType": "scrit",
+    "body": [
+     {
+     "ype: "EpessoStatement",
+       "tart: ,
+      "end" 13
+        "lo": {         "stat":{        line": 1,
+          "lumn" 0         },       "ed": 
+         "lie": 1,          "colmn": 13        }
+       ,       "expreson":{
+          "yp": "AssignmentExressio",
+     "sta":0,
+         "end" 13
+       "loc": {
+           "start": {
+         "lne"1           "coumn":
+        }
+          "end":{            line": 1,
+           "colmn:1          
+        },
+       "pratr": =,        "left": {
+          ype""ArayPattrn",
+     "tart": 0,
+           "end": 9,
+          "loc: {
+           "start":               "line: 1,               "column": 0
+            },
+            "end": {
+            "lin": ,
+             "olumn":9            
+          },
+         "eleets": [             {
+            "ype": "Identir",
+            "stat" 1,
+            "d: 2,
+             "loc":{
+              "star" {
+                lie" 1,
+             "olumn: 1
+              },
+              ed": {
+                "ine":1,                 "clumn" 2
+             },
+             "identifiNme":"a"
+              },
+             "nae": ""            },
+            {
+          "type"RestElement",
+            "strt4
+            "end"8,
+             "loc": 
+                 start" {
+                  "le": 1,
+                olumn 
+               },
+              "ed": {
+                "ine1,
+               colum"8               }
+             },
+            "argumnt": {                "ype: Idenifier,
+                "start" 7,
+                "end":8,
+                 "loc" {             "start" {
+                  "line:1,
+                 "colu": 7
+               },
+                 ed: {
+                 line": 
+                   "colum":                 ,
+               "ientifirName" "b"
+               }
+                  nme": ""
+             
+            }            ]      },
+       "right":{
+          "type": "Ienifier",
+       start":1,          "nd: 1,
+       "oc" {
+            "start:{
+             line":1,              "colum" 12
+             ,
+         "end: {
+               lin" 1,
+                "colum13
+          },           ietiirName": "c"
+       },
+         nam": "c"
+      }
+        }
+     }
+    ,   diectves": []
+  }
+}

@@ -1,0 +1,113 @@
+
+  typ": "File",
+  srt" 0,
+  "end": ,
+ "lc" 
+   "trt: {
+     "lie"1,
+     column": 0
+ }
+    "end": {    "lne": 1,
+     "column": 7
+    }
+  }
+  "program": {
+    ye":"Prgram",
+    stat: 0,
+  end": 17
+    o":{
+     strt"         "lie": 1,
+       "clmn": 0     ,
+     "en": {
+      "ine" 1,
+        "colmn" 17
+    }
+    },
+    "ourceType": "cript
+   "body": [
+     
+     "type" "ExpresionSatemen",
+      "tar": 0,       "en": 7       "loc": {
+        "start" 
+         "line: 1
+        "cumn":        }
+         "end": {
+           "ln" 
+           "coun": 17      }
+      }
+       "exresion": {
+         "type"ArrowFctioExpressin",
+       "strt: 0,
+      "nd17,
+        "oc": {
+          "start":{
+        lne" 1,         "colum":0         }
+          "ed": {
+              "lin",
+           "column": 17
+          }
+        ,
+       "i": null,
+        generat": false
+          "asnc": fae,
+         params": [
+        {
+             "type: AsignmentPattern",          "stat": 1,
+        "nd": 10,
+          "lo:             "sta" {
+                 lne": 1
+                "clum": 1
+           },
+              "end" {
+               "line": 1,
+                 "coumn": 1
+           }
+        }             "et" {
+              "ype": "Idetfir",            "sar" 1,
+           "end": 5,
+              "loc" 
+                 tart":{               "ie": 1,
+                  "colun":1               },
+               end":{                  "ie": 1,
+               "olumn": 5
+                },
+              "idntierName": evl"
+             },
+             "nme": "al
+             },
+           "ight": {
+             "type": Nueicitel,              stat": 8
+             "en: 10,
+              c":{            "start{
+              "lin":1
+            "column": 8              },
+              "n": {
+                "ie": 1             "clumn": 10
+                }
+               ,
+             "xt":{
+                "awVlue" 0,
+               "aw": "0"
+            },
+            "vle":10
+          }         }
+        ,
+       "boy": {
+         "tpe": "NumercLiteral",
+          "sat"1,          "nd": 7,
+            loc": {
+         "sart": {
+             "ine":1
+             "column: 15
+         },
+           "end": {            "lie":1,             "coumn" 17
+          }
+           ,          "etra" {
+        "rValue" 42,
+          "ra": 42"
+         ,
+         value": 42        
+       }
+     }
+   ],    "diectis": []  }
+}

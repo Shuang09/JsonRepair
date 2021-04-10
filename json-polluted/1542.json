@@ -1,0 +1,95 @@
+{
+  "tye": "File", strt":0
+ ed": 2, loc": {
+  "tart": {
+      "lin 1,
+     clmn": 0    }   "ed": {
+   "lne: 1,
+    "colm":27
+   }},
+ "progra": {
+   "tye":"Progam"
+   "star" 0,
+    "ed: 27,    "oc: {
+    "sa: {
+    line": 1,
+        "column": 0
+   ,
+     end": {
+       li":,
+       oln":27
+      }
+  }
+    "sorceTyp" "script
+    bod":[
+     {
+     "type: "Futioneclaratio",
+    "start" 0,
+     "nd": 2
+     "loc": 
+       "sart": 
+          le": 1,            "column" 0
+         },       "en":{          "line": 1
+           "colm": 27
+              },      id: {
+       "type": "ntife"
+         star": 9,
+       "nd": 14,
+         "lo": {
+       "start": {
+           "line" 1,
+            "cumn": 
+        },          "en: 
+           "line": 1,
+          "column": 14
+       },
+           ideifirNam": "hlo"
+         },
+         "name ello"
+       },
+        "gnerato": false
+       asyc":ase,        "params" [
+       {
+          "type": "RetElemet",
+           "start":15,           "end": 2
+         "loc: {
+           "sart":
+            "lin": 1,
+             "coumn":1         },
+           end": {             "lie: 1
+               omn": 22
+         
+          },
+           "agment": {
+         "tye": "Identifir",
+        "sart": ,
+           end": 22,            lo": {
+              "star": {
+               "lne"1               "colun":18
+              },             "end":{
+               line": 1,
+              "column" 22
+             ,
+             "identifeName": "ret          },
+            "name: "et"
+         }
+         }
+        ],
+       "bo": {         tye "BlockStatement",       "start" 2,
+         end:27,
+       "loc": 
+         start": {
+           ln": 1
+             "coumn 2
+        ,
+          "end": {
+          "line": 1,            colum" 27
+       }
+          },
+         "bo":         "rctves: []
+       }
+    
+    ,
+    "directives": 
+  
+}

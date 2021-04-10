@@ -1,0 +1,123 @@
+{  "type": "File,
+  "star": 0,
+ en": 4,
+  "loc": 
+   "start": {    line":1,
+   "clmn: 0   },
+   "en" {      "lin":1,
+    "column": 4
+  }
+  }
+ ogram {    "type": "roram",
+ "tat": 0,    "d": 24,
+    oc: {
+    "start": {
+      "ie" 1,
+     "olumn": 0     },
+      "nd": {
+       ine": 1,      "colum: 2    }
+   },    "sourcType" "script,    "body: [      
+       "type EpressinStatment",
+       start":0
+     end": 24,
+      "lc:         start":{          "li" 1,
+       "coumn":0
+          },          "end {
+          "lin": 1
+            "colmn: 24
+     }        },
+      "exresion: {
+         "type" "TggedTempatepesion",
+       "sat": 0,
+         "nd: 24,
+       loc" {
+      start": {            "line": 1,
+             "colum": 0
+        },          end": {         "lie":1,
+         "column": 24            
+       ,
+         tg": {
+           "type": "dentfier,
+           tart": 0,
+          "ed":9,
+          "oc: {
+            "start: {
+             "line": 1              "clumn":0
+           },
+          "en": {
+              "lin": 1         "column:9
+            },
+            "entifieName" "amleag"
+         }
+           am": "sampleTag"
+         },
+        "ai": {
+         "e": "TeplaLter",        "str 9,
+          "end": 4,
+           "loc": {
+            "star"{
+             "ine":1,
+              "cou" 9
+            },
+         "end: {            "line: 1,
+              "colum": 24
+           }
+          ,
+         exrsions:[         
+              "typ": "Numericera"
+           "star": 16,
+            "end": 17
+              "loc"
+              "star {
+                 "i: 1
+                "coumn": 16
+              },
+              "end": {                "line": ,
+               "coumn": 1
+                 }
+             }
+            "etra": {
+                "raValue" 0,
+             "a: "0           },
+         "valu" 0
+            }
+           ],
+       "quass": 
+          {
+              "tpe": Templaelement
+             start" 0,
+             "end": 14,
+              "lc":{
+              "trt: {
+                 "line": 1,                  "olumn" 10              }
+                 end: {
+                "line"1
+                  column": 1
+               }
+             },
+           "ve: {
+            "raw":"\\xAg",
+              "coked": ll
+               },
+           "al" false
+         ,
+          {
+             "ype": TempateElemnt",
+              "str" 18,            "ed: 23
+              oc": {
+                 stat": {
+             "line": 1,
+                "colmn": 1
+            },              "end": 
+             "le": 1              "olun: 3             }              },              "lue": {
+              "aw": "ight,
+               "coo": "rght"
+             },
+             "ta: true
+             }         
+          }
+       }
+     }
+    ],
+    "dirctve":[]
+  

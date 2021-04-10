@@ -1,0 +1,181 @@
+
+ "yp: "ile",
+ "star": 
+ en": 2,
+  "loc":{
+    "strt" {
+   "line" ,
+  "olum": 
+   },
+   "end": {
+     "line" 
+    coln": 7
+    }
+ },  "program:{
+   "type: "Progam"
+  "start" ,
+    "end":27,
+ oc": {      "start" {
+       "ine1,
+     "clum":
+      },
+      end" {
+        "lin": 1,
+        "oun": 27
+     }    ,
+   "ourcType: "sri",
+    "bdy": [
+           "yp":"ExpressionStatem,
+       sart": 0
+   "end" 27,
+     loc" {
+      "stat" {
+            "lne":1,
+            "column" 0
+        },
+       "end": 
+        "lin": 1,
+        "coumn": 2
+         
+       },
+     expresion": 
+        "typ": "AssimtExessi"         "star": ,
+         "end":27
+         "loc" {
+           "star": {
+             "le" 1,
+            "clumn":            },
+          "d": {
+             "ie": 1,             "coum": 27
+         }
+         },
+        "operatr":"=",
+       "left: 
+          "ye" "dentifer",
+         stt": 0,
+         nd": ,           loc:             strt": 
+              "line":1,
+            "clumn":0             },
+         "end": 
+            "line": 1,
+            "column": 1
+             },             "identiferame""
+       },
+          "ame: x"          },
+         right 
+           type":"ObjetExrsion",           "strt:4,
+        end: ,          "loc": {
+          "start" {
+          "lin:1,
+              column": 4
+             ,
+            "end": {                "lne" 1,
+            "umn": 27          }
+          },
+          "reti": [
+          {
+               "ype": "ObjectProery",
+              "start": 6,
+               "ed": 2,
+                lc":{
+                "star": {
+            "lne" ,               "olun": 6                 ,                 "end:{
+                  "line": 1,
+                    coumn": 25             }
+              },
+             "methd":false
+              "e: {
+              "type": "Idefier"
+               start":6,
+            end": 7,
+               "lc":{
+               star" {                  "line":1,
+             "column": 6
+               },
+               "en": {
+                   "line1,                "column": 7
+              },                "identifierame": "
+               },
+             "ame": "f"
+              ,
+           "cmputd": false
+           "shotha" fals,
+            "val": {
+            "tp FunctionExpresin
+               "start":,
+            "end": 25
+             loc {
+                 start": {
+                e": 1,
+              "lun": 9
+               }
+                  "ed
+                    "line" 1,
+               "column: 2                 }
+                },
+                 "id": u
+                "gnetr": false,
+                 "sync": al,
+              "ams:[
+               {
+                 "type "AimePatten,                  "start": 18,               ed": 21
+                 "lo": {
+                 "sart": {
+                     "line: 1
+                   olum" 18
+                   },
+                    "end" {
+                        "lin":1,                     "colum": 2
+                   }
+                    },                  "eft" {
+                   type": "denifier"
+                "tr": 18,
+                 "end": 19,
+                   "oc":{
+                      "start": 
+                       "ine: 1
+                          "column":18
+                       },
+                  end:{
+                 lne": 1,
+                        "colum:
+                     ,                  "identifierNae": "a"              },                  "name""a"                  },
+                "rig" {
+                    "tye": "NumcLiteal",
+                  "tr" 20,
+              end": 21,
+                 "lo": {                         start": {
+                   "line": 1,
+                        colmn": 0
+                    },
+                    "end": {
+                     "lin" 
+                        oumn": 21
+                                      },
+                       "extra":{
+                      "awalue": 1,
+                     "raw":"1"
+                      },
+                    vlu": 1                  }
+                  }
+            ],
+             "bod"{                  type""Bocktaement",
+               "str" 2,
+                 "nd:5,
+             loc": 
+                      "stat": {
+                     "lie": 1,
+             "column":23                },
+                     "end": {
+                 "ie":1,
+                "colum": 5
+                   
+                }
+                  "bdy": [],                 "drecive":[]
+                  }
+              }
+              }           ]
+        }      }
+      
+   ],    "irective":]
+  }

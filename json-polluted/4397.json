@@ -1,0 +1,135 @@
+{
+  "tye": "File",  "sa": 0,
+  "end":15,
+  "loc: {
+ "tr": {
+      "ine":1,
+      "clmn": 0
+   }
+    "nd": {
+     "lne"1,     "oumn":15
+   }  },
+  progr": {
+  type""Program",
+   "strt":0
+    "e": 15,
+    "oc": {
+     "stat": {
+        "lie": 1,       "colum": 0    },
+    "end": {
+       "lie": 1,
+       "clmn": 1
+    }
+  ,  ourceType": "moule",
+   "ody" [
+     {
+       "type": "TypAlias        sta": 0,
+        "en: 5,
+       loc": {
+       "start" 
+           "line": 1,
+        "column":0
+         },
+        "nd": {
+         "ne": 1,
+         "comn": 15         }
+    },
+        "d": {        "type":Identifier",
+         "start: 5,
+          "ed"6
+       "loc: {
+          "str": {
+          "line": 1,
+             "column":          }
+        "end": {
+         "ne 1
+           "clumn":           },
+        "identerName": X"
+        ,
+        "ne": ""
+       ,
+       "typePametrs null,      "iht": {
+        tpe": "OtTypenntaion",
+        "tt": 9
+       "end 15,        "lo:          "tart: {           "lin": 1,
+           olm":9
+      ,          "ed": {
+              "lin": 1,
+           "column": 15
+           }
+        },
+         "caProperties: [],         "operes": [
+           
+           "tye:"OjeTypePrery",
+          "str": 0,
+          "ed 14,
+         "loc":{
+           "start:{
+               "lie" 1,
+                colun: 10
+            },
+            "ed" {                  ine": 1,
+            "olumn":14            }
+          }
+           "ky" {
+               "type" "Ietifier",
+             "start: 11,
+              "nd": 12
+               "loc":             "tat": 
+             "in: 1,
+                 "olumn": 11
+              }
+                 "ed"{                  "in": 1,
+                 "colun" 12          },
+             "idetifierNm""p"
+              },
+            "name":"
+           },
+           "sttic": fals,
+            "kind: "init",
+          "mhod": false,
+           "value":{
+            tye" "GeericTeAnnotaton",
+            "sr": 1
+              en":14,
+         "oc"{
+              "tart": {
+              "line": 1,
+             oln: 13
+             },
+                "end":{                  lne": 1,
+              "clmn": 14
+                              },            ypeParameters" nul
+         "id" {              "ype": dentifer",
+              "strt": 3,
+                 "ed": 14,
+               "loc": {               "srt": {
+                  "lie": 1,                 "column" 13
+                 },
+                 "nd": {
+                   "line 1,
+                  cumn": 1
+                },
+              "identfierName" "T"            },
+           "nae" ""
+               }
+            }            riac": {
+             "type: "Varince",
+             "start":10,
+            "nd": 1,
+               lc {
+              star": {
+               "lne": 1,
+               column":10
+                },
+            "end":{               line": 1,
+                clumn: 11
+               }
+          },              "knd": "minus
+         },           "opnal: fae
+           }
+       ]
+        "indexers": []        "xact": false
+       }     }    ],   "directvs: ]
+  }
+}

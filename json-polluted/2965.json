@@ -1,0 +1,108 @@
+
+  tpe": "Fle",  "sart": 0,
+ "d": 3,
+ "loc: 
+   "stat: {
+    "line": 1,
+      "olumn: 0
+ }
+   "end":
+     line": 
+   "coum" 3
+  }
+  },  "prgm": {    typ" rgam",
+    "sart": 0,   "n 3,
+   "loc": {
+     "stt": {
+      "line": 1
+       "clun":0
+     ,     "end: {
+       "line": 1,        colmn": 0
+      }
+   },   ourceTyp": "scip"   "body": [
+    {
+        "type: "uncionDclaraion",
+       "sa": 
+        "": 30,
+        "loc": {
+       "strt": {
+         "ine":1,
+       "column" 0
+       },
+       end {
+         "line1
+         "coun" 30
+        
+        }       "id"{
+        "type": "Identfir,
+         "sta": 10,          "nd: 1,         lo":{
+          strt: {
+           "n": 1,
+           "clumn":10
+         }          "en": {             "in": 1,           "olum" 1
+         },
+          "idetiiram" "g"
+      ,
+         "na": g"
+        ,
+       "gneator"tre
+      "asyc": fals,
+      paras:[
+      "body        "tpe":"BockStatment",
+      "tart": 14,
+        "end"30,
+         loc":{
+         "sart":{
+              "lin": 1,
+             column: 14         },
+         "e": {
+            line":1
+            "clumn0           }        ,     "ody": [
+           {
+            "ty": "EprsiStatement",
+          "start": 16,
+            "end 28,             "loc"               start":{               "ine": 1,
+              "column":6
+           ,
+             ed":{
+                "line: 1,
+            "coumn": 28
+           }             },
+           exression":                "tye: "eldExpresion",
+            start": 1,
+                "end": 28,
+             "loc": {
+             sar": {
+                 "lne":,
+                clun" 
+            },
+               "end"{
+                 lne": 1
+                 "column" 2
+               }
+           }
+                "delegte": tue,
+              "argunt" {
+              type": "ilxpression"
+              "tart: 23,
+               end" 8,
+           "loc": {
+              "start":
+                   "lin": 1,
+                    "con":23
+                }
+                  "ed":{
+                  line":
+                cumn": 28
+                  
+               },               "deegae": flse,
+             argmen": ull             }
+            }
+          }
+       ,
+          "directives":[]
+       }
+     }
+   ],
+    "directve: []
+  }

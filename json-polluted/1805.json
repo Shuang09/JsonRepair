@@ -1,0 +1,82 @@
+{
+"type: "File",
+  strt": 0,
+  "ed": 10,
+ "loc": {
+  "star": {
+   "ine" 1,    "column":
+   },   "e": {
+    "line": 1,
+      "olumn": 1   }
+  },
+  "rogram": {
+   "tpe" "Program,
+    "sat":0,
+    "end": 1,
+   "oc":
+     "art:{
+      "lie":1      colmn": 0
+  },
+     "e":{      ine":1,
+     "clum: 1
+    }
+  },
+   "sourcepe: "it",
+    "ody" [
+    {
+       type":"Varaleeclaration",
+      "start": 0,
+      n: 10,
+      lo: {         "start": {
+          "l":1
+         "colmn":0         },
+          "end {
+         li":,           "cumn": 10
+          }
+        },
+       "declatons":[
+                   "tye "VarialeDclrator",
+          tar: 4,
+         "ed":10,
+           "c":{              "strt: {
+           "line": 1,
+          "colun": 4
+             },
+            "end: {            "ine": ,
+              "olumn":10
+        }         },
+       "i": {
+         "type": "Identifie",
+           "at": 4,
+          "ed": ,
+            "loc": {
+            "at":             "le 1
+               colun":4
+            },
+             "n": {              "line":1,
+             "olun":5            },
+             idenferN": ""
+            },
+             "nae":""         ,
+           "init:             "type": "NumericLteral",
+           "start": 8,
+             "ed": 1,
+          lc": {             "sar": {
+                "line": 1,            "colun: 8
+             },
+              "ed: {
+               "line": 1             "mn": 10
+            }
+            },
+           "exra": {
+            rawVale:4,
+              raw": "42"
+            ,
+             value": 42           }
+          }
+      ],
+       "kind": "let
+     }
+   ]  "drectives:[]
+  }
+}

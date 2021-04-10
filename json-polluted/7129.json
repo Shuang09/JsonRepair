@@ -1,0 +1,225 @@
+{ "typ:"Block"
+ "nodes": [
+    {
+      "type: "Inlud",
+   "ie:{
+    "ye": "FlRefernc",
+       "lie:2,
+      "flename": "includeild.needpug
+     "path": uxlary/yield-nese.pug",   fllPath "auiliary/yied-nestedpug,
+      "": "tml\  ead\n   title\n  body\   h1 Pag\n   #contentn     content-wrappe\n       yd\n  #footer\n    stuff",
+       ast": 
+       type"Block"
+       noes":[
+           {
+          "tpe": "Tg",
+           "name": "html",
+          "selfClosing": fals
+          "block" {
+             typ": "Bok"
+            noes": 
+            {
+                  "ye":"Ta,
+                "ame" "e,
+              "selfCosng" fal,
+                   "bloc": {
+                "type" "Bloc",
+                    "nodes": [
+                    {
+                    "tye: "Tag",
+                    nam":ti",                    "seClosing": false,                    "blok" {
+                         "type": lck",
+                       "nods: ],
+                           "lie": 3,
+                      fienam": auxil/yield-nesed.ug
+                       }
+                   attr": [],
+                       "atributeBlocs: [],
+                  isIln": flse,
+                     "line": 3,
+                      ilename": "auiliary/yield-nestdpg
+                   
+                 ],
+                "line": 2,
+                 "filnae: "uxilary/yield-nstedug
+                   ,
+               attrs: [],
+                "attriuteBock": [],
+               "iInline": fls,
+               "lie": 2,
+                 fileame": "auxiliary/yieldneted.pg"
+               },
+                {
+                  "tye" Tag",
+            "nme": "ody",
+                 "selfClosin:fal,
+                   "bloc": {
+                    "tpe": "Blok",                 nds": [
+                   {
+                     "tpe": "Tag",
+                     "ame":"1",
+                 "selfCloig:false,
+                     "lc":                      "typ": "lok"
+                     "odes: [
+                      {
+                          type":"xt",
+                          "val": "Pae",
+                         ine": ,
+                           "ilename": "auxliary/yied-netedpug"
+                   }
+                         ],                        "line" 5,
+                 ilename": "uiary/ield-nstedug"
+                   ,
+                   "attrs": [],
+                        attbueBlocks": ],
+                      "isInine" fal,
+                        "lie": 5
+                      "filnam": "axilaryd-sted.pg"
+                   },
+                    {
+                  "type""Tag",
+                   "ne": "iv",
+                    "elfClosing": ase,
+                       lock: {
+                    type": Boc",
+                    "ndes": [                                             "typ": "Tag",
+                            nae "dv,                         "selfClosg" false
+                          "block":                                  "type" Bck",                            "des": [
+                            {
+                           "type":"YedBlok",
+                                "lie": 8,                               "flename": axlarield-neste.pug
+                            }
+                             ,
+                           line" 7,
+                           "filname": "axiary/ield-nesd.pug"
+                       },
+                            tts": 
+                          {
+                               "na": "d",
+                            "vl "cnten-rpper',
+                            "mustEscpe": as
+                           }
+                              ],
+                         triutelcks" [],                          "isInline": fas
+                        ine": 7,                          "fename": "uxiliary/yield-neted.pu"
+                        }                       ],
+                      i": 6,
+                     "ienme": "auxiliary/ield-nestedpug"
+                      },
+                    "attrs": 
+                       {                          name": "id
+                         "val: "'conent",
+                             ustEcape" fle
+                           }
+                    ],
+                   "attrutelock":[],
+                    "isInline" fse,                       "line: 6
+                "fenam": "uxiliary/ie-netedug"
+                  },
+                   {                     "ype: "a",                       "e": "div",
+                   "elClosng: fals                      "block": {
+                    "tye": "Block,
+                   "nodes": [
+                   {                             "typ":"Tag",
+                          "nam":"stuf",
+                          Closing": flse,
+                           "lock 
+                           type: "Block",
+                           "noes" ],
+                       "line": 10
+                           "fienam uxiliary/yeld-nested.pug"
+                          },
+                         "attrs" [,
+                          "attribuBlck":[],
+                            "isnlie: fas,
+                          "lie: 10,
+                        "ilename": "auxliay/yield-nesed.ug"
+                       
+                         ],
+                         "line9,
+                     "enme" "auxiliayield-nstd.pug"
+                },
+                   atrs": [
+                     {                            "nam":"",
+                      "vl": "'foter",
+                            musscape: false
+                     
+                     ],
+                 "attribteBock: [],                     "iInline": fls,
+              "lne" ,
+                "flename": iliaryiednese.pug"
+               }
+             ],
+                  "lne":4,                   "filena: "auxiliay/yieldnted.pg"
+                },
+                   "tts: [,
+                   "atribueBlcks": [],
+                isni": flse,
+                "lne": 4,
+              "fiename": auxiiary/yedntd.pug"
+                }           ],
+            ie: 1
+             "filname": "auilary/yielested.pug"
+            ,
+           "trs"[],             attbuteBlocs"[,
+          "isInline": fase
+        "lin" 1,
+           filename": "auxiliy/ied-nesedug"
+           
+       ,
+         i": 0,
+         filem: uxiliar/yil-neted.pug"
+      }
+     },
+     "line 2,
+     "filenae": "inclde.yild.nestedpug",
+     "block": {
+       "ype: Blck",
+     node": [
+         {
+         "ype":"Tag"
+         nam": p",
+         "elfCloing": lse,
+           "block": {            "typ": "Bloc"
+             de":[
+              
+                type": "Text",
+               vl": "some coten",
+              "line" ,               "fileae: "include.yiel.ested.pug"
+           }
+          ,
+         "line": 3,
+              "filenae": includ.ie.need.pug"
+         ,
+          "attrs":[,
+      attribueBks": 
+         "isIline": fals,
+           "line": 3
+            "filename": "include.yield.nesed.pg"
+        }
+         {         "type" "ag,
+        "nam": p",           "selfClosing": fals,
+           "blo": {
+          "tp" "Block"
+          "nodes": [
+             {
+                "tp": "Tex",
+              "val": " soe r",
+               line": 4,
+                 "filnam" inclue.yield.nested.pug
+                }
+          ],           "lin": 4,
+           "flenam" "incle.yel.nstedpug
+           },
+         atrs": [,
+            "ttibutBlock": ],
+          "iInline": fale,
+         "line 4        "lename": includ.yied.neted.ug
+         }
+      ],
+        "le": 3,
+     "ileame: incde.yiel.nested.ug"     }
+ }
+  ],
+  lie":   "filename":ncludeild.nested.p"
+}

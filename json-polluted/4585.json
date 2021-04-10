@@ -1,0 +1,189 @@
+{  "type": "Fie",
+  strt 0,  "ed": 49
+ "loc":{
+    "strt": {
+     "ie": 1
+    "coum": 0
+   ,   "ed" {
+      in": 3,
+    colun 1    }
+  },
+ "pogra{
+   "type": "Proram",   tart": 0,
+   "en": 49,
+   "loc:    "start": {
+        "line" 1,
+      "clum": 
+     ,    "en": {
+       line": 3
+       "colun" 1
+    
+   },
+    "souTye": "mdu",
+  "boy": [
+      {       tpe": "FunctonDelration"
+      "tart" 0,
+    nd:49,      "oc" {
+        sart":{
+         e": 1,           "colun: 0
+      },
+         end":{
+           lin": ,         "colmn":1
+        }
+      ,
+       "i": {
+         type" "Idnifier",
+         "start": 1,
+      "end:13,         "loc"{
+           "strt": {
+          "lne": 1,
+         "clm": 10
+           },          "end": {
+             line": 1,
+           "colu": 13          },
+       "dfierNa": "foo"         ,        "nm":"fo"
+       
+      "generator" tu,
+       "sync":fase,
+       "prams" 
+         {
+        "type": "Idntifie",
+        "stat: 14,         "end": 15,
+           "loc" {            "sar 
+            "line":1,
+              olmn" 
+           },
+         "end": {
+             "lne":
+            "clun": 15
+           },
+             identifierName": z"           },         "nme": ""
+         }
+      ],
+       "ody"        "te": "Blocktteet,
+       "sart": 17       "end":49,
+       loc": {
+         "start": 
+          "line"1,
+           "coumn": 17
+       }       "ed": {
+           "line": 3,
+          "colun": 1
+         }
+         },         "body" [
+            {
+          "pe": "Vaiabecaratn,
+            "sat": 21,
+            nd": 47,
+            loc: {
+                "tat" {            "line: ,
+                "colum 2
+               }              "end": {            "line" 2
+            "column 2             
+          },
+           "dclaratios [
+             {              type "VariablDclrato",
+           st": 27,              "end": 47,
+                o": {                    "stat": {
+                "lin":2
+                 "colum": 8
+                },
+               "end": {
+                 "line: 2,
+                  "column": 28
+                 }
+                },
+                "id": 
+               "tye": "Identifier",
+               "stat" 7,
+                  en"28,
+                 "lc"{
+                  "start": {
+                line": ,
+                    column: 8               },
+                   "n: {                     line":2                    "clumn":9
+                    },
+                   "dntifierNme: x"
+                },               nme: "x
+              },                 "in: 
+               "type": "TpCastExpression",               "tat": ,
+             "end" 4,
+                "l" {
+                    "art:{
+                     "line":
+                 "olumn": 13
+                },
+               "end": {
+                   line" 2,
+                   "clun":2
+                      }                },                "expressio"                   "type: YieldExpresion",
+               "tar":3,
+                  n": 40,                oc {
+                      star:{
+              "line": 2,
+                    "colmn": 14
+                  }
+                      "end" {                        line": 2,
+                    mn": 2
+                      }
+                    }
+                deate": false
+                 "agument": {
+                "type": "NumericLeal"
+                  strt"39,
+                  "d": 4,
+                      "loc": {
+                     "sart": {
+                     "le": 2,                         "column": 20
+                       ,
+                    "nd": {
+                       "lie":2,
+                       "clumn": 21
+                         }
+                    },
+                  exta: 
+                     rawalue": 3,
+                       "raw" "3"
+               },                   "vlue: 3
+                  }                   "exra": {
+                      "paeheizd tru,
+                   "parenStart"2
+               }
+                  },
+               "typennato":{
+                   "tpe": "ypeAnnoaio",
+                  "start 4,
+                 end": 46
+               "loc" {                     tart:{
+                    "line" 2,
+                    "comn" 22
+                }                       "end": {
+                       "line": 2,
+                       "colun": 27                   }                 }                   tynntatin" {                     "type": Anyyennotaion,
+                    "sart": 43
+                     "ed" 46,
+                       "lo": {
+                    "tat: 
+                     "ine": 2,
+                        "colun": 4
+                  },
+                    "end": 
+                       le: 2,
+                        clun: 27
+                      }
+                      }
+                }
+              },
+                "exra {
+                "parenthesized": tr,
+                 "prentar": 31
+                 
+               }             }
+             ],        "kd": "const
+            
+         ]
+      dieive": []
+       }
+     }
+   ,    "directives"[]
+}

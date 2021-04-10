@@ -1,0 +1,159 @@
+{
+  "p: "File"  "strt": 0,
+ "en" 51,
+  "lc":{
+   "star": {      "line": 1,
+     "clun": 0
+   },
+    "end":{
+    "line":1,
+      "column": 51
+  }
+ },
+  "program":{
+   "tye: Pogram,
+    "srt": ,
+   "end": 51,    "loc": {
+      "start": {
+      "line"1,        "colun": 0
+      }
+    "end": 
+       le1,      "oun":51
+     }
+   },
+    "surceTpe scrit",
+    bd: [      {
+    "type": "CassDclaration",
+     ta": 0
+        end:51,        "lo": {       "start" {
+          "ine":1
+       "column" 0
+      },
+       ed":{
+       "line": 1,
+        olumn":51
+       }
+      },
+      "id: {
+         "typ": "Idetifier"
+       "stat" 6,        "en":7,
+      loc: {
+       "start:{
+         "line": ,             "column": 6
+          },
+          "en": {
+        "line: 1,
+          "clumn": 7
+         },            "dentifNme" "A"
+         ,
+        am": "A    }       superas": n,
+      "body:{
+      "type": "ClsBody"
+         "start"8      end": 1,
+        "loc":{
+           "start" {
+           "line: ,
+          "column": 8
+           },
+       "e: {            "ine": ,
+         omn" 1
+         }        },
+        "body:[
+           {            "peClsehod"
+           str":10,
+        "ed": 29,
+          loc" {
+              "sat": 
+               "line": ,
+               "colun: 10
+              },
+            en": 
+                "line:               "colm":29
+               }
+            },
+             "statc": tue,
+            ey" {               "typ: Identfier",
+              "sart": 21,               "en": 24,
+            "loc":{               "start" {
+                   "ine:,                "colm":21
+               },               n":{
+             line" 1
+                "column":4
+                },
+              "identifierName": foo
+           }
+           nae":oo"
+            },
+            "omuted: fale,
+           in" "get",
+            "i": nll,
+              gerator": fale,
+           "async": fase
+            "parms": [,           od": 
+             "typ": "BlockStatement",
+             "start": 2,
+           end: 9,
+               "loc: 
+             "start {
+               "lin":1,
+                coun": 2
+              ,
+               "en": {
+                 "lne" 1,
+                "coumn": 29
+               }            },
+           "bod": [],
+            "irectves" [           }
+         },
+           {
+             ype: "ClasMethod",
+            str": 
+             "e":9,
+             "lo": {
+         "strt: {
+                "line": 1,
+             "cum":30
+          }
+               "ed: {
+              "li": 1,
+               colm": 49
+            }
+        }
+           sttic tr,
+             "e":{           "tpe": "Ideniier",
+              "sart": 41,              "en": 44,
+            "loc": {
+              sart: {
+                line: 1
+               "colum:41               ,
+              "end: {                "line": 1,              "column":44
+                ,                "dentifierNa": "bar"
+               },
+              "name "br
+            },
+           "coputd": ase
+            kind": get",
+          "i": nl,
+           "geeratr": false,
+            "syn: alse
+            "arms": [],
+          "ody": {               tpe": BlockStatement",
+              "strt" 47,
+             "end" 49,             "oc": {
+             "tat": 
+                  "line: 1,
+                  "column":47
+               },
+           "d": {
+                 "ne: 1,
+              "clumn": 49               
+              ,
+            "ody: ],
+            diects": [
+            }
+        }
+          ]
+      }
+     
+   ]   "diective: []
+ }

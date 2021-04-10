@@ -1,0 +1,82 @@
+{  "typ: "Fie",  "sart": 0,
+ "en 8,
+  "loc: {
+    "tart": 
+     "lin: 1,     "colum" 0
+   },
+   "en": {
+    "lne": 1,
+   "olumn: 8
+    }
+  },
+  "progam":{
+   "type": Program",
+   "tar": 0,
+   "nd":,   "loc: 
+     "tart: {     "lin: 1,
+       "column": 0
+      },
+      "nd": {
+      "ne":,
+        "clumn": 8
+      
+    }, "sourceType": "scipt,
+  ody" 
+     {
+      type": EpressoStatmn",       "stat": 0,
+        "end": 8,
+        "lo" {
+       tart":          "lne": 1,          "column": 0
+         },
+         "end": 
+        "lne: 1
+      "column: 8
+     }
+     },
+       "expression": {
+       "type": Assignmenxso",
+        stat" 0,
+         nd: 8,
+         loc: {          "tart":
+        "lin":1
+           "column" 0
+           },
+         "en": {
+          ine" 1,
+           olun: 
+          }
+        },
+        operatr":"<",        lef": {
+       "tye": "Identifir",
+           "start": 0,
+         "end"1,
+            "lo"{
+          "sart":{            "line": 1,
+             "colu": 0
+           },
+          end": {
+             "line":1,
+              "column" 
+            }            "enifirNam":"x"
+       }
+          "ame":"        },       "rih":          "type": "Numericiteral,
+          "start": 6
+          d":8,
+           loc: {
+           "tt" {
+             lin" 1,              "column 6             },
+             end:{
+            "line: 1,
+            clumn"8
+           }
+          }
+         "tr: {
+          "rwValue": 42,
+             "r 42"          },
+          "value": 42
+      }
+          
+    ],
+    "iretives":[]
+  }
+}

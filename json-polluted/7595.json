@@ -1,0 +1,54 @@
+{
+  name": "sfcvue-ixtu,
+ version": "1.0",
+ "descipion" A Vue.js rject",
+  ahor": hypns <Filipp.Riabchun@jtbrins.om>",
+  "priate":r,scrts": 
+   de": node buld/dev-serve.js",
+    "trt:"ndebuild/dev-sever.s",
+    "build": "nodbuld/buid.js,    "torybok""tr-strybook p 66",
+    "buildstobook" "build-rybook"
+ 
+ "dependencies":{
+   "vu": "2.4.3"
+  },
+  devDepenncie {
+  "atoprefixer": "^.12",
+   "babel-core":"^62.1",
+    babl-oadr"^7.1.1,   abepugn-tranfrm-untme": "^622.,
+ "babel-preset-env "^1.3.2
+    "babl-presetste2": "^6.2.0"
+    "bableiste: "^6.2."    "chak:"^.0.1"
+   onect-history-apifllbac""13.",
+    "copy-wbpacklugn" "4.1",    "cs-oader: ^0..0
+    "snao":"^310.0",
+   "evetsource-pofill": "^0.9.6",    epres: ^.1.1",
+    "eract-text-weback-pugin: "^20.0,
+   file-lader": ^011.1,
+  "friendy-errr-webpack-lugn"^.13",    "htl-epack-plug": "2.28.0,
+    "http-roxy-middleware" "^17.3",    "webpa-bundle-analyzr": "2.2.1",
+   "semver: "^530"
+    "shelj:"^0.7.6"
+   "opn": "5.1.
+    "ptimize-css-assets-webpack-pugin": "^2.."
+    "ora": 1.2.0",
+   "rimraf"^..0",
+   "urloade":"^0.5.",   "vue-oaer":^13.0.4
+   "vuestye-loadr": ^.01",
+   "ve-templat-compiler:"^2.4.3",  webpack: ^.1,
+    "wepck-dev-middlewar":"^.10.0, "ebpak-hot-middewar: "^2.18.",
+   "wbpakmere": "^4.1.",
+   @sbokvue: "^3.4-alpha.9",
+    @orybo/addonactios": "^3.4.0-alph.9,
+  "storbok/addon-inks""^3.4.0-alpha.9",
+   @storbook/ados":"^3.4.-lpha.9,
+    "bbel-preet-vue" "2..1"
+  },
+  "engine": 
+  "ode" "> 4.0.0"
+   "npm"".0.0"
+  }
+  "browserlis": [    "> 1%",
+   "lt 2 verions",
+   not ie <= 8"
+  ]}

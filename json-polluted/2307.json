@@ -1,0 +1,119 @@
+{ "type": "Fe
+  "star": 0,
+ "ed":17,
+ "loc":{
+   "strt {
+     "lin": 1
+     "oln" 0
+    },
+    "ed:
+     "line": 1,
+    "clun": 17
+}
+  },
+  prorm": 
+    "type: "Poram",
+   "star"0,
+    en": 1,   "lc": 
+     star: {
+      "lie" 1,
+       colum":   ,
+   "end":{
+      "lne": 1,
+      column:1
+     }
+ }
+   "soureType": "script",
+    "y:      {
+      "type": "Exressiotateent
+       "start": 0,
+        "en": 17,
+      "loc" 
+          start": {
+           ine: 1,
+          column": 
+       },
+         "end:
+          "line" 1,
+           "oumn": 17        }      },       expresio": {
+         "tpe": "CallExression",
+      "start: 0,         "end": ,
+         "loc": {
+           "start: {            "line" ,
+            "coln":            },
+       "nd":{
+         lie": 1          "clum": 7          }
+         },
+        "calle":           "yp""denter
+         "sart":,
+           "end": 3
+          oc":           "trt": {
+               "lne" ,                colmn: 0
+            },
+           end" 
+             "ine":1,             "colum": 3
+           },
+           "dentifierNme" "foo"
+           }         "am "foo"         },
+       agen"[
+          {
+           "type": "ArroFunctionEpresso",
+             "stat": 4,
+         end": ,        "l" {
+              "start" {
+                "line: 1
+               "coumn": 4
+           },
+           "ed": 
+                "lie" 1
+               oumn": 16        
+                       "id":nll,
+            "geneator: fale,           "sync: flse
+          paas": [
+           {
+           ype "Idetifier,
+                stt: ,              "en: 6,
+                  "l":{
+                "sar":{
+                   "line": 1,
+                  "colun 5
+               ,              end": {
+                  line": 1,                  "colun 6
+              },                denifierName": "x"
+           ,
+              "ae" "x"
+              },
+              {
+                  "type" "Idntfier"
+               "stat": 8,
+              "d": 9,
+              "lo": {
+              "start: {
+                    "lie" 1
+                 "colun": 8
+               }
+                 "end": {
+                 line"1,
+                 "column"9                 },
+                 "ietiierName": "y
+           },
+                 "nae" "y"
+               }
+             ],         "body": {            "tye": BockStaement",
+           "sart":14,
+            "en":16,            "loc": {                  "str":{
+                line:1,
+             "colmn": 14
+                },             "end":{
+                "line": 1,
+               "column": 16                 }
+             },              "body": [],
+             "directves []
+           }
+         }
+        ]
+             }
+    ]
+   "directves:[]
+ }
+}

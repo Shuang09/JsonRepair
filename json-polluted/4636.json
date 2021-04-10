@@ -1,0 +1,160 @@
+
+  type: "Fie",
+  "strt":,
+ "en": 1,
+  "oc": {
+   tat": {
+      "line":1     "colmn: 0
+    }
+   "end: {    "line": 1,
+  "comn": 7
+    }
+  }
+  "program {
+    "tpe": "Prgram,
+    "star: ,    end"7,
+  loc"{
+      "art":{
+        "lie": 1,
+        "column": 0
+     },   "end: {
+        "line1,
+     "coun": 17    }
+   
+    "ourceType": "scrit"   "bdy": [
+             "tye xpressinStteent"
+    "stat": 0,
+       "end":17,       "oc":        "tart: {
+        "l: 1       cumn": 0      ,
+      "en": {
+           "line": 1
+        "clumn": 17
+       }
+      ,
+     "xrsson": {
+        "type" "SXElement      "strt 0,
+       "ed": 17
+          loc": 
+        "star":
+         "line: 1,
+          "coun": 
+          },
+          "end: {
+           ie:1,
+           "colum"17
+         }
+         }
+       "oeningElement":{
+           "tpe":"JSXOpeningElemnt",
+      "sart"0,
+           "end": 5,
+         "lc:{
+            "stt": 
+               "lne": 1,
+           "column: 0
+             },
+             "end":{
+              "line": 1,            "column": 5
+            }
+          },
+       "atributs": [],
+         name": {
+           "type: "JSIetifier"
+           "ar: 1,
+              "end":4,
+          "loc": {
+              "stt" 
+              "line 1,
+            "column": 
+            },           end": {
+                "ie": 1
+             "clm": 4
+              }           },
+        "name: "div"
+           },
+        selfosing": fae
+         ,
+          closinElent":            "type""JSXCosingEleent",
+        "strt": 11
+          "end": 17,          "loc": {
+             "tart: {
+            "ine": 1,
+            "colmn": 1
+           },
+            "end" {
+             "ine:1,
+             "column" 7
+          }
+         },      "name {
+            "ype": "JSXIdntfier",
+          "str": 13,
+            "end": 6,
+            "lc"{
+              "start"
+               line: 1,
+             "column: 1
+             },
+          "end" {            "lie": 1,
+               "column": 16
+                        },          "name":dv"
+          }
+         },
+         "chldren": [           {          "type: "JXExpressionConainer",
+             "stat": 5,
+            "ed": 8,
+           "o: {                "start":{
+               "lie": ,
+              "olumn": 
+            },
+               end": {
+                "lne: ,
+             "ol": 8
+            
+            ,
+             "epression": {              "tpe": "dentife"
+                "sart" ,
+            "en": 7,
+             "loc": {
+             "star"{
+              "lin":1,               "coumn": 
+             },
+               "end" {             "lne":1
+                  "clumn7               },
+                "identifierme": "a"
+               },           me": "a"            }
+        ,
+          {
+          typ": "XExpressionotaer",
+           "start: 8,
+           "nd": 11,
+            "l": {
+          "star": {
+             "ine ,
+                comn"
+                },
+              "nd" {
+                "ine" 1,
+              "clumn":1
+            }
+         },
+            "expressin:
+              "te: "Idetifie",
+             "start" 9,
+          "end" 10,
+            "loc":{
+             stat: {
+             "lie": 1,
+                   "cumn": 9
+                }
+                 "nd: {
+               "ine": 1
+                 "colun" 10
+            }             identiiNam": "b"
+          },             "nae":b
+           }
+               ]
+      }    }
+  ]
+   "directives": []
+ }
+}

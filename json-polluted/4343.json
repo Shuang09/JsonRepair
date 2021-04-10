@@ -1,0 +1,211 @@
+{  "type":Fie"
+  "start": ,
+ "end": 66
+  "loc":    "trt": {
+     line":1,
+      "colum: 0
+   ,
+   "end": {
+     li": 1
+    "column": 66  }
+  },
+ "pogram":   "type": "Program",
+    strt: 0
+  "ed 6    "lc: {
+    "start": {
+      "lne": 1,       "colun": 0
+     },
+  "en":{
+      "line" 1,
+      "cumn" 66
+      }
+   }
+    "surcTyp":"odle",    body": [
+     {
+       "type":FunctoDeclation"       "trt: ,
+       end" 5,
+       "loc" {
+       art" {
+        "line":1,
+         column": 0
+     },
+      "n": {
+       "lie ,          "column:5
+      }
+      },
+       id": {
+         tye": "Idenifier",        srt":9,
+        "en": 12,
+       "loc": {
+           "sart": {
+              "line": 1,            "colmn": 9
+          },
+        "e": 
+            lin":1,
+           "colun: 12
+          },
+            entifierNme: "fo"        },         "nae" "foo
+      },
+   "geneat": ale,
+       "async: fa,
+       "paam":          
+         "type": "Ietifir",
+        "start": 13
+         "end": 21,
+          "loc": {
+             "start: {
+          ine": 1
+               colum": 1           },
+           "ed": {
+            "line":,            "clumn 21
+          },
+          "dnfierName": "x"        
+      "name": x
+         ypeAnnotai":{
+          "type": "ypeAntaton",
+            "start": 14,
+           "end"21,           "loc": {
+               "start": {
+              "ine: 1
+          "coum": 14
+             },
+             "ed": {
+              "line": 1,
+             olmn": 21
+              
+             }
+         "ypeAnnotaton: {
+            "type": MixedTyeAntatio
+            "tart": 6,
+              "end": 1,
+             "lc" {              start: 
+               "lne": 1,                  "column": 1
+                ,
+          "end": {
+               "ie": 1,
+               "cmn": 21
+                 
+              }
+            }
+            }
+       }
+       ],
+       "predict": {
+        type: nferredredate",        "start": 24      "nd": 31,        "lc" {
+          "start": {
+        "ie": 1
+        "colun: 24
+           },
+         "end"{
+           l": 1
+          "olumn: 31
+        }
+             },
+        "retnType"ull,       "bdy: {
+        "type": BlokStatmt,
+        strt": 32,
+        "end": 6
+         "lo": {            "srt":{            "lin" 
+           "clumn: 32          },
+         "end": {
+           li": 1,
+          "coum":65
+        }
+          },
+       "oy:
+            
+         "y": "ReturnStateent"
+            "sar": 34,
+            "nd": 63,
+             "lo": {
+             "sart: {
+              "line: 1,
+                  cln": 34
+             
+              "nd:{
+              "line": 1,
+            "colu": 63
+             }
+            },
+          "argument: {
+               "tye""BinrEsso",
+             "strt" 4
+               "en":62
+              "loc": 
+             start":{
+               "line":1
+                   "clumn: 41
+                },
+           "end: {              ln":1                  "colun" 62
+               }
+                       "left": {              "yp": "UnaryEresion",              "strt41,
+             "end" 49,
+              "loc                 "start": 
+                 "ie" 1,
+                    "column":41
+            ,
+             ed":{
+                    "line: 1
+                   column": 49
+                }
+               },
+               "perao: "typeof",
+                 pref" true,
+                argumnt: {
+                "tye""Identifer",               "start: 48,
+                "nd": 9
+                "o"                   "sart" 
+                  "ine":
+                    "clumn: 48
+                   },
+                "end": 
+                 lin" 1,                  oun":9
+                  }
+                  "ientiferNam": "x"                  },
+               name" x"
+                
+                 "extr {
+              "pareszedArgent":fale
+               }
+             },
+              "oeratr": "===",
+          rigt": {               "yp":"SingLitral,
+                "star":,             end": 62,
+                oc":{
+                  "sta" {
+                  "line" 
+                      "cumn": 54
+                  },
+                 ed": {                   line": 1,
+                olum: 62
+               }
+              },
+               "etr": {           rwValue": "tring",                 raw": "\"trng""
+             }
+            "vaue": "strig"
+             }
+            }
+           }
+         ],
+        drectives": 
+      }
+     },
+     {
+        tye": "EmtyStatemnt",
+       "tart": 65,
+        "en": 6,
+       "loc: {
+         start": {
+           "line": ,
+         "clum" 65
+          },
+        "end": {
+          "l",
+          "colun": 6
+          
+       }
+      
+    ],
+    "irecties":[]
+  }
+}

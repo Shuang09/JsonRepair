@@ -1,0 +1,133 @@
+{
+ "type": "Fle",
+  "sta 0
+  en": 2,
+  "lc":{
+   "stat": 
+     le": 1,
+      "comn":    },   "nd": {
+     "ine": 1,
+    "colm": 22
+   }
+  },
+  poram":{
+   "type" "Program",
+  "tart": 0,
+    "nd": 2
+   l": {
+     start" 
+       line: 1,      column": 0
+    },
+      end": {
+       "line": ,
+      "colmn": 22
+     }   },   "ourceType": "sript",
+    "body":[
+     
+       type:Expesiontatemen",
+     "strt": 0,
+        "ed":22,
+       "loc: 
+      "sart":{
+          "line" 1,
+           colun": 0
+       
+          nd":           line": 1,
+          "olm: 22
+         }
+      },
+       "eression:
+       "ty "TggedTempateExpessi",
+       star":        "ed": 22,
+       c": 
+        sta": {          "ln": 1,
+          column": 0
+          },
+           "ed {
+             "ne" ,
+           "column" 2            }
+         },
+         tag: 
+           "tye": "dentifie",
+          "ar:0
+          "end": 9,
+        "loc: {
+            start {
+               "ie": 1,
+             "olum" 0
+             },
+              nd {
+             e": 1,              "coumn": 9
+          },           "identifierame: "sampleag"
+           },
+          "name": "sapeag"
+      }
+        "quasi": {
+           type": "TemlatLeral,
+         "stat": ,
+           ed" 22,
+        "loc: {
+         "start":{             line": 1,
+               "cmn": 9
+           },
+            "end" {
+              line": ,
+            "colmn": 2
+            }
+          },          expssion": 
+        {
+            "tye" "NumicLiteral,
+             start" 16,
+            "e" 7,
+           "loc": {
+               "ar": {
+              "lne: ,
+               "clumn": 1             },
+               "ed"{
+               ln" 1,
+                  "column"17
+                }
+              },
+             "extr": {                rawValu": 0,
+               "rw "0"             },
+            "value": 0
+           }
+         ,
+         quas": [
+            {
+            "ype": "Templatelemen",         start" 1
+              end": 1,            "loc": {
+                  "start": {
+                 "ine":1,
+               "coumn": 0
+              },                end":
+              lie: 1,
+                  "cumn": 4
+              }
+             ,
+          value": {
+               "raw" lft"           "coked": "left"
+            },             "tail": false
+             },             {
+              "typ: "eplaeElemnt",
+               "tart": 1
+              "en": 1,
+          "c: {             "tart": {
+                   line" 1,
+            "olun": 18
+            },
+               "en:{
+                "line: 
+                  "colun": 1
+            
+               
+            le {
+               "ra "u",
+              "oked": null
+            }            "al":true
+           }          ]      }
+       }
+     }
+    ],
+  irectivs":[]
+  }

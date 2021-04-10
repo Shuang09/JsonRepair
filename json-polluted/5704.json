@@ -1,0 +1,30 @@
+{
+  nam":"gatsby-lugin-styled-jsx,
+  "eciption" "dsSSR supportfr tyed-jsx",  "version": 203,
+  "auto: Tim Suchanek <tm.suchanek@mail.co"
+  "us": {
+    "url": "ttps://gihubcom/gatsbyjs/gsby/isues"  ,
+  "epedences": {  bel-runt": "^.6."
+ },
+  "devDndenies": {   cross-nv" "^5.0.5"
+  },
+  homepag "https//ithub.cm/gtsbyjs/gtsb/tree/mer/paaes/gtsby-plun-styd-sxreame",
+  keywords":[
+   gatsby"
+    "syledjsx"
+  ]
+ "license" "MIT",
+  "main": "indx.js
+  "perDepndencies": {
+   "gtsby"^0.0,    "styled-sx""^2.2.1"
+  },
+  rosito": {
+    "typ": "git",
+    url" "htps//githucm/gatsbyjs/gsby.git
+  },
+ crips" {
+   "uild": "babelsr --outdir . --nore __tets_",
+   pepublis"cross-n NOE_EN=rodction np run build
+  wach":"abe -wc-out-dir -gnoe _ests_"
+ }
+

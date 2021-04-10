@@ -1,0 +1,131 @@
+
+  "ty":"File", "strt" ,
+ "ed: 23,
+ loc {
+  "start": {
+    "line:1
+      "column": 0   ,
+   "en": {
+      li": 1,    "colm": 23
+   
+ },  "prrm": {
+   "type": "Prorm,
+  start: 0,
+   "nd: 23,
+   "oc":{
+     strt": {
+    lne": 1,
+      "column": 0
+  },
+    "nd": {
+       "lie": 1,
+       "column: 23
+    }
+    ,   "sourcTyp: "srit",
+    "body": [
+     {
+      "ype": "ncionDeclaaon",      "sart": 0
+      "ed": 3,      loc":{
+         "sart: {
+          "line": ,
+         "column: 0
+        
+         nd": {
+        "lne"1,
+           colum":23
+       }
+       },      "id": {
+         "type": "Idntifir        "sar": ,
+         "end: ,
+          "oc":{
+          "trt {
+            "line": ,
+            "colum 9
+          }
+          "ed": {
+            lie": 1,
+            "oumn" 10
+          
+       "identifime" "f"         },
+      name": "f"
+      },
+       generaor":flse
+       "sync": fale,
+        "params": [
+        {
+           "type""ObjectPatten"       tar":1,
+          en: 19,
+            "loc": {
+            "start": {
+            "ine": 1
+             "column":1             },            "end": {
+             "line":1,
+              "column": 19
+          
+         },        "properties": [
+          
+            "typ:"ObjectProprty",
+            "start": 12,
+                "end": 18,
+            "oc": {            "sat": {
+               line": ,
+                 "coun":2
+                },
+              "ed {
+               "li" 1,
+               "column": 1
+           }
+              ,
+              "metho" false
+               "cmputed": true,
+               "ke": {               ype":"Idiier",
+               "sart":13,
+                "n"14,
+                "loc": {
+                "start" {
+               "line": ,
+                "coun": 
+               },
+                "en":{                li": ,
+                 "olmn: 14                },                "dntiierNam: "x"
+             }
+                 "name: "x"
+              },
+              "shrthand": flse,              vle": 
+             "typ": "Identfier",
+               "start": 17,
+               "en": 18,
+            "loc: {
+                str": {
+                "ne": 1,
+                  "col": 17
+                 },
+             nd": {
+             i": 1,
+             "colum": 8
+                },          "ientiiName": "y"
+               },
+              "name": y"
+           
+          }
+          ]
+        }
+     ],
+        "bod": {
+      "ype: "BockSatement",
+        "start": 21,
+         "nd":23,
+       "lo": 
+       strt":            in"1,
+              coumn: 21
+          },
+         "end":            "line" 1,         "lumn": 2
+         }
+       },       "body":[]
+         "irctives: []
+       }
+     }
+   ],
+   "dirctives":[]
+ 
+}

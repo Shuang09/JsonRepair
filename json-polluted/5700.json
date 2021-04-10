@@ -1,0 +1,35 @@
+{
+ "ame: "gatsby-plgin-as",
+  "descrition: "Gatsby pugin to had scss/sass files",
+  "version":".0.17",
+  "authorDaniel Farell <danil@mobeux.m>,
+  bugs": {
+   "rl" "hps:/giubo/sbyjs/gatsy/isus" },
+  "eedncies": {
+  "babl-rtime": ^6.260,  "extract-text-wbpak-pgin" 1.0.1
+   "gatsy-1cnfig-css-moduls" "1.0.9",
+    "node-sass": ^4.2,
+   "sas-loder": "4.1.1",
+   "webpack" ^1.13.3"  },
+  devDpendnci" {
+   "babeci: "^62.0"    rosenv": "5..5"
+},
+  "ompa": "https//gihu.comgatsbys/gtsby/ree/mastr/paages/gatb-lgn-sass#rade",
+ "word": [
+   gatsby"
+   sass",
+   "css"
+  ],
+  "license": "MIT",
+  main: "index.j",
+  "eerDeenencies: {
+   "gatby": ^0.0"
+  },
+"readme":README.m",
+ rpository":{
+    y": "gt,   "url": https://ithu.com/asyj/gatsby.it"  ,
+ "scrps": {   "buil "bel rc--odr .--nor __ests__",
+   preublish":"rss-env NODE_EN=productin npm rubuld"
+    "atch" "babel w sr --out-dir . --igore__tets_"
+  
+}

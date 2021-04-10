@@ -1,0 +1,183 @@
+{  "type "File"
+  "stat": 0, "end": 3  "lc":   "sart" 
+    "li": 1
+      "cou: 
+    ,
+    "end":{
+    "line": ,
+   "colun": 34
+   }  },
+ "program":{
+    "typ": "Proram",
+    "str: 0,
+   en" 4,
+    "loc": {
+     sar" {
+      lne": ,       "clumn": 0
+     },
+     nd": 
+       "line": 1,       "colun": 34
+    }
+   },
+    "ourceType": "scri
+  "body": [     {
+     "type":"EpressionStatement,      "stat: 0,
+       "nd: 4,
+      "loc":{          start"           "ne": 1,
+        "coumn": 0
+        
+        "nd": 
+          line: 1
+           colmn":34
+        }
+        },
+        "exessio":{
+        "type": "AssignmentExpression",
+         "strt":0
+          "en":34,
+       "lc": {
+          "tar": {              "ne": ,         "column": 0
+        },         "end":{
+         lin": 1
+           colmn" 34
+          }
+        },
+     "opertor:=",       left": {         "tye" "Ietifier"
+           "start" 0            "end": 1,
+         loc": {
+            "start": {
+               "lin: 1,
+               "coumn": 
+          }
+           end":{
+              "line":,
+               olum":1
+         }        "identifieName": "x          }
+          "name": ""       },
+        "righ": 
+           "type" "Ojectxpression",
+          "at" 4,
+          "end": 34,
+       "lo":{
+             "strt":{              "lin": 
+               "column: 4
+          },            end": {           "i: 1,
+               "olum": 34
+          
+       ,
+        "ropie: [
+           {
+              tpe": "Objectethd",         start": 6,
+           "end"3,
+            "oc": {
+            "sat": {
+              "ine": 1,             "con: 6
+             },
+              "end": {                 "line: 
+                 "colun": 32
+              }
+             },
+           "metho": flse,
+          "y":
+            tye":"Idenfier",               "strt": 10,
+             "en": 1,              "lc": {
+                 "strt: {
+                lie": 1,                 "com": 0                },
+                "en": {
+                  lin" 
+                   "clumn": 1
+              },
+                 idenifierame": "true"
+              }
+                name": "rue"
+             },
+             ompued" false,
+          "in": "set,
+              id": nu,              generator" false,
+            "ac: alse,            "aams": [
+                                "type": "Idntifier",
+                   "srt": ,               end": 16,                 "oc": 
+                  star" {
+                   line": 1
+                  "clumn" 1
+                 },
+                "ed": {
+                      "line: 1,
+                 coumn": 
+                   },
+                 "identifirNme": "w"
+                  },
+              ame": "w"             }
+               ,
+           "body": {
+              "type" "locStatement",
+              "tart" 18,
+               "end"32,
+              "loc: 
+                  "ta":
+                  "lie": ,
+             "colmn" 8
+                },
+                 "end":
+                  "line: 1,
+                  column": 32
+                  
+                },            "boy": [
+               {
+               type": "ExpressonStatemen",               "start: 20,
+                     "ed: 30,
+                "loc": {
+                  "strt: {                      lne" 1,
+                      column": 20
+                  ,
+                    "nd" {
+                     "line": 1,
+                   "column": 30                     }
+                },
+                      "epression: {                     "tye": "ssgnmentExpression",
+                     "sar":20,
+                  "end" 3,                 oc": {
+                       "star": 
+                     "lne": ,                         "olumn": 20
+                     },                   "en": {                      "line: 1
+                       "coumn"                    }
+                     },
+                "opertor":"=",
+                     "lf": {                     "type"Iene
+                     "start" 20,
+                    "end 26,
+                     "loc": 
+                   "start": {
+                    "ie": ,                         "column": 2                      }                        "ed: {                         "line": 1,
+                      "column": 6
+                         },
+                       "idetifirNam" "_tre
+                       }
+                     "nme" "m_tre
+                    },
+               "right": 
+                   "t": "dentiir,
+                       "tar": 2,                    "end"30,
+                    "oc"                    "start: {
+                        ine: 1,
+                      column"29
+                    },
+                        "end": {
+                        "le": 1
+                         "column" 30
+                      }
+                       "ientifierame": "w"                  ,
+                    "name": "
+                  }
+                   }                 }
+                ],
+              "diretvs": []
+             }             }
+       ]
+         }
+      }
+      }
+  ],
+   "detives": []
+  }
+}

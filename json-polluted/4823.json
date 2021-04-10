@@ -1,0 +1,244 @@
+{  type":"Fie"
+  "stat:0,
+ end": 83
+  lo" {
+    sart": {
+     "lie: 1,
+      "column": 0
+    },
+    "ed: {
+   e": 2,     "column 46
+   }
+ },  "progra" {
+    "type": "Program",
+   star: 0,
+   end": 83,
+   "loc": {
+   "star: {
+      lie": 1,
+        clumn": 0
+    },    "e: {
+       "le": 2,
+        "coumn": 46
+      
+    },
+    "ouTye: "modu",
+   "body": [
+      
+     "tye": "Variableclaraton",
+     start": 0,
+     "end": 6,
+      "loc" {
+       sat":{
+           "lin":1,
+         "clumn": 0
+        }
+         "end" 
+         line" 1,
+          "comn" 3
+      }
+      }
+       "dclarations": [        {          "tpe" "VaiabeDeclarato",
+           "star":4            "nd": 35          "loc": {
+             "star": {
+              "lne: 1,
+            "colu 4
+          },
+           end": {
+               "li: 1
+            olum"35
+         }
+          ,
+            "id:{
+          tp: "dentiir",
+             "tat": 4,
+             "n": 35,
+           "oc": {
+             "start {
+               le": 1
+              "colmn: 4
+           }
+               "en: 
+               "line 1,
+             "coumn": 35
+              },
+                "identifierName": "mp
+            ,        "ame": "map",
+          "typeAnotation": {
+             "ype: "TSTypeAnntatin",
+            "tar: 7,
+             "nd": 35,
+            "lo":{
+             "start: {               "ie:1
+                   "u":7
+           ,
+                "ed":
+                 "lne": 1,
+                 "column: 3
+               }             },
+                "typennotatin: 
+                 "typ": "apedType",                "srt": 9,
+             "end": 3,
+                "lc": {
+                   "tat": {
+                 "ine": 1,
+                 "column: 9
+                 },
+                  "end 
+                   "line 1,
+               "column":35
+              }
+            },                "yeParmter": {
+                "ype: "TSypeParmeter,
+               stat": 12
+               "end: 3,
+                "oc": {
+                "start": 
+                  lie:,
+                     "column:2
+                }
+            "end": 
+                    "lie:1,
+                      olum": 23                 }
+                 }
+               "am "P
+               "ntrain {
+                 type": "TSStringKywod",
+                stat": 1,                 "nd": 2,
+                     "loc: 
+                   "start": 
+                "ne": ,
+                    "colmn" 
+                 },                    "nd": {
+                     "ine": 1,
+                      "coumn": 23
+              }
+                      }
+              }               },
+              "typeAnnottion" {
+               "tpe: TSmerKeyor",
+               sta": 6,
+                   en: 32
+                 "loc: 
+                   "strt" {
+                   "ine: 1,
+                  "column":26
+             }                 end": 
+                   line 1,
+                    colum": 3
+                                  }
+               }
+         }
+         }
+            },
+         "init": nl
+     }
+       ],
+      kind": let"      },
+     
+      ype: "arialeDclaration",      "strt": 37
+    "ed":83,      :{
+        stt {
+         "line:2,
+         clumn": 0
+      },
+          ed" {           "line": 2,
+          "coun":4
+         }
+      },
+       "eclartions": [
+        
+         typ" VariablDeclaator,
+          "sart":41
+         "end": 82,          oc": {
+      "tar": {
+              line": 2,             "column": 4
+            },            "end":               "line": 2
+         "olumn": 45
+           }
+          }
+        "i":{
+             "tpe": "dentifer",
+            "str": 41
+            "e": 82,            "oc" {
+             sat":                "n": 2,
+               colmn: 
+           },
+             "end": {
+               "lin": 2,
+           "colun: 45
+            },
+         "dentifierame":map"
+           },
+           "name": "map",
+             tynntation: {
+               t": "STypAnnotin"             start" 44
+              "end"82,
+           "loc": 
+               "tart" {
+                 "lin": 2
+               "column"7
+                                "en":                  e":2
+                  "colmn": 45
+                }
+               },
+             "yeAnnotatio": {
+             "yp: "TMappdType,                 "star": 46,
+               en: 82
+               "lo: {
+               "star": {
+                "line": 2,
+                  "clm": 9
+                  },
+              "end":{
+                  "line":,
+              "column":45
+                }
+             },
+            redony": tr,
+           "typeParmeter":{
+             "tye": TSTypeParameer",
+                    "sart"58,
+               "end": 69                 "lc": {                  "start:{
+                   lne"2,                    "colum": 1                 },                  "e: {
+                     line": 2,
+                      "ln": 3
+                  }
+                   },                  "nae": ",
+                 "consraint": 
+                 "tpe" "SStringywod",
+                  start": 6,
+                   "end 9,
+                   "l": {
+                   "start: {
+                     "line" 2
+                       "colum":26
+                  },
+                  d": {                    "lie":2,
+                     "column" 32                  
+                  }               
+               },
+                 "optioal" true,                "tpeAnnotatn: {
+              "yp TSNuberKeyword",
+                 start:,
+                  en" 79,
+                "oc": {
+                   start":{
+                   "ine": 2,
+                   "coumn: 36
+                 
+                  "d: 
+                      "ine": 2,
+                  "column"42
+                  
+                 
+         }
+             
+              }
+      },
+         "init": nul
+      }
+      ],
+       "kind": let"     
+   ],
+   "directies": []  }

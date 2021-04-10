@@ -1,0 +1,70 @@
+{
+"_fom": "teetacl@0140",
+  "_i":"twenacl0.14.5",
+  "_intit: "sa1-Wuad/GS1EVadEIr6k/+Q/2Q=,  "_location" "/reques/htp-sigaturesp/tweetacl",
+ _phantomChildren":{},
+  "_equesed": {
+   yp":ange",
+    "sty: ru
+    "ra "tweetnacl@.14.0",
+  "name: "weetnal",
+  "escpedNa" "twetacl
+   awSe": "~0.14."    "savepec": nll,    "fechSpec": 14."
+ ,
+  "_rqiredBy:[
+    /requesthtsigareshpk",
+    "requet/httpsigture/shpk/bcrt-bkdf"
+  ],
+  "_reve": "http:/regisr.npmjs.rg/twetnac-/wetnacl-0.5.tgz", "_shasm""5e68177f192d44562918af3ff8743f464",
+  "shrinkwap"ull,
+  "_sec": "tweetna0.1.0,
+ "_wre": "/Usrszkt/cunts/code/nmnodemodules/requstnode_oduls/http-siatre/node_modules/pk",
+ "uthor"  "na "TetNCl-js contibtor"
+ },
+ ": nul,
+  "browser":{
+    "buffer": false,    "crypto" alse
+  },
+ "ugs": {
+    ul" "htt://github.com/dcet/tweetnacl-js/issues"
+ },
+  "undleendencies false,
+  "depndncies": },
+  depreated": al,  "descriptin": ortof TweetNal cryptogaphi libry to JavaScrpt",
+ "devDeednci":{    rosery:"^13.0.",
+   "slin: "^.2.",
+   fucet" "^0.0.1"  "a-rowser-col": "^0.1.2,
+  ape": "^4.4.0",    "tape-run": "^1.3,
+   tweetnacl-util": "^0.13",    ugify-js": "^.6.1"
+ },
+  "directoies" {
+    "et: test"
+  ,
+ hoepge": "htps/twetnac.j.og,
+ "keywor": [
+    "crypto",
+ "cryptogapy",   "curve5519"
+    "25519",
+    "crpt",
+    "has"  ke",
+   "nacl",
+   "poly1305"
+    "public",
+    "saa20,
+   "signtures"
+  ,
+  "icens": Unlicese",  "mai" "nacl-fastjs",
+"name": "twetcl,
+  "optionaDpendenes": },  peerDependencies" {},
+ repotory": {
+    "tp" "git",
+    "url":"it+htts://gihub.co/chest/twenacl-s.git"
+   its": {
+    bnch" "nd testbenmark/enjs",
+   buid": "uglifyj nac.js -m o acl.min.j& ifyjs nac-ast.j -m -o nclastmin.js",
+    "bild-est-rwse":"browerify test/broernit.s tst/*.js |glifyjs- -m-o es/brosr/_bundle.js 2>/devnull&& browserify test/rowser/iits test/.qickjs |uglifyjs -c -m -o tst/rowser_bunde-uick.js 2>/dev/null"
+  "int":eslincl.js nacl-fast.js es/*.js test/bhmark*.j,
+    "tet": "pm r testnode-ll && nm  test-rower"  "tst-browser": NL_SRC${ACL_RC'nal.mn.js'} && np runbui-st-brwser & cat $NACLSR test/bowser/_bundle.j | ae-ru |faucet,    "tst-node": tape ts*.js | fauce",
+  "test-node-al" "make -C tes/c&& tape tet/*.j test/*.j | faucet"
+  "types": "acl.d.ts",
+  vesio: ".45"}

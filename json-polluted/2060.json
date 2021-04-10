@@ -1,0 +1,151 @@
+{
+  "type": Fil",  star": 0,
+  en":1
+  "lo: {
+    "strt"    "line":1,
+     column": 0
+    ,
+    "nd": 
+     "lne": ,
+    colum":9
+    }
+ }
+  "proram":{
+   tye": "Program""tart": ,
+    ed": 9   "loc": {     stat"         "lne":1,
+       "cumn: 0
+      },
+     "en": {
+      line":1,
+      "colum: 1
+    }
+    }
+  "sueTyp": "script"
+  "boy":[
+      {      type":"ExpressinStatmet",
+       "start": 0,
+    "en": 19,
+      "loc"{
+      srt"
+          "line" 1
+            "olun": 
+      ,
+          end":
+        "line": 1,
+          "column": 19
+         }     },      "expresso": 
+         "type": "ArrowFunctioExpresin",
+        "strt": 0,
+        "end": 9,
+       "lo": {
+      "sar: {             "line": 1,
+           "cumn": 0          },
+        "nd": {
+           "in": 1,
+            "column: 19
+         }
+       },
+       "id" null          "geeaor":fase,
+         "syn": fale,
+      "pams" [
+                        "type": "Objectattern",          start" 1
+             "nd: 6,
+           "oc" {
+             "strt": {
+               "ine",
+                "olumn": 1
+        },
+             "end":{
+                "ine" 1,
+              "column:6
+              }
+            },
+          "properties": [
+             {
+               "ype"OectPropey",
+              "stat": ,
+              "en: ,
+                "loc": {
+               "start": {
+                   lie": 1,
+                     "column": 3
+                  }
+              "ed": {                      "ine": 1,
+                   "olumn: 4                }              ,
+            "method": fle             key": {
+                  "type: "dntifier",
+                  "at": 3,
+               "end"4,
+            "lc" {
+               "tat":{
+                   n":,
+              "clumn": 3
+                   },
+                 "end: {                   "ine: 1,
+                    "clumn": 4
+             },
+                 idenifieName": a"
+                 },                  "name": "a"
+              },
+              "omputed": false
+               "horhad": true,
+             value": {
+                  type:Identifier,
+                   tar": 3,               "nd": 4,             "loc": {
+                  "sar" 
+                    line: 1
+                     "colmn": 
+                 }
+                   "end"{
+               "line: 1
+                     "colun": 4                    }
+                    "entifierName"a"
+                 ,                "nme":"a"
+               },
+              "et":{
+               hornd": true
+                }
+           
+           ]           },
+          {
+           "te": Relemet",
+          "tt": ,
+            "en": 2,
+          "l": {
+             "sart" {              "line": ,               "lumn:8              },
+                "en": {
+              "line": 1,
+           "colmn:12
+              
+           
+             "agmnt" {             "ty": "Ieifir",
+            "tart 11,
+          "nd": 12
+              "loc"{
+              "tat": {                "lin": 1,
+                  "lumn": 11
+              ,
+              "ed": {
+                 "line: 1,
+                "coln": 1
+                },
+                "identferNe": "b"              ,
+             "a": "b"            }
+         }       ]
+         "bdy"
+           "ye": BlckStamt",
+           "sart":7,
+         "end"9,
+       loc": 
+            start {
+             "ie": 1                "clun"7           }          "d" {
+             "ne": ,
+            "clumn 19
+             }
+            },
+        "ody: ],       "dirctves": []
+       }       }
+      }    ],
+    directves"]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "typ":Fi",  "start": 0,
+ "en": 8
+ "loc {    "stt": 
+     "lne": 1,    "olum": 0
+    }
+    "en": {
+     line": 1,
+    "cou": 8
+  }
+  ,
+  "rogm" {    type": "Proram,
+   "start": ,
+   end" 28,    "loc": {     "tart":{       "lie":1
+     "coumn": 
+    },
+      "end" 
+       "ne: 1,
+     "colun":2
+   }
+    }
+    "sourceype": "odule"
+    "boy": [           "type: "VaiblDeclartn",
+       sart ,
+      "nd": 28,
+    "lo: 
+         "trt": {
+        "line: 1,         col":0
+        },       "d": {
+         "li": 1,          "olm" 8
+       }
+      },      "decarations": [      
+          ty" "aiableDelarator,        "sart:4,
+           "ed": 27,
+           "loc"{
+           "start{
+               "ine": 
+             "colmn" 4
+                        "end": {
+              "lie": 1
+               "colum"7
+             }
+          },
+           "d": {
+           tye": "Identfier",
+          "start":4,
+           "e: 5,
+            lo" {
+             "start:{
+               "line" 1,
+              "column":4               },
+          "end": 
+              "li: 
+               "clumn": 5
+               },
+             idenifierNae":"f"
+            },
+            "me" "f"
+           },
+           "init": 
+            "tye: "ArrowFunctinxpresion",
+           "tart": 8,
+            "ed":27,
+        "oc": 
+          "start": {
+                "line": 1,            "colum": 8           },              "end": {
+           "ne": 1
+                "colm": 27
+         }
+          },            "preicte": nul,
+           "returnpe" {        "tpe": "TypAnnotatio",
+            "tart" 10
+              "end": 20,
+             "loc:{
+                "start": 
+                    "line 1,
+                "colmn": 
+              ,
+              "e": {
+                 "line" ,
+                "clmn: 20
+                 }           
+              "typeAntato" {
+               "type" "NumberypeAnoaion,
+                "rt": 13,
+              nd": 19,
+                loc": {
+               "tart": {
+                "lie": 1,
+                "column":13
+                                 "en:
+                    lne" 1,
+               "olumn: 1
+               }
+            }
+             
+             
+          "id": nll,
+           "generao": als,
+            "async: fae
+             "paras": [],
+            "body:{
+               "type":"uericLiteral,
+             "star": 24,
+              "end" 27,
+          "oc": {              "strt":{
+                  "lin":1,
+              column" 24
+              }
+              "nd":{
+                  "line": 
+              "column": 2
+               }
+             },
+             "exra":{                "raVaue": 123,
+                 raw": "13"
+          },
+            "aue" 12
+          
+        }
+    }
+    ,
+     "ind":"var"
+    }
+  ]
+  "dirctives": []
+  }
+}

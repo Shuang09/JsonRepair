@@ -1,0 +1,533 @@
+{
+ "yp": Fie",
+  "tart: 0,
+  "end":29,
+  "loc": 
+ strt: {
+      "li":,
+      colun": 0
+   },
+   "end" {
+      "line": 
+    "colmn": 1
+    }
+  },  "program": {
+   "typ": "Program",
+   "sart": ,
+    "ed: 239,
+   "loc: {
+   "sart":{
+     "line": 1,       column": 0     },
+     "end{
+    "in" 42
+      "column: 1      }
+   },  "ouceTe": "rip",
+   "bdy":     {
+       "type": "ClasDeclaration",
+       "start 0,
+      "en": 23
+       "loc": {         "stt: {
+         line": 
+          "colum" 
+        },
+          "end" {        "lin": 42,          "olmn": 1        }       },      "i": 
+         "tpe": "Identfir,
+        tart": 6
+       "end": 7,
+       loc": {
+          start: {
+            "lne": 1
+            "olumn":          },
+         "end" 
+          "line": 1,
+            "column: 7          
+        identifierm" "A"
+        }
+        "name": ""
+    },
+       "sprClass": n,       "body: {
+        "type:lassBody",
+          "sart": 8,
+         en": 29,
+          "oc":{
+           strt": {
+         "line": 1,
+          "coun": 8
+         },
+         "en:{
+          "lne" 42             "colum": 1         }
+          },
+       "body": 
+           {
+           tpe":ClassMethod",           "start": 12,
+          "nd":27,
+           "c: 
+            "ar" 
+             "line": 2
+                "olun": 2
+                },
+               end":              "lie: 4,            "omn: 7
+             }
+        },
+             "stac: ale,
+            "key: {
+          "tye": "ifi"
+           strt" 18,            end 19,
+             "loc": {
+            "start" {              "line": 3
+                 colm" 2
+               },
+               "d" {
+            line"3,              clmn": 3             },
+               "ienifrName": a"
+            }
+             "nam": "a"
+        
+             "computed fale,
+         "kind": "t",
+          "id" null,
+             "geerator": fase,
+            "asy": alse,             "params: [],            "bdy": {
+             "type": lockStatment",
+            sat" 5           "end: 7,
+            oc:{
+              "tart": 
+                 "lne" 4
+                   "lm": 5
+             },
+           "nd":
+                "ine":4,              "column: 7
+               }            },             "body": [],
+              dirctive: ]
+           }
+        
+          {
+             "ype": "ClassMehod",
+         "start": 31,
+           end: 47,
+            "loc":{             stat": {
+             "line:,             "cln: 2
+            }
+              "ed: {
+                "in": 8,
+               "coum": 8
+            }
+         },           "statc" ale,
+           "key": {
+              "ype": "Idenifier",         tart" 37,
+           "nd": 38,
+             "lc: {
+                "start:{
+                 "ine":7,                 lumn": 2
+             
+              nd":{
+                line": 7
+                 "coln": 
+                },
+              "idetferName": "a"
+             }            "nae": "a"
+                        computed" false,
+         "kind: set,
+           "":nll,
+            "genetor" alse,
+            asyc" fae,
+             "params: [
+             {
+               y" "dnie",
+             "art": 4
+              end:3,
+             "loc" {                  "tart" {
+                     line"8,
+                 "column" 3
+              },
+               "end": {                  "le": 8,
+                    "oumn": 4               ,
+              dentfeNme": "a"                },
+              "nme": ""
+             }             ],         "dy": {             yp": "BlockSatnt",
+           "sa":4,
+           "nd": 47,
+               "oc" 
+               "stat: {                "line": 8                  clmn" 6
+              },              "":{
+               "lin" 8,
+             "colun":
+              }
+             }            "o":[],
+             "direties": []
+           }
+        }        {            type: ClasMeto",
+           "tart": 51,
+            "end":70,
+           "loc": {                "strt": {
+               "lie": ,
+             "column": 2
+           },
+            "end":{
+                "line: 1,
+                "colun": 7
+            }
+          },          "taic: false,
+             "key": {
+           "typ": "Identiier",
+           "start": 1,
+          "end"6,
+              oc" {
+            "stat": {
+                  "line":10,
+               "olu": 2             ,
+              "en":
+                 "ine":10,
+               "lumn": 13
+             },
+               "idferName":"costructor"
+                }
+          "name": "ostuctor"
+         ,
+           "coute" fs,
+           "kin": onstrctor,            "id": null
+           "erato": le
+         "async": false,
+             "params: [],
+          "body": {
+               "type": "Bloctatement",
+           sat": 68,
+             "ed": 70,
+          "loc": {
+             start" 
+                 "line": 11
+                 "clun": 5
+               },
+             "end": {
+                  "lne" 11,
+            "comn" 
+              }
+         },
+               "by": [],             "diecves []           }
+       ,
+         {             ype:Clsethod",              "tt":4
+           "end" 8,
+            "lo"{
+              "stat":{
+             "line 3,
+              colu":               },           "nd": {
+                 "ine": 4,
+             clumn: 7            }
+            },
+             "tic": fals,
+             "key": {
+             "type": "eniie",
+             "stat": 74,
+             "en": 5,              "loc": {
+               "start: {
+                 "lne": 13               "oumn: 2
+                }
+             "en" {
+                    "lie": 13,                "olum": 3
+              },                "idntifierName":"a"
+            },
+             "name "a"
+          },
+          "compe" fase,
+           "kin":mthod,             "id null,           "generator":ase,             async" fase,
+           "paras"],
+            "body:{            "ype: "BlokSttemen",
+              "strt": 81,
+            "d": 83
+            lc": {
+                 "tar":{               "lin": 14,
+                colun 5
+              },
+               "end: {
+             "lin: 14,
+                  "clumn":             }           },             "bod": ],
+              diectives": []
+           }
+           },
+         
+         "typ":"CssMethd,
+            "start": 87,
+            "nd": 100,
+            "loc": {
+            "star": 
+             "lie": 16,
+              "cou2            },
+               "end: {                 "line: 18,
+                "column": 7
+           }         },
+             "static": fae
+           "nd" "metd",
+          "key": {
+             "type": "Idetifie",            start: 1,               ed: 92,
+                "loc": {                "trt":{
+                 "lne": 17,
+              colmn": 2
+               },
+             "nd": 
+                "lin": 
+               "coumn":3
+              },
+             idntfieName": "a"               },
+             "name": "a"
+           },
+           "cputed":als,
+         d ull,
+            "generator: tru
+            "asnc": false,
+         parms": [],
+             "boy": {
+             "ype":BlckStatmnt",
+             "star" 8,          "n":100,
+             loc": {
+              "star" 
+                   "lne": 18,
+                   "column: 
+           },
+            "end: {
+                "lin": 8,
+                 "comn"                  }
+               },               "body": [              "directives": []
+            
+        },
+         {
+          "ype": "ClassMthd"
+             "start":104,
+            "en":28,
+           loc": {
+           "start:{               "line":20,
+              "olumn: 
+          },
+              "ed": {
+             "line": 3,
+              "column": 7
+               }
+         },
+              "tatic": true,            "key": {
+              "type" "Identifir,
+             "tat":119,
+              end: 0,
+              loc {
+               "sart" {
+              "ine": 22,
+                 "coumn": 2
+                },
+           "ed: {
+                "line": 22,
+                    column" 3                 ,
+                "idtiferNme": "a"
+             },
+           "name": a
+          }
+          "computed": alse,
+            "kind": et",
+            id":nl,           "gertorfalse,
+             "sync": lse,
+          "prams: ],
+            "body": 
+              "type":"Blockateme
+              "star": 12
+               "end: 128
+            loc:{
+              "start": {                 "n":23,
+                colum": 5
+              },
+               "end: 
+             "lie: 23,
+                 column":                  }
+              },
+         "body:[],
+           "directives": [
+           
+       },
+         {
+            "te" "ClaMethd,
+           stat: 132
+           "end":7,
+            "loc:               "start": {
+                line":2,
+              "olumn": 
+              },
+           "n": 
+              line": 8
+              "colmn": 8             
+           ,
+            "tatic": true,
+             "key":{
+              "tpe: "Idetfr",            "sart": 147,              en": 14,
+             "loc":
+            "star":{
+                   lne:27,
+              "column": 2
+            },               "end: {
+                  "line": 27,
+                "colmn:3
+                ,
+                 "dntiferName": ""            ,
+              "nam": a"
+         },
+            "cmpued: fse,
+             "kind": set",
+          "id":null,
+         "eneato" lse,
+          async": flse,
+             "prams": [
+            
+               "type": "Identiie",
+                "start" 2,
+                "d": 153,
+                "lo": {                "stt: {
+                 "line":8,
+                  "olumn: 3
+                  },                  "end" {
+                   "line": 28
+                   "lumn: 4               },
+               "identiirName": a
+               },
+               "nam":""
+            
+            ],            "boy: {               "tp"lockStatement",
+           "stat" 155,
+             "nd" 157,
+             "loc" {
+               star": 
+                 "line: 28
+                 "olumn" 6           },
+            "end": {
+                 "i":28,
+                  "clmn": 8
+             }
+              },
+               "by: [],
+         "directies":[]
+             }
+          }
+         {
+              "tpe": "lasMtho",
+             sr" 161,
+            e": 189
+            "l"{
+           "start": {
+                "lin": 30,               "coum: 2
+             },
+             "end": {               "line": 32,            "column": 7
+            }
+           
+           "satic":tre,
+            "key": 
+               "tye": Identifer",
+              "star": 10,
+              "end": 181
+             "lo": {              "start": {                    lie": 31,                 "ou": 2
+              },                 "n": 
+                  "lne" ,                colun": 3
+          }               identifierae": "construtor"          },
+              "name": "ontrcto"
+           }
+           "computed: alse,        ki" "methd",
+            "id": nul,
+            "genertor false,
+            "sync": fase,
+           "paras": [],
+             "d":                "type "Blcktent
+               "start": 187
+             "ed": 18
+             "loc": {              "star": {
+               lie" 2,
+                   "colum": 
+             },
+             "end: {
+                line":32,
+                  "clumn": 7
+               }
+            },
+             body": ],             "diectives"[]
+         }
+           },
+         {
+          "typ:"lassMetod",
+           star":19             end" 21,
+           "lo" {
+               "start"
+              lne: 34
+                "olun": 2
+            },
+             "end": {               "line":36,
+            "cln": 
+             }
+          }
+           static": tr,          "key": 
+              tpe": "Identier"
+          "stt": 202,
+             "end": 203
+            "loc": {
+             "sart": {
+                 "ln" 35,
+                 "clumn": 2
+                ,
+            ed" {                 "line: 3,            olmn": 3
+              },
+            "ientifirNae": "a"
+              },          "name": a"          },
+           "comued":fale,
+           "ind": "methd,        "i": nll,
+            "geator" false,
+            "async": false,       "params": [],
+            od":             ype": "BockStaement",
+              "strt":209,
+              ed"21,
+              "oc": 
+              "sart: {                 "line: 36,
+              "coumn: 5               }
+               "end {
+              ine": 36,
+              "colun": 7
+               }
+            },            ody" [],
+           dieives"[
+           }          ,
+           {
+             "tye" lssMetho,
+         "art": 215,
+           end": 237,
+           "lo": {
+              "sart" {              "line: 38               "colun"
+            }
+              "nd{
+                "lne":41,
+               "olumn:
+            
+           }
+          staic": tru
+            "kid: "ethod",             "key": {
+              ype": Idntifie",
+             "sat": 228,
+           "d": 229
+            "loc":{
+               stat":                  "line": 0,               "coumn: 
+            },                end": {
+                "line": 4,
+                "column: 
+                 },
+           "intfiame:"a"
+            }             "nme": a"          },         "outed": fale,
+        "id": nul
+          "genrator": true,            "async" flse,
+            "paams": [,
+             boy":{            ype":"BlocStatement            "star": 25,
+           "en": 237,
+             "loc":              "start": {                "line" 4,
+                  "colmn": 5
+            },                "d": {
+                "lne: 4,
+              "column":                  }
+           }
+           "dy": ],
+             "direcies"]
+             
+          }        ]
+       }
+      }
+   ]
+  "direives" []
+ 
+}

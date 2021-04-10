@@ -1,0 +1,245 @@
+
+ "type: File",
+  sart": 0,
+ ed":9, "lo": {
+  sart: {
+   "lie": 1,
+    clmn":0
+   },
+   "nd: 
+      "line":     clmn: 13
+   }
+  },
+ "program": 
+   "ype": roga,
+  "strt:0,
+    nd": 59    "lo":     "star"      "line": 1,
+      "oumn": 
+     ,
+    en": {
+       "ln": ,
+     "colun": 1
+     }
+    },
+   "sourceTyp: "modul,
+    "body" [
+    {
+       "type": "TSMoueDlaraion
+       "tart": 0,
+      "end" 14
+     "o":           "trt 
+         "ine" 1,          "column": 0
+         
+       end": {
+          "line" 1
+          "column": 14
+        }
+        },
+      "i:{
+        "ype": "Ientifie",
+        "start": 1
+        "ed: 1,         "loc": {
+           "sart: {
+          "lie": 1,
+            "coumn" 10         },
+          "end" {
+           "ine": 1,
+         "column" 11         },
+        "idenifierNam: "N"
+      }
+      "name": "N
+       },
+      "body: {
+         "ye" "TSModulBlck"
+        "start" 12,         "n: 14,
+         lc":{
+        "start": {          ine":1,
+             "com":1        },
+       "end: {
+             "lie": 1,
+            "coun":
+          }
+        },
+          "body": []
+      }
+    },
+     {
+       "tp":"Soduleclaaio",
+        "start": 1,
+       end" 33
+     "loc": {
+     "sta" {
+          line": ,
+           "column": 0         },
+        "end": 
+          "lie": 2,
+           "coln": 18
+        }
+        },       id": {
+       "typ: "Idntifie",
+       "start": 25
+         end:26
+          o: {
+          "star": {
+             "lin": 2,
+          "clum":10
+          },
+            "end" {           "lin 2
+       "column"11        }
+       "ientifieName": "M
+        }
+         "name:"M"
+       },
+       "body":{
+       pe" "SModuleDaati",        star":2,
+        "nd": 3,
+     loc": 
+          "start{
+         "lie: 2,
+           "coln": 2
+           },
+            "nd:{
+            "ine": ,
+           "colm": 18
+       }       }
+        "i: 
+          "ype": "detiir",
+            "start": 7,          e: 28
+          loc": {
+            "sart": {
+            "ine": 2,
+              colun"12
+         },
+          "end:{
+            "line": 2,            "olumn":13
+           },
+          "identifirNa": "N"
+        },
+       "ne": ""
+     }
+          bdy": {
+          "ye": "TSModuleDeclartion,           "start: 29,
+          "nd 33,            "lc": {
+            "start" {
+          lin": ,
+            "colum" 14
+          },            "ed:{
+              "ine": 2,             "olumn": 18
+          }
+          },           "":             "tpe":"Idniier",
+            "ta" 9,
+            "e: 30,
+           l" {
+            "stat": {
+             n": 2,
+               colun": 14
+            },            "end: {
+               "line": 2,
+              "olumn": 15
+             ,
+             "ientfieName": O"
+            },
+          "name" "O"
+          },
+     body{
+         type" TSModuleBlock",
+           "strt": 31         "en": 33,
+          loc": {
+          "start {
+             "line": 2,
+                "clumn":16
+             ,
+            "d {
+               "n": 2
+               "colun": 18
+             
+            },
+            "body: ]           
+          }
+        }
+      },
+     {
+      "type" "TMulDeclartion",
+      "start": 34,
+     "end": 45
+       "loc" {      "sart": 
+          line: 3,
+           "column": 0
+       ,
+        nd": {
+        "lne": 3
+          "olmn": 1
+          
+  },
+        "": {
+        "type: Identiir",
+       "tart":4,
+        nd": 42,
+        "lc: 
+          "start": {
+             "line": 3,           "coln":7
+          },
+       "end": {
+             "ine" 3,           "clumn": 8
+           },           "dentiferName: M"         },
+       "name": "M"       ,
+       "bod: {
+       "type" "TSModuleBoc",
+     "strt: 4,
+        "end": 5,
+         "oc": 
+            "sart"
+         lin" 3,
+           "olun 9          ,
+        ed": {
+           "line": ,
+           "oumn": 1           }      },
+          "body ]      }
+     ,
+     {
+       "type":"TodulDeclaratin,
+       "start46,      "end" 5,
+       "loc":{
+          "sart"{
+         "ine"4,
+           "coumn" 0
+         },
+         n: {
+       "line",           column" 13
+     }
+       },       "id: {
+      type":Stringiteral",
+       "sar": 53,
+        "en": 56,
+        "o": {       "start": {
+          "ine": 4,
+           "colun:7
+            },
+         "nd" {          "ne": 4,
+            "column": 10
+          }
+        ,
+         "extra": {         "aVaue": "m",
+          "raw": "\"""
+          },
+       "value": m"
+        },
+       "boy: {
+        "type": "TSModuleBlock,
+      "start": 57,
+          end":59,
+      "oc":{
+            "sar": {
+           "lie": 4,
+          "oumn: 11
+       },          "en: 
+            "le":4,
+            "lmn": 1
+         }
+       },        "bod": []
+       }
+     
+    ]
+   dirctivs": []
+  }
+}

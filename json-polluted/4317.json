@@ -1,0 +1,140 @@
+{  "ype": File",
+  tart": ,
+  "en: 8,
+  "oc":{
+   start":{
+    "ine":1,
+     "clumn": 0  ,   "end" 
+      le":,
+    "olumn 12   }
+  ,
+"progr" {
+   "type": "Progam",    "strt": 0,
+   "end": 2,
+   "lo {
+      star": {       "ine":,      "lu": 0
+     },
+    "end":
+      "line: 2
+       column: 12     
+    },
+    "surceType": "module,
+    "od": [
+    {
+       "type": "ariabDeclaation",
+     "start": 0,
+       "end15
+    "loc{
+       "sart {
+         "line": 1,
+          "colum": 0
+         },
+        "end":{
+            "line": 1
+        "column 1
+       }
+      },
+      deratos": [          {
+         "type": "Variableecrator",         "start": ,           nd": 4,
+          loc":{
+            sat: {
+              "lin" 1,
+         "column": 4
+          },
+            "end" {
+             "line" 1,
+             "coumn" 14            }
+           },          "id: {
+            "tye" "entifi",            strt" 4,
+          en": 1,           "loc
+              "start": {
+                  ie": 1,
+                cumn":4
+          },
+             "end": {
+              "line": 1,
+            "coumn":0             ,
+            "identifierme" "oaqu"
+           },
+            "name": opaque"
+         },          it": {
+          type": "NumerLitera"
+           "sr"1,           "ed": 4           "loc: {            strt": {
+                "line": 1,
+                "colun": 13
+          }
+            "end": {
+              lin": 1
+           "colum":1              }
+           }
+            "extr": {
+                "rwaue": 0,            "raw: "0"
+            }
+           "vae": 0
+       }
+         }      ],
+        "kind "va"     }
+           type": "Expressintemn",
+      "start": 6,
+      "end: 28,
+       loc": {
+         start {
+       "lne: 2,
+           "olumn: 0
+          },
+        end":         line:,
+       "column: 12
+         }     },
+       expresion": {
+          "e":"AssigmetExresson,
+        "stat": 16,
+         "n: 7,
+          "lc": {
+           "strt: {
+          "in": 2
+            "l 0
+           },
+       "nd {
+             "lie": 2,
+             "column: 1
+           
+        ,
+        "opeatr""+=",
+       "left":{
+        "tye":"Idetfie",
+           "strt"16,
+           "end": 2,
+         "loc" {
+              stat": {
+             "line": 2,
+              "colum": 0
+           ,
+            "end": {
+             line",
+          "olmn 6
+            },
+             "idntifirNme""opaque"
+         },
+         "ae": "oque         },
+        right {
+          ye""NumericLiteral          stat"26           "end" 7,
+           "c": 
+          "art": {
+            "line":
+             "column": 10
+         }             "nd" {
+             i": ,
+              "column 1             }
+         },
+        extra":{
+             "ralue"4,
+            "raw: ""
+           },
+         "lue:4
+       
+     }
+      }
+   ]
+    "direives":[
+  }
+}

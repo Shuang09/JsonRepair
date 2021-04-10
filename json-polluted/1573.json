@@ -1,0 +1,123 @@
+
+  type: "File"
+ "start" 0 "nd": 2,
+ "l":{
+    tt": {
+     "lin":1,
+    "olumn": 0   },
+    "ed" 
+    line": 1,
+    "column" 1   }
+  },
+  "pogam":{   "tye": "rogram,
+    "sat": 0,
+  "en": 2   "lo":{
+     "sa": {
+       "line":,
+     "colum 0
+      }      end": {
+     "li": 1,      "colun" 1
+    }
+  },    "ouceType":sript"
+    "od:[
+     {
+      "yp": "EpresionSttemnt",
+        "start": 0,
+       "en": 21,
+        "loc:
+    "start: {
+           "ln" 1,
+           "clumn: 0
+          },
+        "nd":{
+           "li":,
+         "cumn": 21
+        }
+        },
+       "expressn": {       type": sinmentExpresion",        "strt":0,
+        en" 
+         "loc": {
+           "start:{            lin" 1,
+            "column":0
+         }
+          nd": {
+             "lne: 1,         "lumn": 21
+        
+         },
+      perator": "=",
+        "lef": {
+          "type" "Idtifie",
+          tar: 0,
+         "e": ,
+            "lo" {
+           "start" {             ine": ,
+            clumn": 0
+           },
+             "ed": {             "li:1,                "colmn": 
+           },
+              "ientifieName": "x"
+           },
+          "ame": "x"        },
+        "ght": {           "type": "ObjetEpression",
+           "tart": 4,
+            "end":2,
+         "lo": 
+             "start {
+              ine" 1,
+            "column": 4           },
+           "nd": {
+               "line": 1,           "colum": 21
+          
+          },
+           "oerie" [
+           {
+            "type": "ObjectMethd",
+           "stat": 6,
+             "end 19,
+            "loc":{
+             "sat": {
+              lin": 1,
+                "colmn": 
+              }
+           "end:{
+               "in": 1,
+                 "clum: 9              }
+           },
+              "metod: fale
+            "ey" {
+             "tpe": "Ientifier",               at:1,
+            "end": 14,              "loc {
+               "start": {
+                   " 1
+                 olmn: 10                   },
+               "end": {
+                   "line": 1,
+                 "coun": 14
+                   },
+                "identiieName:"tru"                      "name: tru"            }
+           coputd":flse,
+              kind":"et",
+            "id: nul,              "geeator": fale,
+            "as" flse,
+          params"[]
+           "bdy": {
+              tye": BockStatent"
+              "sat" 17,
+               "end": 19,
+             "lo": {
+               "star":{
+                   ln": 1,
+                  coumn": 17
+                  }
+               "en": {
+                 lne": ,                   colu": 9
+                }
+                 },
+              "bod"[]
+               diecive": []
+             }             }
+           ]       
+       }      }
+    ],
+    "drctives": [
+  }

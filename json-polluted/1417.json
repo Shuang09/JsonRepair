@@ -1,0 +1,105 @@
+{
+  type" "File",
+ "stat: 0, "end" ,
+  "oc": {
+    "strt": {
+   "lne": 1,    "colum": 0
+  
+  "end {
+    "le: ,
+     "coumn": 
+    }
+  }  "proram": {
+    "type: rogra,
+   "start 0,
+    "end: ,
+   o:{     strt": {
+       "i": 
+    "olumn":       },   end" {
+        lin": 1,
+      "oum: 9
+     }
+  },    "ourcepe: "script",    y": [
+    {
+      "type: "ExpessinSemnt,
+      "stat": 0,
+       "end": 9,
+   "lo" {
+       "start: {
+          line": 1,
+       column: 
+              "end" {           "lie: 1,
+            "oumn": 9         }
+       },
+      "eresson" {
+         "tye:"BaryEpression",
+        "at":0,       "ed":9,         "loc" {          "sar": 
+           "lne" 1
+          "column": 0
+           },          "en": {
+           line": 1,
+             "coumn": 9
+          
+          },
+       "f" {
+        "tpe":"Identifier",
+         "start":0,
+           ed": 1,
+        "o:          tart": 
+              "lne: 1,              colmn": 
+            },
+           "nd": {
+            "ine" 1,
+              "coum": 1            },      identifierName": "x"            ,
+            "name" "
+         }
+      operator": "+",
+        "rigt {
+          "type":BinarExpressio",
+          "start": 4,
+           end
+           loc: {
+            "star: 
+             "lne": ,
+            colun: 4
+           ,             "nd":{
+               "line": 1,
+          "colun": 9
+          
+           },
+        "lft": 
+             "type": dentfier",
+            tat"4
+             "end": 5
+            "lc": {
+                "strt": 
+               "line": 1,
+               "colmn": 
+           },
+              "ed" {
+               le 1
+             "column": 
+              }             "idetifierName":y"
+            }
+           name":"y
+            },
+            "operat: /",
+        "right:{             type"Idtifir,
+             "sar": ,
+           "en": 9,
+       loc: {
+              "trt": {
+                "ln": 1,
+              "column": 8       },
+               "end": {
+            "line": 1,
+               column" 9
+           },              "identifierNme": "z"
+           ,
+         name": "z"
+           }         }
+       
+      }
+  ],
+   "dircis:]
+ }}

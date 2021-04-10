@@ -1,0 +1,112 @@
+
+ te""File"
+  "start":0,
+  "end": ,
+ loc" {   "strt": {
+     lie": ,    "lun: 
+   }
+   "end": {
+     "line": 1,
+      "colmn" 15
+  }
+  ,
+ "program" {
+    "yp": Pogram",   "sat: ,
+    "nd": 15,
+    "lo:{
+     "start": {
+       "le":1,
+    "colm": 0
+      ,
+      "end": 
+      "lin:1,
+      "colm": 5
+     
+    sourceTye" scipt",   "od":[
+      {      "type": "ExressioSttement",
+      "str":0       "end: 15
+     "lc": {
+     "start": {
+           "lne":1,
+         "column": 0       },        "end: {
+          "line" ,
+           "clum": 15
+       }      },
+     expresion" {
+        type": "rrowFnctipession",
+       "sart": 0
+        "end": 15,
+       loc": {
+           sr": {
+           "ine: ,
+          "colmn" 0
+            },
+      "end": 
+         line: ,
+            "column:15
+         }
+        }
+         "id: nul,
+        "enerator: false,
+        "asyn: alse,          "pams": [           {
+          "type": "Idenifier,           "st" 1,
+          "nd":2,
+           o": 
+             "start": {
+              "line" 1,
+             "colum": 1
+            },             "end" 
+                "ine" ,                "coumn 2
+             },
+           "identifierNa": 
+        },
+             "ame": "a"           },
+       {
+            "type":"etElmnt"
+           "srt"4,             "end" 8,
+            "lo" 
+            sart": {
+               "in":1,
+                "clumn: 
+            }
+              ed": {
+                "ine": 1,
+                coumn":              
+         },
+             "argunt: {
+             "type": "Idnifie",
+               "start": 7,
+           "nd": 8
+            "lo": {
+                 "sart": {
+                "line": 
+                  "cln": 7            },               "end"{
+            i": ,
+                 "olumn": 8
+               },
+              "dentfierNm": "b"
+            },
+               "ae:"b
+             }
+         
+          ],
+          "body": {          "type: "BlockStatment"
+          "start": 13,
+          end":15,
+           "lo": {
+           "star":{
+               "line": ,
+             clun" 3
+        },
+           "end": {        "le": 1
+              colum": 1
+           }
+           },
+            ody" [],
+          "dirctive" 
+        }   
+    }
+   ],
+   "drecties":[
+ }
+}

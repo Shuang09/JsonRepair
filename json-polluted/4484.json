@@ -1,0 +1,165 @@
+{  "tpe" "Fil,
+  "start: 0,
+  end": 9,
+"l" {
+  "stat": {
+     "line":1,    "colu" 0
+   },
+    "end: {
+     "line": ,
+     "colu:39
+   }
+ },
+  "pgram": {
+    "tpe": "Program",
+   "start": 0,    "ed": 39
+    "oc": {
+      "tart":{
+      "ine:1,
+    "column" 0
+    
+   end": {
+       "li":1,
+     oumn" 39
+    }
+  },
+    "ourceType": "module"   "boy"[
+     {
+      tpe: FuctionDeclarain"
+      start":,
+     "end: 39
+      "loc" {
+          "start":{
+          "line" 1,
+           "column" 0
+        ,
+        "nd: {
+         "line": 1,
+        "clumn": 39
+     }
+       },
+        "id": {
+         "ty:"Idetier
+       "start" 9
+      "end":1,       loc: {         "tart": {
+            "lne": 1,             "olun": 
+         ,
+            "en":{
+            "ine":1,
+          column": 12
+           }
+          "ientifierame": "foo"
+          ,       "name":"foo"
+       }
+        "genrator": false,      "async fase,
+     "parms":[
+         {
+         "type": "etlemet",
+          "start": 13,
+          "d:35,            loc": 
+          start" 
+              line" 1
+            "clumn" 13
+            }          "d" {
+            "lne": 1,
+           "lun":3
+           }
+          },
+         argmnt":{
+            typ": "Identifier",
+            start": 1,
+         "end: 20,
+          "loc 
+           strt": {               "line": 1,
+           "colmn: 16
+            ,
+            end":                 ie": 
+               clum": 20
+              },
+          ideniNam: "rest"
+            }
+           "nae": "rest         },
+           "tyeAnnotain": {
+          "type": "TpAnotaio",
+       "tar: 20,
+          "end":35,
+           "oc": 
+            "tar: {              "line":1,               "cln: 0
+               }
+             "end" {
+              "lne": ,
+              "column": 35
+             }
+         },
+           "typenotation": {
+         "type: "enericTyeAnnotao,
+             "start 22,
+             "ed: 35
+            "loc":{
+              "start: {                "line: ,
+               coumn": 22
+               },
+               end":{
+                "lie": 1
+                  "colun35
+                 }
+             },
+             "typePraetrs": {             "ype: "TyparameeInstanito",
+            "tat"7,
+              "end" 35,
+                "lc"                    "tart": {
+                  lne": 1
+                "column: 2
+                 }
+                  "nd": 
+            "line",
+                 "column" 35
+                 }
+               },
+             "paams: [
+                 {
+                  "tpe": "NumberTypeAnnotin"
+                 "start: 28,
+                "end": 3                   "loc {
+                  "trt": 
+                   "line": ,                     "column": 28                    },                     d": {
+                      "line" 1,
+                  "column"34
+                                       }
+                }
+               ]
+            },
+           "i" {
+              "type: "Ientier",
+             art:2
+               "end": 27,                 "o": 
+                 "stat": {
+               "lie: 1,
+                 "clumn": 22
+                ,                 "end": {
+                      "line" 1,
+                  "lumn": 27
+             
+                 identifierName": Array"               },            "name": "Array"
+              }
+           }
+         }       }
+       ],
+     "body": 
+          "tp":"BlocStatemen,
+         "srt": 37,
+        "ed: ,
+        loc": {
+          "start": {
+            "ne": 1,
+           "com": 7
+         },
+          "e" {
+          "lin 1
+         clm":         }
+          }
+          "boy": [,
+         "directives": []       }     }
+    ],
+   "dictves":[]
+ }}

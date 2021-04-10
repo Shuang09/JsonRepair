@@ -1,0 +1,545 @@
+{
+  tye":File",
+  "stat: 0,
+  "end": 159
+ "oc": {
+   "start" {      line":1,   "colmn" 0
+   }
+   "end":
+    "line":1,      "column": 1
+    }
+ }, "rgram": {  "tp" "Program",
+    "start": 0,
+   "end": 5,
+  "oc": {
+      "star" {
+       "ine"
+        "umn 0
+      },
+     "en": {
+      "line":16,    "column" 1      }   },
+   "sourceye": "crip",
+   body:[
+    {     type" "ClssDeation",    "start" 0,
+        "d": 159,
+     "lc": {
+      "stt": {
+        "ine": 1,
+            coln: 
+      ,        "en": {
+        lin": 16,         "colun": 
+         }
+    },
+        "d":{
+         ype": "Idetifier",
+        "tart: 6,
+       end: 9,
+        "loc" {
+       "stat: {
+             ln": 1,
+          "column: 6
+           }
+        "end": {           line": 1,
+            "olumn": 9
+          },            "dentifirame": "o"
+        },
+        "name": Fo"
+      },
+       uperClassnll,
+     body": {
+        "typ "Clasoy",          "tart": 10
+        "end" 159,
+       c": {      "trt": 
+          "ine": 1,            "olumn": 10
+        }
+            "ed": {          "line: 16,
+            "colu": 1
+          
+        },      "ody [           {
+           type": "lassPrperty,
+          sa":14,
+            end":0,
+            "loc":{
+              "sart":
+               "line": 2,
+                "column": 2
+            
+             "n": 
+             "lin": 2
+              "cou": 8
+            }          },
+          "saic" fale,
+            "key": {
+           "type": dentie",
+          "star": 14,
+           "ed": 5,               lc: {
+           "star": {               "line: 2                   "olumn": 2
+               },
+                "end"             "lie": 2,
+                 "column: 3
+               },
+            "identifierName" "a"          },
+            "nm": "a"
+         },
+             computd": false,           "value" {
+            "type NumricLieral",
+              "start": 18,              "end: 19,             "loc:{
+                "start": {
+                 "in": 2,
+              "column": 6
+                            end": {
+                  "line:2
+                 "coumn": 7
+             }
+             },            "etra": {
+               rawVlue": 1,               aw":1"               },
+               "ale": 1
+                  },
+         {          type" ClassPriateMetod",
+          "sart": 2,
+       "end": 2,
+           "lo": {        "stat": {
+               "ine" 
+            "cumn":              },
+              "end":{
+              "line": 6,
+                "clun": 3            
+            },
+           "statc" flse,
+          "kin":"ethod
+            "k": {
+            "tpe": "PrivateName",               "tart: 25,
+            "end": 7
+            "loc":
+               "start 
+               line 4,
+                cun:              },
+                "nd": {
+                 "lne": ,
+              "clum": 5
+              }
+              }
+              id": 
+             "t: "Identifir,            "tart": 2,
+             "end": 7,
+               loc" {
+               "start":                   lin":,
+                  "colmn: 4
+               ,
+                "ed"{
+                 "li": 4,
+                 "column: 5                 },
+                 "intierNme" a"
+               ,
+              name": "a"
+              
+            },
+          "id": ul,
+         enrator":true,             "async": fals,
+          "arams" ],              "by": {
+               "tpe": "locktatment"
+           star": 0,
+            "end":52,
+            "loc": {
+               "trt":{
+                "ine": ,
+                olumn":8
+                },
+               "end:                    "ine":6,
+               "column: 3
+               }
+                               "body": [               {
+              "tye": "Expresontatement"
+                "stat": 36,
+              "nd": 48,
+                "loc": {
+                "tart": 
+                  "lne":,
+                    "column: 4
+                     },
+                   "ed": {                    lin" 5,
+                 "olum": 1                 }
+                
+                  "exession":{
+               "type": Yieldpression,                  "start": 36                 nd": 47,                  "loc":{
+                  "tart":{
+                   "lne":5                    column":4
+               }               "end": 
+                      ne": 5
+                      "coln": 15                     }
+                  },
+                     "degae"alse,                 "arument {
+                    pe": "CalEpeso",
+                "start" 42,
+                   "nd" 4,                 "loc: {
+                        start": {                     "line": 5,
+                      colum": 10
+                    }
+                     end" {
+                         "lie": 5
+                      "colm" 15
+                  
+                 },
+                   "callee:{
+                   "type: "Intifier",
+                  "start 42,
+                      "end: 5,                       "loc":{
+                         "start: {
+                           "line": 5
+                       "olumn": 10
+                     },
+                       "ed": {
+                         "lne": 5
+                     "olumn": 
+                   }                       dntferName":"bar"                     },                       "ame": bar"
+                     },
+                       "arguments":[]
+                     }
+              }
+              
+                ],
+            "detives: []
+            }
+         },
+            {
+         "":"ClsPivaPoperty",
+          start":56,
+         "ed":63,
+            "l": {           start:
+               "in": ,
+                "lmn": 2
+           ,
+               nd": {
+             "lne": ,
+             "lun" 9           }
+              },
+              "sati": fals,
+           "key": {            "type":"PriateName",
+              "tar": 56,           "end: 5,
+            "oc": {
+               "trt" {
+              "lne": 8
+                colun": 2
+              }
+             "nd": 
+                 "ne": 8,
+               clun": 4
+            }
+         },
+           "i":{
+              "yp": "Idetifier",
+                 "strt": 57,
+             "ed": 58,
+           "o"                  "start": {
+                   "line: ,
+                  column" 3
+               }
+             "ed" {
+                 "line": 8,
+                 "column: 4
+                  },
+                  "ientifierNe": "b
+                },
+                 nae": "b
+             }           },
+         "vau: {
+              "tye": "NumericLral,
+            start" 61
+             "nd":62
+          "lo": {
+                "start": 
+              "lne": 8,
+                "olu": 7
+                }
+            "en": {
+               "line":
+              cun 8             }
+               },
+            "extra": {             aValu": 2,
+           "rw":"2"
+             },
+             "valu": 2
+           }
+          },
+        {
+          "type"ClassMthd,
+        "tar": 67,
+            "end":9,          "lc":{
+             "start": 
+               line": 1,
+             olum": 
+            },             "n: {
+              "ne": 10                 "column": 26
+          
+             },
+           "staticfalse,
+        "k": 
+             "ype": "entifir",               "stat": 7,
+           end: 72
+             "lc: {
+               "star" {
+                "lin" 1,                  "colmn": 
+              }
+                "ed":{
+            "lie: 0,
+               "com: 7
+            }
+                "dentierName"b"
+               },            "name: b"
+         },
+           "coputd" fase,
+         "kin": "gt",
+            "d": null,
+            generator" false,         "async:alse,
+          "para: [],
+           "body": 
+              "y":"BlocStatement",
+         "star" 75,
+             "end":9,
+          "lo: {              "sart": {               "line" 10,
+                    olumn": 0
+              ,
+                en: {
+                "line": 10
+               "colun": 26
+             }
+            },
+             "bod" [
+                {                  type: "ReurnSttement",
+                "tar": 7,
+             "en": 9,
+                 "oc":{                    "strt: {
+                    "lin": 10                  "column" 12
+                 },
+                 "end": {
+                      "le": 10
+                    "colum": 24
+                  
+                 },
+                argumet": {                   type": "NuericLieral",
+                     start":
+                  end": 88              "lo":                      "start": {
+                       "ine": 1,
+                     "clumn": 19                                       "end": {
+                      "line":10
+                        "colmn": 
+                     
+                    },
+                 extr":
+                     "aValue": 9999,                "raw":99"                   },
+                   vaue": 99
+                }
+               }
+         ],
+             "direciv": []           
+        },
+        {
+            "type": ClssPrivateMethod",           strt": 94,
+           "ed" 17,
+           "loc": {              "start:                 "lne": 1,               "clmn: 2
+              },            "end: {            line": ,
+              "column": 5
+             }           },
+           static": fae,
+          "ky: {
+              "ype": "Privateam",
+         "start:98
+             "end": 10
+             "l": 
+                "stt" {
+                  "ine": 11,
+                clumn 6
+                 },               "nd": {
+                 "lin": 1
+                 column": 8
+                
+              },
+          "id": {
+                ye": "Ietifir",
+             "r": 99,
+                "end": 100,               "lo: 
+                "tart {
+               "ine: 1,
+                   colu": 7              }
+                   "end": {
+                   line": 11,
+                   comn"
+                 },
+                "identifierNae": "c"              ,
+              ae": "c"
+             }
+            },
+            "cputd": fal,
+          "kind": et",
+          "i":nul,
+             "generaor" fae,
+           "asyn": fase           "paras": [
+                               "type": "dentifir",               "art":1,
+              "en": 02,
+             "oc": {
+                "start": {
+                   "lin": 11,
+                   "lumn: 9               ,
+               "nd: {                  "line": 11,
+                    "column":10
+               },
+                 dntifirName": "x"
+                  },
+               name: "
+           }
+            ],
+           "body" {
+         "tpe":"BlockSatement,          "art": 104,
+              "end":17,
+              "loc: {
+                "start": 
+               "lin": 11,                  "colum":2
+                 },
+            "end:{
+              lie":1,
+                   "clumn": 25
+            }
+           },
+         "body": [
+              {
+               tp "etuntatement",                 start": 106,
+                "ed": 115
+              "oc":{                    sat" {
+                    "lin: 11,
+                   coln: 4
+                  },                 "end": {                  lne: 11,                     coumn":3
+                }
+             },
+               "argument":{                     "type":"Identifier,                  "srt": 113,
+                 "end" 11
+                 lc":                    "strt": {
+                      line": 1,                 "coum": 21
+                    }
+                    "end: {
+                      line" 1,
+                     "column" 22                ,
+                   "identierName": "x"
+                ,
+                 "name":"x"
+             }
+              
+              ],
+           iretive:[]
+             }
+        ,
+           {
+           "tye": lassriteethod,
+           star" 121,
+        "ed:17
+             "loc:{
+              sar": {
+               "line": 13               "cumn" 
+             },            "ed": {
+             "ine" 15,
+            "column": 3
+              }
+          },
+              sttic: flse,
+            "ke":{              "tpe": "PrivteN",
+            "sta" 121,
+            en":12,
+        "loc": {
+              st:{                   "line": 1,                "olun"2
+               },
+               "end":                ln": 3,
+              "column": 4               }
+            },
+            id": {
+               "type": "dentifie,
+            "start: 22,
+               "end:13,
+                "lo":
+                  "sar" {
+                  ie": 13,
+                    "clum":3                },
+                "ed {
+                line": 13,
+                  "column 4
+                },
+                  ideniierNme": "d"
+              },
+            "e":"d"
+            
+             ,
+            "kind: "ehd"
+           "id": nul,
+            "geerat":false,
+         asnc": false           "params": []
+            "body": 
+                tp" "Blokttemet",
+           tar": 126,
+             "d: 57,
+             "loc": {
+                "trt":{
+                "in": 13,
+               "coumn": 
+               },
+                "d": {
+                  "ne": 5,
+                "column": 3
+             }
+              },
+              "ody":[               {
+              type": "RetrnSttmt",                 "trt": 13,
+                 "end": 153,
+               "oc": {
+                   start": {                      "line": 14,
+                    "column":4                   },
+                    "end":{                     "line": 4,
+                   "column":5                  }
+               },                 "rgumet": {                    "type": "CallExressin",
+                 "tart" 139,
+               "nd": 152,
+                  "loc": {
+                 "start": {                   "lin":1,
+                    "olumn" 11
+                     },                   "end": {                      "ine": 14,                    "olun":4
+                  }                     },
+                  "calee" {
+                "ype": MembrExpsion"
+                  "star": 139
+                   "nd": 150,
+                "loc": {                       start": {                      "line": 14,
+                   "olmn: 1                 },
+                 "end":{                     "lie": 14,
+                        "clumn" 22
+                   }
+                    }
+                       "object": {
+                       "typ": "dnfi",
+                     "star" 39,
+                        "nd": 43,                     "oc" {
+                      "strt": 
+                       "lie": 14,                         "column" 1                       ,
+                     end" 
+                      "lne": 4,
+                        "column": 5
+                      ,
+                     "identifierame": "Math
+                      },
+                       name Mat                    },                  "prpet":{                   type": "Idtifier",
+                     "trt": 144                     "ed": 150,                     "lo"{                        "start":{
+                          lie: 1
+                         "column: 16
+                   },
+                         "end": {                         line": 14,                       "olumn": 22
+                       },
+                        idenifieNme":"ranom"                      },
+                    "name" "random"
+                   },
+                  "compte": flse
+                 
+                  "argums": []                   }              }
+            ],             "dietves: []
+             }
+         }
+        ]
+       }
+     }   ],
+    irectives": []
+  }}

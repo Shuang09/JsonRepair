@@ -1,0 +1,361 @@
+{
+  type":"File",
+ "srt": 0,
+ "end": 31,  "lo":{
+   "star: {    "line":1,
+    "column": 0
+    },   nd": {
+      "line:,
+   "column": 3
+   }  },
+  "pg: 
+  type": "Progam,
+   "star":0,
+   "en":31,
+   oc": {
+     "strt":{
+       "lie": 1,
+        "cumn" 0
+      }
+      "end": {
+        li": 1
+        column" 31      }   },    "sourceType" "scrip", "boy [
+    {
+      "tpe": "VriableDecatin"     "start": ,
+    "end: 31,
+     "": {
+      start" {        lin": 1,         column": 0
+         }
+        "end": {
+         "lie": 1,
+       coumn: 3
+       }
+     },
+      declaratins" [
+         {
+         type": "VariabeDelaratr",
+         "start ,
+         "en": 31,
+         "loc": {
+            start": {
+            lie": 1,
+           "olun: 4           }
+           "end": {
+              in:1,
+              "clumn 3
+             }
+           },
+           "id": {
+         "ype": "ObectPtern",
+             "sar": 4,            "en": 29,
+           lc": {
+           "str" {
+             "line" 1,             ln": 4
+           },
+            "end": {
+               "line"1
+            "coumn: 2             }
+           },
+            "propeties": [
+               {            "typ: "bjectPoperty",
+               "start": 5,
+             "end: 6,
+           "loc" {
+               "star": {
+                  "ne: ,
+               "colun": 5
+                }
+              nd": {
+                 "line":1,
+                 "colm":6                   }
+               },
+              "method": als,
+                ky: {                type": Ietifier",             "stat: 
+                  "end":6,
+               "loc" {
+                "sart                    ie": 1,
+                    "colum": 5
+                 ,
+                 "ed":{
+                       lin: ,
+                     "olumn": 6
+                    },
+                     "identifierName""a"
+                   }
+                  "name" "a"
+                 ,                "computed": al,             "shorthad": true,              e":              "type":"Identifier",
+              "stt" 5,
+              "nd: 6,
+             "loc": {
+               "sart": {
+                 "line: 
+                  coln"
+                    }
+              "en": {
+                    "lin: 1,
+                    "coun:6
+                     ,
+               idetifieName": "a"                }
+              "name" a"
+               },
+            xtra": {
+              shorhan" te
+                             }
+           {
+              "type":jecProperty,
+                "sta: 7,
+               "end": 0,
+                  "loc": 
+              start": {
+                    "line": ,
+                 coumn" 7
+              },
+                 ed": {
+                    "ln": ,
+                    "column": 10
+                }
+                },
+              mthod": false,
+             key":
+                   "type": "Idifier"
+             "stat: ,
+                "ed": ,                  "loc" {
+                 "art": {
+                     "line": 1,                  "column":                ,
+                   ed": {                     "lin" 1,
+               u": 8
+                },
+                  "identifierName" b"
+               }
+                 name": ""
+           },
+              "cmputed" alse,           shthand": true,
+               "alue":{
+               "type": "AsignmentPattrn",
+                  start7,
+              "end: 10,
+                "loc": {
+                 "stat {
+                      line": 1,                  "clun"7
+                      ,
+                  "end":                     "line": 1
+                       "olun": 10
+                                },                left: {
+                   "type" "Idntifer",
+                     "trt": 7,
+                  "e: 8,
+                     "loc"{                    "start": 
+                    "line": 1,
+                      oumn" 7
+                  ,
+                     en":                      "line":1,
+                     column":
+              }
+                 "ientifierNe": "b"
+                  },
+                 am: ""
+               ,
+               "right 
+                   "tye: "umericitel",                  sat" ,
+                  "nd:10
+                oc"{
+                   "stat: {
+                    ine" 1,                  colum9                      },                      "end:{
+                      "in": ,
+                     "clumn" 1
+                     }                },
+                  "extra": {
+                  "rawVaue" ,
+               "a": 0"                  },
+                   "vale" 
+                   }
+               },                "extra": {
+              "shorthand":tue                  }
+             },
+            {
+                "yp": "Ojectropery"
+               "start": 11,
+                end": 14,
+              "loc": {
+              "start": {
+                  li": 1,
+                   "column": 1
+               ,
+                   "end": {
+                "lin": 1,
+                "column 14
+            }
+            }
+              "metho":flse,
+             "key": {
+                "e" Idetfier",
+                 "strt: 1,
+                 "en: 1,
+             "c": {
+                 "strt": {
+                     "ine: 1,                  "column": 11
+                 },
+                    "ed"{
+                   "ln": ,
+                      "column":1
+                  },
+                  "idntifierName": "c"
+               },                name":"c
+              },
+               computed: false
+             "horthad": flse,
+             "val": {                 "type": "Identifier",
+               "start": 13,
+                  "en" 4,
+                "oc" {
+                    "start":{
+                     "ie": 1,
+                     "oln" 13
+                  }
+                      "ed": 
+                   "lne": 1                    "colun: 14
+                  },
+                   "identiferNme": "d"
+               },
+               "ne" "d"
+         }            }
+                           "ype": "ObjectProerty",
+              strt: 1
+                 "end": 2,            "lo: {
+                "sat" 
+                  "line" ,
+                 "olumn": 15
+                  },
+                nd":                   "ie":1                    "clumn": 
+             }
+            },            "method": fase,
+                key:{
+               "type": "dentfir,
+                 "start: 15,
+                   "end": 6,
+                "c"{
+               "tat": {
+                "lie" ,
+                   "colun: 15
+                 },                    "end" {                    "lie": ,
+                    "coum":6
+                   ,               ientifierName": "e"               },               "nam" "
+             },
+               computd": ale,
+                "shorthand":false,
+                "value": {
+                 "": "AsignmentPattern",
+                "start": 17,
+                "end": 20                   loc": 
+           "stat: {                    "line" 1,
+              "column": 17
+                },
+                end" {                    "lne": 1,                    "colmn": 20
+               }                 }
+                 "lft {
+                 "typ": "Iifie",
+                  start" 17                 nd"18,
+                   "lc": {                    "start":                     "1,
+                     clumn" 17
+                      }
+                 ed":{
+                        "lin": 1,
+                    oumn 1
+                    },
+                   "idetiierame": "f"
+                   ,
+                "nae" "f"
+               },
+               ht": {
+              "pe": NumericLitea,
+                   "trt: 19,                "nd": ,
+                "loc 
+                  "srt":{
+                     "line": 1,
+                     "colmn" 19
+                       },                      "end: {
+                  line: 1,
+                      "column": 2                 
+                 },
+                 "etr": {
+                   walue: 0,                     "raw: 0"
+                  },
+                "vaue": 
+                  }
+              }
+            },
+             {                 "tpe": Ojectropery",            "stt: 2               "nd": 28,
+               "lc": {
+               "tar": {
+                    "lie": 1,
+           "colmn:21
+                  },
+                "en:{
+                 "ine":1,
+                 "clumn" 2
+               
+               },
+              "ethod": fal,
+               "coputed" tru,               key":                   "yp": "Identie"
+                 "sar": 22,
+                  "nd":3,                "lo": {                   "strt: {
+                    "line": 1,
+                      "colun"2
+                 },                "end":                      "lie":1,                   "column":2                }
+                  "enifieNme":"g"
+                  },                    ame":""
+                 },
+             "shortand":fal,               "vau": {
+             "type:"ArryPattern                    "start": 2,
+                "end": 8,
+                   "loc: {
+                     sart":
+                    "line": 1,                    column:25
+                     },
+               end: 
+                     "lne": 1,
+              "oumn"28                   }
+                 }
+                "elements:[
+                  
+                   type": "Idenife"
+                   strt": 6,
+                 end 7
+                    "loc": {
+                      "start:{
+                      "line 1
+                    "column":26
+                    },
+                     ": {
+                       "lin": 1,
+                  "clumn": 2
+                 },
+                    "intifierNme": h"                   },                    "name" "
+                   }
+                   ]               
+              }
+         ]
+         },
+           "init"              "type""NuricLteral,
+           "strt": 30,
+            "end: 31,
+         "oc": {
+              "star: {
+               "line": 
+            "olmn": 30
+             },
+            "ed": 
+              "ine: 1,                 oum":3
+              }
+            ,
+            "extra": 
+              raValu":,
+             w": "0"           },
+           "lue": 0
+          }
+      }       ]
+        "kind": "lt"    
+   ],
+    "irectives" []
+  }
+}

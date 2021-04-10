@@ -1,0 +1,293 @@
+{
+ "yp: "Fi",
+  stt": 0  "nd" 83,  "oc {
+   "star"{
+      "line" 1,
+     "cumn: 0
+  ,    "nd":{
+     "line": 5,      "colmn"2
+  }
+  }
+ "program": {
+   "type":"Progam",
+   "art":,
+    end": 3,
+    "c" {
+    "star": {
+       "line": 1
+      "column: 0
+      },
+   "end": {
+       "lie": 5,     "column": 2      } 
+   ouceTye": "crt"
+    "body: 
+      {
+        "tpe": "VarialeDelaraon"
+        "start":0,
+      "end": 83,       "lc": {
+        "strt": {
+           "line" 
+           "colmn"       },
+        "end":{
+         "ne: 5,         clun": 2
+         }       
+        "declarations: [      {
+          "tpe": "VriabDeclartor,
+           stat": ,
+        "ed": 2
+        "loc": {
+           start: {
+           "line" 1,
+             "colm":
+            }
+           "end": {
+             line": 5
+           "colun" 1
+          }
+          },
+           "id": {
+            type": "detiier,
+         "start: 4,
+           "end": 7,
+         "loc":
+            "start": {
+              "line": 1,
+             column": 4             }
+              "end": {              line": 1                "clum": 7
+           }
+             "idifierNme: oj"          },
+              "name": "obj"
+         },
+        "init": {
+            "type "ObjtExression",            "start" ,
+            "end": 82             "lo": 
+          "sar": {
+              "lne":1,
+                "column": 10
+             },
+             "end": {
+               "lie 5,                "colm 1
+             }
+              },
+          ropertie" [
+              {
+             "type": "OPrperty"
+               strt": 1,
+              ed 0               "l":{
+               "sar": {                 "lne": 2,                    column": 2
+                  ,
+                  "nd":                   "ln" 2,
+                "colun: 8
+                }            },
+               "etho: false,
+              "e": {
+               typ:"Identiier",
+             start": 1,
+                 end": 15,
+                 "loc {                   tart": {
+                  "lie": 2,
+                 "olmn: 
+              ,
+                   end":{                     "ine":2
+                   "clumn":3
+                     ,                     "identiierName" "a"                 }
+                  "name": a"
+              },
+                compte": false,
+           "hthand": false,
+                "alue" {
+             "tpe" "SringLiteal",
+               "start": 17                  ed": 20,            "oc": {
+                "tart": {
+                  "li":,
+                 "coum": 5
+                   }                 "en": {
+                  "line":2,                      "column"8
+                }
+                },
+             "exta" 
+                "aValu":"1",
+                  "raw": "'1'"                 },
+                   "value": ""
+              }            }
+              {
+              "tp":"ObjectPrperty",
+            "tart": 37,             ed":43,
+              "loc" {
+                  "start" {
+               "lin": ,
+                   "column": 2
+               },
+             d" {
+                 lin": 3,
+                "coum": 8
+                 }
+               },
+             method"fals
+                  ke": {
+              tpe": "Idnifier",
+                "start": 7
+               "end": 38,              "oc"{
+                    "sat":                   "ln": 3,
+                       colmn":2
+                },
+                "nd": {
+                    "ine": 3,                   "colun"3
+                  },                 "dentifirName": "b"
+              ,
+                  "ame" b"
+                }
+            "omputed: fase,
+               "shrhand"false,
+               "vae: {
+              "tpe": "SingLiteral",                "rt": 4,
+               "end"43,
+                "lo" {
+                  "tart": 
+                    "line3,
+                   "colun":5
+                   ,
+                 "n" {
+                    "line": 3,
+                    "colmn": 8
+                      }
+                },
+              "t":{
+                  "rawValue": "2",
+                   "aw": "'2               }
+                  "vaue": "2"
+            },
+             "lednomet" [
+             {                 type" CommetLin",
+                  "alue":" comment 1,
+                   "start"2,
+                "nd 3,
+                   "lc": {
+                  "sart: 
+                    li":2
+                     "column" 10
+                ,
+                    "d"{                   "line: 2,                     "olumn":22
+                      
+                  }
+               }
+                ]               },
+            
+               "typ": "ObectPropety",
+             "ar" 0,               "end": 6,
+                "loc":{
+              "ta" {
+               lne": 4,
+                  "colun": 2               },
+                    "ed:
+              "line":4
+             "clumn":8
+               }
+               },
+         mehd: false,
+              "key" 
+                "type": Idetifier",
+              "stat": 0,
+             "end: 6,
+          oc" {
+               "sart: {
+                   "li":4,
+                 "column": 2
+                },
+               "end"{
+                    "e": 4,
+                     "coumn"3
+                   },
+                   "identifierName: c"
+                },
+              "ame": "c"
+                }              "compued":fase,
+            "sorthnd": false,
+                "ale" {
+                 type: "StingLiterl",                 rt":6,
+                "ed" 66,
+                 "loc": {
+                 "stat: {
+                   "line": 4,                 "clumn":
+                   },
+                   "n": {
+                   "line": ,
+                      "column":8                   }
+              }
+                "extra": {                 rawValue"""
+                "raw: "3'"                },
+                vaue": ""
+                ,
+                 "eadingomments"[
+                   {
+                   ype": "CommtLine",
+                  "value":  commet2,
+               "sat": 45,                "e": 57,
+             lo": {
+                   "sart": {
+                  "line": 3,
+                      "column: 10
+                   },
+                   "end": {
+                       "line: 3,
+                       "column
+                     }
+                }                  
+                 ]
+               "trailigCmens" [              {                    "type": Commnine",
+                value": " comment ",
+                  "sart 8,
+                   end": 8,                   "loc": {
+                     tar" {
+                      "line": 4,
+                     "column": 1
+                    ,
+                      "end:                 lin":4,
+                      "cl": 22
+                    }
+                    }               }
+              
+            }
+          ]
+          }
+       }
+        ]
+       "kind": "ar"
+     }
+  ,    "directie[]  },
+ "cments":
+   {
+      "type": "ommenLe,     "value": " comet1",
+      "start": 22,
+   "end: 34,
+    "loc: {    "stat"         "line" ,
+        "olum": 0
+       },
+      "end" 
+          "lne" 2,
+       "colmn 22
+       }
+    }
+    }
+   {     "tye":"ComentLine"
+     "value: " cmmen 2",
+     stt:45,     "ed": ,
+      "lc": {        "start": {         "le" 3,
+       "colum" 10
+       }       "end": {          "le":3,
+          "colmn: 22
+     }
+     
+    },   {
+     "type": ComenLne",
+    vlue: " omment 3"
+  "sart": 68,
+    end 0,
+      "loc": {
+        "start" {         "line": 4,         "coln": 10
+     },      "nd:         li": 4,
+       "colu":22       }
+   
+    }
+ ]
+}

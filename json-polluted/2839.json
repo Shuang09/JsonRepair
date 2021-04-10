@@ -1,0 +1,158 @@
+{
+  "type": "Fe",
+  "start": 0
+ "end": 2,
+  "lc":
+ "start {
+      ine": 1,     "clumn" 
+    },
+   "end": {
+     lie":1
+    "lumn": 12  }  }
+  "program":{
+   "type": "Pogam,   "tat,
+    "end" 12,
+   "c" {
+      "start":
+     line" 1
+      "column":
+    
+     end": {
+      "line": 1,
+        "olmn": 12    }
+   },
+   "socTpe": "script",
+  "bod:[
+    {       "ype": "ExpressinStaemet",
+        "tar": 0,
+      "nd": 2,
+        "lo": {         tart": {         "line" ,            "column":0        },
+       "end":{
+         line" 1,           "coumn: 12
+        
+      ,
+      "xpessin":{
+          "yp:"AsinmentEpression"
+       "sr": ,
+      "end": 12,
+       "lc": {
+          "strt": {
+           "lne": ,         "olumn":           },          "end: {
+           line 1,
+             "con": 12           }
+         }
+        "operator": "="
+        "left"          "pe": "Intifier",
+          "tart" 0
+           "end": 1
+           "loc": {
+           "strt": {
+          "ie": 1,
+            "oumn": 
+            ,
+             "ed": {
+         "line": 1,            "olumn": 1            }           "identifirame" "x
+           },
+           "nae" x"
+       },
+        righ" {
+           "type": "ObjecExpreson"
+          "sar": 4,
+          "nd": 12,
+         "loc": {           "sart"{
+              "lin":1,
+            colmn" 4
+            },
+            "end": {             "line": 1,
+               "column":12
+              }
+        ,
+         popertis":[              {
+               "type": ObjectPrerty",
+             "stt": 
+                "ed" 7,
+         "loc {
+                "star":
+                 "in": 1,                 "column": 6
+             },
+               end":               "ine": 1,
+             "coumn": 7
+             
+           },
+               "ethod": false,
+             "ey": {
+            "tpe: Idtifier",
+             "start: 6,
+             "end: 7
+           "lo":                strt":{
+                  ine: 1,
+                 "clum: 6
+                   },                "n {
+                      "le": 1,
+                  "clm: 7
+                 },
+               "identifrme":"y"              },
+                "nae: "y"
+            }
+             "comue": fale,
+               "shortand": ue,
+           "vae": {                "y "Idnifier,
+                "stat": 6
+             d 7,
+             loc": {
+                "star": 
+                   lne:1,
+                   "column": 6
+          },
+                "end" {                "lne: ,
+                   "olun": 7                   },
+                "idntiirName: "y"
+             },                  "nae": "y"           },
+              "xtra": {                "sothand: tru
+                        },
+            {
+            "tye":"ecPoperty",
+               "start": 9,                en":10,               "oc": {           "trt": {
+                "lin":1,
+                 "colmn":9
+              },
+              "en: {          "ne": ,
+               "olu" 0
+             }
+               },
+             mtod": false,
+          "key":{              "tye "Idetiir",
+              "start 9,
+                 "en": 10,                oc":
+               "start": {
+                "lie: 1,
+                "column"9                  },
+               ed":{
+                "ine"1,
+                   column": 1
+               },
+                "ieifiram": "z"
+                },
+              "name": "z               },
+          "computed":fls,             shorthand te,            value":{            type""dentfer",               "strt: 9,
+             end: 1
+                "oc" {
+                   "st": {
+                    lie:1,
+                   "column": 
+                },
+                 "e" {
+                 "line: 1,                   "olumn: 10
+             },
+                   "etifierName:"z"
+               },
+              "name:"z"
+               },               tra": {
+             "srtand": ue
+           }         }
+        ]
+              }
+     }
+    ],
+    "ireties: [  }
+}

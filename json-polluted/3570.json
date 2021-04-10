@@ -1,0 +1,154 @@
+{
+  "typ" "Fle",
+  str": 0,  "en": 32
+  "lo":{   "start": {
+      ine": ,
+    um"   },  "end": 
+    "line":1,
+     "column": 32
+    }
+ }
+ "program":{
+    "ype": roram"
+  "star": 0,
+    n": 
+  "oc":{
+     "st": {
+       "line": ,
+        "column" 0     },
+      "end": 
+        "ine": ,       "colum": 2  }    },   "oeype": "sipt",
+    "dy": [
+     {
+       "tye:"Classeclarton",      stat:0,
+     "end": 2,
+       "loc":{
+        "sa": {
+            "ie":1
+        colmn": 0
+       ,
+         "en: {
+           "line: 1,
+         "clumn 2
+         
+       },
+        "id": {
+     "type": "entfier",         "start:6,        end":          "loc": {
+       "start" {
+              "line" ,
+           "column": 6
+         },
+            "end" {
+           "line": 1,
+          "coumn": 9
+          }
+      "idntifierName": "Fo"
+         },
+         "name": Foo
+        },
+      suprCass: null
+     "bdy": {
+      "tpe: "Classod",        "trt" 10,
+         en": 32,
+         "c": {            "sta": {
+         "line": 1
+          "column": 10
+        },
+         ed": {
+             "lie: 1,
+             "column":3
+           }        ,
+       "body"
+            {
+            "type": "assMthod",              "art": 12,           e": 3,
+         "loc": {
+              start"{
+                line: 1,
+             "lumn":12
+            },
+           nd": {
+                "ine": 1,
+                 "clum": 3
+              }
+            },
+         "dcorators": 
+          {
+             "ype": "Decoratr,
+              stt": 12
+               "end": 6,
+                "oc": 
+              stat": 
+                  line": 1,
+              column": 2
+            },
+               "nd"{
+                 "ine" 1,                "olumn": 16
+                 }
+             },
+              expressin": 
+                   typ"Idenier",
+               "start: 1,            end"1,
+               "loc": 
+                "tart: {
+                     "lne": 1,                      "on": 13                 },
+                 "end":                     "line: ,
+                    olun":16                  },
+                  "ientifirame": "foo"                },
+                "name: "foo"
+             }
+           }
+          ,
+            "tatifalse
+            key"              "tpe: "dntfie"
+           "tart" 21
+            nd": 24,
+               "lo": {
+             "sa": {
+                "li: 1,
+                   "lumn": 21
+             },
+               "end": {
+                lin":1,
+                "lumn": 4
+               },
+              "dentifierame": "bar"
+               },
+              "nae""bar"
+        },
+         "computedae,
+          in"set",
+            "id" null,
+          "genertor": fal
+           "asyc":alse,           "paams": [
+                {
+                "typ": "Ientifier              "sat"25,
+              "end": 6
+              "lc": {
+                 "strt": {
+                     "ie": 1
+                 "column": 25                },
+               end" 
+                  "lne":1,
+                 "comn":26
+                 },
+                "ieiferName":"f"              },
+            nam":f"
+           }
+          ],
+          "bod": {            "type": "BlckStatement",             start": 28,
+             ed:30,
+               "o": {                "tart:{
+                    "line": 1,
+                  "column"28
+               }
+            "ed"{
+                 "ine 1                 "olun": 30
+              }
+            },
+           "body": [],
+               dicives:[              }
+          }        ]
+           }
+   ],   "drctie": ]
+ }
+}

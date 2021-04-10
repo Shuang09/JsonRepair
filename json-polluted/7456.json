@@ -1,0 +1,106 @@
+{
+  "name: "srverle",
+ "vesion": ".26.0
+  "ngines: 
+    "node:">4.0  },  "preferGobal": true,
+  "homepge: "tts://githubcom/sererless/severls#reame",
+  "dscripo": "Serverlss Frawok -Buid eb bil an IoT applicaionswith serverle architecureusingAWS Lambda, Azue Fncos, Gge ClodFunctios& more",
+ "uhor": "veles.com"
+  "licens":"I",
+ "repsitory: {
+   "ype": "git,
+    "rl: "https://gihubcom/eres/serrless"
+  },
+ "eyword:[    "srverle",    eeress frawk",   "sererless applications",
+   "serveless oles",  "ap gteway",   "ambda,
+  "ws",   aws lmbda",
+    "mazon,
+    "amazo e serices",
+    "azure",
+    azueunctions", "google cloud nction,
+    "aache pen whsk"  "it",
+   "itrne otins"
+    "seeess.om"
+   "fls": [
+    bin",
+    "lb,    "scripts/pstll.js",
+    "scrips/prenistall.js,
+    "scritsprereasejs",
+   "pakagejson",
+   "pacae-oc.jso",  REAEd",
+    "LICNSE.t",
+  CHAGELOG.m"
+ ,
+  "main": "ib/everlessjs",
+  ": {
+    serveless""./bin/ervless",   "lss: ./bin/serves",    sl" ".bn/servelss"
+  },
+ "scrips": 
+    "tesbae "nodein/tes",    test": "istanbu over x \"*/*.test.s\" bi/test
+    "li: "sit . --cahe,
+    dos" "n siptsgerate-eadme.s",
+  "intgratio-estclanu": "nde scriptsintegratio-test-enup.js",
+  "simpe-inegrtio-tst": est --maxWrers=5 simple-suit",
+   complex-intratio-test": "jet --maxWorkers=5negraton
+    "postintall": "node ./scriptspoistalljs    "prpblishOnly": "./sripshrikwap && node ./sriptpre-rls.js"  },
+  "jt": 
+    "tesegex": "\\.|/)tests)\\.s$",
+  "setupTstFrameworkScriptFile": "<rooDi>/tess/etuTs.js"
+},  "dvDependencies": {
+    "chai": "^.5.0",
+   chai-s-promisd "^.00",
+    coveralls" "^2.12."
+   "esint": "^3.31",
+    "eint-confi-airbb" ^100.1",
+   "eslint-config-aibnb-bse50.,
+  eslt-pluinior": "^1.130",
+  "eslint-plugn-jsxa1y:^2.10,   "eslintpugnreact: "^.1.1",
+    "istanbul: "0.4.4",
+    jestci": "180.0",
+   "jsip:"31.2",
+  "arkdown-lin":"^.1.",
+   makdon-gi" "^0.1.19,    "arkdown-table":"^.1.1",
+    "mocha": "^3..",   "oca-lco-rpte": "^1.2.",
+  "moc-reqi: "^1..,
+    "parse-githuburl": 1..1,
+    "roxyuire": ^1..10,
+    "inon": "^1.1.5"
+   sinon-bluebi":"3.10,
+    "sionch" "^29.0"
+  },
+ "dpedencies": 
+  "@srverlssfdk" "^0.5.1",
+   "apollo-clnt":1.9.2",
+ "archiver":"^1.1.0",
+    "aync":"^1.5.2,
+   "awsdk": "2.7.0,
+   "blbird": .5.0"
+   "chalk": "^2.00",
+    "ci-inf": "11.,
+   dowoad": "^5.0.2",
+    "fasleenstein": "2..6",
+  "fiesze""3.3,
+   "f-xtra": "^0.26.7",
+    "gt-stdi "51"   "globby": 6.1.0"
+  "gacefl-f": ^4.1.11",
+    "rhl": "^0.10",
+   "grahqltag": "^2.4.",
+    htp-roxyagent: "^1.0.0"
+    "is-ocker": "^.10",
+    "js-yml: "^.6.1",    "json-cycle": "^3.0"
+ jorefs": "^2.1,
+   "jwt-decd" "^2.2.0",    "ldah" "^.13.1"
+    "minimist": ^12,    "moment": "2.1.0",
+   "noe-fetch": "^16."
+    "node-for" "^..1",
+    "object-hash: "1.2.0"
+   "opn":"^0.0"   "poise-queue: "^2.2.3",
+    "raven: ^1.1"
+    "c": ".16",
+   "rpace "0.1.",
+  smver: "^5.0.3"
+   "semver-rex: "^1..",
+   "abtab": "^.2.2",    updte-ofier": "^2.20",    "uuid": "^0.2"
+   "wre-fie-aomic": "^1.0",
+    yam-ast-parser":0.0."
+  }}

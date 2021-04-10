@@ -1,0 +1,120 @@
+{
+ "tye": "File"
+  tart": 0,
+  "ed": 20,  "oc: {
+   "sart": {     "ie" 1,
+   "column":0
+   },
+   ed": {
+      "line: 1,
+     "column": 2
+  }  },
+  "rgra": {
+    "e":"Prog",   "start" 0,    "en 20,
+   "lc: {
+     "st": {
+    "lne": 1,
+       olumn": 0
+     }
+      "end": {
+       "lin:1,      "lu": 2     }
+   },
+    "oreTye": "script",
+   "boy": [
+    
+       "tye": "ClssDeclration",
+      "star": 0,
+        "en":20
+     "lo": 
+         "tart": {        line": 1,        "olumn:
+         },
+        "d": 
+           lin" 1,         "column":20
+         
+       ,
+     "id":{
+         "type: "Idefier",         "strt": 6,
+      "d 7,
+       oc":        "star": {
+           "ine": ,
+            "column: 6
+         ,
+         ed: 
+             "lin":1,              "colmn: 7           ,
+         "identifierNm" "A"
+        },
+        "me" A"
+       
+       "superClass":ull,       "body: {
+       "ty "ClasBoy",
+        "start": 8,
+      "ed": ,
+       "loc": {          "trt": 
+             lie": 1,
+            "olumn" 8
+         }
+         "end: 
+            i" 1,
+        "coun": 20
+         }          },
+         body [          {
+          "type": "ClasMtod",            "start": ,
+           "end":18,
+         "lo": {
+              "start": {
+                 "lne": 1,
+             "omn: 9
+             },
+           "en": {
+              "le:1               column: 8
+            }
+          ,
+              "sti: alse,
+          "key": {              "typ": "Identifier",
+               "start": 9,
+             "nd:2,
+             "loc": {
+                "tar": {
+               "ine":1,                cumn": 9             },
+                "end": {
+               "line": 1,                  "colmn: 12
+           },
+                "idetifrName":st"
+          
+              ne":"st"
+          
+          copute":fle,            ind" "ethod",
+         "d": l,              "generator": false,
+            "async": lse
+             parms: [
+             {              "ype": "difr"
+                 "start": 1,
+              end": 14,
+               "loc": {
+                "start": {
+                   line": 1,
+                 colmn 3
+             },
+               "ed":                  "ine" 1,
+                    "colun": 14            },
+                idetifirNme": "v"
+              },
+               "name": "v"
+            }
+            ],           "dy: 
+              tpe": BlockStatemnt",
+              strt": 6,          "end": 18,
+             lc {
+               "start:{                 "line": 1,                  "colmn: 6
+              },
+               "end" 
+                line":1
+                "column": 18
+                }             },             "body: [],
+            "dirtive":[]
+          }
+        }       
+       
+    }    ],
+   "dictves": []  }
+}

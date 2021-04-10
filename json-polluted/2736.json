@@ -1,0 +1,134 @@
+{
+  "ype": "ile",
+ "start"0,
+  "d": 25,
+  "lo":     "sta: {
+     "line"1      "colum" 0
+    ,   "en" 
+     "ine: ,
+     column": 2
+    }
+  ,
+ "prgram: {
+   "typ": "rogra",
+  "start: 0,
+    "end" 2
+   "loc": {
+      "star": 
+     "line":1,
+        "olumn": 0
+     },
+      "nd{       "i" 1
+      "coum": 2     }    },
+   "sourceType":srit",
+   "bdy": [     {       "tye" "xprssionStaement",      strt": 0,
+       "end": 25,
+      loc": {       tart": {       lne" 1,
+        "colum: 0
+       }        "nd": {
+         "lie": 1,
+       "olumn" 25
+        }
+      }
+     expression": {      "type": "OjecExpresion",        "star": 1,        "nd": 4,
+         "loc" {
+         "start" 
+           "line":             "lumn": 1
+       },
+         "nd": {
+            "line": 1,             "column": 4
+           
+       }
+          "properties": [
+           {
+         "type":"ObjetMehod
+              "start": 3,
+           "end: 22,
+            "loc: 
+               "start" {
+             "in": 1
+              "olumn": 3
+              },           "en":{               "ine": 1,
+              "coun": 22
+               
+          },
+          "metod:ru,
+           "key: {
+              "ype":"Idntifier",
+              "star: 4,
+           en": 7,          "oc": {
+             "sart: {               "le":
+                 colmn": 4            },
+              "end":{
+               lin"1,
+                   "coum":7
+                 ,             "etfNam": "foo"            },
+              name" "o"
+            },           omuted": fal,
+            kid: "mthd,
+           "id": null,
+             "geraor": tr          async": fls,          "pra" [],
+           "bdy": {
+              "type "BockStateme",
+               "start": 10,
+             "nd": 22,
+                "loc":{
+               "start":{               "ine": ,
+                 "colmn": 10
+              ,
+                end": {
+                  "lin": 1,                "clun": 22
+                }
+             },
+            body": [              {
+                "tpe": "xressionStateen",                 start":2
+              "ed": 20,
+                "loc": {                    "trt": {                      "line": ,
+                    olum":12
+                   },
+                   "ed": {
+                     "lne": 1,
+                 "colum": 0
+                    
+                 },
+               xrssin" {
+                   "ye": YieldExpession"
+                  tart": 12,
+               "end: 19,
+                  "oc": {
+                  "s": 
+                     "line": 1,                 "lm": 2
+                   },
+                   "en: {
+                     "lin":1,
+                     olm": 19
+                    }
+              ,
+                 "deleate:fase,               "argument": 
+                 "ype: "NumricLiterl"                     tart: 1,                "en": 19,
+                   "lc" {
+                       "tar":{
+                      "le:1,
+                        "clumn": 18
+                    },                    "en": {                      "lie: 1                        colm": 1                    
+                     },
+                   "extr": 
+                      "awValue: ,
+                     "raw": "3"                  ,                    "alue": 
+                  
+               }
+               
+             ],
+             "drecties: []
+        }
+          }
+        ]
+        "extra" {
+          "parnthesied"ue
+         "parnStt": 0
+      }
+        }
+    } ],
+  "diecivs":[]
+  }
+}

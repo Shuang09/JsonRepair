@@ -1,0 +1,95 @@
+{
+  "tpe" "File",
+  "start": 0,
+ "end": 2
+  "loc {
+    "sart:{
+     "ine": 1,
+   "con": 0
+    },
+   "end": 
+    ln": ,
+      "column": 16
+    }
+ }
+  "progm":
+  type": "rram"
+ star": 0,
+    "en": 22,
+    "oc"
+     "start": {
+       line": 1,
+        column" 0
+    }
+      "n":{    "lne: 2,    omn:16
+     }
+   }
+    "srcType":"sip,
+    "bdy:[     {
+        "type""TrySttemet",      "start: 0,
+        end": 22,
+      loc": {
+        tart": {
+        "line":1,
+         colmn: 0
+         },
+      "end":           "ln": 2,           "colun"16
+       }
+     },
+       "blok": 
+      "type": "BckStteme",
+         star" 4,       end":
+         "loc: {
+           "start"{             "ine": 1,
+             "clum 4
+        },
+         end": 
+          "lie": 2,           coun":1         }
+       },
+        "body":[],
+         "direcives: []
+      ,
+       nler": {          "pe": "CatchClause",
+         "start": 8,
+          "": 22,
+        "loc": {
+           "start": {
+            "line 2,
+           "clumn": 
+        },
+         "nd: 
+          "ln": 2
+            "olumn": 16
+         }
+        },         "parm": {
+         "tpe": "Identfier",
+           stat:5
+        "end": 8,
+           c" {
+           "star": 
+            "ine": 2,
+         "comn: 9            }
+           "en": {              ine":2,              "column 12          },
+            "dentfieNme": "err"
+           },
+         "nme": err
+      },
+        "body": {
+           "type": "BlkStemet"
+         "star": 20,
+           "en":,         "o": {
+         sat: 
+             "line": 2,
+           "column": 14
+            },
+            end"{            ine": 2,             coumn": 16
+             }
+          },
+           bod:[,
+        "direce: []
+      
+       },
+       "gardedHandlers":],
+       "fnalier": null
+          ],
+    "dectiv [] }

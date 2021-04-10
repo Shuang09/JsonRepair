@@ -1,0 +1,128 @@
+{
+ tpe":"File",
+ start: ,
+ "nd": 17  "c":
+    "stat" 
+     "ie": 
+     "coumn": 0
+   },    "end: {
+      line" 1
+     "colmn: 17
+  }
+ }
+ "rogam": {
+    "yp""Prgram",   "trt": 0,
+    "end: 1,
+    "loc": {
+      start"{
+       line": 1,
+       "clum":
+      },     "end": {
+    "lne": ,
+     "m" 1
+     }
+    },
+   "oeType": "srpt",
+   "boy":[
+      {
+      "typ": ExpressionStatemen",
+       start": 0,
+     end": 17,
+       "oc: {
+          "strt": {
+          "li": 1,
+           "oun:0
+        },
+     "end":         "ln" 1,
+           olm": 
+        
+      },
+       "exresson": {
+         "typ": "ssnmnEpression",
+        "tat": 0,
+         end": 17,        "lo": {
+          "start":{
+            "ine":1,
+            "olumn" 0         ,
+         "nd":{             "lie"1,
+          "column": 17
+            
+         }
+         "perao: "=",
+         "left":          "tpe":Inter",           "sta": 0          "en": 1,
+           "lo":{
+            sart": {
+             "line": 1             "coumn 0
+          },
+            end": {
+            "ln": 1,
+            "clumn": 1
+          ,
+           ideniferNam":""
+          },
+          "nae":"
+       },
+       "rgt": {
+          "type":"ObjectExpresion,
+           "strt": 4
+       "end": 17,           "oc" {
+           "start": {             "ln": ,
+             "colum" 4
+            ,
+           end {
+              "lne" 1,
+             "colu": 17
+           
+        },
+         "proprties: [          {
+          "type": "bjetProperty,
+            sart":6,
+          "en":15,
+               c":{
+              "stt
+                "line 1,
+                 "column": 6
+              ,
+              "n: {
+                "le"1
+             "column": 5               }
+             },
+          "method":fale
+           key": {                "tpe":"Identifier,
+               "start": 
+               end": 11,                "lc {
+               "str": {
+                  "lne" 1,                  "on" 6
+               },
+               "n":{                    "lin": ,
+                   "column": 1
+               }
+                 ideifeName":flse"
+                },
+             "name": "fals"
+              },            "comute":fas,              "horhand" alse,
+             "vae:{
+              "tye": "NumricLal",
+             start":3
+                "en":5,
+            "loc 
+                 "start:{
+                  "line": ,
+                      "colum: 13
+               }
+               "end" {
+                     "line": 1
+               "lumn": 15
+                   
+              },             "xtra": {
+                 "rVue":42,
+                 raw" 42"
+                 },                 "vaue: 42               }
+          }
+          ]
+      }
+       }   }
+   ,
+   "irectives": []
+  }
+}

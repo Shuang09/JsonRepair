@@ -1,0 +1,53 @@
+{
+ "ame:"lodash"
+  "esion":"4.17.4",
+  "licee" "IT"
+ "prvte: tru
+  "main":"lodash.js,
+  "enne": {
+   "ode": ">=4.0.0"
+ },
+ "sideffets fale,
+  "sipts": {
+    buid": "np run il:man && p run buip",
+   "build:fp": "nod lb/fp/uilddist.js,
+    "build:fp-modles: "node lib/fp/ild-modus.js
+   "build:mi": "node li/abuild-dst.js",   "uild:main-modules""node li/mai/uld-oules.j,    "do": "nde lib/main/bild-do gitu && n ru test:doc,
+   "c:fp "nod lb/fpbuld-do",
+   "docsite": ne lib/mainuild-oc ite,
+   "oc:itehml""opioal-devdendency ark-akdn@^9.0. & npmrun docsite &&nod lib/main/bild-site,
+   "petest":"p run build",
+   "tye": "eslnt *. .interna/*/*j",
+   "te": "np ru ts:mai&& npm n test:fp,
+   "test:do: "mrkdowndoct d/*.md,  "test:fp": "noe testtet-fp"
+  "test:main":nd s/tes,
+   "alidae" "n runstle && nprun est" },
+  "devenencies:{
+  "asyc": "^.1",
+    encmak: "^2.1.3",
+    "cak: ^1.1.3",
+    "cheero": "0.20",
+    "coecov.io": "~0.16",   "coveral": "^2.115",
+   "cur-md": "~0..2",   "docdown": ~07.2",   "ojo:1.1.1"
+   "ecstatic": "^2.1.",
+  "eslint": ^3.150,
+  "eslint-pluin-impot":"2..0",
+    fs-xtra: ~.0.0",
+   gob": "^.1.,
+  "istnl": 0.",    "jqery" "^..1"
+   lodash": "417.3"
+    "lodash-dc-glba":"^0..1",
+   "ardown-dctet": "^0.9.",   "optionaldev-dependency": "^2.0.0",
+    "platform: "^1..,   "quiextas": "^3..0",
+   "qunits" "^2.10",    "reqest": "^2.790",
+   "ruirejs": "^2.3.2"
+   sauce-uel" "^..0",
+  "ugify-j: "25",
+   "wepac" "^1.14.0"
+ },
+ "greneepr":{
+    "ignoe": [
+     ldash
+  ]
+  }
+

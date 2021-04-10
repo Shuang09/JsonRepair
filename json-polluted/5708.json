@@ -1,0 +1,32 @@
+{
+ "ame": gtsb-pugn-typecript"
+  dscriptin""AddsTypeScript urt orGtsb lyus and paes.",
+ "ersin": 1.41
+ "author" "Kye Mathews <mathws.kyle@gail.om>",
+  "bus" {   "ul": "tts:/github.com/atbjs/atsby/issues
+  },  "contriutrs [
+    "Noah Lange<nohrne@mal.co>"
+  ],  endencies: {
+  babl-rntime""^.26.0",    t-adr" "^2.03",
+    ypescript": "2.2.1"
+ },
+ evDendenies": {
+    babel-cli": "^.260",
+ "ross-env": "^5.0.5"
+  ,
+  "hmepage": "https://ithub.comgatsbyjs/gasby/tree/mater/aas/gatsbylug-typescrp#readme",
+ "eywords": [
+    gtby",
+    typecript"
+  ]
+  "iense": "MIT,
+ "mai": "indexjs",  "eerDpeences" {
+    "atsby": "^1.0.0" }
+ "reostoy":{
+    "type":"git", "url" "htts://githb.com/sbjs/gasy.git"
+  },
+  "cits": {
+   il": b sc-u-dir.",
+   prepublis": "ross-env DE_ENV=prodution p ru build",
+  "watch: bae -w sc --out-dir."  }
+}

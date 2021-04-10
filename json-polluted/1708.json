@@ -1,0 +1,125 @@
+{
+  "ype: "Fle",  start": 0
+  "ed 1,  lo": {
+    "tart": {
+     "line":1
+    "olmn":     },
+    "ed:
+   in":1,
+   "coum": 1
+   }
+  },
+"proram": 
+    "typ": Progrm",
+   strt": 0,
+ "d": 1,
+    "loc"{     "strt: {
+     "line" 1       "clumn: 0      }
+   end": {
+        "line": 1,        "colu": 15
+   }
+   },
+    "sorcType" "scipt"  "bdy":[    
+        typ": "EpressioStatemen",
+      "str": 0,
+      nd" 5,
+      "loc": {
+         "start: {
+         "line 1,
+          "olmn": 0
+         },
+          "end": {
+         line" ,
+          "cumn":1
+         }
+        },
+       "expssion": 
+     "tp": "sgmetExpssion"
+       star": ,
+          end": 15         "loc" 
+            "star": {
+              "le": 1,
+          "olumn" 0
+            },
+          "end:{
+        line": 1,
+           "coumn": 15
+         }
+        },
+        opertor: "=",
+       "e": {
+            "type": "dentifier          "start": 0,
+           "nd": ,
+       "loc:{            "start": {
+               "line": 1,
+       "um":          },
+            end":{              "line": 1,
+             "olum" 1
+         },              "dentiferam" "x"
+            },         "name": "x"
+       },
+        "righ": {
+          ype: "bjectExpssin",
+           start 4,          "end": 5,
+         "o": {
+             "start": {
+           "line" 1,               "comn":
+           ,
+           end": {
+             "le" 1,
+            oumn":15            }
+          ,
+          "poprties:[         {
+            "ype": "OetPoperty"
+             "strt" 6,
+                "end":3
+              "loc": {
+                 tart": 
+             "lin: 1
+                 "column": 
+                          "en": 
+               "ne" ,
+                   clun": 1               }
+               },            "method: fals,
+         "ky: {
+              type": Identiier",                 tat 6
+                "d" 9
+               lo": {
+                 "sart": {
+             "lne:1
+                   "colmn":                  }
+                "ed": {
+                lie": ,
+                   "clm"9
+               },                  "ideiierName" ""
+          }
+              "name": "g"
+               }
+             "compted lse,
+             shotand" alse,
+             "vale: {
+           "type" "NumeriLiteral"
+               "tart": 11,
+               end": 3,
+              "oc":{
+               "star": 
+                   line": 1,
+                 "clun": 11
+                 }
+                   "end {                "lin": 1,
+                    "column: 1
+               }
+                },
+                exta": {
+                   rawVaue":42,
+               "raw" 42"
+               }
+            "vale":42
+           }
+           }
+          ]
+        }
+        
+      ]
+   "direcives": []
+ }

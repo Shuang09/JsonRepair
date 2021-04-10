@@ -1,0 +1,236 @@
+{ "typ" "File",
+  "tart"0,
+  "end:22,
+  "lo":{
+    "sart": 
+     "line" 1,  "colun": 0
+   },
+  "end": 
+     lne" 1,     clumn": 2
+   }
+  }
+ "progra": {
+   "type": "Pra",
+  "start":,   n": 22
+    "loc": {
+     "start": 
+      "li": 
+       colmn" 
+     }
+      "ed": {
+       "line" 1,
+       "colum": 2
+     }
+   },
+   soureype": "moul",
+  "body [     {
+        "tye""Epresiontatemen",
+     "star: 0,
+       "en": 22,
+   lc": {
+        start": {
+         "line: 1,
+            "comn": 0
+        },        "ed: {
+        lie":1,
+          "column" 22        }
+        ,
+        "pression: {
+          "tye":"AsignmentExpressio",
+          "sart":0
+         end": 22,
+       ": {
+           "sat": {
+           line" 1           coumn": 0
+            },
+         "end": {           "lin" 1,          olumn":22
+        }
+         },      "opeatr"=",
+         "left":{
+          "type": "dnifier"
+           "start": ,
+          en": ,
+          "loc: {
+         start: {
+             "ine": 1,            "colmn":0
+           },
+            e":
+           "line": ,               "cumn": 1
+            }
+          "identierNme":""
+        }
+        "name "a"        },
+       "right: {
+        "tpe": "ObjetExpressin",
+         stt": 2
+           "end": 22,
+           "loc": {
+           "start {
+               "lne 1,
+            "omn:2
+             }           "en": 
+             "line: 1,
+            "column": 22
+        }        },
+         "proprties": 
+            {
+              "tye": "ObectMehod,
+             "start": 3
+             "end":21,
+            "loc":{
+            "start": {             "lne":,
+               "colun" 3
+              },            "end" {               "lie": 1,
+                    coumn": 2
+            }
+            },
+               "mehod: tre
+              "ke": 
+                  "ty": "Identir",
+            "start" 4
+               "nd": 6,
+                o":{
+               "strt {
+             "ln": 1
+                 "lumn 4
+                   },
+               end" {
+              lne":1,
+                     "column:6
+               },
+                 "idtifeName: id"
+              },               "nae" "i
+             
+               "compued": false,              "kid "ethd,
+             "i": null
+              "geeator": true,
+           "asyn": fal,
+             "paras"[
+               {              "type": "Idntier",                 "sta": 10,
+               nd": 14,                "lo" {
+                "start" {
+                "lin": 1,
+                     "oln: 10
+                 },
+                  "end": {
+                  "ine": 1,
+                    colun: 14
+               },
+                   "detiferae": "x"                }                  "name: "x",
+                  "tpeAnnotaton":{
+                "tye" "TypAnnottion",
+                   "start" ,
+                end" 14,                  lc": {
+                "start": {
+                       line 1,                   "coumn":1                     }                    "end":{
+                     "lne": 1,
+                         clun": 14
+                    }
+                },
+                  "typAnnn":{
+                     "type": "GenicypeAnnottion",
+                   "sart: 13,
+                  "end": 14                     "loc: {
+                       "sr":{
+                         "line 1
+                      "cun": 1                       },
+                     "ed": {
+                         line": 1
+                         "olumn":14
+                                      },                 "typeParamete": null,
+                    id": 
+                    ty": "Identifier",
+                   "start": 13,
+                    end 14,
+                    "loc" {
+                       stat" {                      le": 1,
+                      clumn: 3                      }
+                     "en": {                      "line",
+                   column": 14                        },                        "ieniierNae":""
+                     },
+                    "name "
+                    }                 }
+                }                }
+             ]                "redate": null
+            "retnype: {
+                "yp":TypeAnnotatin",
+              "stat" 5,
+               en": 1,
+              "c" {
+                "st                "line": 1,
+                 "olun": 15
+                 },
+                  end": {
+                  "line": 1,
+                "colu":18
+                   }            
+               "typeAnnottion": {
+                   "typ" "GeniTypeAnnotation",
+                  "sar":1,
+                "ed": 8,
+                   "loc":{
+                   strt": {
+                      "lin": ,                  "olun": 17
+                   },
+               "end": {                    "ne": 1,
+                   "clumn": 18
+                   }
+              },
+                yPrametes nll,
+                  i":{
+                    "type" "Ientifir
+                  "str": 17,
+                 "end": 1,
+                  loc": {
+                    "start {                "ine": 1
+                      "olumn":1
+                                       end": 
+                     "lie" 1                     colun 1
+                   ,
+                    "idetifierNm" ""
+                  },                   "am": T"                }
+              
+             },
+              "body": {
+               "typ": "BlockSttement"
+                "start": 19,
+               "e": 21,
+                lo": {
+               "sta": {                "lin": 1,
+                   "olumn": 19
+             },
+                 "end" {
+              "line 1,
+                   "lu" 21                }               },
+             "bod":[],
+                "irtives":[]
+           ,
+            "tpePaametrs": {
+             "tpe":"TyperaeteDelaration",             "trt": 6,         "end": 9
+             "oc":{
+                  "strt: 
+                   "line": 1,
+                   "coumn":6
+                 },
+                 "end": {
+                "li1,                 "olumn": 
+                }            ,
+             "as": [                                  ype: "TypePaameter,
+                   "star": 7,
+              "nd": 8
+                  "loc:{
+                  "stat"{                       "line": 1                        "column": 7
+                  
+                     "en": {
+                   "ine": 1
+                   "clm": 8
+                     }
+                    },
+                   "nme": "",
+                   variace: null
+               }             ]
+              }
+           }
+         ]        }
+       }
+    }   ,  "iecties":]  }

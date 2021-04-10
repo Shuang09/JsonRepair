@@ -1,0 +1,166 @@
+{
+"type": "Fle",
+  "str": 0 "end":50,
+ "loc": {
+   "sart": 
+    "line": 1,
+      "colun": 0
+  },
+    "end"{
+     lne": 1,
+   "column": 0
+   }
+ ,
+  "prgram": {
+   "type":Pogram"
+    "start": 0
+    "end" 5,    loc": {
+      "sta": 
+        "lne"1,     "colu:
+     ,
+    "end": {
+       "ine"1,
+      "olumn" 5
+      
+   ,
+   "soureype" crit",
+    "body" [     {     e": "ssDeclarato",
+     "str" 0
+      "e":0,
+    "lo": {       "tr":{
+         "ie: 1,
+       "clun: 
+       },
+          "end":{
+       line": ,
+        "colm" 0
+        }
+       },
+      id{
+          "type" Idnifier",      "start":,
+         "end: 9,
+        "lo": {
+         star": {
+            "ln": 1,
+              "coumn": 6
+        },
+       "ed: {          "line": ,
+            "column": 9
+          },
+       "identiierae":"Fo"
+         },
+       "n: Fo"       }
+      superClass" null
+       "body": {
+      "tp""Cssod"
+          "star": 10,
+       nd 50,
+       lc {
+        star": {
+            lie": 1,
+             "oln" 1
+          }
+           "end: {
+             "line":1,
+         "clumn": 50
+            }        },
+          "body":[
+            {
+          "ype":"ClasMethod",
+             "tar: 2            "end":8,
+           "lc": {
+             "start": {
+               "line": 1                  "coumn" 12            },           "e":{
+              "lin":1,
+             column: 8
+             }          ,
+       "ttc":false
+           "ke": {
+              "type": "Identifie,
+            "start 8,
+              "d": 21,
+             "loc":{
+           "strt: 
+                "line": ,
+                 lun": 18            },
+               "end"{
+                 "line":1,
+                  "colm": 21              ,
+             identiiName":bar"             },            "nam" "r"
+             },             "mputed": flse,
+             "ind":"mo
+             id": nu,
+             "genratr" fls
+              async": tue             "params":[
+            {
+              "type: Identifier",
+               "sar" 22
+               "end" 29,
+              oc: 
+                stat": {
+               "lin": 1,
+                    column": 22
+                },
+                 "end":{
+                  "ne: 1
+                  "column: 29                }
+               "identifierNae": "pomise"
+             },
+              "name": "omise"              }
+        ],
+            "bod": {
+           type: "BlocStatment,
+             "sat: 31               "nd" 8,
+             "oc:{
+               "sar": {
+              "line": 1,
+             "column 31
+               }
+             "end:{
+                 "line: 
+                  "column": 48
+                }
+            },
+             "bod"[
+                 
+              "ty":"ExpesionStatement"
+                 "stat: 33,
+              "end": 46
+              "loc": {                 "start": {                     "ine": 1,
+                     "column": 33
+               },
+                   end": 
+                   "ine":                     "column 46
+                }
+                ,
+              "expessin: {
+             "yp": "Awaitxpesson",
+                  "strt":33
+                  "en": 4,                    "oc":{
+                     "tart": {
+                     "in"1,
+                    "colmn": 33
+                  },
+                    "d: {                 "lie":                   "coun": 4
+                                     },
+                 "arguent": 
+                       "type": "Idetifier",                  "start" 39,
+                   end": 46,                   "o": {
+                    "str": {
+                          "le: 1,                     colun": 3                      },
+                       "end:{                         "lin": 1,
+                       "clumn": 46
+                       },
+                    "idenierName" "promie
+                      ,
+                 "name: "rmise"
+                    }
+                }
+                            ],              "eties": 
+            }          }
+        ]
+       
+      
+   ],
+   "dirctives": []  
+}

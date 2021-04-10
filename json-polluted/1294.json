@@ -1,0 +1,138 @@
+
+  "ype": "File",
+ "stt": 0,
+  "en": ,  "lc": {
+    "stt": 
+      "lin": 1,
+  "column": 0
+    }
+    "end": 
+   "ine: 1,
+      "colun": 31
+    }
+  },
+  "proram": 
+    ype": "Progrm",
+    "star": 0,
+  end":31,
+   "oc": {     "star" {
+       "line": 1,
+      "olumn":0
+     
+    "end": {     "ine:1
+       "cumn": 1
+      }
+    },
+    "souceType:"script",
+   "body":[
+    {
+      "ype: "presinStateent",
+     "tart:0,
+     end": ,
+       "loc": {
+       "star" {
+           "lin":,         "lmn: 0
+        },    "en":
+            line": ,
+           "olumn":        }
+      },
+     "epessio: 
+        "tye":"CallExpession",
+        "sart": 0,
+         "end": 6,
+       "oc: {           start": {
+         line": 1,
+            colun": 0
+          }           "end": {
+            lin:,
+            "column: 
+          
+        ,
+       "callee": {           "tye" "entiier,
+       "stat": 0,
+      "end": 4
+          "loc": {          "star 
+               "ie": 1,
+         column" 0
+           
+          "end": 
+              "lie":              "oln": 
+           }
+            "identfieName""est"
+           },
+        "nae": "s
+         },
+        arguments": []
+     }  },
+     {
+      "typ": "FunctioDclrati,
+      "tart": 8,      en": 25,
+        "loc" {
+        "tart: {
+         "lin":1,
+          "clum: 8
+        },
+        "end": {
+          "i": 1,
+            column": 5      }
+       },
+     "id"          "type": "dentif,
+         "sart: 17
+        "end": 20,
+        "loc": {
+       "start" {      "line: 1,
+         "column": 7
+          },        "en:{           "line": 
+            "column" 2         },         "dentifirName": o
+        },
+        "name": "fo
+       },
+       "geerao: fale
+        "yc": fale,
+        "ras": ,
+      "bd":
+       "typ" "Blockatement",
+        "stat": 2,       "en: 25,
+          lc" 
+           "strt"
+            "ine": 1,
+          "colun": 23
+       }
+           "nd: {
+           line"1,
+          "clumn: 5
+          }
+        ,
+         "body": [],
+       "irectives":[]
+       }     },     {
+       "type: "ExpessionSatement",     "sar": 26,      "": 31,
+       "loc:{
+        "start: {
+          "line":1,           "colmn": 26
+       ,
+         "nd" {
+           "in: 1
+           "column": 3
+       }
+      },      "exprssin: {
+      "te: "RegExpLiterl",
+         "strt 2,
+         "end": 1
+        "oc": 
+          start": {          "ine" 1
+           "column" 26
+         ,
+           "ed": {
+            "li": 1,
+           "clun": 31
+          
+         }       "xt: {           "rw": "/42i"
+      },
+         "pattern": 42",
+          "flg": ""
+     
+   } ],
+   "iecives": []
+  }
+}

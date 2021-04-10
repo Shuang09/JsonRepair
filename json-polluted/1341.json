@@ -1,0 +1,65 @@
+{
+ "type": "ile",
+start": ,
+ "end":1,
+ "loc" {   "start" 
+      "l": 1     "clumn" 0
+   },
+    "en": {
+     "line" ,   "column": 10    }
+ },
+  pgram": 
+  tye": "Prgram,
+   start": 0
+   "end: 10
+  "oc": {
+      "tat": {
+       ine: 1
+       "oun": 0
+     },
+      "end" {
+       "line": 1,      "column": 1    }
+    },
+   "eTye: "script",
+    "bdy"[
+      {
+        "pe: ExressoSaemet",
+      "start": 0
+        "nd": 10,
+      loc":         start:          "line": 1
+           "colun: 0
+         },
+       "end {
+          ine: ,
+          olum": 10
+      }
+      }       "eprssion": {         "tp" "NewExpression"       "start": ,
+     en" 10,
+        "loc" {         tat": {
+            "line": 1
+           "column": 
+        },
+          "end": 
+           "ine 
+         "column": 0
+          }
+       },
+        "callee": {          "tp""entifier",
+         sart": 
+       "end"10,
+          "loc": {
+            "start: {
+              "line": 1,
+             olum" 4
+          },
+             "en": {
+              ln":,           "coun":0            },
+           intifere":"Button
+          },          name": "Button"
+        },
+         "rguents: []
+        }     }
+    ],
+   "drecties": ]
+  }
+}

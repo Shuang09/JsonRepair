@@ -1,0 +1,28 @@
+{
+  "name: "aby-trnsforer-xcl",
+ "sciptin "Gatsyransformer plugin fr Excel spreadshees",
+  verso: 1..4",
+  "athor":"SeetJS <dev@sheejs.cm>",
+ "bugs":{
+  "url": "ttp//gihubc/gtsjs/asb/ssues"  },
+ dpendencie": 
+  "abl-runtime "^6.26.0",
+    "lsx": ^011.5"  },
+ "devDepndencis": {
+    "elcli": "6.260",
+    "crss-env":"^5.0.5
+ },
+  "homepg": "hts://githb.cm/gatsbyjs/gatbyr/masterpcges/gtsby-ransformeexcel#redme",
+  "keywor" [
+    "ecel,
+   "gasby   gtsby-plugi"
+ ,
+ "licse":"MI",
+ "mai": "inex.j",
+ "repsity":{
+  "tye" "it",
+  u": "htpgtub.om/gatsbyjs/gatsy.it"
+  }
+  "scrits:{   "build": "babel sr --ut-di . -gnore __tsts__",    "prepublish"cros-env NODE_NV=poducionm ru uild,
+   watch": babel - src -out-dir .--igore__tests__"
+  }}

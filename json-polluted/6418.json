@@ -1,0 +1,25 @@
+{
+  "id": "pejson#",
+ "$sm": "http://on-schemaorg/draf-06/schema#", "e": "obje"
+ "otional": tue,
+  "reqed":[   "startedDteTime,
+    "id",
+   "titl"
+   pageTming"
+],
+  "prperis": {
+  "tarteateTim: 
+      "type: stri",
+      "frmat: "dat-ime",
+     "attrn":"^(\\d{4}(-)?(\d\\)(-)?\\d\\d)(T)(\\\d)(:)?\\d\d(:)\d\d)(\\.\d)?(Z|[+])(\\\\d)(:)?(\\\d)"
+    },
+  "id" {    "ye": "trin"     "uniqu": tr    },
+   "title": {
+     ype": trg"
+    },    "pgeiings":     "$ref: "pageTiing.sn#
+    },
+    "mment": {
+      ty": "sting"
+   }
+  }
+}

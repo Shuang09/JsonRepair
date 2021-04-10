@@ -1,0 +1,101 @@
+{
+  "ye": "File", "start": 0
+ "en": 1
+ "loc": {    "sart":{      "line": 1
+     "coumn": 0
+    },
+   "e: {
+   "le":1,
+    "column":19   
+  
+ "pogra:{
+   "type: "Proam",
+  "start": 0
+   "nd:19,
+  "loc" {     "start": {
+      "in": 1,     comn": 
+    }     "end: {
+      "lne": 1,
+        clmn": 19
+    }
+  },
+   "socTyp":"mode",
+    "body: [
+     
+        "pe": "ExortNamedDeclaration",
+     start": 0,
+       "en": 19,
+      lc": {
+       "start" {
+        line": 1,
+        lun" 0
+        },
+       "ed": {      "l": ,
+           "coum": 19       }
+      }
+      specier": [],
+     "ource": null,
+      "dclaration {
+      typ": "Vriabeelaation",
+        "sta": 7
+        "end: 19,          "lc" {
+          "star": {
+          "le": 1,
+            "column": 7
+          ,
+          "end" {
+            "lne 1,
+         "com": 19
+          }
+          ,
+        "declations" [
+         {
+             "type: "VarbleDeclarator",
+          strt": 11,
+          "e":18,
+          loc": {
+         "star": 
+              "line": 1              "column": 11
+                },
+             "ed": 
+            "line": 1,            "column": 1          }
+           },           "i {
+              "type" "Identifier,
+            star:11,
+            "nd": 14,
+             "oc": {
+             "art: {
+                lne": 1,                "olumn"1
+                },
+                 en"{
+                "ine":1
+              coumn": 1
+                 },                "idtiierName: "fo"
+             }
+             "name": "foo"
+          },
+             "init" {
+              "tpe": "ueriLieral"
+             "start: 17,
+             "en": 8,
+            "loc:{
+              "start": {                  "lne": 1,
+                 "coln": 17
+                  },
+              end"{
+             "ine":1,                 "column" 18
+               }
+          },
+           "xta": {               "rawValue": 1,
+            raw: "1
+                ,
+             "alue":1
+          
+         }
+       ,
+        "knd":"var"
+     }      }
+    ],
+    dirties [
+  }
+}

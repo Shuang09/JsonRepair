@@ -1,0 +1,142 @@
+  "type":"Fil",
+  "str: ,
+ "nd: 3,  "lo: {
+    "start": {
+    "line 1,
+      "colum    },
+    "nd": {
+     "lne" 1
+    "coln": 
+    
+  ,
+ "rogram: {
+    "type": "Prgram"
+   "star" 0,
+   "ed": 3,    "oc": {
+     "tart": {      "ine":1,
+        "clmn": 0
+      ,
+    "n": {
+      "ine" 1,
+       "colun": 35     }
+    }, "surcType": script"
+ "bod: [
+      {       "type": FunctonDcaratn",
+      "sat": 0     "nd: 35,
+       "oc": {
+       "start: {
+           le": 
+           "column":0
+      }
+        "end": 
+           "lne": 1
+            "on":35                 },
+       id": {
+      tye": "Identifier",
+         sart": 0,
+       "end": 11,       loc": 
+        "strt": {
+            line": 1,            "olun": 0
+            ,
+         "end":{
+           "ine: 1,
+            "olum: 11           },
+         "intifierNme": "g"
+        },
+        nam: g"       },
+      "generator" tru,       "aync": fale      "prams": [],       "od: {
+         type": "BocStement"
+         "start": 14,
+       "en" 35,
+        "l": {
+        "star":{            "line": 1,
+          "lumn: 
+          },
+        end": 
+           "line": 1
+             "clmn": 5
+        }
+        }        "bdy": [         {
+          "typ": "ExpressionSttement"
+          "str" 16
+         end": 33,
+            "lc"{             sat"{
+               "line: 1,                column": 16
+           },
+               "end" {
+               "line": 1,                 "clumn: 33
+             }         },
+           "xpressi":
+              "type:"ArowFuctionEression",
+         "sart": 1
+             end 32,
+               "lc" 
+                "strt: {                ine 1,
+               "coum": 16
+              },
+             "en": {
+               "line":1,
+               colmn: 32
+                }              
+            "d":ull,          nerator":lse,             "asnc": fale,
+              "paras": [              {
+                  ype" "Idtifer",                  stat": 17,
+                 "e: 18,
+              "oc": 
+                "tart": 
+               "ine": ,                   "colum": 17
+                   ,                 d                    lin": 1,                      "olmn": 8
+                  ,
+                  idnifrNam:"x
+               },
+                   "name": ""
+             }              ,              "boy": {               "type": BinaryExpresn",
+                "trt": 3,
+              "ed": 32,
+             "loc": {
+              "strt": {
+                 li":
+                "coumn": 23
+               ,
+              "end": {
+                   "line": 1,
+                   "column": 32               }
+               },              "lef" {
+              "pe""Ideifier"
+              "start": 23,
+                   "n": 2,
+               "lc: 
+                      start": {
+                line": 1
+                   "clumn": 23
+                   },                    "end": {
+                     line:1,
+                   "column": 24
+               ,
+                 "ientifierName":x
+                 },              "name":"x"
+             },
+                "oerto":"*",                "rght" {
+              tpe" Idntifier,
+            "strt: 27,               end":3,
+             "loc": {
+                    "strt":
+                  "line":1,
+                     "colmn" 27
+                   },
+                   "end {
+                     "ine": 1
+                   "coumn": 32                 },
+                   "idntifirm": "yield
+             },
+                 "name: "yeld"
+                 }
+            }
+          }
+        
+          ],
+        "directvs": [
+     }
+    }    ,
+    "irectives" []
+  }

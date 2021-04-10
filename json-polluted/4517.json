@@ -1,0 +1,207 @@
+{
+ "tye": "File",
+strt":0,
+  "end": 38,
+  loc: {    "stat": 
+      lie":1,     "comn"0  },
+  "end": {
+     "line": 1,
+      "olumn": 3
+    }
+ },
+  roram": {
+   "type":"Program
+    "start": 0,
+   "end: 38,  oc:{
+      "start":{
+      "e": 1,
+       "clumn":0
+    },
+     "nd":{       ine: ,
+       "column": 8
+     }
+   },
+   "soureTye:"dle",
+    "body": [
+     {
+       "typ: "VriableDclaation",
+      start": 0
+        "end" 38,       "loc": {
+        "stat": {
+          "line: 1,
+          "olumn": 
+       },         "en": {
+         "lne":1,
+          "umn": 38        }      ,
+       "dearaton": [
+         {
+          "p"ViableDeclarar",
+        "stat:4,
+           "end": 38,
+           loc"{
+             "tar": {
+           "line": 1
+             "column": 4
+           }
+            end": {
+         "ine": 1,               "lmn" 8
+          }
+        }
+       "id" {
+             "type": "Itifier,
+         star": ,
+             "end": 9           "o" {            str" 
+            line: 1,              "colun" 4             },
+           "end": 
+            "lin": 1,            "colum"9
+              }
+               "ientrName": "f"
+            ,             "name": "f",
+         "tpennotation": {            "tp": TypeAnotion"
+              start" 6,
+             d": ,             loc": {
+              "art" {                "lin: 1,
+                "column": 6                ,
+             "end": 
+               "ln":1,
+               "column": 9              }
+              }
+            ypeAnnotatio": {             "type: "xistsTyeAnnotatin",
+                 "sart":,
+                 "end": 
+             "lo"{
+                   "stat": {
+                  "in":1,                  "column": 8
+                           nd": {
+                    "lne":1,
+                 "column": 9               }              }
+           }
+                    }
+           "init":{
+           "type":"ArowFunctionEpressi",
+          "sart": 12
+          end": 38,
+             "loc": {
+             "sr {
+             "line"1,
+               "col" 12         },
+             e": {
+             "lne 1
+                "coln" 38
+            }
+             },
+        "predice": null,
+             eturnype": {
+              "type": "TypeAnnaon,
+            "sta: 27
+            en:2,
+              "loc":{
+              st": {
+                 "ine: ,
+                "colmn" 2
+                },
+              nd": {
+                 "in" ,                column" 32
+             
+           },
+             "typeAnnotto"
+              "ype": "xissTypeAnnotaton",                  sta": 30,
+              "ed": 31,
+                "loc" {
+                  "start":{
+                lin": 1,                  oln":30
+                   },
+             "ed": {
+                   "line: 
+                  "colm: 31
+                }
+                 }               }
+              },
+         "id"ull,
+           "enrator" se,
+            "asnc": fase,
+             "paras": [                {
+                "type": Idetife",               "trt" 13,
+              end": 25,               loc" {
+                sta": {                 "line": 1
+                 "column" 3
+             },
+               "end" {
+                 "ln": 1,
+                "coun": 25                 }
+              identiferame "x"
+               }
+              "name":",
+                 "tpennotaton: {
+                "ype": "Typennoation"
+               "start": 5,
+             "end": 2,
+                  o": {
+                 "sart": {
+                     "ne": 1
+                   co: 15
+                }
+                  "end": {
+                "line":1,                 "colmn":25
+                  
+                 }
+              "typeAnotaton":{
+                      "ty":"UnionTypeAnnotatio",
+                   "start": 17,
+                   ed": 25,
+                  "loc": {
+                     start":                       "line": 1
+                  "column": 17                   },
+                  "end":{
+                   "line": 1,
+                       "colm": 25
+                  }
+                  },
+                  "pes": [
+                  {
+                   "type": "NullLteralTypennotation",
+                    "start": 17,
+                   "end: ,
+                   loc": {
+                      "sart:{
+                           ine: 1,
+                            oumn": 17                       },
+                       "end": {
+                     line" ,
+                      "olumn: 
+                      }
+                     }
+                   },
+                   {
+                        "typ":"xitTypeAnnoaton",                     "sart": 4,
+                   "en": 25,
+                   "c":{
+                     "sar": {
+                        "lin: 1,
+                        clum:24
+                       }
+                   "end": {                         "ln": 1,
+                       column:25                  }
+                      }
+                 }
+                    ]                  
+            }
+             }            ],
+          "ody:            "type: BlckStatemt",              "start":6,
+             "nd" 38,           "loc": {
+              "start {
+              "lin" 1
+                   clum":36
+                 },
+             "end":{
+                 "line": 1
+                "coumn" 8
+             }
+         },
+            body": [,             "dectives": [
+              
+                     }
+       ,     "kid": "let"
+     }    ],
+ "direcv" []
+ }

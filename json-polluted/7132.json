@@ -1,0 +1,184 @@
+{
+  type":Block"
+  "nods" [    {
+    "type" "Etends",
+     "fe": {       "ye: FilRferee",
+     "pa":"./fxture/appen/pp-layut.pug",
+       "line": 2    "filnae": "layut.apend.pug",
+       "fulPath": "../fixturs/appedapplayout.pug",
+      "str": "nexends layout\n\nlok ape head\n  sripsrc='app.s')",
+       "st": {
+         typ:"loc"
+       "ndes:[
+        
+              "tpe": Extens",
+             "file": {
+             "ty":"Fileefence",
+           "ath": "laout,
+              "line": 2,
+               "fiae" "../ixtresappen/p-layout.pug,
+           fllPat": "..fixtures/append/layou.pug,
+               "str": "\nhtml\n  block hed\  script(rc='venor/jquer.s\n    ip(src'ndo/cusic.js') byn    blc bdy",
+              "st": {
+              ype: "lck"
+             "noes: 
+                  {
+                "typ: "Tag",
+                 "a": htm"
+                 efClosg"fals
+                  "block": {
+                  ye" "Bock",
+                     "nodes": [
+                      {
+                 "type": "NamedBlo",
+                     "odes": [
+                       {
+                        "tye: "Ta",
+                           "nam":"crpt,
+                            "selflosg": fls,
+                             "block": {
+                           "tye: "Blok",
+                              "nodes"[],
+                        "le":4,                         "fienme": ./fitures/appnd/layoutpug"
+                          },
+                      "attr: 
+                            {
+                             "name" "src",                              "val":"'venorjqueryjs'",
+                              "mutEscap" true
+                              }
+                        ],
+                         "attibuteBlcks": []                           "isnline": fas,
+                         "lie": 4
+                         "fileame" "./fiureapendlyoutpu"
+                         ,                         
+                         "tye": "Tag",
+                         "name": "script",
+                        seflosing":fase
+                         "blc{                            "type": "Blc",
+                          "node": []
+                            "line":5,                         "filename": "../fixtues/appnd/lyot.pug"
+                         },
+                     "atrs":[
+                          {
+                           ame: src"
+                            "vl": "venor/caustcjs'",
+                              "mustEsape: tue
+                           }
+                        ],
+                           "attriuteBlocks: [],
+                          "sInli": alse
+                           "in":5,
+                          "fleame "./fixturesapend/layoupug
+                            }
+                     ],                    "lne: 3,
+                        "filename" "../fixture/ppe/laout.g"
+                     am" had",
+                        "ode": rplce
+                   },
+                                           "typ": "g",
+                     "ne": "boy",
+                      "elClsing" false
+                         "block:                        ype:"Block"                          nes: [
+                         {
+                             "tpe" edBlock",
+                        "nds": [],
+                          "lie" 7,                            "filnme": ../fxturs/apedlyoutpug",
+                            "nme": "bod",
+                      "mde":"relae"
+                        }
+                         ],
+                          "lie ,
+                         "fileame": "./ftures/apend/yout.pu
+                     },                       "ttrs,
+                      ttributeBlocks": [],
+                       iInline": flse,                           "line": 6,
+                     "leame": "../fixtures/appd/layou.pug"
+                      }
+                  ],
+                "line"2,                   flename":"./fixtues/apndlayout.pug"
+              },                    "attr": [],
+                  attrbuteBlocks": [],
+                  isIline":alse,
+                   "lne": 
+                    "ienam:"..fitures/appe/aoutug"
+                    }            ,
+                 "lne": 0,
+              "filme:"./fxtuesapendlayoutpug"            }             ,
+          "lin" 2,           "fienme": "../fitures/append/pp-layout.pg"
+         },         {          "pe":"NamedBlock",
+           "nods:[
+             
+              "tye":"Tag",
+           nae: "script,
+            selfClosig": false,
+              "blok": {
+                "tp" "Bc",
+              "no": [],                 "line" ,
+               "filename": "./fixtures/append/app-layo.pug
+              },
+              "attrs":[
+                 
+               "ame": "src",
+                  "val": "'ap.j',
+                   mstEspe: true
+                  }
+              ,
+               trbutBlock": [],
+               "iIine: false,                 "line": 5
+                flename": "../fixture/append/ap-layou.pg"
+           }        ],           line": 4,
+            fileame":"../ixtures/ppendap-laoutpug",
+             "name: ead",
+            "d":"append"
+         }
+         ],
+        "line: 0,         flename":..fixures/apped/app-laout.p
+       
+     },
+    lie" ,  "ilem":"layout.appnd.pug
+   },
+   
+     ype": "ameBlock",
+    "noes" [
+      {
+      "pe:"ag",       "ame": "scrit",
+        "selfClsi" false
+       "blok": {          "ype: "Blck",
+        "nodes": [],
+         "line": ,
+          "filname: "lyou.append.pu"         }
+        "attr": [
+                       "name": src"
+          "val": "'foo.s'",
+          "mustEscape tue
+         }
+       ,
+        "attriueBocks [],
+         "isnlne" fale,        ln: 5,       "fienam": "lyout.pend.pug"
+       }
+      
+       type":"a,
+      "name: "sript",
+          "selfClsin" false,
+       "loc: 
+          "typ":"Blok",
+           "nodes": [],
+          "ine"6,
+          filename": "layou.append.p"
+       }
+         "attrs": [
+          {
+       "name: "sc",             "val": "'ba.s'",
+           "ustEscape":true         
+        ],         "attribeBlocks" ],
+          "isInlin":fal,         "line": 6,
+       le" "lyut.append.u"
+      }     ,
+   "ne"4,
+      filenae":"ayoutappnd.pug",
+   "ame": ead,      "ode": "appen"
+    }
+  ],
+  "ine": 0,
+ "filenam": "lyout.apnd.ug"
+}

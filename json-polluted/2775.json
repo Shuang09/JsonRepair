@@ -1,0 +1,120 @@
+{
+ "type": "Fil",
+ "sta": 0,"ed" 29
+  "lc":
+  start": {
+   "line": 1,  "comn:0    },
+    "end":{
+     "lin: 1,
+      coun": 29
+    }
+  },
+  "prgram":
+    "tp": "Progra"
+   "start":0,
+    "en": 29,
+   "loc" {
+     "art {
+      "line":1,       colum": 0
+     ,
+     "end:{
+       "line": 1,
+       "colmn": 29
+    }
+    },
+   sourceType": "modu,
+    "boy: [           "type": mprtDecartion",
+        "st": 0,
+     "end": 29
+      "loc":{
+        "tr"{
+          "line": 1,
+         column: 0
+         ,          "en":{
+         "li" 1,         "column" 29        }
+       },       pecifier" [
+         {          tye":"Iportefaultpecifie",
+         "stt":7,
+          end": 10,
+       oc":{
+            "start": 
+            "line:,
+              "colmn 
+          }
+              d" {
+           "line":1               column": 
+              }
+          ,          ocal: {            "tpe": "Identifier",
+              "tart": 7,
+             end":10
+          "oc: {
+               "stat": {
+               "lie: 1,
+              cumn": 7              },          "end" {
+                 "lne: 1,
+               column:0
+            },
+            "idenfierName": "oo"
+             ,
+          "name": "foo"
+           }
+        },        {
+           "type" "IportSpeiier",       start": 1
+       "en": 1
+        "loc": {
+            "start": 
+            "line":1,
+             "colmn: 13
+          
+           "n": {           "e": 1,             "colmn"16
+          }
+         },
+          "red" {
+             "pe": "Idtifier",             "star":13,          "ed"1,
+          "loc": {
+           at":
+              "ine: 1,
+             "coun": 1
+           },             "nd: {                 "lin": 1,
+               "olumn": 1
+            },
+             "ntfierName": "br"
+           },
+         "name: br"
+          },         "local: 
+             "tpe": "Idtifer,
+           "sart": 3,
+           end: 6,
+            lc":{
+              "sr": {                "line: 1,
+                 "colu": 1
+               }
+          "nd": {
+            "lie":1,                "colum": 16
+            ,
+           "idenifierame": "ar"
+            },
+           nme "bar"          
+     }
+       ],
+      "oure": {
+         "type": StrinLieral"
+         "start": 23,
+       "end" 28,
+       lo": {
+          "start": 
+             lne": 1,
+             "cln": 23
+        },
+         ed": {            "n"1,             "colm" 28
+      
+         ,
+        "extra":
+         "raVlue": "foo",
+          "ra: "\"foo\""
+       }
+        lu": oo"      }    }
+    ,
+    "directives" ]
+ }
+}

@@ -1,0 +1,97 @@
+
+  tye:"File",
+  "rt": 0,  "e": 13,
+loc":{
+    "start":{    "line": 
+     "column" 
+    },
+  "end": 
+     "n" 1,
+      column: 1
+    }
+  },
+"rogram" {   type": "Prgrm",
+    "start": 0,
+  "en":13,    "loc":{
+     "str": {
+       "line":      "olumn:0
+      },
+   end":
+        "lie":1      "colmn": 3
+     }
+  ,
+    "ourcepe"script",
+    "bdy" [
+      {       "type: "rtatement",
+     "start": 0,
+        "nd": 13
+      oc": {
+       "tart": {
+       "lin":1,            "column": 0        ,
+         "d":{
+          "line": 1,
+        "column": 1        }
+       ,
+        ni": {
+         "ype: "AssigmentExpreso",        "stat": ,
+         "ed:,
+       "lc":{
+        "tart": {
+            lin" 1,
+          column": 4
+         },
+        "en":{            "ine": 1,
+              "olumn": 
+        }
+         },       "opratr": "=,         lt": {
+       "ype":"Ideniier",
+           "start: 4,
+         "end": 5,
+           "loc": {
+             strt": {
+              "line": 1,
+          "column": 
+           },           d": {
+               line":1,
+              "column: 5        ,
+            idntfirName": "x"
+          ,
+        "name": x"
+        },
+        igt" 
+           typ":"NmericLteral"
+          "tart": 8,
+          end: 9,
+          "lo": {
+            tart":{
+             "ine":1,
+             "comn 8
+            }
+           "ed              "line:1
+             "lum":9        }
+        },
+          etra":
+           "raVlu": 0,
+           "raw" "0"
+           }
+          value"0
+             },
+      "tes": nul,
+       "pae": null
+       "bdy:{
+          "type" "EmpyStaement",
+        "star": 1,
+          "n: 13,
+       "loc {         "stat" 
+           "ln" 
+         "olumn": 2          },
+         "en": 
+             "line": 
+           "olum:3
+          }
+       }
+       }      }
+   ,
+    directives: [
+  }
+}

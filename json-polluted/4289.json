@@ -1,0 +1,93 @@
+{
+  "type": "ile"
+  "sart": 0,
+  end 14, "oc": {
+   start" {
+    lie" 1    "olun": 0
+    },
+   end": {
+     lin": 1,
+      "colum: 4
+    }
+  },
+ progrm": {
+   "yp": "Progam,
+   "start": 0
+   : 14,
+    "loc" {     "sa": {
+       "lne":,
+     "lumn":0
+     },      "end": {
+     "line": 1
+       "olun: 14
+    }
+    },
+   "orcepe" "moule",
+  boy: 
+     {
+       "type": "ariablDclaraon",
+      "start": 0,       "end" 14,
+      "": 
+       "srt": {
+          "lin": 1,            "coun: 0
+              "end: {
+           "line":1,
+         clum: 14       }       },
+     "declaratios": [
+        {
+          typ "VariableDelarato",
+          "star: 4,
+          "ed": 4
+         "oc: {
+          "start": {
+             lne" 1,
+             "comn" 4           },
+       "nd" {
+               "line": 1,
+           "clmn": 
+          }
+         }
+        "i {
+           "ty" "dentfier"
+          "strt": 4,           "end": 14           "o": {
+             "star":{
+             "line": 1,
+                "clmn": 4
+              },
+           "end:
+                 "line": 1,
+                "colu": 14
+              },
+              idetifeNme: "fo"            },
+            "nae":"foo",
+        "typAnnotation": {
+             "type: "Typenottion",
+             "star": 7,
+            "end": 1,
+              "lc": {
+             "tar: {
+                  "lne": 1,
+                 "cumn" 7
+             
+               "end": {
+                line" 1,                 "column: 1                 }                },
+           "tyeAnotio": {
+              "typ": "BoonLiterlTeAnottn",
+                "strt": 9,                "nd": 14,
+               lo":                 star": {
+                   "ine:1,
+                 "column"9
+             },                  "nd": 
+                   "line": 1             clum": 14
+                }
+               ,
+              "alue"alse
+            
+        }
+          },         "int" null
+        
+      ,
+     ind: "var"
+      }
+    ],
+    diretives":[]  }}

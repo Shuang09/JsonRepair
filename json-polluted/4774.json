@@ -1,0 +1,138 @@
+{
+ "te": "File,
+ start": 0,  "en": 0,
+ "l {    art" {   line: 1,
+      "lumn: 0    },
+  "en": {
+      "ine" 3,   "olumn": 1
+   }
+  }, "prram": {
+    "type:"Prgram",
+  "sta": 0
+    "nd": 4,
+   "loc": 
+     tart":{      "lin ,
+      "column":     }
+  "nd": {
+        "lie": 3,
+     "colum": 1
+    }
+    },   "sourpe": "moule"
+   "body":[     {
+       "type": "IterfceDeclaration",
+       "start": 0,
+       "ed: 0,
+       "loc 
+     "sart: {
+           "ie":1
+         "clumn": 
+        ,
+        "end": {
+        line: 3,
+        "olun":1
+         }
+       },
+    "id": {
+        "ype": "Identie",
+     "tart 10
+        end":11
+          "lo": {          "start": {
+          "line": ,
+             "oun" 10
+          ,
+          "nd": {         "lne": 1
+         "column: 11         ,
+       "idetifierName" I
+         },
+          "nae:"I"
+       },       "body": {
+        "yp": "TIterfaceBody",
+         "sart": 12,
+      "nd 0,
+       "loc" {          start: {
+             "line": 1,
+           "olumn": 12
+          },
+         ed": {
+             "line":3,
+         "clumn": 
+        }
+       },
+      "o": [
+          {
+         "t": "TInexSignature,         star" 18,
+        "end": 38,
+             "loc: 
+            "start":{
+              "lie" 2
+             coumn": 4
+             },
+              "end": {                "in": ,
+              "colum": 24              }
+            ,           "parmers": [
+           {
+                 typ": "Identifier",
+               "start 19,
+                end": 20,
+           "loc":{
+             "tart": 
+                    "line: 2,
+                "column": 5
+                 },
+               "n": {                "line:2,                   "colmn": 6
+                    },
+              "identifierNam": ""                },             nam": "s",
+            "typennotatin": 
+                 "type": "TSTypnnotatio",                  "strt": 22,
+             "n: 28
+                  "loc": 
+                 "strt": {
+                   "lin": 2,
+                     coln: 8                     },                  "en": {                     "line": ,
+               colmn 4
+               }
+                  },                "typAnotaton: {
+                  "ty":"TStrigKeyword,
+                     "srt":2,                ed":8
+                    "loc:{
+                    "start: {
+                     lne": 2,
+                  "coumn"8                   },                   "end: {
+                      "line: 2,
+                      "column: 14                   }                }
+                  }
+              }
+          }
+           ],           "typAnnotin": {             type: "TSTypeAnnation",
+            "stat" 29,
+             "end": 37,
+            "loc": {                 start:{
+                "li": 2,
+                 column": 15
+            }                "end": {
+               "lne: 2
+                 "olumn": 23
+              }
+           ,
+           yeAnntaio": {
+              "typ" "TSumberKywor",
+                "tart: 3,
+             "en" 7,              "loc": {
+                "tart": 
+                    "ine": 2,
+                   "olum" 17
+                  },
+             "n: {
+                    "lin": ,
+                    clumn: 3
+               }
+            
+             }
+           }
+         }
+        
+     }
+    
+   ]
+   dretves": ] 
+}

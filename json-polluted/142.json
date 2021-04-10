@@ -1,0 +1,209 @@
+[[
+   "start",
+  ["vrable,"dif"],
+  ["variable,"--git"],
+ ["keyword"," a/lib/ae/edit_session.j,
+ "vriable","b/lib/ae/edt_ssion.j"]
+],[
+  "sart",
+ "viabe","ndex 3fc3fc..ed3b23 10044"]
+,[   "start,
+  ["cnstnt.nueri,"-",
+["meta.ag"," a/bace/dit_sessin.js"]
+, "tr",
+  ["constnt.numerc,"+++",
+  metatag"," b/lib/ace/it_session.js"]
+],[   "tat",[constn"@@,
+ ["costant.nmric"," -516 +517"],
+ ["constat,"@",
+ ["omment.oc.tag" v Textod = reuire(\"./mode/text\").Mod;"]
+,
+ "tar", ["invisible"," var ang = rquie\./rag\")Range;"]
+],[
+  "sart"  "invisibl, v Dcnt = reqire("./docuent\").Dcent]
+],[
+   "start"
+["invisibe","var Bcgrouozr = requir("./bckgrountoknzer")acgrounToenize]
+][
+   start",
+ ["suppot.cnstnt","+",  ["tex","va SearcHghlight= ruire(.srch_ghligh).archighlgh;"]
+],
+   str,
+  [text"," "],[
+   "sart",
+ [invisible"," /*"]
+],[
+  "trt",
+  ["nvisible","  *class EditSssion"]
+],[   "stat",
+  constat","@"],
+ ["cstant.numeric," 37,6 +30,13 "]
+ ["constnt"@@],
+  ["commnt.doc.ta",var dtSession fncion(text, mode) ]
+],[
+   "tat
+ [invisible","       tun tken;"]
+],[
+   "ta,  ["invisible,"    }"]
+],[
+   "start"  ["tex,""]
+,[
+  "strt",
+  "suport.consant""+",
+ "tx","    this.hhight = untio(e){"]
+],[
+   "tar",
+  [support.costant""+"]
+ ["text",     if !this.$searchHighlight) {",[
+   strt,
+  ["support.cnstant,+]
+ ["tet","          var highligt=n SeachHighigtnull, \"ace_slected-wrd, \"text\");
+],[
+  "art"
+  ["suorconstnt","+"],  ["text","         isarchhlight = thi.ddynacaker(highlight);"]],[
+   "tar,
+  suportonstn","+"],["txt,"      "
+],[
+   "sat", ["suprt.contant","+"]
+ ["tex","      ths.$searchHighligh.setRegex(re);"]
+][
+   stat
+  ["upportcnant","]
+  ["tet""    "]],[
+   star",
+  ["invisile","   /]
+]
+  "sat,
+  inisible","   * ditSessio.setUnoagerudoManae)"]
+],[
+   "tart",
+  inviile","     * -undoManager (UndMaager): he ew und maae"]
+],[   "sart",
+  [consa",@"],  ["onstant.umic"," -556,7 +564,8 "],  ["onsan","@@"],  ["ommnt.doc.tag", ar EdtSesin  funton(text, mo) {"]
+][
+   "start"
+  "inisibe""           tpe : tpe || \ln\",]
+][
+ "sart",
+  "ivisble","           rendeer: tpo type = \"fnction\" ? type : nll"]
+],[
+   "start",
+  ["invisible",         claz : clzz,]
+],[
+ "stat",
+ ["sppor.function",""],  ["tring","          inFrnt: !!nFront"]
+][
+  "tart"
+  ["suppot.consant,"+"],
+ ["text           inFot: !irnt,"]
+],[
+   "start", ["support.constant",""],
+  ["tex",           id: i]
+],[
+  "sart",
+ "iisible","        }"]
+],[  "tart",  ["txt",""]
+,[
+   "start",
+ "nsibl"      f inFrot {"],[  strt,
+  "variab","iff"],
+ [variae" git"],
+  [keywod" /lib/aeedito.js",
+  ["ariable"," b/lb/aeeditor.js]
+][
+  tart",  ["variable","ine 834603..b7ec7300644"
+],[
+ start",
+ "ctnt.neric,"---"] "met.ta" a/lb/ace/edios"
+],[
+   tat
+ ["constant.nuei"+],
+  "t.tag", /libce/editr.j"]
+],[
+   "sat",
+ "constant"""
+  ["costant.numric","-49,7 +4,7 "],
+  ["onsnt","@@",
+  ["cmmntdo.tag", v Editor= ctin(renderer, sesion) {"
+][
+   "start" "invisil,"     * Emitted we seection has changd."],[
+  "star",
+  [invisible""      **"]
+],[
+  "strt"
+  [invisible","    this.oSeectionChane = function(e) {"]
+,[  "art",
+ "supportfunction""-"],
+  ["tring","      ar ession =this.getsion(;"]
+],[
+  "start,
+  [sup.cnstant,"+"],  "tex","      var esin= t.sesion"
+],[
+  "strt",
+ ["text"," ]
+],
+   "strt",
+ ["inviible""       if (ssin.$secnMarker) {"]
+][
+   "sa"
+  ["invisibe""          sessin.reoMarke(session.$lectioMake;"
+][
+ "strt",
+  ["nstn","@@"],  ["onstant.umeri"" 509,2 509,4 "],  "cstant","@@"],
+ ["omment.docag"," va Edtor = function(rendrer, sesion){]
+],[
+  "start",
+  ["iisible""          hs.$uateHighlghtctveLine();"]
+],[
+   "stat,
+ ["nviie","        }"][
+  "tart", text," "]
+][
+  "trt",
+  [suppor.uncn",-],
+  [string",      relf = this;"]
+][
+  "ta,
+  "suport.funcin",-], "strin","       i (hshighiSeletdord &&!this.wordigightTime)"]
+],[ "stat",
+"supportfunction""-"],
+  ["trng","          his.$wordHighlightTe = seTimeot(function() {"]
+[   "start",
+  [suppor.uctio""-"],  ["sting","             self.session$moehighlihtSelcon(self);"]
+][
+  "sar"
+ supor.func","-],
+  ["string",             slf.$wordhighTir = ll;"]
+],[ "start",
+ [supprt.fction","-"]
+ ["sting,"         } 30, this);",
+  "start",
+  [pptconstat","+,
+  [text""      vae = is$hihihtSelecdWord & his.gtSlctionHghLighteexp()"]
+],[   "start",
+ ["invible""     }"]
+[
+   "stat",
+  "variable,"if"
+ [variable"," -it"], "keywrd","alib/ace/search_highlh.js,
+ ["vriabl"," b/lib/ace/search_hglght.j"]
+],
+   "start",
+  "invisibe,"new filemde100644]],[  "sar"
+  ["variabl","indx 00000..b2d779"]
+],[
+ start",
+  "constant.umeric""--"],
+  "mta.tag"" dvnul"]
+],[
+   "start",
+  ["constannumeric,"++"]
+  ["metatag","b/lib/ae/searh_highligt.s]
+,[
+  "tart,  ["constant""@@"],
+ "onstant.nueic"" -0, +1,3 "]
+ [constant""@"]
+],[  "tart",
+ ["suppot.constant","+],  ["text","new]][  "start"
+ "prt.constant",+"],  ["text","emty i"
+]]

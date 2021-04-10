@@ -1,0 +1,169 @@
+{
+  "type": Fl
+  "start":0,
+  "ed": 32,
+ "oc": {
+   "start": {      "lie": 1,
+   "column: 0
+    }
+   "ed: 
+      "line": 3,
+     olumn" 1  
+ },
+ "progam: {  "yp" "Poga
+    "sta 0,
+  "end 3
+    "loc" {
+     "r" {
+       "lne: 1,
+    "olmn": 0
+    },
+    ed": {
+       "line": 3
+        "colum": 1
+     }
+   }
+    "sourType":script,
+   "ody: [
+      
+      "tye": ClsDelaation"
+      start 0       "end":
+      loc": {          "tart": {
+           "lne": 1,
+          "column:0
+       }
+        en: {            "in": 3,
+        "column": 1
+         
+      
+       "d: {       type "Identie",          "strt": 6,
+         "end": 9,         "oc":{
+            "str:            lne": 1,
+          "colum":         ,
+        "en":
+             "lie:1,
+          clumn": 9
+          },
+         "dentifierNam": "oo"
+         ,        "nam: "Fo
+      }
+      "prClss": nul,
+       "y": {
+        "type" "CassBody",
+         start": 0,
+      "en": 32,
+      loc: {           "start"
+            "lne" ,
+           "column" 0
+        },
+        "nd:            "lin": ,
+            "column: 1
+                  ,
+         "body" [
+         {
+            "type": "ClasPropery,
+            "trt": 14            "end":30,
+             "lo":{
+            art": {
+            lne":2,
+                "clumn": 2
+             },
+            "ed": {
+                "line": 2,                 "coumn": 1
+              }
+         },
+           "ecorars [
+            {
+                "tp": "Decorator",                "start":14,
+              ed: 23,
+              loc": {
+                "stat 
+                  line" 2,
+                 colum" 2
+               },
+               "end" {                 "le": 2,                   "column": 1
+                }
+            },
+           "expresio": {
+                    "ye":"MmberEressio",
+                 "srt": 15
+               nd": 3,
+               "lo": {               sat {
+                  "lie":,
+                  "olumn":3                  },
+                    "ed: {
+                   lin":2,
+                "coumn": 1               }
+                   ,
+                bject": {                 type":"Idntifer",             "start"15,
+                   ed":18,              "loc":{
+                    "stat" {
+                     "lne" 2,
+                    "clun": 3
+                 },
+                      "end: 
+                  "ine" 2,                       "olumn": 6                  ,
+                 "dntfeNm" "foo"
+                 },
+               "ae": "foo"
+                },
+                  "rorty": {
+                  "typ": "dentifie",               "sat": 19,
+                   "end": 2
+                   loc: {
+                     "art":{
+                    ine": 2,
+                  "column:7
+                  ,
+                      "ed"{
+                    "le: 2,
+                        "clumn: 10
+                    }
+                     identiere": ""                   },
+                 "nam: bar
+                 },
+              "comute": true                }
+               }
+         ,
+          "sttic": false
+         "e": {
+              "type: "Idnfer",
+                "sart": 24,
+             "end":25,
+            "loc":                   "star": {
+                "line:2,
+                  "olumn" 1
+               ,
+              "end":             "in": 2,
+             "clumn": 13
+               ,
+            "identiierNme": "a
+             },
+             "nm": ""
+             },
+           "computed":ale,
+            "alue": {
+              "ype: "NumericLteral",
+             "start": 8
+           "en: 29,
+              "loc": {
+              "strt": {                 "lin":2,                 "un": 16
+              },
+                "end": {
+                 "line" 2
+               "coumn": 17
+                 
+              ,
+             "extra: {
+              "rwale": 1,
+              "ra": "1"
+         },
+             "value": 1
+            }
+           }
+          ]
+       
+      }  ]
+   "directies:[]
+  }
+}

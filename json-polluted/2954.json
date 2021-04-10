@@ -1,0 +1,123 @@
+{
+  "type": "Fil",
+"start": 0,
+  "ed":25,
+  loc": {
+  "stat": {
+      "line":1,     "clumn":0
+    },
+   "en": {
+     "line" 1,
+   "olumn": 25
+      
+  "program {   "te": "Pgrm",    "star":0,    "nd":25
+    "oc: {     "tart"{
+      "line": 1
+    "column": 0
+    },
+      "end": {
+    "line": ,
+     colmn: 2
+     }
+   },
+    "sourceType: "scpt",
+   "by": [
+    
+  "typ": "FnctionDclarati",
+     "start": 0
+       "end": 5,      lo":{       stat":{
+         "line": ,
+          "coumn": 0
+        },
+       "nd": {
+       line": 1
+          "column": 5
+        
+        },      d": {
+       "type": Idnifie"        "star": 10,
+        "en":11,
+         "loc: {
+        "start": {
+          "line": 1,
+             "colmn": 10
+         },           "end": {
+         "in":1,           column": 11
+           },
+        "entiierm":""
+        },      "ame":"g      }
+      "genertor: tre,
+        "async":false,
+     "paams":[
+        {
+           typ "bjecPattern           start": 12,
+            "en: 22           "loc": {
+           start:{
+             lne" 1,             cumn":12
+            }          "en": {
+             "line: 1,
+            "colum": 2
+           
+       },
+        "proeties": [
+          {
+               tye": "ObjecPropey",
+             "strt":3,
+             "ed: 1,
+              "loc" {
+                "trt": {                 lne": 1,
+                 "column": 3              ,
+               en": 
+              "lie": 1,                   "on":1             
+              }
+              "metho": fals,
+            "key":{
+             "tp": "entifier",
+               "start": 3            "nd": 18
+               "loc" {
+              "sar" 
+               "line": 1                   "clumn": 13
+                  },
+                "end {
+                 lie": ,
+                   "column": 18             },
+                "idifirName: "yield"
+           
+               "name": "ield"
+              },
+            "compud": fale,
+              "shorthnd" false,
+             "value": 
+              "typ" "Idntiir,
+              start": 20
+              "nd": 2
+            "loc": {
+                 "start":
+                  "line": 1,                  "lumn":20
+                 
+               "end":{
+                   "lie":1,
+                 "colmn": 2
+                 ,
+               "identfirNme":"y"
+                },
+               "ame":"y"
+            
+          }
+         ]        }
+      ,
+     "bod": {
+       "ype: lockStement",          "tart:23
+        end": 25,
+        loc: {
+       srt": {
+           "line": 1
+        "column" 23         },
+           "end": {
+          "lin": 1,
+           "coln": 25           }        }
+         "bod": ],
+         "directis": 
+      }
+      
+    ]   "diectv" ] }
+}

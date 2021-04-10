@@ -1,0 +1,967 @@
+{
+ 0_Errrs_Only "0  Kesalaan Hanya",
+ "_Error_ndInfoto" "1- Kesalahn da Informasi",
+"2_rros_Inoatio_and_Debug" "2  Erros, Inforasi an Debug",
+  "43" "Trlarang",
+ 500" "Kesalahan server dari dalam",
+  _username_isno_ler_rol__dfnedby_usr_by_""_useram__ tidaklagi __le__ olh _uer_by__,
+ "_usename_as_s_oe_by__uer_by_": _uernme ditetapn _role__ oleh __user_y__",
+ "ccessnot_utorized": "ksesida berwnang""Accs_Tokn_UL:UL akes Ton",  "Acessing_rssin": mngaksesizn,
+  "Acn_SID: akunSID"
+  "Acouns": kun",
+  Accuts_AlloweeteOwnAccount: "Memungkinan penggunauntuk menghapu akun sendiri",
+ "Accouts_AlloweDmansLs":"aftar omain yag diijkan",
+  "ccontsAlowDomainList_Description": "Dipisahkan dengan koma datar dma diperbolhkan",
+  "Accouts_AlowEilCange": "Izinkan Perubahan Emil,
+  "Aounts_AlowPasswordChange": IjinkanPeruba Passwor",
+  "Acconts_AllowUserAvataCange:"Mengkinkan pnggna vatar Ganti",
+  "Acuts_Alowernmeange": "IjinkanPerbahn Username",  "Accounts_AlowUerPrfileChange: Memungkinkan Profi PengunaGati,  "Acts_vatRie" "Ubah UuraAvtr","Acons_vtarSze": "Ur Avaar",
+ "Accout_lockdDainsList":"fta omain diblokir",  "ccounts_BlokedomainsLi_eitio: Dipiahaneng om daftr omain diboi,
+  "Acounts_BlokedUsernameLst": "Diblokir Data ama",
+  Acounts_BlokeUsernameist_escrpion": Dipsahka m daftar nama pnggun iblokrcase-nitive)",
+  "oun_dUnverfiedmil": "Tolakeil yn tidakerveifis"
+  "Accouts_EmaiVriicain": "Verifisi mal"
+  "Account_malVerfication_Decription": "Pstian Ada memiiki pengaturan MTP an benr nt mengunak fitur ini",
+  Accnts_nrllen_Emai": "mail Pedaftaan ",  "Aounts_EnrollentEmail_Defult": "<h2 Selmat tang di <1> Nma sius] </></2><pPergik <a hrf=\"[Se_URL]">[Sie_URL</>an mencobayag tba open sourc solsi chattn y tersedisaat ni! /p>",
+  "Accounts_Enlment_ail_escriptin": "An apat meggunakan laeholder riut:<br />ul><i> Na], [fname,[lnme] untuk namaenggun penuh, nma dpn atau nama blakang, maingmasing. <l>li> email nuk email pengun./li><i [SiteName] an [SiteURL unuk Nama plikasi danR maingmasing. /li>/ul>",
+  "Acounts_nollment_Eil_Subject_Defut: "SelamatatangSiteNme]"
+  "Accnts_Ifram_ap_ethod": "Metod Api",  "Acuns_Iframeapi_rl":"UR PI",
+  "Aconts_iframeble": "Diaktifkan",
+ "Accots_ifram_url": "ime Url", "AccunsLgiExpiraion":"Kadalursa Loin di Das",  "Acounts_MaualApveNewsers": "Prsetujn ser aru scaraaual", Accounts_OAuth_Csto_Authorize_Pth":"Otoriasi Pa",
+ "Accots_OAuh_Custm_Buton_Color": "WaButto",
+  "Accouts_OAut_Cutom_ButtnLabeColor" "Warn Buton Tes,
+  Account_OAuthCutom_Butn_Lbl_Text" "utonTes",  AcontOAuth_Custom_Enable": "Hdupkn, "AccuntOuth_Cstmid" "Id",  counts_OAut_ustom_dentity_Pa": "Ideity Path,
+"AcontOAuth_ustm_Login_Sye": "Gyain, "AccountsOAth_Ctmecret": "eret,
+  "Acount_OuthCustomTokn_Path": "oke Path
+ ccouts_OAuth_utom_okenent_Via": "Token Diirim Via
+  "AcoutsOAuth_Facebook":"Facebook Lgn",
+ Accout_OAuth_Facebook_callback_url": "URL Faceboo allack"  Aounts_OAut_aeookid":"FaceboApp Id",
+  "Accounts_OAuthFacebok_ecre": acbok ecret",  "Accounts_OAuth_Githu" "Auth Dhipkan",
+  "Acouts_OAth_Gihub_callbak_url" "URL Ghub Callback",
+ "Accounts_Out_Gt_Enerpise":"idupan Oth",  "Accouts_OAhGitHub_Enterpise_callback_url": "URLGitHub Perusahaan Clback,
+ "Account_ut_GiHu_Enterprise_id": "lientId"
+ "Accouns_OAuth_GitHub_Eterrise_secret": "Cliet ecret",
+ "Accots_Ouh_Ghub_id: liet d,
+  counts_OAuh_Github_seret: "Clieteret",
+  "Accouts_Outh_Gitla":"OAtihidupkan"
+  onts_Auh_Gilb_alback_ur": "R GitLaCallback"
+ "AcontsOAuh_Gilid":"GitLab ,  "AccountsOuthGitlab_sect: "lient et"
+  "AccountsOAutGooge":Googe Login",
+ "Acouts_OAuth_Golcalback_u":"URL oogle Callack,
+  "Acounts_OAuth_oogle_id" "Google Id"
+  "counts_OAut_Gogl_secret" "Google Seret"  Acouns_Auth_inkedi:"Linkedl Login"
+  "Accouns_Ou_inkednallbakurl": "URL Linedi Callbac",  "Acounts_OAuth_Linkedin_i": "Linkedln Id,
+ "AcconOAuth_inkein_scret:"Linkedln eret",
+  "Acconts_uthMeeor": "MetorLogin",  AccuntsOAuth_Meo_callback_url": "RL Meor Callak,  "ccount_Auth_Meteor_id: "Meteor ",
+  "counts_Oth_Meor_secret": "Meeor Secre",
+ "Accuts_OAhwitr": "witterL"
+  "AccuntsOAuth_witt_llbck_url":"URL TwieCallbac", "AcountsOA_Twitte_d": "Twitt Id",
+ "Acout_OAut_Ttte_secet": TwiterSecret",
+  "AcontsOAth_Woress": "WordPreLgin",
+  "Acunts_OAut_Wordpres_calla_ur URLWordess Cllack  ccs_OAth_Woress_d "WdressId, "Acconts_OAuh_ordpre_sct": "ordPress Scret",
+  "AcountsPassordReset": "Password reet,
+  "ccount_Regisration_AutheticatnerviceEnbled": Pendaftrn denga AuthntiatinSrvces "Acout_egisratioorm:"Fomli pendafaa",
+  "Acounts_RegistrationForm_Dsabled": "Ccat",
+  "ccunt_ReationFormLikReplaceentText": "FormulrPedaftaran atn Penggantian ks",
+ "Acounts_RegirationFormPublic":"Pblik",
+  "Accouns_Regitratorm_Sret_URL": "R ahasia,
+  "Accounts_RgirationFom_SecrtR: "Frmulir PendaftaranRhasa RL",  Acounts_ReistratonorSecetURL_Description": da harsmmbera strin acakyang akn ditambahkanke UL pendataran Aaon: httspenrcket.chat/regier/[sere_has",
+ "Accounts_RqureNmeFSignUp""Membutuhkn Nma ntuk Pedaftaran",
+  Accounts_ShowForogin": "berbasis entuk acra Loin"  "Accounts_UDefultBlcedDominsList": "Gunakaeflt iblkir DatarDan,
+  "Acconts_UseNDoanCheck": Gunakan DNS Domain Pera",
+  "Acconts_UserAddedEai_Default": "<h2> elamt Datang d <h1 [ama situs]h1></h2>< Pegi ke a href=\"[SteUL]">[Se_UL]</> dan mencoba yanerbai op sorce solsi chtting yng tesedia saatni! <p>p> nda dapatlogn mengnakn ai Ada: [emai dan passwr: [paswrd. And munki dimintauntukmengubahnyaseeah login pertama Ada.,  "Accouts_UseAddedEma_esripton":"Anda dpat menggunaka plaeholder beikut: <br /><ul><>[Nama],[fn], [lnme] nnaa penggua enuh, na depaaau nama belakang, s-masing.</li><li>email] untukeal pengguna</li>i> [password] untuk ssword pengguna. </li><l> Ste_me] dan [e_UL ntu Nam Aplisi dn U masng-maing </li>/ul>"
+ "Accouts_serAddedEmailSujtDefault": "da telah ditamahkan ke Ste_Nme]",  "Aivte: "ktfan,
+ Activity: Akivitas"
+  "Ad:"embhkn",
+ "Add_aget": "ambhkan aen",
+  Add_cuso_oath": Tabaka oauthustom",
+  dd_maage": "Tabahan manager",
+ "Ad_us": "Tambahkan pngguna",
+ "Ad_User": Tmbakan enggu
+  "Add_user":"Tambahkan eggun,
+  "Adng_OAuth_Service":"Menambhkanayanan Outh",
+  "Adingpriss": "menmbhkn iin"
+  "Addin_user": "eabhkan pnggua",  "ddiional_emails: "Eil tmbaan
+ "Addiina_Feedbc": "tambhn Muan", "Admiisrton" "dminitras,
+  "AterAthaheicaion_uses_wll_be_redieed_this_UL":Setelah oentikas OAuth2,pengua akan diarahka ke i
+ Agen_adde: "A mnambahkan",
+  Aget_remoed": Agen dihaps",
+  "Aia: Alias", All":"Smua,
+ "lcanels:"emua channel",
+ All_lgs" "semualog",
+  Allmesags": "Sema pean"
+  "Allo_InvaldSelfSgned_Certs": "Perbolhkn Serikat Self-ied yangtida alid, "AllowIvald_SelfSgne_CertDescriptin: "Mungkikan tiak valid dan ditandataan sediri untukertifikat SSL unt linkvaida danprew.",
+ "Aayics_farsenbled": fitur Diaktik",
+ "Anlytcs_feaurs_messages_Desriptio: "Melack acara adat yan terait ea tinda penggu tidak pda pesan.",
+  Analyics_faurerooms_Desrption": "Meackacaraadaygterkait engan indakan pa sran atu kelmpok membuatmninaln, enghap).",
+ "Anayic_featresuserDecripton": "Melacak aca dat yangbrkainengan tnaan yg berhubungandega pengguna (ali rst aword,pfil prubahn gambar, ll).",
+"a: "dn"
+ "And_moe: "Dn _lengt__ lbih",
+"AnialsnNatur":"Hewan& Aam",
+  "API" "API",
+ "AP_nalytics: "Anlytics",
+"I_Embed": "Tempelkan",
+  "APIEmbedDileo": "Nonaktifkan Embe ntukuser",
+  EbeDisabledFor_escrtion":"Daftauseaeya dipsahkn anda koma",
+ "API_meIgnoredosts" Menanan Dibikan Hst",
+  "APIEmbedgnoredHts_Desritio":datr hos atau alamt CIDmisalnyadipsahan koma. ocalhst, 127.0.0.1,10.0/8 12.16.00/12, 12.168.0/16,
+"PI_EmbedSafePts" "elauhan aman"
+ "API_EmedSafePrts_Desciption": "ftar p diperbleh untuklihat dul dipsahan deganma.",
+  "API_GitHub_Erpse_UL":Sever U", "AP_itub_ntrrisUR_escrition": "Cntohtt://oai.cm (tda ermsk",  "AP_GitabUL": "R GtLa"
+  "_Tken": "PIToken","PI_UsrLimt": "atas pengguna unuk meabahkansema Penggna ntukaluran",
+ "AI_Wodpes_U "Wordpress UL",
+ "Aiai_Key": "Api.ai Ke",
+  "ApaiLanguage": "Api.a Bahasa",
+  "ppearance"Pnaplan",  Aplicaion_addd": alikasi ditambahkn,
+  "Applicaton_Name": "ma aplikas,
+ "Application_udat "likasi diperbaui"
+ "Aply_nd_reresh_all_clients: "Brlak dan menyaran ema klien",
+ "Arhive: "arsip",
+  "ae_aotyping:jga seang enetik",
+  "e_typing": "sdang mengtik",
+  "Are_yousure": Apaah aa yakin?",
+  "re_o_ryou_want_to_dlte_our_aount": "paka Anda yakn ingin meghaus akun Ana?", "at: d",
+ "Auh_Token": "Tusi Tken,
+ "Auhor" Penulis",
+  uorzaton_RL":URL otorisas,
+ "Autorize":"egizinkan,
+ "Auooad_Images": Muat Gambar secar Otomai",
+  "AutoinkerEai: "utLiner Email",  "AutoLinerhone: AutoLnkr Teleon"
+  "AutoLnke_PheDescription":"terki secaa ooti untuknoortelepon. mialnya `(23 456-7890`
+  "AtoLinke_Stripri: "uoinerJalur Peix
+ "AuLinke_StripPref_Dsriptio": "displa sigkat. mialny htp://rockt.ht => rocket.cht", "AtoLinker_Urls_Shem" "AutoLiker Skma// RL,
+  "AtLnkr_Urls_TLD": "URL AutoLinrTL"
+  "AoLinker_Urls_www" URLAutoLinker 'www'",
+  AutoLinerUrlsRegExp": AtoLnkerURL glr Expresi",
+ Aalable": "Teeda",
+  "Avalable_gen":"atrseda",
+  "Avatar": "vat
+  "vatar_chnged_uccessuly: "Avtar beasil diubah",
+  "Avatar_URL":URL Avtar
+  "vatar_url_ivald__ror": "URLaan berin idk sah tu tidakdaaiakses, slahka dicoba denga meguan UL yang lai.",
+ "away: "away",
+  "Awy": ay",
+"awy_fmale": "aay"
+  "Aay_feale"Away",
+  "ay_male": "awy",
+ "Aay_mal:"way",
+  "Bac": "Kembali",
+  "Bak_topplicaton": "ebali kealikasi",
+  "Back_to_ntegrations": "Kebali ke interasi",
+ "Bac_t_logi": "Kembli e logn", "ack_to_pmision Kmli ke zin,
+  "od": "Tub",
+  "bold": "bold",  "Brnc": Cabag",
+ bsy": "sibu",
+ "Busy: "Siu", bsy_fele": "sibuk",
+  "Bsyfmale: "ibuk",
+  "usy_ale: sbuk,
+  "Busyl" "Sibuk",  by"oleh",
+"ancl: "Batal,
+  ancl_messae_ipu": "Membatalkan",
+"Cano_invit_sers_to_directoom "tidak dapat megundagpeguna ntu mngarahkan kamar,
+ CNPREFIX": Prefx CD"  Certifictesnd_Keys": "Srtiikat dn Keys",
+ "haning_emal: mengubaei",
+  "Chnnel" "Saluran" Cannel_already_eist": "aluran'#% s'sudahaa
+ "Channl_alrady_Unarchie: "Canel dengan nma `#% s` uh dlmkeaaan diaipkan",
+ "ChaelArched": "Chal dengn nama` s` elah diripkn berhasil,
+ "hanne_doesnexist": Chanl `#%s tiak da.,
+  Channe_Uachived": Chaneldngnnama `#% s` telh dirsikanerhsil"
+  hanes" "Chnels",
+  "Channels_i":"Dftar channel untuk mum"
+  Chat_buton: tmbo chatting"
+  "ha_losed": cattig tutu"
+  Cha_losd_succssfull":"Chatng berhsil ditutup",
+ "C_wndow": "jendela obrlan,
+  "Catops_Enaled" "Hidupkan hatps",  "Catops_Title""anel Chops",
+"atops_Usrname": Useme Chatops,
+  "Choosear" "Plhuanan",
+ Choose_esges": "Pi psn,
+  "Choose_thalas_that_wll_appeaefe_thesee_in_essage":"Pilih lias ang akan mncul sbelum naa pnguna di pesa."
+"hoosehe_usename_tha_ts_ingatio_will_pot_as": "Piih uername baa itegai ini ak osing bagai. "a_ll_uneads_qstn": Bshka semuayng beudaca?", "Clic_ere":"Klik disini",
+  ClientID": "Dlien",
+ "Client_Seret": "kien Rahi",
+  Clint_wlrefreh_in_a_w_cds": "Klien aknmeyegakn dalabebra ti",
+ "close": "tutu",
+  Coed": "Tutup",
+ "Closin_cha": "pentupan catting"  "Colapse_Emedde_ed_BDefaut": "Pekcil mdia tertanamsecar dfault",
+ "lor": "Warn",  "omd": "Perina",
+ "Cmpac": "pada",
+  "onfrm_pssword": "Konfirmasikan kata sn anda",
+  Conversation": ecakapan"
+ "Coveratn_clos: Percakap ditutup: _omnt__.",
+  Conve_Ai_Emois": "Ubh ASCII ke Emoji
+  "Coped": "isalin",
+  Copy": "alinan",
+  "Copy_to_cpoard" "Menyalin e clpboad",
+  "COPYTO_CLIBOAD": "MENYALIN KE CLPOARD",
+ "Cunt": "Mnghitng",  Coy": "yaan",
+  "Ceate" Memba"
+  "Create_A_New_Channe": "at Sauran Bar",
+ "reate_new":"Ba au",
+  "Creted_at": "Dibua ada",
+  "eated_a_by_s": "ibut <stong>pada% s</og <strong>denan% s</ron>",
+  "Current_Chats" Chattingsaatii",
+ "Cstm: "at"
+  "Custom_Fied": "Fields ustm
+ "Custoauth_hpr": "nda haru menyediaka URL ala eka melaukan setup u OAuth Provider. Gunakan pre>%s/r> .",
+  "Ctom_outh_uique_nam": "Nama unikdarioath kutom",
+ "Cstm_Script_Logged_n""Kustom Sript n loi pnguna",
+  "Cusom_Sit_Logged_Out""ustom criptntuk ogtpenguna",
+ "asboard": "bor"
+ "Dae: "Tanggal",
+ days": "hari"
+ DB_Mirato" Migrai database",
+  "DB_Migrtion_Date": "Databae TgaMgrasi",
+  "Deacivte "oktifkan"
+  "Default": "kega",
+  "Delet": "Hapu",
+  "elet_message": "Hapupesa"  Delete_my_account": Hps akun aya",
+ "DeteRom_Warng": "Pesan ag beraa i dalm rom aka ecara tomatisterhaus apail room terkaitdihapus. Tdaknini tidak dapt ianl. "Delte_Usr_Waning": Semu an dari usryangdihapusakaniut erapu, tindakan ni tidaaat dianlr",
+ "Deete": "ihapu!",
+  "Deartment_rmoved": "Departmn dihapus",
+ "Dearmnts":"deaten,
+  Dplyment_ID": eploent ID","Dcrpion" "Dkripi", "esktop": "Dektop", "sktopNoifcain_Test":"j Pembeita Dkto",
+ esktop_Notifictions": "Notifikas Dso",
+  Desktop_Ntifictios_Disabled": "NtifikaiDktoptidak diaktifka, ubah prefeensi browser andaapabila and ingin mengaktfk ntifikasi",
+  "Deskt_Notifiaions_uraton: "pembrtaan Durasi"
+ "Desktop_NotfiatoDatioDesiption" "Detik untk meaman otifiksi etp yang.Hal n aat mempegruh OXNotficion enter Masukka 0untk nggunak pengatrn browser defult dantid empengaruh OS Xotifiation Cnte."
+  "Dektotificaions_Enabled": Notifikasi esktop teah dihiuka",
+  "Dct_messaomeon" "pesan ansun seseorang",
+  "Drect_Mesges": "Pesan Lansung",
+  "Displayoflne_form": "entuk sca offin disla",
+  "ipay_ction_text": "tkdiampilkan indakn",
+ "o_you_wan_to_chng_to_s_question" "ApakhAnd igiengbahstrong>ke% s?/strong>",
+  "Domain" "Domin,
+  "Domains": domain",
+ Drop_to_upload_file:"Drpuntukmnunggah fie",
+  "Dy_":"ltin menma
+  ryruescrtion": "hanya akan mngirim stu eal, e alamt yng sma eer di Dari. emai harusm penguayang lid.",
+  Dlcate_archived_channel_name": "Sebua diaspkan aluannan nama '% s' ada",
+  ulicaercivd_privae_group_name": "Kelmk Swasta irsipkannan nam '% s' d",  "Dulite_hnnename":CnnelA degan nama '% s' ada",
+ "Duplicate_privte_goup_name": "Sudah ada Grup riat dngan ama '%s'", "dit" Edit",
+  "Edit_Custo_Field": Bidang mengedit Kustom",
+  Edit_epament" "mngedit Deartemen",
+ "edted": udah diubah",
+  "Eding_rom": "rang ediing,
+ "Editng_uer" "edtingngguna",
+  "Emai": "E-ai,
+ "Eail_address_o_snd_offlie_mssaes": "aamatemail untuk mengirimpsan fflie", "Eailalready_ists": "Emailsudah erafta",  Emil_boy": "adan emal",
+  "Email_hange_Disabed" Admnitrato Rckt.ha And lah dinonktifknpeuhn ema",
+  "Email_Foote_Descriptio: "An dapat mengnaan plceholder brkut:<b /><ul><l> [Sie_Nm] an [Site_RLunu Nama Aplikasi dan URL asing-masin. /li><>",  "mal_fom: "ari",
+  "Email_Head_Dscription":Ada daat menggunakan plchlderbriku:br/><l><li> [Sit_Name dan [ite_R] untukNa Apliksian UL asi-masing. <li>/ul>",
+ "Email_Niicaton_Mode": "Pembertahuan Eail Oflie",
+ "EmailNoification_ModAl: "SeiapMenti DM",
+  "Emai_Noficatio_ode_Disabled "Cact",
+ "mil_orsername": "mail tu usrae"
+ "Eal_subet": "Subyek",
+ Email_erfid": "milerveriikasi,
+  "Emoji": Emoji",
+ "Empty_title" "judul koson",
+  "Enable"Meungkinkan,
+ "nble_Dskto_Nofctins": "idupkan Noiikasi Dsop",
+  "naed": "Daktifkan,
+  "Erypedmessage": "pesan trenkrips",
+"End_OT": "ahr OTR",
+ "Eter_a_egex":"Maskkan regex",
+  "Enter_a_room_am: "Masukkan namakmar"  "Enter_a_username": "Masukan nama penggu",
+  "nter_namre": "Masukn na d sii",
+  Enter_t":Msuk ke",  "Eror": "esalaan",
+ "rr-ation-notalloe:"__ction_tiak iperblekan",
+  "err-application-ot-fond": "Apkai tidak dtemuan",
+  eror-arived-duplicte-name": "d saluran diarsikan en nma'__rooam__',
+  "error-vatr-ivalid-rl": "aatar RL tdk valid __url__",
+"erro-avatr-ul-handling": "Kealaha saatnnani pnauran aatr da URL __url_ utuk __usernam__",
+  "err-cant-inite-fo-iect-room": "tidak ap mengndang pnggua untuk kama lagsung",
+  "error-couldnthange-mail": "tida samenubah emai""rr-culd-t-chnge-nme"tdk bisa egubh ama"
+  "err-could-not-hage-username": "tidak bisaenguba nam pengguna"
+  "erro-dlete-proteted-ol": "Tiak pt menghaus peran dilinungi",
+  "errr-departmnt-not-found" Departmen tiak en"
+  erroduplicte-chnn-ame: "Sah ada chane dengan nama _cane_nam__' ",
+ error-mail-domainblackliste": Domain ma-blacklit",
+  "eror-field-unavilabe": "<stron>__field_</songsud dgunakan :(",
+  "ero-file-too-arge:"Fie rlalu besar",
+  "eror-importer-not-efind "importr tidakdidefinisikan dngn benr, iu hilag kela Ipo"
+  "erro-inutis-nta-valid-fiel":"__input__ buka __fie__ lid",
+ "erornvalid-actioin": "ik tindakan yantidak vald",
+ "err-nvalid-rguments": "arumnyag ida vaid,
+  "eonalid-asset": "aset tdakvalid",  "rror-ivl-channel": "hnel valid.",  "erro-ivld-chann-s-with-chars: "hnne valid. Mulalah dngan  atau #",
+ erro-invli-customied: "bdag khus g tidak valid",  "error-iald-custom-field-name": "Vaid nma bidag kusu Guakan hanya huruf angk tada hbungn garis baa.",
+  "error-ald-escriptin "deskrisi idk alid
+  "error-ivlidomain:"omain tida aid"
+ "er-invaid-mi "Vald __eail__ email"
+  "errorinval-fie-eight: "keinggianfil tidak vald", "error-inaid-fle-ype" "ens fileng tidk valid",
+"ror-ivald-ile-wid": "ebar berks tidak vlid",
+  "error-nvalid-from-addrss":"Informa anatiak validuntuk FM address",
+  "err-invad-integraion": "ntegrasi ag tidak vlid",
+  "eror-nvalidse: "pesan tidak alid",
+ "errrinlid-mhod: "tdevald
+  "erro-invali-name:"Salah naa",
+ ero-ivalid-passwod:"a sandi salah","eror-inalid-redectUri": "aid redrectUri",
+ errr-nvld-role pra lid",
+ "error-inad-om": "rungan yang tiakvaid"  "errorivalid-rooname" "<trng>__roo_name__</strog> ua nam uag valid, b> hna mggunakan hru, nka, and hubung dan gis baw"
+  "error-inalidro-ype": "<strong>_type_</strog> bkan ti amar yng vld.",
+  "erro-nvalid-setings": "pearanvlid tersedia",  "errorinvaidsubsciptio": "langganan vald",
+  "eror-invad-tken": "Tken iak vid"
+ erroivi-triggeWords" "trggerWordvaid",
+ "error-invalid-rls""RL tdak vlid", rroinvaid-user" Penga iakvalid",
+ "eor-invaid-usernam": "Nmapnggunada vlid"
+  "rror-invalid-webhok-response: "RL eHok mengapi enga stus seain200",
+  "errr-mesgedeetin-lokd: "Pesn menghpusdioir",  eror-mesage-diting-bcked": "Pesa eitingdibloki",  "errr-mssgeiz-eceeded":"kuranpesan mlebihiMesage_axlowedSize"
+ "errormssin-unsscibe-link:"Ada hrus menyertaa [unsubscribe nk",
+ "eroro-okens-fr-this-us":"Tidak a ton untuk pengun ini",  "ero-o-allowed": "da diiin"
+ "errornoathorize": Tidak dzinkan",
+  "error-pus-dsbl": "endron dinoaktifa",
+ errorrmov-lst-ownr": "Ini dalahpemik trai. Silah mengaur emilk bar sebelum mnghapusini.", "errr-role-n-use": "tidak dpateghapus pr karena itu diguaka
+  rorrolename-reuird""nama eran dperlukan"
+  "eo-t-fld-irequired: "e __field_lapangan dipelukan.
+  "error-too-may-requests: "Kesalahan, terlalbank ermntaan.Silakan melambt. Ana ars nugu seconds__ detik seblum menoa lagi.,
+  "error-user-i-not-activated": "User blu diaktifkan",  "errouser-nt-nro": Penguna tia di ruangn n",
+"error-uer-regitration-diabld": "pendaran nggun dnnatifkan",  "er-userregistraion-secret"pentarapengguna hanya dierblehkmaiURL Rahasia", "error-you-ae-las-own":"Andaadlh pmilikerakhir Silahkanmengatur pemlik u sebelum meninggalkn ruagan.",
+  "Errr_cangingpaswod": "Terjai ealaan ketika meruba kat sandi",
+"sc_o":"Keluar k,  "xpe_s" "Cnoh: <cd cass\"inli">s<code>,
+ "Fls": "Flse",
+ "Faore_Roos" "AktifkanFavorit aar",
+  "Favorit:Favot,
+  "Faturs_Enabled":"fitu Diaktfka"
+  "Field": "idang,
+ "Fiel_reoed" "idag dihaps",
+  "File_exceds_allwd_sz_of_by": Fil melebihi kuran diprbehkan bye __size__",
+  "ileUloa": "Ugah e", "FieUpload_Enald": "Unggah ie Dhidupkan",
+  FileUpload_File_Emty:"Berkas kosong",
+  FleUload_FileSystemPath": "sitem Jalur",
+  "FileUlodMaxFilSe": "Uuan Mksl Filyangdungah (in byts)",
+  ieplod_Mediaype_Noccepted":"enis Media iak Diteri,
+  "FileUploadMiaTyWhteList": "ormatMedia yang dipbolehkan  leUload_MeaTypeWhiteLitDescritin" "Data e media dalam ormat trpisahknolehkoma.Birn kosog untuk meerimasemua jenis media.",
+  "FileUplo_rotctFiles": "Mlinungi e load,
+ FieUpoad_ProtetFilDescipton" "Hayenggna ontik akan mmliki kse"
+  "FilUplo_S3_Acl": "Amzon S3 acl",
+  "FilUploa_S3_AWSccesKy":"AzonSAWSAcssyId",
+  "Fleplod_S3_AWSSeretAccesKy: "Amazon3 AWSSecreAcesKey
+  "FleUploadS3_Bucet": AzonSmbe naa"
+  "Flepload_SucketURL": "UL mer",
+FileUplad_3_DN":"doain CDNuntuk onload",
+"ileUpod_S3Region""iya", "FileUploa_Sorage_Tp": "storage ye","Flags": Flgs,
+ "Follo_scil_profiles": "Fllo akun sosial md ai, fok digithub aa tuliskan komenar anda mnen apliarocke.chat di trello boardyang am edaan
+ "o_an_rin: "Makanan iun",
+ "Foter" "Foer",
+  "For_your_secuity_o_mus_er_our_cutpsword_to_ontiue: Untu kemanan Anda, nda hars memsukanpassord Anda saaini untk eajutkan",
+ "Force_SSL":Angtan SSL",
+  "Foce_S_Decrition": "* Prhatian! *_Forc SL_tiak bolehdigunkan degan rvers prxy.Jika Ana eikireverse proxy,yang harundalakan rirect ADA Osi ini danpeybaa serti Heroku,an idk memungkinka onfguras redecdi everse roxy.",
+  "Frot_assord": "Lupa atsandi ada
+"Frequentysed: Serig digunka,
+  "From: "ari",  "From_Ea: "Dri mail",
+  "Fromemil_arning": "<bringatn:</b>olom <b>Dari</b>dierluka untuk penturnervermail Ana.",
+  "Generl" "Um",
+  "giub_nopbic_email: "Anda tdakmemilii emil pubik dakun GitHubanda."
+  "Giea_unque_namfor_th_stom_oauh" "Beikan nama unik untuk ksto oau",
+  "v_the_application_a_nameThs_wil_e_senby_ou_sers": "Memerian apliksnama. Ini kan erlihat oehpenguna Ada.",  "Global": Gbal"
+  "GogleTagMnageri": "Goe Id PeneolaTag",
+  "as": "hash  "a" "ee"
+  "Hidden":"Tersmbunyi",
+  "Hie_oup_Wring: "pakah Andayakin An ingi mymbunyikn kelompok \% \"?"
+  "Hid_Pive_Waning": "paahAnda ykin ingn menyembuyika dsksi denga \% s\"?"
+  "ide_om": Sembnikan room"
+ HideomWarning "Apakh nyakin ndaingi enyemnkan ruang\"%s"",
+  "Hide_usernaes": "nyembunika nam penga",  lights": Highlight",
+  Higlighs_How_To: "Utuk dibetahu ketiaesorag meebutkan ta at frase tambkandi s.Anda apat memisahkan kata atau frasa degn koma. Kata-tasot tiak sensiti uuf.",
+ "Hihights_Lit": "kaa igl",
+ "Hity: "Riwayat",
+  "Ht" "Tanrua,  "hours": "jm",
+  "w_frendly_ws_te_chat_agent: "Bamana mah adaa age hatin?", "How_knwedgabe_was_he_chat_agent:"Baamana pgtahua adaah agen chattig?",
+  "How_resonsivwas_he_ct_gent" "Bagaiaa espnsif adala g chatig?",
+"Hosaisfid_wer_yu_with_ths_chat""Sebeapa uaah Ada dengan hattigni?", Ifyou_are_ure_tp_nyourpassod:"Jka Anda yain keik password Ana:",
+  If_you_arsurype_in_ouusere: "Jika And yakin etik nama enguna:"
+  "Importer_Archied" "diripan",
+ "Importer_done": "Mengimprengap!"
+ Imrter_finshing": "Meyeesaikan impor.",  Imprter_FromDescipton": "mpor __fromData 's mejadRket.Chat.,  "Imorter_imtanceled" "mpo dibaaan,
+  "Imrteriort_faile:Terjad kealahan saat mejalnkan impo.,
+  "Impoer_importg_channls":"Mengimpor saluran., "Import_importng_mssges" "engimpor pesa.", "Iporterimprn_tated": Mula impr.
+  "Imporr_iportingusers": "Mengorpengguna.",mporternot_iprogrss":imorir saa ini tda berjn.",
+  "Importer_Prepar_estar_Import: "RetrImpr"
+ "Iportr_PreparStar_Import" "la Megimpr",
+  "Imporer_Prepare_Ucheck_Acivd_hannels: "alurnArsp hapus cetang",
+  "Importe_Prepare_Uncheck_DletedUs": "Pengua hapus ntn Dihapus",  "mpote_prores_error": "agal mendapatkan kemajuan uk impo., Impor_setperor: Terjadi salahnat meniapkanimi."
+ "nlin_ode": "inline_code
+  "Insall_xtesio: "nstall Ekstensi", "Istall_Fx Install Rocet.Chatdi Freoxanda",  "Install_xOs_de: "nda dat enguaanaplikasi RoktCat melalui con dilayarutama ada. Nkai keudaha yng ditawrkan oeh Ret.h!",
+  Itall_FxOs_err": Maaf,terjadikealahn beikut:",
+  "Insall_FxOsfllow_instrutns": "Slakan knfirmasi proses instalasiapliks d piranti and (tekan \"Install\ unuk melanjutkan).",
+ Itallaon": "Instaas
+  "Intalled_at":"ipsgdi"
+ "Instructns_to_yor_vistr_flltheorm_tosend__esage": "Petuu unukpengnjun Anda meiiformulruntuk mengim pesn",
+  Itegration_addd "Integrsi elah ditabahkn",
+ "Itgrtin_ncoin_eHook: "Intgrasi WebHook masu",
+  "Intgrtion_New" "Inter bar",
+ "Intgation_Outgoing_WeHook": "ItegasiWebHokkeluar,
+Interation_updaed":negrasi la dierbarui,
+  "ngraions" "integrai",  "nternalHuot": "Hubt intenal" "nternlHubotScitsToLoad": "Script uk memuat",
+  "IernalHubtScriptsToLoad_Dscriptio":"asukan daftadiisahk komascrit untuk memuat darttps://github.com/githu/hubo-script/tree/master/src/scrts",
+ "ntenalHbotUsename_escriptio" ni haus menad nama penguna yg vali dri b terdaftr paa servr Ana., Invaid_cnmss": "aa sandi konfirms tida cock enan kta di tama"
+  Iai_email": "mail yag anda msukkanta ld",
+  Invld_ExportFie" "File uplodtid% vali s fie espor.",
+ "Invid_Imprt_File_Tpe": "Vld jenifile Ipo.",
+ "Invalid_nme" waib disi",
+  "nlid_notifictionsetting_s": "Pegaturan notifiksi takvalid:%s,
+ Invaldpass: Kata and wajb isi",  "nvali_oom_name": "<strng>%s<strg> bukan mrupakan nam om yang sah,b/>hanyagunakanhuf, anka,gibwahda anda hubn.",
+  "Invld_secet_UL_messge "UL yang diediaka daah idak vali" ivisle": "invisible,
+ "nviible":"nisble",
+  "Invitation_HTML": "Inviatn HML,
+  "ntatin_TML_efaul": h2> Anda telahindanunt <h1> [Nama situs]/h1></2><p Perg e te_URL dan encoba ag terikopensourc solusi chattigyangersedia atini! </p>",  nvitatonHTML_Decrption:"da dapat menggunaan pcehldr berikut br /<ul<li> [email] untk emai penerim. </lil> Site_Name] da [SiteR] untuk Nam plikasi danURL masingmsing. </i></l>",
+  Invtatio_Subjet: "Juul Invitaton"
+  "InviationSuject_Defau": "Andtelah dudang untukSit_Na],  "nvite_usr_t_inchel": "Invite use utuk bergang dicnnel ini",
+  "IniUsers": "Inite enguna",
+ "isalso_typing": juasdang menet,
+  "is_aso_ypn_mal": jugasedan mgtk",
+  "s_alsotyping_le": "jugasedang engetik",
+  "is_typng" "sdang mengeti",
+ is_ping_femal: sedang mentik",
+  "is_tpin_mae": "sedangmgetik",  It_woks: "erhasil","italics" "itlics"
+ JisiChrme_Extensio": I kstensiChrome",
+ "ti_Eable_Channes": "Akifkan d Salrn",  "jin": "abung",
+  "Join_udio_calBergabun panggilan suara",
+  "J_dealt_cannels" Bergbung engan saluanstana",  "Join_the_Community": ergabungbrsmKomunits,
+  "Join_the_given_channel": Gg dennchannel terkai"  "Join_video_al: "Bergbung nvideo call",
+  "Joine" "bergbug",
+ "Jum: "elomt",
+  "Jump_t_first_rad": Langsng ke blumdibaca prtma,
+  "umpto_messge: Lansng ke pesan", "Jump_torecent_mesaes": "Lanung ke psan tebau", "Ke_Dollar_Syntx":emngkan olar Sintaks
+  "tex_ollr_Syntax_Description" Meunkinkan meggunakan $$ blok atex $$da$ ilinatex $ sints,
+ "Kat_Eabled:Kate Diakifn",
+  "atexEable_Desciption": "unginkan mngunakan <a target"_blank\" href=\"tp://khan.github.iKaTX/\">katex</a>untuk typesettin mataikadlam ean"
+  "Kae_Prnthei_Syntx": "MeungkinanurungSinaks",
+  "Katex_Parentsis_yntax_ecripion" "Memunnka meunaka \ katex blok \\] dan\\ inlinkate\) intaks"  "Knowege_Base": "Dasa pngetahuan",
+  "Lbel": Labe",
+  anguag":Bsa"
+  "anguageVesin: "Ves BahasaInggris",
+"Lastlogin" "Loin terakhr,
+  "Las_ssage_t" "PesnterakhirPaa",
+  "Len" "Teakhir diliht",
+  "Lyot: ayu", "Layou_Hoe_Boy: "Isi Hme",
+ "ayout_Home_Title:"Judul Hoe",
+  "Layout_Ln_Tems": "etuan Login"  Lyo_Privay_olicy": "ebijakan Privacy",
+  "ayout_Sidav_Fote": vigasi SideFooer",  aout_Sidenav_Foor_descriptin": Ukurnote20 x 70px, "Laout_Tems_ofSre"ebiaan Layan",
+  "LDA" "LDP",
+  LDAP_CA_Cert": "CA Crt",
+  LDP_Defut_Domain": "eful Dmai" DAPDesription":LD adaah asis da rarki yng banyak diguakan pesahaan unuk eyedakn fasilitassingl sing on untuk rbagi sat ktasnidiantra bebrapa sts dan services. Untuk normasi dn conth konfgras ebi lanjt, silaan berknultasi di wik kai\nhttpsrock.cht/dcs/adiistrator-guides/auhtication/lda/."
+  "LDP_BaseDN_esrptio": "Naayang mmenuhi syaat Distingshe DN dri subte DAP Ana ingin mecari penggndn eompok. Anda dat menabahkan ebanakyag nda ingnkan;Nan msimsing klompok har didefinisikndalm bass dman sama dega engua mil itu. Jka Anda mnntun lompok pggna terbts, hanya pengguna yerasuk klmpk-klompo akn  linup. Kami nyarankan Andmenenukantingktata pohon direktori LDAP sebai basis dan And n gunakn ilte ncarin untkmengontrolakses.  LAP_User_Sarc_Fild_ecrpion""Atribu LDP yanmenidetifkai penggun LDAPyg menba tentkai. Bidan ini hrussAMcountName`untk istalsi yng pali Aive Drctory,ap mugkin` ud` untuk solusi LDA lai, sepertienLDAP. na dap mnggunaan`mi` untu megdenifikai pegguna melali mil atau atribu a pun yang nda inginan. <b> Aaapat enggunaaneerapnilai diisahka dngan oma ut memnknkanpenggunautuk login meggunakbeberaa penenal sepet urnameat email."
+ LDA_User_Sear_ilter_ecrtion": "Jia ietkan, an pegnayang ocok enganfilte in kandiizinan untuk mask. Jika tid ada flte y ditentukan,semuapengunadala ingu dasadomainyng ditentkan kan dapat masu. br/> ialna untk ctiv Drctor`merf = cn = ROCKETHT, ou  enera Groups. br/>Mislnya untu OpenLDA (extnsile penlusuan enccoan) u:dn: = ROCKCHAT."
+"LDAP_AuthntiaionUserDN_Dscrption": "LDAP penggua melakukan encarin penggun ntuk otentikasi egguna ain ketia mreka mask.<br/> In biasnya accunt layana dibuatkhusus uuk integrasi pihk ketia Guakan ama yag enuhisyarat, seperti `cn = dminitrato, n = Users,c =ontoh, d =co`",
+  LDAP_abl" Hiupkan"  "LDA_EnaleDescriptin": "encob untuk memanfaatkan DA seagaiotentkas.,
+  "LDP_ryption": enrpsi",  "AP_Encryption_Dscription":"Metode enkisi yang igunakn ntuk menamankan komuniki ke sre DA. Contohy termasu plin`(akada nkris` SSL /DAPS (dnkris dari awal), dan `StatTLS`(upgrade ekomnkasi terenksi stelh terhung).", LAP_Ho" "Tuan mah",
+  "LDAPHos_esription": "DAP tuan rumah, mialnya`ldap.eaple.com` aa 0.0.030"
+  "DAPPt "Port"
+  "LDAP_Pot_Descrpin":"Por unk menakse LDA. isaya `3` atau` 636 uk LDAP",  "AP_Rejet_Unauthoried": "Tolah",
+  "LDAP_Sync_ser_Avaar: Sinkroisas enguna Avatar, LAP_ync_User_Data""Snkroissi Dat,
+  "LDP_Snc_User_Dat_Dscrption": Menjaga atapeggunateta tersinkronasi deganervr saat loginsepeti: nama, emal).",
+  "LDP_Sync_User_Dta_FedMa": "Pta Kom ataUser"
+  "LPSnc_User_ata_FieldMap_Decription": Mnkonfigrasi bagaimna koom aun penggn(seperti eml) yg aandiisi da record lam AP(skai ditemukan). <>Seagi onto, {\cn\":\"name\", \"mal\:\email"} akanemlih nama ya dapatdibac olh maia dar atrut c,dn mal mreka dari atribu mail <br/> olm an eseda mliui `name`, ad `email`.",
+  "LDP_Te_Conection": "Ts ones,
+ LDAUniue_Idntifer_Fild": "Uniue Idenifier Bida",
+ LDAP_UniueIdentifer_Field_Dscrption: "bidg an kan diukan ntu enghubgkan pengguna LDAdn pengguna Rocketht. ndadapat meninmasikan bebapa nilai dipiahka denankoma untuk mecoba unk endpatkan nili dai cattn LDAP. <br/> Niaideult adah `objcGUID, ibm-entryUID, GUID,ominoUNID, snqueId, uidumber`",
+  "LDAP_UsemeField": ama pegguna Laangan,
+ "LDAPsenme_Field_cipion": "bidang yang aan dguaka seagi*nama * gi pngguna bru. Biara koso untumengk nama penggunafrmapada halaa login. <b/> nda daatmengunakanagemplte juga,seperi `#{givenNae}.#{sn}. <b/> Nilai defataalah `contName`  "Leav_Grup_Warning" "Aakah Anda yaki ingin meninggalkan klompk " "?",
+ "Leae_Privt_Warnig": "Apakah Adayakin igin meningalk disksi dengan \"%s"?,  "Leav_rom" "Kelar dar rom
+  Leave_Rom_Waring" pakah And ykin inin eningglan angan \" s\"?",
+  "ine": "gris",
+ Lis_of_Channl:"Dafr Salra",
+  Lstfirect_essage": "DaftarPesan Langsung",
+  "Livech_ants: "aenlvechat",
+  "chat_Dshba": Dhbard livechat,  "Livecat_enabled: "iveha daktikan
+  Lecht_forwardopen_ats": "chatting mj teruka",
+  Livechat_forward_open_chats_tieout":"Timeot (dalamdetik) t meneruskan obrola",  "Livechat_uest_coun" "mej tamu",
+  "Livechat_mnaers: "manaer liveca,
+ "Lvectoffine": "Pegunjug liveht"
+ "ivechat_nine": "lieChat secar online",
+  Livcht_room_count" "cont kamar livechat",  Lvcht_ttle: "Judl Liecht",
+  "Livechat_title_color": "Warn Backgrond JudulLivechat",
+  LivehtUrs": "eggna liecha"  "Load_mor" "Mua i lanju",
+  Loading...": "Memuat ..",
+  "Lading_ore_frohistry": "Memua leh dari hstory","Loadinguggstion" "Memuatusulan ..,
+  Localiztion": "lkalisas",
+  "Lgile": Tampilkan bersdanJalur",
+  "LoLeve": Log Tingkat",
+  "Lg_Packae": "ShowPackge",
+ LogView_Lmi" "og VwBta",  "edot_of_other_clientssuccssfully" Log out dar klen lainbrhasi",
+  "Login": "Login",
+  "Login_with:Loinmengguaans"
+  "ogot": "Logot"
+ "Lgot_thrs: "Logout Daieatat LinDala Loksi", "Mai_Mesage_Invald_eals": "Ada tla isediakan emaistu atu lebih valid: s", "Mail_MessageMissing_t": "Ana arusmmilih st aau lebih penggun aau emberikanstu atau leialmat email,disahkan ngn kom.,
+ "Mal_MessgeNo_sages_seectd_select_all": "Anblm memiih pesan.Apakh nd ingin  ref='#' cass=elect-allmemili sua</a> esan yang eliat",
+  "Mi_Mssages" "Mail Pesan"
+  "Mail_Messes_Instrucons": Memilih pean ng Anda ingn meirim va email enga mngklikpes"
+  "Mail_Messages_Subect": "erikut adalah agin yan epi dari psa% ,  "Mailer":"Pegim",  "aile_od_tag": "An <b>harus/b enggunakan [unsbscrbe] utuk bereti link eraganan <r /> nda dapa menggnakanma, aelae] untuk ama lengkappenggu nma ptamatau naa bekang, masin-sng. br /> na dapt menggunaan [email] unuk email pengguna.,
+  "ailing": Mailing"
+  "Make_Admin:"Jikan Ami" Managr_aed: manajr menamban",
+  Managereovd: "manar dihapu",
+  "Mnaging_assets "megelola ae",
+  "Managing_negrions": "meelola interas",
+ "Mark_as_rea""Tand read",
+  "Mdn_eaders: "eader Mkdow",  Mrkdo_SppotchmesForink":"Skma Dukungan penurunan rga untk Link,
+ "arkdn_SportSceesFoLink_Desriptio": Dipisahan kom datr skem dprboehkan",
+  emr_List": Daftar ember",
+  "Metions": "menyebtkan",
+ "Mention_defult": "Mnyebutka (default)", "Mssage": "Pean",
+  "MessageAllwBdWsFilter":"MemungkinkaPean ata-katabuukpeyarnga",
+  "Message_AllwDele":"Ijinka Penhapusaea",
+  "Mesage_Alloweleing_BlkDeleInMinuts: "Bkir Pea MenghapuStelah (n)Menit"
+  "Messe_llowDletngBckelteMnutes_Descripion: Masukan 0 untuk menonaktfkan bloki.", "Messe_AllowEding": "jinkan Perubahan Pesa"
+  "MessageAllowEdit_BlockEditnMinutes" Haangi Modfikasi Pes setlah(nmeit"
+  Messag_AllwEdiig_okEditInMintesescription": "Makkan 0 unuk meoatifka",
+  "Meage_llowPinnig"Ijinkan innin en",
+  "Messag_llwPinning_escrti": "Memungkinan psan yang aan iseatkan k slh stualrn."
+  "eage_AlowSaig: "Iinka Rting esan",
+  "Message_AlwysSearchRegEp":"Selalu mencarimnggaan Regp",
+ "Messae_AwaySeahRgExp_Descriptin": "Kami mreomnaian utukengtur `RUE` jiabaasa Ada tida diukung pada <a target\"_lak\ hrf=\"htts://dos.ngdb.orgmanal/frence/tsarch-languaes/#tt-sarch-languages\>eaia tes ngoB</> .",
+  "ssage_AudioecrrEnabled": "ekaman Auddihidupkan",
+ "Msage_udioRecoreEnabledDesriptio: "Memeran berks 'audowav' untukditrma sebagai tipemeiadlmpenatran 'Uggah Berka'.",
+  "Mesage_BaWordsFieris" "Tambahknkata-kat uruk ke blcklist
+  essagBadWorsFilteristDescritin: "Tambahkan afta dat dipisahkanoma kata-kata yangbuutuk mnyaing" Message_DtForma": "Formatnggal",
+  "esageDateFortDecrpto": "Lihat juga: <a href=\"htp:/momentjs.om/ocs/#/dispaying/format/\ taret=\"mmem\">Moment.j</a>",
+  "Mess_deleng_boke": "Pesan ii tik apat dihauslagi",
+ Messge_editing": "eiin san"
+  "MesageGroupigPeriod": "Penelookan Periode (dalamtik)
+ "Messge_GroupingPeriodsciptio: "Psan akan dikelompokkan dengan psan sebelny jika eduanya dari enguna yang sma dn watu ang tlah brllu krang ai waktu inrmasi dl hiungan dtik.",
+ "Mesge_eeHisory: "Pertahankan Riwayt Pesan,
+  "Mesae_MaxAll":"Ukuran alura maksimmuntuk psanSEMUA",
+  "ssage_MaxAllwedSize": "aksmal Ukan esanyan inkan",
+  "Messagepinnng: pesan nepit",
+ "Msageremved":"Pesa telhdipus",
+  "essage_ShowDeetdtts" ilk Sttu Penghausan"
+  essae_ShowEdteStatus": mpilkan Staus Perubaan",
+  Mesage_howrmainTips" "Tampil tips fmatin",
+  "Msge_tarrg": "pesan dbintngi"
+  Messge_imeFoa": "Formaaktu",
+  "MessaeTieormat_Descriti":"Liht juga: a hre\"http/momenjs.cm/docs#/displayig/frmat/" taget\"moemt\">Met.j</a",
+  "essag_too_ong": "Pesan telalu lama,
+  "essage": "Pesa"
+ "Messgs_that_ar_sent_the_Icoming_WebHoo_ill_be_postedhere: "esan yakii ke masuk WebHook kan diptng d sini",
+ "Me": "et",
+  Meta_fb_app_id": "Facbopp Id"  "eta_gogleseverification":"oole SiteVerificaion"
+ taanuage" "asa",
+  "eta_msalidate: "MSVaie.01,
+  "Meta_robots": "Robots",
+ "minutes: meit",
+"More_annels: Lebih lanutcane",
+ "More_diret_messaes" pesn leih langsg",
+  Mre_os": Gu Privat lbih lanjut"
+  Mr_eads": ebih njunrad",
+ Mss: Pesan", "multi: "ulti",
+  "Mute_omeneinrom": Bisueseornd dalm ruagan",
+  "ute_se" "penguna bisu",
+  "Muted" "Meeda,
+ "MyAcount": "Akun sy"
+ "_messaes": "s pesn",
+ N_ewmesags":psa baru% s",
+ "ame": "Nma",
+  "Nam_ant_be_empty: "Naaidakbleh osong",
+ Nme_of_aet "ama aen",
+  "ae_optonal": "a sonal)",
+  "Navigaton_story": "ejarh niasi",
+ "N_Aplation: Aplikasi br",
+ "New_CustoField": Custo Field baru"
+  "Nw_Dparten": "Departeen bar",
+ "e_integrtin": "integrsi bru,
+  "Newlogs": log baru",
+  "Nw_Mss_Notification": "PesanBar Pebitahua",
+  "Newmessges""Pan baru",
+  Ne_paswrd"Kat di baru
+  New_role "pernbar",
+  "New_Room_Notificatio: NewPemrtahua Kamar"
+ No_channel_wth_ame_%ws_fon "Chnne engn nma <strog>\"s\"</trn>idak behsilditemukn",  No_cnnes_ye": Anda bem beraung ke dalam chanel mnapun."
+ "No_irectmessaes_yet": "Anda elum meulaipercakapan.",
+  "No_Ecryption""Tidak aa ncryptin",
+ No_goup_it_me_%s_ws_fod":"GrupPiat dengan nma <trog>\"s\"</srong> tidak berhail ditemukan",
+  No_roups_e:"Anda belu memiligrup privat.",
+  "Nlivechats": "Anda tiak emlii livechats.",
+  N_mentios_fou:Tidak ada menyeutkan diteukan",
+ "No_pnne_eages": "idak ada psa disematkn",
+  "No_esultfo": Tida ad halan diteukan
+  "No_sared_sg" Tidk aapsn yang memilki rting",  No_userwith_srnme_%s_ws_fond": "Usr dngn userame <trong\"%s<strong> idk berhsl ditekn",
+  "Nodversion":"vrsi Node",
+  "o_uthoried" "Tidak diizinn"
+ otAvlable":"Tiakersedi",
+  Notfound_or_n_allwed": id dituka atu Tidadiiinkan,
+  "Nothing":"Tidak aa",
+  "Nothing_found": "Tidakadayag dtemka", "Notifcatis": "pembritahun",
+  "Noifyal_in_this_room":"Brinpemeritahan ke seua yan ada diro",
+  "Num_Agets":  Aen,
+ "Numbr_of_messes" "umlah pesn",  "OAuth_Aplicaton: "Out Aplkas",
+  "OAuth_Applicatios": "Aplikasi OAth",  "bjct": "end" Off_th_recd_onvratn": "Off-the-reord Convrsati", Off_te_recordcoversaon_is_not_avalae_r_our_browser_or_device: Off-thereord ercakpan tidak tersediautuk browseataperangkt.",
+  "Offline": Offlie",
+  Offine_DM_Email" Anda telah langsung mengirim pesa oleh__user__,
+  Offine_form":"formulir Offlin"  Offlne_ormunvailbl_mesage": "Formur Offlinepesn tdak terseda,
+  "Offline_Mention_Email": Andaah disebutkan oleh_user_ di #__room__"
+ "Offli_msae: "psn Ofine",
+ "Offie_sucesmesa": "pean ukses line",
+ "Offi_unavilable": "Ofine tiaktesdia",
+  "Online": Onn",
+ "Oyyo_cn_see_this_message": "Pesan ini nya daat dilihatleh anda seniri",
+  "Ops!": "Ups,
+  "Open" "Bua",
+  "Opee": "ibuk",
+ "ional" "pilihan", "Oder": "Mmesan",
+  "OS_Arch": "O Arch,
+  "OSCpus":OS CPU Cot",
+  "_Femem": "O Free Memory",
+  "OSoadvg": "O Loa Average",
+ O_Platfm" OS Pltform",
+  OS_Rees": "OS Rlase",  S_Ttalme" "OS otal Memory"
+  "Typ" "OS Type",
+ OSUptime: OS Upme",
+  "others": "lainnya",
+  OTR": "OT",
+  "TR_is_only_availablehe_oth_ussre_olin" "OTR hanya tsedi jika kedu ngguna sedang nne,
+  "Ovede_URL_t_ic_files_ae_uploaded_hisurl_als_ued_for_downloads_less_a_CD_s_ven": "UR veride yang file-uloa. ul inijga dgunakan untk owoa keculi D diberikan",
+  Pasword": "Kat sandi",
+  "PasswordChange_isabld": "dministratr Rocket.Cat mematkan fitur pruahan pssword"
+ "Psswordchagd_scesfully": "Kata sani erhadiubah"  "PastChats: Chatngas lalu",
+ "Paload"payoad",
+ "Ppe" "eple",
+  "Prmalink" "Peralink",
+ Pemsios" "in,
+  "Pin_Mesae": "SatanPesa"
+  "Pine_a_essage": "Disematkps:",
+  "ined_Messge": "Psan disematkan",
+ "Piwikntic_Id_Decritn": Situid diguaan uukmengidentiki sius ini Contoh: 17"
+  "PiAnalics_u_Descripto": Ul dimana Pik brada, patika untuk menrtan gi miig ji cob Cnto: //piwik.roket.chat/",
+ "Placeholder_o_emai_or_userame_login_field": empat untu emaata userae logibidg",
+ aeholdfr_password_oin_field": aceld untubida pasworloin",
+ "Pseadd_a_omment": "ilakn amhkankomear,  "Please_adoment_to_cose_the_roo" ilhkan,amakan kmenta untu menutruan",
+  "ls_aswer_survey":"Silakn luangkan waktuuuk njawab surei cepat tntag chat ni,
+  Pease_ner_vale_forurl": "MasukkanULdariavt yang ingnnd unakan",  "Plase_enteryournew_password_beo" Masukanpassord bau Ada dibawah ini:" Pleaeeneryour_password "Sihkan maskkapasswor nda"
+  Plea_fil_a_abel":"Slahkn s lbe",
+  Pleas_ill_a_nae": "Slahkan nii nama",
+ "Please_fill_a_erame: "Slahka mengsi usrnme,
+ "Please_ilname_ad_ml" "Sihka isi aaanemil",
+  "Plese_selectenable_yesor_o": "Silakan ilih opsi untk iaktifkan",
+  "Plee_wait":Moho enungg",
+ "Plase_wait_aivation:"Slak ungg, in dapatmemaa wakt.,
+  Pease_wai_whileOTR_is_beingestablished: "Haraptug semntara OTR sedang dibentk",  "Pease_wit_hyor_acount_isbigdlete": "Hara tunggsementaraakun Andasdan dihas..."
+  "Please_waitwhieyouprofeis_bengsaved": "Haa tnggu sementaa proil Andasdan disimpan ...",
+  or": "elabhn,
+  "Post_as": "possbgi,
+ "ot_toChanel": "Psing k nal",
+ "Pot_to_s_s_s: "Kiri <strogke% s</stong> <strong>seagai% </strong>",
+ "Peerences"Pefeensi  "Prerees_saved": "Prefrei telah diimn
+ Privacy" Picy",
+ "Privte":Pibi",
+  Privat_Grop: "Guppribadi"
+  Priate_Groups": "Gruprivat",
+  "Prvte_Gups_list": Datar Gru Pra,
+  rofle" "Profil",
+  "Profile_saed_succesfull": Profi beasl dismpan"
+  Public": "Pubik
+  "Push": "Push",
+ "ush_apn_cer": APN Crt",
+  ush_apn_dev_ert": "APN  Cet",
+ Pus_apn_devkey: " v ey",
+  "Push_p_dev_paphrase":NDvPassphrae",
+  "Push_p_ky": APey,
+ "Puhpn_pasphrse": "AP Passphrase",  "s_ebug": "Debug",
+  Pus_eale"Hidupkn",
+  "Push_enable_atewy":"aifkn Gateay",
+  "Push_gtewy: "pint grbang",
+  "Pshgm_pi_ky": "GCM PI Key",
+  Push_gcprject_numer""GCM Project Number"
+ "Pushproduion":"roduksi",  "Pus_so_messe": "Tamilkan pesandalam peberitaun",
+  "Push_howusram_room: Tampikan canel grop/ usernae d pembritahuan,
+  "Pshtest_puh": "Uji",
+ "Query": "eranyaan,
+ "Query_descrptio":"kndii tambahn unukmennuknpenggun utuk mniri email ke. penguna berhenti belngganasecaa tomatdiapus dariquery. Inhus enadi JSN valid. Contoh: \"{\" creatdAt \"{\" $ g: {\"$dat \":\" 201501-0100 0: 0.000Z \}}}\""  u "kip",  "Quote" "Kutian",
+  "Random""Acak",
+  Reacted_ith": "bereksi ngan",
+  Rection": "eksi"
+  "eord" "Rekaman",
+"ReiretURI":"rdirt RI",
+ "Res_kys" "kunci enyegaran",
+  "Refreshyo_page_fter_install_to_enale_sren_shing": "Reresh haama da setelah engintal untu engaktifkan begi lyar",
+  egiser": "Daftrkn akun bu",  "RegistraionSuceeded:"Pdaftaran elahrasil dlakukan,
+ Release":Meleasan,
+  emove "Haus"
+ "Reme_Adi "Has Adin"
+  "emove_as_modertor "apu sebagai moderator,
+  "emove_asowner:"Hapus ebaga emiik"
+  "Rmov_custom_auth":"Hapuskustmauth"
+"Rmove_fr_roo" Hus dari amar",  "Roe_someonfrom_room" "Menghus eseoangdari ruanan",
+ "Removed": "dihapus",
+  "Repotbuse": "apork Pyalahnaa"
+  "Reporteclmatin_mrk": "elaprkan!",
+  "Rept_sent": "apoan menirm",
+ "eport_tismesage_queson_mark "Laporkanpean ni?",
+"eqire_passord_chage": "Mmbtuhkan perubahan sani"
+  "Resen_verification_eail": "Mgirm ulaemal verifasi"
+  "eset" "an"
+  "Reset_assword: "Uah kata sandi"
+  Rstrt: Menguln kmal",
+  Restart_th_server": "Rstar serve" Role": "Peran"
+  "Role_Eiting": "pran iting",  Role_emoved": "randihapus",
+  Room: "oom", "Rooarchivtion_at" "Ngara",
+  "Romachivation_stae_fae": "Akti", Roo_archivtion_statetrue": "diarspkan",
+  "Room_archied": "amar diarsikan",  roomchged_prvay": "Jenis kama berubah meni:<m>_rote__</m> ole <em>__ue_by__</em>",  rom_changd_tpi":"Topikkamar beubah menadi <m>__roomtpic__</> oleh <em__user_by__</em"
+ "Roomhas_beendelete":"aarela dihpus,  RoomInfo" "no ama", "Roo_amechanged":"Nama rom telh iubah menjdi <e>__roo_nam_<em oleh em>__user_b__<em",
+  "Ro_name_chaned_succsflly": Namarom teah berasl diuah"
+ "Rom_nt_found": "oo tidak dieukan
+  "Rom_topaned_succsully": "topk Room berhasildibah",
+  "Rom_tpechangd_successfully""Jn kamar brhsil diubah",
+ "Romuarchd": "mar diasipkan",  "Rooploaddfilelist": "Daftr Brkas,  "om_uloaded_fil_lt_empty": Bekas tidak teedia"
+  "ooms": "Room",  "Runnin_Instnces":"enjlanan Coh",
+  "S_newmesages_sice_s: %s pesan baruejak%s",
+  "SAML": A,
+  "SAML_Custom_er":"Custom ertficate",
+  "AML_Cutom_Enrypi": "Custom Enry Poit",
+ AML_CutomGeerae_Usernm": aeUsername", "SML_uomIsu" "Custom Issur",
+  "SML_Cstom_Provide""Csm Provider",
+ "Save: "pan",
+  Savecages": Simpan prubaan",
+  Save_Mobile_ndidth": "emat Badwidth",
+  Sav_nle_thsction: "Simpan untuk mngakian tindan ini",
+ "Saved": "disimpan",
+  "Saving":Pngematan"
+ Scope" "Cakupan",
+  "Screen_Share": "laya Share"
+ "Script_Enabled "Script Diatifkan",
+  "Search": "Penari",
+  Serch_y_ername": "arierdaarkan nma",
+ Search_Messages": Pencaian di Pen, "Serch_Private_Grops":"Cri Grup Swasta",
+  scons"eti",
+  "t_toen": "oen rasi",
+  "ect__eartment: "Pildeparteme",
+  Selecta_avaa"Pilihavatar,
+  "Select_f": "Pilihberk",
+  "Selectserceo_login":"Pilihan ayanan lammelakuan login untu memat gamba ada atau mennah gaar dar komputer ada",
+  "Select_user" "ilihpeggna",
+  "Slectuser: "Plih penggun",
+  "Seletedagens" "an yag dipilih",
+ "Snd" "Kirm  "Sed_a_messge":Kiripean
+  "Sdtest__omy_ur": "Kirim ai tes utukpgua sa",
+ "Send_a_test_push_tomy_ue": "irimdoong es untuk pngguna saa", "Sen_cnfiton_email: "Kirim email onfrsi",  "Sendata_ito_RcketChat_in_realtim""Menirm dta ke Rckt.Cha secrarealtim",
+  "Send_mal": "egim Email",
+  "Sendnvtation_ema": "Kiim email nvitsi",
+ "Sedinvtao_email_error":"Ana elm meuliskaalmt email",
+  Sn_inviatio_email_io: "Anda aat mengirimkaan ivitasilebihdi atu cabersamaa.",
+ "Sed_iniatin_mail_ucess na lah berhail engrmkan emal nvitsi ke aamat emai berikut:,  "Sendrequeston_cht_coe": Kiim perminaan orolandekat",
+  Snequestonoffline_mesges":"Kirim prmintaan ada pesn offline,
+  "SendTest" "KirimUji"
+  "Sendwelcomeei":"Krim  seama datang,  "Sen_your_JSON_payloads_to_this_RL" Kirim muatan JSON Anda unk R ii.,
+  "Sending" "Menirim ...,
+  "Service": "ayanan",
+  "St_as_moderator" "Detapka sbagai moderatr",
+  "Set_a_owner: "Ditetakan sbaaiemilik",
+  "Setings" "Pengatra",
+  "Settingsudated" "Pengatuatelah diubah,
+ "Shuld___UR_of_an_image": "Haus ejadiURL gabar.  "hold_exists_auerwth_this_username: "Penguna arus sdah ada",
+  "Show_all Tnjukkansmua,
+  "Sowmor": "Menpilkan ebih baya,
+  "how_onlyonline:"Hany menapilkan secara onlin",
+ Show_pregitrationfom" "Tampilkan benuk pra-endtarn,
+  hongachived_rels": "p> <b>eampilkn% s</b>hs diarsipkan </p"
+  "Showig_onlineusers": "Mnamilkan <b>__tot_howig_</b> dari toal _total_ users",
+  "Shoing_resuls"<p>Menmpia <b>%s</b>asil<>,  "sincecreation": "ejk %s"
+ "Site_am": "NmSitus"
+  "Site_Url: L u",
+  "ite_Ur_Description "Cono: hts//catdaincom/"
+  "Skp": Meewatan"
+ "Sash_GimeDescripion""Menampilkan  (つ ◕◕)   sebelumpesan da
+ "Slash_LenyaceDeritio" Menapikan ͡ ° ͜ ) setelah pesa And",
+  "Slash_Shrug_Deription": "eapikan ¯ \\ _ )  ¯ seah pean Anda",
+  "Slash_TableflipDscription": "Menamika (╯  □ ) ╯┻━",
+  "Slash_bleUnflip_Decrptio": "Menmpila┬─┬ ノ (゜ ノ)"  "Ss_T_Desripin": megatur tpik",
+ Slash_Tpic_Paras": "esan topik",
+  "Sileysand_ole": Siley & ang",  SMS_Enbed" SMS Diaktifan",
+  "SMTP": "MTP"
+ "STPHost "Hst SMTP",
+  "SMT_Pasword": "Passwrd SMT" "SMP_Port: "or SMTP",
+  "SMTP_Ts_Bton": Pengaturan tes SMTP",
+  "SMP_Userame": "Usenae SMP,
+  "ound":"oun",
+  "SSL": "SL",
+  "StarMessag": "erin Ratng di Pesan", "Starredssages" "Pean yangemilikRating",
+ "Sart_audo_cal: "Mula panggia sara",
+  "Sar_Chat:"emulaiobr",
+  "Sart_ofconversaton: "Awal dai pcakapn
+  "Start_OTR": "Mlai OT", "tat_ideo_cal": Mulai vido cal",
+  "Strt_i__for_user_or_s_for_hnel_Eg__os": "Mlail dngn <code lass=\inle\">%s/cde>utuk penggua atau<coe class=\"nne\"%s</de> ntuksalua Mslna: code class=\inline\">%s</cde> atau <de clas=\nline\">s</code>,
+  "Stated_At":"mua Pada",
+"Statisic: "Statistk"
+  "Statistcreporting: "Kirmstatstik ntuk Roc.hat",
+ "Statistics_reporting_Dsrpin: "engan megiimkan sais Anda, Aa akn embant kaimengdntifikasi bea anyak conthdari Rckethat dikerahkan seraseberapa ai sisem trseut berfungsisehga ami apatebh einatkaitu. Jangan hawati, karen tiak da infrmapegunadkirimda seanform yag kamiterm dirasikan",
+  "Stat_ctive_Uers"erktif"
+  "tats_Avg_hnne_User": "Pengguna hnnl Rat-ta",
+ "tats_Av_Privat_Group_Users": "Pngguna Grup Prt Rat-raa",
+  ts_way_er""Uer wa",
+  "ats_Max_Roo_User": "Penggun Room aksil",  "Stas_Nn_ctiv_Users""Useryang iak akt,
+ "Stas_Offline_Users:"User Offlin", "Stts_ne_Us":"User Onlie",
+ "Stts_TtalChnnels": "Tta Chnnl,
+  "ttotal_irect_Mses": "Total Pesan agsungdi o"
+  "Stats_oa_Msages": "otlPean,
+  Stats_Totarivae_Groups""Totalrup Privat",
+  "at_Total_Rooms": "otal Room,
+ "Sts_Ttal_Users": "t User"
+ "to_Reording": "Berheni Merkam"
+  strike: coret",
+  ubjec: "Subyek",
+  "Submi: ubit",  Suces" "Kebehasilan", "Succss_meg": "pesan suses"
+ "Surey": "penelitian,
+  "Survey_inructins: "enai setiap petanyaanesuai dengan kepuasan And, 1berartiAdabenar-benar ua dn 5 barti Ada enarbenarpas."
+  "Symbols": "mbol",
+  "Sync_succes" "keberhaila ync",
+ Syn_ser" "Pngua snroisas",  "T": "Mnnd",
+  "Ts_Connection: "Ts ksi,  "st_DeskopNotifictons"UjiPembertahuan esktp",
+ "Thnk_u_eclmtonmrk: Teim kas!",
+  "Tan_you_or_your_feedbck" "Termakasih aasanggapan Ada,
+  "Th_lication_nae_is_required":"Nama apliasi perla",
+  "T_chanel_nameis_requr: Namahanneldiperukan
+  "Theeailsae_eing_sent": Email teah ikrim.",
+  "Tefidi_requed": Kolom %sjibiisi,
+  Theiage_sizewill_no_work_becaue_w_ca_nodetet_Imageagi_or_GrahisMagickinstlle_in_yourserr" "Gabr rsizetidakakanberjakarenktaidak patmendeteksiImagMagic at GaphicsMgick diinstal pd server And",
+  "The_rdirectUr_is_requir": "The redirtUridiperlukan"
+ "Th_srver_wilrestrt_nseods": "servrakan retar% s etik",
+  "hesttig_ssconfgured_to_s_andouare_acessing_from_s:"<srongengtura%s<strong> diknfiurasi <stronguntuk% s<strng> an Ana mengkse <strong>dari% s!</srg>",  he_uer_wil_beremoved_rom_": "ngguna aka dihpusdar% s"  "Te_uer_wont_bble_o_tein_s": "Pegna idak akandapt mngtkan% ,
+  "Teme": Tema",
+ th-cor-contnt-bacgrundcolor": "Konn Wana acgroun,
+"themecolor-cstom-scrollbar-olor:"Kutom WaraSrollbar",
+ "thecolor-in-font-lor": Info Font olo",
+  "emecolr-lik-ont-color": "Linknt olor,
+  emecolrprim-backgon-cr": "Pmr arna Backround"
+  "heme-olor-primar-fontclor "Primary Colo Font",
+ "tee-color-secodry-background-olr": "Sekunder arn Bkgroud",
+  "them-co-secondary-fon-color":Sekunder Font Colo,
+  "theme-ol-status-away "Jauh ra atus",
+ "theme-color-sttus-buy" "ibuk Waa Statu",  "them-lor-staus-ofline: "Offrna Stus", "hme-col-staus-online": "Secaa onlin Color ttus",  "themeolor-ertiry-backgrond-color": "TrierWarna Backon  "hee-clo-rtiaryont-coo":"Tesie Font Coor",
+  "he-color-unread-oticatin-colo": "elm ibca Pemetahuan arna",  "theme-cust-c": "CSS kstom",
+ "Ther_areo_agetsadded_t_this_epartment_t:Tidakada agen ambahkn ke depatmen in.,
+ "Thereeno_itegatins": "Tidak aa interas",  "There_ar_no_ses_n_hi_role": "Tidak da pngua dala eran ii.",
+ "Thisemail_has_aleady_een_usednd_hasno_be_verified__Pase_hange_your_passwor": "email ni suahdiguak dan elm diverifikasi. bahpaswor Ada.",
+  "This_i__dsktp_nticaio": "Ii alah pembrituan estopyang",
+ "hiis_apush_tsessa":"ni daah mssageoronga uji,
+ "This_rom_habeenaried_by__username_" "Rangan in teah diaripa oleh _usrnae__",  "Thisroom_hs_been_unarhive_b_usernme_": "Ruagan initelah diarsanole _username_,
+ "Time_i_second": "aktu dalam etk  "Tle" "dl"
+  "Titlebr_colo" "arnaudulbar",
+"itle_bar_color_ffline": "Judul barwarsecara fflin"
+  "Titl_olin": Judul secara offi",
+ "To_instll_RoketCat_ivecha_in_yourebste_copy_pste_tiscde_abo_thels_bod_tag_on_yousit": "Utu megitl Rcket.at iveca d wesite  cpy &paste kdeindi ats <strong</ bod>/trong>tag terakhir di situs Ada.",
+ "to_se_mor_detailson_howointgate":uk met riciaebih lanjut tntang bagaiana mengintegrasikan"
+ "To_ues" "unuk Penggna,
+  "Topi": Tema"
+  ravel_and_laces": "Trav& Placs",
+ "Trgger_removed": "emicu dihapus",
+  "TriggWrds": "Kata-kt pemicu",
+  "iggers" "pecu, "ue": "Tue"  "Typ":"Mngeik",
+ "Type_yor_email": "Keti emal nda",
+  "Tpeyour_msae":"Ketik pean Anda",
+  "Typeour_nm": "Ketk nam Anda",
+  "Type_your_new_psswod" "eti password baru Anda
+ UI_slyRoes" "ern ispla",
+  UI_Mge_hanels_rops": "Gabungkan grup rbadi dengan sluran"
+  "Unarchive":"pengrsipan"
+  "Unmute_soeone_in_rom": "ruaa sesera d dalmrung",
+ "nu_u": "peggunasrakan", "Unnamed" "Unnamed",
+ "pin_Mesage": "Meepas eatanpesan",
+  "Uned_Room": "Rom yan belumdibaca
+  Unread_Roos_Mode": "Mod Room Unrd,  "UnsarMessa "us Rting", "Upload_filequest" Unggah file?"
+  "Uploading_ie:"Mengungah file ...",  "Uptie": "uptime",
+ "URL: "RL
+ "Useaoun_prefeee": "uaka prefrensiaun"
+  "Use_Emojis": Gunakanmis,  "Use_itial_aar" "Gunakan inisial ari usernae and",
+ "Use_seve_avar": "unakansat"
+ "Use_ths_userame" "Gunakan nam peguna ni,
+  "s_uploaed_avaar: "Gunkanavaaryang udah dunggah",
+  "seurfor_avata: "Gunkan URLuntuk avarar"
+  "User_srnme__is_now_amoderator_f_room_ne_": "Pegguna __uenae__sekarang menjadi moderator dai _room_nae_"
+  "Usr__uername_snw_a_ownr_of__romname": "eggua seram__ ekarangmenjadi emik __rom_name__",  "Us_senam__roe_fom__room_nme_oertors" "engguna__senme hapu da oderator__oom_name_", "Uer__uername__rmv_from__oo_name_ones": "Pnuna__snme_ dihapusdari pemlk_ronam_",
+ "se_de": "Pengga telhdamahkan",
+  "User_add_by": "Pnguna <>__usr_added__</em>elah itabkn olehem_us_b__</em>.",
+  "User_aded_succesfully": "Penggua berhasil ditabah",
+ "Usedest_eist": "Tida adauerdngan naa `@%s`.",
+  "r_hs_been_activ: "User tlh iaktifkan",
+  "se_ha_bndeacivaed: "User tlahinonaktfka",
+  "Useras_been_deetd:"Usertlahdhapus",  "sr_haseen_muted_in_s": Pengun lah diredam di%", "ser_as_been_remoed_from_s":"Pngua tahihapus dari% ", "User_Info": "Infomasi Us",
+  "Usr_i__loe_anadmin": "e buka iadmn",
+  "User_i_nown_dmin": "Uer tlah menjadi admin",
+ "Usr_oine_channe": Tela brgabun di chanel.,
+  "User_joined_channel_fema: "Telah berabungdi chanel.,
+  "ser_joied_cannelmle": "Telh bergabungdichanl.",
+  "sr_ef": "Tela klarari cael",
+ "Uer_lef_femal": "elah eluar dr channel.,
+  Userleftmal""Tel keluar dari hanel.",
+  "Userloge_u" "User telah log out",  "sermnagme" "maajmen nguna"
+  "Uer_ued_by": "Pengun <>_user_mted_</e> drdamolh <e>__usr_by__.<em>",
+ User_nofund" Pnguna tidakditemukan,
+  Userot_fund_or_incorect_paswor": "Ue tdakditman au assword sala",
+  "User_or_chanel_name" "engguna ata surn nam",
+  "User_remov": "penggunadihps",
+  "Usr_remove_by": "Pngua<em>__userrmoved__</e telah ihasoleh <em>__ue_y_</m>.","User_Sttings" "PengtuanPengguna
+ "User_nmute_b": "egun e>_uer_umuted__</m> ampilkan la olh <m>__ser_by__</em>",
+ "Use_unted_i_om": enggn dtampilkn lai d kar,
+ "User_update_uccsfully: "Usrberhai diupdate",
+  "Usernam": Nma pengguna",
+  "Usernam_and_essge_mst_not_be_empy": "Usernae dan pesan tidak olhoon.",  "Usernmecant_be_e":olom uenm tidadapatdikosngkan",
+  "enameChng_isabld" "dministor Roket.Cht and nonaktifkn silitas perbhanusenae,
+  "Uernamedenied_th__ssion": __uernam_mebantahsesi OT,
+ "Uernam_eition: Nama eguna aka digunakan oleh pengguna lain untuk menyet ana i lampean."  "Userme_dostist: "Username `%s` idak ada.",
+  "Usnaended_the_OTR_sssi": "_username__ egakhiri sesi O"
+  Useam_ivlid: "<trong%s</srng buan mruan nam pngn ang vald,br/> adhaya dapat meggunakan huruf ngka,ik, gari bawahdn tana ubung."
+  "sername_is_already_n_here""@%s` sua brad isini.",
+  "Useame_is_not_nhis_room" "Penguna #% s` tidak d ruaga ini."
+ "Userm_title": "Dfarkan nama penggna",
+ "Usernam_wants_o_star_otr_o_you_want_to_pt"_usernae__ ingi mmlai OTR. Apakah Ada inginmenerma?",
+  "Uses: "Penggna",
+  "ser_inrole": "Pggn dalam pern",  UTF8Nams_Slgify" "UF8 aa slugify"
+  UTF_NamsVaidation": UF8 Nama Vaidas,
+  "UTF8Names_Vidation_escripon" "Jangan biarnkraterkussa ruang.Ada dpat enggunakn  _ an. tetp tida paa akhir nama"
+ Veficaton_emalse": "emi verifikasi ikirim",
+  "Veriied:"Dverifiki",  "Verio": "Versi"
+  "ideo_hat_Winow": "deo t",
+ "View_Al": "apikan Seua",
+  "View_Log": ihat Log",
+ iew_mod:"Lihatmou",
+  "View_mode_ino": "Halini akanmeguba juma pesan ruanmengmbidi layar.",
+  "Viewing_oom_admiiration":"adminsts uang elihat",  "Viibilty": "jarak penhatan", Vsible": "Terlihat",
+ "Visitr":Pengnjun",
+  "Vsor_Info": "Inf pegunjung",
+  "isitor_Nagati": "Navigai pengunjung",
+  "to_pagUL": "RL haman Penguj
+"Visio_ime_on_sit": "aktupenguung dsitus",
+ "ait_activtio_wning": "kun anda hrus teeh daludiakfanseara mnua ole seorn aministrao ut daptmelukanlon",
+  "We_are_ffne_Sorry_frthe_nconniene": "amiedang offline.Maaf ntuk etidanyamannny"
+  "e_ae_sentpassord_emal": "Kmtela mengirimkanesan kemal da mengai panda untu meguah kta sandianda. Apaila anda tiakmenim esan tersebut, iahkan dcob ebali sii."  "We_have_sentregitratioemail":Kamtameirikan psn ke eail anda untu melaukn knfrmiterdap penaftarnyang ilakuka. pila anda id merimpntersebt silahka dcbakembalii sni",
+  "Webho_UL" UbHoo",
+ ehooks" "Webhoks",
+  "ebRC_Enbl_Chnnel"Hiupkn untu hannel pbli
+  "WebRTC_nable_Direct": "Hidpkan fasilitas esnlangsun",
+  "WebRTC_ne_rivate": "HiupkanCannel rivat"
+ "WebRTC_Serrs": "STUN / MENHDUPAN ever
+  "WRTC_evers_Descrition": "Dta STN dan MENGHIUPKAN server diihk denga oma. br/ ename,asword dn por angdiperolehan dalam format `uename: password @ etum: hst pot` atau` urnme:paswor@rana ht: prt`., "Wlome": Selaat Daang <em>%s</em.",
+  "Welome_to_the: Seamataag i ",
+  "Wdo_yu_wn_toreport_question_mrk: "napa Anda ingimelaporkan?,
+ will_be_able_to": "akan dpa",
+  "Yes":iya ih",
+  "Ys_clear_all "Yabersihka sem!",
+ "es_deee_i":"Iya, hapus"
+  "Yeshideit": "Ya, meyembnikanya!", "Yes_leve_it""Ya, barkan!",
+  "Yes_mute_use": Y,isu peggna!",
+  Yes_rove_user":"Y,menghapus pnggna!",
+  "Yu" "am",
+ "you_r_i_pree_modof" "Anda erada di dl modprview untuk hannel #strongroom_name__/trong,
+ "Yo_are_logged_n_s":"Kamumauk ebagai,  "u_are_not_authrzed_toiew__pa" "Anda tdak memilii izin untu melhahalan ini.",  Yo_can_chagea_iffern_vatar_to": "Ada dat mngantiavatar diunakan untuk mngirim ri integasi.",
+  "Yucan_sarch_usigRegx_eg":And dapat enar egnanRegE. msalna,  "ou_can_use_n_emoi_as_aat": "Anda ju dapa menggunakan emojibagaiavat.",
+ "Yu_can_us_webhookst_ely_ntegrae_ivechat_wih_ourM" "Andadapat mengguka wehooks denan mudahmeintgrasikanlivechadngan CM nda.
+  "You_cant_leavea_livechat_room_lease_uset_clsbutto": "Ada tidak biseinalknuanliveht.Silaan, guaka tombl tutup.",
+  "You_ae_bee_mutd": "nda telahirdam da tiakdapat berbcaai angan ni"
+ Yu_ave_not_verifie_your_eail":"Andabel memveifka mail Anda.",
+  "You_hve_uccesfuly_unsubscried" "Andtelahberhasl renti berlangganan riDaftar Mailingkami.",
+  "Youneed_onfrm_email": Eai na harus dinfirmasi terlebih dahuuuntk dapt elakulin!
+  You_einstall_nextesinto_allow_scrn_shrin Anda perlu eninsa ekstens ntuk memunkinan berbag layar", Yoneeochange_ur_pasd": "An perlmengubhan",
+ "You_ned_to_tyeinyour_passod_n_odertodo_this" "Anda prumengetikka asswordAda untuk meakn halii!",
+  "You_need_to_typ_in_our_sernam_inoder_t_o_this": And arus menetikkanna pngna nuk melakukan halin!,
+  "ouned_o_verifi_yo_emal_address_to_getnotcatios: "nda er vrifiy alamat eailAndauntk mendapatka pemetahuan",
+  "Yu_neto_rie_smeti" "An pl untk eulis sesutu!"
+  "Yu_shoud_form_one_url_at_leat": ndahaueentukan stidaknyasatu UL",
+  "Youshouldname_it_toeaily_mnage_ourineratns "Anda r nama tu utuk denga udhengell integrasiAnda"
+ "You_wll_not_be_be_tcovr" "ean itida da dipukanembali!",
+  "You_wil_ot_be_abl_to_coer_fle":Ana tidkaka dapat memlihknfile ni!",
+  "Yuwont_reeive_emal_notfiatis_becus_ou_ave_notveriieduemai": "Anddak akn menerimanotifikasi email krea dblummemeiikasi mail And.",
+  "Yr_email_has_been_ueed_for_sending": "Emai Anda tlah antriuntuk mengirim",  "Yr_etryhasben_deleted: "Enry tesebut teah diapus",
+ "Your_file_has_eendeleted: "File Ada elh diapu.",
+  Your_mil_wa_sen_to_s":"email Anda ikrm k%s"
+  Your_passod_s_rong": "psswodAnda sal!"
+  "Your_pushwassen_to_s_ves": "push dikirm ke% s prangka"}

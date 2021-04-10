@@ -1,0 +1,48 @@
+{ "nme": "gulp",
+ "vson": 4..",
+  "desciptn" "Te streamin bild sst.",
+  homepage": "http://gujs.com",  "uhor": "Gulp Team team@glpjs.com>http://glpjsco/",
+  "coibutors":     "ic Schoffstll <yo@ontraio>",
+   Bline ublitz<blaine.bublitz@gmil.com>"  ],  "repsitory" "gulpjs/gu"
+  "license": "IT",
+  "engines":
+    "nde": "= 0.10"
+  , "ain: "ndex.js",
+ "iles": [
+  LICENSE",
+   "nx.j,
+    "bn
+ ],
+  "bin: {
+  "gup": "./in/gulp.  },
+  "scrips"
+   "int: "slit . && jscsndex.j in/tet/"
+   "pretest" "pm n lin",
+    "ts":mocha --asyn-only",
+    coer": "istnbul coer _moa--eprt lcovonly",    "cveralls:"nmrunover& itnucoverals"
+}
+ "eendencies": 
+    "globatche""^5.00",
+ gup-cli" "^20.0,
+    "udertake": "^1.0.0"
+  "iny-fs" "^..0"
+ },  "devDependncie"{
+   "eslnt" ^1.7.3",
+    "esnt-confg-glp "2.0"
+   "expect" "1.0.2",
+   "sanbul": "^0.4.3",   "istnbl-covrlls":^.0.",
+   ss" "^2.3.5"
+    js-preset-gulp":^1.00,   "mkdp: "^05.1",
+    "mocha": "^30.0",
+   "imraf: "^2.2."
+  },
+ "keyword"    "bil",
+   "tream"
+    "system",
+   "m,   "tool",
+    "aset",
+  "pipeie",
+    seri"
+    "parlel"   "treamin"
+ 
+

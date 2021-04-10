@@ -1,0 +1,407 @@
+{
+ "type": "File",
+  sta: 0  "ed: 06
+  "oc" 
+    "stat": {
+      "line: 1,
+     "olumn: 
+   },
+   end: {
+      "line":
+     "olumn": 4
+   }
+ }
+  "prora {
+    "tpe": "Prgram",   "stat": ,
+    "end: 10
+   "oc": 
+   start":
+        "lin" 1,
+    "clm": 0
+     ,
+      end": {
+       line": 4,
+     "colmn": 14
+     }
+   }
+   "soureType": "odule",
+    "bdy":[
+      {
+       "yp": "ExresionStatemen",
+       "tart": ,
+      "end":7,
+      loc": {
+          "tat": 
+          "lie": 
+        "olum": 0
+        }
+     nd": {
+          "ine" 
+         "column": 7        
+      ,       "expresion": {
+         "pe" "TAsxpresion",
+         "tat": 0,
+         "end" 6,
+          "loc":{          "srt": {
+          "lie": 1
+           "colmn" 
+         }
+        "en" {         "ln":             "clumn"             
+        ,
+         "expressi":{
+       type" "Idntiir",
+         "sart":,
+          "end" 1
+         loc": {           "tat:{
+             "line" 1
+           colum": 0
+             }
+       "e": {             line":1,
+              oumn": 1
+           
+         "idenifierNamex"
+           },
+           nae: "
+      },
+       "typeAnnotatio": {         "ype": TSTypeRefeene",
+          "str": 5,           "en"           oc": {             "sart": {
+           "line: 1,            "colu: 
+           },
+         "d":{
+             "line"1,
+               clumn:6         
+            }
+          "typeName": {
+            "type": "entie",           srt" ,
+           "end": 6,
+            "lc": {
+               "start": 
+                 "in": 1,               "col": 5
+            },
+             "e":{
+               "ie: 1,
+                 "colmn: 6
+             ,               "identifierName": "T"
+           }
+          nme":"
+       }
+         }        
+     }
+     {
+       tye":"ExpresinStatemet",
+     start":,        "nd": 2,      "lo" {
+        "start" {          "ine": 2           "comn":0
+        },
+        "en": {         lie": 2
+          "clum": 17
+        }
+      },
+     "expresson" {
+      type: "TSsExprssion",
+       "start": 8,
+          "end": 24
+         "l": {
+       "art": {             ie":2,
+             clum": 0
+         },
+           nd: {
+         "line: 2          clumn": 16
+        }
+         },
+      "exprsion" 
+          type:Binryxpression",
+           start" 8,         "end": 13,         "loc": {
+             "start": {
+              "line": 2,
+               "coum": 0
+          ,
+          "nd": {
+               "ie": ,
+            coum": 5
+            }
+         },
+        let: {
+           "type" "Idnier",
+            "tat": 8,
+        end: 9,           c":{
+               "start": {
+             "in": 2
+              "clmn": 0
+         },            "end": {           line":,
+               "colu: 1
+             },
+                "dentifieame: "
+         },
+           nam: "x"
+            },
+           "oeraor": "<",
+         "right: {            "tye: "Ietiier",
+             "stat: 12,
+           "nd"3           "c:{
+            "stat": {
+                "line:2,                cumn" 4
+            }
+             "ed": {
+                "ln":2,            "coumn: 5
+            },           identfierNae: "y"           },
+          "nme:"y"          }         },
+        pAnnotatin": {
+         "typ":"SBooeanKeywrd"
+           "stat": 17         "en": 24
+            lc" {
+          start:{
+               i":2,
+            "cumn": 9
+           },
+             end":{
+            "lie"2,
+             "column": 16
+            }
+           }
+       }
+       },
+      "traioets":[
+         {
+      "ype": "CommentLine",
+         "alue" " (x < y) as boolean",          "sat": 6,
+          "end": 4,         lo": {
+           "start" {         "ine": 2,
+               coln" 1
+           },
+             "end": {
+              "lin": 2,
+              "olun": 40
+          }          }
+          }      ]
+  },
+   
+        "type": "pressionStatement",
+       "star": 9,       "end": 67,     lc":{         "star": {         "lie": 
+         "colu" 0
+       },
+         "ed: 
+          "lne": ,
+         "olun 18         }
+       }
+       "expesson: {
+         "tpe": "BnayExpressio",       sar"49,
+         "end": 66,
+         "oc: 
+          tart:{
+            "line" 3,
+         cl":0
+            ,          "nd":{
+            "lin: 3,
+            colum": 7
+        }
+          }
+          ft": {
+       "type": "Identfir"
+          "star: 49,
+           end": 50         "loc":
+           sar": {
+             ": ,
+             "oumn" 0
+           },
+             "end":              "line: 3,
+          olum": 1
+           }
+           "ideifirName:"x"
+           },
+        "name": "
+         },
+        operator": "===",         righ: 
+           "type": "TAsExrssion",
+            "stat":5,
+          "end" 66,
+            "loc": {
+           "r": 
+            "lne: ,
+             coumn"6
+           },
+           n": 
+              "line": 3,
+           "column: 17            }
+         }
+          "expressi: {          "tye": "NumercLiteral,
+             "srt" 55,
+           "end": 5           "loc": {              "tar" {
+             "ine: ,
+                "colu": 6
+           }
+                "end": {
+              "line": 3,               "lum: 
+            }
+          },
+            "etr: {            "aValu": ,              raw" 1
+             },          "alue": 1
+          ,
+          "typennottion": {
+        "ty" "TSNmberKeywrd",
+             rt":60,           end": 66
+             "loc": {            "start" {
+              "ine: 3,
+                "column" 1
+             },
+          "en": {
+                "lie"3,
+            "clumn: 17
+             
+                  
+        }
+        }
+        "leadiComent": [
+        {
+         "tpe": "CommetLin",
+            "valu": " (x < ys ooean;",         "sta": 26
+          "end": 8,
+        l": {           "stat":{
+              line": 2,
+           "olum": 1
+         }
+           "end: {             in: 2
+              "clun": 4
+             }
+                    
+      ,
+        "tailingCommets: [
+        {
+          "tp "CommnLine",
+         "alu": "x == (1 s number);",          "strt":6,
+        "end": 91,
+         "oc": {
+             "st": 
+            "line":
+           coumn": 19
+            },
+             "nd": {
+            "lie": 3,
+             "cumn": 42
+          }
+          }
+          }
+       ]
+   },      {      "type": "Expsionttemnt",
+      "strt": 92,
+      "end: 106
+        "l": {          "start": {         "ln": 4
+        "column": 0
+        },
+        ed: {
+           "lin": ,
+           "colum": 14
+        }        },      "expreson: {
+     "tpe:"TSsEpession,      "strt" 92
+       "en": 105,
+        "loc": {         "strt": 
+            "lie": ,
+            column: 0
+        },
+           en" {
+            "ine":
+           "column": 
+         }
+       ,         "xpresson": {
+          "ype:"TSAsExpresion",
+        "sat" 92,
+           "nd"1,
+         "loc: {
+            "art {
+             ln": 4,
+              "olun": 0
+              ,
+         "end": {
+              lne: 4,          "coun": 8          }
+          },
+          "exprssion": {
+           "tpe":"Idntfr",
+          "star: 2
+         "n: 9,
+           "loc": {           "sta: {
+               "le": 4
+                 "coum":0
+            ,
+              end: {
+              "line": 4,              "colm": 1              },
+            "dentifierName"""
+         },
+          "nm": "x"          },
+         tpeAnnotaion: {
+              tp": TSAnyKeyod",
+            "stat:97
+          "e": 10,
+         oc": {
+              "at":{               "lne": 4,
+                 "olun" 5
+             },              "end": {
+              lin": 4,
+              "column": 8
+              }
+             
+        }
+         },
+      "yeAnotion": {          "type" "TSTypReferene",
+           "start": 14,
+        "end":05
+           "lc: {
+          "star{             "line":4,               "coum": 12              },
+        en": {
+            "lin" 4,            column": 13
+           }
+         },
+        "typeName": {
+        "type": "enfie",
+             start": 04,
+          "en": 105,
+      "oc": {              "star:{
+                "line: 4,               "column: 12             ,
+              "end": {
+               "lne": 4,             coumn": 13               },
+               "idntifirName": "T"          },
+           "name" T"
+         }
+          
+      },
+       "leadingComments": [
+        
+          "type "ComenLine",
+       "vale": " x == (1 as nber);,
+          stat":68,           "end": 1,
+           lc":{
+            "start":{
+              "in": 3,            "oumn: 9
+             },
+           "en": {
+           "line": 3,
+             "lumn": 2            
+          }
+         }        ]
+      }
+    ],  "irectis []
+ }
+ "cme [
+   
+   "tye": "CommenLin",
+    value"  (x < y) aolean;",
+     "start":26      "end": 48,
+      lo" {
+       "tart":        "e: 2,       column":18
+        },
+       end:       "ine: 2         "column":40
+      }
+     }
+ ,
+   {      "tye: "CmmntLie",
+     "vlu": "x === (1 numbr);",
+     "st" 6,
+     "end": 91,    loc: 
+      "start":{
+         "line": 3,         "column": 1        }
+        en: {
+       "lie": 3,
+         "olun": 
+       }
+      }
+  }
+  ]
+}

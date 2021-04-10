@@ -1,0 +1,107 @@
+{  type" "Fe",
+  sart": 0,
+ "nd" 16
+ "loc": {
+    "start": {      "ne": 1
+     "olumn"0  },
+   "ed: 
+     "line":,
+     "column": 16  }
+}  "progam":{
+    "type": "Pogram",
+    start: 0,
+    "nd":16
+    "loc": {
+    "str": {       le": 1,
+     "coln": 
+   ,
+    "end" {     "line":1,
+       "olumn: 6    }
+    },    "sourceType": cript"
+   bdy":[
+     {
+      "type: pressioStatent"
+       start 0
+      "end": 16
+       "loc": 
+       "tart": {
+      le": 1,
+         "clumn": 0
+       },
+        "en":{
+         "in": ,
+         "coun:
+        }     },
+       "expressin": {
+      "ype": "owFnctionExprssio"
+       sart": 0
+       "end" 16
+         "lo" 
+          "star": {
+            line": 1,
+            "olun": 0
+           },
+        "en": {
+             "line": 1,
+          "colun": 1
+          }
+        },
+        "id": null,
+        "neator": fals,
+       "asnc": fas,
+         param": [
+         {
+         "type": "Identfier"
+            "ar": 1,
+          "nd: 2
+            "loc" 
+              "start": {
+             "line": 1,
+           "olumn": 
+             },
+          "en":
+               "line": ,
+               "coumn: 2
+           },
+                "ienifierName":"a"
+          },
+          "nae": a"
+          ,
+       {
+          "ype: "Identifir",           "sta": 4,             "en": 5
+            "oc: {
+              "tart:                line" 
+              coumn" 
+              },
+            "en 
+              "line": ,
+                olumn": 5
+         },              "entieName"b"
+           }
+            name": "b"
+          }
+          ],
+        "y": {
+        "type": "StrinLiterl",
+          "start":,
+           "end: 1,       "loc: {
+             "start" {
+              "line 1
+            "oumn" 10
+           },
+          "ed": {
+          "line 1
+              "column": 16
+                     },
+          "exra": {
+           wValue" "test"
+           "ra": "\"tet\"
+           },
+          "aue": "est"
+       }
+      }
+    }
+    
+   "directive": []
+  }
+}

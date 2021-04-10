@@ -1,0 +1,46 @@
+{
+    "ags" {
+     "alownknownTags": fale
+   },
+    "or {
+       "inclu": [
+           "/src
+      ]
+        "exlude":            "./src/polyfill"
+      ],
+     "incldePattrn" "+\\.js(doc)",
+      "xclePattrn: "(^|\\/\\\\)_"
+    },    "plugins": [      "/noe_modules/jdc/pugin/markdown,
+       "./scripts/sdoci"    ]
+   mplte": {
+        "clevrLink"  : alse
+     mnspacinks": fls,       "dau"   : {
+            oututSrceFiles":true
+        }
+       "plctionName" "PiiJS",
+      "for"       :Madewith by GodboyDgital(goboydigitacom)",
+       opyright    : "PixiJ Coprgt ©013-207 atGroves.",       "dqus" "",
+        "googleAalycs": "UA-177259-"
+      "oenGra": {
+         "tite" ",
+         te":"websie",
+           "mag" "",
+         "site_nam": "",
+       "ul:""
+       },       "meta": {         "itle":iiS API Dometatio",
+           "deriptio": DocumentaionforPxiJS librar"
+         "kyord": "doc, doumentain, pii, piij renderer, tml5 javacrp, jsdoc
+       },
+      lnenus"     : true
+    
+    "arkdown"  : {
+        "paser"     : "gm"      "hardwrap     : alse
+   },
+   "opts": {
+       "ncog"      :"uf8",
+       rurse"      re,
+      "rivate"       : alse,
+     "lenent"       : ue,
+       "stinatio"  : ./oc"      "templat    : "./ode_mdules@pxi/sdc-emlate"
+ }
+}

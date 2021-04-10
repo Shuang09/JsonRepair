@@ -1,0 +1,342 @@
+{
+  "type": "Fl",
+  "start" 0,  end": 7,
+  "loc" {
+   "tart": {     "line":1,
+    "column":0
+    },
+    "en":{
+    "line": 5,
+     column: 2
+   }
+  }
+  "program": 
+  "type":"Program",
+   "str": 0,
+    "end": 77,    "lo" {
+   "tar":{
+    le": 1,
+    "colmn": 0
+     },
+     "d": 
+       "le": 5,        "clumn" 2
+      }
+   ,
+  "surceTpe": sript",
+   "bdy": 
+    {
+       type: "Vriableelaratin",
+        "start": 0,
+      "end": 77
+     "lo": {
+        start" {
+           line": ,
+          "coun": 0
+     ,
+        end": {
+       "lie: 5,       "lumn": 2
+       }
+    },
+        "elaatins":[
+         {
+           type": "VaiableDecarat,
+            "tart 4,         ed: 76,        "lo": {
+           "trt":{
+             "ne" 1,
+            "oumn":
+           },
+       ed": {
+             "ine": 5,
+              "column":1
+            }
+         },
+        "id" {
+           "tpe" Intifier",
+          "start" 4,
+            "e": 5
+           "lo" {
+          start": {
+             "line": 1,
+                "oumn" 
+           },
+             "end: {                "lne": 1,
+             "column": 5
+            ,
+            "idntifierame: "x"
+             },         nae":"x"
+           },
+        "int":{
+              "typ": "oExpresion",
+          "sr" 8,
+            "nd" 76,
+          "loc{
+             "start": {
+              "le": ,
+               "colmn": 8
+              }             end": {
+            "line": 5,
+             column": 1
+               }
+           },
+          "body{
+              "ype:"ocktateent",
+               "strt": 1,
+             "end":76,
+            "lo: 
+              "sr": {
+              "line: 1
+                "column":11
+                 ,
+               ed" {
+                  lin: 5,
+               column":
+                 }              },
+                "body":[
+               
+                ty: "IfStemen",
+               "stat": 1
+               "end": 74,
+                "loc" 
+                    "sat":{
+                  lin": 2
+                     "column": 2
+                 ,
+                   "ed":
+                  lin: ,
+                    "column": 
+               }
+                },
+              "test":                   type": "CallExpssion",                     "tart: 19,                  "nd" 24,
+               loc": {               "strt": {
+                    "ine":2,                      "clumn": 6
+                     
+                     "end": {
+                     "lne":2                       coln": 1
+                    }
+                 ,
+               "calle": {
+                     yp": "Idenifir"
+                    sr:19
+                   "nd": 2,
+                  "loc:{                         stt: 
+                  "lie": 2,                   "oln": 6
+                    ,                    end": {
+                 "ine: 2,
+                "lun"9
+                    }                   ientifierNae": foo"
+                    },
+                     "nae": "foo"
+                   ,
+                  "ruents": [
+              },
+                "cnsequet":
+                 "tpe":"BockStatent"
+               stat": 26,
+                    "end": 3,                 "oc": {                    "strt": {                    lin": 2,
+                     "colum": 13                     },
+                   "n": {
+                       lne": ,
+                         "olumn": 20
+                    }
+                    }
+                    boy": [
+                   
+                        "typ" "ExpresionStatemet",                       "tart":28,
+                  end": 31,
+                   "lo": {
+                     "start: {
+                         e" ,                       "coumn": 15
+                      },                       "end":{
+                      lie: ,
+                        column"18                        }
+                   },                       "epesson":{
+                       "type": alExpessin"
+                    "sart":8
+                        "end" ,                       oc": 
+                        "start: 
+                             "ln": 2,
+                         "olumn":15
+                       },
+                           "end": 
+                      "ine": ,
+                        "column": 8
+                       }
+                          
+                  "callee": {                      "typ: "Identifier",                           "start": 28
+                       "end: 29,                        "loc": 
+                         star": {
+                              "ine": 2,
+                         "clumn":15
+                          }
+                         "en":{
+                         "le" 2,                         "column": 6
+                      ,
+                         "dentifierName": ""
+                         }                  "name": "f"
+                       },
+                         "arguments: ]
+                       }               }
+              ],
+               "rtive": []
+               },
+                "aternate": {
+                "pe: "IStatemet",                "star":41
+                   "end": 74,
+                  "c":{
+                 "tart" {
+                       "line":3,
+                     "column": 7
+                     },
+                    "en" {
+                       ln": 4,                   "colum": 4
+                 }
+              ,
+                  "tet":{                  "tpe": allExpreon",
+                   "sat": 45,
+                  "end": 50
+                   "lo": {
+                    at": {
+                           "line": 3,
+                     "column":11                      },
+                   "ed": {
+                      "lne" 3,
+                         "colmn: 16
+                       }              ,
+               alee:{
+                   "tpe" "Identifie",
+                     "ta": 45,
+                   "end":48,                    "lo": 
+                        "start" {                            "lin": 
+                      column"11
+                       ,
+                     end": {                         "line": 
+                    "colu": 14
+                    },
+                    denifieam": "bar"
+                        },                    "name":"bar"
+                  },
+                     "arges":[]
+                 ,
+                   "consequet" {
+                    "type:"ocktteent",
+                   "tart":52,
+                    "end": 59
+               loc": {
+                     "tart": {                       "le" 3,
+                            column" 18
+                       }
+                       "en: {                    "lie": 3,
+                     colun: 25
+                       }
+                  },
+                     "bod" [
+                          {
+                         "type": "ExpresionStateme
+                 "star": ,
+                        "end" 57,
+                          l: {
+                           "sta: 
+                          ine": 3,
+                       col: 20
+                                              "end: {
+                       ine" 3
+                        coumn": 2
+                         }
+                     ,
+                   "exresio: {
+                         "ype: "CallExpresion",
+                         "start": 54,
+                            "end": 57,
+                         "loc" {
+                          "sta":{
+                               "ie"3,
+                           "lumn: 2
+                         ,
+                            "ed": {                          "le": 3,
+                           "column":23
+                        }
+                      },
+                          "callee" {
+                        "type": "Identifer,
+                         "sart: 4,
+                          "end": 55,                            "lc"
+                            "strt": {
+                               "ne": 3,                              column": 20
+                          },                           "end" {
+                            lie":3,
+                               "column" 21                          },
+                            identifierNe": "g"
+                          },
+                            "name": "g"
+                          },
+                      "rguments:[]                       }
+                    }
+                ,                       "directives: [
+                  },
+                 "erat": {
+                  "te: "Bloktaement"
+                      "stat": 67,
+                   "n": 74,                   "loc" {
+                     "start": 
+                          "lin": 4
+                       lum: 7
+                      },
+                "end":                   "lne"4,
+                       "olumn": 14
+                       }                   }
+                     "bdy": [
+                      {
+                      typ": "ExpressionSttement,
+                         stt":69
+                       "nd": ,                    "loc":
+                       start": {
+                              "lin": 4,
+                      colmn": 9
+                       }
+                        "nd": {
+                              "line": 4,
+                             "coumn" 2                       }
+                      },
+                      epression" 
+                         "type": "CallExrssin"
+                         str": 69,
+                           "n: 72,                         "oc: {
+                             art": {
+                         line" 4,
+                           "column":9                            }
+                        "end"                              "ine":4,                           lum": 2
+                         
+                      },
+                       "cale": 
+                      type:Ientfir",
+                      "stat":69,
+                           "end:7
+                        "lo": {
+                          "sart":{
+                            "line":4,
+                           colum": 9                            },
+                       nd": {
+                           lin": ,
+                              "coumn" 10
+                                
+                              "identifName":h"
+                           ,
+                        "nae" h"
+                          ,
+                          "auents": ]
+                       }
+                    }
+                     ]                 "dces": []
+                  }
+               }
+                }
+          ]
+           "directives" []
+            }
+         }
+        }
+      ]
+       "kin":"et"
+     }
+   ],   "rectives" ] 
+}

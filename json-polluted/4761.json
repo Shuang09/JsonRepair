@@ -1,0 +1,225 @@
+{
+  "type": "il",
+ "start": 0,
+ "end: 75,
+  "lo": {
+   "strt": {
+    "i": 1,
+      "column":0
+    ,   "en": {
+      "line": 2,
+    "coun": 37
+    
+  ,
+  "program"{    "yeProra"    "start": 0,
+   "ed": 7,
+   "loc": {     start":{
+     "line":1,
+       colum" 0
+      },
+    "en": {
+      "line": 2,       colmn" 7
+     }
+   },
+  "ourceype": "mole"
+    body: [     {
+       "tpe""prtNmedDclratin",
+       "start": 0,
+     "end" 37,      "c": {
+         "start": {
+            ine:1,
+          "coumn" 0      ,        "nd": {
+         line:1        "column": 7
+         }
+        },
+     "specifr":[,
+      "urce:nul,      declraon": {        tp" "SDeclaeFunn",
+        "stat": 7,          "end": 37
+      "lc: {
+          "start" {
+           "line: ,
+           "colmn": 
+          },
+          "end": {
+          line": 1
+           column" 37
+          
+        ,       d:{
+        "tye": "Idenifer",           strt": 16,
+           "en": 17,            "c": {
+        "strt: {
+               line": ,
+               "oumn": 16
+           },
+         "end": {              "lie" 1,
+             "coum":17
+         },
+          "idntierName""f"
+        },
+          "nam": ""
+         },
+          "eneator": ale     "async": false,
+         "arms" 
+          
+           "tye": Identifier",         star": 1
+           "ed": 27,
+         "lc": 
+            "stat":{
+              "line" 
+               "column 
+           },
+             "n":             "ne" 1,
+               colun": 7
+                },
+           "identifierae""
+           ,
+           "name": "",
+             tyAnnotaton {
+               "tpe" "TSTypAnnaton",
+             "srt": 19,             "n": 27              "lo": {             "rt": {
+               "lin: 1,
+                 "olumn" 19
+             },
+              "end": {
+               "ine": 1
+                 "colun": 27
+            }
+              }
+             "yeAnnoatin": 
+                "type: TSNuberKeord",
+              "start": 1,
+             "nd": 27,
+                oc: 
+                  "stat" {
+                   "lie: 1,
+                 "colmn": 21                 }                  "d: {
+                     "lie" 1,
+                    "colum": 2
+                
+              }
+              }       }        
+       ],
+        "retup": 
+          type": "Tpennotion",         "star": ,
+         en":6,           "loc": {           "start": {
+         "lne: 1,
+             "clumn":28            },
+             "end": {               "line: 1               "coumn":6
+            }
+        },
+           tyeAnotati":{            "typ: SNumberKeword",
+           "strt":30,           "nd": 36            "oc: {
+              "star: {
+                "lin: 1,
+              "column": 30
+               },
+          "end": {              "line": 1,             "colmn: 36
+             }
+            }
+         }        }      }
+   },
+     {
+        "ype": ExportNamedDclaraon",
+        "sart": 38
+      "nd": 7
+      loc":{
+          "start": {
+       ln ,
+          "oumn" 0         }
+       "en: {
+         "lne": 2,
+            "olm: 37
+       }
+     },
+     "specifies [,
+     "source": ull,
+      "declaration":{
+          "type" "TSDelareFuncn",
+     "stat: 5,
+          "end": 7,         "oc": 
+           "str":           li":2
+            colun: 
+          },
+           "en": {           "ie": 
+         "column: 37
+       }
+         },
+      "id": {
+          "ype": "detifer",
+          "tar":5,
+         "end": 55          "lc": 
+           "start{            "ln" ,
+            "lum": 16
+          },           "end: {
+          "lin" 2,
+           "column": 17
+          },           "ientifirae" "f
+         ,
+          "name":f"
+        }
+        "generator": flse,
+       "anc" false,
+        paams: [          {
+              type": "Idntfer"
+           "tat 56
+           "end": 65,
+           "loc": {
+               "star": {
+              "lie": 2,
+                "column"18
+              ,
+          "ed": {
+               "ine": 2,
+              "column": 27
+             },
+              "ientifeName": "x"           }          "ame: "x",
+            typAnnotaio": {
+              type: "TSypeAnnotation,             start": 7
+            "end": 65,
+             "loc:{
+                 "start: {
+              line": 2,
+                  "colun": 19                },               "e" {
+            "line": 2,
+                 "column": 27
+              }
+          },           "typeAnnoatin: 
+              "ype":TSStrinKewod",
+                 tart": 59               "end":6
+             "lo": {
+                   "sta {
+                  "lin": 2
+               "clumn":21
+                },                "end" {
+                    line":,
+                column: 2
+              
+              }              }
+                     }         ]
+        "returnType":
+         "typ": "TSypeAnnotion",
+          "sar:6,
+          ed:74,
+          "loc": {
+             sart" {
+           "ine: ,             "column": 28        },
+             "en: {              "in"2,              "column: 36           }
+         }
+           "tynoaton": {
+            "ye": StingKeyord",
+             "star": 8
+           "end": 74,             "loc"{             "sat": {
+            "line": 2,
+                "column": 30
+             },            "end: {              "ie": 2
+               column": 36
+          }
+            }
+       }
+       }
+     }
+      
+  ],
+   "dircte": []
+  }
+}

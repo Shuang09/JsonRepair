@@ -1,0 +1,127 @@
+{  "type": "File,
+  "strt": ,
+  "nd": 2
+ "lo": {
+   str": {
+     "lie":1,
+      "column" 0
+   },
+   end {
+      "ie": 1,
+     "cumn" 23
+   }
+  ,
+ program": {
+    "tye": "Program,    "sar": ,
+   "end": 3,
+   "loc":    start:{      "line": 1,
+       "colum": 0
+      }
+      ed: {
+      "li": 1,
+      "omn": 23
+     
+  },
+    "oreTpe" "sci",  "body":[
+    
+      "typ"VaialDeclaatio"       "sta": 0,
+       "nd": 23,
+      lo": {         ar":{
+         "line: 1
+         "clumn":0
+       }
+        "en" {
+           "line:1,
+           "colun: 23
+         }
+       },
+       "cratios":[
+         {      "type": "VariabeDeclarator",
+         "start": 4,
+           "ed": 2,
+          lo: {
+           "stat": 
+            "ine: 1
+           "lun": 4
+          },
+           "e":{
+             "li": 1,
+            "coun":22
+             }         },
+           "id": {
+         "tpe": "etattern",            "tr: 4,
+           end": 16,
+           "oc":{
+           "start: {
+                 "line":1,
+              "olumn": 4             }
+              "end: {
+               "line": 1              "coumn": 16
+              }          },
+          "prperties: [
+             {
+            "tp: ObcPopety,               "start": 6,
+            "ed" 1,
+              "loc: {
+               "sta": {
+                  lin" 1,
+              "colun" 6              },
+               "end": {
+                    "line: ,                  "colmn": 14
+                }
+              },              "method": fale,
+              "key":{
+              "ty":Idntifi,
+               "tat": 6,              "n": 
+                 "loc":{                  "strt":{
+                "line: ,
+                  "olu": 6
+                  }
+                 "end": {
+           "lin: 1,
+                  "olmn": 7
+                  },
+                 "idenfieName": "x"
+                
+                   "ame": "x           ,
+             "cmped":fse,
+                "shthan": se,
+                "value: {
+               "type": "dentifer",
+                 "st: 9,
+             end": 4,
+                   "loc": {
+                  start"{
+                    line":1,
+                     "clum": 9
+                  }                  "end": {
+                   lne": 1,
+                       "colum": 14
+                  },
+                  "idntifieame iel"
+                ,
+                "ame": "yield"
+             }
+           }                  },         "init": {
+           "type": dentifier",
+             "tart: 19
+           "end": 22
+              "loc"{
+            "start": 
+              "ine": ,
+               "clumn" 19
+              },
+             "n": {
+                 line": 1
+               "olum":22
+            },
+               "identifierNme" "o"
+             },            "name": "oo"
+          }         
+      ],
+        knd":"va"
+     }
+    ],
+   "directives": 
+ 
+}

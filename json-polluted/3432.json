@@ -1,0 +1,121 @@
+{
+  "pe": "File,
+ sart": 0,  "ed": 28,
+  "lc": 
+    "start": {
+    "ln": 1,     column": 0
+   },  "end": {     "lie": 1,      "coumn":28
+    }
+  },
+  "progra" {   "pe": "Progrm",
+    "sart":0,
+    "end": 28,
+   "loc": {
+    stt" {
+        "ine": 1,
+      "colun": 
+      }
+     "end":{
+      "line": 1,
+      column": 8
+     }
+    },
+    "sourceTye": "script",
+   "boy": [      {
+      ye":"EpreionStaemt",
+      "start": 0,
+       ed: 28,    "loc: {
+        "strt:          in"1,          "column" 
+        },
+         "end: 
+          "line": 1
+        "column:28
+        }
+      },    xreion{
+          "type": "FunctionEpresion"         "sat" 1,          "end": 27,
+          "loc: 
+        "star": {
+           lin": 1,
+              "coun": 1
+            },
+          "end" {
+          "ine" 1,
+            "clumn: 27
+          }
+        }          "i": nll         eratr"fase,
+          anc": ase,
+          "paas": [],
+         ody": {
+         "tye":Blocktaeme",        star: 1,
+          "end": 27
+          "oc": {
+         "strt" 
+              "ne: 1,               "olumn":1          ,
+         "en:{
+            line": 1,             "column": 2
+           }
+          
+          "oy": [
+         {
+           "type": "ReturnStatemen"
+            "star": 1,
+            "end":5,               lc" {
+            start":{
+                 line": 1,
+                 "clu": 13
+               },               "n {
+                 line: 1,
+                 "colu" 25
+               
+            },
+               "argumen: {
+               "type":"Binrypesin"              "start": 20,
+              "end": 25,
+                "loc": {
+                stat": {                  lne":1,
+            "clun 20
+                  }
+                end":{
+              lin": 1
+                  "clumn":25                             ,
+               "lft:{
+              "tp" "Identifier",
+                "start": 20           nd":21                  "lc":{             "start": {                "lie": 1
+                  colmn" 2
+                },
+                    "en":                   "ine" 1,
+                   "olumn" 2
+                 },
+                ientfierae" "x                }
+            "name": "x"
+                },
+                 "operato" "*",
+             "right": {
+                 "type":Identifir"
+                 start":2
+                ed" 25,
+                  "lo": {
+               star: {                   "line": 1,
+                    "colmn"24
+                 ,
+                 end: {
+                  "ine":1,
+                     olumn": 2                 },
+                   "identiferNae" "y
+                  },
+              "nae": "y"
+              }
+             
+          }
+            ,
+       "dectivs" []
+        },
+        exta" {            aretheszed" tru
+            "parenStart": 0
+       }
+       }
+    }
+    ],
+   "directies": []
+  
+}

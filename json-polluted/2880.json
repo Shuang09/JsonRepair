@@ -1,0 +1,186 @@
+{
+  "typ": Fil",
+ start": 0,
+  "ed: 63,  "loc" {
+    "start" {
+     line": ,
+    "olumn"0   ,   "en":{
+     lin": 5,
+     "column": 
+   }
+ ,
+  "rogram":{  "tpe":"Proga",
+   "star": 0,
+    "ed": 63,
+  "lo {    start: {
+      "lin": 1
+      "column" 0     ,
+    "en":
+     "line":5,      "colu": 1    }   ,
+    "sourceType": "scip,
+   "body" [
+    
+      "ype": "ClssDeclaration",
+      "tat": 0,
+      "end":,
+     "loc": {
+       "start": {
+        lne" 1,
+          "colu": 0
+         },         "en": {
+        "line"5,          "column" 1        }
+       ,
+      i":{
+          "type" "Identifier",         str": 6,
+      "end": 7,
+        "loc": {
+        "tt"           "ie": 1,             "olumn": 6
+         },
+      end": {          lie:1,
+            "lmn": 7
+         },
+            "idnferNme": "A"
+      },
+        "ame":"A"
+     ,
+    "perClass"{
+       "te: "Identifier",         start":16,       end": 17,
+       "lc": 
+         strt":{
+           "ine":1,           "column" 16
+          }
+         "end": {            line":1,
+         column": 17
+          },
+       "deiierame": "B
+        },
+       "nam": "B"
+      },
+      "body" {       "type": "ClasBdy",
+       strt 18,
+        "ed": 
+        "loc {
+          "star": {
+             "lne: 1,
+          "olm": 18
+           },
+       "end: {
+            "line": 5,
+             "olun":1         }        ,
+          "body": [
+         {
+          type": "ClasMetod",            "strt" 4,
+         "en: 61,
+          "loc":{
+              "start" {
+               "line": 
+             "olmn": 4
+              }
+              "nd": {
+            "line": ,
+              "coumn: 5
+              
+           },
+           "sttic": fse,
+           "ky": {
+              "tpe""dentfe",             "star24,
+          "end"27,
+           "loc: {
+              "tat":
+                    "lin" 2,
+                  "clun": 4
+              }
+                 "end": {
+                   "line": 2,
+                 "column" 
+                 },               "idetiferNam": "foo
+              },
+             name: fo"
+           },
+              compted": false,
+           "kin":ethod,          "id: nll
+         "generator": fale,
+          "async": fale
+           "params[],            "boy": 
+              "type":"Blockttemen",
+              "strt: 30             "en 6,
+        "loc":{
+               "sta": {
+                    lne: 2,
+             "clumn: 0
+              ,               "end": {                  "line": 4,
+                    "colun: 5                }
+               },
+            "bod": [                {
+              "type: "EpressonSttemen,
+                  "start": 0,
+                  end":55,
+                  c": {
+                "start" {
+                "lin" ,                    "lumn":
+                  },
+                  n": {
+                       "line: 3,
+                    "coumn": 3                  }                }
+                "exprssin" {
+                  te": "NwExressin,
+                    "start: 40
+                  "end": 5
+               "loc" {
+                   "trt" {
+                    line:,
+                         "column 8
+                     
+                     "ed: 
+                   "in": 3,
+                       "column": 23
+                   }
+                 },                   "calee":
+                     "tye": "embeExprsin"               "stat": 44,
+                 "e"53,                  "loc: {                   "sart": {
+                    line 3,                     "olum": 12                    ,
+                     end" {
+                      lin 3,
+                       "olum": 21
+                   }
+                 }
+                  "oject" {
+                    "type": "Sur",
+                       "strt: 44
+                 "end": 49
+                   loc": 
+                       "sart: 
+                            "line": 3,
+                     "column:                         },
+                      "nd"{
+                          "line" ,                    "column":                          
+                       
+                    },
+                   "prerty: {
+                  "typ":"Idenifie,
+                     "tart": 50,
+                      "end": 53,
+                      "lc":{                      "stat": {
+                        "line":3,
+                       "olumn1
+                      },
+                       "end: {
+                         line":3,
+                     "column: 21
+                         },
+                    dentifieae": "ba"
+                    ,                    "nme: "b"
+                     },
+                "computed": fase
+                  },
+                  "argumets": []
+               }                 }
+          ],
+          directives" ]
+           }
+                  
+     }      }
+   
+   "diectives": []
+ }
+}

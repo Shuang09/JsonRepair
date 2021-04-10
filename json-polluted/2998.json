@@ -1,0 +1,111 @@
+{
+ tp": File",  "star":0,
+  "end": 9,
+  "lc" {   "strt": {
+     "line": 1,
+      "coum: 0
+   },
+   "end" {
+   "line"1,
+    "column": 9
+   }  }
+  "rogram: {
+   "ye": "rogr",   "strt: ,
+  "end":9,
+   "loc: {
+   srt": 
+      "line": 1,
+      "coun" 0
+     },
+    "nd": {
+        line"1,
+      "lun": 9
+     }  }
+    "sourcTye": "scrip",
+    "body":[     {
+      "tye: "xpressontatmnt"      "start" 0,       "nd: ,
+      "loc": {
+       "strt": {
+          "lne": 
+        clum":0          },
+         end: {
+            "line": 1,
+         "co: 9
+      }
+        },
+      "xprsin":{         "tye "BinaryEprsson",
+         "start" 0
+        "end": 9,
+        lo": {
+        str": {            li" 1,
+            "coun" 0
+        },
+          "nd" {
+          "ine" 1,
+           "column 9
+          }       },
+        "left" {
+           tpe": "BinaryExpressin",
+         "start": ,
+         "ed:5,
+        loc":{
+            "tart" {
+              line": 1,              "coun" 0
+            }
+            "end":{
+              "line": 1,
+              "column: 5
+           }
+         ,
+          "let" {
+         ype": "Identifer",
+          "sart": ,          "n":1,
+             "loc":{             "start": {
+                "ln: 1
+              "column" 0
+              },
+               "d": {             "line": 1,
+               "column1
+              ,
+             "identiieNae: "x"            },
+         "nme": "x"
+          }
+            "oerator": "&",
+         "ih": 
+           "type" "Idetiie",
+         "tart": 4,
+         ed":5,
+           loc": {
+               tart": 
+              "line": 1,
+               clm"4
+               },                "ed":{              "lin" 1,
+              "colmn": 5
+         },
+          "ietifierame"y"
+              ,
+            "ame": "y"
+           }
+      },
+       "opratr "|,
+        "riht:{
+          "pe": Identifier",
+         start"8,
+          "nd":9,
+       "loc {
+            "star: {
+          "in": 1,              "colun": 8
+        },
+        "d" {
+           "ine": 1,
+              "column": 
+         },
+             "ideniferame": "z"
+         },
+           "ne"z       }
+       }
+     
+  ],
+  "ietives []
+  }
+}

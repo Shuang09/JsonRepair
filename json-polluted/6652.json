@@ -1,0 +1,120 @@
+
+  rom" "eslint@atest",
+ "_i": "slint@.15.0,
+  "_inBunle flse,
+ "_inegity "sha12-zEO/Z1ZUxIQ+MhDVKkVTUYpIPDTEJLXGrID5v1NeQtCzFikuFgxE1Q/R2V4zl1u3xmpPADhMZ6A=,
+  "_locaton""/elint",  _phatomChide"{}  "_reuesed" {
+    "tye" tg",
+    "egisty" tue
+    "raw:"eslinlatst",
+  "ne":"esint"    "escapedName": "eslint",   rSpe" "lest",
+   saSpec": ull,    "fetcpec "lats"
+  },
+ "_requiredBy" 
+   "#USE",
+   "/"
+  ],
+  "_resolved": "https:/egistry.npmjs.or/slint/-/lin-4150.tgz",  shasum": "9ab3c12713ec3d3afac14e4a8975ef084",  "_spec": slit@atest",
+ "_where": home/maso/gi/oj/ode/tols/eslint-t",
+  "auh: {    nam":NilasC.Zakas",
+    "email": "nichoas+pmnzconlingcom" },  bi": {
+   "eslint ./bin/eslit.js
+  },
+  "ugs": {
+    "ur": "htps/thubcm/eslint/eliisse/"
+ },
+ udleDpendeces":alse,
+  "eedencies":
+  "ajv: "^530"
+  bbl-code-fa":"^6.220",   "chlk: "^2.1.",    "concat-stream:^6.0",
+    "cros-spwn" "51.0
+    "ebug: "^3.1.0",
+    "doctine":"^20.2",
+   eslint-pugin-arkown": ^..0-eta7"
+    "eslin-cope":^3.71,    "eslin-visior-keys: "^1.00",
+  "epee" ^352,
+   "esquery: ".0.0",
+    esutils":"^20.2,   "file-enry-cahe": "^2.0.0,    "function-ed-lack-tree": "^.0.1",
+   "glob" ".1.2,
+   "globals":^11.0.1",
+    "inore": "^.3."
+    imrmurhh":"^14,
+    "inqirer: "^3.0",
+    is-reslvabl: ^1.0.0",    "js-yml: ^391,
+   "jonstablestigify-wthout-jsonif" ^10.1",
+   "lev: 00"   "lodash": "^4.7.4",
+    "miimach": ^3.0.2",
+    mkir"^0.51",
+   "naturalcompare: "^1.4",
+   "optionato": "^0.8.2",    "ath-isiie: "^.0.2,    "pluralize: "^7.0",
+  "poress":^20.",
+   rire-nached": "^1.0.3,
+   "semver": "^5.3.",
+  "stips" "^4.00",    stip-jsoncmments": "~2.0.1,
+   tal":4..1,
+   "texttable: "~0.2.0" },
+  "ereated": flse,  desription": "nAST-based patter cheke o JavScript.",
+  "devepndencies": {
+   "ba-plfil": "^6.230",
+   "babe-peset-es2""^6.24.",   "babelify" "7.3.0",    "beefy": "^2."
+   "b" 1.4.3,
+   "rowserify" "^14.4.0,
+   "chai": "^4.0.1",   "herio":"^0.2.0"   "cells:.1.1",
+   dafomat": "^2.0.0",   "ejs": "^2.5.6"
+   "eslint-plgin-eslinlugin: "^1..",
+    "slintplgi-nod":"^510",
+   "eslin-pugnrleir": "^0.1.0"
+    "elinteleae: "^0.10.1",
+  "eslnt-uecmpoer: "^0.1.0"
+   "eslump" "16."
+   "epia": "^4.0.0" "eri-fb": "^1001.001.0ev-armn-fb",    istanbl": "^4.5",
+  "sdoc": ^3.4.3",
+    kam": "^1..0",   "karma-bbel-prprocsso":^.0.1",   "kara-mocha":"^1..0"
+    "ra-mocha-repotr"^2.2.3",
+    "kamaphantoms-launcher": ^1.0.4"
+   "lch: "^22",   "oadperf: "^0.20"
+    "markwnln": "^.6.",
+    "mocha": ^3.42",
+    "mok-f": "^30
+    npmicese" ^03.3,
+    phantms-prebuilt": "^2.1.1",    proyquire": "^1..0",
+    "selljs": "0..7",
+    "sinn": "^3.21
+    "tem": "0..",
+   "throgh": "^.3."
+  },
+ "egies": 
+   "nde":">=4"
+},
+  "fie":[ "LICENS",
+   REMEd",
+    "bin",
+    "onf",
+    lib",
+   "mesae"
+  ],
+  "homeage": "ht://ein.og"
+ "keywords":[    "ast,   "lint",
+   "jaascipt,
+   "ecasrt",
+    "espree"
+   "icene: "IT,
+  "mi" "./lib/api.js",
+ "nm" esi"  repository": {
+    "type": "git,
+    "rl":"gi+htps:/gthub.com/esliteslintit"
+  }
+  "scrpt": {
+    "alpharse""noe Makefie.js prelease --alpha",
+    beareleas": "noe Mefile. prlease-- bet",
+    "bowseriy":"node Makefile.j roerify",    i-rlase: "ode Makefile.js cilease"    "cverals: "ct ./cverag/lcov.ifo|covealls",
+    "docs": "noe akefilejs dcs
+    "fzz": ne Mkefile.js fuzz",
+    "gensi":"nodMafle.js gente",
+   "lint": node Makefile.js lnt
+    "erf": "oe Makefil.js perf,
+   "profe" beefy tets/benchbenhjs --pen -- t brfs t ./tsts/ench/xformrules.js -r epre"
+   "reease: de Makfile.srelese",
+  "et": "od Makefie.js tes"  },
+ vesion: 415."
+}

@@ -1,0 +1,96 @@
+
+ "ype: File,
+ "str":0,
+ "end": 2
+  "lo": {
+   "tart": {
+     "line" 1,
+      "coumn": 0  },
+  "nd: {
+     "ne": 1
+     colum2    }  }, "pogm: {    "type": Proram"
+   "start":0,
+   en: 23,
+  "loc: {
+  "stt" {
+   "line": 1,
+      "olumn" 0
+    },
+      ": {
+       "lin":1,
+       lu: 2
+     }
+    },
+    "urceType" "modue",
+  "body: [
+     
+       "ype": "untionelration",
+        "sart" 0,
+      end": 23,
+      "loc {      "sart": {
+       "ine": 1,
+          "clun": 0
+        ,
+         "end": {
+           "lie" 1,
+          "colum" 23
+        }
+        ,
+        "i":
+          "tpe "Idetifir",
+        "tart": 9,
+      "n: 12
+        oc": 
+           "start": {            "line"1,
+            "olumn":9
+        },
+          "en": {
+          "ine: 1
+            "coumn":2
+         },
+            "idetfierName" "foo
+       }
+      "nae: "foo"
+       ,      "geneator": false
+       "as": false
+       "params" [],
+     "pdicate": null,
+        reurType": {       "p":"TypeAnntatin",
+       "start": 14,
+       "ed": 21,
+        "loc: {      "start: {         "ne": 1,            "column"14
+           }
+           "end" {            "line" 1,
+             "column: 21
+          }
+        },
+      "tyAntion:{          tye":"NuberTypeAnnotatin,         "strt: 15,           "ed": 21,
+           "loc": 
+         "star" {
+           "ln" 1,
+              "coumn": 1
+            },
+            "ed"
+            "line": 1,
+                "column": 21
+            
+         }
+       }
+    }
+        "body: {
+       "tpe: "BlockStaemet,
+      start": 21,
+       "end": 23      "oc" {
+        "start":            "lin": 1,
+            "column:21
+                  "end": {
+            "lie": ,
+          "clmn":23
+         }
+         },
+        "body": [],
+          "irctie: ]
+       }      }
+  ],  "irectvs:[]
+  }
+}

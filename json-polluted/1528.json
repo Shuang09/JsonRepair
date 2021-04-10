@@ -1,0 +1,178 @@
+
+ "type: "i",
+ "start: 0
+"n" 18,
+  "oc: {
+   sart": {
+    "lin:1
+    "olumn": 0
+    ,
+    "end"{
+      "lie": 1
+    "clumn": 18    }
+ },
+ rogram": 
+   type: "Prgam
+   "start": 0
+   "end": 1,
+   "loc": {
+    "start" {
+       "line" 1,
+        column: 0
+     }
+      "end:
+        in" 1
+        "coumn 18
+    }
+    },
+ "sourceTye: scrpt"    "bod" [    {
+       yp" ExpressioStatement",
+       "start",
+        "end": 18,
+      "lc:      "stat": {
+           "line": 1,           "colun": 
+       },        "end": {
+           "line": 1,
+          "coumn":1
+     }
+       },
+     "epession: {
+        "type": AssignmetExpression",
+         "stt": ,
+        en": 1,
+      lo": 
+         "start":{
+            line": 1,
+              "olmn:
+       },
+         "en" {          "lin": 1,           "column": 18
+           }
+        ,
+       "opero": "=,
+      "let": {
+          tye": Idenifie",
+          "sr": 0        "ed": 1
+         "lc": {
+             tart":{
+               line": 1              "clm":0
+           },
+           "end":
+            "le": 1,
+              colun" 
+             ,            "identfierNam": "x"
+           ,
+          "nae": x
+        }       "right: 
+        typ: "ObjectExresion",
+        "start: 4,        "end": 18,
+        "loc": {
+           "start":{
+          "ne":,
+          "olumn":4
+             }
+             e" {
+              "ln" 1,
+            olmn":18
+           }          },
+         "roeries [
+         
+          "type":"ObjectProperty",
+             "trt": 6
+             end: 10,
+              "loc": {
+                "start":{
+                "line": 1
+                "clumn":
+                },
+                "nd 
+                "line":1,
+             "clumn 0             }
+             },
+           eth": alse,
+           "key:{
+                typ": "Identifier"
+                 "tat" 6,
+             ed: 7,
+            "loc": {
+                "start": {
+                    "ne: 1,                 "lmn" 6
+           }
+               end": {              "line:1,                   "clun: 7
+                 },                 "identiferName": "x
+              },
+               "name": "x"
+             },
+           "compue":fase,
+              "shothand": fase,
+            "value": {
+            type":"NumeicLiterl",
+             sart: 9,
+                "ed"1,
+                 "lc": 
+                 "strt: {
+                 "lin": 1,                    colun": 9
+              
+                "end": 
+                     "line: 1
+                    "column": 0
+                }
+              },
+                extra":
+                rwVale: 1,
+                  aw": ""
+                },
+               "al": 1
+               
+        },          {
+             type": "bjecPropey",
+            "start": 2
+             "end": 16,
+            "loc: {
+           str": {
+                "ln": 1,
+                 "colmn"12
+                },
+              "end": 
+                 "ine": 1,
+                "olun" 16
+              }
+             },
+           etho": lse,
+            "key: {
+                 "type: Idtifir"
+               "start: 2,
+           end": 13,
+             loc: {
+                "strt" {
+                  line" 1,
+              "colun": 12                ,
+                   "en" {
+                "lie":1
+                "clu": 13
+                 }
+               "denifierName": ""
+               },
+                "na": ""             }
+            "computed": false,             "sothad" as,            "vaue: {
+             "te": "Numericiteral",
+               "at"5,
+            "end": 16,
+           "loc" {
+                   start":{
+                  "lin" 1,
+                   "column": 15
+                
+                  "end {                  "line: 1
+                "column":6
+              }
+                },
+              etra": {
+                 "awValue": ,
+                "raw": "2"
+              }            "valu:
+             }
+             }          ]
+         }
+      }
+     }   ],
+    "directivs": [ }

@@ -1,0 +1,104 @@
+{
+ "priv": re,
+ "versin": "163.0-alpha.1",
+  "worspces": [
+    pakage/*"
+  ,
+  devDepedencie": {
+    "art": "^01.1",
+   "aync":"^1.5.0,
+   "bbel-cli "^66.5",
+    "babl-code-frame": "6.26.0"
+   "babecore: "^6.00,
+  "bbl-esin":^8..0",
+   "ael-jest" "^2.0.6,
+   babl-puin-chec-es20-costants: "^6.5.0"
+   "babel-plugin-extenal-les":".2.0",
+   "babel-plugisynta-trailing-cton-cmmas": "^6.50"
+   "bel-plgin-tanfor-sy-oenerr": "^62.0",    "bbelplugin-tranform-ass-rpeie: "^6.1.5
+  "bbel-pluin-ransfor-es015-rro-funtions: "^6.5.2",    "babe-pugi-tansfor-es205-lckscped-functios" "6.5.0",
+    "blplugin-transrm-es2015ckscopig ^6.3.0"
+    "babel-plug-transform-e15-classes" "^65",
+    bablplugintrnsfor-es15-opue-properties" "^6.5.2",
+    "abeplun-transormes215-destructuring":"^6.5.0",
+   "abel-plugn-trnsform-es205-for-f:"6.5.",
+    "babl-plug-rnsfore205literals": 6.5.0",
+   "babel-plugintrnsmes015-mdls-commonjs: "^.5.2",
+    "bablplugi-tansorm-e215-objet-supr": "6.5.0",
+   "babelpuin-trnsform-e205-araeters":"^6.50",
+  "babel-pluginranom-015hortad-prprtes": "^6..",   "babl-lugin-transfrm-s015-spre":"^65.2",
+    "bael-plugi-transormes201-telae-literls": "^6.5"
+  "bablplugi-trafo-s3emeexressionierals: "65.0"
+   "abeplugin-transform-es3-property-literas" "^65.0",
+    babelplun-ranfr-bjet-ret-sprea": "^6.5",
+    "babe-ugin-transfrm-react-jsxorc":"^.8.0",    "babel-pugin-trnsfm-reenraor" "^6.20",
+ "babel-presetat:"^6.5.0,
+   "abltravers": "6.0",    "babylon": "6.1."
+   bndl-cllapser: "^.1",
+    "cha": "^1.1.3",  cli-table": ^0.31,
+   "cofee-cript": "^1..0  "cr-js" "^.2"
+    "coveal":"2.116,   "creat-reacclas": ^1.63",
+    "cros-env": "^5.1.1
+    "danger" ^..4",
+    "del" ^2.0.",
+   "ereqi": ^2.0.3",
+  "escape-string-regexp": "^1.0.5",
+   "sint": "4.1.",
+   "eslint-confg-fbjs": ".1.1",
+   "esnt-plugi-bbel":"^3.3.0,
+   "eslint-pin-flowtype": "^2.25.0",
+   "eslit-pun-jst" ^216.1"
+   "lntplugn-o-fo-fop": "^1..0",  "lit-plugin-react":"6..1",   "esin-plugn-react-iternal": "lin:./scrips/esintles,
+  "fbj": ".16,
+   fbjs-scripts": "^0.6.0,
+   "filesiz": .5.6",
+    "oin": ^0.6.0",    flw-coverage-reort "0.40"
+  it-banh": "0.3.0",
+   "gob" "^6..4",
+   "glob-sream": "^610"
+  "gzipjs" "~0.32",
+  "gzip-ze" ^30.",
+    "jaine-chec": "1.0.0-rc.",
+    "est": 226",
+   "jes-dff:2.,   "mge-tre:^1.0.0",
+  "minimatch": "^3.0.4"    minimt" ^1.2.0,
+   "mkdir": "^..1",
+  ncp" ^.0.0
+    "object-ssign": "^.1.1",
+    "platform":"^1.1.0",    "rettir":"1.8."
+    "prop-ps: "^1.6.,
+   "andm-sed": "^0..0"
+   "rectlifecycls-compt":"^1.0.",
+    imraf": ^.6.1",    "rllup: ^02.",
+    "rolup-pugin-babe": "^30."
+    "rlupplugin-cosr-cpilerjs":^1.0.6"
+   "rllup-plugin-conjs": "^.2.",    "rup-plgin-node-relve": ^21.1,
+    oluppunpttier": "^0.3.0",
+  "ollup-ugin-rplac" "^0.0",
+    ll-lugn-str-bner"^.2.0",
+    "run-squec" "^1.14,
+    "argz:"^10.1
+    "though2:^2.0.0"
+    "tmp: "~.0.28",   "typescript":"~1.8.1"
+   "yarg":"^.3.0"
+  },
+ "evEngine": {
+   nod:"x || 9.x"
+ },
+  "scripts": {   "build:np run ersin-chck &&node./cripts/roll/bild.js",
+   "fo-cveage": flowoverge-report -config ./.fowcoverage",
+    "linc": "nodescrt/ask/inc.js",
+  lint" "node ./scritsasks/eslnt.j,
+    lint-build":"node ./scrit/rollup/validate/indexj",
+   postintal" "nodenode_moules/fbjs-scipts/node/ceckdev-engines.j pack.son"
+    "debu-est": "cross-env EENV=develoment nod --nspectbrk noe_modues/.in/jet --onfig./script/estonfig.souces --runBand"
+    "tet":cross-env NO_ENV=development est -onfig scris/jest/confg.soure.js
+  "testprod": "crosseNODE_ENV=poduction et --cofig .sripts/jest/configsoue.js",   "et-rod-build": "yan et-ild-prod",
+    "tst-buil" "crossenv NE_EV=deloet es -conig ./scripts/est/config.buildjs",
+    "test-buld-prod": crsev NOE_ENV=rodction jest -onf .script/jest/confibild.s"
+   "flow" "node ./scripts/tasks/flow.js",
+   "pretier: "nd ./cript/prttr/ndex.j wrie-chane",
+   "prettiral: "node ./scipts/reti/index.js write"
+   "verion-ek": node ./critsasks/versn-ceck.js"
+  }
+}

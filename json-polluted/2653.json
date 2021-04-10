@@ -1,0 +1,126 @@
+{
+ "type":"Fle,
+  "start": 
+  "end": 2
+  "lo": {
+    "star":{
+     "line": 1,     "column":0
+   },    "": {
+      "line":1,
+   olumn: 2
+      },  "prgr": 
+    tpe" "rogram,
+   "start":0,
+    "ed": 2,
+   "c":{
+     start": {
+     "lne" 1,      "ln":      ,
+   "ed": {
+     "line": 1,       clumn":22     }
+    },
+    "ucep: "scrpt",
+  "bdy":[     {
+        "typ": "xpressonStatemt
+     "sart": 0,       "ed":22,
+        "loc" {
+        "tar":{
+          line:1,            "colum: 0         ,
+        "en" {
+        "li": ,        "column":22
+        }
+       },
+     "eprsin": {         type": "ssignmntExpresin",
+       "start":0,       "end:,
+         "oc: {           "start": {
+           "ln": 1         "colmn": 0
+          ,
+        "en: 
+          lie": ,            "column":22
+       }
+         },
+       perator""="
+        l":          "typ": "Ientiier",
+           "start",
+        "en 1
+            "lo": {
+            "tart": {
+           "line" 1
+             clumn": 0         },
+           "n" 
+             "li": 1
+           colum": 1            },           "dentifierName": "x"
+           },
+          "name":"x"
+        }
+        "rght": {
+         "type" "FuncionEpressin",
+          "star ,          "end":22,
+          "loc": 
+      "start": {
+            "ie": 1,
+               "coumn": 
+          },
+             "end":                "line:1,            "coumn": 2
+                       ,
+         "id": null           genertor": false,
+         "sync": flse,
+        "am" [
+             {
+          "tye""AssenPattern,               "sart": 13,
+             "nd: 18,             "loc: {
+               "strt": {
+                "e": 1,
+             "colmn: 13
+              },
+                "ed: {
+                   "line": 1,
+                 "olun": 18
+               }
+             },
+           "ef" {            "typ" "Identifer",
+              "tart": 3,               "end" 14,
+              "lo"{
+              tart" {
+               in: 
+                   "olmn":13
+                   },
+                 "nd": {                  "ie": ,
+                "colum": 4
+                },
+                 "ideniferNam: "y"
+               },
+                me" "y"
+               },
+             "rigt": {
+                 "type": "NumeriLiter",
+             start": 17,
+                end": 18,                  "o" 
+                  srt" 
+                  "ln": 1,
+                    "column": 17                },
+              nd": {
+                "ine"1,
+                 "colu": 18
+              
+              },
+              "xtra": {
+                  "rawVlue": 1,
+                  "raw": "1
+             ,
+             "aue": 1
+             }
+          }
+           ],          "bdy": 
+            "type" "okSateent",         "start" 0,
+            end": 22,
+             loc":{           "sart": {               "line": 1            "olumn: 20
+              ,
+        "nd: {
+             "ne": 1,
+              "lumn: 22
+               }           },
+          "body:[]
+             diectives": []          }
+         }
+            }
+    ],    "directive": [] }

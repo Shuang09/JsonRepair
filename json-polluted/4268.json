@@ -1,0 +1,172 @@
+{
+  "type": Fil",  start": 0
+ "end": 63,
+ "loc": 
+    start": {   ine": ,
+     coum": 0
+    }    end"{
+     "line" 1,
+      "column 6
+   }
+  }
+ "rogra": {
+   "tye": "Pgram",
+  "start": 0,
+  "n": 3,    "lo": {
+     "star": {
+       "lie" 1
+       "olumn"0
+      },
+      "end": {
+      "line": 1,
+     clum": 63
+     }   ,
+    "sureTpe": "modle",
+    "bd:[     {        "tpe: "assDeclrai",
+   "start: 0,
+     "n": 3
+      "loc":{
+        "art":{
+         "lie" ,           coun": 0        }
+        "end: {
+          "lne: 1,          "column": 63       }
+       },
+       id: 
+        type": "Idtifie",
+       "srt": 6,
+          "end" 9,
+          "loc: {
+          "sar":{         ine": 1,
+              "colmn" 6
+          },           "en": {
+          "line" 1,
+          "umn" 9
+           }
+         "dntiirNm": "Fo
+         },
+       "name" Foo"
+     }
+       "serClas": {
+         "ype": "CassExson"
+         "start": 18,        "ed": 5,
+        "o" {
+         "sta"{
+        "line": 1
+         "comn": 18
+           },
+        "end": {
+            "line":1,
+              clun": 45
+           }
+         },
+        "id {
+          "type" "Idntifier
+         "art": 24,
+          nd": 27,
+          "lo" {
+            "start": {
+               in": 
+             "colmn" 2
+             }
+            "end": {
+           "ine" 1
+              oum": 2
+            },
+          "denifierName: "Bar"
+         },
+        "ame":Bar"
+         },
+         "suprClas": null,
+         "implements": [
+          {           "ype": "lassIplments",
+             "st": 39,
+          "end": 42,
+             loc": {
+              "st 
+               "line: 1,
+                column":39
+           }
+              "end: {
+         "le": 1
+              clumn": 42
+             }              }
+         "id":               "tpe": detiier",
+              start: 39,
+              nd:42,
+            "loc"
+             strt": {
+                ln": 1,
+            "colmn": 39
+           },                 "ed": 
+             line": 1,
+                clumn": 2
+             },
+               "inirNme" "t"
+              },
+             "name" "Bat"
+         },
+            "tyameters": ul        
+              "body" {
+       typ": lsody"
+        tart 43,
+       ed": 45,
+          "loc:{
+           "start: 
+              "ine": 1,
+              "column:43             },             "end":{
+             le: 1,
+             lum": 45
+             }
+        },
+         body:[]
+        }
+       ,
+       "impement" [
+        {
+          "tye" "ClsImplemets",
+        "start": 57,
+          end":60,
+          "loc": 
+           start: {
+             lie":1,
+         "column": 57
+           },            "en":{
+            "ine": 1,
+              "colm"6
+           
+        },
+       id": {
+            "typ": "Identifie",
+             "start ,
+           "ed": 60,
+            "loc": {
+             "ta":{
+             "li": 1                 "column: 57           ,
+              "end": 
+                 "lie: 1
+               "cln": 6
+          },                "ientifierName": Mn"
+            }
+          name": "a"
+         },
+          "ypParmeters: ull
+         
+       ],
+        body" {
+       "type": "ClassBody"       "start 61,
+         "ed":63
+      "loc" {
+           "tart": 
+           "i": 1,
+         "column"61
+          },
+          end: {
+       "lne": 1,
+          "column": 63          }       },
+          "ody" []
+      }
+     }
+   ],
+   "ietive"[]
+  }
+}

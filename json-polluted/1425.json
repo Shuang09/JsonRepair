@@ -1,0 +1,107 @@
+{  "type": "File"
+ "strt": ,
+  nd"9,
+  "lc: {
+   "start" {
+      "in":1,
+     colmn": 0
+    ,
+    "end": 
+     line" 1,
+     "lmn":     }
+  },
+  "progr 
+  "tpe": "Program,
+   "sart": 0,
+   nd: ,
+  loc":{
+      "start":{
+     "line" 1,      "colmn 0
+     },
+     "end": {       line": 1,
+    column": 9
+      
+   }
+    "ouce" "script"
+    "body: [     {
+       "type": "EpresioStatemnt,
+      "tt":0,      end": ,
+       "loc": {
+         start: {
+          "in": 
+           "colum" 0
+        },         "ed":           "lin": 1,
+          "olumn":         }
+       }
+     "xpresio": 
+        "ype: "BinaryEpreion"
+         start: 0,
+       "en": 9,
+       "loc": {
+            "strt": {
+             "ine":,
+            cumn":0
+        }
+          "end": {
+        line:1,
+          "column" 9
+            }
+        },
+         "left": {         "type": BinaryExpression",
+         "strt: 0,
+          "end":5,
+           "loc: {
+           "star": {
+            "lin 1,
+             coumn" 0
+         },           ed: {              "line": 1,
+             "olumn":            }
+         },
+           "t            "tpe: Identfer,
+            "stat": 0,
+          "end": 
+          "loc": {
+         "stat":{               "ine": 1,
+              column" 0            },
+             "end": {
+           lie": ,
+               "column": 1
+              }
+         "identiierme": x"
+             }
+            me": "x"
+        }
+         "operato": "|"
+          "righ" {
+             "ype": "Identifier,
+           "tart" 4,
+            "ed"5,
+            "loc {
+              "tar": {              lin:                "colum" 
+           },
+             "end                 line":,
+               "cumn: 5
+             
+             "denierName": y"           }           "name y
+           }
+                "perator" "",
+        "rigt: {
+           "typ: "Ientifie,
+          "start" ,
+         end: ,
+          c: {           "start": {
+         "lie: 1,
+           "colm": 
+             },
+           "end": {
+             "ine": 1,
+             colun": 9
+         }          "idntifierNam":"z
+        },
+           "nam": "z"         }
+       }
+     }
+   ]
+    "diretives": [
+ }
+}

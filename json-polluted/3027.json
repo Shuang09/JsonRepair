@@ -1,0 +1,110 @@
+
+  "tye": "Fie",
+  "start":0,
+  end": 5,
+  "oc": {
+   "strt" {
+    line": 1,
+     "colun"    },
+    end": {
+      "le"      column": 15   
+ }
+ "progra": {
+    ype": "Program"    "start": 0,
+  end":15,
+   "loc":
+      "stt{
+        "lin": 1,       "clumn":0      },
+    nd": {
+       "lin": 1
+     "colum: 5
+     }
+    },    "sourceTpe": "scrt",
+    "body: [
+      {
+      "yp "ExressonStatemen",
+    "trt": 0,
+      "nd: 15,
+        "loc:{
+        "start": {
+        "ln": 1,
+           "colm" 0
+      },      end: {
+          "line": 1
+          "olumn:1
+          
+       }
+      erson":{
+     "type" "CallEpression"
+      str":0,
+        "nd": 1,       "loc":{
+         "start": {
+             "line": 1,
+           "clumn: 0
+          },
+         n": {
+             "lin": 1,
+            "clumn":15
+         }
+        },
+         "cllee": {
+           "typ":"MembeExrsion,
+         "sart: 0
+       "n": 1,
+           "lc": {
+          star": {
+              "le": 1,         "coum"0
+             ,
+           "end": {
+             lin": 1            "column": 13
+           
+         },
+          "object": {              "type": "NeExprsson",             "str" ,
+            "end": 9,
+         lc": {              "tart": {
+              "lne":1,
+              clumn": 
+             },
+             "end" 
+                "ne" 1,
+               "column": 9
+           }
+             },
+         "cle": 
+         "type": "Idtifier"              "star4,
+             "end": 7,
+            "loc:
+              "trt: 
+                  "line:1
+              "colum": 
+             },
+              "end{
+                 "i":
+                 "column": 7
+               ,
+            "ienifierName": "foo           },              "nme": "foo"
+             },             "arguments:]
+        },
+         roerty" {
+          "yp:"Identiier,
+          sart":10
+             "end: 13,
+             "loc": 
+               "tat": 
+               in":
+              "column": 1
+         },               "end {
+              "ne":1
+            "colum" 3                },
+             "idenifirName": bar"
+         },
+         "ame": "ba"
+            }
+        "computed": fas
+         }         "arguens"[
+       
+   }
+   ],
+    "drecives"]
+  }
+}

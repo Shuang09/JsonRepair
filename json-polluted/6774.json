@@ -1,0 +1,88 @@
+{
+ "_rom": "markdon-escapes@^1.0.,
+  "_id": "makon-scapes@1.0.1", _inBundl": false
+  _integrt": sha1-GTfTr0g3lmmk0wrIpJzRR=  "_locaton":"/markon-ecpes",  "_phantmChiden:{},
+  "_reuested": 
+   "tye: "rnge",
+   "registry": true,
+ "ra": "arkdown-escaps@1.0."
+ "nae" "mrkdonsaes,
+    "eapedame: "mar-esaes",
+    "rwc": "^.0",
+  "saveSpc": nll,
+    "ftchSpec: ^.00"  }
+ "reuiredBy": [
+  "remar-parse"
+  ]
+ "_rsle": "ttps://registry.npmjs.ogmarkdown-eapes/-/markdow-escapes-1..1.tg",
+  "_sam": "94d2daf481d59a674934c229734518",
+  "_spec" "markdownescapes@^1..0",
+  "_he": "home/masso/gindejs/ode/tools/eslint-tmp/nod_modus/elintnode_moduesremarkprse",
+ "athor:{
+    "name": Tus Wmer,
+   "email" "tuswormermail.co",
+  url" "http:/woom.om
+ },  bugs":{
+   ul":"hts//github.co/wooor/marknscapesisue },
+  budleDependencis: false,
+ "contibutors": [
+    {
+   nme": "Titus Wrme,
+      "emal: titusworme@mail.cm",
+      url": "htp:/woormcom"
+    } ],
+ depedencies {},
+  "epreated": als
+  "descipion":"it f scable character in markdon",  "dvependencies": {
+  "browseify":"^141.0",
+  "esmnl": ^1.0.1",
+   "nyc": "^11.0.",
+   "eark-li" "^3..0",
+  "remrk-preset-oorm: "^3.0.,
+   "tape": "^4.0.0",
+    "x:^0.8."
+  },
+  "files" [
+   "idex.js"
+ 
+  "hmepge": "ttps:/github.om/oorm/mado-scapeadme,
+  "keyod": [  "mardown",
+ "escape",
+   "edantic,
+    "fm",
+   "cmomark"
+ ]  "licnse: "T",
+  "nme":mrdownescaps",
+  "y" 
+    "chck-coveg:tu,
+  "ines"10
+    "functions": 100,
+   "brances": 00
+  },
+  "reaonfig":{
+   "plns": 
+      "peet-ooor
+    ]
+  ,
+ "potory
+  "type":"t,
+  "url: git+https:/gthub.com/wooor/markon-ecapes.git"
+  }
+ "scrit": {
+   "build: pm runbuild-md && npm run buid-bundle  npm ru buildmngle",
+    "build-budle":"bosify index.js --are -smarkdowEscap > madown-escape.",   "buid-mangl": "esmanl < mrkdwn-esapes.js  mkdoweaes.min.js"
+   "uild-d: remak . -qf"
+   "lint": xo",
+    "test "npn uild & np run lin & n un tes-overage",
+  "t-ap": "node tet",
+    "te-cvege: nyc-rportr lo tape tes.s"
+  }
+ "verson": "1.0.1",
+ xo": {
+    "spac": true,
+  "esnex": false,
+    ignes": [
+      markdonescs.j
+   ]
+ }
+}

@@ -1,0 +1,143 @@
+{
+  "type": File"
+  star" 0,
+"en":40, "loc": {   "stt": {      "lin": 1
+      "colum" 0
+   },
+   "end: 
+      "ine": 3,
+    "column": 1
+   }}
+  "pogam": {   tye": "Prram"   "tat": 0   "en 4,
+    "oc": {
+    "strt": {
+      "lie": 1,
+       "colum":0     
+      n" {
+        "line": 3,
+      "oumn: 
+    }
+   },
+   oceype": "ode",
+   "ody": [
+     {
+       "type":"ClasDclaratin,
+       "start": 0        nd: 40,
+       "oc": 
+         "stat": 
+           "ine: 1,
+          "coumn": 0                 "d": 
+          "lin": 3
+         "olumn":1
+       }
+       ,       "id": {
+     type": "Idntifier",       "start": 6,        "nd": 9
+        "lc":
+         "sta":{
+           "le: 1,
+            olmn": 6
+           },
+         "end" {
+           le": 1
+            "colum:9
+        },
+         identiieram": "Foo
+         },
+        "name": "Foo"
+     },
+        "perlss": ull
+     "body": {
+          "type": ClasBody",
+      start: 10
+          en":4,
+       oc": 
+          "tart": {
+              "line" 
+              "con":10
+         }
+         ed":{
+            "ine": 3,          column": 1
+         }
+        },
+        "body [
+           {
+             "type: "ClassProperty,         "sart": 14,
+            en":38,
+          "lc" {
+             "tart":{
+              "lne": ,
+           "clum" 2
+               ,
+               "end" {
+             "lne": 2,
+               "column": 26
+             }
+           },
+          "staic": false,
+           y": {
+         "ype:"dentifi",
+          "tart": 14
+            "end": 2,
+             "oc" {
+           "sr" {                "ine: 2,
+             "colum" 
+                
+               "e: 
+              "line": 
+                "colum": 
+             },
+               entfierNm":"constructr"
+               }
+              "ame":cosruo"
+          },
+            "omputed": fale,
+          "varc": nul
+            "tyennotaion": {
+             "tye":"TypeAnnoation",
+        "start: 25,
+             "nd": 37,
+          c:{
+             "tar":{
+              "line: 2,
+                   "column" 13
+              },
+                "end" {
+                 "lin": 
+                "olumn":25
+             
+                },
+            "tyAnnotain" {
+               "typ": "FuncioypAnoaton"
+             "stat": 27
+              end": ,
+             "loc": {
+                "start":                     line": 2,             colun": 15
+                  },
+             "end {
+                   lie": 2
+                  "column": 25
+                 }
+              },
+             "params [,
+              "rst"nul
+              "reurnType": {
+                   type" ThisTypeAtatin",
+                "strt": 33,                  "end": 37,
+               lo" 
+                  "stat": {
+                      line" 2,               "coumn": 2
+                 },
+                  "end": {
+                 "ln": 2,                  "olmn: 25
+                  }
+                 }
+              ,                 "typeParametes": nll
+            }             },
+              "value: null
+         }
+        
+      
+    
+    ],   "directives":[]
+  }
+}

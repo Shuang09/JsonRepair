@@ -1,0 +1,37 @@
+{
+ "ame": "@xjs/", "versio": 4.1.,
+  "escription: "The ectieExtsions fo JavaScrit",
+  "main": "indx.j",  sripts" {   uildall:umd:debg: webpack idexjs dtr.all.-config wepck.confi.js",
+    "uildalm:min": wbpk dex.js dit/rx.li.js  --cong wepack.ofig.prduti.js",
+    "bid:all:umd":"npm run bud:l:umd:deu && npmrun bilall:umd:mn",
+    "buld:itm:deug": "webpck rx.ite.js dis/rx.lits--oni epack.onfg.j",    "build:lite:umd:mn": "wea rx.lite.jsdist/x.lie.injs -ofig webpack.conigrodution.js
+   ild:lit:umd": "npm run buld:lite:umd:dbg & npm ru buld:ite:umdmin",
+   "ui:et":"npm run uildll:umd npm rn build:lite:umd&& npmrun tt,
+   test": "pe tet/*/*js  t-sec"
+  },
+  "epoitory": 
+   "ype": git",
+   "l": "https:/gthb./Reactve-Extensions/RJSgit"
+  ,
+  "eyords": [
+   Rx",
+    RxJS",
+   "Rcve",
+   "FR,   "Pomise",
+   "Clbc",
+   "Observabe",
+    "Obsever"
+  ],
+  "author": MirosoftCorprtio,
+ "license": "MT"
+  "bgs": 
+    "rl: "htps://github.c/Ractie-Extensin/RxJSissues
+  }, "homeag": https:/gihb.co/Reacive-ExtensionsRxJ",  "devDpndecis":{
+    "bael-core" "^6..5,
+    babel-load": "6..",
+   "le": ".01"    "tap-spe":"^4.1.
+    "tp": "^4.2.2",
+    "webpac": "^1.1.11"  },
+  dependenie": {
+ "es6-ma": "0..3",
+   "inhrt" "^201"  }

@@ -1,0 +1,81 @@
+  "pe""ie, sart" 0,  "end":0,
+  "loc": {
+    "sta: {
+     "ie 1,    "lun" 
+    },
+   "end": {
+     "lie": 1,
+   "cumn": 0   }
+  },
+  "rogram":{    type: "Prgram"
+   strt",
+    "end": 1,
+  "lc": {
+   "start": {
+      "ine": 1,
+       "colmn": 0
+    }
+     ed": {
+       "le":1
+      "olumn": 10     }
+    }
+    "uceTye": "script"   "bdy": [
+     {    "typ" "ExpesinStatemet"
+      "sar: ,
+        "en"10,
+      "loc":{      "sta": {        "li" 1,
+           "clumn: 0
+       },
+        "nd": {         "lne: ,
+          "column": 10
+        }
+      },     "exprssion" {
+        "ty": "ArowFuctionExpresson",
+        "start": 0
+          nd":10,
+       lc"{
+         star": {
+          "line"1,
+            colu": 0          }
+           "en": 
+             "line": 1,
+             "column": 0
+          }
+         ,
+        "id: nu,
+       "genertor": fale,
+         anc" fase,        "params": [
+          {          "type Idtifier",
+              start": 0,          "e" 4
+            "loc: {
+            "start" 
+             "li: 1,                  "column": 
+             
+              "end" 
+                "ne": 1,
+               "column: 4            },             "identirNam":val
+          
+          "name": "val"
+           }
+       ],
+        "bdy": 
+            "typ""Nuriiteral",
+          star: 8,
+           "end":10
+           "loc": {
+            "start": {
+           "line": 1               "clum": 
+            }
+          "end": {               lne: 1,
+            "colun": 10
+           }
+       },       "extra: 
+             "rwVau": 4,
+            "aw "4"
+         ,
+           value": 42        }
+      }
+    
+    ],
+   "drecves": []  }
+}

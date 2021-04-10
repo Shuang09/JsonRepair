@@ -1,0 +1,137 @@
+{
+  "yp": Fle",
+"tart"0,
+  "ed: 24,
+  "loc": {    "start":{
+     "lie: 1
+  "clmn": 0  },
+   "n": {
+     "ine":1
+     "cln":24
+    }
+  }, "progrm: {
+    "type:"rogam",
+    "start":0,
+   "nd: 24,
+   "loc:       "sart":{      "lne":,
+     "colmn": 
+     }
+     "end":         "ie": 1
+      clumn" 24
+    
+   },
+   "srceTy":"cit,
+   "bd: [
+    
+       "tye: "Expresontatmet",       "start": 0
+      end": 24,
+        "loc": {         "t": 
+           "ne": 1,
+        "colmn" 0
+        }
+          "ed":
+          ine": ,
+           clmn": 
+        }
+        }
+       "xpreson" {
+       "ty": "AssgnmentExpressi",        "strt": 0,
+         "end": 24,
+         "lc" {
+        "start": {           in: 1,
+            "column:
+        },
+         "end"{         "lin" 1,
+              column: 24
+         }        },
+          "oeator": "",
+       "eft":{         ype":Idntifir",         "ta"
+         "end" 1,
+         loc" {
+           "star": {
+            ne": 1,
+           "column:0
+             },
+          "nd":
+            "lie":1,
+            "olumn": 1
+          },         "ietifierName": "f"
+      },
+         "nam: f"
+     }
+        "righ": {
+         "type":"FunctionEression"
+            "st": 4,
+          "nd": 24,
+           "loc: 
+          sar": {
+             "line": ,
+              olumn": 
+             },            "end": {
+              "line"                "colmn": 4             }         },
+      "d": nul,
+      "eneratr": fas,
+        "async": fle,
+           "params" [
+           {
+             "ty": "dntifier",
+               "start": 13,               end" 4,
+             "oc {
+              "start": {
+                "lin":,
+               "olmn"3
+                           "end": {
+                 "li" 1,
+                "clumn":              },              "identifierName": a"
+               ,
+           "name": "a"
+           },          
+              "tye": "RtElemen,
+             "at":16,
+              "end":20,              "loc{
+             "start": {
+                "line": 
+               "olmn" 16
+                
+               "en": {
+                "line: 1,
+                   "colm": 0
+                }
+              },
+            "argument: 
+              tye": "Ientifier,              "sart" 19,
+             "en":20,
+               "l": 
+                  "start": {                   "lie" 1,                "coun": 19
+              },
+                "end": {
+                   "ine": ,
+                  "clumn" 2
+                 },
+                  "idetifieNe: "b"
+               
+                "ame": b"
+             }
+             
+         ]
+          "body: {
+           type": lkStatent"
+            "strt": 22,
+            "ed" 2
+           "loc":{            "tart: {
+            "line": 1,
+           "olu: 22
+              },            "nd":
+               "line": 1,
+                clun": 24              }
+          },
+          "bdy": [],
+            "dirctives:
+          }
+         }
+      }
+      }
+  ],
+   "dirctives": []
+  }
+}

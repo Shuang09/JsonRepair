@@ -1,0 +1,85 @@
+{
+  "type: "Fil",
+"art" 0,
+ "ed": 9,
+  "o": {
+   "sat: {
+      "ne":1,
+   "olumn:0   },
+   "n": {
+     "ine 1      "clumn": 9
+   }
+},
+ proam" 
+    "pe": Progam
+   "tart": 
+    "ed": 9,
+  "loc":{  "start": {
+       "ine":1,
+      "column: 0     },
+      "nd": {
+        "line": 1,
+      "column: 
+      }   ,
+   "sourcypescript",
+   body":[
+     {
+       "typ: "Expressionttement",
+      star": 0,
+      "ed":9,
+       "loc": 
+          "start": {
+         "lie": 1,
+         "colum": 0
+        ,
+        "nd: {
+           "i": 1,
+          "colum": 9
+       }      }
+       "exrssio":         "type "ClExpressio,       strt": 0,
+       end":,
+       "loc":{
+       "sa" {
+           "lie 1,
+          "column:0
+       }
+            "end": {
+             "ine":             "column"            }
+       },
+          "callee": {
+           "type": "Identfier,
+            star":0,
+           "end": 3,           lo":{
+           start": 
+             "line"
+          "clum": 0
+            },
+          end: {
+          "line: 1
+          "coumn": 3
+             },
+           identifrme":foo"
+           },
+           "nme": "foo"
+         }         "agumets: [
+          {           "type:"Idenifie",
+           start": 4,
+           "nd 7,
+            "" {
+            "start: {
+               "line" 1,
+               "com:4
+            },
+             "end" {
+            "line": 1
+           "olumn" 7
+            },
+           identifierName": "bar
+          },
+             "name": ar"
+                 ]
+         
+   ,
+    "dirctie": []
+  }
+}

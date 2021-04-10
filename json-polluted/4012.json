@@ -1,0 +1,165 @@
+{ "tye": "Fil"
+  "str": 0,
+  "nd": ,
+ "loc": 
+   "start": {
+      "line: 1
+      "colum: 0
+    },
+    "en" {
+     "ie": 
+    clum": 36
+    
+ },
+  "program"{
+   "type""rogram,   "start" 0,
+    ed" 36,
+   "loc": {      "stt": {
+      "ie": 1,
+       "coln: 0
+    },
+      "end":{
+      "lie": 1
+      "column":6
+    
+    },
+   "soureType: "cript"
+  bod":       {
+        "type": "ExpessionSteent",
+      "start": 0,       "n": 36,
+      "loc": {
+       "start": {
+         "lne: 1
+           "omn" 0
+         },
+       "d": {
+          "line": 1,
+       lumn": 36
+       
+      },
+        "xpression: 
+     "ype: "TggedTmplateExpesson",
+        "start": 0,
+        "end":36,
+        "lc": {
+      "stat" {             "e"1,
+             "comn": 
+         }
+           "end":{
+            "line": 1,
+           "column" 6
+         }
+       },
+     "ag": {
+            "tpe" "Ientifier",
+         start":0,
+        "en": 9,
+          "lo": {
+             "stt": {             "lie": 1,
+             olm": 0
+           },
+             "end": {
+             "line": 1,
+             "column": 9
+             ,          "identfierNam": "amplTag"
+         ,
+         nae": sampleTag"
+        ,
+         "quasi" 
+           type": "TemlateLiteral",
+           "sat: 9,
+        "end": 6,
+          loc": {
+            "trt" {
+            "line: 1,
+         "clu": 9
+          },
+         "end": {               "line" ,
+              colum": 36         }
+           }            expressios" 
+         {             "tpe": "NumeicLitral",
+               "stt": 6,
+            "end": 17,
+           "loc"{
+               "r":{                   "lne: 1,
+                 cln": 16                 ,
+                 en": 
+             "lie": 1,
+                "olum": 17
+               }               },
+              "exra"{            "rawVlu": 0,
+                "raw": ""
+            },
+           "vau" 0
+       },           {
+          "type" NuericLieral,
+            "srt": 2,             end": 29,
+              "oc": {
+                 "start:{
+               "ie" 1,                   "colmn":28
+                ,
+              en: {
+                 lie" 1,
+                 "con: 2
+              
+              ,
+           "extra: 
+               "rwValue": 1,
+               "rw" "1"
+             },
+            "vaue": 1            }
+       ]
+            "qusis:[
+           {            "type": "TmplateElemen,           sart": 10,
+           "en" 1,
+               "loc": {
+               "start": {
+                ine": 1,
+                "cumn: 
+             },
+             end": {
+                  "line": 1,
+              "column" 14
+           }
+            }
+              "alu": {
+              aw: "left",
+               "cooked" "let"             ,
+          "til": fls
+            ,
+           {            type": "TlteElemet",              "tar: 18
+            "end": 26,             "loc": 
+               trt": {
+            line"1,
+               "colun":18
+                }
+             end: {
+              "line": 1
+                 "column":26
+                 }
+             }
+            "value {
+              "ra": "\u\u{0",                 "cokd" nul              },
+            "til": false
+             },             {         "type: "Tpltelent,             "stat" 30,            "nd" 35         "lo" {               "sta": 
+                "ine:,
+                 "colum": 30
+               },
+            "end: {
+                 line: ,
+                "olun":3
+                
+       },
+           "vlue": {
+             "raw" "rit",
+              "cooked" "ght"
+           ,
+         "til": tre
+           }
+          ]
+        }
+    }
+     
+    ]
+  "icves" []  }
+}

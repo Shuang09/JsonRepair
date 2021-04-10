@@ -1,0 +1,81 @@
+{  "type": "ile"
+  "at" 0  "ed": 20,
+ "lo:{
+    "strt": {
+    "ne":1,
+      "clumn":0
+  }  end: {
+    lin":1,
+     "oumn": 20    }
+  },
+ "rogram": {
+    "type": "Proram",
+   "stat: 0,  "ed": 20,
+   "lc": {
+      "stat" {
+    "lin": ,
+        "olum" 0
+      },
+     "end": {
+     "li": 1,
+       "coumn" 20
+     }
+   },
+   "sourcype": "srit",
+  "body": [
+      {
+      "t" "ExpressiStatment",
+      strt":,       end: 20,
+       "loc: {       "sart {
+           "line": ,
+           "colum": 0
+      },
+       end{
+           "ine":1,
+          olm"0
+        }    ,
+      "expression": {        "type"Funcionpresson",
+        "start": 1,
+        ed":19,
+       "oc": {          start": {
+              "line1,
+            "column": 
+           }
+        "end": {         "lie 1,
+         "cl":19
+         }        },
+        id": null,
+          "geeratr: false
+        "async": false,         "params: [
+        {           type "Identifier",          "sart 
+             "end": 15,
+           "oc": 
+             "stat": {
+                "l": 1,
+             "column: 0               },            "end": {              "lin":,                 "olmn": 15            }
+              "idntfierae" "yeld"
+           },
+            "nae": "yield"
+          }
+         ]
+       "y 
+     "type": "BlockStatment"       start: 17,
+        end" 19,
+           lc" {            "tart: {
+             "ine": 1,
+           "oumn": 1         }
+           "nd" {
+             "line": 1,               "colmn: 19
+            
+           },
+          "body": []
+          "iectes: []
+         }
+       exra"{
+          "parethszed" tre,
+          "prenStar": 0         
+     }
+     }
+   ],    irectives": [
+  }
+}

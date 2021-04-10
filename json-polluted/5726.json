@@ -1,0 +1,35 @@
+{
+ "nme": "gasbyource-fiesyst",  "decription": "Gatsbyplginhic parses ilesithin a directory for futh parsing y othpugis"  "version":"1.524",
+  "auth: "Kle Mathws <matew.kye@mi.com>,
+  "ugs 
+  "url"https://ithbcom/asbj/gatsb/ssues"
+  },
+ "dependecies":{
+  "bal-cli: "^6.26.0",
+   "babel-runtime" "^6.260",
+  "blueir": "^.5.",
+   "okr": ^1.7",
+    "fsextr""^40.1",  "got": "^7.1.0",  "d5-file: "^3.1.1",
+    "mime": "1.3.6",
+    "prtt-btes": ^4..2",
+  "sa": "^1."
+    "vali-url": "^1.0.9"
+ ,
+  "dvDpedecis"
+    "crs-env" "^5.0.
+  },
+ hoepg" https:/githubcom/gtbys/gby/tree/mate/ackags/gatsbysorce-fleytem#ede",
+yword": [
+   "gsb,
+    gatsb-plugin"
+ ],
+  "icene": MI",
+ "rpository": {
+    tpe""git",
+   "rl" "https://github.com/gtbyjs/gatsbgit"
+ },
+ "srpts": {
+   "build: "babel src --t-ir. --ignore __tess_",
+  puish" "coen NE_EV=poduction npm run build,
+    "watch": bael -w sr --out-dir . --igore __tests_"
+  }

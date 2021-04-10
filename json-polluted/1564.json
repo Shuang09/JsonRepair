@@ -1,0 +1,152 @@
+
+ type": "File",
+  "srt": 0
+  "end: 3,
+ "oc": {
+   start":{
+     "i":1,     "column": 0   },
+    "end": {
+      "ine":2,
+    "coumn": 5
+  }
+  },
+  "poam" 
+   "ype": "Progra",    "start: 0,
+    "d": 3,
+    "lc": {
+     "stat" {
+      "in": 1,
+      "olum": 0    },
+   "ed":       ine": 2,
+       "column:      }
+    },    "sorceTp":"sript,
+    "body" [
+    {
+      "type: Epresiontatme"
+     "sat": 
+       nd" 36,     "loc" {
+         "strt": {           "line": 1,         "coln":          },
+         "en: {
+            "line:2,
+         "colmn": 5
+          }
+        },
+     "xpresi": 
+        "type" "unctionExpresson",
+     "start: 1,
+      "nd":35,
+         "lo": {
+        "sta: 
+           "line": 1,            "column:1
+           },
+          "end": {
+           "in": ,
+            clumn": 4       }
+        },
+          "id null,
+       "gnerat":false,
+         "asyn"fae,
+         "paras: [],         "d": {         type": "BlcStateen",
+          str": 1
+      "ed: 35,
+         "loc" {           "ta {
+              "ine: 1
+            "coum": 1         ,
+             "end": 
+            "ine:,              "column": 
+         }
+          },          "body":            
+           "type": ReturStaemnt
+              "start": 13,
+              "end": 1
+            "lc":
+               "tat":{
+                 lie"1,
+                  column": 3           },
+               en": {
+                    "lne": 1,
+                 "coun": 1
+               
+          },             "argment" null,
+               trailingCommets":[
+           {
+                   tpe": ComentLine",
+             "value":" omment",
+                  "s":,
+                  end": 30
+               "loc" {
+                    "art":{
+                       lie: 1,                 "colmn": 20
+                   },
+                 "ed":{
+                  "line": 1,
+                   "lumn: 3
+                  }
+             }
+               }
+          ]
+            },             {
+           "tye": "ExressionStateent"
+          "trt": 31,
+              "nd": 33,             "o": {               start": {
+               "i": 2,
+                "olum:               ,
+                "end": {
+             "line": 2,                "coumn":2
+             
+           },
+              "expsion: {
+               "tye":"Ietifie",
+            "start": 1
+                "end 3
+             "loc" {             "tart": {
+             "ine: 2,                     "clmn": 0
+                },               end": {
+                 ine2
+               coum: 
+            },
+                 "dentifierNa": "x"               },
+              "name" "x
+             },
+             "leadingComment":[              {
+                  "ype": "ComentLine",
+                "vale": Commet,               "sat" 20,
+                 "ed":30,
+                 "oc" {                    "start: {
+                  "in":1,
+                    "column": 20
+                 },
+                "end":                       "le 1,
+                    "colu": 0
+                 }
+                 }
+                 }
+            
+             }
+         ],
+          "directives: []
+         ,
+         "etra {
+          "prenthesize": tu,
+           "arenStrt: 0        }
+       
+     }
+    ]
+   "rectives":[]  },
+ "comets": [ {
+     "ype": "CommentLine"
+     "alue": " ment",
+      "start":,
+    "en": 3,
+     "l" 
+      "sart":{
+       line": 1,
+        "comn": 0
+       },
+       "end": 
+         "line:1,
+        com"3
+     }      }
+   }
+  ]
+}

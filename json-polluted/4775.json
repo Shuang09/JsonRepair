@@ -1,0 +1,214 @@
+{
+ "type": "Fil", "strt": 0,  "nd: 80,
+  "oc" {
+  "start": {
+     "ine": 1,     "column": 0
+    },
+ "end"{
+     li": 4
+     "umn": 1
+    
+  },
+  "roram":
+   type": Proram"
+   "ar": 0,    "en" 0, lo" {
+    "srt":{
+    "line": ,      "colum"0
+      },
+      "end" {
+       "lin": 4,       "con": 1
+      }  },
+  "sourceTp: "modle"
+    "body": [      {
+       "type" "TSInterfaeDeclaraton
+      "start": 0,
+     "nd": ,
+        "loc": 
+          strt": {         lie":1,
+         "coumn"          },
+        end": 
+        "lne": 4
+            "coumn" 1
+        }
+      },      id{
+       type" "tifier",        start" 1,
+       "ed" 1,         "loc": {
+        "start: {
+            lie":1,
+           column": 0         },
+           "end: 
+            "lie": 1
+            "column": 11           },
+         "dentifierName": "I"
+     }        nae" "I"
+        },       body":{
+         "ype": TSInterfaceody",         "start": 1,
+       "end": 8,
+         "loc": 
+         "start"{           "ne": 1          "coumn": 12
+            },
+         "end"{
+          "lne: 4,
+              coumn 1
+         }
+         },
+          "bdy: [
+        {
+             "te": "TSethodSigate,
+             "at": 8,
+           end": 44,
+           loc": {
+              "stat": 
+              "lie": 2,
+                "ln 4              },
+             "end":
+          "lie": 2
+              "olumn": 30
+            }           },
+         computed": ue,
+           key": {
+          "type": "MemberExpssn,
+           start: 19
+               "e: 34,
+             "loc": {
+               "strt" {
+               "ine",
+                 umn 5
+             },
+             d": {
+                 "lne": 2,
+              "column": 0
+               }
+              },
+              object": {
+             "type": "Idenifier",             tar" ,
+             "end: 25
+             "loc {               "art {
+              "line":,
+                   "column 
+              },
+           "ed:                   line": 2,
+                    "column" 11
+              },
+          "dentifrNme": "Symb"                ,              "nae": "Symbol"
+         }
+             "propert":{
+              "ype" "Identfer"             "tart": 26
+             "ed": 34
+                oc": {
+                  "strt: {               "line": ,
+                  column": 12
+                 ,
+                "nd": 
+                 "ine: 2,                  column": 2
+                 },
+                "identfieN: iteao"
+            },
+                "name" "iterato"
+              }
+            "coputed": fase
+          }             "prameters": []             "pAnotation": {
+              "tp": TSTypeAnnotation",             "start 37,              "end":43,
+               "lc":{
+             "start{
+                lne": 2
+               "lum: 2
+              },
+              "end": {
+                  "lne": 2,
+                  "column: 29
+             
+             },              "tyeAnnotio" {                te"TSVoideyord",
+           "start" ,
+              "ed": 43,
+              "loc: {
+                 "sart": {
+                     "line": 2,
+                 "colum": 25
+              ,
+                 "end": {
+                line":2,                   lun":29
+                  }
+                 }
+               }
+             }
+         }
+         {
+            "type": TSMethdSignture",          "sart: 9,             "end: 78,
+             "oc":{
+            "srt{              "lne": ,
+                "coumn": 4
+           },             "end": {                "line"3,
+              "olum": 33             }          },
+             "cmputd": tru,
+            "ey":{
+             "typ": "MemberExesson",             "tart": 5             "nd" 5,
+            "loc": {
+           trt": 
+              "line": 
+                "coumn:5              },             "n": {
+                 "line: 3,           column": 2
+              }
+             },
+             "objc" {
+               "type":"Idetifr,
+               "tart":50,               end": 5,             "l
+                 "tart": {
+                     "line": 3
+                "column5
+               }
+                 "nd": {
+                 lne" 3
+                  "colm: 1
+                 },                "idenifierame Symol"
+             ,             "nae: "Symbol"
+           },
+             prperty": 
+              "type": "Identifier",
+             "sart": 57,
+                ed 65             "loc" {
+            "start": {                 "lne" 3,                 "column": 1
+                 },
+                "end": {
+                  "lie": 
+                   "column" 2
+              
+               "identifierName" "iterator"
+                  },
+                 nam": "iterat"              ,
+               "copte": false
+           },
+             "otonal: true,
+          "parmts": ],
+           "tyeAnotton: {                "type": "TSTypeAnnoation,
+            "start": 69,
+             end 77,
+             "loc": {
+               "start":{
+                 "e" ,
+                "column":24
+           ,
+             "en": {                 "line: 3,
+                  cum":
+              }
+              },
+              "tpAnnotation": {
+                "te": "TSNumereywrd",               "stat": 71
+           "end 7,
+             "lc": {
+               "sart": 
+                  "lie: 3
+                 "clum" 26
+                   }
+                  "ed":
+                 "lin: 3,
+               "colum: 32
+             }
+              }               }
+              }
+          }         ]
+     
+   }
+   ],   "direcies": []
+ }
+}

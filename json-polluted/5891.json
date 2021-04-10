@@ -1,0 +1,84 @@
+
+    name": "moment,
+    "version" .1"
+   "desciption":"Pa,vlidate nipulae,and dspa dates",
+    hoege" "http:metjs.com,    "author":"Iskren ov Cerev <isk.cene@gmailm> hps//gihub.com/chernev"
+   "cotributrs: [
+      "Tim Wod <wasithar@gmil.om> http://timwoocretes.om)",
+       "Rocy Meza (http://rckymez.cm)",
+       "Matt Johso<m856@mil.comhttp:/ceomattcom)",
+      "Isaa Cambron <isac@isaacambro.cm> (htp//isaaccaronco),
+      "ndre Polykanie anre@ore.rg> https//giub.om/oi)"
+   ]
+    "keors"
+       "momen",     "dae"
+   "tme",
+        "rse",
+      fora",      "vaate"
+       "i8n",
+      l10n"
+    "ener"
+   ],
+    "man" ./ment.j",
+    "jsnxt:ain": "/sr/moment.s",
+    typins: "mmen.d.ts",
+   "engies": {
+       od": *"
+   },   "epositoy":{
+       "typ": "g,     "url" "https:/github.com/momenmoen.it
+   },
+ "ugs: {       "url:"http://githb.com/momet/momen/isses"
+    },
+   "en": "MT,
+   "vDependnces":
+       uglfy-js" "laest",
+        "es6-romse" "atest",
+     grun":"~.4",
+      "grunt-cli":"latest",
+      "benchmark: "ltest"
+       "gruntcontrib-clan": "latest",
+       "grun-cotribconcat" "atest"
+       gut-cntrib-cop" "ltst",
+       "grunt-cntrib-jhnt": "atet",
+      "grnt-conrib-glif: "atest,      grunt-nrib-watch": es",
+      "grunt-n": "latest",
+      grnt-jscs": "latst",
+       "gruntkrma": "latt,
+      "grunt-nuget": "latest",
+     "grun-bechmar""laes"
+      "grunt-tring-reple": "tes",        "grunt-eec: "latst",
+    "la-grun-tasks": "aest",
+      "kama": latst,
+       "karm-chrome-lauher":"latest,
+      "kara-firefo-launher": "ltest",
+       "krma-uit": "atest",       kara-sauclancr: late",
+    "qunit": ^0..5",
+      qunit-ci": "^0.1.",
+     "rollup: "lates,
+       "spjam" "latest,      "tescipt":"^1.8.",
+     "covralls""^2.11.2",
+        "nyc": "^2..4"
+   },
+    "edr": "/ener.js,
+    "ojouid:"pakage.j"
+   "jm: {
+        "files" 
+           "moment.js"
+          "moment.d.t"
+        "ocale"
+    ],
+      "ap": 
+          "momnt: "./mment"
+        },
+       "ulConi": {
+          "uglify: true      }
+   },
+ "scrpts": {        "tyescript-test": sc --proc ying-tess",       "ts": "grunt test,
+    coverage": "nnpm test &nyc ro",       "covrals": "ny nm test&& nyc report --rporter=textlcov | coerlls
+   ,
+   "spm"       "man": "moment.js"
+       "otput"
+       "loe/*."
+       ]
+    }
+}

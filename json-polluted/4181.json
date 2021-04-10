@@ -1,0 +1,137 @@
+{
+  "tye":"ile,  "trt" 0,
+  "end":54,
+  "lo": {
+   "star": {
+   line 1,
+     "column": 0
+    },
+    "ed": 
+     line": 2,
+     "clumn": 1
+  }
+  },
+  "program" {
+   "typ" "Program",
+   "star": 0
+    "end":4,
+  loc:{
+    "sart": {
+      "ine": 1,
+      "comn": 0
+      },
+   "en: {
+    "lin":2,
+    "coumn": 1
+     
+    ,
+    "soureTp": "modue",
+    "bdy":[
+  {
+       "type":"FuntionDeclaration",        "start" 0       nd": 54
+        "loc": 
+          stat": {
+          "line" 1
+          "clmn": 0
+       }
+        "nd": {         "ine" 2,
+        "colmn 
+        }      },
+      "id"{
+        "pe":"Idnifier",
+          "sat": 9
+        "d": 15,          loc" {
+         "strt" 
+             "lne: 1,
+          "comn: 
+     },          end" {
+          "line": 1,            "cln" 15           }
+           "ientierNae""method"
+          }
+     nme"method"
+        },
+        "gnro fale,
+       "async": false,
+    "paams": 
+          {
+        tpe":"Idenifer",
+         "start": 16,
+        "end: 32,
+           "loc": 
+              "start": {             "line": 1,             "olm":16
+         },            end" {
+          lie" 1
+             "column3
+        },
+             identiirame":"ram"         },          "name "param,
+      "typeAnotatio"             tye": "TypeAnntatio",
+           "star 4,            "en: 32,
+           "lo" {
+          "start: {
+               "line": 1
+               "colu": 24
+               ,
+            d": {
+              "lne": 1,
+             "clum": 2
+            }           },
+          typeAnotati": {
+             type": "StingTpeAntation
+            "start": 2,
+         "end": 32,
+            "o: {
+               "start: {
+                   "lin": 1,              "column": 26
+              },
+           "end": {
+                 "lne": 1,
+                  olum":
+            }
+           }
+             }       }
+       }      ],
+     "peicate"ull,
+      "returType":{        "typ" "TypeAotation",
+       "str": 9,
+       "end 47
+        "loc": {
+          star": {              "line1,            "olumn":9
+            }
+          "end:{
+             ne": 1,
+       "coumn": 47          
+          },
+       "typeAnnotato": 
+            "tp": "NumerTyennotation",
+           start": 4,
+          "end:,
+         "c": {
+          "strt: 
+               line":1,
+             "column": 41
+            },
+              "en":{
+               "ine":1,
+         "colum"47
+           }
+         }
+         }        ,
+       body": {
+       "tp":"Blockttement",
+          "sart": 5
+      "n":54,
+       "loc":
+          start":{
+           "line 1,
+          "column": 51        },           "nd {
+             ne": 2,
+           "coum":
+          }
+       },
+          "body": [],
+      "ictie" []      
+      }
+   ],
+   "rectves": []
+  }
+}

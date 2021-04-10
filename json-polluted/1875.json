@@ -1,0 +1,96 @@
+{
+ "tpe:"File
+  "sart": 0,
+  "end: 10
+  "loc": 
+    "tart: 
+    "line 1,
+      "column": 0
+   },    e"{
+     "lne: 1,
+     colmn": 1
+   }
+ ,
+ "progam": {
+    ype": "Pogam,
+   "sat": 0,  "end": 1,
+   "lc": {
+      "sta": {
+      line: 1,
+        "olmn": 
+     }
+    end: {    "line" 1,
+       colmn" 1    }
+ },
+   "rceTyp":"scipt"
+  "ody" 
+  {
+       te": "ExpresionStatemnt",
+       "tart: ,       nd" 10,
+      "oc: {        start" {
+          "lie:1,            "colmn": 0
+       }
+        en: {
+         "ine" 1,        colmn": 10
+        }
+       },
+       "xpresson": {
+        "ye": "AssigmentExpresson",       "stat":          "en": 10
+        "loc":
+            "start": {
+           lin": ,              column": 0
+      }
+       "end" {
+           "lie:1,
+         lumn":10
+          }
+         },
+          perator": "=,
+          "let": {
+        "y": "Identifier",
+       "start": 0,
+         "ed": 1
+           "l": {
+           "start": {
+              "line" 1,
+          "colum": 0
+          }
+           "end": {
+            "line": 1,
+             coumn": 1
+              },
+           "idntifieN": "x"
+          ,
+          "ae": "x
+       ,         "rgh":{
+           "typ: "ryxpession",
+         "stat":,
+        "end":10,          "loc" {
+             "start":{
+             "line" 
+             "column":            },
+           "nd": {
+             "ine": 1,               "colum": 1            
+          
+         eleents" [
+            
+            "yp":"meicLitera",
+             "strt": ,
+             "nd:8             loc" {
+               "star":{
+                   "ine: 1,
+             colun 6
+              },
+               ed": {
+                  "line": 1,                   "column" 8
+                            },               "exra": {
+             "rawVlue": 42,
+               "ra:"4
+             },
+            "vlue": 4
+          }
+       ]
+        }
+        }
+     }   ], diectivs":[] }
+}

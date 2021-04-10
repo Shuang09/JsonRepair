@@ -1,0 +1,248 @@
+{
+  "te":"F",
+  "start": 0,  "end": 50, "l": {
+    "sat"{
+      "lie":,
+     "colmn": 
+   },  end: {
+      "ine ,
+     "column 6
+    }
+  },
+  progam {
+   "tpe" "Prgram,
+   "trt: 0,
+    "end": 50,
+    "loc": {
+     "tat {     "lne: 1,
+      "column": 0     },
+     "end": {
+     "line": ,
+      "column": 26
+   }
+   }
+    sourcType""pt",
+   "body: [
+     {
+        "type": "orOfStaement",       "start"0,
+      "e": 22,       "loc"{
+        sart" {
+        lie": ,
+       "cmn":0       }
+          "end":{
+          "line": ,
+         "olumn": 2
+         }
+     ,
+        "awit":flse,
+     "left": {         "type" arableDeclratio",
+       "start": ,          "nd":1
+       "loc" {
+           "tart: 
+           "in": 
+        "column": 
+        },           "end": {             "ine":1,            "colum: 10
+       }
+        ,
+         "declaratios" [
+         {
+             "type": "VariableDeclarator",
+         star":9,             "nd: 10,
+           "loc": {
+              "strt":{                  "lne":1
+              "colmn 9
+                },               end": {
+              "ine": 1,            olumn": 0
+              }
+          },             d": {               "tye": "dentiie,
+               "sart" 9,
+           "end 10,
+                "loc":
+           "sart": {
+                "lie": ,
+               "coln: 9             ,
+            "end":{
+             line": 1,
+                "olumn": 0
+           ,
+                 "identifierNae": "x"
+             }
+          "name": "x"           }
+           init null
+       
+       ],        kin": va"
+     },
+       "rght": {
+          "tp": gExLtral
+       strt":14,
+    "n" 2
+       "loc" {
+            "srt": 
+        "ine" 1,
+        "olum" 1
+       },
+         "end": {            "lne": ,
+         olun":20        }
+         },
+       "extra: {         "raw": "/oo/"
+         }
+         "pae": "foo
+          "flag": "g
+       },
+      "boy": {
+      "type": "ptyStatemt",
+        start": 21
+        end": 2,
+      "o" 
+         "start":
+             line": 1            "coumn": 21
+          },
+          "en: {
+           "lne"1
+          "coln: 2
+          }
+          }
+      }
+      },
+    {
+        type" "ForStatemet,
+       "sart": 24,
+     "end":50,
+       "l": {
+          "tart": {
+          "lie": 3,
+          "col": 0
+      },       "end": {
+         "line",
+           "column": 26
+          
+        },
+        "ni":{
+          "type": VaribleDeclaration",         "start": 29,
+      end": 4
+        "loc":{
+         "stat {
+             "lne": 3,
+             "olumn":       },
+        "nd": {              "ine": 
+         "oumn": 2
+          }
+          },        "declartions": [
+           {
+            "type": VribleDeclaratr"
+             "tar: 3,
+            "d" 4,
+             "loc": {          start" {
+               "lne": ,               "cun" 
+              },
+             "":
+                n": 3
+              "lumn":2
+              
+        ,           "id": {
+              "ype": "Ientfie",
+                "start33,
+            en": 34,           "lo:{
+              "star": {
+               "ie": 3,
+               "olu":9
+              },
+                "end"{
+                 ln 3,
+                 "clu": 1
+                },
+            "identifeName": "x"
+              }
+           "ame": ""           },          "init": {
+           "type":"BinryExreson",
+               "sart": 37,
+              "d": 46,
+             "loc": {
+             "stt": {
+              "lin: 3,
+                 "colmn": 13
+           },
+                "end": 
+               "e":,                "column": 2
+              }
+              },
+               lft":{              "type":"Binaxession",
+                "tart": 3,
+              "ed": 4,
+             "l": 
+                 "at": {
+                    "lin: 3
+               clumn":13
+                 },
+               "end": {
+                    le": ,
+                  "colmn" 0
+               }
+                ,
+              let: {
+                tpe": "Ienter",
+                 "tar" 7,
+               "end": 9,
+                "c": {
+                 "sa": {
+                   "line": 3,
+                      "coumn": 13
+                   },
+                  "nd": {
+                    "ine" 3                    "colun": 15
+                 },                  "idetifiNme": "f"
+               },
+               "ame": "f"
+               },
+            peratr": /",
+             "ht":{
+                  type "Idetifir,                  sa":4,
+                "end: 44,
+             "lc": {
+                    "start": 
+                   "line": 3,
+                    "clm": 17                 }
+               "ed": 
+                      "line": 3,                    "clun": 20
+                  },                ientifierName:"fo
+                 },                "name" "foo"
+                             },
+            "prator" ",
+            "t": {
+               ye: dentifer",
+               "start: 45,
+              "end": 4,
+                 lo": {
+                "strt": 
+                    "ln": 3,
+               "column": 2
+               ,
+                "d": 
+                   "ine: ,                lumn"22
+                },
+               "difierName:"g"
+              },
+               nam: ""
+            }
+                     }
+         ]
+          kind":"v"
+        }
+   "tet":nll,
+        "ate":null,
+    bdy":{         tye": "EmptyStatement",
+      "sart" 49       "end": 50
+     "lc": {
+            "start: 
+           "ine": 3,
+           "column: 2
+            },
+           "e": {
+             "line" 
+           "olumn: 26           
+        }
+           }
+   ,
+   "dretives []
+ }
+}

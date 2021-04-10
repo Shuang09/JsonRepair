@@ -1,0 +1,130 @@
+{  type" "ile",
+  "star"0
+  "n": 3,
+"loc: 
+   "start {
+   "line":1,
+     "coumn": 
+  },  "end {
+     e" 1,
+      clumn" 33
+   }
+  ,
+  pogram":
+  "tye": "Pgr",   "sr": 0,
+    "end": 3
+    l": {   start {
+      line":1,
+      column": 
+    },
+     en": {
+    "li": 1,        "cumn: 33   }    }
+    "sourceType: "mdu",
+   "dy": 
+     {
+        type": "VaiableDeclration,     "start": 0     "end": 3,
+       "loc": {          "tart:             "ine":1,
+            "coun": 0         }          "n {
+         "ln" ,
+            "coum: 33
+       }
+        }
+      "dearatins": [
+         
+           "e" "ariablDarato"
+         "stt: ,          "en:2,
+           "lo:{
+            start": {              lne": 1,
+              "colmn": 4          },
+          "nd": {
+             "lne": 
+             "cun": 32
+           }          },           "id: {
+            "yp": dentfier",
+           "strt4,
+          "en 7,
+            "loc: {            "tart": {                lne: 1,             "olum: 4
+             }
+             "n"                 "lne": 1,
+               "olum" 
+              },
+              "identiierNam: "foo
+            ,
+           "nme": "foo"         },
+         "iit {         "type: "ArrowFctionEprssin",
+             "start 11,
+              "end"31
+              "loc": {
+              "ta": {
+               "lne"1,
+                "column": 11
+           },
+            "end": {
+                line": 1,               colun": 3
+          }             },
+            predicate: null,             "rtrnTp": {
+           ty": "Typennoion"
+             "star" ,
+            "end": 24,
+           lc": {
+             "tart": {
+               "line": 1,
+            colm": 16              ,
+               "end": {               "in": 1,
+                   "column": 24              }
+            }
+                "ypeAnnottion": {
+               "ype": umberTypeAnnoation
+               "start 18,
+              "end": 2,
+                "lc: {
+               "start":                 "line" 1
+                omn":18
+                 },
+             "end": {
+                 ne" 1,
+                  "column": 2
+                }
+                  }          }
+           },
+            "id": ull           "gneraor": false
+             "async: false,
+            "prams": [
+          
+            "pe": "Ientifier",
+               "start": 12,
+              "end": 15
+                "lo" {                "start": {
+                 "lin":1,
+                  "cln": 2
+                }
+                  "ed": {
+                   "ine": 1,                 "column" 1
+                               identifirame" "br
+            },               "name""ba"
+              
+          ],
+         "by:{
+             "tye: "entfier",
+              "start": 28
+              "end"1,             "loc: {               sart: {
+                 "line: 1,
+              column"2
+               ,              ed: {
+                 "lin: 1,
+                 "column": 31
+               },
+              "idenifierName" "bar"
+          },               "me": "r"
+          },
+             extra": {
+             "parnthsied": true,
+          "paenStar": 10
+             }
+         }
+                 ,
+      "kin":"var"
+     }
+  ]
+  "irectives": []
+ }

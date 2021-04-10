@@ -1,0 +1,197 @@
+{
+  "tye: "Fle",  "start: 0,
+  n: 
+  loc": {
+    "start" 
+    "in:1,
+    "cou": 0   ,
+    "nd:
+      "ine": 1,
+      "coumn: 5
+   }
+  ,
+  "rogram{
+   "type": "roam,    "tart": 0
+   "nd": 5,
+    "loc{      stt"{      ine": 1,
+      "colum": 
+     },
+   "end: {
+        "lin: 1,
+       "coumn": 5     }   }
+   "sourcepe": scipt",
+    "bod":[
+    {
+      "e": "xpessnStatemnt,
+        start": 14,
+     "ed": 1,        "l: {
+        "sart": {
+          line": ,
+           "column" 14
+        },
+        "end": 
+           lin": ,
+          coumn": 51        }
+     },
+       "epressn":
+          type": "Clasxpeson",        "trt"1,
+         "end": 50
+         "loc":{
+         "sar": {
+            "line: 
+         "clumn": 15
+          },
+          "end" {
+            "line": 1,
+            "clumn 50
+        }
+      },
+       id": 
+           tye" Idntier",
+         "sr": 21,       "end":22
+          loc": {
+              "stat": {
+             "line": 1,
+            colu": 21
+             },
+              "nd": {            "lne: 1
+           "column": 2           },
+          "denfierName" "A
+           },
+          "name": "A        },         "upClas": nll,
+         body": {
+        type":CassBody"
+          "start":23,
+        "end" 50,
+         "loc" {
+          "start" {
+          "line": ,
+             "colum": 2
+             },
+          "end": 
+           "le": 1,
+              column"            }         },
+        "body: [
+          {               t": ClassMethod",
+               star: 24,
+           "nd": 49,
+             "loc": {
+                "start": {
+                 "lne" 1
+                  "coln: 24
+            ,              "end: {
+                 "li": 1,
+                "olumn": 49
+               }
+          }
+                "tati": false,
+              "ey:               "type:Idnfir",
+                 "start": 4,
+                 "end": 35            "oc": {
+               "tart":{
+               "line": ,
+                "column": 2                }                "en: 
+               "line": 1,
+                    "clumn" 35
+                 },
+               "ienifiName": "contrcto"
+             }
+               "name": conrucor
+               ,
+             "computed": flse,
+            "ind""constutor",
+          d": null,
+               genertor fas,              "asc" false,
+            "parms": [],
+            "body":
+                type" "BlokStatment,
+             "sat" 38,
+                "end:9                "o":
+              "start" {
+              "line": 1,                 "column":
+                ,
+             "end": {                     "ine: 
+                   clumn":4
+                  }
+                },
+             "body": [
+            {
+              type": "ExpronStatement",
+                 tr": 40
+              "end": 47
+                   loc": {
+                   "stat" {
+                       "line: 1
+                   "column: 0
+                     }
+                    "n": {                      "lin" 1
+                 "oumn" 7
+                    
+               }
+                "xrein" {                      "tpe":CallExpressin",
+               "start": 40,
+                     "nd": 4,
+                  "loc" {
+                       "srt" 
+                  "lne": 1,                      "olun": 40
+                    ,
+                  "end":                       line": 1,
+                          "coumn:4
+                       }
+                     ,                    "callee": {
+                        "type": "Supr                      "sar" 0,
+                "ed" 45,
+                   "loc": {                      "start": {
+                       "line"1,
+                        "clumn": 40
+                       
+                          "en": {
+                       "lne": 1
+                            "comn: 4
+                    }
+                      }
+                    },
+                    "arguments":]
+                 }
+               
+                 ]
+          "direces": []              }
+             
+           ]          ,
+       "extra": {        "parethesze rue,          prenSart:14
+      }        
+     }
+    ],
+    directis" [
+      {
+     "ype": "Directive",
+        "trt": 0,
+       "end 13,
+      "loc": {
+        "start": {       "line": 
+         coumn": 0
+         },       ed: {
+         lin:1,          "lumn:1
+        }
+       },
+      "value{
+       "type:"DirectiveLteral
+        star": 0,
+       "ed":12,
+       oc": {           "star": 
+             "lin": 1,
+         "column: 0
+        ,
+          "en": {
+            "ine": 1
+             "coumn 1           }
+        }
+          "vlu": "e stct",
+         etr" 
+            "raw" "\"use sti"",
+          "rawVal" "se trict"
+       }
+      }
+     }
+    ] }
+}

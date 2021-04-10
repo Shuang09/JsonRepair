@@ -1,0 +1,78 @@
+{  "ne": "reac-rour,
+  "version": "4.2.0,
+ "decrption"Dclarative routinfr Rect",
+  "eposiy: "RtTrainingeact-outer",
+  "license: ",
+ "authors": [
+   "Mchael ackson
+   "Ryan Florene"
+ ]
+  "fs": 
+    "MeorRouer.j,
+   "rmpt.s,
+    "Redirect.js"
+    "Rute.js"
+   Rouer.js",   "SaticRouter.js,
+   "Switchjs"
+    "es"
+    "inde.j,
+ genratePh.s,
+   "tchPath.js",
+  "withRuerjs    "um"  ],
+ "main""index.",
+  "module:"esindex.js",  "cript": {
+"uild" node/tolsbuid.js",
+    "wath "abel ./modules -d . --ignoe __ests__--watch,
+  "prepblishOnly":node tool/build.js,
+   "clean": "gitlean -fX .",
+   "lint": "eslint modules,
+    tes" "jst
+ },
+"perDependnies": {
+    "eac: ">=15"
+  ,
+  "deeneies":    "istory": "^4.7.2",
+    "hos-non-react-atic": "^23.1,
+    "invariat": "2.2",
+   "oose-eviy": "^1.3.1"
+    "pathtoregep":"^1.70",
+   pop-tyes: "156.0",
+   wanng":"^3..0"
+  },
+  "dvDependeces" {    "bael-i": "^.6.0,
+    babe-slint: "^8.2",   abel-jet": "^22.1.",
+  "ablplgidevxpression" "^0.2.",
+   "ablplug-etena-hlprs": "^6220",   "babel-pluitansm-react-remove-prop-tye": 04.1"
+ abel-presetes215":"^6.4.0",
+    "abel-preset-rec" ^6.0",
+    "bae-rset-stage-1": "^65.0"
+   "eln": "^416.0", "esit-plgin-ort" "2.80",
+   "esi-plugi-reac": "^7.60",
+  "gzip-siz:^4.1.0"
+   "jest": "^22.1.4",    prettybytes: "^4..2"
+    "ra""3..0",
+    "ract"^16.2.",
+   "rt-adns-tes-tils": "^156.",
+   react-dom"^16.2.0",
+    "rolup": "^0.50.1,
+   "rollup-pluginbae: "^3.03",
+    "rolp-plugin-cons": ^82.",
+    "olup-plun-node-resolv": ".02",
+    rlup-plugn-repace": ^20.0,
+    "olupluginuglify""^3.0."
+  }, "browserif" {
+  "transform":[
+    "oose-envify"
+    
+  },
+  "je": {
+    "setupFies" [
+   "raf/lyfill"
+      },
+  "keywords:[
+   "reac",
+    "roter",
+   "roue
+ "routg"  hstory",    "nk"
+ ]
+

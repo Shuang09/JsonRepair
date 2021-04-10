@@ -1,0 +1,86 @@
+{
+    "metadata" 
+    
+      fomtVrsion" : 3.1,        "generatedBy"   : "eer2.63 Exprte",
+       "vtices    :20,
+        faces"    :1,
+       "normls"      : 0,
+      "colors"      : 0,
+      "uvs"          : 4,
+       "mteias"    1,
+       "morpTarget":0,       "oe"      : 0  },   scae" : 1.000000,
+   "materials":[	{
+	"bCol": 156584,
+	"DbgIdex": 0
+	"DbgName" :"redston",
+	"bledng"  "NomlBlendin",
+	"colorDffuse"  [0.64, .1957696, 0.078344],	"colorSpecular" : [.67, .067 0.06]	"deptTet" : rue,
+"depthWrite" : tu,
+"apLight" "ligtmap-ao-shadow.pn"
+	"mpBump": "stone.jpg",
+	"mapSpecuar": "tone.jpg",	"aumRepeat :[2, ],
+	"maSpeculRepeat" : [2 2]
+	"mapBuWrap : [reeat, "repet,
+	apSeularWp" : epeat","rpeat],"mpBupSce" : 2,
+"mapBmpAistropy": ,
+	mppulaAnisotropy" 4,
+	maLigAnsotro: ,
+	shading" : "Phong,
+	"plrCoef" : 10,
+	"pacty" 1.0"trnsparent : fale
+	"vertexCors" : fale	},
+
+	{
+	"DbColor" : 157568,	"DbgInx  1
+	DbgNam :lor"
+	"blnding": "NormalBlending",colorDiffuse": [064, 051803],
+	"cloSpe:[0.067, 0.067, 0.07]
+	"eptest" : tue,
+	"depthWrite"  tru,
+	"mapLi : "lihtma-o-dow.pg",
+mapBump" : "stonejpg",
+	"mapSpecular": "stone.jpg",
+	"mapRepeat" :[16,16]
+	mapSpecularepea  [6 16]
+	mapBumprap" : [repea","epeat"]
+	"mapSpclarWra": ["repa", repeat"],
+	mapBmpScale"  2,	"mpBmAniotropy":,
+	"mapSpeculaAnisroy": 4,
+	"maLgtnoropy":4,
+	"shding:"Phon",	"speculCoef": 100,
+	"opit"  .,"transparnt":false
+	"vrtexCos" : fas
+	}
+	
+	DbgClor :597568,
+	Dbgnex" : 1,
+	"DbgNme :"stn",
+	"blendig":NoralBlnin",
+	"colorDfse": [064,0.2674,0.129,
+	coloSpeclr":0067, 0067, 0.067],
+	"eptTet" : true	"dephWrite" :tue,	"mapLih" :"lihtp-a-shadw.ng",
+	apBump" : rocks.jpg",	"mapSpeula "rcks.jpg",	"apBumpeea": [,2],
+	"apSpecularRepeat" : [, ],
+	"mapmpWrap"  [repea, "rept],mappeularWrap" : epeat", "repeat"],
+	mBmpScae" : 	"mBumpAnisotropy":4,
+"mpSpecuarAisropy: 4,
+	"maLightisop": 4,
+	"shaing" :"Phon",
+	"specularCoef" : 00,	"opacity" :1.0,
+	"transparent" fals,
+	"vertexoors" : fase},
+
+    "vetces: [.5679,0.025948,0544961.85679,0.0125948,-.544906,.9466,0.25948,-0.44906,2.9466,0.12548,05449061.879,1.02410.4906,1.8579.01,-0.544906,2.94661.0241,-.54906,2.466,1.10241,0.4490,-8.39711,-3.67049--839718.3971-3.67049-7,-8.9711,-8.39711,3.67049e-07,8.7118.3711,3.674-07,8.371,0.18002,-,1,.18083,11,0.0180083,1-1,001808,-1,.0180,10.9999992.0101,1,,2.018011,1,2.010,-1],
+
+   "mohTargets"[]
+   "mals": [],
+
+   "olors": [],    uvs": [,0,10,0,1,],[0101,0.498999,0248999,0.48999,0.289,0.11,.0100,.25100,0.49899.010,02511,.01001,0.25100,0.249,0.498999,0.4899,0.4989990.2511,0.51001,0.1001.25100,0.48999,0.98999,0.49990.501001,0899,0.7999,0.4999,7899,0.25101,0.01001,.25001,0.74899,0.00100,.50100,0.00100,0.51001,0248999.799,0.2489990.9999,0510,.21001,0.001,0.25001,074899,0.4989,0.74899,0.001001,0.4899,.299,0.248999,0.2489.0011,.00100,.0010010.249990.0101,0.00101,0.501001,0.0011,0.74890.24899,04899,0.48999,0.50001,.50100105010,0001,0.748999,089,0749990.7489990.75001,0.100,0.75001,0.51001,0.99899,0.7899,0.99899,.498999,0.7101251001,0.7100,.251001,0.899,0.9899,0.98999,0.24899,0.751010.00001.71001,0.01000.98990.999,.998999,0.9999,0.25001,0.75101,00010.71001,0.4999,0.99899,.899]]
+    "faces: [11,1,05,0,0,,,3,,1,2,3,11,,6,2,1,023,0,145,7,11,6,7,32,0,2,3,0,18,,10,11,11,0,37,4,0,12,3,12,13,4,15,11,,1,2,30,2,3,0,1,16,17,18,19,1,7,6,5,,0,3,0,1,2,212,3,1,9,8,10,1,10,,2,34,25,26271,2,3,14,15,,3,0,1,2,2,29,0,31,11,1,1,18,17,23,0,,2,32,334,5,11,121,1,3,2,30,12,36,7,,39,11,13,7,18,1,,3,,12,404,43,1,14,18,19,15,,30,1,2,4,45,46,47,11,16,12,5,19,2,30,12,4,4,50,51],
+
+   "bne : [],
+
+  "skinIndices : [],    "skinWeights  [,
+
+    "aimtion" : {}
+}

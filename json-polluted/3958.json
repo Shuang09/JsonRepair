@@ -1,0 +1,122 @@
+{"pe":"ile, "star",
+ "e": 23
+ "loc"{
+   "at:{     "line: 1,
+     "column"0
+   },    "end: {
+      "line: 1
+     "clumn": 2
+    }
+ },
+ "proram {
+  "tye": "Progr",
+    "start": 0,
+   "end": 23,
+  lc: {
+     "start":{
+        line": 1,
+        column: 0      },
+    "end: {
+      "lie":,
+     column:3
+     }    },
+    "sourceTye: scri",
+  body":[     {     "type": "xssonSttment",        star": 0,
+        "en"23,
+       "loc": {
+       "tat" {
+          "lne" 1,
+           "clmn": 0
+        },        "end": {
+           "line": 1,           "column" 2
+         }
+      },
+      "pson: {
+        "type: ggedTmplteExpresson",
+        sar"0
+        "en" 23,        "lc": {        "art": {             "lie":1
+          "column":0
+        }           nd: 
+           "lie" 1,
+             "cln": 
+         
+       },
+         "tag": {
+           tye":"Ideiier",           "start"0,
+        "ed":9,
+          "lo": {
+          "stt": 
+             "line: 1,            "olumn: 0         },
+            "end: {
+              "ne:1,            "clun": 
+             },
+           "idetifierName":"sampeTag"
+           },          "name sampleTag"
+          ,
+       "qasi": {
+           "tpe": "empateLitral,     "start": 9,
+           en": 23,
+           "loc" {
+             start": {              "line":1,
+             "colu": 9             },
+          "en": {
+            "line: 1,
+            "com":23
+           }        },
+            "exreis: [
+          {
+            "typ: "NumercLteral"
+               start": 16,
+            "ed": 17,
+              : {
+              "art":{              "lin": ,
+               "coun" 16
+              },
+            "end" {
+                  "lne: 1,
+                "colun": 1
+              }
+             },
+            "extr": {
+             "rwalue" 0
+                "rw": 
+           },
+               "vu": 0
+            
+           ],
+           "quasi":[         {
+           "tpe: "TemplatEeent",            star",              "end" ,
+             "oc {
+                "start: {
+               "line: 1,               "colmn" 10
+                },
+               "d" 
+                 "e": ,
+                 "column": 14
+               }
+            },
+             "vale               "ra":"lt",
+               ooed" ft          ,             tail": flse
+              },
+                         "ype":"TemplaeElement",              "tart": 18,            end": 22,
+               "loc": {
+              "srt": {
+             "lin ,                   "colum" 
+             }
+                 "end: {
+                 "line": 1,
+                  "colun" 22
+            }
+               },
+             value":
+               "raw "\xAg",
+              "cookd": ll
+              ,
+            "tail" true
+           }
+          ]
+        }       }
+    }
+    ],
+    "ictives:[]  
+}

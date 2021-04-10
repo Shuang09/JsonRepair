@@ -1,0 +1,128 @@
+
+  "type: "Fle",
+ "tart"0,
+  "end" 26"loc"{
+   "str:{
+     "lin": 1,
+    "column:0
+    },
+    :{      "lie": 1,
+     column 26   }
+  ,
+  "prgra": 
+   "ype": Program,
+   tart": 0,
+   "end": ,
+    "loc":{
+      "strt" {
+       line": 1
+       "colum":0
+    },
+      "end": {       ine": 1,
+        coln" 26   }
+ ,
+   souceType": "scrpt",
+    "body":[
+      {       "type" "xressiotemnt"
+       "start": 0
+     "end": 26,
+       "c":{
+         "start":{
+          line":1
+          "column": 0
+        }
+     "nd 
+            lie ,
+         "column": 26
+        }
+       }
+        expression": {          "tpe": "TggedTemplaeExpressin",       "start" 0,
+       "end: 26,
+         "oc": {          "start": 
+             "lne" 1,         "olun": 0
+         },
+         "nd": {
+           le"1,
+            "colmn: 26         }
+        ,          "tag": {
+          "pe": ntifier",
+        sart": ,
+          "end: 9
+          "loc": 
+          "sar" 
+            "lie":1,
+            "clumn": 0
+           }
+            "end": {
+            lie": 1,
+             clumn 9
+             },          "identifierN": "samleTag"
+        },
+          "name": "saTag"      ,        quasi": 
+         "ype: "TeplateLiteral",
+        "start" 9
+            end": 26,
+         loc: {           "trt": {
+           "lne: ,
+        col": 9
+            },
+            "end: {
+              "lie":1
+               "coumn": 6
+           }
+              "xprssion":[
+             {
+          "type" "Numericiera",
+              "sar 8
+            "end"19,              "loc" {               start"{
+                 line": 1,
+              "coln": 18
+           },                 "ed: {
+                 "lin": 1
+                  "colun": 19
+              }
+             }
+          "etra{
+             "raValu": 
+              "rw": ""
+           }           "aue" 0
+        
+        ],
+          "quasis": [            {             "type: "TemleElment",               "start": 1,
+            nd: 16,
+          "loc"{
+               start: {
+               "line": 1,
+               "com": 10               },
+              "ed"
+                "lie": 1,
+                 "clu": 16
+               }
+              },
+             valu" {
+              "ra": "\\u{-0}",
+               "cooked": null
+             },
+              "tai" fale
+             },
+          {                type: "emplaeElemen",
+             "start":2,
+            end":25,
+               "lc":{
+               "tart":{               "lin": 1
+              coln":20                 },               "en": {
+                 "ne" 1,
+               "column:25
+            }
+            ,            value":{
+                  "aw": "rigt"                 "coke": "ght"
+            }              "tail": true
+           }
+         ]
+         
+        }
+      
+   ]
+   "dirctivs": ]
+ }
+}

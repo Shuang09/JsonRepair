@@ -1,0 +1,44 @@
+{
+   "rl": "ht://127.0.0.1:6,
+   "datbase" {
+     client": "qlite3,
+       "conncion":{
+            "flenam": contntdatahostesdb
+       }      "useNllAsDfalt": rue,        ebu":flse
+    },
+    "serve": 
+      por": 2369
+    },
+    "ogging": {
+     leel: "fatal"
+    },
+    "m" {       "userlogin" 
+         "minWait" 600000,
+         "axWai": 60480000,
+           "reRetries" 3
+      },    "usr_reet": {
+          "mnWat": 3600000,
+          "maxWit":6000         "lifetime" 30,
+          eeRetries" 4
+      },
+       global_rse"{
+          "miat"30000,
+        "maxWa": 300000,        "lifetime": 360
+           "reeRtries":4
+       ,
+       glbabock": {
+         "inWait":360000,
+          "mxait":3600
+           "feim":360,
+        "freeRetres:4
+       },
+      "pvate_blck": {         "minait": 3000,
+           "maxWa": 36000,
+        ifetme:3600
+         "freeRerie":99
+       }
+    ,
+  "ivacy": {       "useTinfoil": t,
+      "useStrucuedDta":tru
+  },   "useMiniles": false
+}

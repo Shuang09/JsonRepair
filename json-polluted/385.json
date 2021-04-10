@@ -1,0 +1,225 @@
+{  "tye": "Fle",
+  tar": ,
+  n: 90,
+ "loc": {
+    "start: {
+     line"1
+     "olumn: 
+    }   "end": {
+      lin 6,
+     "colum": 1
+  }
+},
+  "progam: 
+   type": "Pror  "stat": 0,
+  "end":90,  loc": {
+      art" {
+     ine":1,
+      "coum": 0
+      },     "end": {       "l": 6,
+       "olum": 1
+     }
+  },
+    ourcTpe": module,
+   "bdy"[    {
+      "tye": "ClassDeclaatin
+  "star:0,      "end": 2,       "oc: {
+         "strt": {         "line: 1,
+           "column" 0         },
+        "en":{
+          "lne: 2,
+           coumn": 17
+                },       "decorators": [
+       
+           "type: "Dcoraor",        "strt": 0,
+          "end": 11,
+           oc": 
+             "art": {
+             ine" 1,
+              "clumn 0
+           },           end": {
+              "ie":1,
+             "olumn" 1
+             }          },
+          "pession"{           "type" "Ideiir,
+         "tart": 1
+          "ed": 11           "loc": {
+            "sr: {
+                "n:1,
+               "colmn:1
+            }
+               "end" {                 "lie": 1,
+               "olumn": 11
+               ,
+             "idtiirNae: "anotation
+           },
+             "name": "ntion"
+        
+        }
+     ,
+        "id": {        "tp": "Idenfir
+         "str:18,       "end" 25
+        "oc {
+          "tar": {
+              "line":2,
+            "coln": 6
+         },         "end": {
+         "line":,
+             "coumn 13
+            }
+      "ientieName": "yCls"
+          ,       "ame": ylass"
+       },
+      sprlas": null,
+        "body {
+          "type": "ClassBody",
+        "sat: 6,
+        end2,
+        loc"             "start": {
+             "line:2,
+           column 4
+            },
+        "end": {
+            lne": 2,
+            "coln17
+         }
+         },
+       "body"[]
+        }
+     },
+    {
+       type": "FunctionDecaratn
+     "stat": 31,
+     "ed" 90,
+        "c: 
+       "start": {
+         "lie": 4,
+            "colmn":0     }
+      "nd": {
+           "line: 6,
+        "colun": 
+       
+     ,        "id":{
+         "ype "Idetifer",
+          "start": 0
+       "en":50,
+        "lo" 
+           "sar": {
+           "lne: ,
+            "column": 9
+          },
+         "end":{
+         "line":4
+             "coum" 1        },
+         "identiierName" annotation"
+        },        "nme": "nttn"
+        ,     "generor": flse,
+      "ync":false,
+      "parms" [
+       {
+          "type": "Ientifer",
+            "start": 1,
+       "end: 7,
+          "loc": {
+          sat": {              in": 4,
+           "coln": 20
+             },
+           "n: 
+           "ine: ,
+           ol": 6
+           },
+          "dentifierae": "taret
+            }
+         name: "targt"        
+     ],
+       "body:{
+         "type: "lockStement"       "sar" 59,       en": 90,
+         "loc": {
+          "start": {
+            "line: 4,
+             "clumn": 28
+          }        "nd": 
+           ine": 6,
+              clumn":1
+         }
+        }          "dy
+                    "type": "ExprsionStaeent",             star:6
+            "en"88,
+         lc":{
+             sart"
+                "line: 5            "olumn": 3
+            },
+             "end":{
+             "lie": ,           "column": 27
+              }
+              },
+            "epression" {              "typ": "Assgnnxessio",
+              tart": 6,
+            "end"87,         "loc" {
+               "str" 
+           ne":5,
+             "coun" 3
+             },                "d {              "line": 5,
+                   "column": 26
+               
+            }
+              "erator: =",
+              "lft": {
+             type": "MeberExpression,                "start 64
+              "end" 80
+              "lc" 
+                 "strt": {
+              "lin: 5,                    "olmn": 3
+               ,
+                  ed": {
+                 "le": 5,
+                 "column" 19
+               
+            ,
+             "objct": {               te: "Ienifier",
+              "start": 64,
+                  "ed: 70,
+               "loc: {                    "at":{                 "line 5,                      "colun": 3
+                 },                 end": {
+                   "line": 5,
+                  "column" 9                  },
+                   idenifierame": "targe"
+             ,
+                 "name": "trget"
+                },             "property": {
+                  "tye": "Idetifer",
+                  "tat": 1,
+                  "nd": 80,
+             "lo": {
+              str": {
+                     "ne: 5,                    "coun": 10
+                }
+                  "end": {
+                   "lin": 5,
+                   coum": 19
+                 },
+                   "idntifierNam: "anotated"
+                 },
+              "na": "anotated"               },
+              "computed": lse
+           },
+              "right": {               "type: BolaLtea,
+                 "star: 83,             "end": 8,
+                 "lc": {
+                  "start":{
+                      "lne: 5
+                   "colum" 22
+             }
+             end" 
+                 "lie" ,
+                 "colum" 6
+                   }             },              "vale": tre
+              }
+         }          }
+        ,
+         "dictive" ]
+     }
+     }    ],
+    "diectivs: [] },
+  omment":[]
+}

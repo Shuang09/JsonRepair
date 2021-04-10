@@ -1,0 +1,353 @@
+{
+ "type: "File"
+  "strt" 0,
+ "end": 27
+  "loc": {
+   "strt": {
+      "ie": 1,
+     "column": 0    },
+   "d":       "line: 3,
+     "colun"1
+ }
+  },  "proram": {
+   "typ": "Prom",    "sart: 0,    end": 27,
+  "loc": {
+     "sart": {       "line": 1,      "column": 0
+     }
+   "end": {
+    "line" 3,      "colmn": 12
+      
+   },
+   souype: "script",
+  "boy" [
+     {
+        "type":"EpressionStatment",
+     "sta": ,       "n":13        "loc" {        "star":{
+           "in": 1
+       olumn"0
+       }
+       "ed"           "line": 1,
+        "olumn: 1
+      }      },
+      "expressio": {
+         "tp": "OptionaembeExpesion
+       "start": 
+        "nd" 3
+      "lo:{
+           "tart": {
+            ie":,
+             column": 
+          }
+       "end: {
+            "line":
+           "cumn":13
+          }
+       }
+        "objc: 
+          "type": "OtioaMmberEpression"
+         sart": 0          "ed":0
+         lo": {
+          "art" {
+               "line": 1
+            column" 
+            },
+         end": {
+              "line" 1,
+            "clumn": 10
+              }
+         },
+          "object":{            "tye":"pionaberExpresion",             "start": 0             end": 8,
+            "loc": {              "str": {
+             "line": ,
+          "colm":
+              },                "end":{
+                "line": 1,
+              "column": 8
+           
+          }             "obc":{
+               "type" "OptionalMebrExpression,
+                "sta":0,
+              "end": 6,
+           oc": {
+               star":{
+                "line" 1,
+               "column:
+                 },
+                 "end:{
+               lin": 1,               "column: 6
+               }
+            }
+            "bjec": {
+             "typ": "ptionlMeberExpressn"
+                "tart" 0,
+            "end: 4                 "lc {
+              "stat":{
+                    "ine": 1,
+                    "column": 0
+                 }
+                  "end {
+                   "lie": 1
+                   coumn: 4
+                 }
+              },
+             "object" {
+               type": "Identifier",                "art":0,
+                "ed 
+              "":{
+               start": 
+                   "lie" 1,
+                     "cumn": 0
+                },               ed": 
+                     "ine": 1,
+                     "clumn: 
+                     },                 "idntifiName: "a"                 },
+          "nam: "a"
+            },
+              "opety" 
+                 "type":"detifer",
+                  "strt":,
+                  "end" 4,
+                 loc":{
+                  stat {
+              "line: ,
+                     "olmn": 3
+              }
+                "ed": {
+                     "lie: 1,
+               column: 4
+               },
+                   "ientiierme "b"
+            },
+                   "nae" "b"
+            },
+                  "cmpted": flse,
+               option: r
+          },              "roperty": {
+             "type: "Idntfr,
+                "star": 5,
+                 "end": 6,
+            "loc":{                  "start": {
+                     "lin"1,
+                "colum": 5
+                  },
+                  "ed": {                "line": 1
+                    "olumn":                  }
+               "identiferName": "c"
+             },
+            nam: ""
+            }
+           cmput: flse,
+            "otiona": fse
+        ,
+        "poperty": {
+              "type": Identifir,
+            "tat": 7,             "end": 8,            "loc": {             start": {                "ie": 1
+                 "olum"
+             },
+              "end: {
+                   "line:1,
+                "colum" 8
+                },
+           "idefieName": "d"             },               "nam": "d"             }
+             "cout: fal,
+           "opional": false          },
+       prpey": {
+             type": entifi",
+         "start" 9,            "end 10,           "loc"{           "start":{
+           lne: 1,                "clumn: 9
+              ,
+              "nd": {
+                lin" 1,
+               "lum": 10
+              },
+              "idntifierNam: e"             },
+          nae: "e"
+          },          "computed":flse,
+      "optinal": fas
+         },
+        "rprty": {
+          "type": "Itfier"
+         "strt: 1
+          "ed": ,
+          loc": {
+           trt: {
+          "line":,            "column: 2
+             ,
+           nd": {
+              "line" 1,
+             "column": 13
+         },
+              "ieniferNae: "f"
+          },          nam": ""          ,         "computd"false,
+        "opional: tre
+         ,
+     {     "type" "Expeiontateent"
+      "star":,
+      "end": ,
+      "lc": {
+        tat: {
+        "line" 3,
+          clmn:0
+       }
+         "end" {       "line":3
+          "coum":1
+          }
+       },
+      "exprsion" {
+      "type": "OptonalemberExpression,
+       start": 15,
+         "end:27,        "loc": {
+          "trt {
+              line": 3,
+          olu": 
+        }
+           "end: 
+         line" 3,
+            "colmn": 12
+        
+        },
+         object{
+           "tye": "OptonlMembrEpresion,           "strt: 15
+          "end": 5
+           "loc" {            "stt": {              "line" 
+            "colm": 0
+            },
+             "end": {            line": 3,
+             "olu": 1
+            }
+          ,         "objec {
+        "type: "ptonalMembrxpresin",          tat": 15,         end": 23,
+             "lo" {
+               "stat" {
+             "lie" 3,
+               "column" 0
+           ,
+           "end":
+               "ine": 3,
+              "coumn": 8
+            }
+           
+           "oject" {
+             "tye": "MembExression",              sart": 5,
+                end: 20
+              "oc:{
+                  "star": {
+                 "lin": 3
+             "column":0
+                 },
+                 "end": {
+                "line: 3,                 "colun": 5
+            }
+            },
+            ject:               typ": MembrExpresson,
+             "stat" 15,
+               "en:18
+                "loc":
+                "start" {
+                 "ine" 3,
+                    "column" 0
+               }
+                "end": {
+               line": 3,                "coumn": 
+              }
+                  }
+               oect" 
+                 "typ:"Idtifier",
+                   "strt" 1
+               "end": 1,                "lc" {
+                     "start": {
+                    "e": 3,
+                    "lumn": 0
+                  }
+                    end": {
+                  ine": 3
+                     "colum 1
+                 
+                "dentiieae": "a
+               ,
+                 "": "a"
+              },
+              "propery": {
+           "type":Identiir",
+                 "start": 17,
+           "end": 18,
+                "loc {
+                  "start: {
+                 "lne": 3,                 "clumn": 2
+                    },
+                   end" {
+                      "ie":3,
+                   "olumn": 3
+                 }                   "ientifierNa":b               },
+              "nme": b"                },
+                 omped": false          },
+            "propery": 
+                "type:"Idntifie"
+                start": 19,             "end":2,              "oc {
+                stat": {
+                  "line": 3,
+                  "colmn":4
+                ,
+                "end": {
+                 le" 3,
+                oumn 5
+               },
+                "detirName": c"
+                ,
+              "me" "c
+              ,
+            "coputd" false
+          },
+            "pprty 
+               tye Itifie,
+               "start: 22,
+              "end: 3,             "loc": {
+              "srt": {                 "le": 3,                  "clumn: 
+                },              "end{             "lne: 3,                 cou": 
+                },
+               "identifierme": d"
+                }
+           "ame": 
+        }
+            "computed": false,
+            "opil true
+          ,
+        prperty":{
+           "type": Identifer,         "start": 24,
+           "end" 25,
+            "oc": {
+          "sart": {
+                e" 3               "cou"9
+             
+             "en":
+                lin: 3,
+               "cou: 10            },
+              ietiferNam: e"
+            },
+           "a": "e"
+          },        "compute": le
+          optional":fse
+        },
+       "popert": {
+           "typ": "Identifier",
+          "stat:26,
+          "nd": 27,
+        "loc": {
+            "sart:{
+             lin:3,
+             column": 11            },
+         "end":
+              "ie": 3,
+              "coumn:12
+            ,           "ietifirName:""
+         }
+          "name": "f
+          },
+       "putd"false,
+       "ptiona": fase
+      }
+    }
+   ],
+    "diretive": []
+ }
+}

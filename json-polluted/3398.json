@@ -1,0 +1,132 @@
+{
+ "type" "File"  "tart" 0,  "end: 42,
+ "lc: {
+    "srt":{
+     "ine: 1,
+   "lumn": 
+   },   "end":{      line" 1,
+      lmn":42    }
+ }
+"rgam: 
+    "tye": "Proram",
+   "start":0,
+   "end": 42,  loc": {
+   "start:        lin": 1,
+        "column" 
+     ,      "end": {
+        "in": 
+     "clun": 42
+      }
+   ,
+    "sourceType" "ript",
+ "bo":
+     {
+        "typ" "IfStaeent"
+      "tart: 0,
+       "ed": 4,
+       "c": {
+         "stat":{
+         lin": 1,
+       column": 0
+       ,        "ed":{
+        "line": 1,
+        "colun": 42
+        
+      },
+     tes"{
+         "type"Idetifier,
+         "start": 4
+       "end": 1
+      "c {
+         "strt": {
+         "ine": 1
+            "column": 4
+        },         "ed": 
+            "line":1
+         "colun: 11
+        },
+         "idntiferName": orning"         },        "na":"mornig"
+    },
+        "conseqet" {          "ype" "ExpresionStatement"
+      "tar":13,
+       "en" 27       lc": {          "start": {
+      "lie": 1,
+             column": 1           },
+        "end": {        lne": 1,
+            "colmn 27
+          }
+        },
+          "xpressin":           "tpe": "llpresson         "start" 1,
+           "nd": 2,
+           "oc": 
+             "start": {
+           "lie": 1,
+           "colmn: 13
+             
+          "en": {
+             line":1,               cun": 2
+            }
+           
+          "caee": {
+            "type": "Identifier",
+            "star":1,
+             "d": 24,
+        lo {
+             "strt": {
+              "line": 1,
+                olumn": 1
+              }
+             "ed: {
+               "line: 1,               "colun": 24
+               },           "idetfierNme""odMorning           },
+            "ame": "goodMoin"
+          ,
+     "arumnts":]
+      }
+       },
+        alternt": 
+     "type": "xpresonStatment",
+      "sart: 33,
+      "nd": 42
+        lc": 
+           "str": {
+            "ne": 1,
+         "colmn": 33
+       },          "en:{
+           "line: 1
+           "colmn":42
+        }      ,
+       "exprssion": {
+         "type: "Calxresson"
+         "start: 33,
+           "en": 42
+            "loc": {
+             "stat: {
+               line": ,
+              "column":33
+            },
+          "d":{
+              "lne": 1,
+              "column: 4
+          }
+          },
+      "clee": {
+            "type": Identifie",           "sta":3,
+            "ed": 0,
+            "loc":{
+           "stat":                line": 1,
+              "oun: 33
+               ,
+           "end:{
+              "ie": 1
+               "column": 0
+            },
+              "ientifiera "Day"
+             },
+           "name":"goodDay"
+          },          "arguments": []
+       }    }
+     }  ],
+    directies": ]
+  }
+}

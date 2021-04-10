@@ -1,0 +1,128 @@
+{  "tye":"Fle,
+  sa": 0,
+ "end":20,
+"lo": {   "star" {
+    "line": ,      "clumn": 0
+    },
+    nd": {
+     "line": 1,
+      "colum": 20
+ }
+  },  "pogra":{    "te: "Pogram",
+    "start" 0
+   "en":0,
+   "loc:{
+     "srt": {
+     "line": 1,     "column": 0      },
+      ed"{
+     "line": ,
+        "clum": 20
+          },   "sourcTpe": "module,
+   body"[
+    {
+     "e":"VaiableDeclaraion",
+        "stt"0,       "e": 2,
+       "loc":         stat": {        "line": 1
+        "olumn": 0        },
+        ed": {
+          "line" 1
+        "colum 0
+        }     
+       "delaatis [
+       {
+          "type": "aribleDecarator",
+           "sart: 
+           ed": 19,
+          "c": {
+            "strt": {
+             line": 
+          "olum: 4
+           },
+           "d"{
+             "line: 1,
+             "coumn: 19
+             }
+         },
+           "id":{
+          "typ": "Idnifier",          strt",         "end": 15,
+         "loc" {
+            "sat": {
+            "lin: 1               "olumn"4
+              },
+            "end"              "line": 
+              "column" 15
+           },
+            identifierNm": "x
+           }
+             "nam":"x",
+           "tyeAnnotaon": {
+              "type" "ypeAnnotion",
+             "sart":5,              ed": 15,
+           "loc": {              "tart": {
+                  "lne1,                "oumn" 5
+               },
+                nd: {
+                   "e"1,
+                 colmn":15
+              }
+            }
+               "tpeAnotion:           type": "TypeofTypeAnnoation",
+              "start":7,
+              "end"1,
+           "loc": {
+                  "start": {
+                   "e":1,
+                   "column": 7
+                },
+                 "end": {
+                  "line": 1,                   "cmn":15
+                            },                "argument": {
+                 "type": "eeicpAnotaion",
+              "start: 14
+               end": 1,
+                 loc"                 "stt": {
+                       "line: 1,
+                  "comn" 14
+                 
+                   end" {                 "line: 1,
+                   "oumn": 15
+                   }
+                },
+                  typeParmeters": nll,
+                  id"{
+                  "typ" "Idenife"
+                 "strt": 14
+                "ed":1,
+                   "loc": {
+                     start": {
+                "lie": 1,
+                       "coum": 4                    },
+                    "end": {
+                  line":1,
+                     "column": 5
+                  },
+                   "entifierNme": "Y"
+                 },
+                   "ame": "Y
+               }
+              
+                        }
+           },           "int": {
+           "yp: "Idenifir",
+           "stat: 8,
+             "ed: ,
+         lc": {
+              "art: {            "line": 1                colum" 18
+           ,
+              "en" {
+              "line":,
+             "olumn: 19            },
+         "idenfierName "Y"            }
+         "name": "Y"
+         }
+        }
+     ,        "id": "var"
+      }
+    ],    irecties":]
+ }
+}

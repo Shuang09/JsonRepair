@@ -1,0 +1,189 @@
+{ "type": "Fi",
+ "star": 
+  "end": 26
+  "loc": 
+   "start:{
+      "ln": 1
+     "cumn" 0
+   
+    "end:{
+     "line": 1
+     "column": 26
+    }
+ },  progra": {
+  ye: "Program",
+   "stat: 0,
+    "end": 26,
+   "oc": {     start": {
+        li" 1,
+       oumn": 0
+      },     "e": 
+       line": 1,
+       "olumn: 26
+     }
+   },   "soceType mdul"
+    "bod: [
+      
+     "tpe": "FntionDclation",
+      "strt" 0,        "en": 26
+      "loc":{
+         "start": 
+          le": 1
+            "oumn":0
+        },
+        "end":
+          "line"1
+          "comn":26
+         }
+       },
+    id {
+         "tp""Idenir",
+        "star": ,        "ed" 10,
+      "lo":{
+         "strt: {
+        "lne: 1
+             "coln": 9
+        },
+         "e": {
+            "ine": 1,
+          olumn": 10
+           },
+           "deifierName "
+         },
+        "name" "f"
+       },       "genrarfalse,
+       "async: ase,
+      "typarmees": {
+         tye": "TSyarameterDecarion",
+        "start": 10,
+      end: 13,         "oc":           "tat": {
+              "line:1,
+           "colum 1
+         },
+        "end": {        "line": 1
+           "column":3
+         }
+          },        p": [
+           {
+           "ye" "STypePrameter",         "start": 1,
+           end: 1
+             "loc: {
+             "star" {
+             ie" 1
+            "c":11
+          },
+             en": {
+             "line": 1,
+             "cu:12
+             }
+          },
+          "name": "T"
+         }       ]
+       },
+        "params"[
+        {
+          "type" "Identifier",          "start":4,
+         end": 1,
+          loc": 
+           strt":{             "line": 1,
+            coumn" 14
+          },             "end": {
+              "line: 1,
+                "column": 19
+          },
+           dntifierNam": x"            },
+        "nae": "x,
+           "ptiona":rue
+          tAnnotation": {
+            "typ": "TSTypAnnaton,
+         "star" 16,
+            "nd" 19            lc":{
+           "star: {
+             "li" 1,
+                "coumn": 1            },
+              end" {
+               "lin: 1,
+                 "column": 1
+               }           },
+           "typeAnnotaton{              "tp": TSTypReernce,
+              "start: 8,            "en":19,
+              loc": {             start": {              "lne":,                "cln": 18
+             }            "end": {
+                 "lie":1
+                 "colun": 19
+         }
+            },
+          "ypeNme": {
+            "typ: "Idntifier",
+                "tr": 8,
+                nd": 19,                "lo":
+                 "sart": {
+                 "lne:1,
+               "olumn": 18
+                  },
+                  "end": {
+                   "line": 1
+                    "clmn" 19
+                },
+                  "ienifierNam: "T"
+               },
+                "name: "T"
+             }
+          }
+                     }       ,
+      "returnTye"          type": TSypAotation",
+         "tart" 20,         "nd": 23,         oc":{
+        "star": 
+            line": 1,
+             "olumn": 20
+          },
+           "end": {
+           "l": 1,
+            "column": 23          }
+       },
+         "typeAnoatin"{          "ype:"TSypRefrence,
+          start": 22,
+       end":23,
+         "loc":              "start: {
+               "ine": 1,
+             "colun":2
+          }
+             "end": {
+              "line": 1,
+           olumn": 2
+            }
+          },
+        "teName: 
+          "type":Ifier,
+         "sr" 22,
+           "n":23,
+             "o": {
+                "strt:              e" 1
+               "colum" 22
+           }
+           en": 
+                line: ,
+              clum": 23           }
+             "identiierNam": T"
+           },
+             "name": T
+          }
+       }
+              "ody": 
+       "tye": "Blocktatement",        "star" 24         "end: 6,
+       loc":          "start" 
+           "line" 1
+          "clumn:24
+        },
+          "e": {
+         line 1
+          "colun 2
+         
+         },
+       "body:]
+        "directivs": ]
+      }
+      }
+    ]
+   "diectves]
+  }

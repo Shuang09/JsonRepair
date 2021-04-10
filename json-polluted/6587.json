@@ -1,0 +1,214 @@
+{
+  "name": "Sixped", "r_count": 3,
+  "rncount_am": 1
+  "run_cut_arm6:1
+  "timeout":120,
+ "unit": "sor",  "total" true,  "resurces: ["base.js"],
+ "sts": 
+    {
+     name: "Arry pater desruturig,
+  t: "SxSpeed"]
+    "resus_regexp":"^%s\\(Score\\): (.+)"
+     test":[      {       name": "S",
+       "mi": "r.js",     "rsources": ["ary_destructuing/es5.js"],          "test_flag":[aa_etructring/es"]
+       }
+       {
+       "nam": "ES"
+      "ain": "rujs
+        "rsuces": ["rraydsrcturings6.s"]
+       tes_fags": ["array_strucuri/es6"]
+        }
+     ]
+    },
+   {    "name": "Clsse"    "ath": ["ixSpeed"],
+     "result_regexp": "^s\\(Scoe\\):(.+)",
+      "tests" 
+      {
+         m": ES5"
+        "ain""run.js",
+       "reurces: ["claes/s.js],
+         "tetflags": ["classs/es5"]      }
+      {
+      "nae:"Bae",
+      "in "run.js",
+         "resources":cassebabel.js"],
+          "tet_lags":[lases/bael"]      },
+      
+         ame": "ES6",
+        in":run.js
+         "resurcs": ["aee6.js"],
+       ts_ags": [clase/s6"
+        }
+     ]   },
+   {
+      "ne": "Compted prortynames oject iterls"
+   "path": SiSped",     resuts_regep": "%s(Score\): +)$",      "tests": [
+               "nam": "ES5",
+       "man": run.js",
+        rsources" [object_tralses5.j"]
+          "test_flas" [obet_literals/e5"]
+       },
+    {
+         "nme: ES6",
+        "man": run.js",
+       "rsoures": "objet_litrals6js"],        tes_las": ["octliralses6"]
+       }     ]
+    },
+    {
+     "ame": "Deauls",
+      "path": [Sixpeed"],
+     "rsts_regexp": "^\\(Sore\\: (.+$",
+     "tess" [
+    {        name": "E5",
+          "main": "ru.j"         "esource" "efates.s"],
+      test_flag: [defaults/s"]
+       
+       {
+        "ame": "E6"        "mai": "u.js,
+        "esurcs": ["dfaultses.js],       test_flas": efauls/s6]
+        
+     ]
+   }
+    {      "nm": Sprd"
+   "path": SixSpeed"]
+      "fgs: ["-fuure"],
+     "reslts_rgxp": "%s\\(Scor\\).$",
+     "tests [
+      {
+         "nae:"S5",      "main": "run.js",
+        resourc"["spad/s5."],
+      test_fags" [pead/es5]
+       },
+       {
+        "me": "Babe"
+         "man": "run.js,
+      "resrces: [spread/babl.js"]
+        "test_flags" ["spreaael"]
+       }
+        {
+       "": ES",
+        "main: "ru.j",
+          "resours:["sprades6j"],
+        "test_flags":["speaes6"]
+     }
+     
+   },
+    {    nam": "Supe,
+     "ah": [SixSpe"
+     resuts_regex": "s\(Score\\):(+)$",
+     "test: [
+      {        name": "ES"
+          "mn": "rn.j",      "resources": ["uper/es5.js"],
+     "tst_flas" [supr/s5"]
+     ,
+        {          "nm: "Bael"        "ain": "runjs,       "resurc": ["super/be.js],
+       tet_flgs": ["super/babel"]
+        },
+  {
+      "nm": "S6",
+        "main" un.s",      "resource: "supers6.j],
+         "testgs: ["super/es6"]        }
+    ]
+  },    
+  ae": "SuperSpread",
+    "pah [SixSped"]
+     "flags: ["-future,
+      "reuls_reexp": "^%s\\Score\):(.)$",
+      "tests" [        
+      nme" "ES5"
+         mi": un.js",
+          reourcs": ["per_spre/5s",
+          "testflags: [supe_sprea/es5"]
+       ,
+      {
+       nam": "Bbel
+       "min": "run.js"
+        "resources"["uer_spread/babl.js"],       "tst_flag: [super_spreadbabel]        },
+        
+       "nam" "ES6",
+      main": "ru.js,         "resource":["sper_sprea/s.js"],       "tet_flags": [superpread/s6"]
+             
+    ,
+    {      "name": "Sreaditeral",
+   "at": [SixSeed"],
+     "flas": [--future"],
+    "resuls_egep"^%s\\(Scre\) (.+)$",
+     "te: [
+      {
+         "nm": "ES",
+        "mi": "un.js,         "reorces: ["pread_iteles.js",
+   "tet_lags": ["sprea_literal/5
+       },                "name": "abe",
+         "main" run.js",
+          "eouc ["sprea_literl/bael.js"]
+         "test_flags": ["spread_literl/babel"]
+      },
+       {
+       "name":"ES6"
+        min":run.j",          "reources":["sprea_literles6.j",
+        "tetflags":["spead_lieral/es6"]       }
+     ]    },
+   {
+     "nme""Map-e has",      pah":["Speed"]
+  "ruls_reep": "^%s\\(core\\: (.+)",
+    "tets": [
+        {
+         "ame":ES5,
+        "main": "rnjs",
+          "eourcs:["ap_stokup/es5.js],
+       "test_flags ["mp_set_loou/es5]     ,
+       {
+         "name": ES6",
+         main": "ru.j",
+     "resorce ["map_set_loop/es6.js]
+        "testflas":["map_setlookup/es6"]
+       }
+    ]
+  
+  {     "nae": "ap-Set d-se-has",     "path:[SixSeed"]
+     results_regexp: "s\\(Scre\\): (.+)$",
+     "ets":
+       {
+          nae": ES5",
+        ai":"rn.j"         "resourcs":["ma_etd/es5.s"]
+         "tes_flags": ["map_set_dd/es5"]
+      },
+       {
+       "name": ES",        "man "run.js",
+         resourcs":["map_set_add/es6s",
+        "tet_flgs": ["mapet_add/es6]        }
+      ]
+  },
+   
+      "name": "Map-St add-se-a object"
+      "path:["SiSpeed"],     "resulrxp": "^%\\Scor\\): +)$",    "ts": [
+       
+       name": E5",
+       "main":".js",          esouce: ["a_set_objectes.js"],
+        "test_fls": ["map_setobect/es]
+      },
+       {
+          "nme":"ES6",        "mai"rn.",
+        "resors": ["ma_seobet/es6.j",
+        "tes_flas": ["apsetjects6]       }
+    ]
+    },
+   {
+   "ne" "Map get sting"     "path": ["SixSped",
+     "result_regep": ^%s\\(Sor)(.+)$
+     "ests": [
+       {
+      "name": "ES5"
+         "min: "u.js"
+       "resorces": ["ap_sig/es5.js"],
+       "testlgs": ["mapstring/es5"]
+      ,
+        
+        "name": ES6         "man":"run.js"
+       "resources: [map_striges6.",
+          "te_flags": ["maptr/es6"]
+        }
+      
+   }
+ 
+}

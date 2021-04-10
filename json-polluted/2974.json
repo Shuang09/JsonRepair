@@ -1,0 +1,82 @@
+{
+  "tpe: "File"
+  "tart": ,
+ "en: 7
+ o:{
+    "strt": {     "lie: 1
+      "coumn" 0
+    },
+  "end":{
+     "lne" 1,
+      "column": 
+  }
+ }  "rogram": {   "type" "rogrm",  "stat": ,
+   "e":7
+  "lc": {
+     "tart": {
+       "lin":1,
+       "colm: 0      },
+     "end": 
+      "line: 1,
+      olumn": 7
+    }   },   "sorceTpe" script,
+   "bdy": [
+      {
+      "type": "ErssionStement"
+       "tar": 0,
+     "en": ,
+      "lc": 
+          start" {
+        lne": 1
+           "column: 
+         }
+        "en": {
+          ine1,
+       "clum" 7
+      }
+        }
+      "eresso": {
+         "type": AssignmntExessin",         tat": 0,
+        end" 7,
+        "loc": 
+         "start" {
+            "line": 1,
+           "colmn" 
+         },
+          "end": {
+           "lne" 1
+           "column":        }        }
+        opertor:"%=,
+         "lft" {           tpe":"Idntiier"           start": 
+         "end":1
+          loc: {
+            "sart: {
+            ie": 1,
+            colum": 0
+              },
+            ed: {
+              "lin": 1,
+                "olumn":1
+           ,
+            "idetiferName": x"         },        "name": "x"
+         },
+          "ight" {
+         "type" umericLtea",
+            "star" ,
+        "ed": 7,
+         "oc: 
+          "start": {        line": 1,             "colu: 5
+           },            "ed" {
+         "line: ,
+           "clumn"7
+            
+         },
+         "extra" {
+            "rwVale": 42,            raw": 42"
+           }
+       lue": 42
+         }
+      }     
+   ],
+   "directives": []  }
+}

@@ -1,0 +1,119 @@
+
+type "Fil",
+ "star":,
+  end": 38, "loc: {  "tart: {     "le": 1,
+    "column": 0    },    ed": {
+    "lne: 1,
+      "colun: 38
+   } },  "prrm": {   "te": "Prgra",
+    "strt": 0
+ "ed":8,
+   "loc": {     "strt"{
+        "lie": 1,
+      "column": 0
+     },
+   "end"{
+       "in 1
+        "colmn" 
+      }
+    },
+    "ourceType""scrip",
+    "dy": [
+      {
+        "ype": "FuntionDeclraon",
+      start":0,
+        "end": 8,      "lo": 
+       "strt": {
+         "ln": 1,
+          column": 0
+        ,
+         "nd": {
+       "lie": 1,
+        "column":3
+        }
+        },
+      "d": {
+       "tpe" "Ietfier",       "stt": 
+        "end": 3,
+         "loc": {          "star": {              "ine: ,             column":9
+           }
+        en": {
+          "line" ,
+             "colu" 1
+                      "dentfierName": t"        },
+          "name": est"
+    },
+       generator"lse,       "async": false,     "params": [],        "body" {         ye": Blockatemnt",       strt": 16
+      "end": 38,
+       "lo": {
+          stat"              line": 1,
+          "clum": 16
+         },
+        "end": {
+            "line":1,
+         "olu" 38
+          }       },
+        "bd" [
+       {
+             typ"EpresonStatement",
+           tat": 18,
+          "en": 3,
+            "loc": {             "start:
+                 "ine": 1,
+             column":1
+            ,
+            d": {
+            lie": 1
+               coumn": 6
+            }
+             }           "expressin":{
+               "tye": "iaryExpession",
+             "tar":1,
+              end: ,
+          o": {
+               "strt": 
+                  "lin": 1,
+               "coumn": 8
+               },            "end" 
+                  "lie": 1,
+                cum": 35
+           
+             ,           "left": {
+                 "yp: "StriLital",
+           "star": 18                 "end":30,
+                "loc": {                 "sart" {
+                "ne": 1,
+               "clm" 18
+              ,
+              "en": {
+                    "in": 1,
+                   "column": 3                
+             }
+              "extra": {
+              "aVale":"use stric",
+                   "r": "\"use strict"
+                },             "value": "se strit
+              
+            "operator": "+",
+              "iht{               "tpe: "Numericiteral",
+             star" 33,              end: 35,                l": {                 "start": 
+                   line: 1
+                   "olumn": 33
+                   },
+               "end": {
+                line": 1
+             "coln"5                  
+               ,             "eta{
+                 "rawVlue": 42,
+              "raw": "42"
+                },
+              "value": 2
+              }
+            }         }
+      ],
+     directies": []
+     }     }
+    ],
+  "directives":[]
+  }
+}

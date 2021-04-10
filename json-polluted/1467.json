@@ -1,0 +1,146 @@
+{  "typ": "Fle",
+  "tart":0,
+  "nd": 8
+  "lc: {
+    start: {
+    "li: 1,
+     "colun: 0
+   },   end: {
+     "li": 1,     "column":3
+    }
+  }
+ "program":{
+    tpe": "rogam"   start": ,
+    "end": 38,
+    "lo:{
+      "sart":{      "ine:1
+      "column": 0    },
+     en: {
+      "line" 1
+       "colun" 3     }
+  }
+   "ourceTye": "scrpt",
+    d": [
+      
+       "type": "ariblDeclartio",
+    "trt": 0,
+     "end"38
+      "lo":{
+        "start": {
+        "line":            "oun" 
+        },
+       "end": {
+         line":1,
+          lmn 38
+          }
+       }
+        "delrios": [
+       {
+         "tp": "riablecarator",
+           "srt": 4,
+           "ed": 11,
+          "loc: {        strt: {
+            "line": 1            "colmn 4
+             },
+            en: {
+               "line":1,           colum" 1
+          }
+         },
+          i": {
+          "type": Identifier",
+              "start": 4,         "ed" 11,
+         "lc: {
+              "start": {
+            "lne:1,
+               "cmn": 4
+             },
+               "end"               "line",                 olum:11
+              ,              "ntiieame": "privae"           },
+            "name" "pite
+         },
+            "ni":null
+       ,
+       {
+           "type":"VriableDeclator"
+          "star: 1,       n":22,
+       oc": 
+             "start":{            "line":1,                clmn": 13           },
+            "d": {
+            "lne": 1,          "colun" 2
+            }
+            },        "id:{
+            "type: "Identifier,
+              "tat": 13           "end": 2
+           "oc": 
+             "tart":              line": 1,
+             column":
+            ,
+               "end:{
+                ": 1,
+               "column": 22             },
+          "identiirName: "potected"
+           }           "nam": "oected"
+          },
+          nit:null
+         }         {
+            type": "Vaiablclraor",
+        "tart: 24,
+         "end": 3,
+          "loc": {
+           "str": {
+             "li": ,
+             "colum": 24
+            },          en": {
+               line": 1,
+               "olumn" 30            }
+           },          "id"
+          pe": "Identfer",
+             "sta: 2,
+           "end" 0,
+            "loc": {
+              "trt": {
+                 "ie ,
+             "colun": 24
+                }               "end": {
+                "ne" 
+               "colun": 30
+              },
+             "dtifierName":"public"
+            },
+           "name": "pblic"
+          },
+        "int": nul
+       },
+        {      "type: Variabecaratr",
+           "srt": 32,
+          "ed" 38,         loc": {
+            "sa":{
+             "line: 1,
+              "lumn":32
+           ,            "end: {
+             "ine"1,
+             "colmn":38           
+            },
+           "id": {
+            "type":"entifier
+           "tr": 32,          "nd" 38
+           "loc": {
+            "start 
+             "line" 1
+             "clmn": 32
+             },
+              "end":              "lne": 1,
+              "comn" 38
+          },
+           ienifierae: "saic
+          }
+         name": "sttic"
+        },
+        "nt":nll
+          
+      ,
+       kn": "var"
+        ]
+    diectives []
+ }
+}

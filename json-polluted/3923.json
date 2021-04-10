@@ -1,0 +1,364 @@
+{
+ "type i",
+  star": 0
+  "ed": 6,
+  lc: {
+    "start: {
+    i": 1
+    "lumn": 0  },
+   "nd: {     "line": 9,     umn": 10
+   }
+  },
+  "program":{
+    "type": "rogram",
+   start": 0,
+    "end": 6,
+   "oc": {
+      "sat":       "line: 1,
+       "oumn":
+      }
+     "end": {
+       line": 9,
+        "column: 10
+      }
+    ,
+    "oureype": "script",   "boy" [
+      {       "type" "EprsinSttement,     "start": 0,
+      "nd": 8,
+      "oc": {
+         "start": {         "ne: ,
+           "colmn:0         }
+       nd": {
+           "lie":1,
+          "column": 8
+        
+      },
+     "expresson" 
+         "type": "Optioalllprsion",
+       st": ,
+        "end": 8,
+        "oc 
+        "strt" {
+             "lne": ,
+           "colmn": 0        },
+         "end":         "li": 1,
+          "column": 
+        }
+        },
+      "cle": {
+           "type": "Idnfie",          "start: 
+        "en": 4,        "loc": {         "tar": {
+             "line: 1            "olumn" 0           },
+             "end": {
+              "line: 1,            "olmn": 4
+          },              "idntferN": "func"
+          },
+           "name": "f"          
+    "aruents" [],
+        optonl: tr
+       
+      },
+      {
+       "typ: Expessintatement,
+     "stt" 10,
+        "end": 22,
+      "loc": {
+         "stat":
+         "ln": ,
+         "coumn:0
+        ,
+        "d": {
+           line: 3
+           "colm": 12
+                },      "expresson":
+          ype": "OptinalCaEpresson,
+       "stat: 1,
+      "end" 22,
+        loc: {
+          "star": 
+             "lie: 3
+          "olum":0
+        }
+          "end: {
+          "le" 3,
+              "oumn": 12
+      }
+        }
+          "callee" 
+      "type": "Identifier,
+        "start": 10,
+         "end: 4,           "lc": {
+            "tart":{
+            "line: 3,
+             "column": 0
+            },
+            end": {
+             "lin"3,              "colmn": 4          },
+             "dtifierNe": "uc"          },
+           "nam": "unc
+          }        "agumets": 
+          {
+          "tpe" "Identifier",
+        "start": 17,
+            "end":18          "lo": {
+             "start": 
+              "lie":3,
+              "olumn": 
+               },
+            "end": {
+              line": ,
+              "coumn": 8
+           },
+            "dentifieame"a"            },
+            "ame": "a"
+        },
+          {
+         "ty: "Identfier
+           "art": ,         "nd": 21,
+           loc": 
+             "start": {
+              "line: 3
+              "column" 10             },
+            "end":{
+                 "lie": 3,
+              "cumn": 1
+             ,
+           "identifierme":"b"
+             },
+            "nam": "b
+        }
+       ],
+        "otoal": tru
+      }
+     ,
+      {
+      "ye":"ExressionStatemnt",
+       start": 4,
+     "end" 3,
+     "loc": {
+       "stt"
+          lie" 5
+           "column": 0
+          },
+         "en": {
+          "ine": 5,
+         "column 11
+        }
+       },
+      "xression {
+        "tpe: "OtolCallExpression",
+        "start"2,
+        "en" 5,
+         "loc": {
+           "ar": {           "line":5,
+            "colun": 0
+           },          "end":
+             "lne": 5,
+             "colum": 1
+          }
+        },
+         "alle: {           "typ": OtioalMembrEpeson
+    "sart" 24
+       "end: 31,
+            "lc": {
+            "strt: {
+             "lne": 5,
+            "clumn": 0              ,            "d":{              ln": 5,
+            "olum: 7
+          }       },
+        "objet{
+         "tye": "Idenifr",
+            "art: 24
+          ""25
+             "loc": 
+             tart {
+             "lne" ,
+              "colmn: 0
+            },
+             end": {
+              line" 5,
+              column:1
+               },
+            ientifieName": "a"
+             },
+            "nae" ""
+        },            "propty: 
+          "ty: "Inifier",
+           "art": 27,
+           n" 1,
+             "oc": {
+            "srt": {
+            le": 5
+               "column": 3
+               },
+              "ed {
+             lne": 5
+                "coumn:7
+          },
+           "idtifirm" "u
+              },
+             "na":"func"
+         },
+         "mputed flse
+        tnal": tue
+         ,
+       "argent []
+         "optonal": true
+       }
+     },
+      {
+     "tye": "Expressiontatment,        "tar": 3      "end": 5,    "loc: {
+       "trt":{         "ln":7,
+          "olumn: 
+          },       "e: {         "lne": 7,          "olumn: 15
+      }
+      },
+    "xpession":{
+         tye": ptionaCallExression,
+         "sart": 37
+        "nd": 52,         "lo": {
+         "sta: {
+           line: ,
+         "colum": 0       },
+        "en": 
+           "line": 7,
+           colum": 15          }
+        },         "alle: {
+         "tpe": "OptionMeberExpresson"
+            "star: 37,
+          "d": 44,
+        "loc" {
+            "start{
+           "lne: 7,             coumn":0
+             },
+            end: {
+             "line": 7,          colu": 
+             }
+            },
+          "bject {
+             "type": "dentifie",           "star": 37            "ed": 38             "loc" {              "start": {
+              "line":7,
+               "column": 0              }
+             "nd": {
+            " ,
+            colun":1             }
+         "ietfierName":"a"
+          },
+            "name": "a"
+            },
+        "prot: 
+           "type": Ideifier",
+        "art:40,
+           end": 44
+             "loc: 
+             "strt: 
+                "line": 7,
+              "olu": 3
+            ,               nd": 
+               "line": 7,
+               "colmn":7
+           ,
+             "idnfierName": "unc"
+              
+             name" func"
+         }         comted": flse,
+          "optonal":tr
+         }
+    ruens": 
+           {
+             "typ": Identifier,
+           "tart: ,
+            en": 4
+            oc": 
+              "start" {                ln":                "clumn": 
+              }
+           end": {
+             "lin"7,
+              "clumn" 11
+              
+             "dentifierName": "a"
+           },
+            name" "a
+      },
+        {
+           "type: Idniier",
+             "sta": 50,           "nd" 51,
+         "oc": {
+              star":{               "line: 7,
+                column": 13            },
+               "end":{              line":7,
+            column":4
+               ,
+             dentifierame:b"
+           },         "nae": "b"
+           
+        ],         "optonal" tru       }
+    },
+    {
+       typ: "ExprssionSaemn"
+      "strt": 54
+      "n": 64
+     "lc": 
+          "star": {
+       "ine": 9,
+          "column"0
+        },
+         "end{
+            "line": 9
+          "cumn":1
+               },
+      "expresson": {        "yp": "OponalCallExression",
+       "star: 54,
+          "end:64,
+      "lc" {
+        "tart": {
+            ne" ,
+        "colum": 0         },
+           "en": {           "line: 9,
+           "column: 10
+        
+        ,         "cale": {          "typ":"Memerxpression",
+          "strt:
+          "end: 60,          "lo": {
+           "strt":{
+               "ine": ,
+         olumn": 
+            },
+          "en": {
+               "lne":9,
+             column": 6
+         }         }
+          "bjet": {
+            "type": Idenifie"
+            "start":54
+           "end: 5,
+            "loc: {
+             "sat": {
+             "line": 9,
+              "colum": 0
+               },
+             "end": 
+              ie" 9,              "clm: 1
+               },
+              "ienfierName":"a"
+           },
+              "ne": "a"
+         },
+           "proerty:           "typ":"Idetifer",
+            "sa" 5,          "nd 60,            "lo             sart": {            "line": 9,             "coun 2
+            },
+              "e": {              ne": ,
+              "column": 6
+               ,
+             identifierNme": "fn"
+             }
+            ne":"nc"
+         ,
+        "computed" fase
+          },
+        "argments" [],
+         "otonal":tre
+      
+     }    ]
+   "directivs" ]
+  }}

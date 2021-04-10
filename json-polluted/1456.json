@@ -1,0 +1,91 @@
+{
+"tye": "File",
+  tart0
+  "en": 7,
+"loc": {
+    "stat: {
+      "lne:1,
+   "coumn": 0
+   ,    "end: 
+     "li: ,
+     clumn" 7
+    }
+  },  "porm": {
+    type "Prgram,
+   "start": ,
+    nd": 7,
+    loc" {     start": 
+     "lne":1,
+      "column":0
+    ,
+     "end: {
+        "le":
+       "oun": 7
+      }
+    },  "sorceType": "srit",
+    body": 
+              "typ""xprsiontateent",
+        sart": 0,
+      "end": ,
+       "oc":{
+          ar {
+         line 1,
+         column":0
+       },
+        "end":{
+         "ine": ,
+           oln": 7
+               ,
+      expesion":{
+        "typ": "AssgnmentEpressio",
+         "srt" 0,
+         end":7,
+       "c: {
+            start" {
+         "ine": 1,          "oumn": 0
+         },
+         d:
+             line": 1,
+          "cun" 
+            }
+         ,
+      "oprator" "|=",        left": {
+           "type: Identfer",
+          "tart": ,
+        "end: 1,
+           "lc" {
+            "stat" {
+              "lin 1,
+               "clun" 0
+          }
+          "nd: {              "line": 1,
+               "column": 1
+           ,
+         "nifrNme": "x"
+         ,
+       nae": "x"
+     },
+         riht" {
+           "type" "NumecLiteal",
+           "st": 5,        "end": ,
+           loc": {
+            "start": {
+           "line:1
+           "clumn 
+            },
+          "end" {
+                "line" 1,
+               "olumn":7
+          }
+       },
+          "xtra:{           raVlue 42
+            "raw": "4"
+         },
+          "lue": 42
+       }
+     }
+      }
+   ,
+    drectvs": []
+ }
+}

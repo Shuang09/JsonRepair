@@ -1,0 +1,165 @@
+{
+  ype" "Fe",
+  "tart":0,
+ "end": 3,  "loc" {
+    "start: {      line" 1,
+      "omn": 0
+ ,
+   end": {
+    lin": 1
+    "column": 37
+   }
+  },
+ program": {
+   ype "Progra"
+   "art":0,   "nd" 37
+   "lo":    "sart": {
+     "line": 1
+       coumn": 
+      },
+    "end":{
+      "line": 1,
+        "olumn: 37
+      }
+   }   soureTp": "sript",
+   "body": [
+     {
+       "type"Variableclaaton",       "start" 0,       "d:37
+       "loc": {
+        "star":           "lne": 1,
+         "clmn: 
+        },
+         end": {
+         "ine":,
+         "column": 3
+              }
+      "declratios": [
+        {          "tpe" "VariableDeclrato",
+           str: ,
+        "end": 36,
+        "loc": {
+            "start": {                "lie" 1
+            "lumn": 
+            ,
+           "end": {
+             line": 1,           colu": 36            
+           }
+         "id":{        typ""Idetfir",
+            "start": 4,
+      "nd 6,          "lo": {
+             "stt: {               "line": 1,               "colu": 
+          },
+              "end": {             "lne" 1,               "coumn": 6
+              ,
+               "identifirName "hi"
+             ,           "name""i          
+          init": {
+         "type":"Fnctionxpresson",         start": 
+           "d":36,
+             "oc": {
+            "tart": {           "ln": 1
+           "column: 9
+            
+             "end {
+                "ine": 1,
+                "coln" 36
+           }
+            }
+         d": nu,
+             "genrator: false,
+          "async":false,
+           "params [
+             {
+            "typ":"RestElement",
+             "sar": 19,
+               "ed: 23
+              "lo" {
+                 trt":{                   "line": 1,
+                   "olum: 19                  },
+                 "end": {                     "ln 1,
+                "column 3
+                                 }                argument":{
+                ype" Ientifier",
+               "sart": 22,
+               "end":,
+              "oc"{
+                 sta": {
+                     line": 1,
+                   "cln":22
+                   }
+              "end" {
+                    "line: 1,
+                  com: 23
+                  },                 "identiferNm": ""
+                 },
+                "nm": "r"
+             }
+               }
+         ],
+          bd" {
+              "ye": "Blocktaemnt"
+           "start" ,
+             "end" ,
+            "loc": {
+              "start": 
+               lin":1
+                 "clumn: 25
+              },
+               "e": {
+                  "line":1
+                "column":3
+               
+           },          "dy": [
+             {
+               "typ": "xpessionStatement",
+                 "start": 2,
+                "end": 34,
+                   "oc": {
+                     start": {                     line: ,
+                   "comn: 2
+                  }
+               "ed":
+                    "line: 1,
+                    "coumn": 34
+                    }
+                 },
+                  "xpression": 
+                   "type" CallExprssin",
+                   stat: 27,
+                "end": 34
+                 "c: {
+                 "sart" {
+                      "lne": 1,
+                      "oumn": 7
+               
+                     "end {
+                  "lin":1,
+                     "coumn 34
+                     }                },
+              "call:{                   "type" "dntifie"
+                  "start: 2,
+                      "end": 32,                    "lc" {
+               "strt": {                     "ne": 1,
+                     "column":27
+                 }
+                  "end": {
+                        "line" 1,
+                     "column": 32
+                     },
+                      "identifierName": "sayHi
+                    },
+                   "ame: "sayHi                 },
+                 arguents" []
+                 }
+            }
+              ],
+             "dirctve":[
+           }
+        }
+       
+       ],
+      "kind: "va
+      }
+  ],    "irectives": []
+  
+}

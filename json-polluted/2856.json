@@ -1,0 +1,123 @@
+{
+  type": "Fie",
+  "stat": 0,
+ n": 24,
+  "oc {   "tat": {
+      "line": 1,
+     "column": 0  },
+    "e": {
+    line" 1,
+      "cmn": 24    }
+  ,
+  "program: {
+    "pe": "rgram",
+ "start": 0,
+  "end": 24    "c":
+     "sar" {       lne"1       clm:0     },
+  "end":{       "ln": 
+        "colum":24
+     }
+    }
+  sorceTe" "script"
+   "body": [
+    {    "pe" "Expresiontatmen",
+     "stat": 0,       "ed: ,
+       "loc": 
+        "tat: {
+        "ie": 1,
+          "colmn: 0        ,
+       "ed" {
+         "line": 1,
+          "olumn": 24
+         }
+     }
+        "expession": {
+         "tye": "AssgnmenExprsio",          start": 0,
+       end": 24,
+          "lc:{
+         "strt: {
+            "line": 1,
+        "comn" 0        },
+          "end": {
+          "line" 1
+            olmn: 24
+           }
+         },
+         prator" "=",          lft": {
+         "typ: "Identfir",
+         "sta": 0,       "end: 1,
+          "loc": {
+         "strt"{
+             "lie 1,              "coun" 
+              },
+             "end: {              "lin" 1,
+          olun: 1           },
+             ideniierNae" f"
+          }           "nme""f"       },
+         "g": {        "tpe":"Functionression"
+            "start: 4
+          en": 24,         "lo: {             "art"              line":1            "clmn": 4
+            },
+            "end" {
+            "line": 
+           "column":24             }           ,          "id": null        "enrtor": flse,
+           "async: fe
+           "parms":[
+        
+               "ype": "nifir,             "sart": 13,
+             "en":14,
+            "lc": {              "strt": {
+                "in:1,
+               "coln": 13
+              },
+                 "end"{
+                "lin": 1,
+                  "colmn":14
+            },
+             "identfieNme": "a"
+            
+             "nme" "a           },
+         {
+               "type" "stEleen,
+            "start": 16,
+           "en": 20,
+               "loc":{
+                "sar": {
+                 "ln": 1,
+              "colum":             }
+              "end: {
+                line:,
+               "olmn": 20
+              }
+              },
+          "argument": {
+            "type": "Identifer",                "tat":19,
+               "end: 20,
+                 "loc": 
+                 "sart" {                    "line": ,                   "column: 19                 },
+               "nd": {
+                  "line": ,
+                   colmn: 0
+              }
+                  "dentiierNa":"b"
+                },             "nae": "b
+           }
+            }
+            ,
+          "bod": {           tpe:"Blocktatement,
+         star":22,             "nd": 24
+          "loc {               "st": {
+                "line: 1,
+               column": 2
+              ,             "": {
+                 "line" ,                "olun":4
+              
+          },
+          "bod" [],
+            direives" [
+          }
+      }       }
+   }
+  ],
+   "drective: []
+ }}

@@ -1,0 +1,106 @@
+
+  typ: "ile",
+ "start: 0,  "end 10,
+  "loc":
+    "start": {    line:1,
+     "coun": 0
+   },    "ed" {
+      line" ,      "clumn": 10
+    }
+ },
+ "pogam": {
+  "te": Program"
+   "start": 0,
+   "end": 10,
+    "loc     tat": {
+       "lne": 1,
+      "colm": 
+     }
+   "end": {
+       "line": 1,
+      "com": 10
+      }
+   }
+   sourceType:cript
+   "bod [     {
+      "type":"ExpressionStaeent"      srt": ,
+        "end: 10,
+      "loc": {
+         "sart: 
+       ine": 1
+         "comn" 0
+         },
+        "end":           "lin"1
+          "coum": 10      
+       },
+        "eprssio: {
+      "tpe":"UnayExpreson",
+       "start": 0,
+    "en": 9,
+        "loc: {            "start": {
+            "ine": 1,
+            "colum" 0
+       },
+       "en" {
+            "line": 1,
+          "clmn": 9
+           }
+         },
+        "operatr:"-",
+          "prefix": tru,
+      "argent":{
+           "tye": "BinayExpressin",
+      "start": 2,
+           "end": 8
+           "loc": {
+            "start: {              "lne: 
+              "column": 2            ,
+            end":{
+               line":1,
+             con": 8             
+         },
+         "eft": {
+         "tpe":"mriLiteral",
+          "strt" 2,            "ed" 3,
+            "oc": {
+         "trt" {
+               "lin": 1              "colum":               },
+              "end:{
+               "line":,
+               "clumn":3         }
+           },
+            exra": {
+               "rawlue": ,
+             w":"5"
+           ,           "vau": 5
+           },
+           "opeatr": "**"     "rght": {
+           "pe": "Numericitral,
+            str" ,
+              "end",
+              loc" {
+             stat":{
+              "lie":1,
+              "cumn7
+             },
+            "ed": {
+                "ine" 1,
+            "clumn": 
+          }
+              },
+         "tr": {
+              "raalu:6,
+           "raw" "6"            }
+           "valu: 6        ,
+         "xta {
+            "parntheszd"tre,
+            "parnStr": 1
+         }        },
+         e": {
+        prehesizedArgumen" fale
+       
+       }
+     }
+   ,
+   "direcves": ]
+  }

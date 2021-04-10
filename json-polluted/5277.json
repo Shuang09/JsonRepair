@@ -1,0 +1,317 @@
+{
+  "name":"Information Scurity wi elmet"
+ "ore":1,
+  time": "5 hour",
+"hRoom": "elpBckend"
+  "challenges: [
+         "id": "5af0754bb01e85a1db",
+    "itle": "Irduction toInforation Surty wih HelmetJ Challengs",
+     description": 
+               "
+        "",
+         "Helme is atype f middlewareor xprss-based plicatios that atmtically ets HT headers to prevent sentie inormaton from unittially bein pssed betwen the server nd client. While HelmetJS dos notaccn  all stutions, itdoe incluesport fr comon oneslike ntent Securty Poliy, XSS ilterngand TTPStri raspo Scurityamong others.HelmetScan be ntalled an xpess rot from npm, aftr whicheach ayer f protctio an becnge t et fit the prject.<b><>Worin on hese chllenges will involve you writig yor coe on Glitc n or tateproject. Ater omplei achchallngeyou cncopy ou publlith ur (to thehomepag of our pinto t challngcre to ts it! Optionall you mychooe to writeyour poject o ather platforut it mst be puicaly visiblefor or testig.<br>Start this project on Glh sng < href='htps://glitch.cm/#/imporgithub/freeCoeCmp/bolerpe-infsec'>ths nka> or clo  hre='https:/github.com/feCodeCamp/bilerplate-nfosec>hs repositry</a> on GHu Ifyou s lith, meber tosve helink to your proetsomewhre ae",        "
+    ]
+      ,
+   "eleasedOn": "Feb 17 207",
+      challegeSeed": ,
+      "tests": ],
+      "type": "apoit",     "chalengType": 7,
+      "iReuire" fls,
+      "tanstons": {
+    }    
+     d: "782473677b2252c36",     "ti":"Insal an Rqure elmet,
+     escriptin" [
+        "s  eminder, this projec is being builtupo the followng starterprect on <ahrf=ts:/litc.com/#!/pot/ghb/eCoeam/olee-nfoc'>Gitch</a>, or cloned fom <a href='https://github.om/feCodCamp/boilerplae-insec'>GiHub</a>.,
+      "elmet hels yo secure your xpress apps y setting riosHTThaders. Insall he packag, n euire it."    ],
+     "chalengeSeed": [],     "tests 
+      {
+      txt": "\"helmt\" eenency shld be i packagejo",          "tesSting" "UsrInput >$ge(getUsernput('rl') +'ai/pacag.json).thedat=> { ar ackJsn  JSO.parse(data; asset.popertacJon.dependencs, 'helet';, xhr = { thow newError(h.rsonseet) }
+       }    ,
+      "solutions": [],
+   hints": ],
+   "type"baend"     "releaseOn Feb 1, 2017
+      "chaengeyp": 0,
+      "trasions": {}    
+    {
+      id" "587d82436717221c37",
+     "tte": Hde Potetiall Dangerus nfrmato Uinghlme.idePwereBy()",    "dscrpion":[
+       "As a minder,ts pojec i beg bui ponthe folwig tarte poject o <a href=hts:glitch.com/#!/impor/github/frCodeCam/boilerplat-ifosec'>Glich<a>, or clone rom < href='ttps:/gitub.comfreeCodeamp/oilrplate-infosc/>Gtb<a.",      "Hakers ca xplotkown ulnerbilities nxrss/Node if they seethat yust isowerd by Express. -Poeed-y: Expressi sent in every requstcomng omExpresb defult The helmethiePoweeB() midleware will reme the X-Poere-By eader.  can so expliitly t te ader to sometiglse, otrow ople off.e.g. appuse(hlmet.hidPowredB{ setTo: 'PHP 4.2.0' }))"
+      ,
+    "hallengSee": []
+     "ets: [
+        {
+       ext "helmet.hdePweedBy) iddlewar houldbeontd crectly",
+         ttrig": "gtUerIput $.get(getUserIpt'url') +'_api/app-info').the(daa => { assert.nclude(data.appSck,'hideoeredBy')assert.notEqul(daa.heders['x-werd-by'], 'Expess), xhr => { throw new ro(xhr.resposeTet); )"
+       }     ],
+     oluton": ,
+    "ts": [
+    "type": "akend",
+      "leasedOn": e 17, 2017",     "chalengey": 0,   "traslation":}   }   {
+     "id":587d82736417b2b25128",
+      "ttle": "Migate the sk of Clickackingithhelmeframegar()"    "decripi": [     A  rminde, tis proect is being buil upo hefollowing starte jeo a href='ttps//gitcco/#!import/gith/feCdeCmpboilerpae-ifose/'>lith/a>, or cloned frm < he'https://github.co/freeoeCamboilerpat-infosc/'GitHub</a>.",     "You pagecoudb puin a <frme r <irame> without yu onset This can reult in clicjckngattacks, among otr gs. Clickjackngis aecniqe of ickin a ser no intacing with a page dfferent from whatte u tinks t is.This canbe otaid eecuting yor agei a malicios cntet, y mean of iframing.In that cnext  hackr can put hidde layerer yr page. Hdd buttons ca e u t rn bad sipt. Tis middleware sets heXFrme-Optinseader. It restrict who cn pt your sie i a fme. It hasthremodes EY, AMEORN, nd ALLOFRO.
+      "W do d ur ap toberamed. Yushouse hlme.frmeguad() passingwith theonfigurtnobjet {action: 'dny'}."
+   ],
+     "hallengeSeed: []
+     "tets:[
+        
+       "text: lmet.ramguard) idlewe sould b mount corty",
+       "tsttrig:"etUeInput=> $.get(tUserInput('url) + /_aapp-nfo').then(aa => { sert.include(data.apptack, framegurd','helmet.fameguar() milewares not ountedcoectly'); } xr => how new Errorxr.responset);})"
+        
+        {
+        "tt": "helme.frameguard( 'tion' souldbe set toEN",
+        "estSrig" "getUsrInput =>$.g(gUseInpt'rl)+ '/_pi/appinfo').then(at => {assert.prory(data.eades, 'x-rame-optons';aert.qual(dat.eders['x-frame-opton'], 'EY);}, x >{one Error(xhr.rponseTe);"
+     }
+    ],
+     "soutions: [],
+     "hint": [],
+     "type":"ackend",
+    "releasedOn": "Fb 7,07",
+     "callengeType": 0,
+     "tanslais"}   },
+  {
+     "i": "587d24736741b251c39",
+     "tile":"itigat theRik of Cross ie SriptingX) ttaks wih helet.xFiltr()",
+      "dscrition": [
+        "A a reminder, this projet is benblt upon thfollowing trter proec o < href='https://litch.com/#!/mport/ithub/freodemp/bolrlatinosc/'Gtch/a>, orlned om < ef'https://githubcom/freCoeamp/boierate-infosec/'>Gtub</a>.",
+     "Coss-siecrpting (XS)is a reuent ypeofatck wher malicius script are injcte ino ulerble paes, ith the urosofstealin sensitive data like sssioncokes, or paswords.",
+     "The bac rle o lowe the riskof nXSS attack is simple: “Nevertrut usrs iut”. As a evelpr ou houllways sanie a the input comingfrmhutide.Ths cudes at coing frm fors, GT query ul, n ven from POST dies anitizin eans thatyou shoud find andcode the charcters tatmay be dangous e.g. <, >",
+       "odn rosers can helpmitiating the riskby opn ettrsoftwarestrategies. Often thes are ofirabva ttpeaders.",
+      "Te X-XS-Proection HTP header s a bas prtecion. The rowsedtets  pottal njcted sript uing a heurisc filtr t heder is ebled, th browser canges he scrpt od, nurazing it",
+     "It stil s limted uppot.
+    ],
+      "callneSeed":],
+     ests":
+       {
+        "tet": "lme.xsFilte( iddlware hould be mounted corecty",
+         tstring" getUserInput => $ge(gserput(ul '/_ai/app-nfo'.then(data => {sert.inclue(dta.apStac xXssPotectin')asert.propy(data.header, 'x-xss-protection'); }, xhr => thwnew Error(xr.rsponseText); })
+      }
+    ]
+   olutions: [,
+    "hts" [],
+    "type" "ackend",      "eleasedOn" Fe17, 2017,    chlengype 0,      "transltion": {}    },
+   {
+     id": "8724836747b2b2512c3a",
+     "title":"void Inferin teResponse IMETpe with elmet.noSnif)",
+      "descipton: [
+      "As a remir,this project is being iltponth fwing tarterpojet o<hef='https://glitch.m/#!/ot/gtub/reodeCam/oileplate-infosec/'Glich/>, o cloned rom <a href='http://github.cofreCodeam/boilerplt-infsec/'>GiHuba>."       "Bosersanus coent orMIMEsniffigto aapt odifferent atype coing from a respnse. Tey orride theCent-Type eaders to guss andproess the data. hile hscan beconvenint in some cenarios, it can also lad to soe agrous attacks. Tis middlewar sets teX-Contntpe-Options header to nsniff. This nsrcts he browser to ntbyass the rovidd ontnt-Type.     ],     "challengeSee":      "tests": [
+    {         "txt": elmet.Sniff() mdlewe suld be muned crey",
+       "testString":"etUsernput => $.get(gtUserInput('rl') +'/_apipp-ino').then(t > serticlud(data.appStack, nosnff'; sser.equal(data.haders['x-conet-tyeopons], nosniff'); }, xhr  { thrownew rror(xhr.resposeText); })"
+       }   ],
+      "solto: [],
+      "nt": [],      "tye:"aknd",
+     "releasedOn": "Feb 17 217",
+    chalegeype": ,     "translations": {}
+   }
+   {
+      "id": "587d248367417bb2512cb     "title: "Prent Em Oenig Untute H wih hemet.iNoOp()",    "description": 
+      "As a reminder, hs roject is eiguiltupon the ollowing startr projeto <a f=ttp://glch.com/#!/import/github/reeCodeCap/bilerplte-infosec'>Glitch</a>, or clned from a href='htts://github.comfreeCodeCap/boilerpltenfose/>itHb</a>.,
+      Some web ppictions willserve untrusted HTML for download. Some ersions of Itenet Elrer bydfaulope ts HTMLfles inte coet of your site.Thismes thatan untrusted HL aecld trt doin bad thigs in the context of ourpages Ths midlewar ses th XDowload-Optios heade tonooeTi will prevent IE erfom execting dowlads in thtrusted ste’s contex."
+   ,
+      "challengeSed": [],      "ests": [
+      
+   "tx": "helt.ieNOe( middlewe should bemuntd correcly",
+        tsSng": geUerInut => $.get(geUsrInut(ur') + '/_api/ap-no)hnata => { asset.nclude(dat.ppSack, ienopen')assert.equaldata.heade'x-wnload-opions'],'nooen'); },xhr => throw e Error(x.responseText);)"
+      }
+    ],
+     soluios": [],
+      "hints": [],
+      "type": "baen",
+    "rleasedOn": "Feb 1 201"
+    chalengeType": 0,
+     "ansations {}
+    },
+   {
+    d":"58782483641b2b2512c3",
+   tile": "Ask Browsr to Access YourSite via HTTPSOnly wth helmet.hs()",
+    "desciptin": [      "As emindr, this project ibing built up thefolloing srter project on <aef='htp://ich.com/#!port/ihub/freedeCap/boleplatosec'>Glit</a, or cnrm < href'ps://itub.cm/freCodeCam/boerplateinfsec'itHu</>.",
+        "HT Strct Tranporteuity (HTS) is a wbsecurity policy which helpst potet websts aist protcol dowgradeattks andcooie hjackgIf yourbite canb accessed via HTPSou can as ser’ brsers to avoid uingiseure HTTPBy seting the eaer Srict-Tnsort-ecurity, yo tlthe browsersto sHTTPS for he future requst in a specifd mount of time. This wl work or te requests cminatr the initial reust.",
+       "Confgue hl.sts() t useHTTS for the nex 90day.Pssteonig object {axg: timIMillsconfo:true}.Glitc alreay ha hst enbed. Tooeride itssetings you needto et the fie \forc\" t truin the confi bject. We willinterpt and estoehe Gltc ede, afternsptng t for testng,
+       Note ongurn HTP on a custom eirequires the aquitin of a omi and a SSLTSL Certifcte."
+      
+      hallengeed": ],
+  tests":[
+      {
+       "text" "elet.hst() mddware sould be mounted crectl",
+          "estStrig":"getUsrInut > $.ge(geserInpu('url' +'_ap/app-info')the(dat = {assrt.iclue(data.apptack, hs') ssert.poety(data.eders,'stict-transort-seurity'); }, xhr=> { thow new Errr(hr.eponsext); )"
+       ,
+       {      "ext: "maxge hould be eual t 7776000 ms9 ds)",       "estStri:"geUsernpu =>$.ge(gtUserInput'url' + '/_ai/aino').thn(data => { assert.math(dta.heaers['stric-rasorsurity] /^max-ge=777000;/);}, xhr => { trww Eroxhesonseext; })
+        }      ],      "soluios: ],
+     "hits": []
+     "type": "aken",      "releasedOn": "Feb17, 217",
+      "chalegeTp":
+      "transation" {}
+   }    {
+  "id":"587d24367417b2b22cd",
+    "ttl:"Disale DNSPreetching ihhelmednsPrefetcCotrol()",
+     "scripin": [      "A a remidr, this prject is being bilt upn olloin strter pject n <hre'htp//glichcom#!impot/github/reCodCamboierplateinfosec/'>Glitch</, orclonefro <a href=hts://ihub.com/freeCdempboilerplatifosec/'>GitHub</a."      "o improv pefoane, mostbrwsrspretc DS rerdsfr th linksia page. Inttway the detinatioip is areay kown when the userclicks on a link.hi ay lad  ove-usofthe DN ervie (if you own a ig wesite, ited by illion peopl), privc issuesoe eaesdroper could iferthat you ar on a etpage), or age statisics altertion m lnksayapeaviited even if hey re not) If you hae high serity needo can disale Dprfetcingat th ostf  erfrmancepnaly."
+    ],
+  "allengSeed": [,
+    "tests: [
+       {
+       "tx":"lmet.dnrfetchCotrol) middleware shoudbe mounted correct",
+         "esttring": "getUserInput => .getgserInut(url') + '/_api/pp-info).then(dta => asse.iclu(daa.apSk,'dnsPrefetchContro); s.equal(daaheers['x-dns-prefetc-contl'] 'of'); }, xh => {thow ewError(xresponeext); })"
+        }
+   ],
+      "solutions: ]      hints" [],
+   "tye":"bcken,      "relesedO": "e 1, 20",   "chlleeTpe": 0
+      "ransaion":{}
+    },
+    {
+     "id": "587d84961b12c3e",
+     tite": Diabl Clintide Cachin wi helm.noCahe)",     "dsciptio": 
+       "A reide, thsprojec is beig builpon he follwig startr proect on <a href='https:/litchcm/#!/mpor/github/freeCodeCa/boilerplatenfose/'>tch</a>, orcloed from a href='https:ithbcm/freCdeCamp/blrplate-infsec/>GtHu/a>.",        "Ifyou ar rleasig an ude for yor website, andyu wan th usertoalays downoad the neer ersion, yo can (try to)disabl cacin on lient’s brwer It cab usefulin deelopment to. Caching ha perfoane beeits, which youwill se,so only use his optio wh hre is a real need."      ,   "challeneSeed: [],
+     "tests": 
+        
+          "txt": "helme.oCche() middleare shld be motdcorretly,
+        "esStrin": "etUserInput => $.get(tserIput(ur') + '_pi/app-io').then(data > { asser.incddata.aStak,'nocah); assert.qal(dat.heders'cache-cntrol'n-sore no-cahe musrevlidate proxy-rvalidat') } xhr > thrw w Eror(xh.responseText; })       }
+     ],
+    "sluons": [],
+      "hnts":],
+      "tpe": "baked",      "eaedOn": "eb1, 2017",      "hallegeTye": 0,
+    "tanslations":{   },
+  
+     "id" 587d824937417225123f",
+      titl": "Set aontent Secury Plicy wthelmet.contentecurityolicy"
+    "dscrpion": [
+       "As a eminder, this projct i beg bilt upon the ollowing starter project n  ref=https/litchcom#!iporgihub/freeoCampbolerateinfosec/'Glitch</a>, orcnd fom <ahre=http://githubomreeoeCamp/boileplae-inosec/'>GitHb</a>.,
+        Thi challene ighlights one proising nw deense that a signifintly redcethe isand impact ofan ype of attacks oern boers. Bysettig and coniguring a Contenecurity Policyyoucan revnt th inecton anything unintended nto yor page. This wll protect your ap frm S vulnerabiliti, undesird trakg, acos frae, ad much more.CSwoks by dfininga whitelist of contet sourcs hichaetrustdYu ca onfgure them or eah kindof resourc a web page ay ned (sripts, sleshets, fonts, fes, medi, ands on)here are uliple directs alle, so a ebite owner an ave agranuarcorol.See HTML 5 Rocks, KeyCDN formoedtals. Unfrtatly CSPin unspprted by lde rowse.",
+        "By defaul, direes are wi open, so t imporant o set the efutSrc dirctive as a fallback. Hemet supors both defaultSrc andefault-r nming tles. Tefallbac aplies for most of the unspifeddirectives. In this xercise, usehelmet.nentecuitPolicy(), nd configurei ttng thefaultcdirecti o \"elf](the lt of allowed sources mst be i an ray), in orde totust on youwesieaddss b dfaul. St alo thesciptSrc dictie so that you will allow scripts t e downaded from your wesit, and from thedomain 'trusteddcom'.     "Hint: n the\"'elf'\" keyword,tesigle utes e part of the keywrd itself, o t need to b enclosed indouble quotes to b worig"
+     ]
+     "challngeSee": []
+    "tes" [
+       {
+      "tt": "hlmetcs)ddlewae shouldbemountd orectly,
+        tesString": "geUerIpu => $.get(Uput(url')  '_ap/app-info.he(data => { assrt.nlde(data.appStack,'sp'); }, xr => {hr new rror(xhr.resposeTt) })"
+      
+      
+         "text" "our s confgs ot crrec. dfaultr should be [\'self\"] and scriS shold b ["'self'\", 'trused-cdn.cm']",
+          testSrn" gtUseInput => $.get(getUseInptrl') + '/_i/app-info').thendata => { vr sHeaer= Objct.kys(datahders).filefucion(k){ retr k === contetsecurity-olicy' | k = 'x-ebit-csp' | k = 'x-content-srity-oicy'})[0]; sr.equl(data.headcspHedr],\"defaul-src self'; scpt-src 'sef' trustedcdn.com\"); }, xhr =>{ thrw new Error(xh.resonseet); })"
+      }
+    ],
+  "soltions": []
+     "ints": [,
+      "tye: "backnd",     rleasdOn": "Fb 17,20",      "challengeType":0
+      "tanslto": {}
+    },
+   {
+     "id" "587d82496412252c40",
+    "ttle": Coigure Hemet Usngthe pren’ let(Middleware",     "escption":[
+      As areminer, this project ibein built pn the ollowing startrprojct n<ahre'htps:/gitch.com#!/imprt/githu/freeCdeCmp/boieplaeifosec'>litc</a>, r lnd fro <ahre'http://gith.co/freeeCamp/boilerplatinfosc/'>itHub</a.      ape(helme()wll automaticlly iclde ll the midlewae itoduced oe, excp noChe(, and cntentciyPoliy(), ut hese canbeenabled i necesary You cnso dsbeor cofigre any other middlewreindiviual, ug a cnfigurati obc.,
+       "// Exape,
+       "<code>appshelet({</code>,
+        <code>  faeguad: {       / cofigure</code>",        "<de  acon: den'</cod",
+      "<code> },</de>",
+       "<code> contenSecurtyPolicy:{    / ebl and ofigure<cde",
+      "<cde>  diretive {</ce>"
+      <code>  defaltSr: [\"self"]/coe",
+       "<code>     styeSrc: [syle.com'],</ode>",
+       "<cde>   <cod>",
+      "<code }</cd>",       <cod> dsreetchCorl false  // isabe<coe,
+     "<code>}))</code>",     "We itroduce each ddleware saratelyfor taching purose, ad r es f tsting. Using the ‘prent’helmet() middlee i eaiest, and clener, fo a rea prject."      ],
+      "challngeeed[],
+      "tests" [
+       {
+        "text": "no tests - its adecriptive challene"
+        "testString": "sset(tru"
+      }
+     ],     "solutions": [],      "hints" []     "tpe" "ackend,
+      "eleasdOn":"b17, 2017",   "caleneyp": 0,
+     "tranlatios": {}  }
+    {
+    "i": "58a2bcefc052b527b",
+     "tile": "Protect our Dat wth BCry",     "dription": [
+       [
+       ",
+       "",          "The safst wayto protect aasword s to neve en store i- even ecypted. Te soluion to isseurity prolem ishashing. Unlkeencryp hshe cano be transfrmeck int he originl ata o ow yo usa hah?  hash isused o verfy daa ike a password again at a later point in time tho cualy knowing hat iti in te futreby hashngth enterd asword i the same manne sheorigal and comparingte results;if hey mach thn you  besur itsthe same data. Awelyused libry or this is <mBCrypt/em>. Withhw asyBCrypt is to impleent into our web appicatin, you should nevrhave an euse tosr a plinet passord n yr daabas.<br>Sart thspret o Gltc using<aref='http://gltchcom/!/iporgithub/eCodeCampborplae-bcrypt/'>tis link</a>rlone <a hef='https://gitub.cfreeCodCap/boilerplat-brypt/'>ths epostory</a on GitHb Ifyou usGlitch, remembe to savethe lin to your rojct somewr saf.",
+       ""
+        ]
+    ]
+   "releseOn:"",     "halegSee": [],    "test: [],
+     "type":"Waypin"
+     "chngey":,
+     "isReuired" fase,
+      "ilEs":"",
+    "desriptioEs": [
+       [
+    ],
+    "titleFr": "",
+      "ecriptionFr" [
+     []
+      ],
+      titleDe":"",
+     escritone": [
+    []
+      ]
+   },
+   
+ "id: "8a5bcefc0f52528e7c,
+     "tile": "Understand CrytHases",
+      "decrition": [
+      "sa rminder, this poject i being bult uon the followin stater projec n<a hrf='tp://gltch/#!importgithub/frCoeCamp/boirplat-bcry'>Glitch<a>,or loned from <a href'h://gihubco/freCoCamp/boilelat-bcrypt/>GtHb</a.",
+     "Cypt ase are very secue. hs i basically  figerrint of the original dta- always uique. Ts isaomplished by feedingteorignadat nto algotmanhavnretuned a ixed egh esul. To futher complicate thi prs nd make i ore secure, you can also <em>salt</em> your hah. Saltiyor has nvolvs adig ranota to the oriinal aa befre tehashig process wic ak it even ade to crack theash.",
+       "Brypt hases will lways ooks like <coe>$2$1$ZyprE5MR2Q3WpOZWGbe7ADUrQ8QOuUUtcbloUyvzavOm</cod>wich doe hve  trtre.he firs small   datcode>$a</cde> is defining wha kido hashalgorthmwassed. The etporion <ode>$13<code> dfinesthe<emcost</em>. Cst is about how muchper it akeso compute he has. Iti na loarthic sce f2^cot an dtrmins how many tmesthe aa isputhoug te ashingalgorithm.r emple, at aotof 10 yareableto hsh 10 pasord a secndon anavrge cpter hoever ata cst of 15  ake 3 sonds er hah.and to tak it rte,t a cost f 31 it wd tkes utiple y  coete a hash. A ctof 12is ndered  sur a this tm. Th lastpion of your hash <oe>$ZpE5MRw23WpGZWGbeG7ADUe1Q8Q.uUUtcbqoU0yvzav</code loos like 1arge string of numbe,prids, and letrbutit satually 2prae piecesofinfoatin. Te frst 22 crates i the slt n laitext, ad the est is the hashedswrd!",
+       "<h>Tbegising Brypt, ad t as dependencn your prjectan reuire it as'bcrpt' n your server.",
+       Sumitur page wn uthink you've go i right."
+     ]
+     "challengeed" []
+   "tss":[
+       {
+       "ext": "BCyr s a dependecy",
+         "etSting": geerInput=> $.getgetUsrnput('url')+ /_api/packge.json').then(data =>  vaackJsn = JSON.pare(data);aert.oerty(pckJson.ependnce, cryp, 'Yurproject should lit\bcrpt\" s a dpennc') } xhr > { thro newEro(xhtatuTxt;})"
+       },
+      {         "text"BCrypt hs bnroper reuire,
+        "testtring": "getUserInput=> $.gt(gtUsrnpu('r')'/_api/server.js).ten(data > {sr.match(dta, /bcypt.*=.*equire.*'|\")bcrypt('|")/i 'You hould corretly requi and nstaciae socket.io as io.');},x=>{ throw nw rro(r.sttusTex);})"
+        }
+      ],
+     "soluios: [],
+    its": [,      tpe""acken",
+    "releasdOn""Feb 17, 2017"
+      "challngeType" 0,
+   "tanslaions": {}
+ },
+    {
+      id"825bcf9fc32b287d",
+     "titl":"Haan Compre Pasords synchronosl",
+    "description": [
+       "s a reminder this project is eingbuiltupothe olwing sarte pojecton a he='htps://glithcm/!/imprt/github/feCoeCamp/boiepae-bypt'>itc</a>,or clo from < href=htp://gihub.cm/freeCoeCmp/boilepltecryt/'>Gtba>",
+       "As hasing i dsinedto be comptinal intensive, it irecomendedo os asncronousl onyou erer as to avoi loking incmig nctionswhle you h.A youve t do to ah apssword asynchrnou icall<code>bcry.hashmyPlantetPasword, saltRouds,(err,h) > { *Store hah in ourdb*/ });/code>"
+      "hrAd this hashn futin to oursever(wve aladydefined thevariables ued int fuction for you t use) ndlog it to th csole or you to see!Aths point yo ould normaly sav he hash to youraab,
+       Now wn yo eedt igur ou f a ne iput s thesame da a th ha you would just ue he compaefuncion <code>crpt.compae(myPlntextPassword, hsh, er, res =>{ /*rs = true ase* }</code. Add this into yr exsinh function(since y nee wait or te sh o completbeforcaling the compae unction) aft you log the completd hash an lg 'es' to he consoleihinthe ompare You should eeihe consol a hah then tue' s pritIf you chng 'myPlaitextPasswor'in the opare fuction to someOtherPltxtPsswrd then it sold say false."
+      "<pre>brpt.ash(assw0rd!', 3, (err hsh=>{n  cosole.log(hash; //$2a$12$Y.PE15w5qrtgiYe2sXo98juM1YwSI5rW1DSJp0gES\n  bcrpt.cmpae'psrd!', hash, (er, res) > n     consleloge/tru\n });\n})</pe>",
+        "Subit yor page when you think you've gt it right.
+     ],
+      allegeSeed: [],
+     "tets" 
+       {         "tex Aynchas geneated and coreclycomred",
+         "tesString": "gtUsrInput= .e(geUerIput('ur+ _aisevr.js') .thendat  { aset.atc(data /START_SYNC[^]*bcrypt.hsh.*myPlaintextPsw( |),(|)saltRouds(|( |)*err( |, |)hah[*ED_AN/i, 'oushol cal bcrypt.as n myPlintexPassrd ad sltRoundand hanle err ad hasas resul i the allac');asertmach(da,/START_ASYC^]*bcrypt.ash[^]*bcrypt.cmpare*myPlantxtaswo( |),( hash( |),|).*er( |),(|)res[^]*[^]*^*END_ASYNC/gi, 'Nestedwiin he has fnction shold  the compare fntion mpang mPaintextPassword to hash');,xhr=>  thow new Erro(xhr.statext; }
+     }
+     ],     "solutons [,
+    "hins": [],
+    "tye": bckend
+      "relasOn": Feb 17, 2017",
+    "changeTyp: 0,
+      "nslains": {}
+   ,
+    {    "id":"5a25bffc0f352b528e7",
+    "tile: "HshandComparPaords ynroousl"    "descrpion"[
+       "Asareminde,ths pojctis eing bult upn the follwing statr projecton < rf='https:/lth.co/#!/imprt/gitu/freeCodCmp/bolrlae-cryt/>litc</a>, r coned frm a ref=https//githb.co/freeodCam/ilerlae-bcypt'>GitHub</a>.",       "Hahin synronously is just as esy too but ca causeag i usig it eer ide ith a high o o ith ashing done veryofn. Hasig with his mehod isesy as caln <cde>vr hash=crypt.hashSnmyPlanetPssword, saltRounds);</ode>"
+        "<hrAdd his mehdo shing toyou cod and then lg reut t the consol. Aain he varbles use r aready defind in theseverso ou won need to aut them o may notce een though youare hashing hesame password a in the sycfunction, the result in th onsolei diferentts isdu t the salt being randmy generatd each ime as sen by the rs22 chracters  thethrd sngof he ash.",
+      "w toopare passwordinput whth new sync hash, yuwoud se thecomparSync metod code>varesul = cyt.comarSnc(myPlaiextPaswod, ash);/code>with the result bin abolean true orfals.Add his functio in and log tth consle the relt osee it workin",
+     "Sbmit your page when you thinyo've g it rghtIf youran inerrors dung thee chllenu c taka  at the xale completed code <a hef='htps://gst.ghub.com/Jospivengod/a2698fb63e42d9d8b4b84235c084'>ere/a."
+      ,
+     "chaengSeed [],
+    "tts" [
+      {
+       "text": Sn hasgerted and coecty cmpae",
+        "stSin": "gtUInput => $.ge(gtUeInput('ul')'/_api/servr.js') thn(data => { aertmach(data,/STRT_SYN[]*hs.*=.*bcrpt.hashSnc.mPlinxtPasord(|),( |atoud[^]*ND_SYNgi, 'Yo should call bcpt.hashSyncon myPntextPdwit saltRoud'); asser.match(dt,/START_SYNC[^]*result.=.*bcrypt.compreync.myPlintePasword( |,( |)hh[^]*END_YCg, 'Yu should callcryt.copyc on mylinextsswor wthth hash geeratd n the las ine'); }, xh => { trw ew Err(xhstause); )"
+      }
+    ],
+    "olution" ],
+    "hints": [,
+     "type": "backend,
+      relaOn": Feb 1, 27,
+     chllneye" 0,
+    "transltion": }
+  }
+ ]
+}

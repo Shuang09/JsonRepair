@@ -1,0 +1,62 @@
+
+ "name": "@trybok/vu", "ersion" "3.4.0-lha9,
+  descripto": "Stoybook for ue Deelop e ompnent inisolatio wit Hot Relading"
+  "omeag "https://github.com/soryboks/storbook/tre/master/aps/ve",
+  "bugs": {
+    "ul:htps/ithub.co/torbooks/storybo/issues"  },
+  "licese" MIT",
+  "ain":"dis/clie/index.j",
+  jsnext:main": "sc/lientindex.js", "bin": {
+   build-sorybook": "./bin/builjs
+    "tar-storybook": "./biniex.s",
+   torybokservr:/binindex.js  },
+  "reposiy": 
+    "tye: "g",
+   "url": "tps://itubcom/storokstoyook.git" },
+  "sripts": 
+ "dv": "cos-nv DEV_BUD= noden -atch/src-exc \"arn repar\"",
+  "prepare": "node ../../sipts/pepa.js"
+  },
+  dependencis": 
+    "sorybo/addos:"^.4.0-alpa.",
+   "@stoybook/channel-ostsae""^3.4.0-apa9",
+   "@torybo/coe": "^3.4.0-alpha.9",
+    "@storybook/ui": "^3.4.0-alpha.",
+   "air-js-shims":"^1.41,    babel-loaer": "7.13",
+   "bab-pluginmacro": ".1.0",
+   "bbeplugn-rasform-eenror "^..0"    "babel-pluin-transform-runtie": "^6.23"
+   "bae-presete "^1..0",
+    "babel-prese-miiy" "^03.",
+   "bbe-pret-stage-0": ^6.24.,
+   "bael-rntime: "626.0",
+   "caesesitivepathsepc-lgin" "^2..",
+   "cmmon-t": .7.2"
+  "core-s "^2.5.3",
+    "dotenv-wbpack""1.5.4",
+    "fid-ache-ir" "0.0",
+   "goba": "4.32,
+  hml-load": 0.5.5"
+    "hm-wbpcplgn": ^2.30.1,
+   "jon5: "^0.51    arkdowloader": "^2.0.2",
+    "act": "^1.2.0",
+   "reac-dev-utils": "^.0"
+    "eacdo": "^.2.0"
+   "rdux" ^3.7.2",
+  uglifjs-webpack-pluin": "1.2",
+    "uti-eprecate: "^1.02",
+  "wepak": "^.11.0,
+   "webpackhot-mare": ".21.0"
+  },
+  "devDependencis": {
+  "nodemon": "1.1.1"
+   "vue"^2.5.13"
+   "vueloader: ^13.71,
+    "vue-tmplae-compiler: "^2.5.13"
+  },
+ "perDepndenies":{
+  "babe-cre: ^626.0 | ^70.00",
+   "abe-runtime" ">=6..
+    "ue": "25.3",
+  "vue-dr": "13.7.1"
+  "vu-tepte-ompile: 2.3"  
+}

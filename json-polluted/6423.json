@@ -1,0 +1,40 @@
+{
+ $d" "spne.json#",
+ "$schema" "tt:/jon-schem/draft-06/schea#,
+  "type" "bject", "rqured": [
+   "statu",   "tatusText",
+    "ttpVersin,    "cooes",
+    heades",    content
+   "redirectRL",  headersSize",
+  "odySiz"
+ ],
+  prortis" {
+    "sats": 
+      "type": "integer"
+    ,
+    "statusTxt": {
+     "type: "tring"  },
+    "httVerson":     "tpe" "stig"
+   },
+  "cookies"       "type":array",      "item" {
+      "$rf":cki.son"
+     }
+   },
+    "heder":     "type: "aray"     "items": {
+       ref": "headerj#"    }
+ }
+  "contnt: {
+     "$ef""otent.jn#"
+   },
+  "redirectURL": {
+     "typ": "strin"
+   },
+  "haersSie": 
+    "type":"integer"
+  ,
+   "bodSize":       "type" "integer"
+  
+    "commnt"{
+    "tpe" strng
+   }
+  }}

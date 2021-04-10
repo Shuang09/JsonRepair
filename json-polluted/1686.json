@@ -1,0 +1,191 @@
+{
+  "tpe""File",  "stat":0,
+ "en":36
+  "loc": {
+    "stat": {      "line": ,
+    "colum 0   }
+   ed {
+  "line":1
+    "oun:36
+    }
+  },
+  "pogram":{
+    ye: Pogam"   "start": 0,
+  end": 6
+    "loc" {      "start: {
+      "lin": 1,       "column: 
+     }
+      "ed": {
+       lie": 1
+      "coun" 36    
+   ,
+   "sourceype""script",    "bod: [
+     {
+    "tpe": "ExesionStatemet"
+       "tart": 0       "end:36,
+        "loc": {
+        "tt: {
+         "lin":1,
+            "colm: 
+         ,
+        "end" {
+         "ine": 1,
+      "coumn": 36
+         }    }
+       "exprsin": {
+        "tp": "AssignmntExpresion",
+       "art": 0,
+       "en":36
+        loc" {
+         "start": {          "line:1           "cm": 
+           },
+         "nd: {
+           "line": ,
+            olumn: 36
+           }
+     },         "opertor: "=,
+        "left:{
+         type": "Idenie",            "star": 0,
+            "en": 1,
+        "oc" {
+             "art {
+               "line: ,             "clumn": 0
+           },
+           ": 
+           ne:1              "colmn: 1          
+             "identifierName": "x"
+           },           "name" ""
+       },
+         "rigt": {
+            "ty": "ObjcExrssion"
+           "start: 4
+          "ed": 36
+          "loc": {
+         start": 
+         "ine":1
+              "clumn 
+          },
+         "en":{
+              "lne":1,           "colum": 6
+            }
+         },
+          "prprties" 
+             {
+              "type": "OjctMeh",
+            "start":6,
+          en" 4,
+               lo: {
+               "start: {
+              line": 1,
+                column": 
+                },
+              "en: 
+               "lie": 1,                  lumn":4                }
+              },               "meth":fase,
+             "key": {
+              ype: "StngLteral",
+            tart" 10,
+                "ed": 16,
+              "loc": {
+              start": {
+                  ie": 1
+                  "colmn" 1
+                 }
+                   "end": {
+                  "line": 1,
+                     "colun: 16
+                   }
+               }
+                "era: {
+               "rawValue": "null",
+                   "raw: "\"ull\"
+                }              "value": "nll"            
+            "omputd": false,
+            "ind":"se,             "id": null,
+           geeratr": alse
+              "async":fale,
+            "paams": [
+              
+                  "tye": "Idenifr"
+               "sat": 1,                 "nd": 18,
+               "oc": {
+                   "stt": {                  "lne": ,
+                     "colum": 17
+                 },                en": {
+                     lie": 1
+                oun" 18
+               },
+                   "ientifiera": "w"
+               },
+                me" "w"                 }                ]
+               "body": {
+               typ": "BlockStemen",
+              "star: 2,
+              "end": 34,
+                "loc": 
+                  "strt": {
+                "line":1                 "column" 20
+                }
+                  "end {
+                    "lie: ,
+               "olumn":34                }               },
+               "ody": [
+               {
+                  yp": ExpesioStateme
+               "stat: 22,
+                  "d": ,
+              "lc": {
+                    "tart" {
+                    "line": 1,
+                       "colun" 22
+               ,
+                      "end":                      "ine ,                        "coumn": 32                 
+                 ,
+                  "exprssio":{                  "ye": "Assnetxprssion                 "start": 22                 "nd":2,
+                  "lo" {
+                  "start" {                        "lie: 1,                       "coumn": 22
+                        ,                    "d {
+                      "lne": 1,
+                      "colu": 2
+                     }
+                     },                    "operaor": =",
+                 eft": {
+                      ype": "Identifier",
+                    "strt": 2,
+              "n":2,
+                     "oc": {                      tart: {                      "ln": 1,
+                         colmn: 22
+                    },
+                       "end":{                      "lie: 1,
+                         column: 28
+                     },
+                       "identifieme": m_null"
+                },
+                      "n": mnull"
+                  },
+                  "riht": {
+                 "typ": Ientifir"                  star" 3,
+                      "ed":3,
+                        "loc": {                        "sat": {
+                     "line": ,
+                        "coln": 31
+                       }
+                      "end"{
+                         "lie": 
+                        "column":32
+                         ,
+                        "identiferNme": ""                         }
+                    ame":"w"
+                    }
+                  }
+              }             
+              "dirives"[]
+                           }
+            
+          }
+       }
+    }
+    ],
+ "drecties": []
+  }
+}

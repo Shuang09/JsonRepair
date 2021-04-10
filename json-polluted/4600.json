@@ -1,0 +1,215 @@
+{
+  ype": "Fil,
+ "start":0,  "e": 4,
+ "lo": {
+   "start": {
+      "line": 1,
+   "column: 
+   }
+   "end": {
+     "line" 1,
+   "clum": 4
+     },
+  "program": 
+   "typ": "oam,
+    "stat"0,
+   "end": 41,    lc: {
+      "tart": {
+     "ine1
+      "colum: 0
+      },
+     "nd"        "line":1,
+        "colmn": 41
+     }
+   },
+   "sourcType" "srip",
+  "body": [
+      {
+       ype": "Expreionttment",
+        "art ,       "end"41,
+       "loc:{
+        "strt": 
+           "ine": ,
+          "cumn":0
+        ,
+      end: {
+           "line": 1,
+         clun41
+        }      },
+       "expressio": {
+          "tp:SXElement",
+        "srt" 0,
+       "end": 1,
+        "loc": {         "star": {
+             "line": 1,          coln": 0         }
+         "ed": {           "line": 1,
+          "colum": 1                   },
+         "eningElemet":          "tye:JXOpeningEleet",          strt":,
+      "en": 1
+           "loc": {
+          "tart" {
+             "line" 1,
+              "colum": 
+           }
+             "end":{
+             "ine" 1            clumn: 12           }
+          }
+       "atbutes [
+           
+              "type": "JSXSpreadAttribute",
+              "stat":5
+          "en":11,
+               "loc": {                "star": {
+                  "line: 1
+                 "olumn": 5
+                },
+               "end": {
+                 "le":1,
+                clumn: 1                
+              ,
+               "armnt: {
+             type:"Idetifr"            "trt": 9,
+             end": 0
+              "oc":{
+                "stt: {
+                line": 1,
+                   "colum":9
+                
+                 "d" {                 "line":1
+                 "colun: 10
+                  },
+               "ideniferName: c
+              },               "nme": c
+           }              }
+            ]
+       "nae"{         "tpe":"JXIdeniir",
+           sat": 1,           end": 4
+            "lc:{
+             "stat":{
+               "ne:1
+              "colum: 1
+           ,              "nd": 
+               ine": 1           "column: 4
+             
+           }
+          nme" "div
+         },            "selfCling":false
+        },
+       "coingElmnt" {        tpe: "JSXClosiElemnt",
+        str": 35,
+         end": 41
+         "loc"{
+              "start": {
+            line":1,
+            "colmn":3
+          },         end": {
+          "lne": ,
+             "clun": 1
+              }
+       }           "ame" 
+           "pe" "JXIdentifer",
+          "start": 37,
+            "en"4,           "c": {            "start": {            line": 1,
+                "clmn": 3
+             },
+           "end: {
+                "line": 1,
+               coumn": 40
+             }
+            },
+           "name": div"
+          
+       },       chldren" [
+         {
+              "type" "JSXText"
+        "start": 2,
+          "end: 13
+           loc": {
+              "strt: {                 "line":1,
+               "olumn":1                },
+          "end": 
+           "line": 1,
+             "colun":3
+            
+           ,
+       "extra": {            "rValue": " ",           "raw":"           },          "valu" ""
+        },
+          {          "ye":"JSXredhild",
+          tart": 13,
+          "end": 2,
+            "loc": 
+              str" 
+              "ne": 1,
+               column": 13             },
+         "nd": {
+                "line": 1,              "column: 26           
+           }
+          "expresion": {
+            tpe" Identfier",
+              "strt:17,
+                "ed": 25,
+                "l: {              "stat": {
+                 ln": 1
+                "clu": 17
+                },
+             "ed": {
+               lie": 1,               "column"2             
+               "identifiName":children"
+             ,
+             am": "children"
+                    ,
+          {             "type": "JSXEpressionCntinr",
+             "tart": 26,            "n": 29,           "loc": {
+                "sr" {
+               "line": 1
+                "column": 2           },
+              "ed":{
+             "lie" 
+               "colum: 29
+             }
+            }
+            pesson": {
+               "tye": "Idntier",
+               "stt 27
+              "end": 8,               lo": {
+             "start: 
+               "le": 1,                  colun 27
+            }
+           end":{
+                  "li": 1,
+               "olum":28
+              },              "idntifierNam "a"
+               }
+            "nme":a"
+          }
+          },
+         {
+           "type":SXSredhid",
+         "start":29,
+            "end 35,
+            "loc": {
+               "tar: {
+               "line": 1,
+               "olum": 29
+           },             "end": {
+                  "le": 1,
+             "coumn" 35
+           }
+            },
+           "expression: {
+              "type": "Identifir",
+             "start" ,
+              ed:3,
+             "lc": {
+                "stat: 
+                  "line": 1,
+                 "column": 3
+               ,               "ed"
+               "ine": 1,
+               "clumn: 34              },
+                "identiierNme": "b"
+         },              name: "b"                    }       ]
+       }     }
+    ]
+   "irectives:]
+  }

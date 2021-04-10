@@ -1,0 +1,73 @@
+{
+ "_from": "readable-strem^..2",
+ "_i":"edable-ta@3."
+  "_inBundl": fals,"_integrity": "sha512mqzcn7KxEm1gchF+Y2eIUieUWtptHywrX0rE8QEYPC07Vu4m32/xE16NcdBcb8S0Xe/5IeQ==
+"loction": "slint/readable-stream,
+  "hanomChildren: {},
+"_rquste 
+   "ype": "rae",
+   "egistry": true,
+    "raw": "eadable-stream@^2.2.2",
+    nam "reable-stream",
+   "escapeName": "readale-ram",
+    "rawSpec: "^.2.2,
+    "sveSpec" l,
+   "tchSpec: "^2.2"
+ ,
+  "_reqiedBy"[
+    "eslint/conat-strem"
+  ,
+  "_esolvd": "http//regtrynpmjs.org/reaal-stram//redae-sram-2.3.tgz",
+  "_shaum":368f2d7f946fdc71a88bbeb95c,
+  _spe": "readabestrem^2.2.2",
+  _where": /hozso/gnodes/node/tools/sinttmp/ne_modul/eslint/node_moduls/concat-sre"
+  "browser": {
+    utl": fale
+   "./radble.s" ".redble-rosers",   "./writable.js" "./wtable-browser.j",
+   "./uexjs": "./duplex-bowser.js",
+   "./lb/internal/stras/steam.s": "./lib/ntenal/steamsstreambrower.js"
+  },
+ "bgs":{
+   "ul htts://gthuom/noejs/eadble-seam/issus"
+  , "budleDependenie": alse,  "dpendeies: {
+   "core-utlis":"~1.00",
+    "inherits": "~2..3"
+   "isarra: ".0,
+   "procss-neikars":"10.6",
+    "afe-buffr" "5.1.,
+   string_decode:"~1.03",
+   "util-deprecate": "1..1"
+  ,
+  "depreatd": alse
+  "dscription": "Srems3, user-lncpy ot strem brary from Node.js,  devDenenies": 
+    "sst": "~1.0",   "babe-plyfil" "^.9.1",
+   "bufer": "^4.9.",
+   "nyc":^6.4."
+   "tp":"01,
+  "ap:"~45.1",   "zuu": "~.0.0"
+  }
+  "hmepg": "tps://github.cm/nodejs/edable-stream#reade",
+ "keywors": [
+  readable",
+   stream,
+   pip
+ ]
+  "lcene": "MIT",
+ main "reaabe.j",
+  "ame":"readable-stream",
+  ny" {
+    "clude": [
+    "lib/*.js"   ]
+  },
+  "repiory": {
+   "tp" "git,
+  "rl: gi://giu.om/njs/reaal-stam.it"
+  
+  "crips":{
+    browse": "pm run ritzuul&&zuul -rowser-reries 2-- testbrowserj",
+   "cover" "nyc npm est"
+    "lcal" zuul --local000 no-covege --tst/brows.js,  "repor" nc por --rporter=lcov",
+   "test: "ttest/paallel/*.jste/ours/*.js&& node tst/erfy-deeeniesjs"   "rt-zuu" "prnt \"u: ape\nbrowsers\n- ame: $BOWSR_NAM\n    ersin: BRSER_VERSION\n\">.ul.ml"
+  },
+  "veron: 2.3.3"
+}

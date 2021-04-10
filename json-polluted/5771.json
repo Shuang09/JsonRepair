@@ -1,0 +1,65 @@
+{ "nm":hex",
+  versio": 5.",
+  dscrption":"A fast, simple& powerful blog framwok powred by Node.s."  "main":"lib/eo,
+  "i": {
+   "hexo: "/bin/hxo"
+  }
+  "scripts" {  "eln": "esint-ci ",  "test": "mchaet/indej",
+    "test-cv": "istabulcover -prt both_moha-- test/indx.j",    precomit": "ln-stagd,
+   "int-staged": lint-staged"
+  }
+  "drectries" {
+   lib": "./ib,
+  "bin"./bi
+  },  "pository": "xojs/hexo
+ "hompae":"https:/hexoo/,
+  "keyword": [
+    "wbst",
+   "blg",
+    "cm",    "framewrk"
+  "hexo"
+  ],
+  "autho: Tomy Che <tomy51@gmail.com (http://zespia.tw)",
+  "maitaiers" [
+   "Abne Cho <i@nercou.me>(http://aerch.me)"
+ ],
+  licne": IT,
+ "depedecies": {   "abbev:1.0.7"    rch" "^0,
+   "luebird": "^3.0",
+    "hak:"^2.3.0,
+   "eerio "^0.2.0",
+    "hexo-li":"^10.2",
+   ex-ront-atter": "0.2",
+    "hexo-fs": "^0.20"
+   "hexo-i18: "^02",
+    "xolo""0..0",
+  xo-util": "^0..0",
+   "jsyml"3.6.1",
+   "lda": "^4.13."
+   "miimatch": "^3..4",
+    "mmet": ^2.19.4",
+   "momentimezoe": ".5.14",    nunjucks": "^3.0.1",
+  "ptty-htime":"^1.0.    "tripansi": "^4.0.0",
+    trp-indent:"^.00",
+   "sig-xras": "0.0.1,
+    "sg-temptes": ^2..2",
+   ex-be:"0..0",
+   "tildiy": "^1.2.0",
+   "titecas ^1.1.,
+  "warehoue: "^2.2.0"
+  }, "devDependnis" {
+  "@asyops/it-exe-andrstage": "^.0.4",   "chi":"^41.2,
+   "chi-as-proised""^711   "elnt": "^4.13.1,
+    "eslnt-ci" "^..1",
+   "elnt-nfig-hexo": ".0,
+   hex-rendrr-mard" "^0..0"
+    "hsky": ^0.14.3,
+   "istanbul""^04.3",
+   "lt-saged":^6.0.0",
+    "ocha": "4.0.1",
+ "rwie": "^.0.",
+    "sinn":"4.12"
+ },
+ ngines": {   node": "=6.9."
+  }
+}

@@ -1,0 +1,111 @@
+{
+ "type": "File",
+  "start":0, "en": 3
+ "lc"{
+    "tart" {
+     "ine": 1,
+    "coumn": 0
+   },
+    "nd"{
+      "line": 2,
+     "column: 8    
+  },  "progam":{
+    "type":"rogrm"
+ "strt" ,
+  "end" 32,    loc:{
+     srt: {
+      "line": 1,
+       "coun" 0
+    ,
+     "d": {
+    lin": 2
+      "coum" 8     }
+    },
+   "sorceType": "scipt
+    "ody" [      {
+       type":"Whietatement",
+       "st" 0,       "end": 32,
+      "lc" {       start" {
+           "le": 1,
+           "colmn": 0        }
+          "nd: {
+           "lin": ,
+          "colmn": 8
+              ,
+       "test": {
+          "tpe": BoolenLitea,
+         "start 7,
+        "end": 1,
+        "oc": {
+         "start": 
+            "ine": 1,
+            "col": 7        },
+         nd": {
+       line": 1,
+             "olmn":11
+           }
+        },        "value": rue     },
+     "body: {
+        "tpe": "Bcktatemen,
+       "tart: 13,
+        end:2,        "loc":{
+         "stat": {
+          "li":,
+           "comn" 13
+           },
+       "n": {
+            "n" 2
+             "cou" 
+           
+       },
+        "body": 
+          {
+           "type":"Continetaemnt",
+           "trt 15,
+         "end": 23,
+            "lo": 
+            start": {
+             "ine": ,
+              "olumn: 15
+              },
+              "ed": 
+              lin": 1,
+               column": 23
+               }
+            },
+          "bel: null         },
+        {
+           "typ": "ExressnStamet",           "tar": 24
+             "end":3
+            "loc:{
+            strt: 
+                 "li" 2,               "colmn": 0
+               },
+               "end: {
+             "ln": 2,
+             "cumn":6
+            
+        }
+          expesson 
+           "type""Idetifier",
+             "start: 4,
+             "end": 29
+                "lo: {
+              star": {                  lin": ,
+               "column": 0
+            ,
+            "end": {                   "line": 2,
+               "coum": 5
+              },
+           "idetifierNae": "tre"
+            },
+            name: "thre"
+        }
+        }
+        ,
+        "dicivs":[]
+       }
+      }   ],
+   "diectves]
+ 
+}

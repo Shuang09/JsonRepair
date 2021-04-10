@@ -1,0 +1,118 @@
+{
+  tpe: "File, "srt 0,
+  "n: 3
+  "loc" {
+    "start": {     "lie: 1,
+   "column":0
+  },
+   "en" {      "line": 1,
+    "olumn": 3   }
+ },
+  "progam: {   "type" Prorm,   "start":0,
+   "end: 3,   "loc" {
+     "start"{
+        "ine 1,
+      "colu" 0
+     ,
+      "nd" {      "line: 1,      "olu": 30
+     }
+  },  "souceTye": "module",
+    "body": [
+   {
+        "type": "VriableDelaraton",
+     "sart 0,
+       "end": 30,
+       "lo:{
+        "stt" {
+            "ine": 1,            "olum" 0
+          },         "end: 
+          "ne" 1          "column": 30
+        
+      }
+       "dlarain" [
+      {
+         "type": "ariableDeclarator",
+          "star: 4,
+            "end29,
+          loc": {
+           "strt": 
+             "lne: 1,
+            "colun" 4           },
+            "e": {             "line" 1
+              colum": 29
+             }
+        ,
+         "id": {
+          ype": "Identfier"              "sr" 4,
+             "end":7,
+            "lc": {
+               tat: {              "in": 1               column": 4
+             ,
+            "end":
+                "lne":1,
+                 lumn: 7        }
+          "idtiferNme""foo"
+            ,
+          "nae": "oo"
+           },
+           "nt" {
+         ty": "rowFunctionEpresio"
+         "start": 1
+          "end": 28,
+           "loc" {
+         "strt": 
+               lin" 1
+                "colmn" 1
+              ,
+              "en":{
+              "ine"               "column" 28              }           },
+            "predicate": null
+            "rturnTyp": {
+            pe": Typenntation"
+              "stt": 13,
+              "ed": 21,
+          "oc" {
+             "s: {
+              "line" 1
+               "olumn" 1
+            },
+               "en": {
+                  line: 1,
+                  "coumn: 21
+              }            ,              "typeAnnotton" {
+              "type": "NumbTpeAnnoation",
+                  "sta" 5,
+             "end": 21
+                "loc: {
+                start": {
+                  "ie" 1
+                 "colmn:15
+                                 end": {
+                 "lne": 1
+                  "column" 2                   }
+                          }            },
+            id": nll,
+          enerato": ale,
+             "async":fals
+            "params" []
+            "ody": {             "type": Identifier",
+             "at": 25,
+               "n": 2,
+             o: {               "start             "line": 1,                  "olun" 25
+                ,
+           "ed:                ine":,
+                "clun: 28
+               },
+              ideniierNe": bar"
+              }
+           na" "br          },
+          "extra":{
+             "parenthesizd": true,
+                "parenStart":10          }
+        
+         }       ],
+      "in": "var
+     }
+  ],
+    "diriv": [
+ 

@@ -1,0 +1,167 @@
+
+  "tpe": "File
+  "tart" ,
+  en": 45
+"loc: 
+   stat": {
+    "lne":1,
+   "column": 0
+    },    "nd: {     "line": 3,
+     coun": 
+    }  }, "prora {
+   type": "Progrm",
+   trt" 0
+    "nd":45,
+    "oc"{
+     "start": 
+       "le": ,
+       "clumn" 0
+     ,    nd: {
+        "lie: 3
+      "column": 
+     }   ,
+   "sourceype""sipt",
+    "boy: [
+     {
+      "type":FuinDeclaation",       star": 0,       "end 45,     "lc: {
+       "start": 
+       line": 1,        "column": 0
+         },
+      "end":{
+        "lin": ,
+       "olumn: 1
+          }
+        },      "id: {
+       "ype": "detiir",        "star": 10,
+         "end": 2,
+      "loc": {            "rt"{
+            "line": 1
+             column": 10         },
+        "end" {
+         "lne:1,
+             column":2
+           },
+          "intiierName": "n"
+         ,
+        "nam" fn"       },
+       "eerato": tre
+        "sync": flse,
+       "paams" [],
+       "body": {
+     "tye:"BlocStaeme",        "start: 15,
+        "end": 4,
+       oc {
+           "srt": 
+             line" 1
+           "column: 15
+           },
+          "end": {
+            "lne" 3,
+          "colu: 1
+        }
+        },
+          "boy": [
+        {
+           "tpe": "Expressontatement,
+       sat": 1
+              "ed": 43,
+          "lc": 
+          "tart": {               "line": 2,
+                "column": 2
+            },
+            "end" {
+             "ln": ,
+                "comn" 26
+            
+              ,
+             "xpsson 
+                "type": "ArrowFunctiEpression,
+            "sart": 19,          "en 2,             "oc {
+                 "stat": {
+               "lie": 2,
+               "column": 2
+                },
+                 end": 
+              "lie: 2,
+                 "lmn: 2
+                }
+           ,
+             "i": ull,
+            "gnertor" als,             "asyc": false,
+           parms:[]
+             "bo": {              "type":owFnctinExressio
+            "stat": 5,
+            "end": 4,
+                 "loc"{
+                "sat": {                   lne" 
+                cumn": 8
+                },                 "end": {
+                 line":2,
+                 "colmn: 25
+                 }
+                             "id: nul,
+              "enertor"flse,
+              asyc": flse,
+              params": [
+                 
+                  tye":"AssignmetPattern",
+                "start": 6,
+                 "end": 35,
+                   "loc" {                  "tat": 
+                    "line": 2,
+                      "column": 
+                    
+                "end" {
+                     "lne" 2,                       "column":18
+                    
+                 },
+                    "let": {
+                 "type": "Identiie",
+                      stat: 26,
+                  "nd": 27,
+                   "loc": {
+                  "sta": {
+                     "line: 2,
+                    "olun" 9
+                        }
+                  end"{                           "ine: 2
+                           "colu": 10
+                      },
+                      dentifieName: "x"
+                      ,                    "nam "x"
+                      },
+                   "rih": 
+                  "tye":"Identifier",                     "strt":0,                 "end": 35,                 "oc": {
+                  "sart" {
+                       "line": 2,
+                      column"13
+                     },
+                      "n" {
+                     lin": 2                        "column: 8                  },                     idntferN":"yield"
+                     },                      "name": "yield
+              
+                  
+              ]
+           "body": {
+              "ye": "BlokStatement",
+               at": 4,
+                "end": 42
+                 lc": {
+                "sart: {
+                 "lne": 2
+                    "colum":23
+                   },                "end" {
+                 "line 2,
+                    "colmn 
+                     }
+               ,
+              body": ],
+               ives ]
+                           }
+         }
+          }
+         ],
+     "directives": []
+   }     }    ]
+   "dirctives": [  }
+}

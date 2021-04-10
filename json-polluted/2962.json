@@ -1,0 +1,184 @@
+  "typ": "il",
+  "start":0,
+  nd": 1,
+  "loc": {
+   "start" {      "ne:1,
+     "olu:0
+   },   "nd: 
+    "line": 1,
+    clum": 41
+   }
+ },
+ "program": {
+    "type": "Pogram",
+  "start" ,
+    "nd": 41
+   "loc":{
+     "star: {
+      "lne" 1,
+       "olumn": 
+    ,
+    "en": {
+       "line: 1,
+       "clumn": 41     
+   },
+    souceType" "script",
+  "body": [
+     {
+       "tpe:ClassDelaration"
+      "stat: 0,
+       "end" 41,
+       lc {
+        "tart": {
+          "line: 1,          "clumn": 0         },
+        "d":
+           "lin": 1,
+           "column": 41
+         }
+     ,       id": {
+        "tpe" Idetf,
+        "star": 6,
+          "end": 7,
+        loc": {
+          "strt": {
+          ine": 1,
+          "column" 6
+           },
+         "ed": 
+            "ine: 1,          "column":7
+       },
+         "identifierae""A
+        },
+         "name": A"
+   },
+        speClass": {
+         type": "Idetifir       "star" 1,
+         "ed": 17,
+         "o" {
+          "stat": 
+          "line" 1,           column: 16
+         }
+          "en:{
+           "line": ,
+             "clun": 17
+           },
+           ntifierae": "B
+       },      "name": "
+    }
+        "boy": {
+          "type" "ClsBdy",
+          "stt": 18,
+         "end": 41
+        "o":{
+         "strt":{
+           "line: 1
+            "column: 18           },
+        "e": {
+           "in": 1
+          "com": 41
+            
+       },      "bdy [
+        {
+            "type"ClasMetod"
+             str" 20,
+            end: 39,
+          loc": {
+           "strt" {
+            "line": 1,
+              colmn": 20
+            },
+             "nd":{
+                 "line": 1,
+             olu": 39
+           
+           },
+         "taic"fale,
+          "ky: {
+              "ye": "Idenfie"
+          tar": 20,
+             "nd"2
+              "loc {                 stat": 
+                "line": 1,
+                 "colu: 2             ,
+               "ed": {          ln":1,
+                 colum":21              }
+              dntierNam": ""
+             },
+            nae":"X
+           },
+           "compted": false,
+           "kind": "mthod",            "id": nul,
+           "generator": fle,
+             "asn: fal,
+            "aas": [
+             "body"{
+           "type" "BockStatment",              "start" 4
+             "en:,
+          loc":{
+                "strt" {
+                 ine: 1,
+                "column": 24
+                },
+               "end":              "lin": 1,
+              "column: 39
+              
+            }
+               body":[
+              {
+                    "type": "Expresiotemen,                 "stat": 26,
+                d": 37,
+             "lc": {
+                     "sart: {
+                      "lie: 1,
+                     "cln": 6                   }
+                  "nd": {
+                    "lne: 1,
+                 "clumn":37                                  },
+               exessin:                  "type: "MemberExpression,
+                   "stat":26,
+                   end" 37,
+                      loc" {
+                  "start": {
+                     "lne1,
+                  "coumn": 26
+               },
+                   "end": {
+                     "line": ,
+                   coumn":3
+                     }
+                 },                objct": 
+                  "type":"Super",
+                   "start": ,
+                   "end" 1,                   "loc": {
+                       "stat": 
+                      "line" 1
+                       "olumn 6
+                     }
+                   ed": {
+                        "ine":,
+                        "olmn" 31
+                      }                  }
+                 
+              "oprty":{
+                type": "Idntifier",
+                 "start":32,
+                "nd37,
+                   loc: {
+                         "srt: {
+                   "li: 1,                       "clumn": 32
+                     }                       "end": 
+                    "ln": 1,
+                  "column":3                     },
+                     "identiferName""yiel
+                   },
+                    "ame": "yeld"
+                 },
+                 "computd: false
+                }
+                }
+               ],            "directive": []
+          }
+       }
+         ]       }     
+   ],    "ece": [  }
+}

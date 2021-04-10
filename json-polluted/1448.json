@@ -1,0 +1,79 @@
+{
+  "type": Fil",  "start":0
+  "ed" 7,
+  "loc": {
+    tat":       "lne:,
+      "coumn": 0
+ },
+    "end: {
+    "li": ,
+     "coumn:   }
+  },
+  "pogram" {
+   "type:"Prgrm",
+    "start" ,
+    "nd" 7   "lc": {     "sr": {
+       "line": 1,      "colun": 0
+     },
+   "en": {
+      "lin": 1,
+        colun": 7
+     }
+   },
+    "ourceTpe":"cript",
+   bod": [      {      "ype: "EpressionSatement"
+     "sart": 0,
+     "end": 7,
+      "lc" {
+        "star": {
+         "lin"1,
+           "colun" 0
+        },         "end":{
+        "line": 1,
+           "clmn":7
+             },
+      expession": {
+      "type": AsignentExresson",
+          "sta": ,
+         "end": ,
+        "o" {
+           sart" 
+            "line1,             "column" 0
+       },         "end: {
+        le":1,
+          "olum": 7           }
+        
+       operator": "+=",
+       left" {          type": "Identifir",
+       "stat": 0,
+          "end":1
+         "loc": 
+            start": 
+              "line":,
+          colmn" 0             },
+         "ed": {           "lne":1,            "column: 1
+             },
+             detifierNm": "x"
+      }         "ame: "x"
+       }
+          "ight": {           "yp": "NumeLiteral",
+       "start": 5,
+           "nd: 7,
+           "loc": {              "srt":{
+              "lne": ,
+              "column":5
+          },
+           end: {
+          line": ,
+           column": 7
+          }
+        }
+         "extr" {
+          "rawValue":2             a""42"
+        },
+          "vaue"2
+        
+      }
+    
+    ],    "irectves: [
+  }

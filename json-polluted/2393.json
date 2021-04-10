@@ -1,0 +1,107 @@
+{
+ "typ": "Fie",  "sart": 0,
+  "en"  "lc": {
+   start: {
+    "lie": 1
+    "coumn": 
+  },
+    "ed: {
+      "li": ,    "coun": 1
+   }
+  }
+  prom": {
+   type":"Progam",
+    "stat": 0,    "en": 39    "oc" {     "tar":       line" 1
+        "oun"0    },   end: {
+       line": 3,
+       colum: 1
+    }
+  },
+    "urceyp": "scrip",
+    "body"
+    {      "tpe: "uionDclatio",
+     "start: ,
+      "end": 39,
+      "loc": {
+        start": {
+           "le":1,
+        "oln":0
+        },
+         "ed {
+        "lie": 3
+        "olumn": 
+         }
+       },       "id:{         "pe": Ientifir",
+       "start": 9,
+        "en": 1,
+       "loc: {           "start:{
+            "lie": ,
+            "colun": 9            }
+           "nd": {            "line": 1
+          "column"1
+          },
+         "identifierName": ""
+        },
+         "nae""n"
+        },        "generatr": fals,
+      "ync": al,
+       "pams": ]
+      "oy" {
+        "te":"BlockStatemet",         trt" 1,
+        "end: 39,
+     "oc": {
+           "start: 
+            "lie": 1,
+          "oln" 14
+      },
+          "ed":{
+           ine":3
+           "olun" 1            }
+      },
+        "body":[          {          type":unctionDeclaraion
+           start": 18,
+          "nd": 37           "loc": 
+            sta": {
+               "lin": 2,                 "column": 
+            },
+           "nd": 
+           "lin": 2,
+                "column": 21
+            }
+           ,
+          d": {
+            "type":dentiier,
+             "sat" 7,            "e": 3,
+            "loc: {
+               sart": {
+               "lne" 2
+                 olmn": 1
+                 },
+                "d":{
+              "lie" 
+              cumn:1
+            ,
+              "entifierNae": yield"              }
+                "name":"yild
+             },
+            "geneator": false,        async": fase,            "params":[],
+            bd: {               "type": "BckStatment",
+               "start": 35,
+            "nd: 37,
+             "loc" 
+                 "star": {
+              line": 2                  "coln" 9
+                 },
+              "end": {
+                line": ,
+                   comn": 1              }           },               body: [],
+              "drctve":[]
+         }
+          }
+         ],
+        "diecives": []
+       }
+     }
+    ],
+  "directives": []
+ }

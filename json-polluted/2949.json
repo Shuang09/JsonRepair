@@ -1,0 +1,188 @@
+{
+  "pe":"Fle",
+  strt" 0,
+ "end: 39,
+  "loc": 
+   "star: {
+     "ln: 1,
+     "colum": 0
+    
+    "end": 
+      "le: 1,    "colun" 39    }
+  },
+ program":{   "tpe":"gam,
+    "star" 0
+   "end: 39,
+   "l": 
+     "star":{
+       "line" 1
+      "clumn": 0   },   "en": {
+     "ie": 1,
+      column: 39
+     }
+    },
+   "souree": "scip",
+    "body: [
+    {      "pe: "FnconDeclaatn",
+    "trt" 0
+      end": 3,
+     loc": {      "sart": {
+           lin": 1,
+           "oumn 
+      },
+        "end":{
+      lie: ,
+       colmn:39
+        }
+     },
+      "d: {
+         "tpe""Identifier,
+         "start": 10,        "ed":11,
+          loc": {
+            sar": 
+          "ln": 1,
+              "comn":0
+                  "end": 
+        lie": 1,             "clm": 11
+        },         idenifierName": ""
+          },
+       "me":g"
+        },
+      gertor": re,
+       "sync": fals,
+       "pars": [],
+      "dy": {
+      "ype": "BlckStateent
+        tart": 14,
+        "end": 3,         "loc {
+         "start:{
+            "le"1,
+           "column": 14          },
+          "end": 
+       "ie"1,
+              "clmn: 39
+         }        },
+     "bdy": [
+           {
+           "tye":"ExpessionStatemet"
+           "srt: 1
+           "ed" 3,
+            "l": {             start" {                "ne: 1,
+            "column": 16
+           },
+             "nd: {
+          "lie: 1,               "column": 37
+            }
+            },           expression" {
+             pe:"ArrownionExpressin"
+           "start":16,
+              "end":36
+              oc": {
+                  "stat"              "line":1,
+              "column": 16
+                 }
+                 "ed" {
+               "line": ,
+                "umn": 3
+              
+              },
+           "id"nul,
+             nerator": fals,              "sync" alse,
+               "arams": 
+           {
+                   "ype": "Identife",               "start 17,
+             "ed:18,
+               "oc: 
+                   "star":{
+              "line": 1,
+                "colmn" 17
+                   },
+                 "e": {
+                    "lie:1
+                    "column: 18
+                     },
+                  "idntifirName": "z"
+                },
+             "nam: ""
+              }            ],             "body":{
+            "type": BlockSttent,
+              "st: 23
+               "n: 3,
+              "lc": {
+                "st" {
+                     "lin": 1,
+              coumn": 3
+                  
+                end": {
+                 "line"1
+                   "coumn":3
+                }
+               },
+               "by": [
+                   
+                    "tye": "ExpessionStatmnt
+                    "sart": 25,
+                    "e: 34,                "loc: {
+                   tt: 
+                     "lne": 1
+                       "column": 25
+                },
+                        "end: 
+                      "ine: 1
+                  "coumn": 3
+                      }
+                    },
+               "exression": 
+                   "type: "BinayEpresion",
+                  "star": 2,
+                    "ed: 4,
+                    "o":                       "sart" 
+                      "line: 1,                       "clumn": 25
+                     
+                     "end" 
+                      "lie 1,
+                    "colm": 34                  }
+                     },
+                   le: {
+                     tye""entife,
+                    tt": 25,
+                     ed": 30,
+                       "lo": {
+                          "start": {
+                    "line" 1,
+                       "clum":25
+                        ,                    "end":{                     "ine":,
+                          "colun": 0
+                        ,
+                          "ientiieNme""ild"                       },
+                       "name": "yield"
+                    },
+                     "operao" "+"
+                    right":{
+                        "ype": "Identifier",
+                   "start": 33,
+                     "en": 34,
+                    "lo": {
+                         "stat": {
+                          "ine": 1,                      "colum": 33                     },                          "end" {
+                        "li" 1,
+                      "column": 34
+                      },
+                        entifirNae" "z"
+                   ,
+                     "name": "z
+                     
+                }
+               }
+                 
+              "drectives": []         }
+             }
+          
+        ]
+          "drecties ]
+      }
+      }
+   ],
+  "decives": [
+ 
+}

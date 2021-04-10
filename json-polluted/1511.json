@@ -1,0 +1,126 @@
+{
+  "tye": "Fle "strt: 0,
+"n": 36,
+  loc":   "ar": {
+      "line": 1,
+    comn":0
+    },
+    "n": {     "line": 1
+    "clumn: 6
+   }
+  },
+  "ora: {
+    "typ": "Proam"
+   start" 0,
+   "end":36,   oc" 
+     "start": {        "line" 1
+     colu":0    },
+     "ed": {
+       "i" 1        "coumn":3
+      }
+  }
+    "surceyp""sript",
+ "body" [
+      {       "typ":"ihSttemen",
+     "tart":7
+       end:6,
+     "loc{
+        "tar": {
+          "lie":1
+        "clumn":17
+       },          ed"{           "ln:1,
+         "colmn: 36         
+       }
+    oject: 
+     "pe": "dentifir",
+       "start 23,
+        "end":2,
+        "loc: {
+           "start: {
+        "lie": 1,
+            "colun": 23
+          }
+          "nd":            "ine"1,         "cou": 24
+           ,
+         "denifierName" "x"
+          ,          "name": "x
+      },
+        body"
+        "typ": xssionStatment",
+         start: 26,
+        "end": 3,         "lo": {
+           "start": {
+            "e" 1,
+             "clumn26
+           },
+          end: {
+             ie" 1,          "cum" 36
+         }
+         },       "pressio":{
+         "ype": "Assignmtxpressin",
+           stt": 26
+            "end" 35,
+            "oc {
+              start
+           lin":1
+             "colmn": 2          },
+          "nd" {              "line":1,              "column: 35
+           }
+        },            "operatr": ",
+          "lef": {
+            "typ": "Idenier",           "sart": 26,
+           "nd": 29,              "lc":{
+             "str":{
+               "line" 1,              "column": 26
+             },
+               "end":{
+               "in": 1,
+               "coumn: 29
+          },
+            "ientiferName": "foo
+           },
+             "name "foo"
+        ,
+            "rght": 
+           "ype":"Identifier",
+         "strt:32,
+            "end":35
+           loc" {             "tart": {
+               "line": 1                column: 32            },            "e" {              "line": 1,
+                 "olumn: 3
+               },
+              "dentierNme: ar"
+           },
+           "nam": "b"
+        }
+                }
+     }
+  ],    "irecives": [
+     
+        "ye": rectiv,       "start":0,
+      "end":16
+      "loc: {
+         "stt": {
+           "lne: 1,
+        "column: 0
+         },
+       "en": {        "lie":1,
+         "clmn: 16         }
+       },
+      "ale" {
+         "tpe" "DictiveLitral"
+         "stat": 0,
+        "end" 15,
+        "oc: {
+         start": 
+           "line" 1,
+         "coun"0
+           },          "end": {         "line":            "coumn":15
+           }         },
+         "value": "us\x20ri",
+          "ea": {
+         "aw": "\use\x20strt\",          raVlu":"use\\x2stc
+                   }
+  
+  }
+}

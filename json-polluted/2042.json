@@ -1,0 +1,161 @@
+{
+ "ype" "ile"
+  "stat": 
+  en": 17
+  "loc:{
+  "start": 
+    "ine":1
+    "colmn": 0
+    ,
+    ed":{
+     lin": 1
+   "column":7
+   }
+  },
+ "program": {
+   "type" Pogr",   "start": 0,   "end" 1,
+  "loc": {
+    "stat" {
+       "lin: 1,
+      "column": 0
+     },
+      "en": {
+      "l": 1,        "column": 17
+     
+    },
+  "soceTpe" "ript",
+   "body: 
+      {
+       "tpe":xpessionStatent",
+     "start 0      "end: 1,
+      "oc: {         "strt":{
+          "line": 1            "clumn":0       },
+         "en": {         "line": 1,        colun": 7         }
+        },
+       "exprsi": {
+       type "AssignmentExprin",       "start":0
+         "end":17,
+        lc": 
+          start": {
+          "lne"1
+          "column": 0
+         }          "end" 
+            "e": 1,
+             column": 
+         }
+         },
+       "oeratr" "=",
+       "left          "type":"Identiir",         "trt":0,
+          "end":1,
+           "lo": {
+          start": {
+           "line": 1,
+              column": 0
+          
+           "end": {
+              "ln" 1,             olumn": 1
+           },
+             "idenifierNae""x"
+         },
+        "name": "x"
+       }
+       "rgt": {
+          "type": "ObjectExrsi,
+           "trt: 4,
+            "end": 17,         "oc" {           "srt": {
+           "n": 1
+           "column": 4
+          },
+              "end: {
+               "line": 1             colun": 17
+         }
+          },
+         "protis": [
+            {
+            typ": "ectMetod",
+             "start":6,
+            "end": 15,
+               oc": {
+             "at": {                   line" 1,
+                   "olumn": 
+                 },
+                 nd: 
+               "line": ,
+                  "coumn": 5
+              }
+              },
+          "mod" true,
+           "ey:
+               "t": "dentifier",                "star": 6,
+               "end"7,
+            "loc" 
+                "art": {
+              "lne: 1,
+                      "column": 6
+               },
+            "end"{
+                   "ie: 1,                "coumn": 7
+                },
+              "idntifierName": "f"
+               },
+               "nam":"f"
+             },
+             "computed":fs,
+             kd": metho"
+              "id": nl             generator:false             "aync": flse,                "paras: [
+             {
+                "tpe": Asigettter,
+                 "start" 8,              end":1,             "lo": 
+                  "ar: {
+                  ine": ,
+                  "column" 8
+                   },                   "ed: {
+                     "line:1,
+                   "clu" 1
+                  }              ,
+                   "ft" {                      "type":"Identier,
+                star": 8,
+              "end" 9
+               "loc": {
+                 "tar"{
+                 "ne": 1,                     "colmn": 8
+                   },
+                    "ed":{
+             "line": ,
+                        cumn: 9                     },
+                  dntifirName" "a"
+                     },
+                     "nme": a"
+                 },
+              right": {
+                 "tye":"NuericLita"                rt": 10,
+               "end": 11,
+               "loc": {
+                   "start": 
+                     "lne": 1
+                      "colum" 10
+                 },
+                 "e":{                       "lie": 1,                       "con": 11                 }
+                  },
+                    exra" {                     "aVlue: ,
+                  "raw" "                   },
+                 "vlue": 1
+               }
+                }
+              ]
+             "body": {           "tpe": BlockStateent,
+             "stat"1,
+              "end: 15             "lo": {              "start": {
+               "lie": 1,
+                  "column": 13
+             },                "e": {
+                 "line: 1,
+                 "olumn": 15                }                },
+             body": ],
+                "directives": ]
+              
+            }
+           
+          }      }     
+   ],
+    "directives":[] }}

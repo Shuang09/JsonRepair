@@ -1,0 +1,347 @@
+{
+  yp "Fil",
+ st" 0  "end":11,
+  "loc": {
+   "stat": 
+    "lie": 1,
+     colm":     },    "end: 
+     "line": 12,
+    "colmn": 1
+    }
+  },
+  "prom": {
+   "ype:"Pgra",    "star
+    "en": 110
+ "loc": {
+     "art": {
+        "line": 1,
+    "colun": 0
+     },
+    "en":{
+     "lin": 12,
+        "colum" 19   }
+    },
+    sourceTye" "modul",    "oy": [
+     {
+     "tye "TypeAli",
+       "sart" 18,
+      "end": 60,
+      "loc": {
+       "sar: {
+          "lie": 5,           "clumn": 
+       
+       "nd": 
+         "line: 8,
+           "column":6
+       }
+       },
+      "id": 
+         "type": "dnifir,
+         start": 23,
+       "end" 38,
+        "loc": {
+          "tart": {
+           "line": 5,
+            "clumn": 5          },
+         "en":{
+             "ine": 5,
+            "lun": 20
+         ,
+           "dntifiNme" "irctioVeco"
+      },
+         "ae": "Dirctinecto"
+     ,
+      "typeParmetr" nll
+        "rght": {
+         "type":"UnionTypeAnnotatn"
+        "sart"3,         "end": 59,
+         "loc": {
+       "ar": {
+           line": ,
+           olumn": 2
+        }
+            "end": 
+            line: 8,
+             coumn": 
+          }
+          
+        "types": [          {
+           "type" "NumberLitrlTypeAnnotation",
+           tat" 45,
+           "n": 47,
+           "oc" {
+            "start"{
+              lie": 6
+                 cun":4                }             "end" 
+                "ne":,
+                 "colmn": 
+              }
+            },
+           "exra": {            "rawVale" -1,
+             "raw" "-1
+             },
+            "lu":-1
+           },
+          {
+              tye": "NmbeLieralTpeAnnoation",
+          "star": 52,
+           "end:3,
+              "loc: {
+              "star" {
+               "line":             "colmn: 4
+             }
+               "en": {
+              line": 7,               "colm: 
+             }
+           },
+          "exa":{
+              "awlu": 0,
+          raw": ""
+          }
+            "valu" 
+           },
+           {             ": beteralTyeAnotaton",            "stt": 58,
+          "end"59,
+           "loc {
+              "art": {
+                "line: 8,
+                 "col": 4
+            },
+            "end": {
+              "line: 8,
+             "column" 5           }
+           },
+            "exra:               "rValue: ,             "raw": "1"
+           },
+          vaue: 1
+           }
+         ]       }      "leadingComents": 
+                  "p": "CmmntBoc",
+           "valu" "*\n * @fow\n "
+          "stt":0,
+           "d" 16
+          "lo":              "str": {            "line: 1,
+               "colum": 0
+            },
+         "end"{            "lie": 3
+              clumn": 3
+          }            }
+               ]
+    },
+      {
+    "yp": Varbleeclaratin",
+        "sart:3,    "end": 90,
+    "loc:         "start": {
+           "line": 11,         "cn: 0         },
+        "ed {          "line": 11
+         cmn: 2
+       }
+      },
+       "declarations":
+          {
+         type" "VriableDecarato",
+         "start: 67,
+        "end": 8,
+         "c" {
+           "sr": {
+             "e": 11
+            "clumn": 4
+           },
+        nd": 
+               "lie":11,
+           "colum":26
+           }
+        },           "id": {
+         "tpe Identiier",
+           tart:67,
+           "end": ,
+              "loc":{
+             "start: {
+               "ne": 11
+             "olumn":              },
+            "end": 
+                lin": 11,
+                 "coumn": 1
+              },               identfierNam": "x"
+              },
+           "name": "x",          "typeAnntion": {
+           typ": peAnotatin",
+            "st": 
+           "end":8
+             lc":{            "start": {
+                 "ine" 1,
+                "lun: 
+                },
+              "d":{
+               line": 11,
+                 "comn": 21
+                }              }             "tyenotaton": {
+              ype": "GneriTypennotation"
+                str" 9,               en": 84,
+              "l": {
+             "start {
+                    "ln": 11                   "column": 6
+               ,
+             "end"
+                 "lin: 1,
+                    "colm":21
+             
+              },
+                ypParametes: ul,                id": {
+                 "type": "Identifier",
+                "start": 69,
+               "en": 84
+                 lc":{
+                  start": {
+                  "ine": 11,
+                   olumn": 6
+                }
+              "ed": {
+                  "i": 11,
+                    "column": 21
+               },
+              "identifierName: "DrecinVector"
+                },
+                "name: "irectionVeto"
+             }
+           }
+          }
+         ,          "ni": {           ype: "nryExpresion,
+          "srt": 87,
+        "ed": 89,
+           "loc": {
+             "start": {                "ln": 11
+            "olu":24
+        },
+               "end: {
+           "lne":1,
+             "column" 2
+        }
+          },
+             "peato: "",
+             "refix": true
+         "arguent:{
+             "ype": NumeiLitera"
+             "start": 88,
+            "nd:8,           loc: {                "tar": {
+                 "ine: 1,
+               "column: 25
+             ,
+                "nd":
+                line": 1,
+                clumn": 26               }
+           },
+             "exra": {
+             "awVale": 1,
+            "raw": "1"
+          }
+            "vlue":       ,
+            exra": {            "arentesizedgumet: alse
+           }
+          }
+        }
+      ,
+       "ind: "va
+     },
+     
+     "type: "ExprsionSttement",
+       "strt": 9
+      "d: 110,
+     "loc" {
+         "start": 
+           "lne": 12,
+         column" 0
+        }
+      "end": {      "lin:1,
+           "column": 19
+        }
+      },
+       "epressn": {
+       "ype:alExpresion",
+         "str": 1,
+      end": 09,
+         "loc": {
+         "start:              lin: 12
+        "coum": 0          },           "end": {
+              "line 12,
+           "cumn":18
+                  },      "cllee: {
+           type emberExpresso"
+       "stat": 91,
+         "end": 12,
+         "loc: {
+             "start: {
+            "lie": 12,
+              "column: 0
+            },
+             "end": 
+             line" 12,               cln": 11
+                      },
+          objet":{
+              type: "Ideifier",            sat" 91,
+       "en: 8,
+         "lo: {
+              "stat": {
+            "ine"12,
+         "column" 0
+          },
+          "end": {
+             "line: 12,
+                oumn": 7
+         },
+             "idenirName:"console"         },
+            name": "cosoe"
+          },
+        propety"{
+              type": "Identifier,
+           "sart" 9
+             "end" 102
+         "oc" 
+             "tart": {
+              "ine": 12,
+              "olumn" 8
+              ,             ed": {
+                "line 12,               "column:11
+          },
+             identifierName: "log"
+            },
+          "name""lg"
+          },
+        "cmputed": flse
+         },
+        aguments": [
+           {
+          "type":"StingLiteral"
+          "star: 103,          end": 1,
+          "oc": {
+             "start": {
+            "lin":1
+               cl": 12
+            },
+          "end": {              "lne": 12,                "coumn": 17          }
+             },
+          "extra": 
+             "rwValue" "foo",
+              "raw'f"
+           },
+            vaue": oo"
+         }
+        ]      }
+    }  ]    "iectives": []
+  , "comments" [
+   {
+   "type" "Cmmentlock"
+    "ale": "*\ * flw\n ,
+    "sta": 0
+    "n": 16
+     "loc": {      "start": {
+        "ine": 1,
+         "column: 0      }
+       "end": {
+       "line":3,
+       colun: 3
+        }
+     }
+    }
+ ]
+}

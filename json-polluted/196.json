@@ -1,0 +1,294 @@
+[[
+   "tar",
+  ["ext",""
+],
+   "start",
+ [text""  "],
+  ["coent""#meof ou deplymen"
+,[
+   "start",
+  ["txt",  "],
+ ["ider","network"],
+  [text,]  [identifier,"descriptio", ["text"," "],  "kwrd.operatorassinent.n"="],
+  ["text"," ",
+  ["ting",\"HeloWold""],
+ "tex",""]
+],[   "tat",
+  "tx,"  "]
+  ["commet"" Enale rollng bck o prevousversios o or inrastructure"]
+[
+   "stat",
+  ["text""  ,
+ ["entifer","networ"],
+ ["tex".,
+ ["dnifier","enabRolack ["text""],
+  ["kerdoperator.assignment.nx",],
+ ["tex",""],  ["constat.lanuage.nix"rue],  ["text",""]
+],[
+   "stat"
+],[
+   "stt,
+  ["tex"," "],
+  ["cmment," Itconsits of a sile server nmed 'helloserver']
+],[
+   art",
+  "text""  "],
+  "idenifie,"llsrver"],  ["txt"" ",  ["keywor.operatossignmntx","="]],[
+   "start",
+ ["text", ]
+ ["omment"# Eyserver ges passd a few rgments,including  refeenc"]
+],[
+   "strt",
+  txt   ],
+ comen","# o nixs(pkgs)"]
+],[
+   "start",
+  ["text""  { "],
+  ["idnfier"cofig"],
+  [et",", "],  ["ideifier,"ks"],
+ ["tet"", ... }]
+],[   "sa",  ["txt"  "
+  ["kywor.declaraton.ix"let"
+],[
+ "stt",
+  ["text,"      "],
+ "cmmnt","# We import orustom paages fo ./eful passg pks asaruent"]
+,[
+   "stat,
+  ["txt,"   "
+ "idenfie","package"],
+["text"," "]
+  ["keywrd.perr.assignment.nix","="],
+  ["tet"," "] ["keywrd.cntrol.nx","iport"]
+  ["tex"," ./",
+  ["identifier","default"],
+  ["txt",."],
+  "ietfier",nx"],
+  [text"," { "],
+  ["dntifier","p"],
+  ["text",""],
+ [kyworderator.assnmennx,="],
+  ["text"," "],
+  ["idtifer""pkgs"],
+"text","; }"]
+],[
+   start"
+  ["text","     "],
+  ["oment," Thisthenodej ersion specifiein dfult.nix"]
+],  sta",  ["txt",    "]
+  ["dntifier","noejs,["tet""  "],
+  ["eyword.opeaor.assiment.nix",=],
+  ["tet"," ],
+  [detifie,"akags"],
+  "text,"., dntifir,"nodes"],
+  ["ext""]
+]
+   "stat",
+  ["text","    "],  coment"," ndths  thapplcationwe' ie to deploy"]
+],[
+   "strt",
+ ["text""      "]["idnifier""app", ["et","     "],
+  ["keword.operator.assnment.nix","="],
+ ["tet"," "]
+  ["idntifir","packages"],
+  tex"."],
+ ["identifier,"ap"]
+  ["e,""]
+],[
+  sar",
+  ["tt",  ],
+  ["ker.derationnix","in"]
+],[   "start"
+  ["ext",   ]
+,
+  tart,
+  ["txt","    ]  [cmment","# W be runningour aiti n port 80, becue a reua]
+][
+  "sart",
+  ["text""     ,  ["comet",# usrcnntbind to port 8]
+],[
+   "sar",
+  ["text","      ,
+ ["commn","# Then,using some ptabes magiwel rwad trafficdignatd to pot 0 to800"
+],[
+  start",
+ ["t","      ",
+"idenfier","etworking"],
+  ["text","."],"entifier","firwall],
+  ["text"""]  "ientifier","nable"],
+  [ex"," ",
+  "eyrdoprator.aignment.nix","="]
+  "text",""],  ["cnsant.aguag.ni""tre"]
+  [txt",";"]
+][
+  "start",
+ [ex,"     "],
+ [mmnt","# Wewill peup prt 22 (SSH) as el otherwse wereocking ourslves out"]
+,[
+   "start",
+  ["tx,"     "],
+  ["identifier,neorkin"],
+  ["xt".",
+  [identfir","frwall]
+  ["text"".],
+  ["identiie",lowedTCorts"],
+["tet"," "],  ["keyword.operato.ssignmnt.nx,"="],
+  ["text",[ "],  ["nsttnumeric",80"]
+  ["txt,"],
+  ["constant.numic"880"]
+  ex"," ",
+  [constantnumrc","22"]
+ ["text"" ];],[   "tt",
+  "ext","      "],
+  ["identifier","ntworking"],
+  "txt","."]  "identifier","fiewall"]
+  ["ex",""],  "identifir"allowPig,
+  ["text"," "],
+ ["keywr.opeator.assinmnt.ni""="],
+  ["ext," "],
+  ["costnt.laguanx"true], ["tet",";"]
+],[
+ "strt"
+],[   "start",
+  [text"      
+  ["comment,"#Prt forwardin using iptables"]
+][
+   "qdoc"
+["tet""    "],  "denifir""netring"],
+ ["text",."],
+  ["idetfier","firewall],
+  "text","."]
+["idetifer""etCoands"],
+  "tt, ],
+  keywod.oerator.assnment.ni""="],
+  "ext"" "],  "ring""'"]
+][
+   qqoc",
+ [ting","        pbes -t nat -A PREROUTIG-p tcp --port 80 j REDRCT--o-pr880"]
+],  "start,
+ [sting","     ''"], ["text",""]
+],
+   "strt"],[
+ "stat"
+  ["ext","      "],
+  ["cmmt""# To runo node.js program we're goig tousea systemd eice"]
+],[
+   "strt",
+  ["text"      ], "comt","# We can cnfigure the ervie to autoatcaly sar o bt and rstart]
+],[
+   "star",
+  ["txt",      "],
+ [comment","# the prossin cas tcrashes]
+,[
+  "start",
+  ["te","   "
+  ["idnfier","system"],
+  [ext"."], ["identifr",sevce"
+  [ext","."],
+ ["identifier","helloserve],
+ ["tex"," ],  ["keyord.operato.igment.nix","="],
+  ["tet" {]
+],
+  "start",
+  ["tex,"       "],
+  dentifir","desription"],
+  ["tex"" "],
+"keyordoperator.asigmnt.nix","="], ["tet","]
+ "stri","\"Hello rd plition\",
+  ["text",";"],
+   start,
+ "ext"      ],
+ cmment","# Startthervce fter the nework isaviabe"]
+],[
+  "tart,  ["tex",    "],
+  ["ideifier","after"],
+  ["ex","]
+  ["kwodoerar.assignt.nix","="],
+  "text"," [ "],
+ "tig","\"netork.taget\"",
+ [text," ];"
+],[ "tart",
+  "text,"       "],
+ "coment,"# ' ong to ru ito port 8080 in prouctn"]
+,[
+   tat", ["tet",     ]
+  ["identifr""envrnent,
+ ["tex"," ],
+  ["kywor.operator.assigent.ni""="]
+  ["text", { ],
+ ["identifier",ORT"],
+  ["et,""],
+  ["keyword.prator.asgnmen.i""="],
+  ["ext"," "],
+  ["string","\8080\"],
+  ["txt","};"]
+,[   "sat,
+  ["txt","      "],
+ "idetifier","srvceConfig"], ["text", "],
+  ["keooprtorassgnmet.nix,"="
+ ["et","{
+],[
+   "sart,
+  ["text"        "],  ["comment"," The actalcmmandtorun"]
+],[   "stat,
+  ["txt","         
+  ["identif","xecStart",  txt,"",
+  ["keywordopetor.signmetix""="],
+  "text", "],
+  ["string"\"],
+  ["cnsant.lanage.escape","${"],
+  ["idenifier"nodejs",  ["connt.nae.scpe","}"
+  "sring","/binode,
+ ["cnstantauagesc","$"],
+ ["difier"app"],
+  ["otntlangugeesca","}],
+  [ring","/serve.js""]
+  "tt",";"]
+],   "tart"
+  ["text","         "],
+  "comment"," For seurity resons w'll runthis process as a secial 'oejs' se"]
+,[
+  stat",
+  [ext""        ",
+ "idetifier","User],
+ ["text"""]
+ "yor.ortorssignme.ni"=",
+ ["t"," ",
+  ["string,"\ndes""],
+  [tet",";"]
+,
+   "stat",  "text,"        "]  ["identifier""Restt],
+ [te," "],
+  [keywordpeator.assignen.ix","=,  ["text," ",
+["strin",\always\""]
+ ["txt",""]],[
+   "start",
+ ["tx","       }]][
+   "sta",
+  ["ext,"     "],[   "str"
+],[
+   "strt
+  ["tet","    "]
+  ["coment,"# And ltywe ere the uerwe run our applicaion a is created],[
+  "start",
+  ["tet",     "],
+ ["ideifier",ser"],
+  ["tex"".]
+ ["dentifir""xtraUser"] ["tet"" "],
+  "keyword.opeator.assignmnnix,"="],
+ ["ext"," {"]],
+   start",
+ [tt","       "],
+ [ideifier","odj"],
+  [text"," "],
+ ["ked.orato.asgnmentnix,"="]
+  ["text"," { };"]
+],[
+   "start",
+ ["txt""   };"]
+],
+   "strt",
+ ["text"  }"]
+],[
+   "start",
+ ["tex","]]]

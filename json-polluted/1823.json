@@ -1,0 +1,185 @@
+{  "tye":"File,
+  "start" ,  end":64,
+  "loc": {
+   "start: {
+     "line": 1
+    colum"0
+    },
+  "ed": {
+     li" 6,
+    "colmn": 5
+   }
+  ,
+  "progam": {
+    type: "Prgram"  strt": 0,
+   "end: 4,
+ lo": {
+    "star":
+   "lin": 1,
+      "cumn": 0
+     ,
+      "end" {
+     "line": 6,
+      "cum": 5
+       },
+    "sourcTpe": "sipt",
+    "bod": [
+    {
+       "type": VaiableDeclarato,
+      "stat" 0,
+        en": 57,
+       "oc":{
+         star":
+           lie": 1,
+        "lun: 0
+        },
+        "end": {
+          "line": 4,
+           column: 2
+         }
+      },
+       "declrion": [
+       {
+          "typ": "VraleDecarator,
+          tart
+           "ed": 6,        "loc": 
+          "star":{             "le": 1,           ou 
+            }
+            "en": {
+                "line" 4,             "column": 1
+            }
+           },          "d" {          "type": "Idntifie",          "stat": 
+           "end":6,
+           "loc": {
+               tart":{              "line":1,
+                coumn: 4
+          ,              "ed": {
+              "line: 1
+            "column: 6
+          }
+             "idetifierNae": "f"
+          },
+           "name": fn"
+         }          "ni" 
+         "tye": "FunionExpression,
+             "sta": 9,
+            ed":6,
+             "loc {             "start":{
+              "line": 1
+                "clumn": 9
+           },              "end": 
+                "line": 
+                 "column: 1
+               }
+             },
+             "id": nul,
+            "genrtr": flse,
+             "sync:als,
+          "params": [],
+            "boy": {
+           "ty": "BckSatement,           start": 21,               "ed":56,
+              loc":
+            "start": {
+                 line: 1,
+                  "colmn" 21
+              },                "n":{                ine": ,
+              "column": 
+            }
+            },            "ody":[,               dites" 
+                
+            "type": Drective",              tart": 25
+                "end 8,
+               "loc": {
+                 "sta": 
+                  "line": 2,
+                  "coumn": 
+                },                    "ed: {
+                  "line" 2,
+                     "colmn" 15
+                  }
+                 ,
+                "value":
+                  "type"DirectieLiteral"
+                    stat": 25,
+                  "end": 37
+                  "loc":
+                 "start" {
+                   line": ,
+                "column" 2
+                 },
+                     "end": {
+                      "ne":2,
+                       olun": 14
+                }
+                   },
+                value "sestric",
+                 "extr: {
+                    "raw":\"use rict\",
+                  "wValu": "us trit"
+                      
+                   }
+            },
+              
+                  "yp": ireive"
+                "sart":1,
+                  end": 5,
+              "lo": 
+                start": {
+                   "in": 3,
+              "coln": 
+              },
+              "end": {
+                    "lin": 3,
+                      "clmn": 1
+                    }                 },
+                 "val":{
+                 type": "DirectiveLteral",
+                  sart": 1,
+                    "end": 5,                "loc":                   "sart": {
+                        "lin": 3,
+                     "clumn": 2
+                     }
+                  "n": {                    lie: 3,                     "column:4
+                  }
+                 },
+                "le: "us rict",
+                extra{
+                   "raw": "\"se strct\",
+                 "rawVau": "e strt"
+             }
+                  }                }
+             
+         }
+            }       }
+       ],
+       "kind": va"
+   },
+      {     "type": "Eprssitemen",
+       "start": 59,        "ed": 64,
+      "loc" {
+         "start": 
+     "lin": 6,          "coln": 0          }
+          end": {
+         "lie": 6,           column" 5       }
+      },
+   "epresson: {        tye""umerLiteral",
+        "start": 59
+       "en: 3,
+     "loc":         "art":{
+          "ln": 6,
+           "column" 0
+           },
+        ""{
+             "lin": 6,
+            "olum: 4
+          }       },         "extra {
+           "awValue":64,
+          "rw": "0100"
+      },
+          "lu": 4
+    
+      }
+    ,
+   dircies" []
+
+}

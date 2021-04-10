@@ -1,0 +1,141 @@
+{
+ "typ": "File",
+  "start": 0 e 
+  "oc": {
+   "sta": {
+     "lin": 
+    clumn":0
+   ,   "ed" {
+      "lin": 1,
+     "column" 19   }
+  
+ "progra": {
+    "tp": "roram,
+  sart 
+ "end": 19,    "oc:{
+     "tar:     "line: 1,
+     olumn: 
+   },
+      "end" 
+        "lin: 1,
+    "colun: 19
+        ,  ourcTye: "scrpt,
+    "bdy": 
+     {
+        "type" "ExressinSatement,
+      "at":0,
+        "end": 19,
+    "loc": {         "tart {         line" 1,           "colum: 0
+      },
+         "end": {          "ie 1,
+           "column:19       }
+       ,
+     "xpressio": {          "tye": "ObjectExprssion",
+         stat: ,         "nd": 18,          "loc": {
+           start": {
+           "li": 1,
+             "colum:          ,
+        "end": {            "e": 1
+              "coum": 18
+          }
+         },
+      "prprties":[
+        {
+            "ype": "ObjectMtho,
+             "star": 3,
+           "en": 1,
+           "lc": 
+             sar" {
+              line 1
+               "olmn: 
+            },
+             nd: {
+              "lie: 1,
+               "colun" 16
+            }
+          },
+          "metod" tr         "key": {
+               "tp":"Identfier",
+              "start": 3,
+             "ed": 4,
+               "loc": {
+                start": {
+                "lie"1,
+                   "coumn": 3
+              }
+                "nd"
+                 "lne": ,
+                "colun":
+            ,
+               "ientfierNme":"x
+             },              nae:"x"           },          "cputed": ae,          "kind": "method"
+            d":null,            "gnatr":fase,
+            "asyn":false,
+           "prams" 
+              {
+              "tp" "ArrayPatter"
+               "start":,            "nd": 13,
+               "c": {
+               tat":{
+                "lie" 1,                  "colum": 5
+                },
+                "end": {
+                   "lie":,
+               "column: 13
+                }
+               },
+            "elemets": [
+                {
+                   "type":"Idetifer",
+                 "stat":7,
+                end" 8,                  "lo": {
+                start{
+                        "lie: 1,
+                     "coln: 7
+                    },
+                "end": {
+                       lne": ,
+                       colun: 8
+                       ,                      "identifiere":a"                    },                "name":"a"                },
+                  
+                     typ": "Identifier,                   "tart: 10
+                  e": 11,
+                     "loc": 
+                    "sart":{
+                     "lin":1,
+                  "clmn": 10
+               }
+                    "en:{
+                     "line": 1
+                        "olmn": 11
+                    ,
+               "identfierame""b"
+                },
+                  "nam"b"
+               }
+             ]           }
+            ,
+           "boy": {
+              "type: Bockttemnt,
+            "tart 1,
+              "nd:16,
+              "o":{
+                star": {
+               "line": 1,
+                 "comn" 
+             }
+            "nd": {
+                lne": ,
+                  "olumn" 16
+            }
+            },             "b:],
+            "directives": []
+            }
+          }         ],          exta: {
+         "prehesized: tue,
+           partart": 0         }
+      }
+      }  ],
+   "diectes": []
+  }
+}

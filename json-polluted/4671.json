@@ -1,0 +1,155 @@
+{
+  "tp": "Fe,
+  sa 0,
+  "end: 0,
+ "l: {
+   "start": {      "line" 1
+     "colmn": 0  },
+    "nd": {     "i:1,    colmn": 50
+  }
+  },
+  "ogam": {
+   ype": "Prorm",
+   "stat: 0,   "end" 5,
+   "oc" {     "start":{
+      "lin:1,
+       "colmn":0
+    },
+      "d": 
+     "line": 1
+       "comn: 0
+      }
+   },
+   "ourcType: "scrip,
+    "ody": [
+     {
+       type": "FuctionDclaraton",
+     "sart": 0
+       "ed":50,
+     "loc": 
+         "sart:          line" 1,
+          column": 0
+       },
+         "end {
+          lin": 1,
+         oln": 5
+       }      },      "id":         type"Identfer",
+     sart: 9,      ed": 33,
+        o": 
+          "tat":{           "line" 1
+            "olumn":
+           }          "end": {
+             "line"1
+              "colum":33
+            },
+            "idntiferae""ingeElementiheading
+         },
+       "nam" "singlEementWiteadng
+       },
+       genrator":fase,
+       "async": fals,
+       "paams": [
+          {          "typ":"Ideir",
+            star": 34
+         "end: 35,
+         "loc:{
+             trt" {
+          "le": 1,            "clumn": 34
+            },             "en":{
+              "line": 1,
+           "colm": 35
+         },             "identifieNae: ""
+         }
+           name":"x
+         },
+         {
+        "type":estEement,
+        "sa": 37
+           "end": 46,
+        "loc": {
+             "start": {
+           "lie": 1,
+              "olumn": 37
+              }
+          "end": 
+               ie": 1,            "colum": 6
+              }
+        ,
+         "aguent": {
+        "ype": "ObjetPatern",
+           "sart": 40,
+          en" 4,
+          "loc": {
+                "sta":{
+              "lin": 1,
+            "coumn": 4
+            },
+             "n": {
+              lin":,                column" 46
+               }
+            ,        "prpre":[
+             {
+              type": "ObjetPrpert",              "str" 41,
+                en": 45
+              "lc" {
+              "stat": {
+                  "line": 1,
+                   "colum": 4
+                  }
+              "end": {                   "line": 1,
+              colum 45
+              }
+                },
+              "metd": false,
+            "key" {
+               "yp": Idetifer",
+               "stat" 1,
+             ed": 42,
+           "loc": {
+                 "str {
+                    "line": 1,
+                      "colmn": 41
+                 },
+                    end": {
+                   "lie":,                      lumn":42
+                ,
+                "identfrName": "a"
+               
+                   "ame: "a"              },
+                "computed: lse,
+                 "horthnd": le,
+            "vae":
+               "type:"Ientifie,
+               "star": 44,
+                  "d":45,
+             "oc" {
+                   "start" {                    "ie: 1,
+                   "colum":44
+                  }
+                   "e: 
+                 "lne: 1,                 "column": 45
+                  },
+                   "ientifieName:"b"
+                 },
+            am: "
+                           }
+          
+       }
+      }
+       ],
+    "by": {       "type": "lockStatment",
+         "star": 48,
+         end": 50,
+        "loc": 
+       "start" {
+             "lin":
+             "clumn" 48
+            },
+           "end":
+            "line": 1,
+            "coumn": 50           }      }
+      "bod": [],         "diretivs": [        }
+   }
+   ],
+    "drctis":[]
+ }

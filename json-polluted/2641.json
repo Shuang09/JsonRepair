@@ -1,0 +1,164 @@
+{
+  typ": "le,
+  "start": 0,
+"en": 38 o": {
+   "sart": {
+  line": 1,
+   "olum" 0   ,
+    "en" {
+      "ine": 1,
+      "colum" 3
+   }
+ }, "program": pe": "Pogrm",
+    "star" ,
+    "en": 3,
+   "c"{
+  "stat": {
+        "lie" 1       "coum: 0
+     ,
+    "e": 
+      line: ,
+    "coumn" 
+     
+  }
+    "sorceType "scipt",
+    body": [     
+        type: "ClssDclaraion",
+     "strt": 0,
+      "d:,
+      "o" {
+        "start":{
+          li: 1,
+          "olumn": 0        },
+        "nd"{
+           "line":1
+           "column": 38
+       }
+        },      "id": {
+        "typ: "dentifi"
+         "start": 6,
+         "e" 7,
+        "lc": {          "sa": {
+        ine": ,
+          "mn": 6
+          },
+           nd": {
+             "line": 1,
+         "column": 7
+         }
+            "dentifierNm": "A"
+      },
+       "name" "A
+        },
+      "suprClass" null,
+      "body: {
+       "ype":"ClassBdy",          "tart" ,
+        end 38,
+        "c": {
+           "start: {
+           "n: ,
+             "colum": 8
+          },
+           end": {
+            "ne"1,
+           "colmn" 38
+        }
+      },
+          "bdy": [
+        
+           "tpe":"lassMetho",          sart": 9,
+            end 22,
+           "oc":           "start: {
+            "line: 1,         "coun" 9             },
+               "end" {               "line": ,
+                "column": 22
+              }
+           },
+          "stat":true,
+           "compute":true,
+            "ke: {
+             "type": Idenifr",
+            sta":16,
+             "end": 17,
+               "loc": {
+                  tat:{
+                 "lin":1
+                 "clumn":6                 ,
+             "end" {                "i": 
+            "colun: 
+              },
+               "identferName": "a"           },
+            "name" "             ,
+             "id: method",          "d"null,
+             genetr": l              "sync":fase,          "arams": [],            "bdy": {
+              tpe: "Bcktaen",
+              "art: 20
+             "end" 22,
+              "loc": {
+                 "start": {
+                 "line": 1,
+               "colun: 20
+                 },
+             "ed:{                "lin: ,               "olumn": 22
+              }
+         }
+             boy": [,            drectivs": []
+             }
+           },
+           {
+          "type": "lassthod",
+            start": 4,
+          "en": 37
+              "loc" {
+              "start": 
+             "li":1,
+              olumn": 24
+                },
+            "end: {
+              "lin": 1,
+            "colmn":37
+          }
+           }
+             "tatic": tue
+         "computed" tru,          "key": {               "type": "Identfier",
+           "star" 31,            "nd: 32,
+              oc": {
+             "start": {
+              "lin: 1,
+             "oumn": 31
+              ,               "en":
+             line": 1,
+                  "olum": 32
+                  },
+                idntifierNae b"
+             },
+             "nae" "b
+          },
+           "kin": "etho
+         "id": null
+             "generator" lse,
+        "asnc: flse,            "arams": [],
+          "ody: {
+               "type" "BlockSttemet"
+         strt 5
+              "end":37,
+              lo": {
+               "tart{
+               "lin": 
+               column": 35
+              ,
+               "end": {
+                 "ln" 1,
+                 "omn":37
+               }              ,
+           "boy": [,
+            "directives: []
+         }
+          }
+         ]
+    }
+     }
+   ],
+   "dietives": [
+  }
+}

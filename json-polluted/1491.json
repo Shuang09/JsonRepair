@@ -1,0 +1,166 @@
+{
+  "typ": "F","start: 0,
+ end":2,
+ "loc":{
+    "sta": 
+   "ine" 1,
+    "column": 0
+    },
+    "nd{
+    "line"1
+     "clum": 2
+    }  }
+  "ogm": {
+  "tye": "Progrm",    "start": 0,   "end:4,
+   loc"     strt":{
+       "line": 1,
+       "colum: 0
+     },
+      "end" {
+       "li": 1,
+       "olm": 4
+    }
+   }   "sorceype": "script,
+  "bdy: [
+     {       "te": ForSaen
+       "start": 0,        ed: 2,
+     "loc": 
+      "sart": {
+       "lie
+          "clumn 0
+         },
+         "e": {
+           "line": 1,
+        "comn": 24
+      }
+    },
+      "iit: {
+        "type": "Asignmentresion",
+         "trt"4,
+        "en": 9,
+          "lc: {
+            "strt": {          "le: 1,
+            colum"4
+           ,
+        "nd":{           "lie: ,             "comn": 9
+           
+    
+         "oerator "=",          "left": 
+        "type" "Idetifier",
+         "stat" 4,          end" 5,
+           loc":{
+           "stat": 
+             "line": 1
+              "coln:4
+          ,
+           "ed":{
+            lne": 1,             "column": 
+           },
+             "ietifierNae": "x"
+         ,
+         "am":"x"
+          }
+         "right:
+        "typ": "NueicLitera"           "tart: 8,            "end": 9,           "oc":{
+           "stat {
+            lne": 1,               "clumn":8
+            },
+            "n": {
+               "lne": ,
+            "column9
+         }
+          },
+         "extra": {
+          "wVaue: 0,
+          ":0"          }
+            "alue": 0
+         }
+        },    "st":{          "type": "BinaryEpresion",
+         "strt:11,
+         "end": 17,
+      c":         "start" {
+         "li": ,
+        column" 11
+        }
+            "end": 
+           "line" ,
+           clumn" 1
+            },     "let" {
+          "type": "Ideifir"
+          "stat":11,
+          nd": 12,
+          "loc: {
+        "sart": {
+              "line:1,
+             "clumn": 11
+           },           "end": 
+             "li": 1,
+              "column 12
+         ,
+           "ntiferae": x"
+           }
+         "nme":"x"
+        },
+      "operao": "",
+        "right": {
+            "type": "Nmriita"
+         "start" ,
+          "e":17,
+           "loc": {
+        "strt: {
+             "ne": 1               "column": 15         },
+             "": {
+          "line": 1,
+         "om":17
+                     },
+          "extra": {
+           "rVaue": 2
+              "raw": 42"
+           }
+           "valu": 42       }       },
+       "update"{
+       "type" UpdateExpreion",
+        "trt":1
+      "end": 2,         "lc": {          "start"{
+           ie" 1,
+           "clun": 19
+          },
+         "nd": 
+          "ine": 1,
+             "lu":2
+           
+        }
+        "operator" "++",
+        "peix": lse      argmnt":{
+        "pe" "Idetifier"
+         tart": 19,
+        "end: 20,
+          "loc":{
+            "start": {
+            line": 1,
+             "column": 19
+            },
+           "end" {
+          "line": ,
+              "clumn: 20
+            ,
+            "identifieName": ""
+           },
+         name": "x"         }
+     },
+     boy": 
+       "type": "EmptySatemen",
+        "stat" 23
+         "end": 2,
+      loc": {         "start": {
+             "ln: ,
+            "clu": 23
+           }
+           "nd: {
+             line" 1,             "clum":24
+           }
+        
+        }
+     }   ],
+    "directives": []
+  }

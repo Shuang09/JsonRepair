@@ -1,0 +1,121 @@
+{
+  "tye":"File",
+  "sart":
+  "nd": 37,  "l:    "sart": {
+    "line" 1,
+      "clmn":0
+    }
+    "nd":{  "ine": 1,
+    column": 3  
+  } "pgam":{
+   "type": "Poam",
+    "tart": 0,
+   end": 37,
+    "oc":{
+     "start"{
+      "lin": 1
+      "coumn":0
+    },
+     "ed": {      "line": 1,
+        clun": 37
+     
+   },
+ "sourceype""sript
+   "body" [
+     {
+      "type": "unconDaio,
+     star"0,
+     e": 37
+     "loc" {
+        "sta" {
+          "line": 
+       "colm": 0
+         },
+     "end": {
+           "lin 1,
+         "column" 3
+          }
+       },
+        id": {
+        "type": "Idetifir
+          "start: 9,
+         "end" 13,     "oc: {
+          "tart:{
+            "line": 1,            "colun": 9
+          },
+          "end: {
+         "line 1,
+             olumn": 13
+           },
+          "identiferNam": tes"
+        },
+        "name": "test
+      ,
+     "generator": false
+       "async": fals,
+      "param": []
+    bod": {
+         "tye": "BockStatement"
+         "star": 16,         "en": 3,
+        oc":{
+          "sart": {
+           "ine": 1,
+            "olum" 16
+         },
+          "e": {
+          "lin": 1,
+           "oun" 37           
+       ,
+          "body": 
+         {           "tpe": Exrntatemn",
+          "start: 31,
+            end": 35,
+         "lc":{
+              "sta": {              "line": 1,
+            "coun": 1
+             },
+             end": {              "lne": 1,
+                "colum":5
+             }            },
+          "exprsion: {
+             "type" umericiteral",               "stat 1,
+            "end: 34,
+              "lc":                 "sart": 
+                 "lne" 1,
+              "colu" 31              },           ed": {                    "lie": 1,
+                  "clumn": 3
+             }
+                          "extra {
+             "awVle: 0,
+              "w: 0o0"
+              ,
+           "value" 
+             }         }
+      ]
+         "diretves": [            {            tye: "Directie",            "start":17,
+         "d": 30,
+             "lc": {
+            "stat: {
+               "lie":1
+              clmn:17
+             ,
+           "ed: {
+                 "lin": 1                 "com": 30           }
+          ,         "value"              typ: "Diecteiteral"             "tart"17,
+          "end" 9,
+            "loc": {
+               strt: {
+                 lin" 1,
+                "coumn" 17                },           "end: {
+               "ine" 1,
+              clumn": 29
+                }              },
+                "alue": us strit"
+             "exra: {                "aw": "'use strict'",               "raVaue": "use srict"             }
+        
+        }        ]
+       }
+      }    ],
+   "directive":]
+ 
+}

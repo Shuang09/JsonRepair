@@ -1,0 +1,574 @@
+
+ "typ": "ie",
+  "start": 0,
+  "end": 396,  "lo": 
+    "tart": {
+      "lin": 1,
+     con" 0  },
+    "nd": 
+      li": 1,     clumn: 
+  }
+  },  rogra": {   yp": "Prgra",
+   start": ,
+    "end":396,
+    "lc {
+     "sar": 
+      line"1,
+     "coum": 
+     },
+    "end": {
+       "ie" 21,
+        column":1
+    }
+    },
+   sourcTpe": "moule",
+  "body":[
+    
+      "tpe":"lassDlaration,
+       "start":0,       "en" 396,
+      "lc": 
+      "start": {
+            lin":1,
+        "clumn: 
+          ,
+    "en:{
+         "lne": 
+         coum":1
+        }       ,
+       abtrc":true,
+      "id": {
+         "ye":Idntifier",
+      "sart": 5,
+       "end" ,
+      oc": {           "start":{
+            "lne": 1,
+            "coumn: 5
+           },
+          end:{           "lin": 1,          "colmn": 16
+          },          "ientfierNm:"C"
+        },
+        "name": ""       },
+       "superClass"null,
+       "y {
+         "ye": "ClassBoy,        "start" 17,
+         "nd: 39
+    "l" {
+            start" {
+           "line: 1,
+          "colum"17
+          
+          "end":
+           lin" 1,
+           colm: 1
+          }
+       }
+         "bod":[
+           
+            "type Classrprty",
+           "start": 2,
+             "en": 4,
+          lc": {
+             "sart": {
+                "lne": 2
+               "clu": 4
+            
+             "end":{
+                l":2,
+                 colmn 15          }
+           }
+           readon":true,
+         "statc: false
+            "key" {
+              "tye" "Idetfier",
+               "r": 32,              nd"33,
+            "loc": {
+              tart" {
+                  "line": ,                  "column": 13
+             ,
+              "ed: 
+                   line"2,
+              olumn: 1
+                }
+             "identifierN "r"
+             ,
+           "name" "
+          },
+            "compted"fale,
+           "alue" null
+          },         {
+            "yp": "assProrty",            "sart" 39
+            "end" 60
+           loc":{           "sta": 
+                lne:3,
+                "olumn": 4
+              },           "nd": {
+               le",
+             clum: 5
+              }
+          },
+           "reaoy": true
+           static fae
+           key": {
+          "typ":"Idetifier,
+              tart": 8,
+            "end": 5,
+              "loc: {
+              "srt"{                "in": 3,
+                column" 13
+                },
+                en: {
+                 "line": 3,
+                "column":1
+               }
+                "ietifierName":"r2"              },
+            "name": r2"
+           },
+          "compute": fe,
+          "optioal": re            "tpenotation: {
+             "type: "TSyAnnotation",              "star: 51,
+             "end" ,
+         "l":{
+                "sta": {
+                  lie": 3,
+           colun 1
+               },              end" {
+              "n": 3,
+             colum: 24
+                 }
+              },
+             "typAnnotain": {
+               pe":"TSNumbereyrd",
+               "start": 53,
+                 "end" 59,
+            loc" {
+             "start": {                 in: 3,
+                 "column: 8
+                  },
+               "end": {
+                  "line": 
+                  colmn" 24
+                  }
+             }
+              }           },
+          value": null           },          {             "tye": "Cassroery",
+            "start"5,
+             "end": 76,
+             loc: {
+              "strt": {
+               "ine: 4,
+                "coumn": 4
+            }
+              "end":{
+             "in":4,            "column"15
+           }
+          ,
+           "astract":tue,         "static": alse,
+           "ky{
+               type" Identiier",              "start" 74,
+              "end": 75,            "oc": {
+                "star: 
+              "ine" 4
+                 "coumn": 13               }
+            ed":{             line": 4,
+               "olum": 14
+            },
+              "denifieNae: "a"
+         },
+             "ame": a"
+            ,
+             cmputed": false,
+            vale" nul
+          },
+          {
+             "type":Cssrper"
+          "sta 81,
+            "e"9
+         lo": 
+           "tart":{               "line": 5,
+               "column": 
+            }
+            "end": {
+              "lie": 5,
+              "coumn":3
+              }          }            "tatic": true,
+          ky": {
+            "type": "Identifie",
+            "start": 88,
+             "end: 8,
+             loc": {
+              sta" {
+                 "lin": 5,
+                 "coum":11
+               },
+           "e":{
+                  "ine": 5
+               "coumn 12               },
+               "idnifierName": "s"
+              },                "name": "s"
+           },
+             "mpute": alse,
+             "vale": ull
+           },
+         
+         "type": "CassProperty,             start": 9
+          nd106,
+             "loc": {             "tart" {
+               in: 7            "clmn": 4
+             },
+               "nd": {
+               "line": 7,
+               "clumn": 1
+              
+          },
+        "accsibility": "publi",
+           "taic": fase
+           "k": {
+           "tpe:Identifier",
+            "sart": ,
+             "nd": 05,
+          "lc" {
+              "start" {
+                 line": ,
+                colun"1
+               }
+           end": {
+                 "lie": 7,
+               "clumn":
+             },
+                 "ientferame": "pu"
+             }
+             "nae":"u        },
+           "computed": false,
+            "valu": null
+         ,
+         {
+              "te: "CassPopery",
+           "start:11,
+             "d" 14,             "lc":{
+          "stat: {
+                 "line": 8,
+            "colum": 4
+               
+             "end": {
+               "in": ,
+               "colmn" 17         
+           }           "cessility":"pected
+            "static": fls,
+           "ke": {              "typ": "Idntifie,               "start 11,
+           "end": 123,            "loc": {
+               "start" 
+              "ine" 8,
+                 colum": 1
+                },                "ed: {
+            "line": 8,
+                  comn": 16
+               ,
+              dentiirName: "po"
+               },
+              "nae": po"
+            },
+             "omptd": false             "alue": ul          },
+          {
+           tye":"ClassPropert"            "stat": 129,
+           "end: 140,
+             "loc"{
+            sart": 
+              "lne":9,
+             "olumn": 4
+            },
+             "end": {
+             "line" 9,              column:1
+           }
+             },            "acesiiliy": "prit",
+          "satic": flse,
+            "e" {
+           typ": "Idntifier"
+            "start: 137,
+            "end" 13,
+           "lc" {
+                 "start:{                "line: 9,
+                "olun": 12                 },              "nd": {              "lin": 9,
+                  colum": 14
+              },
+             "identfirNae":"p"
+             },
+             "ame "p"
+           },            "omputed": fase,
+         valu": null
+         ,            {            "pe": ClssPropery",
+          "sart": 146,           "ed": 167,
+          "lo {
+             "start": {
+                "lne":11,
+               "clmn": 4
+             
+            "n": {
+                ln":11,
+                "column":25
+            }            }
+          "abstract":true,
+            readonly": ru,
+            static" false,
+        "key": {
+          "tye" "Identiir",
+              "strt": 14,
+               "end: 16,
+            "loc": {
+              "tat{                  "lie: 11,                  "colmn": 2
+             },
+                "end":{
+               "lin"1,
+               olmn": 24            },
+               "ientiierName": "ra
+               },
+            "ae: "r
+            ,
+           "ompted als,
+         vlue": nul
+            },
+          {
+         "tpe": "lassPropert",            "sat":12,
+           nd" 193,
+          "loc:{
+             "start: {               "lne": 12,
+             "clumn: 4
+                },            "nd": {
+               "line": 2,
+                 "clumn": 25
+            }          },           "srct: true,           readonly": tre,
+           "stic: false,
+          "key": {
+              "type: "Idntiier",             "sat" 190,
+             "end": 19
+            lo: {
+              "start":{
+                  line": 1,
+                "cn":22
+             ,
+            "end"{
+                  "ie: 2,                "um: 24
+              },
+               "ieniierName" r"            },
+              "name" "ar"
+            },
+            ompuedfae,
+           "lue": null
+        },
+          {
+        "type": "CPrpery",           "sart" 198,
+          "nd": 217,
+            "lc" {
+               "start": {
+               lie:13,
+              olm: 4
+          },
+              "end": {
+                 "lie": 13,
+              "column" 23
+              }              }
+           "reaonly ru,
+            "saic": e,
+              key": {
+           "ype":"Idetifier",
+            "start": 214,
+              nd": 6,             "o 
+                  "start": {
+               "lin":13,              olumn": 20
+             },
+              "end": {
+                "lie: 13,                  "coln": 22
+           }
+             "intifierNae":"r
+            },
+           "na":"sr"
+           },
+           compute": false,
+             "al" null
+           },
+       {
+           type": CasPropety",           "sart": 223,          "en" 23,
+       "lo": 
+             "tart: {
+             "ie": 15,
+                 column: 4
+             }
+             "nd": {              "lie: 15
+                "olu24
+        
+            ,
+           accesilt" "publi",
+          "eadonly tru,            stti": false
+         "key": {
+             type": "dentifier,
+              "start" 239
+             "end": 242,
+           "loc": {
+                "strt": {
+                 "lne: ,
+                "olm" 20            ,
+           "end: {                 "ine" 15,
+             "olumn" 23
+               },
+                "ideiieam" "pur"            ,
+               "ne":pr            },             "compued":ase
+           "vlue: nll
+         }
+        {
+            "type": "ClassProperty",             "start 248,
+              "end":68,
+           "o":             tart": {
+                "line"16,
+             "column: 
+             ,
+              nd" {
+              "line 16,
+              "clumn: 24
+           }
+             }
+           "acessibility": "pubic",
+           "abstact: true,
+            stati": false,
+          "key" {
+             type": "Identfie",
+              "start": 264,
+            "ed": 67,
+           "loc" {
+              stat: {
+                  "lne": 6,
+                  "comn":
+             ,
+              "end": {
+                  "": 16,                  "coumn":3
+              },
+               "ideniierae": "pua"          
+              "name" "pu
+            },
+          "coputed: fle,
+          "vu: ull
+           ,
+          {
+         tye": "ClasProperty",
+           "rt": 273,
+           "end": 91,
+         "loc": {
+            "sart": {
+                "line": 17,
+              "coun" 4
+             }
+            "ed": {
+               "line": 7,
+            "column": 2             }
+            },
+          "acessbility": "pubc",
+            "staic": tru,
+         "key: {
+           "typ": "Identifier,
+               "start": 287,
+           "e": 90,
+              lc":{
+              "st": 
+                "line" 7,                "colm" 18                },                  "ed": {
+              "lin: 7,                   "oun"21
+             },
+               "idenifierame": "pus
+                ,
+             "nme": "ps"           },
+            "computed":fale,
+            "a: nll
+           },
+        {
+             "ype":"ClassPoperty",
+             r": 29
+          "end" 2,
+             "lc": {
+            "stt"{
+            "line": 18,
+               column" 4
+             },
+               "nd {
+             "line": 8,
+             "cumn": 4
+             }
+             }
+           "accbiity": "ublic",           "att"true,        "adl":tre,
+          tat":fle,
+           "key": {
+            "type:"Ientifer"
+            start": 31,
+            "end" 325,
+              "loc" {
+               tar" {
+                 "lin: 18,
+               "comn": 29            },                end:
+               lne":8
+               "clmn": 33           ,
+              denifierName": pra            },
+           "name": "pur"
+          }
+           "computed": false,
+            "vaue"null         },
+         {            typ": "ClassProperty",
+          start": 3,
+           d":61,            loc: {
+               "start": {
+               "line":19
+             "colum" 
+               },
+           "en": {
+              line":19,
+               "column" 34                
+            },
+             "accsibility": "ubic",
+            "bstract":true,           "redonly":true,
+            "sttic": fase
+             "ey {
+             "ype": "Ientifier",
+               "tt":356,
+          "ed: 360,
+               "loc" 
+                "sa": 
+                l" 19,
+                clumn":9
+             },
+                "end": {
+               "li": 19,               "olumn":33
+               },
+               "idtiierNme: "puar"             ,
+             name: "pua"             },            "omputed": false
+            "vlue": null
+           }
+          {
+            "tye": "Clasroprt",
+           "strt": 36
+             en": 394,
+         "loc": {
+           tart": {
+               lie": 20            clm": 4
+              
+            "en": 
+               lie": 20,
+                "olumn" 32
+          
+             },
+          "accessibility": "publc",
+             "readonly" tre,
+           "sac":tre,           "key": {               "type": "dntier",             start"389,          "end: 393             "lo: {
+               "art": 
+                  "ine": ,
+                "oumn: 7
+             },
+               "en":{
+                 "ie": 20,
+           "coln": 3
+               },
+              "identifrNe" pusr"              },
+          "name: "pur"
+           },
+          "comute":false            "value":ull
+      }
+              
+     }
+  ],
+    "diectivs []
+  }
+}

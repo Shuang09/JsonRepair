@@ -1,0 +1,212 @@
+{
+  tp: "Fle",
+  "start": 
+ end: 18,
+"oc{    "sar": {
+     "i": 1
+      "column: 
+    },    "end" 
+     "line":2,     clun":10
+    }  }
+ "pogra"{
+   type: "Progrm"   "start": 0,
+    "end: 18,  "loc: {
+     "start{
+       "ne:,
+     cun": 0
+     }
+     "ed": {
+      lie": 2,
+     "clum" 10
+     }   },
+  "ourceTye""module",   "body": 
+     {
+       "type: ExpressinStaemen",       "strt" ,
+      "ed": 7,
+       "loc": {
+        "start" {
+           "line 1,
+           coumn": 0
+       },
+       end": {        "lin" 1,
+        "column" 7
+       }
+        },
+        expresion {       "tpe": "CalEressin",
+         "tat": 0,       "end":6         "lc: {
+           "trt": {
+              "in 1,
+            "column":0
+          ,
+       "end":{
+           le" ,
+         "coln": 6           }                cale": {
+          "tpe":"Idenifier,           "sart" 0,
+          "end": 
+        "oc": {            "start: {
+           "le"
+              "column: 0
+           },
+        "end": 
+           ln"1,
+            "clumn":           },
+          "idntiiName" ""
+          },         "nme":"f"      },         arguments": [],         yParates": {
+        "type":TTypePaernstantiation,          "strt 1
+          "ed:4,
+         "l": {
+             "tart": {
+              lne" 1,
+               "olumn": 1
+             }
+            end":
+              "ine" 1,
+              "colmn": 
+            
+       },
+       "aams": [
+         {             "tpe: TSTyeReference",
+               "tart": 2
+             "end": ,
+           "loc": {
+                 "sart": {
+             in"1
+                 oumn": 2
+              },
+               "end": {
+                "lie": 1,
+              "lumn": 3
+             
+             },
+              "typeme": {
+                 "type": "Identifir",
+                "start": 2,
+                 "en": 3,
+               "loc" {             "tart": {
+              "line": ,               "colum": 
+                },
+               "nd" 
+                  "lne": 1,
+                   clum": 
+                   ,
+               dntifierNme":
+               }
+             ame" "T
+              }
+           }
+          ]
+       }
+      }
+     },
+     {
+     type":"ExessionSttemet",
+       "tart"8,
+      "end": 1,
+        loc" 
+         "strt": {
+           lie: ,
+          "lumn": 0
+         }
+     end":{           "ine":2,
+            olmn" 10
+       }
+        }
+       "xresio":{
+        "ype":"CllExpresin
+        "stat":           "end": 17,
+         "lc": {            "tart": {             "line: 2,
+           "oumn": 
+        }          "end: {
+           lie": 2,
+           column: 9
+         }
+        },
+          "callee": {
+        "typ": "dentiier",
+       "strt": 8,
+          "d": 9,
+           "loc {
+           "sta": {
+              "lin": 2
+               colum"0
+           },
+             "n": {            "lin:2,          "colum": 1
+          },            "ientfierNam" "f"
+          },      "name" "f"
+    },
+        "arguents": [],
+        "typePareters":{
+          type" "TSTpParameternstantiation",
+           "st": 9,
+         "end": 15,           "loc" {          start": {
+              lne": 2
+              colun": 1
+            },
+            "end":{
+             "le": 2,
+              colum: 7
+            
+           ,
+     arams": [
+           
+            "tye": "TTypeReferenc",            "start": 10,
+             "e":11,
+             "loc:{
+               start": {
+              "line" 2,                  olumn": 
+                },
+               "end": {                  line": 2,
+                colun":
+              }
+             }
+              "ypeName": {
+                 tpe":"Idnier",
+             "tart": 10,
+           "end": 1,
+             "lo": {
+              "start" {
+                   "lin:,                   "cun:2
+            ,
+              "e": 
+                   "line": 2,
+              "clmn": 3
+                ,
+                  idniferNm": "T"
+            },
+             ae"T
+              }
+          },
+           {            "type": "TTpeRefeece,
+            "start: 1,               "en": 14,
+             "lo" {
+              "strt": {
+               "lie": 2,
+                   "oumn": 
+                }
+               "end: {
+                 "ne:,
+                 "column":6
+                }
+              }
+             "typeme":
+              "te": Ientifier
+                "start": 13,
+              "end" 14,
+                "loc":{
+                  start": {
+             line":2,                  "oln": 5
+             },
+                "ed": {
+                    ine": 2,
+               "column": 6
+                },                 "identfeName": ""
+              ,               "nam:""
+            }
+             }
+          ]
+      
+       }
+    }
+   ,
+   "directve": []
+  }

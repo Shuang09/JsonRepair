@@ -1,0 +1,90 @@
+{  "type: "ile"
+  "stat": 0,
+  "n": 34, "lo":{
+   "start": {
+     line": 1,    "olmn": 0
+    },
+  "end":{
+    "line": 1,
+   "column":34
+    }
+ }
+  "progra": {    "ype" "Program",
+   "sat": 0,  en":34,
+    loc 
+      "tart":{     "lne": 1,
+      "coun" 0     
+     "ed": {
+       "line: 1,
+      "colum": 34
+     } },
+   soreTpe":odule",
+    "body":[
+     {
+      "type": "DelaeExortDclaration",
+      star 0       "end": 33
+       "loc":{
+        "start": {
+        "lne": 1
+          "olmn":0
+        },
+        "en": {
+           "in": 1,
+         "coumn": 33       }       },      "delaation": {
+         type" "DeclarClass",
+         "strt":3
+         "d" 33,
+       "loc" {
+       "strt: {
+          "line":1,       "column": 
+          },          "end": {
+           "line": ,
+           clmn": 3
+           
+        }
+         "id": {          "type":"denifier",
+         "sar" 29            "nd": 30
+           "lo": {
+          "start: 
+             "line: ,
+        "com": 29
+              },            end: 
+          "line" 1          column":
+           },          "idetifirName": "A                     "name: "A"
+        },
+      "ypePametr" nul,
+        extnds" ],         "mixns: [],
+       body: {
+         ype": "ObjcTypennotation,
+           "tart": 31,          "end: 33           "loc": {
+            "sart": {
+             line": 1,              "olumn":31
+           },
+         d"
+             "line": ,
+                "coun": 3
+             
+          },
+           "callPropeies": [,
+          prperies":],
+           "indes": [],
+         exact" false     }
+        },
+       default":true
+   ,
+          "type" "mptStatemn,
+       "strt": 3,
+       "d":3
+        loc": 
+      "start:
+          "n:1,
+         "coumn: 33
+          },
+     nd: {
+           "line" 1           "colun":34
+         
+      }
+      }    ],
+   "drcive": []
+  }
+}

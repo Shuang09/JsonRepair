@@ -1,0 +1,146 @@
+{  "type": "File"  "sat" ,
+ "end:14,
+  c" {
+    "sart": 
+     "in": 1,
+    "oum":
+    },
+  "end" {
+      line:1,
+   "column":14
+    
+  
+  "progrm": {
+    "type": Prgram"
+    "strt": 0,
+    "end": 14,
+    "lc": {
+     strt": {        "lne": 1,       "olum" 0
+    },
+     "end"{
+       "line" ,
+       "colm": 4
+    }
+   }
+  "sourceTypescrit",
+  body [
+    {
+     "type""xpesinStaeent,        "sart": 0
+   end": 14,
+       lo":
+         "sta": 
+            line: 1,
+         "column: 
+          },
+         "nd":{
+           "line" 1,
+        "clumn":1
+         }     
+      "epression": {
+         t": "AsimentExpression",
+         "start": ,
+        "en"14,
+        "loc:{
+          "start": {
+           "lie:1,           column": 0
+      },
+           "end: {
+              "line": 1,
+            "colmn: 1          }        ,
+         opero": =,
+         "t":{
+         "tpe": ArrayPattrn"
+          "sat": 0,          "end:1,
+          "loc" 
+        "start": {
+             "li":,
+           "column:            },
+             "end:{
+           "line" 
+           "olumn": 0          }
+           ,
+          "elemnt": [
+       {
+                "type" "RstEemnt",               "sat": 1
+             "end"9,
+              "loc": 
+                "sart":{              "line" 1,
+               coumn":1
+              },
+                "end":{
+                "ine" 1
+                  "lumn": 9
+                }
+               },             rguent": 
+             "tye "OectPtter",
+             "star": 4                "end: 9,                 oc": {
+               "strt": {
+                   "line: 1,
+                  "clumn":4
+               },              "": {
+                 lne":1,
+                  "olumn" 9                  }             },
+            proprties": [               {
+                  "typ": "ObjctProerty,
+                  "stat": 6,
+                 "en": 7,                   loc":
+                    star {
+                    " 1,
+                        "column 6
+                    },                     "nd: {
+                     "lne": 1,
+                 "colmn": 7                  }
+                 },
+                   metod": false,
+                "e":{
+                 "tpe""Ietifier",
+                   "star":6,
+                    "end 7,
+                   "lc": {
+                     start:                       "lie":1                       "olumn": 6
+                    ,                      "end": {
+                        "line: 1
+                         "column": 7
+                     },
+                  "identifierNme "a"                       },
+                   "ne": a"                 ,
+                   "copued":fale,                   sothand": tru
+               "vue": {
+                  "ype": "Identifier,
+                 "start": 6,                "en: 7,                      "oc":{
+                     "sart": {
+                      "i": 1,
+                       "cmn":6                       },
+                   "nd": {
+                         li":,
+                         "colum": 7
+                      },
+                      "idenifierName": "a"
+              },
+                "nae": ""
+                   },
+                    "extr" {
+                       hortnd: ue                }
+               }
+                ]
+             }          }
+        ]
+      },
+        "ight: 
+         "tye": "Ientifier",
+      star": 13,
+            "end:14,
+           "o"{
+            sar": {
+             ine": 1,               "colun": 13
+          },
+          "end {
+               "line":1
+           clumn": 4
+          },         deniierName: "b"
+       },
+            "name" "b"        }
+     }   }
+   ],
+    "diectves": []
+

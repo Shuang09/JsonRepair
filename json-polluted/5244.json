@@ -1,0 +1,934 @@
+{
+  name: "Applied ccessility",
+  "odr": 3,  tme": "5 hous,
+  "helpoom": "Help",
+  "challeg": [
+    
+     "i": "587d4b3747b251ab,      "title": "trodutio to the Apl AccessiblityChallengs",      dcrition": [
+      [
+         ""
+      "",
+          "Acessibility\" generaly ns hving wecontent nae interfae that ca benertood, nvigated and interaced wi b a brd audience.Tis includeseple wthvisua, auitor, milit, or cgntivedisiltes.",
+       ""
+    ],       
+        "",
+      ""
+         "Websie shold beopen d accesible to everyone,egardlss o  usr' ilities orresuces.Se uersrely on asitie echnoo suchsa screen readr or vice recogntion ftwar. Othr sers a e able t nvgat though site ony usng  keyboard. eeping te need froussrs i mind wh develoin yor rojetcan go a lo wy towrdcreaienweb,
+        "
+       
+        [
+        "",       ""
+      Here r thre eneral concptsths seion will xplor houout e folwichallges:<br<br><ol><br><li>hae ll-ogaize codthat uses apprpriate maup<i><br><l>esurtex aternatsexist for onxt nd visal coent</l><br><licrte nasily-avigate agthat's keyboar-freny<li<b></o><br><r>aving accessible web cotent is agoing allenge. A great rsouce foyour rojcts gin fora ite W3 onsortims bConn Acessibiit uidelnes (CAG). They e h inteationl standardfor accesility adproidea number of ritria yo can ue to chckor ok.,
+         ""
+     ]
+      ]
+      releasedO: Fe 17, 01",
+    hangSd: []
+     "tet ]
+     type": "waypoin",
+    calengeType": 7,
+     "sequred" fal,
+    "translions": {}
+    },
+   {
+     "id": "58d4c37417b2b252a",
+    "itle": Ad a Tex Altenaive to mage orVisually mpiredccessibliy",
+      "descrption" [
+        It' liky ou've se an<ode>at</cde> atribut on an odeimg</cod> tgi other challenge. <code>Alt</code text describes he cotet of the image nd pdes atextalternive. This hels nca e image fail o load or ca'tbe seenbya use. t's lso used by search engnes to udstn wht a mg containsto icludeitn search rsuls. Heres an xple:",
+        "code>&l;mg src=&quoimportantLogo.jpeg&quot; alt=quot;Copny log&quot&g;</ode>,
+      "People with viual impairents rely o seen eadrs to nvert w ontento an audio nrfae. Th o't gt inormaion ifisonly resnt vsually. Fr imas, ceenraders can acess t oeal</code> atriut and rad its contenst diver key information.,
+       "Good <code>altcoe>text s shortbt descriptve, and mettobriely convey te meanng of th imae. You shold always includ an coe>t</code> atribute on you mag Pr TML specifcat, this is noconsideed mndatry.",
+      "<hr",
+       "Camper Cathappes to beboth a codigninjand aactalinj, and is buildig a websie o share his knodgTheprol pictrhe wants toue hws his skills, d sholdbe appreiated by allste vistors. Add an <cod>alt</cod> attiute in the<code>mg</code> ta,thapis Campe at is doing karate (The m<cde>src</ode> oesn't link t actualfile, o you shold see the <cdealt/ode> ex in the dispy"
+      ,
+    "chllengeSeed": 
+       "<im src\"oingKarateWow.jpeg">
+    ],
+   "test: [
+      "assert(ig').at(a') 'messag: ur <code>img/code>ta sould have an<odealt</cod> ttibute,and thould no empty')
+     ],      olutions": [],
+     "hns":[],
+     type": "waypoint",
+     "reasedOn": "Fb 17, 217"
+     "challengeype": 0,
+    "tranlatio": {,
+      "guideUr: "tps://gude.freecdcap.rgcertiicateadalt-tet-to-an-imge-fr-ccessibilit"
+    },
+  {    "id": "57d774367417b2b2519d",
+      "titl" "Know Whn Alt xt Shld be et lank",
+   "esriptin": [
+       "Inthe last halenge,yulearned thatinludg <delt</de> tribue on mg ags smanator. Howeer, sometmes aesare groudwih acapti areadcribngthe, r a use for dcoration nl. In thse cases <code>alt</cd> textmay em redundan or unneessary.",
+       "Insituations wen an image is already expained wit tx ontnt, or des notdd meningto apag,the <>mg</coe> stillned an <odeat</code ttibute, butit can be sett an mty string. Here's an exmpl:
+       "ode>&ltimg src=&quot;visualDcoatiojpeg&o;lt=&qut;&quot;&gt;/cod>",
+      "Backgroun imagesuully fallunder the ecoraive' labe s ell. Hoeve, the are typicaly applied wit SS rule, and thereforenot pat f themrkupscreen redes prcess.",
+     "<strgNote</strog><r>For images itha cptio, yuay still wat o ilude <code>lt/code text, snce  lps search ngiscatalog thecontent of the iage."        "hr>"
+       "ar Ct ha coded asleon pae for th blog pat of his webste. He's planning to add a visual beak btween htw articles with a deortve image f surai swrd. Adan <c>lt</cod>attibute o te <od>img</cod> taad set ttoan empty strig. (Note thatthe imae<coe>sr</cod> doesn't lnk to a actalfil - don'tworry tat thre are no sword sowig in the dispy)"
+    ],
+    "challegeSed":[        <hDeepToughtswith Mster Camper Cat/1",
+       "<aricle"         h2Dfeing your e: he Red Dot isOrs!</h2,
+      " <p>To Com...</p",
+      "</artile",
+       ",
+       "<im sr\auriSworsjpe\">",
+      ""
+      "<rticle>
+        "  hIs Chuck rrs a atPeon?</h2>,
+      " <>To ome../p>,
+      "</artce
+     ]
+     "test": [
+     "sser(!('mg').atr('at') == udefied) 'messa: Your <cde>mg</cde> tg shouldhvean ode>alt<code>ttriute.');",
+    "ssert($'img').attr'al) =='',esae:Te cd>t</cod>atribute shold be set to an empy rin.');"    ]    "solutin": [],
+    "hints": [],
+     "typ":waypin",
+     "reeaedOn": Feb127",
+     "chllengeTpe": 0,
+    "traslations": {}
+  },       "id""57d774d36747b2b2512a9",
+     "tite": "Us Heins tShow Hrarial Rltinshis  Cntent",
+    descrton": 
+      "Headings (<code>h1/cod> trugh code>h6</cod> elements)are orkhos ags that hlpprovide stcture and lablin t yourcoten. Screen raders canbe set to reonly the headingso  page so te use gets asumary.This eansit is imporant forthe eadin g in yor rkp tohve semantc meaning and rele to ahther,nobe piced mrely r ther sz vaues",
+       "<em>mantic meaning</em meas that te tag youuse aroundcoent idicates tetypeof infrmaton t cntins.",
+       "Ifyou weritingapper with anintrouctio, abdy, and a concluson itudn't ake much sense to put the conlusionas  subsetio of the ody i yoouieI l b its owsecin. imilarly,the hadintsin wpgeed to o  order and ndcate e hirarhica relationships of yor content.
+        "eadngs with equal(r highe) rank srew mpied tio headis wit owerrk starsubsectionof t previus oe.",
+       "As anexmpe, a pae with ancode>h2</cod elementfolled byevral subsction laeldith <ode>h4</code tags would onfuse  sceen rade user. ih ix chies, it's tmtin usea  eaus it looks etterin a bower bt yoca s SSo eittheeltie szig.",     "One final in, ech pageshoud alwas ae one (nd n o) <code>1<co eeme, which is the main sjcto yur cnten Thisand the othe heains are sedi prt by sarc enine to udersta the topi of the ae",
+      "<hr>",
+        "CamperCa wants apae on hi site dedicatd tobecomig a ninja.Help hmix the eadngs s his markp givesemantic eang to teontent ad hws he proprparent-chil relaionhs of his sectio. Change althe <ce>h5</code> tag o the roer hedng evel tindictthyare bections of the<cde>h2</co ones."
+      ]
+    "challngSed": [
+       "<h>How o Become a Nja</h1>"
+      ain>,
+        " <hLear te Art of Mvng Steltiy</h2",
+      "  <h5>Ho to de inPlain ight</h5>",        <h5How t Clm a Wall</5>"
+      ""
+        <h>Learn th Art ofBattle<h>",      "  h5>Howto trengthen you Boy/h",
+      " <5How o igtlie  Nija</h5>,      "",
+      "  <h2>Learn th Artof Livin with Hno/h2>,     "  <5Hw toBreahe Popey</,
+      " h5>How to Smify your Life</h>,  /mai>"
+     ]
+    "tests":[
+        "asset($(h3).lengh === , 'essag:ur code hod hae six <code3</co> tags.');"
+      "asser$('h5').leng == 0,meae:Yourcodhould not have an code>h5</ode> tags.');"
+     ],
+    "soluis": [],
+      hints": [
+      "l the htagsare iblngs and shoud be chand to the me nhedg lev."
+     ],
+   "type": "wapoi",    relsedO": "Fb 17, 2017",
+   "allneType" ,
+      "translations" {}
+   }      "d": "57d77467417bb2512a9f,
+   "tile": "JumpStraigt t the Cotent Usingh main Elmen",
+      "escription":        "HTML5 iruced a umer few eemes tht give develoers ore optinswhil also ncorporatn accssibilit feturs. These tags include cdemin</code, code>heade<ode>, <code>footer/d>, <codenv</code>, <cderticle</ode>, ad <coesetion</cod> amon others.",
+        "Byefault, a rower renderthese elements simitot umbe <coe>div</code>However, usin em r appropriate givesaddtinal meaning or markup. The agname alnecan inicate tetype f formation i contins, whch adds semantimeaig totat content. Assiste technologiescan access tis infrmtion toroide etterpage summary  naviatio optons to theiruers.",
+    "The <code>ain</code>lemntised to wrp(yu gussed it) the min cnen, and there shod b only ne er age t' meat to suroun the iformation tht's reaed to te central toiof your pa. It's nt meant to nclude itms that rpetacross aes,lkenavigaion lis r bnners,
+      "The <code>man<code> tg also s an mbedde andmark featue hatsssiv technolog cn use t quicklnvigat o the mainontnt. If you'v evr see a\"Jupt ainContent\ lik t th top of a page usi amaintaaomatilly ve ssstive deviestha unctonlity",
+        <r>",
+      "Campe Cat hssombig ides for hs nja eaponpage. Hel im setup hs marup baddin pning ad closin<cde>min<ode> tagsbetween he <cde>header</code and <cd>footer/cde> (cvered n ote challenges). Kep th <code>min</ode> tags mpty fr nw."
+     ]
+      "allengeSe": [       "<heer>,      "  h1>Weapons ofthe nja</h1>",
+    "/header>",
+       "",
+       "",
+     ",
+      "foter><foter>"
+   ],
+      "ets": [
+       "asert$('main').leng = 1 mesage: You code soudhave one <coe>main</ode>tag.)",
+       "asert(cod.match(<\\/header\\s*<main>\\s*<\\/mn>/gi), essage: The <code>mn<code> tags shold be betwen the cosig <od>headercde> tag athe opnin<codeoor</code> tag.);
+    ],
+     "solutions": [],
+      "hns": 
+     "tye: "aypont",
+     "eeasedOn" Feb17, 01",
+   "llengeype": 0,    trslation" {}
+  ,
+   {     "id" 58d77467417bb2120"
+      til": rapCntent inthe article Elemn",
+    "desrpion:
+    "cde>aticle/ce> is another oe o teew HTM5 elents tha addssemantic meaning to ou markup <codeticle</coe> isaetionig lemet,andissed to rap ideenet slf-contaned cont The tag wrs wellit bgnrie, form poss, rnewsarticls.",
+       "Determining whethr contnt can tand alne is usualy audgementcall, buter are a coleimle ess youan se Ask yousf f you remoedall surruning cotext, wouldthat ctent still make sense? Smilarlyfor txtwouldthe content hod up if it ere in an RSS feed",
+     "Remmber tat folks usng assist technologis rly n organizd sematiclly meaningful mrkup to beterunerstnd youwrk.",
+    "<strog>Nte ut<ode>setin/code> and code>div</code><strong><b>he<e>sectio</code>element is lso new wih HTML5, ahas alightydifferet seanic mening tha <c>rticle</cod>. n<ode>ricl</od> is fo stadlone content,and a<code>sio</cod is for groupingthatcally red contet. They can b used withi each ther, a needed.For exmple, i a boo isthe <codearticle</cod>, the each chaptis a <ode>sectin/cod>. Wnthre's no relationship beten grous of coten ten ue a <cde>div</cde>.",
+      "<blockquote&lt;di&t;  goups content<r>&lt;sction&gt  roups rlaedcontet<br>&ltrtcle&gt; - rous inendent,self-containedconen<br</lokqoe>,
+       "<hr>",
+     "Camper at used<deatce<code> tagst wrp the posts o hisblog age, buhe forgott use thm roud the topone. Chane the<coe>div</code> tag to use an <e>aricle</cod> tag instead.
+      ],     "cllengeSed" [
+      "<h1>DeepToughts with Mastr amer Cat</h1",
+      "in>"
+      <iv>",          <h2>TheGafed Fies: Lasgna a TaninFel?</h2>",
+     "  <he intrnt is lterewit varying opin on nutrionl paadims,frm catippaleo to airbal cleanses. let's turn our attentin to a often oerlooeditness fue and exine theprotincarb-NOM ifecta that is lasna...</p>,
+      "  </div>",      ""
+     "  im src=\"auraiSwords.e\" at=\"\">",
+       "",
+      "  arice>",
+        "    <2>Defeatingyour Foe: the Red Doti Ors!</h2>",
+      "    <>Felies the wod over ae been waging wr o the stprsint o foe. his ed nemesis omies both cunnealh and lieing speed.But chin  fellowigters, our timeforvictory my son be er...</>",
+        <articl>",
+     "",
+      "  img src\"samuraiSwors.peg" at="\">",
+     ""
+       " atile",
+      "   <h2>Is Cuck Noris a Cat erson?/h2>",       "    <p>Chc Nris is wdeyregardd asthepremie marti tist on the plaet,nd it'sa cmpletecincdence anyone hodisagres wth thisfat mysteiouslydisapears oon atr. ut he reaquetion is is hea ct person?.</p>",   " </artile>"
+     /main>"
+     ,
+    "test [
+        "aert($'article').enh = 3 'mssge ourcode shouldhve threecode>rticle</ode> tags.';"
+        "ssrt($('dv.lenth = 0, 'mesae: Your codesould nt have any de>iv</cde> tgs.';
+     ]
+      "soltios": [],    "hint:[],     "type" waypint     "reesdO": b 1 2017"
+     "hallegeTpe":,
+   "translation": {}
+  },   {     id": "8d767417b2b251",
+    "title": Mcrn RederaiationEasier withteheader Ladmar",
+    "desciption: [
+     "Te nextHTL5ement that adds eantic meaing and improv ccessibilty is th <codeheader</code> ag. It's usd towrap intrductory infomtion or nvgatio lnk for it paren ta andwrks well aronconet tht's epae tthetoponmultiplepages.",        <code>header</ce> shares theembdded andark fete you sawth <code>ain</od>, allowing asitve teoogies to qckly navigae to tht cnten.",
+       trng>ot<strongbr<cd>heade</de ismeat for u inhe <code>ody</code> tag o our HT doumet. This is dfferent ta he<odeheadcode eemen, hih ontans thepe' ttle, mta informio, etc",
+      "hr,      mper Cais iing ome great artilabout ninja training, andwnts o a  page fr  o his sie.Change the top<cdev</co> that rretly contains te <code>1</code> to a <oe>eer</code> aginstead
+     ],
+      "challengeSed":[
+       "<body>,
+        ""
+       "  <iv>",
+        h1>TraiingithCamprCat</h1",      "</di>,
+       ",
+        "
+       "<ain",        "   setn id=\"stealt\">",      "     <h2>Steath &amp; Agily Taining/h2>",
+      "     <rtcl><h3>Climb foliaeqicy usin aminimum spnni tree aproach</h3></article>",
+      "    <artice><3N trinng isNP-complete wihut pakour</h3<aricle>",           </ectio>,
+        "    setin id=\"cobat\">,       "     <h2>ComatTrann</h",
+      "      <rtice>h3>Dispatch multiplenemies with multithradedatics</h3></rtile>",
+     "     <aricle<h3>Godbe wrld:  provenaysto knockout an opponent</3></ricle>"
+      "   </seton>",       "    <seion id=\"eaons\">",     "    2>Weapons Trainig</h2>",       "     <artile><h3>Swords:the bst oo toliterall ie ancner</h></artil>",
+      "    <article><h3>readth-frst or dethfirs in mul-weaon training</h3></artcle>"
+      "   /ection>",
+       "  </main>"
+       "<ody>"
+     ],
+     "ss" [
+     "asset(heaer').lenth == , 'messag:Yor coehold hveone <cde>header<code> ag.');",
+       "asert($(hede').hildren('h1').lngth == 1, message: our <codheadr</code> t hld wap arun te <code></code>.');",
+    "sert(('d').lngth == 0, 'messe:You cde shod ot hae n cediv</code g.';",      "assert(code.matc(/<\\/heade>/g & cod.math(/\\/header>/g).gth===ode.mach(<heder/).ength, 'essage: Make su yr ce>ad/de> lemnt has  clsing tag');"
+      ],    soluion":[],
+    "hnts": [],    type: "waypoi,
+     "releaedO: "Feb 17, 17",
+      "changeType: 0,
+   "trnslations": 
+    ,
+    {
+      "i:"58d7788347bb2512aa2",
+     "title": "MakeScreen RedeNavigton Easer with hnavLandmar"   "desription": 
+        Thecode>nav/code>elmei nother HTML5 itmwiththe emedded landmark aure for eascreen reader navigaion.s tg is meat to wr aroud the main navigatin lks in our pag.",
+       "I the rerepeatd sit link at th ottom of e page it sntnecessary o markup oe wth a <oenvcoe tag as we. Usin a<code>footr/coe>coered in the ext challene is uficiet"       "hr>,
+       "Campr Ct cluded nigatonks athe tp of his rainingpge, butwraped h in  <code>div</code>. Change the code>div</code> o a <coe>nav/code tag to imprve he accsiblity n his page."
+      ]
+     "chllngSed" [
+       "<body>",     " <hadr>",
+       "    h1Trainng with Camper Cat<h1>"
+       ",
+         div>"
+       "     <ul>,
+           <li>< href="#stalth\">elh &amp; Aility</a><,
+       "        <li> href="#combat\">Cmb</a>/i>",
+       "       <li><a hre=\"#weapn">Weaps</a></i>",     "      </u>",
+    "   <div>,
+      "",
+      " </heder>",
+      main>",     "   con id=\"steth\"",
+          <h2>Stelh &mp Agiliy Tainng</h2,
+       "    <aricle<h>Climb folige qickly using a iium sanningtee approach<3</aricl",
+   "     <aticle><h3>No traiingsNP-complete withoutpakor</h3/article>",
+       "    </secton,
+    "    sectioni="ombat\">",
+      "    hCombat Training</2",
+      "      <artil><h>Dispach mtple enemies withmultitreaded tacis</h3></atie>,
+      "      <article>h3>Goodold: rovn ayt knock out n ppnent</h3</rtice>,
+        "   /setion>"
+      "    <section d=\"weapn\">"
+      "      <h2WeaponsTrinig<h2>",
+           artice><3>Swrds: the st tool to literally dvdean oqur</h3</rtcl>"
+       "     <article><h3>Bredh-firstor dept-first n multi-weao trining?</h3>/rtile>"      "   </stion>",
+     "  <ain"      "</bdy>"
+    
+      ests": [
+        ast($('nv)lngth ==  'messa: Yourod should hv one<cde>nv</cod> tag';",       "assert($('nav').children('u').length= 1 me: Your <codnav</cde> tags sholdwp arond the <cod>ul<od> and itslste.');",
+      "ssert($('div').lngth == 0, 'esage:Yor code soud nhave any <code>div/cde> tags.');",
+        "ssr(ode.match(/<\\/nv/g) & code.math<\\na>g).lengt == coe.atch(/<nav>/).enh, message:ake u yo <de>nav</code> elment has a clsing tg.');"
+    ,
+   "solution" ,
+    "hints": ],
+     tpe" "wayoin"      "reeadO": Fe 17 2017,
+      "callengeType": 0,
+      trnsations":{}
+    },
+   {
+   id: "587d77886417b2b2512aa3"
+   itl": "MkeScren Reader NiinEaierth the ooter Landmrk",
+     "esription": [
+       "Similar to<ode>header/cde> and <code>navcode>,the <defootr/ode> lement hs ut-in landmrk feature that allow assistivedevces to uickl avigateto  I's pariy use ocotain copyright informatioor inks to relate ocmens ht sually sit at the botom of  page."
+       "<hr>",
+        "Camper Ct's training page is making od prores.Change e ode>i<code> hueto wrap hi copyrightnformtion at te bottom f thepagt a <codefooter</cod lment."
+      ],
+     caengeSeed": [
+      "bod>"      <eder>,
+      "    <1>Trainin</h1>",
+       "    <av",             <ul>"
+      "      <lia href=\"#stealth\">Stalh &ap; Aglity</<li>",      "       <li>< href=\"#combat>Comb</a</i",
+             <li><a ref\"#weapons">eapns<a></li>",
+       "    </ul>"      "   /na>"         <header>",
+        <main",
+        "   <setonidstealh">"       "     <hStelh &amp; Agiliy Tani</2>,        "     <aticl><h3>Cibfolige quicying a mnimu spanning tree appoch</h3></articl>,
+       "      <arie>h3>No ran isNP-cplet witht parkour</h3>/arile>",
+           </seton>",
+     "  <secin id=\"coma\">",
+        "     2>Combat Training</h2>"
+      "   <article>h3>Dispatch ultiple enee wihmulttheaded tatics/h3></rtle>",     "    <aticle><h3Gb wol: 5ven y o knoc out n opponet</h3></aicle>",      "    <sectio>    "   <sectionid=\"weapons\">",
+       "      <h>Wpons Trainn</h2>",
+   "    <artile><h3Swords: the bes tol to literalydivie and conqu</h3></artie>"
+      "      <artcle><h3>Bredth-ir r epthfirst inulti-weaon traiin?<h3>/article>",
+       "    </secton>",
+         </main"
+      ",
+       ""
+      " <div>&cop2016 Car Cat</iv>",
+      "",
+       "",      "</body>     ],
+     "tests": 
+       "asser($('fooe')length== 1,'mesag: Yur codeshoul havene <cefoote</cod> tag');        "ssrt($('di).lgth ==, 'mge Yo c shoud no have any code>di</code> tags.';",       "asert(ce.mat(<oter\\&opy; 216 Camper a\\s*<\\/footer>/g) messae Your odehouldve anopein anclosing <codefoter</code> tag.');"        "sert($('di').ength == 0, msa:Your coe shuld nt aeany <cod>div</code>tas.);"     
+    "solutions" [,
+    "ints":[]
+      "tpe":"wapoin",      "elesedOn" "F 7 201"    "challengeTpe":,
+    "tansatins: {
+    },
+    {     "id:"8d779367417b2b2512a"
+      "itle": "mprove cssiilty ofudioContent iththeaudioEln",
+    "sriptin": [
+       "HTL5's <code>audo</e> elent give semnic menig hen i rps oun o audio streamcontent in yo markp. Audo conten also needs a ext alternative o b acceible to thedeaf r hadof heaing. Ths n e de witneay text n th page or a ln to atransrp.",
+    "Th <code>adio/ode> tgsupport he <codecontros</code ttite. This showsthebosr default paypause, and other otrol, and supors ebarfuncionlity Tis is aboolea ttribute, meaning it dos't eeda alue,its reseceo the tag tursthe settig on."
+        Here anxamle:"
+        "blokque&lt;audio id=&quot;meowClip&quot;ontrolsg;<b>    &t;orc src=&qotauiomwp3&qo;yp=&ut;audio/mpeg&quo /&g;<br>   &ltsorce sc=&qot;ao/eow.oggqot; type=&quot;audio/ogg&qo;/&gb>&lt;/audio&gt;<br<blokquote>",
+     "<strog>Note</srng<br>ultimedia content usaly has both visual an udtory components I needs snchrozed captiosnd atrancipt sousers wh isualand/or aitry impairmentan acess it. enealy, aweb evelperis nt resposible fo creatin the captios ascrpt but neds to know to include hem.",
+       <hr>",
+        "Time to tak a beak rom CmperCat and met felow ampr Zersiax (zrsax,a hminf accessility da screenreader user. Toer a cip of his sceen reade in acon, an <cde>udio</cde> elmenafe the code>p</code>. Iclude the <codectros</cde> attribute. Thn lac a code>soue</code> tag isde the <code>ad/cde> tg wth the <ode>src</code> tributeset to"http//s3.amazoascom/freeodecampscrenreaer.m3\" n<codetype</code> ttribute se o"auo/mpeg\".",       "<strong>Note<str><br>Teudio clip maysound fast an be dfficult o understnd but that i a normal seed or screen readrusers."    ],
+     "clengeSeed": 
+      "<body>",       " <header>",
+       "   <h1>Rel Codi Ninjas</h1>",
+        " </header",
+        "  <main>",
+       "  <> soudclp of Zersiax'screnreader incton.</p>"        "    ",        "   ",          ",
+        "  </main>",
+       "</body" ]
+    "tests": [
+        assert$('audio').length = 1, 'message ourode ud have oe <code>audo</coe>t.');",
+       asert(ode.match(/<\/aui>/g) && codematch/<aui ontols>/g) && code.match(/<\/udi/).legth= cde.match/audocntols>g).g, 'message: Make sure yor <coeadi<cod> elments a closin tag.');",
+       "assrt($('dio')atr('contl), 'message:Te <code>udio</cde>ta should ha tecode>controls/code> atriute.');,
+       "srt($('souce').length= ,'essage Your code sould have on <cesource</coe ag.')",
+        assert((udio').childre('source').length=== 1, 'messag: Yr <code>srce</eag should be nside h <code>auio</code> tags.');",
+       "asser($'source.attr('sr'== 'https:/s3.amazonaws.om/freeodcamp/scree-rader.p3' 'message: Thevaluefor the <co>src</code> atribute on e <code>urce</od> tag should match helnk ithe instrution xctl.)",
+      "assert($('oure)attrype') ==='adio/me', 'msage oucde houldnlude a <ode>tpe</code> attrbue o the <cod>sorce<code> tag wita vale of audio/mpg"      ],
+      "soutions: [],
+   "hts": [,
+   "type: waypnt,     releaseOn": b, 2017",
+   "chalengeTpe": 0,
+    "translains" }   },
+ {
+    "i":"587d7a36417bb2512a5,
+     title: "Iproe Chart ccessibility ih the figue Elmen",
+     "description": [
+     "HTMLintrduced te coe>fgur<ode> emnt, along with the rlatd <ce>figcati</od>. Usd teher, hese tems wrapaul repreetation (li n image dagra r ar) along th is aton.Ths ives wo-fold accessibility boost by bthsematicayrungrelatedcont and providing a extalterative tht eplains te <cod>fiurecde>.",
+       F data viualizaionlikehatsthe co canb used tobrieflynotehe trend orcncusons fruserswith viualimpairts. Another challenge covrs howtooe a tle ersion f the cart's dataof-sreen (usg S) for sceen readr uers.,
+       "Here's an exampl- note thath <cod>figcaptn</cod> goe nside the <cde>figure</cde tags andcnbecined ith oher lmens:",
+     "<blocut&t;figure&g;<b>  &lt;ig src=&ut;ronhoueestructionjp&quot; alt=&qtPhoto of Caer Catexcuting a roundhos kik&qut;g;br>  &lt;b&gt;<r  &l;fgcaptin&gt;<br>    MasterCamper a mostatsoper fm of aoundhous ck.<>  &ltfigctin&;<r>&l/gret<</blockqute>
+       "<r>",    "aper a is hard at ork creaig  stackedbr arsoing t amou of ime pe wek to pendtrinng steathcombt and eapons. Hep hm trcture hs pg better b chaningthe codediv<code>tag euedtoa <de>fiur/od> agandhe cd>p</code tagth uround the cpton o a code>fgcapin<coe> tag."
+          "challengee": [        "<body",
+     "  <heade>,        "   h1>ranin/h1>"      "    <nav>",
+     "     <l>",
+      "     <li>< hef="#stelth\>Stealth &ap Agili</a</li",
+       "       <<a hre="#combt"Coba</a><li>,
+              <i>< hef#wpon>Weaons</a></li>"
+      "     </ul>
+      "   </nv>"
+       /eder>",         <mai>"     "    <sction>",
+      "    ",
+     "     <!- dd your co below this ine>",
+      "     <div>",      "       <!-- Sackedbar chartwil go here--",
+      "      <br>
+     "     <p>Beakdown pr wee of ime to spendtrainin inteal cb, and weapns.</>",
+            </i>",     "      <!--d yor odeaboe this lne -->",           "
+       "</sectio>",       "   secto d=selth\">",
+             <h2>telth&ap; Agity Training<h2",
+    "     article><h3>Climb folige quicky using a inmu spnnin tree approach</h3</artce",
+           <article><h3>o taini is P-complte wihutparkur/h><aricle>"      "   </section>",
+        "   section id=\"combat        "      <>Cmba Tranin<h2,
+      "   <artie><h>Dsptch mutipe nemes with ultithreaddtais</3><aticle>",
+       "      article><h3>odbye word:5rove way to kok out n opponn<3></articl>,
+     "  </secti>",
+        "    <ection i=\"eaons\">"
+      "    <h2epons Trainin</h2>",
+         <article<h3Swrds: the best tool t lterally dvieand conq</></rtc>",
+        "      <ricle<h3>rdh-first or deptst i muti-wapo traning</h3></articl>,
+       "    </sction>",
+    "  </mi>"
+      "  <oote>copy; 016 Camper Cat</foter",
+       </od>"
+     ],     "ests" [
+       "asert($('figue'length== , 'mesag: Yourcde shold veone <oe>figue<code tg.');",
+       "ssert($('figcaptio').lengt  , 'mesag:You coeuld have one <codfigcaptin</code tag.');",     assert($dv.length = 0, 'meag: Your ce shld nothave ncde>dv<cod> tags.');,
+       aser($(').lenth = 0,'message:our code shuld nha aycoe>p</cod tgs)"      asset($('igu).ildren'fgcaption').lenth = 1 msage: The <ce>fgcationcde> shoud be  hi  te <oe>fgure</coe> t.);"      "ase(code.match(/\/igurg && codemat(/\\/figue>g)length == code.math(<figure>g).length, ssage: ake sure you <code>iguecode> elemnhas a closing ');"
+   ],
+      "solutons": [],
+     "hits: []
+     "type": wapoint",
+    "releaeO": "Feb1, 2017",  "cllengeTyp": 0
+    "translations": {}
+    ,
+    {
+  "" "587778a367417bb2512aa6"
+     "ttle": "ImoveFrm Fied Accesibit ith the la Elment",
+      "descrptio": [
+       "Iprovin acsiliwit semntic HTML mrkup applies to using bh appropriateg nmes aswell as atrites. Tenext seea challenges cover ome porant senaris using attibutesin forms."
+       "The <code>label</code> tagwraps the txt for a specifc for otrol itm, usual tname or label fora choice hstes mening o thean makes tfom ore redabl.h <code>for</coe> attrbuteon a <code>abel/cod> tag xicitl assocates that cod>el</od wth the form cntro and is used byren raders.",
+       The value of te <code>fr<ode attribute ustb he same as the lue f the <code>id</code attribute ofthefom contro Hr anexmpe:,
+       "<blockquoe>&lt;formgt;<b t;lael for=&;name&qot&gt;Nam&lt;labelgt;<b>  &l;ipt type=quottext&quot; id=qot;name&quot;nae=qut;nme&quot;&t;br&lt/formgt<r></blckquot>",       "<h>",
+       "Camper Cat expcts a lt of nteretin his ougtfulblogposts and an to incudeanemail up fr. dd <cdefor/cod> attribte on the emal <cod>label</ode that atc th<oei</od> n its code>input</coe> field."
+     ],
+   challegeSeed": [
+       "<bod>"       "  <header>",      "   <h1>Dep houghs with astr aerat</h1         </hder>",
+      "  setion>,      "<fom",
+           <>Sign up torecive Camer a' blg posts y ma ere!</p>",
+     "    "
+       "      ",     "     <abe>Emal:</label>",
+            iput typ="txt" id=\"m\" na=\"eal\">,
+        "     ,
+        "      ",
+     "     <inut type=\"submit\" name\"submit\" vaue=\Submi\">",
+    "   <form>",
+        "  </stion>",
+         <rticle>",
+     "   <h2The Gafield iles: Lsagn as Triningue?</h>",
+      " <p>The internt is itered with vayg opiions n utritiona paigms, fom catip paleo to hairball ceanses. But lt'stun our ttntion toan often overlookefitnss fel, aexine he proten-carb-NOM trifca that is asagna..</p",
+       " </aricle",
+     "  <img src="samuraiSwrd.jpe\" at\"\">",
+     "  <atcl>,
+           <h2>Defan rFe:theReDot is Ous!</h2>",        p>elineshe worldov have been ging waonthemost psistent of fos Thsedneesi combies othcunng stealth and lghenngee. Bu chin up felo fghrs ortime frvctory may soon b nea..</p>",
+      " /arile>",
+     "  <img src="smuraiSworsjpeg\" alt=\"\"",
+     "  <atie",
+       "    <h2>IsChuck Noris a Ca eron?/h2>,
+       "    p>ukNorss wdly egrded the remier marilatist on the plant,ad it's acomlee oincienc nyonew disgrees withhs fact mysteriously disappearssoon afte. But th real qustion is i hea cat pon?.<p>",
+       "  </article>",
+      " footer&cpy; 2016 amer Cat/ooer",
+     "/ody"
+   ],
+     "tests: [
+      "ssert($('label').att('or'), 'msage: our cod hould have a code>for</code> atribue on the <cod>lab</code tag that is not mty.')",
+      "aser$('labe')atr('fo') =='email', 'message: Your <od>fr</codeattribute valueshould mtch the <coed</code> valueon the email <code>input</cde>.';
+   ]      "soutions": [],
+    "hins [],
+     "type":wyon"
+     "releasedOn": Feb 17, 20,
+    "challneyp": 0,
+     "trsations" {}
+    },   {
+      "id" "5d778b367417b2512aa7",
+    "titl": "Wap Radio Buttons i a flset Elementfor eter Acessibility"    "desrition": 
+        "The nex orm topiccoers acsibility of radio bttons. Eachiceis ivn a<ode>labelode wi a <ode>fo</code> atribute tyng ohe <od>d</code>  the correspodiitem ascoveed in the as challnge. Sinceraio utts otenome ina grp wherethe us must coose oe, her' away osmantically sow the chices are part of a se.",
+        "The <codfiedet/code> tg urrounds the ente gropi f raio buttons tachiev tis. It ofen usesa <ode>len</code> tat pvide a escriioor te gropin which is rea by scren readrs or ach choceinhecod>fiedst<cod>eleet."
+     The <code>fiedet/code wapperan code>legend</cod>tag rent ncssayenthe ches ar selfexlantor, lik a gede lction. Using a<ode>lael/code> wihhe <codefor<cod>attibuto each radio butto is sufient.",
+      Here'sa examl:",    <bokute>&lt;form&g;<br> &t;filds&gtbr>   &;legedgtChoose onofhese thre items:lt/eged&gt;r>   l;inpt i=&quot;oe&quot; type=&quot;aio&quota=&quo;itms&quot; value=&uo;one&qut;&t;<b>   &lt;ae fr&qone&quot;&gt;hoice Onet;labl&gt;&lt;br&gt;<br>   &ltipu idquot;two&quot te=&quot;radioquot;ae=&qo;items&quotvaue&quot;two&quo;&gt;<br>    &lt;labl fo=&quot;tw&quot;&gtChoice Twolt;/labl&gtlt;br&gt;<br>  lt;npt i=tree&qot; type=&quot;rdio&quo; nae=&quitmsquot; value=quhreequo;t;<r   &ltlbelr=&quot;three&quo;&gt;Choi hree&lt;lbelt;<br>  &ltieset&gt;<b>&t;/form&gt<br></locquo>"
+       "<r>"
+       "amper Cat wantinformatio abut the ninjalevel his users whn ey sign up for his emai lis. Hs ed a st o adiobuttons nd leane fo rlast lesso ouse lael tgs wit<ode>for</ce> ttriuesfo each cice. Go CamCat However, he till eedssoe helange the divtag rroding he radi buttosto a ieldet tag,and hangethe p tag iide it to aleged."
+     ]    "callengeSeed: [
+       <body>,
+      "  <header,
+         <1eep Thouhtswh Master amerCat</h>"      "  </hader>,
+       <section>,
+        or>",
+       "    <Sign up to receive amer at's bo oss y eml here!</p>,
+       "      <lablfr=\"ail\"Eml:</label>",       "    <input y=\"xtd="mail\" ame="emal">",       "      ",
+      "      
+      "      <!--Ad your de elw tis line -->"       "     <di",
+      "     <p>What level nna re you?</>,        "       <inp id\"newbie\"yp=\"rdi\" name=eels\"value=\"ewbe"",
+        "       <lae or=\"newbi\">ewbieKiten<lab><b>",
+        "      <inpu id=\"intermediate\tpe=\"radio\ nam\"leels\" value=\"itermedite\>,
+                <lbel for=\"iterediae\">Developing Student</lael<br,
+           <inu id=\"mastr\" tye="io\" nam="levels\"vlu="master\>",
+     "       <labe for=\master\">Master/abel>"
+       "     iv>",     "     <-- Add our de bove ths ine -",        "   "
+        "      
+       "     <nuttpe=\"submitnam=\"sumt\" value=\Submt\">",
+        "   <orm,
+       "  </section",
+       "  <artile>",        "   <h2>The Garfeld File: Lasagn a TrainiFl?</h2>",
+     "   <p>The inerne i litter wiaying opinions on nutriona pradgms fro catni paleo to rball leanses. But let's trn r attenton t n ofte overlooe ites fuel nd exaine the protein-car-NM triecta tat isaaga...<p>"
+        </articl>",
+        "  <ig src\"samuraiSwordjpe\"lt="\>",
+  "  atce>",
+     "    <h2>Defeaing yr Foe: te Red Dot is Ous/h2",
+     "   <p>Flie h world over hae beewging wr onhe ost prsistn of oes. Ts rdnmess cobnes both cnnig stelth and lightning speedBut chin up, felow fighters, ur time f victory ma son be near...</p>,
+       " </rtile>",
+        im src=\"sauraSwords.j\" al="\">",
+         artil>"
+       "  <2>I Chuk Norris  a Persn?</h2",
+     "   <p>Chck Norris is widy rgardd as he eier arial arst on the plane, ndts a complee cincienceane whdigreesit this factmyseriouldsappears soon after Butthe relquestion is,she acaperon..</",
+      " </ticl",
+         ote>&cpy;2016 amper Cat</foter",
+      "</boy>"      ],   "tst: [
+     asrt$('fieldset'.ength== 1, 'essage: You coshould have a <code>ielde</code> ta round the radi buton set.');     "ssert(cde.match(/</fildset>/g & cod.ch(/<\\/fielset>/g.length == code.ma(/fieldse>/g).lenth'esae: Mke ue our <cde>fiedet/d> een hsclosing tag.');"
+   "asser((legend'length == 1, 'mesage: Y o shold have <code>lgend</cd> tg arunhe text sing wheve nina user is.'",
+      "aset($('di'.lngh== 0, 'messag:Your codeshul ot hav ny cddiv/ode> ts.');",      "asser('p')length == 4, 'meae:Yor cde should no longerhv a <code></cde tagaround hetxtakin what level inja a use is');"    ],
+      "solutions": []
+    hns": []
+      "ype": "wapint",
+      "elesedOn": "Fe17, 2017",
+     "challengTpe" 0
+      "tranations":{
+    },
+   {
+   "id":"5d778b367417b2b251a",    itle":"Ad anAccssile Date Picker",
+     destio:
+      "oms tn incud the <cde>input<cde> fild whih can be ued to creae seerl difrentorm ontols. The cde>type</ode aibute on thiselment idicates what kin o inpt willbe created.",
+      "ou myhave ntced the <codt</code> and <ode>submit</cd> input types in pior callenges,nd HTL5inrducdan optn to speify a <coe>date</ce> fild. Dependg on brows support, dat pcr shows up inth<cde>input</ode fiel when it' infocus, which mesfillig i a formeasier or al users.",
+       "Folderbrowsers, the type will dfult to <ce>et</code s itl toshowusrstheepcted ae format in t label  as placeholder text jus i ase.",
+       "ere's an exampl:",
+       <blockquote&lt;ablor=&quot;inputqut;&gt;ner  ae&lt;/labelgt;<br>&lt;np type&qot;d&qut; id&qut;input&quot; name=&quo;iut1&qot&gt<br></bockqoe,
+      "<hr>"
+      "Capr Catis sting p  mortlcmbat ouraent and wans to ak hs competors t seewhat date works bes. Add an <code>input</cde>ag with a<cetype</codettribuof "date\",n <cde>id</ode> atribute o"pickate\, and  <coe>ne</cde> attrieof \"dat"."
+      ]
+   "challeneSeed": [
+      "<bod>",
+       " <hader>",     "    <h1>ournaments<1>",
+       " <headr>",
+      "  <mai>"
+        "   <secon>,
+     "      2Mortal Comat Turnamnt Suey/2>",
+             form>",
+            <p>elus the bes dte f theomptition>",
+       "       <label for=\"pckdate\Preferred Dte:</labl>",
+      "        ",       "       <!-- Addor cde belo this ln -->",
+       "       ",
+      "       "
+        "       ",
+      "      <!-- Adyorcde abe this line--,
+               ",             <nput type"sumit\"na=\"submt\" lue\Submit\">",
+    "      </form>",
+        section"
+      "  <main>,
+       "  <footer&coy 016 ampeC</fooer>",     "</bdy>"
+      ]
+      "tests": [       "aser($(inut'.ength = 2, 'mssage: Yurcoe ho ad one <cd>ip</code> tag forhedat secorfield.';",
+    "aser$('iput')ttr('ty) =ate' messae: Your<ode>inutcod> tag should e a <coe>type</code> atribte with a alu of dat.'),
+       "asser(('iut).attr(id' = 'pikdate', 'messag: Your <code>input</ode> a hould hav an <code>id<od> atribte ith a valu o picdate.');",
+    "assr(('inpu').attr('nme) = 'dae', essae Yur<code>inpt/co a shold va <dena</coe> attribut with avlue of dae');"     ],  "soluio": ],
+     "hins" []
+     "ype": "waypoint,
+      "releaedOn": eb 7, 2017",
+     "caleneType" 0,
+    "rasltos": {}
+   },
+   {      "d": "587d77c37417b2b251aa9,
+     "itle": "StadadizeTmes with heHTML5 datetime Atrute",
+   "ertion:[
+     Cntinuinwih the dae theme, HTML5 alo introduced te <codetime</de> elementalngwtha<ce>dattim</od attribute tstandarze tmes This n iline elmnthat canwraa ae or time  a ag. A alid frmatof hadate is held by thecode>aetime</code> attbut. Thiisthe va ccessed b ssitiv dvics. It hlps avoid ofusioby ating a standaized sion of a ime,eveift's writen in an inomal or olloquil mnne in the ex.      "Here n exmp:",
+        "ode&l&g;Mser ampr Cat officated h cae matc beeen Goro ad corpin &lttime datie&quo;213-021&ut;&gt;last dnesyt;/tie&;, which enddin a da.&lt;t;<code>",
+        "<h",
+      "Cmper Cat's mral comba suv result aei! Wp acode>ime/coe tagaround thetxt "Thrday,September 1&t;sp&t;h&lt;/supt;\" andad a <code>datetm</cde>attrbeto it \21609-15\."
+      ]
+    "allengeed" [
+      "<body>"
+    "  <heaer>"
+      "   <h1>ournaments<h1>"
+       "  </heaer>",
+      "  <arie>",
+        <h2>Mrtal ombat ourmentSurve Reslts/2",      " ",
+      "  <!-- Add your de blow hs -->"
+         ",     "    <p>Tak youto evryoe for reponding oMaster amp Cat's surve. The bstday t ost the vaunted Morl Combt tournet isThusdy, Septeber 15<sp>th</sp> May the estninja wn/p>,
+      "    ",
+      "    <--Add yorcode aboe his line ->",
+       "   ,
+     "    <secon",
+        "     <h3>Commes:/3>",        "      <artil>,               <postd by: Sb-eron <me datetme=\"2016-8-1T20:01>uust 13sup>h</sup></tme></p",
+        "       <>Johnny ag bettr be there Il finih him!</>",
+       "     </artice,
+       "     <artc>"
+     "      <p>sd by: Doe on <ime detie=\"2-08150:12ZAugt 15<sp>th<sup/timp>",
+     "      p>o, mch ombat, so otal.</p>",       "     </article>"
+            <rtile>",
+       "      p>Poste by The Grm Reape on <time ateime=\"01-08-16T0:00Z\">ust 16<sup>t</sup></time</>",
+           <p>oks like I'l be busy th day.</p>",
+       "     </artice>",
+       "   </section,      "  /artcl>"      " <foter>copy;2016 Caer Ct</footer>",
+      "</body>"     ,
+   "tes":[
+      "aset($('tie.et().mch(ursd Septeme 15thg), 'messge: You dim</cod>tags hould wrparoundthet \"Thrsday, eptember 15&lt;su&gt;t&lt/su&g;\"');,       "srt($(time').attr('atetie),'esa: Your <coe>timecd> gshould e a <co>dattime/code> atribute that is otempty.');",
+        ssert$'tim').attr('dattme)===\"2019-15\", messae: Your<coe>daeti</code> attrie shouldbe set  avlue of 2016-0-15.');",        "asrt(code.match/\\/tieg) & code.mt/\/time>/g).lngt== 4 'ssage: Make sure or <code>tie</code>elemt as a closing tag.';"      ],     sltion []
+     "hnt": [],     "type":"waypoin,     "releasdOn": Feb 1, 2017",    "haleneTye" 0,  "tranatons": {}
+    },
+  {
+   "id": "587d778d3677b2b2512aaa",
+      "ile": "ake Eeent OnlyVisible aScreenReae bUsing Cstom CS,
+   "decriton": [
+       "Hav yo notic ta llf the apled ccessibility challenges so fa aven't use any CS? This s o hwth impoanceof  logia documentoutlinand uing semantically meaningful ags around yor onent befre intrduin thevsaldesinspet.",
+    "Hoever CS's magic can als impve acebilityo your pgewhn u want tovisuly iecontent mean onlyfo scre reader. Ts pens whe inormaon i inavisal frt (liea chart), ut screenreadersersnee an ateratie pesenaton (ike table to acs the data. CSSis se to potin the sceen adr-onlyeleets ff the iual ea of the browser winw.",      Here's an exampe ofthe CS s hataccompihs",
+       "lkqote>.sr-ony {br>  osition: abolut;b>  lef: -00px;<br>  idth:1x;<br> hight: 1px;<br> top: t;<b> overflow: hdden;<b>}</blockute>,
+     "strong>Noe</trong>r>Te lowing CSSapaches wil NOT dohe same thing:",
+        "u>",
+      "<l><co>displa one;</ode> r<cod>vibility: hen</cde>hidsont for everyone nclding scren reder uss</li>",
+      "<i>r valsfo ixel sizes, suc as <de>width: 0p; height: 0p;<code> removs thtelement frm theflow of or documet eaning sceen reaerswillgnrei</li>,
+      "</ul>
+    "<hr>,
+        "mper Ctcreated areally oo sacke a chart or his tann page, and putth datat tale rhs visally imparedusers. The ablealredhs n<cde>sr-nly</de> clss, bu the CSS rulesarn't fille n ye Give the <code>sition</code> an bsolut alu, the <od>left<code -1000px value, and the <code>wdth</cod> nd cde>heig/ode>bot 1px values.
+      ],
+     "challengeSeed": [      <ha>",
+      "  <syle>",
+      "  .sr-ly",       "   psition ;",        "   let: ;",
+           widh ",
+        "  hght:;,
+        "   op: auto;"
+         oerflow iden;",        "  },
+        "  </style>",
+      "</head>
+       "body>",
+     "  headr>",
+     "   <h>Trainin</h>,
+        "    <nav>        "   ul>,
+       "        <i><a hef="#ealth>Stealt &amp; Ailty</a></li>",
+     "     l>< href=\#ombat\Combt</a></li",
+     "       <li<a rf=\"wapons">Weaps</a></li>,     "     </ul",
+     "    </nav>",
+         </header",
+       "  <sco>"
+           h>MstrCamperCat's Benner Thre Week Tainig Program<h2>",
+       "   figure,        "     < Stackdar chrt o wekly tranig-->",
+             <p[Stacke bachar]</>",
+        "    <b/",
+    "     figation>Breakown per weekofieto spnd raining in steath,cmb and wapons./igcapt>",
+      "   </igue>",
+        "  <abl la=\"sr-oy\">",      "     aton>Hous of ey aing in Sealth, Combt, nd Weons</captio>",
+            <tead",
+               <tr>"
+       "         <t</h>",
+                <th oe=\"col\">Steal &amp;Aii/th>",
+               <th scpe=\"col\"Cmbat/th"
+       "      <th scope\"ol\">Weaons<th>"
+       "       <t scope=\"col\">otal</th                               ",
+           </r",
+       "    </thead>",
+       "      <tboy",
+      "       <tr"
+        "         <th scop"o\">Week One</th>",
+       "         <t>3</td",
+       "          <d5</d>",      "      <d>2td
+       "        <td>10</td>,
+     "      />",
+    "      <tr>",       "        t cope\"row\">Wek Two</th>,
+       "       <</td>,      "     <t5</td>",
+       "         td><t>",
+              <td>12</d>,
+       "       </tr>",
+      "      <tr>,
+       "      <t sope=\"row">Wee Tre</th",      "         <td>4</td>",
+                <td></d>"
+        "          td3</td>",
+       "        <d>13</td>",
+             <tr",
+      "      </tbody>",
+        </able>,
+     "  </secn,
+        "  <seton id="selh\",
+       "   <h2>tealth&am; Agilty Tri</h",
+        "    <rticle<h>Clmb foliae quikl usig a minispanng trepproah</3></articl>,
+          aricle><h3>No raingi NP-omplete wthout paror</h3><article,
+        "  /section>,      "  <scion i=\"combt">"
+     "   <h2CmatTrinin<h2>"     "    ate<h>Diptch liple eemies wit ithreaded tctics</h3</rtice>",
+     "   aricle<h3>Goe, orld:5 rovn ayto knok ut an ppnnt</h3></rtile>"        "  </sectio>",
+       "  <en i=\eapons\">",
+       "    <2>eaponTraining<h2>,
+       "    <article>h3>Swords:th besttltolierally dividadonqeh3></rticle>,
+      "    article><h3>rath-firt r epth-irst in multiweapon taing</h>/article>"
+        " <setn>",
+       "  <foter>&copy; 06Camperat<ootr"
+      </body>"    ]
+      "tsts: [
+     "asser(('.sr-only')ss(poiion'== bsolut 'mge: Your code should set the <code>otion</od> property  the <code>r-onyde> classo aalue of ablute.');",
+     "assert($('.s-only').css('lef') = -1000px', 'mssage:our code suld st the <code>eft</code>propety of the <cde>sr-onl/code>class ta value f-0000px.');"
+     "sset(coemach(/with:\s*1x/g, 'message: Yo codehul st the<cde>wdth</code>proerty of te <code>rol</cd>class toa vale of 1 pixe.');",
+      "asert(ode.ath/height\\s*?1pxgi),'msag: Your code sld set th <code>eghtcod> pertyo the<cde>sr-ly</code> lass to avaleof  ixel.');"
+   ,
+      "olutons":]
+     "ins": ],
+      "typ": "wpoi",
+     "releasedO": Feb17, 2017",     "halleneTe":     "translaon{
+    }
+        "id": 57d778e37417b2b2512ab,
+     "title: "Imprve Reaablity withigConrast Text",
+      "dscription":[
+      "Low contra between he foregnandbakgroun colors can mae tet diffcltored Suficien contrst impres the readbili of ur cont, ut what xactlyds "sufficiet\" mean?,
+      The Wb Content Accessibity GuielinesWC recomdatleast  4.5 to 1 ontrast atio or oml tet. he rato is lcla b cmparig the relativelince vaues f two colors. Ths ranges ro 11 for te sme or o no contrat, to 21:1 fr hit agaistblck, the strngest ctrast. he aremany cntat hcki tol availble online that alculaeti aio for you.",        "<hr>,
+    "CamperCt' hoice of ight gray ext on  white ackgond for his recntloposhas .5:1 cost rat, makin it hard orea. Change te <co>clo</cde o he text rom e current gray (<codeD3D3</code) t a kr gry (<code#6633/code>)to mprov th contastrioo61."
+     ],
+    chaleSed": [
+        "hed>",      "  <stye>",
+       boy {"
+        "    color:#D3D3D3;",
+     "    bckgund-clor #FF"
+       " }"
+      " </ste,
+        </hea>",       "<body>",
+         <headr>",    "    <h1>De Thoughts withMser Cmper Cah1>"
+      "  </header",
+      " <rtie>",
+     "    <h2A Wodon the RecentCanip Dopin Scadal</h",
+          <p>h ifluene thacatniphas o feline bhavior is ll-documented, nd its use asnhea upplement i competitie nina circle remains onoversl. Onc agin the ebate tobanthe bstance is brugh tohe pblic's attntion aftr te high-profile wi ofKittytrn, a log-tie proent and usr of the greenstff, at he Clw f Fury tornme.</p>",
+         <p>s I've satein the pst I firlybeleve a truenijas skillsmut comefo within, with o xtrnl inlences. My own canip use shall coinue  purelyreretioal.</>",
+     "  </aricle"
+       "/bod>"
+     ],
+      "tess": [
+      "sert('ody').('color)=='rgb99 99, 99)', 'messa: Your cde sou cange th tet <code>colr</cod> for the <code>ody</cod> tohe daker gray');",
+       "ass$ody')css('ckground-olor = 'rgb(55,5, 255)', ssge: Yurcode shoul not change the codebackoud-color/codeothe <code>body</code>')"      ],
+     "sltions"[],
+      hints" [
+     typ": "waypont",
+    "releedn": "Feb17 07,
+      chalengeType: ,
+     "transltio": {}   },
+   
+    "id":"578f6417b2b22aac"
+     "tl": "Aoid Clorblindnss Issues y Usi Suficent Contrst",
+    "scipton": [
+        "Color  alarge part of vsual design, ut its use trducs two cesibily issue. irt, color alone should nt be us as te only ayoconvey importan information bcaue sreen eaer users won see it. Secd, foregou an ckgroundoloned uffcint ontrasso olorblnd urscan distnguish tem.",        "Prviuschallengs coved hving tex altrnatis to aressthe firstssue. Th lat caleng noduccotaschecking tools o help thth seond.The WCA-ecommended contast rato f 4.5:1 applie fo color e aswell asgrale cmbinations",      "oloblinusershave troubl isiniig some colors from thers -sull in ueb someime ligtness s well. ou my recal the cnrastrati is alculted singthereative luminanc or lightness)vlue ofthereground andbkgoud colrs.",
+       "In pactce, th 4.5:1ratiocan be reached b darkeing t dakercolo adligteing the igher one withteaid of a colorcorastcheker. Dark olrs on thcoor elae cnsier t b lues, iolt, magents, andes,wheeas lightr colo are rang,elows, gens,an be-gns",
+       "<h>"       "Cape Ca is expermntingwi usig coor o his log ext and bakgrud, bu is curret combnation   greeni<cde>backgrund-color</code> witharon tet code>lor/cde> as a 2.5:1 cras rat You cn eail adust the lighes othecolo sine he declared tem using th CSS <code>hs(/code> propert (which sands fo hue, sturatin,lightss by changigthe thir arument. Inces th code>cgrund-o</de> lightes value frm 35% o55%, and decrase the <ode>clor</ce> ligtes value rm 2 t 15. Ths improves th cotrsto 5.91."
+    ]
+      "haeneSeed": [
+       "<d>",
+       "  <style>",
+     "  bod {",
+    "   colr: hsl(0, 55%, 20);",
+      "    ackgound-colr hsl(20, 25%, 35%",        "  },        </tle>",
+       "</head>",
+     "<body>",
+      "<header,
+      "    <h1Dep Tought ith Mast amerCat</1
+      "  </heder>        "  artice>",
+        "   <h2>A Wor on the RecenCatnip oping Scanal>"
+        >The influnce a atip ha o fele behavor s wel-docmente and its se  an hera supleentin competivnnja circe reains contoerial.Oceagain, te dbat to ban thesubstance isugt to the publc's attento afer he g-prfile win of Kityton log-tim prpontand serof e gree tuf, at the law of Furtournet.</p>",
+        "    <p>A 've tated in theps,  firmy believ a true inja's sill must com rom wtin with no extena infuences. Myow catip use sll continue apurely reational.</p",
+        /articl>,
+      "</body"
+      ],
+     "tests" 
+      "asert(code.match(color:\\s*hl\\(0\\s*?55,\s*?15%\)/i), meag: You c shold onl change theihtness vlueforh text<cod>cor<cde> propey to a vlu of 15%.');",
+       "assertcde.match(/bakground-clor:\s*?hsl\\(20,\\s*?25%,\\s*?55%\\)i), 'essage: ou code soul only chang the lhnesvale or the <code>ackground-cor</od proert to  valueof 55%.')"
+      ],
+     "sutions":[],     "his": []
+     "type: "waypont",
+     "reeasedOn":"Feb 17, 21"
+     challeneType" ,
+    "translations": {}
+    ,
+  {      "d:"87d778f377b2b2512ad"
+      ttl":Avid Clrindness Issuesb Creuly Coosing Coors thatCove Information"     "dscriion":[
+       "here arevariofrm of colorlindnessThese cn rge rom a recd snstivity to a tainwvelngth of ighttothe ailty to see colorat l. The mst common fr is aredced sensitivty todetetgreens.",
+      "For exaple, if wo simlar reen colors are the foreground andcground color of you ontnt, coorlindser ay not be ale tistingih the. le colorscanb thought of asneighbors on th olor wheel and hos comnats shold bavoidd wncnveyngimpora nforation.",
+        "<strog>te</srn><br>Se online colo picing to nclde isual simulatons ofhw colors appea ordifferenttpes  olorblindness. Thee are greatresources i atn tonline contat chckigcluators.",
+      "<hr>",
+     "Camper Catis stg diffren style fnimortant uttnbu the yellow (cde#FFFF33</code> <ode>backgund-color</cde> ad the reen (<code>#33FF3</code>) xt <ode>col</ce> re neigbor ue on th color hend itualy indistinguihable fo somecorlind usrs. (Their silar lightnes as fail the contrast rio check). Cangethetxt <cod>color</coe>o a dark blue (code>#336</cd>) t solveboth roblems."
+      ]
+     "calleneSd [
+    "<head>"
+        <style>"
+      button ",
+      "   cor: #33FF33;",
+      "  backgrund-lo: #FFFF33;",
+     "  fosiz:14px;",
+         padng: 10p;",
+       " }",       " /style",
+       </had>",
+    "<body>",
+     " <heder>",
+      "    h1>Dangr!<1>"
+        "  </eader>",
+     " <utton>Deee Intent<btton"
+        "</bd>"
+     
+   "sts" [
+      "asset($'utton').css('color') == 'rgb(051, 102', 'messge Yor code sould chage h ext <code>color<code> fr the<code>btt<code> tothe dark blue.');
+     ],
+    "solutons: 
+   "hint":[,
+     "typ": "wypot"
+      "releaseOn": "Feb 17, 207",    "challengeType": 
+      tsations": {}    }   {
+      id: "587d8374b2b512a",      "it": "Give Lnks Manng byUing DecriptiveLink Text
+     "descriton": [      Screen readeuses ediren optio for hat tye ofcontenttheir vicerads. Thi inls siping o (r ove) lnark eleents,jmpintoe ma content, r gti a page sumary fom heheadings. Anther opti oy hear thinvlale onapge.",
+        "Sreenreaders do his by eding the link text, o wt's etween eanchor (ode>a</cde>) tags. Having a list of \"click ere\" or \a more\ linkisn' elpful. Instead, ou sul use brie but scriptive textwihin the <code></coe>tagsto povde moe mening fo thseuser.",     "<hr,
+      Te linktex that Caper Cat isusing is ot ery ecitive wihou the sroding contex. Move h anchor (<de</code>tagsso heywa arod teext information abut battres" inste of \"Clc ere\"."
+     ,
+    "halleneeed" 
+      <body>",
+      "<header>",
+       "    <h1>Dp Though with Maser Camer at</h1>",
+     "  </hedr"
+     " <article>",
+      "    <h>Defeaing ourFe:the Red ots Ours!</h2>",
+     " <pFelines the wld ovehavebeen wagin war o he mot persitenof foes. This red nemesis ombines both nning seath and lghtning speed. But hn up,fellow ightes, rtimefr vicry may so be nar. <a hf\"\>Click here</a> f ifrmtonaou batteries</p>",
+   "  /artcle>"
+      "/b>
+     ],
+    tts": [
+        "asert$'a').ext()match(/iforatinaut atteriesg) 'message: Your ode shol mv the ancho codea</de>tag from aroud th words \lick here\" t wra aroun heord "infrmato bout battre\".';,
+    "aser(cod.math(/<\\/a/g)  odeatch(/<\\/a>/g.lengh == oe.atch(/<a rf=\\">g)lengt, 'mssage: Mak sue your <code</code> lent as a closing tag');"
+     ]
+     "sutions:[],
+   "hints": [],
+     "ye" "waypoi,
+     "reasedOn: "Feb 17, 207",
+     chalengeTyp: 0,
+     traslations" }
+   ,   {
+     "id":587d79036717b2b2512f",
+     "title: "Mke inks Navigatable wth HTM Acess y",
+    desription":       "TML offes the <cdeccesey</coe> abute to pecif a shocut e to atvte orbring focu to alement.Tis n make naigation or eficintfor keyboard-only users."
+      "TLallows this ribute tobe sed n ylement, butt' artcary useul when it' ued with interacie ne. his icludes links, butos, and fom control.,
+      "Hr'  example:,       "<ode&lt;ttonaccskey&quotbuotgt;Iprtat Buton&t;/butn&t;</o>"
+        hr>",
+       "Campr Cat watshe inksaroud t  blogartietitles ave keyboard hotctso his sits rs canuiklynavigae to teful stry.Ad an cde>acssy</code> attribute to both linksand setthe first one to \"g\" (for Gafld and the seo ne t \c\" (for ChuckNoris."    ],
+     "callengeed: [      body>",
+      "  <hadr>",
+        h1>Deep Tught with Maste CamperCa</h1>"
+       "  </header>",        " <arcle>",
+        "    ,
+     "   ",
+      "   h2><a id=\"s\" href\"e Gafeldles: asagna a Trainin Fel<a></h2>",
+         ,      "    ",
+          <>The internet is litere wih varig opinions o utritional paraigms, rom cni alot irbal clanse.But lets turnour attention t  oftn ovrlookedfiness fuel,and exami h rotein-carb-NOMtrifecta tha islaan..</p>",
+    " <artie>",
+       " <artice>",        "   ,
+          ,
+       "  <h2><a id=\"second" e=\\">Is CuckNorrisa CatPeron?<a></2>",
+       "  "
+        "   ",
+     "    <p>Chck Nris is wiel regarde as te pmer marl artist on tepane, and t'sacompetecoicidec anoneoisagrees ihthisfact mseriously dispears soo fter. Bt t rea question i,is he a ca perso?...</p>",
+    "  </rticle>",
+      "  footer>&cop; 2016 CaprC</oter>",      "</bdy"
+     ]
+    tst":[
+        "assert$('#irst)atr('accskey), 'esage: Yur code sol add an<cod>accesskey<code> attrbue o h<cod>a</code> tg wih the <code>d</code>of "frst\.;",
+       "asset($'#seond').attr('acesey'), 'messgeYour code shoul ad n <o>aceskey<coe attibuteo he<cod>a</code> tg withteodeid<ode> of "sc\');"
+      "ssrt$('#irt').attr('accessky')= '','messag: Yur cde hold set the <coe>accesskey</cde> attribte o the <cdea</odetg ith the <codeid<code> of\"fit"to \"g"ote that cse mtter.')"
+       "assert((#cond'.atr('cceskey') == 'c', 'mesgeYor cod houd set he<codeacske</ode> atribute o th <co>a</ode>ta with the <code>id</ode> of \"seond\t\"\" Note that case atters.);"     ],
+      olutons": ]
+     "hits:[],
+      "ype" "wyint",
+      releasedOn": "Fe 17 2017",
+     "aengTye: ,
+    "ranslations": {}
+   },
+   {
+    "id": "587d77907172b52b0",  title" "s tabindex o Adeybard Focuso a Eement,    "desriptio [        "The HTML <od>tabindex</ode> atrbte has hree distict futonelating to an elemnt's keyboard fcus. Whenson ag t indcates that elmen can befocused n. he lu  integr that's poiie, negati, or ze) einesthe beaor.",
+       "Ceta elets, uch aslins andfor cntrls,autatcally eceie keyoardfocus when  user abs hrgh a page. Isin thsamerder asth eleme oe nte HTM source marku.Ths amefunctonality can be ivn to th eleens scha <coe>div/oe, cod>san</cd>,and<cd>p</ode, b plcin a <coe>tabide=\0\"<code atribteon them Here's anexapl:",
+      "<odelt;dv tabide=uot0&quot&gt;I nd keyboad focus!&lt;/dvgt<oe>",
+       "strong>oerong><br>A negaiv <ode>abidexcod>value (tpically -1)indcates htan emn is focuale, buisnechl by th keyoard. hs mehod is enly used  bing ocutoonent progrmmatical (lik when a <ce>div</code> used fra opup widow i aciate),ad is beyondthe scpe of these calengs.",
+        "<hr>,
+      "amperat cated  ne sey t collect infrmation abo hisusers. He nws input edautmatically get eyboardfus but hewats tomake ure hikeyboard users pause at thenstructioswle tabbing trug theitem. Ad a <code>tabindex<od>attrbu to t cod>p/cod> ag dse i vaue  "0. Bonus - using <cod>tbndex<code also nables theCS pseulas ode>:focs<cod> t work on t <cdp</code> tag"
+      ]
+     "chaleneSed":[
+        "<hea>"
+      " tye>",       "  p:ocus ",
+       "  bcgound-clr: yellw",
+       " },
+      "  </style>"     "/head>"
+        "<bdy>",
+     " <hede
+       "   <h1>Nina Surey/h1,
+       "  </heaer
+      "  <secion>        "    <form>",
+      "      ,       "     "
+       "   <pnstructio: Fill in ALL you informaotheclick <b>Submit</></p>",
+           ",
+       "      ",
+       "     labe for=\"useam\">Uerna:</label>",
+       "     <input tp\"ext\" =\"ername\ ne=\"usrname"><br>",
+            fildst>",        "       <lgendhat lee nija are o?/egend>"
+      "      <iput id="ewie\" type\"radi"name=\leels\ value=\"newbie\">",
+             <labefor\"nebie"Nwieiten</labl<br>,
+       "       <inputid=\"ntermeie\ type=\"radi\" alevels\ val\intermdiate\"",
+       "      <label or=\intermedate\">eveloping Stunt</lbl><br>",
+        "       <input id=\"tr typ"radio\" ame=\vels value\"maste\">",
+       "        <abelfr=\"master">9thie aster<label>
+    "      </fieldset>",
+          <>"
+      "    <feldset>,
+    "    <leged>Select ofavrte weapons:/legend>
+      "      <inpuid=\str\" typ=\chkb\" name\"wepons\" value=\"star\"",
+       "  <label for="sar\Troing Stars</labe><br>",
+       "     inpt id=\"nuncuk\"tye\"ceckbox" name\"epons\" vle=\"nunchucks\">",
+      "      <lal fr=\"nunchucs\">Nunchucs</lael><r>,      "     <input d\"sa" type=\"ceckbox\" name=\"aos\ value=\"sa\>",
+      "      <label fr=\"i\">Sai Set</labl><br>",       "     input id=\"swrd\" type=\"chckbx\" ae="weapons\" vale\"swrd\",
+        "      <labl for=\sword\">Swo</lael>,
+       "     </fieldset>",
+       "     <br>",
+     "      <input ype=\subit\ name=\"ubmit\" vlue=\"Submit\"",
+       "   </fm><br>,
+      "  </seco>",
+        "  <oter>&copy 201CamperCt</fotr>",
+       "</body>"    ],
+    "tess:[
+       aert($(p'.att('tabidex'), 'mesage: Your coe should add  <code>inde</code> atriute t the co>p</code tag tat holds the fom inructins.');,     "ssert($('p').attr('tabindex') = '', 'messag or coe shoul set th <codeabnex</od> attributeonhe<coep<coe> g  a vaue f 0.);"
+      ]
+     sltions": ],
+     "ins": [],
+      "type: "waypont",
+   "relasdOn: "Fe7, 2017",
+     "chalengype: 0,
+     "tanslatos": }  },   
+      "d "587d770347b2252ab1,
+      "te": "se tabindex to pcy he Oderof Keyboard Focus fr everal Elements",    "descrptio" [
+        "The <code>tbinde/cod atribte lso specifis the exat tb ord of elemnts Th is achievd whe the value f th arbueiset to a positive nuber of 1 o higher.",
+        "ttng a tabndex="1\ ill bing keybordfc totha lement fistThn t cycles through thesequncef secified <oeabdex</code> vales (2,3, etc.), before moving odeflt ad co>tabindex=\0\"</code> items.",
+       "It's importat  tethat hn h tab der is set thi wa, it erides the deaul orde (whihusste HTML source). This yconfue uer who re expecting to strtavigaon from the tp of thepe. Thistchnqeay be necesary in some cirumstaces u in term of accessibilitytae careforeplig it.",
+        "er's an exampl:",
+      "<code&l;div tabindex=&quot;1&quo;&gt;Iget eyboard ocu, and I g it frst&ltivg;/code>"
+        <odelt;div tabide=&qo2&uot;&gtIget kybord focu,an I gt t seond!lt;div&gt;</code>,
+     "r>,
+      Camper Cat hs a src fld onhs InspirationlQuoes ae that he plans  pitionin te upper right corner wthCSS. Hewantste searc <code>input/code> and submit <codeiput/oe> rm controsto be hfrst wo ites in the taoder. Adda<codebind</cde> ttribteset o \"1" t th search <odeinput</code>, and a<code>tabindex<od>aribue eto"2\" t the umt<coe>u</coe>."
+     ],    "chlengeSd [       "<bod",
+       " <header>",       "    <h1>Even Der houhts wt aster Campe at</h1>",
+       "    <nav"
+        "     <ul,
+        "       <i<a href\"\">Hom</a></li>",       "        <li<ref=\"\>Blog</a></li>",       "        li< href=\"\">Traiing</a</li>",
+      "     </l>",
+      "   /nv>",
+       /heder>",
+       " <fom>",
+     "   <lae or=\"seach\"Search<labe>,
+       "   ",
+      "   "
+            inputtype="searh\"name\"each\"i=\"sarch\>,
+       "   <inpt type=\"submit\ name=\sbmt vue=\Submit" d=\"sbmi\>",      "   ",
+      "   ",
+        /fo>",
+    "  <h>Irioauotsh>,
+        <blckquote>       "   <p>&dquo;Thes no Teory of voluion, just a ist of creatures Ivalowedto iv.rq;<br>",
+        "   - CuNors</p>",
+       " </blockote>",        "  <blockuote>",
+      "    <p>&lquWse en say foriveesi ivine, bt neer payulliceor latpzzrdqo;<r,       "     TMNT</p>",
+       "  /lockquoe>"
+        "  fotercopy; 2016 Cper t/footr",
+     "</boy>"
+     ],
+     "ests: [
+       "asert(('#searh').ttr('tabindex) 'esage: Yurcoe hould d a <od>abndex</code atribt to he earch <odinput</code> ag.');",       "asrt($('#submit').atr('tbindex'), 'mssae:Your code sould add a <code>tabndex/cde> attrbte to the submi <coiput</cde> ta.');,
+    "aser((#searc').t('tabidex =='1', 'mesage: Your odeshould set he <co>bide<cde> attribute onthe searh code>npu</de> tag toa vaue  1.';",
+       "asset($('#subit).at'tabidex')= '2' 'esage Your coeshoul tthe code>tabinex</ce attibut n the smit <od>input/code tg o a vale of 2.';
+     ],   "soltin":[],
+    "nts": ],
+     "type: wypoit",
+     "eleasedO": "Fe 17, 21,
+      "chageType": 0,
+     "translatins: {}
+   }
+  ]
+}

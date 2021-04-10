@@ -1,0 +1,162 @@
+{
+  "typ": "ile",
+  "start": 0,
+  "end": 1,
+  "lc": {
+    "star": {
+     lne": 1,
+    "column": 
+   },
+    "end" {
+    "line": 2,     clun 12
+    }  },
+  "rogram" {  "typ": "rgrm",
+    "start": 0,
+    "end": 21,
+    "loc": {
+     "sat" {      "line": 1,
+      "colmn":0
+      },
+     "end"{
+     "line": 2,
+       "column": 2
+     }
+  },
+    "sourceTye": scrip",   "ody:[
+     {
+       "tpe": "EpresoStatement",
+        start": ,
+      ed" 8
+        "oc":
+        "strt": {           "lin": ,
+            "column": 0       }
+        "en":{
+           lin: ,
+         "column":8
+      }       },
+     "eession": {
+        "yp":"sigmentExpessin",
+       "sart": 0     end": 7,
+        lc": {
+        "start": {
+          "line":1
+         "oumn":0
+           
+          end":         "lne:,
+       "colun:
+         }          }        "perator": "&&="
+        left: {
+           "ye": "detfier"
+           "ar 0,         "ed" 1,
+        "lc":{
+            start":{
+               "line": 1,
+               "cumn"0              ,
+            "en": {
+            "i": 1,
+            "olum": 1
+           },
+         "denifierName": "a"
+         },
+        nme" "a
+       },      "righ"           "typ": "Ietie",
+         "art": 6,
+          "end": 7
+           "lc": {
+           "str": {
+            "le":1,
+            "colmn": 
+           },
+         "end {
+             "ne 1,
+              "colmn": 7
+           },
+           "idetiieName""b"
+          }
+       "name": ""
+        }
+       
+    },
+    {
+      "pe":ExprssioStement"
+       str":9,
+       "end 21,
+      oc": {
+      "stat: 
+          "line": 2,
+          "clumn":0
+          ,
+     "end:{
+          line" 2,           "lumn": 1
+        }
+        }
+     "epression":{
+        "ye": "AssinmentExesin"
+        "tar": 9,
+        "ed": 20,
+       "loc: {           "st": {
+          "li" 2,
+             "coumn" 
+        },
+          "end: 
+             "line": 2,          "column": 11            }         },
+         opratr":"&&=",
+       lef": {          "type: "MemerExpessio,           "start": 9
+           "d": 14,           "loc {
+         "strt"{
+          "li": 2,
+              "com": 
+           }
+           "n": {
+             line": 2,
+           colun": 5
+          }
+          },        "object": {
+             "tpe" "dentifi",
+            "tart": 9,            "end: 12,
+             "loc": {
+           sa": {
+                 lne": 2
+                "colmn" 0             },
+               "end": {
+              "line" 2,
+               "lumn" 3
+           ,
+           "ietifierae""obj"
+          ,
+              nam":"oj
+          },
+          "prperty: {
+        ype" "Idnifir",
+            "tart": 3,          "end": 4,
+           "loc" {              "star": 
+             line": 2,
+                  "umn":4
+             }
+              "end:{
+               "in" 2,
+                 "olumn"              },
+          "dentifierme: "a"
+          ,         "nme a        ,
+           compud":fale
+      },
+       igh: {
+           "type":"Idenifier"
+           stat: 19
+        "en": 0,
+            "lo": 
+         strt: {
+            line":2,
+                olun" 10
+             },
+        "e:{
+             ne": 2,               "oun": 1
+             },
+            "identifierName: ""
+          ,
+          "name""b"
+        }
+        }    }   ],
+    "diretives": []
+  
+}

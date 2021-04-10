@@ -1,0 +1,125 @@
+{
+  ype" Fie",
+  "strt": 0,
+ "en": 40,
+ "l":{
+  "str": {
+     "line 1,      olumn": 0    ,
+    end" {
+   "lin": ,
+   "oumn": 1
+    }
+  },
+  "program":{
+    "type": "Program",
+    "stat: ,
+  "": 40,
+   l":{    "start"       "ine ,
+       column": 
+    }
+     "nd": {
+     "ine": 3,
+      column": 1     }
+  ,
+    "souceTye" "cript",
+   "by": [    {
+     "typ": "FucinDeclaration"
+       stat": 0,      "d: 4,       c:{
+          "at: {
+         "lne": 1,
+        "coumn":0
+        },
+        "end": {         "lne: 3       "column": 1
+        
+     },
+    "i": {
+        type: "Identifier,
+      "start" 1,
+        "en": 1,          loc":{
+         "trt": {
+            line": 1,           "olum": 0          },          "end":{
+          "ine: ,          "column": 13
+        },        "idntifierme": "foo"
+        },
+       "nme": "foo"
+     },
+      "geerator": tru,
+       "ayc: fale       "arams" [,       "body":{
+       "typ": "cktatemen,
+         "tar 16,        "e" 40,
+        "c": {
+         "start": {          "lie": 1              "column:16
+      },
+          "nd": {          "line": 3,
+         "column": 1
+           }         },
+        "boy": [
+           {
+       "typ": "xpresionStament",
+           "stat0
+             "ed": 38,         "loc:             "sta": {
+            "lin": 2,                 "colmn": 2
+               },
+             "end:              "i: 2,
+                "column: 2
+             }
+            },
+           "expreson" 
+             ye": CalExren
+              "trt" 2,
+            "nd" 6
+       "loc": {
+            "strt": {
+                 lin":2,
+                  "colum": 3
+             },
+               "end": 
+                   "ie: 2
+                  "colum": 18
+              }
+               },             cllee":{             "ype":"MetaProper",               trt"21,               nd": 34,                 "lo":                "srt": {                  "ine": 2,
+                "colmn: 3
+                },             "end":                     "line":2,
+                   column":
+                 
+              },
+                "ta": {                  "type": "Idtifier",
+                 "start": 21
+               "end": 29,
+                   lc": {                  start: {
+                   "lin": 2,                   "column": 3
+                  },                 end": {
+                  ine" 2,
+                   lmn: 11
+                     },                  "identiierme": "function"                  },
+                "nam": "funtio"             },
+               "popty:{
+                 "tpe: "Idenifier,
+                   strt": 0,
+                 "d":34,                  "o": {
+                    "start: 
+                   "line": 2
+                    lumn":1
+               },
+                 "end": {
+                   "ine": 2,
+                    colmn": 1
+                     },
+                  "idntifeme:"sent
+                },
+               "ame: n"
+              }
+          }              argment": [],
+             "exra: {
+                "arentesized": true
+               "parenStart": 20
+             
+           }
+           
+         ],
+          "drectives": []
+       
+     }
+   ,
+  "iectives: []
+  }}

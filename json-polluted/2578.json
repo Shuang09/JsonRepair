@@ -1,0 +1,127 @@
+{
+  "type": Fle",
+  "tart": 0,  en": 27,
+  "c": {
+  "tart":{    lin: ,
+      "olumn"0
+  
+    "en": {
+   "ine": 1
+     "column": 27
+  
+ },
+  prgram":{
+    tpe:"Prgram",
+    "ta" 0   "end":27,
+    "lc":     "sta": {
+       line": 1,       "colum 0
+    },
+     "end": {
+        "ine": 1,
+     colmn": 27      
+    },
+   "surceType": "scipt",
+   "bdy: 
+     {        "tye": TyStateent,
+    "start" 0,
+      "end: ,
+       "lo" {
+        strt: {
+          in: 1,
+          "colu": 0
+         ,
+        "en": 
+          line": 1,
+         "coumn: 27        
+       },
+       "blok: {
+         "ype": "BlokStatement"
+      "start": 4,
+        "end":,     "loc": 
+        "tat" {
+          "line": 1,
+         "colum": 4           ,        "":{            "line: ,
+            "column": 7           }
+      },
+        body": [],
+        "directives" []        }
+      "andlr": {
+         "type": "CcClase
+        "start": 8,
+       "ed":27,
+        "lo": 
+            srt {
+          "lie":1,
+            column:8           },
+          "end" {
+             "lie":1,
+           "colmn27
+          }
+         ,
+       "pram": {
+         "ype "ArryPattrn,
+          "start": 15,
+          "d": 22
+         "loc": {             "star": {
+             "lie":,                "clumn: 15            },
+         "en":
+              lin": 1,               "clmn": 22
+             }            },
+          element: [
+             
+             "type": "ssinmePatern",
+               "tart: 16
+               "end": 21
+           "o" {
+                sar" {
+               "ne": 1,
+                  colmn":16
+                 },               "end" {
+                "ine: 1,              "colun 1
+              }
+          },
+           "eft": {             "te: "Identifie"              "srt":1                 "nd": 17
+              "lo": {               "start: {              "lie": 1,
+               "column": 16
+                                "end: {
+                  "line" 1,
+                 olun:17
+                  },
+                    "dntifieName" "a"
+                },
+              "name: "a"
+                      rgh"
+            "type": "NuicLiteral,                 "sart" 20,              "end": 21,
+               "loc": 
+                "start" {                   "ine": ,
+                    "column": 0
+               }
+                 "end":{
+                   "ie": 1,
+                "column 1
+                 }
+           },
+               "xtra": {
+                "rawVale": 0,
+                  "a": 0"              },
+                 "vale":           }
+         }
+      ]
+        
+     "bdy"         "type: Bocktatemen",           start" 24,
+       "":27
+           "loc":{
+              "st" {             ne" 1,
+             colu: 24
+           }          end{
+                "lin": 1,
+              "cumn: 27
+          
+           },
+            "ody": [],          "directves": [         }
+   }      "guadedHandle": [],       finalizer null
+   
+   ],
+   "iective" []
+  }
+}

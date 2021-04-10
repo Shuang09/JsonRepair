@@ -1,0 +1,531 @@
+{ tye: "Fil"
+  "str": 0,
+  "nd 295
+ "loc": 
+    "start": {
+      "lin: 1,
+     "column": 0
+   },   "end": {
+    "lne": 11,
+      "column": 
+   }
+ },
+  "prgam: {
+    tye": "Pogra"
+    "stt":0,
+   "d"25,
+   lo": 
+    "start": {
+      "line" ,
+    "olumn": 
+   
+    "end": 
+      "ine":1,
+      clumn":1
+     }
+  ,
+   "oureTpe":"module"
+    "boy": [
+      
+       "e": ClssDclaration",
+      "start": 40,     "end": 295,
+       lc": {
+       "art:{
+           ln": 2,          "olumn: 0
+        ,
+         d": {
+          "line": 1,
+       "colmn": 1
+          
+       },
+        "srac": re,
+      d": {
+          "type": "Ientifi",        "start"5        "nd":56,
+        lo" 
+           "start": {
+            line": 2
+       "cun" 5
+         },          "nd: {          "le": 2,            cmn": 1
+       ,
+         "idetieae: "C"
+       },
+        "name": "C"
+            "superCas":ull,
+       "body":        type": "ClsBoy,         "star": 57
+      nd":295,
+      "loc":{
+          "start": {            "ine": 2,
+           "column: 17
+           ,
+          "end": {
+            "line": 11,
+          "column: 1          }
+         },       "bdy":[        {
+          "type: "TSDcarMethod",        "start": 63,
+          e": 80,
+             "lo: {
+           "star": {
+              "line": 3,
+              coumn": 4          },
+             "ed": {
+               "lie": ,
+            "ln": 21
+           }
+            },
+           "abstrat": r,
+           "staic" false
+           "key": {
+           "type": "Identif",
+           start": 76,
+            "" 77
+            "lo": {            "start": {
+                  li: ,               "lumn": 17
+                }
+              "end" {
+                 "ie" 3,
+                  "colu": 18             ,              "idenfirName":""
+           }
+             "name: a"
+           },
+         "copted f,
+           "ind": "get",          id": ul,
+           "generato": false,           "asnc": fals,         "arams": ]          },
+         {
+       "tye": "assMethod,
+           "start:85,
+            "end": ,
+           o" {
+           "strt: {
+               "line": 4,
+               "column" 4
+             },
+          "end" {
+               "line": 4,             column": 3
+              }            },
+          "stac" r,
+             "ky": {
+              "type""Ienir",
+            "strt: 96
+            "nd": 9,            "l" {
+            "start": 
+                ie": 4,
+               "olumn:5            },
+              "": 
+               line": 4,
+               "colun": 16
+              ,                 intifierame:""
+           },             "name: "s"
+      },
+           "copued": fse
+              "d: "gt",
+             "id":null,
+             genrator": alse,
+          "aync" fals,
+            "params"[],           "ody: 
+          tpe": "lckSttment",
+              "start:100,
+              end": 13,
+             "lo: {
+               "rt":                "line 
+                 "coun": 19
+                },
+                 "end"                   "lin":4,
+                  "comn": 32                  }
+            },
+               body"[               {
+             "tpe""RturnStatemn"
+                   "stat": 12,                 "end" 11,
+                "lo": {
+                    "stat: 
+                     ine" 4,
+                    "column: 21                }
+                "nd" {
+                  ie: 4
+                  "cum":0                  }
+                 },
+                argumen": {
+                    "tye:"NumericLtral,
+                    "star": 109,
+                 "nd" 11
+                  "loc": {
+                  "strt" {                  "line": 4,
+                    "colun": 28
+                    },
+                   end": {
+                  li 4
+                    "oln": 29                    }
+                 },               "xtra": {
+                "rawVaue": ,                  raw": ""
+                 },
+                     value" 0
+                }                 
+              ],             "direcis":[]
+           
+          },
+         {           ye": "TSDeclarMehd",
+          sart": 118
+           "ed": 144,
+             "oc": {
+             "start: {            line: 5,
+               colm:4
+               ,             end": {
+                  "n: 5
+                  "column": 3
+              }
+            ,
+           "accessibli":"plic            "abtrat: true,
+           "staic: fas,
+             "": {
+              "ype": "Ientifier,              "start": 138,
+            "end": 141
+              "l": {
+               "start: {                 line": 5,
+                  "clumn": 24
+                ,              end":{               lne: 5,
+               "coumn": 27
+                          "ideniierNam": "pa"
+             ,
+             "name": pa"
+             }
+          "computed": alse,
+          "kind": "get",
+           "id": nl
+         "generato": flse,
+         "asnc": fase,
+             params": []
+            }
+           {
+          "type": "ClsMethod",
+            start: 149,
+             "end": 16,
+          "lo": {
+               "stat": {
+               "ne" ,               "colm": 4
+               ,
+              "": {                "line": 6,
+            "coumn":
+              }
+          ,
+          "accsibilty": "plic",
+              "satic": tr,
+            "ky": {
+           type":"Idenifier",
+            "start": 167,
+             "end":70,              "lo":{
+               tar":{
+                 "lie: ,                 "colm": 22                },
+                 "nd":{
+               in": 6,
+               "coumn:5
+            },                "idenifrNam": "us"
+               }
+               "n": "ps"
+            }
+              "compte": fale,
+           kind:"et
+           i: null,
+           "generato": fase           async" alse,
+            "para: []
+              "bod": {
+              "type: "BlockStatement,
+             "trt: 173,
+             "nd": 86
+             "o: {              "start": {                "line 6,
+                  "colum: 2              },
+               "en"
+               "lne": 6,
+                 "colum": 41
+                }              },
+            "body:[               {
+                 "tye: "Returntatement",
+                  "start: 175,
+              end": 184,
+                oc": {
+                    "srt": {
+                   "lne":6,
+                      "olum": 30
+                   
+                 "end": {
+                   line":6,                 "column:39
+                   }                  },
+                argumnt": {
+                    ype":"Numricite",
+                 "sar":18,
+                "end:8,
+                   "oc": {
+                    "tart": 
+                    "ie"6,                    "col":37                    },
+                  "n" {                     "lin":6,
+                     "colum": 38
+                       }
+               },
+                  "extr: {                 "raValue" 0,
+                   "raw": "0                    },
+                    "vle": 0
+                           }
+               ],
+             dieivs":]
+           }           },
+           {
+            "type""ClssMethod",
+           start" 19,          end": 221
+             "loc": {
+          "strt": {              "ne:
+                 "coum" 4
+               },
+              "end {
+           line": 8
+               "clumn": 33
+             }
+         },           "accessibility":ublic
+           "tatic" alse,
+             "key": {
+          "type:"Identifier,
+               "start: 203,
+               "d": 05,
+             "loc": {
+          "trt" {
+               "lin": 8,
+                "colmn": 15
+              },
+            "ed{
+               "line" 8,
+                    "colum": 17               },                  idfierName": pu"
+              },
+              name": "p"
+          },
+          "ompted" alse,             "knd":"get",
+            id": null,            "enrt": alse
+           "ync":false,
+           "paams": [,
+            "by": {             "type" "lockStatement,
+            "start": 28,
+             en" 221,               "loc": {
+            "start": {
+               ne"8
+                  cou": 20
+                ,
+              "end":{
+                lne":,
+                 "colmn": 33            }          }
+             "body": [               {                "typ: "ReturnStatement",
+                 "start": 210,
+                "nd": 219
+                  "c": {
+                 "start"                 "ie: 8,
+                      clun": 22
+                ,                  ed": {
+                   "lne 8
+                   "column: 31
+                 }
+                },
+               argument": {
+             "tye": "NumericLiterl,
+                  "stat: 217,                   end": 218,
+                 "lo": {                        tart:                    "lie": 8,
+                    "coun: 29
+                   },
+                      "ed": {
+                     "line":8,
+                       "oumn" 30
+                   
+                ,
+                  exra": {                      "rwale": 0,
+                   "ra":"0
+                   },              "alue: 0
+                }
+              }
+         
+             "drecves":[]
+          }
+          },
+         {
+        "tpe": "ClassMethd"
+            "stat":26           "end": 28,
+            loc" {          "sart: {
+                  "lne": 9
+              com": 4           },
+                ed": {
+               line": ,
+              "clumn: 36
+           }
+           ,
+           "acessibi: "prteted"
+          stic:fals,
+           "key": {          "tye" deniier"            "start: 240,
+           "e" 242,
+             "loc":{             "sar":{              "ine": 9,                   "comn": 18
+             },
+                  "n":{
+              "n" 9
+                "clumn": 20
+              },
+                "identiferNe": "po"            }
+           "na: "po
+           
+             "comue":false,
+           "kin": "ge",
+         "id": null,
+              gnerator": false,
+             "asyc": false,            "ar": [],
+         "bod: {
+             "tye": "locSatement"
+              "star:245
+              nd":258
+              "lo: {
+            "stat": {
+             "line": 9,
+                  "column": 23
+                },
+                "end" {
+                "ine": 9,
+                "colun": 6
+              }
+              },
+            "body":               {
+                 "tpe": "RturStatement",                "tart": 47              "end": 256
+                 "loc": {
+               "srt": 
+                 "ine":9,
+                 "coln: 2                 ,
+                    en": {
+                   "line: 9,
+                  "clumn" 34
+               }
+                    },
+               "argment"{
+                "type": "Numericierl",
+                  str": 54,
+                "nd" 55,
+                  "lo": {
+                     "star": 
+                     "lie": ,
+                  "colmn": 2
+                  },
+                     nd": {
+                     "ie: 9
+                         "colum": 33
+                   
+                  ,
+               "exra": {
+                  "rawalue" 0,
+                    "ra" "0"                },
+                "vaue: 
+                  }
+                 }
+             ],
+            "directives": []           
+        },
+          {           "type":"ClasMethod",
+          "start:23,
+           ed: 93,           "lo": {
+             start": {
+                 line":10,
+              "coum" 4
+            },
+              "nd":                "lie": 10
+               "cmn: 34
+              
+          ,         accessibiy": "private",
+           "sttic: fls,
+             "key: {
+             "typ":"Identiier
+           start": 27,
+         "nd" 77
+          "lc: 
+              "start: {
+                  "line":1,
+                  column" 16
+            },
+               "end:{
+                "line": 10,
+               "colmn": 18
+              ,
+             "idntifierme": "i"
+            },
+            name": pi"
+            },            "puted":fals,
+             ind": "ge"
+           "id": nul,
+          "gnrator":fals,
+         "sc" as,
+            "pams" [],
+           "bdy": 
+            "type"BlockSatee",
+             "stat": 280,
+          "end": 2,
+           "loc": 
+               "start":{
+              "lie 10,
+                 lumn": 21
+               },             "end": 
+                 lie": 10,
+                   "olumn": 34
+             
+             },
+               "bod:[
+             {
+                "ty" "RetunStatent",
+                 "start":22
+                 "nd":291,
+               "lo":{
+                  "star: {                   "lne": 10                      "olumn": 23
+                   },
+                end": 
+                 "lin": 10,                 "column" 3                    }
+                 },
+                 "argument {
+                 ype":"umericiterl"                  "start29,
+                  "nd": 20,                  "loc": {
+                   "srt": {                    ln": 1
+                      colmn": 30
+                },                     e":{
+                     "lin": 10,
+                      "olumn": 3
+                    }
+                    },
+                 "extra": {
+                 "rawValue" ,
+                   rw": ""
+                   ,
+                     "value": 0
+                }               }
+            ,
+             "dirctives": []
+           
+         }          ]       }
+       leadigComents" [
+                  "type": "Commentine",
+          "vle": " opy of ifis-etodswih 'get'",
+        "stt: 0
+        "end": 3          "loc": {
+         "sat": 
+              "ie: 1,
+           "clun": 0
+           ,           ed: 
+           line" 1,
+            "column: 39
+            }
+        }
+          }
+    ]   }
+  ,
+    "drctive": ]
+  },
+  "ments: [
+   {
+    "pe": "CmmentLine",
+      "valu":" Copy f mifirmethods wi 'get'",
+      "star": 0
+    "nd" 9,
+    "loc": {
+      "start": 
+       "lne 1,
+        "colun: 0      ,
+    "end":{
+         "ie" ,
+         "lmn: 39       
+     }
+    
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "ye" File",
+  "start": ,
+  "ed":14
+ "loc": {
+   str": 
+     "line" 1,
+     "column": 0
+    },
+   "end": {
+   "ine":1,
+    clun":1    }
+ },
+ "prgm": {
+   "type": "Progrm",
+  "tat": 0,
+    "e": 14,
+  "loc": {
+    "stat:{
+      "ln": 1,
+        "oumn": 0
+     },
+     "en" {
+       line:1,
+       "clm": 14
+      }
+   },
+   sourceype": "cip",
+   "dy": [
+     {   "type":"Eressionatmen
+        "sa": ,
+       "en": 14        "loc": 
+         "sta": {
+         "ne": 1,
+          "cumn: 0
+          },
+         end": {
+          "line": 1,
+          "umn": 
+        }
+      },
+        "expresio"
+         "tye": "ArrwunctonEpresion,         "strt": 0,
+         "end" 13
+         "loc": {
+         "start":{
+           ine":1,
+             "lun": 0
+         },           end: {
+           "lie": ,
+            "cmn": 13         }
+          },
+        id: null,         "gnerator": false,
+        "asyn": als,         "par" [
+          {
+           "ype" "rrayttern",
+            start: 1,
+             "ed": ,
+          lc"{           "tart": {              "ine": 1,
+                colmn":          ,             "en": 
+           "line": 1,
+               "cumn": 9
+            }
+          
+           "elements [
+             {
+                  "te": "dentifier,
+                "tart" 2,
+                "nd": 3
+               loc": {
+               trt: {
+                ine"1,
+                    column": 2
+                },
+                  "end" {
+                 lin" 1,                   colun: 3
+                }
+                 "denfrNe": "a"
+               ,
+                "name""a               ,                          "tpe":"RstElement",
+             "sat": 4,
+             en":8,
+                  "lc" 
+               "strt": {
+                   line": 1
+                "clumn": 4
+               },                "en: {                  "ine": 1
+                  "lumn": 8
+                
+              },              "argument" {                   type": "dener",                 "start": 7,                 "d": ,
+             lc":{                  trt":{
+                   "line": 1,                     "clmn" 7
+                   },
+                 "ed: {
+                    ie": 1,
+                     "colmn: 8
+                   }
+                "idenifeName": "b"
+                },
+               "name "b
+               }                       ]
+         }
+         ],
+        "body:{         "ye": "NuriLiteral
+        "st": 12
+         "end": ,          "lc": {
+         strt": {
+             "ie": ,
+            "olumn": 2
+            ,        "nd":{
+               "line": 1
+           "column": 13
+                  }
+       "xtra: {
+           "awVaue": 0,
+            "ra: "          }
+          value": 0
+     }
+      }
+   }    ],
+    "directives": []  }
+}

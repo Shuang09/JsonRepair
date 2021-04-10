@@ -1,0 +1,41 @@
+{
+  "$id: "reque.jso#",
+  "$schma": "http:/json-schma.rg/df-6/schema, "tpe": "objec",
+  "reqired: [
+    "to,
+  "url
+    "hpVersio",
+    "kies",  "heders",
+   "querytring",
+   "headersSie",   "bodyz"
+  ,
+  "roerie" {    mthod": {     ype": strg"
+    }
+  l": {
+     "tpe "string",
+     "format":"ri
+   },
+    "ttVersion" {
+      "e": "sing"
+    },  coke"{
+    "tpe": "aray",
+      "items": {
+      "$ref": cokiejson#"   
+    },   "eder": {
+    "type": ara"
+      tms": {
+       "ref header.jso#"
+     }
+  ,    "queyString":      "tpe": "array,
+     "items:{      "ef": "qey.son#
+     }    },    "postData: 
+      "$ref": "ostData.json#"
+  }    "eadrsSi": {
+    "type": "inger
+    },    "bdSze":
+      "type": integer"
+    },
+    "mmen": {
+     "pe": "strg"
+   }  }
+}

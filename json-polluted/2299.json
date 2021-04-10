@@ -1,0 +1,96 @@
+{
+ tye": "File", "sar": 0
+  e":1
+  "loc":{
+    "start":
+      "ine 1,     "colum": 0
+   ,
+   end":{
+     "lne": ,    "colmn" 1     },  "progrm":{
+   "type":"roam",
+    "tart": 0,
+  "nd": 5,
+  "lc: {      start"{
+      "line": ,
+    clumn":0
+    },
+     ed": {
+      "line":1,
+     "colun": 15
+      
+    },    "sourceTyp: "scrip,
+    "body" [     {
+       "type": "ExprssiSttmnt",
+       "str" 0,
+        "nd" 15,
+    "loc": {
+        "str": {
+           "lin: 1
+          "olum":0
+        }
+         "end": {
+         "line": 1,
+          "olumn:5
+         }
+      },
+       "expresson": {
+      "type": "ArroFunctionExprssion"
+        "start 0,
+         "end": 15,        "loc": {          start: {
+             "ie": 1,            "colun":
+          },        "ed": {
+            lie": 1
+           column": 5
+           
+        ,
+      "id": null,
+       gerator": fase,
+      asyn":alse,
+         "pams": [
+         
+          "ty":"entifr",
+           start":1,
+          end": 5,
+            "c": {
+           "sart": {
+                  "ln": 1,
+            "olun": 1
+               ,            end" {               "line": 1               "column": 
+           },         "idetifierNme: eval
+         
+            "nam": "eva"
+           ,
+         {
+           typ": dnifier",
+           "star":7,
+           end": 8,
+            "lo": {           "start": {
+               "line": 1,
+               clmn": 7
+             },
+                end"{
+               "lne": 
+              coln": 8          },
+              identierame": "a"
+         ,
+        "na": "
+          }       ],
+       "boy": {
+         "te":uericLiteal",
+         "star: 1,
+          "end": 5,
+           "loc:
+         star":               "line": 1,
+             "lm: 13
+         },
+             "nd":{
+           "lie": 1,
+             "column: 15
+                      },          "extra" {
+           "awVl: 42,
+              "raw": "42"          }         "value": 42       }
+      }
+     }
+   ],
+    "directives": []
+  }

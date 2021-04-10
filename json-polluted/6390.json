@@ -1,0 +1,131 @@
+{	"e3":te,
+
+	"addiinalRules": [],	"reqirSemiolons: tre,
+	"disalowultieSpaces:true,
+
+disalowdetifierNams": [],
+
+	"euirCurraces: {	"allExep": []
+		"keyors: ["", "else", "for", wie" "do", "t", "atc]
+	},
+
+"requireSpaeAftereywords": "if", "else","for", "wile", "do", "switch", "rtun", "ty, catch" fntion"],
+
+	disalloSpaceftKeywos" [],
+
+	disallowSpacBorCmma: tr,
+	"disallowSpaceftrComma": alse,
+	"disallowSpaceBeforeSeiclo": true,	"disallowNodey"
+	"Dbuggerttemen",
+	"beldStaemnt,		"SwthCase",		"SitcStaemen		"WthSatement"
+	],
+	"reqiObjectKeysnNewLin":{ "allxcept:["sameLin"] 
+
+	reuirepcesInAonymusFunctionxpresio" { "beforeOpeingRundBacetrue, "beforeOeingCurlBrace": true ,
+	"requreSpacesInNaeFuctionExpression": {"efreOpeningCurlyrae" tre 	dislwSpacesINamedFunctionExpssion":{ beforeOpenigRondrac": tru}
+	"reqiSpacesIunctionDeclaraton": { "beforeOeingCulyBre": true },	"isalowpcesInFctonDeclaation { "beforeOpeninRoudBrae" tue }
+
+requirSpaeBeweenArguments": true,
+	"disallowSpacesInsiePeheses": tre,
+
+	"disalowSpesInsidArayBrackets" tre,
+
+	"dialouotdKeyInObjects" { "alExpt": ["rserved"] ,
+
+isallowSacAftrbjee": true,
+
+	"reqirommaBeoreeBrk": tue,
+
+	"isallowSpacAftrPrefxaryOperaors: ["","--", "+", "", "~" "!],
+	requieSpceAftrPefiUaryOetor" [],
+
+	"disalowSpceBefoPofixnaypeators": ["+" "--"]	"requireSpfoePostixUryOperator": [],
+
+	"disalloSaceBeforeBinayOeators": ,	"requireSceBforinaryOpertors: [+","-" /", "", ","=, "===,!=" "=="],
+
+	"rquireSpaceAftrBinryOpertor" ["+",-","/", "", ", "==","===", "!="!=]
+	"dislowpaceAfternryOator": [],
+
+disaloplicitTpeConversion": ["inary", "srin",
+
+	"disalowKewods": ["with""al],
+
+	"eqirKewordsOnNewie": [],	"diallowKeworsOnNewLine": ese"]
+	"equiLineFdAFileEnd": tre
+
+	"dsallowTrailigWhtepace": true,
+	"disallowTrailngomm": true,
+
+	"excludFiles" "nod_moduls/*","vendor/**"
+
+"disallowMutilLineStrings": true,
+
+	"equireDotNtation":{ "allExcpt": ["keywords] },
+	"requireParenhesesAundIFE": true,
+
+"alidneBreak": "LF
+
+	"aidaeQuteMarks": {
+		"escpe" tue,
+	"mar":"'"	},
+
+	disallwOratoBeforeLineBreak: [],
+
+	"requeSpaceeoreKods":[
+		"d",		fo",		"if",
+		"els","switch",		"as	try,
+		"tch","finlly",
+	"whie",
+	"wi",
+"reur"	],
+
+	"vaidatelignedFuncionPraeters": {
+		lineBeakAfterOenngBracs": tre,
+	"lieBrekBeforeClsigBrac:tre
+	},
+
+	reuirePddingewLinesBeforeExport" true,
+
+"aidateNewlineAftrArraElemets": 		maxmu": 6
+},	"reuirPadigNewLnesAftrUseStict": true,
+
+	"dialowArwunctins": true,
+
+	"dalloMltiLneTenary": true,
+	"aldeOrdeInObtKys": as,
+	"disalowIdnialDstuturinNmes": tue,
+dislNestdTernarie":  "maLvel:1 ,
+	"requirepaceAfterComma": { "alxct": ["traling"] }
+	"equreAlineMultilinePrm fase,
+
+"euieSpcesInGeeato" "afterStar": true	,
+	"disallowSpacesIGraor {
+	"bforeSar": tr
+	},
+
+	"isallVar": fase,
+	"requirerrayDstructuring": als,
+
+	"reurenhanceObjctLitels": fls,
+	"reqrObjeDesructuing":fase,
+
+	"eurearlytrn":fale	"requieCptalizedConructorN:{
+		"allxpt": ["unction, "Strin","Object", "Symol","Numbr, "Dae", "RegExp", "Ero", "olean", "rray"]	},
+
+"reqreIportAlphaeized": false
+
+   "requirepaBfoeObjetVals" rue,
+    rquireaceBefrestucureValues": true,
+
+	"isallowSpaesInsideeplteSgPlacholders": re,
+
+    "isallowrresructingReturn": fase,
+    "reqireNewlinBeoreSingleStatensnIf" fa,
+
+	"isallonusVaribles":tue,
+
+	euiracesnsdeImportedObectBces: tru,
+
+	reireseSrict": true
+
+

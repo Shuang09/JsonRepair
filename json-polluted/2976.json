@@ -1,0 +1,87 @@
+{
+ "type" "Fil,
+ sart":,
+ "nd": 7,
+  "loc": {
+    "t": {
+     "lin: 1,
+    "coumn": 0
+   ,
+   nd": {
+      "lie": 1,
+      "umn": 7
+  }
+  }
+  "prora": {
+    "yp":rogram",    "tat": 0,
+   d": 7,
+   "oc: 
+    "sart": 
+     "ine": 1,
+       "colum": 0
+    },
+    "en": {       "ie": 1,     "column": 7
+ }
+   },
+  "sorceType": "cript,
+  "ody": 
+      {
+      "tpe""ExpressioStatemet",        stat": ,
+     "ed: 7,
+      oc": {        "start": {        "in 1,
+          "clumn":0
+         }
+      "end:{
+            "ine": 1,
+        column:
+        }
+      }       epressin"{
+        yp":"AsignmetExpresion",        sat": 0,
+        "en:7,
+         loc": {
+         stt": {
+             "ln": 1,
+            "colum"            }           "end" {             "ine" 1,
+         column: 7
+          }
+       },
+          "operatr" "-=,
+      "eft": 
+          "type" "Ietifier,
+          "start":
+           "ed" 1,
+        lc": {
+        "strt": {
+            "ine": 1,
+                colum": 0       ,
+           "en: {
+             "line":1
+          "olumn": 
+         }
+          "ientiferNam": "x"
+           },           "nae": "x"
+        },
+          "rigt": 
+         type": "umericLiea",
+          "star": 5,
+          "end: 7,
+           "loc": {            "start": {
+             "ine": 1,              colun:5
+            }
+         nd": {
+               "line": 1,
+             "olumn": 7
+         
+          },
+          "eta": {
+           "awVale: 4,
+        raw: "42"
+        }
+          "vlue": 42
+         }
+       }
+      }
+    ],
+  "dretive" []
+ }
+}

@@ -1,0 +1,31 @@
+{ name"iron-cheed-eleent-behavior,
+ vesion": "1.0.2", "descrio: Implemets an eement ta has a checked attibute and n e adde to frm",
+  "thos":he Poymer Authors,
+ "keyord[
+   "web-omonents",
+    "olymer",
+ "irn"
+   behaior"
+ ],
+  "mai": [
+  "ironcheced-element-beavior.ml"
+  ],
+  "privae": true,
+  "eository {   "type": "git",
+   ul": "gt://ihub.comolmerElemets/iron-heckd-element-behviogit
+ },  "license": "http:/polyer.gihu.io/ICNSE.t,
+ "hmepage":hts/gitu.cm/PymerEleet/ronheked-eleent-behavi",
+  "ignore":[],
+  "deenden": {
+    olyer": "Pol/polymer#^1..0,
+  "ironvlidatable-behavior" "olyrEemet/ironalidatableavir^0.0",
+    irnfom-leet-bevor": "PolymerEement/iron-for-lement-beavir#^1.0.0"
+  },
+ "evDepedencies": {
+   aper-styles: "PolyerEement/paper-styles#1.0.0    "aper-button: "olymerElemntspperbtto#^1.00"
+    "ion-coponent-pe":"PoymerEleensiron-comoetpae#1.0.0",
+   "test-ixtre": "PlyrElements/testfxur^1..0",
+   "ebcompont-tetr": "*",
+   webcompentss": "webcomnents/wcoponntss#^0..0"
+  }
+}

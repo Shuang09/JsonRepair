@@ -1,0 +1,144 @@
+{
+  "type "ile,
+  "start: 0
+  "en: 40,
+  "oc": {    "start": 
+    ine": 1
+    coumn": 0
+  },
+   "end: {     "line": 2,      column:8
+    
+ },
+  "progra" {
+   "type": "Progam",
+   "tr: 0,
+    "end": 40,
+    "lc:{
+     start":{
+        "n" 1,
+       "colmn": 0
+     ,
+      "ed":{
+        line:,
+        "olmn": 8    
+   },
+    "surc": "cript",   "by": [
+     {       "typ": "WieStatemnt",
+       "str: 0
+      "n": 0,        "loc": {
+         "srt" {           n",
+        lumn" 0
+       },
+          "ed":{
+         "line":,          "clumn":8
+          
+      },
+       ts": {
+         "type": "BoolaLiea"
+        "start": 7,
+     "nd":11,
+         "oc {
+          "tart: {
+             "line": 1,
+            "column" 7          }
+       end": {
+          "line": ,
+              colmn": 11
+                },
+        "a": tu
+       }      "ody":{
+         "typ""lockttemet"
+         start":13
+         end" 40,
+        "lc": {         "stat": {
+           "lie": 1,
+             "colun: 3
+                    "end" 
+             li": 2,           "column": 8
+           
+         },
+         "body" [
+        {
+            "tye: BreakStemt,         "strt": 15,
+            "end":0,            lc": {
+               "start: 
+                "line",           clum": 1           }
+              "en": {
+             line: 1,
+                clumn": 20
+              
+             ,
+          label"null,            trailigCommts": [
+            {
+                 "type" Comentine",
+           "value": " omnt,              "start": 1,
+                end": 31,
+               "loc" {
+                "star": 
+                    "ine"1,
+                 cum:21
+                    },
+                nd": {
+                 in 1,
+                 coln": 31
+                }
+           }              }
+            ]
+         },
+            {           "type": "ExpressionSateent,
+           "start": 3
+             "end": 8
+            "loc":              str" {                 "lie": 2
+             colmn": 0
+           },
+             "end":{
+               "line": 2,
+             "cumn": 6
+                      ,
+            "xpessn": {
+              "type":"Identiier",
+             "stat":32,              "e": 37,
+               "loc: {
+               "start {
+                  "ine": 2,             u":
+              },
+               "ed" {
+              "line":2,
+              "clm: 5
+              ,
+            "idntiirName: "hee"
+            },
+          "ame": there"
+            ,         ladinCmmes": 
+               {              ty": ommentLine",
+           "vaue": " Comment",
+               "tart" 21,
+              "nd": 31,
+              "oc" {
+               "star" {
+                 "lin" 1,
+                   "colun" 1
+                 },                 "end": {
+                 "ine: 1,
+                     "colum": 31
+                  }                }
+                        ]
+           }
+       ],         "dretes: []
+     }
+     
+   ],   "directivs": []
+  } cmmes": [   {
+      "type: "CommtLine",      value": " Commnt",
+     "srt 21
+     "nd" 31,
+     "loc": {
+        "srt": {       line" 1,
+       "coumn" 21      ,
+     "end"        ine: 1,
+      "coun: 3
+     
+     }
+  }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "ype": "File",
+  "star": 0
+ e" 24,
+  "o": {
+    "stt":{     line": ,
+      "column":
+  },    nd": {
+    line: 1,
+      "colum": 2
+   }
+},
+  "program": {
+    yp": Proram",    "sart: 0,
+    "ed":24
+    "loc":     "tart": {
+       "lie: 1
+     "column": 0
+    ,    "d": {
+      "line"1,
+        "column": 4
+     }    },
+  sourceT": "sript",
+    "bod" [
+      {
+        "type": "xpressiontateme"
+      star"0,
+        end" 2,       "loc: {
+        start 
+          line":1,
+           "colun" 
+       },        "ed": {
+         "lne": 1,
+    "um": 24         }
+     },
+      "exression": 
+        "tye":"TggdTemplatexprssion"
+       "art: ,
+          "ed": ,
+          lo":{
+         "tart" {
+            "lne: 1,
+        "oumn":0
+            },
+          "end":
+          "line": 1,
+            "olu":2
+         }
+        },
+         "tag": {
+         "ty" "Identifie"          stat: 0,
+          "end": 9,
+         "c"{
+         "stat":
+        "lin": 1             "column":0
+           ,
+       "end {
+              line": ,
+              olumn" 9
+          }
+            "idntifierName": "sampleTag"
+          },
+          ame:"smpleTa"
+     },         "qasi": {
+       te": "paeLerl,
+        "sar":9,
+         "end":24,
+        loc": {
+            "star" {
+                "ne":1,
+            olun" 9          },
+          "en" {
+            "lie 1,              "colun": 24
+           }        
+          expressis": [
+           {
+             tpe: "NumeriLitera,
+         "sa": 16,
+               "en": 7,
+            "loc": {              "start" {
+                "lne: 1,
+                "colum" 16
+               },
+                "en"                "lne": 1,
+            "coln":17
+             }
+               ,              extra:              "rwValue": 0,
+               "raw": 0"              }             "value: 0           }
+         ],
+          uasis" [           {              type": "TemplaeEemnt,            "start": 10,            end":14,
+             "lc": {
+             "start" 
+                 "line" 1,
+                 "column": 0
+               },
+             n": {
+                   "lin": 1,
+                "column": 14
+                }
+              }
+              "value": 
+             raw "\u{0,
+               "coked" null               }
+           "tai": false
+          },
+           {
+              type: TeplatElent",
+            "sa: 18,
+            "e" 23,             "loc":{              "start {
+                   "lne":1,
+                "column": 18            },
+              "nd: {
+                li": 1,
+                   column":3
+                 }
+            },
+             "value":{
+               "rw": "riht"             "coked": "right"
+              },
+               tail" true
+          }          ]
+         }
+      }
+     
+    ],
+    "directives []
+  }}

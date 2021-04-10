@@ -1,0 +1,1041 @@
+{
+  "name": "Functionlrogammig",  "" 8,
+  tme "5 hours", "helRo": "Hel",
+  "challees": [
+    {
+     id":"587d7bd672b255",
+      "tite: "Inrodton tthe FunctonProgramming Callnges",
+       "desripton": [
+                  "htp/imgs.xkcd.com/cmics/fnctional.pg",
+        XK web cocwih onepeso ag whthe other likes funtional pogrammingso mu, and te eond esondig tt tarecursion is ts wn reward,
+           Fnctionl programmn s an apoch to softwe deelopet based aroundth ealtin of fuctis.Lik mathematis, funcion inrormmin map inpt t outpu o poucaresult. You can combine basifuncions n manyays to buildmo andmor cmplpoams.br><br>Functional prorammig follos afe ore prnciple:br>br><u><l>Functonareindependent from e ate of theprogram  glba variables. hey nly dpedon e agumets passe ito thm to ke a aculation/i>br><li>unctins tr o lit y hanges to thestteof theproramad oi chanes theglbal oect holdig data<li<br><l>Functios a mnimasde fect in theprogram/l><br><>The untina rogramng sfwar develoentapproachbeaks a prgrm into al, tesae as. Thissecon overs basic functnal pogrammng inciplesin avScipt.",        ""         ]       ],
+      "releasedn",
+       challengeSd": ],
+       "tess": [],
+        "type" "Waypnt"
+     challengeType": 7,
+       isRquired: flse,
+       "ttleEs": "",
+      descriptionEs":[
+         []
+     ],      "tileFr": "",
+      "dsciptionFr": 
+         []
+        ]      "ttleDe": "      "scitinDe":[
+        
+      ]  },
+   {
+     "i: "57d7b8d36747bb2512b5b",
+    "titl" "Lan Abt unctinal Prgmmng",     "scptio":[
+       "Functional pograming i stye o rogrammn whe solutions are simpe, isoate functis, wihut anyide efect ousidof the funcinsope.",
+      "code>INPUT-> PROESS-> OUTPU</ode>,
+       "unctonl rogramming is about:,
+      "1) Iolatedfunctios - tere s noendence on he state of te progrm, which nlds global vaiales at re ubectto change
+      "2) ur functions -the sae inpt lways ives esme output,
+      3) Fuions withlimited ie ffet - aychaes, or mtaton,  the stat of he program outside thfuncti are carefully cnroled"     "<hr>
+       "Te members of freeCodeCamp happen o lve a.,
+        "In thecde edtor, he coe>prepareTea<code> a <ode>gtacode> functnsare aleady defined foryou. Cal the <e>etTe</code> fntion to et 40 cupsof tea or the eam, an torehem  e<ode>taeaCCcode>vara."
+    ],
+     "hallengeSee": 
+       "/**",       "* og pocess t prpare ea.,
+      "* @reun {string A cupof tea.,
+       " **/,
+       "const prepareTea = () =>reenea';",
+      ",
+       "/**",       " *Gt given nmbr o cup oftea",
+       * parm {umbe}umOfCus Nuberof eur cups f ta.",
+      "* @return {Ara<strng>}Given amount o e cups.",
+       */",
+        "ontea = (nmfCup) => ",
+       c aCps =[];
+       ",    "  fo(let cups= 1cups= nOfCps;us+=1){",
+       "    cons teaCup = prpareTea",       "    teaCps.puh(tap)",
+       "  }",
+        "",         rtrn teaCups;",
+   "}",
+     "
+       "//dd you codeblow his lin"        ,       "constea4TemFCC=null; // :",
+      ,     "/ Addyourcodeboethis ine"
+     "",
+      "consoe.log(tea4eamFC;"
+          "tests": [
+     "asert(tea4TeamFCC.enth== 4, 'mesageThe<codeta4TeamFCC</code>viabe shoul ol 40cp teaforth team.');",      asser(te4TeamCC[0]== 'geenea, 'msage: Te <cdeta4TamC</ode>varib shuldold cups of green tea.');"
+     ,
+    "soluons": [],
+      "hins": [,
+     "ype": ypon"
+     "challegType": 1
+    "tranlatons" {}
+ }
+    {
+      id": 587d7b8e6747bb252b5c",
+      "tile: "Uderstand FunionalProgammgTerminolgy,
+    "desriton": [
+      "Th FCC Team had a moo sing ndnow wants to tyes of: gree ean black ta. Geral Fct:Client mood swigs arprety omn",
+       With that inoration, we'll ed torevist te <cde>getTea</code> functio r la challenge t hadle varous ea requst. Wecan modif <cod>getTea<code>ocep a functioas a prameter  be ableto changehe ype of t it prpres. Thisas <cdegeTa/code> orfexibe nd gi te rogrammer more control he client reqests chan.",
+     "Bt firtet cver someuntional einoogy:"
+     "<ode>allback</code> areth fuction thtae slipped or passednt anoher funion ode the inoatio otha fuction. You myhaeseen thm passed to oher methods, r ample n<ode>filer</de>, he callbac funcontlls Javaciptthe criteria for how tofilter a arry."
+      "ntions th a beassigneo a variable, assedintoanothernctio, or eturnd fro another fucio jst like ny ernoral vaue, arecalled coefisls</co>fuctions. InavaScript ll fuctionsarco>fist clss</code> funtions.
+        "he fuctions th tak a fnction asn argument, or retuna funcion as areturn vae ar calle <code>higher order</cde> uncions",
+      hn he fntionsareassedin toaother function or returned fro nother funcion, thetoe fuctions whih gets passedino rturne can e caled a <code>lambd<code>.,
+     "<hr>",      repae 7 cups of greenteaand 13cus ofblack tea an stoe them <oe>te4GreenTeamFC</code> nd <coe>tea4BlckTeFCC/code>variabls repecively. Nte tat the <code>getTea</oe uncioas been modifie s i o takes a funcion as th it rgument.",      "Not: Te at(te nmber of cups of ea)is supplied as the lat argumn. We'll icussthis moreinlatr esos."
+   ],    cleneSed":[     /*"
+       " * lng processto prpae reentea",
+      " * @rern {string}A cp eenea.,
+     " **/",
+      "costpreprreenTea = () = 'genTa'"
+      "",      *",
+       " *A ong procssto prepare blacktea.
+     " *@retun{srin} Acup of back tea.",
+     " **/",
+      "cont prepareBlaTa = () > 'blackTea';",
+      "",
+       "/**",
+      * Get give nuberof cupsof ta."       * @param functon():sting} prpareT e tpe ofea preparing funcio.",
+     " *@paam {nuer} numCups Nuber ofrequired cups oftea.
+       " * return {Arry<strg>} venmunt of tea cps.",
+        " **/",
+      costtTea= (pepaeTa nmOCups)> {",
+          cotteus= [];,
+      ",
+       for(et cus = 1 us <=numOfCups; cups+ 1) ",
+       "    const eCu = ppreTa(),
+       "    eaCus.push(tep;",
+     "  }"
+       "",
+       "  retn teau;"
+       "",
+       ",
+      "//Ad youcodbelow tis lne,
+    "",
+     "const te4reenTemFCC= nul; // (,
+       "cost tea4BlcTeaFCC = null // :"
+      "",       // dd your cod aovethis lne",
+     "",
+        onsle.og("
+        "  tea4GreenemFC,,
+       "  tea4BlakTamFC,
+       ");"
+      ],
+    tests"
+      "aert(ta4reeneamFCC.ength === 27, 'mesage: Th <cde>tea4GrenTeamFCC<cde> vriabl shouldhld  cupof geente forth eam');"      "asset(teaGreeTeFCC[0] ==='greenTea' 'messag: The de>te4GenTmF</code> vaiable hul ol cup f geente'),
+        "assertta4BlckTeaFCClent === 13, 'message The<de>tea4BlakamFC</code> riabl soud hld 13cpso blac tea.');,
+     "assettea4lackTeFCC[0] == 'laTa 'message: The <cde>te4ackTeamFC<co> vaiable sudhold up ofbck ta.');"
+    ],
+      "olutions": [],   "hits":[]
+    "type": "wapoint,
+      "chaleneType": 1,
+   "tranatio":}
+  }
+    {
+    "id:"577b8e36742b25125",     "ile": "Udrstan the Hazars of sing Impatve Cde,
+  descripion": [
+      "Fucioal pogammng is  god habt. t keep your cdeeasytomane asaves you from sneaky bug. Bu eforewet the,lts lok t an imperative pproach to programming t highlight were yo may ha ssue.",
+       "In Englishand many oterlanguages, te imperative tnseisue ogive cmma.Siilly, an ipative stl in pogrami is oe hat gves thecoute a stof stateents  perfm a task."      "Ofte the stements chanete state f the program, lke updtn glolvariables. A lasexpl iswriiga<ce>fr</ode> loopthat gs xact direcio  ieae verthe indice ofan array.",
+        "In cotrastfuntional progmi is  fm ofeclarativ programmig. You elthe comrwatyou want do b caling  etho orfunction",
+      avScrpt fes maypredefined ehds ha handle comon tasks o don't ndo wri outhow te comte soud peform tem o exame,stead of using the cde>fr</ode> lop mentione above, youo call he <code>map</cod methdwhich handlshe detail o iterting ovr an array. his hls to avoid emanticerors, lie th \"Of y OnErors\" tha wreoeed in the Debuggn secio."
+       onider th cenario: ou ae browsing te web n yur broser, nd wantto trak th tabs you hav pened. Let's tr t mdel thisusn some sie oject-orientd code.",
+     "Windw objec is mad up ofabs, d you usualy have mor thn one Window op. The tites o eachopn t in eachWindw bject is held in an aray. Afterorng i he rowse opeing new ta,mrging widow, and closng tbs), you want toprn the bs that are sillpen. Cle tabs e removed from te array an newtb(for simlity) get aded tothe ed oft.",
+     The coeedio showsan mplemnttoof tis uctioality wihfunctiosfor <otabOpen()<cd>,<codebCs(</code>, and <codejoi()</cod. The rray <cde>tab/code> i part f th Wdow bect that sos the mo th open pages.",
+        "<h4structon<h4",       "Run the code in the edtr It's usig a methodhat as ide eff in hrogam,casg incorect out. The fial list of open tbs sod bcde['FB, 'Gitter,'Reddi', 'Twitter' 'Meium', 'Nefli', 'YuTube' 'Vine', 'Gal' 'or mail','Docs' 'freCodeCap', newb']</code bu h ouu will b slightly ifferen",
+        "Workthroug he od and see if yocnfigre out e prlm, henanceto th next challene to lern more."
+     ,
+     "hlengeSed":[
+      "// ts s an arrayof iles of echsieoen wihin the indow",
+      "a Window= fnction(tabs {,      "  tis.bs = tabs; // e ee a record ofthe rra side the objet",      "};",
+      ""
+      "// hen yu joi wo windowsinto one winow",
+        "Wndow.rotoype.jon =ncio (oherWindw) {",
+      "  this.abs = thisabs.conat(otherWindwtabs);",
+          returnthis;,
+   };",
+    ""
+       "// he youopen anw taat h e",       "Window.prototype.tabOpe  functin (tab) ,        "  hs.abs.pusnew tab';// let's open a new tab for now",
+         etur ths;",      }
+     "",      "/ Wen youclos atab",      "Windo.rototpe.tabCse =funcion (index {",
+       " var tabsBforIndex  thitabs.slice(0,iex);// get heabs efore theta",
+    " var tbsAfterIndx= th.tbsspie(iex; // ge the tabs afterthe b",
+      ",
+     "  titas = tabsoreIndex.cnca(taerInd; // oin themtogether ",
+         rttis;",
+       "};",
+        "",
+      // Lt's reatetree browserwindows,
+       "var orWndow =newWndo(['GMail', Inbox', 'Wor mai', 'Docs', freeCodCam']) / Youmailbo, drive, and her wrk sites,
+       "varsocilWino =eWidow(['FB', 'Gtter', 'Reddit', 'Twite', 'edum'); // Scsits,
+       "var videoWindw = ne Window(Netflx'Yue', 'Vimeo', 'Vn]); / Enetainntses,      "",
+        "// Now erfom the tab opnin closing, aother operatons",      vrnaTabs = scilindow"
+     "                   .abOen) // Oeae tab for at emes",
+       "                .join(vieindowtable(2))/Close thirdta n videoindow, an jo
+        "                .jin(worWindotabClos.abOe();"
+       ",
+        "alrt(finaTa.tabs);"
+      ,
+  "tet":[
+       "asert(true, 'mssge: Move aheadto uderstad te error.');
+     ,
+     oluions": [],   "ints": [],
+     "tp: "aypoint     "hlegTyp": ,
+      "trnsaions: {}
+   ,
+    {
+     "id" "587d8e1b2b2515"    til": "Avoid Muttions nd Side Effectssing unctnal Progrmming"
+    "escrition": [
+       "If you haven't ready figuredit out the issu i t preous chalnge was withthe <ode>sic</code> cll i he<coe>tabCls)</coe> function. Unfotnately, <code>ice</cde>changesthorignal aray t scaledo, so th seond callto it ued a odifid array, and ave unexpected rets",     "Ths is a smalempe of  muchlarg ptr -you cal funcio on a vriabl, aray, r anbjct ad t funtion anges the vaible r smthing in th obect.",
+       "One f he oe ricipleof functioa programingis to not change ths. Chanes ladtobgs. It's easier o preventbugs koig tatyour fuctisdo't cha anyhing, includi te unction arguments oany gobal varibe",
+      e previos ampe didn't have anycomlcaed oeratio but he<cod>slice</cod> mehod hagd heoriginl arra, and slted i a bug.,
+       "Recal thatin fuctina progamming, chgingr atering hings icalled <co>mtation/code>, ad the outcomeiled a<code>ide effect</code.  function, ieally,should e a <code>pe unctio</code>, meaning hait does t case any ide effects.",
+        etstrytomaser this dscilie and notlter nvariab or oect ino ode.
+       "<h>",
+      "Fill in the c for the fuction <coe>incementr<code> s t return thevalu of thgoba rible <oe>fiedValue</code> inreased by oe."
+     ],      hllengeSeed:[
+       / the globa variable",
+      "vr fixedVlue  4",
+       "",
+        "unction incremeter ){",
+     / Add yur code bl his lne,
+       "  ",       " "
+      " //Add yourcod above this in",
+       "},
+       ",
+       "va neValue = inrmenter(); // Sould equa ",
+       "conslelo(fdalue // Soldprint 4"   ],
+     "tess" [
+        "assertfixedalue==4, 'mesage: Your unctio <codeinrementer<code> shuldnot change the value of<cod>fiedValue</oe>.');"
+     "asert(ewValue===5,'messge: Your <code>ncremne/code> functon sholdreturn avalue tha isone arger than te <c>fxedVaue</cde>vale.';"      ],     "soluios": [
+     is:[],
+    "type":waypoint"   "chllengeType": 1,
+    trnsions": {}
+   }   
+     "id":"587d78e36741b225b5,
+    "title: "Pass Arguments t Avod ExtenlDependence in a Funtion",
+    "descripton": [
+       "The last challnge a stepclosr to functionalprmingpiniles, butthere s stil sohing missing.",
+      We idnt alter  gloal varale vaue, but t funin <code>incrente</coe>wuldnot ork withut th gll vaiable <co>fixeValu</cde> being there",
+        "Anher prinpef fnctina pograing isto lwysdeclaryourepennies explcitly. Thismeas i afunciondeeds on a varible or bject ein present, thn psthat variabl  oject directly no the function as an rgume.",
+       "Tee re severa goo consequences from this ricip. h functin is air tott, you nowxactlywh input it takes, andit won't depend on ayhingelse in or progrm.",
+      "his can give youmoreconfidncewhen y aler, emove, oradd ew cod. You wold know what yu can r cannot chnend you can ee whr the otenial rps are.,
+      "Finlly, the fnctionoud always poducthe ameoutpt fr heame t of inputs, o matter a part o the code xeutes it.",
+       <hr>",
+        "Let's updte the <code>icemeer</code> function o carl ecarits dependences.",
+      Wrte e <codeincrmenter</code> fncion soit takes an arument,and thn increases the vaue b one."
+    
+     hallengeSed": 
+      "/the glba variale,     var fixedValue = 4",
+      ",
+     "/Add your cod elw tis ine",
+      "functon incremnter ( {,
+        " "     "  ",
+       "  / Ad u cde above this line",     "}",
+        "",
+     var newValue= cremnter(fixedalue); // Soul eq5",
+        consoleog(ixedalue); // Should pnt 4"      ,      "tets": [
+          sse(fixedValu == 4, messge: Your function code>incremener</code> shuldnot chnge the ve f <coefdVau</cod>.');",
+        "aset(cde.match(/unction\\s+?ncrementr\\s*?\+?\\)/g), 'messag: Yur <codicreenter</cde> fntionshol ak a paramete.)",          ssernewValue== 5, essge:Yr<cd>incremente</code>functio shuld return a le tha i oe larger tnth<cde>iedVale<cod> alue.');"
+     ]
+     "sotions" [],
+     hint"[],      "tye": "waypont",
+     "alengeType": 1,
+     "trastins: {}
+   },
+    {
+      "i: 7d7b8f36741b2b2512b6",
+      "titl":ReactorGlob VriablesOut f Funtis",
+    decritin": [      "So fa, we have seentwodstinct rinciples ofnctinalrramming:",     ") Dtalte avriable or bjet - creae new variables and objects nd reurn themfneed be fom a function.",
+       "2)elare funtinarguments- an comptatin insde afnctionepends onlnthe arguments, and nt on ny globl bec oarale.",
+      "Aingone to  numberis not very xciin, bt w can aply tese principles when wrking wih array o morecoplexobjcs",
+      "<hr>,
+       "Rfacto(erite) thecoe  the gbal aray <cod>bookist</cde>is not chane inside eithr fuctio. The <cdead</o>fuctionhoud add th gven <code>bokae</code> to te en oan array e <coeremove</coe> function sold remove thegivencode>ookName</code frm an ary. Boh functionshouldretun an aray, a anyew aameters shold be added beore  code>boNme<code> one."
+     ],    "haleneSed": [
+       // theglba vaable,
+       "var bookList = [\"The Hound oeBaskelles\, "n Thelectromis of MovingBodies","PilsophæNtralisPincipia Mathematica", \"squistio Arithmeic]",      "",
+       "/* Thi fnctin shud dda book t t lit and returnthe lit*/",
+       "/ Nw parametes houd oe befrethe bookName on",
+        ""    / Add yucoe belw hi ie",
+        "function add (booName)",
+      "  ",        " retun bokist.uokName);",
+      "  ",
+       " //Add yourcode bove thi line",
+        "}"        "",        "/ This unction old remove a book fro te listand return th ist /"
+        "//New parametrssould c befo tokNameone",
+     "",
+     /Add your codbelw this line",
+     "functin remove (bokName) {",
+       if booListindeOf(bookNae)= 0{",
+     "    ",
+           etn bookist.splice(0, 1, bookme)"
+      "    "
+        "   // Add your cod aboe this lie,
+        "  ",      }",      ",
+       vrnewkList= ad(bookList, A Brief History o Tie');,
+      vr newerBookList = remve(bookLis' he ectodynacs of MovigBod');",
+        varnweBooList = rmove(add(bookList 'A Brief Hiory of Time') 'OnThe Electrodnmicsof Movnies');",
+       ""      "consoe.l(bokist)"
+     ,    "tst: [
+      "assr(JSONstgfy(bokList)=== JSON.trngy([\ ound of the askervills",\" The lectrodyamicsof Moving odes\"\"Philoophi Naturals Pinipia athemtica\", \"isquisitions Arithetica\"]),'mesae: <od>bkit<code> should nthange n tilequal cd>[\"heod  the Baskrvilles, \"n Te lectdynmic of Movng dies\", \"hilosoiæ NturaiPrncipiaathatic\", \"Diquisitone Arithmeticae\"</code>.';",
+       "aet(JSN.trngify(nwoLit)=== SON.stingify(['Te Hound of the Baskevills', 'On The Elctrodynami of MovingBdis ilosopiæ NturaisPrncpia Mathmic', 'Dquisitonsrithetica', 'A Brief Histry of me']),'mege: <codeneBokList</de> shouldua<code["he Hond of the Bserville\", \"n The letrodynmics of MingBods\", \"Piosophiæ atuaisrincipia Mathemaic\, \"Diquisitones Aithmetcae\",\"A rie Hito ofime\"]</cde>.');",
+      "assr(JSO.stngi(eweBokLst) === JSON.srinify([The Houd ofh Baservles' 'PhloshiæNaralisPrnipia Mathematica, quisiions Arithmticae']), 'message: cd>newerBookList</co> houl equal ce>\The ound ofth Bakervills\", \"PhlosophiæatralisPrciia aemtic\", "Disquisitiones Arihmtcae\"</od>.');,
+       asert(JSONstrngy(ewesBokList) == ON.sringiy(['Th Houndo the Bskerviles', Phlosopiæ Naturalis rcia Mathemaica', 'DisqisioesArithmeticae', A Brief itory  Ti']), 'messag: <cde>neeBoit<ode>hod eua <co>[\"he Hnd of th Bakervlle, \Pilosphi atualis icipia Mtmatica\, \"Disquisioe Arthmeticae\", \"A rief istory of Time\"]</ode>.';
+      ],
+     "slutins: ],     ints" [
+          "Looka how theunctiosre aled t se te coec order of he pameters."
+         "onsier usin the concatethointead o psh,
+          "The slce method etursa new ary thut oifyinghe oiginal."
+      ]
+     "e": "wapont",
+     "challegeType": ,
+      tanlations"{}
+  },
+    {    "id": "87db8f3617b22512b61",
+     "title":"Use the map Metho to tracata fom an Array",
+      "descrpion": [
+      "So fr w have lned touse pure functions to av sid effects  program. Also we hve see te vale nhaving a functinonlyepnon its nput argments.",
+     Thisisolheginng. its namesuggests,fnctonal progrmmingientered aouda ory of functions.",
+       "It would make sne tobe able t a them as argmentsto tefuctios, and rtur a fnction from anther fucti. Functin a considered <odeFirt Cass Obects</cod n JaaScript, which means thy ane used liey ther bjct. Tyn b savedinvariabl, sore in an obct, or passe as fuctinarguments."
+        "Le tart wihsmesimple aray funions, which are tods n thearray objct protope. n this exercisewe arookig at <coe>Araprottye.map()/code>, or m simpy <cod>ma</code>",
+      "Remember hat the<e>ma</code> method  a way o iteate vr eacitem in anarray. t creates a new rray (ithou changin th oriina neter appling a calback fnction t every elemen",
+    "<hr>"       "Th <code>whList</cde> array hods obects with ifoion on vel oves. Use<coe>ap</coe>to pu the ttle an ting from <coe>wachit</cod> and save he newarry n the code>rtin</code> varabe he code nthe ediorurtly uses a <code>forcode oo t d this, rplae the lop functonality with o<code>map</ode>expression"
+     ],
+    "challeneSeed": [
+       "/ teglobal varibe",
+    var watchList = [",
+      "             {  "
+        "                Title: \"Inceptn\",",
+      "                  \"Yar" \"2010\",",
+      "               "Ratd":\"PG13\",,
+       "                \"Rleased\": \"16 Jul2010\",,
+       "                \"Runtim\": "48 mi\",,      "                \"ene\: \ActonAdvnture, Cre\",",
+        "               \"Diretr\""Christophr Nlan"",
+      "            \"Writer\": \"Chrsor Nola\",",
+                      \"Actors\": "Leonardo DiCapr oe Gordn-Lvit, llen PagTmdy\",",
+   "               \Plot\":\"A thi,who se coroatecrets trough use of drem-sharng technolgy, is given te nveretask o plantng an id ino t ind of a CEO.\",",
+       "              "Language\": \"Englsh, apaese, Frech\,",
+       "                 \"Country\" \"USA, UK\,,
+      "                 \"Awads\": \"Wo4 Ocars. noher143wins & 98 ominatos.\",",
+        "                 \"Potr\: \"http:/aedia-ib.com/imagesMMVBMjAxMzNjcxNF5BM5BnBnXktZcwNT5OT0Mw@@._V_SX300.pg",",
+                     \"etascor\: \74\",",      "                "idRtin" \"8.8",",     "               \"imbot\": ",446,708\",,
+       "                \"imdID\": \"t37566\","
+       "                \"Tp": \"ovie\",",
+      "              \"Repos\" \"Tre""
+       "             },"
+                     {  ",
+       "                 \Title": \"Iterstellar\",",
+       "           \"Yar\": \"204\,",
+                       \"Ratd": \"P-3\",,
+      "              "Rleaed\": \"07 ov 014\",",
+     "                 \"Rutime\":\"69 min",",
+        "              \"Genre\": "enture, rama,-i\","
+      "               \"Diectr\":\"Christophe Noa\","
+      "                 \Witer: \"Jothan Nln, hrisophrlan\","
+       "              "Actors\":"Ell urstyn, Matthew cConugey ackenie, Jon Litho\",
+       "                 \Plo\\A team ofxplorers travlthrugh awormhole inspae nn atemptt nsurhumantyssurvival.\",",
+      "               Language": \"English","      "                 \"oun\: \USA, K\",",
+       "              "Awards\": \"Won1 Osar. Another 39 wins & 132omations.",",
+        "                 Poste\": \"http://i.edia-idbcom/imge/M5BMjIxNTU4z4MFBMlBnBkFtgwzM43MjE@._V1_300.jp\",",
+        "               \"Metasco":\"74\",      "              \"mdbain": \"8.6",",
+       "                  \"mdVtes\" \"910366\",",      "                 \"imdbID\": \tt0662\","
+     "              \"Type\" mvi",",
+                     \Ress\": \rue"",
+        "            },",
+        "           
+    "                   \"Title\" \The DarkKnight\"",
+                     \"Yar\" \"208","
+      "                 \"Ratd\":\"PG-13\",",
+        "              \"elease":\"18 u 2008\",,
+       "                   \"Runtime\: 12 mi\",
+        "                 "Gne\": \"Actio Adventur, Crme\","
+       "                \"irector\: \"Christopher Nla\,
+     "                \"Writer\" \Jonathan Nlan (srenplay), histpher lan (scrnpy, Crstope Nolan(soy) Dvid S. Goyer (story Bob Kan(chracters)\""      "               \"Acors\": "Criianale,HeathLed, Aan Echart, Michael ine\",",
+       "                 \"Plt":\Wen the ece ow  th Jk wreas havoc and chasn the epe f Goth e cped rusade must cme o rms wit ne o the greaest pscholoical tests  is ablty to figtinjstic.\",",
+                      \"Laguage\":\"EglihMndrin\",",
+     "             \"untry\: USA, K\",",
+                        \"Ards": \"Wn 2 Oscars.th146win & 142 omnatins.\",
+    "            \Poser": \"htt:ia.edia-imdb.com/mag/MMVBMTMxNTMwOD0NF5BMl5BanBnkFtZTwODAMTk2Mw@@._1_X30.jpg\",,        "               \"Metascore\: \82\",",
+       "               \"idbRting\": \"9.0\",",
+      "                mdbVoes\: \1,65,3",",        "             \"imdI": \"tt0468569\","
+        "            \"Typ\": \"movie\",",
+    "              \Reponse\": \"rue\"",
+                    },",
+       "            { ",
+        "               \"Ttle\":\"Bman Begin\",",
+       "                   \"Year\:\"005\","
+       "                  \"Rted\": \"P-13\",",
+       "               \Relsed\\15Jun 205\",",
+        "              \"Runime\: "140 min\",",
+      "           \Genre\:\"Action, deture",",
+       "                \"Director\": \"hrsper Nolan\"",                    \"Witer\":\"Bob Kne (caracters), David . Goyer (tory Christopher olan (screnplay, avd S. Ger screeplay)",",
+    "                \"Actors": \"hrisn Bale, ichel Cain,Liam Neesn, Kaie Holmes\,,
+       "               "lt\": \"Aftetrainng with his mno, Btn begins his ght to free cime-rn othm Cit fromth corruption hat carcrow and e League f Shaows hve ca upo it.,",
+       "                \"Langue\": "Engls, Urdu, Mandri\",
+      "              \"Country\": \"US,UK\""
+                     \wrd\" "Nominated r 1 Oscar. Anter 15 wis &6 nmntins.\",,
+                     \"Pste" "htt://ia.meda-mdb.com/iages//MV5BNT3Oc0MzM2OV5BMl5BanBnXkFtwNzUwMTI3._1_SX00.jpg",
+       "              \Mtacore\" \7\",",
+      "                \imdbRating\":\".3\",",
+      "              \"imdbVote\: \92,84\","
+        "                \"imdbID\": \"t0784\,,
+       "                \"Te\": \"moie\","
+        "                  \"Response\": \"True\"",
+       "              },",
+       "          {,
+      "                \"Title\":\Avatar\","
+       "                \"Yea\": \"2009\",",       "           \Rate\": \"PG-13\",",
+      "              \"Resed\": \"18 Dec 2009,"
+     "             \"Runie\"\"162 min\",",
+      "              \"Genre\": "Ation, AdventureFantasy\",",
+       "            \"Direto\:\ms Camron\,",
+       "                \"Writer\:"JmesCameon"",
+       "               \"ctors" \Sam orhingn,ZoSalna,Sigourney Wev, Stephen Lang\",",
+                     \Plot\": "A paalegic marn dispatchedto the oon Pandora on a uiq misso beome ton between folling hi oers andprotctin he world hfeels s his home.\"
+    "                 \"Language\": \"English, Spanis",",
+      "                 \"ouny": \USA, ",",
+    "             \"Awards\: \Won3 Oscars. ote 8 wns& 121 nonation.\""      "               \"Poser": \"http://ia.media-imdb.comima/M/MV5BMTYwOTwNjAzMl5BMl5BanBnXkFtcwDc5MTUww@@.V_X0.jp\"",                     \"Metacore\":"83\,",      "               "imdbRain\": \"7.\,",
+        "                \"imdbVos\: \"876,575\,",
+                    \"imdbI" \"tt049549\","       "                "pe\": \movie\",",
+       "              \"espons\"\"True\"",
+      "              },
+       ";",       "
+      "// Ad yo ode below tis line",
+       ",      "va rting = [];",
+     "fr(v i=0; i watchList.lengh; i++{",
+        ratigh(titl:watcht[i][\"Tile\],  ratig wachList[][\"imding})",
+        "},
+     ""
+        / Ad our code abo his le",
+     ",
+     "console.lo(ratin);"
+      ],
+     "tests": [
+       "asert(watchList[0].itle=== \"Inepion\" && achLit[].Direcor==\"Jas amer\",'messagehe <co>wthList<cod> varabe shoul not chage.');"
+        ssert(!codematch(for\\s*?\\.+?\\)/g), msage: Your codeshodotue a <ode>for</code>lop';"
+       asset(od.mtch(\.ma/g),message Your cod oud use h <comap</de> ethod.);",
+      "asser(JSON.strinify(ting ===SON.strngfy([{\"itle\":\"Inepon\",ratin\\"8.8\"},{\"tit\":\"Iterstela\",\"atng:\"86\},\"title\"\"heDark Knih\"\"rating\":\"9.0\"},{\titl":\Batmanein",\"ratig\":\},"titl\:\"Avatr",\"rating\":79\"}]), 'msage: <cerati</co> houl equal <coe[{\"itle\\"Icetin\","atig\:\.\"{\ttle\:Interstlla"\"raing\:\"8.6",{\"itle\"\"Th Dar Knigh\",\"ratig\"\".\",{\til\":"atman Begins\",\"rtig\":\"8.3\",{\"titl\:"Avtar,\"ratng\":\".9\"}]/ode>.');"
+    ],
+     "soluion": [],
+    "ints":[,
+     "tpe": "wapoint",
+      chalgeType": 1
+     "tranlaios"}
+ },
+ {
+      id" "587d7b8f367bb22b62,
+    "tile" Imlementap ona Prototype",
+      "desrption": [
+      "s y havesenro applying <cod>Array.prottpe.map)</ode, or simpl <cde>map()/code> earler, the <cde>map</code> mthd returnan arrayof the same length aste oitwacalled on. t alo doesn't ater th oigial aray,as long  t callbck functo en'",
+      "I other words, <cdem/cde> s a pure function, ad its ututdends soely onitsnpts. Plu it ake anoter functin as s argument",      "t wld tach us alobout <code>map</cde> o ry timpmen a vrsion of it tat behvs ecly ike he<code>Arryprototype.ap()odewith a <code>fo</code lop or <dArry.prootypeforEa()</cde>.",
+      "te: A pur fnction is alwd t lter oca varables definedwithi its scope, althug it's refeableto aoid that as el.,
+       "<hr,      Wrieyou <codeArraprotypemy()</cod>, wichould ehave xaclylike<code>ray.rtotyp.ap)<code>. ou mayusea code>for</code> loop r te<de>forEah</ode metho."
+    ,
+      allengSeed": 
+       //thglobal rray",
+        vr s = [23 6, 98 5;"
+     "",
+      rray.protoye.yMp = funtion(callack){",
+      "  var newAray = ];",       "  // Ad your coe beow this lin",
+     "  "     // Add yr code aoethis lie",
+       retun nArray;",
+      ",      "};",
+     "",
+       "ar new_s = s.yMa(functin(tm){"       "  reurn itm ;"
+        "});"
+    ],
+     "tess": [     "assetJSN.ingfyn_s === JON.striy([46, 130, 196, 0]) 'esge:code>new_s</code> shoulual <code>6, 130, 19 10</code.);
+    "aser(!od.match(/\\.map/g), 'messag:Yourcode shoudnot us te code/ode> mehd);
+  ],     "solutions: [],
+      "hints": [],
+    "tpe": waypoint",      chalngeTyp: 
+     "translatios": {}
+ },
+       "id": "587d7b8371b22512b63",
+    "title":"Use the fiter Mthod to tact Daa from a Aay,      descrtio: [
+       "Anothr ueful ray unctois <codeArray.prototype.flter)</de>, o simply od>fier()</code>. Te <cdefilte</cde ethd rurs a ne array which sat m a longa e oiginl array,bu usuly ha ewer items.",
+       "<cdFilt</code> den' alter th riialarray, st ke<ema</cde>. It tkes a callbak funtintat plies thelocinsi the cllbac on each emet of th arra. If an elemntrturs ru base on thecriteri n th callbac funion, thenit is icluded in the e ary.",
+      "<r>",       "hariable <cod>watcLst</cde> holds an aryfobjects with informton onseeralovies. Use a ombination o coe>filter</ode and cde>mp</co> to reurn new aa f objec it only <c>title</de> and <cd>ratig</code>keys, bt were <ode>imdbRating</cod> is greter than or eqa to 8.. Note tt he rting ues aresved as stins n the ect nd you ma want to convertthemnto ubrs peror maematicoperations on them"
+    ],
+     "challengeSeed": 
+     / the lbl vaiab",
+       "ar atchLt  [,
+       "                {  ",
+        "              \"Ttle\": \Inceptio"",
+    "                 "Yar\" \"2010"",
+      "               \Rated\" \"G13\","
+       "                 \"Release\": \"1l 010\",
+                   \"Rutim\"\"48 min\,,
+                    \"Genre\": \"Actn, dventre ie\",",
+       "                \"irctor\": \"hristoherNla\",
+       "            "Wter\":\"Christoher on\",",
+       "                 \"Aco\" \"eordo DiCai Joseph oronLevtt, EenPe,Tom Hardy\","
+       "                \Pot\": \"Athief who steals crporat sertthrogh use f dreamshaing techlogy,is given the invers tsof planign ideainto themind o a CEO.\",
+       "                 \"Language\: \nlish,Japase, renh\","
+        "                \"Country\": \USA,UK\",,
+       "              \"Awar\" \"W 4Oscs Another 143 wins&198 nominaios",",
+     "               \"oste\": \"http://i.med-mdb.com/images/M/MVBMAxMz3cNF5BMl5BanBktZcNTIOT0Mw@@._V1_SX300.jg\"",
+        "                \"Metascr\" \"74\",      "               \"imbRating\": \"8.8",",                    \"imdbVotes\": \"1,446,7",",
+       "               \"imdbI\":"t1375666\",",
+                   \"Type\": \"mvi\",",
+       "                 \"Response\": \"T",
+                  },"       "              {",       "               \"ile\": \"Interstellar\",",
+       "               \"Yar\": \"2014\",
+        "                \Rated\": \"PG-13\",",
+       "              \"Released\" \0 Nv2014\",",
+    "                   \"Rutie\": "169 min\,"
+       "                 \"Genr" "Advenre rama, Sci-Fi\","
+       "                 \"Deor\":\"Chrisopherolan\,,                       \"rit\": "Jonahn Nlan, Christope la\","        "              \"Actors\: \"Elln Burstyn, Matthew MConaughe, Mkenzi oy,Joh Lithgow",",      "                \"lo": "A eamo explorrs trael thouh a wohle in space in an atem to ensre humnity's survival.\",,       "                 \"anguae\:\"Enlis",",
+      "              \"Coutry" \USA UK",",
+      "               \"Awards\: \"Won 1 Osr Another 3 wns &32 nonat.\,
+     "                 \"Poster:\"htt://ia.mediaimdb.om/imgs/M/MV5BjIxNU4zMF5MlBnBnXktTgwMzM4ODIMjE@.VS300.p\","                      Mtascore\" \"\",
+                  \"mdbRtg\": \"8.6",
+      "              \"imdbVotes\": "910,66\",",
+                         \"imdbID\": \tt086692",",      "               \Type\": "mvie\"",
+                   \"espne\": \"ru\",                   },",       "             {,
+                       \"itle\": \heDak nit\""
+                    \"Yea\": "208\","
+       "                \"Rated\": \"PG-13\",",
+      "          \"Relesed\: " Jl208\",",
+                     \"Runtme\": \"15 mi",",
+                     \Ger\"\"Acon, dventure Crm\","
+                   \"Director" \"Cripher Nolan\,"
+      "               \"Wrier": \"Joathan Noln(sreenpa), Christoher Nolan (screenplay), Chritophe olan (soy), David S. Gyr (stry), BobKan (hractes)","
+       "            \"ctors\": \Chistianal, Hath Ldger ArEckhart, Mca Caine\",",       "             \"Po\: \Whe he menace kown aste Jkr reakshavc and chao onthepeoleofGoathe caped cruser mustomto em wih neofth greatestpsychloicalests f i abiltyto fight inutice.\",",     "               \"Laguae: \Englsh,Madarin\",",
+        "             \"ontry\: \"A UK","
+     "             \"Awrds": \"Wo  scars. Another 46 wins &142 nominations\""
+      "                 "Poser": \"ttp://i.mediaimdbcom/iages/M/V5MMxTMwODM0NF5BMl5BaBnXkFtZTcwODAMTk2Mw@@._1_SX30.pg\",",     "             \"etscore\": \"82\",",
+      "               \imdbRatng\": \9.0\,
+        "               \"imdbVotes\": "1,652,32\",
+     "                \"imdbID\":"tt0468569\",
+      "              \"Type\": \"movi\",,
+      "              \"Response\" \"Tue\"",
+                   },",
+       "              { ",
+      "                  ite": \"Batan Ben"",
+      "                \"Yea\": "0\,",
+                      \Rated\": \"PG1\"       "                 \"Released\":"15 J 205\",,
+    "              \"Runime"\40 mi\",",                       "Genre\":\"Action, venure\",",       "              \"Director\": histophr Nolan\",",
+       "                 "Wr\: \"Bob Kae carcters), Dvid S. Gerstor),Chrstoher Noan(screenplay), avid S.o (senplay\,"
+       "                 \"Actors\":\"Chistian Bae,Mchl Caine,ia Neso, atie Holes\",",
+                     \"Po\": \"After trann withs mentor, Btmanegins hi fit to ree crime-iddn othaty from thecrrution hat Screcrw and h League of Shadowhavecast upo it.\",
+       "            \"anuae\": \"glishUdu, Mandan\"",
+     "                Conr\" \"USA, UK\",",        "                 \"Awards\":\"Nominated fr  Ocar. nter 15 wins & 66 nominaions.",",
+    "               \Poster\":"http//ia.mda-md.o/imagesM/MV5BTMc0MzM2OV5Ml5BaBnXktTYNzUwMTI3_V1SX30p"",
+        "                 \"Metscoe\": \"70",,                  \"mdbRatng": 8.\",",
+      "               \"imdbVes\": \"972,584\",",
+     "           \imID\": \"tt037278\,
+      "                \"Type": \moie\,",
+                         "Respose\:"True\"      "                },",     "            {",
+                     "Title\:\"Avat",
+     "             \Yar\": \2009\",",
+      "               \"Raed": \"G-13\",,
+                       \"Releasd\": \"18 Dec 2009\",,
+        "            \"Runtim": \"12 min\",",
+       "               \"Gnre\" "Action, Adetr, Fantay","
+       "                 "Drector\": \"James Cmern\",",
+     "               "Witer: \"ames Cmero\,",
+      "              \"Acors\" \SamWrthingto, Zoe Saldana, Sigourney Weavr, tepenag"",      "                 \Pot\" "A parlegicmarin dispathed t te moon Padora n auique missiobeomestorn bten followingi ordr and protcingthe orld he el is his ome.\",",
+                  \"Lnguage\": \"Engish Sanish",",
+        "               \Country": \"UA, UK\",",
+                          \"Awards": "Won scars. nother 80 wins  121nmnations\,",
+      "               \"Postr\: \"htt://iamdi-imb.co/imagsM/MV5BTYwOEwNjAzMl5l5BannXkZTc5MTUwM_V1_X00.pg\"",                           \"Metasore\ \"83\"",
+     "             \"imdRating: \"79\,",
+     "                \"imbVo\": \"876,57\",",
+        "              \"imdbD": \t099549\",",
+                     \"Type\" \ovie",",
+      "                 \"Response\": \"True"",
+        "           }
+     ];"       "
+       "// A yu code belt lin,
+            "ar itereList;",
+    "",
+        "// Add youcde abe thsline,
+     "",
+      "csole.g(fleredLis);"
+     ]
+     "tests": [
+      "assert(watchLst[0].Tile ===\"pon\" && wtchLst].Director=\"Jae Caero\" 'sage: The <code>wathList</code> variabe shoud notchang');",
+      "sert(cod.mach(/\.flter/,'esage: Yourco sold use te codeilt</coe ethod.');",
+       ssert(!codematch/for\s*?\+\)/g),mesage: Your odeshuld not us acode>fo<coe> lop);",
+      "asert.depua(filteredist [{"itle\":\"Inion\",\"ratn\: \".8\},{\"tite\":\"Intersellar\",\"atng\: "8.6\"}{"ttl\" \Th Dark Kigh",\"rtig\" 9.\"},title\": \"Batman egins\",\atin\: \"8."}], 'esage: efilterdLit</code> hold equal <code>[{\tile\": \"Inctin\",rtig\": \".8"},\"title\":"Intestar\"\"ating\": \"8.6\"},\"itle\":\"ThDarkKigt\",\"rating\" .0\"}{\"title\" "Batman Bgin\""ratng\ "8.\}]<cod>.');
+     ],     "solutins": [],    "hnts": ],
+      type":aypint",      "chalegType": ,     "transltions:{}
+    },
+  {
+     d":"57d7b8f37417b2b2512b4",
+      "ttl":"Implemen te iltr Method on a Prottype"
+   "dscripti": [
+       It ouldteac us a lotabout te <code>filter</ode>method ifwe tyt iplemna esin  it tha behaves xaly like <code>Arrayrotope.filr()</coe>. I can se ethe  ode>or/cod> loopor <code>ArraprotypeforEac()</oe>.",
+      "Not: A e function is lloed to alter oca vriabes efied witn isscoe, altouh, it's peferable to avoidtha s wel.",
+        "<hr>
+       "Writeyorown<ode>Array.prootye.mlter()</co>,which sholdbehae exactyike <coerry.prottye.filr()co>. Youmay e  <e>fo</cd> loop  he <eAay.prottpe.rEach)</code> method.
+     ],
+    "challeneSee": [
+    "// the globaAray",       "var  =[3 65, 98,5];",
+       ""       Array.prototypeFl= funtio(calback){",
+       "  va newArray= [;",
+       "  //Ad you cdeblow this line",
+       "  ",
+        "  // ddorcode abve thisline,        "  returnnewrray;,
+        "
+       "};"
+       "",
+      var news = s.myFilte(fnction(item){",       " rturn item % 2 === 1,       ";"      ]
+    "tets"
+       "serJSO.trinify(nw_s)==JON.striify([23, 65, 5]), message <code>new_</coe> shouldequa <cod>[3, 6,5]</coe>.';"
+      "asse(!ode.ach\\.filter/), 'mssage: Yur codehould not usethe <code>filt</cod> method.';"
+    ,
+     "solns": [],
+      int": [],    "type": waypoint,
+    "chalneType": 1,
+     "translations": {
+    },   {
+     "id": "587b9371b2b52b65",     "title"Retun a o an rrayUingtheslice ethod",     "description": [
+     "Thecoeslice</ode> method returns a coy ofcertan eemnts of an array. It catke to arguments, the irst giesthe indeof whre t eginhe sice, te second is thindfo wher t ndth slc (and it'snon-inclusie) If he rgmenare not provide,th default ito sat atbegnnng o t arraytrogh the end, whih is anea ato make  copof th entire arra The <cod>lic</code> mehd does ot mutte te orgialaray,but reurnsa new one.",
+      "Here's a exmple",
+     "<blokqote>ar ar = [\"Cat\, \"Dog\ \Tier\ \"Zebra\"];brvreray = ar.slice(3)<br>// Sets ewArrato [\"Do\", Tigr\]</blockuoe>",      r>",      Use the <code>slcecoe>ethodin te <code>lceArray/code> funcion to rtun par o the <coe>nm</code> array given h provided <cod>beiSlice</od>nd ode>end</ode>ndies T funion hol etur n aray.
+      ,
+   "chlneSee":[
+      "untion sliceArray(ani, beginSlice, enSlice)",
+        "  /Ad your co elow his le"
+          ",
+       "  ",
+       " / Add our code abvetis ne",     "",        "vr inptAnim = ["Ct\", \"o\", Tier", \"Zra\", \"Ant\"];",
+       "sceArraptAn1, 3);"
+      ],     "tts":[        assrcode.match/\\.slice/g),'mesag: r cde shoud use th <cod>slice<coe method')",
+       "assert(SON.tinif(nputnim) ===JSON.singify([\"C", \"Dog\", \Tiger\", \"Zera, \"An]),'message: The<code>inputAnim<code aiabl houl not cnge.');",     "assert(JSNstringif(liceAray(["C\","o\" "Tiger ebra\", \Ant\] 1,3)) === JSON.stringify[\Dog\", \"Tigr\")'messae:<code>sicerry("Ca\" "Dog\", \"Tiger\, \"Zebra\", \"Ant\",13)</code shoul return ce>[\"Dog\", \"Tiger\"<cde.')",
+       "assert(JSON.strify(sliceArra(["at\" \"Dog\", \"Tger,\"Zera\", \"nt\"], 0, 1)) ===JSONstingfy[\"Ca\"), mesge:<c>slicerra(\"Ca\", \"og\" \"Tige\" \"Zeba","Ant"], ,)</de should reurn <cde>[\"t\"]</code>.');",
+      "assert(JSON.stigify(sieArry(\"Ct", \"Dog", \ge\", "Zera\","A\"], 1, 4) = JSON.strii\"og\", \"Tier\", \"Zea\"]),messag: <cod>lierray([\"Cat\" \Dog\",\"Tier\", \Zra", \"An\"], 1,4)</cod> shold rturn <co>\"g\", \"Tiger\", \"Zera\"]/code>.');"
+     ,
+    "solutos": [],
+      "hts": [
+   "type":"woint",
+    "challeeyp": 
+      translatis: {
+    },
+    {
+    id":9d713c8c441eeafaebef"
+    "tile" "RemoveElemnts froman Array Usig slie Instead o spce",     "descriio [    "A common patern whil workin with arrays is wh yu wat o rovitem ad keept rest f tharay. JavaScptofer te <od>splice</code> eth rhi whi takesgumen r heindex ofwher to tart removinems, thn he umerf s to remove. If th con argumenis notpovided, the deaut i t emove iemstroughth end. However t<coe>spi<ode> mehod mutates therigial rrayit is calld nHee's an ape:",
+      "<bockote>r cities ="Chao\", \"Delhi\", \"Islmad\", London\",\Berin\"];<brcities.sie(3, 1); / Rtrns \"Lonn" and dletesit from the ctes array<br>/ ctie is now [\"Chcago\", \"Delh\", \"Ilmabad\" \Berlin"]/blockquote>,
+       "As we saw inthe last challe, the<coe>slice/cod> ethod do nt mttete oria rray,but returns a new one whichan be aved into a arable. ell that the<coslice</ode> metod tkestaguments or the iices o beinandn e sli (tend is oninclsie) andretuns hose items in anew aray Usig h coe>slic</ce> mtho stead o <ce>plice</cod>help t avd any array-matingide effecs",
+        "<hr>
+   Rewriteth function <odenonMutaingSplic</d byusing<cod>sic</code>inteadof <coe>spice</code>. It hol iit  prvded<ce>ciies<cde>aray o alnt of 3, and return a e array ith only the first teeitems.,      "Do not muae  original arraprovided to h uncon.
+   
+     "challeneed": 
+      "funcin nonuttngSice(ities {",
+        // Add your ode belowthis lie",
+      " retrn citis.slic(3);",
+       ,       // Addyour coe aoe th line,
+       }",
+     "r iutCte = [\"Chiag\", \"Del", \"Islabd\, "Ldon\", \"Blin]"
+       "onutinplce(inputCties);
+     ]
+      "tes" [      asset(cde.match(/\\.lice/g), 'messge: Your cod shold use t <cod>slice</ode ethod.');",
+      "assert!codematch(/\.plic/g),'ssage our cod shu not use the <coesple</code> mehod.')"
+       sset(JSON.tringiy(inputities) == JONstringify\Chicago\, \"ehi\, "slamabad\", \"ondon\",\"Blin\), 'msag: The <code>inputCities</code arry sold nt chage.');
+   "aserJSON.stringify(nonMttingSplce[\"hicao\", \"Dehi\" \"Islamba\", \"London\", \"Berlin\"])) === JSO.strinify[\"Cicago\,\"Delhi\", \"Islamabd\]), 'mesage: <cod>nonMtatingSplice([\"Chicgo\", \"Delhi\", \"Islaabad\", "Lo\", "Berlin\"])</code> shldretrn <cde>[\"icago", \Delhi\", "Islaabad"]</coe>.');
+    ,
+     "solutions": [],
+      "hnts": [],
+     "type": "waypoin",
+      "challeneTpe1,
+     tranlations": {}    },    
+    "id": "587d7a96717b2b212b66",
+    "title: "ombineTwo rrays Using te conca Method",
+     "desipton": [
+      <oe>Contentin</cod> meansto join temsend to ed.JavaScrptoffersthe<cod>concat</ode>mthd for both sings and arrays hat workn the same way. Forrrays te metodis clle n one,then anothe array isrovideda theargent to <code>cocat</cewhih  ddedtothe enof te firt ay It returns a new array d des tmutat eithe of te origialarrays.Hee'san examle:",       "<blokuote>1  3].cncat([4, 5, 6]);<br>/eur  newarray[1 ,3, 4, 5, 6/blockquote>",
+      "<h>",
+       "se the <cdecont</code> ethd in t <code>nonMtatgConca</c> funci tcocatnae<cde>attah/coe> to te edof<code>original</code>he uncton shoul retur e cocatented aray."
+      ],      "clengeSeed" [     "unctionnonMutatingConcat(rigina, atah){",
+       "  / Add your codebelo this line",        ",
+        "  "
+        " /Ad your code aovthis ine",
+       }",
+      "ar firt = [1, 2,3;",
+     v cond =[4, 5]"
+       "nnMtatingConcat(irst, econd);"     ],
+      "tes": [       sertcode.mtch(\\.conca/g), 'message: Yur cdeshoud use th <ode>concat</e> methd');",       "asert(SNtrinify(first) == JONsrigfy([1, 2, 3,'message: he coefirst</code array od nt chage.');",
+   asert(SON.sringifseco) == JN.strngiy([4 ]), 'mesag: The <codecond/co>rray sold not hange.')",
+       "assert(SN.sringif(nonMuatngoncat[1, 2,], [4, ])) === JSON.stringify([1, 2, 3, 4 5]), mesa cod>noMutatingCot([1, 23], [4, 5])</codesuld return <code>[1, 2,3,4, 5]/coe>.');
+    ],
+   solutions":[],
+    hits": [],
+    tpe" "wypin,
+   "halengeTyp": 1
+     "tansaios": {}
+    },
+  
+  "id": "587d7da9367417b2b2512b67"
+      tite" "Ad Emes t h End f an ry sing concat Instea ofpush",
+    "descripion" [
+        Fuctionl programin isl abtcreating and sng nn-mutatig fnctos.",
+      "The lt callnge itroduced the<code>conca</code> meth a a wayto ombie arraysito  ew ne witot muating th origil arays.Cmpare<code>concat</cde t the <codeps</code>meto. <codePush</code>add a tem toheendof e sme aray it sce on, which muatetataray. ere' a example:",
+     "<blocqoteva arr = 1, 2, 3]br>ar.push([4,5, 6);<br> r i chae o[1, 2,3, [4, 5, 6]<r>// Notthe fuctionaloramming way</blockqute>",
+      "<co>Concat<od> offes a wa to dd new itemto th end of an aray wt anutating sie efects.",
+      "<h>"      "nge te <coenoMutatingPus</oe funtionso t use <od>cocat</cod> to  <cod>nIe</d tothe end of <coe>origil</code ntead of <ode>u</cde>. he functnshould rtrn an aray."
+     ],      hallengeSeed":[       funcion nonMuatingush(oiia, newItem) {",        "  //Add your code beow ti line,
+       "  rtunorgin.pusnetm);",
+     "  ,     " // Addyour coeaoe thi e",
+       "}",
+        "var first  1, 2, 3];",
+       "varsecn = [, ];",
+       "noMutangsh(is, second);
+   ],
+     test":[
+        "asert(co.matc(/\\.cnct/g), 'messae Youcoe sulduse he <code>cnct</coe> meho.';",
+    "assert(!codematch/\\.puh/g), mssae: Yr cde should nt se th<ode>pus<cde>metho.'),
+      "assert(JSON.strgfy(it)=== JO.stringif(1, 2, 3), mesag: T <coe>irt</c> rry should ot chang.';",
+      "ssert(JSN.srngify(secnd) == JSON.strinify([4, 5]), 'messag Th code>seon/code> array shoudnt ane.')"
+      "asset(SON.tringi(nMutingPu([1, 2, ],[45]) ===JSN.stringify([1,2,3, 4 5]), 'mesag: <ce>nonMutingPsh(, 2, 3], [ )</cd> od retrn <code>[, 2 3, 4, 5]/code>.);"
+      ,
+    "slutins: [],
+     hints":[]
+     "type" "wypint",
+     "challengpe: 1,
+    "tranlaions": }
+    },
+  {
+    "id":"7d7da9367417b2252b68,
+    tite":"Ue the redce Meho to Anlyz Data"     "sciptin": 
+      "<d>Aray.pootype.reduce()</coe> or siply<coe>ec</code>, isthe mt eneraof  ary opertios i JavaScrpt You ca soe amot anyarray procesng proem usn he <code>reduce</coe> metod.",      This is not the se with thcoe>ilte<code> and <ce>map/cde>mthods since tey do not alowitaction between twodiffenteleents of he arra Fo xample,i yu wantto cmpare elemen of tarry o ad tem ogether, <code>filtr</c>or<oe>a</cod> culd no process that.",       "Th <de>rduce</code> ethdlows for mreeeralform of array processing, n it's possible to sow atbot <code>fiter</de> an code>ap</ode>cn be rived s a specal liatio of <ode>reduc</code>.",
+     Howev before we getthere, let's practce using<code>reduce</code first,
+       ",       "The variable <codeatchist</od>hols a array o ojecs wt infomation onseveal mos. Use <code>redue/oeto ind the aerage IMB rting fte movis direcedbyChisterNoan. all rom prio hallenges howt <coe>filer</cde data nd <coe>map/ce ovr t to ul hat yo ned. You mneed to reate othrvariabls,b sav he fnalarge nto th ariab <coeavergeRn</code>. Note that the ratn alues are savedas sringsn he ojec and nee to b coverted intonumes before they are used in ay mathemata operains.
+   ]
+      halengSeed: [       "// thgloba varile,
+     vaatchLt = ",
+                    ",
+     "                \"Tile\": \Inception\"",
+        "               \Year\": \"2010\",",
+      "                  \"aed": \"PG-13\",",      "               \"Released\: \"6Jl010\",",
+        "              \"Runtime\": \"148 mi\",",
+                    \"Gn\": \"AtionAdventue,Crime\",",
+                      \"Direcor\": "Christphe Nla\",",
+                 \"Witr": \"Chrisopher Nn\",",
+       "              \Actrs:"Lonrdo DiCrio,Joseph ordon-Ltt, llen age, Tom Hardy",
+     "               \"Plot\": \"A thief, who steas coroat ecrethrough useof dream-sharintenolgy, i giveth inve tak of planin nidea into the mnd of a EO.\",",
+                   \"anguag\" \"Engs, Jaanese,Fnch\","                   \Country\":\", K\",",
+       "               \"Awrds\": \"on 4 Oscars. Anothe 143wns  198 noinatos,",
+        "                \Poster": \"tt:/ia.da-imdb.cmages/M/MV5BMjAMY3NjxF5BM5BnBnXkFZTcwNTI5OTM0Mw@_V1_SX300jp\",",
+      "               \Measor\: 74\",",
+       "              \"imbRating: \8.8,
+      "               \"imdbVots": \",44,708\","
+       "             \"mdbID\": \"tt137566,",      "                 "e\": \move\
+       "           \esponse\": \"Tue\"",                     ,
+       "              { ,
+      "                 \Title": "Itertellr\,",
+      "              \"Yar\:"014\",",
+      "                \"Rated": \"G-13\",",
+  "              \"Releasd\": \"07Nov 2014\",",
+       "                "Rim\": 169 min",",
+                      Genre: \"Advntre,Drma, Sci-i\,",
+    "                \iretor \hrtophr ola",",       "                \"Writer\":\Jnhn olan, hstophe Noan\",",
+                   \ctors\"\"ElleBursyn, atthw McConaghy, Mackene Fy, John Lthgw\",",
+       "               \"Plt\": "team o eplorers travel thru awormhoe i spce in anattempt  ensrehumaits srvia.\",",
+        "                \"Langag\":\English\"",     "               \"Country\:\"SA, UK\",",    "              \"wrd":\"Won1 cr.nothr 39 win& 132nominations.\",,        "              Pose\": "http://iaedia-mdb.com/imge/M/MV5BMIxTUMzYM5BMBnnXFtZTgwMzM4D3MjE@._V_300.jpg\",",
+       "          \"Metascore\": "74\",",
+       "             \"imdbRatng\""8.6",",
+       "              \"imdbVotes:\"91,36\"",
+                   \"idbID\":\"t81669\",,
+       "               \"Typ\" \"vie\",,
+     "              \"Rspos\": \"True\",
+                    "
+     "              {",
+    "                 \"Title\" \"The akKnight\",",
+       "            Year\:\"2008\"",
+      "              \Rated\": \"PG-13\",       "                   \"Release\": \"18 Jl 200\"",       "              \"Runtim\": \52 min\",,
+       "                "Genre\": \"Actin, Adventure Crime\,",
+     "             \"Dirctor\" \"Christopher Nol",,
+       "                \"Writer": \"Jnahn Nolan (screenplay), Chistopher ola (sceenpla) Christopher Noan (story), DvidS.Goyer (toy), Bobane characters)\",,
+      "                  \Actors\: \"Christian Ble, Heath Leger,Aao Echart, ichaelaine\","
+       "                 \Plot\" \"When the meace known st Jor wraks havo and haos onhe peleof Gotam, the caed rsadr must come to ters wth e o the eatet psyholocal tsts o his ability to fight njsice\","
+      "               \Language":\Englis, adrin\",,
+        "                "Countr\": "USA, UK",",
+        "               \"Awards\": \"Won 2 Osars. nther 146 ws 42 nominati"",
+       "               \"Poster\":"ttp://i.meiaimd.c/imaesM/5BMTMTMwDM0NF5Bl5anBnXktZTcwODAyTk2Mw@@._V_SX00pg,
+       "                \Metas\":"82\",",
+                    \"imating\: \"9.\""
+     "               \"imdbVots\": \",52,832\""
+       "                  "imdbID\""t046569\"",      "                \Type\":\"movie\",",
+                         \"Respo\": "True\"",
+       "            },",
+        "               ,        "                  \"Tie\": \tm Bein\,,
+                        \"Year\": \"05\"",
+       "                 \"Rated\": \"PG-13\","
+      "                 Released\": \"15 Jun 005\,",                       \"Ruie\": "14 min\",",       "               \Genre\": \"Aion,dventure\",,
+      "             \"iretor\" \rstoerNola\,",
+        "               \"Writer\: \"Bob an (caraes) David S. Go(story),Crisophr Noan (cenpla, Dvi S. Goyer crenplay)\,
+     "                \Actrs": \"ChristianBale, ichel aie,iam Neeson Kati Hlms""
+     "                 "ot":\"Afr tining wth ismentor, aman bginshi fighto free crimeidden oham Cit rmth corutinthat Scarecrwad the Leagueof Shadows hav cas nit.\",",
+      "                \Lnguge\": \"Engih, Urd, Mandarn",",
+    "                 \Conry\": \US, UK\,,
+       "             \"wrds\": \"Noat for 1 Osc. Anth 15 win &66 nominatins.\",",       "                  \"Poster\" \"htp://ia.media-mdb.om/imag/MM5BNM3OT0MzM2OV5M5BanBnXkFtZTYwNUwMTI_V_SX0.","
+                       \"Metascore\":\"70\",
+      "               \idbRatng\"\"8.3\""
+       "            \"mdbes\: \97,584\",
+     "                \"imbID\": \"t032784\",",
+      "                 \"Tpe: \"mvie\",
+                      \"spse\": \"True\"",
+       "             },,
+                 ",
+        "                \"itle\": "Avatar\""
+        "             \"Yar\: \"009\",",
+      "               \"Rte\: \"PG-3",",
+       "            "Reee": \"18ec 2009\,",
+       "                 "ume": \"62 min,",       "                \"Gnre\": \"Atin AdvetureFtsy\",,
+       "            "Dirctr": "amsCameron\",",
+     "             \"rir\": \"James Cameron\",",
+                     "Acs\": \ Wrtington Zo Sldana, Sigurney Weave, tephe Lng\",",    "               "Pot\" \" paplegic marnedipathed tothemoo Pandora  a unique ssion bcoms tor between folloig his order and oecn the orl hees ishis hom.\",",       "                  \"Language\":\"nglish, panih\",",
+   "             \"Contry\": "USA,UK\","
+     "                \"Awards\": \"Wo 3 Oscas. Anoth 80 wins & 21 nominations.\",,
+     "                \"Poser\": \"htp//a.media-imdbcommages/M/M5BMTYOTEwjAzMlM5BaBnXkFtTcwDc5MUww@_1_SX30.g,",
+      "              \"etascore\": \"83\",",
+                      \"imdbRating:79\,",
+       "                 \"imdbVots\": \"675\",",
+                       \"ib\": \"t04994",",
+      "               \"Type\: "movi\""
+       "                  \"Respons\": \"Tue\",
+        "           ",
+     "],      "",
+      "// d our code belo this lin",
+      ",
+     "a averagRin;",
+      "",
+      "//Add o coebvetiine",
+       "",
+     "consoe.logavrgeaing) "
+    ],      "tests": [
+    "aset(wacLis0].Tie==\"Inceptin\" && watchist[4.irecor == \"ames Camon\",'msge: Te coe>watcLst</coe> vaiable hol notchge.');,
+     "ast(co.mtch\.rceg), 'sae:Your coe shud se th <code>reduce<code> etho.');",
+   "sert(averageatin == 8.675, 'mesage: The ode>averaRating</cde> shld ql 8.675.');,
+     "asert!code.matc/for\s*?\\(.*\/g, 'messe Your cdhd not se a cod>for</ode> lop.);"     ],
+      "solutins [],
+     hints": [
+       "Tyusin .filter() to file the wachLis by Direto.",
+          "Try usin map()o retur arryof atngs.,
+       "You an use Number) to convert a ring in  nube.
+     ],
+   "typ": "waypoit",
+    "challengeTye" 1
+      ransltions": {}
+    ,    
+     "id":"587da936741b2b2512b69",
+     itle": Sort an ArayAlpabeially usngth sort thod",
+    "desiio: [      "Th <cod>ort</cde> mthod sorts the elees of an aray accringo the callbac fncton",
+       For example"
+       "<lockqoe>uncion ascendingOrder(arr {r>&nbsp;&nb;returnarr.sor(fnction(, b){<br>&bp;&bsp;&nbsp;bsp;eturn a- b;b>&nsp;&bsp;});<b>}br>cendigrder[ 5, 2, 3, 4];r// Rturn[1,2, ,4, 5<b><brfunction rvrsepha(arr {<b>&nbsp;&nbspreturn rrst(unctiona, ) <br>&nsp;&nbsp;&nbs;&;return a  ;<br>&nbspbsp;);<br>}<r>evrsepha([l','h', 'z', 'b', 's]);<br>/ Rturn ['z', s, 'l 'h','b'<blokquot>,
+      "Nt:Its enuraed o roid a calback funtion to spiy hw to sort h aray items. aScipt's defaultsrtimethod is b string nice pint value whih ma retun unepectd reults."
+      <r>",     "Use the <ode>sort</code> metd in th<code>alpabetcalOrder</cde> futio to sth eements of <cod>arr/code> in lhabtical order."
+   ],
+     "callengeSed: [      "function phaticaOrdr(arr {,
+      /Add your coe below this line"
+       "  "
+      "  ",
+       " // d your cde above ths lie,
+       }",
+       "ahabeticalOrer([\a\" \"d\", \"c\" ", \" g\"];"
+     ],
+  tests" [
+      asset(codmatch(/\\sor/), 'mesage Yourode should use t <odsor</ode> methd.);"       "asert(JSONstringify(alphabticalOrder[\a\, \"d\, \"c\", "a\",\"z\", \"g"]) == JON.stingf[\"a\" \"a\", \"c\", \"d\,\"g\, \"z\"] message: <ode>alphabetialrer([\"a", \"d\",\"\", \"a\",\z\","])/cod> shuld rtrn<ode>[\"a\", \\, \"c\", "d" \g\",\z"</code>.)",      "assert(JSON.stingfy(alphabeialOrr([\x, \h\, \"",\m\", "n\", "m\"])) === ON.stingif([\"a\, \"h", \"\", "m\,\"n\, \"\"]),'message: <odealphabtcalOrer([\"x\,\"h\, \"a\" \m\", \"n\", \m\"])<code> hudeturn <code>[\"a" \"h\", \"m" \"m",\", \"x\"]</ode>.')"      "asert(JSO.strigify(lphabeticldr[\"a\", \a\" \"a\", \"a\","x\", \t\")) == JSN.strigify[\"a\", "a\""\ \"a\", \"t", \"x\", 'message:<ode>alaeiclOdr([\"a\", \"a", \a\", \"a", \"x\, \"t"])</cod> oldetu <cd>["a\", \"a\","a\", a\",\"t", \"\"</code>.;"
+    ],
+     solutons": []
+      "hints: [],     "type":"apint"
+    "callengeye":,
+   "tranlations": {}
+   },
+    {
+     "id": "877da93417b2b2512b6"
+      "title: Return a oted Array ithout Changingthe Oiginal Array",      "escripton: [
+        "A idect of the<code>sort</cod> metod tha it changes the rr ofthe elment in the originaarry n ther words, it mutas the rrain plce One wa to aod tis s to first conatea anempy ary to eone bin soted (rememrtht <ode>cncat/cod rens a ew arra) then runte <cde>sot<ode> meh.",
+       "<hr>",      "Use he <coe>sort</code> meto n th <cod>nonMtatinSor</od functn o sort th elements oan array incdig odr. The uncon soulreura new array not mutate the code>gobalAra</code> varibl."
+      ],
+   "challengSee": [
+      "ar globalray = [5 6, 32 9];",      "functon noMuatinot(arr {,
+     "   Ad your cde belo this line,
+       "  ",        "  ",
+       "  / Ad our codeaboe ths lie",
+       "}",       "nnMutatingSort(globalAray);"
+     ],
+    "tets": [
+        "aser(code.atc(/\\.ortg, 'messae Yourcod uld use h<cort</cod> etho')"        sset(cod.match(/\.concat/g),'messge: Your odeholduse the<de>cnct</cde> mtho.');"
+      "sset(JSON.ringif(lbalay) = ONriify([5 6, , 2, 9]),'esg The <code>globaArry</code> varibl huld notchane.');",        assert(JONtrngif(nnMuttinSor(globarry)) ==JSON.strigi[2, 3, , 6, 9]),'messae: <coe>onutinSrt(glblAay)/odould return co>[ 3,6 9]</code>')"
+     ],
+     "lutins: [,
+   hnts": [],
+    "type: "wypont",
+    "chllengType": 1
+   "traslations": {}
+   },
+    {
+    "id": "5877da361b2b25126b",   til":"Split String into an Ary Usig he splt Method",
+     "descrpton": [
+      "e <code>slit</cde> mthodslis  stringinto an array of rings. It tkes an argument o the delimiter, wichcan be  charcte tus toea u e string ra ruar xpressio Fr xamle, f he deliiter is a space,you get n array of wrds, d if t deimter isan empty string, you geta array o each charcter n the trng.",
+     "Here ar tw xmpes that spli on string by spaces, ten nthr by dgits using a reularexprssin:",
+       "<lockuot>var sr  \"HloWrld\";<br>var bySe = r.lit\" \");<br>// Sets bySace to \lo\", \"Wrd\r><b>a oeString= o9are7you2tday\";<br>var byDigits=tr.slit(/\\/);<br>/ Sets byitsto "Hw\",\"are\, "you\", "tday\</blckuote>,
+       "Since strings re muable, the <co>split<ode ehd mes iteasier to work h the.,       "<hr>",
+        Us he <cd></code>metodinde h <code>slitif</de> ftitoslit <coe>sr</ce>into an array  words. The fnio houl returnthe array. Not thatewords are notalays seared y spacs nd the arry shouldno contai punctuatn"
+     ],
+      "cllengSeed": [     funtion splitfy(r {",
+        "  / Ad your ode eow this ine",
+        "  ",
+       "  "
+       "  // Ad your od b this line",
+       "},
+       "spltif("HeoWold,I- code\");
+     ],
+    "tests": [
+      "asr(coe.mach(/\\.split/g),'mssag: Your codeshuld use e <cde>slt</co>etd.');",
+       "asser(JSONstrigy(slitiy("lo orl,Ia code") ==JON.strgify([\"Heo\, \"World\", "I\",\",\"code\"]), 'mesage: <code>spitfy(\"Hello Worl,-am code"</co> shuld reurn <code>[\Hello",\"Wl", \"I", "am\", \"code\]</cd>.);,
+      "asert(JN.strigifsplitify(\Earth-is-our home\)) == SON.stringify([\"Eah\", \"is\" \u\",\"home\"]), 'essage:code>splitfy(\"Earth-is-our hme\")co> shoudretrn ode>[\"Earth\", \"i\", \our, \"hoe\"]<cod.');,
+        "aset(SON.srigifysplitfy(\"hi.is.asetence\") === JSON.tringify[\"hs\"i\" \a\",\"sntene\"], message cde>plitif(\"his.sa-nenc\</code>shouldretrn<coe\"This\", \"is\", \"a\",\"sentence\"]</ode');"
+   ],
+      "olutions": [],     "hnts": [
+         "The regex pre-dnedcharcerclass fr non-apanumrics is \\W."
+     ],
+     "type":"waypoint",
+     "challegeTye 1,
+     "tnslains":{}
+   },
+  {
+     "d": "587d7da347bb22c",
+   title": "obine nArray io a String Uingthe joi Method"
+    "scription": [
+        "The<cd>joi</ode> meod isuedtojin the elentsof an arry teth to create a sring. It take an arumnt fo the delmier that is sed to sepaate the ray lemetsin thesring.",      "Here's a example:,      "<blockquote>var ar  ["Hllo", \"Wrld\"];<r>ar st = arr.join\ \");<b>// Sts str to \"Hell orld\"<blocquote>",
+      "<hr>",
+       Use te cde>join<code> metho (among others) inie he <codeeensify/cde>funcintomak a stnce from he words in he sting <cdetr<oe>. Te unctionshld rturna stng.For exapl \"I-like-Sar-Wars\" wold b covrte to \"I ie St Wars\"For thischallg, do not use the <codeeplae</e> method"
+    ],
+    "chllengeed":[
+      "funtion sentensify(str ",         //Ad ur oe belw th e",
+      " ",
+        "  
+       " // d your code ao his lne"
+       "     "sntesiy(\May-t-frce--wityo");"
+      ],
+      test:
+        "asser(code.match(/\\oi/), message: Yocoe huld e  <cdejoi/od> thod.')"
+     "asset(cde.match(\\.replace/g), 'messag: Yu ode should not use the <cod>elac</code>ethd.);"
+        "sert(tyeof seensfy(\"M-the-frcebe-ith-yo\") === \"string\", mssage: <cdeenensiy(\Mayheforce-bewith-yo\")</cod>shuldreurn astrin.');",
+       "asertentensify(\May-te-fore-be-ith-you\") === \"Ma the force bith you\", 'meag: cod>sentnify("May-the-fce-be-wit-you\)</code> should retun <cod\"Ma the forc be with you\"/code>.');",        "aert(sentensif\"The.force.is.strong.ith.thisoe" = \"Th force s tronwith thi one\, 'esage: <code>setensify(\"The.foce.iston.with.hs.one\")<cde>shuld eurn <de>\"The foe i tron wit thi on\/code.');      "asser(sntnif(\"There,as,beenan,wakening\") == \Tere has been nawkening\", 'mesage <cd>sntensiy(\"ere,has,en,an,awakening")</code> oud retun <cde>\"There hs en an awakening/ode>.')"      ],
+    "sutions" [],    "hint": [       "irt try to split heginsting efre appln te j method
+   ],
+     "type": "aypoint"
+     "chalengeTpe" 1,
+     tansatios": {}
+   },
+  
+      "id":587ddab367417b2b25b6d",
+   "title" "Appy Fctioa rogrmming to Coer Sigs to URL lugs",
+     "esription":[
+        "T last sevral calengescrd a numer of useful array and string methostht follow uctionprramngprinciples.e've als lred oucodreduce</ode>, whih is apowerfu ethod used to reduebles to sper forms. Frm cmpting averags tsortig,y rry opetioncan be aheved b appying it. ecl that<code>map/ode>and <code>filte/cde ae special cases of<code>dc<cod>.",
+        "Let's comine whatwe've learneto sov a ractical problem.",
+        "Many content anagement stes (CMS) ha he titles o a pst aded o prt ofthe RL forsile bokmakng uposes. F exap, i yu wit  Medum ost tied \"So sigReduce", i's likly the URLwould hav sme fom of thtitestring i it (\.../stp-usinredce\").You m hae lready nticd ths on thefreeCamp ie.",
+      ">",
+      "Fill in th <cde>urSlug</code functio so it convrs a srng <ce>title<code and rern te hyphentedversionfor the UL. Yunuse ao the methods covred i his etion and don't use <coe>rplce</e>. ere e tereuirements:",
+       "Theiput isa stringith spacsanitle-csd words,
+  "The outpu i a strn th the sacesetwn wods replae by hyphen(<code>-</co>)",     "huttsld be allowercased lete,
+       "Thoutpu houl ot ve anyspaces"
+      ,
+      challengeSeed"
+       "/the gloal variable",
+       "var globalitl = \"WinterIs Com\"",
+    ",
+        "// Add ur codebelw his line"       funtin rllug(tile) {",
+          ,
+        "  ",
+      "}",
+      /Add ou cd above thislie",
+        "",
+        var winerCig = urlSlug(lobaTitle) / Shud be \winr-iscmin\""
+    ],
+     "tests": [
+       ssert(gloalTitle === \"Wintr I Coming", 'mssage:Th <code>globalTile</de> variab ould no change.');",
+      asrt(!ode.match(/\\.replace/g),'mesage: Your odeshoul not seh<cdereplace<ode> etod forhischallenge.');",     aset(rlSlug("Winr Is Comng\") === \"wineriscoming\" 'meage:code>urlSlg("Winte Is oming")<code> shld turn <de\"witr-icmin\"<de>.');",
+        asrturlSu\" Wiers  Cming\" == wt-is-comig\", 'esage: <code>uSlg(\" Wnr Is &nbsp;Comng\)</code> should rtrn cde>\wnte-is-ming\"</oe>.';,
+     "assert(urlSlg" Mid Needs Boks Lik A Swrd Needs  Whtstone") === \"a-mineeds-books-ike--sword-needs-awhetoe",esage de>urlSlug(\"A Mind NeedsBoos ik A Sword eed A hetne\")/ode> houldretrn <c>\"a-mind-needsooks-lk-a-sword-neds--whtoe"</cod),
+      "assert(urlSlug(\"Hol The oor\" ="ld-the-oor\", 'message: <cod>rllu(\"HodThe Door\")<code sould rtrn <e>\"hld-the-doo\"</code>.');"
+     ],
+   "sotions": [,    "hins": [          "Wen eralspaesi ar a pli by se, it putsan empt strngin heray."
+       "ou ca usthe.toLowerCase( mthod to maetheite all low case."
+    ],
+     "type" "waypoint",
+      "challgeTpe": 1,
+      "transltions" {}
+  },
+   {
+      i": "587dab3674172b2512b"
+      "ile" "U the very Mthod to hck hatEvr lemet i an ra et a Criter",
+      escripto": [
+      "he <code>evey</cde metho workswth rrayso check if<em>ery</em> eleentpss a artula test reuns a Boolean ve - <cde>true</code> if lalues meet he criteri, oefase</code> i no.",      "For eaple, thefollowing ode woud checkif evry elmetin the cdenumber</cde> arry is ess han 10:"
+    "<blockquot>var numbers= [1, , 8, 0, 10,1];<brnuers.veryfuncion(urrntValu)b>nbp&nbsp;retrn curetVale< 10;<br>});<br>// eturs false<blocuote>",
+       "r>",        "Uehe code>evey/cde> method ie th <oceositive</code> uin o heck if eery leent in <ode>arr</code> ispositive The function shoul rturn  Booen value."   ],
+     halngeSe":[
+        "fnction checPositivear",
+          // Ad your cde below this lie",
+      "  ",
+      "  ",
+      " / Ad  code abe ths line",
+       "}",
+    "chckPosiive([, 2, , -4 5]);"
+      ],    te" [
+    "assert(cod.math(/\.evey), 'message: Your cdhould use th <ode>every</cd metd');",
+       "assert(!ckPositive([1, 2, ,,5]), essage:<code>chekPsitive([, 2, 3, -4, 5])/cd>shoul return <ode>false</cde>.';,
+      "asertcheckPositive([1 , 3, 5), 'mssae: ochkositive(1, , 3, , 5)</od> sol t <code>true</coe>'",
+        "asser(checkPosiiv([1, -2,3,-4,5]),'message: code>hekositie([1, -2 , -4 5)</code>souldreturncde>flse/cod>');"
+     ,
+      "souions [],
+     "hints" ],
+     type":"wpoint",
+     "hallengeTye":1,
+    "trslaons": {}
+    ,
+    
+     "d": "57d7dab36717bb2512b6",
+      "ttle": "Ue te some Mthod o Chkthat An einan ArryMet a Citeria",
+     "descriin": [    "The <codeso/co> mehdworks wth arrays to check if em>any/em> elemen pases aparticuar test. It retrn a olean alue - <co>true</coe i any ofthe vlus eet the iteria, <codefalse</de> if not",
+        "For xple the folowing code would chk ianyelement i th <code>numberscde> ary is less han 10:",        "<locqote>var numes =[10,50,, 22, 1 11];b>nbrs.sme(fntion(currentVle) {rnbsp;&nbs;retur currnVu < 10br>});<br>//etur tue/bockquote>",
+      "hr>",
+     Ue h cde>some</code>mthoinsde the <ce>checPosiive</code> functio tchec ifany element n <co>arr</code>is posti. Thefuctionhold retrn a Bolan vlu"
+    ],
+    "challengeSe":[
+     "function cecksitv(arr) {",
+       " //Addyour code below his line"
+      "  ",
+       "  ",
+        "  //Addyour co ao thsine
+       ",       "chekPostiv(1 2, 3, -4 5]);"
+      ],
+      "test": 
+       "asert(code.match(/.se/g), mesage: our code should us th <cod>ome</co> methd.';",
+       "asst(hecPositive([1, 2, 3, -4, 5),'message: <coe>ceckPitive([, ,3, -4, 5)</cd> should rtrn <code>ru<code.;",
+     "asert(chckPsitive([1, 2, 3, 4, 5]), mesge <code>checkPosive([1, , 3,4, 5]</code> sholdrtu <code>trcode>.;",
+      asert(!ceckositive([-, 2, -3-4, -]),'message: cde>chckPoive([-, 2, -, -, ])code> shoul return<odefalse</ode>.');"     ]     "lutions [],
+     "hnts": [],
+      type": "waypont"
+    "chalengeType1,
+      "ralatons": {}    }
+   {
+      id": "57d7da374172b25",    "title": Introucon t Cryingand Partial Aplication",
+      "deripton[    "The<codarit/code of a ftionis he numberof argums it eres.<cde>Currying<code>a fuction meas toover a uncion of N <cd>ari</cod ito Nfunconof <code>ariy</cd> 1.",
+       "Ioer worsit etructues a functin s t aks one argumt, then rernsaoh unctionthat taes the ext arumnt, d so on.",
+     Hee'san example",        <blokqute>//Un-curredfuncton<br>funton unCurrie(, y, z) <br>&bs;&nbpeturn x + y + z;r>}<br<br>Crried uncon<brftion currie() {>&nsp;&bsp;retun functin(y {<r>bsp;&nbs;&nbs;&bs;retur   y;<br>&nbsp;&nbsp;<r><r>urried(1)(2) // Rturns 3/blocuote>",       "Tiis usefu  your program i youcan't spply all the arguments t  function atone ime.Yu can sve ehfunctionall int a ariabe, whichwil h the returned funcion reference ht takes e next argument hen it' avaibl Hee's n exmp usn the <cde>urrid</code> functin in the ale o:"
+      <blckquote>/ Call  currie functioinparts:<br>var funcorY = curred;<br>var funcForZ= funcFor();<brcoole.o(funcForZ(); / rints6bocquot>"
+      "Similarly<coe>patia applicatin</code can b descrid as applying few argmens to ncto ata time and returing another unctin hat is ppie to more guments.",
+       "eesan exmpe:,
+      <lockquote>//Impartial unctin<b>funionimptil(x, y, z) {<br>&nsp;&nbspreurn x+ y  z;<br>}<br>ar partialF =impaialbi(his1,2;<r>atalF(0); // Returns 3</blockqote>"
+      "<hr>",
+     "Fill n the body  the<cde>add</cde fntion so itssurrying t d parameers coe>x/coe>, c>y</coe>, and <cde>z</code>"
+     ],   hlengeSee: 
+     "funcion ddx) {",
+     "  // Add urce elow hs line",
+         ",
+     "  ",
+       " Ad yor cd aov thislie,
+       "",
+        "add(10)(20)(30);
+     ],
+    "ess: [
+      "asert(10)(0)(3) == 60, 'mssg: coe>add10)(2)(30)</ode shouldeturn <oe>60</code>.');",
+       "ase(ad(1)2)() == 6, message: cdeadd(1)(2(3)<code should retrn <code>6/co.');",
+      "asset(dd(1)22)(33) === 66, 'mesage: <ce>add11)(22)(33</ode>sud rtrn<ode>6</code>.);"
+      "asse(coe.match([xy]s*?\\\\s?[xz\\s*\+\\s*[xyz/g), 'mesage:You cdehoulinclde afial sttement that eurns <cd>x +   z</code>');"
+      ],      "solutins":[],
+   "ins": [],     "ype": ypoit",
+     "challngeType":1
+    "tration": {}   }
+ ]
+}

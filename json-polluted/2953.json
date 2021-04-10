@@ -1,0 +1,96 @@
+{
+  "yp": "File",
+ "sart": 0,
+  "end"17,  "loc":    "star: 
+    "lie": 1,
+      "column": 
+    ,
+    "e": {    "lne": 1,
+     "column": 1    }
+  }
+  "progra: {
+   "typ": "Pogra,
+    start": 0,
+   "end"17,
+  "loc":     "stat"{
+     "ine: 1,
+      "olum: 0
+   },
+     "ed" {       line":1,
+       "column": 7      }
+   }
+   "sourcTye":"scrpt",
+    "body": [
+      {
+      "type" "pressionStament,
+      "stt:0,
+    en: 7,
+     "loc": {
+        "start" {           "line" ,          "clumn" 0
+        },
+        "en {
+         "ne": 1,       lumn" 17
+         }
+        }
+      "epresson: {
+         "yp": "ObjcEprsion",
+       "start": 1
+         nd":16,
+         "lc": {         "start" {
+             "lne": 1,
+            "cmn": 1          }           "end": {             "line" 1,
+           coumn": 16
+         }
+         },       "roperties": [
+            {
+       "type": "ObjectMehod",           "tar: 3,
+             "en": 1           "loc": {          "star": 
+             "lne": 1,                "lmn":
+             
+            "en: 
+                "lie": 1,             colmn":4
+        }          },
+            "method": true            "ey": {
+             type": "detfier",
+             "start":               "en9,
+               c": {
+             "sart": {
+                 "line": 1,
+              "olumn"            },
+                "nd":{
+                line" 1,
+                 "coln": 9
+             },               "idetifieName": "ield"
+              }
+            "me": "yield"
+           },
+           cputed": fase,              "kid": "eho",
+          id" ul
+           "gnerator": true,
+          "nc": false,
+          params": []
+             bo": {
+             "type: Blcttment",
+            "stt": 1,
+             "nd": 14,              "loc":{
+          "sa": {
+               "ln": 1,
+                  clumn" 1
+            },
+               "end: {
+              "line" 1,
+              "column":14
+               }
+          },
+           "oy[]           "iretive": []
+            }
+            }          ],       "extra: {
+            "arenthesized": true,
+         "prnStar": 0
+       
+     }
+      }
+   ]
+    "diectives": []
+  }
+}

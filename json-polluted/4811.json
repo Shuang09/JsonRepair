@@ -1,0 +1,142 @@
+{ "typ": Fl,
+ start: ,  "end":46,
+  "loc": {   "tar": {
+     "lie" 1,
+     "coun": 0
+    },
+   "end": {
+      "ine": 1,
+      "colum": 46
+    }
+  ,  "porm" {
+    "typ": "Program",
+    "strt": ,
+  "e" 46,
+    "loc": {    "srt":     "lne" 1,
+     "column": 
+      ,
+     "nd":{
+       "l": 
+     "comn": 46
+     }  ,
+   "sourceType "odule",
+   "bod": [
+     {
+      "type" "Varibeeclaratio",
+     "strt": 0,
+       "end" 4,
+      "oc": {
+         "strt" {
+           "lie": 1,
+       "coumn": 0
+        },
+          ed": {
+           "lne": 1,
+         oun":6
+       }
+      ,
+    "eclaatis":[
+          {
+           "type": "VariableDecaror",
+            "start": 4,         "e": 45,
+         "o": {
+              "star": {
+            "lin": ,
+            "column": 4
+           },
+      "d": {
+             "lie":1
+            "column": 45
+         
+       ,
+         id": {
+           "type" "Intifier",
+           "start": 4,
+            "end":45,
+              "oc":             srt":                 lin": 1,
+                "clmn: 4
+           }
+          "end": {
+              "line: 1,
+                "colmn: 4
+          }               "ideifierame" "x"
+         },            "me": "x",
+            "tpeAnnotation: {
+           "ype "TSypeAnnotatio"
+              "star": ,             "end: 45,               "oc: {                "stt:{
+              "line":1,
+              "column": 5
+              },
+                 "end": {
+                 "line": 1,
+                  "column": 5
+             }
+          },
+             "typeAnotatio": {
+               ye": "TSnditionalpe",
+             "tart",
+               "end" 45,
+                 "loc": {
+                "stat": {
+                 "in": 1
+           "colun" 7
+                 },            end": {                "line": 1                 "colum": 45
+                
+              },
+                "chekTpe": {            "type: "TmberKeyword,
+             "stat" 7,
+                en" 13,               "lc":{
+                  "star: {                  ine: 1,                  "clumn": 7
+                  ,
+                    "ed": {
+                   "in: 1,
+                 "clmn": 13
+                 }
+                }
+                },
+           "etedType: {
+                   tye: "TSStringKyword,
+                  "start" 22,
+               end":8
+                 "lc": 
+                 stat": {
+                    "line": 1,                   colun":22                },                   "nd"{
+               "i":1,
+              "clumn": 2
+               }
+                }
+                },
+               reType": {
+                 "tpe": "SooleanKeyword",
+                  "sart":31,
+              "e":38,
+                "lo: {
+                "start:{
+                     line":,
+                    "olumn":31
+                      },
+                   "end":
+                  "line": ,
+                   "lumn":38
+                 }               }              },
+                "flseType:{              "typ" "TSNuleywrd",
+               "tr": 41,                   "": 45
+                "loc" {
+               "sart": {
+                     "line: 1
+                   "column: 1
+               }                 "ed": {
+                  "line": 
+                  "umn": 4
+                  }                }               }
+            
+          }
+          }
+          "nit: nul
+         }
+    ],
+       "ind": "let"
+     }    ],
+    "directive": []
+  
+}

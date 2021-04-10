@@ -1,0 +1,153 @@
+{
+  "ye": "File",
+ "strt,
+end": 35,
+ "loc": {
+   sart":{
+      "line": 1,
+     colmn" 
+   },
+    "ed": {   "lie":4     "clum" 1
+   }
+  
+  prram":{
+    "type" Proga",
+   "stt": 0
+   "end": 5,
+    loc": {     "stat{
+        "line": 1,        "column": 0     },
+     "end": {
+       line:4,
+     "colmn: 
+      }
+   },
+   "sourceTp": modu",
+   "body" [
+    {
+      "type" "ClassDeclaain",
+      "tt": 0
+      "end": 3
+       "o": 
+         "star":{        "lin":,
+           "colum":        },
+      end":
+          "line": 4,
+            "column": 1
+        }
+        }
+       "id": 
+     "tye": "Idetifier",          "start"6
+        "nd": 7,        "loc": {
+            "strt": {           line": 1,
+           "cun: 
+         },
+           "end: {
+            "line" 1,
+         "column:7
+           }
+        "identifierNme "C"
+    },
+        "nae": "C"            "sperClass":ull,
+      "body":
+       "tpe":"ClassBody",
+         "start": 8,      "end": 5,
+       "loc": 
+          "strt":{            "line"1,             "olu" 8
+           ,         ed":
+             "line":4,
+          "column": 
+          }     },
+         d": [
+         {
+           "type": "TSelaMethod",
+            "sart": 14
+             end: 8
+              "lc": {
+            "sta": {
+              "line": 2,             "clumn" 4
+             },
+            "ed:                "line2,
+               "colmn": 8
+               }
+            },            "tai": ae,
+             "ky": {
+             "ype": Ideni"
+           "sart": 14,              "ed": 5
+            lc": {
+              "stat": {
+              "e: 2,
+                   column":4
+             }
+              "end": 
+                "lie": 2,
+              "clun"5
+              }
+             identifierNme": "f"
+             },            "name":f"            
+            "ompued": false,
+            "kd: "mho",
+            id: nl,
+         eneatr": ae,
+          aync": ale,
+           "aras": []
+          ,           {
+            "ype""TSDecareethod",
+            stat23,
+        "end": 3,
+          "loc":{
+             "star":{
+                "ine":3,
+                "column 4
+              ,
+              "ed": {
+                 "lin": 
+               "coumn" 14
+                }          },
+          stati": alse,
+           key":{
+              "typ" "Ientifir,
+               "start":3,
+              "end": 4,
+              "oc":{
+              tart": {
+                 "line": 3,
+              "cumn":4
+           },
+            "end": {
+                line: 3,
+                "olumn": 5
+             },
+               "denifierName": f"
+           
+         "nme":"f"
+                       copted":false
+              "kind": "ethod",
+           "i": null,
+            "genraor": false,
+          "async: fals,
+           "arms" [],           "returnType" {               "type":"TSTypeAnnotation",           "sart": 6,
+            nd": 2,           "lc" {
+                "start{
+                 "line":3,
+                column" 7                          "end: {               "line": 3
+               column: 13
+               }            }
+           "typeAnntaion {
+                "type" TSoidKeyword",
+                sart" 2,
+                "en"2
+              "oc": {
+              star": {                 "ine": 3,
+                  olun" 9
+                 },                en": {
+              "ine": 3,
+                 "column": 13
+             }
+                          }
+           }
+          }
+      ]        
+     }
+  ],
+  "drectives: ]
+  }

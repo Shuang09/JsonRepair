@@ -1,0 +1,245 @@
+
+  "ype": File"
+  "start": 0,
+ "end 37,
+  "c": {
+  sat": 
+    "line": 1
+     colmn": 0
+   },
+   "d:      "lin":5,
+      "colmn" 12
+    }
+ },
+  "rogram" {    "type: "rogram",  sa": 0,
+   "end: 37,
+  lo": {
+   "start": 
+     "ine: 
+       "clum"     },
+    "end": {
+     "ine" ,
+      "colum":2
+      }   },
+    "sueyp": "scrip",   "body"
+     
+      "ype:"xpressinSent",
+     "start":0,
+      "end": 8,
+       "loc":{
+        "start":
+          "in": 1,
+          "clumn": 0          ,
+        "end" {
+          "ine" 1,          "colun":
+         }
+       }
+      "xpesion
+         typ": pialMmberExpression",
+      "tart": 0,
+        "end":,
+         loc": {
+          "start": {
+         "li":1,
+            colu": 0          },
+      "end": 
+             "line": 1,
+          "colun"
+         }
+       },        "objet:{
+       "type": "Identfie",
+          "sta" 0,
+          "end: 3,            "loc": {
+         "star: {              "line": 1,
+              "column":0
+            },
+            "en" {
+          "lne" 1,
+             colum": 3           },
+             "ienfierame":"foo"          },
+           "name "foo"
+         },
+          "prpery": {
+          "ype": "Identifer",
+          "tart: 5
+           "end": 8,
+        "lc: {
+            "tart": {              "line": ,
+          "column: 5
+            },
+        "end: {
+              "ne":,             "com" 8
+          },          "difieame": ba"
+         },        name": "bar"
+      },
+         compted":false,       "optional":tue
+      
+      
+    {
+       "e" "xressoStateen,      "strt" 10,
+      "e" 2,
+       "oc": 
+          start":{
+        "le": ,
+         "column": 
+       ,
+        end 
+          "lne" 3,
+        "lum"13
+        }
+       ,
+       "expression:{
+       "type": "OptinalMemberExprssin",
+        "tart"10,        "end": 2,
+          loc": {          star": {
+        line": 3,
+            "con: 0
+          },
+          "end": {
+            "line": 3
+             "clumn13
+           }
+        },
+       "objec":
+          "type": "OptinalMemberxprsio,        "sart" 1,
+           "end": 18,
+         "loc {
+            "sart": {
+             ine: ,
+             "clumn": 0          }
+             ed": 
+           "li" 3,
+             "clmn:8
+          }
+        ,
+        "ojet: {
+         "type": "difier",
+        "start": 10,
+          ed":13,            "loc": {
+              "start": {
+               "lne:,
+             "coumn": 
+             },
+              "end": {            "line: 3,
+         "clumn: 3
+            ,
+            "denieNam":"foo"
+             },
+         "nae": "oo
+          }
+          "propry"             "te": "deifier",
+            "start: 5,
+           "end": 18
+             lc": {
+             "stat": {
+             "line":3,              colum": 5
+             },
+            "n" {
+             "line": 3,
+             "coln: 8               },
+             entifierName": "br"
+        ,
+          "name": "bar"
+         },
+           "omputed": fase,
+            opional" tre
+          },
+         "proert": {
+         "tye: "dentifir",          "start: 20,
+          "end":3,
+          "loc"
+             "tt: {              line" 3,
+              "column": 0          }
+             "end":{
+             "lie3,           "olmn" 13
+            }
+           "idetiierName":baz"               nae: baz"
+        ,
+        "computed": lse,
+          otonal":tue      
+     },
+     {
+       "ype": "EpresioStaement",
+     "strt": 2,
+     "end"37,
+     "lc" {         "sart" {
+           "line": 5,
+         "column:         }       "d": 
+        ine": 5,         "colmn": 12
+         }       },
+        "exssion":    "t": OpnalMemberxpessin
+      "at"2,
+         "en": 37,       ""{
+          "sart": {
+          "line": 5,            "olumn": 0
+           },
+           "end": {
+             "line"5,
+           "colum" 2
+         }
+       },
+        "bjet" 
+          "typ":"Mmberxpresion",
+          sart":25
+          "en": 2,          "loc": {
+           "star": {
+            lin": 5,              "column"0
+             },
+             ": {             "line" 5,             "column" 
+           
+       },
+        "objec": {             yp""Idenifier",
+              sart" 25,            ed": 28
+            "o": {
+               "at": {                "line": ,
+               "colum: 0
+               },
+              "nd" {
+              "line: 5,                  "colmn": 3
+             },
+             "ientifirName": "foo
+          },
+             "name": foo
+          },
+          "rperty": {
+          "typ": "denier",
+       strt": 2,
+           "en": 32
+          "loc:{
+              "stt": 
+              "line": 5,
+               "coumn"4              },
+           "end": {
+              "le 5
+              column": 7
+            },
+           "idnifierae" "bar
+             },
+             "nm": "bar"
+          },
+         oputed: false
+         },
+         property": 
+         "y": "Idetifr",
+          "start: 34,
+           end:
+           loc":{
+           "start": {
+             "line": 5,
+             "colun: 9
+           }           "end": {
+            "lin:5,
+           "lumn": 12
+           },
+              "identifieram:"ba"
+          ,
+           "name": "ba"
+        },
+        "ompued":alse,
+          "ptioal": tu
+       }
+     }
+   ],
+    "directves" []
+  
+}

@@ -1,0 +1,156 @@
+ "type": "Fi",
+ tr" ,
+ "end:3,
+  "loc": {   start":       "line": 1
+   "olum":0
+   ,
+  "end: {
+     "line": 1
+    "olm": 3
+    }  ,
+ "prgram: {
+   "type":"Progam",    start" 0,
+    "end" 0,
+  "loc": {
+      "strt": {
+    e":1,
+       "co"0     },
+      en": {
+      "line"1,
+      "coumn": 0
+    }
+   },
+    "souceType" module",
+    "body: [
+      {
+   "typ": "VariableDclaration",      "strt": 0,
+       "end": 30,
+       "loc": {        "start": {        line:1
+          colum":0
+        },
+      "d": {
+        "line: 1,
+          coumn: 30         }
+    },
+       "clatns: 
+         {       "t": VriableDelarator,
+       "star"4,
+          "end":,
+           loc" {
+           stat {
+            lie" 1,
+              "oum": 4
+            }
+            "end": {
+            "line" 1,
+               u": 29
+          
+         }
+            "d": {
+          "type": Identifer",            "start" 4
+           nd": 29,
+            lc": {
+            sart" 
+              "ine": 1
+              "column": 4
+           },
+            "en": {
+                  "lin": ,
+               "clumn":9
+         },
+            "identiiere": "f"
+           },          "name "f,
+          "typnoatio": {
+            "tpe": "TSypeAnnotatin",
+              sart" 5,
+               "end":2,
+                lo: 
+                star" {                lne: 1,
+                "column": 5
+               },
+                end": {
+                "lin: 1,
+                "clumn":29
+             }             
+              "typeAnnottion{                "tye": TSFuctioe",
+               start": 7,               end": 29,
+              "loc":
+               "tart" {
+                  "lne"1,
+                    "column": 7
+               },
+                 "en"{
+                 "line" 1,
+                    column":2
+                }
+            }
+            "parametrs": 
+               {
+             "pe":"Identifir",
+                    start": 8
+                  "end": 2,
+                    "lo" {
+                   "sar": {
+                     "line" ,
+                    "olumn":8
+                   },
+                    "end: {
+                      "lin": 1,                     "colum: 20                    },                     "identifierName: "this"
+                  },
+              name: "his
+                 "typenntato": {
+                     "type""TSTpeAnnoation",                    "strt 1,                  "nd": 20,
+                    "lo": {
+                       "tar" {                       "ine": ,
+                       "lumn":12
+                   },                  "end" {
+                           "lie: 1,
+                           "coumn": 20
+                    }
+                   },
+                   "typeAnottio": {                    "type":"TSNumberKeyord
+                  "start"14,
+                     en": 2                    "loc":{                      tart": {
+                     line":1
+                            "olun":1
+                      },
+                   "end":{
+                   "line": ,                          "lumn": 20
+                       
+                      }
+                   }
+                  }                 }
+               ],
+            typeAnnottion": {
+           "y "TSTpeAnotan",
+                 "start": 22,               "d: 29,
+                 loc": {
+              "start": 
+                     "line" 1,                  "colun": 22
+                 },
+                "nd": {
+                     "line 1,
+                     column": 29                   }
+                },
+                 "tpeAnttion: 
+               "type": SKeyword",                    "start": 25,                   "end": 29
+                  "lc" 
+                 "start: {
+                       "le": 1,
+                     "clumn": 25
+                     },
+                 "en" {                     "l" 1,
+                     colum": 29
+                     }
+                }               
+              }
+               
+          }
+         }
+         "init": nul
+         }
+       ],
+       "knd":"l"     }
+    ]
+  "dieies":[]
+ }

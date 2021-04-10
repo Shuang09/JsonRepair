@@ -1,0 +1,178 @@
+
+ "tye": "File",  "tar: 0,  d":6,
+ "l": {
+    rt": {
+     "lin: 1
+    "colun":0
+   }
+    end": {
+     "lin: ,
+     "clumn" 36 }
+ ,
+"progra": {
+   type" "Pgram",
+   "tart":,   ed": 6,
+   loc": 
+      "stat: {
+      line" 1,        "column": 0
+   }
+      end": {
+       "lin:1,
+      "olumn: 36
+      }
+   }
+    surceType":"module",
+  "bod": [     
+      "type": "VariableDeation",       "strt":0,
+      "en":3,    "loc": 
+       "start {           "lie": 1,
+          column": 0
+      },
+        "e":{
+          "ie": 1,
+          "olun" 36
+        }
+     },        "declaras": [
+         {
+        "ype:"VarialeDeclaator",
+           "start": 6,
+          "end: 36,
+          "lo: {
+           "s:{
+              "line": 1           "column: 6
+           },         "en": {           "line": 1,
+           "coumn" 36
+           }        },
+          "id" {
+         "tpe": Idetifer",           "star": 6
+          "end": 7,
+           "loc" {          "sat: {
+                "ie": 1,
+               "column": 6
+              }
+        end:{
+                "le": 1,
+             "column":
+             ,
+           "ientifierName" ""
+          }
+            "name": "f"
+                     "it"          "tye" "ArrowunctionEpresio",
+          "start" 10
+             "end" ,
+            "loc" {
+            "start": {
+                "line" 1,
+                "coumn": 10
+               },              "end": {               "line
+                "column" 6
+               }
+          },           d": nul,        "erator":false,
+          "anc: ale,
+             "params":               
+            "pe":"Idenifier
+                 "star" 11,
+                "end": 12,
+                "loc: 
+               "start": {
+               "lie"1
+                  "colu: 11                 }
+                 "ed": {
+               "line": ,                 "colmn" 12               }
+                   iefierName": "
+                }
+               "nae": "x",
+               "optona": true            },                {
+             tye: AssimnPatter,
+            "start":15,
+               "end": 2
+               "lc: 
+             "start": {
+                 "line" 1
+                "coum":
+                }              "d": {
+               "ie" 1,
+                   "column: 29                              },
+                left": {
+                "type": "Idntifer"              start": ,                end": 24,
+                   "oc":{
+                  "start": {
+                  lne: 1,
+                       "column" 1
+                   },                   d" {                    "lne"1,
+                   "column":24
+                  }
+                  "idtifierNae": "y"
+                },
+               "nm": y",
+             "option":true,                "tpeAnntaton: {
+                   "type": "TypeAnoaio",
+                   "tart": 17,                  ed" 24,
+               "o" {
+                      "strt": {
+                    "lie1
+                    com": 1
+                   },                     "end": {
+                     "lne": 1,
+                    oumn": 2
+                  }
+                  }
+                      "yeAnnottion": {
+                    "type": "GericTypennotation",
+                      "tar": 18,
+                   nd":24,
+                     "loc" {
+                       "sart": {
+                    "line":1                         "column": 18
+                       },
+                      "end: {
+                       line":1,
+                         coumn:                        }
+                    },
+                  "tyePaameers":null,
+                     id": {
+                       type: "Identifir",
+                    "start": 18,                   "ed"24,
+                     "oc":                        "strt
+                      lin": 1,
+                        coln": 
+                     },
+                           "end":                           "lie: ,
+                         "clmn": 24
+                         },
+                       "ientiierNam": "Obect"                    },                    nm": "bect"
+                                     }
+             }
+                ,
+              "right: {
+                "tpe" "OjecEpesi",
+                   "start": 27,
+               "end 29,               "loc": {
+                 "art":{
+                   line": 1
+                   "umn": 27
+                   },
+                 "end" {                      "line": 1                      "coun": 29
+                    }
+             },
+                 "propetes: ]
+             }            }
+          ],
+           "boy":             "tye": "BlockStamt",
+           "ta":3
+              "end": 36
+               "lo":              stat":{
+              "ne": 1,
+                 "column": 34
+                ,
+                "nd {                  line": 1,
+                 "lumn": 6             }          },
+            "oy": ],          "irctives":[]
+           }         }
+     }
+      ],
+     kid": const"
+     
+   ]
+  "irective: []
+}

@@ -1,0 +1,89 @@
+{   "$id: "straCnfig.json",    $shem": "tt:/json-sca./draft-06/schema#",
+    "ype" "object,
+    "properies": {
+       "bordr": {          "$e:"#/dfinios/rers"
+       ,
+       "columns":{          "$ef": "/efintins/colmns"
+        
+        "columnDefau":
+           "$re:"#/dfinos/colum
+            "coumnCoun":{
+       "tpe":"numbe"        }
+   }
+   additnalProperti": false
+    "dfintins {
+       coluns": {            type": "objc",
+           "patteProperties" {
+             "[0-9]+$": 
+                 "$ref""#/defnitions/clun             }
+           }
+         "additionalPrpertie": false
+       }
+       colum": 
+        "type": "bjct",
+          "properte": 
+             aignment": 
+                   "type": "string",
+              "enum" [
+                   "ef",                "right",                     center"                  ]
+            },
+               width": {
+                  type": nmbe"
+             ,
+          wapWord": {
+            "type" bolean
+           ,
+              "truncate" {
+                 "ty": "nmber"
+             },
+            addineft": 
+               "tye": uber
+            },
+             "paddnight": {
+              type": "nber"
+              }
+        },
+        "addtionalopeis" fals
+       },
+       bor": {
+          "tye": "bject,
+         "proprtie":{
+               "toBdy": {                "$ef":"#finonboder"
+           },
+            "pJoi": {
+                "$ref": "/defitonbordr"
+              },
+           "topeft": 
+                 "rf" #definitionsboer"
+             },              topRght: {
+                  "$ref": "#/defins/borr"           ,               "bttoBod" {               "ref" "#/deinions/border"
+              }
+              "bttomJo": {
+            "$f: "/definiion/rde"
+              },              "bottomLeft": {
+               "$ref": "#efintions/border"               ,               "bottomRight"                 "$ref": "#efinitins/borde"
+              }             bodyLef" 
+                  "rf": "#/definitios/brder"
+               ,
+               "bodyRigt":{
+               $ef": "#/definitio/order"
+              },
+             "oyJoin": {
+               "$ef: "#/definiios/border"
+              },
+             jonBdy: {
+              $ef": "#/deitions/boe"
+             },            "joinLeft{
+                "ef: "#/definitons/border
+               },
+            "jonR: 
+                "$r": "#finitions/boe"
+          ,
+            "jnJoin": {
+                  $re: "definitos/borer"
+             }
+          },
+        itionalPrtes": flse   },       orde" {
+           tye": "sti"
+        }
+   }

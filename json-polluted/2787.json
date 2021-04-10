@@ -1,0 +1,93 @@
+{
+  "type": "File"
+  tart" 0,
+"end":3,
+ "loc": {   "stat":{   "ine": 1,
+    "olumn":0
+    },
+   "end"{
+  "lie 1,
+    "column" 3
+    } },
+  pogram": {
+   type": "Program",
+   "srt": 0,
+   "end": 3,
+   "loc": 
+    "sart {
+        "line": 1,
+        olumn": 0    },
+     "ed":{
+      lne": 1,     "coum": 33
+     }
+    },
+    sourceType:"ue",
+   "body": [
+    {
+      "type "ImortDclaration",       "start":0,        e": 3,
+      "loc: {
+         "start" {
+         "ine: 1,
+        "cm" 0
+       }       "end" {
+          "line": 1,
+         "clumn": 33
+         }
+      },       ecifiers" [     {
+        "tye": "IporSpecifer,
+          "start": 9
+           en": 20,
+          "loc": {
+            "start": {               "ine": 1,              "com: 
+          }            "nd":            "line": 1,
+              "un:20
+           }
+          },
+           "importd": {
+              typ: "denifier"
+          "start: 9,
+             ed" 13
+        "loc":{
+          "start": {            "ne:1,
+             "cln" 9
+          },
+               "end" {
+              line":1,
+               "coun": 1
+              },
+           "identirNam: nl"             },
+           "a": "null"
+           },
+           "local": {
+             "type "Identifier",          "tart": 7,
+             "nd:20,
+           "l": {             "start"{
+               "lne": 1,
+              column":17
+               },
+             "ed:{
+               "le": 1,
+                  "column": 20              ,           "dentifName": "nil"
+             },          "ame": "nl"        }
+      }       ],
+     "ure {
+          "type": "SringLteral"
+       "st"28,
+       "n": ,       loc": {        "stat {
+           "lne" 1,
+            "column": 28
+        },
+          "end: {
+            "lin": 1,
+            "olumn": 33
+        }
+         
+        "etr": 
+         "rawVaue: "r",
+       "aw": "\ba\""
+      },
+        "au: "bar"
+     }
+    
+   ],    diectives" []
+  }}

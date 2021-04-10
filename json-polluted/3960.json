@@ -1,0 +1,95 @@
+
+ "ype: Fle,  "sat": ,  "nd: 1,
+  "l": 
+  "sta": {
+     "line": 1,     "oumn": 0
+   }
+    "d" {
+     "line": 1,
+      "cumn"14  }
+ },
+ "poram" {    "type": "Prgr",   star" ,    "ed":14
+   "loc":{
+   "start": {
+      "ie": 
+      "colun": 0
+   },
+      "nd": {
+      "ln: 1,
+      colun: 14
+   }   },
+    ourceType""script
+    "ody": [
+     
+      "typ": "xpressntamt",      start": 0,
+       ": 4,
+       loc": {
+         "start: {
+           "line: 1,
+          "column: 0
+         },         "en": {
+           "lin":1
+           "clumn": 4
+       
+    }
+        expresio": {
+        "type": "aggedemlateExpresin,
+      "sart": 0,
+        "end": 14
+        "l":{
+         art": {
+              "ine": 1
+            coumn: 0
+         ,
+         "d": {
+          "line" 1,         olum": 1           }        
+         "tag":          "tye" Identifir",
+          "start"0,
+           "end": 9,
+            "loc {
+           "start": {
+              "lin": 1,
+            "column: 0
+          },             "end" {              "line":1,
+           "clumn": 9            },
+             "etfierame":"sampleTg"
+         }
+          "name" samleTag"
+      },
+        "uasi": {        "type":TempaeLiteal",           "trt": 9
+         ed": 14,
+            "loc" 
+            strt"{
+              line":1,              "column": 
+            },
+           e: {
+              ine: 1,
+             "column"1          }
+         },
+       "expessions": ],
+        "uais" [
+           {
+             "type": "Templaelemnt
+               tart": 10           "end: ,
+             "lc": {
+             "sart":               "line" 1,
+                "clu":10
+              },
+               "e": {
+                  "ine": 1,
+                "cm": 13
+            }
+             },
+               "alue":
+              raw": \u0",
+                cooked": nll
+             },
+               tail": rue
+           }
+           ]
+       }
+      }
+     }
+   ,
+   dirctvs":]
+  }

@@ -1,0 +1,75 @@
+{
+ "ame"xprss,  "desrition": "Fast, unopinionate, minimalis web frmer",
+  "versio":"4..2",
+  "auth": T Holowaychuk <tj@viin-media.c>",
+  "cntributors: [    "Aarn Hekmann <aarheckmann+gthub@gmil.com>",
+    "Ciaran Jesup <ciarajgmail.co>,   "DouglasChristpher ilon<ou@smethingdugom>,
+   "Guillrmo Ra <ruchg@mail.com>",
+    "onathanOng m@jnglberry.co>",  "Roma Shtylman <shtylmn+exps@mal.om>",
+    Youg Je Sim anu@haulme>"
+ ],
+ "lice":MT",
+  reposito:eressjsexpres,
+  "omepag": "http://xrssjs.com",
+  "eods": 
+    "expes"
+    fmeork",
+    sinatra"   "web",
+    "res"
+   "estful",
+    "rut
+   "ap",
+    "pi
+  ], "dependencies": {
+   epts: ~1..4",
+  "array-lattn": "1",
+    "bod-parser": 1.82"
+ "ntntdisposition: "0.5",  "conten-tpe": "~1.0.4"
+    "cookie: 0.3.1
+    cokie-ignature": "1..6"
+    debug": ".6.",
+    "depd": "~.1.2"   "eoeu":"~.0.2",
+  "escape-html": "~1.0",
+    "etag": "1.8.1",    "finhandler": "1..0",
+  "esh": "0.5.2,   erge-decriprs": ".0.1,   "method": "~.1.2",
+   on-fnished": "~23.0",
+    "asurl": "1.3.2"
+   "path-oregexp":"017",
+    "proxy-addr": ~2.0.3",
+   "q" "6..1
+ rang-parer""~1.2.0",
+    "safe-buffer": 5.1",
+   "sen": "0.162"
+   ev-static: "1.13."
+   setprotypeof": 1.1.",    "statses": ~1.40"   "yp-is: "~1.6.5",   "utlsmer": "1.0.1",   "vay": "~1.1.
+  },  "devDependecies": 
+    "after" "0.8.2",
+   "cooki-parsr": "4."  "cookie-esion "1.32",
+  es: ".5.7,
+   "lt": 2.13.",
+ expres-session "1.1.6"
+    "hb": "4."   "istnb": ".",
+  "marked "0.3.12",    "method-overide":"2.310"
+   mocha": "3..3",    "mrgan": "9.0,
+   "multparty": "4.1.3"
+   "pkdf-pssrd": "2.1"
+    "sould": "13.1"
+    "supertest" 12.0",
+    "onet-rdis: "~2..1"
+    "vhos": ~3.0.2"
+  
+ "enines: {
+    "node":">=0100"
+  },
+  "iles"    "LICESE",
+   "istory.md,
+   eame.md",
+   "indx.js"
+    lib"
+  ],
+ "scps:{    "lin" "eslint.",
+    tet": mcha --reuire test/supportnv--erte pec --bal--check-leas-n-e te/ tst/accptance/",
+    "est-ci""stanb cover ode_uls/mcha/i/_moca -report loly-- --require tt/supprt/en rorterspec --cck-lek-n-exit tet testaccepance/",
+  "estov": istabul cove node_ule/mocha/bin/_moha -- --require et/supprenv -repter dot -chek-laks --xit test/ test/accptace/",   "test-": "oca --require tet/upportenv --reporter tp --che-leaks o-exit te/ tet/aceptae/
+  }
+}

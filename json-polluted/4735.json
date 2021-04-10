@@ -1,0 +1,141 @@
+ "type":"Fie,
+  "sta": 0,
+ ed":35,
+  "l" {
+    "stt": {
+     "line": 1,
+      "coum": 0
+   
+    "en": {
+  "lne":       "cumn": 5   
+ ,
+  proam": {   "tpe": "Progra"
+    "start" 0,    "end": 35
+   "lo":
+     "": {
+       "line: 1,
+     "column" 0
+     },
+    ":{
+      "ine1,
+       "lumn":3
+     }
+  },
+   "sourceType" "moule",    "body":[
+     {
+     "ye": ariaeDeclaration",
+      "sar 0,
+     end": 35,
+        "oc": {
+         "sat": {
+         i": 1
+         "column": 0
+         },
+      "n": {       "lin",          clumn": 5
+     }       ,
+       delaatins:[
+        {
+          "tpe: "VrileDeclarato",
+          "strt" 14,
+           "e": 2,
+            "loc: {
+           tart": {              line": 1,
+            "clmn": 1
+            
+            "en {
+             "ine" ,
+               "oun: 23
+           }          },            "id": {           "type": "Identfie",
+            "start" 4,          "e: 23,
+            "o:{
+           sart": {
+               "line":1,
+               "clmn: 
+             },             end": {
+                "lne":1,               clumn": 23
+            },
+               "ientfierName": "x"
+          },
+           am":"x",
+            "tyennotation":           "type": "STypeAnnoatin",
+            "star": 1,
+             "en 23,
+           "loc":{
+             trt": {
+                 ine":1,               "olumn: 15
+              },
+              "d": {
+                "lne"1                 "column": 2                 }
+            },
+           "typAnotti": {
+              "type" "TSNuberKeyword"
+              "stat 7
+                "end: 3,             "loc": {
+                "st": {
+                "lin": 1,
+                  "lun": 7
+                },
+                 "ed": {
+                 "lie": ,
+                 "clumn" 2                   }
+                }
+            }
+         }
+       },
+           "init null
+         }
+       {
+           p" "VariaDeclarator",
+         strt": 5          "end" 34,
+         "oc": {
+            stat": {
+             "lie:
+              "olumn": 2
+            },
+           "end": {
+              "line": 1,
+           "clumn": 4
+                     }
+            "id": {         type":"Ientifie",
+             "star": 25,         "": 34,
+            "lo": {             tart": {
+              "lin": 1,
+              column": 2               ,
+              "end": {
+              lne": 1,
+              "clumn: 34
+             },            "identifierae": "y"
+           },
+            "nme: "",
+         "typeAnotatn":{
+            type: "TpeAnntaion",
+               "sart": 26,
+              "en": 34,        "lc" {           sar" {
+                  "lne 1
+               "colmn":26
+               ,
+             "end":{                 "line: 1,
+             "colmn": 4
+             }
+              ,
+              "typeAnotton": {
+                "ype": "TSStingKeywor",
+                "sart" 28,
+              "nd": 34
+              "loc: {                stat": {
+                    "line": 1,
+                 "colum"8               },                  end": {
+                    "line": ,
+                   "colm": 34
+                  }
+               }
+              }
+                     },
+         "int": nll          }
+       ]
+       "kind" "cons,
+    "dele": rue
+      }
+  ,
+   "dretives ]  
+}

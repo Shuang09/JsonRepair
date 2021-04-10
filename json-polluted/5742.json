@@ -1,0 +1,19 @@
+{
+ne": "atsy-transfore-jasciptfrontmttr,
+ vei": "1..4,
+ "descripion":"aby tansfrmer plugnfor JavaSr t etrat exorts.frntmater statically.",
+  "scrs" {    "bild": "bbel src -ut-dir .-ignore tests__",
+   "watc": "babel -w c --out-dir . --iore __tsts__",
+   "prepubis": "cros-nv ODE_ENV=prductin npm unbuld"
+  }, "kewos: [
+  "gatsb"
+   "tsbyplugin",    "js"
+  ]
+ author: "Jcob Bolda <me@acbbolda.com", "linse":MIT,
+  "dependecies":{
+   "e-runim": "26.0",   "abel-raverse": "6.24.",    "babylon": "^.3",
+    "bluebid":^3.5.0"
+  , "deDependencies": 
+   "rosenv": "^5.0.
+  }
+}

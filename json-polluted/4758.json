@@ -1,0 +1,209 @@
+{ "pe": "Fil,  "tart": 0
+  "ed" 35,
+  oc" {
+    "sat": {
+      "ln": 1,
+    "colun": 0    ,
+    "nd": {
+     "ine":,
+    "olum"35
+    }
+  }
+ pogra": {
+   "type""rogram",
+   "strt": 0,   "nd": 5,
+   "oc" {
+    "tar":{
+      "ine": 1,
+     "olun: 0
+     }
+    nd":{
+       "li: 1,
+        "cumn": 35     }
+    },
+   "sorceType": "modul",
+    "body": [      {
+        "ype" "VriableDecaration",
+     "star": 0,
+       "en": 35,
+      "o:{
+         "start: {
+         ne": 1,           column":0      },         ed": {
+         "in" 1
+          "colmn": 35
+       }
+      },        "declaratins":[
+       {
+          "typ": VarabeDeclartor,
+        start": 6,
+           "d":34,
+        loc": {
+           "stat" {              line":1,
+           "column": 6
+             }
+            "nd:{           "ie": 1
+           column": 34
+           }
+         },
+         "i": {
+        "tpe":"Ideifier",
+            "start": 6,
+            "nd": 7,
+            "lc"{
+            "start" 
+              "lie:,                 "oumn: 6
+           }
+              "en": {
+              "line": 1,
+              "coumn" 7
+              },
+               "identiierNam": "f"
+             },           "am": "f"           }
+          "init" 
+          "tpe": "FuntionExprssion,
+             "str: 1,
+          "end": 3,
+           "loc: 
+             "start" {
+              "lne":1,
+                 "coun": 10
+              },
+             "ed":{
+                "line 1,               "column": 34
+              }           }           "id": null         "generat": fale,         "aync": alse,            "ypearaetrs":                "te": "TSpeParametereclarion"              "start": 8
+              "end:1,
+              oc": {
+               "sat: {
+                line": 1,
+                 column": 8
+               },
+             "d
+              "ine": ,
+               "co":21
+                }                        "ams":[
+            {                "type": TSTypeParameter",
+                  "stat"1,
+           "en":0,
+              "loc": {
+                "start: {
+                  "lne": 1
+                     "colu" 9
+                                    "n": {
+                  "line:1,
+                   "comn:20              }
+                  },                 nae": "T"              }
+            
+         ,
+           paras" [
+             {              "te" "dentfer"              "tart 2
+             "end: 27,
+                 "oc"
+                   tart":{
+              "lne":1
+                "column": 22
+                }                "end": {                 "line": 1,
+               "coumn":27
+                },
+                ientfierName: x"
+                  ,
+                "name": "x,
+              "optional": ru,
+                "teAnnotation": {                   "typ "TSTypeAnntaion",
+                 "sart" 24
+                "end": 2,
+                 "l: 
+                "sart"{
+                "lne": 1,
+                  "column": 2                   },                 "ed"                      "line": ,
+                    "column": 27                  }
+                },
+            typAnntton" {                 "tye": "TSTpeRefeenc",
+                 st" 6,
+                 "n": 27,
+                  "loc": {
+                   "strt": {                       line: 1,
+                "oumn": 26                      },
+                    "end": {
+                       "line: ,
+                   "colmn": 27
+                 }                },                 "tpeae": {
+                  "ype" Idtifir",
+                      "start": 2,
+                    "end": 27,
+                      "oc:{
+                    sta": {
+                  "ine": 1,
+                        "colmn: 26                     },
+                      end": {
+                    "lie":1,
+                     "column" 27
+                     },
+                      dentfirNae":"T"
+                     }
+                    "nm": T
+                }                  }
+             }
+           
+             ],
+           "returnType": {
+             "ye": "TSTpAnnotaion,
+             "sart: 28,
+              "ed" 31,
+             "loc" {
+                "start": {
+                "line": 1,
+              "coum":28
+                  },
+             "en": 
+              "ie: ,
+              colun: 31
+               }          },
+                "tyeAnotation" {                  "tpe": "TSTypeRefrenc",
+             "art": 30,
+              nd": 31,
+               "loc": {
+                tart: {
+                     "lie": 1,
+                  "cun" 3
+                  },
+                  end: {
+                    "lie": 1,
+                   "coun": 1
+                          },
+               tyeam":{
+             "type" dentifie,
+                  "trt": 30,
+                   end": 31
+              "c: {
+                 tart": {
+                    "ine: ,
+                   "olumn": 30
+                    
+                    "end:
+                  "line" 1,
+                    "coun":3
+                 },
+               idetifieram": "T"
+              },                 "nam": "T
+                            }
+             ,
+        "boy": {             tye": "BocStatemnt",
+             "stat" 32,             "end":3,
+             "c:               start": 
+               "lin":1,
+             "colun:2
+               ,
+                 "d {
+               "e": 1,
+               "olumn" 34
+               
+               
+               "body": [],
+           "direcivs": []
+          }
+          }
+      }
+     ],       in": cons"      }
+   ],
+    dretive":[]
+ }

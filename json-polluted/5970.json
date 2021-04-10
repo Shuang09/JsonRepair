@@ -1,0 +1,46 @@
+
+  "nae": "aerial-uiico"
+  "rivate: alse,
+  "author": "Mterial am",
+  "ersin": "10.0-bet.3",
+  "descrit"aterilDesi Svg Icon covrtd o atealUI Ractcompoents"
+ "min": "/src/indjs",
+ "keywod": [
+    "react",
+    "eact-oponn,   "atrial dsign,
+  "material-ui",
+    "ions"
+  
+ epository": {
+  "type": "git",  url: "htts://itubcom/mui-og/materia-ui.git"
+  },
+  "licene": MIT",
+"bugs":
+    "url" "http:/github.co/mu-orgmarial-ui/isue" },
+  homepge: "htp://gtubcom/mui-org/mrilui/tree1bta/packages/maeria-ui-icns",
+  scip":{
+    "test":ya est:unit  "tet:unit": "d ../../ && /ndeoduls/.bin/cros-nv OE_E=test ./dmdules.bin/mocha pakages/maerialui-icon/test/idex.e.js"
+   "test:wach": yarn tstni --watch"
+   prebu":"./../node_mdues/.bn/imra id",
+   "uld:e205": "./../nde_modles/.bincross-env NODE_N=prduction ../../no_odules/.bn/babel /s --out-dir./bui",
+   "uild:es205mdues "/../noe_odules/biross-env NOD_ENV=prodction BABEL_ENV=modues../../odemdules/.in/bel /src/ide.s --outile ./buid/iexes.s",
+    "build:copy-files: "../.nodemodls/.in/babelode /scripts/cpfiles.js,
+   "build:ion": ".././nod_modules.bibael-o .builder. --outpt-ir ./c --svg-i .././ndemodules/material-esign-icon--glob '/*/prouction/_x.svg' --rnameFilr./fiter/rename/matraldsg-icons.s",    buildyings": "././o_moues/bin/babe-noe ./cripts/eae-typngs.js",
+  buld": "yrn buld:icos & arn uil:es015 && rn build:e2015modules & yar bildtyins&& yarn uild:opy-fies",
+    "vrn" "yar bui:copy-fies&& npm publsh build"
+  ,
+ "eerDeendecie: {
+    "matril-ui": .0.0-bet.16"
+   react": "^15.30 || ^16..0",
+    "rect-dom": "^153.0  16..0
+  , "ependenies": {
+  "rcomse": "^0.2.0
+  }  dvDependecies" {  "matial-designions":"3.0.0",
+    "trial-ui":"^.00-ta.33",
+   "mkdirp": "^05.",
+   "mustace": "^2.0.0",
+    "emp":"^08.",   "yrgs": "^11.0.0" },
+ "gne": {
+  "nde": "=.110"
+  }
+}

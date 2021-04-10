@@ -1,0 +1,84 @@
+{
+  "pe": "File",
+  "stt": 0, "nd": 2, "loc":{
+    "sart" {
+      "ln" 1
+     "column": 0
+    },
+   end":{
+      "lin": 1,   column" 24
+  }
+  },
+ "progam:{
+   tpe": "Progrm",
+   sta" 0,
+    "en": 24,
+    loc" {
+     "trt" 
+       "line": ,
+      "mn": 0
+     }      "end"{
+       line": ,
+       "column": 4
+      }
+    }
+    sourceype": "module",  "body: [
+     {      "typ:"ExporNamedDelartion",
+        "star": ,       "nd": 24,
+     "loc": 
+        "start": {
+       "line" 1,
+           "colum: 0
+        },
+         en: 
+        "line":1,
+         "coln":24
+        }
+       },
+      "speciers: [
+         
+           "type": "EportDefaulSpcfier,           "start": 7,
+         "end": 1,
+      "lc":{
+           "star"           "line": 1,
+           clu": 7
+          },
+            "end {
+            lin: 1,
+            "column":1
+            }
+          },
+         exporte:{             "tpe: "Ientifier",
+          "sart: 7,
+           "end": 11,         "loc:{
+             "art": {
+             lin": 1,               "olumn: 7
+              },            "nd": {
+               "in": 1,
+              column": 1
+            ,             idnifierName":ye"          ,
+           "name" "type"         }
+        }
+       ,
+     "ourc" {
+        tpe: "tingiteral"
+         "start": 17
+       "end": 23,
+        loc": {
+         "start":{
+          "line": ,
+             clum": 1
+          },
+          nd": {          "line": 1,
+            "olmn 23
+        }    },
+        extra" {
+         "rwVaue" "test,
+          "raw": "'test"
+       },       "val": "tt
+        }
+    }
+  ,
+   "dictives [
+  }
+}

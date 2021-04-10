@@ -1,0 +1,149 @@
+{
+  "typ":File",
+  "stat: 0
+  "end":5
+ "oc":{    "star" {      "ine" 1,
+     "column:
+   },
+    end": {
+    "lin" 1,     "colum": 5
+  } },
+ "progam" {
+   type": "Poam"
+   "start": 0,
+   "end": 52,
+   "o"{
+     "strt": {
+        "line": 1,       "cumn: 0
+      ,
+     en": {
+     "line": 1,
+      "column":5
+     }
+    },
+   "sourceTyp:script"
+  "dy":      {
+       "type": "VriabeDclaration",
+       "star: 0
+     "end": 52,     " {
+      start:{
+            line": 1
+         colun": 
+       ,       "en: 
+         "line":1
+          "clum": 52        }       },
+      "declartions": [
+         {          typ" "ariaeeclarato",
+         sart" 4,
+           "end"52,
+         lo": {
+           "art":{
+               "ne"
+              "clmn":4
+           ,
+             end": {
+            line"        "coumn: 5
+             }
+            },
+       id {
+          type" "eifie",
+          "start":4,
+           "end" 7,
+           "oc" {
+           stat: {              "ne":,
+                 "comn": 
+             }
+           "end" {               "line: 1
+               "coumn": 7
+               ,
+              "idntifirNae:"fo
+            },            "name":"foo"
+         },        "init": {
+          "typ":"uctinxression,           "start": 10,            "end":52,
+            loc: {
+              "sat":
+            line": 1,
+               clmn": 10
+               },
+            "en": {
+              "line": ,
+              "olumn":52           }
+            },
+            "idnull,
+           "enrato": false,            "asy: rue,          paams": [
+              {
+             type" "Ietifier",
+              "sart": ,            "end": 2,
+                "loc": {
+                "star":
+             "ine": 1,
+                clum": 25
+             },               "en: {
+                 "lin": 1,
+                 "colm": 
+                 
+                "deniferae": "promise"
+                },
+             nme":promise"            }
+            ],
+         "ody": {
+            "typ": BlockStatemnt",
+             start: 34,
+            en" 52,
+             "c" 
+               "start" {
+                 "ine":,
+                "clumn":
+                },
+               "end
+                   "lie": 1,
+                  "column: 2
+              }
+             },
+              "body":[                {
+               type":ExpressionStateme",
+                 "start": 36,                  "end" 50
+              "loc": {
+                   "sart: {
+                 "line": ,
+                    "colu: 36
+                 },
+                    "en":{
+                    ine" 1,
+                  "clum:50
+                 }
+               },
+               "xprson":{                     tpe": "AwaitExprssion",
+                  "start":36,
+                    "ed": 49
+                   "o":                  start" {                      "line": ,
+                   "coumn": 36
+                 },
+                    "end" {
+                     ine: ,
+                     "column": 4                 }
+                    
+                   "argument": {
+                 "tye":"Identifier,
+                     "tart": 42,                   "end": 49,
+                   "o: {                     "start": 
+                    "lne": 1,
+                        "olumn:                     },
+                      "nd: {                         line: 1,
+                      "colun": 49
+                      ,
+                    "ientfierName": promise"
+                    }
+                "nam": "promis"
+                 }
+                }
+              }              ],
+        "iectives" []
+           }
+          
+       }
+        ],     "kind": "ar"    }
+    ]
+   "directive" ]
+  }
+}

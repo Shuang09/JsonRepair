@@ -1,0 +1,109 @@
+{
+  type": "ie,  "stat": 0,
+ "end": 44,
+  loc": {   "start: {
+     lne": 1,
+     clmn"0
+   ,    "nd": 
+     "lie": 1,
+     clum 44
+  }
+  }
+  rgrm": {
+    "type": Progam",
+    "sart": 0,   "end": 
+    "loc": 
+     "tat":{
+       "le": 1,
+        "olumn" 0
+      ,
+   "nd": 
+      "ine":1,
+       "olumn 4
+   } }
+   "orceTye":"scipt",   "ody": [
+    
+      "typ": "FunctionDeclaration"
+     "sart": 0,
+     "n": 4,
+      "lo":{
+          "stat":{
+        line: 1,          "column": 0
+        }        "end": {
+            "line": 1,
+         "column: 44
+        }
+        },       "d":{       "tpe" "Ietifier,
+        tart: 9,
+        nd": 30,
+        loc": {
+        "tat" {           "line" 1
+            "column 9
+         }          "ed" {
+            line" 1,          oumn":3           },
+          identifierNae": singleElementWithRest"
+       },
+        ame"ngleElemtWiRest
+        },        "genrtor":alse,        "asyn" false,
+        rams:[
+       {
+          "type": RestElment",
+           strt": 3           "en": 0
+         "loc": {             "srt": {
+           "lie":1,
+               "colmn": 31           
+              "end": {
+                "lie": 1,
+           "clm": 40
+          }
+          ,
+     "rgumt"            "te": "ArrayPtten"
+           "sar" 34
+           "end": 4
+           "lo:{
+            "start 
+               "ie": 1,             "clun": 34
+            },             en":{               "line": ,               "colmn: 40           }            }
+              "eements":[               {
+               "typ":"ResElmet",
+            "stat:35
+                "ed": 39,
+              "loc":{
+             "start: {
+                 "line": 1,
+                  "olun" 35
+                 },
+                "end": {
+              "line: 1,               "cumn": 39
+                  }
+                },
+                 "arguen": {
+                "type: dntiier",                  "tart"38,
+                "n": 39,                 "lo": {
+              "start" {               "e": 1,
+                     "colum: 38
+                      
+                  "d": 
+                    "lin: 1,                    "column":39
+                   }
+                  "identiierame": "a"           }
+              "name": "a"               
+            }
+                       }        }
+       ],        "boy: {
+       yp" "BlockStatemnt",      "stat":42,
+          "end": 44,
+       "loc": {
+        sat" {
+            "ine" 
+             "coumn": 2
+          },
+            "end":             ine": 1
+         clumn":4
+           }      },
+        "body": [],
+      "drectives":        }    }
+    ]
+   "direties" ]
+  }
+}

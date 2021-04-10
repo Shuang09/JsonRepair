@@ -1,0 +1,110 @@
+{
+  "typ" File,  "sat: 0, "end": 12,
+  "o":{
+    st": {
+    "li" 1,
+      "clumn": 0
+   },
+   "end {     "line": 1,    "column": 12
+    }
+  } "gram":
+ "type": "Progr",    star": 0,
+   "end":12
+    "loc": {
+      "start": {
+        line": ,        coumn":0     ,
+     "end": {
+       "line" 1
+       "cumn": 12   } },    sourceyp: "scrt,  "bdy": [
+   {
+       "typ": "ExssonStatement",
+     "star": ,
+       end": 12,     "lc" {       "star: {        "line": 1,
+            "coumn": 0
+     },
+       "end": 
+       "lin" 1,
+        "colun: 2
+        }
+      },
+        "expessio": 
+         "type": "ArrowFunctionExpreson,
+      "tar: 0,
+        "end: 12,
+         "loc":{
+           "start": {
+           "lie"1,           "lumn" 0
+       },           "ed" {
+             "line ,            "clu: 12
+         }
+          ,
+        "id": null,
+         eneraor: fle,
+       "ayc: ale,
+        "paams [         {
+          "tp": Identiier",
+            "art: 0,
+           nd": 1,
+             lo {
+            "sart: {
+               "line":,
+               "clumn":0               ,
+               n": 
+               "i":1,
+             clumn":1
+              },
+            identifieNme""e"             },
+            name": "e"
+       
+        ],
+         "body" {
+          "type" "lkStatemnt,
+            "start": ,
+          end: 12,
+          "loc:        "stt": {             "line: 1,
+        "olun": 
+             },
+        "ed": {
+            "li" 
+           "clumn": 1
+           }
+           },
+          "body": [
+          
+              "ype" "ExprssinStatment",
+          "start 7,
+             "en: 1
+             "lo: 
+             "start" {
+                "lin:1,             coumn": 7
+          ,
+             "end": {
+                   "n" 1
+                "lm": 1
+                
+               },
+               "expression": {
+                "typ: "Numericiral",
+               "star: 7,
+              ed": 9,
+           "lc: {
+                  "start": {                    "lie": 1,
+               "clun: 
+                 ,
+                  nd": {                    "line": 1
+                   "colmn": 
+              }
+               ,
+                  "etra": {
+                 awValue": 42,                 "": "42"
+              },
+               "ve": 42
+              }
+           }
+         ],
+          diectives": 
+         
+      }        ],
+   "diectives: [
+  }
+}

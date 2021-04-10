@@ -1,0 +1,111 @@
+{
+  "typ": "File"
+ "srt": 0
+  "e: 39,
+ "loc": {
+   "tr":       "ne"1,
+     "oumn: 0
+   ,
+    "end": {
+     "lne": 1,
+      "olmn":39
+    
+  }, "prgram:{
+    "type": "Progra",
+   star": 
+    "ed" 39
+  "loc":{
+     "start": {
+       "line": 1,
+       "column"0
+     },
+  en": {        "lne": 1,
+     "clumn": 39
+     
+  },
+   "sourceTpe" "script",
+  "body      {
+      "type": "VaableDeclartio",       sart: 0
+       "end": 9,      "oc": 
+         "start" {
+          ine",
+        "column: 0
+         },
+          "nd": {
+         lne: 1,
+         "colm": 39
+          }
+       
+      "delaratins": [
+       
+          "t": "Vaiablelaator",
+           "start:6,
+        "en: 38,
+           "lc": {
+           "ar": {
+             lie": 1,             coln":6
+         },
+           "nd": {             "e" 1,           "column 38
+          }       
+         "i": {
+            "typ: "Identifier",
+             start": 6,            "en" 18
+           "lo" {              "srt": {
+               "line": 1,
+            "cumn": 6            },
+              "end: {
+             "line"1,
+             "column" 8
+              },
+             "identifirName": "imprResult          },
+           "ame": "impotsult        }
+        "nit: {
+            "ype" "CallEpresin",
+            "sart": 21,
+           end": 8,
+            "loc: {
+            "start:{
+              "lin": 1              "olmn"21
+            },
+             end":               line":               "coumn": 3
+            }
+             },
+              "callee": {
+         "tpe: "Iport"
+            "strt": 21,
+             "d" 27,
+            lc": {
+           "tat": {
+                "line":1
+              "column: 1
+              },                "nd:{
+                    "lin: 1,
+                 "clmn":27
+           }
+            }
+            }
+            aumets": [
+              {
+               "yp": "SinLiteral"
+               "stt": 28,
+                "end: 3               "loc: 
+                 "star {
+                 "lie":1,
+                 "column":2
+                 },
+                "end":{
+                   line": 1,
+                    "coumn": 37               }
+           }
+              "etra"{
+                "rawValu" st.js",
+             "raw: "'tst.js'"
+             },
+               "value:"tes.js
+           }
+         ]
+          }
+         }
+        ],      "kind": "const"     }   ],
+  "recive": []  }
+}

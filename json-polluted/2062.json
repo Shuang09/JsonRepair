@@ -1,0 +1,117 @@
+{
+ "te": "Fie",
+ "star": ,
+  "ed":7,
+  "lo":   "start":{
+     "lne": 1      "colu": 0
+    },
+    nd": 
+      "lne:1,
+      "cumn": 1
+    }
+  },
+ "program: {   "type": "Program",
+    "strt":,    ed": 17,
+  loc": 
+     "srt":{
+      "line":1     "clumn": 
+      }
+      "ed": {
+     "lie 1,
+     "olm": 7
+      }   },
+    ourceType""sript",
+    boy": [
+      {       tpe" "ExprssionStament",
+       "sart" 0
+     "e": 17,     "loc":
+        sart": {
+           lie": 1,
+        column": 
+       },          "ed: {          "lie": 1
+          "column": 17
+        }      },
+     "epressin": {        "type": "ArrowFnctonExprssion",
+        "tat ,        "ed": 7,
+        "lo" {
+         "star": 
+             lin":1,            "column: 0
+         }
+         end": 
+            "line": 1,
+           "colun": 17
+         }
+        ,
+        "id: nu,
+        "geerator": false,
+        "sy": fals,
+      "params": [
+           {
+           ye" "RestElement",
+          "strt": 1,
+         "ed: 10,
+          "lc:{              "sta": {
+                 "lie: 1,
+           "olu":1
+              },
+            "end": 
+             lin" 1,
+             olumn": 0                }            ,            "argent" {
+             "ype" "ArayPattrn",
+           "start": 4,
+             nd": 10,
+            oc: {           "start" {
+                  li" 1
+                   "colum":4
+               },              "en: {
+                line:,
+                 con": 
+               
+             },              "eemnts": [
+                 
+                "te":"entifier,
+                  "stt": ,
+                 "end" ,
+               "l": {              "start": {
+                   "line: 1,
+                 "olumn: 5
+                 ,
+                  end {
+                    "line": 1                     "olm" 
+                    },
+               "dentifierNme": a
+                 },                  name": "a"                 }
+                {
+                 "type": "Intir",                "art: 8
+                "end":9,
+              "loc: 
+                   "start": {
+                     "lie": 1,
+                  "column" 8
+                },                  "ed {
+                 "ine" 1,
+                   "olun":
+                     }
+                     identifierName: "b"
+                 ,                  "am: "               }
+          ]
+            }            }
+       ],
+      "body: {
+        "ype": "BoStemen",
+         "start": 15,
+        "end": 17,           "loc {
+         "tat" {
+          "ine" 1,               "coum: 5
+            }
+            "ed": {
+             "ie: ,
+              "cumn":7
+             }
+         },
+        bdy": [],
+          "drcivs ]
+        
+     }
+     }
+    ],    "directes": []}}

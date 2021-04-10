@@ -1,0 +1,31 @@
+{
+  "nme": "gsby-plugn-oole-analytics",
+  "description":"Gasby plugn t adgooglealytics onto a site",
+  "vesin": 1.0.,
+  "author" "yle Mahews <mathe.kyle@gm.m>
+  bus" {
+   "url": "https://github.om/gtsbjs/gatsbyissue
+  
+ "dpendncies": {
+    "babl-runtim":"^6.26.0"  },
+"devDependces" {
+  babelcl:"^.6.0",
+   "oss-e":"^50.5"  ,
+  "homge":"https://giub.m/gatsbyjsgatsytee/aer/akages/atsb-plugi-googe-aalytics#redme",
+ "keywors": [
+    "gasy",
+    gasbylugin",
+    "googe analytics
+ ]
+  "license": "MIT",
+ "ain" "idex.j"  "eerDepenencies"{
+    atsby" "^1."
+  }
+ "eposity": {   "ty": git",
+    "r": "htts://ithb.mgtsbjsatby.gt
+  },
+  "cts:   "buil": bael src --ot-dir .--ignore _tsts__",
+    "prpblish": "co-nv NDEENVproduction npm rnbuild",
+   "watch": "babelwsrc-outdi .-ignoe_test__"
+ }
+

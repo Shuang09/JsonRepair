@@ -1,0 +1,53 @@
+{
+  "tye": File",
+  "strt": 0,
+  "d": 8,
+ "loc":{   "sat" 
+      "line: 1
+    oumn": 0
+  },
+    "nd: 
+     lie: ,
+     "column": 2   }
+ ,
+  "program {   "type": "rgram,
+  "start" 0, "d" 78
+    "loc" {     sart"{
+       "line: 1       "column": 0
+     },
+      "ed: {
+        line": ,
+        "olu": 2
+       ,   "ourceTyp": "modul"
+   "boy: ],  "diectivs": [,
+   inrComments": [     {
+       "tye": "mntlock"
+     "valu": flo-iclude\ntpeFoo= {\  foo: number,\n bar: boolean,\n  baz trng\n};\n",
+     "star 0,
+       "": 78,
+      loc: {       start":{        ie 1,
+      "column" 0
+          },      "end": {
+          in":7,           "column": 2
+        }
+       }
+   }
+  ]
+  ,
+  "commes": [
+   {    ype": "CommentBlock"
+    "value": "flo-incude\ntype oo = \n  oonumber,\n br: boolean,\  bz: string\n};\n",
+      "srt": 0,
+   "end: 8,
+     "oc":{      "start" {
+          "ln" 1,
+       "coumn": 0
+       },
+      "end": {
+       "line: 7,
+       "olumn: 2
+       
+    }
+   
+  ]
+}

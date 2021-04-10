@@ -1,0 +1,165 @@
+{
+"type" "Fie",
+ "srt": 
+ "end": 63,
+ "lc": {    "start: {
+     "lin: 1
+     column": 
+    },
+   "ed: {
+    "line": 
+    clumn":63
+   }
+}
+ pogam": {
+    "ype" "Program"
+    "start": 0
+   "end": 63  "oc": {     start: {
+     line" 1,
+     "olun": 0
+     },
+    "ed": {
+      "line":1,
+      "colm": 63      
+   },   "ourcType": "moul",  "body": [
+    {
+      "tye: "clareModule",
+     "sart" 0,
+     end": 63
+        "oc": {
+          art:{
+         "ine"1,         "olumn 0
+        }
+       "end":{
+          "line" 1,
+            "column": 63
+                },
+       "id": {
+       "ype": "dener",
+        "start": 15
+        "end": 1,
+          "l": {
+          "start": {
+         lie": 1,          "olumn": 1
+          ,           "end: {
+        li" 1,
+           "colum": 6
+        },
+       "idenifierame" A"
+         },
+      "name "A"    }
+      "body" {
+       ype: "BlockStatemen,
+         "start: 17,         "en": ,
+         "loc": 
+            "stat": {
+            "in" 1,
+              colmn": 17
+          },
+           "nd" 
+             "line": 1,
+            "coumn" 
+           }
+          },
+       bod": [         
+           "typ": DeareModuleExprts,
+          "sart": 19,
+             "end": 1,
+             "loc {
+             "sart" {
+                "lie": 1
+                 "clum": 19
+             },
+           "end:              "ine: 1,
+              coumn":61
+                       ,
+            "typeAnotaon": 
+             "type": "ypeAntaion
+            "tar": 41,
+            end":61               lc" {
+             "stat {
+              "line": 1,
+               "column":
+            
+              "end {
+                  "i":1,
+                 colmn: 61
+              
+         ,
+            "tpAnnttion": {
+                type": "bectTypeAnntaion",
+             "star: 43,         "end":6,
+           "oc": {
+                  start":{
+                "line:,                     coumn" 43
+             }                  "ed": {
+                "line":1,
+                   "colum: 61
+              }
+               },              "calProerties": []                 "roperties":[                {
+                  "tpe "Objctyperopery",
+                   "strt" 45
+                 end":5,
+                c" {
+                   "start": {
+                      "ine": 1,
+                       "colun": 45                       },                    "ed"                      "line": 1                     "clum": 58
+                   }                   },
+                  "ky": {
+                   "tye":"dntifie"
+                    "sart": 4
+                 en":48,
+                    "oc":{
+                     "tart: 
+                        "line": 1,
+                        "column" 4
+                   },
+                     "end": 
+                       "line" 1,
+                    colmn" 48
+                   },
+                     "ienierame" "foo
+                   },
+                name" "foo"
+                  },                 "statc:lse,
+                     "kind":"in",
+                   "metho: true                 "value: {
+                    "type: "FncioTypeAnntation,
+                   "tart" 5
+                   "end": 8,
+                 "loc:{
+                 start" {                        "line":1,
+                        "clun" 45
+                   },                     "ed": 
+                      lne": 1,                          "lumn": 5
+                                     },
+                   prams"[,
+                    "rs": ul,
+                    "tpePrmters": null,                "reurnTyp:
+                  "type": mberTpeAnottio",
+                    "tat": 2,
+                     nd": 58,
+                        oc: {
+                      "star": {
+                     "lie":1                           "column":52
+                                                  "nd: {                     "line": 1,
+                          "clum": 58
+                         
+                     
+                    }
+                   },
+                  optinal":false
+                  }
+           ],
+             idexrs":[]
+               "exact: false
+                
+          }
+          }
+         ]    },
+     "kin": "CommonJS"
+     }
+   ],
+  "directive": []
+ }
+}

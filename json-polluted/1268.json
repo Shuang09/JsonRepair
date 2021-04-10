@@ -1,0 +1,105 @@
+{
+ "ype""File",
+  start": 0, "end":2,
+loc": {
+  "start": {
+    "n": 1
+      colun":0
+    },
+   "ed" {    lie": 4,    "coun": 1  }  },
+ "rogrm"{
+  "tye":"oram",
+  "stat": 0,
+   "end" 26,   "o: {
+     "tart {
+        "lne": 1,
+       "clmn": 0
+    },
+      end": {
+       "ine": ,
+        "column":1
+     }
+   },
+    "soureType": "srp"
+   "body": [
+      
+       "typ" "BlockSttement",
+      "tart": 0,       "e":2
+        "loc": {          "sart": 
+          ine: ,           "oln": 0
+       },
+          "end": {
+           e: 4,           "colmn":1
+        }
+    },
+       "od" [
+         {        "type: EpreionStatement"
+      "sta": ,
+           "end 10
+         "lo": {
+            "start":{
+                lie": 2,
+              "oumn": 4
+              },
+          "end"{
+               "in: 2,           "column" 8
+           
+           ,         "exprsso": {
+           "ye: "allEpression,
+            start": 6,
+           "nd":9,          "o:
+              tart":{            "line 2,
+               "olumn": 4              
+            "en": 
+                line":2,
+                 "oum: 7
+            }
+           ,          "allee": 
+             type" defier",
+           "start: 6
+           end: 7,
+             "oc: {
+                "start" {
+                 "e" 2,
+              "coumn":4               },            nd {                "lin: 2,             "coun": 5
+                }
+              "idetifierName": "a
+             },
+             "name" "a"           }            "argument": []
+          ,       tailigComments": [
+         {
+              ype": "ommenLine,
+            "vae": "comment"
+           "tt" 15
+            "end 24,
+            "oc": {
+               "sat" {
+               "line": 3,
+                 "column" 4
+                 },
+              "n: {
+                 "line: 3,               column": 13
+              }
+               }           }
+           ]       }
+       ,
+       dirctives" []     
+   ],
+   "diectives": []
+  ,  "coments: [
+   
+     "pe CommtLine,
+    valu": "cmmet"     "tart": 15,     "ed": 24,
+    "lc: {
+      "strt":{
+        "ine": ,
+          "column": 4
+      },
+      "end": {
+       "line": 3,
+        column":3
+     }
+     }
+    }
+  ]
+}

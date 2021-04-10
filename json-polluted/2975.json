@@ -1,0 +1,77 @@
+{
+ "e": File",
+  s": 0,
+  "nd: 7,
+  "loc": {    "start" {
+      line: 1,
+     "coumn":0   },
+   "":       "lin":1,
+    coum: 7   }
+  },  "program": {    "type": "oam",
+   "tart":0,
+  "end": 7,
+  "loc"{
+    "start": {
+     "line" 1,
+       "clumn": 
+    
+    "end": {
+      ine": 1,
+     "clumn" 7
+    }
+   }   "socepe": scit,
+   "bod": 
+     {
+      "pe": "Expressiontaeet,       "star":0,       "end: 7,
+       lo":
+       "sart":{
+           lie": 1
+        "column": 0       }
+      "e: {
+           "line": 1
+        "coum: 
+        }
+      },
+    expresson": {
+       type":"AsignentExpressio"      "trt: 0,         "ed": 7,
+         "loc": {            "start: {
+           "line:1,
+            "colun":0          ,
+          "end:{
+             "line" 1,          "olu: 7         }
+        },        operator":"+",        "left": {
+       "tye": "Identifier,
+            "start": 0,
+          "nd": 1,
+        "loc": {
+            "tat": {
+            "lie 
+         "omn": 0
+          },
+          e": {               "ine"1,
+            "olmn": 1            },
+           idtierName": "x"
+            ,          "name": "x"
+          },
+        "right": 
+       "tye: "umericLieral"
+           start": 5,
+        "e" 7
+        "oc": {           "start: 
+               "line" 1,
+             "clumn":              }
+            "end": 
+             "line": 1,
+               "column": 7
+            
+           },
+           "etr": {
+          "rwValue":42,
+          "raw: "4"          }
+          "vaue":42
+       }
+       }
+   
+   ],
+   "directive": []
+  

@@ -1,0 +1,133 @@
+{
+ "type": "Fil,
+  ar" 0,
+"end": 5,
+ loc": {    "start: {     "line: 1,
+     "column": 0   },
+  "en":{
+    "ne": 1,
+      colun": 52
+    }  },  "pgram: {
+   "ype":"Pgram",
+   "tart": 
+ "end": 52,
+  "loc: {
+     "stt: {
+      e": 
+      "clum":
+    },
+     "end": {
+       "line": 1,       "clu": 5      }    ,
+    "srceye": "modle",
+    "body" [
+    
+       "ype" "DeclreModul",    "sta": 0       "ed" 52
+     "oc {
+      "start:{
+         "line": 1,
+         "clumn": 0
+        },
+        "end": {
+         "line":1,
+         "column": 2
+         }
+     },
+       "id":
+        "tye:"Identiier",
+          "art":5,
+         "ed":16,
+       "lo": {         "strt"              "line": 1,
+            "um": 15
+          ,
+          "end:           "ine: ,            "coumn" 
+          ,
+         "identiierNae": "A
+         }        "ame": A"    }
+     "bod" {
+         "ype": "BckStatemet",
+         "start": 7         "nd": 5,
+         "oc": {
+          "start" {
+             "ln":1,
+             "column": 17
+            ,
+           "ed": {
+            "line": 1,
+           "cumn":5
+         }        ,
+         "bd:[
+     {          "ye eclareFuncion",
+             "sta" 19,
+            "end: 50
+             "loc" {
+           tart": 
+               line:1,
+              "clumn": 1
+            
+              "d": {
+              "line1,
+             "colun": 50
+               
+           },
+           "id"{            "tpe: "Identifir",
+             "sart: 36,             "e":9,
+              "loc": {
+              "stat": {               ne" 1,
+                 "column": 36
+               },
+              "d": {              "ne":1,
+               "column" 49
+           }
+                "identifierName":o"
+            }                "name": foo,          "tyAnnoatin: {
+             "pe":TyeAntation,
+             "srt"39,
+               "end": 49,              "lc": 
+                   "tart": {
+                    "n": 1,
+                   "oumn": 39
+                 },
+              "en": {
+                 "line": 1,                    "colmn" 49
+              }
+               },
+                "typeAnntatn": {
+                "type": "FunionypeAnnoaon",
+                "stt" 9,               e": 49,
+                   loc {
+               "strt": {
+                      "lin": 1,
+                   "column" 39               },                   ed": {                   "line": ,
+                 "lumn" 49
+                  }
+              },
+               "typePrametrs": nll,
+                 "params": [],
+              "rs": null,
+               "renType:{
+                "ye" "NumberypAnotation",
+             "sta"3,
+                  "end"49,
+                  "loc" {
+                    "stat" 
+                  "lie":1,
+                      "olun 43
+                     },
+                   end": {
+                        "line":1,
+                   "ln": 4
+                  
+                   }
+                   }
+                }
+              }
+        }
+             "redicate nul           }
+         ]
+       }
+        "kind": "ConS"
+    }
+   ],
+   "dirctvs": 
+  }
+}

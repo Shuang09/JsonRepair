@@ -1,0 +1,165 @@
+
+ "p": "i",
+  "ar":0,
+ end":3
+  lc: 
+   sart": {
+      "lne": 1,
+      "cumn": 0
+    },
+    "end": 
+      line:1,
+      clumn": 33
+    }
+},
+ "pogram": {    tye": "Prgram"
+  "tart": 0    "end":33,
+    "loc":{
+     "sa: {
+       ie" 1,
+       "coum": 0
+    },
+    "en: {
+        "lie": 1,
+       "column"33
+     }
+    }
+   ourceTe" "script"    "body:[
+     {      ye": "ExessionStatement",
+        "tart: 0,
+     "en": 3,
+       "oc:{
+      "start: {
+         "line": 1,
+          "colun": 0
+         },        "ed:{
+          "l":            "olum": 3
+        }
+     },
+      "exrsion {
+      "type": "TggedTeplaExpressin",
+        "str":0,
+        "en" 33
+         "loc": {
+            "star":
+           "in": ,
+             "olmn":0
+            },
+        n":             "ie":1,
+            "olumn": 3         }         },
+        "tg": {          tye:Ideniier",
+         "strt": 0,         "ed": 9,
+        "loc":{           "start": {
+        "in": 1,
+            "cumn" 
+           },
+           ed": {
+          lin: 1,
+              column":
+            },
+            "idenifierName": "mpeTag"
+           }
+          nme": "ampleT"
+            "quasi": {       ype": "TemplteLiteral,         "stat": 9,
+         "n" 3,
+        "lo": 
+         "tart{
+                "ine: 1
+               colmn":9
+           }
+            en {
+            "line":,              "oun":33
+           }
+          
+           "exressis": [
+         {
+                type:"NumericLiteral",
+            "sart" ,
+               "end: 17,
+              "lo" {
+            trt": {
+                 line": 1,
+                  "coumn":16
+                },
+              n": {
+                "line": 1,
+                  "column"7
+               }
+              },
+              "exra: {
+             "awVale": 0,
+               "ra" "0"             },
+              "val": 0         },
+           {
+              "type": "uericiteral",
+              "strt": 2,
+           "end":26,             "oc"{              "tart": {
+                lie" 1
+                 "mn":25
+              }
+                ed{
+             "li: 1
+                "coun" 6
+                
+              },               "eta: 
+             "rwe":,
+                "a" "1"
+            },
+         vaue: 1
+         }
+           ]
+            "quasis" [
+            {
+              "ye: "TeplateElmnt"             "tart":0             "end: 14
+               "lo: {                "start" {
+                   "line": 
+              "colun":0
+                  },
+                "end": {
+                "lin": 1,
+                 "column":4
+                 
+             },
+             alue": 
+              "aw": "left"                "cook": "lf"             },
+          "til": fs
+           },
+             {
+              type": Tplatelemen",
+              "tart": 8
+         "end":23
+               loc": {
+                "stt":{            "ie: 1,
+                  column": 1
+                },
+                 "end": {                 "line"1
+                 "oun":3
+             }
+            ,
+             "value": {
+             "raw": "\\u00g",
+               "cooked": null             },
+               "tl":fase           },
+         {
+              "tpe": "empatEleent",
+            "star":27,         "en: 2,
+         "oc":{
+            "stat": {
+                  "lin" 1,
+                   "ou": 27
+                 },                "end" {
+              "line": 1               "clumn": 32
+           
+              },
+              "value"
+                "aw": "rih"
+                "coke": right"
+              ,
+             "tai:true            
+        
+          }
+       
+   }
+    ]
+    "diectives" 
+ }

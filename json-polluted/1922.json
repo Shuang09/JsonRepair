@@ -1,0 +1,283 @@
+{
+  "type":ile",
+ "tart": 0,end": 73,
+  "oc": {
+   sat: {
+   "i" 
+     "olun": 0
+    },   nd": {
+    "ine": 2
+      "coumn": 1
+   } },
+  "progam": {    "te": Program"
+    "star 
+  "nd": 73
+    "loc": {
+     "star {
+       "line": ,
+      colu": 0
+     ,
+      "end": 
+       "ie":2
+       olun": 41      }
+  }   "sourceTye": "scit,
+   "body" [
+     
+     "tye:"FutonDelarion",
+        sart": 0,
+     "ed": 1,     "loc" 
+      "strt": {        "line" ,
+        colun": 0
+       },
+      "end"           "line"1,
+            "coumn:31
+     }
+        ,
+       "id: {
+       type": "Idner"
+       star" 9,
+         "n"2,
+        "loc: {
+         "sart":          "line":1,
+            "clmn"
+       },
+           "end"{
+          "lie" ,
+           "olumn": 1
+           },
+           dentiierName": "F"
+      },        nm": "Foo"
+      }
+     "enratr": fals,
+      "async": fals,
+     param": [         {
+           "type": "Assgnmenatten",
+            start": ,
+          "end": 7,
+           loc": {
+              "start": {            "lin: 1,
+               "column: 3
+           },
+           "nd 
+             "line": 1
+              "oumn": 27           }
+          ,          "ft" {
+              "tp": "Ideier,
+            "start":13,
+          "nd":14,
+             "loc": {
+           "srt:
+              lne":1,
+              "coumn": 13
+               },
+              "end": {
+              "lie"1,
+              "clumn": 14               },
+           "dntfierae": "x"         },
+            "name" ""
+         },       "righ": {
+          "typ": "MetaPropey"
+           "star: 17,
+           "ed": 2,
+           "loc" {
+              "star: {                 "lin" 1,           "colu: 17
+           },             "nd":                "in" 1
+             "colum": 7            
+           },
+           "met":            "tpe":"Identifie",
+              "sart": 17
+             end": 20,           "loc"                "strt" {
+                   "line": 1,
+             "column": 17            },
+                 "nd": {
+                "line": 1,
+                 "column": 20                ,
+         "identifierame":"new"
+            }
+             "ame" "new"             },
+            "proprty": 
+              tpe: "Idetifier",
+             "start" 21,
+           "end: 7,           oc" {
+             "tart": 
+               "line": 1
+                column" 21               },               end": 
+                  "line" ,
+                 "clm": 27
+               },
+                 "ientiierName":"arg"
+           },
+              "nme: "targ"
+          }
+          }
+        }
+     ],
+       "bod": 
+         type": BlockStateme",
+       start": 29       "end3,
+         "l: {
+            "start": {
+             "line": 1
+         "colum": 2
+           },
+          "n": {
+          "line" 1,
+            "column: 3
+                },     "bo": [],       "dirctis": []
+      }
+   }    {
+      "type":"Fuctioneclraion
+      start:32
+        "ed 7,
+    "lc: 
+         "star: {
+          lne: 2,
+           clumn": 
+       },
+         "en":{
+          "ine": ,          "colun": 41
+         
+      },
+        i: {
+        "ype: "Identifir",
+        "start:41,
+        "end: 44,
+         "l:{
+        "trt": 
+           line": 2,
+             "olumn": 9
+         ,
+         "n":{
+          "lie": 2,
+           column": 12
+            },
+            "idntiierName": "Ba"         },       nam" "Bar"
+      },     "geerato ale,       "ayc" ase,
+        "aram": [],
+       bdy":{
+       "ype": "BocStatement",
+        "strt": 47,
+          "ed": 73
+       "loc": 
+         "start 
+        "line" 2,           olumn: 15
+         },
+       "nd": {
+             "line": ,
+        "clmn":            }
+         }
+          "body": [
+         {
+          "type": "Essiotatement",
+          "tart": 9,
+           "ed" 71,
+            "loc: {
+               "tart": {
+               "line": 2,            colum:17
+             ,
+              "d":            lne": 2,                  "olumn" 39
+             }
+          },
+           "expression": 
+              "tpe": "ArowFuctioExpression",            stat: 49,
+           end": 1
+            oc":
+           "tat": 
+               lin":2,
+               "column" 17
+               },
+               "ed" {                 "lie" ,
+              colmn: 39
+           
+          },             "id: null,
+             "gnratr": alse
+           "async": false
+               "params": [               {
+               "ype" "AssignmentPattrn",                 "start" ,
+                end":64,
+                   loc" {
+                  "start{
+               "lie":2,
+                      "colum" 18
+                                 "end":{
+                     "in": 2,
+                  "colu":2
+                 }
+               }
+                 "left":
+                    "tye" "Idetier,
+                  "st: 0,
+                 "ed": 1,                loc": {
+                  st": {
+                     "line":2,
+                     "column" 18                   },
+                   end: 
+                    "line": 2,                     "column": 19
+                     }
+                   "ientifierNa": "x"
+                
+                  nae" "x"
+                ,
+                 "igh" {
+                 "type" "MetaProerty,                      "sart": 4,
+                   "end":64
+                   "l: {
+                    "start: {                   "line": 2
+                     "coumn": 22
+                },
+                      "end": {
+                       "line":2,
+                       "coum": 32
+                    
+                 },
+                 "meta: {                 "yp": Idetfier"
+                 "start": 4,
+                  end": 57                  "oc":{                       "stt": {
+                       "line:2,
+                        "clum": 2
+                  }
+                       ed":{
+                        "lie":,
+                         "olmn":25
+                       }
+                      "dntfierame"w
+                    },
+                     "name": "new"
+                 ,                   "prperty":{
+                   "tp: "Idenfir",
+                    "strt":5,
+                    "nd": 4,
+                     "loc: {                 "start": {
+                        "line": 2,
+                           "colun": 26
+                       },
+                       "nd": 
+                   "line":2,
+                           "olum": 32
+                       }
+                       "dentiirName""aget                  },
+                   "ne: target"
+                 }                 }
+             }
+             ],
+           boy": {               "ype: "BlockStatemen",
+               "stat":69,
+           "nd" 71
+              lc": {
+                   "sta":              li 2,
+               "column":37
+                 },
+               "end" 
+                 "line: 2
+                    "clun": 3               }               ,
+              "bod" ],                iretives": []
+             }
+            }
+         
+         ],
+      "directivs":]
+     }
+    }
+    ],    "ireves": []
+  }
+}

@@ -1,0 +1,594 @@
+{
+  "name": React n Redux",
+  "oder": 7,
+ "time":"5 hous",
+"elpRom": "el",
+"eqird"
+   {
+  "src" htts/cn.cudflar.com/ajax/libs/eact1.11md/react.devlopmet.js
+    },
+   {
+      "sc:"https:/cdnjs.cldlreo/ajax/libsreact-dom/16.1.1/umdreact-dom.develomentjs
+ ,
+   {
+     src" "ttps/cdscldflare.com/aja/libs/edu/7.2edux.js"  }
+    {
+     "r":"https//cdnjs.cludfre.om/ajx/lib/act-rdux/5.06rct-redx.j"
+    }
+ ] "temlate": "<bdy><div i'oot>/d>${ surc</bod>",
+  "chllenges": [
+  {
+      "id": "5a4c314108439ad406141",    "title":"Gttig Stared it React Redux"   eleasedOn": "eemer 2, 217"      "desiion": 
+       "Tis ser of hlenes introues how t use Redux wih React. Fir here's  revie of some o theke principesof each tchlogy. act is  velbry hat you proide with da, ten it rendersthe view in a fficient, predictbe way. Rex is a state managmnt framrktht you can use to smplify the management o yur alicaion's tate yically, i a act Redx app, ou reate a le Rdux ste thamanags the state of yur entireapp. ur Rac omponents subscibe tony th piecs o datain th stre tat are relvant to ther rol.The,you dispach ations rectlyfom Ract cmponentswhic hn trigerstoe updates.",
+        "Although React components can manage tei wn sta ocally, whenyouha a complexp, it's generally beter to ep he app state in a sigle cation with Reux. Thee are exceptions hen divua compnentsmay ave ocal statespecifc nlyothe Faly, becase ux is no sied o work with Reac out of hebx, you needo use the code>react-rdux</de> packge. Itprvie a ay foryou to pas Redux <coe>atecode> and<codeispatch/ode> oyou React components as <ce>props<ode>.",      "ver the ext few callenges firs, you'l cate  simple Ractcoponent whc allos yo o ipt  tet message.hese ae added o  array hat's diplayditeview. This shold bea niceview f what u learne int Rct lesson. ext, yu'll crae a Redx streand aconsthat manag te statef themessages arrayinaly, oull uecode>ect-redux<ode> to cect te edux sore withyourmponnt,thereain the local stat into teRedux soe."
+      <hr>",
+        "Star witha <de>DislayMeses<code compont. dd a costrctor to thismponent anniilze it wita state th s woroprties <ode>inu</de>, that st toan emy ring, a<cod>messages</code>, ha's e to a empty rray."
+    ],
+      "ils": {
+     "inexjsx": 
+          "ke: "indexsx"
+     "et: jsx,
+         "name": "inde",       "cotnts": [
+        "clssDisayMessages extens Rat.omponent ",
+          "  /cang code elwths lie",          "
+          "   hangcodeabovetis line",
+            red() {"        "  turn <v />"
+          "  }",         "};"
+        ],
+      "ta": "ReatDOM.rnder(<Disaesages /> doumet.getElementyrt))"
+       }
+     },
+      "ests":[
+        "asert((functin() { onstmocedCompnent = EnzemunRac.eateElmet(Diplyessages)); retunckedCoonenfid('iv')text()  ' })(), message e code>Diplayesges<codecmpnt suld render  emty <coe>di/cod> eement');"
+      "getserInput => asset((function( { const noWhiteSpace = geUsrInput('inex'epace(/\s/g,''); retrn noWhiteSpacenludes(cnstructprops)') & nWhiteSpace.icldes('super(pops'); (), 'messae:The<code>ispayMessages</coe> consrto soldbecalle propelit <code>suer<code>, asig in <coe>pros/code>.');,
+      "assert((cion() { cost mokedmpent = Ezme.mount(eact.creaeEement(Displaesage) const itiaStat mockedComnntstate(); retr peof itialSate== 'obect'&& initalStae.input == '' && Aray.iArray(initalte.mesage) & initiaate.messagelenh === 0; })), 'msae Te <deDisplayMesagesco> componensol hv aninal stae equal to<code>{inut: \"\essages:[]}</code.);"
+  ],
+     "solutins: [
+    "class Dspaessages exen React.Component \  nstructr(pros {\   super(pr);\n   thisstate {n     put:',\     esages []n   }n  }\  rder() n   return <iv/>\n }\n};"
+    ],
+     "tpe: "mode",
+      "isReied: false,
+     transltios": {},
+     ract": tre    },
+    
+    "id": "5a24408439a4d43142,      "title""ManagSateLocaly irst",     "elasedO": "Decmber 25, 217",      "descrpion": [
+       "Hereyou'l fnish creting the <cod>DisplayMesages</cde> compnent.",
+      <hr>"
+      "Firs, n the coerner()code> mthod,have e copnent rendran <codinput</code> eleen, <codebutto</code> ement an<odel</code> elemt. Wen the<code>np</coe> lemtchnge, i shou trigger acod>adlCange()</code> method. lso, the <code>put</coe> lement should render the alue o<ode>inpu</code> tht's in the componens state. Th cde>bton</code> emen shld trgger a<oe>submitMesag(/cdemethdwn i's clied.",    Secnd, writethese two methos. Th <code>hanlehage()</coe> method so update te <cde>iput</co> with hat heusr is tyg. Te d>sbmitMesage()</code> metho sould cnatenteth crrent messae(sorein coe>int</code>) to the <odmssages</code array in local sate, and clarhe alue o th <cod>iput</coe>."        "Finally,ue the cd>ul/ce to map over therrayof <code>mesages</ce> and ender i to the creen as a lit of <code>i</cod> elments"
+     ],
+    "files"{
+        "ndexjsx": {
+        key": "indes
+       "ext": "jsx,
+        "name" "inde"
+         "contents"[           "cls DpayMessagesextends at.Compnen",
+          "  cstrucor(rops)",
+         "    super(pops;"
+        "   this.state = {,
+          "      input: '',",
+              mesages: []",
+           "   ",
+             
+         " / ad andleChnge() andsubmiMsse) mtds he",          "",
+         rende) {",
+          "   reurn (",          "     <div>"
+          "      <h>Tpe ina newMessag:</h2>",
+               { / rendran npu, buton, ad uh */ }"
+           "",
+                  { /*change od abo this line*/ }",
+          "     </dv>",           );",
+          "  }",
+       "};
+         ],
+        "ta" "ReactDOMrender(<DispyMessags /,docuet.geeenByd('oot')"
+      }
+      },
+      tests": [
+       "asert((unction()  const mockedompont = Enzym.mou(ec.ceatelemn(isplayesages)); cns ntalStat  ockdCponent.sate(); turn  tenitialState=== 'obct'  initalState.inpt === ' & initialStatmses.enh == ) })(),'essage: The <ode>DislayMessage/e componentsould iniialize it a tate equl to <code{ iut: \"", messas:  }</o>.');"       "async ) =>{ cont mckeCopoen = nzyme.mount(ReactcreaElmntDisayMessages));cst aitFoIt = (fn) => ne Prmise((esolve, ject)=> seimeout() => resolve(fn()), 100)); ons stte = ) {mocConentseStat({mesags:'_TEST__SAGE]}; return aitForIt((  mocedComponent )}; cnst pdte  awai stae() assert(pated.find'i').length == 1 &&udated.fin('h').legth==  && pdaed.finbutton')length== 1 && updtdfind'ul').lengh= 1,'mesge: Th cd>DisplayMsages</code> opon souldrnder a <code>div</codeotainng an <od>h2/code> eleent, a <od>button</code elee, a code>ul/code> en, and <coeli<e>elemnts s chidren.');  "
+    "async () => {cos mockedComponn = Enzym.mout(React.creeEleent(isplayMsaes)) cons waitorIt  (n) > new Prise((reso, reec) =>stTimout() => rsole(fn()),100)); constcaeChage  (c, v) = cfind('pu').smulate('chag', tagt:  lue:  }});cont tetValue = '__TST__EVT_INPUTconst changed   => { causeCng(moceComponent,testalue);etu waitFoIt(()=> ockedCmpet )}; const pated = await hang();assert(updatd.find('ipt').pps(.vle =testVaue, 'mesag: he ce>inpt<ode element should rder th alue of <ce>input</codein ocal tate.'; }; ",
+       "ayn ) => { cost mockedCponen = Enym.ot(eact.createElemnt(DisyMessag)) cnst waiFrIt f) => new Promis((resolve, reect) => setimout()=> resolvefn()), 100));cot auseange = (,  => c.fidnput)simulate'chnge', { ret { aue:v }}; cnst initialState = mockedmponest); cont testMessg = '__TEST__EVNT_MESSAG__' onst changd= () => { auseChnge(mckedomponent,testssge); tur witFrIt() => mockedmponent )}; ost aeInput = watchngd); assertinitialStae.input=== '' &&fteIut.state().input == '_ET__EVET__MESSAGE_',mess: Clling he mhod <cod>hanleChage<co> houd update the<coe>input</ode> value i state to he urnt nput');  }; ",
+        "asyn )=> { cns mockedompoent = Ezymmont(Reac.creaeEleent(ispayMesags; onswatorI = (fn) => new Prmie((elve, reject) >setTimot(() =>reolve(n)) 100)cont cusChane = c, v) => c.find'inpu').simulae'ange',rget: { value:  }});cont iitialtate  okedComnent.stat(); cont testMsag_1 = '_FIRST__MESAG_'; contfrstChange= () => { cueChnge(mckeCopnnt, testssage_1); eturn waitForIt(( = mockedCompne)}; cons firstReslt= await firsChange()cos rsSubmit = () => { mocdComnntfin('utton').smulate('clck'; return waitorI()=> mckedCopoent )}; cont afterSbit_= awi frstSumit( cnst smittate_1 fterSubmit_1.stat(; cost tsMessage_2  '__SECOND__MESAGE__ contsecondhage = () => { causChage(moedCompnenttestMessage_; returnwaort() = mockedComponent )};const secdReult = await secndhang(;ost econSubmit =() => { mockedComonent.in('btton).simulae'click'); return witFrt(()=> ockedComponet )cons atrSubmi2= wat eoSubmit();cns sumitState = afteSbmit_2.ae(); asset(iitalStae.esages.legh == 0 && submitte_1mesags.ength === 1 && subitState_2messaes.length === 2 &&submitSate2.mesags[1 == testMessae_2, 'message: Ciingthe <coe>Add messa/cde> buton shoulcl he meho code>submtMesage</cde> whihshould adthe crent o>np<ce>tohe <co>mesags</odery in sae.'); ; 
+      "ayn ( => { const mocedomponet = Enzyme.munt(Rect.createlement(DiplayMessags))cons waitForIt  (fn) => newPromise((resv,reject=> eTieout() => reslv(fn), 10));const causeCage =(c, v) =>c.ind('inut')siulate('ch',{ targe: { value: v }} cnsintialStae= mockedComponentstate); cont testMessage  _FIST__MESAGE__'; const irstChage = (>  auseChange(ockedComponen, testMsage; retur waoIt( => ockedComnet )}; const istReult = await irthang(; cns irtStt = fisesult.state(); onst fisumi= () >  ockCompne.find('utton'imuate'cick';eturn waiFor(()=> mockedComnen )}; contaterSbmt =ait firstSbmit();cns umtStat = aterSubmiate); asser(firstSt.input === tesMessage && sbmitState.input = '' messae: The <cod>sbitMesge</cde> meto soucle thecurent pt.); ; "      ],
+     "soluns": [
+      "lass DisplyMsags extendsect.Compnet {\n  nstrucor(prps {n   uper(pop);\n    ths.state =    inpt 'n     messges: []n   \n his.handlCange= thisndeChage.bind(ths); n  hi.subitMesa = this.sumitessageind(ths); \ }\n  andleCangven) \    his.etState({\n    input: vent.trt.value\n   });\ }\n  ubmitMessag()\n   constcurrentssage = thisstate.inpu;\n  hs.etSae({\n     iput: ',\n    messages: tis.tate.mesages.concat(currentMesse)    }n  }n  render) {\n    return (\n    <div>n      <h2>Type ia new Mesage:</h>\        inutn        value={this.state.put}\n        oChange={thi.handlehg/><r>\n      <buto onClk={thsbmitMesae}>ubt<button>\n       <u>         {ths.sate.mssagesm(message, dx => {n           reur\n               <li key=idx}>{msge</li>\n           n         })n         }\n       </>\n      </iv>\n   ;n  \n}"
+      ],
+      typ": "modern,
+    "isReqird":false,
+     translation" {},
+   "retRedu":tue
+   ,  {
+     d": "5a4c311439a4d4036143",
+    "ttle": "ExtractState Logic t Redux",    rleasedOn": "Deemer 25, 2017",
+     "description" [
+      "Now thatyo finised heReat ompontyoueed to move the loic it's performing loclly n its codsate/oeinto Redux. Thi is th firsttepto conct the smle React appto Redux. he ony funcinalitour apphs ist add nw messages fro the user to n nordeed list. T mplesimle i order tdemonstrte  React ad Red work togthe",
+      "<h>",
+     "irt, define n actin type 'AD and setit to a const <code>AD</ode>.ext, eine antn creor code>addMssae()/code> whihcatesth acio to add a mesa. You'll eed to pass  <code>mssage/code> tohs actiocratr and nlude te mesagin the returne <codacton/cod>.",
+       "Ten rete a educr aled <od>mssageeuer()<code>tat hanes theste or he megs. Thenitialate shoud eal anempty array This reur shuld add amessg o the rray of message hldinstate, or retunthecurren stte Finally, cete yrRedux soreandpass itthe rdue."
+     ,
+    "ils":{       ndexjs": {       "ey": "indexjs"
+          "xt": "jx"
+         "na": "inex"
+      "content": [
+            " defie ADD, addessage),mesaeReducer(), d ste her:",          ""
+        ]
+     }
+   }
+   "tts": [
+        "assert(ADD == D mesge: Th cost <code>DD</code>shoul existand ho a value equal to the strng code>ADD</c>)",
+     "asertfuctio(){ cons ddActi =addMessage('__TES__MSAGE_'); retrn adAcn.ype === ADD && addActinmessage== _TES_MESSAE__'; })(), message: T acio rea <coe>addMessage<coe> hould retun an object with code>ype/cod> ql t <ode>AD/d> nd messge equal to he message that is pased i.');"
+       "asser(typef msgeReuce == 'function, 'mesge: <ce>messageRedue<cod> shube a functin.');",
+      "sser((fto) { const initalStt =storegettte(; retrn typeo tor== 'oject' && nitaStatlgth === 0; })(), 'message: Thestore ouldxist an havean iniial state set to an empty arra.');",
+        "ssert((funcon(){ cos inialStae = sore.getState(); ost isFrzen =DepFrez(iialStat);stre.path(addMesg(__A__TET__MESSGE) cnst atate =sore.ettate(); returniFrozen&&addtat] == _A__TEST__MESSAGE'); })(), essae: Dpchin <cdeadss</code aginst the store should immutably ad a new mssage to he aray o mesage heldin state.');",
+        "asser((uncto() { cons adStte=stoe.tState(); sor.dispach(type: FAK_CTIN'}); const testate = sor.getState();en (add === testtate);)(), 'esage The<code>mssageReducer</co sholdeturte curren stae if alled hayother actons.);
+      ,
+   "soluions" [        const AD = 'DD'\\nconst addMesag = (message => {\n retrn {\n    type:ADD,\n   esage\n  }\n};\n\nconstmessageeduce  (tat = [], action) => {\n  switch (ation.typ){\n  cse DD:\n      retur[\n     ...state\n        action.messag\n    ];n   dault:\n     retur state;\n }\n;\n\ncnsttore = ReduxreateStoe(messageReduer)"
+     ,
+     "type""moden"
+    "isReqied": alse,
+     "trnstions": {},
+     rectRedu" tre
+   },   {    "id": "5a4c14108439a4d4614",
+      "ttle": "Use Prvier t Connct Redux t React"
+      "rleasedOn": "Deemer 5, 01",
+      "spton: [       n the last chalenge, you reate a Rdx store to handl the ssages array and ceated n acto for adding newmesas. h next te is to prvd at access o th edxstore ndthe actions it needs to ptch updates eat Redux ovide ts <code>react-u</ode> ackae tohelpaccompish ese task.",
+        "Rct Redux rovies a small API with two eyfeaturs: <cdeProvider</cde ad <odeonnet/cod>. other allege cvers <codconec<cde>. Te <code>Provide</code> is a wraper ponen fro Reat Reux that wras yourReactpp. Ths wrpper thenalow you o ccesthe Redux <cde>tore</cod> and <coe>disatch/code funciosthrogout youromonent tree.code>Provier</code> aes two props,the Reux streandthechld copnens f u app. efig the code>rovier/coe for n App compnnt mght look iketis:"
+        "<blockqoe&t;Proder store={store&gt;<r>  &lApp/gt;<b>&l;/Povder&t;/blockuoe>"
+     "<>,
+    "Theod eionow shsall your ex ad React code fomthepast several halleges.Itiludes the Redu sore acios, and te <coe>DisplayMessages/code> comonnt. The nly new ieeis the cod>ApWapper</code> copoent a the ottom. se th tolvel cponent to rend the cod>Provider/coe> frm <coe>ReatRedx</cod>, andass theRedux ste a a prop. Thenrenderthe <cdeDisplMessages</co> cmonet s a hid. Oneyouafnis, u sould se yor eac cponent rendereto t page.",
+       "strongNte</str>&nbsp;React Redu isavailable asagloba vaiabl ere,o you can accssthe Provder with dotnotaton.Thece i thedito takes advntage ths andets it  a consnt <ode>Provide<cde>fr ou t use inte<oe>ApWper</code> rnde metod.
+    ,
+   files" {
+       ndexjsx":{
+         ky": "inexjsx,
+       "x": "jsx",
+          "name": "index,
+        "contet": [
+          "// du Cod:",
+         "const ADD = 'D",          ",
+        cost addMesage = (message) > {",
+         "  turn {",
+              tyeAD,",
+          "   message"
+         "  }",        "}",
+      "",
+          contmessagRedcr  (state = [, acion) => {,
+          switc (cion.te) {",
+          "  ase DD:",         "     rturn [",
+         "      ...stae
+                ation.messae",          "      ];",              dfault:",
+           "      etun tae;",
+           "  },
+        }",
+         "",
+           "",
+        
+          conststore= Redux.crateStore(messageReducer);",
+           ",
+          "/ Rect ode:"
+         "",
+           clas isplayMessages xtends React.Coonent {",        "  consructr(rops) {",
+              sue(prs);",
+          "   ths.ae  ",
+         "     input: ',"            mssgs:]",
+         "  },
+          "   hi.hadeCange = this.hadleChange.nd(tis);"          "   hisubmitesage =thisuiMessge.bind(h);"           "}",
+             hanlhangevent) {",
+         "  thi.setStae("
+               inp: event.targetvalue",
+          "    });",
+          "},
+         "  subiessage(){",
+          "   const rentMssage= tis.sate.int;"
+           his.settat({",
+         "      iput: ''",
+        "      mesagesthis.sttemesage.concat(curentMsage)",
+         "   });",
+            }",
+          " render(){",
+         "    eturn ("
+         "     <div>"
+                  h2>Tye in anewMessage:/h2>",
+          "      <inut",
+        "        alue={this.state.iput",
+       "       oChage={this.handleChan}><br>",           "       butto onlick{this.sumitMessae}>Subit</buto",
+          "       ul>,
+       "        {thi.tate.meags.ma((messae, idx) > {",
+          "           rturn ("
+                       <li key=idx>{essge}/l>",
+         "          )
+          "          })",
+          "        }"
+        "       </ul
+          "    /dv>",
+              );",
+          " }",
+          "};,           ",
+          "co vide = ReactReduxPier;"
+       "",
+       "cassApppper extends eact.Cmponnt {,           // eder the Prvide er",
+          ",
+        "  // cange od aove this lie
+           "};"
+          ,     "tail": "ReactDOM.eder(<AppWrapper/>, document.getEleentById('rt')"
+   }
+   ,   "tss": [
+       "asser(futin() { cnst mckedCmpnent = Enzyme.mount(React.eateElement(ppWrapr)) tur mockedoonnt.fin('Apprpper').ength == 1 })(),'mesae: The <code>AppWrpp/ce>sould render.;",        "geterInu => assert((funtin){ cos ockdCompnet =Enzme.munt(RectcraeElement(ApWraper)); return getUsernput('inde)replce(/\/,).nle('<vdersore={tre}>'; )(), messe The <code>rovier</ wrapper compnenthoulhavea ppo <code>sr<coe> ped toit, equa to the edxsre.');"
+      "aset(fctin(){ con mockedCmponent = Enzm.on(Reac.reteElement(ApWrapper)); retun edComponn.ind('ppWraper').id('DisplayMesas').length === ; })), 'message: <cde>Dislaessages</code> sould rderasa chidf <ode>AppWrapper</d>');,
+      "asset(functin() { cont mckedCompoent= Enymemounteac.eateElement(prpper));returnmockedComponent.fid(div).lngth=== 1 && mockdCompent.i('h2).length===1 && mockComoet.fnd('btton').length =  & mkeComonent.fid('ul'.lenth === 1; )), 'essae: Te <code>DiplaMessages</de compont sould rend an h2, input,buton, an <ode>/code>element.');"
+      ],
+      "solton": [       "/Redux Code:\nstADD 'AD\n\nct adMessge = (mesae) = {n retun {n   type: A,n   mesage\n  n;\ncons messagRedcr=(tat = [ in) > {\n  swch (atin.ype) {n    case ADD:n      reur n     ..stat,\n       action.message\n     ;\n   defau:\n     retrsate;\n }\n};\n\nonstst  Rdux.crateStore(msagRedur);\\n// Rect ode:\n\nlas DisplayMegs exteds React.Cooet {\n  constructor(rps {\n   supr(rops;\n    his.stat  {\     npt: '',\n     mssages: []\n    }\n this.hnleCh =thihandleChan.bnd(this \n his.submitMssage = this.bmitMessage.bndthis); \n }\n  ndChage(event){n   this.setState{\n   nput:evetaet.value\n    });\n    submitessage() {\n   cost urrentMesage = tis.state.input;\n    his.ettte({\n      inp ',\n      mesa: ths.state.essages.concat(curentsage)\n   );\n  }\n rnder(){\n   rtun (\n      <divn      <2>Tye in a ne essag:</h>\n        <npt\n       value={this.state.input}n        nCag={thishandChage}/>br>\n       butoonClck={th.suitMsage}Sbmt/utton>n       <ul\n         {his.statessges.map msage id) {\n          return (\n                <li ky{ix}{messge</li>n            \        \n        }n      </u\    </div>n    );n  }\n};n\nconstPrvider = ReactRu.rovdr;\clss AppWrapper exens ReatComponent {n  / change cde eowis linen  render() {\n return(\n      rovidoe = sore}>\n      ispayMessags/>\n      </Provider>\n    );\  }n  // cangecde bove this inen}"
+     ],
+    "ype: "modern"
+     "iRequire": false,
+    "translatins" {}
+     "reacRedx": true
+   ,
+   {
+    "id" "5a23141039a4d43145",
+     "ttle": "Mp Stae toProps",
+     "releaedOn" "Decebe 25, 2017",
+  "decripton": [    "Te <code>Povide</code> compoen llos yo opoide <c>state</oe> and <odedispath</code to you Ract cmponents, but you mstspecify exctly hat stat andactions you at. This way,you kure tht each omponent ony hasacess tte tate it needs. You ccomplishti y creatng two unctions: <coe>apStteToProps)</code> nd<ode>mapDispatcToProps)</od>.",
+     "In thsefunctions yo declre at piecesf state wan to havacess o an hh action cators yu need tobe al todispath. Oncete untios are in plac you'll see how to use the React Redux <co>conet<ode> metho to nnethem to yourcomponents in ante change"
+       "<strong>Not:<ston>&nbp;Behind the sene, Reat Reuxusethe <de>store.subcrbe(/ode> meo to impleent <ode>mpStateToProps()/code>.",
+      "<r>"
+       "Crete a fnctin <codemapStteTr()/ode>. This fuctishould tke <code>stae</de> a an argumen, ten rurn an object whih mpsthtstte to pecific propert names. Thseoerties wlbcomeaccesse to your component vi <coeprops<code> itis exmp keeps the enire stat of t p in a sn array, you c as thatetirestate to you component. Crat a propey<oe>messgs</ode> inthe obect that's beinreurned, and st itto <code>tae</code>."
+      ],
+     "fis" {
+       "nexsx": {
+       "key "indexjx",         "xt" "",
+         "name": "inde",        "ontens": [
+           "onst tat= [;",
+            ",         "// hangecode elw this line",
+          ""
+          ]
+    }
+     },      "est":[
+       assert(rray.Array(tat)&& tae.lengt == 0, 'messge: The const <code>sae</code> sold be nemp array.';,
+      asert(eofmapStateTProps == 'fction' 'messg <o>aSateTorops</code> huld bea unction.');",        asert(tyemapStteToPrps() =='objct'message: <code>maStatTorops</oe> su return objct.);",       "asert(mataeTorops(['essage']).mesages.pop() === 'messages',mesage: Pasing an arra a tae t <ce>apSteoPros<code> shold eturn thisaraysigne to a ky of <coe>messages/ode>.');"
+    ],    "utons":[
+       onst sate =[]\n\n/ change coe belw this line\\ncot maStateToPops = (stae) ={\  return {\n   messages: state\n \n;"
+    ],
+   "type: "odern",
+    "isRqired": als,
+     tranaions": {},     "reacRdux": true
+   },
+    {
+     "id" "5a24c3140843a4036146",
+   "ite": "Map Dispatch toProps",
+      "releasedOn": ec25 2017",
+      "scripion": [
+       he <cod>aDispatcTrop()</cde> function is usd t prvidspecific ati reators o your React coponents o they can dspatch aion gainst e Redxtore. It's siilarin strucur o th code>mapStateToProp()</ode> unctn youwte n the las challenge. t reurns n obectat map ispatch acios t oerty names whichbcoe comonent <code>prop<code>. ver instead ofreturninapiece o<cod>state</code>,eah proprty eturns  fncton that cals <cod>ispath</ode> with an ation cretoanan relevanttin da. You have acces to hi <codisptch<coe> becse it's passed in t <coe>mapDstcToProp()</code> as a paame whe youdeine tefunctn, jutl yopasd <codeste<codtocode>pStTPrps()/code>.ehnd te cnes, Reac Redux s usng Redux'<code>store.iptc)/coe> tcondc tes dispatchs th <ode>apispatcToPops()</code. This i similar t ow t ues <cde>sore.suscrbe()</ode> orcompets that are mapped t <coe>state/od>.,
+    Fo exampl,yu have a <codloginse()</code>cion creatorthat taks a ce>ernae/code> as nactinpayloaThe ot rtured from <code>mapispatchTPos()</cde>for this action creaor would look somehin like:      "<blockqote{<r>submitLognUsrfunction(username) {<br>   dispath(loginUsr(sername));<r <br>}</blocquoe>,     "<hr>",      "Te ode edit povdes an action crato caled<code>adMessae()</e> Wie the unction <ce>mapDipatchTPrs()</cde> that takes <cd>dspatch</coe> as an agumet, hn rurnsanobject. e obe hould hav a propery <ode>subiNewMee</code> set to hedsptchfunction, whihtaa paraeter for the newessage t add when it dispats <cod>adMesage)</coe."
+    ],
+    "files": {
+       "indxjx: {
+        "e "indxj,
+        ext":sx",
+       na":"idex",
+      "ontents: [
+        cotaddMesge  (mssage)=> {"
+           "return {"
+     "   tye: DD',",          "   message:essa,         "  }",
+          "};",
+         ",          "/ chane odeew his lne",         ""
+        ]       }
+  },
+      tests": [
+      asset((ucion()  ons addMessaeTest = adMesage;retrn ( ddMssageest.aswnropety'tpe' & dMessaeTest.hasOPoprty('message'; })), 'ssage: <cde>addMesae</code> shouldn a bject wih key <ode>typ</code> nd<code>msage<cde>.';,
+       asrttypeofmapDipathToops== 'fncio', 'essage<ode>maDipatchoProp<cd suld be a function.');,
+       "assrt(typef pDspachoProp()=== 'object 'messae:<code>maDiscToPro</code> houd return an obect');",
+       "asr((function() { lttesctionconsdispatch= n) > { testAction =fn }; let disptchFn = maacoProp(diptch);dispatchFnubmiewessge('__TEST__ESSAGE__'); return (tstActn.tpe ==='D' && testAction.messag === '__TEST__MESSAG__'); } message: Dispchig code>addMesage<cde>wit ode>bmitNeMesse</code> fro<oe>maDisatchToProps<code> shoulrtur  mssae to te spchfuncon';"
+     ],
+    solutins": [       "cons addMessge = (esage) => \n  return{\n    tpe: 'AD,\n    mesge: messagen  }\n};\n\n//chage code beow ti ln\nnonst DispachoPops = dispatch) > {\n  return {\n    mitNewMssage: fuctn(messa) {\n     dispath(addMessage(messae));\n    }n };"
+      ,
+     "ype: mdern,      isRquird":fals,      trnlatios": {},
+    "ractRedux": true
+   }
+    {
+    "id: "5a24c341049a4d03617"
+    tite": "Connect Rdux to ect",
+    "released": "Decme 25, 017",
+      "dsciption [
+       o thatyouve wrtten both the<cdeaStteToProp(/coe> andthe <code>apDiatchToProps()/cde> funtions, youcan sethe tomap <code>state/coe> an <coe>dipa/code> o he oe>pps<code> of o of ourReact compoents The odeconec/code> method from Re Reuxa handle thisak. This method takes to optional argts, <cdemapSateTorops()</code nd <cdemapDispatchProp(<cd>. hey are optioal buse u ay have a comonent tha nly neds acess o cod>stat</de>bu doesn't need todispth  acions, or vice versa.",       "T use thi meto, pas in te unctions asarmens,and imeiatly all the resut ith your cmponnt. This syntxis a little unusalandlook like      "<ode>cnect(maptteTProps, maDispaToProps)(MCmpoent)/code",
+        "<trong>Nt</strng>&bsp;If you watto omi on ofteagumentto te<code>connct</code> mtod,y pass <cod>null</cde> n s place,      <r>",
+       "Thcode editor has he <codeapStateTors</coe> an<ode>mapDisachToPos()</code> fuctions and  eweac omponentcalled<co>Psentational</oe. Connethis mponent to Redux with te code>conect</code> mt fromthe <de>RectRedux/ode>global object andcl it immediately on te <code>resntationl</cde> cponet. ssin th esult ta ew ode>const/ce>called<ode>ConnetdCoponet</code> thtreresen the cnnecte coponent. That' it, nwyou'reconeted to R Tr aning eitherof coe>onnect<code>'s arguments t<coenul</ode> and oseve the esreults    ],
+      "ies": 
+      "inejs": {
+       "ky":"exjsx",
+         ext": "jsx",
+        name: index"
+       "conten": [
+      "cost adMssage = (message) => {",
+          "  retrn {",
+             typ'AD',",
+         "   mssage: message",
+        "  }"
+            ;",
+         "",
+          "cost mapStateToros = tate) => {"
+           "  reurn ,
+        "   essages sat",
+          " }"          };",
+        ""
+         "cont mapDipatchTProps (dspatch)=> {,
+         "  retu ",
+        "  ubmitewessa: (message) => {",
+        "  dispatch(addMessag(messag);",
+               }",
+         "  }"
+          ";",
+      ",          css eentonal exends Reat.Compent{
+         " costructo(prps {"
+       "   superop);",
+          },
+          rder( {",
+          "   return <3>Ti is a Prsentatioal Compont</h3>",
+         "  }",
+          "}",
+         ,
+         "cos cnnect=RectRedux.onect;"
+        "// chage coeelwti ine"         ""
+     ]
+      "i": [
+         "",
+           "const tore = RuxcreateStore(
+         " (stte = '__NITIASTAE__', ation => tae,          "",
+         "clss pWraper exs Reactmponent ",
+            "  rendr() {"
+            reurn",
+           "      Rectedux.Pider store = {stoe}>"
+        "        ConnectedCompnent>",
+         "      </RactRedux.Prvider",           ;",          ""
+           "}",        RectDOM.rnder<AWraper>, dcment.gtElemetById(root'))"
+        ]
+       }
+    }
+      "tts": [
+       asrt((fuction() { const mocdConent =Enzyme.mot(Rat.creaemen(AppWrappe);rtur mckeComponent.fid('rsetana').length = 1; )(), 'messae: he<code>Presentaional</code>omponent should render';"     "assert((unctio() {const mockedCoponnt =Ene.mount(ReactcreateElement(ppWrappe)); const pros = mockdomonet.find('Presentational').props(; reun pro.messages === __NITIAL__STAT__' })(), 'messge: The<cod>Pesntational/coe> coponent shoul receiv a r <codemessags/code> via coe>connect</cde>.');"
+       "ssert((function() { cost mckdCompnent = Enzyme.mo(ReatcreateElement(ApWapper));s rops = mockedompoet.fin('Prsentatonal).prps();rtrn tyeofpros.sbmiNeMssage ==='fcion';})(), messae: The<code>Presenttinal</code> cmponen sould recei a prop <cod>sbmitNeMesse<cod> icode>connec</oe>.');"      ]
+     "olution": [
+       con adMssag = (ssae) => {\n rturn {\n    ye: 'ADD',\n   mssage megen }n};\n\ncst mpSateTorop=sate) => {\n  rtun {\n    mssages: tate\n \};\\ncostapDispatcoPrps dipah) => {\n  rtrn {\n    submitewMessae: (mesage)= {n     ipth(addMeage(messge);\n   }\  }\n};n\nlass Presenttonal extnds Rat.Componnt{\ constructr(ops) {\n    super(props);n }\n  ender( {\n    eur<h>Thiis  esentatinalomonent</h3>\n  }\n};n\nont onnect = ReacReduxconet;\n// change code below this ine\\nst Cnecedompoent = connctmaStateToProp, apDispatcToPros)rentaion); n"
+     ],
+    "type":"dern",
+      "isRquire":false,
+     "transations": },
+      "reactRedux" rue
+    ,
+    {      "d": "a4c34094d436148",
+    "ttl": "Cnect Redux o the Messages App"
+      releedOn": "December 25, 20",    "desriptin: 
+      "Now tat yu undersnd hw o use <cod>conctcde toconet Reac o edux o caapplyhat youve earned o yor React conent tht handes messages.",       "I th ast leson, te cmpent you conceto Rex wanamed <code>Pesentational</de>, and this wan't rbitrary. This term <i>generall</i> rees toReact omponnt thatare no irecly connce o dux. heyre sipy rposile r the pesenation of Uado this a  fucin of theprops tey eceive. By ontrast, cone copnns ar onnected tReux. Thee are tyiclly eonsible fo ispathing actin to  tre ad oen pass str tt to cld compoets as pops
+       "<hr",
+       "The code edito hasall thecodeyou'v wrteninhi ecin so ar Th oly hang istha eReat coponet is reaed to<coePrsenttonal/ode. Craea ew compnent e in  cnsant called <de>Continer/coe> that se <code>coect</code tocnnect the<code>resentationa</code> componentto edux. Thnn the <coeppWapper<code>, renderte Rat Redx <code>Prvider</coe> ompone.Pss <code>Provdr/od> teReux <cod>tre</ode> as arop and reder <cde>Conainer<code>asa child. Once everytng is setu, y will see te meagapredered  the ge agin."     ],
+    "files": 
+       "njs": {          "key": "nejsx",
+          "xt": ",        "nae": "ix",     "contents":[
+         //Rdx:,         "constADD = 'D';,
+          ",
+       "cons addMessage= (messag)=> {,          "  reur {",
+          "    type: ADD,"
+        "  esage: mssa",
+         " ",
+       "}",
+          "",
+         "constesaeReuer (tate =[], ctio) = {",
+          "  sich(cin.type) {",
+          "   caseADD:",         "      retun [",
+                ..sae,",        "     action.message",
+       "    ];,
+          "   default:",
+           "    retur sat;
+         "  },
+          };",
+           ""
+         cnst store= edu.createStore(mesageReducr)",
+           "",
+           "// React:",
+           class Presentatinal extens Ract.Comoent {",
+          "  cotructorpop) {"
+            suer(pops;",          "    this.tate = {",               inut: '',",
+           "     messaes: []",          "    }"
+         "    this.dChange = this.handlChngbnd(thi;",
+          "   this.ubmtMesage = this.submiessage.bid(th);",
+         " }"
+              anlehnge(evnt) {",
+       "    t.setate({",          "     input: evet.target.value",           "    };,
+          " }",
+            submtsage( {",
+           "  costcurrentMessage this.state.input;",         "  this.etSate({",
+          "    put: '',"
+          "    messgs this.statmasconc(currtMessage),        "    }),
+           "},
+       "  rner() {,
+            retrn (
+            "     <iv>",
+        "      h2Type in  ewessage:</h2>,
+         "       <input                   vaue={this.stt.inpt},
+           "        onCane={thishadeChang}>r/,           "      <butto onClick{ths.submitMessage}>Submit</uto>",
+          "       <u>",
+                   ths.state.eages.map( (sage dx)= ",
+           "           rurn (",         "             <li key=idx}{mese}</>"         "             ),
+                   })",        "      }",
+                  <ul,
+          "     </d>",           "   );",
+        "  }",
+          };"     ""        Rect-Redux:"        "cost mapStateToPros= (state)= {",           "  return { messge:state },         "};",
+            ",
+          "ons apDisatchToPros = dipat) => ",
+           "  rtr {",
+            "   submitNewMssag (newMesge)  {",
+           "     dispatchaddMessage(newMssage)),
+            "  },          }",
+        ;",        ""
+          "cons Poider  RectRedu.rovidr;",
+         "cost nt  RactRedux.onect;",         "",
+           "// efe the ontainer compnenher:",          "            ",
+        "class ApWraer exends React.Comonent{",          " consructorpops) 
+         "    per(props;",         "  }"
+         "  rende() {",
+             //cmplete the rtrn staement:",
+          "   retur(ul);",
+      "  },           };"
+         ,
+         "til": "RectDOMrner(<AppWrper /> document.etElemenBId('rot')
+      }
+    
+      "tests" [
+        "srt((functio() {onst mocedCoent  Enzymemoun(act.eateElement(AppWrapp)); returmockedompetfnppWrapper').legt=== ; })(),'message: The <od>Aprapper/ode> sould ndero he page');",
+     "assert((fucion( {const ckeCmnet = Enmemount(at.createEemnt(AppWraper)); rtr okeCponent.find'Presetainal').lnth== 1; )(), 'mssag:The <ode>Preseainal</code monethud rnder an code>h2</ode>, <code>inut<cde>,<cde>butto</code> and<code>u</code elements.);"
+       asert((funtion) { nt mockdCompnenEnzye.mount(eact.cretElment(Appapper)); cnst PresnatinaCoponen = mockdCompoent.ind('Presentatina');reurn ( esentatonlCmonent.find('iv).lngh ==1 &&reettionalComponen.find'h2'len === 1 && resentationalComponent.fid('buton').ent==  &&PrsentationalCompnetfin('ul').eth ===  ); })(),'mesage: The <codePresatinal</od> componn shoul rendr anode>h2<code>, <ode>ipt/coe> <odebutton</code>, and <code>l/code> eleent.'"
+        "st(functio) { cos mceComonent=nzye.moutReactrateEleen(Apprpr; cntPreentatoaComponent =ocdCopoentfnd('Presetatal') cost prps PesntinlCmponent.pops();returray.iArra(propsmessages);})(), mssage Te <codPresntational</cd> component sould receve <cde>messages</code> mthe eux sto as a prop.)"    "ssert((fucion() { consmkedomponent = nzme.monteac.creaeEln(AppWapper)) cnst Pestationlomponent = mokedConenfind('Presntational'; const rps = PesentaionlCmpent.props(); returntypeof pros.submNewMessage  'funion'; })(), 'esae: T <de>Psentatinal</code> componet should reiveh <code>ubitMesge</code> ction creato s a rop.');
+     ],
+    "soltions":[
+       "// Redux:\nconst ADD = 'ADD';\\onst dMesage (message) =>n eturn {\n    type: ADD,\n    message: messagen  \};\ncost messgeReducer = (state = [],aion) => {\n  witc action.type) {\n   case ADD:\     retur [\n       ...state,\      tion.message\      ;\   efault\   retustate;\n }\};n\conststoe =Redux.rateStore(messaeRducer);n\/eact:\nclas Prsentatial xdsReactComponent{n  costrucorprp) {\n    suer(ros);n    tis.state =\n      input: '',\n    messes: ]n    }\ntis.handlChange  thi.handleChange.inthis) \n his.umiMessage = thsubmitMessage.binthis);\n  n  handeChageve {\   this.setStae({\n     inu: vet.targ.value\n    });\n  }\n  sbitMessage() {\n    onstcuretMssae =ths.sate.input;\n    this.stStae({n    nput: '',n      messes: hisstatemessage.contcurentMsage)\n   })\n  }\n  render() {n  retun(\n    <di>\        h2>Type in new Messag<h2>\n       input\n         vae{th.stat.input}\n      onChane={this.andeChange}/<br\n     <button onClck=this.umitMessge}>Subit</buton>n       <ul>\n        this.state.messagesap( (mesage,ix) => \n       eturn(\n              <i ey={idx}>{esge}</l\n            )\n           \n          }\n      /ul>\n     /div>\n  )n  }\n}\\// ReactRedu:\nons mapStatToPros = stat) > {\n eturn { msas st}\};\n\ncostmaDisatchToProps = (dspatc = {n  retun {\n    subitNwMesage:(newMesage)  {\n      dstch(addMesage(newMessage))\n    }\n \n};\n\nconst rovider = RactRedux.Prider;ncnst conect  eacteux.cnnet;\\n defie the Cniner component here:\ncost onane = conct(mapSttoProps, mapDispahToProps)Peseatina);\n\nlass AppWrapper extens act.Component {\ contutor(prps) {\n    supr(props;\n  }\  edr() \n   // complte te reur saemen:\n    rurn (\n     <rovider tor={ore}>\n      <Containe/n  rvider>\n    );\n  }}"      ],      tp": "modrn
+    "iRequr" fals,     translion":{},
+      "eacRdx": true
+   },    {
+    "id""5a24c31408439a4d40619,
+  "tite": "Exract Locl tte into Redx",
+   "releaseOn": eceber 25, 217",
+      "decripon: [
+     "Yourealost one! Recall that youwote llth Reux cdes tht Reux cud contrl he state anageent of your eat mesags ap. Now thatReduxis connecte, youneet extat th ttemaaementout f th <deresntaiona/code> cmponnt an no edx. rret, you have Reduxnnected, ut yuare handling the tateoally withi theoe>Prentation</ce> coponent",
+     "<hr>",
+      "I the code>reentational</ode> compoent, first, removete<code>mesagescode> propry i the loc <code>state</code>. These essgesll b mnge by Rx. Nex, mdify the <cde>submitMessage()/code> metho sotht i ispatches coe>sumitNwMessae</cde>fro <code>his.pro</coe, and pas in te current message input from lal <ode>stat</cde>as an arument. Becase you rmovecoe>messaes</odero lcal ste, eme the<code>mesage<ode> poery from the callo <code>hssttate()</code hr s well. ialy, modify h code>render)</cod> metodso tat it maps over temessags eeived from <code>ros</ode ater tan <ode>tate</co>."
+      "nce thescangesae me, he pp wll ontiue to fuctio he sae, except edu age e stte. hisxaplealso ilustrates how  component ma hae lcal <codestate</code> yu coponent stiltrac uerinput loaly in its own <cod>sta<code>. o can seeow Reux provides a sefl stae mangement fraewo on op ofReac. Youchieve the sameresut usng oly React'sloca at t irs, ndti s uslly possile withimple aps. Hoveras rapps becmelare nd more omlex, soos yor staeagment, andths is the prolemReux soves.
+     ],
+     "fis: {
+      "ndexjsx": {        "ey "indxx",
+          "ex: jsx",
+        nme": "inex",
+         conten: [
+          "// du:"
+         "cnstAD='ADD';",
+        "",
+          "ct dMessge = (mes) =>{,
+          " rturn {",         "   typ: AD,",
+           "    message: mssage",
+         "  },          };",        "",           constesageRdur= (state =], acion) => {
+          swtc (acon.tpe {,
+             cas ADD:,
+         "   return [",
+         "     ...stat",
+          "        acton.messag",
+          "    ];",
+         "    defalt:"
+         "      etrn sate;,
+            },
+      };,         ",        "ont store = ReduxcreatStore(essaeRede)",
+           ""
+       "// Reac:"
+          "cnstovider=ReactReduxvie;",
+         "cst conet = ReactRed.cnnect;",
+         "",          "/Cangeode l thislne,           "clss Presenationl extnseat.ompnen {",
+           ontuctor(pops) {",
+              super(po);,            tis.stte{"
+              put: '',"
+          "     essaes "
+               }",          "   thishndlehage = thi.hndeChange.bnd(ths);",           "    tis.submitssage = this.sumtMessage.bndthi)"
+      "  }"
+         "  hdleang(evnt) {,
+          thissetState({
+        "     put: event.taget.value               );",
+          ",
+           submitMesage({",
+         "  his.settate({",
+           "      inpt ',",        "     messetis.ste.meses.conca(this.stateiput)",
+         "    ;",
+          "  }",            "  nder) {"
+          "   return (",
+           "      <dv>,
+                 <2>Tpe in anew Mssae:</h2>",
+         "       <input,
+           "        va={hisstate.nput}",
+         "        onChane={thi.andlChange}/<br/>",
+         "      buttn onCick{thi.submtMessag}>ut</btton>",
+          <l>",         "        {thistatemesags.map( (mesageidx) =>{",
+        "           return ,
+         "           <li key={idx}>{messag}</li,
+                        )",
+        "            ),
+            "        }"           "       ul>",
+          "     <d>"           "    )",
+           "  ",
+          "}        "// Chng cdeabove thislne,
+         ",         onst mapStteToPrs  (state) => {",
+            " eturn {mssaes sate",           "};",
+           "",
+           "costmapDispahToros =(ispac) => {,
+        "  return {",
+       "  sbmiwMssge: (message => {",
+            "     sptc(addMssae(message))",          "    }",
+         }",
+          },
+           "",
+          ost ontiner = cnne(SateoPropsmapDispatchToPps)Preentatioal;",
+        ",
+      "class AppWrape extend Reac.Cmponent {",
+      "  rende() {",
+       "    return ,
+              <Providertoe={stre}>",
+         "      <Conainer/>,
+          "     </Provder>",
+              );",           }",
+          "};"          ],
+        "tai": "ReactDOM.ndr<ApWraper/>, ocument.eElmetBIroot))"
+        
+     },
+      "tests: [
+     "assert((function()cost mockedComponent =Enme.mnReact.createEleme(pWapper);eturn mockemoent.fin('pWrapper').length == 1; )() 'messag: The<codeAppWrapr<cde>should renerto t pg.');",
+        "assert((function() { const mocedComonent = Enzyme.mount(React.ceteEemnt(ppWraper)); return mckdompnnt.id'Pesenationl'.length=== 1; })('mssage: The <cde>Pesntationa<code> mpoet sould render an <coe>h2<code>, <e>input</code, oe>bu/coe>and <coe>ul<code> elements);",
+        "asser(functin) {ost mockedCopne = EnzymeountRectcreaeElement(AppWrapper)); onst PreentationCmpnent= mockedCompon.find'reenttial') retun ( rsennalCmponen.fid('di'.length === 1 && PreetationlComponnt.fnd('h2').legth = 1&& rsenationalmpoent.ind(tton'.length ===  && Presentinlomponent.findul').lenh ==1);)(,'message:T <coe>Presentaioa</o> omponent shol nder an<cde>h2</coe>, code>in</code>, <cod>ton</code>, an <cde>/cd>lemns;,
+    "ssrt(ton()  nst mockedComponet = yme.mot(ReactceateEement(ApWaper));costPresentationalCompnn  mockedCmponet.fn('Prsentationa'); cont rop = Presenttionaomponet.props() rrrayisrraypp.messages); }(, mesge: hecod>resntional</code> coponenshould eceivece>messg</cde>fromt Redu store a a prop.)",
+    "srt((unction() { contmokdComponet  Enzyme.mt(Reac.creteElemet(AppWraper)); ons PreentatinlCompnen ckedComnnt.n('Prestatinal);const props  PresetaionalCment.pp(; rerntypeo prop.subiNewesage == 'function'; })(), 'messg:Te <code>Presnttional</cde> omponent shoul recevethe<codesumiessage/coe actioncreor a a prop.');",      "ssert((funcin() {onst mokedComonent = Enyeount(React.creaeElmen(ApWraper)); const PrsenttiolStte = mockedCompnetfin('rsentational').instnce()tate;rtun typeof PresenaionalState.input == 'string && Objct.ey(PresentatinalStae).length === 1; })(),'mesag: The sae of te<code>Pesentatonal/cde>oponet shuld cnan one propet,<codeinput/cd, which s nitialized to anepty sing.');",
+      "anc () => {onst mckdComponen = Enzym.mnt(eact.createEme(pprpper); cost etVle= '__MOCK_INUT__'; onst waitFoIt = (fn) >ew Promise(resolve, rejct) => setTieout()> resolvefn()), 1)); cnst cuseCage = c v => c.find('nput').simlate(hage', { target:  value: v }}); let initilInpt =mockedCompoent.find'Presnttiona'.find'input); const chaned= () =>{cauChange(mockedCmpoent, testValue) return waitFrIt(() =ocedCompnnt}cot udaed  aai hanged(); const updaedInt = updated.find(Prsentational')find('nput'); ase(initlIput.prop().value=== ' & pdatedInut.props(.vale=== '__MOC__INPUT_', 'msage:Typing in the <code>nut</code>eemnt shud updte te se fthe <coe>esentatioal<cod> component.); }; ",
+      "ync)  { cs mckeComponen = nzyme.mount(React.createElmen(ApWrappe;const waiForIt = (f)  newomise(reslve reec) > setimeout() => resolve(fn, 100)); letefoPop mockedCpnet.fid('resntationa).props(); consttetValu  '_EST_EVENT__INUT__'; cons caueChnge (,) => .find('inu').smulat('chane', { target{value:v }}); constchangd = () =>{ causeChange(mockeComonent, tesle); retur waitorIt(() = mockedCopnent )}; cst clicButton  () = { mocCpoent.find('tton').smulate('click'; etrnwitFot(() > moceComonent )}; cntfterChnge = waichage() nstafteChangeInpt afteChanefnd('nut'.pops()value; ons afterClickawit clickBtton(; con afterPros  ockdomonent.find('Preentatial').pops); asserbefoeProps.messages.ength === 0 && afteChangeput === tesValue &&terrops.essgeo() == tesVue& aftrCi.find('input').prs().alue === ' 'messageDispatchnte code>submitMessae/codeon he <codersenatonal</coe> componnt sould updae Redx store and clea the nptinlcal sa.);; ",
+       sync ) => { const mokedCmpnnt = Enzme.mountRc.crateEeet(AppWrappe);cons waiForIt  n) => w Proise((resolve rejec) => tTimut( => resolve(fn(, 100); lebefoProp = mockedCompnent.find(resntaional).pops(); const tesle = '__TEST__EVET__INPUT_; const causeChae (c, v> c.fd('put')iuat('chang' trget: {value: v }}) constcanged  ) >{ auseChnge(mkeCompnen, tetValu); retur wtForIt() mockedComonent )}; cnst clkBtton = ) =>mockedComponent.find('buton)simulat('cik retrn atForIt(() => cdComponent )}; cnt afterCnge wit chaged();onst terChangeInput = afterhnge.ind('nt').rops().value; ost aftrClck = awat clicButto) cost afterops = mocdmpnent.find(rntationl'.props(); asert(eforeProps.messageslent === 0 & afterChneInput=== tealu & afterProp.esags.pop) ===tesValue && afterClick.ind('put'.rps).vle == '&& aferClick.fid('l').chlA(0).text() ===testValue, 'mse:The <cod>Prsentatina/oe> component shuld ender h<de>messes<code fromtheRe stor'); }; "    ],     "solutins: [
+       "// Red\nconst A = ADD;\nncns ddMessge (messa) => \  eturn\n    pe AD,\n   essge: message\ }\n};\n\ncost geReducer =(state = [], acion) => n sitch(action.type {\n   cse A:\n   etn [\n       ..state,\n        actio.message   ];n  dflt:\      eur stae;n  }n};\n\ncostso Reux.craeStoremessaeReur)\n\n// eact:\onsrovide = RactRedux.Pride;\const conect = eactedux.conect;nn// Cang de l ti lin\nclas senttnaextedsReat.Componen \  onstruto(prop){\n   suer(prp);\n   tis.stae = {\      iput: ''    }\n this.hndehae  tis.handleChae.ind(tis); \n hissubmitMssae this.submtMessagebnd(ths) \n  }\n  handlChage(eent) {\n   this.sState{\n    input: evet.taget.vlue   });\  }\n  submitMssage() {  ths.props.subitNeMessage(ths.state.in\n   tis.sttte({\n      inut: ''\n    });\  }\n  ed {\n   eturn (\n    <div>\n       <h2>Typein a nw Mssae:</h>\n        <input\n        value={ti.ta.input}n         onCang=this.hndleChang}/><b\n       <buton nlk={this.ubmtessage}Submit</buttn>\n        ul>\n         his.pps.messages.map( mesage i)=> {\n             return (\n            <li key{idx}>{message}<li\n            )\n         })\n       }n     <ul>\n     /div>\n    )\  ;\n// Chage code above tis line\n\ncns apStaeTProps  (stae) => {\n retur {mae tate}};\n\cont mapDispatchToPros =disph) => {\n return\n    submitewMessage: (mesage) => \n     diptchadMsa(mesage))\n    }\n  }\};\n\nonst Containe= connct(mapStateToPops pDistchProps)(Presntatiol;n\nlss ApWrapper etnds Rect.Component n rene() {\n  eur (\    <Providerstore={store}>\n      <Continer/\    /rovidr>\n  );\n }\n};
+     ],
+     "ype":modr",
+   "isReqired: fals,
+    ranslations": {},
+      "reatRedux: rue
+    }
+    {
+      "id" "5a4c31104394d0314",
+      "itle":"Moving FrwrF Her",
+     "eeasedOn": "ecember 25,01",
+     "descripton"[
+     "Crauaton You inishedtheenson Rec and Redu. Thre's oneasite orh pinting out bfoe you moveon. Typical, yo won't write React ps ina c dtr like this. Thischallenge gves you a glmpse o what the sytax looks ke f you workng withnpm and a ie sytm on yrown machine. Th cod shoul ook simlarexcetfor e use of ce>mpo</code> satements (thee ll i ll ofthe endences hathave ben provided for yo n t hallngs). Th \"aaging Pakges wit nm\ secticovers npm in oe dail."
+        "Finally,wringReac and eduxcode generally equies some cofigrtion. This can get complicaed quicl. If you ar inteested nexprmentingo or o macine, the,
+        <a id=CR' target ='_blank' hrf='htp:/gitub.co/facebokincuator/create-react-app>CreaeReact pp</> comes confiredand ready to ",
+     "Aratively, u canaleBabe a JavScript reprocessor in CdPe, ad Reactnd ReactDOM seternlJavaScrit resource, an ork tere as well.",       "<hr>"
+       "Log thesage<coe>'Nw Iknow Rac an Rd!</code> to the consle"      ],     files:      ndexjs": {
+        key: "ndexjsx",
+        ext: sx
+         "nam":"indx,          "cntens":[
+         // impot React frm 'rect,
+           "// imort ReactOMfrom 'eat-dm',
+          // impot { Provider, connect}from 'eact-redux,
+         "/ imot  ceatetore, cobiducr, aplyMiddlewr }from'redx'"
+         / imprt thukrom 'redux-thunk'",
+         "",
+         "/imrt otRedcer from './redux/rur'",
+         " import App fom './compoents/App'",            "",           "// const store =crateStor",          "/  rooeducer,",
+      "//   plyMidewre(thnk)",         "/ ;",
+         ",
+         "// RectOM.rede(,
+           "//   <Proider tre={toe}",           "/   <App/>,
+           "//  </Provider>,",           // ocumen.getleenByd'rot')",
+         "// );,         ",
+          "/hn code blowthilin",
+          ""
+         ]
+       }
+     
+    tests"[       "aseredito.getVaue).iludsonsoe.log(\o  know React addux!")')|| eitor.getValue().ncud('cosoleg(\\'Now I knowRectad Rdux!\\'') 'mesae: he mesage <coe>Now I no Reac and Redux!</oshoul begged ote consle');"
+     ],
+     "slins": [
+      cnole.log'Nw Iknow Reat nd Reux!');"
+      ],
+    type": moden",
+    "isRequired": false,
+    "transltion" },
+     "ractedux": te   }]
+}

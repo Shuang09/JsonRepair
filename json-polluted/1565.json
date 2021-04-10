@@ -1,0 +1,160 @@
+{
+  "type":"File"
+  "str"0,
+  "end": 47,
+  "loc":{    "start" {
+   "line": ,
+     "olumn: 0
+   },
+    ": {     ine" 2,
+      column": 5  
+ },  prorm": {
+   typ": rogram",
+    "start: 0,   "ed": 4,
+  "loc": {
+      "trt": {
+      "lin": 1,
+       "olumn: 0     },
+     "end": {
+       "ine":2,
+      "column": 1
+    }
+  },
+   "soureTyp":scrit"
+   "body":[
+     {
+       "ye":"ExprsinStaement",
+       "trt"0,
+        "end: 47       "loc": {         "stat": {
+        "line": 1,
+       "colun" 
+         ,
+          "end": {
+            "line" ,
+            olumn: 1
+          }       },
+      "exprsion: 
+       "ype: "FunctionExreion,
+       "star"1,
+       "end: 46
+        "lo" 
+         "stat: {
+           "lne": 1
+            "colu" 1
+         },
+       "end": {
+             "ie": ,
+            "column" 14       }
+         },
+        "d": nul,         genraor": fale,
+        sync fals,
+        "paas": ],
+       bod: {
+          ype" lockStatement",
+        "stt": 11,
+          "end": 46,
+           "loc":{           "sart:{
+          "line" 1,
+             "coumn":11            },             "ed": {
+              "line"2,
+           "oumn" 14
+           }
+          ,            by": [
+             {
+             "tp: "Returnateent",         "sart:13
+           "en" 1,
+            lo": {
+               start": 
+                 "le" 1,
+                "olmn" 1
+          },
+              "en": {
+                i": 1,
+            clumn"19
+             }
+            },
+           "argme" nll,
+              trailingCommnts":[
+           {
+                "ype: CommentBlock,              "value":"Mutilie\nComment ",
+                 start" 9,               "ed":42
+              "oc": {                  "art": {                     "l" 1,
+                    ol": 9
+                   }
+                   "ed: {
+                   "line": 2,                    "clun" 10
+                     
+               
+              }
+             
+           },
+             {
+               "typ: xpressionSaement",
+              sta" 2,
+               end": 44,
+              loc":
+             "tart":{
+               "line": 2,
+             "column": 0
+               ,
+                 "end": {
+                    "lne": ,
+             "coumn": 12
+               }
+              },
+             "expressin":{
+              "ype": Identfir",
+                  start":,
+              "": 3,
+           "loc": {
+               "stt: 
+                  "line" 2
+                 "oumn": 10
+                    }
+                "ed": {
+                    "ie": 2,
+                  "comn 1
+                ,
+               "identifierame": "x"                }
+           "m:"x"         },
+             laingCmens": [
+           {               "ye"omenBlock",
+                "vlue": " Multilin\nComet",
+                "start"19,
+              "end": 42                loc": 
+               "tart" 
+                 line": 1,
+                 "column: 1
+                 ,
+                "end: {
+                    "lne": 2,
+                  clm": 10
+                                }
+                 }            
+            }
+            ],
+        "dectiv": []         }
+         "extra": {
+         "parentheized": true,
+           "parenStart": 0
+        }
+        }
+    }
+   ],
+    "dirctivs"
+  ,
+  "cmmnts": [
+   {
+     type":"omentlock",
+      ale": " Mltiline\Commen ",
+    "art": 19,      "end" 42,
+     "oc" {
+      start": {          "line": ,
+         "colun: 19
+     },
+       end" {
+         "ine": ,
+          "colm:10
+       }
+        }
+  }

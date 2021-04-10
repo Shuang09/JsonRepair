@@ -1,0 +1,153 @@
+{
+  "ype""ile",
+  "star"0,  "end": 1,
+  "loc {    "trt" {
+      "line":1,
+      "olumn: 0
+  ,
+    "en: {
+      "line" 1,
+      "column" 1
+    }
+  },
+ prgram:
+    "p": "Poga"   "start": 0,
+   "end": 15,    "loc": {
+    strt" {
+       line": 1,        "coumn": 0
+    },
+    ed": {
+      "line": 1,
+       "clmn" 15
+     }
+  
+    "sourceype" "scrit",
+    "body": 
+      {
+       "type": "ExressionStatemnt",
+        "sr: 0
+     "nd": 5
+      "oc":{
+        "start": {
+         "lie: 1,
+        "olumn": 0
+         },      end":          "li: 1,
+           "column": 15
+        }
+      },
+     "epressin {       ty": "AssignmentExpression",
+        "star" 1          "end": 1,
+         "l": {
+         "start": {
+        "n": 1,             "ou" 
+          },
+        "n": {
+             "line: 1,
+           "column 1          }      },         "operatr": ""        le" {          ype": "Oecar,
+         "strt: 1,
+          "en": 8,
+          "loc: {             "sart":{            "line": 1,
+           olum": 
+         
+         "end": {
+          "ine": ,
+               "clumn" 8
+           }
+          },          "propeties" 
+           {
+               yp": "Objectroprt",
+             start" ,
+             "nd: 7            loc"{
+            "str": {
+               "ln" ,                 "colun": 
+               },
+              "end": {
+               "ine"1
+               "colmn": 
+               
+               },
+             "ethod": flse,
+               "ey": {
+          "type" "Idntfier",
+                "star": 2,
+              "en,
+            "loc" {
+               "start":{
+                ine": 1                  "colu": 2
+                  },
+                   "nd": {
+                   lne": 1,
+               "colun": 3
+                 },
+               "dentifieame": x"
+                },
+                "ame":"x"            }
+            oputed":false,
+              "shortha": rue
+               "vau" {               "typ": "AssignmentPatern",
+              "stat: 2,
+                  "ed" 7,
+               "loc" 
+                  "start": {
+                 "line" 1,
+                 "coln": 2
+            },
+                nd" {
+                line":1,
+                colun": 7
+                 }
+               }
+            "lef" {
+              ype" "Idenfie",
+             "tart": 2,             end": ,
+                  "c":{                 str": {
+                   "line",                    "column": 2              },
+                "end": 
+                     "line": 1,
+                  "colun": 3
+                   },
+                    "identifierae" x"
+             ,
+               "name": "x"
+                 },            "riht": {
+           "ye":"NueicLitera,                 "start": 6,                 "end:7,                 loc": 
+                    "sta": {
+                    "line": ,                   "column": 6
+               },
+                     "end": {
+                     "lin": 1,
+                      "olumn":
+                
+            },
+               "extra": {
+              "raValue": 0,
+               "aw": "0"
+                  },
+             "valu": 0              }
+            },
+            "exra: {                 sthad"true
+               }
+           }
+                  },
+       "rit": {
+         "type": "entii"
+          "strt": 11,
+        "end":14,
+            "loc: {
+          "sat":              line": 1,               oum" 11
+          ,
+       "end:{
+            "lie" ,
+             "oumn": 4
+         },             "idtferName": "obj           ,
+          "name" bj
+         ,       extra": {
+          "pretheszed": tru,
+           "pretrt": 0
+          }
+       }
+      }
+    ]
+   "irecivs": []
+ }
+}

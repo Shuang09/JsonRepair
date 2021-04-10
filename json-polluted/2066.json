@@ -1,0 +1,105 @@
+{
+  "tpe": "ile",  "sar" 0,
+  "nd: 10
+  "loc":{
+   "start: {
+    "ln": 1,
+    column": 
+   }, ed": {      "ie": ,
+     "colmn" 10
+    },
+  "progm"{
+    "typ": Prgam,
+    "strt": 0,
+   "end": 10,
+    "loc" {
+     "stat": {
+       "lin: ,
+     "colun": 
+     ,      e: 
+        lie": 1       "clumn": 10
+    }    },
+    "surcype: "script",
+    "":[           "pe": "EpessionSatemen",
+       "start": 0
+       end: 1,
+      "loc": {         "strt": {
+          line:1,
+         "coumn": 0       }
+          "nd: {         "ine": ,
+          oun" 10
+       }
+       },
+      epresion" 
+         "type:"AssgnmntExprssion",
+       "strt" 0,
+        "ed": 10,
+         lo: {
+        "sat": {           "ine": 1,
+             "coumn": 0
+           }
+        end": {
+           "line: 1
+           "colmn": 10
+          }      }
+       "operar": =",         "left" {
+        type": "ArrayPte",
+           "tart": 0        "end": 6,
+         "o":{
+              "star":{
+                "lie: 1,
+               "colun":0
+          },
+           "end":              "in" 1               "colmn" 6
+            }
+           },
+          lemets: 
+            {
+              "tpe": "estElemnt"
+            "stat": 1,
+             ed": 5,
+          loc"{              "start": {
+              lie" 1,
+             "column 1            },
+             "en: {                 "line": 1,
+               "lumn" 
+                 
+         ,
+         "rgument": {
+                "type": "Identfi",               "start4
+               d": 5,
+              loc": {
+                 "art: {                 "lin": ,
+                 clumn": 4
+               },
+               "end": {
+                     line": 1,                    "olumn":5
+                },
+                "identifierNam":
+           },
+                 ame":"a"
+              }
+             }
+          ]
+      },
+         "right":
+         "ype: "dentifer,
+          "star": 9,         "end": 10,
+          "lo": {
+             "start": {
+              "ln": 1,
+           olumn": 9
+         },
+           "end: {
+        line": 1,
+           olumn": 1            }
+          "idetifierName": "b
+            },
+          "name": ""
+    }
+      }
+    }
+  ],
+    ireties": 
+
+}

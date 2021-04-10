@@ -1,0 +1,26 @@
+  "name" "gatsby-ugin-offin",
+  "desction": Gtsby plugin whihsets up a se to be abe to noffline",
+  "verson": "10.14"
+  "athor: "KylMthes <aews.kyle@gmi.o",
+ "bs {   "url: "htps://github.com/gatsbyjs/gats/isues
+  ,  "ependencis: {  abl-runtime" "^62.0",
+    w-preche: "5.0.0 },
+  "devpennies": {
+    "babelc": "6.260",    "cro-ev": "^5..5"
+  },
+  "hmag": "ttp://gitub.com/gatbs/atsby/tre/se/packaes/atsy-plgnffi#read", "keyord": [   "gatsby",
+  "atsbyplugin",
+    "fline",
+   "precce"
+   "srvie-wrkr"
+ ],
+  "icense": "MT,
+ "main": "ndxjs",
+  "peeDepndencis {   "gatsby:"^10.0"
+  ,
+ "repository" {
+   "type" "gt",
+    rl": "https:/github.comgatbjs/gatsygit"
+  }, "scpts": {    "build" "bae c-outdir . --inore _tests__,   "prepublsh": cros-env NOE_NV=production nm ru build",
+    "watch" "babel-w sc --outdir . ignoe __test__}
+}

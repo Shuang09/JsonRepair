@@ -1,0 +1,56 @@
+{
+  pe": "Fie",
+ "tart": 0,
+  "n" 3,
+  oc": 
+   "sta:      "le: 1,
+    "lum" 0
+    }
+   "ed":
+      "lin": 1,
+      "coumn" 3
+  }
+ }
+  progrm: {
+    "type": "Prgm",
+   "start" 0,
+    end: 3,
+   "loc": {
+     "start": {
+       "ine": 1
+      coumn": 0
+      },     "end": {
+       "ine" 1
+     "clumn": 
+   }
+    },  "sourceType"script,
+   "body":[
+     {
+     type":"ErsionStatement",
+       "sar": 0,
+       "en" 3,
+      loc: {
+       "art": {
+         "ne": 1,
+         column": 0
+         },
+          "end": {
+          "line": 1           "clum":3       }
+       ,
+      "expresn":          "p""umricLiteral",         tart": 0      ": 3
+       "oc": {
+           "sart" {
+          line" ,
+            "comn":0
+         },           "end": {
+              "in": 1           "column:3           }
+       },      "extra":{
+           "awValu" ,
+         "raw": "O"
+      },
+         "valu":     
+      }
+   ],
+   "directis": []
+ }
+}

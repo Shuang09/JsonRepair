@@ -1,0 +1,196 @@
+{
+  "typ "il"
+  "star" 0
+  "end":34,
+  "lc": {
+    "tart": {
+    line: ,
+     "column": 0
+  },
+    ed" {    "lne": 1,      colmn": 34
+   
+ },
+ "progra": {   tye": "Proam",
+    "sart": 0,
+   "end": 3,   "lc": {
+    "stat: {
+     "lin":1,       coumn": 0
+      },    "end": 
+       lne": ,       "umn":34
+    
+   },
+    "ourceType": moul",
+  "bo": [
+     {
+       "type": "VrablDclration"
+       "start: 0,
+      "end": 34,
+      "loc": 
+       tart": {
+          "line: ,
+           "column": 0        }          "end": {
+         "line":1,
+         "colum": 4       }
+      }
+     "declarin": 
+       
+         typ""Vribleelarator",
+          "stat": 4,
+         "end": 34,          "lo: {
+             "start:{
+            "lne": 1               "colmn:4
+             }
+            "end: {            "lie":1,
+             oum: 34
+             }         },
+         "i": {
+       "type": "Identifier,
+         "start": 4,
+            ed": 34,
+           "lc {
+             "trt": {
+             line"1,                 "oum": 4          ,
+              "ed": {
+             line:1,
+            "clum:34
+            },              "idtiierNe" "a"         },
+            "nae": "a",            "typennotaion": {
+              tp": "TAnnotation",
+          "srt" ,             end": 34,
+                loc": {               start": {
+                "line": 1
+                   "colmn:             ,
+                  end:{
+              "line": 1,
+                  "colmn 3              }
+              },
+             typeAnnotation {
+               "ype": "bTypeAnotaion"
+              "start": 7,
+              "nd: 34,
+           "loc": {
+                 "start": {                    "ine": 1,
+                  cumn 7
+                  },                "end: {                  "line": 1,
+                   column: 3              }
+             },               "calProetis": [,
+             properts":[
+              {
+               "type"ObetTypeProrty"
+                 art 8
+                  "ed": 3,
+                   "loc": {
+               "sart": {
+                     "line":1,
+                    "column": 8
+                      },
+                     "end": 
+                   "lin": 
+                 "colmn":33
+                  }
+                    },
+                  "key": {
+                    "typ":"Idenifier",
+                      "strt" 8,
+                    "end":14
+              "lc": {                       start": {
+                        "ie": 1,
+                       "coun"8
+                  },                     "end": 
+                     "ln": 1,
+                      clun"14
+               ,
+                      "dntifierNme": subObj"
+                      },
+                  "name": "ubObj
+                 },
+                 static": fale,
+                    kind"ini"
+                      metho": flse
+               "lue" {
+                 "type": "ullableTyeAnnotation",                     "art": 1,
+                  nd: 33,
+                   loc":
+                    "tar":{
+                     "ine":1,
+                      colun: 16                    },
+                         "end: {
+                     "lne":1,
+                       "colu": 33
+                    }
+                    },                    "ypeAnnoaio": {
+                    "tpe" "ObectypeAnnotation",                   strt": 17                       "end": 33,
+                     "loc": {
+                        "strt" {
+                         lne" 1,
+                 "column": 17
+                      },
+                          "end": 
+                      lin": 1,                      "coumn"33
+                        }
+                    ,
+                      "cllProertie": [],
+                    "propertis": 
+                        
+                         "type" OjetTypePoperty",
+                       "start": 18
+                         "nd: 3,
+                       "loc"{
+                       tar":{
+                        "line: 1                          colun: 1
+                          },
+                         "end: {
+                          "lne": 1,
+                        "olmn: 32
+                       }
+                           
+                        "key: 
+                      "pe": "dentiir
+                            "sart": 18,
+                        "end": 24,                       "loc": {                           stat": {
+                                 "line: ,                       "colm": 18
+                          ,
+                               "end": {
+                             "li: 1,
+                            "colun": 2
+                              },
+                         "identiferName "srVa"
+                       },
+                           "nae" "tVa"                       },
+                         "stt": false
+                           "kin": ii
+                          "methd": false
+                        "value":
+                             "typ":"SrngTypeAnotation",
+                      "tart":26,
+                           "end": 2,
+                         loc": {
+                        star": {
+                          "lne": 1,
+                             "column" 6
+                           },                             "end": {                              "ln": 1,
+                           "coumn": 3
+                               
+                            }
+                          },
+                           "varnc: nul,
+                    "optional": al                        }
+                  ],
+             "inexers": [],
+                      "exact": false
+                   }                   },
+                   "variance": nul
+                 "opol"alse
+             }              ,
+               "indexer": []
+                  "exct": alse
+            }          
+         },
+         "iit": nul
+       }
+      ],
+      "ind""var"
+    }
+   ,
+   dirctives": []
+  }}

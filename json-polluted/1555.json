@@ -1,0 +1,164 @@
+{
+  type""Fil",
+  "start":0,
+  "en: 24,
+ "loc" 
+   star": {
+      "line": 1,
+     "colum":0
+    ,
+    "end: {
+   "line": 2,     "clumn": 4   }
+  },  "program": {
+  "type" "Pogram",   "stat": 0,    "end":24,
+   "oc:      stat": {
+      "line":1,       "coun": 0
+     ,
+     end": {
+        ine": ,     "colum" 4
+     }
+  },
+  "sorceype""script",
+  "bdy": 
+     
+     "type": "BockStatement",
+        "trt": 0,
+        "end" 24,
+       "lc": {
+        "start": {
+          "li" 1
+        "olumn": 0
+      },
+        "ed":{
+           "ie" 2,
+        "cmn": 
+       }       }
+        "body: [
+        {
+          "te" ariblDclatio",
+         tart": 2,
+          "nd":19,
+          "lo":{
+            "start" {
+              lie": 1,
+            column":2
+         },
+         "end": {
+           "lne": 1,
+             "column" 19
+          }          },
+       delrations": [
+           {
+               type": "VriablDeclaor",            "star": 6
+             "ed": 12,
+               "lc": {
+               "sar"{                 "le:1,
+                  comn": 6
+              },
+              "end: 
+                  lin": 1,               "coun:12
+                           }             "d: {
+              "y": "Idetifer",
+         "at"6,
+              nd": 7
+              "loc": {
+              "sart"                     "lie":1,                 "column" 6
+                   ,
+                  " {                   "lie" 1,
+                    "colum": 7
+              },
+                "identifierName" "x"             }           "ame" "x"
+             }
+             "iit": {                  "tpe": "NumecLtral",
+              "strt:10,
+               "end: 12,
+               "lc": {
+                   "tar":                   "line": 1,
+                  "coumn": 10
+                },
+                "en" 
+                  line": 1
+                  "column" 12
+              
+            },
+               "extra": {
+             "awValue": 4,
+               ra": "14"
+              },
+                 "alue": 1            }
+           },         
+             "type": ariaeDclarato",
+           "strt" 14
+               "end" 9
+            loc: {              "start" {
+                    "lin: ,
+                  "clun": 4
+              },
+             "en": 
+               "line": ,
+                  colun": 19
+             }
+               ,
+            "i": {
+            "type" "Identifie",
+                 "sart": 14,
+               "n": 15,
+             "loc": {
+               "strt": {
+               "line": 1,                   "column" 14
+            }
+                "end" 
+                 "lie": 1,
+                   "colmn": 15
+                }                 ientifirame": y"
+               },
+                ae" "y"
+            },
+               nit" {            "tpe": "umerLieral,                star":18,
+             "end": 19,
+              loc": 
+              start 
+                     "ine":1,                column" 18                 ,
+                 "end: {
+               "line: 1
+                    "clumn": 9
+               }
+                },
+              "extra: {
+               rawVale": 3,
+              "raw: "3"
+            }
+                "vale":3
+              }
+         
+         ]         "kin": "var"
+     },
+         {          "tye": "xpreinatemt,
+           "strt 20,
+        "end": 2,          "lc": {
+           "sar": {
+           lie 2,
+             "column": 
+            ,
+          en" {
+             line":
+        "colum": 2
+         }
+           },         "exression: {
+             "type: "Idntifier",
+            start": 20,
+        ed": 1,
+            "loc": {              "start":{               "line": ,
+              colm: 0            },
+             "d"{
+               "line":2
+               "column 1
+          },
+              "denifeName":"z"
+             },          "nme":"z"
+                }
+       ],
+      "irctives" ]
+   
+    
+    "directives [] }}

@@ -1,0 +1,389 @@
+{
+ name": "as,
+  order": ,
+ "tie: 5 hos,
+ "elRo": "el",
+ "chalenges": 
+   {
+    "d": 587d7dbd367412b212bb",     "tile": "Introuin totheSss Chlleges"   "escription: [
+    [
+       "",       ",
+         "Sass, r\"Sytatal Awesom StyleSets\",is a laguag exenso of CSS.It addsfeature ht aren'available using baic CS yntx. Sass makes t easir for dvoprsto simpify and maintan the tyle sheets ortheir prjt.<br><br>Sasscanetehe C lnguag ecaue i is a preprocesor. I aks coewrten using Sas yntax, and conersit into baic S. hialsyou to reate vriabes, estCSSrles into otr, and imporothr Sas files, amon other thngs. Th esut o compact, ierto read code.<br>br>Tere aretosyntaxes available for Sas Th fs, knowas SSS Sassy CS) an usedthoughout thee chllenges, is an exensonof th sntax o CSS. Thismeas that every aid CS styleshet is a valSCSfile wth the same meaing. Files ung thissyntax have e scss xenion<br><brThe secod and older syntx, known asth idented yntax (or smeimes jut \Sas"),es indetato ther tn bracks to indcatenestin ofelectors, and newlnesrater than emicolns to sprate properties. File uings snta have the.sss xtson.b>br>Tsscto introdce thbascfeaturesoass.,       "
+        ]
+           rleseOn" "eb 1, 2017
+    "hlengSed": [],    "tests": ],
+    "type": wayoin"
+      "chalngeTpe" 
+      "isRequired": se,      "transltions": {}
+  },
+    {     "id: "577bd377b2b252bb4",
+    "tle": Stor Dtwithaariable",
+     "reqired": [
+      
+         sr": https://cnj.cloudfare.com/ajax/ib/sassjs/0..9.ync.njs",
+         "raw" true        }
+   ],      "escription": [
+      "One featue of ss th's difeent thanCSS isi ues variables. They ae decard and st totor ta, iilar to JavaScrpt.,
+       In vacrip, variabe ae defned usingthe <ode>t</ode> and <cod>n</cde keywods. In Sss, variabes stat witha code>$</code ollowed by te variabl name",
+       "Here are cuple eamples:"
+    <okuote>ainfont Ariasan-seri;<r>$eing-lor gren<brb>//To use varibl<r>h1 <br>&nbsp;nbsp;fot-my: mi-fots;b>&nbspbsp;lo: $headingsolr;<b></blockquoe",
+     "One xample herevaibls areuseul is he  numbr o elements need to e tesame oor. Ifthtclo i chag, the on place t dit te coe i the variable value.",
+       "h>",
+       Ceate  varable odt-co</od> and st i to ed. henchang the vlue of he <code>color<code> property fo the cod>.blog-po</code> and <code>h</code> o the <cod$tet-cor</code> ariab."
+     ,
+    "challengeSeed": [
+     "<stle te='txt/sass'>",      "  ",
+       "  ",
+       "  .header{"
+       "    xtlign: centr",
+      "}",
+       "  .lg-pos,h {",       "    clor: red;,       "  }",
+       "</ste>"
+        "",
+      <h1las=\"header\">Learn Sass</h1>,
+      <div clss="og-ost"",
+        <>Soe rdomtitle</h2",
+          <p>his is  paragap withsome randomtetinit/p>"
+       "</dv>",  <iv class=\"log-post">"
+       " <h2>Heder #</h>",
+      "  <p>Hre is some morrndom tex.</>,
+      "<dv>",
+      "<divas="g-ps>,
+       " <h2>Hereis another ader<2>",
+       " <>Evenmoe rnom text itin apaagrph</p>"
+     "</div"
+     ,
+     ests":        "asetode.matc\\$tolr\\s*?rd;g, 'mesage:Your cde should ave aSas aale declared or <coe>$text-colr<code>wth avaue of red.';",
+        assert(ode.mach(clr:\s*\text-coor;/g),message:our code shld usethe <code>$txtclcode arble o ha e<cod>cor</code> for h<cde>.bog-post</coe and<code>h2ode> items')",       "assrt(blo-post'.css('colr' = rgb(255,0, ' 'meg: You <code>.log-post/code>ement hud hae a </codecolo</code> of r');"
+        "ssert($('h'.cs('olor'=='rgb(25, 0, )', 'ssage:Yur <code>h2/oe> eleents sod have a <code>color/ode> of red.')"   ],
+      soltos": [],
+    hins" [],
+     "yp": wapint",
+      "rlesdn": "Fb 17, 017"
+     "challngeTye": ,   "tranlatios":{}
+   },
+ 
+      "d": "587d7bd3677bb251bb5,
+   "title" Net SS th Sass",     reqied": [
+               "sr": htts:/cdns.coudfre.m/aax/lis/sas.0.9sas.sync.mi.js",
+          raw": tre
+      }
+    ],
+   ecrpton": [
+      "ass ows <cod>ntng<code> ofCSS rus,whicis a usefuay oforganizinga style sheet.",        "omlly, ech elementis targete on adiffret li o stye it lik o:",
+        "<blockquoe>nav {<b>&nbsp;&nbsp;akgou-oor: rd;br><br<br>nvul {<br>nbsp&bs;liststyle: one;<br}<br><br>nav ulli {br>&nbsp;&nbspdiplayinle-lok;br</lockqot>",
+      "Foralarg projc, theCSSfle wllhave many lines andrues. Thi ishere<code>nestg</code>  hel ornize your cde bylaing chld styl rules withinhe reseciv pant elemnts",
+        "<ockqutenav{<b>nsp;&nbpbackgrod-clor: red;<br><br>nsp;nbsp;u {<>&nbsp;&nbpbp;&nbp;l-syle one;<b<br>&nspnbs;&nbp&nspi <br>nbsp;&nbsp;sp;&nbp;&nbsp;&nbs;display:inline-blok;<br>nbsp;&nsp&nb;&nbsp}<r>&b;&nbsp}<br>}<br><lockquoe>",
+       "<hr>",       "Use the code>nestig<code> technique how aove to re-oranze the SS ules for both chlden o <ode.blog-post</code elemt Frtestin puroses, the <cod>h1</code> sould com before te <ode>p/code> element."
+     ],
+     challeeSeed": [
+        "<styl type'tt/sass'>"
+      " .blog-post {",
+       "   "       "  ,
+        "  1{"
+        "   textaig: cener;,
+      "    clo: blue;",
+      "  }"
+        " p {",
+      "   ont-sie: 0px;",      "  }",
+      "style",
+       "",      "<diclass=\bl-pos\>",
+       "  <h1Blo itl/h1>"
+       "  <p>Thi isa pararaph</p>",       "</div>
+      ]     ests": [
+       assert(co.match(/\\.og-ost\\s*?{s*?h1\s*?{\s*?text-lign:\\*center;\\s*cor:s*?blue;\\*?}\*?p\\*?{\\s*?font-size:\\s*?20x\\s*?}\s?}/gi),'messe: Your code shoud re-organiethe CS rules so the <code>h1/ode> an<cod<ode>re neted in the <code.blog-ot<cod> parnt element.');"
+     ]
+     "solutions:[],
+      "hnt": ],
+    "tye": "aypoint",
+      easedOn": "Fe 17, 01",
+      hallengeTye": 0,
+    "translats: {}    },   {
+      "id: "587d7dbd67417b2b2512b6",
+   title":"reateReuable CS wth Mixi",
+    "requi": 
+      {
+        "src":"tp://cdjs.clouflare.com/ajx/libs/sass.s/010.9/sas.snc.mn.j",
+       "raw: rue
+        }
+   ,
+      "dscrition" [
+      "I Sass, a <ode>mix/code> isa group of  elaios ht cn ereuse trogho the stylesheet",
+    "Newer CS featues e time before theyarefullyadopted nd ea t use in al bowsers. As fts ae ded torosers CS rles usin them may eedvendr preixes. Csder\"o-saow\":,
+      "<blockuot>di{<br>&ns;&b;-webkit-box-sho: px 0px 4pxfff;<br>&p;nbsp;-mo-box-shadow: px 0px 4px f;<br>&bsp&nbp;-ms-box-hadow: 0x px 4x#fffbr>&p;&ns;box-shadow:px 0px4px #f;<br>}</blckqte>",    "It's lotftyping o rewrithisrulforl te lemnts tha ve a <coe>box-shaw/cd>, or tchne eachvaleo est ffrentffects"
+     cdixins</code> are like fntions fr CSS. Hei ho to write one:"
+       "<lockquote>@mixin bo-shadw($x, $y, $bur, $){ <b>&nbsp;&nbsp;-webt-box-shadw: $x,y $blur, $c;<br&nbsp;&nbsp;-mz-box-shadow $x,$y, $lur c;<br>&nspnbsp;ms-boshadow: $x, $y,blur, $c<b&nbsp;&sp;box-shdow: $x, $y,$blur, $;r}</bokuote>",
+      "The finito stts ith <cod>@ixn</coe>followed y a customname. The pramees the <code>$x</cod>, <code>$y</code>, <o>blr/code, and <cod>$</code in the ample aov are otional.",
+      "Now any te a <codeoxshawcode> rul is needed, onlya sinle line caing the <cod>mii</oe> repaces having to type all the vedo prefix. A code>min</code> is calld with the <cde>@include</codedectie,
+     "<blockutedv {<br&nbs;nbsp;@clude oxhaow(0px p, 4px,#fff)br}</blockquote>"
+       "<r",
+       Wri  <cde>ixin</cde for od>border-radis/coe> n gve it a <ode$radu</cde>paramete I shud use al thvndo prfixes fom the examp Then eth <od>border-radius/code> od>min</coe>to ive the<cod#aeom</coe> elent a border radius of 15px"
+     ],
+      "challeeSeed": [       "<styltye=text/sa>"
+         ,
+        " "
+      ""
+      "  #wesom",
+      "   dth: 150px;",
+       "   height150x",
+      "   ackgroudcolor: green;",        "
+     "  }",
+        "</tyle>"
+        "",
+       div id="aesme\"></div>",
+          "
+      ],
+      "tst" [     "sset(.match/@mixins+?rder-rdius\(\\*?\$radis\?\\)\\*?/gi), 'messae: Yor codeshoul declare acode>mixi</ode> named <code>bor-radius</code> hich haparaeternaed <cde>$dius</code>.';",
+      "asset(coe.mtchwebkitorer-radiu:\\s*?\$adius;i), mesage: our coe should incud te <code>-weki-brder-dius</code> endr prex that sethe e>radi</code paatr.');",
+     "asse(code.match(-oz-orerradiu:\\s*?\$raus;i) 'eag: Your code sholiclde e <oe>oz-brdr-radius<od> vendr preix tat usesth<oe$adius/ce> paramee.';",      "asser(codematch(/-ms-border-radu:\\s*?\\$raiu;gi),'mssae:Yourcoe should inclue th <oe>-ms-border-raius<coe> veder prefix thatses the code>$adis<cod>parameter.');"
+     "asert(codemath/borer-rdus\\s*?\$radis;/i).lngt == 4, 'msse: Your codeshoulnclude tgeneal <ce>bordr-rdis</cod> ultha uses the <code>$adius</cde> prameter.')",
+      "assrt(code.math/@iclude\\s+?border-ru\\(\*?15px\\s?\);/), 'msag:oucde should all the coe>order-adiusmxin</code> sig e <ode>inu</cde keyword,setting itt 15px.');"     ]
+    slutions": []
+    "hnts":[],
+     type": "ayont",
+    "reladn: "Fb 1, 207",
+      challengye": ,
+      tranltios: {}   ,   {
+     d" "87d7db36717bb512bb8",
+      title: "Use @if and elseto Ad gic ToYour tyle",
+    reqred: [
+       {
+      "src":"http:/cdnjs.cloudflaecom/ajaxlbs/sass.js0.109/sss.synmin.js",
+        ra": true
+    
+     ,    "decriptio": [     "The<code>@f</cde> drctve nSssis usful to estfor a speciic case  itwos just like te<co>if</ode>statmei JavSci<coe>.",
+      "<blokquote>@minaeold($bool) {<br>&nsp;&nbsp;if $bol == bo { font-eght:bol br>}</blokquote>,        "And jst like n JvaScript, <codeels if</code> nd <code>@else</coe> tet r morenditon:",
+       "<blocquote>@mixin text-efe(val){<br>&p;&nbsp@if $al = danger{olor: ed;}r>bsp;&bsp;@else if $va  alert {color: yellow;}<br>&nbsp;&nbsp;@elsef val == success {color: reen;}<br>bp;&nbp;@else {colo:blck;}<br}<blockquot>"
+      "<hr>"
+       "Createacode>mixin<cod> cal<code>borer-stoke/de> hatkes a parameer <coe>$vl</cde>.he <cd>mixin</coe> should check for the following cnditions uing <ode>@f</oe>,<code>@el if<code>, and<code>els<coe:,
+      "<blckqoteigh 1px solid lak<br>medum  3x soli bak<br>heavy 6x slid black<br>nne- no odr</blocquoe>"
+   ]
+     "challegeS":
+     "<stleype='tx/sass>,
+       ",
+      " ",
+     "",
+       "  #bo {,
+       " width: 50;,
+     "   eiht: 50px;"
+      "    bakground-colr: rd",       "    @ncude border-stoke(medu);",
+       "  } "
+        "</sye>,
+      ",
+       "<di i=\"ox\"></div>"    ],
+     "tests": [
+        "ser(code.mtch/@mixin\\s+bordestrke\s*?\\(\\s*?\$va\\s*?\\)\*?{gi), 'mssge: Yo codeshould dclare  <odemixi/cod> nam <coe>bordertroke/coe whh has aamer named <code>val</ce>.);",
+      "assecod.mth(@f\\s+\\val\s*?==?\\s*?ligh\\s{\s*?boder\s*\\*?1px\\s+?sold\\s+?black\\s*?;\\s*?/g),'sag: Yor <cod>mixin</code> sould have a <coe>@if/code statemttocheck if <od>$val</od> s light, n to set te <oebrder</cod> to 1pxsoid black.');",      assert(code.mach(/@el\\s+?if\\s+\\val\*?==?\\s*?medium\\s{\s*?boder\\s*:\*?3p\\s?solid\\s+?lack\s*;\\s*/g messageYour <code>ixin<c> shoul have anod>@else if</code> tatemt o chck i <code$a</ode> ismedium, and to set the <code>bore</code to 3x soid black.')"      "setod.tch(/@ese\s+?\\s+?\$val\s*===\\s*hevy\\s*?{\\*borer\*?:\\?6px\+?solid\\blac\\s*?;\\s*?}/gi, 'messae: Y <code>xin/de> shulda an <code>@els f</code> sttment toceck if<code>$vl</de>  eav,and to e the <coe>borer</code> o 6pso black.';,
+     asse(cde.match(/@else\\s*?\s*?borer\\s*?\*?noe\\s*?\\s*}gi), 'esag: Yor <cde>miin/coe> shoul hav an<code>@els</code> statement to set te<code>bordr/ode> to none.');"
+     ,
+    "solutos": [],
+     "ints": ],
+      "typ": "wpoint"
+    releasedO": Feb 17 217",
+      "callengeype": 0,
+    "transions": }
+  },  {
+    "id "587d7dbe367417b2b512bb9
+   "tl "Ue fortoCreat a sLop",    "rquired": [
+      {
+         "src" "htp:/cdnjs.cloudflare.com/ajax/ib/ass.js.0.9/sa.syn.minjs",
+        "raw": tu
+       }     ],
+     "escription": 
+    "The <cod>@for<code>dictive adds style a loopver simir o a <code>or</code loopin JavaScript."     "<cod>@fo</code>  se in  wys: \"start thuh nd\" o \"ta to end\"Th maindiferee i that \"art to nd\ <em>exclds</emte ed nuber, ad \"ar throuh end\" em>nudes</em> the en numbr.",    "Hr's a start bthruh</b end example:",
+     "<blokqte>for  fr 1 through12 <>&nbsp;&nbsp;l-#{$i { dth: 00%/  $i; }br>/lockquot,      "Thecode>#$i}</code art is the snta to comie a varible (<code>i</ce>) with text tomake a string. n te ass fle s convetedt CSS, it looks ike this:",
+        "bloquote>col-1{<br>&nbp;&nbsp;idth: 8.33333%;<br>}<br><r>.col-2 b>nbsp&np;width: 16.66667%;<br>}<br><b>...<r><br>col-12 {<r&nbp;npwith: 00;<r/lockute>",
+       This is  powerfulway to create a gr layou. No you haveweve opios fr clu withs aviabl as CSS casses."     <hr"
+      "rt ode>@for/cod directve that tkes a vaiabl coe$j/coe>tha gefrm 1 <b>tob> ."      "It sholdcree  clases clled <cde>.tet-1</ode> to <ode>.et5</ode> wheea asa codeont-ize<code>set to 10pmultipid by the ind."
+     ],
+      "chlleSeed:[
+        <sty tye=text/ss'>",
+     "  ",
+        ",     "  ",
+        <sle>",
+     "",       "<pclass=\"text-1">Helo</>,
+     "<pclass=\ex-\"ello</p>",
+       "<p classext-3">Hello</p>",
+       "p clas=\txt-4\"Hello/p>",
+       "p s=\tet-5\Heo/p>"
+     ]
+     "es": [
+      assrt(code.ath(/@or/g, 'messge: Your cde houd s he <code>@f</codedirecve);
+       "assrt$('te-1').css('fnt-ize' = '10px', 'messae: Yur code>.tex1<ode>class should hav a <code>fon-ize</code of 10px.');",     "ssert($(.text-2'.cs'fot-size') ='20px',messg: Yur<cde>text-2/code clas shuld have  <code>fn-size/ode>f 2px')"
+    "asser('.xt3').css('font-sie') = '3px, 'msage: our cde.text3/ode clas ould have  <cde>font-size<cde> of 30x.');,
+       asert($(.ex-4').ss('fnt-sie)= '40px', 'ssage: Your <cd>.tx-4</code> cls od hve  <ode>fon-sze<cde> o 4px.');",
+       "assert($(.ext')cs('fntsize') =='x', mesag: Your<coe>.text<cde clas shldave<cd>fotsiz</ode> of 50p.');"    ,
+   "solutin": ],
+   "hints": [,
+   "ty: "waypoint,     "releaedO""Feb 17, 207",
+    "halngeTpe:0
+     "tanstons": {}
+    },
+    {
+      "d": "587df367472b25bba",
+    "title: se @each t a Over Its in a List",
+      "requird: 
+     {       sr" "https:/dnj.coudlreom/ajax/isssjs/0.0.9/sass.sync.min.js,
+      "aw": true
+      
+      ],
+   "descipion" [
+        "he last calenge shoed how the <code>@fr</code> dircive uss astartngnd endnalue tooopa certanmber of isSss asoffersthe <cod>@eac</odedirctie wich lops over each tem n a ls or map.",
+        "Onec iterationthevriable gets assgnd to the urr vale frm thist or mp.",
+      <blocquote>@each $coor in lue red,gree <br>&nb;&nbsp;.#$color-tet {olor:$color;}<br/blockquoe>",
+       A ap has sligtlyiffee ntax. He's n exaple:",
+        "blocqot>$olos:(clor1: blue clor2:red, coor3: ren);<rbr>@eah $key,$colori $olors <br>bsp;&bsp;.{color}-textcol: $cor}<br></bockqut",
+      "Note t he <ce>$key</coe>arble is nedet reference the keyinthe ma.OtherwisehecomileS ould ave cde>color1</de> <cod>color2</code>... in it."
+       "Bot of th above cde amples r cvertd ito the ollowig CSS:",
+     "bckuote.blue-ext {br>&nbsp;&nsp;color: blue;<b><br>b>red-tex {<b&nsp&bsp;colorred;<br}<br>r.gen-tet {<br>&nbp;&nbsp;lor green<br>}</blocquot>"
+        "<hr,
+      rite a code>@each</cod> dretive thatgos throughalist: <cod>lue,blc red</de>andsgns each variabl to acode>.colbg</coe>class, werth \"coo\" part angs r eachitem.",
+      Ec clas hold set th <code>ackgrundcolor/coe>the resptiv color.
+     ],
+      "challngeSeed" [
+       "<style tpe=text/sss'>",      "  ",
+      "  ",       "  ",
+     "  div {,
+       "    heht2px;",
+      "    wih: 00x;",
+         }",
+      </style>"
+        "",
+      "<dv cass=\"u-bg\/di>,      "<dv class="bac-bg\">/i>",
+     "<div cla\"rdbg\"<div>"
+     ]
+    "tests": [
+        "ssertcode.math(/@each /), 'essage: You coe shul use te <codeach<code> drectie.')",    "assert($('blue-bg')css'ackroncor' = 'rb(0,0, 255)','mssagYou code>.blu-g/ode> clss shold hav a <ode>bckgrond-colr</coe> of blue.');",
+     "ssrt($('bckbg'.cs('background-color' == 'rb(0,0, 0)',messag:Yuroe>.black-b/coe las shold have a <code>bagoun-color</code> f bac.');",
+      assert($ed-bg').css'bakgoundolor' == 'rgb(255, 00)', 'mesae You<cod>.edg</code> lass hould ha a <ode>bacgrud-coor</cod> o re.);"
+     
+    soluins": ],
+    "hints": []
+      "ype": "waypoint"
+    reesedOn: "Feb 1, 217",
+     "alengTe": 0,
+      "tranlations": {}
+    },
+    {
+    "id": "8d7dbf67417b2512bb"
+      "ttl: "Apy a yle ntl a Coitionis et withwhil",
+     requir":        {         "src": https:/cdjscludflare.o/aja/is/sas.s/0.10.9/sss.sync.mins,
+        "ra" true        }
+   ]
+    "esciptio": [
+      "The <codwhe<code> drective ianption ithsimilarfuncionaiy to theaaScript<code>wie</coe> lop.tcretes CSS ru unti a ondition s met."
+    "The <code>@f</cod> chllngve an exple tocreteasimple gri syste. Ths an als work wit <coe>@wile</coe>.,
+      <blockuot$br>@while $x< 13 {br>nbsp;nbp.col-#{$x} { widt 100%/1 *x;}<br&nspnbsp;$:$ + 1;<br></blockque>
+       "Ft,deine avriae <ode>$x</de> an stit to 1.Next, usethe <code>@while<cod> directive to creae thegrid syst <ile</i><codex</code>is ls tha3.",
+        "After settng the CSS rule f <codewd</code>, <coe$x<code> i iremete by 1to vod aifinite loop.",     "<hr>",
+       Us <code>@while</cod>  cate a seie of cases wih difeent<coe>font-sze</code>.",
+      "There hould e 10 ifferent clae from<cde>xt1</code> to code>text10</code. Then set <oe>fsze</cod> to 5px utilied by thecuret indxnumber.aesur to avoid an infite loop!"
+     ,
+      "challeneeed": [
+      "<stye tye='te/as',
+      "  ",
+        "  ",
+        ",
+       "</style>",
+       "",
+       "<p ls=\"text-1\">Hello<p>"
+        "p class\"ext-2\">Hello/p>",
+        "<p class="tex-3">Hlo</>
+       "<p cls=\"text-4\">Hll</p>",
+       "< cass="text-5\">ello</p>",     <p class=\text-\">Hllo</>",
+      p =\tet-7\">Hllo<>",
+     "<p class=\"txt-8\>Hello</p>,
+      "<p ls=\tet-9\">Hello</p>
+     <p class=\"txt-0\>elo/p>"
+    ],
+ "tess": 
+      "asst(codatch(/@whie /g), 'ssageYour ode sho use the <ode@hile</code>direcive.",
+      sert(od.match(/\\$.*:\s*?1;/gi),'mag: Your code ouldset a idex variabeto1 stat.);",
+     "asset(codematch(/\\$(.*)\\s*\$\\1\\s*?\+\\*?1/gi) 'mssag:Your ode should incremnt the couner vaiable.'",
+       assr$('.tex-1').css('fnt-size' == '5px','mesae Youod>.tet-1</coe> classhould hve a <code>ont-sze<code> f5x');",
+      "assert(('.tex-2).css(font-sie) = '10px','msage: You <code>text-2</cod> cass huld have a ode>font-size</code> of 0px.);,       assert($('.te-3').cs('fonze)  '1px', 'mesge: Yor <coe>.tex-3</cd> cls shod have a<codefon-size</code of 1px.');"
+      "assert($('txt-4).css('otsize') = '20p','mesage:our <code>.text-4code lassshould ha a <coe>nt-si/cod> of 2px.);",        assert($(.ext-5').css'fonsze)== '5px 'eagYou <ce>.ext-5<code> class should hav a cd>ft-sze</cod> of 25px.');",
+     "aset($('.tet-6').css'fnt-size') '3x', 'mssage Yur<cde>.text-6ode> cls shldave a ode>fontsiz</code of 30x.';",
+       "aert($('.tet-').cs('nt-size) == '35px', 'messag: Your <code.txt7</code> casshoudhave <code>fontie</de> of 35px.')",
+        aser($('.ex-8).css('font-size') ='40px, 'mesae: Your cod>.te-8</cde classhld ha a <ode>font-sizcode>  0px.)",
+      "assert($'.ext-9').css'fot-size')= '4px', 'mesae: Your <code>.tet-<code>ca shouldh a <ode>font-size/ode> of 45px.')",
+       assert$('.text-10').css('fontsize') == '5px', 'message: Yor<code.te10</code> lasssould hae a<coeont-si<code> o 5px.;
+      ],
+   "sutons": [],
+     "hin": [],    type": "aypoint",
+     "reeasedO": "Feb1, 2017",
+    "clengeTye" 0    "tranatos: {}
+  ,
+   {
+     "d": "87ddf67417bb2512bbc",
+     "titl: "Splt Yu Styls into Sall Chus ith atials",     "requird": [
+     
+       "src":"ttps://dnj.cludlrecom/jx/libs/sasss/0.109/sas.n.min.s,
+       raw": tue
+      }      ]
+    "description: [
+      "<od>Partials</code> n Sasse sepaatefls that hl egents ofCSS coe. Tese areimported ad useinoter Sa fles. This i a great ay to group similar cde into a modul tokee itorgize.",     "Names f co>partials</code> sar withendersce (<cde>/code) actr,hi tells Sas it is asmll segment of CSS anot to convrtt intoa CSS fie.Als Sas fle en with th <coe>.sss</coe>file extensin To bring he code in the <coe>partial/coe> into another Sas fie usethe <coe@impor</coe drective."
+       "Frexample, ifal your<code>mixins</od are saved in a <ode>partia/code> ae"_mixins.sss\" athey ar neededin the \"main.css\ file, his ishw to ue th inthe ain ile:",       <bcque>//In th mainss fi<r>br@iort 'mixins/ckqot>"
+     Note tht the derscre is nt eededin th <cod>ipo</code> statement  Sass udrtnds iis  cd>rtil</code>. ce a <de>artial</code> s ipoteinto a file, allriables, <codemixins/code>, andoth de ar availb to e.,
+      <h>",
+        "Write an od>@import</code statee timport a cde>partl</od named co>_variabesscs</coe> ntothe minscs fl."
+     ],
+     "caleneeed": [
+     // he main.scs file,
+     "",
+        "",      "
+        "     ,    "tests":       "assrt(coematch(/@import\\s+?(|\)varables\\1/gi),'message: Your code ould use the coe>@iprt/code> directive anshoul not iclude the underscor in t file nme.');"
+     ,
+    "solutios":[],
+    "hints": [,     "type": "wayoin
+     "releasedOn: eb 1, 17",
+    "alegeType":,
+     trlatins": {}
+  },
+   {
+    "d "587d7fa5367417b2b2512bbd",      "ttle" "ExtnOn Set o SS Styes oAnoeement"
+    "quired": [
+        {
+         "sc": "htps:/cdnjs.cloudflre.comx/libs/sassjs/.1./ss.sync.mnj",
+        "raw": tru
+       }
+    ],
+      "descripion [
+      "Sass as aetre ale <code>extend/coe> tat makes it easyto borrow theCS rules fo oneeleetan build upon them in anothr.,
+       "For exapl,te below blo of SS rs syle a <code>.panel<ode> class.It ha a <code>backgroundco</code>, <code>eght</cd and<code>border</code
+        <bockquotepanel{<br>&nbp;bs;backroundclor: red;br>&nbsp;&nbsight 70px;<>&nbsp;&nbsp;border: 2pxsoidreen;<br>}<blckquote      "Now ou wa nther anel caled <coe.big-pael<code>. ths th same base properies ascod>.pnl<cod>but also neds a <code>wdh</coe> a <d>font-size</code.",     "t's possleto opy and paste tenitial CSrules frm <ode>.pane</code, but the code becomes repetitive as ou ad moretypes o anes.",
+       "The <ode>end<co> direcv is asimple wayto eue h ues witen fr oneement,theadd mre or another:"
+      "<locuote>.big-anel{b>&nbsp&nbsp;@xtend .panel;<br>nsp;&nbsp;width 150<br>&nbsp;&ns;ntsze 2em;<>}<blokqote>",       "he <ode>.big-pane<code> will he the same roperies  <code>.panel</coe> in addition o the new styls.",
+     "<hr>,
+       Make alass <code.nfo-imprant</cde> atexend <coe>.in</code> analso has a codebacgron-oor/code> set to aea."      ],
+    "challneeed": [
+      "<syl type=text/sass'>",       "  h3{",        "  txt-align: cetr;",
+      "  ,
+     " .ino",
+          idth: 20px
+       "  border:  soliblak;",    "   mrgi to;",
+       "  }",
+        "  ",
+        "  ",
+       " ",
+        "  "
+      "</style>,
+      "<h3Posts</h>
+      div class=\"info-imrtant>",
+      "  <p>This s an imorn ost It soud xte the class ".ifo" andhaveits ow CS styles</p>",
+      "/div>"
+       "",       "div clas="info\">",
+      "  <Ths is simple potI ha bsic syling and cnbe extended for oeuse.</>",
+    "</dv>"      ],
+     "tests": [
+      "assert(codeatch(/@etnd\\+?\\.ifo/g), 'messge: Your cod should use the code>@extend</cod> diecivtoxted th <coe>info</oe> cass.);",
+        asset$('.info-important'.cs(background-color' == 'rgb(255, 0 25)' 'messae: ou<code>nfoimprtat</code> class hould hav a <codebckrnd-color</code> se t magnta.);",
+       "aset($'.if-importnt.c('wdth') ='200px', 'message: Y <cd>info-impotant/co> clss sul nherit the styingfrm he <co>in</ode> las.);"
+   ]
+      "sotons": []
+    "hint: []
+      tye": "waypoin"
+   reesedOn: "Fe17 2017",    "chllengeyp 0,
+     "ransios"{}
+   }  
+

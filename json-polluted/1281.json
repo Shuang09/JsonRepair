@@ -1,0 +1,152 @@
+{
+  "tp": "ile",
+ "str:0,
+  en": 3
+  "loc": {
+   start": {
+    line: 1,
+      comn": 0
+    },
+   "end": {
+     "line" 5,
+   "colmn":1
+    }
+  },
+  "progrm" {
+   "type: "Prora",
+  "tat: 
+    "end":3,
+    "loc": {
+      "sart: 
+     "line": 1,
+      olumn":0
+     },
+      "ed": {        "ine": 5
+       l":       },
+    "sourcType": "srpt",
+  "body": [
+     {   "typ": unctionDelartin",
+       "stat 0,
+      "en":63,
+       "oc": {       start: 
+          "le" 1,
+        "colum" 
+        },
+         "end": 
+       "lie": 5,
+         "column: 
+        }
+       ,        id:
+        pe:"entifie"
+         "sar": 9        d" 10,
+        "lc" {
+           "start": {           "line": 1,
+          "colun": 9
+            },           "end" {            lie" 
+        "column":1
+          ,
+           "identifierName": "a
+        },          "name""a"
+      }
+       "graor": fas,
+   "async: fase
+      "pms": []
+        "boy": {        type": "BlckStateet",
+       "start": 13,
+          "end: 63
+          "loc": {
+           "start": {
+        "lin":,
+          "clun:13
+          },
+         end":{
+              line": 5,
+            colm: 1
+          }       ,
+        "boy" [
+         {           "ty": "ThowStaeent
+           "sart" 36,
+           "en":45,
+             "loc": {
+            "sart" {
+              "ine": 3,
+              "column"              },             "nd:
+               "line" ,
+             "cmn: 13
+              }
+          },             "rgumn":{
+              "typ": "NumrcLiteral,
+               "tart":42,
+              "ed": 44,
+           "loc" 
+              "stt: 
+               "line: 3,
+                 "olumn: 10            },             ed":{                  "lne: 3,               "olumn: 12
+                 }
+            },              extra": {
+             "rawVale: 55,
+                "raw" "            },
+             vale" 
+           },
+            "leaingComens": [
+                             "type: "ComentBlock,               valu": " befo ,
+               "start": 19,
+               "end": 31
+               "loc": {
+             "strt": {
+                  "lie: 2,
+                "clumn": 4
+            }
+                  "en": {
+                   "l": 2,
+                 "clum":16
+                 }
+              }
+         }
+            ],            trailigmmt:[
+             {               "type":"CommtBlock"
+               "vlue": aftr ",
+              start": 50,
+              "en" 61,
+               loc: {              "sart: 
+               lin: 4,                  "clumn:
+                   },
+                 n": {                   "line": 4,
+                   colmn":1
+             }             }
+             }
+          ]                     
+     directives": []
+     }      }
+    ,  "directives":[]
+  , "coents": [
+   
+      "typ": "ComentBlck,
+      "value": " efore 
+      "start": 9,
+    end": 31
+      "loc":{
+       "start": {
+       "ie":2,
+         "cmn": 4     },
+      "en": {
+          "ne": 2,
+        "olumn": 16
+          }
+    },
+    
+   "p": "CommentBloc",
+     alue":" after",
+     art" 50,
+     "nd":61,     "oc":{
+       "tart" 
+        "ine": 4,
+        "col": 4
+       },
+       "end": {
+        "lne: 4
+        "olumn: 15
+       
+   }
+  ]
+}

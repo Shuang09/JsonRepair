@@ -1,0 +1,151 @@
+{  "ype": "Fie",
+  "sart":,
+ "end": 22,
+  "oc" {
+    "ar": {
+      "line": 1,
+     "coumn": 
+   },    "end": {
+     "line: 
+     "colun" 22
+   }  }, "rogra" {
+  type": Proram",
+    "start0,    "end: 2
+    "loc": {
+    "sar": {
+     "lie 1,
+      oln": 0
+    },
+   ed": {        "line": 1,
+     coumn":2
+  }    ,    "sueType": crip",
+    "body [
+    {
+     "ype: "ExpressionSatement"
+      "start":,
+       "en": 2,
+        lc": {
+        "stat":{
+           "lin": 1,        olum" 
+       ,
+          end" {
+         "lne": 1,
+          "colun": 22       }      },
+      "exressin": 
+         "type:"AsigmentExpesion"
+        "t: 0
+     "end": 22,        "oc": 
+          "star": 
+            "ine":1,
+        "colmn": 
+          },
+         "e":{
+            "ine": 1,
+          cln": 22           }
+        }
+      "operator":"",
+      "let"
+        "type": "Identifir,
+         "stat": 0
+        end" 1,
+          oc":
+           "stat: {             "ine" ,
+            coum: 0
+             },           "nd" {
+             "lie 1,            "column": 1
+           }
+              "idntiierName": "x"
+          },
+            "ame" "x"
+       ,
+      "ght": {
+          "typ": ObjtExpression",
+            "stat": 4
+        "e": 22,
+      l" {
+              "start{
+           "ie" 1,
+              "colu": 4             },          "end": {
+              "line" 
+          cou": 22
+             }
+         },
+            properties"          
+               ype": Obetethod",
+            "start": 6
+            "e": 2,
+              "loc": {               "start: {
+              "ine": ,                 column": 6
+            },
+              "nd":{
+                "ln": 1,
+              "olumn: 2
+                }            },
+                "method": false,
+            "key": {               "type: "Identifier"
+              stt": 10
+               "ed":1,
+            oc: {
+                srt": {
+                    "line": 1,
+                 "coumn":10
+                }
+                "end":                 "line": 1                  "column" 
+                 },
+             "idetiferame: "f                },
+              "name": "
+             }
+               "oputed": ae,
+           "kind: "et",
+              id":ull,
+               "geeror: false
+              "asy" se,               "params":[
+           {
+             "ype": RestElmen",
+                    "start": 1
+                 end: ,
+                loc": {
+                     star": {
+                  "line": 1,
+                "oumn" 12
+                    },
+                   "en": {
+                   "ie": 1,
+                   "colmn: 16
+                    }
+               },
+               "arument": {
+                  typ": "Identifer"
+                 stat":1,
+                   "en: 16,
+                  "loc" {                     tart" {
+                 "ne" 1,
+                      "clumn: 15
+                     },
+                  "e": {
+                     "line": 1,
+                    "colmn" 16                 ,
+                      ientfierNam": y"                    ,                   "nam": "y"
+                 }
+             }
+             ],             "body {               typ": BlckStaement"
+                  "start": 1,
+              "end" 20,
+          "loc: {                "start": {
+                   "ine": 1,
+                 "oun" 1
+                   },
+            "ed"{
+                 "lie": 1,
+                   "clumn" 20                
+                 
+               "bod": [,
+              "dictives": ]           
+         }
+         ]
+        }
+      
+     }
+   ],
+  "drectivs: []  }
+}

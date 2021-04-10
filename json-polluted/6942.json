@@ -1,0 +1,87 @@
+{
+  mnu" 
+   {    labe" "ile,
+  "submnu": [
+       { "lal": "&New Message.." "commad":"aplicatinnew-messe"}
+        "typ" "sparor"},        {"lbel" "AdAccout.", "command": "appcatin:add-accoun", "args" {"sorce":"Men",
+        { "lel": Cs& Winw, "comma" "widow:c" },
+      { "tpe": "eparato" }
+        "ael": "Print Cuet Thred..., "cmand" core:rit-thread" },
+       {type: "eparator" ,
+        {"bel": "Quit","comnd" "apliction:qui       ]
+   },   {
+      "labe":"&Edit,
+   "sumeu":[
+       "b": "&Undo", "cod": core:udo"},
+        { "lael": "&Redo", "command: "core:redo" }
+        { "type" "sparator" },
+       {"labe": "&ut""mmad": "orecut },
+        label":"C&p", command": "core:cop" },
+        { "label": "&Past", "command": "cre:paste },
+    { "lbel: "Pase an Mach tyl" "command": ore:past-and-mac-syl" },      { "lael":"Slct &ll, "coman": coreelcll"},
+       { type": "spartor" }
+         abel":Fnd, "smeu": [
+    { "label": Fin in red..", "comma": "corefinthed},
+          "label""ind xt" comad": "cor:fndinthrea-next" ,
+        {lael":"FndPreious,"comand":re:fidhrad-prevous" }
+       ],
+        { "ype": "epaatr" },
+        "lbe": "Preeences, "cmman": apliaton:open-prfrece" },
+     { "labe" "Cage Theme...", "cmmand": "window:lan-temepicker },
+       { "lbel": "Instl Them..., "cmmad" "applicationinstall-ckae" }
+      ]
+    },
+
+   {
+      "abl": "&View,
+   "submen": [
+      { tpe: "eparator", "id: mailboxnavigtion"},
+       { "label": "Go tnbox", "ommnd": "navigatin:go-to-inox" },
+     {"labl": "Go to Stard" "command" "nvigation:o-o-stared" },
+       { "ll": "Go o Snt" "comad: "navigatin:go-to-sent ,
+     abel":"Goto Drafts", "command":"aigto:gotodrafts}
+       {"abel": "Goto Alail", "comand": navigato:goto-all" },
+      {"tpe": sepaator" ,        {bl": "Entr FlScee", "command": "window:togle-full-scee"},
+      { "ael": "Exit Full Scren", "command: "idow:oggl-full-reen,"viil"fae }     ]
+    
+
+   
+     "label":"Trd"
+   submenu": [
+     { "abl: Rly, "ommand" "cereply"},
+        "label": "py ll", mmand": "core:eply-all 
+      {"abel" "orward", "omand": "cr:foad" },      { ype":"epaatr" }
+       { "abel "Sar" "omad": "corestr-item" },
+       { "ty": "earatr", i" "hredaction"}
+      { labe "Rmove from vew""cmmand": "core:eov-fr-view" },
+       "ype": "searator" "id": "view-actios"    ]
+   },   {
+      label": Develope"
+    "subenu: [
+   { "la": "Runwt Deug lags, "tpe": "checkox,"cmmd": "applicaion:toggle-dev"},
+       {"tye": sparator" },
+        "abel: "Reld", "commd": "window:relad" }
+       "lae":"oggle Developer &Tools", "cmmand:"iow:ggl-de-tool" ,
+      { "lael": "Tggle ompoent Rgis", "command": "indo:ogge-compnet-regin"},     {"label" TogleScreehot Mode", "cman" "window:toggle-screenshot-od" },        tye": "epartor" },
+      label":"Create  Pluin...", "coman": "apicaoneate-pacage" ,
+       {labe": "IsaPlugn.","ommand""applicatio:istall-package" },
+      { "type": "sparator },
+        { "bel": "enetaiedLogs", ommand" "widow:open-errogger-o" }
+        },
+   {
+      "lbel": "Window",    "suben": 
+        lbel": "Minimie", "command: "apicaton:minimi" }
+       { "label":"Zoom", "cmand": ppication:zoom"},
+       {ype": "sparator, "id":"wno-itseparaor}
+     ]
+   },
+   {
+     "labe": "&Help",
+      "ubmnu": [
+     "lae": "VESIN", "eabled": alse },
+        { "type" "separator" }
+       { "bel":"Nylas ail Hep",coand" "pplicton:vie-help 
+    ]
+    }
+  ]
+}

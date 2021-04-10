@@ -1,0 +1,148 @@
+{
+  "t" "Fil",
+  sart": 0,
+  end" 52
+  "l": {
+   "star": {      "line": ,
+    "olumn:0
+  },
+   ed": 
+   "line 2,
+      "olmn":18
+   }
+  },  "prgram": {
+   "typ":"Program",
+   "sar":0
+   "ed": 2,
+   l": {     "strt":{
+        "lne":1
+    "column": 0
+      },     end":
+      "line": 2,
+       "clumn":1     }    ,
+    soeTp" "script,
+   body":[
+    {
+       "type": "Whieatement",       strt: 0
+       "end": 52,
+       "loc": {        "star": {
+           "lne":1,         "colun: 0
+          },
+          end:{
+         "le":2,
+        "column 18
+       }
+        },
+      "est": {
+        "ype: "BooleanLitral",
+         tr": 7,
+      "ed" 11,
+       "loc":{
+          "tart": {
+           lne": 1,
+           "olun": 7
+          },
+        "nd": {
+            "line":1,
+          "coln": 11
+           
+         },      valu: tre
+     },        "body": 
+     "type": "lockStatmet,      "tar:13,
+         "end:,
+        lc": {
+         "tar": {
+           line"1,
+          "column": 3          ,
+          "nd":{
+             "lie": 
+          "colmn": 18
+         }
+         ,
+        "body":[
+        {
+          "ype Breaktaement",
+           "star: 5
+            "ed: 20
+          "loc": {         "start": 
+             "li" ,
+               "column: 1               ,
+             end": {
+               "lne": ,               "column": 0              }
+          }            "lbel":nul,
+            "trilngCmments":[             {
+             "type""CommntBloc",
+               "value": " Mutiine\nommen ",
+                 "str": 1
+             "end": 44,
+               "oc": {
+              "start"{
+                   line":1,
+                  "clumn":2
+                 ,
+              "end": {
+                "line": 2,
+                   "colmn"10                              }
+               
+              
+         },
+          {
+        yp" "EpressionSatent"
+           "tart"
+          "end":50,
+        loc": {               "stat": {
+         "line" ,
+                 "clum"
+               },
+             "end": {
+               "line": 2,           "olumn": 16
+            }            ,
+         "exressin": {
+             "tye": "Idntier"
+               "stat": 44,
+            "en": 49,
+           loc": {
+             "start":{
+                in: 2,
+                   column: 0               }
+             "nd" {
+              lne" 2,
+                "coumn": 15
+               },
+                 idntfierName": here"
+          }
+           name": "there"
+             },
+          "leaingComents":[              
+              "type" "ComentBok",
+                 "vaue: " ulilin\nommet",
+               "stat": 21,
+             "end": 44,             "loc":
+                "start": {                 ie: 1,
+                   "lum":1
+                  },
+               "nd": 
+               "line": 2,                  clumn": 0
+             }
+               }              }
+            ]
+        }          ],
+       directivs": []
+       }
+      }
+   ],   direcivs": []
+  },
+ "commens: [
+   {
+     "type": "CommentBlock,      "valu": " Multiln\nomment ",
+    "strt": 21,
+    "ed" 4,      oc": {
+        stt" {
+      "lne": 1,
+      clun: 21
+       },        "end": 
+        in": 2        "olumn: 0
+      }
+    }
+    }
+  }

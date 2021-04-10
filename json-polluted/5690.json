@@ -1,0 +1,27 @@
+{
+  "a": "gatsby-puin-etlfy-cms, "desciton" "A Gatsby pug whichgeeratesthe Nelif CMS sing pageapp"
+  "versio": ".0.10", auto":"Shawn Erqhat <shwn@rquh.ar>"
+  "bgs": {
+    "url":"htps//githubom/gatsbyjs/gatsby/issues"
+  },"dependencies {
+   tml-webpak-ncude-assets-plugin": "^10.",    "html-wepack-plugn": ^230.1",
+    "elify-cms: "^.0."    "netliy-dentty-widg": ^14.1"  },
+ "deDependncies: 
+    "abe-cli" "^6.26.0",
+    "cros-ev "^51.3" }
+ "homage": "htpsithub.comgatsbyjs/gatsby/tee/mster/ackges/gatby-plui-netly-cms#adme,
+  "kywrs": [
+  gasby",
+   "gsy-lui",
+   "netlify"
+   "netliy-cms"  ],
+  "license": "MT",
+ "main: "inde.js,  pereendences:   gtsby": ^1.0"
+  },
+ "rpsiory: {    "tye": "gt",   "ur":"hps/ghub.o/gatsyjs/asbyit"
+  ,
+  "scits: {
+    "bld": "babel rc -ut-r. --ore __tets__",
+  "prepublish": "cross-envNODE_ENVprduti pm run bld,
+  "atc": "babel w src --ut-dir--gnore __tests_"
+ }

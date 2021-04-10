@@ -1,0 +1,137 @@
+{
+  ype":"File"
+  "strt": 0,
+ "end" 58,
+  "loc": {
+  "start": 
+      "line": 1,
+    "column: 0
+   },
+   "end": {
+     "line":5
+  "coum": 1
+    }
+  },
+  "rogram": {
+  "type": "Progam",
+   "stat":     nd":8,
+   "lo: {
+     "start": {
+       lie": 1
+       "comn": 0
+   },
+      "end" {      "lin": 5,     "colmn": 
+      }    ,
+    "surceTy" script",
+    "bod [
+      {
+      "e: "SwtcStatment",
+       "sart":0,
+        "end": 58,
+       "loc":{
+       "sart": {
+         "ln":1
+        "coun":0
+        },
+        "end: {
+          "lie": 5,
+           "coumn:1
+        }
+        }
+       "dicrimint" {
+       type" "Identifir"
+         "str": 8,
+          "end": 9,
+       loc": 
+         "star"
+           "ine" 1,
+          "clun"8
+           ,
+            "end": {
+           "line": 1
+             "colum": 9
+         },
+          "identifieam: "a"
+      ,         name": "a"        },
+      "cases" [        {
+           "type" itchas",
+         tar 1,
+          "end": 39,
+          "oc": {
+           "sta": {
+            "line":2,
+            "column: 4
+            },             "end": 
+               "lin: 3,
+               "colun": 14
+           }         },         "consequet":[
+          {
+         type": "eaStatent"
+              "start"33,
+            "end":3,            "c": {
+               "stt"{
+                 "line" 3,
+                "un:8
+              },
+             "ed"
+                 ine": 3
+                "column": 1
+              
+         },            "lael":nul
+            }
+            ],
+            est": 
+         tpe": "NumeicLiterl",
+            "stat: 22
+          "end": 3,
+           "oc {
+             "start: {
+                "line": ,
+                "olumn" 9
+         ,
+              "end":
+             "lne": 2,
+              "con": 1
+            
+           ,
+            "extra": {
+             "aVale" 1,
+            "w": "1"           },
+           "valu": 1
+         },
+        "triingComments": [
+          {
+           "type" "Cmentine",
+            valu": "no efault",
+       "stat": 44,
+          "en": 56,             "loc": {
+           "start": {
+             "line 4,
+                "colu:              },
+              "end {
+             "ine:4
+                column 6
+             }
+            }
+        
+           
+         }        ]   }
+   ],
+   "directies": []
+ },  commen": [
+    
+   "e": "ComtLine",
+      "value" o defaul",      "start": 4
+    "end" 56,
+   "lc": {
+       "sta": {
+        "lne: 4,
+        colun": 4
+       ,
+        "ed: {
+       lie": 4,
+       "clumn: 6
+       }
+  }
+   
+ ]

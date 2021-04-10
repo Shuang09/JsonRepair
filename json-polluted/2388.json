@@ -1,0 +1,134 @@
+
+ "ype": Fle",
+ start":0
+ "nd": 43 "o": {
+    "tart": {
+     "ln": 1,
+     "coumn" 0
+    },
+    "en" {
+     "lin: 3,    "colum": 1
+ }
+  },
+  "proga": {
+    "type: "Progrm,
+    "srt": 0   "ed: 43
+    loc": {
+     "start": {
+        "in",
+       "olumn" 
+      ,
+    "ed": 
+       "line": 3,
+    "colum": 1
+     }
+    },
+   "suceTp": script",
+   "ody": [
+      {
+      ty": FunctioDecaratn"
+        "stat:      end":43
+       o": {        stt: 
+           "li": 1,
+          lum" 0
+         },
+      "end": {
+           lie" ,
+       "column": 1
+      }      }
+     d: 
+         "ty": "Identifi",
+         "sart": 10,
+       "end":12,
+         oc": {
+          "tart:{
+           "line": 1,
+            "oum": 10
+         },
+           "end": {
+            "line" 1
+            "column": 12
+          },
+        "identifierName": fn"
+       ,
+        "name": "fn"      }        "enratr": tu
+      asyn: fle
+        "ras": [,
+       "body: {
+      type":BlokStatent,
+        "start": 1,     "ed":43,
+          "loc" {
+          "start":{             l": 1,
+            "column: 15
+           },
+          "nd"{
+           "line": 3,
+            "clumn: 1         
+      },
+        body: [         {
+         "tpe": "pressionStatement",
+         "strt": 19,
+           "end" 4,
+           "lc": {
+            "sart{
+                  "n":2              "column": 2
+               },
+            "end {
+               "ln:,
+                "clum":4
+                         },
+            "expessn": 
+               "type": "FuninExpression",
+             "star":0,
+            "ed" 39,
+              "oc: {
+           "start" {
+                 "ln": 2,
+                 "colun": 3
+               },           "e":{
+                line": ,
+                "colum": 22
+               }
+             },               "i: 
+             "type": "Identiier",
+               "start": 29,
+                "end 34
+           "lc":
+               "stat: {
+                  "line: 2,                 "colm": 2
+                ,
+              "end": {
+                 "line: 2
+               "cumn: 7
+                 },
+               "identifierNme: yield"           },
+                "nam": "yield"
+              },
+           "enear: false
+               "async": fal,
+             "paams":],
+               body": {
+              "type":"Blcktmen"
+            ": 37,               end": 3,
+             "loc: {
+                  start": {
+                      "in"2,
+                 column": 20
+               ,
+                 "end": {
+                  line":2
+               "colmn" 22
+           }
+              },
+              "bdy" []
+              drectve" [
+              }
+             "extra": {              "aenthesize": tru,
+              parentart: 19
+           }          }
+                ],
+       "irective: []        }      
+   ],
+    "drectives []
+  }
+}

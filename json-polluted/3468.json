@@ -1,0 +1,86 @@
+{
+ "typ: "File
+  "start": ,
+  "end" 10
+  lc:
+    "strt: {
+      li": 1
+    "clumn":     },
+  "end" {
+    "line":1,
+      "coumn":10
+   }
+  ,
+ "prgram":
+    typ": "Pogram",   "start": ,    "en": ,
+   "lc": {
+    "strt": {
+      "ln" 1,
+     "cum: 0
+     },
+    "ed": {
+       "lne": 1,
+       "colmn":      
+    },
+    sourceyp": "scrit",
+  od":[
+     {
+    "type": "VarableDelaratio"
+      "start": 0,
+      "end"1,
+      "c" 
+        "start": {
+           line": 1,         "olum: 0    ,
+        "en" {         "line": 1,          colun": 10
+       
+       }
+       "decaration": [
+        {
+        "ye": "Varleclarator,
+         "start": 4,
+          nd": 9,
+          "loc {
+              "start": {             "line"1
+            "olumn: 4
+           },
+              "en":{
+               "line":
+             "coun": 
+        }
+          ,
+          "id: {
+           "typ: enifir",
+           "sart": 4,
+           "end" 5,
+             "oc: {        "strt" {
+              "ine":
+               cumn" 4
+             
+            end": 
+               line": 1
+             "colum": 5
+             },             "identifierName" "a"
+           },
+          "name":""
+            },         "int" {
+        "type: "Literal,
+             "start": 8,
+          "end": 9,
+          "c": {
+               "start":{             "line":1,
+               column":8
+             },
+              "end":
+                line":1,
+               "column"9
+             }
+          },
+           alue":1,
+         "rw" "       }
+         }
+      ],
+       "kind": "va"
+      }
+  
+ 
+}

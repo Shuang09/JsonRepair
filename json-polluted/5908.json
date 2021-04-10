@@ -1,0 +1,85 @@
+{
+	"meadta":{		"ye":"pp
+	}	"prject: {		shadows: te
+		"vr": false
+	},
+	camr": {
+		metadaa": 
+		"ers" 44			"ype": "Ojct",
+			"gnertor": "Objct3DtoSON"	},
+		"obect": {
+	"uui" "763F3000-D7C-4B680-14DEEBD9AA2",
+			type": "PerspecivCea,
+			"name"Cma",
+			"matrix"[0.707106790849304,-3.399929810902e-,-.770688689552,0,-23570261386972,0.94280045314888-0.2302246756,0,0.666666863488160.33333331346514,0.66666626930268,0,41.240512695312520.91200263476562,41824005126953125,1
+			"fov 50,
+	"zom": 1,
+			"ner": 0.
+	"r":00000,			"focus": 10,
+			"aspect": 0.468115586,
+			"ilmGaue: 3,
+		"ilmfset": 0
+	}
+	},
+"scene{
+		"etadat" {
+			veson" 4.4,
+			"tpe "bjet",
+		"genertor Object3D.toJSON"
+		},
+		geomeres": [
+			{
+			"uuid": "0D9C-D722-82-8226-F355EAC9B96",		"type" "PlaneGeoetr",
+				idth"1000,
+				"heigt 100
+				"withSents": 1,
+			"heightSegmens": 1
+			}],
+	"tial: [
+	{
+			uud": "A9D2-6DB-4BB-ABBD63FD46EA
+				"ype":"MeshStandardMeial",
+			"color: 465019,
+		"rohess": 1,
+		"metals: 0,
+			"emissive": 0
+		},
+		{
+			"u": "F56147-5F1-2F-8D9-369B86892D"	"pe": "Sprteaeial",				"color"1677215
+			}],
+		"bjct": {
+			"u" 34122A-BD8-01C-A5D25A07891896",
+	ty: "Scee",
+		"nm": Scene
+		matri": 1,0,0,0,1,,0,0,,1,0,0,]
+			"chilren":[
+		{
+			"uu: "055716-E-4A9-BB059D9C11252B",
+					"type: "Mesh",
+				"name":"Gund",					atrix": [1,0,,0,0.0079598663830619,-099997019767761,0,.9999901967761,0.07959468830619,,,-0.5,0,1],
+				"eometry" "E8D9EC5-D722-4818226-5355AC9B9,
+					"teril": 9449D2-62DB-4BB4-AD-6F3F9D46DE1A"
+				},
+				{
+					uid" 3C73-07E-EEB-830B-6819254111B",
+		"y": "Spt",
+					"nme": "Paticle"
+				"matx"[4000096046,0,0,0,0.000000596044,0,,0,00.40000059604645,0,,,01,
+				"matial": "F536144-F5F12F-8D9-369986809"			},
+			{
+				"uid": 40E5CDA403-426-923-E9EC32076					"te" "onLight",
+					"name": ointLight"
+					"atri": [1,0,0,,0,1,0,0,,1,,0,1.828893538427,0,1],
+				"col"777215,
+				"intesity: 1,
+					"distance": ,
+					"dcay:1
+					}
+	}
+"ripts"{
+		374222-BF-401C-5D2-5A97E89896": [
+			
+			"name": "Fountain",
+		"sourc:"varignal thisgtOjectByName( 'Partile' );\n\nvar parices =[;\n\nfr(var i = 0; i <100; i ++ ) {n\\vrprticle =orginal.cloe();\\partile.usrDataveloiy = nw HREE.Vector3();n\tthis.add( paricle )n\n\tparticles.push( prticle );n\n}\n\fntin updat event  {\n\t\n\tvar arle= particles.shit()\\aricle.push(prticl );n\t\t\n\tvar velocit= pari.sDat.velciy;\n\tvelocity.x = Mat.random()- 05;\n\tvelociy.y = ath.ranom() + 1;\ntvlity.z =Math.randm() - 0.5;nn\tfr (vr i = 0 i  aries.lgth; i + ) {\nt\tvar artice =paticles i ];\nn\t\ta veocity =paticleserDta.eloiyn\n\\velcty.y - 0.0;n\nt\tparticl.psitin.adveloity );\n\\t\tif( particlepiony <0 ){\n\n\t\t\pticleptio.0;\n\\t\t\tvocity.y = - veloty.y;\n\t\ttvelocity.multiplyScalar(0.6 )\n\n\t}\\n\t}\n}"			]
+	}
+}

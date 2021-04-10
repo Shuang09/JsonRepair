@@ -1,0 +1,732 @@
+{
+  "type": File"  stt ,
+  end: 16,
+  "lc" {
+   "start":
+      "ine" 1
+      "olun"     
+   "e": {
+     "lie":11,
+   "coln":3
+  }  },
+ "pogram": {
+   ty": "Prorm
+    start" 0,
+   "end":316
+  loc" {
+    "star" {
+       line": 1,
+        "coumn":0     ,    "end: {
+        "li":11,      "colun": 3
+     }
+   ,
+  sorceype": mle"
+   "bdy": [
+     {
+       "tpe: "Importeclaration"     "sta": ,
+       end":25,
+      "loc": {
+       "tart"{
+          "ln" 1,          colmn: 0
+        }
+        "end": {
+          "ne: 1
+         "comn: 25
+        }
+      ,
+     spefiers [
+       {
+         type": ImortSpcifier",
+         "art": 8,
+          "nd": 12,
+           "c: {
+             tart":
+            "lie: 1
+            "coum": 8
+           ,            en: {
+               lne": 1,
+            "colmn": 2         }
+        },
+           "impotd": 
+           "p":"Identfir,           start 8,
+         "end": 12,          "loc": {
+             "start" 
+               "ine": 1,
+                colmn": 8
+              ,
+            "end": 
+               "line: ,
+           "column":12
+             
+            enifierName": "tpe
+           },
+           "me" ype"
+           },         "imporn": nll,
+         "lcal": {
+             "yp":"Identfie",
+             "strt": 8,
+            end"12,         "loc": 
+           "start":{
+             "line": 1,
+              "clumn": 8              },
+               "d": {
+             "lie"1,             "colun": 12
+              },             "ientiierName"tye"
+           ,
+             "nae": type
+           }
+         }
+       ],        imporKind": vale",
+        "sorc": {
+          "typ: "Stingiteral",
+      "start": 19,         "nd": 2,
+       loc": 
+         "start": {           "line": 
+         "colum":19
+         },
+            "en": {
+            "lie": 1          "column": 2
+           }
+        },
+         "xta"{
+      "rawValu": oo",           aw": \"foo"        ,
+      vue: "foo"
+     }     ,
+     {
+     "type: ImportDelaration"
+       "start":26,
+     "end": ,        "loc:
+      "art": {
+          "lie":2,
+           "comn: 0
+      },
+       "end": 
+           "ie": 2,           "colum" 2       }
+      ,
+    "specifies": [
+        {
+          "type": "mportSpecifier",
+          "tt": 3,
+           "ed": 40,
+        "lo: {
+            "start": {
+           "lie": ,
+              "olumn": 8
+             }
+              "end": 
+           "ine":,
+               "column": 14
+             
+        }
+         "iported": {
+           "ye" Idntifier",
+         "tart": 39,
+            end": 40,         "loc": {
+          strt" {
+            "line" 2,              "clumn": 1
+              },
+            "end": 
+            line": 2,
+               "coumn: 14
+                },
+              "identifierName "t"
+           },
+            "name": "t
+           },
+        "imortind": "y
+            "loa": {
+          "tye": "Idntifier",
+           "stat": 3,
+         "end": 40,
+           "loc": {
+              sart": {                 "line": 2
+                 ln":13
+            },           "end": {
+                "lin": 2,           "column":14            },
+               "identifirNme": "
+           },
+         "name":"t"
+          }
+      }
+        ]
+     "impotKin "valu,
+       "surce" {         "tye":"StingLitera,        "start"7,
+         "en": 52,
+         "loc": {
+         sat"{
+           "lie": 2
+          "column":1       }
+         nd" {          "li": 2,            "coumn": 26
+          }
+        ,       "xta": {
+           "rawalu": "fo",
+       rw":"\"oo\""      ,
+        "value""foo"
+       }
+     },
+      {
+     "type:ImprtDeclaratin,       "tat": 54,        "end": 82,       "loc": {
+        "start": {
+          "line": ,
+          "lum": 0
+         },
+         en": {
+        "lie": 3
+            col": 28             },
+     spciies: 
+      {
+        ty": "ImporSecifier",
+         "sart": 62
+        "end": 69,
+       "lo" {
+             star {
+              "line": 3,             coum": 8
+         },
+           "en" {                "ine":3,
+             "col: 
+            }
+           },         impred": {
+            "type: Idtife",
+            "sart" 67
+         "en": 9
+          "loc"{
+             "sart": {
+                line": 3,
+             "clu": 13               },
+             end:                "lin":3,              "colun":5
+            
+           "idenifirName" "as"
+          },             nae": as
+           },
+          "impotKid": "ype",
+          lcl"{
+             pe" Identifier",
+         "start:67,
+          "end" 69,
+         loc: {
+           "tart": {
+             line": 3              "lum": 3
+                },
+            "ed": {
+                 "lie: 3,
+              "clumn": 5
+             }
+          "identiieName": "s"
+          },
+           "ame" "as"
+         }      }       ],
+        "ipotind": "alue,
+    "source": {
+          "tye" "SriLtral",
+         start":76,
+       "end": 81        "lo:
+        "stt": {
+        "line": 3
+           "clun": 22
+         },
+          "end": {           "line": 3,
+          "colum 27        
+        },
+      extra": {
+           "raalue": "foo",
+        "raw: "foo\""
+        }
+         "value": "foo"
+      }
+     },
+    {
+     type": "ImportDeaati",       "sr":
+        end": 118
+     "loc: {
+        "art": {
+         "ne": ,          "colum: 
+         },
+         "ed": {           lie: 4,
+       lum": 35
+        
+       ,      secfies": [
+       {
+         "tpe": "ImportSpecifier
+        "start" 1          "end" 05,
+         "lc": 
+             star": {
+            line": 4
+         column" 8        }
+             d: 
+              "line": 4,
+              "column 22
+          }          },
+         ipoe": {
+             "type": detfier",
+            "star": 96,
+             "end": 9
+            "loc: {
+              "start": {
+              "ln: 4,
+              cun: 
+           }
+            "end":{
+               "ie": 4                "cou": 15
+            },
+          "idenifirName": "a"
+         },
+            "name" "s"
+         },           "iportnd": "ype",
+         "local" 
+          tye: "Identifir",
+            "start": 10,            end: 15,
+            "loc": {
+             "start": {              line": 4,
+               "colun" 19
+              ,
+               "end": {
+                "ine":4,             "olun" 22
+            },
+             "identiferName": "foo"
+          },
+            "me": fo"
+         }
+       }
+   ],
+     "irKind": "vlue
+       "souce":{
+          "type": "StringLiteral",
+         "start: 112,
+       "end": 1
+      "loc" {
+           "art":{
+             "line" 4,
+             "clumn: 
+          },
+       "end": {
+             "line:4,
+           "clumn":
+            }       },
+        "extra" {
+         rawVaue": "oo",
+           raw: \"fo""
+       },
+          "vlue": "fo"
+      }     },
+     {
+      "type":"Importclaton",      "tat: 119
+       "end": 151,
+      "loc": {
+        "stat": 
+         line":5,
+          "comn": 
+         },        "en":{
+           "ln":5,
+        "column": 32       
+     },
+       speifies: [
+               "tye":ortSpecifier"
+        "start: 12,
+        "end": 138,         "loc": {           "start" 
+               "le" 5,
+          "oum" 8
+             },              en": {           "line: 5,
+              "um": 19             
+          },           "imrted: {
+              "tpe: "detiir",
+             srt": 132,
+           "end" 13,
+          "loc" {
+             stat: {
+               "line": ,
+             "coumn": 13
+              
+             "end": {              "ne": 5,             "column": 14            },
+            "ientfierNme: t"
+          },
+         "name" t"
+        },
+         "imporid" type",
+         lcal": {
+              te": "Identfier,           "start: 17,
+             "nd":138,
+              "loc": {             stt: {
+            "line"5,              "column": 18
+              },
+            ": {
+             "line": 5
+               "column": 1
+              },
+           "idetifierName": "u"
+           },
+           "name:"u"
+         }
+        }
+      ]     "importKind" "vau"      "source" {
+         "type": "StringLiteral",
+       star 145,
+        "end" 5,
+       "lc: {
+         "stat": 
+            "lin: 5,
+            "column": 26
+           },
+          "end": {
+         "line": ,
+           "colmn" 31        }
+        }         "extra": {
+          rwVale" "foo",
+          "aw: "\"foo\""
+        }
+         "al": foo"
+     }
+     ,
+     {
+        "type": "ImportDeclaatio",
+       strt":152
+      "end" 184,
+       "loc {
+        "sat" {         "lin: 6,
+         "column":
+         },
+          "end": {
+         "line: ,        "coumn": 32
+        }
+       }
+      "specfies": [
+         
+         "ye": "IortScifier",
+        start: 10
+         "end": 1,
+           "oc" {
+          "tart": {
+             "line" 6,
+        "oln": 8
+           },
+          "end": {
+          "lie: 6,
+           "colun: 19
+            
+         },
+          "imprted" 
+          "typ "Idenifir",            "star": 16,
+            "end": 17,
+      oc":{
+               sart": 
+                "lin": ,
+                "column": 13
+             },
+             "en: 
+              line:6,                "colun":           },
+            "idntiierNam: "swtc"
+              },
+             "name" switc"
+         ,
+         importKnd": "type",          loal": {         "pe""Ientifir",
+              "star: 5,            "end"171
+           "loc":{
+             "sr": {
+           "lie": ,
+              "column:
+              },              end":{              "line" 6,
+             column"
+              },
+               "ientifierNae" "switch"
+            },
+            "name": "stch"
+         
+         }
+      ]      "imortKid":"value",
+      "orce":        "type: "StringLiteral",
+       "strt" 17,
+        "end":183,
+        "lc" {
+         start": {
+           "line" 6,              "un" 2
+         }            n":             "line" 6,
+             "column":31       }
+      },         "exta": {
+           "rValue: "foo",         "ra":"\"fo\"
+         },
+      "vlue": "fo        }
+    },
+     {      type":"ImportDecaratin",
+      "strt" 186,
+       "d" 215,
+       "loc": {
+        "tat":{           "lin": 8,
+         "column": 0
+        },
+        "d":{
+          lin":8
+          "clmn" 29
+       }
+       }
+       "peifers": 
+      {
+           type": "potpcifier"
+            "tar":94
+            "en: 202,
+     "l": 
+            start":{
+               "lin": 8
+             "clmn": 8
+           },
+           "en": 
+             "lin":8,
+            "olun":6
+                 },
+         "impred" {
+           "tye":"Idntifier",
+              "start": 21,
+            "end": 22,
+        "c: {
+            "start":{
+               line: ,                "clumn":5
+               },            "end": 
+                  "line": ,
+              "column": 
+              },
+                "identifierNam": ""
+          ,
+          "me" t"           },
+          "importKnd" "tyeof",
+        "local":{
+            type" dentifer,
+            "start: 201,
+          "end": 02,
+         "loc": {
+              "tat":{
+             line": 8,
+                "coumn": 1
+              },
+            ": 
+            "ine: 8,                "column":6
+              },
+            idetiferName": "t"
+           },          name":"t"
+      }
+         
+      ],
+     "iportin":value",
+      "soue":
+       "tye": StrigLitera",         stat": 209,
+          "en 1
+        "loc": {
+       start": {
+             "line": 8,
+           "column: 23
+           },
+           ed" {
+          "lne 8,
+            clumn: 8        }
+         }
+        "etra": {          rawVal": "fo",
+        "rw": \"foo\""
+       },
+      val":"foo"
+      }      }
+     {
+       "type": "ImportDeclaratin",        "stat": 16,
+       "end"46,
+        "loc": 
+       "sart": {      "ine":9,
+          "lumn": 0
+         },
+       "end:{
+           line":9,
+          "colum: 3
+       }
+        }
+       "secifier": [
+        {           "type" "Imrpeciier",
+           start": 224         "en" 233,
+          "loc:{
+            "start": {
+         "line: 9,
+             "column":            },
+             "end": {
+        "in":9,
+               "cln": 17
+           
+         },
+         "imported: 
+           "typ: "dentier",
+           "start" 21,
+          "end":233,          "loc: {                tar: 
+              "ine": 9,
+                 "column": 15
+           },
+              "end"
+                 lie": 9,
+                "colum":17
+            },
+              detifieNme": "s"
+          },
+             "nm: as"
+           },
+          "iortKid" "typeof",
+         "lcal: {
+          "tye: "Idetifier,
+            "start 2,            "en" 233,
+            "loc": {
+              "start":
+              "line": 
+           "colun": 1
+           },          "nd":{
+              "lne": ,
+               "colmn": 17
+               },               identifeNa" "s"
+           
+           nam: "s"
+          }
+     }
+     ,
+     iportKin": "value,     "source": {
+      type": "StringLiteral"        tart": 240,
+         end": 25,
+         loc": {           "stat" {          "line" 9,
+           "column":24
+        },
+          "ed": {
+             "ine": 9,
+           "olumn" 2
+                            extra": {
+          "rawVaue": "foo,
+          "rw": "\o""
+         }
+        "vae:"foo       
+   },
+    {
+      tpe":"ImporDelaratio",
+       "ta": 27,
+    "end 28,
+      "lc"{
+       start": {
+      "line": 10
+         "colu": 0
+      },        "end" {         "lin":1,
+          "olun: 4
+       }
+       },
+        spcifir": [
+         {
+           "tp: "Importpecifier",
+          "tar: 55
+        "ed": 68,
+           c" {            "start":{
+           "ine":10,
+             "coumn: 8       },
+          "end":
+          "lie:1,
+          "clumn": 21
+          
+         },          "mporte": {
+           "typ":Identifir",            "trt": 26,
+        "ed":63,
+            loc": {           "start {              "lin: 0
+                 "column": 15           ,             "nd": {
+              "ne": 0,           "colum":16
+              ,
+            identiferNam": "t"
+           },
+           "name": ""
+        
+            "imporKnd: "typef,
+          locl":{            "ye": "Idnifier             "strt" 267,             "end: 268
+           "loc" {
+              "sr {
+                "line":10,
+               "clmn": 2
+           }
+              "end": {
+                 "line": 0,
+                lun": 1
+             }
+             idntifieae": "u"
+            },            "ame": u"
+          }
+         }    ],
+     importKind" value",
+       "source": {
+       "tp: "Stngteral",
+         "start: 275,
+          "nd: 280,
+         "lo: {
+          "start" {
+             "lie": 10,
+             "clm": 28
+          },
+         end": 
+          "ine: 10            "column": 33          }
+         }
+         "extra": {
+          "rawVale": "foo"        w": "\"o"
+          },
+        "ale": "fo"
+        }            {
+        typ": "Iportecrton",       "stat" 282,
+        nd": 316
+      oc": {
+         "start": 
+       "line": 1,         "coumn": 0
+      },
+      end":{
+         lne 11,
+       "clmn":34
+         }
+       },
+  speifir": [
+       {
+       "tye: "IptSpecifier"
+          tart": 29
+          end: 03,         lc" {
+           "start": {                "line: 11,            "column: 8
+           },            "ed": {
+           "lin" 11,
+           "colun" 21
+             }
+          },
+          "mord": {
+            type": Identifier,           "start": 29
+           "en: 03
+           "o" {
+           "str: {
+                "li: 11,
+               "column"5
+             },
+            en: {
+            "lie 11,                "column 21
+             },
+            "idnierName" "swith"
+              },
+              "name": "swith"        },         "mortKnd" "tpeof",
+           "local": {
+          "tpe": "Idtifir",
+             "art": 27,
+          end":303,             loc":              "start":{
+               "lne": 11,          "column": 1
+             },
+              "en": {
+                  "line": 11,
+              "cumn":21
+              ,
+            idntifieNae":"sitch
+             },
+           "ame": "swith"
+           }
+        }      ],
+     "rtnd" "value",
+      "orce": {       tye""SrinLieal",
+        "start": 310
+       "end": 315,
+       "loc":          stat": 
+           "line": 11,
+        column":28
+         },        "end":{
+           ln": 11,
+          "column": 3          }
+         },
+       xtra:{       "awVaue:"foo",
+           "aw":"\"foo\""
+       ,
+       "lue": "foo"
+      }    
+   ],
+  "recties:[]
+  }}

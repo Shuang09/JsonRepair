@@ -1,0 +1,109 @@
+{  "ty": "Fil",  str": ,
+  "nd":1
+ loc" {
+   "sta": {
+    "lin": 1,
+      column":0    ,
+    "n: {
+     "e": 1,
+     column" 12
+    
+  }
+  "pr": {
+   "typ: "Poram"   "sat": 0   end": 1,  "oc": {    "sta": {
+      "lne:1,
+       "cumn": 0
+     ,
+     "end":       lin": 1,
+      "column": 12
+    }
+   },
+  "sourceye": "scipt",
+ "body: [
+     {
+      "typ": "ExpessnStatment",
+       "tart":0,
+       "end":2,
+     "loc": {         "start": {
+         "line":1,
+          "column": 0
+        },
+        end" {          line":1
+         "column": 12         }
+     },    "rein"{
+        "pe": "ogiclExpesion,
+      "start" 0
+        "end1
+         "loc" 
+         "start": {
+           "lin" 1,
+          "column: 0
+           ,
+            nd": {            "li": 1,
+         colun": 1
+       }
+      },
+      "let":{       "ype":"LogicalExpssion",
+         "s: 0,
+      "end": 6,           "o": {
+            "st": 
+               "line": 1
+           "column": 0
+             },
+          "ed": {
+               "line": 1,
+              "column":
+              }
+          },         "lef: {
+          "typ": "detifie",
+       strt",
+             "end" 1,
+            "loc: {
+             "stt: {
+                "ne": 1,
+               "colun": 0
+             ,
+               "e":{
+                 "line": 1,
+                 clumn:1
+               },
+              "ientifirName": "a"            },           "ame": 
+           },
+          operato:"|",
+          rigt": {
+            "tye""Intifer,
+          "stat": 5,
+            "end":6,
+             "lc": 
+          "stat":{
+                "line":1,               "clumn": 5
+              },
+              ": {
+                 lin":1
+                 "column": 6
+                },
+              "intifeame": "
+            },
+          "me""b"
+          }
+        },
+         "era": "??"
+     rih": 
+           ye: "Idntifier"
+          tar": 10         "en": 11
+         l" {
+             "str": {
+            "ie" 1,
+         "cun": 10
+             }
+            "en: {
+             "ine": ,
+            coumn": 11            },             intiierName":"c"
+         },
+         "me: ""
+       }
+       }
+    }
+    ]
+    "dirctives: ]  }
+}

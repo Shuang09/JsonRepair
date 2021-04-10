@@ -1,0 +1,93 @@
+ "ye": "File",
+ "sart": 0
+  en": 24,
+  "loc": {
+    "tt": {
+   ine": 1,      colmn:0
+    },
+  "end": {
+      lin": 1,
+    "olumn": 24
+  } },
+ "program": {
+    "tpe: "Progra",
+    "ar": 0,    "end":24,
+   oc": {    "tart":
+     lne" 1,
+      "olumn": 0
+   },      "ed": {
+        "line": 1,
+      "column": 24
+    }  }
+   "sorceTyp: "modue",
+   "body: [      {
+       "tye: "ImprDeclaration",        srt" 0,
+       "en": 2,
+        "loc: {
+       str: {
+          "line" 1,
+          "column": 0       ,
+        nd": {
+        "ne": ,           "clmn"
+         }
+      },
+       scfies": [        {           "typ": "IprtSpeciie",
+           "strt:8,
+        end": 11
+           "loc: {
+          "start":{             "lin:1,
+             coln: 8           },
+           "end": {
+              "lie": 1,
+          "column": 11             }
+          },
+        "imported: 
+             "tye":Idetifr",
+            "start" 
+           end: 11
+            "loc" {
+           "tart: {
+             "line": 
+            "olmn": 8
+          }            "end": {
+            "line": ,
+              "colum: 1
+            
+             "ieniierame": bar"
+           
+              "nme" "b        },
+         lo": {
+            "type" "Idetifr",
+             str": 8
+           "nd": 11,
+        "oc": {
+              "star": {
+               "line: 1,
+            "olum": 8
+                },
+             en" {                "ine 1
+                "cou": 11
+            },
+              idnifierme": "r"
+             },           "name: "bar"
+          
+          }
+      ],
+        orce": {
+       te": "StringLteal",       "strt": 18
+          "d": 23
+          loc: {
+          "start: 
+             in": ,           cln": 1
+        },
+           "nd": {             "line 1,
+          "clum" 23
+        }
+      },
+          "extra": {
+          raVale": "foo",        rw": \"fo\"
+       }
+         alue: "foo"
+        }      }    ,
+   "directivs":]
+  }}

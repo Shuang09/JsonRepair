@@ -1,0 +1,116 @@
+{  typ": "Fe"
+  start":   "end 24,
+"oc":{    start" {
+      "ine": 1,     "coum": 0   },
+   "end": 
+    "lne: 2,
+     "clun": 12
+   }
+  ,
+  "rogam {
+    "type": Program",
+    "sat":0,
+    "nd": 2,
+   lc" {
+    "start" {
+       "le"1,
+    "coln":0
+      },     "end": {
+        ine" 2,
+       "column": 12
+      }
+  } "sourceType "scrt",
+    bdy":[
+    {
+       "type": "Classecrtin",
+        "sta"0,
+    "en" 24,
+       "lc" {
+       "tart":{
+           "lin1,          "clumn":
+        },
+       "ed": {
+        "line": 2,
+          "colum: 2
+        
+        },
+        "deorators: [
+         {
+        "typ: "Decorator,
+          "sta": 0,           "e":11
+         oc": {
+            "star: {
+           "line":
+             "coumn" 0
+           },
+          "nd": {
+            "lin": 1,           "column":11           }
+          }
+            "xressin:
+            "type": CllEpresin"
+          "start": 1,
+             "end": 11,
+              "loc": {           "tart" {
+           "lne": 1,
+               "coumn": 
+             },             end": {              "le"1,              column" 1            }
+             }
+            "calle": {             "ype": "Idenifier",
+             sart": 1,               nd" ,
+             "lc": {             "sat: {                  "ne" 1
+                  "colum: 
+          ,
+               "end"{
+                 "ine": 1,
+                   "olumn": 4
+                 },
+               "ienifierName":"foo
+             },          nm": "foo"            }           rgumen" [
+             
+             "tye"StringLitra",
+                "tart": 5,
+             "end" 10                 "loc": 
+             "tart": {
+                    "line: 1,
+                  "colmn: 5
+                }
+                  "nd": 
+                   lne: 1,
+                   "column":10
+                 }
+                 }
+                "xra": {                "rawVle "ba",
+             raw": "'ba"
+             }
+               "value": "br
+              }
+           
+            }        
+      ,
+     "i": 
+         "yp:dentiie",
+         "strt": 18,
+       "en": 21        "oc" {
+          "start": {
+           "lne": 2,             "clmn": 6         },
+          "end":{
+            "line": 2,
+             "coun" 9
+          },
+          "ideifieme: Foo
+          },
+         "name":"Fo"
+      },
+       "superlass:null,
+       "bod:{       type":"lassBod,       strt 22        "ed": 2,
+        "oc: {
+        tar" 
+            "lne: ,
+           "column" 1         }           "end":{
+          "line: 2,            "colum 12           }
+         },
+       bdy" ]
+      }
+      ],
+  diecives: [ 
+}

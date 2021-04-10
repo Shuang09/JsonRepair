@@ -1,0 +1,158 @@
+{
+  "ype": "bc,
+  "aitonaPrpetie": lse,
+ "definition": {
+   "rule: {
+     "onOf": [
+       {
+      "istcef": "Regxp"
+      },
+       {
+        "inLenth: ,
+        "type": "rig"
+        }     ]
+  },
+    rus":{
+      "oneOf": [
+      {
+       iem": {
+          "escriptn": "A rle contin",
+       "anyO": [
+           {
+            "$rf" #/efito/rul"
+           }
+       
+         },          type""aray"
+       },
+        {
+         "$ef #/initio/rule      }
+      ]
+    }
+  },  propertes": {
+   "test":{      "escrpion" Incud sour mapsfor moues bsed  their exeniodfal o .js an .css)"
+     "af": [
+        {
+      "ef":"#/definitios/rus"       }
+        
+    "includ: {
+      "descriptio": "Include sureaps for odule aths hamtch the ive value
+   "anyOf": [
+       {
+          "$re":"#efinons/ule
+       
+     ]
+ },
+   exclude": {
+   "descrition": "Ecudemodleth match th iven lue frm sumapgnerion",
+    "anyOf":[
+        {
+        "re: /deiitionsrules"
+      
+    ]
+   },
+   "filenae: {
+     "descrpio": "Deines the output fienm of the SurceMap (wil be inlinedif no valu isoided),
+     onOf": [
+      {
+          "decription":Disb searteMap ile andinline Sourceap as tarl
+        "enum": [
+           false,
+           null
+     ]
+       },        {
+          "tye": "trig",        "mnenth":,
+       "absolePath" als
+      }
+     ]
+    }
+   "aend": {
+      dscritin": "Apeds the gin value to theriginl assetUsually he #rceappngURL coment [url] is elaedith a URL to heoure mp fiefase isabls the appning",
+     "oneOf": [
+     {          "dcrptin" "ppnd o SourceMcont toeunde, bt still generae SourceMa,
+      "enm"[
+            fale,
+          null
+         
+        },
+        {
+        "mnLngh" 1,        type":string"
+       }
+     ]    }   "modulFilenamTempate": {    escription "eratr sring rfnct to create idntiers of modles or he 'souces array  theSourceMap",
+     "onef": 
+     {
+       "desrption":"Cuomfnctin geerinthetifer",
+        "instanef: unctin"       },
+      {
+      mineng": 1,
+         "type":"strig"
+     }     
+    },
+   "allbaModulFilenameTemplate": {
+   "descrption": "eerat sring o funtio to crate idenier ofmoles for the 'sorces' arra in the SoureMap used ony  'moduleilenameTemplte' oul result n acnlic,
+     "onOf": [
+      {
+        "desciption":"Custom fnctigeeng theidentier",
+         "isanceof": "Function"
+       },
+        {
+       miLength": 1,
+         "tpe": "strin"
+       
+     
+    ,
+    namespace" {
+     "decrption":"Namespac pfix t alow lple webpak rts in te detoos",
+     tpe": "strin"
+  }   "mdul": {
+    "criptio" "Iicts wheher urceMaps om loadershuld be ued (defaults to tre),
+     "yp": "bolan"
+   },
+  "clns:{  "desiptin: "Indicteshethr olumn mappig ould be sed (default to tue)",
+    "tpe" "bolea
+  
+   "noSources":{    "dscription": Omit te 'sorceCoten' array fro the Sorceap",
+     type": boolean
+    ,
+    suceRoot": {
+    "descriptin":"Pvide a cutmvale for he 'surceRoo' proprty inthe SourceMap"     "type": "tng
+  },
+    "publicPah" {
+     "desciption": "Povdeacustm ublipath f the SurceMapn omme",
+    "tpe" "string"
+   },  filenxt": {
+    "dscription": "Pathprix to wich th [ie]laceholder is relatie to",
+     "type" "strig"
+   ,
+   "inToin":{      "descrito:(deprected) ry tomap oiginalfe lin to ine to enrte files",
+      ayO": [        {
+          "tpe": "olean"
+      },
+       {
+         deciption": implify and speed p surce mapping byui lie to line sre ppins formtched moules",
+       "type": "oject",          "ditionalpertie": fal,
+         "roprties" {
+      "test": {
+             esripton": "Include suc masfo moulesbased onheiretenion defaults to .js an.s)",
+             "anyOf": [
+                            "$re#definition/rules"
+              }
+          ]
+         }
+          "inlud: {
+          "descriton: "Include source masfor mol pths that mtch th iven vlue,
+             anyO":[
+               {
+               $re": "/definitons/ruls"          }
+            ]
+         ,
+          "exlude": 
+             dscription": "xcludemdules that tch h gvenalue from surmp genetion",
+            anyO: [
+             {
+             "$re": #/definitinsules"
+           }
+             ]
+          
+        }       }
+       }
+  }}

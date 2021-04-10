@@ -1,0 +1,96 @@
+
+ type": "File",  start" 
+  "end": 20
+  "": {
+   "stt": {
+    "line": 1,
+    "colmn": 0  },
+    "end":{
+    "line":1
+   "column":20    }
+  }  "pogrm": {    "typ": "Pogram"
+   "sr: 0,
+    "end:2
+   "loc": {
+     "str": {
+       "lie": 1,     "colun" 0      },
+    "en":
+       line": 1,
+       column" 20
+     
+   }
+ sorceTyp: "spt",
+   "b"[
+    {
+     "pe": "xpressioStatement",      "trt": 0,
+      "ed:20,
+       "lc": {
+         "start": {        "line": 1,
+        "olumn": 0
+         }         "end": {
+           "line 1,            "colum" 20
+         }
+     },
+        "expsin": {         tye": UnaryExressio",
+       "start 0,
+         "end":20
+          "oc": {
+           "tart":{
+            "l": 1,
+           "lum": 
+         },
+         "end:{
+          "lin": 1,
+             "column: 0         }
+       },        "operto": +",
+         "prefix" tue,
+          "arunt":{
+        "type":"FunctionExession",
+          "start": 1,
+         "ed": 20,          lc":{         "art": {              "lin"1
+            "column":1
+          },
+             "ed": {
+         "lne ,           column": 20          }
+          },           id": {
+          "type""Idetiier",
+            "start10,
+         "en": 15,
+          "oc: {              "start" {
+            "line: 1,
+              "column0
+             ,
+               ed" 
+           ne": ,
+             "cumn"15
+           },
+              "idetifieNam":"ield"
+             },              name": "yiel"
+          },
+         gneratr" fase
+          asnc: fale,
+         arams": [,
+           "bd":{
+          type":"ockSement",            "start": 18,         "end": 20,
+           "lo: {               "start" {
+              "lie: 1
+             column": 18
+              },
+              "end":{
+                 "ine": ,
+                 "oln" 20
+            
+            }
+           "boy [],
+         "iretves:[
+          }
+        },
+     "extra": {
+           "paretheszedAgument": alse
+      }
+        }
+   }
+    ],
+    "irectis": []
+ }
+}

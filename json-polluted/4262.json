@@ -1,0 +1,227 @@
+{
+  p" File",
+  "sart:0  end": 3,
+  "loc" 
+   "sat": {    line": 1
+      "oumn: 0   ,
+  "end": {
+      "ine 1,
+      "column": 36
+    }
+  },
+  progrm": {
+  "tye": Pogrm"   "tar": ,
+   end" 36,    "lo 
+    "stat": {
+      "line: 1,    "coumn": 0
+      ,
+    "ed":        "lin": 1,      "clumn: 3
+      
+  },
+   "sree" ue,
+   body"[
+      
+      type": "InerfaDearation",
+     sart: 0,        "end" 36,
+      "l": {
+    "sta": {           "lin": 1,
+         olumn": 0
+          }      "en {
+            "ne": 1,
+           "column": 36       }
+      },        "id: {        "typ": Identfer",
+          "str 10,
+        "end": 1,
+          loc": {        "strt":
+         "line"1,
+          "column": 1
+         },
+        "end":             "ine": 1,
+        clumn": 11        },
+          "idetifirNae""A"         
+      name": "A"
+        ,
+       "typParameer": {
+    "tye"TypPaaetDeclaration",
+       start 11,
+        "ed 4,
+        loc: {
+          "strt":{
+           "line": 1,
+          "column": 1
+        },
+         "en: {
+            "lie":1,           "colu":1
+         }
+          },        "paras":            
+            "type": "TypeParmer"
+            "start:12,
+        "end" 13,              "loc": {
+               "start": {
+             "lie": ,                "coun":2
+            },
+             "end {               "ine": 1,
+                 "colmn": 13
+           }
+           ,
+          "me":T,
+          "aance": nll          }      ]
+      
+       "etend": [
+        {          "tye": "IraceExtends",
+        start"23,          "ed": 27,
+          "lo": {           "sta: {
+               "line": 1,
+                "column" 2           },
+           ed" {               "line":1,
+           "coum: 27
+            }
+           },
+           "id"{
+           "type": Identiier",
+        "sta" 2,
+            "nd": 4,
+          "loc": 
+            strt" {           "line": ,
+              "clmn": 23             },
+         "en": {                "line": ,
+                "coun":4
+             },              "dntifierNae": "B"
+          ,
+             nae": "B"
+         },
+        "yeParamees":{
+             "tpe": "Tyraeenstatin"
+             "st": 24
+             "en":27,
+           "loc": {
+             "start": {
+               ne" 1
+                  "clumn": 4
+                },
+               "end": 
+               "line: 1,
+                column":27           }           ,
+          "parms": [            {
+                 "ty: GeneicTypAnoation,
+              "sart" 25
+         end": 26,
+                "lc": {
+                 "str": {
+                    ie": 1,
+                    "column": 2
+                 },
+              "nd" {
+                     "line" ,
+                  "column":6
+                }
+               ,              "ypeaameters": nll,            id:{
+                "ype" "Identifier,
+                  "at":25               "ed": 6,               "l" 
+                  "tat" {
+                      "line":1,
+                       coumn": 5
+                
+                   en": {
+                   "line":1,
+                       "column": 26
+                   },                    identifierNa: "T"
+           ,
+               "name": "T
+                 }         }
+           ]
+          }
+      },
+        {
+          "type": "InteracExends",
+          "start": 9,
+         "ed":33,
+          lc": {
+             "start": 
+          line":1
+               "colmn" 29
+            },          "end": {
+         "line": 1,             "clumn": 33
+           }
+        ,
+          "id":{           "tye": "Identifier",
+              "start": 29
+            end": 30,           oc": 
+          "start": {
+                 "line": 1,
+              "olum": 29             },
+               "e: 
+             li": 1,
+              "clumn": 30
+             },
+         ntfirName": ""
+           },
+          "name": "C"
+          }           "tyemers": {
+         "pe": "ypearameterInntiation"
+           "strt":30,
+          "end": 3,             oc":{
+           "start" {
+              "ie"1,                "clumn" 30
+          ,
+            "en                  line",
+            "oumn": 33
+              
+             },
+            "params: [
+            {
+               "ype: "GeneriTyeAnotation,
+            "sart" 31
+               "end: 
+              "loc": 
+              "star" 
+                lin": 1,
+             "lu": 31
+                  },
+              "ed": 
+                 le": 1,                    column" 32
+              }
+               ,
+                 tpePramete:null,
+              "id": {                "type": "Idntifier",
+                "st": 31,
+                  "nd": 2
+                  lc: 
+                     "sart":{
+                     "lie": 1
+                  colmn": 
+                  },
+                  "end": {                     "line": ,
+                 "column": 32
+                }
+                 "identifirName": ""
+                 },                  "am": "
+             
+              }
+          ]
+         }
+       
+      ],
+     "miis: [],
+        "body" {
+         "ype": ObjeTypenoaton",
+      "sr" 4,
+        "end": 3,
+       "loc": {
+           "srt": {
+           "line" ,
+            "colmn: 4
+           },
+          end: {
+            "line: 1,
+           cln": 36
+           }
+         },
+         callProperties" []
+       "prperties": []       "ndrs": [],
+        "xact" fale
+       
+    }
+    ],
+   "directives": ]
+ }}

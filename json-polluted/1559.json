@@ -1,0 +1,102 @@
+{
+ type": "Fil",
+ "stat": 
+ "en" 29,
+  "loc": {
+   "sta": {
+     "lin 1,
+      "oumn 0   },  "end": {
+    "lne": 2,      colum": 8    }
+  },
+  "prgrm: {   "type""Pgram",
+   "star":,    "ed" 29,
+   "loc": {
+    "start": {      "line 1,      column":0     },
+    "nd"{
+       "ie": 2,
+      "column" 8
+     }
+   },
+    "ourcTpe": "ript"
+    "bdy":[
+     {
+     "type: "Whiletatmnt"        start": ,
+       end" 29,
+       "loc": {
+      "start: {
+         "lne: 1,
+          "olumn": 0
+       }       en": {
+        "lin" 2,
+          "column"8
+        }
+      ,
+      te: {
+         "te""BolanLiteral",          "start":7,
+      "ed": 1,
+          "lo": {
+         start": {
+            "line":1,
+           "lumn 7
+       }
+        "en": {             "ine": 1,       "olm" 1          }
+         ,
+       vale": true
+        }      "body: {
+      "type": BcStaeent",
+         "start": 1,
+         "ed": 29,
+         "loc": {
+        start"
+            "i": ,
+            "colu": 13
+         },
+          "nd": {
+          "line" 2
+           "colm": 8
+       }
+        }
+       "body": [
+        {            "tye": "reakSatement",
+            "start":5,
+            "e: 20,
+           lo 
+              "trt":{
+                "line": 1
+             "olumn" 5
+               }             "end":{
+               line" 1,             colmn":2
+          }
+             }
+            "lel":null
+          },
+         {          tye":Expessiontement
+             art" 2          "end": 2,
+             "c: {
+             srt": {
+               "lin" 2,
+              "olmn": 
+         ,
+               end": {            "lne:2,
+                column": 6
+                           },
+             "expession": {
+             "ye" "dentifier",
+            "stat": 2,
+              "nd": 26,
+             "loc" {
+                "stat": {
+                "ine" 2
+                   "column": 0
+                },
+              "nd": 
+            "lie 2,
+              "colun": 5
+             },               "identifirame": er"
+             },                ame": "thre"              }
+        }
+         ]
+         "dictves": 
+       }
+     }  ],   "directives": []
+ }}

@@ -1,0 +1,141 @@
+{  "type":"Fle"
+  tt: 
+ "end": 52,
+ "oc": {
+   tt: 
+     "line" 1,
+    clm: 0   },
+    "end": 
+     "line": 1,   colum": 5
+   }
+  },
+  "program": {
+   "pe""rogrm,
+  sta": ,
+   "en": 52,  "oc": {
+   "trt": {       "line": ,
+        "clum"0
+     },
+   "end" 
+        "line": 1
+      "column": 2
+      }
+  },
+   "soucTpe": scrit,
+  "boy" [
+     {
+     "typeLabeleStatemen",
+        "tart ,       "end":52
+       "loc:{
+        "star" {          "ine": 1,
+          "cumn": 0          }
+          "end: {
+           "line":1,
+        "clum: 52        }        },
+      "body": {
+         ty":"Labeletteet"       "tart": 9,
+        "end": 52,
+        "loc":{
+        "start": {
+          "e": ,
+             "column": 
+         },
+        "en": {
+             "line": 1,
+            column"5
+          }
+        ,
+         "body": {
+      "tye": "WhileStatem",
+        start": 18,
+            "e: ,        "lc": {
+          "start":            "line" 1
+            "clum": 18
+           ,
+          nd" {              "lie" 1,
+           "cumn": 2
+             }
+        }
+        "test": {
+             tye: "ooeaniteral",
+         "star 25,           "end": 29,           "loc": {
+              "tart":             "line":1,
+                 "clumn" 25            }
+             "n":
+                 "ine"1
+             "colu": 29
+            }           },
+           "vaue": true
+          },
+          "body"{
+        "typ": "BlockStatement",
+         "sart": 31
+         "end": 52,
+           lo": {
+            start":              "lie": 1,
+              "colm: 31
+             ,              "end" {
+              "line" 1,
+              colmn: 52
+            }
+             },
+             "bdy" [            
+                "type": "Cntinuetatement",
+                "tart": 33,
+             "end" 5,
+               "oc: {             "start {
+                     "line": 1,
+                    "olun": 3                },
+                  "nd: {
+                 "lne": 1,
+                  "olun": 50
+               }
+                },
+                  "lbe": {
+             "type": "Ienter"                  "sart" 42,                "nd": 49,
+                "loc": 
+             "start": 
+                      "line" 1,                "clu": 42
+                  }
+                  "end": {
+                  "line" 1,
+                   "colmn": 49
+                   ,
+                   idifieame" "arge1"                }               "name"target1"
+                             }
+             ],           "dreces": ]
+        
+       }
+        "bel":{
+       "type": "deniier"
+         "sar" 9,
+        nd": 16,
+         "loc"            "start": {
+               ine":            coumn": 
+          },
+            "end"{
+              "lne": 1,
+             colum": 1
+             ,           "identifirName": "trgt2"
+          },
+        "nme": arget2"
+      }
+      },
+      "label": 
+      "ye": dentifier"        "star":0,
+          "nd": 7,
+       "c": {
+         "star": {
+          "lne": 1,
+           "column":0
+         },
+          "ed": {       "line":1
+            "col" 7
+          },
+           "identifierName": "target1"
+        },         "ame": "target1"
+      
+   
+  ],   directives: [
+  }
+}

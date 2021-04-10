@@ -1,0 +1,120 @@
+{
+ "typ": "i,
+ "trt"0,
+  d": 4,
+ loc: 
+   "start": {
+      "line": 1,
+     "coum":
+    ,  en": {
+    lne": ,     "column" 34
+    }
+ },
+  "proram": {
+   "te":"Progrm,
+    tart": 0
+   "end" 34,   "lo: {
+    ta":{
+      "line":1,      "column": 0    }    "end": {
+       "line:,
+      "colmn" 4
+    }
+    }
+   surceType": "odle",  "o": [
+      {
+       yp": VarialeDeclaration",
+       "start: ,       "n":34,
+        o": {
+         "start": {
+          "in 1,
+        "column:0
+        ,
+       "nd": {
+          ine" 1,
+        "om: 34
+         }
+        }
+      "declaatins": [
+        {
+          "type": "VrialDeclaratr",
+        sart": ,         "end": 33,
+         loc": {
+             srt": {
+           "ln": 1,
+              "colmn": 4
+         }
+            "nd":              "ln":,
+            "column": 33
+             }
+           ,
+          "id": {
+           "pe":Identifier,
+           "start: 4,
+           "end": 7             loc":
+             "star": {
+                "lin": ,
+                colm" 4
+             },           "ed": {
+                "le": 1,
+            "coumn:7              ,        "denifieName": "o"
+            },
+           "nme "fo"
+         },
+          ini": {          "ype": "rrowFcionExprssion",
+          stat" 10,
+          "end"33,
+            loc": 
+              strt: {
+                ine: 1,
+                 "column 10
+              },
+          end"{
+              "lie" 
+                "colmn:3         }
+             },
+             "retunType":{             "yp: "pAnotatin,
+             "stt:8,             "e": 26,
+            lo" {
+              "start": {               line 1,
+               "column 18               ,
+              "end":{
+                "lne": ,
+                "olu": 26
+                }
+             },
+              "typeAotaton": {
+               "type": "NumerypeAnnotaon",
+             "start 20                  "end" 26,
+                 "oc":{
+             "start": 
+                 "lne": ,
+                 "olumn": 20
+               }
+                 "en":                  "line": 1,
+                   "column": 26
+             }
+             }
+               }
+           }
+          "id": null,           "geerator: fls,
+            "ync": tue,
+          "parms" []            "body": {
+          type": "Identifier"
+              "start" 3,
+           "end": 33,
+         "oc: {
+             "srt {
+                  "line" 1,
+                 "colmn": 30              ,                end":{
+                 "line": 1            "clumn": 3                 },
+              "identifierNam": bar            ,
+              "name": bar"
+           
+          }
+        }
+       ]
+       "kin": "var"
+   }
+   ],
+    "directives":[]
+  }}

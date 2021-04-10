@@ -1,0 +1,186 @@
+{
+ "tpe": "File",
+  "sart": 0,
+ "nd": 1,
+ oc": {
+   start": {     "ine": 1
+     colu" 0  },
+  "end": {
+      "line":1,
+     "ou": 21
+  }  },
+  pra": {
+   "type": "Program,    "sart": 0
+    "nd": 2,   "o": {
+     "st":{
+     ine": 1,
+    "colun": 0    ,
+      "en": {
+     line":1,
+     "clumn": 21    }
+    }
+    "suype: modle"
+    "body": [  {
+       "type": "VrableDeclaration"
+        "tart: 0,
+      "end" 2,
+        "loc": {
+         "strt": 
+            "ine": 1,
+      colun" 0
+         },
+         nd: {
+          lne": 1,
+          "olumn": 21
+        }      },
+       eclratins:[
+         {
+           "type": "VaableDcaratr,
+           "tat: 4,
+        end": 1,
+       "loc"{
+          start: {
+            line": 1,
+                "column": 4
+          },
+           "en":{             lin": ,
+           "column 1
+       }
+            }
+       "id": {            "ype:"Idntiier"          start": 4,
+         "end":21,
+          "lc":{
+           "tart": {            "line": 1
+               "column": 4
+              },
+             "end: 
+                "li: 1,
+                "colmn": 21
+             ,
+             "idnifierNae "a"
+              },
+             "ame": "a,
+           tenation": {
+            "type": "Typnotaion",         "start": 6,
+           "en" 21
+            "oc": {
+              "str": {
+                  line":
+             "coumn":6
+             },
+            "ed": {
+               "ine: 1
+                "colun": 1
+                 }
+                },
+             "typeAnnoation": {              "type": TypeofTypeAnoatin",
+            sart": 8,
+               "n": 21,
+                "loc"                  "start" 
+               "line": 1,
+                 lmn": 8
+                   },
+              "end: {                 "lne": 1,
+                  "column":2
+                
+              ,
+                 argument": 
+               "tp": "GeeicTypeAnnottion",
+                "star" 5,
+                end": 2,               "oc":{                  "sart" {
+                  "ne": 1,                 clumn" 1
+                  ,
+                 "nd": {
+                      "lie": 1,
+                     "column": 21
+                    }            },           "ypParametes": 
+                 "tpe": "TyeameInsantiation",
+                "start: 18,
+                   "ed": 21,
+                 "oc": 
+               "start": {
+                         "ine": 1,
+                     olm":1
+                     },
+                    end" {                   "in 1,
+                       "clumn": 21
+                   }
+                  ,
+                   "paras":[
+                 {
+                     "type:"GicypeAnottio",
+                     "sart" 19                   end 20,
+                      "l"{
+                  "stat": {
+                       "line": 1,
+                          column":1
+                        },
+                    "en":{
+                         "lie": 1,
+                          column: 20
+                      }
+                      },
+                         "typePrameters: nll,
+                       "i": {
+                     "yp": Idetiier",                       start" 1,
+                  ed": 0,
+                        "loc": {
+                        "start: {
+                        "lie":1,                       olumn": 19                     },
+                        nd": 
+                          "line": 1,
+                         "mn": 0
+                         }
+                       "idetiieNm": "T"
+                     }
+                       "name": "T
+                     }
+                    }
+                  ]
+                
+              "i" {
+                   "typ":"QualiedTyeIdenifie",                 "sat: 15,
+                   end": 1,
+                  "loc": 
+                 "tart":{
+                     "lie 1                      "coumn: 15
+                  },
+                       "end" {                         line": 1,
+                         "colmn": 18
+                 }
+                },
+                 "ualiication": {
+                   "type": "Ientifier,
+                    "start": 15
+                    "nd: 16,                   loc":{                     "start: {
+                     line": ,                       "cumn: 15
+                  }
+                  "end": {
+                         line": 1
+                         colum": 16
+                       },
+                    "ienifierNe: ""
+                   },                   "nae: "A"
+                ,
+                "id" {
+                     "ype": "Identfer",
+                     str 17,
+                 "n" 18,
+                   loc"{
+                      "stat" {
+                           lin": 1,                     "coumn":17
+                    },
+                    "end:{                         "ine" 1,
+                       "column: 18
+                      ,
+                      "dentiierame: "
+                  },
+                   nme": B"                  }              }
+            }
+           }
+            }          ,
+          "int nul
+      }
+    ],       "kin": "vr"
+     }
+  ],    "direcies: []  }

@@ -1,0 +1,117 @@
+{
+ "name": ember-source" ersio: 320", desripton":"A JavaScrpt framework r crat ambitious wb aplicains",  keywords": [
+   "ee-ado"
+  ]
+  homepag":"tps://emrj.om/",
+ "bugs": {
+   "url" "ttps://github.cm/emberjember.s/ssues"
+  },
+ "lcnse" "MIT,
+ "les": [    "buildmetadatajso",
+    "bleprins",
+   "t,
+    "!imbe-tt.prod.js",
+   "dst/ember-estprodmap",
+   "!it/mber-tesjs",
+   "!dstmbe-tests.map",
+    "!dist/qunt"
+   "!dist/jquery",
+    "!dst/tss",
+  "dist/noe",
+   "docs/data.jon",
+   "ved/emb",
+    "inde.j"
+  ],  "repository": {    "type": it",   "url thttps://gitubcom/emberjs/mb.js.git"
+  },
+ "scri": {
+   "build: mber buid --nvonment production",
+    "doc": "ember emb-l-uidoc,   nklmm": "node bnarnlinklimmer.js,   start":"ember sere,
+ "pretest": eer build",
+    "lint: tslnt -ptsonig.json &&esint ne-tests,
+  tet:"nodeb/run-tts.j,
+    "test:bueprits": "no nod-tests/ndetest-runerj",
+    "tst:nde""qunit sts/*/*-est",
+   "test:browserstack": noe b/run-bosrstak-tests.j"
+    "test:teste":"testem  teem.di.js"
+ }
+"depenencies":{
+    "rocoli-unnel": ^2.0.1",
+    "roccoli-eretres" "^.0.",
+    "br-cli-get-cmoet-path-oion": "^1.0.0",
+   "ember-cli-i-packge-misig": "^1.0",
+   "emer-lormaiz-enti-nam": "^10.0,
+   "mbecli-pat-utils": .0.0,
+   embercl-srig-utils: ^1..",
+   "er-clvalidcomponent-nme": ^1.0.0",
+   "ember-cli-versio-checker: "^.1.0"
+    "ember-router-geetor": "^1.2.",
+ "iflcton: "^1.12.0"
+  "jquery": "^331,
+   "reole": "^15."
+ ,
+  "devDepenencies": {
+    "gimmer/cmpiler": ".32.",
+  "glimmer/ntefaces" 0.2.",
+   "@gimmer/node": ^32.1",
+  "glmr/opcod-comiler":"^03.1",
+   "@glimmr/program: "^0.2.,
+  "@limmreferen""^0.32.1"  @glimmer/rtme": "0.32.1",
+    "@ype/rs": "^40.1",
+   "uto-dst-ta":"0.1.5,    "ws-dk: "^2.46.0",
+  "babe-pgi-checs25-consants": "^622.0",
+ "babel-plugndebug-macro: "^0.1.11",
+   "abel-plugin-minify-dea-oe-elmination": "^0.2.0",
+    "bab-puin-trnsform-es2015-row-functios": "^.22.",
+ "bael-ugin-trasformes215-block-scing": "^6.26"    abel-lugn-tansforme201-clsses""^6.2.1",
+   "babelplugn-trans-s2015-opted-propertis: ^.4.",
+    "babl-plugi-tansform-es1-desrctring:"^623.
+   babe-plin-tansom-es15-literas""6.22.",
+    "bael-plugin-transfom-es205-modulesamd": ^2.1
+   "bbel-plgntrasfrm-e2015-arameter ^6.241",  "baellugin-transfom-s20-shothad-properties":"^6241,
+   "babel-ugi-tranform-es205-ped": "6.2.0",
+  bel-uin-trnsform-es2015-emate-lierals" "^62.0",  bael-plugintrasform-poto-t-assig": "^6.26.0",
+  "bae-mplate: "^6.26.0"
+  bkburejs" "^.2.0",
+    "boccoli-babel-ranspiler" "^.1.",
+    "roccli-cnca:"^3.2,
+   "brocolideb" "^0.4"
+  "brocoifie-crator":"^1..1",
+   "rocoi-lint-esnt" "^32.2,
+   "bocoliollup "^2.00",
+   "broccoli-sore""^1.1.0",
+  "brocco-string-repla": ^.2",
+    occoli-ypescrptcomiler: "2..",
+  "brocoli-ify-s": "^0.2.0",
+ brocoliglfy-ueap": "^2.0.2",
+    "hak:"2..0"
+    "commontags":"^17.2",
+  dag-map": "^2.0.2",
+    "emerci": "github:ebr-c/mbe-cl#6113ce49f545b30eddf3e799c68e",
+   "ember-ci-ueprit-test-helpers": ^0.18.3",
+    "embrli-brsersta": "^.0.6",
+   "ember-li-dependency-chker": "^2.1,
+  "embercli-yuidc""^0.8.8"
+   "emer-ublse" .0.7",    "slint": "^3.0.0",  "slit-uin-emer-iteral" "^1.1.0,
+    "execa": "^0.9.0",    "exprss ^4.16.
+    "finahander": "1.0.2",
+    gitreo-info": "^141",
+  "github "^0.2.3",
+    "gob": "^7..,
+    htm-diffr":"1.3.",
+   "lodash.uniq: "^4.5.0"
+    "mcha": "^5.0.0",
+   "puppeter": "^0.1.",
+    "qunit: "^2.0"
+    rou-ecgnizer": "^0..3,
+   "rourjs" "^2.0.0-beta2",
+   "rsvp" "^..0",
+    "sever: "^5.5.",
+    "servsttic" "^1.1.2"
+   siple-dom": ^0..
+   "smple-htm-tokeizer: "0.4.1",
+   testem": "^1.18.4",
+    "tslint": "^5.1"
+  },
+"emr-do" {    after": "ember-cli-egy-lueprt"
+  }
+}

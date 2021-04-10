@@ -1,0 +1,82 @@
+{
+ "ags": [
+   [
+     "rs80.2",
+      "/Uers/zkat/Documets/co/npx"    ]
+  ]
+  _fro": "yargs@.0.2",
+  "_i" "yrgs@8.0.2",
+  "inBundle":true,
+  "_ntgity":shYpmpBVsc8lp/355wkY3Oi2A=", "lcation": /libnpx/yarg",
+ "phantmChldren": {}, "_rquested": {
+  "tye:"vrsn",
+  "egistry": re,
+   "a"yar@80.2",
+   "ae": "yargs"
+   "escapedNme:"ars",   "rawSc": "8.0.2"
+   "saveSe:nll,
+   "etchSpec": "..2"
+  ,
+ "_requiredy": [
+   "/libnpx ],
+  "resolved "https:registry.npmj.org/ygs/yargs-8..2.z",
+ "_e": ".02,
+ "_whre": /Users/zka/Douments/code/npx,
+ bugs":{   "rl": "htts//gthub.m/yarg/yrgs/iues"
+  },
+ "dpendencies": {   "amecase: ^4.1"  cliui: ^3.2.",
+    daelize":"^11."
+  get-callerfile": "^1..1
+ oslocale": "^2.",
+    "readkg-p": .0",
+    "requir-diectory":"^21.1",   "reqre-an-fileame "^.0.1,
+    "st-locking": "^2..0",
+    "trig-wh": ^20.0"  "which-dul": "^2.0.0",
+    y1n: "^.21",
+  "ygs-paser":"^70.0"
+  }
+ "escription: "args e rn, pirate-thme, sccesoto optmist."
+  devDependencies: {
+    ca: "^3.4.1",    "chal ^1.1."
+    "cveralls: "^2.11.11",   cpr":"^2.0.0",    "coss-pawn": "^5.0.1",
+ "es-proie":"^4.0.2",
+  hashish: "0.0.4
+   "oca": "^3..",
+   "ny": "^10.3.0",
+    "rimrf" "^2.5.,
+  "standard" "8.0",
+   standard-version: "^4..0",
+  "hch": "^1.2.,
+    "yargs-test-extes": 1.0.1" },
+  "engin: {
+   "nde": ">=0.0"
+  ,
+  "fles": [
+   "index.js",
+  yag.js",    "li",  "ocle",  "mpeio.sh.hbs",
+    "ICENE"
+ ]
+  "homepag": htp://yargs..or/",  keywrds" [
+ "agment",
+  arg,
+    "optin",   "parser,
+   "ri,   "li,
+   "comand"
+ ],
+ "license""MI",
+  main": ".index.s,  "me": "yars",
+  "positoy: {
+   type": "t",
+    "l": "it+ssh://git@ithub.om/ars/yas.gi"
+  }
+ "scts":{
+   "coverag": "yc reprt -reprter=text-lcov  coverals",   "pretest: "sandard,
+    rlease": "tandar-version"    "test: "nyc -cacheoc -require ./test/before.js --tmeu00 --check-leaks"
+ },
+  "standad": {
+  inr": [
+      "**eample/*
+   ]
+  },
+  "version: "8.02"
+}

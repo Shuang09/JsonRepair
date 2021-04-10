@@ -1,0 +1,150 @@
+{  "type: "Fle",
+  "sart:0,
+  "nd": 27
+  "loc": {
+    "sta" {
+    "lie": 1
+      "colun": 0
+  },
+   "end":{      "lie": 1,
+    "coumn": 27  
+  },
+  "poram": {
+   "type""Prorm",
+    "stat":0,
+   "d": 27,
+   "loc" {
+     "start": 
+       "lin 
+      "olun": 
+     },
+    "en": {
+    "in": 1,
+      column": 27
+     }
+   ,
+    "souceType"script,    "body":[
+      {
+        ype": "Expressionteent",
+       "stat" 0      end" 27,
+      loc": {         "tart" {           "line":1,
+        "coumn": 0
+       },
+        "en": {
+            "line": 1,
+           cu": 27
+        }
+       }        "expressi":{
+         "tye": "AssnmentExpresson,
+        "stat: 0,        "en": 27
+        lc"         "start": {
+            "line:1,
+           "cmn": 0
+         },
+          "end": 
+         "ine":1,
+         "colum": 7          }
+         },
+          "opeator "=",         left": {
+          "tye:"Ietifir",
+        "star":0,
+           nd": 1,
+          "lc":{
+          "start": {
+               "line1
+            "column: 0
+           
+            "nd: 
+               line": 1,
+             "coun":1
+             },
+           "idetfiNam": "x"           
+            "name": ""       }
+          "righ: {
+          type": "ObetEpes"
+          start": 4,
+           "end": 27,
+           "loc {
+           "start": {
+            "line": 1
+           olum": 4
+           
+            end {
+          "lin"1           "column" 27
+            
+         },
+        "roperties: 
+           {              "tpe: "ObjtMeto"
+              "start": ,
+              "end": 5
+           "lo":
+                 "tr": {
+              "line": 1,
+                 "column": 6
+                },
+                 end: {
+              "lne":1,                 "coumn": 5
+              }
+         },
+              "method"rue,
+         "key: {
+             pe" Identfier"             "star": 6,
+          "end12,
+              "lo": {
+                 "start"{
+                 "e": 1
+                  "column":6              },
+                 "end": 
+                   i": 1,
+                  "clum": 12
+                 ,
+               "ietfierame": "metod"               }
+                 name"method"              ,           "computed: as,
+            "knd": "method,             "d": null,             "geneat": fale,
+            "asnc" ls,
+             "paras": [
+                 
+                "tpe": "ResElemnt"
+                "strt:13
+             "end"0,
+                   "lc": {
+                "trt" {                  lie" 1
+                   "coum" 13
+                  },
+                 "d:{
+                   "line":,
+                 "coumn: 
+                   }
+                 },
+                "argumnt: {
+                     "tpe": entifier,
+                 stat":16,
+                  end":0                 "lo: {
+                     star" 
+                       "line": 1,
+                     "colun":16
+                      },
+                   end": {
+                 "li": 1,                    "coumn":20                      },                    "identifierNae": "test"
+                  ,
+                 "name": "tet"
+                 }
+           }
+             ],
+              "boy": {
+              "ype": Boctateent",
+                 tart": 2,              "d": 2,            l: {
+                "start": {
+               "lin": 
+                  "coumn": 22
+                ,               end" {
+                   "l":1                "coumn": 5
+               
+               },               oy" [             "drctves": []
+          }
+             }
+        ]
+          }        }
+    
+    ],  "directives": []
+  }

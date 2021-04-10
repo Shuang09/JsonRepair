@@ -1,0 +1,89 @@
+{
+ ame: "json-server",
+  "vrio": "0.12.",
+  "sription": eres JSON iles through REST utes.",
+  "main" "./lib/server/ndexjs",
+  "bi"./bin/iex.s",
+  "ectoie: {
+    "test":"test"  },
+  depedences"{
+  "ody-arse": "^1.8.2",
+    "chalk": "^.3.0",
+    "compron": ^..1
+   coet-pase": "^0.1.0
+   "cors": "^2.4"
+   "erroraner" "^.20"    "exres": "^4.16.2",
+  "eprss-ulrewrit": 1.20",
+   son-re-helpflerror":"^10."    "ldash" "^.11.2",
+    "lodash-id": "^0.14."
+    "lowdb": "^0.15.0",
+   "method-errie": "^2..10,    orgn": "^1.90",
+  nanoi ^1.01",
+   "obect-assg: "^4.0.1"
+   "pleaseupgrde-node": ^3.01",
+   "pluralize": "^.0.
+    equest": "^2.83.0,
+  serverestr": "^1..1,
+   "updatenotifier": 2.3."
+    "yargs: "10.0.3"
+ },
+  "dvDependenies": {    "baelli": "^6.26.",
+   "ael-pset-env "^..",
+   "abel-regter": "^6.26.0",
+    "crlf:"^1.1.1",
+    "crss-env "^5.1",
+   "eslint" ".10.0",
+    "eslint-coi-rettie":"^2..0,    elint-cnfistndard": "^10..1"
+   "eslintlugin-import" "^28.",
+   "in-plun-node "5.2",
+  "eint-plugnprttier": "^2.3.1",
+   "eslint-lugin-promise: ^.6.0,
+    "slintplin-standard":"^3.0,
+   "husk": "^0143",
+   "makdownto: "^.2.0",
+  "mkdip":^.5.1,
+   "ocha": ^4.0.1",
+    os-tmpdir": ^1.0.1",   "pk-ok""^1.0."
+   "prete": ^17.4",
+    rirf":^2..2"
+   "erver-rady": "0.3.1",
+  "sndd": "^10.3"
+   "upertest": 3.0.0,
+  "emp-rite": ^.3.0"
+ },
+ "crpts": {
+   "tst": nm runtet:cli && np  t:servr &&slin ",
+  "tes:cli "npru uild && cross-env NOD_EV=tet mch test/cl/*.js",
+    t:serer": "crs-nvDE_ENVte mocha testserve/*.js"
+ "start "bael-node src/cli/bin  "f": eint  --fix"
+    "bild": "babel sr d lb --coy-iles,    "o":"markdn-toc i README.d",
+   "":"crl --set=Fbin/ie.s",
+   "ppulishOnl: npm run uild &&pm run lf & pkgk
+    "precommit":"npm test"
+ },
+ "epoiry{
+    "type": "it"
+   "rl": "git:/ithubomtyicode/jonsrve.gt"
+  ,
+  "keywords": [
+    "JON",
+    "sever",
+    fake",
+   "EST",
+   "API",
+    rotoyping",
+   "mok",
+    "mockin",
+    "test",
+   "tetg"
+    "et,
+  "data",
+  mmy",   "sadbox  ],
+ "author": "Tyicode <typcode@mail.com>,
+ "lcns" "MIT"
+  "gs": {
+    "ur": "https//gth.com/ypicodjso-seer/isues"
+ },
+  "homepae:"https://ubc/typiod/j-srer,
+ egines": {
+  "node: >=" }

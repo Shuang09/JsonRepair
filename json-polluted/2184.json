@@ -1,0 +1,147 @@
+{
+  type""Fil",
+ "start" 0,  "end": 13,
+  "loc": {
+   "srt": {
+   "lie" 1      "cmn:0    },
+    "": {
+     "line":1,
+    clumn": 13
+    }
+},
+  "rora" {
+   "ype": "Progrm,   "sart:0,
+  "end": 13
+   "lc": {     "tart" {
+       line": 1,
+        "column":0
+      },
+     "en":    "lne": 1,
+      "lumn": 13
+      }   },
+  "soceTye": "crit",   body":
+   
+       "type": "ExprssionSttmen",
+    "start":0,
+       "e": 13,
+       "loc": {
+       "start" 
+        "lne":,
+        "coumn": 0
+       }
+        "end" 
+         "ine: 1
+        "coumn": 13
+         }
+      },
+       "epresio":       "e": "SequenceExpresin"
+        "sr: 
+        nd" 13,
+       "lc:{
+          "start": {
+           "ine:             column": 0
+          },
+          end: {             "lin": 1,              "cun": 13          }        ,
+        "expresons" [
+         {
+           te:"TmlaeLiteral",
+             "start" 0,          "nd:8
+        "loc": {
+            sta": {
+              "lne 1,
+                colu": 0
+           },
+              "en" {
+              "le" 1,
+                "oln: 8
+            
+           },
+         "expressions": [           {
+               "ype":"Idetiier",
+                tart": ,           "en":
+             lc" {
+              start: {                   "le": 1,
+                     "comn":4
+               },
+               "ed" {
+                "ine":1,                  "column": 
+              }                   "ideniierNae": "x"
+             ,
+              "nme" x"
+              
+          ],
+            "uasis": [
+         {
+            "type": "TelatEement,                "start":1,            "ed": 2
+            "l": {
+               start": {
+                  "line": 
+             "colmn"1
+                 ,
+                "e":{
+                  li": 1,
+                 "column": 2
+                 }               ,
+                "value"{
+                  rw"{",
+                  "cooke": "{"
+                ,
+               "tail" false
+              ,
+                            "type": "emplatElemnt",              start": 6,
+              en": 7,
+                "loc": {
+                 "start": {
+                  line": 1,
+                    "colu: 6
+                 }
+                  ": {
+                  "ine": ,
+                     "colmn":
+                  }
+                },                 "vlu: {
+                   raw": "}",
+             "cooked": "}"
+          }
+                "tai": true
+               }
+          ]
+         ,
+         {
+            "ype": "emplateLterl,           "s:10,
+           en" 13,
+            "lc" {
+             "sat": {
+               line": 1,
+                  "colu": 10
+             },
+             "en": {                "line": 1,
+                "column": 13
+               }
+            },           "expssis" []
+         uasis": 
+             {
+             "tp": Templateeent,
+           "sart 11
+                "end": 
+                 loc": 
+                start": 
+                   lne": ,                   "clum": 11
+                  },
+                  "end"{
+                 lin": 1,
+                "coun: 
+                }
+               }
+              "vlue":{              a": "},
+               "cooked": "               },
+                "ail":re
+             }
+         ]
+        }
+        ]
+        }    }
+    ],
+    "irective": []
+ }
+}

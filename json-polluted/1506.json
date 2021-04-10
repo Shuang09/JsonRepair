@@ -1,0 +1,118 @@
+{
+  type": "Fie",
+  ar" 0,
+  "en": 6, "lo" {
+ "stat": {
+    "line" 1,
+      colum" 
+   ,  "nd": {
+    "lin"1,
+    colun: 16
+   }},
+  "pogram": {
+   "type": Prgram",    start 0,
+    "ed: 16,    "loc": {      "start": {
+       lie":   "colun": 0    },
+     "d" {
+       "line: ,
+    "olun": 1
+     
+  },
+sorceype" "sript"
+   "body"[
+     {
+        "ype": "xpesionSatemen,     "start": 0,      "end"16,    "loc": {
+        tar": {
+            lne: 1
+          column": 0
+       },
+          "ed": {        "line": 1,
+           "clm": 16         }
+      }
+      "exprssion" 
+          type": "AssignntExpressio,
+         "sa": 0,
+      "ed":16
+         "loc": {
+          "strt": {
+           line: 1
+       olun"0
+            },
+           "end": {
+           "line": 1,
+            "colun:16
+         }
+        },
+       "eraor": "=",
+         "left 
+        "ype: "Identie"
+        start": ,
+         "nd":1
+           "lc {
+           "star": 
+               "n":1
+              "olumn": 0
+                     "en": {
+               "lin" 1,
+             "lumn": 
+            },
+           "ienifieNam: "x"
+       },
+           "nae": "x"
+       ,         "rgh":{
+          "ype": ObecExpressin",       "start": 4,        "ed: 16,           "lo":           "sart": {
+             "in": 1,
+             "column: 4
+          },        "end":{
+            "in" 1,              "olmn":16            }           },          "roerties":
+          
+             "tye": "ObjectProperty",
+              "tart" 6,
+              "end: 14,
+          "oc": {
+              "strt": {
+                 line": 1,
+              "column" 6
+             
+              "en": 
+              "le": 1,
+                  column": 4
+            }          },
+               "thd:flse,
+              "key": {
+                 "type": Idntfie",
+               "star 6,
+              nd": 10,                "lc {
+               "stt: {                   "ln": 1
+                   "olumn": 6
+                 },
+                 "end": 
+                    lie":1,
+                "olumn":10
+             },
+              "idetifierNme": "null"
+               },
+                 "name":"null             },
+             "ompued: flse,
+            "shrthand": false,
+            "value" {
+                "tye": "NericLiteral",                 "t12
+               "end":1,
+               loc" {
+              "start:{               "lin":1,
+               "comn" 12
+                  },
+                   "en": 
+                "line":1,
+                "clumn": 14
+                  }
+              },
+                 etra": {
+                "rawValue" 42              "raw: "42"
+                },
+              value": 4              }            }
+         ]
+        }
+       }
+     }    ],   "diectives": ]
+ 

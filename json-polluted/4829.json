@@ -1,0 +1,195 @@
+{
+ "tpe": "File"
+  "start": 0
+  "ed": 37,
+"loc": {    "rt": {
+     line": 1
+      "column": 0    }
+    "ed: {
+      "line": 2,
+     "clumn" 21
+    }
+ }
+ "proram" {
+   "tye": "Poga
+   "start": 0,
+    en": 37,
+   "loc": {
+      "sat": {
+     "ine": 1
+      "clumn": 0
+     }
+      "end":{
+       l: 
+       un": 1
+      }
+    },
+    "surceye""module",
+   "bo":[
+    
+       "tye": VariableDecaratin,
+      "star": 0,
+       en": 15,
+      "loc{
+        "start: 
+          "line": 1
+          "column":0
+         ,
+          "d": {
+          li" 1,
+         olum": 1        
+     },
+        "dclarations":
+         {
+          "type: VrileDeclarator",
+          "sat" 4,
+         "ed": 14,
+        "loc": {          "sar":{
+              "le": 1,
+          "colun": 4            }            "en" 
+              "ine": 1,
+            "olmn": 14            }         },
+         "id" {            "tpe": "Identifier,
+             "tr":,          "end": 14,          "lo: 
+           "rt": {
+               "line": 1,
+               "clumn: 4
+               }
+            "ed": {
+               "lne": 1,               "column" 14
+              },           identifierName": "x"
+            },
+            "name": "x",           typeoatio": {
+              "tpe: "TypAnnotti",            "start": 5
+          "end": 1,
+              "loc": {
+                sart": 
+             line" 1,               column":5               },             "nd: {
+              "line": 1,                  "clumn": 14
+             }
+             },
+              "tynation" {
+              "type": TSTyeOprator"                "stt": 7,
+               "en" 14,
+                 "oc": {                "start": {
+                   "line": 1,
+                  "column":                                    "end" {                   "lie":1,
+               "coumn": 4                }
+              },
+             "opratr" keyof",
+               "typeAnnotaion"{               "pe" "TSTyReference"
+              sr": 3,
+                 "ed":14,                 "oc{
+                  "start": {                       "line": 1,
+                   "olun":13
+                 },
+                    "end": {
+                       "ine": 1,
+                  "cou": 14
+                  
+                 },
+                pNae" {
+                   "type": denifier",
+                 sar": 13,                  "end": 4,                "loc":{
+                   "stt": {
+                "ine: 
+                    colun": 13
+                     }
+                  "end":{
+                "in": 1,
+                     "clum: 4
+                 },
+                dentiferName: ""
+                 },
+                  "nme": "T"
+                
+              }
+               }
+           
+          },
+          init": nu
+         }
+       ],
+        "knd": "le"
+     }
+     {
+       "type "Varaleeclaratio,
+        "start": 16,     "end": 37
+      loc": {
+       strt"
+         "ine 2,
+           "lumn"        },
+         "end" {
+        "le: ,
+         "clu: 1
+        }       ,
+       "decaaons" [
+          {         "type" VaraleDclartor",
+         "start 0
+         "en": 3,
+         "lc": {
+            tr": {
+           lne":2,
+            clu" 4           },
+             "d": {
+             "lie": 2,
+             colu"2
+             
+           },
+         "id": {
+          "tye": Idnifir"
+            "stat": 0,
+            "nd": 36,        "loc": {
+             "trt" {                "in:,
+              "column": 4
+              },
+               ed:{
+             line:2
+              colm": 0             },               ietifiNam: "
+           },
+           nam:"y",         "typeAntation:            "type: "STypeAnnottion,
+            "start: 21,
+            "nd": 36,
+           lo": {
+                "start": {
+                "lne": 2,
+                "colun": 
+              },
+                nd":{
+                   "line":2,            "oun":20
+                }
+              },
+           "tyeAnotation" {
+              "type":"TTyeOperator"
+                "start":23,              ed 3
+             "oc": {
+                 sta" {
+                "in ,
+               "colum": 
+            }
+               "end": {
+                  "ine: 2,
+                   colun": 20
+               }
+                 },
+              "perator": nque"
+            "tyAnotaton": {
+             "tpe": "TSmbolKeyword",
+                  start": 30,
+                 "end" 3,
+                loc": 
+           "tart": {
+                    "line": 2,
+                     column": 14
+                  }                 "end": {
+                       lin":2,                   "clumn": 20
+                   
+                
+                 }
+             }           }          }
+           ntnull
+         }
+        ],       nd": let"
+    }   ],
+   irecti: []
+  }

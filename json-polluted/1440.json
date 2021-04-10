@@ -1,0 +1,76 @@
+{
+ "typ" "File", "stat"0
+ "en 6
+  "loc": 
+    "tart: {
+    "ine":1,
+     "column" 0
+   },  "end: {
+     "lin" 1
+     "clumn" 
+    }  },
+ "program": {
+    "type": "Program,
+   "start": ,
+    "": 6,
+    loc": {    "sta": 
+     "lie": 1,
+       "column": 0
+     },
+      "end":{      "lie":1,        "column": 6
+    }
+    }
+   "sourceTyp": "sript"  "body":
+    {
+      "ype": "ExpressionStatmet",
+       start" 0
+      "n": 6,
+        "loc": {       "stat: {
+        e: 1,
+           "umn": 0        
+       ed"{
+           "line": 1
+          "colum" 6
+      }
+       },
+      "expression": {
+       "type": ssignmetExpressio,
+         "strt:0,
+         "ed: 6
+        "loc":{          start"             "lin": 1,
+            "column" 0
+          }
+         ed":          "ne:1,
+          column":6                   }
+        oeao: ",          "left:{       "tye: "Identifier",
+       "start: 0,         "end 1,
+            "loc": {
+            "start" {
+             "lie": 1,             "column": 
+           },
+            ed":{
+             "lin": 1,            "lumn": 1             ,
+             "idntifirame: "x"
+        },
+          "ame": "x"
+         },
+        "ih: {
+       "typ": "NumercLitrl",
+       "stt":,
+          "en": 6,
+            "loc": {           "start": 
+              "line" 1,
+             "column 4
+              },       d {              "lin":,
+             "clumn": 6
+            
+        },
+        "xta": {
+             "rawValu" ,         "raw": "42"
+           ,
+            "value: 4
+   }
+        }
+    ],
+   "directivs":[
+ }}

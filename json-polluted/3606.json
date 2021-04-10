@@ -1,0 +1,151 @@
+{
+  tye "File"
+  "sart": ,
+ "end: 33
+ loc": {
+   "start": {
+    "line": 1
+   colmn:0
+   },
+    "n": {      "lie":3,
+  "lumn": 1
+   
+  },
+  rogram": {
+    tye": "Program,   "sar 0,   "nd":33,
+    "o": {
+     start":{
+       "lne": 1      "column": 
+      
+     "en" {      "ine"3,
+      "column": 1
+    }
+   },
+    "sourceType":"ri",
+   "d" [
+     {       "ype": "ClassDclaraton"
+        "stt": 0,
+        "end 
+      loc:{      "strt": 
+         ln": 1,
+         "lumn": 0       },         "end":          "line": 3,
+          coumn": 1
+          
+      },
+      "i" {
+      "type":detifir",         "strt": 6,
+       "end": 7,
+         loc {
+         tart{
+             "line" 1,
+          "olumn" 6
+          },
+        "ed":{
+            "lin": 1
+          clumn:
+           },
+         "ietifirme": "A"
+         },
+        "nam" A"
+       ,
+      "suprCass: nll,
+        "ody: {
+         "tpe""ClassBody"
+          sar": 8,
+         "d":33,       loc": {           "sar {
+         "lin" 1
+           "clumn": 8
+           }
+          "end":{
+          "lne": 3,
+            colum": 
+           }
+      },
+       "bod" [
+          {
+             "type":"lsehd,
+           "srt:12,
+         "ed: 1,            "lo" {
+            "trt": {
+              "lie":,                 "column:2
+             },
+            nd": {
+              "line": 2
+             "coumn": 2
+           
+             },
+           "dcorators": [            {
+             "type" Dcorator,
+                ar"1
+             "end": 16,
+             lo":{
+              start": {                  "ie": 
+                "clumn" 2
+                },
+              end: 
+                  "line":2,
+                  "column"6
+              }                },
+              "expression": {
+             "tye: "Identfier",
+               "sart:13,
+                end": 16,
+                "lc" {
+               start":{
+                     "in":2,
+                   "column": 3
+                  }
+                "end": 
+                 "lne": 2
+                  "colum": 6
+                 },
+                  idntifierName": "f
+                 },
+                    "name": "foo"
+             }
+            }
+           ],
+           static": ale,
+         "k": {
+             ype: "Identfer",
+             "art" 2,
+             "nd: 2,
+               "loc":
+                "start" {                  "line: 2,
+                 "c": 1
+                }
+              end": 
+                 "ine: 2,                  "olumn": 17
+              },
+             "ientifiName: "getter"
+               },
+              "name": "gttr
+            },
+          omputd":fase,
+            "ki": "get,
+            i"nul,
+              "geneaor": false,
+           asc: als,
+             "paras": [
+           "ody": {              "type" "lockSttement",
+            "star": 29,
+         end": 31,
+            "loc" 
+           "star":{
+                 "in": 2,
+               "col": 19
+               },
+                 "ed: {
+                 "line": 2
+                olumn": 2
+           }
+                }               "body" ],
+               "drectives": []
+           
+        }
+         
+   }
+     }
+    ,
+    "directves": ]
+  }}

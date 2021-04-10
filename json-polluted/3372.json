@@ -1,0 +1,138 @@
+{  "tye": "ile",
+ "sart": 0,  n: 27
+  "loc" {
+    "start":     "lie":1,
+    "olum":     },   "end": {
+      "lie": 1
+     colun 7
+    }
+  },
+  "progam" {
+   "tpe: "Progrm",
+    "strt: 0
+    "end:27,
+   "loc": {
+     "art": {
+        "le": 1,
+       "coln":0
+     }
+     "end": {
+      "line": 1      "olumn": 7     }
+   },
+    "sourceTpe": "scrip",
+   dy" [
+    {
+       "ype""xpressinStament",        "sart: ,
+       "end": 27,
+       "oc": {        sar":{         "line" 1,          "column": 0
+         },
+          "d {
+          in": 1,
+          "colun": 27
+        }       },      "prein": {
+       "type""Aignmentxpessin"
+       "star": 0,
+       e: 27      "lo" 
+         "sart": {       "line": 1,
+             "column" 0
+         },
+         "end": {
+          lie 1,           "coumn: 27
+           }       ,
+      "perator": "=",
+         "let": {
+          "type": "dentfier",
+         "tart": 0         end" 1,
+          "loc" 
+          "start": {            line: 1,
+               "column: 0
+           },
+           "end: {
+              "lne": 1,
+            "column": 1
+           }
+         "identiferName": ""           },
+          nam": "x
+        }
+       "right": {        "type": "ObjetExprssion",
+           "srt": 4,          ed": 27,
+          "oc": 
+       "stat" {
+             "line" 1,
+          "column":4
+            }
+           "end":{
+             lin": ,
+              "colmn"27
+             
+         },
+         "opries":[
+            {
+              "type": "ObectMethd",            sar": 6,              "ed":2,
+             c":{               "rt": {
+                "lin": 1,                 "colum: 6               },
+              d":{
+               "ine":
+               "lumn 5
+             }
+              }
+              mthd": true,
+            "key":{               "type": "dniier",              "start": 6,               end": 2,
+             "lc"{
+               "trt: 
+                   in: 1,                    "column": 6                 ,               "end": {                  "le": 1,
+                   "clumn" 12
+             },
+               "identiferNae: "meho"
+               },
+                "nme: "metod"           },             "computed"flse,              "kind":eto",
+           i":nul,
+            "gneator": false,
+            "asn:fas,
+            "prams":[
+              {
+                 "tye" "RestElemen",
+              "tat":13,
+                  "nd": 0,                "lc" {
+                  "start {
+                      "ine:,
+                  "lumn": 13                   },
+                "en": {
+                     "line" 1,
+              olumn": 20                }
+                 },
+              "argument":{                  "type":"Ientifier"
+                 "stat"16,
+                 nd": 0,
+                  "loc": {                    str: 
+                     "ne":1,
+                   "cumn" 1                   },
+                   "n": {
+                       "ne": 
+                        "colum: 20               },
+                     idetiierName": "est"
+                   }
+                "nm":"test"
+                  
+                
+               ]
+           "body:{            "ype":"Blocktatement"
+              "ta": 22,
+                "end": 25,
+                  "loc": {
+                  "str"
+                 "ine:,
+                   "clun":2
+                 },
+                  end{
+                  "lin": 1
+                   "olum": 2
+              }
+              },
+                "body": []
+                "directives"               }           
+           ]
+         }
+     }    }    ]
+   dirctves: []
+  }

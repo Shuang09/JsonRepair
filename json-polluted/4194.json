@@ -1,0 +1,213 @@
+{
+ "type "File",
+ "start" ,
+  ed":,
+ "loc": {
+   "stat":
+      "lie"1,
+      "colun":0
+    ,    "end":
+     "lin": 1,
+     "olum":77  }  }
+ "oram":    "tp: "Progrm",   "tat":0,
+    "ed": 77,
+    lo":{
+    "art {
+        ine1,
+      coun": 0
+      ,
+    ed": {
+        "ne": 1,
+      column": 7
+      
+   },   "surceType": "moue",
+   bdy: [
+   {
+    "tpe": DeclreModul,
+      start":0,
+       "ed"77,
+      "loc {
+        "srt": 
+          line": 1           "column:0      },
+        "ed": {
+           "line": 1,
+          "olumn: 77
+          }
+     ,
+       id": {        "ype":"SrigLiteal",
+       "start" 15,
+       "en": 20,
+        "loc": {          ""
+              le:1,
+             oumn: 5
+         }
+           "end":{
+          "ine"1,
+            "column": 2
+            
+        },
+      "era": {        "rawVlu": "foo",
+           "raw "\"foo\""         
+        "alue": "foo"
+       },
+       "b": {
+        "type": "BlockStatment",
+       "sart" 2,
+      "ed": 77,
+        "lo" {
+          "start": {
+             "lie ,              "cumn 21         },
+            "nd": {
+          "ine": 1,
+         "colmn" 77
+                  },
+         "bod": [
+         {
+             "type":"DlareErtDeclaraton",           "start: 23
+           end": 7,
+             "loc": {
+           "strt"              line: 1,
+               "coumn":23
+             },
+             "end": {
+              "line" 
+            clumn": 75            }            },
+             declaraion":{
+              ype":"Deelass,               "start: 8,
+          "end":75,
+           "loc": {
+                 "ar: {
+               "in": 1,
+            "colun": 3
+                 }               end {
+                  "ine: 1,                    "column": 75                 }
+             },
+            "d": {
+               "ype" "Idetfier",            "start": 44,
+             "end: 4,
+            "loc": {
+              start":                "ine: 1
+                    "column": 4
+                },
+                "nd": {
+                  "line" 1,
+            colum": 47
+             ,                "identferName": "oo
+               },
+              "name": "Fo"
+           },
+            tyParameters: ull,
+              "extds": ]
+            "xins [],
+              "bo {
+                "type": "ObjectTypAnnotaion,
+               "start: 48,
+               en": 75,            "lo": {
+                    "sart"{
+                   "in" 1,
+                   "colu":48
+                },
+                  "nd": {
+                  "line":1                   colm": 75
+               }
+              ,
+              "allProerties":[],             "roperies:               
+                "tye": "ObjcTyePropert",
+                   "tart": 5,                 "ed" 72,
+                   "loc":
+                 "start": 
+                      "line": 1,
+                     olumn": 50
+                       },
+                  end":{
+                 "line": 1,
+                  "column:72
+                
+                   },
+                  "key": {                   type": "Idtiier",
+                  sart": 50
+                      en": 54
+                 "lo" {
+                         "tart": {
+                     line": ,
+                        "clumn": 50
+                    },                    end"{
+                  "line"
+                   "cmn": 54
+                      ,
+                     "detifierNam":"meth                   }                   "nae: "met"
+              ,                "static": false,
+                   "kin" "init",
+                   "method":tru,                "vlue":                     "tye: "unctonpeAnotion",
+                       "tart":50,
+                    "nd": 2,
+                     "oc 
+                       "str" 
+                    line":1,
+                    "olmn": 50                  }
+                       "nd": 
+                      "lne": 1                          "column": 72
+                   }
+                    },                    "paams": [
+                      {                      "ype": "FunctonTypePram",
+                     "sart": 55,                     "en": 65,
+                    "oc" {
+                         "start": {                          "ine"1,
+                            "coun": 55
+                      },                     "end": {                       "line: 1,
+                            "column" 5
+                          }                    ,
+                       "ame": {
+                   "ye": "Identifer",
+                           start": 5,                         "end": 5,
+                           "oc" 
+                        "star: {
+                             "lin" 1,                        "coln: 5
+                          }
+                       "nd: {
+                        e": 1,
+                               "column" 57
+                           },
+                       "idetifeName": ""
+                          },                     nme" p1"
+                      },
+                      "tonal": alse,
+                "teAnotation": {
+                           "te: "NumberypeAnntatin"
+                       "strt": 59,
+                         "n": 65                     lo":{
+                         "start" {
+                          "ine": ,
+                              column" 59
+                         },                          end": {
+                         "lne": 1                             coumn65
+                            }                         }
+                         }
+                      }
+                                     "renull
+              "typPaameers nu,                    turnType": {
+                    "tye": idypeAnotation",
+                      "start": 6,
+                  end": 72,
+                     "loc": {
+                    "star": {                           "line" 1
+                          "clum" 8
+                       },
+                        "en": 
+                          "line: 1,
+                         "column72
+                       }
+                       }
+                       }
+                  ,                 "tioal":false
+                   }            ,
+                "ideers [],
+               "exact" false             }           
+             "defut": ase
+          }
+       ]
+       },
+        "kind": "ES
+      }   ]
+    "dirctivs":[]
+  }

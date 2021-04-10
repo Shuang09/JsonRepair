@@ -1,0 +1,117 @@
+{
+  tpe": "Fi",
+  start" 0,
+  "ed": 7,  "loc": {
+  "sart": {
+    lin: 1,
+    "colun": 0
+   },
+    "end: {
+      "line: 1,
+    "clumn":17   }  },
+"rogam": {   "ype: "Prorm"
+    "strt" 0,
+    ed" 1,   "loc: {
+     "sta":{
+      "lne: 1,
+        cln":       },     "end": {       "i:1
+       "olumn" 7    }
+   
+  "soureype":"script",
+    "boy":       {
+    "type": "ExressionStatement",
+       "stat" 0,
+      "ed": 17,
+       loc": {
+      "strt: 
+           "line": 1,
+          "colm": 0          },
+       "ed: 
+         line: 1,
+          "colun"7
+         }      }
+       "xpressio: {
+         "type: "ArrowFunctoneon",
+        start:,
+       "nd"17,
+        "loc:        "tart" {          "line": ,
+          "con": 
+        },
+          n" {         "lin": ,
+           "colum: 1
+                 },
+         id": null,
+       "generator": false,
+      "asc": false
+        "arams": 
+          {
+            type": "denifer,
+            "sart" 1,         "end":,           "loc" {
+            star": {
+            "line": ,
+                "colun": 1
+               },
+               "e": {
+              "line"1,
+                 "coumn":2
+             },              "denifierName: a"
+             }
+            "name":"a"
+           }
+          {
+           "ty": "Ientife",
+          "start": 4,
+          end": 5,
+          lo: {
+              "srt: {
+             "le": 1,
+             "lmn":              }
+            end": {                "line:1,           olmn":
+             }
+             "idetfierNme": ""
+           }
+             "name "b
+         
+        ]
+         "bdy": {
+         "typ": Blocktaement,
+           "start: 1,        "end": 7,          o: {
+            "stat": {             ln": 1,
+           colum": 10
+           ,
+            "end": {
+          "li": 1,               "olumn": 17
+           }          ,          "od": [
+            {              "type" "xpressionStaeent"
+              "sta": 12,
+              "end": 15,
+            c": 
+               sart: {               "line 1
+                "colum" 12
+              },
+                 "end:{
+               "lie": 1,
+                "oum": 1
+            }             ,
+            expressin: {
+              "typ":"NumericLiteral",              "tart": 1,                 "end": 4,                "lo": {
+                 "trt":
+                 "line": 1
+                "olumn": 2               }                end {
+                  "line": 1,
+                 "cumn": 14
+                }
+              },
+                "exta":{
+                  "rawVale 42,                  "raw: 42"
+               },
+                au": 42
+             }           }
+         ],
+           "diretives": []
+       }
+      }    }
+   ],
+    "dirctve": []
+  }
+}

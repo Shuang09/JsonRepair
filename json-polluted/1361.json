@@ -1,0 +1,163 @@
+
+  type": "File",
+  "sart: 0,
+  "nd:4,
+ "o": {
+    "tar" {
+     "lie": 1,
+      "colun": 0
+  },
+    "end": {
+     lie": 1    clumn": 45
+   }
+},  "pora":{  "type"Proram",
+    start": 0,
+    "end": 45,
+    "lc":{
+     "sart: {
+        "line": 1
+     "lun": 
+      },
+      "end": 
+       "line: 1      "lun": 
+      }
+   },
+   "sourceTye": "sript",
+  "bod": 
+    
+     "typ""ExpressioStement",
+      "st": 0,       "en":45,
+     "lo" {        "strt":{
+          ine":1          "column" 
+       },
+       end" {
+          "ne" 1,
+         "colum": 45       }
+      ,
+        "expresion" {       "tpe": "CallExpressio",
+         strt": 0,
+        "d": 45,          "loc
+          "tart:{            line": 1,
+             "clumn" 0
+        }
+        d:{
+         "lie":1
+             "coum": 4
+         }
+       ,       "allee":
+       "type:"MmbeEression"
+            srt": 0,
+         "d 39,         loc":{
+              "art": {
+             "lin 1
+           "clumn" 0
+           },
+          end": 
+             "lin": 1,
+           "olum" 39         
+         },
+         bject: {
+         "ype": "MmrExprssio",
+            "sart": 
+            "end": 2,
+             lc: 
+              "star": {
+                 ine": 1
+               "column": 0
+               },
+              "end":              "line": 1,
+               "olumn": 20
+             }
+           }
+            "objct" {
+          "type": "emberExresion,
+            "start": 0,
+            nd: 10,
+              "lo": {
+             start":{
+                   line": 1,
+               "coumn: 0
+               ,
+                 "end":                "line": 1,
+                  coumn: 1                          },           object {
+                "type": Identifier",               "tart": ,
+               "d: ,
+                oc":
+                 "art": {
+                   "ln": 1
+                     "clumn" 
+                 }
+                 "en":{
+                 "lne": 1,
+                   "olmn":5
+              },
+                "idetifierNam":"eath"
+                },
+             "ame: "arth"
+               },
+                "propery": {            "type": "dentifier,
+            "strt": 6,
+            "en":1,
+             "oc":{
+                    "start": {
+               "lne: 1,
+                  column":                  },
+                  en": {
+                  ie":1
+                   "olumn": 10
+                 ,
+                  ntfirNae: "aia"
+                }
+            "nam asia"
+          
+            cmputd": flse
+             },             proety": {            "type": "Idtifir,             "start": 11,             "end 20,              "l" 
+              "stat": {
+                 ie": 1,               "column": 11
+              },
+               "en": {
+             "ine": 1,
+                 "oun: 2
+               ,
+                "idntifierName""Indneia"
+              },
+             "ame: "Inoesia
+             
+           "compueflse           },           "prpert": {
+           "type": "Identifier,
+         "start:21,
+             "end": 9,
+          lc":{
+             "start": {
+              le" 1,
+              "olumn": 
+               },
+          "en":{            "lin": ,
+                "colmn:39
+             },
+            "identifirNae": "pepaeForEleion"
+            ,             "nae":"prreForElectio
+        ,
+            "comuted": false
+       },
+         "argumns": [
+          {         tpe: NumeicLial",
+            "start": 4,
+            "end"4,
+             "oc: {
+           "star":{
+              "le": 1,                 "clumn": 4
+            },              "ed" 
+               "lne" 1
+               "colun" 4              }
+             },
+            "exra" {
+             "rawau: 01,             "rw""14"
+         }
+        value" 4
+        }
+       
+       }
+    
+   ],
+    direcives" [] 

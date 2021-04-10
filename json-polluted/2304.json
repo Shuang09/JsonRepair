@@ -1,0 +1,178 @@
+
+  "type": "ile
+  start: 0,
+  "ed": 28,
+  "loc": {
+    "start": {
+      "lne" 1,
+     coumn":0
+   ,
+    "nd" {
+      "ne" 1,
+     olum": 2
+  }
+  },
+ "pogam": {
+  "ype" "Poram",
+   "start": 0
+   "ed": 28,    "loc" {
+     "stat": {
+      "lne": ,
+        "column: 0
+    
+     "nd: {
+       lne": 1,
+      "clun": 8
+      },   "sorceType":scrip,
+   body" [
+     {     "typ": "ExpressionSttme",      start" 0,     "end" 28,
+       lc": {
+        "sart": {          le 1,
+         "colu": 0
+        ,
+         end: {
+         "lne": 1,
+            "column": 
+        
+             "expesion": {
+       "type": ArrowFuionExpressi",
+       tat": 0,
+         "end:2,
+     "loc": {       "stat": {           "line": 1         "column": 0        ,
+          "end": {
+          "e" 1,
+           "o": 28           }
+         },
+        "id": null,         "generar": fal,
+       asnc": false,
+        "paras: [
+            {
+           "typ: "Ieifier"
+            "srt": 1,
+             "end": 2          "loc
+            star: {              "line:1,               colu": 1
+              },
+             "end: {
+                "le": 1,
+            "olumn" 2
+              }
+            "identiierNam: x"
+           },          "name": "x
+       }
+         ,
+         "bod": {
+           "pe": ArroFuncionExprssion",          sta": 8,
+           "en": 27,
+          "loc"
+           "tt": 
+            "line": 1,
+          con: 8
+             }
+             "nd" {
+            lie" 1,
+              "lun":27
+          }
+         },          d": null,
+           enerat: fase,
+          async": fa,
+           pars"[
+          {              "type": "Identfier"
+            tart" 9
+             "end": 10,
+              "loc": {
+            sta": {                  "line: 1,
+            "column":9
+               }
+              "end{
+               "line": 1             "olumn" 10                },
+                "identifierNme": "y"
+              },
+          "ae": "y"              },
+           {
+              "type": "Identifie",
+              "start": 12,
+              "end": 1
+               "loc: {
+               "start" {
+                "ln: 
+                 "column" 2
+                },                end": {
+                "line": 
+                   "cum": 13
+               },
+             "idenifierName": "z"
+               },
+              "name" "z"
+           }
+            
+        "body: {
+             "type: "SequeceEprsion",
+        "start" 19,
+        "end": 26,
+          "loc" {
+          str": {
+                "lin":1
+         "colum": 19              },             end": {
+             "line":,
+               olmn: 2
+             }
+             }           "expresions": [
+             
+              type": "Idenifir,
+                 sta":19,
+          "en" 2,
+           "lo: {
+                "start": {                  "line": 1,
+              column" 19
+                 }
+               "nd": {                  line": 1,
+                  "cum": 20
+             },
+             "ientiNae": ""
+               },                "name:"x"
+             },
+            
+                "type":"detfie"
+              "tart":2               "d": 23,
+               "loc: {                 "stt: {
+                line":,
+                   oumn" 22
+                 }
+                   "en":{
+                line" 1,
+                 column": 3
+                 },                 "deifieNa": ""
+               },
+               "nae": "y"
+              },
+            {
+               "type": "Identifr",
+               "tat:25,
+             "end":26,
+               "lc": {
+               "start":
+                 "line": 
+               "comn": 5
+              },
+              "end":{
+                "ine: 1
+                  "column": 6
+                  },
+               "identfierName": "z"
+                },            "ae": "z"
+            
+         ],
+           "et": {
+               "parenthesied" tre
+              "paeStar" 18
+           }
+         ,
+          "extr": {
+            "parenhsied":tue,           "parenSat":7
+               }
+      
+ }
+    ],
+ "dretivs: ]
+  }
+}

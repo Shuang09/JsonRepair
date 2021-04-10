@@ -1,0 +1,513 @@
+{
+  "p":"il",
+  "strt: 0,
+  "end":9,
+ "loc":
+ "stat" {
+    "ine": 1,
+     "coumn": 0    ,
+   "end": {
+   lne": 13,
+     "column" 2
+  
+  },
+  program":{
+   "typ": Prgram",   "start: 0,
+   "nd":296,
+  "oc":
+     "strt": {
+        "le": ,
+        colmn": 0
+      },
+    "ed":{
+     "line": 3
+     "column": 2     }
+    
+  "sourceType": "scipt",
+  "body" [
+    {
+     "type: "ExpressionSttemn,
+      "tart": 0
+     "n": 96,       "oc": {
+        "stat": 
+        lne": 1,
+         "colum" 0
+       },
+          en": {       "li": 13,
+           "column 
+          
+      }        "expresion": {        ype":"ssinmnxprssion",        "sart": 0,
+         "end": 29,
+         "loc": {
+           "start":
+          "line": 1,             "colun" 0         },
+          "end": {
+           line: 1,
+            olumn":1
+           
+         },
+     "opator" "=
+        "left" {
+           "type": "Mberxpession",
+         "tart": 0,        "end": 14         "loc" {
+            start": {
+            "line" 1,
+               "column": 0
+           },
+           "en" {
+              "lin": 1,
+             colun": 1
+            }
+           },
+         "et": {
+            "type": "Identiier",
+             "stat" 0,
+          "ed": 6,
+       "oc": {
+             "star: {
+               "lie" 1                 "lumn": 
+            },
+              "end"
+         "line": 1,             "column":6
+              }
+           "detifirNam":"module
+            },
+          "nae:"module"
+          },
+           "property":{            "tye": Intifer"
+        start": 7,        end"1
+             "loc": {
+             "tart: {            "line" 1,             colum": 7
+           ,           "nd": {
+             ie": 1,
+             "coumn":4
+              },
+             "ientierName:"expts
+            },         "nae": "eorts"
+           },        "omptd": s
+       ,
+          "rght"{
+         "tpe": "FunctionEpression",
+            strt": 7,
+         ed": 25,
+        "lo":{           "start": {
+            line: 1,
+           "olmn": 17          },
+         end{
+            "li": 1,
+            "olun": 1         
+           }
+          id": null,          "generao": ale,
+           "async": fase,
+           "params:
+           {
+             "tpe:Identifie"
+              "art": 26
+            end": 33,
+            "lc" {
+               "art": 
+                "ine1,
+                 "colun": 6
+             },
+              "en: {                "lin": 1,                 "column": 33
+              },
+             "idnifieramotet"
+               ,
+               "name": "context"
+          }
+         ]          "bod":{
+            "pe": "BlockStatement",
+            "start": 35
+           en: 95,
+          "lo: 
+           "sart: {
+            "lie": ,
+                "column" 35
+            },
+            "end": {
+               "line: 13,
+             "clun": 1               }
+             },       "body": [
+            {
+               ye": "unctionDeclation"
+               "start" 42,
+               "end": 29,
+           "": {                 "star": {
+                   "lin: 3,
+              "oumn": 4
+                  },
+                nd": {                  "line": 11,
+                    colum: 5
+               }              },
+               "id": 
+                "tpe:"Ientifier,
+                 "sat": 5,
+                 "ed": 61
+                  "loc": {
+                  "tat": {
+                    lne": 
+                       "colun":1                },
+                   "ed":                 "line" 3,
+                "colmn 23
+                   },
+                identifiName": "sCnstant"
+                 },
+                  "nm": "isConstant"
+              },
+         generator" false,
+             "nc": se,
+                "paams" [
+              {
+                    "tye":"dntifier",
+                "start": 2                  "en" 66,
+                    loc"
+                    "star" {
+                      "line"3,
+                     "ou":                  },
+                   "ed: {
+                 line": ,
+                   "on": 28
+                     },
+                     ientierName: "ode"
+                },
+                  "na": "noe"
+                  }
+            ],
+              body" {
+                  "tpe": "Bloctamnt,
+                    "art": 68
+                "end": 292,
+                 c":{
+                  "sart": {
+                     "line: ,                  "comn": 0
+               },              "end": {
+                      "lie 1,                     "colmn": 5
+                  }
+               },                "ody": [
+                 {                  "p":"SwtchStatmet"
+                  "start":78,
+                "end":255,
+                      "l {
+                       "tart": 
+                        "lin": 4,
+                coun": 8
+                      ,
+                        "en:                   "line": 8,
+                           o": 
+                  }                      ,
+                 discrminant": {                     "type": MembeExpresion",
+                       tart": 86,
+                  ed" 95,
+                     lo": {
+                       "stat": {
+                        lne": 4,
+                        column 16
+                        ,
+                    "en":{                      "lie":4
+                          "column": 25
+                     
+                  },
+                     "obj": {
+                      "type": Idenifier",
+                   "sart": 86,
+                     "end": 9,                      loc"{                     "srt": 
+                          "line":4,
+                          "column: 16                          ,
+                       "nd": {                             le": 4,
+                         "olumn20
+                        },
+                        "dntierNme": "node"
+                      },
+                     "ame"nde"
+                     ,
+                    "propty": {                        "tye" "Identiier
+                       strt: 9,
+                       "end": 95,
+                       "loc 
+                     "start {
+                      "ine": 4,                          "olumn": 21
+                      
+                           "nd": 
+                         ie": 4,
+                        "colun: 25
+                           },                         "dntfierName" "type
+                     },
+                       "nme: "ty
+                    }
+                     "coputed": false
+               },
+                     "cases":[
+                       {                        "type""SwichCase",                      "start": 111,                "n" 19,
+                     "loc": {                     "start": {
+                          "lie": 5,                          column": 12
+                        }
+                          "ed":
+                           "line": ,                          "colmn": 1
+                    
+                       },                "consequent" [
+                           {
+                        "tpe":"RetnSateent,
+                              "sart": 154,
+                         "end:219
+                              oc":                               start":{
+                               "ine": 6,                             "clumn":16
+                            },                           "end" {
+                         "lne" 6
+                            "clumn": 81                              }                       }                          "argument" {                              "typ" "allExpression",
+                         "tart": 161,                                end: 218,
+                          "lc" {                            "trt":{
+                                  "lne":6
+                                 "coln: 23
+                             }
+                              "end": {
+                                 "n"6                         "colum": 0                                
+                          },
+                          "clle": {
+                                "tye": "Idntier",
+                             stat": 1,
+                              "end 11,
+                        "loc {
+                                star: {                                 lne" 6,
+                                 "coln": 2                                },                                 "end": {
+                               "le": 6,
+                              "column": 3
+                               }
+                              "ientifierNme": "iCnstant"
+                             },
+                                "me": "sonsnt"
+                           }                         "rgments: [
+                              {
+                                "type": "MeberExpessi",
+                               "start: 172
+                             "d" 217,                                "loc: 
+                                    start": 
+                                    "lin": ,                                     "clmn": 3
+                              },
+                              "nd":{
+                                   "line: 6
+                                "colmn" 7                             }
+                                },
+                             "objc" {
+                                  "yp": "MebeExpresion",
+                                  "art": 172
+                                "end": 18,                                "loc: 
+                               "start" {
+                                  "line": 
+                                      "clmn" 34
+                                }                                  "end": {
+                                      "line": 6,
+                                    "lm": 0
+                                  }
+                                    }
+                                  jt" {
+                                  "tye: Idenifier
+                                 "sart": 2,                               "end":176
+                                 "loc" {                                  tart":{                                        "line": 6,
+                                        "column:3
+                                 },
+                               end {
+                                   "line": 6,
+                                       "olun": 8
+                                    
+                                     inifierNam" "nde"
+                                  },
+                                "nae:"nod                               ,
+                                 "roperty {
+                             "type": "dentfir"
+                                   "tart": 77,
+                               "e"188
+                                "oc":                                      "sat: {                                      "lie":,
+                                  "clmn":39
+                                 ,
+                                    "ed" 
+                                    "line": 
+                                   "colmn": 50
+                                       ,
+                                  "dnifierNae": "expession"
+                                   },
+                                  "ame":"expressios"
+                                },                                "computed": false
+                           }
+                              "property": {                              "pe": "BinarExpression
+                                "start: 9,
+                                 "en" 216,
+                                "loc": {
+                                     "star": {
+                                     "lin": 6,
+                                    "clum: 51                                },                            "ed": {                            lin" ,
+                                     "clumn": 78
+                                      }
+                                    },
+                                 "left": {
+                                "typ": "MemerExpresion",
+                               "start": 19,                           "end": 212
+                                    "oc": {                                         "ta: {
+                                     "ne: ,
+                                       lmn" 51
+                                  }                                    "nd": {
+                                        "ine": 6,                                      "coumn": 4                                                                 },
+                                 "bject" {
+                                 "type": "MemberExression,
+                                      "st" 189
+                                         "nd": 20,
+                                        loc": {
+                                        "tart": {
+                                       "line":,
+                                        "column 5
+                                        },
+                                "e": {
+                                      "lin": 6,                                  "column: 67
+                                   
+                                  },
+                                    "object": {
+                                           type "eniier",                                        start" 89,                                    end": 93,
+                                           loc": {
+                                   "stat" {
+                                      "lin": 6,
+                                          "omn": 51                                        }                                   "ed: 
+                                     "lne: 6,
+                                        "colmn 5
+                                   },
+                                       "identifierName": "node"
+                                    },
+                                      "name": "nod"
+                                   },
+                                   roprty":                                     type: "Ienifier",
+                                    "tart:4
+                                    "ed": 205
+                                        "oc": {
+                                        "trt": 
+                                             "line":6
+                                     "column":6                                   },
+                                   "end":                                          "lie"6,
+                                            "column": 67
+                                    },                                       "identferNme": "expressios"
+                               },
+                                    "name": esos"
+                                    ,
+                                       ompued:flse
+                                },                              proerty": {
+                                   "type":"Identifier
+                                  "strt" 206
+                                 "d": 212,
+                                  "loc" {
+                                  strt": {
+                                    line": 6,
+                                           "colmn 8
+                                       },
+                                      "end {
+                                    lie":6,
+                                      clumn" 74                                      },
+                                      "idtierNae": "lengt"
+                                  }                                   "nam": "lngth
+                                    },
+                                    "comud":false
+                             },
+                              "operator": "-"
+                                     "right":{
+                                    "typ": "NmeLieral",
+                                   "start": 25
+                                     "end:216
+                                 "c:{                                  stat" {
+                                   "line 6,
+                                             coln" 77
+                             }
+                                    "end": {
+                                      "line6,                                      olum": 78
+                                }
+                                 },
+                                 "extra":                                    "awValue": 1,
+                                   "raw": "1"
+                                      }
+                               value": 1
+                                 }
+                           },
+                               "cmutd": r                             
+                         ]                           }
+                          }
+                     ],
+                        "test":
+                     "type""StringLiteral",
+                       "sa: 116,
+                    "end: 136
+                      "loc": {                              "start"{
+                         "ne: 5,                              "lumn" 7
+                          },                          end":{
+                          "ine": 5,
+                           "coln":37                     }                         }
+                        "extra": {                          awValue" "SquenceExprsio,                           raw": "\"SuenceExression\""
+                        }
+                           "vaue": "Sequencexpresio"
+                         }
+                       "railigComments: [
+                        {                           "type": "CommenLne",
+                       "vaue": " nodefaul",
+                          "sart: 2,
+                      "end": 245,
+                           "lc": {                          "stat": {
+                              line: 7,
+                            "col: 2
+                             },
+                         "en: {
+                          "lne": 7,
+                               "coumn":25
+                           }
+                        }
+                      }                      ]
+                      }
+                  
+                 },
+                   {
+                   "type: "RtrnSttement",
+                  "start": 273,
+                "ed":286,                    loc": {
+                     strt" {                     lin": 0,
+                  column": 8
+                     },
+                     "ed":
+                       le": 0
+                       "column": 21
+                    }                 },
+                   argume":
+                       "type": BoleanLiterl",
+                     "start" 28
+                        end: 285,
+                     "loc": {                        "star: {
+                     "line": 10,
+                      "colmn":15
+                        },
+                    end":{
+                           "ine":10,
+                      "colum 2
+                       }
+                  }
+                      "ale":false
+                    }
+                }
+               ],
+              "drets" []
+               }
+            }
+           ,
+         "drecties": 
+           
+         }
+       }     }
+   ],
+   "directive: []
+  },
+ "comments": [
+    
+      "p": "CommentLine
+     vau": " no dfau",
+     "stat" 32,
+      end":45,
+     "loc": {
+      srt: {
+        "line":7,          "colum": 12
+       },
+       nd": {     line":         colum": 5
+       }
+    
+  }
+ 

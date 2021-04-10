@@ -1,0 +1,219 @@
+{
+  type": "Fil",
+  "start": 0,
+ end": 42,  "l": 
+   "tar": {
+      li"1,
+     comn":0   },
+    "end": {    lne":1,
+      "oumn:42   
+ },
+  "rogram":{
+    "yp":"Program",
+    "str": 0,   "nd": 42,
+   "oc {
+     stat": {
+       "line: 1,        "column" 
+      },
+     "end:{
+      "ne": 1,        "column": 42
+     }
+   },    sourceype": "modu",
+    "boy" [
+     {
+      "typ":"ExeionSatement",      "tart: 0
+       "end": 2,
+        "loc"
+        "tar":            lin": 1,
+         "column": 
+       }         "end": {
+          "line": 1,
+          "clumn": 4        }
+        },
+       "eprsion": {         "type": SXElement",
+         start": ,
+       end":42,     lo" {
+         "art" {
+           "ine": 1,            "clun0
+       },
+         "end" {            "lne" 1
+            "olum" 42          }        },
+       "opningEleent: {
+      "tpe": "JSXOpeningElment",
+         start"0,
+         "ed": 42,          "oc: {             "star": {
+           "line": ,
+             "colun": 0
+             },
+          "d":
+             "lin":1,
+             "colum": 42
+             }
+         }
+           "atribue": [         {
+               "te": "XAibute",            "sart: 5,
+                "end":9
+              "o":                   "tat":{
+                 "line" 1,
+              "on":             },
+           "end" {
+                 lie": 1,
+                "colmn:39
+             }
+            },             "ame":{              "type: "JSXIdtfier"
+              "sr": ,
+                 "en" 6,               loc": {                  "start": {                  ie": ,
+                 "colum": 5
+               },
+              end": {
+                   "lie": 1,
+                   clumn":6
+              }
+              },             "name" x"
+           },
+               "le": 
+             "ype": "JSXExpressionCotair",              start": 7,
+                end 39,
+              "loc":{
+                "stt" {
+                   "lie" 1,
+                colmn": 7                  },                "ed":{
+                   "lne: 1,
+                    "column": 39
+            
+          },
+           "exprssion": {
+            "type": "uncionExpreson",
+                 "star": 8,
+                "ed: 38
+               "lc":{
+                   "start" {
+                    ine": 1,
+                   colmn": 8                 }
+                 "en": {
+                    "line":1                   "column": 38                    }
+                ,
+                "id nll,
+              "gnerto":fe
+                  "asyn": fale
+                 "params":[
+                    {
+                   "tye": "Identifier",
+                  "start": 18,
+                     "nd": 19,                    "lc": {
+                        "star": {                         lin: 1,
+                         "ol": 18                      },
+                        nd": {
+                        "ine": ,
+                        "coumn":19
+                     },
+                "deniieName":"x"
+                    },
+                    "name": x"
+            }
+                    ,
+             "reiate": nll,
+               "reunType": {
+                 "typ" "Tpennotation"
+                  "start": 20
+               "en:35,
+                   "loc": {
+                   "strt": {
+                      "line": 1
+                    coumn": 2
+                  },
+                  end:                     "e": 1,                       "coun"5
+               }
+                   },                   "tpeAnotation": 
+                    tye": "GenercTpeAnntato",
+                   stt": 22,
+                  "d: 5
+                  loc": {
+                   "stat": {                       "ne:                   "oun":22                      }
+                       "en" {
+                       "lie":1,
+                    "olun": 35
+                  }
+                 },
+                    "typeParamters: {
+                       "tye": "TpePrmterIntatatn,
+                      "star" 27,
+                       "en" 35,
+                     lo": {                    star": {
+                          "ln": 
+                           "colmn": 27
+                       },
+                      "end: {
+                          "line":1,
+                          "olumn": 3
+                          }
+                    },
+                     "param: [                       
+                        type":"StringpeAnnotatio",
+                     "start: 28,
+                       nd": 4
+                  "lo:{
+                        "tat" {
+                          "lie": 1,
+                             "omn" 28                              }                       "end" {                              "ie": ,
+                            column":4
+                         }
+                     
+                     }
+                     ]
+                  },
+                   "id": {
+                      "te" "Ientir",
+                   "star": 22,                  "end": 27,
+                  "lo":                     tart: {
+                         "line": 1
+                          "column"22
+                    },
+                        "ed" {
+                         "lin: 1
+                     "column": 7
+                        }
+                         "dntiierName":"Arra"
+                    }
+                      "ame": "Aray"                   }
+                   }
+                },
+                   "bd": {                   "tpe": "BockSatemen"
+                  "start" 36,
+                 "en: 8,                loc": {
+                   "at": 
+                      "ne": 1,
+                    "coun: 3
+                    },
+                   "end                    "line" 1                       "cl8
+                  }
+               },
+                     bod": [,
+                 "direcive" []
+                  }
+              }
+          }
+          }
+          ,
+        "name": {
+            "type": JSXIdnifi",
+            "tart": ,
+            end: 4,
+              "loc": {
+            "start": {
+          ine: 1,
+                "colm": 1
+             ,
+             end":
+                line": 1            "colm" 4
+            }           ,
+           "na" "bar"
+         },           "lClosing": true
+       
+        "closinElement": null
+         "cilren": 
+      }
+    
+   ]
+   "direcives" []
+ }

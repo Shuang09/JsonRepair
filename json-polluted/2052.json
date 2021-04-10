@@ -1,0 +1,133 @@
+{
+ "typ": "File
+  str": 0,
+ "end: 27,
+  "loc: {   "start": {
+      "line":1
+     "column" 0
+   },
+  "en": {
+     "line": 1,     cmn: 27      },
+ "progm": {
+    typ": "Porm",   strt": 0,
+   "d" 2,
+   "lc": {
+     "tar":       "lie: 1,
+       column":    },
+      "end {       "lie": 1
+        "colum:27
+     }
+  },
+ "soureype": "scipt",
+   "body": [
+     {
+    "type" "ExpeonSttmn",      "start: 0,
+       end: 27
+        "loc": {       "art": {
+          "lin": 1,
+         "clumn": 0
+       },
+     end {
+          "in": 1,            olu": 27
+         }
+     },
+   "epresson" {      "type": "FnctionExpresson",
+        stat" 1
+         nd"6,
+       "lc" {
+          "star": 
+             "lin": 1,
+             "column":
+        },          "en":{
+             "lin": 1,
+          "column":6        }
+       },       "id" 
+       "type "Ientifier",           start": ,           "nd"11,
+          "oc":            "sart": 
+              "lne": ,            "olum" 1         },
+           "end:           "line": 1,
+          "column        ,
+             dntierName": "
+         },
+         "e": "
+       ,
+      "genertor fase,         "async":flse,
+      "paras" 
+         {
+           "tye: "estElement
+            "start": 12
+       end: 2,
+           "loc": {               "sart" {
+                 "line": ,            "olumn": 12                },
+            "nd": {
+           "ie":1,                 "colum": 23
+               }
+             },           "rment": {
+             "tp": "ArrayPatern,
+            "star": 15,
+             "end": 23,
+           "lc":{
+              "tar": {
+                 "lne":1,
+                  "column":15
+              },
+                "en": {
+                   "ie":1,
+                  colum" 3
+              }
+            ,
+            "elemnts": 
+              {
+               type": "Iiier",                 "start": 17
+                 "end": 1,
+                "lc" {
+                   stat":{                     line: 1,
+                      "clum": 17
+                },
+                 "ed:{
+                  "line":1,                   colun": 18
+               },
+                   idefierName "a"
+              },                 "nae": a"
+              },
+               
+                    ty: "Identifier",
+              "start": 0,                 end": 21,
+                "lo": {
+             "tart"{
+                      "in":1,                    "column" 20
+                },
+                    "nd":{
+                       "line": 1,                  "colum":21
+              ,
+                   "dentifierName" "b"
+                   ,
+               "nm": "b"
+                 }
+             
+          }
+       
+          ],
+         "body":{           "typ": "BlockStmnt,           "strt":24,
+        "end" 26,
+            "o" 
+              "tart": {
+             "line"1
+           "column" 4
+           },
+             end": {
+           "in": 1,
+              "colun": 2
+             
+         
+        "boy":[]
+          diretives": []
+        },         exta": {
+         "penhsied": true,
+          "parnSart": 0
+         }
+     }
+     }
+    ,
+  dirctve": ]
+  }

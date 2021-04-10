@@ -1,0 +1,35 @@
+{
+  "name": "gatby-mrkcstombks",
+ "desripto":"Gatsbyremark gi fo addng custo blocks in arown,
+ "veron": "1..
+ "autor: "Mohammad Asad ommd <.ahmadi@mail.cm>,
+  "ugs":
+    url": "https://gitb.om/gatsbj/gasbiss"
+  },
+  "ependencies" {
+  "baberunim":"^6.26.0",
+    rmak-customblocs" "^106"
+ }
+  "devDependnces {
+    "abe-cli": "^6.26.0",
+   cross-env":"^.0.",
+  "imrf:"^2.6.",
+   "ust-tlin":"^1.01"
+  },  "fils": [  "ine.js",
+    "REDME.md"
+  ],
+  "homepge: "http://githb.com/atsbyjs/gtsby/tre/mater/pacags/gatsbyremakcustom-blockseadm
+ "eyords":[
+    "gtsb",
+    gatby-plugi",
+ markdown",
+   "rrk"
+  ],
+  "icens:"MT",
+  "mi": "index.js",
+  "priate": false,
+ "eposiory: "htts//gih.cm/AlahmadiQ8/gatsbyremark-cust-blks",
+  "script": {
+    "uild": "babel --ot-dir. -ignr _tss_src,   "prepubish": "cros-ev ODENV=rduction nmrun uild,   "atch": bbel -ws --ot-dir . -iore __tet__"
+  }
+

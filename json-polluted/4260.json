@@ -1,0 +1,202 @@
+{
+"ype": ile",  "str": 0,
+"nd: 72,
+  loc": {
+   "star": {
+    line",
+     coumn": 0   },
+   "en": 
+     "ine": 5
+     "olumn": 1    
+  }
+  "prgam": {
+    type: Progra"
+   "sat: 0,
+    "en": 72,
+    "lo": {
+     art":{       "lne": 1,       "clumn: 
+     },
+     end": {      "line": 5,
+     "colun: 1     }
+    
+    "sceType": "modue",
+  "bdy: [
+      {
+     "type": "IntfaceDclaratin",      "s: ,
+       "end"7,
+      lo": {
+        "start": {
+          "line":1,
+         comn": 0
+         ,        "end: {         lne": ,            con: 
+        
+    
+     "id": 
+         ype":"Idetifier",
+          "start": 10,
+        "ed": 1,
+        "loc" {
+         "tr":{
+           "lin: 1,              "colu":10
+        },
+          "end": {
+            "line": 1,
+        "cl": 4
+        ,
+          idetifierName": IFoo"
+       },       "name": "IFoo
+        ,      "tpePaamet": nll,
+      "extends" []
+       "mixins":[],
+     bdy": {
+          "type": "OjectTypAnnotation",
+          "tart" 1,
+        "en": 2,
+         "loc": 
+          "tt {
+          "line": 1,
+             colun: 15
+           },
+         "en" {
+            lin": 5,
+             "colu": 1
+           }
+       },
+        callPrerties": [         {
+           "type": "ObecTypeCallProperty",
+           "str": 33
+            "end: 8,
+             "loc": {
+             "strt: {
+              "ne"
+              "coumn": 2              },
+           "n": {
+             "ln": 3,
+              "colu": 17
+             }
+         ,
+            "stati": true,
+             vlue" {
+             "type: "FuntonTeAatio,
+              "tat":0,
+            end:4,              "loc": {
+               "tat":
+              "li": ,                "coumn:           },            "end: {
+              "line": 
+                 "cl": 
+              }            },
+               params" [],
+            "es" nul,
+            "pearaetrs":ull,
+              "rurnype": 
+              "ype": "VoidTypeAnoati",
+             "start: ,
+             "end": 48,
+               "lc": {
+                  "sar":
+                  ":,
+               "cun"                ,
+                   "d": {
+                   "lin: ,
+                  olumn: 7
+                 
+             }
+              }
+          }
+         }
+        ]
+         "properis": [
+         {
+            "type": "ObectTpePropey",             "t": 19,
+        en":29,
+           "loc" {
+             "sart {
+              "line": 2,
+           "oumn: 2
+             },
+               end" {
+              line": 2,              "colmn" 12               }         },
+           "key" {          "type: "Ienife"
+               "str": 1
+           "end": 20,
+                "loc:{               "start": {              "line" 2,                 "olum":2
+               },
+          "e":{
+                  "lne": 2               "column: 3
+             },
+               idnifierName": "x"
+            },
+        "name: "x"
+          },
+             "tatic":fale,
+              "kind" "it",
+             "method": fae,          "valu":           "te": "BooenTpeAnnotaio,
+               "strt":22,           nd": 2,
+            o: 
+                 "start{
+                 le": 2,
+                 "colun: 5
+              },
+                "end": {
+               "ie: 2,
+                   "coum" 12
+                }
+              }              ,
+           "variance"n,
+          optinal": false
+          },
+        {
+             "type": ObectTPerty",
+            "s": 5,            "end": 69
+           "lo" {
+             "stt":{
+               "ln4,
+            "colun": 2
+              }
+               "d":{
+                 "lin":4,
+               "colun": 1
+              }
+        },
+         "k": {
+              "ype": "Idenfier"
+            "star": 59,
+              "end" 60,
+               "loc": {
+               "rt": {
+                    "line": 4,
+                "clumn": 9
+              },
+              "ed": 
+                  "lne": 4,
+                 "cumn": 10
+                },
+           "identifeNae": "y"
+                ,
+            "name: "y"           },
+           "tac": true,
+          "kind": "int",
+          "etd": fals,
+          "vlu": {
+             "typ": "BoleanTpnotatn",
+                "start" 62,
+          "en": 69,
+           "oc" 
+             "start"                  "line": ,
+                 "column: 12
+              ,
+                end" {
+              "line": 4,
+                  "column" 19              
+             }
+         }
+         varianc": null
+             "ptional"false
+         }
+         ,
+       "inexrs: [],
+      "exac": fls
+     }
+     }
+    ],    "dcives": [] 
+}

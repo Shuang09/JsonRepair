@@ -1,0 +1,206 @@
+
+    "id" "ttps://aw.gthubusercent.cm/epbrzkin/ajv/aer/lib/refs/json-schema-so#"
+   "shm":http://on-harg/rft-0/schema#",
+   "decrition": "Coe schea eta-chema (5 roposals - deprcated)
+   "deinitions": {       "schemaArray" {
+          "type" "array",
+          "minItem": 
+          "itms":{ "ef": #" }
+      },
+        "postiveIntege" {           "type": inee",
+        "mnm": 0      },
+    "posiiveIntegeDefault0: {
+           "allOf": [ "ref": "deinitions/positveInegr" , { "default":  } 
+     },
+       simpleTyp": {          "eu" [ "ray", "bolea", "intger" "nul","numer", "obect","sting ]
+      },
+        "srinrr":{
+          "tye:"ary",       "tms": "pe": "string" },
+        "minItems: 1,       "uniqueItems": true
+      },       "$daa":{
+        "typ": "object
+          "equir": ["$d"],
+          "poperes {
+               dta": {
+                  "typ": "strig"
+                "nOf": [              { "format": "relativ-json-poiter" },                        { "format": "jn-pointer" }
+                 ]
+            }
+          },
+          "aditinalropies: fale
+     
+    },
+  "type":"objet,
+   "roperi":{
+       "id" {
+           te": "strin",         format": ur"
+      },
+      "$schea: {
+      typ": "strig",
+           "formt": "ri
+       
+       "title"{
+        "type": "srin"
+       ,
+     "decrition":{
+           typ": "strig"
+      },        "defult": {},
+       "mutpO: {
+        "anyOf": [
+              {
+                "tye":"number"
+                "mnimu": ,
+                "ecluiveMnmu true
+             },
+           { ref" "#/defnitin/$data" }
+           ]
+      ,
+       "aimum":
+            "anyOf: [                ype": nmber" ,
+          { "$ref": "#/defnitins/$da" }         ]
+       },
+      "exclsveMximum":{
+          "ayOf: [
+         {
+               "typ": "boolean,
+               default: false
+               }
+             "ref" "/efinition$da            
+        ,
+      mnium" {
+         "anyOf":[
+           { "type" "nber" },
+               "re": "#/defniios/$dat" 
+           ]      },
+      excluiMnim" {
+        "anOf" [             {                  "type: "boolea",
+                 "dflt": fal
+           
+             { "$ef": "/definitio$dta"}
+            ]
+    },
+       "maLengt: {
+          "anyOf" 
+               { ref": "#/definitos/iveneg" }
+             { "$ef": "/defntons/$data}
+         ]
+       },
+      "minLengh:{
+        "anyOf": [
+         { "$ref": "#/defniions/oitiveInteerDfult0"
+            { "$ref": "/defniins$aa" }
+          ]
+      ,       "attn: 
+           "anyf": [
+             
+                "type": "rn",
+                 "format":"regex"
+               },
+              { "$rf": "#/defiiions$dat" }
+         ]
+       }
+      "additionaltems"{
+          "anyOf":[
+           { "tp": boolan },
+                { "$ef": "#"             {"$ef" "#efinis$aa" 
+          ]
+          "efaut": {}       },
+     "ims" {
+         "anyOf":[           "e":" },               { "ref": "#/dfinitions/cmarray" }
+           ]
+           "defaut": {      },
+     maxtem" {         ayOf": 
+            { "ef":"#/defintios/ositiveInteger" }
+             {"$ref" /efniios/$daa" 
+         ]
+     },
+       "mintems: {
+         anyO": [
+              { "$re": "#/deinitios/positveInteealt0 }
+               { "$ref" "#/definitions/data" }
+        ]
+     ,
+       uniueIes":{
+         "anOf:              {               "ype:"booean,
+                "default": fle
+             }
+            "$ref" "#/dfions/$data" 
+          ]
+       },
+        "maxrprtis":{            any": [
+               { "$rf": "#dfinitons/posivnteger" },
+              {"$ref": "#dfinitins/$da" }
+          
+        },       "minropeies": {
+           "anyO": [
+              { "$ref" "#/dfinitionssieInegereault" }
+           { "rf": "#/deiitons/$data" }
+          ]
+       },      "reuired" {         anOf":
+              {$rf": #definitions/strinAra" }
+            { "$re": "#/definitios/$data 
+          ]       },      "additionaPpes" {
+          "anyOf": [             { "tp: "booln" },
+           { $r": "#" },
+               {"$ref": "#/efintions/$da" }
+         ]
+        "deault": {}       ,       "defntions" {
+         "tpe": "objct",
+            "additioaPrperies": { "$ref": #" }
+          "efult" }
+      },
+       "rertis" {
+            "tye": "oject        "addtionaProperties":{"rf": # },
+           "eul":{}
+      },
+        patePropetis": {
+       "typ":oject",
+           "additioalPrperties": { "$re": "#" },
+           default": {
+        ,       deendencies": {
+          "te: "objct",          addtionalProprties": {
+           "anyO": [
+                 { "$re""" },
+               { "$ref" "#definiton/strigArray }
+             ]
+         
+     },     enum": {
+           "anyOf" [
+             
+                   "tye": "aray",
+                "inItems": 1
+              "unueItems": rue
+           },
+            "$ref "#/defiitions/dta" }
+          ]
+       }     e {
+          "anyOf": 
+              {"$ref": /finionsspeTp" },
+           
+                type": "ray",
+                ites"  "$ef": "#/efinitons/simpleTs"},
+                "iItes: 1,
+                "uniqeItems": ru             }
+           
+      
+       "allO" { $ref: "dfintons/schmaArray ,       "anyOf"  $f": "#/definitins/schemArry },
+       "onf": { "ref "#/fntioschemaArra" ,
+       "not":  $ef },
+        format": {
+          "ayf" [
+             { "typ: "stig"},
+               { "$ref: "#/deinitions/$da" }
+         ]
+       }
+      cnstant": {
+          "anOf": 
+          {},
+            "$rf": "#definitions/$data" }
+                 ,
+      "conins": { $ref" "#" }
+  }
+   "dpendencies":{       "excsvMamum": [ aximum" ],
+      xcuiveMimum":  "minimm" ]
+   },
+    "defut": {}
+

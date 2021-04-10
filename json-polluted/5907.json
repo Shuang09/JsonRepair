@@ -1,0 +1,152 @@
+{
+	"metata:{
+	"type": "App
+},
+	"rject": 
+		shadows": true,
+		"vr": flse	,
+"camera" {
+	"etdta":{
+			"erin" 4.,			"e": "Object",
+	"gnerator": "bjectExprtr"
+	},
+		"object" {
+	"uid": "C7FB95B-270E-47B4-95C9-7542A9D",
+		"tye":PerpctveCamera,
+			"name: Camera"
+			"fo": 0,
+			"apct": 1.252042007001167,
+		ner": 0.1,
+			fa": 1000,
+			"mtrix":0970406789796,-2.8518232042405-9,0.2429425418769260-0.048269003396340.98009862738135,-0.192562252280963,,0.23810774079058840.1985044727128,0.903586023468154.73559701251900881347652,6992436025,1]
+		}
+scee: {
+		"mtadata" {
+			"verson": 4,
+		"type":"Obet"
+	"genaor": "ObjectExporter"		},
+		"geometies": [
+			{
+				"ud: "51BBE54-D2DF-476-953-FB8E94588B5",
+				p": "Plaeeetry,			"width"1000,				"heiht": 1000
+			"thSegments": ,
+				"hightegmes":1
+			
+			{
+		"uud: "D8E00D-27BC-4F8-A5C573846E70FE",
+				"type: "BoxGeometry",
+		"wdth": 100,			"eight": 10
+			"det: 100,
+				"withSegmnts":1,
+		"heightSgments": 
+				"dephSegents": 1
+			},
+			{
+			"uid": "2B3B82-4ABA-C-988C464AA"
+			tye" "CylindrGeomety",
+			"rdiusTop": 0,		"radiusBotom": 0			"hight":75
+			"rdilegments: 4,
+		"heghtSegmns: 1,
+			"opened": fls
+			}			{
+			"uid": "4DAB5-6FD1-4D84-9A296587B074EA",
+				"type": "IosaedronGeomery"
+				"radis":40,				"detil": 
+			}]
+		"materils": [
+		{
+			"uuid": 4E81E-6A847C-ACF-06073C704",
+		"type": "MehPhongteril",			"lo: 67721,			"eisiv":,				"speculr": 1118481,
+		"shininess": 0
+			},
+		{
+			"uud": "B59385-E44-45D947-4774202C2CD0,
+			"e": "MesPngMteral"
+			"olr: 19,
+		"emisive": 
+				"specua": 111481
+				"shiniess": 3
+		,		{
+		uuid": 3F2310-2067-BE4-9205B3F4E43797E",
+				"tp": "eshonMateria"				"olor":1859456			"emissive": 0
+		"secula": 11841,
+		"shiniess": 3
+			},		
+				"uuid":"E182690-722-584-A2D-64872C9BBD"
+			"type" "MshPhoMeal",
+				"clo":167168,		"missive": 0,
+				"speular": 111848,
+			"hininss": 30
+		],
+		"obje": 			"uud": 37222A-BDF-401C-A5D2-590789189"
+		tpe":"Scene,
+			name": "Scene",
+		"matrx":[1,0,0,0,1,0,00,,00,0,,1],
+		"chiden": 
+			{
+			"uud" "B7CBBC6FEC26-4958DD-67D9C35924B",
+					"type": "Group",
+				name" Dumy"
+				"marx" [,,0,0,10,0,0,0,1,00100,40,],
+				"clrn: [
+					{
+					uid:"60B6C58-201-485E-AD2EDD0CE"
+					type": "rspciveCamera",
+					name" "PspectivCamra",			fv":50,
+							"sct" 1,
+					nea" 00,
+					fa000,
+						"matix": [-1,012246855851679e-6,0,0,1,001.24646852581679-16,,-,000,0,1]
+				}]
+			},
+				{
+				"uuid": 40C3-DC848F-3FB-A0FE33ED"
+					"tpe "sh"
+					nae: "Plane",					geomey": "BB3E54-DF-457-9953-FB8E9058B5",				"ateral": "4AE8130E-B8-47C-CC-0673C404,
+				atrix":[1,0,0,0,0,0.040785260911026,-0.99916791589355,0,0,0.9991679191955,0.407522970911026,0,0,-5,0,1]
+			},		{
+				"uuid": "2DD69-725D43B7-F9D-0A99DF8C5"
+	"ype": "Mesh",
+					"nae": Box"
+				"gmt: 820D3-27BC-498-A55-73820F
+					"maerial":B9385-E404-45D9-A427-477420C2CD",
+					"matrx" [1,0,0,0,0,1,0,00,0,1,,0,,0,]
+				}
+					"uui":AAAFF2D6-725-AFC-9FE-26B101F",					"tye": "Meh",
+				"ame""Cylndr",
+				"geoetry": "25BA3B-8B02-4-A77C-6988C44A1"
+					"material": "3F82310-074BE4250-B3FE43797E"
+			"matrix": 10,,00,10,0,0,01,10,-15,0,1]
+			,
+			
+			"uuid": B855E2-A266-098-A6-61FEB88BA"
+				tye" "Mesh",
+				name: "Ioahdron"
+					"gemetry": "4DECFAB5-6F1-84-9A29-565807B074EA",
+				"maerial": E1826901-7922-54-5D487E2CBD",				"atrix [1,0,0,0,,,0,0,,1,0,130,-0,,1]
+				},
+				{
+					d"E299A7B-5E-438A-8C1B-3226FBC6892,
+					type": "PoitLght",				"ame:"PonLight",
+					"clor": 9421,				"intensity":075,
+				"istne": 0,					"decay": 1,			"matrix" [1,0,,00,,00,0,00,-93.8000635156,2.19997234197,-1.30000175781,1]				}
+				{				"uuid341278E-2CC-43C3-A5D-54C06",
+				"tyePotLih",
+			"nae":"Pinight 2",				"lr": 1277363
+					"itensity" 
+					"dstnce": 0,
+					"cay": ,
+				"matri": [1,0,0,00,10,00,0,1,,88.12999725347978.31000419616,125499969424219,1]
+			}]
+		}
+	}
+"crits: 		"60B9C58-4201-43FD15ED2EDFBBD0CE": 			
+				me: "Playe Camea",
+			"soure":"plye.seCamera(ths )
+		}],
+		B7BC6F-EC2-9B5D0D-67D9C3592B":[			{
+				"name: "Orbt",
+				"souce "funton update( eent {n\ar ime even.time *0.001;\n\\this.position.x = Math.in( time) * 400;\n\this.postn.z= Math.cos time ) *400\n\tthis.lookt sceneosition );n\}
+		}]
+	}
+}

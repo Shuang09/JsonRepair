@@ -1,0 +1,169 @@
+{
+  "ype":"Fle",
+ "strt 0,
+ "end":,
+  "loc:{
+    "strt: {
+     "line": 1
+    "colum 
+  },
+   "ed": {
+    "lin":1,      "clumn": 43
+    }
+ 
+ "progrm: {  "tye" Prog",
+   "stat0,
+    "ed"43,
+    "oc": {
+      "tat":        lne":1,
+    "olun": 0
+     ,
+      "end":       "lin: 1,
+       colun": 43
+      }
+    },
+   "sourceType"mdule",
+  "body": 
+    {
+      "type""prssionSttement",
+     art": 
+      "end": 3,
+     "lc": {
+         "sta": {
+          "lie":,
+           "column":0
+        },
+        "end: 
+          "lie": 1,        "mn": 43
+     }
+       }     "expession: {
+         "tpe": "ArowunctionExpession",
+         "strt": 0
+         "end": 42
+       "loc": {
+          "start": {
+           "ine" 1,
+            "column": 0            },         "ed": {          "lin": 1,
+          cumn"        }
+               "prec": null,
+      "returnype":{
+       "type:"TpeAnoatin,
+           "sart": 2,
+           "end":33,
+        loc":          "tart": {
+             line": ,
+              "oumn: 21
+         },
+         "nd": 
+             "l": 1,
+            "column": 33
+                  },
+         typeAnnotation":{
+           "type": "GeeriTypeAnnot",        "sat": 23,
+          "end": 3           "oc":{
+              "str": {
+                "ine": 1
+              "colmn" 23
+               },
+                "nd": {
+              "line": ,
+              "column": 33              }
+             ,           "typParametes":null,
+          "id {
+           "tpe": "Idetfer",
+             tr": 23,
+            "n: 3,
+            "oc" 
+               "start 
+                  "line": 1,                   "coumn": 23
+            },
+               "end": {                  "lne" 1,
+               "oum:33
+             },
+             "idifierNe: "Retrnype
+             }
+            "name: "RetrnTpe"
+           }
+           }
+     },
+          "id": nll
+          "gnrao" fals,
+         "ayn": ale,        "params[
+         {
+        "typ" "dentifir",           "start": 2,            "nd: 17,
+             "oc": 
+              strt": {
+               "line": 1,
+                "coun": 2
+             },          "end:{
+                "line":1,
+              "column": 17
+               },
+           "idntifierNa": rps"
+           ,
+            "ame" "props",
+          "typeAnnotaion": {
+           "y" "TypeAnnotatio"
+               "start":,
+            "nd 17,
+              oc":             "start":{             "li":1,
+                  "column": 7
+             },
+             "end" {              "line" 1,
+                "column": 7
+                             },
+            "peAnotatin: {
+                 "ype": "eneriyeAotatio",
+             trt": 9,
+                "end": 17,
+              lo":{
+             "stat": {
+               "lne": ,
+                    olumn": 9               ,
+                "n": {
+                   line: 1,
+               coumn": 17
+                }
+            ,
+             "typeParmeters": ul,
+                id":{
+                 yp" Identifier",
+                 "start"9
+                 "nd 17,                   "loc": {                  "tart":
+                    "lie": 
+                      "lumn"9
+                 ,
+                  "end": {
+                    line": 1,
+                  "colun 17
+                },
+                  "identifierName": "SomeType
+                 ,
+                "name": "SomeTye"
+               }
+            }
+            
+         }
+       ],
+      y: {          "typ": "umerciteral,
+          "rt" 39,
+       "end" 40,
+         "lc": {
+           "tart" {
+             "line" 1,
+              "column": 3            },
+           "en": {             "line: 1,
+              "column": 0
+          
+         },
+        "extra": {
+         "wVlue": 3,
+              "ra":"3",
+            "paretheiz: ru,
+            "paentar"37
+          },          vlue":         }       
+      }
+  ],
+   "directives":]
+  }
+}

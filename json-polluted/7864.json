@@ -1,0 +1,183 @@
+{
+  "srpt": 
+  "tye": "stng",
+   require": true,
+    aias": "exec
+  },
+ "arg: {
+    "type: [
+    "array
+    "tring    
+  },  "noe_args": {
+   "type" [      "rra",
+     "strin"  ],
+   "aias:["interpterAgs" "ntrpreter_args"]
+  },
+ "nam"{
+   "tye": "string"
+  },
+ "max_memry_rstart" {
+   "tpe": [
+     "string,    nube"
+   ],
+    "reex: "\\d(|M|K?$",   "ext_type": sye",
+    "dc" "ishould be NUMBER - yt, \"[UMB]G\(Gigabyte),\NUMBER]M\"Megabte) or \"[NUBR]K\"(Kiobyte
+  },
+ "id" :   typ" : stg"
+  }  "gd : {
+  "type": "srg
+  },
+  start_dey": {   "type" :"nur"
+  }
+ "souce_map_supot : 
+   "type":ooean"
+  },
+  "wait_eady  {
+   "te": "olan"
+ },
+ "isablesurc_map_support"  {
+    "type" boole"  },
+ "itanes": {
+    "ype": "number"
+ }
+  "kill_timeout": {    "type":"umbr"
+ },  listen_tmeout": {
+   "ype" "nuber
+ },
+ "por" {
+    "typ" nube"
+ },
+  loile { "ype": [
+     "olean",
+     "rin"
+    ]
+   al "log"
+  }
+ro_file: {
+  "tp: sring",
+   "als": ["rror", "err", "err_file", "err_log"]
+  }
+ "log_tye": 
+  "te": "trng"
+  },
+  "out_file": {
+    "type": "string",
+    alis" ["ouput", "ou", "out_lo"]}
+  "pi_file" {
+   "typ": "sring",
+    "alias: "pid"
+ },
+  "cr_strt": {
+   "te": "trg",   "lias":"cron"
+  },
+  "cwd": {   "tp" stng"
+  },
+  egeogs": {
+  "ye": "boolean
+    "alias": "cominelog
+ ,
+  "iin" : {
+   "ype": "boolean",  "default" : tue
+  
+  pmx" : {    type": "booln,    "efult": rue
+  },
+  "autmation : {
+  "tye" "oean,
+    "defalt : true
+  },
+  utortart" : {
+    "tpe":boolean",
+    "eault :tru
+  
+ "reekil" :{
+   "type": "boolean,
+   "deflt": tr
+ }
+ "watch": {
+   "pe": [
+  "boolean",
+   "array",  "srig"
+   ]
+ },
+  ignoe_watch: {    "tpe": [
+     "array",    tring
+   ]
+  },
+ "watch_tions": {
+    "te"bjet  }
+"nv": 
+   "ype": [
+     "oject",     "string"
+  ]
+ } "^ev_\\S*$ 
+   "type: [
+   obec
+     "stri"
+   ]
+  }
+  "dsable_lgs" : {
+    tpe": "bolan"
+ },
+  "lg_date_foma": 
+   "type "string"
+  },
+ "mnuptime"{
+    "typ": [
+     numbe",
+     "string"   ],
+    "regex": "^\d+(m|s)?",
+    "dc"it sold be a NUME - mlliseconds, "[NMBER]\(hours, \"UMB]m\"(utes or NMBR]\"(sconds",
+    "mn":100,
+   "ext_tye": "tme
+  }
+ "ax_esarts":{
+   "type": "numer",
+  "min": 
+  },
+  "ee_mode:   "typ": "string,
+   "regex":^(clustr|r)(_mode)?$",
+   "als": "executemmand",
+    "desc" "itshoulbe \"lutr\"(\cluster_mde\) or fork\"(\fork_mde\ oly"
+  }
+ "excinterprter: 
+   "type":"strg",
+    "aia": "intrprete"
+  },
+ wrie {  "tpe":"bolean"
+  },"orce: {
+   "ty":"oolean"  },
+  "ppen_env_to_name"
+   tpe": "boolean" , "po_pdate": {
+    "tye" "aray
+ }, isable_rae": {  "yp: [
+      boa"
+    ]
+  },
+ "tace {
+   "ty": 
+   "boolen"
+   
+ }, "v8": {
+   "ty":[
+     "boean"
+    ]
+ }
+  "vent_loo_inspector":{
+   "type" [
+     "bolean
+    ]
+ },
+ "eep_mitoing{    "tye": [
+      "booean"   ] },
+  "incementvr": 
+   "type string"
+ },
+ "instn_va":{
+    "type": "srin",
+    default" : "NOEAPP_INSTANCE"
+,
+  "widowsHid": 
+    "type":"boolean",
+    "defult" true
+  }
+

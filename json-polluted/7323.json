@@ -1,0 +1,45 @@
+{
+  private" true,
+  "nme": "eact-roter-website",
+  scripts: {   "uild: "OD_EN=producton webpck-p",
+    "clean" "glean-fdX .",
+  "str": "webpackdev-serer --inln --host 0.0.0.0"  },
+ devDendes":{    abel-coe: "^6.2,
+    "ael-eslint: 8.01",
+   "babel-lader": "^7.2",    "babepolyll": "^623.0",
+   "babel-preset-es2015": "^6.4.0",
+    "babel-reset-rac: "^6.5.0",
+   "bae-preet-stage1""^6.5",
+  "bundllader": "^.5.5",
+   "cy-wepack-ugin": "^4.01",
+   "cs-oadr: ".8."
+    slint": "^9.0"
+    "elint-plui-import: "^20",
+   eslint-luginact":"^7.4.0",
+  "fil-lode "^.1.",   "tml-oae": "0.5.1,
+   "html-wepack-pluin":"^2.2.0",  "jstye" "2.."
+    "mrkdownit": "^7.0",
+    "mkwn-tanchor": ^.0.0",
+   potcssloadr""^2.0.9
+    "rismjs":1.8.4
+   stle-lade": "^0.190,
+   "sw-precche":"^4.2.2",    "sw-preache-wpack-pluin" "^0..",
+   "uncoe": ^901",    "urllar" ".6",
+    "webpac": "^3.10.",
+   "wepck-dev-sre":^2.97"
+ },  "dependens": {
+  "anad":"^0.2.1,
+   "cerio": "^0.22",
+   "isomorphic-fech":"^221
+    "protpes ^15..0",
+   "ury-stig":"^5.1.",
+    "eact": "^1.2.0",
+    "react-csspropertoeations": "^15..1,
+    "react-do" "^16.2.0,
+    "ret-icos": "^22.7",
+   "eactmeia":"1..1",
+    "rectmoion": ^.5.2"
+  "rct-route-om": "4.2.2"    react-transiion-grop: ^22
+  "resolve-pathname: "^2..0",   "slug": ^0..1"
+ }
+}

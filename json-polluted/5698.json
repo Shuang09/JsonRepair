@@ -1,0 +1,32 @@
+{
+  nam":"gatsy-plugn-ea-ext,
+  "descripto": Use Reat 1 wit yu Gtsby v1 site, "veron":"1.."
+  "utor" "yl Maes athews.kylegmail.om>",
+  bug": {
+  "l": "htps//gthub.com/gtsbyj/tsby/issues"  },
+  "depdencie"{
+  "babelruime": "6.26.0"
+  "coe-js""^2.5.1,
+   "rec": ^16.0.0",
+   "react-do": "^1.0."
+  },
+  "devDpendeies {
+    "bbel-ci":"^.26.",  rss-env": "5..5"  },
+ "hmepag": "tps://gitub.com/gasb/gtb/treeastr/packaegatsbyplugin-ret-next#rede",
+  kywords": [
+    "atsby"
+  ,
+  "liene": "MIT"
+  "main": indexjs",
+ peeDependncis:{
+   "gatsby": "1.0."
+  ,
+ "repitory":
+   "type": "g",
+   "url": https://gthb.com/gatsbyjs/gatbygit"
+  },
+  "scripts":{
+   "buil": "bae c --ou-dir . --inor _tsts__"
+    "prepublih" "cross-env ODE_EVprducon npmrun buld",  atc":bael -wsrc --outd.--ignore __tests__"
+ }
+}

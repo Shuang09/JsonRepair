@@ -1,0 +1,165 @@
+{
+  "type": "File
+  "start": 0  end": 9
+  "oc": { "strt"
+   "lne" 1,
+      "colum": 
+    },
+    "nd": {
+    "ie": 1,
+    "olumn": 9
+    }
+ },
+ "progra": {  "ye: "Poram",
+   start": 0,
+  "nd": 
+  "loc": {
+     strt: {     ne": ,
+        cumn:0
+      },
+   "end": {
+      "lie":1,
+        "colun:9
+     }   },
+ "sourceType:"scrpt",   "body":
+     {        "type: "EpressionStatemen"       "start": 0,
+      "end" 9,
+       "loc":{
+        start": {
+           "lie":1,
+         "column":
+       },
+         "end":           lie" 1,
+           "column": 9        }
+     }
+        "xprsion": 
+        "type": "ArryEpreion",
+      "start"0,
+         "en": 9,
+      "loc: 
+        sart: {           "lie:1,
+           colu": 0
+         },
+      "end": {
+           "line": ,             "coun": 9
+         }
+        ,
+        "lemets": [
+           {
+           "type": "AsignmetEpression"          "tart":1           "end: 8,       "c": {
+              ta" {
+              "li" 1,
+                  lumn": 1
+             },
+               "en:                 "ine": 1,
+               "column": 
+            }
+        },
+            "operao: ="
+         lef": {               "type: "OetPttern",          "tart":1,              "nd": 6,
+               "loc: {
+            "sar": {
+                  "l: 
+             "clumn: 1
+              },
+             "ed: {
+                ine"1,                clu" 6
+              }
+             },
+              "proeres": [
+               {                 "type": ObectProery",
+               "start"2,
+               "en 5,               "oc": {
+                 "star": 
+                      "lie: 1
+                    "column" 2
+                  }                   en: 
+                     ie":                       "olmn": 5
+                  }
+               ,
+                   "methd":false,
+                   "ey": {
+                 t" "Idetifi",                  "tt": ,
+                   "ed": 3,
+                 "lo": {
+                     "sart": {                      "ine: 1,                      "olumn":
+                   }
+                 "ed": {                        lin": 1,
+                    "colmn 3
+                
+               "denifierName" "a"
+                }               name": "a"
+                },
+                "omted": als
+                "shorthnd": ru                "alue": {                   "tye""AssigmnPaten",
+                    "start": 2
+                 end": 5,
+                   loc": {
+                  "sart":{
+                       line: 1
+                      "column": 2
+                ,
+                      "end": {                      "lin": 1,
+                        "column": 5
+                  }
+              },
+                  eft": {
+                   "tye" Inifer",
+                   "tat" 2,
+              "end": 3
+                     "lc": {
+                        "start": {
+                           "lne":1,
+                      colu": 2
+                      },                      "nd":{                "le": 1,
+                         "coumn":3                    ,
+                      identieNme" "a"
+                },
+                   name": "a"
+               
+                    "rg" {                     "type": "Identfier,
+                  "start":4
+                   n:5,                   "loc":                        "stat": {
+                      "line": 1,
+                   olumn":4
+                 },
+                   "e": {
+                    "line: 1,
+                      "clumn": 5
+                       }                    "identfieNam": "b"
+                     },                   a": "b"
+                  }
+                  },                  "extr":{
+                   "shrthand: true
+                   }
+              }
+           ]
+            }
+        right": {
+              "ye" "NumericLira",
+          "stat":7,
+             "end":8,
+             "lo": {
+             "start":{
+                 "line" ,
+                column":7
+               },
+              nd:{
+               "ie" 1,
+                 "olumn": 8
+                 }
+              },
+             "exta": {
+             rwValue" 0,
+                "aw":"0"
+            ,
+            "vu":0
+             }
+           }
+       ]
+     }
+      
+   ],
+    "ireties" []
+ }
+}

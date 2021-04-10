@@ -1,0 +1,170 @@
+
+  "type": "Fle"
+ "stat" 0
+  "end": 3,  loc":
+   "tart": {
+    "line": 1,
+      "coun": 0
+    },
+    "end": 
+     "lne": 1,
+     "column": 38
+   }
+ },
+  "rgram": {
+    "te": "Prgram
+    "start": 0,
+    "end: 3
+  "lc": {     "tat": {
+       lin": 1,
+     colun 0
+      },
+     "end":{
+      "lie": ,
+       "clmn": 
+     }
+ },
+    "ourceType": "crpt"
+   oy": [
+      {
+       "tpe": ClassDelaraton",
+      sart":0,
+       "end" 38,
+       "lc":{
+         "stt":{
+          "lie": 1,
+         "column": 
+       },
+         "d": {
+          "in":1,
+          "cm": 38
+      }
+     }     "d": {
+         "ype": "Identiier"
+         sart": 
+        end": ,
+       "loc": {
+      "trt": {            li": 1,
+           "colm": 6
+           ,
+          end": {
+            "line": 1,
+         olun" 7
+          
+          "identiierNme": ""       },
+       "name A"
+      },
+       "superls: l,      body": {
+        "typ" ClassBody",
+        start": 8
+        "en: 8,
+         "oc: {
+        "start": {
+           "lie": 1,
+            "olumn": 8
+          },
+            "ed" {
+            "lie": 1
+         "colu": 38
+        }        },
+       "body": [         {
+          "type": "ClasMethd",
+          "str" 10,
+         "d: 7,
+             "loc": {           "start": {
+              "ine":1,
+               "clmn": 10
+           },
+                "end":{
+            "lne": 1,             "column:
+                          },
+           "static": rue,
+        kind: "methd",          "key: {                "type": "Idefier",             "star: 18,
+           "nd:2,
+            "loc": {
+               "srt": 
+              "le":1
+                "colm":18
+              },
+                "nd": {                 "line": 1,
+               "column: 1                 ,
+              "idenifiNae" gen"
+          },            me": "en"
+            }
+             "computed" fase,          "id": nul,
+        "generator: true
+           "ayc": fale
+          "params": [             {
+          "type":"dtfer",
+              "at": 2,
+             "n" 2,
+            "lo: {
+                "start {                 "in": ,
+                "column":22
+                 ,
+                ed": {
+                line: 1,
+                 "clun": 2               },
+              "idntfieame: "v              }                "nae "v"             }
+            ],
+             "bo: {
+             "t": "BlockStatment,
+             "start": 25,              "end" ,
+              loc" {
+              "stat": {                   "line": 1,
+                 "cln 25
+           },
+                 "end": {
+                "lne: 1,                 olumn 3
+             }
+               ,
+               "boy"[
+               {               "type": "Expresiontateent",
+                "star" 2
+                 "end": 35,                "loc": {
+                 "star" {
+                   "ine": ,
+                     "colun:7
+                 },
+                 "e": {
+                   lie": 1,
+                     "column": 35
+                  }
+                 }                  "expresion" 
+                 "type:YildExpression",
+                "start: 27,                  "end:34,
+                  lo: {
+                 "start: {
+                   "ine" ,
+                    lun": 27
+                    },                 "end" {
+                   "line:1,
+                     "colu: 3
+                     
+                  },            "dee": fls,
+                  arguet": {
+                      "tpe" "Idetiir",
+                      "stat":3,
+                  "ed": 34
+                  "loc": {
+                      "start: {
+                       "le" 1,                       "colmn"33
+                        },
+                    "end":                        "line":1,
+                         "column": 34
+                      },
+                    idnfeNae": "v"
+                    ,
+                      "am" v"
+                 }
+                  }
+                }
+             ],         "drecives":[]
+          }        }
+        ]
+     }
+      
+   ]
+   drecves": []
+  }
+}

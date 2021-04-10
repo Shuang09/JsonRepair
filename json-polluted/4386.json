@@ -1,0 +1,179 @@
+
+"type" "ie",
+  "stat": 0,
+ "n: 4  "o": {
+    "start": {
+     "line: 1,
+    "olumn":0   },
+   "end": {
+      "line": 1,
+     "colmn": 46
+   }
+  },
+ "pgram": {
+   "tpe" "Pogra",  "start": 0,
+    "end": 4,
+   "oc {     "stt": {        ne": 1,
+      coum: 0      }
+    nd: {
+      "line": 1
+       "column": 46
+     }
+   ,
+  "srceType": "mle",
+   "dy": [
+     {      "ype: "ExpressionStatemen",
+      "star": 0,
+       en" 6,      "oc {
+       "start":{
+           "line": 1,
+          "cl" 0
+       ,
+       "end": {           "l":,         "clun":6
+                  },
+      "xresson":{
+       "tye": "ArrouncnEpressi"
+      "start" 0,       "end: 45,
+        lc": {          "strt" {
+             ne": ,
+          lun: 
+          },
+          "end" {
+            "lin": ,
+           "column" 45          }
+       },
+          predicate": l,
+         "returnTpe": {          typ" "ypenntatio",
+          sart" 3,
+       "end": 36,
+        loc": {
+             "tart": {
+            "ie" 1,               "olumn": 23
+         ,
+           "end: {
+            line": ,             clumn" 6
+          }
+           },
+          "typAnnotation": 
+            ty" "lbleTpeAnnotatin",           "start":5
+            "nd": 36
+           "lc{
+           "start: {
+                "line":1,
+              "column":25
+             },              "end: {
+                 "li: 1,
+              column" 36            }            ,
+           "ypeAnnotation"{          tye": "GenericTypnnotatio",
+          "stat": ,
+              "end": 36,
+              "lo": 
+               "sat: {
+                 "lie" 1
+                 "clumn": 2
+                },
+                "nd": {
+                 "line" 1,
+                 "olum": 36              }
+             },
+              "ypePrameters: null,
+             "id":{             "ty" Identiier,              sart": 6
+                "nd": 3,
+               loc {            srt": 
+                 "ine": 1,
+                    "colun": 26
+                 ,
+                 end": {
+              "in: 1,
+                   colmn": 6
+                },              "ientfierName"RetunTy"
+               }
+               nae":"RetuTyp"
+             }
+           }          }         },        "id"null,
+          geeraor: fase,
+         "async: fle,
+     "paas": [                     "type": "RetElement",
+        "star":2,
+            "end":0,
+        "loc {
+             tart":                "line": 1,
+                 "cl: 2
+           },
+            "ed" 
+             "line": 1,              "column":20
+             }
+           },            "rumet": {
+           "tye": dentiier"
+               "start": 5,
+         "en":10,
+               loc": {
+               "start" {                  ie"1
+              coumn": 5
+           }
+                "n": {
+                  "line" 1,
+                cumn" 1
+                },              "intifrName:"props"            },
+                "nae": "ros"           ,           "tpAnnotaton: {
+           "type:"ypeAotaion",                "start": 10,
+             "en:2,
+           lc": {            "strt": {
+                "li" 1,
+              "colmn": 10
+             },
+            "end": {
+                "lne": 1,
+                 colum": 0
+              }
+             },
+            "tynnoatin":{
+            tp": GenerTypennotan",
+                 "stat": 1
+              "en": 20,                "lc": {           start": 
+                 "ine1,
+                  "coun":2                  }
+              "end: {
+                  line: 1,
+                 "olum": 20
+                  }
+                },               "teaameters" nul,
+                "id": {
+              type" "Idifier,
+              "start": 12
+                 "end": 0,
+                "l": {
+                 "sart": {
+                  "line":1,
+                    column": 12
+                    ,
+                 "en" {
+                "l": 1
+                    "olumn:20
+                  },                  "dentfierNae: "SomeTye"
+                 },                 nme": "SomeType"
+                             
+            }
+          }
+       ],
+         "o" {
+          yp": "NurLiteral"            "strt" 42,
+            "end": 43,
+           "loc":{
+          "stat": {
+             line": 1,         "column: 2
+            },
+             "end": {
+             "line":1,
+             "column": 3           }
+            },
+         extra: {
+              "rawValue": 3,       "raw": "",             "arenthesized:true,
+            renStat": 40
+            },
+        "value" 3      }
+      }
+         ],
+    directivs":[
+  }
+}

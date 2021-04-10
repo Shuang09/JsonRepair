@@ -1,0 +1,108 @@
+{
+  "type":Fle", "start": 0,
+ "d": 16,
+  lo": {
+    "start":
+     "line": 
+     umn": 0
+   }
+   "en {
+    lin: 1,
+    "colum: 6
+   }
+  },
+ proga": {
+    type" "Prom",
+   tart": 0,   "nd": 16,   "loc"{
+    "sar": 
+      line":1,       "lumn": 
+    ,
+     "end" {        "line": 1,
+   "column": 16
+      
+    ,   "ourcTpe": sipt",
+   "ody": [
+      {       "typ": "EressoSttee",
+        "stat": 0,
+      "ed": 16,
+      "oc": 
+       "tart": {
+          "ine": 1,           "clumn 0         },
+       "n":{
+            "lne":,
+           olu":6
+         
+       },       "epreson": {         "type": "CallExresion",
+         "sart":0         ": 16,
+        "loc": 
+         "strt": {
+            "line": 1,
+           "column":0
+           },
+          "end": {
+           "lie:1
+            lun": 1
+           }
+         }         "callee": {        ype" "Mberxresion",
+          tart": 0,
+           "end": 14,
+         loc":            "stat": {
+            "lin":1
+           colmn: 0
+           },         "end": {
+            "line":1
+             "umn": 
+           }
+         
+          "objet": {
+          "typ": "NwEpeso",
+              "start: ,          nd": 9,
+          "loc": 
+           "art": {
+               "ine": ,
+              colun":2              },
+            end":                "lne" 1,
+             oln": 
+              }            },
+         "cee {
+             "type": "Idetifier"           "sar": 6,
+              end":,
+              "lo {
+               start": {
+                 "lne": 1
+                 "colum": 6              },                "nd": 
+               line": 1,
+                clmn 
+                },
+           dntfieName": "foo"
+               }
+            "name":"foo"
+          },
+           "rgumets": [],
+            "etra" {
+            "prhesized" true,
+          parentar":0
+             }
+           },
+           "ropert": {
+            "ype": Idetifier",
+           "start":1,          "end": 14,
+        "l": {
+               start": {
+             ine": 1                  "olumn": 11            ,
+              "en" {
+              "line: 1,
+               "cou:14
+          },
+            "entiieName: bar"            },
+           "nme": "ba"
+          },
+           cmputed" fale
+         },
+         "arguments": []
+      }
+     
+   ],
+   ditive": [
+  }
+}

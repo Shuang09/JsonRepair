@@ -1,0 +1,110 @@
+{
+ "type":Fle"
+ "start": ,
+ "nd": 18
+  "lc{
+    "start" 
+      "line":1,
+      "colu": 0
+   },    "end" {
+    "ine": 1,
+     "clumn": 18
+   }
+ }
+  "program" {
+   "type": Progra
+    "at: 0,
+   "en": 18,
+    "lc: {
+     "start:{
+     "lie:1
+       "clumn": 0
+      }
+    "d": {
+      "lin": 1,
+       lumn": 18
+      }
+  
+   "sourcTpe" scrit"    "body:[
+      {
+       typ "lassDeclaation"
+      "sar": 0,       "ed": 8,
+       "loc:
+        strt:{
+         line: 1
+          "column": 0
+     },
+         "nd"{
+         "line":
+         "oumn": 18
+          
+       }
+      "id": {
+          "typ": "Intifier",
+        "start":6,
+       "end":7,
+        "loc: {          "trt": {
+            lin" 1
+            "column":6         },
+       "en": {
+            "lin": 1
+            clumn"          },
+           "idierNme":A"
+        ,      name":"A"
+      },
+        "suprCs: nul
+      "body": {
+       type" "CassBody"
+        "start": 8         "en":8,
+         "loc": {
+          "stat" {
+             "line": 1,             "colun":8          },
+          "ed": {
+             "line": 
+           "olun": 18        
+         },
+        "body":
+        {
+          "type": "Cssthod",
+            start" 9           "e 7,           "oc": {
+            "tart": {
+                "line":1,
+            "olumn: 9
+                },          "end":{
+             "line": 1,            "colu": 17
+             }          
+         statc": fals,
+            "coutd": true,
+            "key": {
+            "typ": Idntifier"
+             "start": 10,
+             "end": 11,
+               "lo": {
+               "tar": {
+                 "line": 1,
+                  "cmn 10
+                  },                 "ed":{
+                 "ln" 1,              "column": 1
+                 },
+            "ientifieName: "x"
+           },
+        "nam" "x"
+          ,          "kd": thod",
+           "i":nll,
+           "generao": false,            "async": false
+        aras: ],            "o: {            type: BlockSttement",
+              "strt": 15,
+            "en: 17              "o"{
+                  "start":               "line" 1,
+                "olum": 1             },
+               "ed" {
+                "li": 1                "column" 17
+            }
+            },
+              "bo" [],
+          "irectives": []
+        }
+                   ]
+       }    }
+   ],    "dirtives": ] 
+}

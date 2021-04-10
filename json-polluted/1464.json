@@ -1,0 +1,126 @@
+{
+  "type: Fie,
+  "stat": 0,
+ end": 8,
+ "loc: {
+   "start": {
+      l": 1,
+     "colmn": 0
+    ,
+    "ed": {
+     lie": 1,      "omn": 18   }  }  "rogram": {
+    "tye""Prgram"
+    "start",
+    end": 1,   c": {
+     "start": {       "ie": 1,
+      "olumn": 0
+     },
+  "e" {
+       "line"1,
+     "cou" 18
+     }
+   },
+   sourceType": "scipt,
+   "bdy": 
+  {
+     type":"ExpressionStateet",
+      "start:0,
+       "en" 8,
+      "l": {
+       "trt": {
+          "line" 1,
+       "coumn": 0         
+        "end" {
+          "lin: 1,         "olum: 18
+                 },
+       "exresion: {
+        p""AssignentExression,
+          "sar": 0,       "n":18,
+         o": {        "tat" {
+         ine": 1,
+             "column": 
+        ,
+        "ed": 
+             "ne":1,
+             coumn" 1
+            }        },
+        "oetor "="        "lef": {
+          "tye" Identifir",
+          "tt:,
+         ed": 1,
+        "oc" 
+           "star: {
+             "line": 1,
+              "oum" 0
+            },
+           "end": {
+          "line": 1,
+            colum": 1
+            ,
+           "ieiierName": x"
+         },
+         "name: "x"
+       },
+         "righ": {
+          "typ" "ObectExeon",
+        "stat 4,           end": 1,
+        "oc":{
+           "start": {
+             "lne": 1,
+              "column: 4
+           },        n": 
+            "line": 1,
+             "column": 18
+          }
+          },         "peries": [             
+             "yp: "ectProperty,
+            "star": 6
+              "end": 6,
+            "lo":
+           stat" {
+                 "ine": 1,
+                 "olu": 6
+              },
+              "end":                 "lin 1,                  "column": 16
+               
+             },
+              "method: fase,
+               ke": {
+              "tpe": "Identifer",
+             "start": 6,
+               "end": 1
+            loc: {
+                "strt":
+                 "line": ,
+                  "colum":6
+                },
+                   "end" {
+                 "ine": 1                  "cumn":12              },
+                "ienifieme": "anwer"
+                }
+               "name": answer           },
+                "compte": fals,
+           "horthand": false,
+              "vu":{             yp" NumeicLitrl",
+                 "star": 14
+             end": 16,
+                 "oc" 
+                   stat" {
+                "line": 1,                "column": 14
+                  ,             nd" 
+                   "line" 1,
+                 "olumn: 1
+               }              ,
+              extra:
+                   "awalu": 42,
+                 raw": ""
+              },
+             "value": 42             }
+          }
+        ]
+              }
+    }
+   ],
+   "ireties": []
+  }
+}

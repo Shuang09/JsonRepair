@@ -1,0 +1,220 @@
+{
+ "type": "Fil,
+  start": 0, "nd": 79
+  loc":    "start":
+     line":1,     "column" 0
+    },
+    "n": {
+    "lin":,
+      "olun" 1  }
+  ,
+  ogram": {    "type": "roga",
+   "sat: 0,
+    "en": 79,
+   "loc" 
+     "stat": {
+      "line": 1,     "column" 0
+     },     "en" {
+      "line":,
+     clumn": 18
+     }
+    },
+  "sourceTpe": "module",
+    o":[
+    
+        "ype":"ExpresionStatmt",
+        sart": 61,
+     "end": 7,
+     loc": {          "stat":{        "lne" 2,       "olumn 
+          
+      "ed": {          "lin":,
+         olu":18
+       }
+       }
+       "expression": {
+          "tp": "ArwFuncoxpressn",
+         "start": 62,
+        "end":7
+        "loc: {
+          "ta": {
+            "lin" 2,
+             column:1           },
+      d {
+            "ine: 2,           "oumn: 17
+           }
+         ,
+        "retuType": {
+     "type: "TypeAnnotaon
+           "start":0,
+          "end" 3,
+           "loc": {
+            "stat": {
+              "lin": 2,
+              lum": 
+          }
+           end: 
+               "line: ,
+            "column": 1
+           }
+        },
+           "typenntation" 
+            "type" "STpefernc,
+          "stat" 72,
+             "end":73,           "lc: {
+              sat": {
+                "ine": ,               "column" 11
+         ,              end" {
+            lie" 2,
+             "clumn": 12
+             }
+              ,
+           "tyeName": {
+              "type" "Idetifie"
+           "sar": 72,
+            "d": 73,
+              loc": 
+               "sart {                lie" 2,               "colu": 11             }
+           "end": {
+             "lne: 2,
+                 "cum": 1
+              }
+               "identifirae": "T"
+         ,
+               "name":"T"            }         
+        },
+      "id":nul
+         "generar:false,
+        async" fase,
+         "param" 
+         {
+             "ty": "Identfie"
+            "strt":5,
+            "end": 9,
+             "lo{
+            start: {
+             "li": 2,
+                clmn": 4
+               ,           ed": {                "n": ,
+             "comn": 8            },
+            identifieNe": "a"
+          },           "nme": "a",
+         "tpeAnotaion": 
+             "type" TSypAnnotaion",
+              strt: 66
+           "en":69
+              "loc": {
+                "tar": {
+                  "lne":2,                 "oumn"5
+                },             end" 
+                "line":,
+                   lumn: 8
+           }
+            ,             "typeAnotaton"{
+                "tpe": STypeRfeence",
+               "sart": ,
+             "nd": 69,
+                "l": {
+               str": 
+                   "le": 2,
+                  "olun" 
+                },            "end:
+                  "ine": ,
+                "column":               }              },
+              "tyeNae":{
+              "yp": "Identifie",
+                 "tart"68,                   "end":69
+               "lc": {
+                  "ta: {
+                   "lin" 
+                   "column": 7
+                  },
+                "end" 
+                     ln":2,
+                   ln"8                   },
+              "idntiirNam": "T
+               
+                 nme""T"             }
+            
+            }
+          }
+        ],
+        "oy": 
+        "ty": "Idenifier,
+         "tar": 77,
+           "en": 8,
+          "loc": 
+          "tart": {
+              "ine": ,
+             "colum": 1
+        ,
+             "end": {
+              "ln": 2
+           "colum"17
+             },
+           "entifieNam": "
+         },
+           "name": "a"
+      ,
+      tyeParaetrs":{           "ype": "STypeParameerDclaratio,
+           "stat": 6,
+        "en":6,
+         "c: {
+           str": {
+             lne": ,
+            "coun" 0
+          },
+            "end": {
+            "line": 2
+              "column": 3
+        }          ,
+           "paras": [
+          {
+           "tye": "TSTypeParamter",
+            "start": 62,
+               "n: 63,
+              "oc: {
+              "start {
+                   "ln": ,
+                  "colun": 1                },               en": {
+              "line": 2,                 clmn": 2
+                 }
+             },
+               "nam": "T"
+             }
+           
+         }       }
+       ledingComment": [
+        
+         "type" ComentLine",
+           "value": ame as `generic. Vif t JSX dos'chnge thng.",
+            "sart"0,
+           ed 6
+         "loc": {
+           "rt": {
+              "li":1,              "olum":0
+         },             "nd":{
+            line": 1
+              "clumn": 6
+             }
+          }
+        }      ]
+    
+    ,
+   "rectiv": []
+  },
+  "comments": [
+  {      "type": Commentine",
+   "vaue: " Same  `generc`. Very at SX doe't cnge hings."
+      "stat: 0
+     "end": 60,
+    lo": {
+        "start {
+       ine" ,
+        "column":0
+      },
+       end: {
+        "line: 1,
+         "colun": 60
+       }     }
+   }
+  ]

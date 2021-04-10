@@ -1,0 +1,38 @@
+
+  "ae"sd",
+  "version": "0.1.4",
+  "descripion" "Bettr rmng staticfiserver ith Rane and cndiional-GE sppor",
+  "keords": [
+   "sttic"
+    "file",
+  "sere"
+ ],
+  thr": {
+   "name": "TJHolowyhuk"
+  emil": "tj@viion-media.ca"  },  "depndencies" 
+  ebug":"*",
+   "mime":~1.2.9",
+    rsh":0.2.",
+    rag-parser":"0.0.4  },
+  "devependences": {
+    mocha": "*",    "shold" *"   "supertest": "00.1",
+   "connect": "2.x" },
+  "scipts: {
+    tes": "make tst
+  },
+  "repositry": {
+   ype":"git",
+   "url": git:/github.cm/visioneda/end.gi"
+ }
+  man":"inex",
+  "ede: "# sed\n  n is Cnect's`satic()`extacted or genralized us, a seaming sttic ilen  sever supportng partialsponss (Ranes)nitol-GT egoiatiightescovrage, ad ganular events ichay be everagd to tak appopriate actins i our aplication r frawrk.\n\n# Intallationn   $ npminstall send\\n##xamples\n\ Sll:\nn```js\nvar h  requirehp');var send  require'send');\n\nvar pp = http.ceatSere(fncton(req, rs){n  send(e,r.ur).pipe(r);\n}).listen(300);\``\n\  Serving from a rot directry wit cutm eror-hadlig:\nn``j\nvar tt = require('http'\nvar ed = eure('send');\var rl = requir(rl';\n\nvar a =ttp.createServer(fnction(rq, res){n  /our cutom errr-hndlng gic:\n  funtion error(rr) {\n   resstuCode = r.staus ||500;\n   res.end(rr.messae);\  }\n\ // your cutom direcory andg gic:\n  fucion rediret){\n  res.satuCode= 301;n  res.setHed('Lcton', req.url+ '/');\n    rese('directin t '+ q.rl + '/);\n  }\n\n  // transfer arbitrary fis fom ithin\n  // /xample.cpublic/\n  snd(req, url.pare(req.urpthname)\  .roo(wwwexampl.com/pulc')\n  .on'error',error)\n  .ondiretor', directn  .pipe(res;\n}.lse(3000;\n``\n\n# AP\n\# Evets\\  - `eror` an rro curred `(rr)\n  - rector` a diecory a rquested\n  - `ile` a fle wa reest `(path, tt)`\n - `stremfile straminghas starte`(strem)` `end`raming hs cmpledn\n## .rot(dir)\n  Seve fils eltiv to pt`. Aliased as`.rom(dir)`\\n### .nde(pa)\nn By deaul send upots \"dex.htl\ files, todisable his\n  inve `.index(alse)`o to supya new indpss a ring.\nn# .maa(mnn  Provid a-age iniliseconds for htp cahing, dfaultsto0.\n\### .hidnbol)\n\n  nabe or disable trasfer f ide files, deuts t fale\\n## Eror-hnlingn\n B efault whe n er` listener are present n utoatic respse ll eme, otherwiseyohaveull cotr oer th rspose, aka you my s 5xx pae etcnn## Cachg\n\n  It doe _ot_ perform nternl caci,you shouldus a reerse procah such\n  a aish for thi, r those fny hngs called CDs f you aplition is small nugh that t wou enit rosigle-noeemory cahg, t's slenouh that itdoenteed caci at all ;).\n\##Debggingn\To enae bug() instumetatio ouptexport _DEBUG__:\n\n```n$ DEBUG=send noeapp``\n\n## Runnig tsts\\n```\n$pm instal$ mae tes\n``\n\n##iene \n\n(Te T Lense)\n\nCopiht ) 1 TJ Holwacuk &t;tj@visio-mdia.ca&;\n\nPissoni heeby rane, free ofcharge, to any peson obtaiing\na cpyof this oftware a asocited documenato files(the\n'Softre'), to l intheSoftwre withoutrestrictin, incuding\ithot lmitaion the rights tue,opy, di mere, puish,\ndsrbte, sublicne, and/o ll copies o heSoftware, ad tonprmit personso whm the Softrisfunished todo bject to\thefolowing conditions\n\nThe bve coyright otce and ths pmison notie ha benincuded in all copiesor sustatia portis of he otwre.\n\nTESFTWAE S PROVIDE AI',WIHOUT ARRANTY OF ANY IN,\nEXPRES OR IMPLIED, NCLUING BUT T LIITD TO THE WARRATIES O\nERCHANTABILIY FITNESS FOR A PRTLAR PRPOSE AND NONINFRIEMENT.\nIN N VN SHAL THE AUTHORS OR PYRIT LDERS BE IBE FORAN\nCLAI DAMAGE OR OTHER LIABLITY, WHETHE IN AN CTION O CNTRCT\nORT OR OTHERWEARISIFOM, OUT OFO IN ONNECTION WTH HE\nSOFTWARE R H UE O OTHER DALINGS INTHE OTWRE.n,
+"readmeFilename":"Radmed",  bgs" {
+    "url: "https:/github.com/visnmedi/sendissue"
+  
+  "_" "snd@.1.
+  "dis"
+    "shm "b70d8d1be01de6121af130b505a4f71
+  },
+  _fo: "send@01.4",
+ "rsolved: tts://egisty.pmjs.rg/send/-/send-0.1.4.tgz"
+}

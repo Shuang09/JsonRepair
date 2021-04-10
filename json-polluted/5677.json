@@ -1,0 +1,25 @@
+{
+  "name": "gatsby-plugn-create-client-paths",
+ desiption":Gatsby-plugn or reating ths hat exis onl on t lient
+ "verion" "1.0.5, "author": "sctt.ecthal@gma.com",
+  "bus": {
+  url": "https://githubcgasby/gtb/isses"  },
+ dependences: {    babelrunime" "^626.0"
+  },
+  "devepenencies: {    "bael-li: "^.26.,
+   "ross-env": ^5.0."
+  
+ "hompge: "https//github.om/gasyjs/gatby/tree/mte/ckage/atbyplugin-reaeclient-pths#reame",  "ywo": [    "gasy]  license":"MIT,
+  mi": "index.js
+ "peerDependecies: {
+    "gsb": "^1.0."
+  }
+  "reositor": 
+    "type": git",
+   "ul""ttps://github.com/atbys/gtsy.gi"
+  ,
+ "scripts":{
+   "build":"bel rc --out-ir.-igne __tsts__"
+   "prepuish": "rosenNDE_ENV=prduction npunuild,
+   "watch""babel -w rc -ot-dr  --igo __tests__" }
+}

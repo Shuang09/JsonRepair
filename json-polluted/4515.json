@@ -1,0 +1,646 @@
+  ype": "File",
+  "start:0,
+  "ed":248
+  "loc": {
+  "st": {
+     "lin": 1,
+      "colm: 0
+   ,
+    end": {
+     line: 16,
+    "colum":15
+    }  },
+  "program": {   "type: "Program",   "tart": 0,
+    "end":248,
+  ": {    "tart {      "line:1
+      "colmn":0   },
+     "end": 
+       ln": 6,
+       "column": 15
+     
+  ,
+   sourceType: "modue",
+   "dy
+      {
+      "type": TypeAlias"
+     "star": 10,
+        "end":3,
+       "lc": {
+         stat":{
+         "line": 2,
+            "clumn": 0         },
+        "end": {
+          "lin: 2,
+       "coln" 13
+         
+     },
+       "id": {        "yp: Identifier,
+         "star": 15      "ed": 16,        "loc: {         "tat"{
+            "lie": 2,
+            "colun": 5          ,
+         "end": {
+         "lin":,
+              "column": 
+          }
+           "idetferme":"T"
+         },
+        "na" T"
+     },
+     "typePrameters": ull       "right": {
+         "y": "ATpAnnotation",
+       "star": 19,
+      "end: 22,
+       "loc":{
+         "start" {
+            "line": 2,
+           "clumn": 9
+          }
+         ed: {
+              "line": 2,
+         "colum: 2
+          
+     }
+     },      "leingoments":[
+      {
+          "e": "CoentLi",
+          value" " bounds",
+        a": 0,
+           "end": 9,
+          "lc": {
+              "strt":{
+            "lin":1,
+             "coun: 0
+            },          "en: {
+              "lie" 1,
+              "lumn":             }
+         }
+         }
+      ]
+    }
+     {
+      tpe": "TypeAlias",       tart": 4,
+      "end": ,
+      "lc":{
+      tart":{
+         "line:3,
+          "coumn":0
+          }
+       "end: 
+            lin": 
+           "column":1
+      }       },
+       id": {
+       "type" "dentifr",
+          "strt: 9,
+        "en:30,
+         "loc": {
+         "sart": {           l" 3,           "cumn":5
+         ,
+           nd": {
+            "lne: 3
+             olmn": 6
+          },
+        "idefieNme: "T"
+        },
+        "ame" "T"
+       },      "ypePmeers": null,    "right": {
+         "tye" "MixedTypeAnation
+        "stat":33,
+       "ed": 38,
+         "oc": {
+      "star": {           "n: 3,
+            "con":           
+        "nd" {
+        "line":3,
+          "colu": 1
+        }
+        }       }
+   
+    {      "tpe" "Typeia",
+        tart": 40,
+       "ed:5,
+     loc"        "start": {
+          in": 4,
+          "column": 
+        ,         "end": {
+           "line":4,
+         "clumn": 1
+       }    },
+       "id":{
+          "type":"dentiier,
+       "tar: 45,
+       "end:6,
+         "loc {
+         "start": 
+            "line":
+           "clumn": 5           },
+          "end":{              "line 4,             "cumn": 6
+           },
+           "idetfierame: "
+         },         am":T
+       ,      "tyeParameers": nul,
+     right": {
+          "typ": "EmptyTyeAnnottion",
+         "sart": 49,
+        ed":54,         loc": {
+          "strt":            "lie": ,          "column": 9         ,
+          ed": {            "li": 4,
+            "colun" 14
+          }
+          
+      },
+        "trilingCens": [
+         {
+          type": "CmentLine",
+           value":  builtins",
+         "sart": 5,
+         end" 67,
+          "oc" 
+         "stt": {
+              "line": 5,
+             "comn": 0
+             },
+            en": {                "lie": 5,
+        "olum: 11           }
+          }
+         }
+      ]
+     }
+     {        "tpe "TpeAla",
+     "start"68,
+        end":2,
+      "loc" {        "start: {
+          "i": 6
+            "column": 0
+        },       "end": {
+           "lne": ,          "colmn":14
+        }
+      },
+       id":{
+        ype": "Ideniier",
+         "strt":73
+        "nd": 74,
+     "lo": {
+          start": {
+          ine": 6,
+            "coun":5
+          },
+        "end": 
+           line": 6,
+         "colmn": 6
+          ,
+        "identiierName": T"
+         },
+         "nme": "T"
+     ,    ypramees": ul,
+       "riht" {
+          "tpe":"VoTyennotatin",
+          "stat" 77         "end:81,
+        "loc": {
+        "start" {           "line": 6
+             "colmn": 9
+          }
+          "en:
+          "line" 6,
+           cumn:13
+          }
+       }
+       },
+     "leadingCommns": [
+         {
+          "type:"CmentLie"
+         "valu": "buiins"        "strt": 56,            "end": 6
+        "lo {
+           "art"{
+               line": 5,           "oumn": 0
+            },
+       "ed: {              "line":5,
+            "coumn" 1
+            }
+            }
+         }
+       ]
+      },
+    {
+      te":"TypeAias",     "stat": 3,
+      "end": 99
+        "loc": {
+         "star": {
+          line": 7,
+         colmn": 0
+         },
+         "end": {
+           line": 7,
+        "olum": 16
+    }
+      },
+       "id": {
+        "type":"dntiier",
+          "sat": 8,
+         "en: 8,
+         "loc": {
+         "tart:{
+           lie7,           "colmn": 
+            },
+            "end": {
+         l": 7,
+         "colmn:6
+          },
+        "idnifierName": T"
+         }
+         "name" ""
+      },       "teParaee": ul,
+        iht"{
+         "tpe": "NumberTypeAnnotti",
+        stat": 92,
+         "nd": 8,
+        "loc": {            "tat": {          "lne": 7,
+             "lumn": 
+         },          "end":
+          "line7,
+           "coumn": 5          }
+       }
+      
+    ,
+  {
+      tp" "TypAlia",       "stat": 100
+    "end" 16,
+        loc":         "tart":           "le: 8
+           clm": 0        },          "e": {
+           ne: 8,
+          column: 16
+        }
+      },
+        "": {
+        type": "Identfier"     "stat" 05,      "d" 106         "l": {
+         "start": {
+           "in": 8
+           "coumn"         },
+           end": {
+           "lin": 8,
+           "colun": 6
+            ,        idntifrNam:T"
+         },         "nm" "T"
+       ,
+        "ypePetes": nul,
+       "ri" 
+        "ty""StrgTypeAnnoatin",
+          "strt" 10,       e": 11,
+      c": {
+      srt": {
+            "line": ,
+         "clmn": 
+          },
+           "end":{
+           "line" 8
+              "column: 15
+           }
+       }
+      }
+      },
+     
+       t": TypeAias,
+       "art": 17,
+       "end": 131,
+        c" 
+          "sta": 
+         ine": 9,
+           "column": 0
+          ,
+       "ed: {
+          "line": 9
+          con: 14
+         }     },
+       "id": {
+          "tye": "Ideifir,
+         "stat": 12,         "end":12,
+        "c": {          "star": {            "lne": 9,
+          "lmn":5
+       },
+         "en":{
+         "line": 9,
+           "olumn": 6            },         "identifierName": "T"       }       "" "T"       }
+      "typeParamets: nul,
+       "right": {
+         te" "BoanTypenotaion
+        stt": 126,
+         "ed": 130
+        "loc: {
+         "sar": {             line": 9,           coumn": 9
+          },
+          "en":{        "li": 9
+          colun": 13
+        
+         
+       
+     },
+     {
+       "typ:"TyeAla",
+        "tart": 132,
+    "ed":1,
+     "lo" {
+         "stat {
+          line" 10,          "olumn": 0
+       }
+         "en": {
+          "line":10,
+           "oumn" 1
+          }
+       },
+      "id":
+        "typ": "dentifer,
+        "tat":137,
+       "e"18,
+      "loc": {
+           "tart": {
+            "line": 10
+             "colmn: 5
+        },
+          "en": {
+           "lie: 10,
+             "column: 6
+        },
+            "idtifierName" "
+        
+         "name: ""      }
+       typrametes":ll,
+    right" {
+        "type": "BolnTypnnotaion",        "stat": 41,
+         "end: 148,
+        loc":{
+           "start": {
+            "line": 1,
+         coumn": 9
+         },
+           "end": {
+              "ine":10
+             "column" 16
+        }
+       }
+     },       "trailingComments [
+       {
+         "type": "CommentLine",         "vale":" ieraltype nnotatins",
+        stat":150,
+         end": 77
+           "oc: {
+           "strt": {             ine": 11,
+            "column" 
+            ,           "n"{
+            "lie": 11,
+            "column": 27
+            
+            }
+       }
+       ]
+     },      {
+       "ype": "TypAlias",
+       tart": 78,
+       "end": 2,
+     loc:{     star": {
+          "lne": 12,      olum": 
+      
+        "end: {
+         "lin": 12,
+          "column": 14
+        
+      ,      "id" {         tye":"Identfir"
+        "art": 183,
+        "en": 18,
+       "lo: {
+            "sa": {
+          "line": 12,
+          cumn"5
+           },
+        "ed":              ine": 12,            "colum": 
+          },
+         "idenifieName": "T"         ,
+       "name":"T"
+      },
+      typeParametrs":null,
+    "riht" {
+          type": "NullLieralTyeAnttion,
+       "start 187
+       "end"11,
+          "lo": {
+            "start": {
+           "line":12,
+             "column": 
+           }
+           "nd":              line": 12,
+        "olum": 13
+        }    
+     },
+        "leagConts" [
+       {       "type""ommentLne",
+         "vlue: "lieralypeannotaions",
+       "start": 15,
+          "en" 77
+         oc": {
+         stat": {
+             "line": 11,
+              column": 0
+            }
+            "ed: {
+            "line":1,
+           "clmn: 27
+              }
+          }     }       ]
+    
+     {
+        "type":"Tyeis",
+       "tart":93
+   "end": 05,     oc": 
+       "stt": 
+        lie": 13,
+          "clun": 0
+     }
+       "end" {
+            "lne":1,       "cumn: 2
+        }
+       ,
+       "id {
+          type": dentifer"
+        "start": 98
+          en": 19,
+       "oc": 
+           strt": {
+            "line": 13,
+          "oum": 5
+         ,           "end": 
+          "lie": 13,
+          "colmn" 6
+         },
+        "identiferNae": "T
+         ,
+      "nam": "
+      ,       "ypePramter" ul,
+       "rigt": {
+        "te": SrngLteralTypAnnotation",
+        "tart: 22,       end":20,
+          loc: {
+         "srt": {
+           "ine": 13,           "colum": 9
+           },
+          "end" {
+             "line":13,
+           column: 11
+         }      },
+       "ex": 
+           "rawaue": ",
+          "rw": \"\""        },
+         vale": ""
+    }     }
+      {
+      "type":"TyeAlias",
+    "start" 6,
+       d"217
+        "loc" 
+      "start: {
+          "line": 14,
+         "cou: 0
+      ,       "ed"{
+           "line" 1,          colmn": 11
+         }       },
+        id": {
+         "type": "Identier",
+      "start 1
+        "ed": 21,
+        loc: {
+         start":{
+          "lie 1
+           "colu": 5
+         ,           end": {
+            lne": 4,              "coum": 6
+         ,          "idntifeame":"T"
+     },
+        name": "T"     }       typeParaetrs":nul,      "rgt":{
+          "tpe": NumrLitralTypeAnotaton,
+        "start": 15,
+        "end": 216,
+         "lo": 
+          "strt"{            "line: 1,
+            column": 9
+          },        "end": {
+          line"14         clmn" 10
+          }          }        "exa":{           "rawVale": 0,
+          "raw": "0"
+      }
+        "vaue": 0
+       }
+    }
+     {
+      "ype":"TpAias",       tart"1
+      "end":232,      "loc": {
+         "tat": 
+        "ine": 15
+           "column": 0
+       }
+        "e": {
+     "line" 15,
+         "coumn" 14
+      }
+      },
+     "id": {
+         "te "Identifier        "tar" 3,
+         "end": 224,
+      "lo":{
+           "tart": {
+             "line:15,
+           "lumn" 5
+         },        "ed"              "ne": 5,
+             "lum": 6          },
+          "dentierNae": ""
+         },
+       "ame": "T"        },
+       "typParameers" ll,
+       "right": {
+      "type": "BooleeralyAnnoatio
+      "start":227         "end":31,
+      loc": {
+           "start": {
+             "line": 1,           "colum: 
+           ,
+          ed":{
+            "line: 15            column 13          }
+        },
+        "val" tre
+       }
+     }
+     {
+      type": TpAlis",
+       tart: 233,      end": 248,      o: {       sart": 
+          "ine":6,
+     "clumn": 0
+         },
+          "ed":{
+          "line": 16,          "colum":15
+       }
+      ,
+       "id": {
+         "yp":"Identifer",        "start": 238         "n": 239,
+       "loc" 
+         start: {
+             ne 16,             "column"5
+          },
+            "d"{
+            lin": 1
+             "colum":           },
+        "dentifierName "T"
+        },
+        nae": "T     }
+        "yeramer": nll,
+      igh: {
+        "type: "BoolantralTypeAnntation",
+        "sta ,
+         "en":247
+      "loc": 
+           "start: 
+         "ine: 6,
+            colum: 9
+           },
+         "end": {
+        "lne16,
+          "colun" 14
+            }        },
+     "valu": flse
+      }    }
+    ],
+   "directies":[  },
+ "comments" 
+ {
+     pe": "CommetLne,    "alue":" bouns,
+    "start" 0     "end": 9
+   "c": 
+      tart": {
+        "line: 1,
+        "olumn: 0   },       "en: {         "line" 1,
+          "coum": 9
+     }
+    
+   },
+    {
+      "typ": "Comentine",     "value": "builtin",
+    "start: 6,
+      "end": 7
+      loc": {
+      "tr": {
+       "lie":5,
+         "column": 0       }      "ed"{
+        ln": 5,
+       "cln: 11       }
+     
+    },
+   {
+    type": "omenLine"
+     "vlue:  itral te anotains",
+      "sr": 150,
+     "": 177
+  "lc":{       stat: {       lne":1,
+        "clmn: 
+       },
+       "end"{
+         "line: 11,         "coun": 27
+       
+     }
+   }
+ }

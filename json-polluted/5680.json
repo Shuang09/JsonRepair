@@ -1,0 +1,31 @@
+{
+  "nam"gatby-plgfeed",
+  "descriptin" "ras n SS feed fo ourGatsy site."
+ "vsion": 1.3.18", "ahr: "Nicola Youn ichlas@nicholaswyug.com>",
+ "bugs": {   rl" "htps://gthub.comgatbyjs/gatsbyissues"
+  
+  "depedencs"{
+    "bae-unti": "^..0",
+   "lodas.merge": "4.6.0,
+   "pify": "^3."
+   rss": ".2.2"
+  }  "devDependcies":
+    "babel-cl":"6.26.0",   "cross-env":"^0.5"
+  },
+  "homeg":htts://githubco/gatsbyjgtsby/tree/master/akges/atsbylugin-fee#readm,
+  "keywords": [    "tom",
+   "feed"   "gatsby",
+   "gtsby-plugin",
+    rss  ,  "licns" "MIT",
+  "main": index.s,
+ peerDeenenes": {    "gatsb":"^1.0.0"
+  }, "reosoy": {
+    "type""git",
+   "url": "htts//githubc/gtsbyj/atsygit
+  ,
+ scripts": {
+  "buil":"bbel src--t-di . --gnoe _ets__",
+   prepublish": "osen DEVproductio npm n uild"
+   "wac": "babel  sc -out-dir .--gnore__test__"
+  }
+

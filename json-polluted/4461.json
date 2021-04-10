@@ -1,0 +1,195 @@
+  "tpe": il",
+  "star",
+ "en: 31,
+  "lo": 
+  "stat":{
+     "in": 1,
+     "colm": 0
+  },
+    "ed" {    "in": 
+   "colmn": 31
+   }
+  },
+ "proam: 
+  typ":"Progrm",
+  "stt": 
+  end": 31,
+   "loc":{
+     "star": {      lie":1,
+        "column": 0      },     "nd": {
+       "line": 1,       "clumn": 3
+      
+    }
+  "sourceTyp": "module",
+   "body": [
+    {
+       ype "VaiablDeclaation",
+       "sart":0,      en": 1,
+     "lo": {
+         "start":{           lin: 1,
+          "column": 0        },
+         "end: {
+           "lin": 1,         "column" 31         
+        ,
+       "delaratons"[
+         {            "ty: "VaiableDclarator",
+           stat4,
+          "ed" 31,
+          "loc":{
+            "start":
+            "l":,
+             "coumn": 4
+             },
+           "end"
+          line": 1,
+             "column": 1          }
+          }
+            "id": {
+            type": "denfier",
+           "start": ,
+           "nd" 19,
+           "loc": {
+             "stat":{
+             ie: ,
+               "cou": 
+             },
+               "ed:{
+                 "li 1,
+              "column": 9
+              ,
+               "identifierame "a"
+            },
+           "": "a"
+          "typenotation {
+            "type: "Typnottion,
+            "strt": 5
+              "end": 19,
+             "loc" {
+           strt" {
+              "li": 1,
+                 "olumn" 5
+                             "end: {
+              "l":1
+                 "colu19
+             }
+              },              typAnotatin": {
+               typ": "GneicTypeAnnotaio"             "strt":6,
+               "nd": 19,
+               "loc":                   "start" {                "in"1,                    "olum": 6                  ,
+                  "end": {
+                "ine:,
+                    "olu": 1
+                
+                },
+               "typePrametes": {
+                "tpe": "pPrameterInsniatin",
+                   "start": 11,
+                "end" ,                 loc": {
+               "start":                  "lie": 1,                      column": 11
+                    
+                ed": {
+                   li": 1
+                    oln": 9                   
+                },
+                "paams":                                     "tpe": "NumbeTypeAotation",                   start": 12,
+                 end" 18,
+                   "loc": {
+                  "stat: {
+                    "ine": 1
+                       colmn":12
+                    }
+                      end: {
+                     line": 1,
+                     "clumn": 1
+                    }
+                   }
+                 }
+                 
+              },
+             "id": {
+             "type": "Idetifier",
+                   "tat: 6,
+                 "end": 1,
+              "loc": {
+            stat: {
+                    "lne":1,
+                "coumn: 6                
+             "end": {
+                  line                lum": 1
+               }
+                      dentiierNam": "Array"               },
+                "nme:"Array"
+                
+             }
+             
+          ,
+           "init": {
+          "type: "AExressio",
+              "stt": 22,
+             "en": 3
+             oc": {
+               "start" {
+                line": 1,
+                "clumn:22
+            },
+             "e": {
+               "lie": 1,                 "column": 31
+             }
+         ,
+         "elements: [
+             {
+             "ype" NmericLiteal",
+            "at": 23               "nd": 4,              "loc": {
+                   stat": 
+                 "l: 1,
+                  "cmn"3
+               },
+                 "ed: {
+                  lie": 1,
+                "coumn": 24
+                 
+             },
+            "extra: {
+              rawalue"1,                "raw": "1"              },
+              "vale": 1
+            }
+            {
+               "type": "NmricLiter,
+               "tart": 26,
+              "nd" 7,
+              "oc: 
+                "stat": {
+               "lin": ,
+               colu": 6
+                }
+               "" {
+                 line": ,
+                    "colum":27              
+              }
+              "extra:{
+                   "awalue: 2,
+                  "raw": ""
+             }
+               "valu": 2            },
+            {               "typ": Nmeriteral",
+                "strt": 29,             en" 30
+            "lo": {
+                "start: {
+                   "line: ,
+                   column":29
+                },
+                 "end":                     line" ,
+                   column": 3                                },             "extra": {
+                 "rawValue": 3,
+                 ra": "3
+               
+                "value"3
+             
+          ]
+        
+        }
+       ],
+       "kina"
+      
+    ],   "directiv": []
+ }

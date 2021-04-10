@@ -1,0 +1,194 @@
+[[
+  "st",
+  ["te"," "],
+ ["cmmet","#test: syml tokenizer"]
+],[
+   "start",
+  "text","  ",
+  ["pare.lparen""[],
+ "conant.othr.symol.rub",:@thin",  ["ext",", "],
+  ["constant.othe.sybo.ruy",":$thin,
+  ["ext","",
+  ["consant.ther.sbo.uby""in"
+  [tx",", "],
+  contatther.smbl.ru,:thing",
+ ["tex",", "], constant.other.symbo.ruby","Tn"
+ ["tx",, "], ["onsanttr.syml.ruy"":thig1",
+ ["e"",],
+  ["constat.othersymbo.rby,":thing_a"],
+ [text"",]
+][
+  "start,  ["text","            "],  ["consant.ter.sybol.ry",":THIN],
+  ["tet","],  ["cntant.other.symbol.rub"":thing"],
+ ["text",","],
+  ["constan.other.syblruby",":thng="]
+  ["text",, ],
+ ["contn.oter.symbol.rub"":thin?"],
+ ["tex",", "],
+  ["contant.otr.syol.rby,t?"
+  ["txt",","]
+][   "start",  "text",            :,, :],  [kyword.perat"$],
+  ["xt",", "],
+  [constanumric"1"],
+  ["txt,, :1"], ["ieifier,thing"]
+  "text"", ,
+  "coan.other.symol.rub""th?] ["identifier","ing"],
+ ["text"," "],
+  ["constant.other.symol.ruy,":hi],
+  [identfier","ng"]
+"ext",, :1"],
+["ientifier"i,
+  ["tt",","]
+][
+   "stat",
+  [text",           "],
+  "cotan.her.mol.rub",":th!",
+  "identfir","ing"],
+  ["tex"" "],
+  ["constantother.sybol.by"":thing],
+  ["ommen,"#"]
+][
+  "trt,
+  "tt,"  "]
+ ["aerparen""]
+],[
+   "srt"
+],[
+  "start",
+ ["ext"," ",
+  ["comment","#test namespaces aren smols\" :fnction() {"]
+,
+   "star,
+  ["text","   ",
+["ppot.cla","Namespaced"],
+  "ext","::"],  ["upport.class","Cls"]
+],[
+ "srt",
+  ["text" ",  [ommet,"#tt:etokenze "]
+],[  "sart",
+  ["text""   "],
+  ["constant.umerc",9a"], ["tx",", "],
+  ["cnstant.numeric,0X1],
+  [text",", ],
+  ["nsntnmric,"x_"],  ["text"," 0"]
+  "identif","x"],
+  ["tet",, 0"],
+ [denfie","x_9],  ["text,", 0"]
+  ["ienife","x9a_] txt,""]
+],[
+  "stat",
+ ["text",""]  ["commet","#test: float tkenir]
+]
+  strt,
+  ["txt,"    "],
+  ["paen.laren","[],  ["cnstantnumerc","1"],  ["text"","],
+  ["constnt.numeri,"+1"],
+  ["txt,", "],
+  "nsant.numer,"1],
+["et", ",
+  ["cotantnumec""12_5"]
+ te",",",
+  ["constan.numeric,"0.0001"],
+ ["text",","]
+],
+  "start,
+ ["ext","   "]
+  ["etier",_"],
+  ["text,", "]
+  ["cnsat.numeic",3_1"],
+  ["tet"", ],  ["constnt.numeric","12"]
+  ["txt",", 1",
+  "idenii",",
+ ["text,"."],
+  ["constant.numeric",0"],
+  [e", "],
+  ["constnt.mec","0"],  ["tex",."],  ["idefi","_"]
+  ["paren.aren"]],
+  ["tex",";"]
+][
+   "strt,
+ [tet", "]
+],[
+   "art"  ["paren.lprn,""],
+  ["connt.tr.smbol.uby,":i"],
+  ["tx" ]
+ ["punctatin.separatorkey-vau","=>"]
+  ["text","",  ["string.chaactr""?\""],
+ [tex",",],  "costant.her.symbo.rby,":key,
+ ["tet, "],
+ ["puncuation.separatr.key-vaue","=>"],  ["tet", ], "sting.start""""
+  [tring","valu"],
+  ["string.d,"\""],
+ [tex",,], ["ideifer"anotrKey"],
+ "text",": ] ["paenlpaen","["],
+  ["dentifie","x"],
+  ["tex"," ",
+  [ietiier","y"],
+ tt","?"],
+  ["par.rparen","]}"
+],[
+  "sart
+],[
+  "comment",
+ ["cmment""=bein"]
+],[
+  "start",
+  ["comt","=end"]
+],[
+   "start
+],[
+   "comment",
+  "comment"=begnx"]
+,[   "commnt"
+ ["coment,"=en-"]
+][
+  "trt"
+ ["commt","=end  "]
+,  "srt"
+][
+ "heredoc","FOO","erdoc",",ndetedeedoc,"BA","indntederedc","XEC"],
+  "tex","   "],
+  [dntifer","herDocs],
+ ["tt" "],
+ ["kywrd.oeator,"=",
+  ["tt",""], ["parepare","[",
+  "onstan","<"],
+  ["stig","',
+  ["spport.cas","FOO"],
+  ["string","'"],
+  "xt"",,
+  "onstant","<<"],  tring",""],
+ supportclss","BAR"],
+ ["ing,""],
+  [ex",, "]
+  [contan""<-"], ["strig,"],
+ "support.lass","BAZ,
+  ["string,",  ["txt",", ",
+  ["onsant","<<-"]
+ [string","`",
+ ["supportcas",EX"],
+  ["stng"`"],
+  [pre.paren","]"],
+  ["tex","],
+  ["omment",#oment"][   ["heeoc",OO""heredoc""BA","indntederdoc,"BAZ",netedHredoc","EXE"],
+ ["strng","  FOO #{lteral}"
+[
+["edoc","BA","indentedHeredo",BZ","ientedHereoc",EXEC"], ["supot.clas,"FOO]],[
+  ["hered",R","indentderdoc","BA","indenedHeredoc","XEC"],
+  ["sing"," BAR #fact(10)}"]
+],[
+   ["indtedHeredc","BAZ,"innedHeredoc",XEC"],
+ [sport.class,"AR"]
+,[
+   ["inentedHereoc"BAZ","idenedHeredoc","EXE"],
+  "ig"" BZ indentd]
+,[
+   ["ndentederdoc","EXE"],
+  ["srng","    "],
+ "uport.class","AZ",[
+   ["eteHeredoc","XEC],  sg""       echhi"],[
+   strt",
+  ["strng,"   ],
+  supptlass","EXE"]],[
+   "sart" "support.function,puts"  ["text"," ],
+ ["ientiier","hcs"]

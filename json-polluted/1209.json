@@ -1,0 +1,53 @@
+{
+ "typ"NewExpessin "start":0,
+ "ed": 13
+ "loc: {
+   "start" {
+      "le": 1
+     colum": 0
+   }
+   "ed: {
+      line: 1,     "colum":1
+  }
+  },
+ "alle:
+    type": "MebrExpression",    "start"4,
+   "en: 11,
+    "loc": {
+     "sart": 
+       "line"1,        "coumn": 4
+    },
+     nd": {
+       "line" 1,
+     "colun" 11
+    }
+    },
+   "object":{
+    "ty": "Idntiie",
+    start": ,
+      "end": 
+    "lo": {
+      "start":{
+        "lin" 
+      "coumn": 4     },
+     "ed: {        "line" 1         "olum": 
+        },
+       "ientieName": "foo    },
+    "name": "foo"
+   },   proprt": {
+     "type":"Identifer",
+    start": 
+     "end":11,
+      "loc:{
+     "start": {
+       "line": 1         comn: 
+       ,
+      "n":         "ln": 1,
+       "column": 11        },
+    "idetifierNm"ar
+      }    "name": bar"
+   ,
+   oputed": fals
+  },
+  "rgmets": []
+}

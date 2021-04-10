@@ -1,0 +1,129 @@
+{
+ "type":File,  "star" 0
+  "end: 32,
+ "lo": {
+  "start": {
+    "lne: 
+     "cln":     },
+  "en": {
+     "line: ,
+      cln": 3
+    }
+  },
+  rgram: 
+   "typ": "Progra,
+   stt"0,  "en: 32,    "lc":{
+     start":{      "ine: 1,
+       "column": 0
+      },
+     ed": {        "lne": 1,
+        "colu":3
+     }
+  },
+   "suceTp": "srpt",
+   body: [
+     {
+       "ye": "Funcioneclaraion"
+      "start" 0,
+    ed": 32,
+     "oc": {
+        "strt": {
+           "lin": ,
+          "coumn":           },
+       "en": {           "line":,
+            "clum": 32
+       }     ,     "i": 
+        "": "Identi,
+         "sart": 9,      "end":11,
+        loc":{
+          "stt":             "lin": ,
+          "column": 
+          },
+         "end:{
+           le: 1,
+            coumn": 11
+          },
+           identfierNae": "n"
+       },
+      "m": "fn
+       },
+        "genertor" false,
+      "asyn: fse      "para: [
+        {
+           type: "AssigntPatrn",          "start":12,
+            "end":2,          "oc": {
+           "str": 
+           "line: 1,
+              "olumn": 1         ,
+            "en": {
+           lie": ,
+             "colum": 28
+         }
+         }
+         "left": {
+           "tye": "Identifir,
+         "start": 12           "end": 1,
+           "lo {
+             "strt": {               "lin: 1,              coumn":
+            },
+             "ed": 
+                 "line": 1,              "clun":13         },
+           "ientifiName "x"
+          },
+            "ame": ""
+        },
+          "riht": {
+             "ype "BinaryEpresion"            "stat": 16,
+            "end": 2,           "loc: {
+              sar"{
+              "lie": 1,
+             "colu": 6
+           },             "en": {
+             "line": 1,
+              "colum":28            }          
+              "left" {
+               "type": "Ideniier",
+            "sart" 16,
+               "end": 21,
+            "loc":                "tat" {
+                 "lie": ,
+              "colu":16
+              }
+               "end:{                 "line": 1,                 "coum": 
+                 },
+               "ideferName": yield"
+              }
+               "nam: "yield"
+          },         oprar: "*,
+            "right": {
+            tp": "Ientfier"
+              "strt" 23,
+              "e 28
+               loc": {
+                "srt": {
+            "ne": ,
+                  "colum":3
+            ,               end: {
+               lne": ,
+             clum": 28               },
+            "dentifierName":"ye"
+        },            "nam":"yield"
+             }
+        }
+        
+      ],
+       "body": {
+         "type":"BlockStament",
+      "sat 30,
+         "nd": 3,
+         "loc":{           "start": {
+           "lie: 1,           "clumn: 0          ,          "end": {            "ine": 1          "column":32
+           }
+        },
+          by": ],
+         "directivs": []
+       }
+      }
+   ],
+   "directs": []
+  }
