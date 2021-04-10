@@ -9,6 +9,24 @@
 ### json_valid: to validate json files
 ### json_pollute: to generate test_json_dataset
 
+##文件读取代码：
+- 假设读取json-valid 文件
+- 目的是：Vectorize the data. 即首先将文件夹内所有文件target_texts.append；再以char读出字典，后续sort,每一个char都可用向量表示。例如 target_characters = set(a, b, c); a[1,0,0]
+```python
+target_data_path = "./json-valid"
+target_texts = []
+target_characters = set()
+target_files = os.listdir(target_data_path)
+for target_file in target_files:
+    if not os.path.isdir(target_file):
+        with open(target_data_path +"/" + target_file,'r') as target_f:
+            target_data = target_f.read()
+            target_texts.append(target_data)
+            for char in target_data:
+                if char not in target_characters:
+                    target_characters .add(char)
+```
+
 
 > 如果要符合手敲的习惯，还需要考虑键盘中挨得比较近的键作替换。或者其他研究成果给出的容易被替换的字符对。
 
