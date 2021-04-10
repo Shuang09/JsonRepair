@@ -11,7 +11,7 @@
 
 ##文件读取代码：
 - 假设读取json-valid 文件
-- 目的是：Vectorize the data. 即首先将文件夹内所有文件target_texts.append；再以char读出字典，后续sort,每一个char都可用向量表示。例如 target_characters = set(a, b, c); a[1,0,0]
+- 目的是：Vectorize the data. 即首先将文件夹内所有文件target_texts.append；再以char读出字典，后续sort,每一个char都可用向量表示。例如 target_characters = set(a, b, c) -> a[1,0,0]
 ```python
 target_data_path = "./json-valid"
 target_texts = []
