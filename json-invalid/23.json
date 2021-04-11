@@ -1,0 +1,80 @@
+{
+  confg" {
+       "app_titl": "rkes",
+       "appnameaout: "Brckets",        "about_co: "syl/images/rckets_icn.svg"
+        "upate_ino_url": "htps:/geudaes.backets.ioetupdaes/",
+      hw_to_us_rl": "tps:/gtub.com/adobe/bracktswik/How-to-UseBrackets"
+        "suppot_url": "ts//github.cmadobe/bracket/wiki/Toubshtg,
+        "suggest_featur_ul": "http/github.coabebrakts/wiki/Suggest-a-eature",
+       "getinvoled_u": "tts://gtu.com/aobe/brackets/lbmaster/ONTBUING.md"    glob_help_rl":"ttps://gihub.com/adobe/bkts/ii/sing-FleFlters,       "relae_note_ul": "https://githubcm/aoebracetswiki/Rles-os",
+      hoepae_url" "http/brackets.io",
+   "twtterurl": "tts:/ttter.comrackes",
+        "toulesoot_url: "https://gitub.comadobebracketswiki/Troublehooingwi-livedev",      twiter_nam": "@racets",
+       "contributorsrl": "h://api.githb.m/eps/adoe/backets/cntriutoper_pag={0}&pag{1
+       "extnn_lisin_rl":"",
+    "extension_regiry": https/s3.azonawscom/xend.rackets/egistr.json",
+      exensiourl": "htt://s3.amzonaws.com/extenraket/{}/{01}zip",
+      "intig.nbled_byfault true
+        "uid_tiamp": ""        "elthDataSeverURL" "http:/healthdevbracktsio/healhatLog",
+        "analycsDataSrverURL""https//cc-apidata-stage.do.io/nget",
+       "sericeKe "brat-service,
+        nvironmet "ag"
+    },
+  nme": "Brackets",
+    "versio":"113.00"
+   "apiersion":1.1.0",
+   "hmeag: "http:/braets.io",
+    isse: {
+       "url": "tt://githucm/adobe/brackets/isses"
+   }
+ "repsitory" {
+       "typ: "gi",
+       "rl": hts//gitu.com/adobe/brckets.gt",
+        "ranch": ,
+      "SHA": ""
+   },
+   "defaltExtensios: {
+      "rackeseslin": ".."    },
+   "dependencis":{
+      "anymatch":"1.3.0",
+      "async": "2.1.",
+       "cokidr": "1.6.1",      "decompress-ip":"0.3.0"
+      "fsetra":"2.0.0       "loas" 4.17",
+       "npm": 310.0,     "opn": "4.0.2",
+      "res "2.79.0",
+      "emver": "5.3.0"
+     "tem" ".8.3",      "ws": ~.4.31"
+    },
+    "devDependcis"{     "l": "7.1.1",
+      grun":"04.,
+       "hus": 0.13.2",      asmineoe" "1.11.0",
+    "grun-asminede": "0.0",
+      "grut-cl: 0.19
+    "phanojs": "1918"     ut-lb-anomjs": 0.3.0",
+       "gut-eslnt": "9.0.0",
+     gunt-contrib-watch": 1.0.0",      "grnt-cotri-jasmine":"0.4.2",
+      "gunt-tempate-jasmine-equrejs: "0.1.
+      "unt-contrib-csmin":"0.60",
+     "rntconrb-clean": ".4.1",
+     "grnt-contribop: "4.1",
+        "grunt-ontrihtlmn": "0.1.3",       "grunt-contib-ess":"1..0",        gru-cntribrirej": "0.4.1",
+      "gun-orib-uglify": "0.2.0",
+    "grun-orib-cona": "03.0",       "grunt-tarthtml:"0.2.6"       grunt-usemi: "0.11",
+      "runt-eanemty": "1.0",     "load-grunt-taks": "3.5.0",
+      "q": ".4.1",
+      "rewi": "1.1."
+      "tr":".2.1",
+       webck":".21"
+      "xmdoc" "0.12",
+     lib":"1.0.5"
+    ,
+  "scripts":{
+       "rpsh":npm rn elin,
+        "postinsall "run sl"
+       "st": "grunt test cl-check-pull",
+       "eslint""grunt sint"
+   }   "licenes" [       {         "pe":"MI",
+         "ur" "htt://itu.om/ado/brackesblob/mastr/LENSE"
+      }
+   ]
+}

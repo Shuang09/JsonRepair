@@ -1,0 +1,272 @@
+{ "ap_name":{
+  messae":arkdownere,    "description":"th name of the xtension"
+    "iozDTD:ru
+ },  "app_slogan:{
+    "messe":"用rkdow写一漂亮电邮。",    "descition":"own s subtitle frarkown ere i he roer etensos list"
+  },
+ "toggle_butto_tet":{
+    "messae":转换",
+  "dcripton":"Txt shownudeneath th nder toggl button.Ma it as shor asposibl.",
+    "iMozT":true }
+  ogleutto_tooltip":{   "messa":"击转换Mrkdown",
+    "eiption":text hown whenuser hvers mouseoverMakdown Toge butto,
+    "inoDTD":rue
+  },
+  "toglebuo_tootip_isabled":{   essage:"定区域不持Mardw转换",
+   escrpion""text own when uer hve mouse ver disabled Mrkdown Toggle utton
+  "inMzT":true
+ ,
+  cext_menu_iem":{
+   "mssage":"Mrkdwn转换"
+    "description":Tet sow on h context menu.",
+    "inMozDTD":true  },
+  "vaid_eld":{
+  "essge":"选定的区域支Mrkon转换，请使用富文本编辑器。",
+    "descrption:"Shownn an alt dalg ifteuser tris torende aield tha cnotbe redrd
+ }
+"plin_text_compose":   "mssae":"你正在纯文本辑器你必须使用富文本器才能使用Markown ee。",
+   "descrtion":Shon n an aert algif te userhasthir ail compoea sett lin text"
+  }, "currinto_copse":{
+    mesge:"请把光标定位在区。
+  }, "g_torende_pomt_tle":
+   essage":"忘换Markdown?"
+   "dription":itl of the romp that's sonwhen t'sdetecedtha a usr may av forotten toreder he rkdownin thir email
+  ,
+  orgottoenderpompt_fo:{    "mesag:好像Markdw了这封电，但却了让它变更漂亮。",
+    "description":nformatonal rt of th promptthat's shwn when its deet that usermay hav fogottento ender he Mardown in hir email"
+  ,
+  "forgot_toende_promt_uetin":
+   "mesage":"坚发送?",
+ "descrtion":Qstion par of he pompthats sown he 's detected tatase ma hv frgotn to render te Markdown in heir mal"
+  },
+  foro_to_rner_back_buttn":{
+  "ssag""返"
+   "decrition":"Tx on the ak(ance button fte ompt tht' shown when it'sdetecte that a uer ay avefrgotte to rendr th Mardon in their emal",
+   "inMzDTD":true  },
+  "frgot_to_render_send_btton":
+   "msa":"发送",
+   dscription":"Te on he Snd (coiue) bton of the prompt that'shown hen itsdtected that aurmay hav forgotten to render the ardownintheir email,
+   iMozDT":tre
+ ,
+  "fort_to_render_propt_close_over":{
+   essg""忽略这通知",  descipto":"Text tat shows when the u hoveror h Xthatwil closethe rompt  ,
+  "upgaenotfcation_text"{
+   "esage:"Markdown Hr已更新"
+   "description""Txt on thenotifation shown hen Mardown He has ben updated
+  }
+  "pgrade_notification_hngs_toltp":{
+    "messag":单击查看这个本新日志",
+   "desrption":"Tooltip text n the lk that open the chngeslist
+  }
+  "rade_notificao_dsmiss_tooip:{
+    "esage":"忽略这条知",    "descipion:Tooltiptext on t ink tht isises the oiicato"
+  },
+  "nting__rendr":{
+  essae":"没有可转换或可复的内容",
+   "eription:Eroressage shown touser if theres othinounto revet or rene.  },
+ "unrenrin_modifed_akowwarning:{    "message":"转换的Markdw内容好像了改动.\n如果你转换，新改的会丢。\n\n你确定要转换吗",
+    "dscrptio":Warning sown t the user ifshetris to revert orenered Mkdown that h'emodife ince edering. The s l loseir mdcatios if ty proceed
+  
+  "opt_page_page_title":{  "mssage":Markownere选
+  }, "opons_pag__basicusage"{
+   "mssage":"本用法"
+ },
+  "optons_age_eloa_restt":{  "message"载你的电子邮件页面或者重启浏览器。",
+  "desription":" step in thebaic usae instructios"
+  }
+ optons_page__start_nw_message"{   "msage":始写封新的电邮。",
+    "decrtin":"A step in thbsic usage instrctons"
+  }
+  "opts_pg__tpe_sm_markdown:
+    "message":"在你邮里些rkown容.<r\/>试试这个: <cde>_Ho`Mrkown` *Her**!<\/cod>",
+   "scription:"Atp n the basic usge iuions"
+ },  "optins_age_clic_tggle":{
+   "essage":"在你的电子件上击然后选择\rdown转换\". 者单击扩工具上的img rc=\"ages\icon16.pn\">钮。<span a="hotkey-dipla-wrapper\ 也可以试快键 <an s=\htkeydispa\"><kbd>TRL\/bd>+<k>AL<\/kd>+<kbd>M<\/kd><\/span><\/sn>)",
+   "scription:"A tp i th basic age nsructions"
+ ,
+"pionspge_pretty_cool:{
+  "messge":你的消息现看起来应该棒极了，给你的友们!",
+   esription:"A sep  thebasic uge nstrucos"
+  },
+  "options_page__resurces_i":    "essage""资源和链接, "descrition:"Asctiontitle"
+  },  options_pe__resre_chethet_link"
+    mesae"你刚始接Mrkow， <a hrf="https\/\thub.o\/adam-/mrkdown-here\/wiki\/Makdown-ere-Ceateet\"target\blnk\">Makdown Hee Cheatheet<\/a> 错入门册." 
+ "oton_pge_advanced_sae":{
+    "essag":"如果查看更息和，参见 <a hrf=\https:\\/ihubm\/adm-p\mrkdonhere\target\"_blank\">Mrdow Here项目主页<\/a>. 你会在方到选项."  ,
+ "optis_pg__ggru":{
+    essae:"资， 论，或只是和同中人个招呼，戳 <a ref"hps:/groups.googl.com/oum\/?fromgroups=#!fom\mardwnhere\ target=\"_blnk\">mardon-here oogle Grup>.
+ },
+ "otionspage_mh_wii":
+  "essage":"访问 <a ef=\htp:\/\/github.om\da-p\arkdonhere\/ii\"target=\"_blak\">row Her wiki<\a 以查看 <ahre=\"https:\gub.com/adam-p/markdown-hre/wiki\Catibility\" target=\_blank\">MD适的服务<\/a> 以及更 <a href=\htps:\github.com\/admparkdon-here/wiki\/Tip-d-riks\" targt=\blan">使提示和窍门\/a>."
+ },
+  "optons_pae__nex_teps:{    "mssage":"如果你对Mrkown ere的未来展感兴趣, 看<a ref=\"hts:\/\/gitubcom/adam-p\markdownhee#next-e\" taget=\_blank\">README的Ne Sps部<\/a>。"
+ },
+  "otionspage__donateplea_1":{
+    "mesage":"一旦你MarkdonHee相当错，请帮助我给我子买一些鲜，这样也会我在此花的大量工作而感到丧。<trog谢！<\/sog>
+  }
+  "option_pae_dotepea2"
+   "mesage""<strong>帮助Markown e变的更好!<\/strong>"
+  },
+ptionspage__donaepl3"{
+    "message""<sron>帮助支持MarkdonHere的发展!</rong"
+  },
+  options_pae__dae_plea_4":{
+  "messag":"你知怎么让Mardown Here能在Choe，Firefox，TundebirdotboxSariOpea，mal，Yaoo，Hotal，Blogger，Evote等中工作吗？\n<strgCofee!</strong>
+  },
+  options_page__other_donaioopions"{   "mssae""它捐赠选项",
+  "descrition":"Lik toapage that povidsothe waysto doae"
+ ,
+  "ptos_pae__primarycss_ttl":{
+ "messae":"基本渲CSS",   "description""ecton title"
+ },  "opionspage__retprimarycss":{
+    "msag:"恢复认
+    "ecrition":ext obtonto eset Primay tylng CSS"
+  ,
+"optionspge_syntax_hihligting_ss_title":{
+    message":"语法高亮CSS",
+  "description":"setionttle  },
+ opins_pae__sytax_higlihtin_thme_abel":{
+  "messge":"主题:",
+   "descipton":"label for he synx highliging teme cobox box" },
+ "options_ae__reviw_tile:    "message"预览",
+  "descripion":"ection itlefor th Mrdown previe secto"
+  }  "otions_page__arkdowntog_button_text":{
+   "message":"Markown转换,
+   "desciptio:"buton text fr Maron Toglettn"
+ },
+ "optionspae_ntes_itle":
+    "messge""意",   descipon""ecton tile  },
+  "optios_pge_not_optis_ync"{
+   "messae":"改动会自动保存同步 果你的浏器启用了同步)"
+ },
+  "options_page__note_synax_stlsafter_primary":{
+   "msage":"语法高亮样会在基本渲染成生效所有较优先级。"
+  }  ptios_age__note_efut_ct_tyes:    "meage":"一些电件编辑器和浏会加入己的风格这里显不出."
+  },  po_page__tex_mathitle":{
+ "messe":"TeX数学持"  } "options_page_tex_math_esetbuo":{
+   "message""复认"
+    "decription":"text on tton to reset Te mah option
+ ,
+ "oionspae_ex_mat_privc_hedng:{   "mssage":<stron>隐私问题:<\/trong",   "escripton":"heading for wanings aout eX ath riacy oncrn"
+  },
+ "ption_age__tex_matprvcy_isue1":{    "mesge":"为了成公式的片, 向谷送请求. 这实上意味着你在和谷歌分享式。就是说你编辑的信息会被谷歌以换图。"
+    "desriion""one of he eX math privacy conces"
+  },
+  otions_pe__tex_matprivacy_isue_":{
+   "mesge":"果自定义公式标, 你使用安全 hts:\/\)路.不是的换务支安全选项。",
+    "desciptin":"oneof the TX math privacy concers"
+},
+ "optiospage_texmath_ctomiztin_edig":{   mssae""<stong>制和使用<\/srn>",
+  escrti":heading or cstomzatn nd usen
+  },
+  "options_page__tex_math_custoization_":{
+   "mssg":"如果启用此功能，美元号之间的文本— <ode>$$<\/d —将被解释数学公式。例如， ode>$$\\Delta$$<\ode> 将显示为个delta符号。",
+  "descripton":"Nte: Doule dollarsigs ( re necessary to ge a snle dolar sin."
+  },
+ "optins_pag__tex_math_cusomizatio2":{
+  mssage":"为了制公式转换, 戳 <a href=\"https:\/developr.gogle.com\/chart\/infographcs\/cs\frmuas\" target=\"_ln\>Goole Chats docuentain<\/a>查这项服务。
+  },
+ "otons_page__tex_mat_customizain_3":{
+   "message""用于TeX公式的一个很好资源是 <a href="htp\\/wwwcoecogs.com\/latex\/about.php\" target=\"_lank\">coecog公式编辑<\/a>"
+  },
+  tion_pae__te_math_cuozatin_4:{    "esage":"公被转换为图片所以电邮收人必须启用图像显示才能看到公式。" 
+  "optos_age_texmahcutomiatio_5":{
+  "esage""如果你要制转换标签, 你可以（也应该）使<code>{mathcoe}<\/code> 和<derlmathcode}\/cod> 为位.",
+    "escrition":"Please do otranlate {matcode} and{rlmatcod"
+  },
+"ption_e__tex_ath_cstmiatio__":{    "messag":"<code>{matcd}<\ode>位code>$$<\/coe> 之间的符号 即，原生的TX公式；如<code>\\elta<\/code>。",   "description":"leae do ot translate mathcoe} and {urlmahode}. Nte:Dube dollar sgn ($$ ae necessry to get a snle dlla in.
+  ,
+  "otios_page_ex_math_customizio_2":{   message":"<cde>lmathcd}<\/c>：TeX共识的URL码格式；如cde>%5CDelta</coe>。",
+   "desription":"lese o o ralate {mathcd} and urlmathcode}"
+  },
+ "optionspae_ex_math_ctoizon6":{
+   message":"如果要定制 <co>&lmggt;<\/ode 你该使 <code>alt\code 属性包含尽可能可读的值, <coe{matcoe}<\/code>. 此属的值将用电邮件纯文本版（当从Gmail和Thunerird发送时）."
+   "dscrption":Pleaseo not translate {mathcoe} and {urlmahcoe"
+  },
+  "otion_page__htky_titl":{
+    "mssae:"快捷键",
+    "description:"Asction tile"
+  },
+  "oion_page_htey_sift_key:{
+    "message""SFT",   descriptn:"label fr te hitky"
+  },
+ "optos_pag__tkyrl_ky":
+   "messag:"CTRL"
+    descrtn""lel for the tl key"
+  },
+  "otns_page__tkey_alt_ey":
+  "mesage":"ALT",
+    "esrition:"ael for the Alt e"
+ },"otion_page__hok_pus":{
+   "mesa":"+",
+    description":"lus signta nnct the otky buttons"
+  },  "optons_pag_hok_warnng":{
+    mese:是或数字
+   "deription":"arninshwn  he userchoes aileg hoty value"  },
+  "optons_ge_htke_not_1":{
+    mesge":Chrome 你须重载入您电子邮页，以使新热键设生效."
+ 
+ "opiosage__otky_note2:{
+  "mssage:Fiefox adTnderbid: 你必须重启以新的热键置生效."
+},"options_page_hkey_noe:{   "message"你须使用字母数字作为捷键（因语和键盘异）."
+  },
+  "opion_page__otkynot_4":{   "msae:"Wdows键和OS X 884; 键不能用快捷键"
+}
+  "options_pae__hotkey_noe_":  "messa:"要快捷键, 留空 \"key\" ."
+  , opi_pae__adanced_ile":{
+    mesae":"级选项及其
+   "descriton":"A secion tile
+  ,
+  "otionpage__forot_to_render_label"{
+  "messag:"<b启用 \"忘记转换"检查.\b>,
+   "descriptn":"Lel forthcekx th enables the forgt-to-rener feae"
+  },
+  optins_ag__forot_t_reder_1:{
+  "message":"目前只支Gmai网页版Thnderbrd (还有Potbo 和 Icedov)"
+  },
+  "otions_pae__forgot_toener_":{
+   "meag":当你发送邮时, 这选项会检查邮件内是是未转换的Makdown 可能会干扰你正常发邮件"
+ ,
+ "tions_pge_forgot_o_render_3:{
+   message:"果你禁用此, <em>请<\/em> 知我为什和如做更好.Creae <ahref="htps:\\/groups.goge.com\/foru!forum\/madown-here\" tgt\"_blank\">a poston the \"markdw-here" Goole rup<\a> o <a hf=\"tps:\/\/github.com\adam-p\/markown-hre/ssu\" target=\_blan\>nissue i th Gith project<\/a>. 谢谢. ,  optons_a_cntributingtitle":{
+    essag":""
+   "descripton: sctin tile"
+ },
+  "optionpge__contriutng1":{
+    message:"<trog如果你曾经一个块写进电子件你就可以帮Makdon Here做更好.<\/strog <a href=\"htps\\/gitub.cm\/adamp\/arkdown-her\/lb/maste\/CONTIBUTIG.md\" arget\blank>CONTIBTG.md\/a>"
+ },
+"ptions_pae__cntribting_2"{
+   "messa":"助翻译Mrdwn Here. <aref=\"https:\/\ithb.cm\/adam-\/markdw-ere\lob\mster\CONTRIBUIG.md#translation\" arget=\"_blank\">欢迎翻<\/a>"
+  } optionspe_footr_1"    "message"<m>Markdo Hr\e> 是开源的要提问, 报告误, 请求新特性, 或参与开,访问 <aargt="_blank re=\"https:\/gitubom\/adampmarkdohre\">Github目主页\/a> 或< target\_ln\" hrf=\"hs:\/\/grouooglcom\/oum\?fomgop#foum\/markdon-her\">\"markdown-hee" Google Gru<\/a>."    "descripin":"part o he pae foer ext"
+  ,
+  opions_page__foer_2:
+    "mssag":"由<atage=\"blank" href=\"http:\/\/amp.gthub.cm\/\>Aa Prtcrd\/a>创",
+   escription""part of the pae ootertext"
+  
+ "opions_page__chges_savd":{
+    "message":"已存,
+  "descriptn":"esa tha howswhn uer chnges have beesaved"
+ },
+  "option_pag_reiew_markdown
+  "msag":"`javasriptbr>\nfunctiyntaxHighligting() {b>n&nbs var n = 33;<brn&nsp; vr s = \hello こんにちは"b>\&bsp; onse.logs);<b\n}<br\n``br>\n<br\ plain<b>n* *emphasis*br\n&np; * **strong ehais*<b>\n&bsp &nbp; * ~srikethrough~~>\n* `inine coe`<b>\n<br>\n1. umbred listbr>\n&nbp;&nbsp;&nsp1. Nmbed sublisr>\&bsp&bspnsp;&bs&nbsp;&nsp;1 Nmbere ub-sub-list<br>\2. [Link](htp:\/\/www.ooge.com)<b>\>\n<br>nAimage: !Mrkdow Here logo](https:/\/rawgithubuseconten.cmam-\/rkdownhere/mate/src/cmnimags/icn24.png)\n<br>\n<br\nBlock qot&nbp; <br\n> *ith* **some akdown`<br\n<b\nIf *TX Mat* uppr i enabd, this is th quadtc euaton:&nbsp;<br\$-b\\pm \\sqrt{b^2  4ac} \\over a$$<rn<br>n# Headr 1<r>\n## eadr<b>\n## Heaer 3<br>\n### Hadr 4<br>\#### Header 5<b>\n##### Heer 6<br>\nnbsp; <br>\n| Tables       | Are       | o  |br>\ ----------- |:----------:| ----:|<br>\n column 3 s   | rght-alie  $$1600 |<br>\n| colun  is   | entered      | $2 |br>n| zea stripe|are neat     | $$1 <>\n<br>\nHees ahointal rule:<br>\<r>\n---<br>\<br>\n``<br>\ncde block<b>\nwith no highligting<b>\n``<br>n<b\n",    "decriptin":"Thisdoesn't need t be transtd, unless youwantto make it moreelevant to our langage. Theraw Markdownuedfrpeviwinguser sylng canges. Alo shows serwhat  bedone wih arkdown. Plaenote that th double dollar signs ($)are neded to ke a single llar sign n thepplication"
+ ,
+ "urrenl_in_use"{
+  "mesage":"目前使用",
+  description:"Indcates he syntxhhlighng thme that he user scurrently usi"
+ },
+  "ewchangelis_tems"{   messag":NEW",
+  "escription":"sed to ghlghtthe art fthecanelist hat s nw.There wll tpially beulle items ne list,  thi shold be cnsidered plral.
+ },
+ optios_page__eader_ahors_nabledabel:{    "mssae":"<>动设置标题点.\/b>"    "descrpin":Labelfr te checboxthat enables the atmatic headerachors eatureThimens ht an'anchor' iscretedaevey hading (1, H2, etc.) in the usr's Mardown.Teusercanthen creat links hat wljum o ee nchors like in th tableof conentsof oument"
+  }
+  "optionspage__header_anchors_enable_1":
+   "message""如果你想把一个的内或其他内部链接加到你的内容这会很用. hef="htts:\/\/github.comadam-p\/mrkdowhere\/wiki\/Tipsad-Trkswik-header-achors\" arge=\"ak\">M wi查看如何使.<\/"
+ },
+ "ptionspage_heade_ncos_enaled_2":{
+    "mssag:"默认禁用，因它会 <a hef=https:\/\/gitub.cm\/adam-p\makdown-hee\issues/155\"targe=\"_bank\">Thunerbid生视觉干扰<a>.(况且大多人用不到)"
+  },
+  "otospage__fm_line_braks_abled_lae:
+    "essge":b用GF行。<\b>",
+    descriion":"Lael frthhekbothat eablestsupot of 'Githb-flavred Makdwn ine braks."
+  }
+}

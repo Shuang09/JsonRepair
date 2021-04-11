@@ -12,7 +12,7 @@ import os
 from tqdm import tqdm
 
 # check_path = r"../json"
-check_path = r"../json-polluted"
+check_path = r"../input_json"
 
 for file_name in tqdm(os.listdir(check_path)):
     if file_name.split(".")[-1] != "json":

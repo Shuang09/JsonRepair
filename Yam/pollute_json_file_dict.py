@@ -9,7 +9,7 @@ from tqdm import tqdm
 import numpy as np
 
 json_path = r"../json"  # 原始json文件存放路径
-polluted_path = r"../json-polluted"  # 被污染后的json文件存放路径
+polluted_path = r"../input_json"  # 被污染后的json文件存放路径
 temp_file_path = r"./temp_file.npy"
 
 # 路径不存在则新建
