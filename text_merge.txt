@@ -1,0 +1,19 @@
+{
+    "showParameterHint":  [
+        {
+            "key": "Ctrl-Shift-Space"
+        },
+        {
+            "key": "Ctrl-Shift-Space",
+            "platform": "mac"
+        }
+    ]
+}
+{
+  "name": "bytes",
+  "description": "byte size string parser / serializer",
+  "keywords": ["bytes", "utility"],
+  "version": "0.1.0",
+  "scripts": ["index.js"]
+}
+
